@@ -273,7 +273,7 @@ export async function POST(req: Request) {
             body: JSON.stringify({
                 model: "gpt-5-mini", // Using mini for speed and cost-effectiveness
                 messages: [{ role: "system", content: systemPrompt }],
-                max_completion_tokens: 8000,
+                max_completion_tokens: 16384,
                 response_format: { type: "json_object" }
             })
         });
