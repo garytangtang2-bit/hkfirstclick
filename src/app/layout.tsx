@@ -14,7 +14,7 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en" suppressHydrationWarning>
-            <head>
+            <body className="antialiased font-sans selection:bg-[#EEDC00] selection:text-black" suppressHydrationWarning>
                 <Script
                     src="https://emrldco.com/NTAzMTQy.js?t=503142"
                     strategy="lazyOnload"
@@ -22,8 +22,6 @@ export default function RootLayout({
                     data-cfasync="false"
                     data-wpfc-render="false"
                 />
-            </head>
-            <body className="antialiased font-sans selection:bg-[#EEDC00] selection:text-black" suppressHydrationWarning>
                 {children}
             </body>
         </html>
