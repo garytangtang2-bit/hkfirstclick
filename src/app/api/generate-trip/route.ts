@@ -29,24 +29,12 @@ async function getCityIata(cityName: string): Promise<string | null> {
 // Helper: Fetch real flight prices
 async function fetchLiveFlightData(originIata: string, destIata: string, departDate: string, returnDate: string) {
     try {
-        // According to TravelPayouts Data API v1: /v1/prices/cheap endpoint
-        const url = `https://api.travelpayouts.com/v1/prices/cheap?origin=${originIata}&destination=${destIata}&depart_date=${departDate}&return_date=${returnDate}&currency=USD`;
-        const res = await fetch(url, {
-            headers: {
-                "x-access-token": TP_API_TOKEN
-            }
-        });
-
-        if (res.ok) {
-            const data = await res.json();
+        const processFlightData = (data: any) => {
             if (data.success && data.data && data.data[destIata]) {
                 const flightOptions = Object.values(data.data[destIata]);
                 if (flightOptions.length > 0) {
                     const cheapestFlight: any = flightOptions[0]; // Take the first result
-
-                    // Generate Affiliate Link (Kiwi.com standard format)
                     const affiliateLink = `https://www.kiwi.com/en/search/results/${originIata}/${destIata}/${departDate}/${returnDate}?affilid=${TP_MARKER}`;
-
                     return {
                         flightQuote: {
                             outbound: `Flight from ${originIata} to ${destIata} (Airline: ${cheapestFlight.airline})`,
@@ -55,17 +43,36 @@ async function fetchLiveFlightData(originIata: string, destIata: string, departD
                             currency: "USD",
                             bookingUrl: affiliateLink,
                         },
-                        // Provide a placeholder Klook link for hotels
                         hotelQuote: {
                             name: `Recommended Hotel near ${destIata}`,
                             stars: 4,
-                            estCostPerNight: 100, // Average estimate
+                            estCostPerNight: 90, // Average estimate
                             bookingUrl: `https://www.klook.com/search/?searchTerm=${destIata}&aid=${TP_MARKER}`
                         }
                     };
                 }
             }
+            return null;
+        };
+
+        let res = await fetch(`https://api.travelpayouts.com/v1/prices/cheap?origin=${originIata}&destination=${destIata}&depart_date=${departDate}&return_date=${returnDate}&currency=USD`, {
+            headers: { "x-access-token": TP_API_TOKEN }
+        });
+
+        let result = res.ok ? processFlightData(await res.json()) : null;
+
+        // Fallback: If exact dates return no cache, fetch ANY cheap flight for the route to get a price estimate
+        if (!result) {
+            res = await fetch(`https://api.travelpayouts.com/v1/prices/cheap?origin=${originIata}&destination=${destIata}&currency=USD`, {
+                headers: { "x-access-token": TP_API_TOKEN }
+            });
+            result = res.ok ? processFlightData(await res.json()) : null;
         }
+
+        if (result) {
+            return result;
+        }
+
     } catch (err) {
         console.error("TravelPayouts Data API Error:", err);
     }
