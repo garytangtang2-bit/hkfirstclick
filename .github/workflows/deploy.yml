@@ -32,6 +32,7 @@ jobs:
           # Dummy variables required for Next.js to build without crashing
           NEXT_PUBLIC_SUPABASE_URL: "https://example.supabase.co"
           NEXT_PUBLIC_SUPABASE_ANON_KEY: "dummy-key"
+          SUPABASE_SERVICE_ROLE_KEY: "dummy-service-role-key"
           NEXT_PUBLIC_SITE_URL: "http://localhost:3000"
 
   # If deploying to Vercel via GitHub Actions (Optional - Vercel integrates natively usually)
