@@ -8,20 +8,82 @@ const supabaseAdmin = createClient(
 );
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY!;
+const TP_API_TOKEN = process.env.TRAVELPAYOUTS_API_TOKEN || "cc66f5cef74bc5caa83d12b6bf05b37a";
+const TP_MARKER = process.env.TRAVELPAYOUTS_MARKER || "503142";
 
-// Utility to mock fetching live data (Flights, Hotels)
-async function fetchMockTravelData(origin: string, dest: string, dates: any) {
-    // In a real application, you would put Amadeus/Duffel or Booking.com API calls here
+// Helper: Convert User's Text "City Name" to IATA Code (e.g. Taipei -> TPE) using Travelpayouts Autocomplete
+async function getCityIata(cityName: string): Promise<string | null> {
+    try {
+        const res = await fetch(`http://autocomplete.travelpayouts.com/places2?term=${encodeURIComponent(cityName)}&locale=en&types[]=city`);
+        if (!res.ok) return null;
+        const data = await res.json();
+        if (Array.isArray(data) && data.length > 0) {
+            return data[0].code; // Return the most relevant IATA code
+        }
+    } catch (err) {
+        console.error("TravelPayouts Autocomplete Error:", err);
+    }
+    return null;
+}
+
+// Helper: Fetch real flight prices
+async function fetchLiveFlightData(originIata: string, destIata: string, departDate: string, returnDate: string) {
+    try {
+        // According to TravelPayouts Data API v1: /v1/prices/cheap endpoint
+        const url = `https://api.travelpayouts.com/v1/prices/cheap?origin=${originIata}&destination=${destIata}&depart_date=${departDate}&return_date=${returnDate}&currency=USD`;
+        const res = await fetch(url, {
+            headers: {
+                "x-access-token": TP_API_TOKEN
+            }
+        });
+
+        if (res.ok) {
+            const data = await res.json();
+            if (data.success && data.data && data.data[destIata]) {
+                const flightOptions = Object.values(data.data[destIata]);
+                if (flightOptions.length > 0) {
+                    const cheapestFlight: any = flightOptions[0]; // Take the first result
+
+                    // Generate Affiliate Link (Aviasales standard format)
+                    const affiliateLink = `https://search.aviasales.com/flights/?origin_iata=${originIata}&destination_iata=${destIata}&depart_date=${departDate}&return_date=${returnDate}&marker=${TP_MARKER}`;
+
+                    return {
+                        flightQuote: {
+                            outbound: `Flight from ${originIata} to ${destIata} (Airline: ${cheapestFlight.airline})`,
+                            return: `Return from ${destIata} to ${originIata}`, // Simple representation
+                            estCost: cheapestFlight.price, // API returns price in USD
+                            currency: "USD",
+                            bookingUrl: affiliateLink,
+                        },
+                        // We will just provide a mock hotel for now as Hotellook requires more setup, 
+                        // but we can generate an affiliate link pointing to the City's hotel search
+                        hotelQuote: {
+                            name: `Recommended Hotel near ${destIata}`,
+                            stars: 4,
+                            estCostPerNight: 100, // Average estimate
+                            bookingUrl: `https://search.hotellook.com/hotels/?destination=${destIata}&checkIn=${departDate}&checkOut=${returnDate}&marker=${TP_MARKER}`
+                        }
+                    };
+                }
+            }
+        }
+    } catch (err) {
+        console.error("TravelPayouts Data API Error:", err);
+    }
+
+    // Fallback if the API returns nothing or user enters invalid dates
     return {
         flightQuote: {
-            outbound: `Flight ${origin} -> ${dest} at 09:00 AM`,
-            return: `Flight ${dest} -> ${origin} at 05:00 PM`,
+            outbound: `Flight ${originIata} -> ${destIata}`,
+            return: `Flight ${destIata} -> ${originIata}`,
             estCost: 450,
+            bookingUrl: `https://search.aviasales.com/flights/?origin_iata=${originIata}&destination_iata=${destIata}&marker=${TP_MARKER}`
         },
         hotelQuote: {
-            name: `Grand Central ${dest}`,
+            name: `Grand Central ${destIata}`,
             stars: 4,
             estCostPerNight: 120,
+            bookingUrl: `https://search.hotellook.com/hotels/?destination=${destIata}&marker=${TP_MARKER}`
         },
     };
 }
@@ -83,8 +145,13 @@ export async function POST(req: Request) {
             );
         }
 
-        // 2. Fetch Live Quotes from External Travel APIs
-        const liveTravelData = await fetchMockTravelData(origin, destination, dates);
+        // 2. Fetch Live Quotes from TravelPayouts API
+        // First, convert cities to IATA codes
+        const originIata = await getCityIata(origin) || origin;
+        const destIata = await getCityIata(destination) || destination;
+
+        // Fetch Real Flight Data & generate affiliate URLs
+        const liveTravelData = await fetchLiveFlightData(originIata, destIata, dates.start, dates.end);
 
         // 3. System Prompt for OpenAI
         const langInstruction = uiLanguage ? `MUST output responses entirely in ${uiLanguage}.` : "MUST output responses in the user's inferred language based on their input.";
@@ -111,6 +178,7 @@ export async function POST(req: Request) {
     6. **預算衝突與貼心提醒**: 若預算與旅遊風格明顯衝突（如預算不足以支撐奢華風格），請在「advice」欄位開頭給予誠懇的建議，並在預算範圍內提供最接近該風格的替代方案。此外，請在「advice」欄位針對該目的地的天氣、交通或特殊習俗提供 3 點建議。
     7. **Google Maps 連結**: 請在每個景點描述後方加上一個 markdown 連結，格式為 [Google Maps](https://www.google.com/maps/search/?api=1&query=景點名稱)。
     8. **每日行程安排**: 每天的行程 (activities) 必須包含：上午活動、午餐、下午活動、晚餐、住宿建議。若該天為到達日或結束日，請加入交通接送與住宿 Check-in/out，並保留緩衝時間。
+    9. **聯盟行銷連結 (重要)**: 我會在下方提供真實的機票與飯店預訂連結 (bookingUrl)，請你「必須」將這些預訂網址填入 JSON 格式的 bookingUrl 欄位中，不要遺漏。
     
     # Extra Data needed across the app
     - Generate a 'heroImageKeyword' (English only) for an Unsplash background photo.
