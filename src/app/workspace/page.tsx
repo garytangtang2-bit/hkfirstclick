@@ -313,7 +313,7 @@ function WorkspaceContent() {
                                                         type="date"
                                                         value={dates.start}
                                                         onChange={(e) => setDates({ ...dates, start: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors relative z-10 bg-transparent [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent [&::-webkit-datetime-edit]:selection:bg-transparent"
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors relative z-10 bg-transparent [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
                                                     <div className="absolute inset-x-4 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium flex items-center justify-between">
                                                         <span>{dates.start || t.date_ph}</span>
@@ -330,7 +330,7 @@ function WorkspaceContent() {
                                                         type="date"
                                                         value={dates.end}
                                                         onChange={(e) => setDates({ ...dates, end: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors relative z-10 bg-transparent [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent [&::-webkit-datetime-edit]:selection:bg-transparent"
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors relative z-10 bg-transparent [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
                                                     <div className="absolute inset-x-4 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium flex items-center justify-between">
                                                         <span>{dates.end || t.date_ph}</span>
