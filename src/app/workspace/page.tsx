@@ -41,12 +41,16 @@ function WorkspaceContent() {
     const [origin, setOrigin] = useState("");
     const [destination, setDestination] = useState("");
     const [dates, setDates] = useState({ start: "", end: "" });
+    const [flightTimes, setFlightTimes] = useState({ arrival: "14:00", departure: "18:00" });
+    const [hotelInfo, setHotelInfo] = useState("");
 
     // Preferences States  
     const [style, setStyle] = useState("balanced");
     const [purposes, setPurposes] = useState<string[]>([]);
     const [budget, setBudget] = useState("");
     const [requests, setRequests] = useState("");
+    const [groupSize, setGroupSize] = useState({ adults: 2, children: 0 });
+    const [dietary, setDietary] = useState("");
 
     const [loading, setLoading] = useState(false);
     const [exporting, setExporting] = useState(false);
@@ -132,7 +136,9 @@ function WorkspaceContent() {
                     origin,
                     destination,
                     dates,
-                    preferences: { style, purposes, budget, requests },
+                    flightTimes,
+                    hotelInfo,
+                    preferences: { style, purposes, budget, requests, groupSize, dietary },
                     currency,
                     uiLanguage: getPromptLanguage(language),
                 }),
@@ -279,6 +285,22 @@ function WorkspaceContent() {
                     <div className="w-full lg:w-1/3 flex flex-col gap-8">
                         {!itinerary ? (
                             <>
+                                {/* Affiliate Referral Banner */}
+                                <div className="bg-gradient-to-r from-blue-900/20 to-purple-900/20 border border-blue-500/20 rounded-2xl p-6 mb-6">
+                                    <h3 className="text-lg font-bold text-white mb-2 flex items-center gap-2">
+                                        <Luggage size={18} className="text-blue-400" /> {t.banner_title || "Haven't booked flights & hotels yet?"}
+                                    </h3>
+                                    <p className="text-sm text-gray-300 mb-4">{t.banner_desc || "Book first! AI needs your exact flight times and hotel address to calculate precise point-to-point transit and create a flawless itinerary."}</p>
+                                    <div className="flex flex-col sm:flex-row gap-3">
+                                        <a href={`https://search.kiwi.com/?affilid=503142`} target="_blank" rel="noreferrer" className="flex-1 bg-white text-black text-center py-2.5 rounded-xl font-bold text-sm hover:bg-gray-200 transition-colors">
+                                            {t.banner_btn_flight || "Find Cheapest Flights"}
+                                        </a>
+                                        <a href={`https://www.klook.com/search/?searchTerm=&aid=503142`} target="_blank" rel="noreferrer" className="flex-1 bg-[#ff5a5f] text-white text-center py-2.5 rounded-xl font-bold text-sm hover:bg-[#e0484d] transition-colors">
+                                            {t.banner_btn_hotel || "Find Klook Hotels"}
+                                        </a>
+                                    </div>
+                                </div>
+
                                 <div>
                                     <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6">
                                         <div>
@@ -338,6 +360,44 @@ function WorkspaceContent() {
                                                     </div>
                                                 </div>
                                             </div>
+                                        </div>
+
+                                        <div className="grid grid-cols-2 gap-4">
+                                            <div>
+                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                                    <Calendar size={14} /> {t.input_arrival || "Day 1 Arrival Time"}
+                                                </label>
+                                                <input
+                                                    type="time"
+                                                    value={flightTimes.arrival}
+                                                    onChange={(e) => setFlightTimes({ ...flightTimes, arrival: e.target.value })}
+                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
+                                                />
+                                            </div>
+                                            <div>
+                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                                    <Calendar size={14} /> {t.input_departure || "Last Day Departure"}
+                                                </label>
+                                                <input
+                                                    type="time"
+                                                    value={flightTimes.departure}
+                                                    onChange={(e) => setFlightTimes({ ...flightTimes, departure: e.target.value })}
+                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
+                                                />
+                                            </div>
+                                        </div>
+
+                                        <div>
+                                            <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                                <MapPin size={14} /> {t.input_hotel || "Exact Hotel Name or Address"}
+                                            </label>
+                                            <input
+                                                type="text"
+                                                value={hotelInfo}
+                                                onChange={(e) => setHotelInfo(e.target.value)}
+                                                placeholder={t.input_hotel_ph || "e.g., APA Hotel Shinjuku..."}
+                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
+                                            />
                                         </div>
                                     </div>
 
@@ -409,6 +469,31 @@ function WorkspaceContent() {
                                                 className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors resize-none"
                                             />
                                         </div>
+
+                                        <div>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.q_group_title || "Group Composition"}</label>
+                                            <div className="flex gap-4">
+                                                <div className="flex items-center gap-3 bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-2 flex-1">
+                                                    <span className="text-gray-400 text-sm">{t.q_group_adults || "Adults"}</span>
+                                                    <input type="number" min="1" max="20" value={groupSize.adults} onChange={(e) => setGroupSize({ ...groupSize, adults: parseInt(e.target.value) || 1 })} className="bg-transparent text-white w-full outline-none text-right font-bold" />
+                                                </div>
+                                                <div className="flex items-center gap-3 bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-2 flex-1">
+                                                    <span className="text-gray-400 text-sm">{t.q_group_kids || "Children"}</span>
+                                                    <input type="number" min="0" max="20" value={groupSize.children} onChange={(e) => setGroupSize({ ...groupSize, children: parseInt(e.target.value) || 0 })} className="bg-transparent text-white w-full outline-none text-right font-bold" />
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.q_diet_title || "Dietary & Restaurant Requests"}</label>
+                                            <textarea
+                                                placeholder={t.q_diet_ph || "e.g., No beef, Vegan, must eat Ichiran Ramen..."}
+                                                value={dietary}
+                                                onChange={(e) => setDietary(e.target.value)}
+                                                rows={2}
+                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors resize-none"
+                                            />
+                                        </div>
                                     </div>
 
                                     <div className="pt-4 mt-4">
@@ -430,14 +515,14 @@ function WorkspaceContent() {
                         ) : (
                             <div className="sticky top-24">
                                 <div>
-                                    <h1 className="text-3xl font-bold mb-2 text-white">微調您的行程</h1>
-                                    <p className="text-gray-400 text-sm mb-6">不喜歡某個景點？想晚點起床？告訴 AI 編輯您的專屬行程。</p>
+                                    <h1 className="text-3xl font-bold mb-2 text-white">{t.ws_tweak_title || "Fine-tune Your Itinerary"}</h1>
+                                    <p className="text-gray-400 text-sm mb-6">{t.ws_tweak_desc || "Don't like a spot? Want to wake up later? Tell AI to edit your itinerary."}</p>
                                 </div>
                                 <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 flex flex-col gap-4">
                                     <textarea
                                         value={chatMessage}
                                         onChange={(e) => setChatMessage(e.target.value)}
-                                        placeholder="例如：把第一天下午的行程改成適合帶長輩去的無障礙景點，晚上想吃海鮮..."
+                                        placeholder={t.ws_tweak_ph || "e.g., Change Day 1 afternoon to a wheelchair-friendly spot, want seafood for dinner..."}
                                         rows={5}
                                         className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors resize-none"
                                     />
@@ -447,13 +532,13 @@ function WorkspaceContent() {
                                         disabled={loading || !chatMessage.trim()}
                                         className="w-full py-3 rounded-xl font-bold border border-[#EEDC00] text-[#EEDC00] hover:bg-[#EEDC00] hover:text-black transition-colors flex items-center justify-center gap-2 disabled:opacity-50"
                                     >
-                                        {loading ? <><Loader2 size={16} className="animate-spin" /> 處理中...</> : "更新行程"}
+                                        {loading ? <><Loader2 size={16} className="animate-spin" /> {t.ws_tweak_loading || "Processing..."}</> : (t.ws_tweak_btn || "Update Itinerary")}
                                     </button>
                                     <button
                                         onClick={() => setItinerary(null)}
                                         className="w-full py-3 rounded-xl font-bold text-gray-500 hover:text-white transition-colors"
                                     >
-                                        重新規劃全新行程
+                                        {t.ws_tweak_reset || "Reset to Plan New Trip"}
                                     </button>
                                 </div>
                             </div>
@@ -471,7 +556,7 @@ function WorkspaceContent() {
                                         className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors disabled:opacity-50"
                                     >
                                         {exporting ? <Loader2 size={16} className="animate-spin" /> : <Download size={16} />}
-                                        儲存為長截圖 (Save Image)
+                                        {t.ws_export_img || "Save as Image"}
                                     </button>
                                 </div>
                                 <div id="exportable-itinerary" className="bg-[#161616] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
@@ -497,7 +582,7 @@ function WorkspaceContent() {
                                                 {itinerary.flights && (
                                                     <div className="bg-white/5 border border-white/10 rounded-2xl p-4 flex flex-col gap-3">
                                                         <div className="flex items-center gap-2 text-sm text-gray-400 font-bold uppercase tracking-wider">
-                                                            ✈️ 去程航班 {itinerary.flights.outbound?.airline}
+                                                            {t.ws_flight_out || "✈️ Outbound Flight"} {itinerary.flights.outbound?.airline}
                                                         </div>
                                                         <div className="flex justify-between items-center text-white">
                                                             <span className="text-xl font-bold">{itinerary.flights.outbound?.departureTime}</span>
@@ -507,12 +592,12 @@ function WorkspaceContent() {
                                                             <span className="text-xl font-bold">{itinerary.flights.outbound?.arrivalTime}</span>
                                                         </div>
                                                         <div className="bg-red-500/10 text-red-300 text-xs p-2 rounded-lg mt-1 border border-red-500/20">
-                                                            ⚠️ {itinerary.flights.outbound?.airportArrivalInstruction || "建議至少提早2小時到達機場"}
+                                                            ⚠️ {itinerary.flights.outbound?.airportArrivalInstruction || t.ws_flight_warn || "We recommend arriving at least 2 hours early."}
                                                         </div>
                                                         <div className="flex justify-between items-center mt-2 pt-3 border-t border-white/5">
                                                             <span className="text-[#EEDC00] font-bold">{itinerary.flights.outbound?.estCost}</span>
                                                             <a href={itinerary.flights.outbound?.bookingUrl || "#"} target="_blank" rel="noreferrer" className="bg-white text-black text-xs font-bold px-4 py-2 rounded-full hover:bg-gray-200 transition-colors">
-                                                                查看機票
+                                                                {t.ws_btn_flight || "View Flight"}
                                                             </a>
                                                         </div>
                                                     </div>
@@ -521,7 +606,7 @@ function WorkspaceContent() {
                                                 {itinerary.hotel && (
                                                     <div className="bg-white/5 border border-white/10 rounded-2xl p-4 flex flex-col gap-3">
                                                         <div className="flex items-center gap-2 text-sm text-gray-400 font-bold uppercase tracking-wider">
-                                                            🏨 推薦住宿
+                                                            {t.ws_hotel_rec || "🏨 Recommended Hotel"}
                                                         </div>
                                                         <div className="text-lg font-bold text-white mt-1">
                                                             {itinerary.hotel.name}
@@ -533,7 +618,7 @@ function WorkspaceContent() {
                                                         <div className="mt-auto flex justify-between items-center pt-3 border-t border-white/5">
                                                             <span className="text-[#EEDC00] font-bold">{itinerary.hotel.estCost}</span>
                                                             <a href={itinerary.hotel.bookingUrl || "#"} target="_blank" rel="noreferrer" className="bg-white text-black text-xs font-bold px-4 py-2 rounded-full hover:bg-gray-200 transition-colors">
-                                                                預訂飯店
+                                                                {t.ws_btn_hotel || "Book Hotel"}
                                                             </a>
                                                         </div>
                                                     </div>
@@ -586,7 +671,7 @@ function WorkspaceContent() {
                                                                         )}
                                                                         {act.bookingUrl && act.bookingUrl !== "#" && (
                                                                             <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="flex items-center justify-center bg-transparent border border-[#EEDC00]/50 text-[#EEDC00] hover:bg-[#EEDC00]/10 text-xs px-3 py-1.5 rounded-md mt-1 transition-colors h-full max-h-8">
-                                                                                <Ticket size={12} className="mr-1.5" /> 預訂活動
+                                                                                <Ticket size={12} className="mr-1.5" /> {t.ws_act_book || "Book Activity"}
                                                                             </a>
                                                                         )}
                                                                     </div>
@@ -601,22 +686,22 @@ function WorkspaceContent() {
                                         {/* Budget Summary Box */}
                                         <div className="mt-16 bg-[#0E0E0E] border border-white/10 rounded-2xl p-6">
                                             <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
-                                                <DollarSign size={18} className="text-[#EEDC00]" /> 預算追蹤清單
+                                                <DollarSign size={18} className="text-[#EEDC00]" /> {t.ws_budget_title || "Budget Tracker"}
                                             </h3>
                                             <div className="space-y-3">
                                                 <div className="flex justify-between items-center text-sm">
-                                                    <span className="text-gray-400">當前設定總預算</span>
-                                                    <span className="text-white font-mono">{currency} {budget || "未設定"}</span>
+                                                    <span className="text-gray-400">{t.ws_budget_set || "Current Budget Set"}</span>
+                                                    <span className="text-white font-mono">{currency} {budget || t.ws_empty || "Not set"}</span>
                                                 </div>
                                                 <div className="flex justify-between items-center text-sm">
-                                                    <span className="text-gray-400">總計預估花費 (機票+住宿+當地活動)</span>
+                                                    <span className="text-gray-400">{t.ws_budget_est || "Total Est. Cost (Flight + Hotel + Acts)"}</span>
                                                     <span className="text-[#EEDC00] font-mono font-bold text-lg">
                                                         {currency} {calculateTotalBudget(itinerary).toLocaleString()}
                                                     </span>
                                                 </div>
                                                 {budget && !isNaN(Number(budget)) && (
                                                     <div className="flex justify-between items-center text-sm mt-4 pt-4 border-t border-white/10">
-                                                        <span className="text-gray-400">預算結餘</span>
+                                                        <span className="text-gray-400">{t.ws_budget_remain || "Budget Remaining"}</span>
                                                         <span className={`font-mono font-bold ${Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "text-green-400" : "text-red-400"}`}>
                                                             {Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "+" : ""}{currency} {(Number(budget) - calculateTotalBudget(itinerary)).toLocaleString()}
                                                         </span>
@@ -639,9 +724,9 @@ function WorkspaceContent() {
 
                                 <div className="relative z-10 px-8">
                                     <Globe2 size={56} className="text-[#EEDC00] mx-auto mb-6 drop-shadow-[0_0_15px_rgba(238,220,0,0.5)]" />
-                                    <h3 className="text-3xl font-black text-white mb-4 tracking-tight">Ready to explore?</h3>
+                                    <h3 className="text-3xl font-black text-white mb-4 tracking-tight">{t.ws_ready_title || "Ready to explore?"}</h3>
                                     <p className="text-gray-300 max-w-sm mx-auto leading-relaxed">
-                                        Fill out your travel details on the left. Our AI will instantly craft a perfect, personalized daily itinerary for your next adventure.
+                                        {t.ws_ready_desc || "Fill out your travel details on the left. Our AI will instantly craft a perfect, personalized daily itinerary for your next adventure."}
                                     </p>
                                 </div>
                             </div>

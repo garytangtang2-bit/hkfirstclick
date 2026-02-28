@@ -96,7 +96,7 @@ async function fetchLiveFlightData(originIata: string, destIata: string, departD
 
 export async function POST(req: Request) {
     try {
-        const { origin, destination, dates, preferences, currency, uiLanguage } = await req.json();
+        const { origin, destination, dates, flightTimes, hotelInfo, preferences, currency, uiLanguage } = await req.json();
 
         // Calculate trip duration
         const startDate = new Date(dates.start);
@@ -166,24 +166,28 @@ export async function POST(req: Request) {
     
     # User Input Data
     - 目的地：${destination} (出發地: ${origin})
-    - 旅遊天數：${dates.start} to ${dates.end}
-    - 旅遊風格：${preferences.style}
-    - 核心目的：${preferences.purposes.join(", ")}
-    - 整體預算：${preferences.budget} ${currency}
-    - 特殊需求：${preferences.requests}
+    - 旅遊天數：${dates.start} 到 ${dates.end}
+    - 航班時間：Day 1 抵達 ${flightTimes?.arrival || "14:00"} | Last Day 起飛 ${flightTimes?.departure || "18:00"}
+    - 住宿資訊 (錨點)：${hotelInfo || "未說明，請先當作在主要市區"}
+    - 旅遊團體組成：${preferences?.groupSize?.adults || 2} 位成人, ${preferences?.groupSize?.children || 0} 位兒童
+    - 旅遊風格：${preferences?.style}
+    - 核心目的：${preferences?.purposes?.join(", ") || "觀光打卡"}
+    - 整體預算：${preferences?.budget} ${currency}
+    - 飲食限制：${preferences?.dietary || "無"}
+    - 其他特殊需求：${preferences?.requests || "無"}
     
     # Constraints & Logic
-    1. **消費等級控制**：請嚴格遵守 ${preferences.budget} ${currency} 的預算。若為「背包客」，應優先推薦免費或低價景點；若為「奢華享受」，請推薦當地頂級體驗。
-    2. **行程節奏**：
-       - 背包客：行程可以較緊湊，多利用大眾運輸。
-       - 舒適平衡：每天安排 2-3 個主要景點，預留休息時間。
-       - 奢華享受：步調緩慢，強調服務品質與舒適度。
-    3. **目的權重**：請在行程中優先分配時間給 [${preferences.purposes.join(", ")}] 相關的活動。
-    4. **特殊需求**：必須完全滿足此特殊需求: [${preferences.requests}]。
-    5. **語言與視覺化**: ${langInstruction} 請多利用 Emoji 來增加可讀性。
-    6. **預算衝突與貼心提醒**: 若預算與旅遊風格明顯衝突（如預算不足以支撐奢華風格），請在「advice」欄位開頭給予誠懇的建議，並在預算範圍內提供最接近該風格的替代方案。此外，請在「advice」欄位針對該目的地的天氣、交通或特殊習俗提供 3 點建議。
-    7. **Google Maps 連結**: 行程表中的每一個地點（包含景點、活動、餐廳、市場、酒店等），「必須」在描述或地點名稱後方提供可點擊的 Google Maps 連結，建立 Markdown 格式為：[Google Maps](https://www.google.com/maps/search/?api=1&query=確切地點名稱首都市)。
-    8. **每日行程安排**: 每天的行程 (activities) 必須包含：上午活動、午餐、下午活動、晚餐、住宿建議。若該天為到達日或結束日，請加入交通接送與住宿 Check-in/out，並保留緩衝時間。
+    1. **住宿錨點與交通精算 (極度重要)**：每天的行程都「必須」以 ${hotelInfo || "市中心推薦飯店"} 為起點與終點。規劃路線時，必須將「前往該飯店的車程與步行時間」考慮進去，切勿發生東南西北亂跑的無效路線。
+    2. **嚴格時間控管 (第一天與最後一天)**：
+       - Day 1：行程的起始時間，必須是班機抵達 (${flightTimes?.arrival || "14:00"}) 的「至少 2 小時後」（扣除通關與機場交通）。
+       - Last Day：行程的結束時間，必須是班機起飛 (${flightTimes?.departure || "18:00"}) 的「至少 3.5 小時前」（提前抵達機場並扣除交通時間）。
+    3. **消費等級控制**：請嚴格遵守 ${preferences?.budget} ${currency} 的預算。
+    4. **行程節奏與群體適配**：目前有 ${preferences?.groupSize?.children || 0} 名兒童。若超過 0 名小童，步調必須放緩、安排親子友善餐廳與景點。
+    5. **飲食限制嚴格遵守**：必須完全避開 ${preferences?.dietary || "無"} 的餐廳或食物，這是健康與信仰的最高準則。
+    6. **目的權重**：請優先分配時間給 [${preferences?.purposes?.join(", ")}] 相關景點。完全滿足特殊需求: [${preferences?.requests}]。
+    7. **語言與視覺化**: ${langInstruction} 請多利用 Emoji 來增加可讀性。
+    8. **Google Maps 連結**: 行程表中的每一個地點（包含景點、活動、餐廳、酒店等），「必須」附帶可點擊的 Google Maps 連結。格式：[Google Maps](https://www.google.com/maps/search/?api=1&query=確切地點名稱首都市)。
+    9. **每日必備元素**: 每天的行程 (activities) 必須包含：上午活動、午餐、下午活動、晚餐、返回住宿。
     9. **聯盟行銷連結與資料來源 (重要)**:
        - **飯店/住宿**：所有的住宿推薦「必須」且「只能」使用 Klook (客路) 平台。在 JSON 的 \`bookingUrl\` 提供該平台對應該飯店的連結，並務必在網址結尾加上您的追蹤參數 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`。拒絕出現其他任何平台（如 Booking.com、Agoda）。
        - **門票/活動**：若行程需要購買門票（迪士尼、一日遊等），「必須」且「只能」推薦能在 Klook 找到的行程。在 JSON 的 \`ticketUrl\` 填入該平台的商品連結，並附帶參數 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`。
