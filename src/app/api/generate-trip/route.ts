@@ -176,14 +176,17 @@ export async function POST(req: Request) {
     4. **特殊需求**：必須完全滿足此特殊需求: [${preferences.requests}]。
     5. **語言與視覺化**: ${langInstruction} 請多利用 Emoji 來增加可讀性。
     6. **預算衝突與貼心提醒**: 若預算與旅遊風格明顯衝突（如預算不足以支撐奢華風格），請在「advice」欄位開頭給予誠懇的建議，並在預算範圍內提供最接近該風格的替代方案。此外，請在「advice」欄位針對該目的地的天氣、交通或特殊習俗提供 3 點建議。
-    7. **Google Maps 連結**: 請在每個景點描述後方加上一個 markdown 連結，格式為 [Google Maps](https://www.google.com/maps/search/?api=1&query=景點名稱)。
+    7. **Google Maps 連結**: 行程表中的每一個地點（包含景點、活動、餐廳、市場、酒店等），「必須」在描述或地點名稱後方提供可點擊的 Google Maps 連結，建立 Markdown 格式為：[Google Maps](https://www.google.com/maps/search/?api=1&query=確切地點名稱首都市)。
     8. **每日行程安排**: 每天的行程 (activities) 必須包含：上午活動、午餐、下午活動、晚餐、住宿建議。若該天為到達日或結束日，請加入交通接送與住宿 Check-in/out，並保留緩衝時間。
-    9. **聯盟行銷連結 (重要)**: 我會在下方提供真實的機票與飯店預訂連結 (bookingUrl)，請你「必須」將這些預訂網址填入 JSON 格式的 bookingUrl 欄位中，不要遺漏。
+    9. **聯盟行銷連結與資料來源 (重要)**:
+       - **飯店/住宿**：請優先推薦能在 Booking.com, Trip.com, Agoda, Expedia 找到的住宿，並在 JSON 的 \`bookingUrl\` 提供該平台的搜尋連結（請務必在網址最後加上您的追蹤參數 \`?marker=${TP_MARKER}\` 或 \`?aid=${TP_MARKER}\`）。
+       - **門票/活動**：若行程需要購買門票（例如迪士尼樂園、博物館、滑雪體驗），請優先推薦能在 Klook 或 TripAdvisor 找到的行程。在 JSON 的 \`ticketUrl\` 填入該平台的搜尋或商品連結，並附帶參數 \`?marker=${TP_MARKER}\`。
+       - **機票**：必須優先使用我提供在 JSON 資料中的機票 \`bookingUrl\`，不論如何都必須帶有我的 marker。
     
     # Extra Data needed across the app
     - Generate a 'heroImageKeyword' (English only) for an Unsplash background photo.
     - For Budget calculation, you MUST provide an exact 'estCostNumber' (an integer representing the cost in ${currency}). If free, 'estCostNumber' should be 0.
-    - For activities requiring tickets (Theme Parks, Museums), set 'needsTicket: true' and provide a placeholder 'ticketUrl' (e.g., https://klook.com/...).
+    - For activities requiring tickets, MUST set 'needsTicket: true' and provide a valid 'ticketUrl' generated from the rules above.
     
     Here is the live pricing data currently available for their dates:
     Flights: ${JSON.stringify(liveTravelData.flightQuote)}
