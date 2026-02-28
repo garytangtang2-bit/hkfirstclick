@@ -263,39 +263,49 @@ export async function POST(req: Request) {
     }`;
 
         // 4. Call OpenAI API securely
-        const openAIRes = await fetch("https://api.openai.com/v1/chat/completions", {
+        // 4. Call Gemini API securely
+        const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+        if (!GEMINI_API_KEY) {
+            throw new Error("GEMINI_API_KEY is not configured.");
+        }
+
+        const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
             method: "POST",
             headers: {
-                "Content-Type": "application/json",
-                "Authorization": `Bearer ${OPENAI_API_KEY}`
+                "Content-Type": "application/json"
             },
             body: JSON.stringify({
-                model: "gpt-5-mini", // Using mini for speed and cost-effectiveness
-                messages: [{ role: "system", content: systemPrompt }],
-                max_completion_tokens: 16384,
-                reasoning_effort: "low",
-                response_format: { type: "json_object" }
+                systemInstruction: {
+                    parts: [{ text: systemPrompt }]
+                },
+                contents: [{
+                    role: "user",
+                    parts: [{ text: "Please generate the itinerary JSON based on the system instructions." }]
+                }],
+                generationConfig: {
+                    responseMimeType: "application/json",
+                }
             })
         });
 
-        const rawAiRes = await openAIRes.text();
+        const rawAiRes = await geminiRes.text();
         let aiData;
         try {
             aiData = JSON.parse(rawAiRes);
         } catch (e) {
-            console.error("Failed to parse OpenAI response as JSON. Status:", openAIRes.status);
+            console.error("Failed to parse Gemini response as JSON. Status:", geminiRes.status);
             console.error("Raw response body:", rawAiRes);
-            throw new Error(`OpenAI API returned an invalid response (Status ${openAIRes.status}). The model might be unavailable or returning an error page.`);
+            throw new Error(`Gemini API returned an invalid response (Status ${geminiRes.status}).`);
         }
 
-        if (!openAIRes.ok || aiData.error) {
-            const errorMessage = aiData?.error?.message || rawAiRes || "Unknown error from AI";
+        if (!geminiRes.ok || aiData.error) {
+            const errorMessage = aiData?.error?.message || rawAiRes || "Unknown error from Gemini AI";
             throw new Error(errorMessage);
         }
 
         let itineraryJson;
         try {
-            let contentStr = aiData.choices?.[0]?.message?.content || "";
+            let contentStr = aiData.candidates?.[0]?.content?.parts?.[0]?.text || "";
 
             // In case the model ignored "no markdown" and returned ```json ... ```
             contentStr = contentStr.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
