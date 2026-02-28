@@ -44,8 +44,8 @@ async function fetchLiveFlightData(originIata: string, destIata: string, departD
                 if (flightOptions.length > 0) {
                     const cheapestFlight: any = flightOptions[0]; // Take the first result
 
-                    // Generate Affiliate Link (Aviasales standard format)
-                    const affiliateLink = `https://search.aviasales.com/flights/?origin_iata=${originIata}&destination_iata=${destIata}&depart_date=${departDate}&return_date=${returnDate}&marker=${TP_MARKER}`;
+                    // Generate Affiliate Link (Kiwi.com standard format)
+                    const affiliateLink = `https://www.kiwi.com/en/search/results/${originIata}/${destIata}/${departDate}/${returnDate}?affilid=${TP_MARKER}`;
 
                     return {
                         flightQuote: {
@@ -55,13 +55,12 @@ async function fetchLiveFlightData(originIata: string, destIata: string, departD
                             currency: "USD",
                             bookingUrl: affiliateLink,
                         },
-                        // We will just provide a mock hotel for now as Hotellook requires more setup, 
-                        // but we can generate an affiliate link pointing to the City's hotel search
+                        // Provide a placeholder Klook link for hotels
                         hotelQuote: {
                             name: `Recommended Hotel near ${destIata}`,
                             stars: 4,
                             estCostPerNight: 100, // Average estimate
-                            bookingUrl: `https://search.hotellook.com/hotels/?destination=${destIata}&checkIn=${departDate}&checkOut=${returnDate}&marker=${TP_MARKER}`
+                            bookingUrl: `https://www.klook.com/search/?searchTerm=${destIata}&aid=${TP_MARKER}`
                         }
                     };
                 }
@@ -77,13 +76,13 @@ async function fetchLiveFlightData(originIata: string, destIata: string, departD
             outbound: `Flight ${originIata} -> ${destIata}`,
             return: `Flight ${destIata} -> ${originIata}`,
             estCost: 450,
-            bookingUrl: `https://search.aviasales.com/flights/?origin_iata=${originIata}&destination_iata=${destIata}&marker=${TP_MARKER}`
+            bookingUrl: `https://www.kiwi.com/en/search/results/${originIata}/${destIata}?affilid=${TP_MARKER}`
         },
         hotelQuote: {
             name: `Grand Central ${destIata}`,
             stars: 4,
             estCostPerNight: 120,
-            bookingUrl: `https://search.hotellook.com/hotels/?destination=${destIata}&marker=${TP_MARKER}`
+            bookingUrl: `https://www.klook.com/search/?searchTerm=${destIata}&aid=${TP_MARKER}`
         },
     };
 }
@@ -179,9 +178,9 @@ export async function POST(req: Request) {
     7. **Google Maps 連結**: 行程表中的每一個地點（包含景點、活動、餐廳、市場、酒店等），「必須」在描述或地點名稱後方提供可點擊的 Google Maps 連結，建立 Markdown 格式為：[Google Maps](https://www.google.com/maps/search/?api=1&query=確切地點名稱首都市)。
     8. **每日行程安排**: 每天的行程 (activities) 必須包含：上午活動、午餐、下午活動、晚餐、住宿建議。若該天為到達日或結束日，請加入交通接送與住宿 Check-in/out，並保留緩衝時間。
     9. **聯盟行銷連結與資料來源 (重要)**:
-       - **飯店/住宿**：請優先推薦能在 Booking.com, Trip.com, Agoda, Expedia 找到的住宿，並在 JSON 的 \`bookingUrl\` 提供該平台的搜尋連結（請務必在網址最後加上您的追蹤參數 \`?marker=${TP_MARKER}\` 或 \`?aid=${TP_MARKER}\`）。
-       - **門票/活動**：若行程需要購買門票（例如迪士尼樂園、博物館、滑雪體驗），請優先推薦能在 Klook 或 TripAdvisor 找到的行程。在 JSON 的 \`ticketUrl\` 填入該平台的搜尋或商品連結，並附帶參數 \`?marker=${TP_MARKER}\`。
-       - **機票**：必須優先使用我提供在 JSON 資料中的機票 \`bookingUrl\`，不論如何都必須帶有我的 marker。
+       - **飯店/住宿**：所有的住宿推薦「必須」且「只能」使用 Klook (客路) 平台。在 JSON 的 \`bookingUrl\` 提供該平台對應該飯店的連結，並務必在網址結尾加上您的追蹤參數 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`。拒絕出現其他任何平台（如 Booking.com、Agoda）。
+       - **門票/活動**：若行程需要購買門票（迪士尼、一日遊等），「必須」且「只能」推薦能在 Klook 找到的行程。在 JSON 的 \`ticketUrl\` 填入該平台的商品連結，並附帶參數 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`。
+       - **機票**：必須優先使用我提供的 Kiwi.com 機票 \`bookingUrl\`，或者自行生成 Kiwi.com 的搜尋連結，並帶有專屬參數 \`?affilid=${TP_MARKER}\`。
     
     # Extra Data needed across the app
     - Generate a 'heroImageKeyword' (English only) for an Unsplash background photo.
