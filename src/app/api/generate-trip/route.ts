@@ -190,7 +190,11 @@ export async function POST(req: Request) {
     9. **每日必備元素**: 每天的行程 (activities) 必須包含：上午活動、午餐、下午活動、晚餐、返回住宿。
     9. **聯盟行銷連結與資料來源 (重要)**:
        - **飯店/住宿**：所有的住宿推薦「必須」且「只能」使用 Klook (客路) 平台。在 JSON 的 \`bookingUrl\` 提供該平台對應該飯店的連結，並務必在網址結尾加上您的追蹤參數 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`。拒絕出現其他任何平台（如 Booking.com、Agoda）。
-       - **門票/活動**：若行程需要購買門票（迪士尼、一日遊等），「必須」且「只能」推薦能在 Klook 找到的行程。在 JSON 的 \`ticketUrl\` 填入該平台的**搜尋連結**，並將搜尋關鍵字（例如景點名稱）放入 \`query=\` 參數中。連結格式必須長這樣：\`https://www.klook.com/zh-TW/search/result/?aid=api%7C13694%7Cc3c7cbfa255840018213fd600-706940%7Cpid%7C706940&erid=2Vtzqw6jKWc&query=<景點名稱>&aff_pid=706940&utm_medium=affiliate-alwayson&utm_source=network&utm_campaign=13694&utm_term=706940\`。確保所有的活動門票連結都是這種帶有完整追蹤碼的搜尋格式。
+       - **門票/活動與交通票券 (超級重大)**：若行程需要購買門票景點或交通票，必須依照「語言」和「分類」生成對應的專屬 Travelpayouts 追蹤短網址。請將其中的「阿里山」替換成「該景點或交通站點的實際名稱」。
+         1. 如果客戶語言介面為中文，且為「門票/景點」: \`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D<景點名稱>%26sort%3Dmost_relevant%26start%3D1%26tab_key%3D2\` (注意 tab_key=2)
+         2. 如果客戶語言介面為中文，且為「交通票券」: \`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D<交通站點名稱>%26sort%3Dmost_relevant%26start%3D1%26tab_key%3D30\` (注意 tab_key=30)
+         3. 如果客戶語言介面為非中文，且為「門票/景點」: \`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3D<景點名稱>%26sort%3Dmost_relevant%26start%3D1%26tab_key%3D2\` (改為 en-US)
+         4. 如果客戶語言介面為非中文，且為「交通票券」: \`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3FclickId%3Db89bca4fc3%26query%3D<交通站點名稱>%26sort%3Dmost_relevant%26spm%3DSearchResult.TopNavigation.SelectCurrency%26start%3D1%26tab_key%3D30\`
        - **機票**：必須優先使用我提供的 Kiwi.com 機票 \`bookingUrl\`，或者自行生成 Kiwi.com 的搜尋連結，並帶有專屬參數 \`?affilid=${TP_MARKER}\`。
     
     # Extra Data needed across the app
