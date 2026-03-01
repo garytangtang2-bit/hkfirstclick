@@ -329,6 +329,34 @@ function WorkspaceContent() {
 
                     {/* Left Form / Chat Panel */}
                     <div className="w-full lg:w-1/3 flex flex-col gap-8">
+                        {/* Promotional / Affiliate Block */}
+                        <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
+                            <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-[#EEDC00]/10 to-transparent rounded-full blur-2xl -mr-16 -mt-16 pointer-events-none group-hover:from-[#EEDC00]/20 transition-all"></div>
+                            <h3 className="text-white font-bold text-lg mb-3 flex items-center gap-2">
+                                <Luggage size={18} className="text-[#EEDC00]" /> 還沒有訂機票跟飯店嗎？
+                            </h3>
+                            <p className="text-gray-400 text-sm leading-relaxed mb-6">
+                                建議您先完成預訂！有了確切的班機時間與飯店地址，AI 才能為您精算點對點的交通距離，打造不浪費時間的完美行程。
+                            </p>
+                            <div className="flex flex-col sm:flex-row gap-3">
+                                <a
+                                    href="https://kiwi.tp.st/A1934HDE"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="flex-1 bg-white hover:bg-gray-100 text-black font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
+                                >
+                                    搜尋最便宜機票
+                                </a>
+                                <a
+                                    href="https://klook.tp.st/G9T1X4qI"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="flex-1 bg-[#FF5A5F] hover:bg-[#FF4A4F] text-white font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
+                                >
+                                    找尋 Klook 推薦住宿
+                                </a>
+                            </div>
+                        </div>
                         {!itinerary ? (
                             <>
                                 <div>
