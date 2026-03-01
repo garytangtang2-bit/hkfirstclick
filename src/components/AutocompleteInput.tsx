@@ -56,13 +56,33 @@ export default function AutocompleteInput({ value, onChange, placeholder, icon }
 
     // Filter based on Code, City, or Name
     const filteredOptions = airports.filter((airport) => {
+        if (!query) return false;
         const searchStr = query.toLowerCase();
         return (
             airport.code.toLowerCase().includes(searchStr) ||
             airport.city.toLowerCase().includes(searchStr) ||
             airport.name.toLowerCase().includes(searchStr)
         );
+    }).sort((a, b) => {
+        // Boost exact IATA code matches to the top
+        const searchStr = query.toLowerCase();
+        const aExact = a.code.toLowerCase() === searchStr;
+        const bExact = b.code.toLowerCase() === searchStr;
+        if (aExact && !bExact) return -1;
+        if (!aExact && bExact) return 1;
+        return 0;
     }).slice(0, 15); // limit to top 15 results for performance
+
+    const POPULAR_AIRPORTS = [
+        { code: "NRT", city: "Tokyo", name: "Narita International Airport", country: "Japan" },
+        { code: "TPE", city: "Taipei", name: "Taoyuan International Airport", country: "Taiwan" },
+        { code: "KIX", city: "Osaka", name: "Kansai International Airport", country: "Japan" },
+        { code: "ICN", city: "Seoul", name: "Incheon International Airport", country: "South Korea" },
+        { code: "BKK", city: "Bangkok", name: "Suvarnabhumi Airport", country: "Thailand" },
+        { code: "HKG", city: "Hong Kong", name: "Hong Kong International Airport", country: "Hong Kong" },
+    ];
+
+    const displayOptions = query.length === 0 ? POPULAR_AIRPORTS : filteredOptions;
 
     const handleSelect = (airport: AirportData) => {
         const formattedValue = `${airport.city} (${airport.code})`;
@@ -98,14 +118,19 @@ export default function AutocompleteInput({ value, onChange, placeholder, icon }
                 )}
             </div>
 
-            {isOpen && query.length > 0 && !isLoading && (
+            {isOpen && !isLoading && (
                 <div className="absolute z-50 w-full mt-2 bg-[#161616] border border-white/10 rounded-xl shadow-2xl overflow-hidden max-h-60 overflow-y-auto">
-                    {filteredOptions.length > 0 ? (
-                        filteredOptions.map((airport) => (
+                    {query.length === 0 && (
+                        <div className="px-4 py-2 bg-white/5 text-xs font-bold text-gray-400 tracking-widest uppercase sticky top-0 backdrop-blur-md z-10 border-b border-white/5">
+                            熱門機場 (Popular Airports)
+                        </div>
+                    )}
+                    {displayOptions.length > 0 ? (
+                        displayOptions.map((airport) => (
                             <button
                                 type="button"
                                 key={airport.code}
-                                onClick={() => handleSelect(airport)}
+                                onClick={() => handleSelect(airport as AirportData)}
                                 className="w-full text-left px-4 py-3 hover:bg-white/5 flex items-center gap-3 transition-colors border-b border-white/5 last:border-0"
                             >
                                 <div className="bg-white/10 p-2 rounded-lg shrink-0">

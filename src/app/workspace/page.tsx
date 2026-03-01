@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
-import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock } from "lucide-react";
+import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown } from "lucide-react";
 import html2canvas from "html2canvas";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
@@ -36,6 +36,30 @@ function LoadingOverlay() {
 function WorkspaceContent() {
     const { t, currency, language } = useAppContext();
     const supabase = createClient();
+
+    // Time Dropdown Options (30 min increments)
+    const timeOptions = Array.from({ length: 48 }).map((_, i) => {
+        const h = Math.floor(i / 2).toString().padStart(2, '0');
+        const m = (i % 2 === 0) ? '00' : '30';
+        return `${h}:${m}`;
+    });
+
+    // Format Date string aesthetically e.g. "10月15日 (週二)" or "Oct 15 (Tue)"
+    const formatDateString = (dateString: string) => {
+        if (!dateString) return "";
+        try {
+            const date = new Date(dateString);
+            const locales = language?.includes("中文") ? "zh-TW" : "en-US";
+            const options: Intl.DateTimeFormatOptions = {
+                month: "short",
+                day: "numeric",
+                weekday: "short"
+            };
+            return new Intl.DateTimeFormat(locales, options).format(date);
+        } catch {
+            return dateString;
+        }
+    };
 
     // Form States (Base Constraints)
     const [origin, setOrigin] = useState("");
@@ -348,8 +372,8 @@ function WorkspaceContent() {
                                                         onChange={(e) => setDates({ ...dates, start: e.target.value })}
                                                         className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
-                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
-                                                        <span>{dates.start || t.date_ph}</span>
+                                                    <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.start ? 'text-white' : 'text-gray-400'}`}>
+                                                        <span>{formatDateString(dates.start) || t.date_ph}</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -364,11 +388,12 @@ function WorkspaceContent() {
                                                     <input
                                                         type="date"
                                                         value={dates.end}
+                                                        min={dates.start} // Ensure end date cannot be before start date
                                                         onChange={(e) => setDates({ ...dates, end: e.target.value })}
                                                         className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
-                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
-                                                        <span>{dates.end || t.date_ph}</span>
+                                                    <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.end ? 'text-white' : 'text-gray-400'}`}>
+                                                        <span>{formatDateString(dates.end) || t.date_ph}</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -383,14 +408,17 @@ function WorkspaceContent() {
                                                     <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
                                                         <Clock size={18} />
                                                     </div>
-                                                    <input
-                                                        type="time"
+                                                    <select
                                                         value={flightTimes.arrival}
                                                         onChange={(e) => setFlightTimes({ ...flightTimes, arrival: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
-                                                    />
-                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
-                                                        <span>{flightTimes.arrival}</span>
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-10 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 appearance-none cursor-pointer"
+                                                    >
+                                                        {timeOptions.map(time => (
+                                                            <option key={`arr-${time}`} value={time} className="bg-[#161616]">{time}</option>
+                                                        ))}
+                                                    </select>
+                                                    <div className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                        <ChevronDown size={16} />
                                                     </div>
                                                 </div>
                                             </div>
@@ -402,14 +430,17 @@ function WorkspaceContent() {
                                                     <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
                                                         <Clock size={18} />
                                                     </div>
-                                                    <input
-                                                        type="time"
+                                                    <select
                                                         value={flightTimes.departure}
                                                         onChange={(e) => setFlightTimes({ ...flightTimes, departure: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
-                                                    />
-                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
-                                                        <span>{flightTimes.departure}</span>
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-10 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 appearance-none cursor-pointer"
+                                                    >
+                                                        {timeOptions.map(time => (
+                                                            <option key={`dep-${time}`} value={time} className="bg-[#161616]">{time}</option>
+                                                        ))}
+                                                    </select>
+                                                    <div className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                        <ChevronDown size={16} />
                                                     </div>
                                                 </div>
                                             </div>
