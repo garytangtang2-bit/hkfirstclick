@@ -194,7 +194,16 @@ export async function POST(req: Request) {
 "days":[{"date":"2026-02-23","theme":"Arrival","activities":[{"time":"14:00","title":"Lunch","description":"[Google Maps](url) 簡短描述","location":"Address","cost":"${currency} 15","costNumber":15,"needsTicket":true,"ticketUrl":"url_klook"}]}]
 }`;
 
-        // 4. Call Gemini API securely First
+        // 4. Determine Dynamic AI Models based on User Tier
+        let primaryModel = "gemini-2.5-flash"; // Default for Free/Trial
+        let fallbackModel = "gpt-5-nano"; // Default fallback
+
+        if (tier === "PAID" || tier === "PREMIUM") {
+            primaryModel = "gemini-3-flash-preview";
+            fallbackModel = "gpt-5-mini";
+        }
+
+        // 5. Call Gemini API securely First
         const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
         if (!GEMINI_API_KEY) {
             throw new Error("GEMINI_API_KEY is not configured.");
@@ -203,7 +212,7 @@ export async function POST(req: Request) {
         let itineraryJson;
 
         try {
-            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${primaryModel}:generateContent?key=${GEMINI_API_KEY}`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
@@ -249,9 +258,9 @@ export async function POST(req: Request) {
             itineraryJson = JSON.parse(contentStr);
 
         } catch (geminiError: any) {
-            console.warn("⚠️ Gemini Primary Generation Failed (Likely quota limit or JSON error), falling back to OpenAI GPT-4o-mini...", geminiError.message);
+            console.warn(`⚠️ Gemini Primary Generation Failed (${primaryModel}). Likely quota limit or JSON error. Falling back to OpenAI GPT (${fallbackModel})... ERROR:`, geminiError.message);
 
-            // 4.b Fallback to OpenAI gpt-4o-mini if Gemini fails
+            // 5.b Fallback to OpenAI if Gemini fails
             const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
             if (!OPENAI_API_KEY) {
                 throw new Error(`Gemini API failed (${geminiError.message}), and OPENAI_API_KEY is not configured for fallback.`);
@@ -264,7 +273,7 @@ export async function POST(req: Request) {
                     "Authorization": `Bearer ${OPENAI_API_KEY}`
                 },
                 body: JSON.stringify({
-                    model: "gpt-4o-mini",
+                    model: fallbackModel,
                     messages: [
                         { role: "system", content: systemPrompt },
                         { role: "user", content: "Please generate the itinerary JSON based on the system instructions." }
