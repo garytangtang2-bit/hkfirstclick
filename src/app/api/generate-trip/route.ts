@@ -200,7 +200,7 @@ export async function POST(req: Request) {
 
         if (tier === "PAID" || tier === "PREMIUM") {
             primaryModel = "gemini-3-flash-preview";
-            fallbackModel = "gpt-4o"; // Currently 5 mini doesn't exist, using 4o for paid
+            fallbackModel = "gpt-5-mini";
         }
 
         // 5. Call Gemini API securely First
