@@ -169,7 +169,7 @@ export async function POST(req: Request) {
 # 核心規則 (需嚴格遵守)
 1.**住宿錨點與交通**:以${hotelInfo || "市中心"}為起點/終點計算真實通車時間。
 2.**時間控管**:Day1行程從抵達(${flightTimes?.arrival || "14:00"})的2小時後開始。LastDay在起飛(${flightTimes?.departure || "18:00"})的3.5小時前結束。
-3.**極度精簡輸出(節省Token)**:所有 \`description\` 與 \`content\` 必須「極度精簡」，控制在30字內，切勿廢話，並使用Emoji。${langInstruction}
+3.**極度精簡輸出(節省Token)**:所有 \`description\` 與 \`content\` 必須「極度精簡」，控制在50字內，切勿廢話，並使用Emoji。${langInstruction}
 4.**每日元素**:需包含上/下午活動、午/晚餐與返回住宿。所有地點加上[Google Maps](https://www.google.com/maps/search/?api=1&query=名稱)。
 5.**聯盟連結(Klook/Kiwi)**:
 - 住宿:只用Klook, 附上 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`
@@ -194,7 +194,7 @@ export async function POST(req: Request) {
 "days":[{"date":"2026-02-23","theme":"Arrival","activities":[{"time":"14:00","title":"Lunch","description":"[Google Maps](url) 簡短描述","location":"Address","cost":"${currency} 15","costNumber":15,"needsTicket":true,"ticketUrl":"url_klook"}]}]
 }`;
 
-        // 4. Call Gemini API securely First
+        // 4. Determine Models based on User Tier & Call API
         const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
         if (!GEMINI_API_KEY) {
             throw new Error("GEMINI_API_KEY is not configured.");
@@ -202,8 +202,13 @@ export async function POST(req: Request) {
 
         let itineraryJson;
 
+        // Define Models: Free uses 2.5-flash, Paid uses 3-flash
+        const primaryGeminiModel = tier === "TRIAL" ? "gemini-2.5-flash" : "gemini-3-flash";
+        // Note: OpenAI does not have a 'gpt4.1nano' model. Using the standard 'gpt-4o-mini' for lightweight tasks for both tiers.
+        const fallbackOpenAiModel = "gpt-4o-mini";
+
         try {
-            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${primaryGeminiModel}:generateContent?key=${GEMINI_API_KEY}`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
@@ -264,7 +269,7 @@ export async function POST(req: Request) {
                     "Authorization": `Bearer ${OPENAI_API_KEY}`
                 },
                 body: JSON.stringify({
-                    model: "gpt-4o-mini",
+                    model: fallbackOpenAiModel,
                     messages: [
                         { role: "system", content: systemPrompt },
                         { role: "user", content: "Please generate the itinerary JSON based on the system instructions." }
