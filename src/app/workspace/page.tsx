@@ -37,20 +37,27 @@ function WorkspaceContent() {
     const { t, currency, language } = useAppContext();
     const supabase = createClient();
 
-    // Form States
+    // Form States (Base Constraints)
     const [origin, setOrigin] = useState("");
     const [destination, setDestination] = useState("");
     const [dates, setDates] = useState({ start: "", end: "" });
     const [flightTimes, setFlightTimes] = useState({ arrival: "14:00", departure: "18:00" });
     const [hotelInfo, setHotelInfo] = useState("");
 
-    // Preferences States  
-    const [style, setStyle] = useState("balanced");
+    // Group Composition States
+    const [groupSize, setGroupSize] = useState({ adults: 2, children: 0 });
+    const [hasElders, setHasElders] = useState(false);
+    const [accessibility, setAccessibility] = useState(false);
+
+    // Personal Preferences States  
+    const [style, setStyle] = useState("balanced"); // Pace
+    const [transportation, setTransportation] = useState("public");
     const [purposes, setPurposes] = useState<string[]>([]);
     const [budget, setBudget] = useState("");
+    const [dietaryTags, setDietaryTags] = useState<string[]>([]);
+    const [dietaryOther, setDietaryOther] = useState("");
+    const [mustVisit, setMustVisit] = useState("");
     const [requests, setRequests] = useState("");
-    const [groupSize, setGroupSize] = useState({ adults: 2, children: 0 });
-    const [dietary, setDietary] = useState("");
 
     const [loading, setLoading] = useState(false);
     const [exporting, setExporting] = useState(false);
@@ -138,7 +145,18 @@ function WorkspaceContent() {
                     dates,
                     flightTimes,
                     hotelInfo,
-                    preferences: { style, purposes, budget, requests, groupSize, dietary },
+                    preferences: {
+                        style,
+                        transportation,
+                        purposes,
+                        budget,
+                        requests,
+                        mustVisit,
+                        groupSize,
+                        hasElders,
+                        accessibility,
+                        dietary: dietaryTags.length > 0 || dietaryOther ? `${dietaryTags.join(', ')} ${dietaryOther ? `(${dietaryOther})` : ''}` : "無"
+                    },
                     currency,
                     uiLanguage: getPromptLanguage(language),
                 }),
@@ -303,6 +321,10 @@ function WorkspaceContent() {
 
                                 <div>
                                     <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6">
+                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg">
+                                            <span className="bg-[#EEDC00] w-6 h-6 rounded-full flex items-center justify-center text-xs text-black">1</span>
+                                            基礎限制資訊 (Base Constraints)
+                                        </h3>
                                         <div>
                                             <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
                                                 <Globe2 size={14} /> {t.input_origin}
@@ -402,17 +424,95 @@ function WorkspaceContent() {
                                     </div>
 
                                     <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6">
-                                        <h3 className="font-bold flex items-center gap-2 text-white">
+                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg">
+                                            <span className="bg-[#EEDC00] w-6 h-6 rounded-full flex items-center justify-center text-xs text-black">2</span>
+                                            {t.q_group_title || "Group Composition"}
+                                        </h3>
+                                        <div className="grid grid-cols-2 gap-4">
+                                            <div className="flex items-center justify-between bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3">
+                                                <span className="text-gray-300 text-sm font-medium">{t.q_group_adults || "Adults"}</span>
+                                                <input type="number" min="1" max="20" value={groupSize.adults} onChange={(e) => setGroupSize({ ...groupSize, adults: parseInt(e.target.value) || 1 })} className="bg-transparent text-[#EEDC00] w-12 outline-none text-right font-bold" />
+                                            </div>
+                                            <div className="flex items-center justify-between bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3">
+                                                <span className="text-gray-300 text-sm font-medium">{t.q_group_kids || "Children"}</span>
+                                                <input type="number" min="0" max="20" value={groupSize.children} onChange={(e) => setGroupSize({ ...groupSize, children: parseInt(e.target.value) || 0 })} className="bg-transparent text-[#EEDC00] w-12 outline-none text-right font-bold" />
+                                            </div>
+                                        </div>
+
+                                        <div className="space-y-3 pt-2">
+                                            <label className="flex items-center justify-between p-3 rounded-xl border border-white/10 bg-[#0E0E0E] cursor-pointer hover:border-white/30 transition-colors">
+                                                <div>
+                                                    <div className="text-sm font-bold text-gray-200">長輩同行 (Elders)</div>
+                                                    <div className="text-xs text-gray-500 mt-0.5">減少步行距離與爬坡景點</div>
+                                                </div>
+                                                <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
+                                                    <input type="checkbox" checked={hasElders} onChange={(e) => setHasElders(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
+                                                    <div className={`toggle-label block overflow-hidden h-6 rounded-full cursor-pointer transition-colors ${hasElders ? 'bg-[#EEDC00]' : 'bg-gray-600'}`}></div>
+                                                </div>
+                                            </label>
+
+                                            <label className="flex items-center justify-between p-3 rounded-xl border border-white/10 bg-[#0E0E0E] cursor-pointer hover:border-white/30 transition-colors">
+                                                <div>
+                                                    <div className="text-sm font-bold text-gray-200">無障礙/推車友善 (Wheelchair/Stroller)</div>
+                                                    <div className="text-xs text-gray-500 mt-0.5">優先安排平緩友善的動線</div>
+                                                </div>
+                                                <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
+                                                    <input type="checkbox" checked={accessibility} onChange={(e) => setAccessibility(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
+                                                    <div className={`toggle-label block overflow-hidden h-6 rounded-full cursor-pointer transition-colors ${accessibility ? 'bg-[#EEDC00]' : 'bg-gray-600'}`}></div>
+                                                </div>
+                                            </label>
+                                        </div>
+                                    </div>
+
+                                    <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6">
+                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg">
+                                            <span className="bg-[#EEDC00] w-6 h-6 rounded-full flex items-center justify-center text-xs text-black">3</span>
                                             <Sparkles size={16} className="text-[#EEDC00]" /> {t.pref_title}
                                         </h3>
 
                                         <div>
-                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.q1_title}</label>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">飲食禁忌 (Dietary Restrictions)</label>
+                                            <div className="flex flex-wrap gap-2 mb-3">
+                                                {["不吃牛", "全素", "蛋奶素", "不吃生食", "海鮮過敏", "不喝酒", "清真飲食"].map(tag => (
+                                                    <button
+                                                        key={tag}
+                                                        onClick={() => setDietaryTags(prev => prev.includes(tag) ? prev.filter(t => t !== tag) : [...prev, tag])}
+                                                        className={`px-3 py-1.5 rounded-full border text-xs font-bold transition-all flex items-center gap-1.5 ${dietaryTags.includes(tag)
+                                                            ? "bg-red-500/20 border-red-500 text-red-400"
+                                                            : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
+                                                            }`}
+                                                    >
+                                                        {tag}
+                                                    </button>
+                                                ))}
+                                            </div>
+                                            <input
+                                                type="text"
+                                                placeholder="其他特殊飲食需求 (Other dietary needs)..."
+                                                value={dietaryOther}
+                                                onChange={(e) => setDietaryOther(e.target.value)}
+                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-2 text-sm text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
+                                            />
+                                        </div>
+
+                                        <div>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">必去清單 (Must-Visit/Booked)</label>
+                                            <textarea
+                                                placeholder="e.g., 已訂好週三中午米其林餐廳、一定要去清水寺..."
+                                                value={mustVisit}
+                                                onChange={(e) => setMustVisit(e.target.value)}
+                                                rows={2}
+                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors resize-none text-sm"
+                                            />
+                                        </div>
+
+                                        <div>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">步調節奏 (Pace)</label>
                                             <div className="grid grid-cols-3 gap-2">
                                                 {[
-                                                    { id: "backpacker", title: t.style_bp },
+                                                    { id: "relaxed", title: "輕鬆慢活" },
                                                     { id: "balanced", title: t.style_bal },
-                                                    { id: "luxury", title: t.style_lux }
+                                                    { id: "packed", title: "充實踩點" }
                                                 ].map(s => (
                                                     <button
                                                         key={s.id}
@@ -423,6 +523,27 @@ function WorkspaceContent() {
                                                             }`}
                                                     >
                                                         {s.title}
+                                                    </button>
+                                                ))}
+                                            </div>
+                                        </div>
+
+                                        <div>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">交通偏好 (Transportation)</label>
+                                            <div className="grid grid-cols-2 gap-2">
+                                                {[
+                                                    { id: "public", title: "大眾運輸為主" },
+                                                    { id: "taxi", title: "計程車/包車為主" }
+                                                ].map(t_pref => (
+                                                    <button
+                                                        key={t_pref.id}
+                                                        onClick={() => setTransportation(t_pref.id)}
+                                                        className={`p-3 rounded-xl border text-xs font-bold transition-all ${transportation === t_pref.id
+                                                            ? "bg-[#EEDC00]/10 border-[#EEDC00] text-[#EEDC00]"
+                                                            : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
+                                                            }`}
+                                                    >
+                                                        {t_pref.title}
                                                     </button>
                                                 ))}
                                             </div>
@@ -455,7 +576,7 @@ function WorkspaceContent() {
                                                 placeholder={t.q3_ph + currency + " 15000"}
                                                 value={budget}
                                                 onChange={(e) => setBudget(e.target.value)}
-                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
+                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors text-sm"
                                             />
                                         </div>
 
@@ -465,33 +586,8 @@ function WorkspaceContent() {
                                                 placeholder={t.q4_ph}
                                                 value={requests}
                                                 onChange={(e) => setRequests(e.target.value)}
-                                                rows={3}
-                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors resize-none"
-                                            />
-                                        </div>
-
-                                        <div>
-                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.q_group_title || "Group Composition"}</label>
-                                            <div className="flex gap-4">
-                                                <div className="flex items-center gap-3 bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-2 flex-1">
-                                                    <span className="text-gray-400 text-sm">{t.q_group_adults || "Adults"}</span>
-                                                    <input type="number" min="1" max="20" value={groupSize.adults} onChange={(e) => setGroupSize({ ...groupSize, adults: parseInt(e.target.value) || 1 })} className="bg-transparent text-white w-full outline-none text-right font-bold" />
-                                                </div>
-                                                <div className="flex items-center gap-3 bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-2 flex-1">
-                                                    <span className="text-gray-400 text-sm">{t.q_group_kids || "Children"}</span>
-                                                    <input type="number" min="0" max="20" value={groupSize.children} onChange={(e) => setGroupSize({ ...groupSize, children: parseInt(e.target.value) || 0 })} className="bg-transparent text-white w-full outline-none text-right font-bold" />
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div>
-                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.q_diet_title || "Dietary & Restaurant Requests"}</label>
-                                            <textarea
-                                                placeholder={t.q_diet_ph || "e.g., No beef, Vegan, must eat Ichiran Ramen..."}
-                                                value={dietary}
-                                                onChange={(e) => setDietary(e.target.value)}
                                                 rows={2}
-                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors resize-none"
+                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors resize-none text-sm"
                                             />
                                         </div>
                                     </div>
