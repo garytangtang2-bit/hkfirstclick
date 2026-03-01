@@ -162,6 +162,10 @@ export async function POST(req: Request) {
         // 3. System Prompt for OpenAI
         const langInstruction = uiLanguage ? `MUST output responses entirely in ${uiLanguage}.` : "MUST output responses in the user's inferred language based on their input.";
 
+        const premiumSearchInstruction = (tier === "PAID" || tier === "PREMIUM")
+            ? "6.**即時上網搜尋精選(Premium)**: 請務必主動使用上網搜尋功能，查詢該目的地「最新熱門、必去的景點與當季活動」，篩選出網路評價極佳的地點，並排入行程清單中。"
+            : "";
+
         const systemPrompt = `你是一位專業旅遊規劃師，請根據以下條件打造行程。
 # User Input
 目的地:${destination}(出發:${origin})|日期:${dates.start}至${dates.end}|航班:Day1抵達${flightTimes?.arrival || "14:00"},LastDay起飛${flightTimes?.departure || "18:00"}|住宿:${hotelInfo || "市中心"}|人數:${preferences?.groupSize?.adults || 2}大${preferences?.groupSize?.children || 0}小${preferences?.hasElders ? '(含長輩,需減少步行/爬坡)' : ''}${preferences?.accessibility ? '(需無障礙/推車友善環境)' : ''}|風格:${preferences?.style}|交通偏好:${preferences?.transportation === 'taxi' ? '計程車/包車為主' : '大眾運輸為主'}|目的:${preferences?.purposes?.join(",") || "觀光"}|預算:${preferences?.budget}${currency}|飲食限制:${preferences?.dietary || "無"}|必去清單:${preferences?.mustVisit || "無"}|其他需求:${preferences?.requests || "無"}
@@ -178,6 +182,7 @@ export async function POST(req: Request) {
  - JSON 中的 \`location\` 欄位**只能是純文字的景點或地址名稱** (絕對不要寫成 [Google Maps](url))。
  - 每個 activity (除了每日最後一個返回住宿的活動外)，**必須包含 \`transitToNext\` 物件**，提供前往下一個地點的「交通方式與預估時間」。
 5.**真實機票與設定**: 機票資訊請沿用下方【報價參考】。若用戶已明確提供自訂的去程航班或抵達資訊，請在 JSON 中將 \`estCostNumber\` 設為 0 以隱藏無效票價。
+${premiumSearchInstruction}
 - 住宿:只用Klook, 附上 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`
 - 門票/交通券(依語言/類型替換<名稱>):
  (1)中文+景點: \`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D<名稱>%26sort%3Dmost_relevant%26start%3D1%26tab_key%3D2\`
@@ -224,6 +229,7 @@ export async function POST(req: Request) {
                     "Content-Type": "application/json"
                 },
                 body: JSON.stringify({
+                    ...((tier === "PAID" || tier === "PREMIUM") ? { tools: [{ googleSearch: {} }] } : {}),
                     systemInstruction: {
                         parts: [{ text: systemPrompt }]
                     },
