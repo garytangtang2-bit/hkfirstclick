@@ -1,4 +1,4 @@
-import { NextResponse } from "next/server";
+﻿import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
 
 // Use service role key to bypass RLS and update credits securely
@@ -194,7 +194,7 @@ export async function POST(req: Request) {
 "days":[{"date":"2026-02-23","theme":"Arrival","activities":[{"time":"14:00","title":"Lunch","description":"[Google Maps](url) 簡短描述","location":"Address","cost":"${currency} 15","costNumber":15,"needsTicket":true,"ticketUrl":"url_klook"}]}]
 }`;
 
-        // 4. Determine Models based on User Tier & Call API
+        // 4. Call Gemini API securely First
         const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
         if (!GEMINI_API_KEY) {
             throw new Error("GEMINI_API_KEY is not configured.");
@@ -202,13 +202,8 @@ export async function POST(req: Request) {
 
         let itineraryJson;
 
-        // Define Models: Free uses 2.5-flash, Paid uses 3-flash
-        const primaryGeminiModel = tier === "TRIAL" ? "gemini-2.5-flash" : "gemini-3-flash";
-        // Note: OpenAI does not have a 'gpt4.1nano' model. Using the standard 'gpt-4o-mini' for lightweight tasks for both tiers.
-        const fallbackOpenAiModel = "gpt-4o-mini";
-
         try {
-            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${primaryGeminiModel}:generateContent?key=${GEMINI_API_KEY}`, {
+            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
@@ -269,7 +264,7 @@ export async function POST(req: Request) {
                     "Authorization": `Bearer ${OPENAI_API_KEY}`
                 },
                 body: JSON.stringify({
-                    model: fallbackOpenAiModel,
+                    model: "gpt-4o-mini",
                     messages: [
                         { role: "system", content: systemPrompt },
                         { role: "user", content: "Please generate the itinerary JSON based on the system instructions." }
