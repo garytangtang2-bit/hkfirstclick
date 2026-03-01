@@ -777,12 +777,14 @@ function WorkspaceContent() {
                                                                 <span className="text-[#EEDC00] mt-0.5">⚠️</span> <span>{itinerary.flights.outbound?.airportArrivalInstruction || t.ws_flight_warn || "Based on provided data. We recommend arriving at least 2 hours early."}</span>
                                                             </div>
                                                         </div>
-                                                        <div className="flex items-center justify-between mt-2 pt-2 border-t border-white/5">
-                                                            <span className="text-white font-bold">{itinerary.flights.outbound?.estCost || "Included"}</span>
-                                                            <a href={itinerary.flights.outbound?.bookingUrl || "#"} target="_blank" rel="noreferrer" className="bg-[#EEDC00]/10 hover:bg-[#EEDC00]/20 text-[#EEDC00] border border-[#EEDC00]/30 text-xs font-bold px-4 py-2 rounded-lg transition-colors">
-                                                                {t.ws_btn_flight || "查看機票"}
-                                                            </a>
-                                                        </div>
+                                                        {itinerary.flights.outbound?.estCostNumber > 0 && (
+                                                            <div className="flex items-center justify-between mt-2 pt-2 border-t border-white/5">
+                                                                <span className="text-white font-bold">{itinerary.flights.outbound?.estCost}</span>
+                                                                <a href={itinerary.flights.outbound?.bookingUrl || "#"} target="_blank" rel="noreferrer" className="bg-[#EEDC00]/10 hover:bg-[#EEDC00]/20 text-[#EEDC00] border border-[#EEDC00]/30 text-xs font-bold px-4 py-2 rounded-lg transition-colors">
+                                                                    {t.ws_btn_flight || "查看機票"}
+                                                                </a>
+                                                            </div>
+                                                        )}
                                                     </div>
                                                 )}
 
@@ -906,7 +908,7 @@ function WorkspaceContent() {
                                                                                 {/* Location/Address if any */}
                                                                                 {act.location && (
                                                                                     <a
-                                                                                        href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(act.location)}`}
+                                                                                        href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
                                                                                         target="_blank"
                                                                                         rel="noreferrer"
                                                                                         className="inline-flex text-blue-400 hover:text-blue-300 text-xs mt-1.5 items-center gap-1.5 hover:underline transition-colors w-max"
@@ -937,7 +939,21 @@ function WorkspaceContent() {
                                                                         </div>
                                                                     </div>
                                                                 </div>
-
+                                                                {/* Transit Info between activities (Skip after last activity) */}
+                                                                {j < (itinerary.days[activeDayIndex].activities.length - 1) && act.transitToNext && (
+                                                                    <div className="flex gap-4 items-start relative -mt-4 mb-4">
+                                                                        <div className="w-16 shrink-0"></div>
+                                                                        <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
+                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center">
+                                                                                <Route size={10} className="text-gray-400" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3">
+                                                                            <span>{act.transitToNext.duration}</span>
+                                                                            <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">{act.transitToNext.mode}</span>
+                                                                        </div>
+                                                                    </div>
+                                                                )}
 
                                                             </div>
                                                         ))}
