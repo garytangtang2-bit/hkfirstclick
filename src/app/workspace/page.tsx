@@ -89,6 +89,7 @@ function WorkspaceContent() {
 
     const [loading, setLoading] = useState(false);
     const [exporting, setExporting] = useState(false);
+    const [activeDayIndex, setActiveDayIndex] = useState(-1);
     const [error, setError] = useState("");
     const [itinerary, setItinerary] = useState<any>(null);
     const [itineraryId, setItineraryId] = useState<string | null>(null);
@@ -328,7 +329,7 @@ function WorkspaceContent() {
                 <div className="flex flex-col lg:flex-row gap-12">
 
                     {/* Left Form / Chat Panel */}
-                    <div className="w-full lg:w-1/3 flex flex-col gap-8">
+                    <div className="w-full lg:w-1/3 flex flex-col gap-8 lg:sticky lg:top-6 lg:h-max z-20">
                         {/* Promotional / Affiliate Block */}
                         {!itinerary && (
                             <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
@@ -736,7 +737,7 @@ function WorkspaceContent() {
                     </div>
 
                     {/* Right Preview Panel */}
-                    <div className="w-full lg:w-2/3 flex flex-col gap-4 lg:sticky lg:top-6 lg:h-[calc(100vh-48px)] overflow-y-auto hide-scrollbar pb-8">
+                    <div className="w-full lg:w-2/3 flex flex-col gap-4 pb-16">
                         {itinerary ? (
                             <>
                                 <div className="flex justify-end">
@@ -818,179 +819,147 @@ function WorkspaceContent() {
                                     {/* Day Navigation Bar */}
                                     <div className="sticky top-0 z-30 bg-[#161616] border-y border-white/10 px-4 sm:px-8 flex items-center overflow-x-auto hide-scrollbar shadow-md">
                                         <div className="flex items-center gap-6 min-w-max">
-                                            <a href="#overview" className="py-4 text-sm font-bold border-b-2 transition-colors border-transparent text-gray-400 hover:text-white">
+                                            <button onClick={() => setActiveDayIndex(-1)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === -1 ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
                                                 [總覽]
-                                            </a>
+                                            </button>
                                             {itinerary.days?.map((day: any, i: number) => (
-                                                <a key={i} href={`#day-${i + 1}`} className={`py-4 text-sm font-bold border-b-2 transition-colors ${i === 0 ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
-                                                    [{(i + 1) + 1}/{itinerary.days.length + 1} 第 {i + 1} 天]
-                                                </a>
+                                                <button key={i} onClick={() => setActiveDayIndex(i)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === i ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
+                                                    [第 {i + 1} 天]
+                                                </button>
                                             ))}
                                         </div>
                                     </div>
 
-                                    {/* Interactive Map Area */}
-                                    <div id="overview" className="w-full h-[350px] relative border-b border-white/5 bg-[#0E0E0E]">
-                                        <div className="absolute inset-0 bg-cover bg-center opacity-60 mix-blend-luminosity" style={{ backgroundImage: `url('https://maps.googleapis.com/maps/api/staticmap?center=${encodeURIComponent(itinerary.destination || destination)}&zoom=12&size=1000x500&maptype=roadmap&style=element:geometry%7Ccolor:0x212121&style=element:labels.icon%7Cvisibility:off&style=element:labels.text.fill%7Ccolor:0x757575&style=element:labels.text.stroke%7Ccolor:0x212121&style=feature:administrative%7Celement:geometry%7Ccolor:0x757575&style=feature:administrative.country%7Celement:labels.text.fill%7Ccolor:0x9e9e9e&style=feature:administrative.locality%7Celement:labels.text.fill%7Ccolor:0xbdbdbd&style=feature:poi%7Celement:labels.text.fill%7Ccolor:0x757575&style=feature:poi.park%7Celement:geometry%7Ccolor:0x181818&style=feature:poi.park%7Celement:labels.text.fill%7Ccolor:0x616161&style=feature:poi.park%7Celement:labels.text.stroke%7Ccolor:0x1b1b1b&style=feature:road%7Celement:geometry.fill%7Ccolor:0x2c2c2c&style=feature:road%7Celement:labels.text.fill%7Ccolor:0x8a8a8a&style=feature:road.arterial%7Celement:geometry%7Ccolor:0x373737&style=feature:road.highway%7Celement:geometry%7Ccolor:0x3c3c3c&style=feature:road.highway.controlled_access%7Celement:geometry%7Ccolor:0x4e4e4e&style=feature:road.local%7Celement:labels.text.fill%7Ccolor:0x616161&style=feature:transit%7Celement:labels.text.fill%7Ccolor:0x757575&style=feature:water%7Celement:geometry%7Ccolor:0x000000&style=feature:water%7Celement:labels.text.fill%7Ccolor:0x3d3d3d&sensor=false')` }}></div>
+                                    {/* Conditional Render Based on activeDayIndex */}
+                                    {activeDayIndex === -1 ? (
+                                        <>
 
-                                        <div className="absolute left-4 top-4 bg-white rounded shadow text-black text-xs font-medium px-3 py-2 flex items-center gap-2 z-10">
-                                            <MapPin size={14} className="text-blue-500" />
-                                            Map
-                                            <div className="w-[1px] h-3 bg-gray-300 mx-1"></div>
-                                            Day 1
-                                            <ChevronDown size={14} className="text-gray-500" />
-                                        </div>
-                                        <div className="absolute right-4 bottom-6 flex flex-col gap-2 z-10">
-                                            <div className="bg-white rounded-sm shadow p-1.5 cursor-pointer hover:bg-gray-100"><Plus size={16} className="text-gray-700" /></div>
-                                            <div className="bg-white rounded-sm shadow p-1.5 cursor-pointer hover:bg-gray-100"><Minus size={16} className="text-gray-700" /></div>
-                                        </div>
-                                        <div className="absolute right-4 top-4 bg-white rounded-sm shadow p-1.5 cursor-pointer hover:bg-gray-100 z-10"><Maximize size={16} className="text-gray-700" /></div>
 
-                                        <div className="absolute inset-0 pointer-events-none overflow-hidden flex items-center justify-center z-0">
-                                            <div className="relative w-[300px] h-[200px]">
-                                                <svg className="absolute inset-0 w-full h-full overflow-visible">
-                                                    <path d="M 50 20 L 100 150 L 250 80 Z" fill="none" stroke="white" strokeWidth="2" />
-                                                </svg>
-                                                <div className="absolute -top-4 left-10">
-                                                    <div className="w-8 h-8 bg-[#FF7B89] rounded-full flex items-center justify-center text-white font-bold shadow-[0_0_15px_rgba(255,123,137,0.6)] border-2 border-white relative">
-                                                        1
-                                                        <div className="absolute -bottom-2.5 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[5px] border-l-transparent border-r-[5px] border-r-transparent border-t-[6px] border-t-white"></div>
-                                                        <div className="absolute -bottom-1.5 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[4px] border-l-transparent border-r-[4px] border-r-transparent border-t-[5px] border-t-[#FF7B89]"></div>
+                                            {/* Budget Summary Box */}
+                                            <div className="m-8 bg-[#0E0E0E] border border-white/10 rounded-2xl p-6 relative overflow-hidden group">
+                                                <div className="absolute inset-0 bg-gradient-to-br from-[#EEDC00]/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
+                                                <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2 relative z-10">
+                                                    <DollarSign size={18} className="text-[#EEDC00]" /> {t.ws_budget_title || "Budget Tracker"}
+                                                </h3>
+                                                <div className="space-y-3 relative z-10">
+                                                    <div className="flex justify-between items-center text-sm">
+                                                        <span className="text-gray-400">{t.ws_budget_set || "Current Budget Set"}</span>
+                                                        <span className="text-white font-mono">{currency} {budget || t.ws_empty || "Not set"}</span>
                                                     </div>
-                                                </div>
-                                                <div className="absolute top-[135px] left-[85px]">
-                                                    <div className="w-8 h-8 bg-[#FF7B89] rounded-full flex items-center justify-center text-white font-bold shadow-[0_0_15px_rgba(255,123,137,0.6)] border-2 border-white relative">
-                                                        2
-                                                        <div className="absolute -bottom-2.5 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[5px] border-l-transparent border-r-[5px] border-r-transparent border-t-[6px] border-t-white"></div>
-                                                        <div className="absolute -bottom-1.5 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[4px] border-l-transparent border-r-[4px] border-r-transparent border-t-[5px] border-t-[#FF7B89]"></div>
+                                                    <div className="flex justify-between items-center text-sm">
+                                                        <span className="text-gray-400">{t.ws_budget_est || "Total Est. Cost (Flight + Hotel + Acts)"}</span>
+                                                        <span className="text-[#EEDC00] font-mono font-bold text-lg">
+                                                            {currency} {calculateTotalBudget(itinerary).toLocaleString()}
+                                                        </span>
                                                     </div>
-                                                </div>
-                                                <div className="absolute top-[65px] left-[235px]">
-                                                    <div className="w-8 h-8 bg-[#FF7B89] rounded-full flex items-center justify-center text-white font-bold shadow-[0_0_15px_rgba(255,123,137,0.6)] border-2 border-white relative">
-                                                        3
-                                                        <div className="absolute -bottom-2.5 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[5px] border-l-transparent border-r-[5px] border-r-transparent border-t-[6px] border-t-white"></div>
-                                                        <div className="absolute -bottom-1.5 left-1/2 -translate-x-1/2 w-0 h-0 border-l-[4px] border-l-transparent border-r-[4px] border-r-transparent border-t-[5px] border-t-[#FF7B89]"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    {/* Vertical Timeline Section */}
-                                    <div className="bg-[#111111] pb-12 pt-6">
-                                        {itinerary.days?.map((day: any, i: number) => (
-                                            <div key={i} id={`day-${i + 1}`} className="pt-8 px-4 sm:px-8">
-                                                <div className="space-y-0">
-                                                    {day.activities?.map((act: any, j: number) => (
-                                                        <div key={j} className="relative">
-                                                            {/* Time and Marker */}
-                                                            <div className="flex gap-4 items-start">
-                                                                {/* Left Time Column */}
-                                                                <div className="w-16 shrink-0 text-right pt-1">
-                                                                    <div className="text-white font-bold text-sm leading-tight">{act.time.split(' ')[0]}</div>
-                                                                    <div className="text-gray-500 text-xs font-medium">{act.time.split(' ').slice(1).join(' ') || ''}</div>
-                                                                </div>
-
-                                                                {/* Center Line & Node */}
-                                                                <div className="flex flex-col items-center shrink-0 relative w-8 min-h-[100px] -ml-2">
-                                                                    {/* Node Circle */}
-                                                                    <div className="w-8 h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
-                                                                        {j + 1}
-                                                                    </div>
-                                                                    {/* Connecting Line to next activity */}
-                                                                    {j < (day.activities.length - 1) && (
-                                                                        <div className="w-[2px] h-full bg-[#333] absolute top-8 bottom-0"></div>
-                                                                    )}
-                                                                </div>
-
-                                                                {/* Right Content */}
-                                                                <div className="flex-1 pb-8">
-                                                                    <div className="bg-transparent mb-1 flex flex-col sm:flex-row items-start justify-between gap-4">
-                                                                        <div>
-                                                                            <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
-                                                                                {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
-                                                                                {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
-                                                                                {act.title}
-                                                                            </h4>
-
-                                                                            {/* Location/Address if any */}
-                                                                            {act.location && (
-                                                                                <div className="text-gray-400 text-xs mt-1.5 flex items-center gap-1.5">
-                                                                                    {act.location}
-                                                                                </div>
-                                                                            )}
-
-                                                                            {/* Description */}
-                                                                            <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg">
-                                                                                {act.description}
-                                                                            </p>
-                                                                        </div>
-
-                                                                        {/* Actions/Cost */}
-                                                                        <div className="flex flex-col items-end gap-2 shrink-0">
-                                                                            {act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && (
-                                                                                <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded">
-                                                                                    {act.cost}
-                                                                                </span>
-                                                                            )}
-                                                                            {act.bookingUrl && act.bookingUrl !== "#" && (
-                                                                                <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
-                                                                                    {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
-                                                                                </a>
-                                                                            )}
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-
-                                                            {/* Transit Info between activities (Skip after last activity) */}
-                                                            {j < (day.activities.length - 1) && (
-                                                                <div className="flex gap-4 items-start relative -mt-4 mb-4">
-                                                                    <div className="w-16 shrink-0"></div>
-                                                                    <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
-                                                                        <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center">
-                                                                            <Route size={10} className="text-gray-400" />
-                                                                        </div>
-                                                                    </div>
-                                                                    <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3">
-                                                                        <span>約 45 分鐘</span>
-                                                                        <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">減少步行</span>
-                                                                    </div>
-                                                                </div>
-                                                            )}
+                                                    {budget && !isNaN(Number(budget)) && (
+                                                        <div className="flex justify-between items-center text-sm mt-4 pt-4 border-t border-white/10">
+                                                            <span className="text-gray-400">{t.ws_budget_remain || "Budget Remaining"}</span>
+                                                            <span className={`font-mono font-bold ${Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "text-green-400" : "text-red-400"}`}>
+                                                                {Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "+" : ""}{currency} {(Number(budget) - calculateTotalBudget(itinerary)).toLocaleString()}
+                                                            </span>
                                                         </div>
-                                                    ))}
+                                                    )}
                                                 </div>
                                             </div>
-                                        ))}
-                                    </div>
+                                        </>
+                                    ) : (
+                                        <>
 
-                                    {/* Budget Summary Box */}
-                                    <div className="mt-16 bg-[#0E0E0E] border border-white/10 rounded-2xl p-6">
-                                        <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2">
-                                            <DollarSign size={18} className="text-[#EEDC00]" /> {t.ws_budget_title || "Budget Tracker"}
-                                        </h3>
-                                        <div className="space-y-3">
-                                            <div className="flex justify-between items-center text-sm">
-                                                <span className="text-gray-400">{t.ws_budget_set || "Current Budget Set"}</span>
-                                                <span className="text-white font-mono">{currency} {budget || t.ws_empty || "Not set"}</span>
-                                            </div>
-                                            <div className="flex justify-between items-center text-sm">
-                                                <span className="text-gray-400">{t.ws_budget_est || "Total Est. Cost (Flight + Hotel + Acts)"}</span>
-                                                <span className="text-[#EEDC00] font-mono font-bold text-lg">
-                                                    {currency} {calculateTotalBudget(itinerary).toLocaleString()}
-                                                </span>
-                                            </div>
-                                            {budget && !isNaN(Number(budget)) && (
-                                                <div className="flex justify-between items-center text-sm mt-4 pt-4 border-t border-white/10">
-                                                    <span className="text-gray-400">{t.ws_budget_remain || "Budget Remaining"}</span>
-                                                    <span className={`font-mono font-bold ${Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "text-green-400" : "text-red-400"}`}>
-                                                        {Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "+" : ""}{currency} {(Number(budget) - calculateTotalBudget(itinerary)).toLocaleString()}
-                                                    </span>
+
+                                            {/* Vertical Timeline Section for Active Day */}
+                                            <div className="bg-[#111111] pb-12 pt-6">
+                                                <div className="pt-8 px-4 sm:px-8">
+                                                    <div className="space-y-0">
+                                                        {itinerary.days[activeDayIndex]?.activities?.map((act: any, j: number) => (
+                                                            <div key={j} className="relative">
+                                                                {/* Time and Marker */}
+                                                                <div className="flex gap-4 items-start">
+                                                                    {/* Left Time Column */}
+                                                                    <div className="w-16 shrink-0 text-right pt-1">
+                                                                        <div className="text-white font-bold text-sm leading-tight">{act.time.split(' ')[0]}</div>
+                                                                        <div className="text-gray-500 text-xs font-medium">{act.time.split(' ').slice(1).join(' ') || ''}</div>
+                                                                    </div>
+
+                                                                    {/* Center Line & Node */}
+                                                                    <div className="flex flex-col items-center shrink-0 relative w-8 min-h-[100px] -ml-2">
+                                                                        {/* Node Circle */}
+                                                                        <div className="w-8 h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
+                                                                            {j + 1}
+                                                                        </div>
+                                                                        {/* Connecting Line to next activity */}
+                                                                        {j < (itinerary.days[activeDayIndex].activities.length - 1) && (
+                                                                            <div className="w-[2px] h-full bg-[#333] absolute top-8 bottom-0"></div>
+                                                                        )}
+                                                                    </div>
+
+                                                                    {/* Right Content */}
+                                                                    <div className="flex-1 pb-8">
+                                                                        <div className="bg-transparent mb-1 flex flex-col sm:flex-row items-start justify-between gap-4">
+                                                                            <div>
+                                                                                <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
+                                                                                    {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
+                                                                                    {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
+                                                                                    {act.title}
+                                                                                </h4>
+
+                                                                                {/* Location/Address if any */}
+                                                                                {act.location && (
+                                                                                    <a
+                                                                                        href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(act.location)}`}
+                                                                                        target="_blank"
+                                                                                        rel="noreferrer"
+                                                                                        className="inline-flex text-blue-400 hover:text-blue-300 text-xs mt-1.5 items-center gap-1.5 hover:underline transition-colors w-max"
+                                                                                    >
+                                                                                        <MapPin size={14} /> {act.location}
+                                                                                    </a>
+                                                                                )}
+
+                                                                                {/* Description */}
+                                                                                <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg">
+                                                                                    {act.description}
+                                                                                </p>
+                                                                            </div>
+
+                                                                            {/* Actions/Cost */}
+                                                                            <div className="flex flex-col items-end gap-2 shrink-0">
+                                                                                {act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && (
+                                                                                    <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded">
+                                                                                        {act.cost}
+                                                                                    </span>
+                                                                                )}
+                                                                                {act.bookingUrl && act.bookingUrl !== "#" && (
+                                                                                    <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
+                                                                                        {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
+                                                                                    </a>
+                                                                                )}
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                                {/* Transit Info between activities (Skip after last activity) */}
+                                                                {j < (itinerary.days[activeDayIndex].activities.length - 1) && (
+                                                                    <div className="flex gap-4 items-start relative -mt-4 mb-4">
+                                                                        <div className="w-16 shrink-0"></div>
+                                                                        <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
+                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center">
+                                                                                <Route size={10} className="text-gray-400" />
+                                                                            </div>
+                                                                        </div>
+                                                                        <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3">
+                                                                            <span>約 45 分鐘</span>
+                                                                            <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">減少步行</span>
+                                                                        </div>
+                                                                    </div>
+                                                                )}
+                                                            </div>
+                                                        ))}
+                                                    </div>
                                                 </div>
-                                            )}
-                                        </div>
-                                    </div>
+                                            </div>
+                                        </>
+                                    )}
                                 </div>
                             </>
                         ) : (
