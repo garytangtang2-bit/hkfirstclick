@@ -292,10 +292,10 @@ function WorkspaceContent() {
                                     </h3>
                                     <p className="text-sm text-gray-300 mb-4">{t.banner_desc || "Book first! AI needs your exact flight times and hotel address to calculate precise point-to-point transit and create a flawless itinerary."}</p>
                                     <div className="flex flex-col sm:flex-row gap-3">
-                                        <a href={`https://search.kiwi.com/?affilid=503142`} target="_blank" rel="noreferrer" className="flex-1 bg-white text-black text-center py-2.5 rounded-xl font-bold text-sm hover:bg-gray-200 transition-colors">
+                                        <a href="https://kiwi.tpo.mx/KwEXKMTT?erid=2VtzquYMmhE" target="_blank" rel="noreferrer" className="flex-1 bg-white text-black text-center py-2.5 rounded-xl font-bold text-sm hover:bg-gray-200 transition-colors">
                                             {t.banner_btn_flight || "Find Cheapest Flights"}
                                         </a>
-                                        <a href={`https://www.klook.com/search/?searchTerm=&aid=503142`} target="_blank" rel="noreferrer" className="flex-1 bg-[#ff5a5f] text-white text-center py-2.5 rounded-xl font-bold text-sm hover:bg-[#e0484d] transition-colors">
+                                        <a href={language?.includes("中文") ? "https://klook.tpo.mx/88XZcNo7?erid=2Vtzqw6jKWc" : "https://klook.tpo.mx/octd9aXV?erid=2Vtzqw6jKWc"} target="_blank" rel="noreferrer" className="flex-1 bg-[#ff5a5f] text-white text-center py-2.5 rounded-xl font-bold text-sm hover:bg-[#e0484d] transition-colors">
                                             {t.banner_btn_hotel || "Find Klook Hotels"}
                                         </a>
                                     </div>
