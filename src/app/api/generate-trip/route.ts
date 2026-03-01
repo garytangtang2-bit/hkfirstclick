@@ -196,11 +196,11 @@ export async function POST(req: Request) {
 
         // 4. Determine Dynamic AI Models based on User Tier
         let primaryModel = "gemini-2.5-flash"; // Default for Free/Trial
-        let fallbackModel = "o3-mini"; // Default fallback
+        let fallbackModel = "gpt-4o-mini"; // Default fallback
 
         if (tier === "PAID" || tier === "PREMIUM") {
             primaryModel = "gemini-3-flash-preview";
-            fallbackModel = "o1-mini";
+            fallbackModel = "gpt-4o"; // Currently 5 mini doesn't exist, using 4o for paid
         }
 
         // 5. Call Gemini API securely First
