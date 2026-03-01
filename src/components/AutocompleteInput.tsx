@@ -72,10 +72,10 @@ export default function AutocompleteInput({ value, onChange, placeholder, icon }
     };
 
     return (
-        <div ref={wrapperRef} className="relative w-full">
+        <div ref={wrapperRef} className="relative w-full group">
             <div className="relative">
                 {icon && (
-                    <div className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400">
+                    <div className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 group-hover:text-white transition-colors z-10">
                         {icon}
                     </div>
                 )}
@@ -89,10 +89,10 @@ export default function AutocompleteInput({ value, onChange, placeholder, icon }
                     }}
                     onFocus={() => setIsOpen(true)}
                     placeholder={placeholder}
-                    className={`w-full bg-[#0E0E0E] border border-white/10 rounded-xl py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors ${icon ? 'pl-11 pr-4' : 'px-4'}`}
+                    className={`w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 ${icon ? 'pl-11 pr-4' : 'px-4'}`}
                 />
                 {isLoading && isOpen && (
-                    <div className="absolute right-4 top-1/2 -translate-y-1/2">
+                    <div className="absolute right-4 top-1/2 -translate-y-1/2 z-10">
                         <div className="animate-spin rounded-full h-4 w-4 border-2 border-[#EEDC00] border-t-transparent"></div>
                     </div>
                 )}

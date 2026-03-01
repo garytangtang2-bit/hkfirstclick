@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
-import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info } from "lucide-react";
+import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock } from "lucide-react";
 import html2canvas from "html2canvas";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
@@ -333,6 +333,7 @@ function WorkspaceContent() {
                                                 value={origin}
                                                 onChange={setOrigin}
                                                 placeholder={t.input_origin_ph}
+                                                icon={<PlaneTakeoff size={18} />}
                                             />
                                         </div>
 
@@ -344,6 +345,7 @@ function WorkspaceContent() {
                                                 value={destination}
                                                 onChange={setDestination}
                                                 placeholder={t.input_dest_ph}
+                                                icon={<PlaneLanding size={18} />}
                                             />
                                         </div>
 
@@ -352,16 +354,18 @@ function WorkspaceContent() {
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
                                                     <Calendar size={14} /> {t.date_start}
                                                 </label>
-                                                <div className="relative">
+                                                <div className="relative group">
+                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                        <Calendar size={18} />
+                                                    </div>
                                                     <input
                                                         type="date"
                                                         value={dates.start}
                                                         onChange={(e) => setDates({ ...dates, start: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors relative z-10 bg-transparent [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
-                                                    <div className="absolute inset-x-4 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium flex items-center justify-between">
+                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
                                                         <span>{dates.start || t.date_ph}</span>
-                                                        <Calendar size={18} className="text-gray-500" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -369,16 +373,18 @@ function WorkspaceContent() {
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
                                                     <Calendar size={14} /> {t.date_end}
                                                 </label>
-                                                <div className="relative">
+                                                <div className="relative group">
+                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                        <Calendar size={18} />
+                                                    </div>
                                                     <input
                                                         type="date"
                                                         value={dates.end}
                                                         onChange={(e) => setDates({ ...dates, end: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors relative z-10 bg-transparent [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
-                                                    <div className="absolute inset-x-4 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium flex items-center justify-between">
+                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
                                                         <span>{dates.end || t.date_ph}</span>
-                                                        <Calendar size={18} className="text-gray-500" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -387,25 +393,41 @@ function WorkspaceContent() {
                                         <div className="grid grid-cols-2 gap-4">
                                             <div>
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
-                                                    <Calendar size={14} /> {t.input_arrival || "Day 1 Arrival Time"}
+                                                    <Clock size={14} /> {t.input_arrival || "Day 1 Arrival Time"}
                                                 </label>
-                                                <input
-                                                    type="time"
-                                                    value={flightTimes.arrival}
-                                                    onChange={(e) => setFlightTimes({ ...flightTimes, arrival: e.target.value })}
-                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
-                                                />
+                                                <div className="relative group">
+                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                        <Clock size={18} />
+                                                    </div>
+                                                    <input
+                                                        type="time"
+                                                        value={flightTimes.arrival}
+                                                        onChange={(e) => setFlightTimes({ ...flightTimes, arrival: e.target.value })}
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                    />
+                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
+                                                        <span>{flightTimes.arrival}</span>
+                                                    </div>
+                                                </div>
                                             </div>
                                             <div>
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
-                                                    <Calendar size={14} /> {t.input_departure || "Last Day Departure"}
+                                                    <Clock size={14} /> {t.input_departure || "Last Day Departure"}
                                                 </label>
-                                                <input
-                                                    type="time"
-                                                    value={flightTimes.departure}
-                                                    onChange={(e) => setFlightTimes({ ...flightTimes, departure: e.target.value })}
-                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
-                                                />
+                                                <div className="relative group">
+                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                        <Clock size={18} />
+                                                    </div>
+                                                    <input
+                                                        type="time"
+                                                        value={flightTimes.departure}
+                                                        onChange={(e) => setFlightTimes({ ...flightTimes, departure: e.target.value })}
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                    />
+                                                    <div className="absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 text-white font-medium">
+                                                        <span>{flightTimes.departure}</span>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
 
@@ -413,13 +435,18 @@ function WorkspaceContent() {
                                             <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
                                                 <MapPin size={14} /> {t.input_hotel || "Exact Hotel Name or Address"}
                                             </label>
-                                            <input
-                                                type="text"
-                                                value={hotelInfo}
-                                                onChange={(e) => setHotelInfo(e.target.value)}
-                                                placeholder={t.input_hotel_ph || "e.g., APA Hotel Shinjuku..."}
-                                                className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
-                                            />
+                                            <div className="relative group">
+                                                <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                    <MapPin size={18} />
+                                                </div>
+                                                <input
+                                                    type="text"
+                                                    value={hotelInfo}
+                                                    onChange={(e) => setHotelInfo(e.target.value)}
+                                                    placeholder={t.input_hotel_ph || "e.g., APA Hotel Shinjuku..."}
+                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0"
+                                                />
+                                            </div>
                                         </div>
                                     </div>
 
