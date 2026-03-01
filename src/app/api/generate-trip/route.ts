@@ -278,8 +278,7 @@ export async function POST(req: Request) {
                         { role: "system", content: systemPrompt },
                         { role: "user", content: "Please generate the itinerary JSON based on the system instructions." }
                     ],
-                    response_format: { type: "json_object" },
-                    temperature: 0.7
+                    response_format: { type: "json_object" }
                 })
             });
 

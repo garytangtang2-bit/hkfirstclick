@@ -330,33 +330,35 @@ function WorkspaceContent() {
                     {/* Left Form / Chat Panel */}
                     <div className="w-full lg:w-1/3 flex flex-col gap-8">
                         {/* Promotional / Affiliate Block */}
-                        <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
-                            <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-[#EEDC00]/10 to-transparent rounded-full blur-2xl -mr-16 -mt-16 pointer-events-none group-hover:from-[#EEDC00]/20 transition-all"></div>
-                            <h3 className="text-white font-bold text-lg mb-3 flex items-center gap-2">
-                                <Luggage size={18} className="text-[#EEDC00]" /> 還沒有訂機票跟飯店嗎？
-                            </h3>
-                            <p className="text-gray-400 text-sm leading-relaxed mb-6">
-                                建議您先完成預訂！有了確切的班機時間與飯店地址，AI 才能為您精算點對點的交通距離，打造不浪費時間的完美行程。
-                            </p>
-                            <div className="flex flex-col sm:flex-row gap-3">
-                                <a
-                                    href="https://kiwi.tp.st/A1934HDE"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="flex-1 bg-white hover:bg-gray-100 text-black font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
-                                >
-                                    搜尋最便宜機票
-                                </a>
-                                <a
-                                    href="https://klook.tp.st/G9T1X4qI"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="flex-1 bg-[#FF5A5F] hover:bg-[#FF4A4F] text-white font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
-                                >
-                                    找尋 Klook 推薦住宿
-                                </a>
+                        {!itinerary && (
+                            <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
+                                <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-[#EEDC00]/10 to-transparent rounded-full blur-2xl -mr-16 -mt-16 pointer-events-none group-hover:from-[#EEDC00]/20 transition-all"></div>
+                                <h3 className="text-white font-bold text-lg mb-3 flex items-center gap-2">
+                                    <Luggage size={18} className="text-[#EEDC00]" /> 還沒有訂機票跟飯店嗎？
+                                </h3>
+                                <p className="text-gray-400 text-sm leading-relaxed mb-6">
+                                    建議您先完成預訂！有了確切的班機時間與飯店地址，AI 才能為您精算點對點的交通距離，打造不浪費時間的完美行程。
+                                </p>
+                                <div className="flex flex-col sm:flex-row gap-3">
+                                    <a
+                                        href="https://kiwi.tp.st/A1934HDE"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="flex-1 bg-white hover:bg-gray-100 text-black font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
+                                    >
+                                        搜尋最便宜機票
+                                    </a>
+                                    <a
+                                        href="https://klook.tp.st/G9T1X4qI"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="flex-1 bg-[#FF5A5F] hover:bg-[#FF4A4F] text-white font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
+                                    >
+                                        找尋 Klook 推薦住宿
+                                    </a>
+                                </div>
                             </div>
-                        </div>
+                        )}
                         {!itinerary ? (
                             <>
                                 <div>
@@ -437,14 +439,11 @@ function WorkspaceContent() {
                                                     <Clock size={14} /> {t.input_arrival || "Day 1 Arrival Time"}
                                                 </label>
                                                 <div className="relative group grid grid-cols-2 gap-2">
-                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
-                                                        <Clock size={18} />
-                                                    </div>
                                                     <div className="relative">
                                                         <select
                                                             value={parseTime(flightTimes.arrival).h}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${e.target.value}:${parseTime(flightTimes.arrival).m}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
                                                             {hourOptions.map(h => <option key={`arr-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
                                                         </select>
@@ -456,7 +455,7 @@ function WorkspaceContent() {
                                                         <select
                                                             value={parseTime(flightTimes.arrival).m}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${parseTime(flightTimes.arrival).h}:${e.target.value}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
                                                             {minuteOptions.map(m => <option key={`arr-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
                                                         </select>
@@ -471,14 +470,11 @@ function WorkspaceContent() {
                                                     <Clock size={14} /> {t.input_departure || "Last Day Departure"}
                                                 </label>
                                                 <div className="relative group grid grid-cols-2 gap-2">
-                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
-                                                        <Clock size={18} />
-                                                    </div>
                                                     <div className="relative">
                                                         <select
                                                             value={parseTime(flightTimes.departure).h}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${e.target.value}:${parseTime(flightTimes.departure).m}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
                                                             {hourOptions.map(h => <option key={`dep-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
                                                         </select>
@@ -490,7 +486,7 @@ function WorkspaceContent() {
                                                         <select
                                                             value={parseTime(flightTimes.departure).m}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${parseTime(flightTimes.departure).h}:${e.target.value}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
                                                             {minuteOptions.map(m => <option key={`dep-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
                                                         </select>
@@ -515,7 +511,7 @@ function WorkspaceContent() {
                                                     value={hotelInfo}
                                                     onChange={(e) => setHotelInfo(e.target.value)}
                                                     placeholder={t.input_hotel_ph || "e.g., APA Hotel Shinjuku..."}
-                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0"
+                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 text-ellipsis overflow-hidden whitespace-nowrap"
                                                 />
                                             </div>
                                         </div>
@@ -740,7 +736,7 @@ function WorkspaceContent() {
                     </div>
 
                     {/* Right Preview Panel */}
-                    <div className="w-full lg:w-2/3 flex flex-col gap-4">
+                    <div className="w-full lg:w-2/3 flex flex-col gap-4 lg:sticky lg:top-6 lg:h-[calc(100vh-48px)] overflow-y-auto hide-scrollbar pb-8">
                         {itinerary ? (
                             <>
                                 <div className="flex justify-end">
