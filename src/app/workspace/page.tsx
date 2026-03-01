@@ -342,7 +342,7 @@ function WorkspaceContent() {
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-3">
                                     <a
-                                        href="https://kiwi.tp.st/A1934HDE"
+                                        href="https://kiwi.tpo.mx/KwEXKMTT?erid=2VtzquYMmhE"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="flex-1 bg-white hover:bg-gray-100 text-black font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
@@ -350,7 +350,7 @@ function WorkspaceContent() {
                                         搜尋最便宜機票
                                     </a>
                                     <a
-                                        href="https://klook.tp.st/G9T1X4qI"
+                                        href="https://klook.tpo.mx/CUx1vPPs?erid=2Vtzqw6jKWc"
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="flex-1 bg-[#FF5A5F] hover:bg-[#FF4A4F] text-white font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
@@ -938,21 +938,7 @@ function WorkspaceContent() {
                                                                     </div>
                                                                 </div>
 
-                                                                {/* Transit Info between activities (Skip after last activity) */}
-                                                                {j < (itinerary.days[activeDayIndex].activities.length - 1) && (
-                                                                    <div className="flex gap-4 items-start relative -mt-4 mb-4">
-                                                                        <div className="w-16 shrink-0"></div>
-                                                                        <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
-                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center">
-                                                                                <Route size={10} className="text-gray-400" />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3">
-                                                                            <span>約 45 分鐘</span>
-                                                                            <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">減少步行</span>
-                                                                        </div>
-                                                                    </div>
-                                                                )}
+
                                                             </div>
                                                         ))}
                                                     </div>

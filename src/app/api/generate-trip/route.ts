@@ -167,11 +167,14 @@ export async function POST(req: Request) {
 目的地:${destination}(出發:${origin})|日期:${dates.start}至${dates.end}|航班:Day1抵達${flightTimes?.arrival || "14:00"},LastDay起飛${flightTimes?.departure || "18:00"}|住宿:${hotelInfo || "市中心"}|人數:${preferences?.groupSize?.adults || 2}大${preferences?.groupSize?.children || 0}小${preferences?.hasElders ? '(含長輩,需減少步行/爬坡)' : ''}${preferences?.accessibility ? '(需無障礙/推車友善環境)' : ''}|風格:${preferences?.style}|交通偏好:${preferences?.transportation === 'taxi' ? '計程車/包車為主' : '大眾運輸為主'}|目的:${preferences?.purposes?.join(",") || "觀光"}|預算:${preferences?.budget}${currency}|飲食限制:${preferences?.dietary || "無"}|必去清單:${preferences?.mustVisit || "無"}|其他需求:${preferences?.requests || "無"}
 
 # 核心規則 (需嚴格遵守)
-1.**住宿錨點與交通**:以${hotelInfo || "市中心"}為起點/終點計算真實通車時間。
-2.**時間控管**:Day1行程從抵達(${flightTimes?.arrival || "14:00"})的2小時後開始。LastDay在起飛(${flightTimes?.departure || "18:00"})的3.5小時前結束。
-3.**極度精簡輸出(節省Token)**:所有 \`description\` 與 \`content\` 必須「極度精簡」，控制在50字內，切勿廢話，並使用Emoji。${langInstruction}
-4.**每日元素**:需包含上/下午活動、午/晚餐與返回住宿。所有地點加上[Google Maps](https://www.google.com/maps/search/?api=1&query=名稱)。
-5.**聯盟連結(Klook/Kiwi)**:
+1.**住宿分配**: 若用戶有提供住宿資訊 (${hotelInfo || "無"})，請完全直接複製名稱，不要重新推薦。若需推薦，**必須是位於 ${destination} 境內的真實飯店/旅館**，絕對不可推薦活動或景點，且不可跨國/跨區推薦(如去日本卻推薦南京的飯店)。
+2.**時間控管與邏輯性**:
+ - Day1 從抵達的 2 小時後開始。LastDay **必須排定提早 2.5 到 3 小時抵達機場**。
+ - 行程安排**必須極度符合現實邏輯與實際地理距離**。請考慮真實的**營業開放時間** (勿於深夜安排博物館、商店等)。
+ - 活動前後順序需合理，例如泡完溫泉適合休息或用餐，而非去圖書館。相近的地點應排在同一天。
+3.**極度精簡輸出(節省Token)**: 所有 \`description\` 與 \`content\` 必須控制在50字內，切勿廢話，並使用Emoji。${langInstruction}
+4.**地點文字格式**: JSON 中的 \`location\` 欄位**只能是純文字的景點或地址名稱** (例如「台北101」)，**絕對不可以使用 Markdown 格式或加入超連結** (絕對不要寫成 [Google Maps](url))，否則會導致 UI 崩潰。
+5.**真實機票與連結(Klook/Kiwi)**: 機票資訊請直接沿用下方提供的【報價參考】資料，不可自行捏造。
 - 住宿:只用Klook, 附上 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`
 - 門票/交通券(依語言/類型替換<名稱>):
  (1)中文+景點: \`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D<名稱>%26sort%3Dmost_relevant%26start%3D1%26tab_key%3D2\`
@@ -188,10 +191,10 @@ export async function POST(req: Request) {
 {
 "destination":"City",
 "heroImageKeyword":"english keyword",
-"flights":{"outbound":{"airline":"A","departureTime":"09:00","arrivalTime":"11:00","airportArrivalInstruction":"Desc","estCost":"${currency} 450","estCostNumber":450,"bookingUrl":"url_kiwi"},"return":{"airline":"A","departureTime":"17:00","arrivalTime":"19:00","airportArrivalInstruction":"Desc","estCost":"Inc","estCostNumber":0,"bookingUrl":"url_kiwi"}},
+"flights":{"outbound":{"airline":"A","departureTime":"09:00","arrivalTime":"11:00","airportArrivalInstruction":"Desc","estCost":"${currency} 450","estCostNumber":450,"bookingUrl":"url_kiwi"},"return":{"airline":"A","departureTime":"17:00","arrivalTime":"19:00","airportArrivalInstruction":"提早三小時抵達機場","estCost":"Inc","estCostNumber":0,"bookingUrl":"url_kiwi"}},
 "hotel":{"name":"Hotel","checkIn":"15:00","checkOut":"11:00","estCost":"${currency} 120/nt","estCostNumber":480,"bookingUrl":"url_klook"},
 "adviceArr":[{"title":"住宿交通","content":"原因"},{"title":"路線邏輯","content":"原因"},{"title":"行前準備","content":"準備"},{"title":"須知","content":"須知"}],
-"days":[{"date":"2026-02-23","theme":"Arrival","activities":[{"time":"14:00","title":"Lunch","description":"[Google Maps](url) 簡短描述","location":"Address","cost":"${currency} 15","costNumber":15,"needsTicket":true,"ticketUrl":"url_klook"}]}]
+"days":[{"date":"2026-02-23","theme":"Arrival","activities":[{"time":"14:00","title":"Lunch","description":"簡短描述 (不可有超連結)","location":"真實地點名稱","cost":"${currency} 15","costNumber":15,"needsTicket":true,"ticketUrl":"url_klook"}]}]
 }`;
 
         // 4. Determine Dynamic AI Models based on User Tier
