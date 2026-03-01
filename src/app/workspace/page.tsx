@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
-import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize } from "lucide-react";
+import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon } from "lucide-react";
 import html2canvas from "html2canvas";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
@@ -94,6 +94,63 @@ function WorkspaceContent() {
     const [itinerary, setItinerary] = useState<any>(null);
     const [itineraryId, setItineraryId] = useState<string | null>(null);
     const [chatMessage, setChatMessage] = useState("");
+
+    // Wikimedia Image Caching States
+    const [activityImages, setActivityImages] = useState<Record<string, string>>({});
+    const [fetchingImages, setFetchingImages] = useState<Record<string, boolean>>({});
+
+    const fetchWikimediaImage = async (keyword: string, fallbackKeyword: string, activityId: string) => {
+        if (activityImages[activityId] || fetchingImages[activityId]) return;
+
+        setFetchingImages(prev => ({ ...prev, [activityId]: true }));
+
+        try {
+            // First try
+            let res = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&prop=pageimages&titles=${encodeURIComponent(keyword)}&pithumbsize=500&format=json&origin=*`);
+            let data = await res.json();
+            let pages = data.query?.pages;
+            let pageId = Object.keys(pages || {})[0];
+            let imageUrl = pages?.[pageId]?.thumbnail?.source;
+
+            // Fallback try
+            if (!imageUrl && fallbackKeyword) {
+                res = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&prop=pageimages&titles=${encodeURIComponent(fallbackKeyword)}&pithumbsize=500&format=json&origin=*`);
+                data = await res.json();
+                pages = data.query?.pages;
+                pageId = Object.keys(pages || {})[0];
+                imageUrl = pages?.[pageId]?.thumbnail?.source;
+            }
+
+            if (imageUrl) {
+                setActivityImages(prev => ({ ...prev, [activityId]: imageUrl }));
+            } else {
+                // Use default placeholder
+                setActivityImages(prev => ({ ...prev, [activityId]: "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop" }));
+            }
+        } catch (e) {
+            console.error("Failed to fetch image", e);
+            setActivityImages(prev => ({ ...prev, [activityId]: "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop" }));
+        } finally {
+            setFetchingImages(prev => ({ ...prev, [activityId]: false }));
+        }
+    };
+
+    // Trigger image fetches when the day changes
+    useEffect(() => {
+        if (activeDayIndex >= 0 && itinerary?.days?.[activeDayIndex]?.activities) {
+            itinerary.days[activeDayIndex].activities.forEach((act: any, idx: number) => {
+                const activityId = `${activeDayIndex}-${idx}-${act.title}`;
+                // Skip if it is hotel or flight departure (usually doesn't need a picture)
+                if (act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住')) {
+                    return;
+                }
+                const primaryKeyword = act.imageSearchKeyword || act.location || act.title;
+                const fallbackKeyword = `${itinerary.destination || destination} travel`;
+                fetchWikimediaImage(primaryKeyword, fallbackKeyword, activityId);
+            });
+        }
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [activeDayIndex, itinerary]);
 
     const SP_PURPOSES = [
         { id: "sightseeing", label: t.purp_sight, icon: "📸" },
@@ -896,45 +953,71 @@ function WorkspaceContent() {
                                                                     </div>
 
                                                                     {/* Right Content */}
-                                                                    <div className="flex-1 pb-8">
-                                                                        <div className="bg-transparent mb-1 flex flex-col sm:flex-row items-start justify-between gap-4">
-                                                                            <div>
-                                                                                <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
-                                                                                    {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
-                                                                                    {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
-                                                                                    {act.title}
-                                                                                </h4>
+                                                                    <div className="flex-1 pb-8 w-full overflow-hidden">
+                                                                        <div className="bg-transparent mb-1 flex flex-col lg:flex-row items-start gap-4 lg:gap-5 w-full">
+                                                                            {/* Wikimedia Image Container */}
+                                                                            {!(act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) && (
+                                                                                <div className="w-full lg:w-[240px] shrink-0 rounded-xl overflow-hidden aspect-video bg-[#1A1A1A] border border-white/5 relative group">
+                                                                                    {fetchingImages[`${activeDayIndex}-${j}-${act.title}`] || !activityImages[`${activeDayIndex}-${j}-${act.title}`] ? (
+                                                                                        <div className="absolute inset-0 flex items-center justify-center bg-[#1A1A1A] animate-pulse">
+                                                                                            <ImageIcon size={24} className="text-gray-600" />
+                                                                                        </div>
+                                                                                    ) : (
+                                                                                        <>
+                                                                                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                                                                                            <img
+                                                                                                src={activityImages[`${activeDayIndex}-${j}-${act.title}`]}
+                                                                                                alt={act.title}
+                                                                                                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                                                                                                loading="lazy"
+                                                                                            />
+                                                                                            <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent pt-6 pb-1 px-2 text-[9px] text-white/50 text-right z-10 pointer-events-none">
+                                                                                                Photo via Wikimedia
+                                                                                            </div>
+                                                                                        </>
+                                                                                    )}
+                                                                                </div>
+                                                                            )}
 
-                                                                                {/* Location/Address if any */}
-                                                                                {act.location && (
-                                                                                    <a
-                                                                                        href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
-                                                                                        target="_blank"
-                                                                                        rel="noreferrer"
-                                                                                        className="inline-flex text-blue-400 hover:text-blue-300 text-xs mt-1.5 items-center gap-1.5 hover:underline transition-colors w-max"
-                                                                                    >
-                                                                                        <MapPin size={14} /> {act.location}
-                                                                                    </a>
-                                                                                )}
+                                                                            <div className="flex-1 flex flex-col sm:flex-row items-start justify-between gap-4 w-full">
+                                                                                <div>
+                                                                                    <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
+                                                                                        {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
+                                                                                        {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
+                                                                                        {act.title}
+                                                                                    </h4>
 
-                                                                                {/* Description */}
-                                                                                <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg">
-                                                                                    {act.description}
-                                                                                </p>
-                                                                            </div>
+                                                                                    {/* Location/Address if any */}
+                                                                                    {act.location && (
+                                                                                        <a
+                                                                                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
+                                                                                            target="_blank"
+                                                                                            rel="noreferrer"
+                                                                                            className="inline-flex text-blue-400 hover:text-blue-300 text-xs mt-1.5 items-center gap-1.5 hover:underline transition-colors w-max"
+                                                                                        >
+                                                                                            <MapPin size={14} /> {act.location}
+                                                                                        </a>
+                                                                                    )}
 
-                                                                            {/* Actions/Cost */}
-                                                                            <div className="flex flex-col items-end gap-2 shrink-0">
-                                                                                {act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && (
-                                                                                    <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded">
-                                                                                        {act.cost}
-                                                                                    </span>
-                                                                                )}
-                                                                                {act.bookingUrl && act.bookingUrl !== "#" && (
-                                                                                    <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
-                                                                                        {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
-                                                                                    </a>
-                                                                                )}
+                                                                                    {/* Description */}
+                                                                                    <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg">
+                                                                                        {act.description}
+                                                                                    </p>
+                                                                                </div>
+
+                                                                                {/* Actions/Cost */}
+                                                                                <div className="flex flex-col items-start sm:items-end gap-2 shrink-0">
+                                                                                    {act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && (
+                                                                                        <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded">
+                                                                                            {act.cost}
+                                                                                        </span>
+                                                                                    )}
+                                                                                    {act.bookingUrl && act.bookingUrl !== "#" && (
+                                                                                        <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
+                                                                                            {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
+                                                                                        </a>
+                                                                                    )}
+                                                                                </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>

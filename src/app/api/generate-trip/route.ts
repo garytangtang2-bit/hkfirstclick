@@ -181,6 +181,7 @@ export async function POST(req: Request) {
 4.**地點與交通文字格式**: 
  - JSON 中的 \`location\` 欄位**只能是純文字的景點或地址名稱** (絕對不要寫成 [Google Maps](url))。
  - 每個 activity (除了每日最後一個返回住宿的活動外)，**必須包含 \`transitToNext\` 物件**，提供前往下一個地點的「交通方式與預估時間」。
+ - 每個 activity **必須包含 \`imageSearchKeyword\` 欄位**，提供該地點的**官方或常用英文名稱** (例如 "Taipei 101" 或 "Senso-ji Temple")，專門用於後續自動搜尋 Wikimedia 圖庫。如果是普通吃飯或逛街，請給當地通用的英文景點關鍵字。
 5.**真實機票與設定**: 機票資訊請沿用下方【報價參考】。若用戶已明確提供自訂的去程航班或抵達資訊，請在 JSON 中將 \`estCostNumber\` 設為 0 以隱藏無效票價。
 ${premiumSearchInstruction}
 - 住宿:只用Klook, 附上 \`?aid=${TP_MARKER}&af_wid=${TP_MARKER}\`
@@ -202,7 +203,7 @@ ${premiumSearchInstruction}
 "flights":{"outbound":{"airline":"A","departureTime":"09:00","arrivalTime":"11:00","airportArrivalInstruction":"Desc","estCost":"${currency} 450","estCostNumber":450,"bookingUrl":"url_kiwi"},"return":{"airline":"A","departureTime":"17:00","arrivalTime":"19:00","airportArrivalInstruction":"提早三小時抵達機場","estCost":"Inc","estCostNumber":0,"bookingUrl":"url_kiwi"}},
 "hotel":{"name":"Hotel","checkIn":"15:00","checkOut":"11:00","estCost":"${currency} 120/nt","estCostNumber":480,"bookingUrl":"url_klook"},
 "adviceArr":[{"title":"住宿交通","content":"原因"},{"title":"路線邏輯","content":"原因"},{"title":"行前準備","content":"準備"},{"title":"須知","content":"須知"}],
-"days":[{"date":"2026-02-23","theme":"Arrival","activities":[{"time":"14:00","title":"從住宿出發","description":"準備開始精彩旅程","location":"真實地點名稱","cost":"0","costNumber":0,"needsTicket":false,"transitToNext":{"mode":"捷運 (機場專線)","duration":"約 45 分鐘"}}]}]
+"days":[{"date":"2026-02-23","theme":"Arrival","activities":[{"time":"14:00","title":"從住宿出發","description":"準備開始精彩旅程","location":"真實地點名稱","imageSearchKeyword":"English Keyword for Place","cost":"0","costNumber":0,"needsTicket":false,"transitToNext":{"mode":"捷運 (機場專線)","duration":"約 45 分鐘"}}]}]
 }`;
 
         // 4. Determine Dynamic AI Models based on User Tier
