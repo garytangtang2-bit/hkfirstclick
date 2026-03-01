@@ -277,62 +277,101 @@ export async function POST(req: Request) {
       ]
     }`;
 
-        // 4. Call OpenAI API securely
-        // 4. Call Gemini API securely
+        // 4. Call Gemini API securely First
         const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
         if (!GEMINI_API_KEY) {
             throw new Error("GEMINI_API_KEY is not configured.");
         }
 
-        const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                systemInstruction: {
-                    parts: [{ text: systemPrompt }]
-                },
-                contents: [{
-                    role: "user",
-                    parts: [{ text: "Please generate the itinerary JSON based on the system instructions." }]
-                }],
-                generationConfig: {
-                    responseMimeType: "application/json",
-                }
-            })
-        });
-
-        const rawAiRes = await geminiRes.text();
-        let aiData;
-        try {
-            aiData = JSON.parse(rawAiRes);
-        } catch (e) {
-            console.error("Failed to parse Gemini response as JSON. Status:", geminiRes.status);
-            console.error("Raw response body:", rawAiRes);
-            throw new Error(`Gemini API returned an invalid response (Status ${geminiRes.status}).`);
-        }
-
-        if (!geminiRes.ok || aiData.error) {
-            const errorMessage = aiData?.error?.message || rawAiRes || "Unknown error from Gemini AI";
-            throw new Error(errorMessage);
-        }
-
         let itineraryJson;
-        try {
-            let contentStr = aiData.candidates?.[0]?.content?.parts?.[0]?.text || "";
 
-            // In case the model ignored "no markdown" and returned ```json ... ```
+        try {
+            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    systemInstruction: {
+                        parts: [{ text: systemPrompt }]
+                    },
+                    contents: [{
+                        role: "user",
+                        parts: [{ text: "Please generate the itinerary JSON based on the system instructions." }]
+                    }],
+                    generationConfig: {
+                        responseMimeType: "application/json",
+                    }
+                })
+            });
+
+            const rawAiRes = await geminiRes.text();
+            let aiData;
+
+            if (!geminiRes.ok) {
+                throw new Error(`Gemini API Error (Status ${geminiRes.status}): ${rawAiRes}`);
+            }
+
+            try {
+                aiData = JSON.parse(rawAiRes);
+            } catch (e) {
+                throw new Error(`Gemini API returned an invalid JSON response.`);
+            }
+
+            if (aiData.error) {
+                throw new Error(aiData.error.message || "Unknown error from Gemini API");
+            }
+
+            let contentStr = aiData.candidates?.[0]?.content?.parts?.[0]?.text || "";
             contentStr = contentStr.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
 
             if (!contentStr) {
-                throw new Error("Content string is empty");
+                throw new Error("Gemini Content string is empty");
             }
 
             itineraryJson = JSON.parse(contentStr);
-        } catch (e: any) {
-            console.error("Failed to parse AI message content:", rawAiRes);
-            throw new Error(`AI failed to return valid JSON format for the itinerary. Please try again. \n\nFULL API Response:\n${rawAiRes}`);
+
+        } catch (geminiError: any) {
+            console.warn("⚠️ Gemini Primary Generation Failed (Likely quota limit or JSON error), falling back to OpenAI GPT-4o-mini...", geminiError.message);
+
+            // 4.b Fallback to OpenAI gpt-4o-mini if Gemini fails
+            const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+            if (!OPENAI_API_KEY) {
+                throw new Error(`Gemini API failed (${geminiError.message}), and OPENAI_API_KEY is not configured for fallback.`);
+            }
+
+            const openaiRes = await fetch("https://api.openai.com/v1/chat/completions", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${OPENAI_API_KEY}`
+                },
+                body: JSON.stringify({
+                    model: "gpt-4o-mini",
+                    messages: [
+                        { role: "system", content: systemPrompt },
+                        { role: "user", content: "Please generate the itinerary JSON based on the system instructions." }
+                    ],
+                    response_format: { type: "json_object" },
+                    temperature: 0.7
+                })
+            });
+
+            if (!openaiRes.ok) {
+                const errorData = await openaiRes.text();
+                throw new Error(`Fallback Error: OpenAI API failed (Status ${openaiRes.status}) - ${errorData}`);
+            }
+
+            const fallbackData = await openaiRes.json();
+            let contentStr = fallbackData.choices?.[0]?.message?.content || "";
+            contentStr = contentStr.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+
+            try {
+                itineraryJson = JSON.parse(contentStr);
+            } catch (fallbackParseError) {
+                console.error("Failed to parse OpenAI fallback message content:", contentStr);
+                throw new Error(`AI Engines failed to return valid JSON format for the itinerary. Please try again.`);
+            }
         }
 
         // 5. Deduct Credits from Supabase Database securely using Service Role
