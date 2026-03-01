@@ -37,12 +37,16 @@ function WorkspaceContent() {
     const { t, currency, language } = useAppContext();
     const supabase = createClient();
 
-    // Time Dropdown Options (30 min increments)
-    const timeOptions = Array.from({ length: 48 }).map((_, i) => {
-        const h = Math.floor(i / 2).toString().padStart(2, '0');
-        const m = (i % 2 === 0) ? '00' : '30';
-        return `${h}:${m}`;
-    });
+    // Time Dropdown Options (Hours & Minutes)
+    const hourOptions = Array.from({ length: 24 }).map((_, i) => i.toString().padStart(2, '0'));
+    const minuteOptions = Array.from({ length: 12 }).map((_, i) => (i * 5).toString().padStart(2, '0'));
+
+    // Helper to extract hour and minute from the state string (e.g. "14:00")
+    const parseTime = (timeStr: string) => {
+        if (!timeStr || !timeStr.includes(':')) return { h: "00", m: "00" };
+        const [h, m] = timeStr.split(':');
+        return { h, m };
+    };
 
     // Format Date string aesthetically e.g. "10月15日 (週二)" or "Oct 15 (Tue)"
     const formatDateString = (dateString: string) => {
@@ -404,21 +408,33 @@ function WorkspaceContent() {
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
                                                     <Clock size={14} /> {t.input_arrival || "Day 1 Arrival Time"}
                                                 </label>
-                                                <div className="relative group">
+                                                <div className="relative group grid grid-cols-2 gap-2">
                                                     <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
                                                         <Clock size={18} />
                                                     </div>
-                                                    <select
-                                                        value={flightTimes.arrival}
-                                                        onChange={(e) => setFlightTimes({ ...flightTimes, arrival: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-10 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 appearance-none cursor-pointer"
-                                                    >
-                                                        {timeOptions.map(time => (
-                                                            <option key={`arr-${time}`} value={time} className="bg-[#161616]">{time}</option>
-                                                        ))}
-                                                    </select>
-                                                    <div className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
-                                                        <ChevronDown size={16} />
+                                                    <div className="relative">
+                                                        <select
+                                                            value={parseTime(flightTimes.arrival).h}
+                                                            onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${e.target.value}:${parseTime(flightTimes.arrival).m}` })}
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                        >
+                                                            {hourOptions.map(h => <option key={`arr-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
+                                                        </select>
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                            <span className="text-xs">時</span>
+                                                        </div>
+                                                    </div>
+                                                    <div className="relative">
+                                                        <select
+                                                            value={parseTime(flightTimes.arrival).m}
+                                                            onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${parseTime(flightTimes.arrival).h}:${e.target.value}` })}
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                        >
+                                                            {minuteOptions.map(m => <option key={`arr-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
+                                                        </select>
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                            <span className="text-xs">分</span>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -426,21 +442,33 @@ function WorkspaceContent() {
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
                                                     <Clock size={14} /> {t.input_departure || "Last Day Departure"}
                                                 </label>
-                                                <div className="relative group">
+                                                <div className="relative group grid grid-cols-2 gap-2">
                                                     <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
                                                         <Clock size={18} />
                                                     </div>
-                                                    <select
-                                                        value={flightTimes.departure}
-                                                        onChange={(e) => setFlightTimes({ ...flightTimes, departure: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-10 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 appearance-none cursor-pointer"
-                                                    >
-                                                        {timeOptions.map(time => (
-                                                            <option key={`dep-${time}`} value={time} className="bg-[#161616]">{time}</option>
-                                                        ))}
-                                                    </select>
-                                                    <div className="absolute right-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
-                                                        <ChevronDown size={16} />
+                                                    <div className="relative">
+                                                        <select
+                                                            value={parseTime(flightTimes.departure).h}
+                                                            onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${e.target.value}:${parseTime(flightTimes.departure).m}` })}
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                        >
+                                                            {hourOptions.map(h => <option key={`dep-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
+                                                        </select>
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                            <span className="text-xs">時</span>
+                                                        </div>
+                                                    </div>
+                                                    <div className="relative">
+                                                        <select
+                                                            value={parseTime(flightTimes.departure).m}
+                                                            onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${parseTime(flightTimes.departure).h}:${e.target.value}` })}
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer"
+                                                        >
+                                                            {minuteOptions.map(m => <option key={`dep-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
+                                                        </select>
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                            <span className="text-xs">分</span>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
