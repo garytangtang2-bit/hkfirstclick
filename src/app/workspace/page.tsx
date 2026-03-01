@@ -907,39 +907,21 @@ function WorkspaceContent() {
                                 </div>
                             </>
                         ) : (
-                            <div className="flex flex-col gap-6 h-full min-h-[600px]">
-                                {/* Affiliate Referral Banner */}
-                                <div className="bg-gradient-to-r from-blue-900/20 to-purple-900/20 border border-blue-500/20 rounded-2xl p-6">
-                                    <h3 className="text-lg font-bold text-white mb-2 flex items-center gap-2">
-                                        <Luggage size={18} className="text-blue-400" /> {t.banner_title || "Haven't booked flights & hotels yet?"}
-                                    </h3>
-                                    <p className="text-sm text-gray-300 mb-4">{t.banner_desc || "Book first! AI needs your exact flight times and hotel address to calculate precise point-to-point transit and create a flawless itinerary."}</p>
-                                    <div className="flex flex-col sm:flex-row gap-3">
-                                        <a href="https://kiwi.tpo.mx/KwEXKMTT?erid=2VtzquYMmhE" target="_blank" rel="noreferrer" className="flex-1 bg-white text-black text-center py-2.5 rounded-xl font-bold text-sm hover:bg-gray-200 transition-colors">
-                                            {t.banner_btn_flight || "Find Cheapest Flights"}
-                                        </a>
-                                        <a href={language?.includes("中文") ? "https://klook.tpo.mx/88XZcNo7?erid=2Vtzqw6jKWc" : "https://klook.tpo.mx/octd9aXV?erid=2Vtzqw6jKWc"} target="_blank" rel="noreferrer" className="flex-1 bg-[#ff5a5f] text-white text-center py-2.5 rounded-xl font-bold text-sm hover:bg-[#e0484d] transition-colors">
-                                            {t.banner_btn_hotel || "Find Klook Hotels"}
-                                        </a>
-                                    </div>
-                                </div>
+                            <div className="w-full h-full min-h-[600px] flex flex-col items-center justify-start pt-32 border border-white/5 rounded-2xl bg-[#161616]/50 relative overflow-hidden shadow-2xl">
+                                {/* Beautiful blurred travel background */}
+                                <div
+                                    className="absolute inset-0 bg-cover bg-center opacity-40 mix-blend-luminosity scale-105"
+                                    style={{ backgroundImage: `url('https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=1600&auto=format&fit=crop')` }}
+                                ></div>
+                                {/* Dark gradient overlay to ensure text readability */}
+                                <div className="absolute inset-0 bg-gradient-to-t from-[#161616] via-[#161616]/80 to-[#161616]/40"></div>
 
-                                <div className="bg-[#161616] border border-white/5 rounded-3xl flex-1 flex flex-col items-center justify-center text-center relative overflow-hidden shadow-2xl">
-                                    {/* Beautiful blurred travel background */}
-                                    <div
-                                        className="absolute inset-0 bg-cover bg-center opacity-40 mix-blend-luminosity scale-105"
-                                        style={{ backgroundImage: `url('https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=1600&auto=format&fit=crop')` }}
-                                    ></div>
-                                    {/* Dark gradient overlay to ensure text readability */}
-                                    <div className="absolute inset-0 bg-gradient-to-t from-[#161616] via-[#161616]/80 to-[#161616]/40"></div>
-
-                                    <div className="relative z-10 px-8">
-                                        <Globe2 size={56} className="text-[#EEDC00] mx-auto mb-6 drop-shadow-[0_0_15px_rgba(238,220,0,0.5)]" />
-                                        <h3 className="text-3xl font-black text-white mb-4 tracking-tight">{t.ws_ready_title || "Ready to explore?"}</h3>
-                                        <p className="text-gray-300 max-w-sm mx-auto leading-relaxed">
-                                            {t.ws_ready_desc || "Fill out your travel details on the left. Our AI will instantly craft a perfect, personalized daily itinerary for your next adventure."}
-                                        </p>
-                                    </div>
+                                <div className="relative z-10 px-8 text-center max-w-lg mt-12">
+                                    <Globe2 size={56} className="text-[#EEDC00] mx-auto mb-6 drop-shadow-[0_0_15px_rgba(238,220,0,0.5)]" />
+                                    <h3 className="text-3xl font-black text-white mb-4 tracking-tight">{t.ws_ready_title || "Ready to explore?"}</h3>
+                                    <p className="text-gray-300 max-w-sm mx-auto leading-relaxed">
+                                        {t.ws_ready_desc || "Fill out your travel details on the left. Our AI will instantly craft a perfect, personalized daily itinerary for your next adventure."}
+                                    </p>
                                 </div>
                             </div>
                         )}
