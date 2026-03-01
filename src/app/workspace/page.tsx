@@ -105,16 +105,16 @@ function WorkspaceContent() {
         setFetchingImages(prev => ({ ...prev, [activityId]: true }));
 
         try {
-            // First try
-            let res = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&prop=pageimages&titles=${encodeURIComponent(keyword)}&pithumbsize=500&format=json&origin=*`);
+            // First try using Wikipedia Search API for broader language match and fuzzy search
+            let res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(keyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
             let data = await res.json();
             let pages = data.query?.pages;
             let pageId = Object.keys(pages || {})[0];
             let imageUrl = pages?.[pageId]?.thumbnail?.source;
 
-            // Fallback try
+            // Fallback try with generic destination keyword
             if (!imageUrl && fallbackKeyword) {
-                res = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&prop=pageimages&titles=${encodeURIComponent(fallbackKeyword)}&pithumbsize=500&format=json&origin=*`);
+                res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(fallbackKeyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
                 data = await res.json();
                 pages = data.query?.pages;
                 pageId = Object.keys(pages || {})[0];
