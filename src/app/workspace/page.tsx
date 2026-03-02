@@ -95,24 +95,33 @@ function WorkspaceContent() {
     const [itineraryId, setItineraryId] = useState<string | null>(null);
     const [chatMessage, setChatMessage] = useState("");
 
-    // Wikimedia Image Caching States
+    // Image Caching States
     const [activityImages, setActivityImages] = useState<Record<string, string>>({});
+    const [imageSources, setImageSources] = useState<Record<string, string>>({});
     const [fetchingImages, setFetchingImages] = useState<Record<string, boolean>>({});
 
-    const fetchWikimediaImage = async (keyword: string, fallbackKeyword: string, activityId: string) => {
+    const UNSPLASH_ACCESS_KEY = "06R1gHhtyt6f4D9Fl8qYKpMqZtVm354366roz2SjnLM";
+    const PEXELS_API_KEY = "1TJnP77SuCLaRw1Dc1fKiSzTA280VSp3UhgpEOlMdFrHly8yeb4nfgZ6";
+    const DEFAULT_IMAGE = "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop";
+
+    const fetchActivityImage = async (cityName: string, keyword: string, fallbackKeyword: string, activityId: string) => {
         if (activityImages[activityId] || fetchingImages[activityId]) return;
 
         setFetchingImages(prev => ({ ...prev, [activityId]: true }));
 
+        const setImageData = (url: string, source: string) => {
+            setActivityImages(prev => ({ ...prev, [activityId]: url }));
+            setImageSources(prev => ({ ...prev, [activityId]: source }));
+        };
+
         try {
-            // First try using Wikipedia Search API for broader language match and fuzzy search
+            // Tier 1: Wikimedia Commons API via Wikipedia Search
             let res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(keyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
             let data = await res.json();
             let pages = data.query?.pages;
             let pageId = Object.keys(pages || {})[0];
             let imageUrl = pages?.[pageId]?.thumbnail?.source;
 
-            // Fallback try with generic destination keyword
             if (!imageUrl && fallbackKeyword) {
                 res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(fallbackKeyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
                 data = await res.json();
@@ -122,14 +131,36 @@ function WorkspaceContent() {
             }
 
             if (imageUrl) {
-                setActivityImages(prev => ({ ...prev, [activityId]: imageUrl }));
-            } else {
-                // Use default placeholder
-                setActivityImages(prev => ({ ...prev, [activityId]: "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop" }));
+                setImageData(imageUrl, "Wikimedia");
+                return;
             }
+
+            // Tier 2: Unsplash API
+            const unsplashRes = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(cityName + ' ' + keyword)}&orientation=landscape&per_page=1`, {
+                headers: { "Authorization": `Client-ID ${UNSPLASH_ACCESS_KEY}` }
+            });
+            const unsplashData = await unsplashRes.json();
+            if (unsplashData.results && unsplashData.results.length > 0) {
+                setImageData(unsplashData.results[0].urls.regular, "Unsplash");
+                return;
+            }
+
+            // Tier 3: Pexels API
+            const pexelsRes = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(cityName + ' ' + keyword)}&per_page=1`, {
+                headers: { "Authorization": PEXELS_API_KEY }
+            });
+            const pexelsData = await pexelsRes.json();
+            if (pexelsData.photos && pexelsData.photos.length > 0) {
+                setImageData(pexelsData.photos[0].src.landscape || pexelsData.photos[0].src.large, "Pexels");
+                return;
+            }
+
+            // Tier 4: Default Fallback
+            setImageData(DEFAULT_IMAGE, "Default");
+
         } catch (e) {
-            console.error("Failed to fetch image", e);
-            setActivityImages(prev => ({ ...prev, [activityId]: "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop" }));
+            console.error("Failed to fetch image for " + keyword, e);
+            setImageData(DEFAULT_IMAGE, "Default");
         } finally {
             setFetchingImages(prev => ({ ...prev, [activityId]: false }));
         }
@@ -138,15 +169,16 @@ function WorkspaceContent() {
     // Trigger image fetches when the day changes
     useEffect(() => {
         if (activeDayIndex >= 0 && itinerary?.days?.[activeDayIndex]?.activities) {
+            const cityName = itinerary.destination || destination || "";
             itinerary.days[activeDayIndex].activities.forEach((act: any, idx: number) => {
                 const activityId = `${activeDayIndex}-${idx}-${act.title}`;
-                // Skip if it is hotel or flight departure (usually doesn't need a picture)
-                if (act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住')) {
+                // Skip if it is hotel or flight departure
+                if (act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) {
                     return;
                 }
                 const primaryKeyword = act.imageSearchKeyword || act.location || act.title;
-                const fallbackKeyword = `${itinerary.destination || destination} travel`;
-                fetchWikimediaImage(primaryKeyword, fallbackKeyword, activityId);
+                const fallbackKeyword = `${cityName} ${primaryKeyword}`;
+                fetchActivityImage(cityName, primaryKeyword, fallbackKeyword, activityId);
             });
         }
         // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -963,7 +995,7 @@ function WorkspaceContent() {
                                                                     {/* Right Content */}
                                                                     <div className="flex-1 pb-8 w-full overflow-hidden">
                                                                         <div className="bg-transparent mb-1 flex flex-col lg:flex-row items-start gap-4 lg:gap-5 w-full">
-                                                                            {/* Wikimedia Image Container */}
+                                                                            {/* Image Container */}
                                                                             {!(act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) && (
                                                                                 <div className="w-full lg:w-[240px] shrink-0 rounded-xl overflow-hidden aspect-video bg-[#1A1A1A] border border-white/5 relative group">
                                                                                     {fetchingImages[`${activeDayIndex}-${j}-${act.title}`] || !activityImages[`${activeDayIndex}-${j}-${act.title}`] ? (
@@ -980,9 +1012,12 @@ function WorkspaceContent() {
                                                                                                 loading="lazy"
                                                                                                 crossOrigin="anonymous"
                                                                                             />
-                                                                                            <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent pt-6 pb-1 px-2 text-[9px] text-white/50 text-right z-10 pointer-events-none">
-                                                                                                Photo via Wikimedia
-                                                                                            </div>
+
+                                                                                            {imageSources[`${activeDayIndex}-${j}-${act.title}`] !== "Default" && (
+                                                                                                <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent pt-6 pb-1 px-2 text-[9px] text-white/50 text-right z-10 pointer-events-none">
+                                                                                                    Photo via {imageSources[`${activeDayIndex}-${j}-${act.title}`] || "Wikimedia"}
+                                                                                                </div>
+                                                                                            )}
                                                                                         </>
                                                                                     )}
                                                                                 </div>
