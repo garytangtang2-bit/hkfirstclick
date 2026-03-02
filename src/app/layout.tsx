@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Script from "next/script";
 import { Outfit } from "next/font/google";
+import "./globals.css";
 
 const outfit = Outfit({
     subsets: ["latin"],
