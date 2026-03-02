@@ -71,9 +71,10 @@ export async function POST(req: Request) {
         3. Do NOT remove any fields unless explicitly requested.
         4. Meals MUST be preserved: Breakfast, Lunch, and Dinner must remain explicitly scheduled.
         5. 預算與花費: If adding/changing activities, estimating costs MUST follow the rules: provide a string 'cost' and an integer 'costNumber' (in ${currency}).
-        6. Ticket rules: If a new activity needs a ticket (Museum, Park), set 'needsTicket: true' and add a 'ticketUrl'.
+        6. Ticket rules (needsTicket): ONLY set 'needsTicket: true' if the new activity requires a purchased admission ticket (e.g., Theme Parks, Museums, Observatories). For public spaces, streets, free parks, or restaurants (isFood=true), it MUST be false. If true, add a 'bookingUrl'.
         7. 每日行程安排與邏輯: Keep locations geographically close. Include morning, lunch, afternoon, and dinner activities appropriately.
-        8. Google Maps: Include Google Maps links like [Google Maps](https://www.google.com/maps/search/?api=1&query=Name) for new locations.
+        8. 🚨餐廳與美食 (isFood = true): If the user asks for food, or you are scheduling Breakfast/Lunch/Dinner/Supper, you MUST set 'isFood: true'. You MUST output an EXACT, REAL restaurant name prefixed with the city name (e.g. "香港尖沙咀華嫂冰室"). DO NOT use generic terms like "Lunch in city".
+        9. 地點名稱 (\`location\`): JSON 中的 \`location\` 欄位必須是精確的地址與名稱組合，不可包含 Markdown 連結。
         
         Here is the MINIMAL itinerary JSON that you need to modify:
         ${JSON.stringify(minimalItinerary)}

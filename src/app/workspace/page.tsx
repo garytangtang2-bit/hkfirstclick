@@ -882,10 +882,15 @@ function WorkspaceContent() {
                                                     <div className="bg-[#1A1A1A] border border-[#333] hover:border-[#555] rounded-2xl p-4 flex flex-col justify-between transition-colors relative overflow-hidden group">
                                                         <div className="absolute inset-0 bg-gradient-to-r from-[#EEDC00]/0 via-[#EEDC00]/5 to-[#EEDC00]/0 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
                                                         <div>
-                                                            <div className="flex items-center gap-2 text-sm text-gray-300 font-bold mb-1">
-                                                                <PlaneTakeoff size={16} className="text-[#EEDC00]" />
-                                                                {t.ws_flight_out || "去程航班"}
-                                                                <span className="text-gray-500 font-normal text-xs ml-1 uppercase">{itinerary.flights.outbound?.airline}</span>
+                                                            <div className="flex items-center justify-between text-sm text-gray-300 font-bold mb-1">
+                                                                <div className="flex items-center gap-2">
+                                                                    <PlaneTakeoff size={16} className="text-[#EEDC00]" />
+                                                                    {t.ws_flight_out || "去程航班"} <span className="text-gray-400">({origin} ➔ {destination})</span>
+                                                                </div>
+                                                                <span className="text-gray-500 font-normal text-xs uppercase">{itinerary.flights.outbound?.airline}</span>
+                                                            </div>
+                                                            <div className="text-white font-bold text-lg leading-tight mb-2 flex items-center gap-2">
+                                                                <span>抵達時間:</span> <span className="text-[#EEDC00] font-mono">{itinerary.flights.outbound?.arrivalTime || flightTimes.arrival}</span>
                                                             </div>
                                                             <div className="text-xs text-gray-400 mb-3 bg-white/5 rounded p-2 flex items-start gap-1.5">
                                                                 <span className="text-[#EEDC00] mt-0.5">⚠️</span> <span>{itinerary.flights.outbound?.airportArrivalInstruction || t.ws_flight_warn || "Based on provided data. We recommend arriving at least 2 hours early."}</span>
@@ -909,14 +914,6 @@ function WorkspaceContent() {
                                                                 <span>In: <span className="text-gray-300 font-medium">{itinerary.hotel.checkIn}</span></span>
                                                                 <span>Out: <span className="text-gray-300 font-medium">{itinerary.hotel.checkOut}</span></span>
                                                             </div>
-                                                        </div>
-                                                        <div className="flex items-center justify-between mt-3 pt-2 border-t border-white/5">
-                                                            <div className="flex items-center gap-1 opacity-80 h-6">
-                                                                <span className="text-[#FF5A5F] font-black italic text-sm tracking-tighter">klook</span>
-                                                            </div>
-                                                            <a href={itinerary.hotel.bookingUrl || "#"} target="_blank" rel="noreferrer" className="bg-[#FF5A5F]/10 hover:bg-[#FF5A5F]/20 text-[#FF5A5F] border border-[#FF5A5F]/30 text-xs font-bold px-4 py-2 rounded-lg transition-colors">
-                                                                {t.ws_btn_hotel || "預訂飯店"}
-                                                            </a>
                                                         </div>
                                                     </div>
                                                 )}
@@ -1075,7 +1072,16 @@ function WorkspaceContent() {
 
                                                                                 {/* Actions/Cost */}
                                                                                 <div className="flex flex-col items-start sm:items-end gap-2 shrink-0">
-                                                                                    {act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && (
+                                                                                    {act.isFood ? (
+                                                                                        <a
+                                                                                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
+                                                                                            target="_blank"
+                                                                                            rel="noreferrer"
+                                                                                            className="bg-blue-600 hover:bg-blue-500 text-white text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center gap-1"
+                                                                                        >
+                                                                                            <MapPin size={12} /> 查看地點
+                                                                                        </a>
+                                                                                    ) : act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" ? (
                                                                                         <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
                                                                                             <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end">
                                                                                                 {act.cost}
@@ -1084,8 +1090,8 @@ function WorkspaceContent() {
                                                                                                 馬上預訂
                                                                                             </a>
                                                                                         </div>
-                                                                                    )}
-                                                                                    {act.bookingUrl && act.bookingUrl !== "#" && (
+                                                                                    ) : null}
+                                                                                    {act.bookingUrl && act.bookingUrl !== "#" && act.needsTicket === true && !act.isFood && (
                                                                                         <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
                                                                                             {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
                                                                                         </a>
