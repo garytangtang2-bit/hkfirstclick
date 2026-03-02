@@ -170,12 +170,8 @@ export async function POST(req: Request) {
 # User Input
 目的地:${destination}(出發:${origin})|日期:${dates.start}至${dates.end}|航班:Day1抵達${flightTimes?.arrival || "14:00"},LastDay起飛${flightTimes?.departure || "18:00"}|住宿:${hotelInfo || "市中心"}|人數:${preferences?.groupSize?.adults || 2}大${preferences?.groupSize?.children || 0}小${preferences?.hasElders ? '(含長輩,需減少步行/爬坡)' : ''}${preferences?.accessibility ? '(需無障礙/推車友善環境)' : ''}|風格:${preferences?.style}|交通偏好:${preferences?.transportation === 'taxi' ? '計程車/包車為主' : '大眾運輸為主'}|目的:${preferences?.purposes?.join(",") || "觀光"}|預算:${preferences?.budget}${currency}|飲食限制:${preferences?.dietary || "無"}|必去清單:${preferences?.mustVisit || "無"}|其他需求:${preferences?.requests || "無"}
 
-const systemPrompt = `你是一位專業旅遊規劃師，請根據以下條件打造行程。
-# User Input
-        目的地:${ destination } (出發: ${ origin })| 日期:${ dates.start }至${ dates.end }| 航班:Day1抵達${ flightTimes?.arrival || "14:00" },LastDay起飛${ flightTimes?.departure || "18:00" }| 住宿:${ hotelInfo || "市中心" }| 人數:${ preferences?.groupSize?.adults || 2 }大${ preferences?.groupSize?.children || 0 }小${ preferences?.hasElders ? '(含長輩,需減少步行/爬坡)' : '' }${ preferences?.accessibility ? '(需無障礙/推車友善環境)' : '' }| 風格:${ preferences?.style }| 交通偏好:${ preferences?.transportation === 'taxi' ? '計程車/包車為主' : '大眾運輸為主' }| 目的:${ preferences?.purposes?.join(",") || "觀光" }| 預算:${ preferences?.budget }${ currency }| 飲食限制:${ preferences?.dietary || "無" }| 必去清單:${ preferences?.mustVisit || "無" }| 其他需求:${ preferences?.requests || "無" }
-
 # 核心規則(需嚴格遵守)
-        1. ** 住宿分配 **: 若用戶有提供住宿資訊(${ hotelInfo || "無"})，請完全直接複製名稱，不要重新推薦。若需推薦，** 必須是位於 ${ destination } 境內的真實飯店 / 旅館 **，絕對不可推薦活動或景點，且不可跨國 / 跨區推薦(如去日本卻推薦南京的飯店)。
+        1. ** 住宿分配 **: 若用戶有提供住宿資訊(${hotelInfo || "無"})，請完全直接複製名稱，不要重新推薦。若需推薦，** 必須是位於 ${destination} 境內的真實飯店 / 旅館 **，絕對不可推薦活動或景點，且不可跨國 / 跨區推薦(如去日本卻推薦南京的飯店)。
     2. ** 時間控管與邏輯性 **:
     - Day1 從抵達的 2 小時後開始。LastDay ** 必須排定提早 2.5 到 3 小時抵達機場 **。
  - ** 每日起訖 **: 每一天的第一個行程 ** 必須 ** 是「從住宿出發」，每一天的最後一個行程 ** 必須 ** 是「返回住宿休息」。
@@ -213,154 +209,154 @@ ${premiumSearchInstruction}
 "days":[{"date":"2026-02-23","theme":"Arrival","daySummary":"抵達曼谷稍作休息，晚上前往當地夜市體驗輕鬆的平民美食。","activities":[{"time":"14:00","title":"從住宿出發","description":"準備開始精彩旅程","location":"真實地點名稱","imageSearchKeyword":"English Keyword for Place","cost":"0","costNumber":0,"needsTicket":false,"isFood":false,"transitToNext":{"mode":"捷運 (機場專線)","duration":"約 45 分鐘"}}]}]
 }`;
 
-    // 4. Determine Dynamic AI Models based on User Tier
-    let primaryModel = "gemini-2.5-flash"; // Default for Free/Trial
-    let fallbackModel = "gpt-4o-mini"; // Default fallback
+        // 4. Determine Dynamic AI Models based on User Tier
+        let primaryModel = "gemini-2.5-flash"; // Default for Free/Trial
+        let fallbackModel = "gpt-4o-mini"; // Default fallback
 
-    if (tier === "PAID" || tier === "PREMIUM") {
-        primaryModel = "gemini-3-flash-preview";
-        fallbackModel = "gpt-5-mini";
-    }
+        if (tier === "PAID" || tier === "PREMIUM") {
+            primaryModel = "gemini-3-flash-preview";
+            fallbackModel = "gpt-5-mini";
+        }
 
-    // 5. Call Gemini API securely First
-    const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-    if (!GEMINI_API_KEY) {
-        throw new Error("GEMINI_API_KEY is not configured.");
-    }
+        // 5. Call Gemini API securely First
+        const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+        if (!GEMINI_API_KEY) {
+            throw new Error("GEMINI_API_KEY is not configured.");
+        }
 
-    let itineraryJson;
+        let itineraryJson;
 
-    try {
-        const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${primaryModel}:generateContent?key=${GEMINI_API_KEY}`, {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                ...((tier === "PAID" || tier === "PREMIUM") ? { tools: [{ googleSearch: {} }] } : {}),
-                systemInstruction: {
-                    parts: [{ text: systemPrompt }]
+        try {
+            const geminiRes = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${primaryModel}:generateContent?key=${GEMINI_API_KEY}`, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
                 },
-                contents: [{
-                    role: "user",
-                    parts: [{ text: "Please generate the itinerary JSON based on the system instructions." }]
-                }],
-                generationConfig: {
-                    responseMimeType: "application/json",
-                }
-            })
-        });
+                body: JSON.stringify({
+                    ...((tier === "PAID" || tier === "PREMIUM") ? { tools: [{ googleSearch: {} }] } : {}),
+                    systemInstruction: {
+                        parts: [{ text: systemPrompt }]
+                    },
+                    contents: [{
+                        role: "user",
+                        parts: [{ text: "Please generate the itinerary JSON based on the system instructions." }]
+                    }],
+                    generationConfig: {
+                        responseMimeType: "application/json",
+                    }
+                })
+            });
 
-        const rawAiRes = await geminiRes.text();
-        let aiData;
+            const rawAiRes = await geminiRes.text();
+            let aiData;
 
-        if (!geminiRes.ok) {
-            throw new Error(`Gemini API Error (Status ${geminiRes.status}): ${rawAiRes}`);
-        }
+            if (!geminiRes.ok) {
+                throw new Error(`Gemini API Error (Status ${geminiRes.status}): ${rawAiRes}`);
+            }
 
-        try {
-            aiData = JSON.parse(rawAiRes);
-        } catch (e) {
-            throw new Error(`Gemini API returned an invalid JSON response.`);
-        }
+            try {
+                aiData = JSON.parse(rawAiRes);
+            } catch (e) {
+                throw new Error(`Gemini API returned an invalid JSON response.`);
+            }
 
-        if (aiData.error) {
-            throw new Error(aiData.error.message || "Unknown error from Gemini API");
-        }
+            if (aiData.error) {
+                throw new Error(aiData.error.message || "Unknown error from Gemini API");
+            }
 
-        let contentStr = aiData.candidates?.[0]?.content?.parts?.[0]?.text || "";
-        contentStr = contentStr.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+            let contentStr = aiData.candidates?.[0]?.content?.parts?.[0]?.text || "";
+            contentStr = contentStr.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
 
-        if (!contentStr) {
-            throw new Error("Gemini Content string is empty");
-        }
+            if (!contentStr) {
+                throw new Error("Gemini Content string is empty");
+            }
 
-        itineraryJson = JSON.parse(contentStr);
-
-    } catch (geminiError: any) {
-        console.warn(`⚠️ Gemini Primary Generation Failed (${primaryModel}). Likely quota limit or JSON error. Falling back to OpenAI GPT (${fallbackModel})... ERROR:`, geminiError.message);
-
-        // 5.b Fallback to OpenAI if Gemini fails
-        const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
-        if (!OPENAI_API_KEY) {
-            throw new Error(`Gemini API failed (${geminiError.message}), and OPENAI_API_KEY is not configured for fallback.`);
-        }
-
-        const openaiRes = await fetch("https://api.openai.com/v1/chat/completions", {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json",
-                "Authorization": `Bearer ${OPENAI_API_KEY}`
-            },
-            body: JSON.stringify({
-                model: fallbackModel,
-                messages: [
-                    { role: "system", content: systemPrompt },
-                    { role: "user", content: "Please generate the itinerary JSON based on the system instructions." }
-                ],
-                response_format: { type: "json_object" }
-            })
-        });
-
-        if (!openaiRes.ok) {
-            const errorData = await openaiRes.text();
-            throw new Error(`Fallback Error: OpenAI API failed (Status ${openaiRes.status}) - ${errorData}`);
-        }
-
-        const fallbackData = await openaiRes.json();
-        let contentStr = fallbackData.choices?.[0]?.message?.content || "";
-        contentStr = contentStr.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
-
-        try {
             itineraryJson = JSON.parse(contentStr);
-        } catch (fallbackParseError) {
-            console.error("Failed to parse OpenAI fallback message content:", contentStr);
-            throw new Error(`AI Engines failed to return valid JSON format for the itinerary. Please try again.`);
+
+        } catch (geminiError: any) {
+            console.warn(`⚠️ Gemini Primary Generation Failed (${primaryModel}). Likely quota limit or JSON error. Falling back to OpenAI GPT (${fallbackModel})... ERROR:`, geminiError.message);
+
+            // 5.b Fallback to OpenAI if Gemini fails
+            const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+            if (!OPENAI_API_KEY) {
+                throw new Error(`Gemini API failed (${geminiError.message}), and OPENAI_API_KEY is not configured for fallback.`);
+            }
+
+            const openaiRes = await fetch("https://api.openai.com/v1/chat/completions", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": `Bearer ${OPENAI_API_KEY}`
+                },
+                body: JSON.stringify({
+                    model: fallbackModel,
+                    messages: [
+                        { role: "system", content: systemPrompt },
+                        { role: "user", content: "Please generate the itinerary JSON based on the system instructions." }
+                    ],
+                    response_format: { type: "json_object" }
+                })
+            });
+
+            if (!openaiRes.ok) {
+                const errorData = await openaiRes.text();
+                throw new Error(`Fallback Error: OpenAI API failed (Status ${openaiRes.status}) - ${errorData}`);
+            }
+
+            const fallbackData = await openaiRes.json();
+            let contentStr = fallbackData.choices?.[0]?.message?.content || "";
+            contentStr = contentStr.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+
+            try {
+                itineraryJson = JSON.parse(contentStr);
+            } catch (fallbackParseError) {
+                console.error("Failed to parse OpenAI fallback message content:", contentStr);
+                throw new Error(`AI Engines failed to return valid JSON format for the itinerary. Please try again.`);
+            }
         }
+
+        // 5. Deduct Credits from Supabase Database securely using Service Role
+        let insertedItineraryId = null;
+
+        if (userId) {
+            const { error: updateError } = await supabaseAdmin
+                .from("profiles")
+                .update({ credits: userCredits - 1 })
+                .eq("id", userId);
+
+            if (updateError) {
+                console.error("Failed to deduct credits:", updateError);
+            }
+
+            // 6. Save the itinerary to the database
+            const { data: insertedData, error: insertError } = await supabaseAdmin
+                .from("itineraries")
+                .insert({
+                    user_id: userId,
+                    title: `${itineraryJson.destination} Trip`,
+                    destination: itineraryJson.destination,
+                    start_date: dates.start,
+                    end_date: dates.end,
+                    itinerary_data: itineraryJson,
+                    preferences: preferences
+                })
+                .select("id")
+                .single();
+
+            if (insertError) {
+                console.error("Failed to save itinerary to database:", insertError);
+            } else if (insertedData) {
+                insertedItineraryId = insertedData.id;
+            }
+        }
+
+        return NextResponse.json({
+            itinerary: itineraryJson,
+            itineraryId: insertedItineraryId
+        });
+
+    } catch (err: any) {
+        console.error("Trip Generation Error:", err);
+        return NextResponse.json({ error: err.message }, { status: 500 });
     }
-
-    // 5. Deduct Credits from Supabase Database securely using Service Role
-    let insertedItineraryId = null;
-
-    if (userId) {
-        const { error: updateError } = await supabaseAdmin
-            .from("profiles")
-            .update({ credits: userCredits - 1 })
-            .eq("id", userId);
-
-        if (updateError) {
-            console.error("Failed to deduct credits:", updateError);
-        }
-
-        // 6. Save the itinerary to the database
-        const { data: insertedData, error: insertError } = await supabaseAdmin
-            .from("itineraries")
-            .insert({
-                user_id: userId,
-                title: `${itineraryJson.destination} Trip`,
-                destination: itineraryJson.destination,
-                start_date: dates.start,
-                end_date: dates.end,
-                itinerary_data: itineraryJson,
-                preferences: preferences
-            })
-            .select("id")
-            .single();
-
-        if (insertError) {
-            console.error("Failed to save itinerary to database:", insertError);
-        } else if (insertedData) {
-            insertedItineraryId = insertedData.id;
-        }
-    }
-
-    return NextResponse.json({
-        itinerary: itineraryJson,
-        itineraryId: insertedItineraryId
-    });
-
-} catch (err: any) {
-    console.error("Trip Generation Error:", err);
-    return NextResponse.json({ error: err.message }, { status: 500 });
-}
 }
