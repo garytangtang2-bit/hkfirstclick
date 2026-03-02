@@ -362,6 +362,7 @@ function WorkspaceContent() {
             const canvas = await html2canvas(element, {
                 scale: 2,
                 useCORS: true,
+                allowTaint: true,
                 backgroundColor: '#161616',
             });
 
@@ -834,14 +835,6 @@ function WorkspaceContent() {
                                                                 <span className="text-[#EEDC00] mt-0.5">⚠️</span> <span>{itinerary.flights.outbound?.airportArrivalInstruction || t.ws_flight_warn || "Based on provided data. We recommend arriving at least 2 hours early."}</span>
                                                             </div>
                                                         </div>
-                                                        {itinerary.flights.outbound?.estCostNumber > 0 && (
-                                                            <div className="flex items-center justify-between mt-2 pt-2 border-t border-white/5">
-                                                                <span className="text-white font-bold">{itinerary.flights.outbound?.estCost}</span>
-                                                                <a href={itinerary.flights.outbound?.bookingUrl || "#"} target="_blank" rel="noreferrer" className="bg-[#EEDC00]/10 hover:bg-[#EEDC00]/20 text-[#EEDC00] border border-[#EEDC00]/30 text-xs font-bold px-4 py-2 rounded-lg transition-colors">
-                                                                    {t.ws_btn_flight || "查看機票"}
-                                                                </a>
-                                                            </div>
-                                                        )}
                                                     </div>
                                                 )}
 
@@ -929,6 +922,21 @@ function WorkspaceContent() {
                                             {/* Vertical Timeline Section for Active Day */}
                                             <div className="bg-[#111111] pb-12 pt-6">
                                                 <div className="pt-8 px-4 sm:px-8">
+                                                    {/* Day Summary / Theme */}
+                                                    {itinerary.days[activeDayIndex]?.daySummary && (
+                                                        <div className="mb-8 p-4 sm:px-5 bg-gradient-to-r from-[#1A1A1A] to-[#161616] border border-white/5 rounded-2xl relative overflow-hidden flex items-start gap-4">
+                                                            <div className="absolute left-0 top-0 bottom-0 w-1 bg-[#EEDC00]"></div>
+                                                            <div className="mt-0.5 shrink-0">
+                                                                <Sparkles size={18} className="text-[#EEDC00]" />
+                                                            </div>
+                                                            <div>
+                                                                <h4 className="text-white font-bold text-sm mb-1 tracking-wide">行程導覽 (Daily Theme)</h4>
+                                                                <p className="text-gray-400 text-[13px] leading-relaxed">
+                                                                    {itinerary.days[activeDayIndex].daySummary}
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    )}
                                                     <div className="space-y-0">
                                                         {itinerary.days[activeDayIndex]?.activities?.map((act: any, j: number) => (
                                                             <div key={j} className="relative">
@@ -970,6 +978,7 @@ function WorkspaceContent() {
                                                                                                 alt={act.title}
                                                                                                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                                                                                                 loading="lazy"
+                                                                                                crossOrigin="anonymous"
                                                                                             />
                                                                                             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent pt-6 pb-1 px-2 text-[9px] text-white/50 text-right z-10 pointer-events-none">
                                                                                                 Photo via Wikimedia
@@ -1008,9 +1017,14 @@ function WorkspaceContent() {
                                                                                 {/* Actions/Cost */}
                                                                                 <div className="flex flex-col items-start sm:items-end gap-2 shrink-0">
                                                                                     {act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && (
-                                                                                        <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded">
-                                                                                            {act.cost}
-                                                                                        </span>
+                                                                                        <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
+                                                                                            <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end">
+                                                                                                {act.cost}
+                                                                                            </span>
+                                                                                            <a href={`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center">
+                                                                                                馬上預訂
+                                                                                            </a>
+                                                                                        </div>
                                                                                     )}
                                                                                     {act.bookingUrl && act.bookingUrl !== "#" && (
                                                                                         <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
@@ -1069,6 +1083,6 @@ function WorkspaceContent() {
                     </div>
                 </div>
             </div>
-        </div>
+        </div >
     );
 }

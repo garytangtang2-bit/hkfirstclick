@@ -52,6 +52,14 @@ export async function POST(req: Request) {
 
         const langInstruction = uiLanguage ? `MUST output responses entirely in ${uiLanguage}.` : "MUST output responses in the user's inferred language.";
 
+        // To save tokens and speed up generation, we strip out static data (flights, hotel, adviceArr)
+        // and only pass the core `days` array to the AI. Include destination for context.
+        const minimalItinerary = {
+            destination: currentItinerary.destination,
+            dates: currentItinerary.days?.map((d: any) => d.date),
+            days: currentItinerary.days
+        };
+
         const systemPrompt = `你是一位專業的資深旅遊規劃師，擅長根據客戶的預算、風格與目的，量身打造兼具深度與流暢度的旅遊修改方案。
         
         The user wants to MODIFY their existing travel itinerary based on this new request:
@@ -59,19 +67,18 @@ export async function POST(req: Request) {
         
         CRITICAL INSTRUCTIONS FOR ITINERARY QUALITY & FORMAT:
         1. 語言與視覺化: ${langInstruction} 請多利用 Emoji 來增加可讀性。
-        2. Schema Preservation: You MUST return the EXACT SAME JSON schema as the original itinerary, but with the requested modifications applied. DO NOT change the root keys.
-        3. Do NOT remove any fields (like flights, hotel, heroImageKeyword, adviceArr) unless the user explicitly asks to remove them.
-        4. Meals MUST be preserved: Breakfast, Lunch, and Dinner must remain explicitly scheduled unless they directly conflict with the user's request.
-        5. 預算與花費: If you add or change activities, estimating costs MUST follow the rules: provide a string 'cost' and an integer 'costNumber' (in ${currency}).
-        6. If a new activity needs a ticket (Museum, Park), set 'needsTicket: true' and add a 'ticketUrl'.
-        7. 每日行程安排與邏輯: Maintain logical logistics: Keep locations geographically close. 每天的行程活動必須包含上午、午餐、下午、晚餐，並根據需求適當安排休息。
-        8. Google Maps 連結: Please include Google Maps links like [Google Maps](https://www.google.com/maps/search/?api=1&query=Name) for any newly added locations in the description.
-        9. 預算風格建議: 若修改後預算與旅遊風格明顯衝突，請在「adviceArr」的第一項「住宿與交通定調」中給予誠懇的建議，或提供最接近該風格的替代方案。
+        2. Schema Preservation: You MUST return the EXACT SAME JSON schema as the provided itinerary, modifying only the \`days\` array based on the user request. DO NOT change the root keys. 
+        3. Do NOT remove any fields unless explicitly requested.
+        4. Meals MUST be preserved: Breakfast, Lunch, and Dinner must remain explicitly scheduled.
+        5. 預算與花費: If adding/changing activities, estimating costs MUST follow the rules: provide a string 'cost' and an integer 'costNumber' (in ${currency}).
+        6. Ticket rules: If a new activity needs a ticket (Museum, Park), set 'needsTicket: true' and add a 'ticketUrl'.
+        7. 每日行程安排與邏輯: Keep locations geographically close. Include morning, lunch, afternoon, and dinner activities appropriately.
+        8. Google Maps: Include Google Maps links like [Google Maps](https://www.google.com/maps/search/?api=1&query=Name) for new locations.
         
-        Here is the CURRENT itinerary JSON that you need to modify:
-        ${JSON.stringify(currentItinerary)}
+        Here is the MINIMAL itinerary JSON that you need to modify:
+        ${JSON.stringify(minimalItinerary)}
         
-        Return ONLY the modified JSON object, with absolutely no markdown formatting or backticks.`;
+        Return ONLY the modified JSON object, containing the root keys 'destination', 'dates', and the modified 'days' array. No markdown formatting.`;
 
         // 4. Call OpenAI API securely
         const openAIRes = await fetch("https://api.openai.com/v1/chat/completions", {
@@ -81,7 +88,7 @@ export async function POST(req: Request) {
                 "Authorization": `Bearer ${OPENAI_API_KEY} `
             },
             body: JSON.stringify({
-                model: "gpt-5-mini", // Using mini for speed and cost-effectiveness
+                model: "gpt-4o-mini", // Optimized for speed and cost-effectiveness
                 messages: [{ role: "system", content: systemPrompt }],
                 max_completion_tokens: 8000,
                 response_format: { type: "json_object" }
@@ -93,7 +100,7 @@ export async function POST(req: Request) {
         try {
             aiData = JSON.parse(rawAiRes);
         } catch (e) {
-            console.error("Failed to parse OpenAI response as JSON.", openAIRes.status);
+            console.error("Failed to parse OpenAI response as JSON.", openAIRes.status, rawAiRes);
             throw new Error(`OpenAI API returned an invalid response.`);
         }
 

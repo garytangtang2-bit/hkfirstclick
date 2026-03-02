@@ -33,31 +33,11 @@ export async function POST(req: Request) {
 
         const { tier, credits } = profile;
 
-        // Export Rule: "Member (Pass/Yearly) 0 Credits; Casual (Free/Top-up) -1 Credit/Time"
-        if (tier === "PASS" || tier === "YEARLY") {
-            // Free export for premium members
-            return NextResponse.json({ success: true, message: "Free export for members." });
-        } else {
-            // Costs 1 credit for TRIAL and TOPUP
-            if (credits < 1) {
-                return NextResponse.json(
-                    { error: "Insufficient credits to export." },
-                    { status: 402 }
-                );
-            }
+        // Export Rule: Image export is a client-side function (html2canvas).
+        // The API only serves as a validation that the user is logged in.
+        // We no longer deduct credits for this action to encourage sharing.
 
-            // Deduct 1 credit
-            const { error: updateError } = await supabaseAdmin
-                .from("profiles")
-                .update({ credits: credits - 1 })
-                .eq("id", user.id);
-
-            if (updateError) {
-                throw updateError;
-            }
-
-            return NextResponse.json({ success: true, message: "1 credit deducted." });
-        }
+        return NextResponse.json({ success: true, message: "Export authorized." });
 
     } catch (err: any) {
         console.error("Export API Error:", err);
