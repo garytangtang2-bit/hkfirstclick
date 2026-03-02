@@ -130,6 +130,21 @@ function WorkspaceContent() {
                 imageUrl = pages?.[pageId]?.thumbnail?.source;
             }
 
+            // Reject maps, icons, logos, and svg to force fallbacks
+            if (imageUrl) {
+                const lowerUrl = imageUrl.toLowerCase();
+                if (
+                    lowerUrl.includes('map') ||
+                    lowerUrl.includes('locator') ||
+                    lowerUrl.includes('.svg') ||
+                    lowerUrl.includes('logo') ||
+                    lowerUrl.includes('symbol') ||
+                    lowerUrl.includes('flag')
+                ) {
+                    imageUrl = null; // Forces Unsplash fallback
+                }
+            }
+
             if (imageUrl) {
                 setImageData(imageUrl, "Wikimedia");
                 return;
@@ -394,7 +409,6 @@ function WorkspaceContent() {
             const canvas = await html2canvas(element, {
                 scale: 2,
                 useCORS: true,
-                allowTaint: true,
                 backgroundColor: '#161616',
             });
 
@@ -830,11 +844,21 @@ function WorkspaceContent() {
                     <div className="w-full lg:w-2/3 flex flex-col gap-4 pb-16">
                         {itinerary ? (
                             <>
-                                <div className="flex justify-end">
+                                <div className="flex justify-end gap-3 mb-4">
+                                    <button
+                                        onClick={() => {
+                                            navigator.clipboard.writeText(window.location.href);
+                                            alert("連結已複製 / Link copied!");
+                                        }}
+                                        className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"
+                                    >
+                                        <Globe2 size={16} /> {/* Resusing Globe2 since we didn't import Share2 */}
+                                        分享連結
+                                    </button>
                                     <button
                                         onClick={handleExportImage}
                                         disabled={exporting}
-                                        className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors disabled:opacity-50"
+                                        className="bg-[#EEDC00]/10 hover:bg-[#EEDC00] text-[#EEDC00] hover:text-black border border-[#EEDC00]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all disabled:opacity-50"
                                     >
                                         {exporting ? <Loader2 size={16} className="animate-spin" /> : <Download size={16} />}
                                         {t.ws_export_img || "Save as Image"}

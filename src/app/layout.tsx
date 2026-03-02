@@ -1,6 +1,12 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import "./globals.css";
+import { Outfit } from "next/font/google";
+
+const outfit = Outfit({
+    subsets: ["latin"],
+    weight: ["300", "400", "500", "600", "700", "800", "900"],
+    display: "swap",
+});
 
 export const metadata: Metadata = {
     title: "HKfirstclick | AI Itinerary Generation SaaS",
@@ -14,7 +20,7 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en" suppressHydrationWarning>
-            <body className="antialiased font-sans selection:bg-[#EEDC00] selection:text-black" suppressHydrationWarning>
+            <body className={`${outfit.className} antialiased selection:bg-[#EEDC00] selection:text-black`} suppressHydrationWarning>
                 <Script
                     src="https://emrldco.com/NTAzMTQy.js?t=503142"
                     strategy="lazyOnload"

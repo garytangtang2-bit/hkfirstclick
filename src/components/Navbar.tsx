@@ -19,23 +19,43 @@ const NavItem = ({ label, hasDropdown = false, onClick }: any) => (
     </div>
 );
 
-const TopbarSelect = ({ icon: Icon, value, onChange, options }: any) => (
-    <div className="relative group flex items-center gap-1.5 text-gray-400 hover:text-white transition-colors cursor-pointer text-sm font-medium">
-        <Icon size={14} />
-        <select
-            value={value}
-            onChange={(e) => onChange(e.target.value)}
-            className="bg-transparent border-none outline-none appearance-none cursor-pointer text-gray-400 group-hover:text-white pr-4 tracking-wider"
+const TopbarSelect = ({ value, onChange, options }: any) => {
+    const [isOpen, setIsOpen] = useState(false);
+
+    // Auto-close dropdown when clicking outside
+    return (
+        <div
+            className="relative group flex items-center gap-2 cursor-pointer text-sm font-medium"
+            onMouseLeave={() => setIsOpen(false)}
         >
-            {options.map((opt: any) => (
-                <option key={opt.value} value={opt.value} className="bg-[#161616] text-white py-2">
-                    {opt.label}
-                </option>
-            ))}
-        </select>
-        <ChevronDown size={12} className="absolute right-0 pointer-events-none" />
-    </div>
-);
+            <div
+                className="flex items-center gap-2 px-2 py-1 rounded bg-transparent hover:bg-white/5 transition-colors text-white"
+                onClick={() => setIsOpen(!isOpen)}
+            >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={`https://flagcdn.com/w20/${options.find((o: any) => o.value === value)?.flagCode}.png`} alt="flag" width={20} className="rounded-sm" />
+                <span className="text-gray-300 font-bold tracking-widest">{options.find((o: any) => o.value === value)?.display}</span>
+                <ChevronDown size={14} className="text-gray-500" />
+            </div>
+
+            {isOpen && (
+                <div className="absolute top-full mt-1 right-0 w-max min-w-[140px] bg-[#1A1A24] border border-white/10 rounded-xl shadow-2xl overflow-hidden z-50 py-2">
+                    {options.map((opt: any) => (
+                        <div
+                            key={opt.value}
+                            className={`flex items-center gap-3 px-4 py-2.5 hover:bg-white/5 transition-colors ${value === opt.value ? 'bg-white/5 text-[#EEDC00]' : 'text-gray-300'}`}
+                            onClick={() => { onChange(opt.value); setIsOpen(false); }}
+                        >
+                            {/* eslint-disable-next-line @next/next/no-img-element */}
+                            <img src={`https://flagcdn.com/w20/${opt.flagCode}.png`} alt="flag" width={20} className="rounded-sm shadow" />
+                            <span className="font-medium tracking-wide">{opt.label}</span>
+                        </div>
+                    ))}
+                </div>
+            )}
+        </div>
+    );
+};
 
 export function Navbar({
     user,
@@ -76,39 +96,37 @@ export function Navbar({
                 <div className="flex items-center gap-6">
                     <div className="hidden md:flex items-center gap-6 pl-4 border-l border-white/10">
                         <TopbarSelect
-                            icon={Globe}
                             value={language}
                             onChange={setLanguage}
                             options={[
-                                { label: "🇺🇸 English", value: "English" },
-                                { label: "🇹🇼 繁體中文", value: "繁體中文" },
-                                { label: "🇯🇵 日本語", value: "日本語" },
-                                { label: "🇰🇷 한국어", value: "한국어" },
-                                { label: "🇫🇷 Français", value: "Français" },
-                                { label: "🇪🇸 Español", value: "Español" },
-                                { label: "🇮🇩 Bahasa Indonesia", value: "Bahasa Indonesia" },
-                                { label: "🇮🇳 हिन्दी", value: "हिन्दी" },
-                                { label: "🇵🇹 Português", value: "Português" },
-                                { label: "🇸🇦 العربية", value: "العربية" },
-                                { label: "🇧🇩 বাংলা", value: "বাংলা" },
-                                { label: "🇷🇺 Русский", value: "Русский" },
+                                { label: "English", value: "English", flagCode: "us", display: "EN" },
+                                { label: "繁體中文", value: "繁體中文", flagCode: "tw", display: "TW" },
+                                { label: "日本語", value: "日本語", flagCode: "jp", display: "JP" },
+                                { label: "한국어", value: "한국어", flagCode: "kr", display: "KR" },
+                                { label: "Français", value: "Français", flagCode: "fr", display: "FR" },
+                                { label: "Español", value: "Español", flagCode: "es", display: "ES" },
+                                { label: "Bahasa Indonesia", value: "Bahasa Indonesia", flagCode: "id", display: "ID" },
+                                { label: "हिन्दी", value: "हिन्दी", flagCode: "in", display: "IN" },
+                                { label: "Português", value: "Português", flagCode: "pt", display: "PT" },
+                                { label: "العربية", value: "العربية", flagCode: "sa", display: "SA" },
+                                { label: "বাংলা", value: "বাংলা", flagCode: "bd", display: "BD" },
+                                { label: "Русский", value: "Русский", flagCode: "ru", display: "RU" },
                             ]}
                         />
                         <TopbarSelect
-                            icon={Coins}
                             value={currency}
                             onChange={setCurrency}
                             options={[
-                                { label: "🇺🇸 USD", value: "USD" },
-                                { label: "🇭🇰 HKD", value: "HKD" },
-                                { label: "🇹🇼 TWD", value: "TWD" },
-                                { label: "🇯🇵 JPY", value: "JPY" },
-                                { label: "🇪🇺 EUR", value: "EUR" },
-                                { label: "🇰🇷 KRW", value: "KRW" },
-                                { label: "🇬🇧 GBP", value: "GBP" },
-                                { label: "🇦🇺 AUD", value: "AUD" },
-                                { label: "🇨🇦 CAD", value: "CAD" },
-                                { label: "🇸🇬 SGD", value: "SGD" },
+                                { label: "USD ($)", value: "USD", flagCode: "us", display: "USD" },
+                                { label: "HKD ($)", value: "HKD", flagCode: "hk", display: "HKD" },
+                                { label: "TWD (NT$)", value: "TWD", flagCode: "tw", display: "TWD" },
+                                { label: "JPY (¥)", value: "JPY", flagCode: "jp", display: "JPY" },
+                                { label: "EUR (€)", value: "EUR", flagCode: "eu", display: "EUR" },
+                                { label: "KRW (₩)", value: "KRW", flagCode: "kr", display: "KRW" },
+                                { label: "GBP (£)", value: "GBP", flagCode: "gb", display: "GBP" },
+                                { label: "AUD ($)", value: "AUD", flagCode: "au", display: "AUD" },
+                                { label: "CAD ($)", value: "CAD", flagCode: "ca", display: "CAD" },
+                                { label: "SGD ($)", value: "SGD", flagCode: "sg", display: "SGD" },
                             ]}
                         />
                     </div>
