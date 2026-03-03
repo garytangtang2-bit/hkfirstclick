@@ -2,7 +2,8 @@
 
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
-import { useState, useEffect } from "react";
+import { useState, useRef, useEffect } from "react";
+import ReactMarkdown from 'react-markdown';
 import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
@@ -81,6 +82,7 @@ function WorkspaceContent() {
     const [transportation, setTransportation] = useState("public");
     const [purposes, setPurposes] = useState<string[]>([]);
     const [budget, setBudget] = useState("");
+    const [isPrinting, setIsPrinting] = useState(false);
     const [dietaryTags, setDietaryTags] = useState<string[]>([]);
     const [dietaryOther, setDietaryOther] = useState("");
     const [mustVisit, setMustVisit] = useState("");
@@ -820,9 +822,13 @@ function WorkspaceContent() {
                                     </button>
                                     <button
                                         onClick={() => {
-                                            window.print();
+                                            setIsPrinting(true);
+                                            setTimeout(() => {
+                                                window.print();
+                                                setTimeout(() => setIsPrinting(false), 500);
+                                            }, 500);
                                         }}
-                                        className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"
+                                        className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors print:hidden"
                                     >
                                         <Download size={16} />
                                         儲存 PDF
@@ -899,192 +905,199 @@ function WorkspaceContent() {
                                         </div>
                                     </div>
 
-                                    {/* Views Container */}
-                                    <div>
-                                        {/* Overview Render */}
-                                        <div className={activeDayIndex === -1 ? "block" : "hidden print:block"}>
-                                            {/* Budget Summary Box */}
-                                            <div className="m-8 bg-[#0E0E0E] border border-white/10 rounded-2xl p-6 relative overflow-hidden group">
-                                                <div className="absolute inset-0 bg-gradient-to-br from-[#EEDC00]/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
-                                                <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2 relative z-10">
-                                                    <DollarSign size={18} className="text-[#EEDC00]" /> {t.ws_budget_title || "Budget Tracker"}
-                                                </h3>
-                                                <div className="space-y-3 relative z-10">
-                                                    <div className="flex justify-between items-center text-sm">
-                                                        <span className="text-gray-400">{t.ws_budget_set || "Current Budget Set"}</span>
-                                                        <span className="text-white font-mono">{currency} {budget || t.ws_empty || "Not set"}</span>
-                                                    </div>
-                                                    <div className="flex justify-between items-center text-sm">
-                                                        <span className="text-gray-400">{t.ws_budget_est || "Total Est. Cost (Flight + Hotel + Acts)"}</span>
-                                                        <span className="text-[#EEDC00] font-mono font-bold text-lg">
-                                                            {currency} {calculateTotalBudget(itinerary).toLocaleString()}
+                                    {/* Conditional Render Based on activeDayIndex and print status */}
+                                    <div className={(activeDayIndex === -1 || isPrinting) ? "block" : "hidden print:block"}>
+
+
+                                        {/* Budget Summary Box */}
+                                        <div className="m-8 bg-[#0E0E0E] border border-white/10 rounded-2xl p-6 relative overflow-hidden group">
+                                            <div className="absolute inset-0 bg-gradient-to-br from-[#EEDC00]/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
+                                            <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2 relative z-10">
+                                                <DollarSign size={18} className="text-[#EEDC00]" /> {t.ws_budget_title || "Budget Tracker"}
+                                            </h3>
+                                            <div className="space-y-3 relative z-10">
+                                                <div className="flex justify-between items-center text-sm">
+                                                    <span className="text-gray-400">{t.ws_budget_set || "Current Budget Set"}</span>
+                                                    <span className="text-white font-mono">{currency} {budget || t.ws_empty || "Not set"}</span>
+                                                </div>
+                                                <div className="flex justify-between items-center text-sm">
+                                                    <span className="text-gray-400">{t.ws_budget_est || "Total Est. Cost (Flight + Hotel + Acts)"}</span>
+                                                    <span className="text-[#EEDC00] font-mono font-bold text-lg">
+                                                        {currency} {calculateTotalBudget(itinerary).toLocaleString()}
+                                                    </span>
+                                                </div>
+                                                {budget && !isNaN(Number(budget)) && (
+                                                    <div className="flex justify-between items-center text-sm mt-4 pt-4 border-t border-white/10">
+                                                        <span className="text-gray-400">{t.ws_budget_remain || "Budget Remaining"}</span>
+                                                        <span className={`font-mono font-bold ${Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "text-green-400" : "text-red-400"}`}>
+                                                            {Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "+" : ""}{currency} {(Number(budget) - calculateTotalBudget(itinerary)).toLocaleString()}
                                                         </span>
                                                     </div>
-                                                    {budget && !isNaN(Number(budget)) && (
-                                                        <div className="flex justify-between items-center text-sm mt-4 pt-4 border-t border-white/10">
-                                                            <span className="text-gray-400">{t.ws_budget_remain || "Budget Remaining"}</span>
-                                                            <span className={`font-mono font-bold ${Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "text-green-400" : "text-red-400"}`}>
-                                                                {Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "+" : ""}{currency} {(Number(budget) - calculateTotalBudget(itinerary)).toLocaleString()}
-                                                            </span>
-                                                        </div>
-                                                    )}
-                                                </div>
+                                                )}
                                             </div>
                                         </div>
+                                    </div>
 
-                                        {/* Days Render */}
-                                        {itinerary.days?.map((day: any, dayIndex: number) => (
-                                            <div key={dayIndex} className={`bg-[#111111] pb-12 pt-6 ${activeDayIndex === dayIndex ? "block" : "hidden print:block"}`}>
-                                                <div className="pt-8 px-4 sm:px-8">
-                                                    {/* Day Summary / Theme */}
-                                                    {day?.daySummary && (
-                                                        <div className="mb-8 p-4 sm:px-5 bg-gradient-to-r from-[#1A1A1A] to-[#161616] border border-white/5 rounded-2xl relative overflow-hidden flex items-start gap-4">
-                                                            <div className="absolute left-0 top-0 bottom-0 w-1 bg-[#EEDC00]"></div>
-                                                            <div className="mt-0.5 shrink-0">
-                                                                <Sparkles size={18} className="text-[#EEDC00]" />
-                                                            </div>
-                                                            <div>
-                                                                <h4 className="text-white font-bold text-sm mb-1 tracking-wide">行程導覽 (Daily Theme)</h4>
-                                                                <p className="text-gray-400 text-[13px] leading-relaxed">
-                                                                    {day.daySummary}
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    )}
-                                                    <div className="space-y-0">
-                                                        {day?.activities?.map((act: any, j: number) => (
-                                                            <div key={j} className="relative">
-                                                                {/* Time and Marker */}
-                                                                <div className="flex gap-4 items-start break-inside-avoid">
-                                                                    {/* Left Time Column */}
-                                                                    <div className="w-16 shrink-0 text-right pt-1">
-                                                                        <div className="text-white font-bold text-sm leading-tight">{act.time.split(' ')[0]}</div>
-                                                                        <div className="text-gray-500 text-xs font-medium">{act.time.split(' ').slice(1).join(' ') || ''}</div>
-                                                                    </div>
+                                    {/* Render Days */}
+                                    {itinerary.days && itinerary.days.map((currentDay: any, activeRenderIndex: number) => {
+                                        const isHidden = !isPrinting && activeDayIndex !== activeRenderIndex;
 
-                                                                    {/* Center Line & Node */}
-                                                                    <div className="flex flex-col items-center shrink-0 relative w-8 min-h-[100px] -ml-2">
-                                                                        {/* Node Circle */}
-                                                                        <div className="w-8 h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
-                                                                            {j + 1}
-                                                                        </div>
-                                                                        {/* Connecting Line to next activity */}
-                                                                        {j < (day.activities.length - 1) && (
-                                                                            <div className="w-[2px] h-full bg-[#333] absolute top-8 bottom-0"></div>
-                                                                        )}
-                                                                    </div>
+                                        return (
+                                            <div key={activeRenderIndex} className={isHidden ? "hidden print:block" : "block"}>
 
-                                                                    {/* Right Content */}
-                                                                    <div className="flex-1 pb-8 w-full overflow-hidden">
-                                                                        <div className="bg-transparent mb-1 flex flex-col lg:flex-row items-start gap-4 lg:gap-5 w-full">
-                                                                            {/* Image Container */}
-                                                                            {!(act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) && (
-                                                                                <div className="w-full lg:w-[240px] shrink-0 rounded-xl overflow-hidden aspect-video bg-[#1A1A1A] border border-white/5 relative group">
-                                                                                    {fetchingImages[`${dayIndex}-${j}-${act.title}`] || !activityImages[`${dayIndex}-${j}-${act.title}`] ? (
-                                                                                        <div className="absolute inset-0 flex items-center justify-center bg-[#1A1A1A] animate-pulse">
-                                                                                            <ImageIcon size={24} className="text-gray-600" />
-                                                                                        </div>
-                                                                                    ) : (
-                                                                                        <>
-                                                                                            {/* eslint-disable-next-line @next/next/no-img-element */}
-                                                                                            <img
-                                                                                                src={activityImages[`${dayIndex}-${j}-${act.title}`]}
-                                                                                                alt={act.title}
-                                                                                                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
-                                                                                                loading="lazy"
-                                                                                                crossOrigin="anonymous"
-                                                                                            />
-
-                                                                                            {imageSources[`${dayIndex}-${j}-${act.title}`] !== "Default" && (
-                                                                                                <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent pt-6 pb-1 px-2 text-[9px] text-white/50 text-right z-10 pointer-events-none print:hidden">
-                                                                                                    Photo via {imageSources[`${dayIndex}-${j}-${act.title}`] || "Wikimedia"}
-                                                                                                </div>
-                                                                                            )}
-                                                                                        </>
-                                                                                    )}
-                                                                                </div>
-                                                                            )}
-
-                                                                            <div className="flex-1 flex flex-col sm:flex-row items-start justify-between gap-4 w-full">
-                                                                                <div>
-                                                                                    <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
-                                                                                        {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
-                                                                                        {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
-                                                                                        {act.title}
-                                                                                    </h4>
-
-                                                                                    {/* Location/Address if any */}
-                                                                                    {act.location && (
-                                                                                        <a
-                                                                                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
-                                                                                            target="_blank"
-                                                                                            rel="noreferrer"
-                                                                                            className="inline-flex text-blue-400 hover:text-blue-300 text-xs mt-1.5 items-center gap-1.5 hover:underline transition-colors w-max"
-                                                                                        >
-                                                                                            <MapPin size={14} /> {act.location}
-                                                                                        </a>
-                                                                                    )}
-
-                                                                                    {/* Description */}
-                                                                                    <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg">
-                                                                                        {act.description}
-                                                                                    </p>
-                                                                                </div>
-
-                                                                                {/* Actions/Cost */}
-                                                                                <div className="flex flex-col items-start sm:items-end gap-2 shrink-0 print:hidden">
-                                                                                    {act.isFood ? (
-                                                                                        <a
-                                                                                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
-                                                                                            target="_blank"
-                                                                                            rel="noreferrer"
-                                                                                            className="bg-blue-600 hover:bg-blue-500 text-white text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center gap-1"
-                                                                                        >
-                                                                                            <MapPin size={12} /> 查看地點
-                                                                                        </a>
-                                                                                    ) : act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" ? (
-                                                                                        <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
-                                                                                            <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end">
-                                                                                                {act.cost}
-                                                                                            </span>
-                                                                                            <a href={`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center">
-                                                                                                馬上預訂
-                                                                                            </a>
-                                                                                        </div>
-                                                                                    ) : null}
-                                                                                    {act.bookingUrl && act.bookingUrl !== "#" && act.needsTicket === true && !act.isFood && (
-                                                                                        <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
-                                                                                            {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
-                                                                                        </a>
-                                                                                    )}
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
+                                                {/* Vertical Timeline Section for Active Day */}
+                                                <div className="bg-[#111111] pb-12 pt-6">
+                                                    <div className="pt-8 px-4 sm:px-8">
+                                                        {/* Day Summary / Theme */}
+                                                        {currentDay?.daySummary && (
+                                                            <div className="mb-8 p-4 sm:px-5 bg-gradient-to-r from-[#1A1A1A] to-[#161616] border border-white/5 rounded-2xl relative overflow-hidden flex items-start gap-4">
+                                                                <div className="absolute left-0 top-0 bottom-0 w-1 bg-[#EEDC00]"></div>
+                                                                <div className="mt-0.5 shrink-0">
+                                                                    <Sparkles size={18} className="text-[#EEDC00]" />
                                                                 </div>
-                                                                {/* Transit Info between activities (Skip after last activity) */}
-                                                                {j < (day.activities.length - 1) && act.transitToNext && (
-                                                                    <div className="flex gap-4 items-start relative -mt-4 mb-4 break-inside-avoid">
-                                                                        <div className="w-16 shrink-0"></div>
-                                                                        <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
-                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center">
-                                                                                <Route size={10} className="text-gray-400" />
+                                                                <div>
+                                                                    <h4 className="text-white font-bold text-sm mb-1 tracking-wide">行程導覽 (Day {activeRenderIndex + 1})</h4>
+                                                                    <p className="text-gray-400 text-[13px] leading-relaxed">
+                                                                        {currentDay.daySummary}
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        )}
+                                                        <div className="space-y-0">
+                                                            {currentDay?.activities?.map((act: any, j: number) => (
+                                                                <div key={j} className="relative">
+                                                                    {/* Time and Marker */}
+                                                                    <div className="flex gap-4 items-start">
+                                                                        {/* Left Time Column */}
+                                                                        <div className="w-16 shrink-0 text-right pt-1">
+                                                                            <div className="text-white font-bold text-sm leading-tight">{act.time.split(' ')[0]}</div>
+                                                                            <div className="text-gray-500 text-xs font-medium">{act.time.split(' ').slice(1).join(' ') || ''}</div>
+                                                                        </div>
+
+                                                                        {/* Center Line & Node */}
+                                                                        <div className="flex flex-col items-center shrink-0 relative w-8 min-h-[100px] -ml-2">
+                                                                            {/* Node Circle */}
+                                                                            <div className="w-8 h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
+                                                                                {j + 1}
+                                                                            </div>
+                                                                            {/* Connecting Line to next activity */}
+                                                                            {j < (currentDay.activities.length - 1) && (
+                                                                                <div className="w-[2px] h-full bg-[#333] absolute top-8 bottom-0"></div>
+                                                                            )}
+                                                                        </div>
+
+                                                                        {/* Right Content */}
+                                                                        <div className="flex-1 pb-8 w-full overflow-hidden">
+                                                                            <div className="bg-transparent mb-1 flex flex-col lg:flex-row items-start gap-4 lg:gap-5 w-full">
+                                                                                {/* Image Container */}
+                                                                                {!(act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) && (
+                                                                                    <div className="w-full lg:w-[240px] shrink-0 rounded-xl overflow-hidden aspect-video bg-[#1A1A1A] border border-white/5 relative group">
+                                                                                        {fetchingImages[`${activeRenderIndex}-${j}-${act.title}`] || !activityImages[`${activeRenderIndex}-${j}-${act.title}`] ? (
+                                                                                            <div className="absolute inset-0 flex items-center justify-center bg-[#1A1A1A] animate-pulse">
+                                                                                                <ImageIcon size={24} className="text-gray-600" />
+                                                                                            </div>
+                                                                                        ) : (
+                                                                                            <>
+                                                                                                {/* eslint-disable-next-line @next/next/no-img-element */}
+                                                                                                <img
+                                                                                                    src={activityImages[`${activeRenderIndex}-${j}-${act.title}`]}
+                                                                                                    alt={act.title}
+                                                                                                    className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                                                                                                    loading="lazy"
+                                                                                                    crossOrigin="anonymous"
+                                                                                                />
+
+                                                                                                {imageSources[`${activeRenderIndex}-${j}-${act.title}`] !== "Default" && (
+                                                                                                    <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent pt-6 pb-1 px-2 text-[9px] text-white/50 text-right z-10 pointer-events-none">
+                                                                                                        Photo via {imageSources[`${activeRenderIndex}-${j}-${act.title}`] || "Wikimedia"}
+                                                                                                    </div>
+                                                                                                )}
+                                                                                            </>
+                                                                                        )}
+                                                                                    </div>
+                                                                                )}
+
+                                                                                <div className="flex-1 flex flex-col sm:flex-row items-start justify-between gap-4 w-full">
+                                                                                    <div>
+                                                                                        <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
+                                                                                            {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
+                                                                                            {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
+                                                                                            {act.title}
+                                                                                        </h4>
+
+                                                                                        {/* Location/Address if any */}
+                                                                                        {act.location && (
+                                                                                            <a
+                                                                                                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
+                                                                                                target="_blank"
+                                                                                                rel="noreferrer"
+                                                                                                className="inline-flex text-blue-400 hover:text-blue-300 text-xs mt-1.5 items-center gap-1.5 hover:underline transition-colors w-max"
+                                                                                            >
+                                                                                                <MapPin size={14} /> {act.location}
+                                                                                            </a>
+                                                                                        )}
+
+                                                                                        {/* Description */}
+                                                                                        <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg">
+                                                                                            {act.description}
+                                                                                        </p>
+                                                                                    </div>
+
+                                                                                    {/* Actions/Cost */}
+                                                                                    <div className="flex flex-col items-start sm:items-end gap-2 shrink-0 print:hidden">
+                                                                                        {act.isFood ? (
+                                                                                            <a
+                                                                                                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
+                                                                                                target="_blank"
+                                                                                                rel="noreferrer"
+                                                                                                className="bg-blue-600 hover:bg-blue-500 text-white text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center gap-1"
+                                                                                            >
+                                                                                                <MapPin size={12} /> 查看地點
+                                                                                            </a>
+                                                                                        ) : act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" ? (
+                                                                                            <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
+                                                                                                <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end">
+                                                                                                    {act.cost}
+                                                                                                </span>
+                                                                                                <a href={`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center">
+                                                                                                    馬上預訂
+                                                                                                </a>
+                                                                                            </div>
+                                                                                        ) : null}
+                                                                                        {act.bookingUrl && act.bookingUrl !== "#" && act.needsTicket === true && !act.isFood && (
+                                                                                            <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
+                                                                                                {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
+                                                                                            </a>
+                                                                                        )}
+                                                                                    </div>
+                                                                                </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3">
-                                                                            <span>{act.transitToNext.duration}</span>
-                                                                            <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">{act.transitToNext.mode}</span>
-                                                                        </div>
                                                                     </div>
-                                                                )}
+                                                                    {/* Transit Info between activities (Skip after last activity) */}
+                                                                    {j < (currentDay.activities.length - 1) && act.transitToNext && (
+                                                                        <div className="flex gap-4 items-start relative -mt-4 mb-4">
+                                                                            <div className="w-16 shrink-0"></div>
+                                                                            <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
+                                                                                <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center">
+                                                                                    <Route size={10} className="text-gray-400" />
+                                                                                </div>
+                                                                            </div>
+                                                                            <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3">
+                                                                                <span>{act.transitToNext.duration}</span>
+                                                                                <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">{act.transitToNext.mode}</span>
+                                                                            </div>
+                                                                        </div>
+                                                                    )}
 
-                                                            </div>
-                                                        ))}
+                                                                </div>
+                                                            ))}
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        ))}
-                                    </div>
+                                        );
+                                    })}
                                 </div>
                             </>
                         ) : (
@@ -1109,6 +1122,6 @@ function WorkspaceContent() {
                     </div>
                 </div>
             </div>
-        </div >
+        </div>
     );
 }

@@ -2,6 +2,8 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { LandingContent } from "@/components/LandingContent";
 import { useAppContext } from "@/components/AppContext";
+import { useEffect, useState } from "react";
+import { createClient } from "@/utils/supabase/client";
 
 export default function Home() {
     return (
@@ -13,9 +15,17 @@ export default function Home() {
 
 function HomeContent() {
     const { t } = useAppContext();
+    const [user, setUser] = useState<any>(null);
+    const supabase = createClient();
 
-    // Dummy user and navigation for now until fully hooked into AppContext
-    const user = null;
+    useEffect(() => {
+        const fetchUser = async () => {
+            const { data: { session } } = await supabase.auth.getSession();
+            setUser(session?.user || null);
+        };
+        fetchUser();
+    }, [supabase.auth]);
+
     const navigateTo = (path: string) => {
         window.location.href = path; // basic navigation for the landing page placeholder
     };
