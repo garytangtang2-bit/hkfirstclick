@@ -9,7 +9,13 @@ export async function GET(req: Request) {
 
         if (id) {
             // Fetch single itinerary by ID (Public Share Link enabled via unguessable UUID)
-            const { data, error } = await supabase
+            // Use service role key to bypass RLS for public share links
+            const { createClient: createSupabaseClient } = await import('@supabase/supabase-js');
+            const serviceClient = createSupabaseClient(
+                process.env.NEXT_PUBLIC_SUPABASE_URL!,
+                process.env.SUPABASE_SERVICE_ROLE_KEY!
+            );
+            const { data, error } = await serviceClient
                 .from('itineraries')
                 .select('*')
                 .eq('id', id)

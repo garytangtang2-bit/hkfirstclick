@@ -34,9 +34,7 @@ export function LandingContent({ t, user, navigateTo }: any) {
                         {t.landing_desc}
                     </p>
                     <YellowButton
-                        onClick={() =>
-                            user ? navigateTo("/workspace") : navigateTo("/login")
-                        }
+                        onClick={() => navigateTo("/workspace-check")}
                         className="px-10 py-4 text-lg flex items-center gap-3"
                     >
                         {t.btn_start_studio} <ArrowRight size={20} />

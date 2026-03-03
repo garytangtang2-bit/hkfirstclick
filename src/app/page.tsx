@@ -26,7 +26,12 @@ function HomeContent() {
         fetchUser();
     }, [supabase.auth]);
 
-    const navigateTo = (path: string) => {
+    const navigateTo = async (path: string) => {
+        if (path === '/workspace-check') {
+            const { data: { session } } = await supabase.auth.getSession();
+            window.location.href = session?.user ? "/workspace" : "/login";
+            return;
+        }
         window.location.href = path; // basic navigation for the landing page placeholder
     };
 

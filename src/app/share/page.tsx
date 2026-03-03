@@ -820,19 +820,6 @@ function WorkspaceContent() {
                                         <Globe2 size={16} />
                                         分享
                                     </button>
-                                    <button
-                                        onClick={() => {
-                                            setIsPrinting(true);
-                                            setTimeout(() => {
-                                                window.print();
-                                                setTimeout(() => setIsPrinting(false), 500);
-                                            }, 500);
-                                        }}
-                                        className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors print:hidden"
-                                    >
-                                        <Download size={16} />
-                                        儲存 PDF
-                                    </button>
                                 </div>
                                 <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
                                     {/* Hero Summary Section */}
