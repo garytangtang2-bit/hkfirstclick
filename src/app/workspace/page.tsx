@@ -4,7 +4,6 @@ import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
 import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon } from "lucide-react";
-import html2canvas from "html2canvas";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
 
@@ -88,7 +87,6 @@ function WorkspaceContent() {
     const [requests, setRequests] = useState("");
 
     const [loading, setLoading] = useState(false);
-    const [exporting, setExporting] = useState(false);
     const [activeDayIndex, setActiveDayIndex] = useState(-1);
     const [error, setError] = useState("");
     const [itinerary, setItinerary] = useState<any>(null);
@@ -378,54 +376,6 @@ function WorkspaceContent() {
         }
     };
 
-    const handleExportImage = async () => {
-        setExporting(true);
-        try {
-            // 1. Credit Check & Deduction API
-            const { data: { session } } = await supabase.auth.getSession();
-            const token = session?.access_token;
-
-            if (!token) {
-                alert("請先登入 (Please login first)");
-                return;
-            }
-
-            const res = await fetch("/api/export-trip", {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json",
-                    "Authorization": `Bearer ${token}`
-                },
-                body: JSON.stringify({ itineraryId })
-            });
-
-            const data = await res.json();
-            if (!res.ok) throw new Error(data.error || "Export failed from server");
-
-            // 2. Render Image
-            const element = document.getElementById('exportable-itinerary');
-            if (!element) return;
-
-            const canvas = await html2canvas(element, {
-                scale: 2,
-                useCORS: true,
-                backgroundColor: '#161616',
-            });
-
-            const image = canvas.toDataURL("image/png", 1.0);
-            const link = document.createElement('a');
-            link.download = `${itinerary.destination || 'trip'}-itinerary.png`;
-            link.href = image;
-            link.click();
-
-        } catch (err: any) {
-            console.error("Export failed", err);
-            alert(`匯出失敗：${err.message || '請稍後再試。'}`);
-        } finally {
-            setExporting(false);
-        }
-    };
-
     return (
         <div className="workspace-container">
             {loading && <LoadingOverlay />}
@@ -433,7 +383,7 @@ function WorkspaceContent() {
                 <div className="flex flex-col lg:flex-row gap-12">
 
                     {/* Left Form / Chat Panel */}
-                    <div className="w-full lg:w-1/3 flex flex-col gap-8 lg:sticky lg:top-6 lg:h-max z-20">
+                    <div className="w-full lg:w-1/3 flex flex-col gap-8 lg:sticky lg:top-6 lg:h-max z-20 print:hidden">
                         {/* Promotional / Affiliate Block */}
                         {!itinerary && (
                             <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
@@ -841,27 +791,41 @@ function WorkspaceContent() {
                     </div>
 
                     {/* Right Preview Panel */}
-                    <div className="w-full lg:w-2/3 flex flex-col gap-4 pb-16">
+                    <div className="w-full lg:w-2/3 flex flex-col gap-4 pb-16 print:w-full print:block">
                         {itinerary ? (
                             <>
-                                <div className="flex justify-end gap-3 mb-4">
+                                <div className="flex justify-end gap-3 mb-4 print:hidden">
                                     <button
-                                        onClick={() => {
-                                            navigator.clipboard.writeText(window.location.href);
-                                            alert("連結已複製 / Link copied!");
+                                        onClick={async () => {
+                                            const shareUrl = window.location.href;
+                                            if (navigator.share) {
+                                                try {
+                                                    await navigator.share({
+                                                        title: `${destination} 行程表 | AI 第一點`,
+                                                        text: '來看看我的專屬 AI 旅遊行程！',
+                                                        url: shareUrl,
+                                                    });
+                                                } catch (err) {
+                                                    console.error("Error sharing", err);
+                                                }
+                                            } else {
+                                                navigator.clipboard.writeText(shareUrl);
+                                                alert("連結已複製 / Link copied!");
+                                            }
                                         }}
-                                        className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"
+                                        className="bg-[#EEDC00]/10 hover:bg-[#EEDC00] text-[#EEDC00] hover:text-black border border-[#EEDC00]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all"
                                     >
-                                        <Globe2 size={16} /> {/* Resusing Globe2 since we didn't import Share2 */}
+                                        <Globe2 size={16} />
                                         分享連結
                                     </button>
                                     <button
-                                        onClick={handleExportImage}
-                                        disabled={exporting}
-                                        className="bg-[#EEDC00]/10 hover:bg-[#EEDC00] text-[#EEDC00] hover:text-black border border-[#EEDC00]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all disabled:opacity-50"
+                                        onClick={() => {
+                                            window.print();
+                                        }}
+                                        className="bg-white/10 hover:bg-white/20 text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"
                                     >
-                                        {exporting ? <Loader2 size={16} className="animate-spin" /> : <Download size={16} />}
-                                        {t.ws_export_img || "Save as Image"}
+                                        <Download size={16} />
+                                        儲存 PDF
                                     </button>
                                 </div>
                                 <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
