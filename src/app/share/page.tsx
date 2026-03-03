@@ -1032,16 +1032,7 @@ function WorkspaceContent() {
 
                                                                                     {/* Actions/Cost */}
                                                                                     <div className="flex flex-col items-start sm:items-end gap-2 shrink-0 print:hidden">
-                                                                                        {act.isFood ? (
-                                                                                            <a
-                                                                                                href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${act.location} ${itinerary.destination || destination || ""}`)}`}
-                                                                                                target="_blank"
-                                                                                                rel="noreferrer"
-                                                                                                className="bg-blue-600 hover:bg-blue-500 text-white text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center gap-1"
-                                                                                            >
-                                                                                                <MapPin size={12} /> 查看地點
-                                                                                            </a>
-                                                                                        ) : act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" ? (
+                                                                                        {act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && !act.isFood ? (
                                                                                             <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
                                                                                                 <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end">
                                                                                                     {act.cost}
