@@ -17,13 +17,13 @@ export default function Workspace() {
     );
 }
 
-function LoadingOverlay() {
+function LoadingOverlay({ t }: { t: Record<string, string> }) {
     return (
         <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex flex-col items-center justify-center">
             <div className="w-full max-w-md px-8 text-center">
                 <div className="w-16 h-16 border-4 border-[#EEDC00] border-t-transparent rounded-full animate-spin mx-auto mb-6"></div>
-                <h3 className="text-2xl font-bold text-white mb-2 glow-text">AI 正在為您規劃專屬行程</h3>
-                <p className="text-gray-400 mb-6 text-sm">正在從全球資料庫抓取即時航班與景點資訊，請稍候約 10-15 秒...</p>
+                <h3 className="text-2xl font-bold text-white mb-2 glow-text">{t.ws_loading_title}</h3>
+                <p className="text-gray-400 mb-6 text-sm">{t.ws_loading_desc}</p>
                 <div className="w-full h-2 bg-white/10 rounded-full overflow-hidden">
                     <div className="h-full bg-[#EEDC00] rounded-full animate-pulse shadow-[0_0_15px_rgba(238,220,0,0.5)]" style={{ width: '80%', transition: 'width 10s ease-out' }}></div>
                 </div>
@@ -378,7 +378,7 @@ function WorkspaceContent() {
 
     return (
         <div className="workspace-container">
-            {loading && <LoadingOverlay />}
+            {loading && <LoadingOverlay t={t} />}
             <div className="max-w-7xl mx-auto px-6 py-12 md:px-12 min-h-screen">
                 <div className="flex flex-col lg:flex-row gap-12">
 
@@ -389,10 +389,10 @@ function WorkspaceContent() {
                             <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-[#EEDC00]/10 to-transparent rounded-full blur-2xl -mr-16 -mt-16 pointer-events-none group-hover:from-[#EEDC00]/20 transition-all"></div>
                                 <h3 className="text-white font-bold text-lg mb-3 flex items-center gap-2">
-                                    <Luggage size={18} className="text-[#EEDC00]" /> 還沒有訂機票跟飯店嗎？
+                                    <Luggage size={18} className="text-[#EEDC00]" /> {t.banner_title}
                                 </h3>
                                 <p className="text-gray-400 text-sm leading-relaxed mb-6">
-                                    建議您先完成預訂！有了確切的班機時間與飯店地址，AI 才能為您精算點對點的交通距離，打造不浪費時間的完美行程。
+                                    {t.banner_desc}
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-3">
                                     <a
@@ -401,7 +401,7 @@ function WorkspaceContent() {
                                         rel="noopener noreferrer"
                                         className="flex-1 bg-white hover:bg-gray-100 text-black font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
                                     >
-                                        搜尋最便宜機票
+                                        {t.banner_btn_flight}
                                     </a>
                                     <a
                                         href="https://klook.tpo.mx/CUx1vPPs?erid=2Vtzqw6jKWc"
@@ -409,7 +409,7 @@ function WorkspaceContent() {
                                         rel="noopener noreferrer"
                                         className="flex-1 bg-[#FF5A5F] hover:bg-[#FF4A4F] text-white font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
                                     >
-                                        找尋 Klook 推薦住宿
+                                        {t.banner_btn_hotel}
                                     </a>
                                 </div>
                             </div>
@@ -503,7 +503,7 @@ function WorkspaceContent() {
                                                             {hourOptions.map(h => <option key={`arr-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
                                                         </select>
                                                         <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
-                                                            <span className="text-xs">時</span>
+                                                            <span className="text-xs">{t.ws_hour}</span>
                                                         </div>
                                                     </div>
                                                     <div className="relative">
@@ -515,7 +515,7 @@ function WorkspaceContent() {
                                                             {minuteOptions.map(m => <option key={`arr-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
                                                         </select>
                                                         <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
-                                                            <span className="text-xs">分</span>
+                                                            <span className="text-xs">{t.ws_minute}</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -534,7 +534,7 @@ function WorkspaceContent() {
                                                             {hourOptions.map(h => <option key={`dep-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
                                                         </select>
                                                         <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
-                                                            <span className="text-xs">時</span>
+                                                            <span className="text-xs">{t.ws_hour}</span>
                                                         </div>
                                                     </div>
                                                     <div className="relative">
@@ -546,7 +546,7 @@ function WorkspaceContent() {
                                                             {minuteOptions.map(m => <option key={`dep-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
                                                         </select>
                                                         <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
-                                                            <span className="text-xs">分</span>
+                                                            <span className="text-xs">{t.ws_minute}</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -591,8 +591,8 @@ function WorkspaceContent() {
                                         <div className="space-y-3 pt-2">
                                             <label className="flex items-center justify-between p-3 rounded-xl border border-white/10 bg-[#0E0E0E] cursor-pointer hover:border-white/30 transition-colors">
                                                 <div>
-                                                    <div className="text-sm font-bold text-gray-200">長輩同行 (Elders)</div>
-                                                    <div className="text-xs text-gray-500 mt-0.5">減少步行距離與爬坡景點</div>
+                                                    <div className="text-sm font-bold text-gray-200">{t.ws_elders_title}</div>
+                                                    <div className="text-xs text-gray-500 mt-0.5">{t.ws_elders_desc}</div>
                                                 </div>
                                                 <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
                                                     <input type="checkbox" checked={hasElders} onChange={(e) => setHasElders(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
@@ -602,8 +602,8 @@ function WorkspaceContent() {
 
                                             <label className="flex items-center justify-between p-3 rounded-xl border border-white/10 bg-[#0E0E0E] cursor-pointer hover:border-white/30 transition-colors">
                                                 <div>
-                                                    <div className="text-sm font-bold text-gray-200">無障礙/推車友善 (Wheelchair/Stroller)</div>
-                                                    <div className="text-xs text-gray-500 mt-0.5">優先安排平緩友善的動線</div>
+                                                    <div className="text-sm font-bold text-gray-200">{t.ws_access_title}</div>
+                                                    <div className="text-xs text-gray-500 mt-0.5">{t.ws_access_desc}</div>
                                                 </div>
                                                 <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
                                                     <input type="checkbox" checked={accessibility} onChange={(e) => setAccessibility(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
@@ -620,9 +620,9 @@ function WorkspaceContent() {
                                         </h3>
 
                                         <div>
-                                            <label className="text-sm font-medium text-gray-300 mb-3 block">飲食禁忌 (Dietary Restrictions)</label>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.ws_diet_label || t.q_diet_title}</label>
                                             <div className="flex flex-wrap gap-2 mb-3">
-                                                {["不吃牛", "全素", "蛋奶素", "不吃生食", "海鮮過敏", "不喝酒", "清真飲食"].map(tag => (
+                                                {(t.diet_tags ? t.diet_tags.split(',') : ["不吃牛", "全素", "蛋奶素", "不吃生食", "海鮮過敏", "不喝酒", "清真飲食"]).map((tag: string) => (
                                                     <button
                                                         key={tag}
                                                         onClick={() => setDietaryTags(prev => prev.includes(tag) ? prev.filter(t => t !== tag) : [...prev, tag])}
@@ -631,13 +631,13 @@ function WorkspaceContent() {
                                                             : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
                                                             }`}
                                                     >
-                                                        {tag}
+                                                        {tag.trim()}
                                                     </button>
                                                 ))}
                                             </div>
                                             <input
                                                 type="text"
-                                                placeholder="其他特殊飲食需求 (Other dietary needs)..."
+                                                placeholder={t.ws_diet_other_ph || t.q_diet_ph}
                                                 value={dietaryOther}
                                                 onChange={(e) => setDietaryOther(e.target.value)}
                                                 className="w-full bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-2 text-sm text-white focus:outline-none focus:border-[#EEDC00] transition-colors"
@@ -645,9 +645,9 @@ function WorkspaceContent() {
                                         </div>
 
                                         <div>
-                                            <label className="text-sm font-medium text-gray-300 mb-3 block">必去清單 (Must-Visit/Booked)</label>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.ws_must_label}</label>
                                             <textarea
-                                                placeholder="e.g., 已訂好週三中午米其林餐廳、一定要去清水寺..."
+                                                placeholder={t.ws_must_ph}
                                                 value={mustVisit}
                                                 onChange={(e) => setMustVisit(e.target.value)}
                                                 rows={2}
@@ -656,12 +656,12 @@ function WorkspaceContent() {
                                         </div>
 
                                         <div>
-                                            <label className="text-sm font-medium text-gray-300 mb-3 block">步調節奏 (Pace)</label>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.ws_pace_label}</label>
                                             <div className="grid grid-cols-3 gap-2">
                                                 {[
-                                                    { id: "relaxed", title: "輕鬆慢活" },
-                                                    { id: "balanced", title: t.style_bal },
-                                                    { id: "packed", title: "充實踩點" }
+                                                    { id: "relaxed", title: t.ws_pace_relaxed },
+                                                    { id: "balanced", title: t.ws_pace_balanced },
+                                                    { id: "packed", title: t.ws_pace_packed }
                                                 ].map(s => (
                                                     <button
                                                         key={s.id}
@@ -678,11 +678,11 @@ function WorkspaceContent() {
                                         </div>
 
                                         <div>
-                                            <label className="text-sm font-medium text-gray-300 mb-3 block">交通偏好 (Transportation)</label>
+                                            <label className="text-sm font-medium text-gray-300 mb-3 block">{t.ws_transport_label}</label>
                                             <div className="grid grid-cols-2 gap-2">
                                                 {[
-                                                    { id: "public", title: "大眾運輸為主" },
-                                                    { id: "taxi", title: "計程車/包車為主" }
+                                                    { id: "public", title: t.ws_transport_public },
+                                                    { id: "taxi", title: t.ws_transport_taxi }
                                                 ].map(t_pref => (
                                                     <button
                                                         key={t_pref.id}
@@ -801,8 +801,8 @@ function WorkspaceContent() {
                                             if (navigator.share) {
                                                 try {
                                                     await navigator.share({
-                                                        title: `${destination} 行程表 | AI 第一點`,
-                                                        text: '來看看我的專屬 AI 旅遊行程！',
+                                                        title: `${destination} | HKfirstclick AI`,
+                                                        text: t.ws_share || destination,
                                                         url: shareUrl,
                                                     });
                                                 } catch (err) {
@@ -810,13 +810,13 @@ function WorkspaceContent() {
                                                 }
                                             } else {
                                                 navigator.clipboard.writeText(shareUrl);
-                                                alert("連結已複製 / Link copied!");
+                                                alert(t.ws_link_copied || "Link copied!");
                                             }
                                         }}
                                         className="bg-[#EEDC00]/10 hover:bg-[#EEDC00] text-[#EEDC00] hover:text-black border border-[#EEDC00]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all"
                                     >
                                         <Globe2 size={16} />
-                                        分享
+                                        {t.ws_share}
                                     </button>
                                 </div>
                                 <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
@@ -845,7 +845,7 @@ function WorkspaceContent() {
                                                                 <span className="text-gray-500 font-normal text-xs uppercase">{itinerary.flights.outbound?.airline}</span>
                                                             </div>
                                                             <div className="text-white font-bold text-lg leading-tight mb-2 flex items-center gap-2">
-                                                                <span>抵達時間:</span> <span className="text-[#EEDC00] font-mono">{itinerary.flights.outbound?.arrivalTime || flightTimes.arrival}</span>
+                                                                <span>{t.ws_arrival_label}</span> <span className="text-[#EEDC00] font-mono">{itinerary.flights.outbound?.arrivalTime || flightTimes.arrival}</span>
                                                             </div>
                                                             <div className="text-xs text-gray-400 mb-3 bg-white/5 rounded p-2 flex items-start gap-1.5">
                                                                 <span className="text-[#EEDC00] mt-0.5">⚠️</span> <span>{itinerary.flights.outbound?.airportArrivalInstruction || t.ws_flight_warn || "Based on provided data. We recommend arriving at least 2 hours early."}</span>
@@ -866,8 +866,8 @@ function WorkspaceContent() {
                                                                 {itinerary.hotel.name}
                                                             </div>
                                                             <div className="text-xs text-gray-400 flex flex-col gap-0.5">
-                                                                <span>In: <span className="text-gray-300 font-medium">{itinerary.hotel.checkIn}</span></span>
-                                                                <span>Out: <span className="text-gray-300 font-medium">{itinerary.hotel.checkOut}</span></span>
+                                                                <span>{t.ws_hotel_checkin} <span className="text-gray-300 font-medium">{itinerary.hotel.checkIn}</span></span>
+                                                                <span>{t.ws_hotel_checkout} <span className="text-gray-300 font-medium">{itinerary.hotel.checkOut}</span></span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -880,11 +880,11 @@ function WorkspaceContent() {
                                     <div className="sticky top-0 z-30 bg-[#161616] border-y border-white/10 px-4 sm:px-8 flex items-center overflow-x-auto hide-scrollbar shadow-md">
                                         <div className="flex items-center gap-6 min-w-max">
                                             <button onClick={() => setActiveDayIndex(-1)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === -1 ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
-                                                [總覽]
+                                                [{t.ws_day_overview}]
                                             </button>
                                             {itinerary.days?.map((day: any, i: number) => (
                                                 <button key={i} onClick={() => setActiveDayIndex(i)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === i ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
-                                                    [第 {i + 1} 天]
+                                                    [{t.ws_day_label ? t.ws_day_label.replace('{n}', String(i + 1)) : `Day ${i + 1}`}]
                                                 </button>
                                             ))}
                                         </div>
@@ -935,7 +935,7 @@ function WorkspaceContent() {
                                                                 <Sparkles size={18} className="text-[#EEDC00]" />
                                                             </div>
                                                             <div>
-                                                                <h4 className="text-white font-bold text-sm mb-1 tracking-wide">行程導覽 (Daily Theme)</h4>
+                                                                <h4 className="text-white font-bold text-sm mb-1 tracking-wide">{t.ws_daily_theme}</h4>
                                                                 <p className="text-gray-400 text-[13px] leading-relaxed">
                                                                     {day.daySummary}
                                                                 </p>

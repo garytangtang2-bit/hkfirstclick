@@ -144,7 +144,7 @@ function PricingContent() {
                         >
                             {plan.isPopular && (
                                 <div className="bg-[#EEDC00] text-black text-xs font-bold uppercase tracking-widest py-1.5 px-4 rounded-full self-start mb-6 inline-block">
-                                    Most Popular
+                                    {t.price_most_popular}
                                 </div>
                             )}
                             {!plan.isPopular && <div className="h-[26px] mb-6"></div>}
@@ -168,17 +168,17 @@ function PricingContent() {
 
                             <div className="space-y-4 mb-8 flex-1">
                                 <div className="flex justify-between text-sm pb-3 border-b border-white/5">
-                                    <span className="text-gray-400">Total Credits</span>
+                                    <span className="text-gray-400">{t.price_total_credits}</span>
                                     <span className="font-bold text-[#EEDC00]">
                                         {plan.credits}
                                     </span>
                                 </div>
                                 <div className="flex justify-between text-sm pb-3 border-b border-white/5">
-                                    <span className="text-gray-400">Validity</span>
+                                    <span className="text-gray-400">{t.price_validity}</span>
                                     <span className="font-bold text-white">{plan.valid}</span>
                                 </div>
                                 <div className="flex justify-between text-sm pb-3 border-b border-white/5">
-                                    <span className="text-gray-400">Gen Limit</span>
+                                    <span className="text-gray-400">{t.price_gen_limit}</span>
                                     <span className="font-bold text-white">
                                         {plan.tripLimit}
                                     </span>
@@ -225,7 +225,7 @@ function PricingContent() {
                                     disabled
                                     className="w-full py-4 rounded-xl font-bold text-gray-400 bg-white/5 border border-white/10 uppercase tracking-wider text-sm cursor-not-allowed"
                                 >
-                                    Sign up to claim
+                                    {t.price_signup_claim}
                                 </button>
                             ) : (
                                 <YellowButton
