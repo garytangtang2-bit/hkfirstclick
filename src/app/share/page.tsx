@@ -18,13 +18,13 @@ export default function Workspace() {
     );
 }
 
-function LoadingOverlay() {
+function LoadingOverlay({ t }: { t: any }) {
     return (
         <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex flex-col items-center justify-center">
             <div className="w-full max-w-md px-8 text-center">
                 <div className="w-16 h-16 border-4 border-[#EEDC00] border-t-transparent rounded-full animate-spin mx-auto mb-6"></div>
-                <h3 className="text-2xl font-bold text-white mb-2 glow-text">AI 正在為您規劃專屬行程</h3>
-                <p className="text-gray-400 mb-6 text-sm">正在從全球資料庫抓取即時航班與景點資訊，請稍候約 10-15 秒...</p>
+                <h3 className="text-2xl font-bold text-white mb-2 glow-text">{t?.ws_loading_title || "AI 正在為您規劃專屬行程"}</h3>
+                <p className="text-gray-400 mb-6 text-sm">{t?.ws_loading_desc || "正在從全球資料庫抓取即時航班與景點資訊，請稍候約 10-15 秒..."}</p>
                 <div className="w-full h-2 bg-white/10 rounded-full overflow-hidden">
                     <div className="h-full bg-[#EEDC00] rounded-full animate-pulse shadow-[0_0_15px_rgba(238,220,0,0.5)]" style={{ width: '80%', transition: 'width 10s ease-out' }}></div>
                 </div>
@@ -380,7 +380,7 @@ function WorkspaceContent() {
 
     return (
         <div className="workspace-container">
-            {loading && <LoadingOverlay />}
+            {loading && <LoadingOverlay t={t} />}
             <div className="max-w-7xl mx-auto px-6 py-12 md:px-12 min-h-screen">
                 <div className="flex flex-col lg:flex-row gap-12">
 
@@ -799,12 +799,12 @@ function WorkspaceContent() {
                                 <div className="flex justify-end gap-3 mb-4 print:hidden">
                                     <button
                                         onClick={async () => {
-                                            const shareUrl = `${window.location.origin}/share?id=${itineraryId}`;
+                                            const shareUrl = `${window.location.origin}/share?id=${itineraryId}&lang=${encodeURIComponent(language)}`;
                                             if (navigator.share) {
                                                 try {
                                                     await navigator.share({
-                                                        title: `${destination} 行程表 | AI 第一點`,
-                                                        text: '來看看我的專屬 AI 旅遊行程！',
+                                                        title: `${destination} | HKfirstclick`,
+                                                        text: t.share_text || '來看看我的專屬 AI 旅遊行程！',
                                                         url: shareUrl,
                                                     });
                                                 } catch (err) {
@@ -812,13 +812,13 @@ function WorkspaceContent() {
                                                 }
                                             } else {
                                                 navigator.clipboard.writeText(shareUrl);
-                                                alert("連結已複製 / Link copied!");
+                                                alert(t.share_copied || "連結已複製 / Link copied!");
                                             }
                                         }}
                                         className="bg-[#EEDC00]/10 hover:bg-[#EEDC00] text-[#EEDC00] hover:text-black border border-[#EEDC00]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all"
                                     >
                                         <Globe2 size={16} />
-                                        分享
+                                        {t.share_btn || "分享"}
                                     </button>
                                 </div>
                                 <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
@@ -847,7 +847,7 @@ function WorkspaceContent() {
                                                                 <span className="text-gray-500 font-normal text-xs uppercase">{itinerary.flights.outbound?.airline}</span>
                                                             </div>
                                                             <div className="text-white font-bold text-lg leading-tight mb-2 flex items-center gap-2">
-                                                                <span>抵達時間:</span> <span className="text-[#EEDC00] font-mono">{itinerary.flights.outbound?.arrivalTime || flightTimes.arrival}</span>
+                                                                <span>{t.ws_arrival_label || "抵達時間："}</span> <span className="text-[#EEDC00] font-mono">{itinerary.flights.outbound?.arrivalTime || flightTimes.arrival}</span>
                                                             </div>
                                                             <div className="text-xs text-gray-400 mb-3 bg-white/5 rounded p-2 flex items-start gap-1.5">
                                                                 <span className="text-[#EEDC00] mt-0.5">⚠️</span> <span>{itinerary.flights.outbound?.airportArrivalInstruction || t.ws_flight_warn || "Based on provided data. We recommend arriving at least 2 hours early."}</span>
@@ -882,11 +882,11 @@ function WorkspaceContent() {
                                     <div className="sticky top-0 z-30 bg-[#161616] border-y border-white/10 px-4 sm:px-8 flex items-center overflow-x-auto hide-scrollbar shadow-md">
                                         <div className="flex items-center gap-6 min-w-max">
                                             <button onClick={() => setActiveDayIndex(-1)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === -1 ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
-                                                [總覽]
+                                                [{t.ws_day_overview || "總覽"}]
                                             </button>
                                             {itinerary.days?.map((day: any, i: number) => (
                                                 <button key={i} onClick={() => setActiveDayIndex(i)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === i ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
-                                                    [第 {i + 1} 天]
+                                                    [{(t.ws_day_label || "第 {n} 天").replace("{n}", String(i + 1))}]
                                                 </button>
                                             ))}
                                         </div>
@@ -943,7 +943,7 @@ function WorkspaceContent() {
                                                                     <Sparkles size={18} className="text-[#EEDC00]" />
                                                                 </div>
                                                                 <div>
-                                                                    <h4 className="text-white font-bold text-sm mb-1 tracking-wide">行程導覽 (Day {activeRenderIndex + 1})</h4>
+                                                                    <h4 className="text-white font-bold text-sm mb-1 tracking-wide">{t.ws_daily_theme || "行程導覽"} (Day {activeRenderIndex + 1})</h4>
                                                                     <p className="text-gray-400 text-[13px] leading-relaxed">
                                                                         {currentDay.daySummary}
                                                                     </p>
@@ -1038,7 +1038,7 @@ function WorkspaceContent() {
                                                                                                     {act.cost}
                                                                                                 </span>
                                                                                                 <a href={`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center">
-                                                                                                    馬上預訂
+                                                                                                    {t.ws_book_now || '馬上預訂'}
                                                                                                 </a>
                                                                                             </div>
                                                                                         ) : null}

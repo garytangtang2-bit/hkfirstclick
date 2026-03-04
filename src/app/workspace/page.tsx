@@ -1034,7 +1034,7 @@ function WorkspaceContent() {
                                                                                                 {act.cost}
                                                                                             </span>
                                                                                             <a href={`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center">
-                                                                                                馬上預訂
+                                                                                                {t.ws_book_now || '馬上預訂'}
                                                                                             </a>
                                                                                         </div>
                                                                                     ) : null}

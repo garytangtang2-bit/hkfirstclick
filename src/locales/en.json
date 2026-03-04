@@ -228,7 +228,7 @@
     "ws_transport_public": "Mostly Public Transport",
     "ws_transport_taxi": "Mostly Taxi / Private Car",
     "ws_day_overview": "Overview",
-    "ws_day_label": "Day",
+    "ws_day_label": "Day {n}",
     "ws_daily_theme": "Daily Theme",
     "ws_share": "Share",
     "ws_book_now": "Book Now",
