@@ -420,7 +420,7 @@ function WorkspaceContent() {
                                     <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6">
                                         <h3 className="font-bold flex items-center gap-2 text-white text-lg">
                                             <span className="bg-[#EEDC00] w-6 h-6 rounded-full flex items-center justify-center text-xs text-black">1</span>
-                                            基礎限制資訊 (Base Constraints)
+                                            {t.ws_section1 || "Base Constraints"}
                                         </h3>
                                         <div>
                                             <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
