@@ -52,7 +52,7 @@ function PricingContent() {
         },
         {
             name: t.tier2_name,
-            price: { HKD: 199, TWD: 750, JPY: 3500, USD: 25 },
+            price: { HKD: 59.99, TWD: 240, JPY: 1100, USD: 7.99 },
             credits: t.tier2_credits,
             tripLimit: t.tier2_trips,
             valid: t.tier2_exp,
@@ -65,7 +65,7 @@ function PricingContent() {
         },
         {
             name: t.tier3_name,
-            price: { HKD: 1599, TWD: 6000, JPY: 28000, USD: 200 },
+            price: { HKD: 359.99, TWD: 1480, JPY: 6800, USD: 46.99 },
             credits: t.tier3_credits,
             tripLimit: t.tier3_trips,
             valid: t.tier3_exp,
@@ -77,7 +77,7 @@ function PricingContent() {
         },
         {
             name: t.tier4_name,
-            price: { HKD: 49, TWD: 180, JPY: 850, USD: 6 },
+            price: { HKD: 15.99, TWD: 65, JPY: 300, USD: 1.99 },
             credits: t.tier4_credits,
             tripLimit: t.tier4_trips,
             valid: t.tier4_exp,

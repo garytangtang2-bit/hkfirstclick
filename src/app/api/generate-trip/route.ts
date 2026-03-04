@@ -136,9 +136,9 @@ export async function POST(req: Request) {
         }
 
         // 🚨 Business Logic Constraint: Ensure user has enough credits
-        if (userCredits <= 0) {
+        if (userCredits < 5) {
             return NextResponse.json(
-                { error: "You do not have enough credits to generate an itinerary. Please top up your account." },
+                { error: "You need at least 5 credits to generate a new itinerary. Please top up your account." },
                 { status: 402 }
             );
         }
@@ -321,7 +321,7 @@ ${premiumSearchInstruction}
         if (userId) {
             const { error: updateError } = await supabaseAdmin
                 .from("profiles")
-                .update({ credits: userCredits - 1 })
+                .update({ credits: userCredits - 5 })
                 .eq("id", userId);
 
             if (updateError) {

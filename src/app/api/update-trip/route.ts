@@ -42,6 +42,14 @@ export async function POST(req: Request) {
             }
         }
 
+        // 🚨 Block Free Users from updating itineraries
+        if (tier === "TRIAL" || tier === "Casual") {
+            return NextResponse.json(
+                { error: "Free users cannot modify generated itineraries. Please upgrade your plan ✨." },
+                { status: 403 }
+            );
+        }
+
         // Updating an itinerary costs 1 credit as well
         if (userCredits <= 0) {
             return NextResponse.json(

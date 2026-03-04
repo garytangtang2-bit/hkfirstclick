@@ -93,6 +93,9 @@ function WorkspaceContent() {
     const [itineraryId, setItineraryId] = useState<string | null>(null);
     const [chatMessage, setChatMessage] = useState("");
 
+    // Tier State for paid features
+    const [userTier, setUserTier] = useState<string | null>(null);
+
     // Image Caching States
     const [activityImages, setActivityImages] = useState<Record<string, string>>({});
     const [imageSources, setImageSources] = useState<Record<string, string>>({});
@@ -248,7 +251,23 @@ function WorkspaceContent() {
             };
             fetchItinerary();
         }
-    }, []);
+
+        const fetchTier = async () => {
+            const {
+                data: { session },
+            } = await supabase.auth.getSession();
+            if (session?.user?.id) {
+                const { data } = await supabase
+                    .from("profiles")
+                    .select("tier")
+                    .eq("id", session.user.id)
+                    .single();
+                if (data?.tier) setUserTier(data.tier);
+            }
+        };
+        fetchTier();
+
+    }, [supabase]);
 
     const handleGenerate = async () => {
         if (!origin || !destination || !dates.start || !dates.end) {
@@ -778,11 +797,16 @@ function WorkspaceContent() {
                                     {error && <p className="text-red-400 text-sm">{error}</p>}
                                     <button
                                         onClick={handleUpdateItinerary}
-                                        disabled={loading || !chatMessage.trim()}
-                                        className="w-full py-3 rounded-xl font-bold border border-[#EEDC00] text-[#EEDC00] hover:bg-[#EEDC00] hover:text-black transition-colors flex items-center justify-center gap-2 disabled:opacity-50"
+                                        disabled={loading || !chatMessage.trim() || userTier === "TRIAL" || userTier === "Casual" || !userTier}
+                                        className="w-full py-3 rounded-xl font-bold border border-[#EEDC00] text-[#EEDC00] hover:bg-[#EEDC00] hover:text-black transition-colors flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-transparent disabled:text-gray-500 disabled:border-gray-500"
                                     >
-                                        {loading ? <><Loader2 size={16} className="animate-spin" /> {t.ws_tweak_loading || "Processing..."}</> : (t.ws_tweak_btn || "Update Itinerary")}
+                                        {loading ? <><Loader2 size={16} className="animate-spin" /> {t.ws_tweak_loading || "Processing..."}</> : ((t.ws_tweak_btn || "Update Itinerary") + " ✨")}
                                     </button>
+                                    {(userTier === "TRIAL" || userTier === "Casual" || !userTier) && (
+                                        <div className="text-center text-xs text-gray-500 mt-1 cursor-pointer hover:text-[#EEDC00] transition-colors" onClick={() => window.location.href = '/pricing'}>
+                                            {t.ws_upgrade_hint || "免費用戶無法修改行程，請升級方案 ✨"}
+                                        </div>
+                                    )}
                                     <button
                                         onClick={() => setItinerary(null)}
                                         className="w-full py-3 rounded-xl font-bold text-gray-500 hover:text-white transition-colors"
