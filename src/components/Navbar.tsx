@@ -86,7 +86,6 @@ export function Navbar({
                         <NavItem label="My Trips" onClick={() => navigateTo("/my-trips")} />
                         <NavItem label={t.nav_map} onClick={() => navigateTo("/map")} />
                         <NavItem label={t.nav_catalog} onClick={() => navigateTo("/catalog")} />
-
                     </div>
                 </div>
 

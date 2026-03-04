@@ -39,7 +39,6 @@ const enJson = cleanJson(path.join(localesDir, 'en.json'));
 cleanJson(path.join(localesDir, 'zh.json'));
 
 const TARGET_LANGS = [
-    { code: 'en', name: 'English (100% English, NO CHINESE CHARACTERS ALLOWED)' },
     { code: 'hi', name: 'Hindi' },
     { code: 'es', name: 'Spanish' },
     { code: 'ar', name: 'Modern Standard Arabic' },
@@ -49,18 +48,16 @@ const TARGET_LANGS = [
     { code: 'ru', name: 'Russian' },
     { code: 'id', name: 'Indonesian' },
     { code: 'ko', name: 'Korean' },
-    { code: 'ja', name: 'Japanese (100% Japanese phrasing, NO CHINESE OR ENGLISH CHARACTERS ALLOWED UNLESS IT IS A PROPER NOUN)' }
+    { code: 'ja', name: 'Japanese' }
 ];
 
-async function translateLocale(langName, baseJson) {
+async function translateLocale(langName) {
     console.log(`Translating to ${langName}...`);
     const systemPrompt = `You are an expert software localization translator. 
-Translate the following Traditional Chinese (zh-HK) JSON values into ${langName}.
-CRITICAL INSTRUCTIONS:
-1. Provide EXACTLY 100% output in the target language. For example, if target is English, strictly NO Chinese characters. If target is Japanese, strictly natural Japanese phrasing and no untranslated English or extra Chinese characters that don't belong in standard Japanese.
-2. Keep the EXACT same JSON keys. Never omit or skip any keys.
-3. Keep the HTML tags like <br/> intact.
-4. Return ONLY valid JSON, no markdown blocks.`;
+Translate the following English JSON values into ${langName}.
+Keep the EXACT same JSON keys.
+Keep the HTML tags like <br/> intact.
+Return ONLY valid JSON, no markdown blocks.`;
 
     const res = await fetch("https://api.openai.com/v1/chat/completions", {
         method: "POST",
@@ -69,11 +66,11 @@ CRITICAL INSTRUCTIONS:
             "Authorization": `Bearer ${OPENAI_API_KEY}`
         },
         body: JSON.stringify({
-            model: "gpt-4o",
+            model: "gpt-4o-mini",
             response_format: { type: "json_object" },
             messages: [
                 { role: "system", content: systemPrompt },
-                { role: "user", content: JSON.stringify(baseJson) }
+                { role: "user", content: JSON.stringify(enJson) }
             ],
             temperature: 0.1
         })
@@ -88,14 +85,15 @@ CRITICAL INSTRUCTIONS:
 }
 
 async function main() {
-    const zhJson = JSON.parse(fs.readFileSync(path.join(localesDir, 'zh.json'), 'utf-8'));
     for (const lang of TARGET_LANGS) {
         const destPath = path.join(localesDir, `${lang.code}.json`);
-
-        console.log(`Overwriting ${lang.code}.json to enforce 100% accuracy.`);
+        if (fs.existsSync(destPath)) {
+            console.log(`Skipping ${lang.code}, already exists.`);
+            continue;
+        }
 
         try {
-            const translatedJson = await translateLocale(lang.name, zhJson);
+            const translatedJson = await translateLocale(lang.name);
             fs.writeFileSync(destPath, JSON.stringify(translatedJson, null, 4));
             console.log(`Successfully saved ${lang.code}.json`);
         } catch (err) {
