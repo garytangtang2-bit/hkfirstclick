@@ -801,7 +801,7 @@ function WorkspaceContent() {
                                 <div className="flex justify-end gap-3 mb-4 print:hidden">
                                     <button
                                         onClick={async () => {
-                                            const shareUrl = `${window.location.origin}/share?id=${itineraryId}`;
+                                            const shareUrl = `${window.location.origin}/share?id=${itineraryId}&lang=${encodeURIComponent(language)}`;
                                             if (navigator.share) {
                                                 try {
                                                     await navigator.share({

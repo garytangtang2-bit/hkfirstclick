@@ -57,6 +57,14 @@ export const AppProvider = ({ children }: { children: ReactNode }) => {
             if (savedLang && locales[savedLang]) {
                 targetLang = savedLang;
             }
+
+            // URL ?lang= param has highest priority (used by shared links)
+            const urlParams = new URLSearchParams(window.location.search);
+            const urlLang = urlParams.get("lang");
+            if (urlLang && locales[decodeURIComponent(urlLang)]) {
+                targetLang = decodeURIComponent(urlLang);
+            }
+
             const savedCurrency = localStorage.getItem("hkfirstclick_currency");
             if (savedCurrency) {
                 setCurrency(savedCurrency);
