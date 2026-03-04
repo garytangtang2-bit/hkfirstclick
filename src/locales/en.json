@@ -253,5 +253,7 @@
     "cat_btn": "Start AI Planning",
     "nav_my_trips": "My Trips",
     "ws_section1": "Base Constraints",
-    "diet_tags": "No Beef,Vegan,Vegetarian,No Raw Food,Seafood Allergy,No Alcohol,Halal"
+    "diet_tags": "No Beef,Vegan,Vegetarian,No Raw Food,Seafood Allergy,No Alcohol,Halal",
+    "ws_popular_airports": "Popular Airports",
+    "ws_custom_location": "Press Enter to use \"{query}\" as a custom location"
 }

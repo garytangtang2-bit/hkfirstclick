@@ -253,5 +253,7 @@
     "cat_btn": "Commencer la planification AI",
     "nav_my_trips": "Mes Voyages",
     "ws_section1": "Contraintes de base",
-    "diet_tags": "Sans bœuf,Vegan,Végétarien,Sans cru,Allergie fruits de mer,Sans alcool,Halal"
+    "diet_tags": "Sans bœuf,Vegan,Végétarien,Sans cru,Allergie fruits de mer,Sans alcool,Halal",
+    "ws_popular_airports": "Aéroports populaires",
+    "ws_custom_location": "Appuyez sur Entrée pour utiliser \"{query}\" comme lieu personnalisé"
 }

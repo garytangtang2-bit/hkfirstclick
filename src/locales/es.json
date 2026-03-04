@@ -253,5 +253,7 @@
     "cat_btn": "Iniciar planificación AI",
     "nav_my_trips": "Mis Viajes",
     "ws_section1": "Restricciones básicas",
-    "diet_tags": "Sin carne de res,Vegano,Vegetariano,Sin crudo,Alergia al marisco,Sin alcohol,Halal"
+    "diet_tags": "Sin carne de res,Vegano,Vegetariano,Sin crudo,Alergia al marisco,Sin alcohol,Halal",
+    "ws_popular_airports": "Aeropuertos populares",
+    "ws_custom_location": "Presiona Enter para usar \"{query}\" como ubicación personalizada"
 }

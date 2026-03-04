@@ -431,6 +431,8 @@ function WorkspaceContent() {
                                                 onChange={setOrigin}
                                                 placeholder={t.input_origin_ph}
                                                 icon={<PlaneTakeoff size={18} />}
+                                                popularLabel={t.ws_popular_airports}
+                                                customLocationLabel={t.ws_custom_location}
                                             />
                                         </div>
 
@@ -443,6 +445,8 @@ function WorkspaceContent() {
                                                 onChange={setDestination}
                                                 placeholder={t.input_dest_ph}
                                                 icon={<PlaneLanding size={18} />}
+                                                popularLabel={t.ws_popular_airports}
+                                                customLocationLabel={t.ws_custom_location}
                                             />
                                         </div>
 

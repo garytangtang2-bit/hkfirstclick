@@ -15,9 +15,11 @@ interface AutocompleteInputProps {
     onChange: (val: string) => void;
     placeholder: string;
     icon?: React.ReactNode;
+    popularLabel?: string;
+    customLocationLabel?: string;
 }
 
-export default function AutocompleteInput({ value, onChange, placeholder, icon }: AutocompleteInputProps) {
+export default function AutocompleteInput({ value, onChange, placeholder, icon, popularLabel, customLocationLabel }: AutocompleteInputProps) {
     const [query, setQuery] = useState(value);
     const [isOpen, setIsOpen] = useState(false);
     const [airports, setAirports] = useState<AirportData[]>([]);
@@ -192,7 +194,7 @@ export default function AutocompleteInput({ value, onChange, placeholder, icon }
                 <div className="absolute z-50 w-full mt-2 bg-[#161616] border border-white/10 rounded-xl shadow-2xl overflow-hidden max-h-60 overflow-y-auto">
                     {query.trim().length === 0 && (
                         <div className="px-4 py-2 bg-white/5 text-xs font-bold text-gray-400 tracking-widest uppercase sticky top-0 backdrop-blur-md z-10 border-b border-white/5">
-                            熱門機場 (Popular Airports)
+                            {popularLabel || "Popular Airports"}
                         </div>
                     )}
                     {displayOptions.length > 0 ? (
@@ -217,7 +219,7 @@ export default function AutocompleteInput({ value, onChange, placeholder, icon }
                     ) : (
                         <div className="px-4 py-4 text-sm text-gray-500 text-center flex flex-col items-center gap-2">
                             <Search size={16} className="text-gray-600" />
-                            Press enter to use "{query}" as a custom location
+                            {customLocationLabel ? customLocationLabel.replace('{query}', query) : `Press enter to use "${query}" as a custom location`}
                         </div>
                     )}
                 </div>

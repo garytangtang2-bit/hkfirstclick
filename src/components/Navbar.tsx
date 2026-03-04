@@ -83,7 +83,7 @@ export function Navbar({
                     </Link>
                     <div className="hidden lg:flex items-center gap-6">
                         <NavItem label={t.nav_itinerary} onClick={() => navigateTo("/workspace")} />
-                        <NavItem label="My Trips" onClick={() => navigateTo("/my-trips")} />
+                        <NavItem label={t.nav_my_trips} onClick={() => navigateTo("/my-trips")} />
                         <NavItem label={t.nav_map} onClick={() => navigateTo("/map")} />
                         <NavItem label={t.nav_catalog} onClick={() => navigateTo("/catalog")} />
                     </div>
@@ -189,7 +189,7 @@ export function Navbar({
                             className="text-white hover:text-[#EEDC00] cursor-pointer"
                             onClick={() => navigateTo("/my-trips")}
                         >
-                            My Trips
+                            {t.nav_my_trips}
                         </span>
                         <span
                             className="text-white hover:text-[#EEDC00] cursor-pointer"

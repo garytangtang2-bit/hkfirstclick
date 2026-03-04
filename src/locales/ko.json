@@ -253,5 +253,7 @@
     "cat_btn": "AI 플래닝 시작",
     "nav_my_trips": "내 여행",
     "ws_section1": "기본 제약 정보",
-    "diet_tags": "소고기 없음,비건,채식,날음식 없음,해산물 알레르기,음주 안 함,할랄"
+    "diet_tags": "소고기 없음,비건,채식,날음식 없음,해산물 알레르기,음주 안 함,할랄",
+    "ws_popular_airports": "인기 공항",
+    "ws_custom_location": "Enter를 눌러 \"{query}\"를 맞춤 장소로 사용"
 }
