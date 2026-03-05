@@ -34,39 +34,6 @@ export default function RootLayout({
                                 delay: 0.1
                             });
 
-                            // Custom Cursor Logic
-                            const cursorDot = document.querySelector('.custom-cursor-dot');
-                            const cursorRing = document.querySelector('.custom-cursor-ring');
-                            
-                            if (cursorDot && cursorRing && matchMedia('(pointer:fine)').matches) {
-                                let mouseX = window.innerWidth / 2;
-                                let mouseY = window.innerHeight / 2;
-                                let ringX = mouseX;
-                                let ringY = mouseY;
-                                
-                                window.addEventListener('mousemove', (e) => {
-                                    mouseX = e.clientX;
-                                    mouseY = e.clientY;
-                                    
-                                    // Immediate dot update
-                                    gsap.set(cursorDot, { x: mouseX, y: mouseY });
-                                });
-                                
-                                // Smooth ring follow
-                                gsap.ticker.add(() => {
-                                    ringX += (mouseX - ringX) * 0.15;
-                                    ringY += (mouseY - ringY) * 0.15;
-                                    gsap.set(cursorRing, { x: ringX, y: ringY });
-                                });
-
-                                // Hover effects for cursor
-                                const links = document.querySelectorAll('a, button, input, textarea, select, .premium-btn');
-                                links.forEach(link => {
-                                    link.addEventListener('mouseenter', () => cursorRing.classList.add('active'));
-                                    link.addEventListener('mouseleave', () => cursorRing.classList.remove('active'));
-                                });
-                            }
-
                             // Dashboard entry animations
                             gsap.fromTo(".premium-glass-card", 
                                 { y: 40, opacity: 0 }, 
@@ -82,13 +49,7 @@ export default function RootLayout({
                 </Script>
 
                 {/* Global Decorative Layers */}
-                <div className="global-noise"></div>
-                <div className="vertical-guides"></div>
                 <div className="liquid-wipe"></div>
-
-                {/* Custom Cursor */}
-                <div className="custom-cursor-dot" />
-                <div className="custom-cursor-ring" />
 
                 {children}
             </body>
