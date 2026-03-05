@@ -29,6 +29,22 @@ export default function RootLayout({
                     data-cfasync="false"
                     data-wpfc-render="false"
                 />
+                <Script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" strategy="beforeInteractive" />
+                <Script id="gsap-init" strategy="lazyOnload">
+                    {`
+                        if (typeof gsap !== "undefined") {
+                            gsap.fromTo(".premium-glass-card", 
+                                { y: 40, opacity: 0 }, 
+                                { y: 0, opacity: 1, duration: 0.8, stagger: 0.1, ease: "power3.out", delay: 0.2 }
+                            );
+
+                            gsap.fromTo(".heading-premium", 
+                                { y: 20, opacity: 0 }, 
+                                { y: 0, opacity: 1, duration: 1, ease: "power2.out" }
+                            );
+                        }
+                    `}
+                </Script>
                 {children}
             </body>
         </html>

@@ -22,8 +22,8 @@ function LoadingOverlay({ t }: { t: Record<string, string> }) {
         <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex flex-col items-center justify-center">
             <div className="w-full max-w-md px-8 text-center">
                 <div className="w-16 h-16 border-4 border-[#EEDC00] border-t-transparent rounded-full animate-spin mx-auto mb-6"></div>
-                <h3 className="text-2xl font-bold text-white mb-2 glow-text">{t.ws_loading_title}</h3>
-                <p className="text-gray-400 mb-6 text-sm">{t.ws_loading_desc}</p>
+                <h3 className="text-2xl font-bold text-white mb-2 glow-text heading-premium">{t.ws_loading_title}</h3>
+                <p className="text-gray-400 mb-6 text-sm text-muted-premium">{t.ws_loading_desc}</p>
                 <div className="w-full h-2 bg-white/10 rounded-full overflow-hidden">
                     <div className="h-full bg-[#EEDC00] rounded-full animate-pulse shadow-[0_0_15px_rgba(238,220,0,0.5)]" style={{ width: '80%', transition: 'width 10s ease-out' }}></div>
                 </div>
@@ -407,10 +407,10 @@ function WorkspaceContent() {
                         {!itinerary && (
                             <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-[#EEDC00]/10 to-transparent rounded-full blur-2xl -mr-16 -mt-16 pointer-events-none group-hover:from-[#EEDC00]/20 transition-all"></div>
-                                <h3 className="text-white font-bold text-lg mb-3 flex items-center gap-2">
+                                <h3 className="text-white font-bold text-lg mb-3 flex items-center gap-2 heading-premium">
                                     <Luggage size={18} className="text-[#EEDC00]" /> {t.banner_title}
                                 </h3>
-                                <p className="text-gray-400 text-sm leading-relaxed mb-6">
+                                <p className="text-gray-400 text-sm leading-relaxed mb-6 text-muted-premium">
                                     {t.banner_desc}
                                 </p>
                                 <div className="flex flex-col sm:flex-row gap-3">
@@ -436,13 +436,13 @@ function WorkspaceContent() {
                         {!itinerary ? (
                             <>
                                 <div>
-                                    <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6">
-                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg">
+                                    <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 premium-glass-card">
+                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg heading-premium">
                                             <span className="bg-[#EEDC00] w-6 h-6 rounded-full flex items-center justify-center text-xs text-black">1</span>
                                             {t.ws_section1 || "Base Constraints"}
                                         </h3>
                                         <div>
-                                            <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                            <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                 <Globe2 size={14} /> {t.input_origin}
                                             </label>
                                             <AutocompleteInput
@@ -456,7 +456,7 @@ function WorkspaceContent() {
                                         </div>
 
                                         <div>
-                                            <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                            <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                 <MapPin size={14} /> {t.input_dest}
                                             </label>
                                             <AutocompleteInput
@@ -471,11 +471,11 @@ function WorkspaceContent() {
 
                                         <div className="grid grid-cols-2 gap-4">
                                             <div>
-                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                     <Calendar size={14} /> {t.date_start}
                                                 </label>
                                                 <div className="relative group">
-                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors text-muted-premium">
                                                         <Calendar size={18} />
                                                     </div>
                                                     <input
@@ -490,11 +490,11 @@ function WorkspaceContent() {
                                                 </div>
                                             </div>
                                             <div>
-                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                     <Calendar size={14} /> {t.date_end}
                                                 </label>
                                                 <div className="relative group">
-                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                    <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors text-muted-premium">
                                                         <Calendar size={18} />
                                                     </div>
                                                     <input
@@ -513,7 +513,7 @@ function WorkspaceContent() {
 
                                         <div className="grid grid-cols-2 gap-4">
                                             <div>
-                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                     <Clock size={14} /> {t.input_arrival || "Day 1 Arrival Time"}
                                                 </label>
                                                 <div className="relative group grid grid-cols-2 gap-2">
@@ -523,9 +523,9 @@ function WorkspaceContent() {
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${e.target.value}:${parseTime(flightTimes.arrival).m}` })}
                                                             className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
-                                                            {hourOptions.map(h => <option key={`arr-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
+                                                            {hourOptions.map(h => <option key={`arr-h-${h}`} value={h} className="bg-[#161616] premium-glass-card">{h}</option>)}
                                                         </select>
-                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors text-muted-premium">
                                                             <span className="text-xs">{t.ws_hour}</span>
                                                         </div>
                                                     </div>
@@ -535,16 +535,16 @@ function WorkspaceContent() {
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${parseTime(flightTimes.arrival).h}:${e.target.value}` })}
                                                             className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
-                                                            {minuteOptions.map(m => <option key={`arr-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
+                                                            {minuteOptions.map(m => <option key={`arr-m-${m}`} value={m} className="bg-[#161616] premium-glass-card">{m}</option>)}
                                                         </select>
-                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors text-muted-premium">
                                                             <span className="text-xs">{t.ws_minute}</span>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div>
-                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                                <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                     <Clock size={14} /> {t.input_departure || "Last Day Departure"}
                                                 </label>
                                                 <div className="relative group grid grid-cols-2 gap-2">
@@ -554,9 +554,9 @@ function WorkspaceContent() {
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${e.target.value}:${parseTime(flightTimes.departure).m}` })}
                                                             className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
-                                                            {hourOptions.map(h => <option key={`dep-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
+                                                            {hourOptions.map(h => <option key={`dep-h-${h}`} value={h} className="bg-[#161616] premium-glass-card">{h}</option>)}
                                                         </select>
-                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors text-muted-premium">
                                                             <span className="text-xs">{t.ws_hour}</span>
                                                         </div>
                                                     </div>
@@ -566,9 +566,9 @@ function WorkspaceContent() {
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${parseTime(flightTimes.departure).h}:${e.target.value}` })}
                                                             className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
                                                         >
-                                                            {minuteOptions.map(m => <option key={`dep-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
+                                                            {minuteOptions.map(m => <option key={`dep-m-${m}`} value={m} className="bg-[#161616] premium-glass-card">{m}</option>)}
                                                         </select>
-                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors">
+                                                        <div className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400 group-hover:text-white transition-colors text-muted-premium">
                                                             <span className="text-xs">{t.ws_minute}</span>
                                                         </div>
                                                     </div>
@@ -577,11 +577,11 @@ function WorkspaceContent() {
                                         </div>
 
                                         <div>
-                                            <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2">
+                                            <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                 <MapPin size={14} /> {t.input_hotel || "Exact Hotel Name or Address"}
                                             </label>
                                             <div className="relative group">
-                                                <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors">
+                                                <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors text-muted-premium">
                                                     <MapPin size={18} />
                                                 </div>
                                                 <input
@@ -595,8 +595,8 @@ function WorkspaceContent() {
                                         </div>
                                     </div>
 
-                                    <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6">
-                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg">
+                                    <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6 premium-glass-card">
+                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg heading-premium">
                                             {t.q_group_title || "Group Composition"}
                                         </h3>
                                         <div className="grid grid-cols-2 gap-4">
@@ -614,7 +614,7 @@ function WorkspaceContent() {
                                             <label className="flex items-center justify-between p-3 rounded-xl border border-white/10 bg-[#0E0E0E] cursor-pointer hover:border-white/30 transition-colors">
                                                 <div>
                                                     <div className="text-sm font-bold text-gray-200">{t.ws_elders_title}</div>
-                                                    <div className="text-xs text-gray-500 mt-0.5">{t.ws_elders_desc}</div>
+                                                    <div className="text-xs text-gray-500 mt-0.5 text-muted-premium">{t.ws_elders_desc}</div>
                                                 </div>
                                                 <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
                                                     <input type="checkbox" checked={hasElders} onChange={(e) => setHasElders(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
@@ -625,7 +625,7 @@ function WorkspaceContent() {
                                             <label className="flex items-center justify-between p-3 rounded-xl border border-white/10 bg-[#0E0E0E] cursor-pointer hover:border-white/30 transition-colors">
                                                 <div>
                                                     <div className="text-sm font-bold text-gray-200">{t.ws_access_title}</div>
-                                                    <div className="text-xs text-gray-500 mt-0.5">{t.ws_access_desc}</div>
+                                                    <div className="text-xs text-gray-500 mt-0.5 text-muted-premium">{t.ws_access_desc}</div>
                                                 </div>
                                                 <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
                                                     <input type="checkbox" checked={accessibility} onChange={(e) => setAccessibility(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
@@ -635,8 +635,8 @@ function WorkspaceContent() {
                                         </div>
                                     </div>
 
-                                    <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6">
-                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg">
+                                    <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6 premium-glass-card">
+                                        <h3 className="font-bold flex items-center gap-2 text-white text-lg heading-premium">
                                             <Sparkles size={16} className="text-[#EEDC00]" /> {t.pref_title}
                                         </h3>
 
@@ -739,7 +739,7 @@ function WorkspaceContent() {
 
                                         <div>
                                             <label className="text-sm font-medium text-gray-300 mb-3 flex items-center gap-2">
-                                                <DollarSign size={16} className="text-gray-400" /> {t.q3_title}
+                                                <DollarSign size={16} className="text-gray-400 text-muted-premium" /> {t.q3_title}
                                             </label>
                                             <input
                                                 type="text"
@@ -767,7 +767,7 @@ function WorkspaceContent() {
                                         <button
                                             onClick={handleGenerate}
                                             disabled={loading}
-                                            className="w-full py-4 rounded-xl font-bold bg-[#EEDC00] text-black hover:bg-[#ffe800] transition-colors flex items-center justify-center gap-2 disabled:opacity-50"
+                                            className="w-full py-4 rounded-xl font-bold bg-[#EEDC00] text-black hover:bg-[#ffe800] transition-colors flex items-center justify-center gap-2 disabled:opacity-50 premium-btn"
                                         >
                                             {loading ? (
                                                 <><Loader2 size={18} className="animate-spin" /> {t.gen_title}</>
@@ -782,9 +782,9 @@ function WorkspaceContent() {
                             <div className="sticky top-24">
                                 <div>
                                     <h1 className="text-3xl font-bold mb-2 text-white">{t.ws_tweak_title || "Fine-tune Your Itinerary"}</h1>
-                                    <p className="text-gray-400 text-sm mb-6">{t.ws_tweak_desc || "Don't like a spot? Want to wake up later? Tell AI to edit your itinerary."}</p>
+                                    <p className="text-gray-400 text-sm mb-6 text-muted-premium">{t.ws_tweak_desc || "Don't like a spot? Want to wake up later? Tell AI to edit your itinerary."}</p>
                                 </div>
-                                <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 flex flex-col gap-4">
+                                <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 flex flex-col gap-4 premium-glass-card">
                                     <textarea
                                         value={chatMessage}
                                         onChange={(e) => setChatMessage(e.target.value)}
@@ -796,18 +796,18 @@ function WorkspaceContent() {
                                     <button
                                         onClick={handleUpdateItinerary}
                                         disabled={loading || !chatMessage.trim() || userTier === "TRIAL" || userTier === "Casual"}
-                                        className="w-full py-3 rounded-xl font-bold border border-[#EEDC00] text-[#EEDC00] hover:bg-[#EEDC00] hover:text-black transition-colors flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-transparent disabled:text-gray-500 disabled:border-gray-500"
+                                        className="w-full py-3 rounded-xl font-bold border border-[#EEDC00] text-[#EEDC00] hover:bg-[#EEDC00] hover:text-black transition-colors flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-transparent disabled:text-gray-500 disabled:border-gray-500 premium-btn text-muted-premium"
                                     >
                                         {loading ? <><Loader2 size={16} className="animate-spin" /> {t.ws_tweak_loading || "Processing..."}</> : ((t.ws_tweak_btn || "Update Itinerary") + " ✨")}
                                     </button>
                                     {(userTier === "TRIAL" || userTier === "Casual") && (
-                                        <div className="text-center text-xs text-gray-500 mt-1 cursor-pointer hover:text-[#EEDC00] transition-colors" onClick={() => window.location.href = '/pricing'}>
+                                        <div className="text-center text-xs text-gray-500 mt-1 cursor-pointer hover:text-[#EEDC00] transition-colors text-muted-premium" onClick={() => window.location.href = '/pricing'}>
                                             {t.ws_upgrade_hint || "免費用戶無法修改行程，請升級方案 ✨"}
                                         </div>
                                     )}
                                     <button
                                         onClick={() => setItinerary(null)}
-                                        className="w-full py-3 rounded-xl font-bold text-gray-500 hover:text-white transition-colors"
+                                        className="w-full py-3 rounded-xl font-bold text-gray-500 hover:text-white transition-colors text-muted-premium"
                                     >
                                         {t.ws_tweak_reset || "Reset to Plan New Trip"}
                                     </button>
@@ -845,35 +845,35 @@ function WorkspaceContent() {
                                         {t.ws_share}
                                     </button>
                                 </div>
-                                <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
+                                <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl premium-glass-card">
                                     {/* Hero Summary Section */}
-                                    <div className="pt-8 px-6 sm:px-8 pb-6 bg-[#161616]">
+                                    <div className="pt-8 px-6 sm:px-8 pb-6 bg-[#161616] premium-glass-card">
                                         <div className="flex items-center gap-2 mb-2">
                                             <div className="text-xs font-bold bg-[#EEDC00] text-black px-2 py-0.5 rounded tracking-widest flex items-center gap-1.5">
                                                 <Sparkles size={12} /> {t.rev_ai_tag || "AI PRO GENERATED"}
                                             </div>
                                         </div>
-                                        <h2 className="text-4xl font-black text-white glow-text mb-1">{itinerary.destination || destination}</h2>
+                                        <h2 className="text-4xl font-black text-white glow-text mb-1 heading-premium">{itinerary.destination || destination}</h2>
                                         <p className="text-gray-300 font-medium text-lg mb-6">{dates.start} — {dates.end}</p>
 
                                         {/* Flight and Hotel Cards */}
                                         {(itinerary.flights || itinerary.hotel) && (
                                             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                                 {itinerary.flights && (
-                                                    <div className="bg-[#1A1A1A] border border-[#333] hover:border-[#555] rounded-2xl p-4 flex flex-col justify-between transition-colors relative overflow-hidden group">
+                                                    <div className="bg-[#1A1A1A] border border-[#333] hover:border-[#555] rounded-2xl p-4 flex flex-col justify-between transition-colors relative overflow-hidden group premium-glass-card">
                                                         <div className="absolute inset-0 bg-gradient-to-r from-[#EEDC00]/0 via-[#EEDC00]/5 to-[#EEDC00]/0 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
                                                         <div>
                                                             <div className="flex items-center justify-between text-sm text-gray-300 font-bold mb-1">
                                                                 <div className="flex items-center gap-2">
                                                                     <PlaneTakeoff size={16} className="text-[#EEDC00]" />
-                                                                    {t.ws_flight_out || "去程航班"} <span className="text-gray-400">({origin} ➔ {destination})</span>
+                                                                    {t.ws_flight_out || "去程航班"} <span className="text-gray-400 text-muted-premium">({origin} ➔ {destination})</span>
                                                                 </div>
-                                                                <span className="text-gray-500 font-normal text-xs uppercase">{itinerary.flights.outbound?.airline}</span>
+                                                                <span className="text-gray-500 font-normal text-xs uppercase text-muted-premium">{itinerary.flights.outbound?.airline}</span>
                                                             </div>
                                                             <div className="text-white font-bold text-lg leading-tight mb-2 flex items-center gap-2">
                                                                 <span>{t.ws_arrival_label}</span> <span className="text-[#EEDC00] font-mono">{itinerary.flights.outbound?.arrivalTime || flightTimes.arrival}</span>
                                                             </div>
-                                                            <div className="text-xs text-gray-400 mb-3 bg-white/5 rounded p-2 flex items-start gap-1.5">
+                                                            <div className="text-xs text-gray-400 mb-3 bg-white/5 rounded p-2 flex items-start gap-1.5 text-muted-premium">
                                                                 <span className="text-[#EEDC00] mt-0.5">⚠️</span> <span>{itinerary.flights.outbound?.airportArrivalInstruction || t.ws_flight_warn || "Based on provided data. We recommend arriving at least 2 hours early."}</span>
                                                             </div>
                                                         </div>
@@ -881,7 +881,7 @@ function WorkspaceContent() {
                                                 )}
 
                                                 {itinerary.hotel && (
-                                                    <div className="bg-[#1A1A1A] border border-[#333] hover:border-[#555] rounded-2xl p-4 flex flex-col justify-between transition-colors relative overflow-hidden group">
+                                                    <div className="bg-[#1A1A1A] border border-[#333] hover:border-[#555] rounded-2xl p-4 flex flex-col justify-between transition-colors relative overflow-hidden group premium-glass-card">
                                                         <div className="absolute inset-0 bg-gradient-to-r from-[#FF5A5F]/0 via-[#FF5A5F]/5 to-[#FF5A5F]/0 opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
                                                         <div>
                                                             <div className="flex items-center gap-2 text-sm text-gray-300 font-bold mb-1">
@@ -891,7 +891,7 @@ function WorkspaceContent() {
                                                             <div className="text-white font-bold text-lg leading-tight mb-2">
                                                                 {itinerary.hotel.name}
                                                             </div>
-                                                            <div className="text-xs text-gray-400 flex flex-col gap-0.5">
+                                                            <div className="text-xs text-gray-400 flex flex-col gap-0.5 text-muted-premium">
                                                                 <span>{t.ws_hotel_checkin} <span className="text-gray-300 font-medium">{itinerary.hotel.checkIn}</span></span>
                                                                 <span>{t.ws_hotel_checkout} <span className="text-gray-300 font-medium">{itinerary.hotel.checkOut}</span></span>
                                                             </div>
@@ -903,7 +903,7 @@ function WorkspaceContent() {
                                     </div>
 
                                     {/* Day Navigation Bar */}
-                                    <div className="sticky top-0 z-30 bg-[#161616] border-y border-white/10 px-4 sm:px-8 flex items-center overflow-x-auto hide-scrollbar shadow-md">
+                                    <div className="sticky top-0 z-30 bg-[#161616] border-y border-white/10 px-4 sm:px-8 flex items-center overflow-x-auto hide-scrollbar shadow-md premium-glass-card">
                                         <div className="flex items-center gap-6 min-w-max">
                                             <button onClick={() => setActiveDayIndex(-1)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === -1 ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
                                                 [{t.ws_day_overview}]
@@ -923,23 +923,23 @@ function WorkspaceContent() {
                                             {/* Budget Summary Box */}
                                             <div className="m-8 bg-[#0E0E0E] border border-white/10 rounded-2xl p-6 relative overflow-hidden group">
                                                 <div className="absolute inset-0 bg-gradient-to-br from-[#EEDC00]/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
-                                                <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2 relative z-10">
+                                                <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2 relative z-10 heading-premium">
                                                     <DollarSign size={18} className="text-[#EEDC00]" /> {t.ws_budget_title || "Budget Tracker"}
                                                 </h3>
                                                 <div className="space-y-3 relative z-10">
                                                     <div className="flex justify-between items-center text-sm">
-                                                        <span className="text-gray-400">{t.ws_budget_set || "Current Budget Set"}</span>
+                                                        <span className="text-gray-400 text-muted-premium">{t.ws_budget_set || "Current Budget Set"}</span>
                                                         <span className="text-white font-mono">{currency} {budget || t.ws_empty || "Not set"}</span>
                                                     </div>
                                                     <div className="flex justify-between items-center text-sm">
-                                                        <span className="text-gray-400">{t.ws_budget_est || "Total Est. Cost (Flight + Hotel + Acts)"}</span>
+                                                        <span className="text-gray-400 text-muted-premium">{t.ws_budget_est || "Total Est. Cost (Flight + Hotel + Acts)"}</span>
                                                         <span className="text-[#EEDC00] font-mono font-bold text-lg">
                                                             {currency} {calculateTotalBudget(itinerary).toLocaleString()}
                                                         </span>
                                                     </div>
                                                     {budget && !isNaN(Number(budget)) && (
                                                         <div className="flex justify-between items-center text-sm mt-4 pt-4 border-t border-white/10">
-                                                            <span className="text-gray-400">{t.ws_budget_remain || "Budget Remaining"}</span>
+                                                            <span className="text-gray-400 text-muted-premium">{t.ws_budget_remain || "Budget Remaining"}</span>
                                                             <span className={`font-mono font-bold ${Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "text-green-400" : "text-red-400"}`}>
                                                                 {Number(budget) - calculateTotalBudget(itinerary) >= 0 ? "+" : ""}{currency} {(Number(budget) - calculateTotalBudget(itinerary)).toLocaleString()}
                                                             </span>
@@ -961,8 +961,8 @@ function WorkspaceContent() {
                                                                 <Sparkles size={18} className="text-[#EEDC00]" />
                                                             </div>
                                                             <div>
-                                                                <h4 className="text-white font-bold text-sm mb-1 tracking-wide">{t.ws_daily_theme}</h4>
-                                                                <p className="text-gray-400 text-[13px] leading-relaxed">
+                                                                <h4 className="text-white font-bold text-sm mb-1 tracking-wide heading-premium">{t.ws_daily_theme}</h4>
+                                                                <p className="text-gray-400 text-[13px] leading-relaxed text-muted-premium">
                                                                     {day.daySummary}
                                                                 </p>
                                                             </div>
@@ -976,7 +976,7 @@ function WorkspaceContent() {
                                                                     {/* Left Time Column */}
                                                                     <div className="w-16 shrink-0 text-right pt-1">
                                                                         <div className="text-white font-bold text-sm leading-tight">{act.time.split(' ')[0]}</div>
-                                                                        <div className="text-gray-500 text-xs font-medium">{act.time.split(' ').slice(1).join(' ') || ''}</div>
+                                                                        <div className="text-gray-500 text-xs font-medium text-muted-premium">{act.time.split(' ').slice(1).join(' ') || ''}</div>
                                                                     </div>
 
                                                                     {/* Center Line & Node */}
@@ -996,9 +996,9 @@ function WorkspaceContent() {
                                                                         <div className="bg-transparent mb-1 flex flex-col lg:flex-row items-start gap-4 lg:gap-5 w-full">
                                                                             {/* Image Container */}
                                                                             {!(act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) && (
-                                                                                <div className="w-full lg:w-[240px] shrink-0 rounded-xl overflow-hidden aspect-video bg-[#1A1A1A] border border-white/5 relative group">
+                                                                                <div className="w-full lg:w-[240px] shrink-0 rounded-xl overflow-hidden aspect-video bg-[#1A1A1A] border border-white/5 relative group premium-glass-card">
                                                                                     {fetchingImages[`${dayIndex}-${j}-${act.title}`] || !activityImages[`${dayIndex}-${j}-${act.title}`] ? (
-                                                                                        <div className="absolute inset-0 flex items-center justify-center bg-[#1A1A1A] animate-pulse">
+                                                                                        <div className="absolute inset-0 flex items-center justify-center bg-[#1A1A1A] animate-pulse premium-glass-card">
                                                                                             <ImageIcon size={24} className="text-gray-600" />
                                                                                         </div>
                                                                                     ) : (
@@ -1007,7 +1007,7 @@ function WorkspaceContent() {
                                                                                             <img
                                                                                                 src={activityImages[`${dayIndex}-${j}-${act.title}`]}
                                                                                                 alt={act.title}
-                                                                                                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                                                                                                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 cinematic-img"
                                                                                                 loading="lazy"
                                                                                                 crossOrigin="anonymous"
                                                                                             />
@@ -1024,9 +1024,9 @@ function WorkspaceContent() {
 
                                                                             <div className="flex-1 flex flex-col sm:flex-row items-start justify-between gap-4 w-full">
                                                                                 <div>
-                                                                                    <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
-                                                                                        {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
-                                                                                        {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
+                                                                                    <h4 className="font-bold text-white text-[17px] flex items-center gap-2 heading-premium">
+                                                                                        {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400 text-muted-premium" /> : null}
+                                                                                        {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400 text-muted-premium" /> : null}
                                                                                         {act.title}
                                                                                     </h4>
 
@@ -1043,7 +1043,7 @@ function WorkspaceContent() {
                                                                                     )}
 
                                                                                     {/* Description */}
-                                                                                    <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg">
+                                                                                    <p className="text-gray-500 text-sm mt-2 leading-relaxed max-w-lg text-muted-premium">
                                                                                         {act.description}
                                                                                     </p>
                                                                                 </div>
@@ -1052,7 +1052,7 @@ function WorkspaceContent() {
                                                                                 <div className="flex flex-col items-start sm:items-end gap-2 shrink-0 print:hidden">
                                                                                     {act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && !act.isFood ? (
                                                                                         <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
-                                                                                            <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end">
+                                                                                            <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end text-muted-premium">
                                                                                                 {act.cost}
                                                                                             </span>
                                                                                             <a href={`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center">
@@ -1075,11 +1075,11 @@ function WorkspaceContent() {
                                                                     <div className="flex gap-4 items-start relative -mt-4 mb-4 break-inside-avoid">
                                                                         <div className="w-16 shrink-0"></div>
                                                                         <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
-                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center">
-                                                                                <Route size={10} className="text-gray-400" />
+                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center premium-glass-card">
+                                                                                <Route size={10} className="text-gray-400 text-muted-premium" />
                                                                             </div>
                                                                         </div>
-                                                                        <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3">
+                                                                        <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3 text-muted-premium">
                                                                             <span>{act.transitToNext.duration}</span>
                                                                             <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">{act.transitToNext.mode}</span>
                                                                         </div>
@@ -1096,7 +1096,7 @@ function WorkspaceContent() {
                                 </div>
                             </>
                         ) : (
-                            <div className="w-full h-full min-h-[600px] flex flex-col items-center justify-start pt-32 border border-white/5 rounded-2xl bg-[#161616]/50 relative overflow-hidden shadow-2xl">
+                            <div className="w-full h-full min-h-[600px] flex flex-col items-center justify-start pt-32 border border-white/5 rounded-2xl bg-[#161616]/50 relative overflow-hidden shadow-2xl premium-glass-card">
                                 {/* Beautiful blurred travel background */}
                                 <div
                                     className="absolute inset-0 bg-cover bg-center opacity-40 mix-blend-luminosity scale-105"
@@ -1107,7 +1107,7 @@ function WorkspaceContent() {
 
                                 <div className="relative z-10 px-8 text-center max-w-lg mt-12">
                                     <Globe2 size={56} className="text-[#EEDC00] mx-auto mb-6 drop-shadow-[0_0_15px_rgba(238,220,0,0.5)]" />
-                                    <h3 className="text-3xl font-black text-white mb-4 tracking-tight">{t.ws_ready_title || "Ready to explore?"}</h3>
+                                    <h3 className="text-3xl font-black text-white mb-4 tracking-tight heading-premium">{t.ws_ready_title || "Ready to explore?"}</h3>
                                     <p className="text-gray-300 max-w-sm mx-auto leading-relaxed">
                                         {t.ws_ready_desc || "Fill out your travel details on the left. Our AI will instantly craft a perfect, personalized daily itinerary for your next adventure."}
                                     </p>

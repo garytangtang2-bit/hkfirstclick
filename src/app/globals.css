@@ -14,3 +14,89 @@ body {
   background-attachment: fixed;
   min-height: 100vh;
 }
+
+/* =========================================
+   HKfirstclick Premium UI Skin (Drop-in)
+   ========================================= */
+
+:root {
+  --bg-dark: #0A0F1E;
+  --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --cyan-glow: rgba(0, 210, 255, 0.4);
+  --text-primary: #FFFFFF;
+  --text-muted: #9CA3AF;
+}
+
+/* 1. 基礎背景與字體優化 (平滑渲染) */
+body {
+  background-color: var(--bg-dark);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 2. 高級毛玻璃卡片 (用於你的輸入框外觀、行程卡片) */
+.premium-glass-card {
+  background: var(--glass-bg) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border) !important;
+  border-radius: 24px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.premium-glass-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 255, 255, 0.15) !important;
+  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.6), 0 0 20px rgba(0, 210, 255, 0.05);
+}
+
+/* 3. 電影感照片濾鏡 (直接套用於現有圖片) */
+.cinematic-img {
+  filter: brightness(0.85) contrast(1.15) saturate(1.1);
+  transition: filter 0.5s ease, transform 0.7s cubic-bezier(0.2, 0.8, 0.2, 1);
+  border-radius: inherit;
+}
+
+.cinematic-img:hover {
+  filter: brightness(1) contrast(1.05) saturate(1.2);
+  transform: scale(1.03);
+}
+
+/* 4. 輸入框與按鈕的發光微動效 */
+.premium-input {
+  background: rgba(0, 0, 0, 0.4) !important;
+  border: 1px solid var(--glass-border) !important;
+  color: var(--text-primary);
+  transition: all 0.3s ease;
+}
+
+.premium-input:focus {
+  outline: none !important;
+  border-color: #00D2FF !important;
+  box-shadow: 0 0 15px var(--cyan-glow) !important;
+}
+
+.premium-btn {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.premium-btn:active {
+  transform: scale(0.97);
+}
+
+/* 5. 文字排版呼吸感 */
+.heading-premium {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.text-muted-premium {
+  color: var(--text-muted) !important;
+  letter-spacing: 0.02em;
+  line-height: 1.6;
+}
