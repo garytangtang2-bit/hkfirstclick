@@ -100,3 +100,196 @@ body {
   letter-spacing: 0.02em;
   line-height: 1.6;
 }
+
+/* =========================================
+   Cinematic Advanced Visuals (Phase 2)
+   ========================================= */
+
+:root {
+  --radius-premium: 24px;
+  --noise-op: 0.04;
+  --guide-color: rgba(255, 255, 255, 0.02);
+}
+
+/* 6. Global Noise Texture */
+.global-noise::before {
+  content: "";
+  position: fixed;
+  inset: -100%;
+  width: 300%;
+  height: 300%;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  opacity: var(--noise-op);
+  pointer-events: none;
+  z-index: 9999;
+  animation: noiseAnimation 8s steps(10) infinite;
+}
+
+@keyframes noiseAnimation {
+  0% {
+    transform: translate(0, 0);
+  }
+
+  10% {
+    transform: translate(-5%, -5%);
+  }
+
+  20% {
+    transform: translate(-10%, 5%);
+  }
+
+  30% {
+    transform: translate(5%, -10%);
+  }
+
+  40% {
+    transform: translate(-5%, 15%);
+  }
+
+  50% {
+    transform: translate(-10%, 5%);
+  }
+
+  60% {
+    transform: translate(15%, 0);
+  }
+
+  70% {
+    transform: translate(0, 10%);
+  }
+
+  80% {
+    transform: translate(-15%, 0);
+  }
+
+  90% {
+    transform: translate(10%, 5%);
+  }
+
+  100% {
+    transform: translate(5%, 0);
+  }
+}
+
+/* 7. Vertical Guide Lines */
+.vertical-guides {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  background-image:
+    linear-gradient(90deg, var(--guide-color) 1px, transparent 1px),
+    linear-gradient(90deg, var(--guide-color) 1px, transparent 1px),
+    linear-gradient(90deg, var(--guide-color) 1px, transparent 1px);
+  background-size: 33.333% 100%;
+}
+
+/* 8. Premium Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 210, 255, 0.3);
+}
+
+/* 9. Liquid Wipe Transition Layer */
+.liquid-wipe {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: var(--bg-dark);
+  z-index: 10000;
+  transform-origin: top;
+  pointer-events: none;
+}
+
+/* 10. Custom Cursor */
+body,
+button,
+a,
+input,
+select,
+textarea {
+
+  /* Hide default cursor on desktop, keep on mobile just in case */
+  @media (pointer: fine) {
+    cursor: none !important;
+  }
+}
+
+.custom-cursor-dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 8px;
+  height: 8px;
+  background: #00D2FF;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 10001;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: screen;
+}
+
+.custom-cursor-ring {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(0, 210, 255, 0.4);
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 10000;
+  transform: translate(-50%, -50%);
+  transition: width 0.3s, height 0.3s, background-color 0.3s, border-color 0.3s;
+}
+
+.custom-cursor-ring.active {
+  width: 60px;
+  height: 60px;
+  background-color: rgba(0, 210, 255, 0.05);
+  border-color: rgba(212, 175, 55, 0.6);
+  /* Gold accent on hover */
+}
+
+/* 11. Numbered Decorative Markers & Depth via CSS */
+.premium-glass-card {
+  border-radius: var(--radius-premium) !important;
+  position: relative;
+}
+
+/* Automatic decorative numbering for sections using counter */
+body {
+  counter-reset: premiumCounter;
+}
+
+.premium-glass-card::before {
+  counter-increment: premiumCounter;
+  content: "0" counter(premiumCounter) ".";
+  position: absolute;
+  top: 16px;
+  right: 24px;
+  font-size: 8px;
+  font-family: monospace;
+  font-weight: 800;
+  color: rgba(212, 175, 55, 0.3);
+  /* Gold */
+  letter-spacing: 2px;
+  pointer-events: none;
+}
