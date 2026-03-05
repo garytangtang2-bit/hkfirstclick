@@ -158,12 +158,20 @@ function PricingContent() {
                                         ? t.free_credit
                                         : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
                                 </span>
-                                {plan.price[currency as keyof typeof plan.price] > 0 && (
-                                    <span className="text-gray-500 text-sm mb-1 line-through">
-                                        {getCurrencySymbol(currency)}
-                                        {Math.round(plan.price[currency as keyof typeof plan.price] * 1.5)}
-                                    </span>
-                                )}
+                                {plan.price[currency as keyof typeof plan.price] > 0 && (() => {
+                                    const orig = Math.round(plan.price[currency as keyof typeof plan.price] * 2.8);
+                                    const discPct = Math.round((1 - plan.price[currency as keyof typeof plan.price] / orig) * 100);
+                                    return (
+                                        <div className="flex items-center gap-2 mb-1">
+                                            <span className="text-gray-500 text-sm line-through">
+                                                {getCurrencySymbol(currency)}{orig}
+                                            </span>
+                                            <span className="text-[10px] font-black bg-red-500 text-white px-1.5 py-0.5 rounded-full tracking-wide">
+                                                -{discPct}% OFF
+                                            </span>
+                                        </div>
+                                    );
+                                })()}
                             </div>
 
                             <div className="space-y-4 mb-8 flex-1">

@@ -597,7 +597,6 @@ function WorkspaceContent() {
 
                                     <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6">
                                         <h3 className="font-bold flex items-center gap-2 text-white text-lg">
-                                            <span className="bg-[#EEDC00] w-6 h-6 rounded-full flex items-center justify-center text-xs text-black">2</span>
                                             {t.q_group_title || "Group Composition"}
                                         </h3>
                                         <div className="grid grid-cols-2 gap-4">
@@ -638,7 +637,6 @@ function WorkspaceContent() {
 
                                     <div className="bg-[#161616] border border-white/5 rounded-2xl p-6 space-y-6 mt-6">
                                         <h3 className="font-bold flex items-center gap-2 text-white text-lg">
-                                            <span className="bg-[#EEDC00] w-6 h-6 rounded-full flex items-center justify-center text-xs text-black">3</span>
                                             <Sparkles size={16} className="text-[#EEDC00]" /> {t.pref_title}
                                         </h3>
 
@@ -797,12 +795,12 @@ function WorkspaceContent() {
                                     {error && <p className="text-red-400 text-sm">{error}</p>}
                                     <button
                                         onClick={handleUpdateItinerary}
-                                        disabled={loading || !chatMessage.trim() || userTier === "TRIAL" || userTier === "Casual" || !userTier}
+                                        disabled={loading || !chatMessage.trim() || userTier === "TRIAL" || userTier === "Casual"}
                                         className="w-full py-3 rounded-xl font-bold border border-[#EEDC00] text-[#EEDC00] hover:bg-[#EEDC00] hover:text-black transition-colors flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed disabled:bg-transparent disabled:text-gray-500 disabled:border-gray-500"
                                     >
                                         {loading ? <><Loader2 size={16} className="animate-spin" /> {t.ws_tweak_loading || "Processing..."}</> : ((t.ws_tweak_btn || "Update Itinerary") + " ✨")}
                                     </button>
-                                    {(userTier === "TRIAL" || userTier === "Casual" || !userTier) && (
+                                    {(userTier === "TRIAL" || userTier === "Casual") && (
                                         <div className="text-center text-xs text-gray-500 mt-1 cursor-pointer hover:text-[#EEDC00] transition-colors" onClick={() => window.location.href = '/pricing'}>
                                             {t.ws_upgrade_hint || "免費用戶無法修改行程，請升級方案 ✨"}
                                         </div>
