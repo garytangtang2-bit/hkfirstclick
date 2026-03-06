@@ -14,9 +14,11 @@ declare global {
 interface MapComponentProps {
     userTier: string | null;
     selectedRegion: string;
+    onCitySelect: (city: any) => void;
+    onVisibleCitiesChange: (cities: any[]) => void;
 }
 
-export default function MapComponent({ userTier, selectedRegion }: MapComponentProps) {
+export default function MapComponent({ userTier, selectedRegion, onCitySelect, onVisibleCitiesChange }: MapComponentProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstance = useRef<any>(null);
     const markersClusterRef = useRef<any>(null);
@@ -76,23 +78,37 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
                     spiderfyOnMaxZoom: true,
                     showCoverageOnHover: false,
                     zoomToBoundsOnClick: true,
-                    // Custom Cluster Icon - Vibrant Sunset Coral for light map
+                    // Custom Cluster Icon - Amber Gold Heatmap Effect
                     iconCreateFunction: function (cluster: any) {
-                        return L.divIcon({
-                            html: `<div style="background-color: rgba(255, 90, 95, 0.2); border: 2px solid #FF5A5F; color: #FF5A5F; border-radius: 50%; padding: 8px; text-align: center; font-weight: bold; box-shadow: 0 0 15px rgba(255, 90, 95, 0.4);">${cluster.getChildCount()}</div>`,
-                            className: 'custom-cluster-icon',
-                            iconSize: L.point(40, 40)
-                        });
+                        const count = cluster.getChildCount();
+                        const currentZoom = mapInstance.current.getZoom();
+
+                        if (currentZoom < 4) {
+                            // Heatmap illusion for global view (No numbers, heavy blur)
+                            return L.divIcon({
+                                html: `<div style="width: ${20 + count / 2}px; height: ${20 + count / 2}px; background: radial-gradient(circle, rgba(245,166,35,0.8) 0%, rgba(245,166,35,0) 70%); border-radius: 50%; box-shadow: 0 0 30px rgba(245,166,35,0.6); transform: translate(-50%, -50%);"></div>`,
+                                className: 'custom-heatmap-icon',
+                                iconSize: L.point(0, 0)
+                            });
+                        } else {
+                            // Standard Amber Gold cluster for closer views
+                            return L.divIcon({
+                                html: `<div style="background-color: rgba(245, 166, 35, 0.2); border: 2px solid #F5A623; color: #F5A623; border-radius: 50%; padding: 8px; text-align: center; font-weight: bold; box-shadow: 0 4px 15px rgba(245, 166, 35, 0.4); backdrop-filter: blur(4px);">${count}</div>`,
+                                className: 'custom-cluster-icon',
+                                iconSize: L.point(40, 40)
+                            });
+                        }
                     }
                 });
                 mapInstance.current.addLayer(markersClusterRef.current);
             }
 
+            // Amber Gold individual marker
             const customIcon = L.divIcon({
-                html: `<div style="width: 12px; height: 12px; background-color: #FF5A5F; border-radius: 50%; box-shadow: 0 0 8px #FF5A5F, 0 0 15px #FF5A5F; border: 2px solid white;"></div>`,
+                html: `<div style="width: 14px; height: 14px; background-color: #F5A623; border-radius: 50%; box-shadow: 0 4px 10px rgba(245, 166, 35, 0.6), 0 0 20px rgba(245, 166, 35, 0.4); border: 2.5px solid white;"></div>`,
                 className: 'custom-div-icon',
-                iconSize: [12, 12],
-                iconAnchor: [6, 6]
+                iconSize: [14, 14],
+                iconAnchor: [7, 7]
             });
 
             let filteredData = dataToRender;
@@ -104,24 +120,14 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
                 const marker = L.marker([city.Latitude, city.Longitude], { icon: customIcon });
 
                 marker.on('click', () => {
-                    if (userTier === "TRIAL" || userTier === "Casual" || !userTier) {
-                        marker.bindPopup(`<b>${city.City}</b><br/><br/><span style="font-size: 11px; color: gray;">${t.ws_upgrade_hint || "Upgrade to Premium ✨ for details & FlyTo"}</span>`).openPopup();
-                    } else {
-                        mapInstance.current.flyTo([city.Latitude, city.Longitude], 12, {
-                            animate: true,
-                            duration: 1.5
-                        });
+                    // Fly to location smoothly
+                    mapInstance.current.flyTo([city.Latitude, city.Longitude], 12, {
+                        animate: true,
+                        duration: 1.5
+                    });
 
-                        marker.bindPopup(`
-                            <div style="min-width: 200px; padding: 4px;" class="popup-content">
-                                <h3 style="margin: 0 0 10px 0; font-weight: bold; font-size: 16px; color: #FF5A5F;">${city.City} ✨</h3>
-                                <p style="margin: 4px 0;"><strong style="color: #666;">📌 Vibe:</strong> <span style="color: #333;">${city.Vibe}</span></p>
-                                <p style="margin: 4px 0;"><strong style="color: #666;">🍜 Food:</strong> <span style="color: #333;">${city.Top_Food}</span></p>
-                                <p style="margin: 4px 0 12px 0;"><strong style="color: #666;">🏛️ Spot:</strong> <span style="color: #333;">${city.Must_Visit_Spot}</span></p>
-                                <a href="#" style="color: #FF5A5F; text-decoration: none; font-size: 13px; font-weight: 800;">View AI City Guide &rarr;</a>
-                            </div>
-                        `).openPopup();
-                    }
+                    // Trigger Bottom Drawer instead of native Leaflet Popup
+                    onCitySelect(city);
                 });
 
                 markersClusterRef.current.addLayer(marker);
@@ -139,22 +145,45 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
             }
         }, 100);
 
-        // 5. Semantic Lazy Loading Binding
-        mapInstance.current.on('zoomend', () => {
+        // 5. Semantic Lazy Loading & Bounds Binding
+        const handleMapMovement = () => {
+            if (!mapInstance.current) return;
+
             const currentZoom = mapInstance.current.getZoom();
             if (currentZoom < 4 && (!selectedRegion || selectedRegion === "All")) {
                 renderMarkers(topCitiesRef.current);
             } else {
                 renderMarkers(allCitiesRef.current);
             }
-        });
+
+            // Calculate visible cities in current bounds
+            try {
+                const bounds = mapInstance.current.getBounds();
+                const visible = allCitiesRef.current.filter(city =>
+                    bounds.contains([city.Latitude, city.Longitude])
+                );
+                // Return max 15 to keep UI responsive
+                onVisibleCitiesChange(visible.slice(0, 15));
+            } catch (e) {
+                // Ignore initial bounds errors
+            }
+        };
+
+        mapInstance.current.off('zoomend');
+        mapInstance.current.off('moveend');
+
+        mapInstance.current.on('zoomend', handleMapMovement);
+        mapInstance.current.on('moveend', handleMapMovement);
+
+        // Initial bounds calculation
+        setTimeout(handleMapMovement, 300);
 
     }, [mapLoaded, userTier, selectedRegion]);
 
     return (
-        <div className="w-full h-full relative overflow-hidden bg-gray-50">
+        <div className="w-full h-full relative overflow-hidden bg-gray-100">
             {!mapLoaded && (
-                <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-white/90 backdrop-blur-sm text-[#FF5A5F]">
+                <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-white/90 backdrop-blur-sm text-[#F5A623]">
                     <Loader2 className="animate-spin mb-4" size={40} />
                     <p className="font-bold tracking-widest text-sm uppercase">Initializing Global Map...</p>
                 </div>
