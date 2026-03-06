@@ -18,42 +18,45 @@ export function LandingContent({ t, user, navigateTo }: any) {
                     <img
                         src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?q=80&w=2000&auto=format&fit=crop"
                         alt="Background"
-                        className="w-full h-full object-cover opacity-50"
+                        className="w-full h-full object-cover opacity-50 cinematic-img"
                     />
-                    <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0E0E0E]/60 to-[#0E0E0E]" />
+                    <div className="absolute inset-0 bg-gradient-to-b from-transparent via-[#0A0F1E]/60 to-[#0A0F1E]" />
                 </div>
                 <div className="relative z-10 text-center max-w-4xl mx-auto flex flex-col items-center">
-                    <div className="text-gray-400 text-sm mb-6 flex items-center gap-2 uppercase tracking-widest">
+                    <div className="text-[#00D2FF] text-sm mb-6 flex items-center gap-2 uppercase tracking-widest font-bold">
+                        <span className="w-2 h-2 rounded-full bg-[#00D2FF] animate-pulse"></span>
                         {t.landing_subtitle}
                     </div>
                     <h1
-                        className="text-5xl md:text-7xl font-bold text-white mb-6 drop-shadow-2xl leading-snug py-4"
+                        className="text-5xl md:text-7xl font-bold text-white mb-6 drop-shadow-2xl leading-snug py-4 heading-premium"
                         dangerouslySetInnerHTML={{ __html: t.landing_title }}
                     />
-                    <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl leading-relaxed drop-shadow-md">
+                    <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl leading-relaxed drop-shadow-md text-muted-premium">
                         {t.landing_desc}
                     </p>
-                    <YellowButton
-                        onClick={() => navigateTo("/workspace-check")}
-                        className="px-10 py-4 text-lg flex items-center gap-3"
-                    >
-                        {t.btn_start_studio} <ArrowRight size={20} />
-                    </YellowButton>
-                    <p className="mt-6 text-xs text-gray-500 font-mono tracking-widest uppercase">
+                    <div className="flex flex-col sm:flex-row items-center gap-4 w-full justify-center">
+                        <YellowButton
+                            onClick={() => navigateTo("/workspace-check")}
+                            className="w-full sm:w-auto px-10 py-4 text-lg flex items-center justify-center gap-3 premium-btn shadow-[0_0_30px_rgba(238,220,0,0.3)] hover:shadow-[0_0_50px_rgba(238,220,0,0.5)] transition-all duration-300 transform hover:-translate-y-1"
+                        >
+                            {t.btn_start_studio} <ArrowRight size={20} />
+                        </YellowButton>
+                    </div>
+                    <p className="mt-6 text-xs text-gray-500 font-mono tracking-widest uppercase premium-glass-card px-4 py-2 border border-white/5 inline-block">
                         {t.landing_bonus}
                     </p>
                 </div>
             </section>
 
             <section className="px-6 md:px-12 max-w-7xl mx-auto py-32">
-                <div className="mb-16">
+                <div className="mb-16 text-center md:text-left">
                     <h2
-                        className="text-4xl md:text-5xl font-bold mb-6 leading-tight"
+                        className="text-4xl md:text-5xl font-bold mb-6 leading-tight heading-premium"
                         dangerouslySetInnerHTML={{ __html: t.how_title }}
                     ></h2>
-                    <p className="text-gray-400 max-w-xl text-lg">{t.how_desc}</p>
+                    <p className="text-muted-premium max-w-xl text-lg mx-auto md:mx-0">{t.how_desc}</p>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     {[
                         {
                             title: t.step1_title,
@@ -71,23 +74,23 @@ export function LandingContent({ t, user, navigateTo }: any) {
                             img: "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?q=80&w=600&auto=format&fit=crop",
                         },
                     ].map((step, i) => (
-                        <div key={i} className="flex flex-col">
-                            <h3 className="text-xl font-bold mb-3 flex items-start gap-2">
-                                <ArrowRight
-                                    className="mt-1 text-gray-500 shrink-0"
-                                    size={20}
-                                />
+                        <div key={i} className="flex flex-col premium-glass-card p-6 h-full cursor-pointer group">
+                            <h3 className="text-xl font-bold mb-3 flex items-start gap-3 heading-premium">
+                                <span className="bg-[#00D2FF]/10 text-[#00D2FF] w-8 h-8 rounded-full flex items-center justify-center text-sm font-black shrink-0">
+                                    {i + 1}
+                                </span>
                                 {step.title}
                             </h3>
-                            <p className="text-gray-400 text-sm mb-8 leading-relaxed h-12">
+                            <p className="text-muted-premium text-sm mb-8 leading-relaxed flex-grow">
                                 {step.desc}
                             </p>
-                            <div className="mt-auto aspect-[4/3] rounded-2xl overflow-hidden border border-white/10 relative group">
+                            <div className="mt-auto aspect-[4/3] rounded-2xl overflow-hidden relative border border-white/5">
                                 <img
                                     src={step.img}
                                     alt={step.title}
-                                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                                    className="w-full h-full object-cover cinematic-img transition-transform duration-700 ease-in-out group-hover:scale-110"
                                 />
+                                <div className="absolute inset-0 bg-gradient-to-t from-[#0A0F1E]/80 to-transparent pointer-events-none" />
                             </div>
                         </div>
                     ))}
@@ -95,8 +98,11 @@ export function LandingContent({ t, user, navigateTo }: any) {
             </section>
 
             <section className="px-6 md:px-12 max-w-4xl mx-auto py-32 border-t border-white/5">
-                <h2 className="text-4xl md:text-5xl font-bold mb-12">{t.faq_title}</h2>
-                <div className="flex flex-col">
+                <div className="text-center mb-16">
+                    <h2 className="text-4xl md:text-5xl font-bold heading-premium mb-4">{t.faq_title}</h2>
+                    <div className="w-24 h-1 bg-[#00D2FF] mx-auto rounded-full opacity-50"></div>
+                </div>
+                <div className="flex flex-col gap-4">
                     {faqList.map((item, i) => (
                         <AccordionItem key={i} q={item.q} a={item.a} />
                     ))}
