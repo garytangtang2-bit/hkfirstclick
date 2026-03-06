@@ -45,34 +45,34 @@ function MapContent() {
     }, [supabase]);
 
     return (
-        <div className="h-screen w-full flex flex-col md:flex-row overflow-hidden bg-[#0A0F1E] pt-[72px]">
-            {/* Map Sidebar / Info Panel */}
-            <div className="w-full md:w-[400px] lg:w-[480px] h-[40vh] md:h-full bg-[#161616]/80 backdrop-blur-xl border-r border-white/5 p-8 flex flex-col justify-between z-20 shrink-0">
+        <div className="h-screen w-full flex flex-col md:flex-row overflow-hidden bg-gray-100 pt-[72px]">
+            {/* Map Sidebar / Info Panel - Bright Theme */}
+            <div className="w-full md:w-[400px] lg:w-[480px] h-[40vh] md:h-full bg-white border-r border-gray-200 p-8 flex flex-col justify-between z-20 shrink-0 shadow-xl relative">
 
                 <div>
-                    <div className="bg-[#00D2FF]/10 w-16 h-16 rounded-2xl flex items-center justify-center mb-8 border border-[#00D2FF]/20 shadow-[0_0_20px_rgba(0,210,255,0.1)]">
-                        <Map className="text-[#00D2FF]" size={32} />
+                    <div className="bg-[#FF5A5F]/10 w-16 h-16 rounded-2xl flex items-center justify-center mb-8 border border-[#FF5A5F]/20 shadow-[0_0_20px_rgba(255,90,95,0.1)]">
+                        <Map className="text-[#FF5A5F]" size={32} />
                     </div>
 
-                    <h1 className="text-3xl md:text-4xl font-black mb-4 text-white heading-premium leading-tight">
+                    <h1 className="text-3xl md:text-4xl font-extrabold mb-4 text-gray-900 leading-tight tracking-tight">
                         {t.map_title_page || "Global Travel Map"}
                     </h1>
 
-                    <p className="text-muted-premium text-base mb-8 leading-relaxed">
+                    <p className="text-gray-600 text-base mb-8 leading-relaxed">
                         {t.map_body || "Watch your generated AI itineraries come to life on our interactive global tracking map. Premium users unlock instant FlyTo animations and rich contextual insights."}
                     </p>
                 </div>
 
                 <div className="flex flex-col gap-4">
-                    {/* Region Filters */}
+                    {/* Region Filters - Bright Theme */}
                     <div className="flex flex-wrap gap-2 mb-2">
                         {["All", "亞洲", "歐洲", "美洲", "中東", "大洋洲", "非洲"].map((region) => (
                             <button
                                 key={region}
                                 onClick={() => setSelectedRegion(region)}
                                 className={`px-4 py-1.5 rounded-full text-sm font-bold transition-all ${selectedRegion === region
-                                        ? "bg-[#00D2FF] text-[#0A0F1E] shadow-[0_0_15px_rgba(0,210,255,0.4)]"
-                                        : "bg-white/5 text-gray-400 hover:bg-white/10 hover:text-white border border-white/5"
+                                        ? "bg-[#FF5A5F] text-white shadow-[0_4px_14px_0_rgba(255,90,95,0.39)]"
+                                        : "bg-gray-100 text-gray-500 hover:bg-gray-200 hover:text-gray-900 border border-gray-200"
                                     }`}
                             >
                                 {region === "All" ? "全球 (Global)" : region}
@@ -80,21 +80,28 @@ function MapContent() {
                         ))}
                     </div>
 
-                    <div className="bg-white/5 p-4 rounded-xl border border-white/5 backdrop-blur-md">
+                    <div className="bg-gray-50 p-4 rounded-xl border border-gray-200">
                         <div className="flex items-center gap-3 mb-2">
                             <span className="w-2 h-2 rounded-full bg-[#EEDC00] animate-pulse"></span>
-                            <span className="text-sm font-bold text-white">Your Current Status</span>
+                            <span className="text-sm font-bold text-gray-800">Your Current Status</span>
                         </div>
-                        <p className="text-xs text-gray-400 font-mono tracking-wider uppercase">
+                        <p className="text-xs text-gray-500 font-mono tracking-wider uppercase">
                             Tier: {userTier || "Casual (Free)"} {userTier !== 'TRIAL' && userTier !== 'Casual' && userTier !== null && "✨"}
                         </p>
                     </div>
 
-                    <Link href="/workspace">
-                        <button className="w-full bg-[#00D2FF] text-[#0A0F1E] px-6 py-4 rounded-xl font-bold hover:bg-white transition-colors flex justify-center items-center gap-2 premium-btn shadow-[0_0_20px_rgba(0,210,255,0.3)]">
-                            {t.map_btn || "Back to Studio"} <ArrowRight size={18} />
-                        </button>
-                    </Link>
+                    <div className="flex flex-col gap-3 mt-4">
+                        <Link href="/workspace">
+                            <button className="w-full bg-[#FF5A5F] text-white px-6 py-4 rounded-xl font-bold hover:bg-[#E34A4F] transition-colors flex justify-center items-center gap-2 shadow-[0_4px_14px_0_rgba(255,90,95,0.39)]">
+                                ✨ {t.header_generate || "Generate AI Itinerary"} <ArrowRight size={18} />
+                            </button>
+                        </Link>
+                        <Link href="/catalog">
+                            <button className="w-full bg-white text-gray-800 border-2 border-gray-200 px-6 py-4 rounded-xl font-bold hover:border-gray-300 hover:bg-gray-50 transition-colors flex justify-center items-center gap-2">
+                                🌍 {t.header_catalog || "Explore Inspirations"} <ArrowRight size={18} />
+                            </button>
+                        </Link>
+                    </div>
                 </div>
             </div>
 

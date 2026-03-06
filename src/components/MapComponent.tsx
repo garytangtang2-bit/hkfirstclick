@@ -47,8 +47,8 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
             // 1. Initialize map centered globally to show off clusters
             mapInstance.current = window.L.map(mapRef.current).setView([20, 0], 2);
 
-            // 2. Add OpenStreetMap Tile Layer (Dark Theme via CartoDB Dark Matter for better SaaS contrast)
-            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            // 2. Add OpenStreetMap Tile Layer (Bright Theme via CartoDB Positron for high usability)
+            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                 maxZoom: 19,
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
             }).addTo(mapInstance.current);
@@ -76,10 +76,10 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
                     spiderfyOnMaxZoom: true,
                     showCoverageOnHover: false,
                     zoomToBoundsOnClick: true,
-                    // Custom Cluster Icon to match the premium theme
+                    // Custom Cluster Icon - Vibrant Sunset Coral for light map
                     iconCreateFunction: function (cluster: any) {
                         return L.divIcon({
-                            html: `<div style="background-color: rgba(0, 210, 255, 0.2); border: 2px solid #00D2FF; color: #00D2FF; border-radius: 50%; padding: 8px; text-align: center; font-weight: bold; box-shadow: 0 0 15px rgba(0, 210, 255, 0.5);">${cluster.getChildCount()}</div>`,
+                            html: `<div style="background-color: rgba(255, 90, 95, 0.2); border: 2px solid #FF5A5F; color: #FF5A5F; border-radius: 50%; padding: 8px; text-align: center; font-weight: bold; box-shadow: 0 0 15px rgba(255, 90, 95, 0.4);">${cluster.getChildCount()}</div>`,
                             className: 'custom-cluster-icon',
                             iconSize: L.point(40, 40)
                         });
@@ -89,7 +89,7 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
             }
 
             const customIcon = L.divIcon({
-                html: `<div style="width: 12px; height: 12px; background-color: #00D2FF; border-radius: 50%; box-shadow: 0 0 10px #00D2FF, 0 0 20px #00D2FF; border: 2px solid white;"></div>`,
+                html: `<div style="width: 12px; height: 12px; background-color: #FF5A5F; border-radius: 50%; box-shadow: 0 0 8px #FF5A5F, 0 0 15px #FF5A5F; border: 2px solid white;"></div>`,
                 className: 'custom-div-icon',
                 iconSize: [12, 12],
                 iconAnchor: [6, 6]
@@ -114,11 +114,11 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
 
                         marker.bindPopup(`
                             <div style="min-width: 200px; padding: 4px;" class="popup-content">
-                                <h3 style="margin: 0 0 10px 0; font-weight: bold; font-size: 16px; color: #00D2FF;">${city.City} ✨</h3>
-                                <p style="margin: 4px 0;"><strong style="color: #666;">📌 Vibe:</strong> <span style="color: #444;">${city.Vibe}</span></p>
-                                <p style="margin: 4px 0;"><strong style="color: #666;">🍜 Food:</strong> <span style="color: #444;">${city.Top_Food}</span></p>
-                                <p style="margin: 4px 0 12px 0;"><strong style="color: #666;">🏛️ Spot:</strong> <span style="color: #444;">${city.Must_Visit_Spot}</span></p>
-                                <a href="#" style="color: #00D2FF; text-decoration: none; font-size: 13px; font-weight: 800;">View AI City Guide &rarr;</a>
+                                <h3 style="margin: 0 0 10px 0; font-weight: bold; font-size: 16px; color: #FF5A5F;">${city.City} ✨</h3>
+                                <p style="margin: 4px 0;"><strong style="color: #666;">📌 Vibe:</strong> <span style="color: #333;">${city.Vibe}</span></p>
+                                <p style="margin: 4px 0;"><strong style="color: #666;">🍜 Food:</strong> <span style="color: #333;">${city.Top_Food}</span></p>
+                                <p style="margin: 4px 0 12px 0;"><strong style="color: #666;">🏛️ Spot:</strong> <span style="color: #333;">${city.Must_Visit_Spot}</span></p>
+                                <a href="#" style="color: #FF5A5F; text-decoration: none; font-size: 13px; font-weight: 800;">View AI City Guide &rarr;</a>
                             </div>
                         `).openPopup();
                     }
@@ -152,11 +152,11 @@ export default function MapComponent({ userTier, selectedRegion }: MapComponentP
     }, [mapLoaded, userTier, selectedRegion]);
 
     return (
-        <div className="w-full h-full relative premium-glass-card overflow-hidden">
+        <div className="w-full h-full relative overflow-hidden bg-gray-50">
             {!mapLoaded && (
-                <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-[#0E0E0E]/80 backdrop-blur-sm text-[#00D2FF]">
+                <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-white/90 backdrop-blur-sm text-[#FF5A5F]">
                     <Loader2 className="animate-spin mb-4" size={40} />
-                    <p className="font-bold tracking-widest text-sm uppercase glow-text">Initializing Global Map...</p>
+                    <p className="font-bold tracking-widest text-sm uppercase">Initializing Global Map...</p>
                 </div>
             )}
             <div id="map" ref={mapRef} style={{ height: "100%", width: "100%", zIndex: 10 }}></div>
