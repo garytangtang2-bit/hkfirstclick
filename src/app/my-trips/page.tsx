@@ -62,7 +62,7 @@ function MyTripsContent() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     {trips.map((trip) => (
                         <Link href={`/workspace?id=${trip.id}`} key={trip.id} className="block group">
-                            <div className="bg-[#161616] border border-white/5 group-hover:border-[#EEDC00]/50 rounded-3xl p-6 transition-all duration-300 transform group-hover:-translate-y-2 h-full flex flex-col shadow-lg">
+                            <div className="bg-[#1E1E1E] border border-white/10 group-hover:border-[#EEDC00]/50 rounded-3xl p-6 transition-all duration-300 transform group-hover:-translate-y-2 h-full flex flex-col shadow-2xl premium-glass-card">
                                 <div className="flex justify-between items-start mb-4">
                                     <div className="bg-white/5 p-3 rounded-2xl group-hover:bg-[#EEDC00]/10 transition-colors">
                                         <MapPin className="text-[#EEDC00]" size={24} />
@@ -85,7 +85,7 @@ function MyTripsContent() {
                     ))}
                 </div>
             ) : (
-                <div className="bg-[#161616] border border-white/5 rounded-3xl p-12 text-center max-w-2xl mx-auto">
+                <div className="bg-[#1E1E1E] border border-white/10 rounded-3xl p-12 text-center max-w-2xl mx-auto shadow-2xl premium-glass-card">
                     <MapPin size={48} className="text-gray-700 mx-auto mb-6" />
                     <h3 className="text-xl font-bold text-white mb-4">No trips found</h3>
                     <p className="text-gray-400 mb-8">You haven't generated any itineraries yet. Let's create your first adventure!</p>

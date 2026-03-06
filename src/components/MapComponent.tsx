@@ -49,8 +49,8 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
             // 1. Initialize map centered globally to show off clusters
             mapInstance.current = window.L.map(mapRef.current).setView([20, 0], 2);
 
-            // 2. Add OpenStreetMap Tile Layer (Bright Theme via CartoDB Positron for high usability)
-            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            // 2. Add OpenStreetMap Tile Layer (Dark Theme via CartoDB Dark Matter for premium cohesive feel)
+            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
                 maxZoom: 19,
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
             }).addTo(mapInstance.current);

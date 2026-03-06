@@ -137,9 +137,9 @@ function PricingContent() {
                     return (
                         <div
                             key={i}
-                            className={`bg-[#161616] rounded-3xl p-8 flex flex-col transition-all duration-300 ${plan.isPopular
-                                ? "border-2 border-[#EEDC00] shadow-[0_0_30px_rgba(238,220,0,0.15)] transform md:-translate-y-4"
-                                : "border border-white/5 hover:border-white/20"
+                            className={`bg-[#1E1E1E] rounded-3xl p-8 flex flex-col transition-all duration-300 premium-glass-card ${plan.isPopular
+                                ? "border-2 border-[#EEDC00] shadow-[0_0_30px_rgba(238,220,0,0.2)] transform md:-translate-y-4"
+                                : "border border-white/10 hover:border-white/20 shadow-2xl"
                                 }`}
                         >
                             {plan.isPopular && (
