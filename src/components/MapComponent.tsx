@@ -3,6 +3,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Loader2 } from "lucide-react";
 import { useAppContext } from "@/components/AppContext";
+import Papa from "papaparse";
 
 declare global {
     interface Window {
@@ -10,27 +11,34 @@ declare global {
     }
 }
 
-export default function MapComponent({ userTier }: { userTier: string | null }) {
+interface MapComponentProps {
+    userTier: string | null;
+    selectedRegion: string;
+}
+
+export default function MapComponent({ userTier, selectedRegion }: MapComponentProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstance = useRef<any>(null);
-    const polylineRef = useRef<any>(null);
-    const markersRef = useRef<any[]>([]);
+    const markersClusterRef = useRef<any>(null);
     const [mapLoaded, setMapLoaded] = useState(false);
     const { t } = useAppContext();
+    const allCitiesRef = useRef<any[]>([]); // Store parsed CSV data
+    const topCitiesRef = useRef<any[]>([]); // Top 50 subset
 
-    // Base simulated cluster locations (representing the 1000 items from backend)
-    const cityData = [
-        { name: "Bangkok (曼谷)", lat: 13.7563, lng: 100.5018, feature: "Vibrancy, Temples & Modernity", food: "Tom Yum Goong, Pad Thai", spot: "Grand Palace, Wat Arun" },
-        { name: "Hong Kong (香港)", lat: 22.3193, lng: 114.1694, feature: "Shopping Paradise, Skyscrapers", food: "Dim Sum, Roast Goose", spot: "Victoria Harbour, The Peak" },
-        { name: "London (倫敦)", lat: 51.5074, lng: -0.1278, feature: "History & Royal Culture", food: "Afternoon Tea, Fish & Chips", spot: "Big Ben, Tower Bridge" },
-        { name: "Paris (巴黎)", lat: 48.8566, lng: 2.3522, feature: "Romance, Fashion, Arts", food: "Croissant, Macaron", spot: "Eiffel Tower, Louvre" },
-        { name: "Tokyo (東京)", lat: 35.6895, lng: 139.6917, feature: "Futurism, Anime, Politeness", food: "Sushi, Ramen, Wagyu", spot: "Shibuya Crossing, Senso-ji" },
-        { name: "Dubai (杜拜)", lat: 25.2048, lng: 55.2708, feature: "Luxury, Desert Miracles", food: "Camel Meat, Arabic BBQ", spot: "Burj Khalifa, Burj Al Arab" },
-        { name: "Rome (羅馬)", lat: 41.9028, lng: 12.4964, feature: "Eternal City, Ruins & Museums", food: "Pasta, Gelato", spot: "Colosseum, Trevi Fountain" },
-        { name: "Istanbul (伊斯坦堡)", lat: 41.0082, lng: 28.9784, feature: "Eurasian Crossroads, Turkish Vibes", food: "Kebab, Turkish Coffee", spot: "Hagia Sophia" },
-        { name: "New York (紐約)", lat: 40.7128, lng: -74.0060, feature: "The Big Apple, City Never Sleeps", food: "NY Pizza, Cheesecake", spot: "Times Square, Statue of Liberty" },
-        { name: "Barcelona (巴塞隆拿)", lat: 41.3851, lng: 2.1734, feature: "Gaudí Architecture, Med. Sunshine", food: "Tapas, Paella", spot: "Sagrada Familia, Park Güell" }
-    ];
+    // Fetch and parse CSV data once
+    useEffect(() => {
+        Papa.parse("/global_cities_1000.csv", {
+            download: true,
+            header: true,
+            dynamicTyping: true, // auto convert numbers
+            complete: (results) => {
+                // Filter out invalid rows instantly
+                const validData = results.data.filter((d: any) => d.City && d.Latitude && d.Longitude);
+                allCitiesRef.current = validData;
+                topCitiesRef.current = validData.slice(0, 50); // Just mock Top 50 based on order
+            }
+        });
+    }, []);
 
     useEffect(() => {
         // Essential check to ensure 'L' (Leaflet) exists on the window object (loaded via Script tag)
@@ -59,75 +67,89 @@ export default function MapComponent({ userTier }: { userTier: string | null }) 
     useEffect(() => {
         if (!mapLoaded || !mapInstance.current) return;
         const L = window.L;
+        // 3. Render logic function
+        const renderMarkers = (dataToRender: any[]) => {
+            if (markersClusterRef.current) {
+                markersClusterRef.current.clearLayers();
+            } else {
+                markersClusterRef.current = L.markerClusterGroup({
+                    spiderfyOnMaxZoom: true,
+                    showCoverageOnHover: false,
+                    zoomToBoundsOnClick: true,
+                    // Custom Cluster Icon to match the premium theme
+                    iconCreateFunction: function (cluster: any) {
+                        return L.divIcon({
+                            html: `<div style="background-color: rgba(0, 210, 255, 0.2); border: 2px solid #00D2FF; color: #00D2FF; border-radius: 50%; padding: 8px; text-align: center; font-weight: bold; box-shadow: 0 0 15px rgba(0, 210, 255, 0.5);">${cluster.getChildCount()}</div>`,
+                            className: 'custom-cluster-icon',
+                            iconSize: L.point(40, 40)
+                        });
+                    }
+                });
+                mapInstance.current.addLayer(markersClusterRef.current);
+            }
 
-        // Clear existing markers/polylines if any
-        markersRef.current.forEach(m => m.remove());
-        markersRef.current = [];
-        if (polylineRef.current) {
-            polylineRef.current.remove();
-        }
-
-        // 3. Initialize the "Antigravity" Cluster Layer
-        const markersClusterGroup = L.markerClusterGroup({
-            spiderfyOnMaxZoom: true,
-            showCoverageOnHover: false,
-            zoomToBoundsOnClick: true
-        });
-
-        // Track layers to clear them if deps change (or keep them attached)
-        markersRef.current.push(markersClusterGroup);
-
-        const latlngs: any[] = [];
-
-        // 4. Populate clusters and logic
-        cityData.forEach((city) => {
-            const marker = L.marker([city.lat, city.lng]);
-            latlngs.push([city.lat, city.lng]);
-
-            // Custom interaction: Free vs Premium
-            marker.on('click', () => {
-                if (userTier === "TRIAL" || userTier === "Casual" || !userTier) {
-                    // Free User behavior: Just standard small popup, no flyTo, no AI details
-                    marker.bindPopup(`<b>${city.name}</b><br/><br/><span style="font-size: 11px; color: gray;">${t.ws_upgrade_hint || "Upgrade to Premium ✨ for details & FlyTo"}</span>`).openPopup();
-                } else {
-                    // Premium User behavior: FlyTo animation and rich AI description
-                    mapInstance.current.flyTo([city.lat, city.lng], 12, {
-                        animate: true,
-                        duration: 1.5 // in seconds
-                    });
-
-                    marker.bindPopup(`
-                        <div style="min-width: 200px; padding: 4px;" class="popup-content">
-                            <h3 style="margin: 0 0 10px 0; font-weight: bold; font-size: 16px; color: #00D2FF;">${city.name} ✨</h3>
-                            <p style="margin: 4px 0;"><strong style="color: #666;">📌 Vibe:</strong> <span style="color: #444;">${city.feature}</span></p>
-                            <p style="margin: 4px 0;"><strong style="color: #666;">🍜 Food:</strong> <span style="color: #444;">${city.food}</span></p>
-                            <p style="margin: 4px 0 12px 0;"><strong style="color: #666;">🏛️ Spot:</strong> <span style="color: #444;">${city.spot}</span></p>
-                            <a href="#" style="color: #00D2FF; text-decoration: none; font-size: 13px; font-weight: 800;">View AI City Guide &rarr;</a>
-                        </div>
-                    `).openPopup();
-                }
+            const customIcon = L.divIcon({
+                html: `<div style="width: 12px; height: 12px; background-color: #00D2FF; border-radius: 50%; box-shadow: 0 0 10px #00D2FF, 0 0 20px #00D2FF; border: 2px solid white;"></div>`,
+                className: 'custom-div-icon',
+                iconSize: [12, 12],
+                iconAnchor: [6, 6]
             });
 
-            // Add marker to cluster group rather than map directly
-            markersClusterGroup.addLayer(marker);
+            let filteredData = dataToRender;
+            if (selectedRegion && selectedRegion !== "All") {
+                filteredData = dataToRender.filter(city => city.Region && city.Region.includes(selectedRegion));
+            }
+
+            filteredData.forEach((city) => {
+                const marker = L.marker([city.Latitude, city.Longitude], { icon: customIcon });
+
+                marker.on('click', () => {
+                    if (userTier === "TRIAL" || userTier === "Casual" || !userTier) {
+                        marker.bindPopup(`<b>${city.City}</b><br/><br/><span style="font-size: 11px; color: gray;">${t.ws_upgrade_hint || "Upgrade to Premium ✨ for details & FlyTo"}</span>`).openPopup();
+                    } else {
+                        mapInstance.current.flyTo([city.Latitude, city.Longitude], 12, {
+                            animate: true,
+                            duration: 1.5
+                        });
+
+                        marker.bindPopup(`
+                            <div style="min-width: 200px; padding: 4px;" class="popup-content">
+                                <h3 style="margin: 0 0 10px 0; font-weight: bold; font-size: 16px; color: #00D2FF;">${city.City} ✨</h3>
+                                <p style="margin: 4px 0;"><strong style="color: #666;">📌 Vibe:</strong> <span style="color: #444;">${city.Vibe}</span></p>
+                                <p style="margin: 4px 0;"><strong style="color: #666;">🍜 Food:</strong> <span style="color: #444;">${city.Top_Food}</span></p>
+                                <p style="margin: 4px 0 12px 0;"><strong style="color: #666;">🏛️ Spot:</strong> <span style="color: #444;">${city.Must_Visit_Spot}</span></p>
+                                <a href="#" style="color: #00D2FF; text-decoration: none; font-size: 13px; font-weight: 800;">View AI City Guide &rarr;</a>
+                            </div>
+                        `).openPopup();
+                    }
+                });
+
+                markersClusterRef.current.addLayer(marker);
+            });
+        };
+
+        // 4. Initial Render based on Region or Zoom
+        // Wait a tiny bit for PapaParse to finish initially (could be handled via state, but this is a lightweight approach for local CSV)
+        setTimeout(() => {
+            const currentZoom = mapInstance.current.getZoom();
+            if (currentZoom < 4 && (!selectedRegion || selectedRegion === "All")) {
+                renderMarkers(topCitiesRef.current);
+            } else {
+                renderMarkers(allCitiesRef.current);
+            }
+        }, 100);
+
+        // 5. Semantic Lazy Loading Binding
+        mapInstance.current.on('zoomend', () => {
+            const currentZoom = mapInstance.current.getZoom();
+            if (currentZoom < 4 && (!selectedRegion || selectedRegion === "All")) {
+                renderMarkers(topCitiesRef.current);
+            } else {
+                renderMarkers(allCitiesRef.current);
+            }
         });
 
-        // 5. Add all clustered markers to map at once
-        mapInstance.current.addLayer(markersClusterGroup);
-
-        // Optional: Draw polyline (if you still want paths between them, though with thousands it might look crazy. We'll leave it out for a pure city cluster view, or you can restore it.)
-        /*
-        if (latlngs.length > 1) {
-            polylineRef.current = L.polyline(latlngs, {
-                color: '#00D2FF',
-                weight: 2,
-                opacity: 0.3,
-                dashArray: '5, 10'
-            }).addTo(mapInstance.current);
-        }
-        */
-
-    }, [mapLoaded, userTier]);
+    }, [mapLoaded, userTier, selectedRegion]);
 
     return (
         <div className="w-full h-full relative premium-glass-card overflow-hidden">

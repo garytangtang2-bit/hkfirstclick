@@ -24,6 +24,7 @@ export default function MapPage() {
 function MapContent() {
     const { t } = useAppContext();
     const [userTier, setUserTier] = useState<string | null>(null);
+    const [selectedRegion, setSelectedRegion] = useState<string>("All");
     const supabase = createClient();
 
     useEffect(() => {
@@ -63,6 +64,22 @@ function MapContent() {
                 </div>
 
                 <div className="flex flex-col gap-4">
+                    {/* Region Filters */}
+                    <div className="flex flex-wrap gap-2 mb-2">
+                        {["All", "亞洲", "歐洲", "美洲", "中東", "大洋洲", "非洲"].map((region) => (
+                            <button
+                                key={region}
+                                onClick={() => setSelectedRegion(region)}
+                                className={`px-4 py-1.5 rounded-full text-sm font-bold transition-all ${selectedRegion === region
+                                        ? "bg-[#00D2FF] text-[#0A0F1E] shadow-[0_0_15px_rgba(0,210,255,0.4)]"
+                                        : "bg-white/5 text-gray-400 hover:bg-white/10 hover:text-white border border-white/5"
+                                    }`}
+                            >
+                                {region === "All" ? "全球 (Global)" : region}
+                            </button>
+                        ))}
+                    </div>
+
                     <div className="bg-white/5 p-4 rounded-xl border border-white/5 backdrop-blur-md">
                         <div className="flex items-center gap-3 mb-2">
                             <span className="w-2 h-2 rounded-full bg-[#EEDC00] animate-pulse"></span>
@@ -83,7 +100,7 @@ function MapContent() {
 
             {/* Interactive Map Area */}
             <div className="flex-1 h-[60vh] md:h-full relative z-10 w-full">
-                <MapComponent userTier={userTier} />
+                <MapComponent userTier={userTier} selectedRegion={selectedRegion} />
             </div>
         </div>
     );
