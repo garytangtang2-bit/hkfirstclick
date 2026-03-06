@@ -51,7 +51,7 @@ function MapContent() {
     }, [supabase]);
 
     return (
-        <div className="h-screen w-full flex flex-col md:flex-row overflow-hidden bg-gray-100 pt-[72px]">
+        <div className="h-[calc(100vh-64px)] w-full flex flex-col md:flex-row overflow-hidden bg-gray-100">
             {/* Map Sidebar / Info Panel - Bright Theme */}
             <div className="w-full md:w-[400px] lg:w-[420px] h-auto md:h-full bg-white border-r border-gray-200 p-6 md:p-8 flex flex-col justify-between z-20 shrink-0 shadow-xl relative overflow-y-auto">
 
