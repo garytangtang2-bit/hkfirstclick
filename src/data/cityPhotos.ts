@@ -2,7 +2,7 @@
 // Generated at: 2026-03-08T16:20:25.161Z
 
 export const cityPhotos: Record<string, string> = {
-    "香港": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Hong_Kong_Night_Skyline2.jpg",
+    "香港": "https://upload.wikimedia.org/wikipedia/commons/1/17/Union_Square_and_Tsim_Sha_Tsui.jpg",
     "曼谷": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bangkok_Montage_2024_2.jpg",
     "東京": "https://upload.wikimedia.org/wikipedia/commons/6/66/Tokyo_Skyline20210123.jpg",
     "巴黎": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
