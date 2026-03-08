@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import { Loader2 } from "lucide-react";
 import { useAppContext } from "@/components/AppContext";
 import Papa from "papaparse";
+import { getTranslatedCityName } from "@/utils/cityTranslations";
 
 declare global {
     interface Window {
@@ -23,7 +24,7 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
     const mapInstance = useRef<any>(null);
     const markersClusterRef = useRef<any>(null);
     const [mapLoaded, setMapLoaded] = useState(false);
-    const { t } = useAppContext();
+    const { t, language } = useAppContext();
     const allCitiesRef = useRef<any[]>([]); // Store parsed CSV data
     const topCitiesRef = useRef<any[]>([]); // Top 50 subset
 
@@ -56,8 +57,8 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
                 position: 'bottomright'
             }).addTo(mapInstance.current);
 
-            // 2. Add OpenStreetMap Tile Layer (Dark Theme via CartoDB Dark Matter for premium cohesive feel)
-            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            // 2. Add OpenStreetMap Tile Layer (Dark Theme No Labels via CartoDB to support dynamic text rendering)
+            window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
                 maxZoom: 19,
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
             }).addTo(mapInstance.current);
@@ -126,6 +127,16 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
             filteredData.forEach((city) => {
                 const marker = L.marker([city.Latitude, city.Longitude], { icon: customIcon });
 
+                // Attach dynamic language tooltips (always visible)
+                const translatedName = getTranslatedCityName(city.City, language);
+                marker.bindTooltip(translatedName, {
+                    direction: "top",
+                    offset: [0, -10],
+                    opacity: 1,
+                    permanent: true,
+                    className: "custom-city-label"
+                });
+
                 marker.on('click', () => {
                     // Fly to location smoothly
                     mapInstance.current.flyTo([city.Latitude, city.Longitude], 12, {
@@ -166,7 +177,7 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
             // Calculate visible cities in current bounds
             try {
                 const bounds = mapInstance.current.getBounds();
-                const visible = allCitiesRef.current.filter(city =>
+                const visible = allCitiesRef.current.filter((city: any) =>
                     bounds.contains([city.Latitude, city.Longitude])
                 );
                 // Return max 15 to keep UI responsive
@@ -185,7 +196,7 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
         // Initial bounds calculation
         setTimeout(handleMapMovement, 300);
 
-    }, [mapLoaded, userTier, selectedRegion]);
+    }, [mapLoaded, userTier, selectedRegion, language]);
 
     return (
         <div className="w-full h-full relative overflow-hidden bg-gray-100">
