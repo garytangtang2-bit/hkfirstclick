@@ -1,7 +1,7 @@
 export type SupportedLang = 'TW' | 'EN' | 'JP' | 'KR' | 'FR' | 'ES' | 'ID' | 'HI' | 'PT' | 'AR' | 'RU';
 
 export const cityDataTranslations: Record<string, { name: Partial<Record<SupportedLang, string>>, description: Partial<Record<SupportedLang, string>> }> = {
-    "seoul": {
+    "首爾": {
         name: {
             TW: "首爾", EN: "Seoul", JP: "ソウル", KR: "서울",
             FR: "Séoul", ES: "Seúl", ID: "Seoul", HI: "सियोल",
@@ -13,7 +13,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             FR: "Mecque de la K-pop, ville dynamique mêlant tradition et modernité"
         }
     },
-    "tokyo": {
+    "東京": {
         name: {
             TW: "東京", EN: "Tokyo", JP: "東京", KR: "도쿄",
             FR: "Tokyo", ES: "Tokio", ID: "Tokyo", HI: "टोक्यो",
@@ -26,7 +26,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             JP: "究極の秩序、アニメの楽園とトレンドの聖地"
         }
     },
-    "bangkok": {
+    "曼谷": {
         name: {
             TW: "曼谷", EN: "Bangkok", JP: "バンコク", KR: "방콕",
             FR: "Bangkok", ES: "Bangkok", ID: "Bangkok", HI: "बैंकॉक",
@@ -39,7 +39,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             JP: "ストリートの活気、高コスパマッサージと仏教文化"
         }
     },
-    "hongkong": {
+    "香港": {
         name: {
             TW: "香港", EN: "Hong Kong", JP: "香港", KR: "홍콩",
             FR: "Hong Kong", ES: "Hong Kong", ID: "Hong Kong", HI: "हाँगकाँग",
@@ -52,7 +52,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             JP: "東洋と西洋の融合、見事なスカイラインと金融センター"
         }
     },
-    "taipei": {
+    "台北": {
         name: {
             TW: "台北", EN: "Taipei", JP: "台北", KR: "타이베이",
             FR: "Taipei", ES: "Taipéi", ID: "Taipei", HI: "ताइपे",
@@ -64,7 +64,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             FR: "Cuisine de marché nocturne, culture et vie pratique"
         }
     },
-    "singapore": {
+    "新加坡": {
         name: {
             TW: "新加坡", EN: "Singapore", JP: "シンガポール", KR: "싱가포르",
             FR: "Singapour", ES: "Singapur", ID: "Singapura", HI: "सिंगापुर",
@@ -76,7 +76,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             FR: "Cité-jardin, multiraciale et verdissement extrême"
         }
     },
-    "sydney": {
+    "雪梨": {
         name: {
             TW: "雪梨", EN: "Sydney", JP: "シドニー", KR: "시드니",
             FR: "Sydney", ES: "Sídney", ID: "Sydney", HI: "सिडनी",
@@ -88,7 +88,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             FR: "Mélange parfait de l'Opéra et de plages ensoleillées"
         }
     },
-    "paris": {
+    "巴黎": {
         name: {
             TW: "巴黎", EN: "Paris", JP: "パリ", KR: "파리",
             FR: "Paris", ES: "París", ID: "Paris", HI: "पेरिस",
@@ -100,7 +100,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             FR: "Ville de la Romance, galeries d'art et culture des cafés"
         }
     },
-    "london": {
+    "倫敦": {
         name: {
             TW: "倫敦", EN: "London", JP: "ロンドン", KR: "런던",
             FR: "Londres", ES: "Londres", ID: "London", HI: "लंदन",
@@ -113,7 +113,7 @@ export const cityDataTranslations: Record<string, { name: Partial<Record<Support
             RU: "Королевская элегантность, исторические музеи и Биг-Бен"
         }
     },
-    "capetown": {
+    "開普敦": {
         name: {
             TW: "開普敦", EN: "Cape Town", JP: "ケープタウン", KR: "케이프타운",
             FR: "Le Cap", ES: "Ciudad del Cabo", RU: "Кейптаун"
