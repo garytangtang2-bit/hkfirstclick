@@ -2,12 +2,13 @@
 
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
-import { Map, ArrowRight, Search, X, Navigation, MapPin, Sparkles } from "lucide-react";
+import { Map, Search, X, Navigation, MapPin, Sparkles } from "lucide-react";
 import Link from "next/link";
 import dynamic from "next/dynamic";
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState, useRef, useCallback } from "react";
 import { createClient } from "@/utils/supabase/client";
 import { getTranslatedCityName, getTranslatedData } from "@/utils/cityTranslations";
+import { cityPhotos } from "@/data/cityPhotos";
 
 // Leaflet relies on the `window` object, so it MUST be dynamically imported with SSR disabled.
 const MapComponent = dynamic(() => import("@/components/MapComponent"), { ssr: false });
@@ -168,61 +169,82 @@ function MapContent() {
             )}
 
             {/* 📱 3. Bottom Drawer UI (Replaces small Popups) */}
-            <div className={`absolute bottom-0 left-0 right-0 z-[500] bg-[#121212] rounded-t-3xl shadow-[0_-20px_40px_rgba(0,0,0,0.8)] transition-transform duration-500 ease-out border-t border-white/10 ${selectedCity ? "translate-y-0" : "translate-y-full"
+            <div className={`absolute bottom-0 left-0 right-0 z-[500] bg-[#121212] rounded-t-3xl shadow-[0_-20px_40px_rgba(0,0,0,0.8)] transition-transform duration-500 ease-out border-t border-white/10 overflow-hidden ${selectedCity ? "translate-y-0" : "translate-y-full"
                 }`}>
                 {selectedCity && (
-                    <div className="p-6 md:p-8 max-w-4xl mx-auto relative">
-                        {/* Close Button */}
-                        <button
-                            onClick={() => setSelectedCity(null)}
-                            className="absolute top-4 right-4 bg-white/10 hover:bg-white/20 text-white p-2 rounded-full transition-colors"
-                        >
-                            <X size={20} />
-                        </button>
+                    <>
+                        {/* 🌆 Hero Photo Section */}
+                        <div className="relative w-full h-[220px] md:h-[260px] overflow-hidden">
+                            {/* Background photo from static pre-cached data */}
+                            <div
+                                className="absolute inset-0 bg-center bg-cover transition-all duration-700"
+                                style={{
+                                    backgroundImage: cityPhotos[selectedCity.City] ? `url('${cityPhotos[selectedCity.City]}')` : 'none',
+                                    backgroundColor: '#1a1a1a',
+                                }}
+                            />
+                            {/* Gradient overlays for readability */}
+                            <div className="absolute inset-0 bg-gradient-to-t from-[#121212] via-[#121212]/40 to-transparent" />
+                            <div className="absolute inset-0 bg-gradient-to-r from-[#121212]/60 to-transparent" />
 
-                        <div className="flex flex-col md:flex-row gap-6 md:gap-10">
-                            {/* Details Content */}
-                            <div className="flex-1">
-                                <div className="inline-block px-3 py-1 bg-[#EEDC00]/10 text-[#EEDC00] rounded-full text-xs font-bold mb-3 uppercase tracking-wider">
+                            {/* Close Button */}
+                            <button
+                                onClick={() => setSelectedCity(null)}
+                                className="absolute top-4 right-4 bg-black/40 hover:bg-black/60 backdrop-blur-sm text-white p-2 rounded-full transition-colors border border-white/20"
+                            >
+                                <X size={18} />
+                            </button>
+
+                            {/* City info overlaid on photo */}
+                            <div className="absolute bottom-0 left-0 right-0 p-6 md:p-8">
+                                <div className="inline-block px-3 py-1 bg-[#EEDC00]/20 text-[#EEDC00] rounded-full text-xs font-bold mb-2 uppercase tracking-wider border border-[#EEDC00]/30 backdrop-blur-sm">
                                     {t[regionTranslationKeys[selectedCity.Region?.split('(')[0]]] || selectedCity.Region || "Global"}
                                 </div>
-                                <h2 className="text-3xl font-black text-white mb-2">{getTranslatedCityName(selectedCity.City, language)}</h2>
-                                <p className="text-[#A0A0A0] mb-6 font-medium leading-relaxed">{getTranslatedData(selectedCity.City, 'description', language, selectedCity.Vibe)}</p>
-
-                                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-                                    <div className="bg-[#1A1A1A] p-4 rounded-2xl border border-white/5 shadow-inner">
-                                        <div className="text-sm text-gray-500 font-bold mb-1">{t.map_must_try_food || "🍜 Must Try Food"}</div>
-                                        <div className="text-white font-medium">{getTranslatedData(selectedCity.City, 'top_food', language, selectedCity.Top_Food)}</div>
-                                    </div>
-                                    <div className="bg-[#1A1A1A] p-4 rounded-2xl border border-white/5 shadow-inner">
-                                        <div className="text-sm text-gray-500 font-bold mb-1">{t.map_top_spot || "🏛️ Top Spot"}</div>
-                                        <div className="text-white font-medium">{getTranslatedData(selectedCity.City, 'must_visit_spot', language, selectedCity.Must_Visit_Spot)}</div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Actions */}
-                            <div className="w-full md:w-[320px] flex flex-col gap-3 justify-center shrink-0">
-                                <div className="text-center mb-2">
-                                    <span className="text-xs font-bold text-gray-400 uppercase tracking-widest bg-white/5 px-3 py-1 rounded-full border border-white/10">
-                                        {t.map_actions || "Actions"}
-                                    </span>
-                                </div>
-
-                                <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
-                                    <button className="w-full bg-[#1A1A1A] text-white border border-white/10 px-6 py-4 rounded-xl font-bold hover:bg-white/10 transition-colors flex justify-center items-center gap-2">
-                                        <Navigation size={18} /> {t.map_actions_modify || "Modify & Build Iterinary"}
-                                    </button>
-                                </Link>
-
-                                <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
-                                    <button className="w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-bold hover:bg-[#ffe800] transition-colors flex justify-center items-center gap-2 shadow-[0_0_15px_rgba(238,220,0,0.3)]">
-                                        <Sparkles size={18} /> ✨ {t.map_actions_generate || "一鍵生成行程"} <span className="text-black/60 font-normal text-sm ml-1">{t.map_actions_cost || "(僅需 5 點)"}</span>
-                                    </button>
-                                </Link>
+                                <h2 className="text-3xl md:text-4xl font-black text-white drop-shadow-lg mb-1">{getTranslatedCityName(selectedCity.City, language)}</h2>
+                                <p className="text-white/70 text-sm font-medium leading-relaxed max-w-lg drop-shadow">{getTranslatedData(selectedCity.City, 'description', language, selectedCity.Vibe)}</p>
                             </div>
                         </div>
-                    </div>
+
+                        {/* Details & Actions */}
+                        <div className="p-6 md:p-8 max-w-4xl mx-auto">
+                            <div className="flex flex-col md:flex-row gap-6 md:gap-10">
+                                {/* Food & Spot Cards */}
+                                <div className="flex-1">
+                                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                                        <div className="bg-[#1A1A1A] p-4 rounded-2xl border border-white/5 shadow-inner">
+                                            <div className="text-sm text-gray-500 font-bold mb-1">{t.map_must_try_food || "🍜 Must Try Food"}</div>
+                                            <div className="text-white font-medium">{getTranslatedData(selectedCity.City, 'top_food', language, selectedCity.Top_Food)}</div>
+                                        </div>
+                                        <div className="bg-[#1A1A1A] p-4 rounded-2xl border border-white/5 shadow-inner">
+                                            <div className="text-sm text-gray-500 font-bold mb-1">{t.map_top_spot || "🏛️ Top Spot"}</div>
+                                            <div className="text-white font-medium">{getTranslatedData(selectedCity.City, 'must_visit_spot', language, selectedCity.Must_Visit_Spot)}</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                {/* Actions */}
+                                <div className="w-full md:w-[320px] flex flex-col gap-3 justify-center shrink-0">
+                                    <div className="text-center mb-2">
+                                        <span className="text-xs font-bold text-gray-400 uppercase tracking-widest bg-white/5 px-3 py-1 rounded-full border border-white/10">
+                                            {t.map_actions || "Actions"}
+                                        </span>
+                                    </div>
+
+                                    <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
+                                        <button className="w-full bg-[#1A1A1A] text-white border border-white/10 px-6 py-4 rounded-xl font-bold hover:bg-white/10 transition-colors flex justify-center items-center gap-2">
+                                            <Navigation size={18} /> {t.map_actions_modify || "Modify & Build Iterinary"}
+                                        </button>
+                                    </Link>
+
+                                    <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
+                                        <button className="w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-bold hover:bg-[#ffe800] transition-colors flex justify-center items-center gap-2 shadow-[0_0_15px_rgba(238,220,0,0.3)]">
+                                            <Sparkles size={18} /> ✨ {t.map_actions_generate || "一鍵生成行程"} <span className="text-black/60 font-normal text-sm ml-1">{t.map_actions_cost || "(僅需 5 點)"}</span>
+                                        </button>
+                                    </Link>
+                                </div>
+                            </div>
+                        </div>
+                    </>
                 )}
             </div>
         </div>
