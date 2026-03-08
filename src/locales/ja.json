@@ -130,7 +130,7 @@
   "tier3_desc": "頻繁に旅行する人向け。最高レベルの特権を備えた24時間365日の専属AIコンサルタント。",
   "tier3_feature1": "Google マップへの無制限エクスポート",
   "tier3_feature2": "高度な AI ロジック微調整のロック解除",
-  "tier3_feature3": "優先生成権限（高速専用）",
+  "tier3_feature3": "AI 旅行マップのロック解除（Beta）",
   "tier4_name": "トップアップパック",
   "tier4_credits": "10 クレジット",
   "tier4_exp": "365 日 (1年)",
@@ -274,8 +274,8 @@
   "map_initializing": "グローバルマップを初期化中...",
   "tier2_feature4": "AI 旅行マップのロック解除（Beta）",
   "tier2_feature5": "より多くの旅程生成",
-  "tier3_feature4": "AI 旅行マップのロック解除（Beta）",
-  "tier3_feature5": "より多くの旅程生成",
-  "tier3_feature6": "優先カスタマーサービスと新機能",
+  "tier3_feature4": "より多くの旅程生成",
+  "tier3_feature5": "優先カスタマーサービスと新機能",
+  "tier3_feature6": "最高優先生成（VIP 速度）",
   "tier3_feature7": "最高優先生成（VIP 速度）"
 }

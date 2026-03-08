@@ -210,16 +210,12 @@ ${premiumSearchInstruction}
 }`;
 
         // 4. Determine Dynamic AI Models based on User Tier
-        // YEARLY gets the highest priority model, PASS gets a mid-tier premium model
-        let primaryModel = "gemini-2.0-flash"; // Default for TRIAL/TOPUP
-        let fallbackModel = "gpt-4o-mini"; // Default fallback
+        // Both PASS and YEARLY use the same priority model. TRIAL uses the base model.
+        let primaryModel = "gemini-2.0-flash"; // Default for TRIAL
+        let fallbackModel = "gpt-4o-mini"; // ChatGPT fallback for all tiers
 
-        if (tier === "YEARLY") {
-            primaryModel = "gemini-2.5-pro-exp-03-25"; // VIP: highest quality
-            fallbackModel = "gpt-4o";
-        } else if (tier === "PASS") {
-            primaryModel = "gemini-2.5-flash-preview-04-17"; // Priority: fast + smart
-            fallbackModel = "gpt-4o-mini";
+        if (tier === "PASS" || tier === "YEARLY") {
+            primaryModel = "gemini-2.5-flash-preview-04-17"; // Priority: same for both paid tiers
         }
 
         // 5. Call Gemini API securely First

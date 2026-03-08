@@ -2,6 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 const localesDir = path.join(__dirname, 'src', 'locales');
+
+// ─── Tier Feature Translations ───────────────────────────────────────────────
+// PASS (tier2): 5 features
+// YEARLY (tier3): 6 features (no priority generation feature)
 const tierFeatures = {
     en: {
         tier2_feature1: "Unlimited Google Maps Export",
@@ -11,11 +15,10 @@ const tierFeatures = {
         tier2_feature5: "More Trip Generations",
         tier3_feature1: "Unlimited Google Maps Export",
         tier3_feature2: "Unlock Advanced AI Logic Fine-tuning",
-        tier3_feature3: "Priority Generation (Fast Track)",
-        tier3_feature4: "Unlock AI Travel Map (Beta)",
-        tier3_feature5: "More Trip Generations",
-        tier3_feature6: "Priority Customer Service & New Features",
-        tier3_feature7: "Highest Priority Generation (VIP Speed)",
+        tier3_feature3: "Unlock AI Travel Map (Beta)",
+        tier3_feature4: "More Trip Generations",
+        tier3_feature5: "Priority Customer Service & New Features",
+        tier3_feature6: "Highest Priority Generation (VIP Speed)",
     },
     zh: {
         tier2_feature1: "無限制匯出至 Google Maps",
@@ -25,11 +28,10 @@ const tierFeatures = {
         tier2_feature5: "擁有更多生成次數",
         tier3_feature1: "無限制匯出至 Google Maps",
         tier3_feature2: "解鎖進階 AI 邏輯微調",
-        tier3_feature3: "優先生成權限（極速專線）",
-        tier3_feature4: "解鎖 AI 旅遊地圖（Beta）",
-        tier3_feature5: "擁有更多生成次數",
-        tier3_feature6: "優先客戶服務與新功能",
-        tier3_feature7: "最高優先級生成（VIP 秒速）",
+        tier3_feature3: "解鎖 AI 旅遊地圖（Beta）",
+        tier3_feature4: "擁有更多生成次數",
+        tier3_feature5: "優先客戶服務與新功能",
+        tier3_feature6: "最高優先級生成（VIP 秒速）",
     },
     ja: {
         tier2_feature1: "Google マップへの無制限エクスポート",
@@ -39,11 +41,10 @@ const tierFeatures = {
         tier2_feature5: "より多くの旅程生成",
         tier3_feature1: "Google マップへの無制限エクスポート",
         tier3_feature2: "高度な AI ロジック微調整のロック解除",
-        tier3_feature3: "優先生成権限（高速専用）",
-        tier3_feature4: "AI 旅行マップのロック解除（Beta）",
-        tier3_feature5: "より多くの旅程生成",
-        tier3_feature6: "優先カスタマーサービスと新機能",
-        tier3_feature7: "最高優先生成（VIP 速度）",
+        tier3_feature3: "AI 旅行マップのロック解除（Beta）",
+        tier3_feature4: "より多くの旅程生成",
+        tier3_feature5: "優先カスタマーサービスと新機能",
+        tier3_feature6: "最高優先生成（VIP 速度）",
     },
     ko: {
         tier2_feature1: "Google 지도 무제한 내보내기",
@@ -53,11 +54,10 @@ const tierFeatures = {
         tier2_feature5: "더 많은 여행 일정 생성",
         tier3_feature1: "Google 지도 무제한 내보내기",
         tier3_feature2: "고급 AI 로직 미세 조정 잠금 해제",
-        tier3_feature3: "우선 생성 권한 (초고속 전용)",
-        tier3_feature4: "AI 여행 지도 잠금 해제 (Beta)",
-        tier3_feature5: "더 많은 여행 일정 생성",
-        tier3_feature6: "우선 고객 서비스 및 신기능",
-        tier3_feature7: "최고 우선 생성 (VIP 속도)",
+        tier3_feature3: "AI 여행 지도 잠금 해제 (Beta)",
+        tier3_feature4: "더 많은 여행 일정 생성",
+        tier3_feature5: "우선 고객 서비스 및 신기능",
+        tier3_feature6: "최고 우선 생성 (VIP 속도)",
     },
     fr: {
         tier2_feature1: "Export illimité vers Google Maps",
@@ -67,11 +67,10 @@ const tierFeatures = {
         tier2_feature5: "Plus de générations de voyages",
         tier3_feature1: "Export illimité vers Google Maps",
         tier3_feature2: "Débloquer la micro-réglage avancé de l'IA",
-        tier3_feature3: "Génération prioritaire (Voie rapide)",
-        tier3_feature4: "Débloquer la Carte AI (Beta)",
-        tier3_feature5: "Plus de générations de voyages",
-        tier3_feature6: "Service client prioritaire et nouvelles fonctionnalités",
-        tier3_feature7: "Génération prioritaire maximale (Vitesse VIP)",
+        tier3_feature3: "Débloquer la Carte AI (Beta)",
+        tier3_feature4: "Plus de générations de voyages",
+        tier3_feature5: "Service client prioritaire et nouvelles fonctionnalités",
+        tier3_feature6: "Génération prioritaire maximale (Vitesse VIP)",
     },
     es: {
         tier2_feature1: "Exportación ilimitada a Google Maps",
@@ -81,11 +80,10 @@ const tierFeatures = {
         tier2_feature5: "Más generaciones de itinerarios",
         tier3_feature1: "Exportación ilimitada a Google Maps",
         tier3_feature2: "Desbloquear ajuste fino de IA avanzado",
-        tier3_feature3: "Generación prioritaria (Vía rápida)",
-        tier3_feature4: "Desbloquear Mapa AI de Viajes (Beta)",
-        tier3_feature5: "Más generaciones de itinerarios",
-        tier3_feature6: "Servicio al cliente prioritario y nuevas funciones",
-        tier3_feature7: "Generación de la más alta prioridad (Velocidad VIP)",
+        tier3_feature3: "Desbloquear Mapa AI de Viajes (Beta)",
+        tier3_feature4: "Más generaciones de itinerarios",
+        tier3_feature5: "Servicio al cliente prioritario y nuevas funciones",
+        tier3_feature6: "Generación de la más alta prioridad (Velocidad VIP)",
     },
     id: {
         tier2_feature1: "Ekspor tak terbatas ke Google Maps",
@@ -95,11 +93,10 @@ const tierFeatures = {
         tier2_feature5: "Lebih banyak generasi perjalanan",
         tier3_feature1: "Ekspor tak terbatas ke Google Maps",
         tier3_feature2: "Buka kunci Penyesuaian AI Lanjutan",
-        tier3_feature3: "Hak Generasi Prioritas (Jalur Cepat)",
-        tier3_feature4: "Buka kunci Peta Perjalanan AI (Beta)",
-        tier3_feature5: "Lebih banyak generasi perjalanan",
-        tier3_feature6: "Layanan pelanggan prioritas & fitur baru",
-        tier3_feature7: "Generasi Prioritas Tertinggi (Kecepatan VIP)",
+        tier3_feature3: "Buka kunci Peta Perjalanan AI (Beta)",
+        tier3_feature4: "Lebih banyak generasi perjalanan",
+        tier3_feature5: "Layanan pelanggan prioritas & fitur baru",
+        tier3_feature6: "Generasi Prioritas Tertinggi (Kecepatan VIP)",
     },
     hi: {
         tier2_feature1: "Google Maps में असीमित निर्यात",
@@ -109,11 +106,10 @@ const tierFeatures = {
         tier2_feature5: "अधिक यात्रा पीढ़ियाँ",
         tier3_feature1: "Google Maps में असीमित निर्यात",
         tier3_feature2: "उन्नत AI तर्क ट्यूनिंग अनलॉक करें",
-        tier3_feature3: "प्राथमिकता जनरेशन (फास्ट ट्रैक)",
-        tier3_feature4: "AI ट्रैवल मैप अनलॉक करें (Beta)",
-        tier3_feature5: "अधिक यात्रा पीढ़ियाँ",
-        tier3_feature6: "प्राथमिकता ग्राहक सेवा और नई सुविधाएँ",
-        tier3_feature7: "उच्चतम प्राथमिकता जनरेशन (VIP गति)",
+        tier3_feature3: "AI ट्रैवल मैप अनलॉक करें (Beta)",
+        tier3_feature4: "अधिक यात्रा पीढ़ियाँ",
+        tier3_feature5: "प्राथमिकता ग्राहक सेवा और नई सुविधाएँ",
+        tier3_feature6: "उच्चतम प्राथमिकता जनरेशन (VIP गति)",
     },
     pt: {
         tier2_feature1: "Exportação ilimitada para o Google Maps",
@@ -123,11 +119,10 @@ const tierFeatures = {
         tier2_feature5: "Mais gerações de itinerários",
         tier3_feature1: "Exportação ilimitada para o Google Maps",
         tier3_feature2: "Desbloquear ajuste de IA avançado",
-        tier3_feature3: "Geração prioritária (Pista rápida)",
-        tier3_feature4: "Desbloquear Mapa de Viagem AI (Beta)",
-        tier3_feature5: "Mais gerações de itinerários",
-        tier3_feature6: "Atendimento ao cliente prioritário e novos recursos",
-        tier3_feature7: "Geração de mais alta prioridade (Velocidade VIP)",
+        tier3_feature3: "Desbloquear Mapa de Viagem AI (Beta)",
+        tier3_feature4: "Mais gerações de itinerários",
+        tier3_feature5: "Atendimento ao cliente prioritário e novos recursos",
+        tier3_feature6: "Geração de mais alta prioridade (Velocidade VIP)",
     },
     ar: {
         tier2_feature1: "تصدير غير محدود إلى خرائط Google",
@@ -137,11 +132,10 @@ const tierFeatures = {
         tier2_feature5: "مزيد من رحلات الإنشاء",
         tier3_feature1: "تصدير غير محدود إلى خرائط Google",
         tier3_feature2: "إلغاء قفل الضبط الدقيق لمنطق الذكاء الاصطناعي",
-        tier3_feature3: "حق الإنشاء ذو الأولوية (المسار السريع)",
-        tier3_feature4: "إلغاء قفل خريطة السفر بالذكاء الاصطناعي (Beta)",
-        tier3_feature5: "مزيد من رحلات الإنشاء",
-        tier3_feature6: "خدمة عملاء ذات أولوية وميزات جديدة",
-        tier3_feature7: "أعلى أولوية في الإنشاء (سرعة VIP)",
+        tier3_feature3: "إلغاء قفل خريطة السفر بالذكاء الاصطناعي (Beta)",
+        tier3_feature4: "مزيد من رحلات الإنشاء",
+        tier3_feature5: "خدمة عملاء ذات أولوية وميزات جديدة",
+        tier3_feature6: "أعلى أولوية في الإنشاء (سرعة VIP)",
     },
     ru: {
         tier2_feature1: "Неограниченный экспорт в Google Карты",
@@ -151,11 +145,10 @@ const tierFeatures = {
         tier2_feature5: "Больше генераций маршрутов",
         tier3_feature1: "Неограниченный экспорт в Google Карты",
         tier3_feature2: "Разблокировать детальную настройку ИИ",
-        tier3_feature3: "Приоритетная генерация (Быстрый доступ)",
-        tier3_feature4: "Разблокировать карту путешествий ИИ (Beta)",
-        tier3_feature5: "Больше генераций маршрутов",
-        tier3_feature6: "Приоритетная поддержка и новые функции",
-        tier3_feature7: "Генерация наивысшего приоритета (VIP скорость)",
+        tier3_feature3: "Разблокировать карту путешествий ИИ (Beta)",
+        tier3_feature4: "Больше генераций маршрутов",
+        tier3_feature5: "Приоритетная поддержка и новые функции",
+        tier3_feature6: "Генерация наивысшего приоритета (VIP скорость)",
     },
     bn: {
         tier2_feature1: "গুগল ম্যাপে সীমাহীন এক্সপোর্ট",
@@ -165,14 +158,14 @@ const tierFeatures = {
         tier2_feature5: "আরও বেশি ভ্রমণ জেনারেশন",
         tier3_feature1: "গুগল ম্যাপে সীমাহীন এক্সপোর্ট",
         tier3_feature2: "উন্নত এআই লজিক ফাইন-টিউনিং আনলক করুন",
-        tier3_feature3: "অগ্রাধিকার প্রজন্ম (ফাস্ট ট্র্যাক)",
-        tier3_feature4: "এআই ট্রাভেল ম্যাপ আনলক করুন (Beta)",
-        tier3_feature5: "আরও বেশি ভ্রমণ জেনারেশন",
-        tier3_feature6: "অগ্রাধিকার গ্রাহক সেবা ও নতুন বৈশিষ্ট্য",
-        tier3_feature7: "সর্বোচ্চ অগ্রাধিকার জেনারেশন (VIP গতি)",
+        tier3_feature3: "এআই ট্রাভেল ম্যাপ আনলক করুন (Beta)",
+        tier3_feature4: "আরও বেশি ভ্রমণ জেনারেশন",
+        tier3_feature5: "অগ্রাধিকার গ্রাহক সেবা ও নতুন বৈশিষ্ট্য",
+        tier3_feature6: "সর্বোচ্চ অগ্রাধিকার জেনারেশন (VIP গতি)",
     },
 };
 
+// ─── Map UI Translations ──────────────────────────────────────────────────────
 const mapTranslations = {
     en: { map_search_placeholder: "Where would you like to find inspiration?", map_region_all: "Global", map_region_asia: "Asia", map_region_europe: "Europe", map_region_americas: "Americas", map_region_middle_east: "Middle East", map_region_oceania: "Oceania", map_region_africa: "Africa", map_must_try_food: "🍜 Must Try Food", map_top_spot: "🏛️ Top Spot", map_actions: "Actions", map_actions_modify: "Modify & Build Itinerary", map_actions_generate: "1-Click Generate", map_actions_cost: "(Only 5 points)", map_initializing: "Initializing Global Map..." },
     zh: { map_search_placeholder: "你想去哪裡獲取靈感？", map_region_all: "全球", map_region_asia: "亞洲", map_region_europe: "歐洲", map_region_americas: "美洲", map_region_middle_east: "中東", map_region_oceania: "大洋洲", map_region_africa: "非洲", map_must_try_food: "🍜 必吃美食", map_top_spot: "🏛️ 熱門景點", map_actions: "操作", map_actions_modify: "修改並生成行程", map_actions_generate: "一鍵生成行程", map_actions_cost: "(僅需 5 點)", map_initializing: "正在初始化全球地圖..." },
@@ -190,6 +183,7 @@ const mapTranslations = {
     bn: { map_search_placeholder: "আপনি কোথায় অনুপ্রেরণা খুঁজতে চান?", map_region_all: "বিশ্বব্যাপী", map_region_asia: "এশিয়া", map_region_europe: "ইউরোপ", map_region_americas: "আমেরিকা", map_region_middle_east: "মধ্যপ্রাচ্য", map_region_oceania: "ওশেনিয়া", map_region_africa: "আফ্রিকা", map_must_try_food: "🍜 অবশ্যই খেতে হবে", map_top_spot: "🏛️ শীর্ষ স্থান", map_actions: "ক্রিয়া", map_actions_modify: "পরিবর্তন এবং ভ্রমণপথ তৈরি করুন", map_actions_generate: "এক ক্লিকে তৈরি করুন", map_actions_cost: "(মাত্র ৫ পয়েন্ট)", map_initializing: "গ্লোবাল ম্যাপ শুরু হচ্ছে..." }
 };
 
+// ─── Apply to all locale JSON files ──────────────────────────────────────────
 fs.readdirSync(localesDir).forEach(file => {
     if (file.endsWith('.json')) {
         const lang = file.split('.')[0];
@@ -209,4 +203,3 @@ fs.readdirSync(localesDir).forEach(file => {
         }
     }
 });
-

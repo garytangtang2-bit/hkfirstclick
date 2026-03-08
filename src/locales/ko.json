@@ -130,7 +130,7 @@
   "tier3_desc": "자주 여행하는 분들을 위한 요금제. 최고 권한을 갖춘 24시간 연중무휴 전용 AI 컨설턴트.",
   "tier3_feature1": "Google 지도 무제한 내보내기",
   "tier3_feature2": "고급 AI 로직 미세 조정 잠금 해제",
-  "tier3_feature3": "우선 생성 권한 (초고속 전용)",
+  "tier3_feature3": "AI 여행 지도 잠금 해제 (Beta)",
   "tier4_name": "탑업 팩",
   "tier4_credits": "10 크레딧",
   "tier4_exp": "365일 (1년)",
@@ -274,8 +274,8 @@
   "map_initializing": "글로벌 지도 초기화 중...",
   "tier2_feature4": "AI 여행 지도 잠금 해제 (Beta)",
   "tier2_feature5": "더 많은 여행 일정 생성",
-  "tier3_feature4": "AI 여행 지도 잠금 해제 (Beta)",
-  "tier3_feature5": "더 많은 여행 일정 생성",
-  "tier3_feature6": "우선 고객 서비스 및 신기능",
+  "tier3_feature4": "더 많은 여행 일정 생성",
+  "tier3_feature5": "우선 고객 서비스 및 신기능",
+  "tier3_feature6": "최고 우선 생성 (VIP 속도)",
   "tier3_feature7": "최고 우선 생성 (VIP 속도)"
 }
