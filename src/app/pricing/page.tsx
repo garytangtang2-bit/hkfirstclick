@@ -152,26 +152,26 @@ function PricingContent() {
                             <h2 className="text-2xl font-bold mb-2 text-white">
                                 {plan.name}
                             </h2>
-                            <div className="flex items-end gap-2 mb-6">
-                                <span className="text-4xl font-black text-white">
-                                    {plan.price[currency as keyof typeof plan.price] === 0
-                                        ? t.free_credit
-                                        : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
-                                </span>
+                            <div className="flex flex-col items-start gap-1 mb-6">
                                 {plan.price[currency as keyof typeof plan.price] > 0 && (() => {
                                     const orig = Math.round(plan.price[currency as keyof typeof plan.price] * 2.8);
                                     const discPct = Math.round((1 - plan.price[currency as keyof typeof plan.price] / orig) * 100);
                                     return (
-                                        <div className="flex items-center gap-2 mb-1">
-                                            <span className="text-gray-500 text-sm line-through">
+                                        <div className="flex items-center gap-2">
+                                            <span className="text-sm text-[#9CA3AF] line-through">
                                                 {getCurrencySymbol(currency)}{orig}
                                             </span>
-                                            <span className="text-[10px] font-black bg-red-500 text-white px-1.5 py-0.5 rounded-full tracking-wide">
+                                            <span className="text-xs font-bold bg-[#EF4444] text-white px-2 py-1 rounded-full tracking-wide">
                                                 -{discPct}% OFF
                                             </span>
                                         </div>
                                     );
                                 })()}
+                                <span className="text-4xl font-black text-white">
+                                    {plan.price[currency as keyof typeof plan.price] === 0
+                                        ? t.free_credit
+                                        : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
+                                </span>
                             </div>
 
                             <div className="space-y-4 mb-8 flex-1">
