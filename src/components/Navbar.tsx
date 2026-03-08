@@ -39,7 +39,7 @@ const TopbarSelect = ({ value, onChange, options }: any) => {
             </div>
 
             {isOpen && (
-                <div className="absolute top-full mt-1 right-0 w-max min-w-[140px] bg-[#1A1A24] border border-white/10 rounded-xl shadow-2xl overflow-hidden z-50 py-2">
+                <div className="absolute top-full mt-1 right-0 w-max min-w-[140px] bg-[#1A1A24] border border-white/10 rounded-xl shadow-2xl overflow-hidden z-[10000] py-2">
                     {options.map((opt: any) => (
                         <div
                             key={opt.value}
@@ -73,7 +73,7 @@ export function Navbar({
 
     return (
         <>
-            <nav className="fixed top-0 left-0 w-full z-50 bg-[#0E0E0E]/90 backdrop-blur-md border-b border-white/5 h-16 flex items-center justify-between px-6 md:px-8">
+            <nav className="fixed top-0 left-0 w-full z-[9999] bg-[#0E0E0E]/90 backdrop-blur-md border-b border-white/5 h-16 flex items-center justify-between px-6 md:px-8">
                 <div className="flex items-center gap-8">
                     <Link
                         href="/"

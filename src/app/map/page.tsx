@@ -64,7 +64,7 @@ function MapContent() {
             </div>
 
             {/* Floating Control Panel (Top Left) */}
-            <div className="absolute top-20 md:top-4 left-4 z-[400] w-[calc(100%-32px)] md:w-[320px] bg-[#161616]/80 backdrop-blur-md border border-white/10 rounded-2xl p-5 shadow-2xl premium-glass-card pointer-events-auto flex flex-col gap-4">
+            <div className="absolute top-20 md:top-4 left-4 z-[400] w-[calc(100%-32px)] md:w-[320px] left-control-panel rounded-2xl p-5 shadow-2xl pointer-events-auto flex flex-col gap-4">
                 <div className="hidden md:block">
                     <h1 className="text-xl font-extrabold text-[#F8F9FA] flex items-center gap-2 heading-premium mb-1">
                         <Map size={24} className="text-[#EEDC00]" />
