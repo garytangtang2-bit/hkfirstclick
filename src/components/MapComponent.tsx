@@ -203,7 +203,7 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
             {!mapLoaded && (
                 <div className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-white/90 backdrop-blur-sm text-[#F5A623]">
                     <Loader2 className="animate-spin mb-4" size={40} />
-                    <p className="font-bold tracking-widest text-sm uppercase">Initializing Global Map...</p>
+                    <p className="font-bold tracking-widest text-sm uppercase">{t.map_initializing || "Initializing Global Map..."}</p>
                 </div>
             )}
             <div id="map" ref={mapRef} style={{ height: "100%", width: "100%", zIndex: 10 }}></div>

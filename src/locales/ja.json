@@ -261,8 +261,15 @@
   "map_region_all": "すべて",
   "map_region_asia": "アジア",
   "map_region_europe": "ヨーロッパ",
-  "map_region_americas": "アメリカ大陸",
+  "map_region_americas": "北米・南米",
   "map_region_middle_east": "中東",
   "map_region_oceania": "オセアニア",
-  "map_region_africa": "アフリカ"
+  "map_region_africa": "アフリカ",
+  "map_must_try_food": "🍜 必食グルメ",
+  "map_top_spot": "🏛️ 人気スポット",
+  "map_actions": "アクション",
+  "map_actions_modify": "変更して旅程を作成",
+  "map_actions_generate": "ワンクリック自動生成",
+  "map_actions_cost": "(わずか 5 ポイント)",
+  "map_initializing": "グローバルマップを初期化中..."
 }

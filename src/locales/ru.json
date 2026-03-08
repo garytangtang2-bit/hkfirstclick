@@ -264,5 +264,12 @@
   "map_region_americas": "Америка",
   "map_region_middle_east": "Ближний Восток",
   "map_region_oceania": "Океания",
-  "map_region_africa": "Африка"
+  "map_region_africa": "Африка",
+  "map_must_try_food": "🍜 Обязательно Попробуйте",
+  "map_top_spot": "🏛️ Главное Место",
+  "map_actions": "Действия",
+  "map_actions_modify": "Изменить и создать маршрут",
+  "map_actions_generate": "Создать в 1 клик",
+  "map_actions_cost": "(Всего 5 баллов)",
+  "map_initializing": "Инициализация глобальной карты..."
 }

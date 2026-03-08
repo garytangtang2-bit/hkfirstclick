@@ -30,40 +30,65 @@ async function generateTranslations() {
 
     let dictionarySrc = `export type SupportedLang = 'TW' | 'EN' | 'JP' | 'KR' | 'FR' | 'ES' | 'ID' | 'HI' | 'PT' | 'AR' | 'RU';
 
-export const cityDataTranslations: Record<string, { name: Partial<Record<SupportedLang, string>>, description: Partial<Record<SupportedLang, string>> }> = {\n`;
+export const cityDataTranslations: Record<string, { 
+    name: Partial<Record<SupportedLang, string>>, 
+    description: Partial<Record<SupportedLang, string>>,
+    top_food: Partial<Record<SupportedLang, string>>,
+    must_visit_spot: Partial<Record<SupportedLang, string>>
+}> = {\n`;
 
     for (let i = 0; i < cities.length; i++) {
         const city = cities[i];
         const cityNameTW = city.City.trim();
         const cityVibeTW = city.Vibe.trim();
+        const cityFoodTW = city.Top_Food ? city.Top_Food.trim() : "";
+        const citySpotTW = city.Must_Visit_Spot ? city.Must_Visit_Spot.trim() : "";
 
         console.log(`[${i + 1}/${cities.length}] Translating: ${cityNameTW}...`);
 
         let cityBlock = `  "${cityNameTW}": {\n    name: {\n      TW: "${cityNameTW.replace(/"/g, '\\"')}",`;
         let descBlock = `\n    description: {\n      TW: "${cityVibeTW.replace(/"/g, '\\"')}",`;
+        let foodBlock = `\n    top_food: {\n      TW: "${cityFoodTW.replace(/"/g, '\\"')}",`;
+        let spotBlock = `\n    must_visit_spot: {\n      TW: "${citySpotTW.replace(/"/g, '\\"')}",`;
 
         for (const [appLang, gLang] of Object.entries(LANG_MAP)) {
             try {
                 // We use forced delay to avoid rate limits
                 await new Promise(r => setTimeout(r, 600));
 
-                const resName = await translate(cityNameTW, { from: 'zh-CN', to: gLang });
-                const resVibe = await translate(cityVibeTW, { from: 'zh-CN', to: gLang });
+                const textsToTranslate = [cityNameTW, cityVibeTW];
+                if (cityFoodTW) textsToTranslate.push(cityFoodTW);
+                if (citySpotTW) textsToTranslate.push(citySpotTW);
 
-                cityBlock += ` ${appLang}: "${resName.text.replace(/"/g, '\\"')}",`;
-                descBlock += ` ${appLang}: "${resVibe.text.replace(/"/g, '\\"')}",`;
+                const resArray = await translate(textsToTranslate, { from: 'zh-CN', to: gLang });
+
+                // If it's single, resArray might not be an array, but translate with array always returns array.
+                const resArrayArr = Array.isArray(resArray) ? resArray : [resArray];
+                const resName = resArrayArr[0].text;
+                const resVibe = resArrayArr[1].text;
+                const resFood = cityFoodTW ? resArrayArr[2].text : "";
+                const resSpot = citySpotTW ? resArrayArr[3].text : "";
+
+                cityBlock += ` ${appLang}: "${resName.replace(/"/g, '\\"')}",`;
+                descBlock += ` ${appLang}: "${resVibe.replace(/"/g, '\\"')}",`;
+                foodBlock += ` ${appLang}: "${resFood.replace(/"/g, '\\"')}",`;
+                spotBlock += ` ${appLang}: "${resSpot.replace(/"/g, '\\"')}",`;
             } catch (e) {
                 console.error(`Failed to translate ${cityNameTW} to ${appLang}:`, e.message);
                 // Fallback gracefully on failed individual translation
                 cityBlock += ` ${appLang}: "${cityNameTW.replace(/"/g, '\\"')}",`;
                 descBlock += ` ${appLang}: "${cityVibeTW.replace(/"/g, '\\"')}",`;
+                foodBlock += ` ${appLang}: "${cityFoodTW.replace(/"/g, '\\"')}",`;
+                spotBlock += ` ${appLang}: "${citySpotTW.replace(/"/g, '\\"')}",`;
             }
         }
 
         cityBlock += `\n    },`;
-        descBlock += `\n    }`;
+        descBlock += `\n    },`;
+        foodBlock += `\n    },`;
+        spotBlock += `\n    }`;
 
-        dictionarySrc += cityBlock + descBlock + `\n  }${i < cities.length - 1 ? ',' : ''}\n`;
+        dictionarySrc += cityBlock + descBlock + foodBlock + spotBlock + `\n  }${i < cities.length - 1 ? ',' : ''}\n`;
     }
 
     dictionarySrc += `};\n
@@ -84,7 +109,7 @@ export const mapLangToSupported = (langName: string): SupportedLang => {
     }
 }
 
-export const getTranslatedData = (cityId: string, type: 'name' | 'description', currentLangName: string, fallbackText?: string): string => {
+export const getTranslatedData = (cityId: string, type: 'name' | 'description' | 'top_food' | 'must_visit_spot', currentLangName: string, fallbackText?: string): string => {
     if (!cityId) return fallbackText || cityId;
     const normalizedId = cityId.toLowerCase().replace(/\\s/g, ''); 
     const city = cityDataTranslations[normalizedId];

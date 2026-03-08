@@ -163,19 +163,19 @@ function MapContent() {
                             {/* Details Content */}
                             <div className="flex-1">
                                 <div className="inline-block px-3 py-1 bg-[#EEDC00]/10 text-[#EEDC00] rounded-full text-xs font-bold mb-3 uppercase tracking-wider">
-                                    {selectedCity.Region || "Global"}
+                                    {t[regionTranslationKeys[selectedCity.Region?.split('(')[0]]] || selectedCity.Region || "Global"}
                                 </div>
                                 <h2 className="text-3xl font-black text-white mb-2">{getTranslatedCityName(selectedCity.City, language)}</h2>
                                 <p className="text-[#A0A0A0] mb-6 font-medium leading-relaxed">{getTranslatedData(selectedCity.City, 'description', language, selectedCity.Vibe)}</p>
 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
                                     <div className="bg-[#1A1A1A] p-4 rounded-2xl border border-white/5 shadow-inner">
-                                        <div className="text-sm text-gray-500 font-bold mb-1">🍜 Must Try Food</div>
-                                        <div className="text-white font-medium">{selectedCity.Top_Food}</div>
+                                        <div className="text-sm text-gray-500 font-bold mb-1">{t.map_must_try_food || "🍜 Must Try Food"}</div>
+                                        <div className="text-white font-medium">{getTranslatedData(selectedCity.City, 'top_food', language, selectedCity.Top_Food)}</div>
                                     </div>
                                     <div className="bg-[#1A1A1A] p-4 rounded-2xl border border-white/5 shadow-inner">
-                                        <div className="text-sm text-gray-500 font-bold mb-1">🏛️ Top Spot</div>
-                                        <div className="text-white font-medium">{selectedCity.Must_Visit_Spot}</div>
+                                        <div className="text-sm text-gray-500 font-bold mb-1">{t.map_top_spot || "🏛️ Top Spot"}</div>
+                                        <div className="text-white font-medium">{getTranslatedData(selectedCity.City, 'must_visit_spot', language, selectedCity.Must_Visit_Spot)}</div>
                                     </div>
                                 </div>
                             </div>
@@ -184,19 +184,19 @@ function MapContent() {
                             <div className="w-full md:w-[320px] flex flex-col gap-3 justify-center shrink-0">
                                 <div className="text-center mb-2">
                                     <span className="text-xs font-bold text-gray-400 uppercase tracking-widest bg-white/5 px-3 py-1 rounded-full border border-white/10">
-                                        Actions
+                                        {t.map_actions || "Actions"}
                                     </span>
                                 </div>
 
                                 <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
                                     <button className="w-full bg-[#1A1A1A] text-white border border-white/10 px-6 py-4 rounded-xl font-bold hover:bg-white/10 transition-colors flex justify-center items-center gap-2">
-                                        <Navigation size={18} /> Modify & Build Iterinary
+                                        <Navigation size={18} /> {t.map_actions_modify || "Modify & Build Iterinary"}
                                     </button>
                                 </Link>
 
                                 <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
                                     <button className="w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-bold hover:bg-[#ffe800] transition-colors flex justify-center items-center gap-2 shadow-[0_0_15px_rgba(238,220,0,0.3)]">
-                                        <Sparkles size={18} /> ✨ 一鍵生成行程 <span className="text-black/60 font-normal text-sm ml-1">(僅需 5 點)</span>
+                                        <Sparkles size={18} /> ✨ {t.map_actions_generate || "一鍵生成行程"} <span className="text-black/60 font-normal text-sm ml-1">{t.map_actions_cost || "(僅需 5 點)"}</span>
                                     </button>
                                 </Link>
                             </div>
