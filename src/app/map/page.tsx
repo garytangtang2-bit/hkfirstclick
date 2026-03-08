@@ -7,6 +7,7 @@ import Link from "next/link";
 import dynamic from "next/dynamic";
 import { useEffect, useState, useRef } from "react";
 import { createClient } from "@/utils/supabase/client";
+import { getTranslatedCityName } from "@/utils/cityTranslations";
 
 // Leaflet relies on the `window` object, so it MUST be dynamically imported with SSR disabled.
 const MapComponent = dynamic(() => import("@/components/MapComponent"), { ssr: false });
@@ -22,7 +23,7 @@ export default function MapPage() {
 }
 
 function MapContent() {
-    const { t } = useAppContext();
+    const { t, language } = useAppContext();
     const [userTier, setUserTier] = useState<string | null>(null);
     const [selectedRegion, setSelectedRegion] = useState<string>("All");
 
@@ -126,7 +127,7 @@ function MapContent() {
                             >
                                 <h3 className="font-bold text-white truncate mb-1 flex items-center gap-1.5">
                                     <MapPin size={14} className="text-[#EEDC00]" />
-                                    {city.City}
+                                    {getTranslatedCityName(city.City, language)}
                                 </h3>
                                 <p className="text-xs text-[#A0A0A0] truncate">{city.Vibe}</p>
                             </div>
@@ -154,7 +155,7 @@ function MapContent() {
                                 <div className="inline-block px-3 py-1 bg-[#EEDC00]/10 text-[#EEDC00] rounded-full text-xs font-bold mb-3 uppercase tracking-wider">
                                     {selectedCity.Region || "Global"}
                                 </div>
-                                <h2 className="text-3xl font-black text-white mb-2">{selectedCity.City}</h2>
+                                <h2 className="text-3xl font-black text-white mb-2">{getTranslatedCityName(selectedCity.City, language)}</h2>
                                 <p className="text-[#A0A0A0] mb-6 font-medium leading-relaxed">{selectedCity.Vibe}</p>
 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
