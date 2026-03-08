@@ -42,10 +42,10 @@ export async function POST(req: Request) {
             }
         }
 
-        // 🚨 Block Free Users from updating itineraries
-        if (tier === "TRIAL" || tier === "Casual") {
+        // 🚨 Block TRIAL users from updating itineraries — AI Tweak is a PASS/YEARLY feature
+        if (tier === "TRIAL") {
             return NextResponse.json(
-                { error: "Free users cannot modify generated itineraries. Please upgrade your plan ✨." },
+                { error: "Free trial users cannot modify generated itineraries. Please upgrade to the Journey Pass or above to unlock AI tweaking ✨." },
                 { status: 403 }
             );
         }

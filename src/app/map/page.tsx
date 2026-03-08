@@ -65,7 +65,7 @@ function MapContent() {
         <div className="h-[calc(100vh-64px)] w-full relative overflow-hidden bg-[#0A0A0A]">
 
             {/* The Actual Map Component (Full Screen Background) */}
-            <div className="absolute inset-0 z-[100]">
+            <div className={`absolute inset-0 z-[100] ${userTier === "TRIAL" ? "pointer-events-none" : ""}`}>
                 <MapComponent
                     userTier={userTier}
                     selectedRegion={selectedRegion}
@@ -73,6 +73,27 @@ function MapContent() {
                     onVisibleCitiesChange={(cities) => setVisibleCities(cities)}
                 />
             </div>
+
+            {/* 🔒 Map Access Gate for TRIAL users */}
+            {userTier === "TRIAL" && (
+                <div className="absolute inset-0 z-[600] backdrop-blur-md bg-black/60 flex items-center justify-center">
+                    <div className="bg-[#161616] border border-[#EEDC00]/30 rounded-3xl p-8 md:p-12 max-w-md mx-4 text-center shadow-[0_0_60px_rgba(238,220,0,0.15)]">
+                        <div className="text-5xl mb-4">🗺️</div>
+                        <div className="inline-block px-3 py-1 bg-[#EEDC00]/10 text-[#EEDC00] rounded-full text-xs font-bold mb-4 uppercase tracking-wider border border-[#EEDC00]/20">
+                            Premium Feature
+                        </div>
+                        <h2 className="text-2xl font-black text-white mb-3">
+                            {t.map_title || "AI Travel Map"}
+                        </h2>
+                        <p className="text-gray-400 text-sm leading-relaxed mb-8">
+                            {t.map_desc || "Unlock the interactive AI Travel Map with a Journey Pass or above. Explore 1,000+ cities with translations and personalized itinerary suggestions."}
+                        </p>
+                        <Link href="/pricing" className="block w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-bold hover:bg-[#ffe800] transition-colors shadow-[0_0_20px_rgba(238,220,0,0.3)]">
+                            ✨ {t.btn_upgrade || "Upgrade to Unlock"}
+                        </Link>
+                    </div>
+                </div>
+            )}
 
             {/* Floating Control Panel (Top Left) */}
             <div className="absolute top-20 md:top-4 left-4 z-[400] w-[calc(100%-32px)] md:w-[320px] left-control-panel rounded-2xl p-5 shadow-2xl pointer-events-auto flex flex-col gap-4">

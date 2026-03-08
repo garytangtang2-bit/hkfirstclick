@@ -162,7 +162,7 @@ export async function POST(req: Request) {
         // 3. System Prompt for OpenAI
         const langInstruction = uiLanguage ? `MUST output responses entirely in ${uiLanguage}.` : "MUST output responses in the user's inferred language based on their input.";
 
-        const premiumSearchInstruction = (tier === "PAID" || tier === "PREMIUM")
+        const premiumSearchInstruction = (tier === "PASS" || tier === "YEARLY")
             ? "6.**即時上網搜尋精選(Premium)**: 請務必主動使用上網搜尋功能，查詢該目的地「最新熱門、必去的景點與當季活動」，篩選出網路評價極佳的地點，並排入行程清單中。"
             : "";
 
@@ -210,12 +210,16 @@ ${premiumSearchInstruction}
 }`;
 
         // 4. Determine Dynamic AI Models based on User Tier
-        let primaryModel = "gemini-2.5-flash"; // Default for Free/Trial
+        // YEARLY gets the highest priority model, PASS gets a mid-tier premium model
+        let primaryModel = "gemini-2.0-flash"; // Default for TRIAL/TOPUP
         let fallbackModel = "gpt-4o-mini"; // Default fallback
 
-        if (tier === "PAID" || tier === "PREMIUM") {
-            primaryModel = "gemini-3-flash-preview";
-            fallbackModel = "gpt-5-mini";
+        if (tier === "YEARLY") {
+            primaryModel = "gemini-2.5-pro-exp-03-25"; // VIP: highest quality
+            fallbackModel = "gpt-4o";
+        } else if (tier === "PASS") {
+            primaryModel = "gemini-2.5-flash-preview-04-17"; // Priority: fast + smart
+            fallbackModel = "gpt-4o-mini";
         }
 
         // 5. Call Gemini API securely First
@@ -233,7 +237,7 @@ ${premiumSearchInstruction}
                     "Content-Type": "application/json"
                 },
                 body: JSON.stringify({
-                    ...((tier === "PAID" || tier === "PREMIUM") ? { tools: [{ googleSearch: {} }] } : {}),
+                    ...((tier === "PASS" || tier === "YEARLY") ? { tools: [{ googleSearch: {} }] } : {}),
                     systemInstruction: {
                         parts: [{ text: systemPrompt }]
                     },
