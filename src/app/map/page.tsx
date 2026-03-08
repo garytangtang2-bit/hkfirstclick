@@ -117,7 +117,7 @@ function MapContent() {
                         <Map size={24} className="text-[#EEDC00]" />
                         {t.map_title_page || "Global Travel Map"}
                     </h1>
-                    <p className="text-[#A0A0A0] text-xs leading-relaxed hidden lg:block">Watch your generated AI itineraries come to life on our interactive global tracking map.</p>
+                    <p className="text-[#A0A0A0] text-xs leading-relaxed hidden lg:block">{t.map_subtitle_page || "Watch your generated AI itineraries come to life on our interactive global tracking map."}</p>
                 </div>
 
                 {/* Region Filters */}
