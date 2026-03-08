@@ -857,6 +857,46 @@ function WorkspaceContent() {
                                 <div className="flex justify-end gap-3 mb-4 print:hidden">
                                     <button
                                         onClick={async () => {
+                                            try {
+                                                const res = await fetch("/api/deduct-export", {
+                                                    method: "POST"
+                                                });
+
+                                                if (res.status === 401) {
+                                                    alert(t.err_auth || "請先登入才能匯出 PDF / Please log in to export PDF.");
+                                                    return;
+                                                }
+
+                                                if (res.status === 402) {
+                                                    alert("點數不足以匯出 PDF。請至定價頁面購買點數 / Not enough credits to export PDF. Please purchase more.");
+                                                    window.location.href = '/pricing';
+                                                    return;
+                                                }
+
+                                                if (!res.ok) {
+                                                    alert("匯出失敗，請稍後再試 / Export failed, please try again.");
+                                                    return;
+                                                }
+
+                                                const originalTitle = document.title;
+                                                document.title = `${itinerary.destination || 'Trip'}_Itinerary`;
+
+                                                setTimeout(() => {
+                                                    window.print();
+                                                    document.title = originalTitle;
+                                                }, 300);
+                                            } catch (e) {
+                                                console.error(e);
+                                                alert("發生錯誤 / An error occurred.");
+                                            }
+                                        }}
+                                        className="bg-[#2A2A35] hover:bg-[#3A3A45] text-white border border-white/10 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all"
+                                    >
+                                        <Download size={16} />
+                                        {t.ws_save_pdf || "Save as PDF (1 點)"}
+                                    </button>
+                                    <button
+                                        onClick={async () => {
                                             const shareUrl = `${window.location.origin}/share?id=${itineraryId}&lang=${encodeURIComponent(language)}`;
                                             if (navigator.share) {
                                                 try {

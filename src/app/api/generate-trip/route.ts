@@ -1,5 +1,6 @@
 ﻿import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
+import { getUserCredits, deductCredits } from "@/utils/credits";
 
 // Use service role key to bypass RLS and update credits securely
 const supabaseAdmin = createClient(
@@ -115,23 +116,10 @@ export async function POST(req: Request) {
 
             if (user) {
                 userId = user.id;
-                // Fetch user's exact tier and credits
-                const { data: profile, error: profileError } = await supabaseAdmin
-                    .from("profiles")
-                    .select("tier, credits")
-                    .eq("id", user.id)
-                    .single();
-
-                if (profileError) {
-                    console.error("Error fetching user profile:", profileError);
-                }
-
-                if (profile) {
-                    tier = profile.tier;
-                    userCredits = profile.credits;
-                } else {
-                    console.warn(`Profile not found for user ID: ${user.id}`);
-                }
+                // Fetch user's exact tier and active credits using helper
+                const result = await getUserCredits(user.id);
+                tier = result.tier;
+                userCredits = result.activeCredits;
             }
         }
 
@@ -319,13 +307,9 @@ ${premiumSearchInstruction}
         let insertedItineraryId = null;
 
         if (userId) {
-            const { error: updateError } = await supabaseAdmin
-                .from("profiles")
-                .update({ credits: userCredits - 5 })
-                .eq("id", userId);
-
-            if (updateError) {
-                console.error("Failed to deduct credits:", updateError);
+            const deductResult = await deductCredits(userId, 5);
+            if (!deductResult.success) {
+                console.error("Failed to deduct credits:", deductResult.error);
             }
 
             // 6. Save the itinerary to the database

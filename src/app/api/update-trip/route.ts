@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
+import { getUserCredits, deductCredits } from "@/utils/credits";
 
 // Use service role key to bypass RLS and update credits securely
 const supabaseAdmin = createClient(
@@ -29,16 +30,9 @@ export async function POST(req: Request) {
 
             if (user) {
                 userId = user.id;
-                const { data: profile, error: profileError } = await supabaseAdmin
-                    .from("profiles")
-                    .select("tier, credits")
-                    .eq("id", user.id)
-                    .single();
-
-                if (profile) {
-                    tier = profile.tier;
-                    userCredits = profile.credits;
-                }
+                const result = await getUserCredits(user.id);
+                tier = result.tier;
+                userCredits = result.activeCredits;
             }
         }
 
@@ -131,10 +125,10 @@ export async function POST(req: Request) {
         let insertedItineraryId = null;
 
         if (userId) {
-            await supabaseAdmin
-                .from("profiles")
-                .update({ credits: userCredits - 1 })
-                .eq("id", userId);
+            const deductResult = await deductCredits(userId, 1);
+            if (!deductResult.success) {
+                console.error("Failed to deduct update points:", deductResult.error);
+            }
 
             // Calculate dates from itineraryJson
             let startDate = new Date().toISOString().split('T')[0];

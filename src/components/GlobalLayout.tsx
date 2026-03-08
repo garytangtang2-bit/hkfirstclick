@@ -51,12 +51,24 @@ function AppContentWrapper({ children }: { children: React.ReactNode }) {
     const fetchProfile = async (userId: string) => {
         const { data } = await supabase
             .from("profiles")
-            .select("credits, tier")
+            .select("tier, trial_credits, premium_credits, premium_expires_at, topup_credits, topup_expires_at")
             .eq("id", userId)
             .single();
+
         if (data) {
             setProfile(data);
-            setCredits(data.credits);
+
+            const now = new Date();
+            let activeTotal = data.trial_credits || 0;
+
+            if (data.premium_expires_at && new Date(data.premium_expires_at) > now) {
+                activeTotal += (data.premium_credits || 0);
+            }
+            if (data.topup_expires_at && new Date(data.topup_expires_at) > now) {
+                activeTotal += (data.topup_credits || 0);
+            }
+
+            setCredits(activeTotal);
         }
     };
 

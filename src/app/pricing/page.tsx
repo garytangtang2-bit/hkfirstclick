@@ -61,7 +61,7 @@ function PricingContent() {
             features: [t.tier2_feature1, t.tier2_feature2, t.tier2_feature3, t.tier2_feature4, t.tier2_feature5],
             isPopular: true,
             tierEnum: "PASS",
-            stripePriceId: "price_1PASS_MOCK", // To be updated
+            stripePriceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_PASS || "price_1PASS_MOCK",
         },
         {
             name: t.tier3_name,
@@ -73,7 +73,7 @@ function PricingContent() {
             desc: t.tier3_desc,
             features: [t.tier3_feature1, t.tier3_feature2, t.tier3_feature3, t.tier3_feature4, t.tier3_feature5, t.tier3_feature6],
             tierEnum: "YEARLY",
-            stripePriceId: "price_1YEARLY_MOCK", // To be updated
+            stripePriceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY || "price_1YEARLY_MOCK",
         },
         {
             name: t.tier4_name,
@@ -85,7 +85,7 @@ function PricingContent() {
             desc: t.tier4_desc,
             features: [t.tier4_feature1, t.tier4_feature2, t.tier4_feature3],
             tierEnum: "TOPUP",
-            stripePriceId: "price_1TOPUP_MOCK", // To be updated
+            stripePriceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_TOPUP || "price_1TOPUP_MOCK",
         },
     ];
 
