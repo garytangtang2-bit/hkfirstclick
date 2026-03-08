@@ -256,5 +256,13 @@
   "diet_tags": "بدون لحم بقر,نباتي صرف,نباتي,بدون أطعمة نيئة,حساسية من المأكولات البحرية,بدون كحول,حلال",
   "ws_popular_airports": "المطارات الشهيرة",
   "ws_custom_location": "اضغط Enter لاستخدام \"{query}\" كموقع مخصص",
-  "ws_upgrade_hint": "لا يمكن للمستخدمين المجانيين تعديل مسارات الرحلة. قم بالترقية للوصول ✨"
+  "ws_upgrade_hint": "لا يمكن للمستخدمين المجانيين تعديل مسارات الرحلة. قم بالترقية للوصول ✨",
+  "map_search_placeholder": "أين ترغب في العثور على الإلهام؟",
+  "map_region_all": "عالمي",
+  "map_region_asia": "آسيا",
+  "map_region_europe": "أوروبا",
+  "map_region_americas": "الأمريكتان",
+  "map_region_middle_east": "الشرق الأوسط",
+  "map_region_oceania": "أوقيانوسيا",
+  "map_region_africa": "أفريقيا"
 }

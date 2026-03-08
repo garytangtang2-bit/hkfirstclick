@@ -7,7 +7,7 @@ import Link from "next/link";
 import dynamic from "next/dynamic";
 import { useEffect, useState, useRef } from "react";
 import { createClient } from "@/utils/supabase/client";
-import { getTranslatedCityName } from "@/utils/cityTranslations";
+import { getTranslatedCityName, getTranslatedData } from "@/utils/cityTranslations";
 
 // Leaflet relies on the `window` object, so it MUST be dynamically imported with SSR disabled.
 const MapComponent = dynamic(() => import("@/components/MapComponent"), { ssr: false });
@@ -26,6 +26,16 @@ function MapContent() {
     const { t, language } = useAppContext();
     const [userTier, setUserTier] = useState<string | null>(null);
     const [selectedRegion, setSelectedRegion] = useState<string>("All");
+
+    const regionTranslationKeys: Record<string, string> = {
+        "All": "map_region_all",
+        "亞洲": "map_region_asia",
+        "歐洲": "map_region_europe",
+        "美洲": "map_region_americas",
+        "中東": "map_region_middle_east",
+        "大洋洲": "map_region_oceania",
+        "非洲": "map_region_africa"
+    };
 
     // Phase 4 UI States
     const [selectedCity, setSelectedCity] = useState<any>(null);
@@ -80,12 +90,12 @@ function MapContent() {
                         <button
                             key={region}
                             onClick={() => setSelectedRegion(region)}
-                            className={`px-3 py-1.5 rounded-full text-xs font-bold transition-all ${selectedRegion === region
-                                ? "bg-[#EEDC00] text-black shadow-[0_0_15px_rgba(238,220,0,0.3)]"
-                                : "bg-[#0A0A0A] text-[#A0A0A0] hover:text-white border border-white/10 hover:border-white/30"
+                            className={`px-4 py-1.5 rounded-full text-xs font-medium border transition-colors ${selectedRegion === region
+                                ? "bg-[#EEDC00] text-black border-[#EEDC00] shadow-[0_0_10px_rgba(238,220,0,0.3)]"
+                                : "bg-transparent text-[#A0A0A0] border-white/10 hover:border-white/30 hover:text-white"
                                 }`}
                         >
-                            {region === "All" ? "全球" : region}
+                            {t[regionTranslationKeys[region]] || region}
                         </button>
                     ))}
                 </div>
@@ -107,7 +117,7 @@ function MapContent() {
                     </div>
                     <input
                         type="text"
-                        placeholder="你想去哪裡獲取靈感？"
+                        placeholder={t.map_search_placeholder || "你想去哪裡獲取靈感？"}
                         className="flex-1 bg-transparent border-none outline-none font-medium text-white placeholder-gray-500 text-sm md:text-base"
                         value={searchQuery}
                         onChange={(e) => setSearchQuery(e.target.value)}
@@ -129,7 +139,7 @@ function MapContent() {
                                     <MapPin size={14} className="text-[#EEDC00]" />
                                     {getTranslatedCityName(city.City, language)}
                                 </h3>
-                                <p className="text-xs text-[#A0A0A0] truncate">{city.Vibe}</p>
+                                <p className="text-xs text-[#A0A0A0] truncate">{getTranslatedData(city.City, 'description', language, city.Vibe)}</p>
                             </div>
                         ))}
                     </div>
@@ -156,7 +166,7 @@ function MapContent() {
                                     {selectedCity.Region || "Global"}
                                 </div>
                                 <h2 className="text-3xl font-black text-white mb-2">{getTranslatedCityName(selectedCity.City, language)}</h2>
-                                <p className="text-[#A0A0A0] mb-6 font-medium leading-relaxed">{selectedCity.Vibe}</p>
+                                <p className="text-[#A0A0A0] mb-6 font-medium leading-relaxed">{getTranslatedData(selectedCity.City, 'description', language, selectedCity.Vibe)}</p>
 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
                                     <div className="bg-[#1A1A1A] p-4 rounded-2xl border border-white/5 shadow-inner">

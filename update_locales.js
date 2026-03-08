@@ -1,78 +1,37 @@
 const fs = require('fs');
 const path = require('path');
 
-const envLocal = fs.readFileSync(path.join(__dirname, '.env.local'), 'utf-8');
-const match = envLocal.match(/GEMINI_API_KEY=(.*)/);
-const GEMINI_API_KEY = match ? match[1].trim() : null;
-
-if (!GEMINI_API_KEY) {
-    console.error("Please set GEMINI_API_KEY in .env.local");
-    process.exit(1);
-}
-
 const localesDir = path.join(__dirname, 'src', 'locales');
-const files = fs.readdirSync(localesDir).filter(f => f.endsWith('.json'));
-
-const newEnglishCopy = {
-    "landing_desc": "Say goodbye to tedious planning. Simply provide your confirmed flight and hotel details, and our top-tier AI will craft a precision-timed, perfectly routed itinerary just for you.",
-    "step2_title": "Precision AI Routing",
-    "step2_desc": "Our AI uses your exact hotel as the daily anchor, calculating precise transit times and optimal routes so you never waste a single minute of your trip.",
-    "faq_a1": "HKfirstclick allows you to input your destination, flight times, and hotel address, converting them into a highly actionable, precision-timed itinerary using AI.",
-    "faq_a2": "Our system analyzes your specific needs, dietary restrictions, and exact flight schedule to calculate the most logical point-to-point daily routes.",
-    "faq_q4": "Is the generated itinerary timing accurate?",
-    "faq_a4": "Yes! By providing your exact flight arrival/departure times and hotel address, the AI calculates realistic buffer times for airport transit and daily commutes.",
-    "ws_desc": "Fill in your flight and hotel details below. Our AI will calculate the optimal daily routes and generate a professional itinerary for you."
+const mapTranslations = {
+    en: { map_search_placeholder: "Where would you like to find inspiration?", map_region_all: "Global", map_region_asia: "Asia", map_region_europe: "Europe", map_region_americas: "Americas", map_region_middle_east: "Middle East", map_region_oceania: "Oceania", map_region_africa: "Africa" },
+    zh: { map_search_placeholder: "你想去哪裡獲取靈感？", map_region_all: "全球", map_region_asia: "亞洲", map_region_europe: "歐洲", map_region_americas: "美洲", map_region_middle_east: "中東", map_region_oceania: "大洋洲", map_region_africa: "非洲" },
+    ja: { map_search_placeholder: "どこでインスピレーションを得たいですか？", map_region_all: "すべて", map_region_asia: "アジア", map_region_europe: "ヨーロッパ", map_region_americas: "アメリカ大陸", map_region_middle_east: "中東", map_region_oceania: "オセアニア", map_region_africa: "アフリカ" },
+    ko: { map_search_placeholder: "어디에서 영감을 얻고 싶으신가요?", map_region_all: "전체", map_region_asia: "아시아", map_region_europe: "유럽", map_region_americas: "아메리카", map_region_middle_east: "중동", map_region_oceania: "오세아니아", map_region_africa: "아프리카" },
+    fr: { map_search_placeholder: "Où aimeriez-vous trouver l'inspiration ?", map_region_all: "Global", map_region_asia: "Asie", map_region_europe: "Europe", map_region_americas: "Amériques", map_region_middle_east: "Moyen-Orient", map_region_oceania: "Océanie", map_region_africa: "Afrique" },
+    es: { map_search_placeholder: "¿Dónde te gustaría encontrar inspiración?", map_region_all: "Global", map_region_asia: "Asia", map_region_europe: "Europa", map_region_americas: "Américas", map_region_middle_east: "Oriente Medio", map_region_oceania: "Oceanía", map_region_africa: "África" },
+    id: { map_search_placeholder: "Di mana Anda ingin mencari inspirasi?", map_region_all: "Semua", map_region_asia: "Asia", map_region_europe: "Eropa", map_region_americas: "Amerika", map_region_middle_east: "Timur Tengah", map_region_oceania: "Oseania", map_region_africa: "Afrika" },
+    hi: { map_search_placeholder: "आप प्रेरणा कहाँ प्राप्त करना चाहेंगे?", map_region_all: "ग्लोबल", map_region_asia: "एशिया", map_region_europe: "यूरोप", map_region_americas: "अमेरिका", map_region_middle_east: "मध्य पूर्व", map_region_oceania: "ओशिनिया", map_region_africa: "अफ्रीका" },
+    pt: { map_search_placeholder: "Onde você gostaria de encontrar inspiração?", map_region_all: "Global", map_region_asia: "Ásia", map_region_europe: "Europa", map_region_americas: "Américas", map_region_middle_east: "Oriente Médio", map_region_oceania: "Oceania", map_region_africa: "África" },
+    ar: { map_search_placeholder: "أين ترغب في العثور على الإلهام؟", map_region_all: "عالمي", map_region_asia: "آسيا", map_region_europe: "أوروبا", map_region_americas: "الأمريكتان", map_region_middle_east: "الشرق الأوسط", map_region_oceania: "أوقيانوسيا", map_region_africa: "أفريقيا" },
+    ru: { map_search_placeholder: "Где бы вы хотели найти вдохновение?", map_region_all: "Глобал", map_region_asia: "Азия", map_region_europe: "Европа", map_region_americas: "Америка", map_region_middle_east: "Ближний Восток", map_region_oceania: "Океания", map_region_africa: "Африка" },
+    bn: { map_search_placeholder: "আপনি কোথায় অনুপ্রেরণা খুঁজতে চান?", map_region_all: "বিশ্বব্যাপী", map_region_asia: "এশিয়া", map_region_europe: "ইউরোপ", map_region_americas: "আমেরিকা", map_region_middle_east: "মধ্যপ্রাচ্য", map_region_oceania: "ওশেনিয়া", map_region_africa: "আফ্রিকা" }
 };
 
-async function translate(targetLang, textObj) {
-    if (targetLang === 'English' || targetLang === 'en') return textObj;
-
-    const prompt = `Translate the following JSON object values into the language corresponding to language code '${targetLang}'. Keep the keys exactly the same. Output ONLY valid JSON, nothing else.\n\n${JSON.stringify(textObj, null, 2)}`;
-
-    const res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-            contents: [{ role: "user", parts: [{ text: prompt }] }],
-            generationConfig: { responseMimeType: "application/json" }
-        })
-    });
-
-    if (!res.ok) {
-        throw new Error(`Gemini API failed with status ${res.status}`);
-    }
-
-    const data = await res.json();
-    let resultText = data.candidates[0].content.parts[0].text;
-    resultText = resultText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
-    return JSON.parse(resultText);
-}
-
-async function main() {
-    for (const file of files) {
-        const langCode = file.replace('.json', '');
-        console.log(`Processing ${langCode}...`);
-
-        const filePath = path.join(localesDir, file);
-        const originalData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-
+fs.readdirSync(localesDir).forEach(file => {
+    if (file.endsWith('.json')) {
+        const lang = file.split('.')[0];
+        const filepath = path.join(localesDir, file);
         try {
-            const translatedCopy = await translate(langCode, newEnglishCopy);
+            const data = JSON.parse(fs.readFileSync(filepath, 'utf8'));
+            const newTrans = mapTranslations[lang] || mapTranslations['en'];
 
-            // Merge back into original
-            for (const key of Object.keys(newEnglishCopy)) {
-                if (translatedCopy[key]) {
-                    originalData[key] = translatedCopy[key];
-                }
-            }
+            // Merge
+            Object.assign(data, newTrans);
 
-            fs.writeFileSync(filePath, JSON.stringify(originalData, null, 4));
-            console.log(`Successfully updated ${file}`);
-        } catch (e) {
-            console.error(`Error updating ${file}:`, e);
+            fs.writeFileSync(filepath, JSON.stringify(data, null, 2), 'utf8');
+            console.log(`Updated ${file}`);
+        } catch (err) {
+            console.error(`Error with ${file}:`, err);
         }
     }
-    console.log("Translation pass complete!");
-}
-
-main();
+});

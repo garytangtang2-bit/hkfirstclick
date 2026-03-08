@@ -256,5 +256,13 @@
   "diet_tags": "No Beef,Vegan,Vegetarian,No Raw Food,Seafood Allergy,No Alcohol,Halal",
   "ws_popular_airports": "Popular Airports",
   "ws_custom_location": "Press Enter to use \"{query}\" as a custom location",
-  "ws_upgrade_hint": "Free users cannot modify itineraries. Upgrade to unlock ✨"
+  "ws_upgrade_hint": "Free users cannot modify itineraries. Upgrade to unlock ✨",
+  "map_search_placeholder": "Where would you like to find inspiration?",
+  "map_region_all": "Global",
+  "map_region_asia": "Asia",
+  "map_region_europe": "Europe",
+  "map_region_americas": "Americas",
+  "map_region_middle_east": "Middle East",
+  "map_region_oceania": "Oceania",
+  "map_region_africa": "Africa"
 }

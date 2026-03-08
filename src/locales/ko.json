@@ -256,5 +256,13 @@
   "diet_tags": "소고기 없음,비건,채식,날음식 없음,해산물 알레르기,음주 안 함,할랄",
   "ws_popular_airports": "인기 공항",
   "ws_custom_location": "Enter를 눌러 \"{query}\"를 맞춤 장소로 사용",
-  "ws_upgrade_hint": "무료 사용자는 일정을 수정할 수 없습니다. 업그레이드하여 잠금 해제하세요 ✨"
+  "ws_upgrade_hint": "무료 사용자는 일정을 수정할 수 없습니다. 업그레이드하여 잠금 해제하세요 ✨",
+  "map_search_placeholder": "어디에서 영감을 얻고 싶으신가요?",
+  "map_region_all": "전체",
+  "map_region_asia": "아시아",
+  "map_region_europe": "유럽",
+  "map_region_americas": "아메리카",
+  "map_region_middle_east": "중동",
+  "map_region_oceania": "오세아니아",
+  "map_region_africa": "아프리카"
 }

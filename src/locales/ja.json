@@ -256,5 +256,13 @@
   "diet_tags": "牛肉なし,ビーガン,ベジタリアン,生食なし,魚介類アレルギー,アルコールなし,ハラール",
   "ws_popular_airports": "人気の空港",
   "ws_custom_location": "Enterを押して「{query}」をカスタム地点として使用",
-  "ws_upgrade_hint": "無料ユーザーは旅程を変更できません。アップグレードしてロックを解除してください ✨"
+  "ws_upgrade_hint": "無料ユーザーは旅程を変更できません。アップグレードしてロックを解除してください ✨",
+  "map_search_placeholder": "どこでインスピレーションを得たいですか？",
+  "map_region_all": "すべて",
+  "map_region_asia": "アジア",
+  "map_region_europe": "ヨーロッパ",
+  "map_region_americas": "アメリカ大陸",
+  "map_region_middle_east": "中東",
+  "map_region_oceania": "オセアニア",
+  "map_region_africa": "アフリカ"
 }

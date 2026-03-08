@@ -256,5 +256,13 @@
   "diet_tags": "Sin carne de res,Vegano,Vegetariano,Sin crudo,Alergia al marisco,Sin alcohol,Halal",
   "ws_popular_airports": "Aeropuertos populares",
   "ws_custom_location": "Presiona Enter para usar \"{query}\" como ubicación personalizada",
-  "ws_upgrade_hint": "Los usuarios gratuitos no pueden modificar los itinerarios. Actualízate para desbloquear ✨"
+  "ws_upgrade_hint": "Los usuarios gratuitos no pueden modificar los itinerarios. Actualízate para desbloquear ✨",
+  "map_search_placeholder": "¿Dónde te gustaría encontrar inspiración?",
+  "map_region_all": "Global",
+  "map_region_asia": "Asia",
+  "map_region_europe": "Europa",
+  "map_region_americas": "Américas",
+  "map_region_middle_east": "Oriente Medio",
+  "map_region_oceania": "Oceanía",
+  "map_region_africa": "África"
 }

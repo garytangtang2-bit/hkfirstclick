@@ -256,5 +256,13 @@
   "diet_tags": "不吃牛,全素,蛋奶素,不吃生食,海鮮過敏,不喝酒,清真飲食",
   "ws_popular_airports": "熱門機場",
   "ws_custom_location": "按 Enter 使用「{query}」作為自訂地點",
-  "ws_upgrade_hint": "免費用戶無法修改行程，請升級方案 ✨"
+  "ws_upgrade_hint": "免費用戶無法修改行程，請升級方案 ✨",
+  "map_search_placeholder": "你想去哪裡獲取靈感？",
+  "map_region_all": "全球",
+  "map_region_asia": "亞洲",
+  "map_region_europe": "歐洲",
+  "map_region_americas": "美洲",
+  "map_region_middle_east": "中東",
+  "map_region_oceania": "大洋洲",
+  "map_region_africa": "非洲"
 }

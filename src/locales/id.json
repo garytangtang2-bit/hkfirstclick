@@ -256,5 +256,13 @@
   "diet_tags": "Tanpa daging sapi,Vegan,Vegetarian,Tanpa makanan mentah,Alergi seafood,Tanpa alkohol,Halal",
   "ws_popular_airports": "Bandara Populer",
   "ws_custom_location": "Tekan Enter untuk menggunakan \"{query}\" sebagai lokasi kustom",
-  "ws_upgrade_hint": "Pengguna gratis tidak dapat mengubah itinerary. Tingkatkan untuk membuka fitur ✨"
+  "ws_upgrade_hint": "Pengguna gratis tidak dapat mengubah itinerary. Tingkatkan untuk membuka fitur ✨",
+  "map_search_placeholder": "Di mana Anda ingin mencari inspirasi?",
+  "map_region_all": "Semua",
+  "map_region_asia": "Asia",
+  "map_region_europe": "Eropa",
+  "map_region_americas": "Amerika",
+  "map_region_middle_east": "Timur Tengah",
+  "map_region_oceania": "Oseania",
+  "map_region_africa": "Afrika"
 }
