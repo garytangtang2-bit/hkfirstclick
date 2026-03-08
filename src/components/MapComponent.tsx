@@ -127,13 +127,13 @@ export default function MapComponent({ userTier, selectedRegion, onCitySelect, o
             filteredData.forEach((city) => {
                 const marker = L.marker([city.Latitude, city.Longitude], { icon: customIcon });
 
-                // Attach dynamic language tooltips (always visible)
+                // Attach dynamic language tooltips (hover only)
                 const translatedName = getTranslatedCityName(city.City, language);
                 marker.bindTooltip(translatedName, {
                     direction: "top",
                     offset: [0, -10],
                     opacity: 1,
-                    permanent: true,
+                    permanent: false,
                     className: "custom-city-label"
                 });
 
