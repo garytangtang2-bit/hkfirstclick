@@ -905,10 +905,14 @@ function WorkspaceContent() {
                                                 alert("發生錯誤 / An error occurred.");
                                             }
                                         }}
-                                        className="bg-[#2A2A35] hover:bg-[#3A3A45] text-white border border-white/10 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all"
+                                        className="relative group overflow-hidden bg-gradient-to-r from-[#2A2A35] to-[#1A1A25] hover:from-[#3A3A45] hover:to-[#2A2A35] text-white border border-white/10 px-5 py-2.5 rounded-2xl text-sm font-bold flex items-center gap-3 transition-all shadow-lg active:scale-95"
                                     >
-                                        <Download size={16} />
-                                        {t.ws_save_pdf || "Save as PDF (1 點)"}
+                                        <div className="absolute inset-0 bg-[#EEDC00]/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+                                        <Download size={18} className="text-[#EEDC00]" />
+                                        <span className="relative z-10">{t.ws_save_pdf || "Save as PDF"}</span>
+                                        <span className="bg-[#EEDC00] text-black text-[10px] px-1.5 py-0.5 rounded-md font-black ml-1 shadow-[0_0_10px_rgba(238,220,0,0.3)]">
+                                            1 點
+                                        </span>
                                     </button>
                                     <button
                                         onClick={async () => {
