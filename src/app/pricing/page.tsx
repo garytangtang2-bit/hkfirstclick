@@ -171,16 +171,21 @@ function PricingContent() {
                                         </div>
                                     );
                                 })()}
-                                <div className="flex items-baseline gap-2">
-                                    <span className="text-4xl font-black text-white">
-                                        {plan.price[currency as keyof typeof plan.price] === 0
-                                            ? t.free_credit
-                                            : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
-                                    </span>
-                                    {plan.price[currency as keyof typeof plan.price] > 0 && (
-                                        <span className="text-sm text-gray-500 font-bold uppercase tracking-wider">
-                                            {t.price_one_time}
+                                <div className="flex flex-col items-start">
+                                    <div className="flex items-baseline gap-2">
+                                        <span className="text-4xl font-black text-white tracking-tighter">
+                                            {plan.price[currency as keyof typeof plan.price] === 0
+                                                ? t.free_credit
+                                                : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
                                         </span>
+                                    </div>
+                                    {plan.price[currency as keyof typeof plan.price] > 0 && (
+                                        <div className="mt-1 flex items-center gap-1.5 py-0.5 px-2 rounded-md bg-white/5 border border-white/10">
+                                            <div className="w-1 h-1 rounded-full bg-[#EEDC00] animate-pulse"></div>
+                                            <span className="text-[10px] text-gray-400 font-bold uppercase tracking-[0.15em] whitespace-nowrap">
+                                                {t.price_one_time}
+                                            </span>
+                                        </div>
                                     )}
                                 </div>
                             </div>
