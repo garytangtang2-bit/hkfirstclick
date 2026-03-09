@@ -5,18 +5,15 @@ import { AppProvider, useAppContext } from "@/components/AppContext";
 import { YellowButton } from "@/components/ui/YellowButton";
 import { createClient } from "@/utils/supabase/client";
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 
 export default function Pricing() {
     return (
-        <AppProvider>
-            <GlobalLayout>
-                <PricingContent />
-            </GlobalLayout>
-        </AppProvider>
+        <GlobalLayout>
+            <PricingContent />
+        </GlobalLayout>
     );
 }
-
-import { useRouter } from "next/navigation";
 
 function PricingContent() {
     const { t, currency } = useAppContext();
@@ -131,10 +128,10 @@ function PricingContent() {
         <div className="min-h-screen pt-12 pb-24 px-6 md:px-12 max-w-7xl mx-auto">
             <div className="text-center mb-16 relative">
                 <h1 className="text-4xl md:text-6xl font-black mb-6 drop-shadow-lg text-white">
-                    {t.price_title}
+                    {t.price_title || "Pricing Plans"}
                 </h1>
                 <p className="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto">
-                    {t.price_desc}
+                    {t.price_desc || "Choose the best plan for your travel needs."}
                 </p>
             </div>
 
