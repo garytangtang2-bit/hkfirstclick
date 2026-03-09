@@ -18,14 +18,13 @@ export async function POST(req: Request) {
         }
 
         const body = await req.json();
-        const { priceId, tier } = body;
+        const { priceId } = body;
 
-        // Determine mode: TOPUP is a one-time 'payment', others are 'subscription'
-        const mode = tier === "TOPUP" ? "payment" : "subscription";
-
+        // Use 'payment' mode instead of 'subscription' because the configured prices 
+        // in Stripe are currently set as one-time payments.
         const session = await stripe.checkout.sessions.create({
             payment_method_types: ["card"],
-            mode: mode,
+            mode: "payment",
             line_items: [
                 {
                     price: priceId,
