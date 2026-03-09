@@ -80,7 +80,7 @@ function MapContent() {
         <div className="h-[calc(100vh-64px)] w-full relative overflow-hidden bg-[#0A0A0A]">
 
             {/* The Actual Map Component (Full Screen Background) */}
-            <div className={`absolute inset-0 z-[100] ${userTier === "TRIAL" ? "pointer-events-none" : ""}`}>
+            <div className={`absolute inset-0 z-[100] ${(!userTier || userTier === "TRIAL" || userTier === "Casual") ? "pointer-events-none" : ""}`}>
                 <MapComponent
                     userTier={userTier}
                     selectedRegion={selectedRegion}
@@ -89,8 +89,8 @@ function MapContent() {
                 />
             </div>
 
-            {/* 🔒 Map Access Gate for TRIAL users */}
-            {userTier === "TRIAL" && (
+            {/* 🔒 Map Access Gate for non-Pro users */}
+            {(!userTier || userTier === "TRIAL" || userTier === "Casual") && (
                 <div className="absolute inset-0 z-[600] backdrop-blur-md bg-black/60 flex items-center justify-center">
                     <div className="bg-[#161616] border border-[#EEDC00]/30 rounded-3xl p-8 md:p-12 max-w-md mx-4 text-center shadow-[0_0_60px_rgba(238,220,0,0.15)]">
                         <div className="text-5xl mb-4">🗺️</div>
