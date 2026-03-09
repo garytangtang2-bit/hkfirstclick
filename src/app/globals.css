@@ -145,3 +145,58 @@ body {
   border-radius: var(--radius-premium) !important;
   position: relative;
 }
+
+/* 12. Premium Print Styles (PDF Export) */
+@media print {
+  @page {
+    margin: 0;
+    size: auto;
+  }
+
+  body {
+    background: #111111 !important;
+    color: white !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .print\:hidden {
+    display: none !important;
+  }
+
+  #exportable-itinerary {
+    border: none !important;
+    box-shadow: none !important;
+    background: #111111 !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+  }
+
+  .premium-glass-card {
+    background: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    backdrop-filter: none !important;
+  }
+
+  /* Ensure images show up */
+  img {
+    display: block !important;
+    max-width: 100% !important;
+  }
+
+  /* Force dark background for specific sections */
+  .bg-\[\#161616\],
+  .bg-\[\#111111\],
+  .bg-\[\#1A1A1A\],
+  .bg-\[\#0E0E0E\] {
+    background-color: inherit !important;
+  }
+
+  /* A4 adjustments */
+  .max-w-7xl {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+}
