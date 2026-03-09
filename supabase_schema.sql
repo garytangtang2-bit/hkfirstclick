@@ -1,9 +1,12 @@
--- Create a table for public profiles
 create table profiles (
   id uuid references auth.users on delete cascade not null primary key,
   updated_at timestamp with time zone,
   tier text default 'TRIAL'::text,
-  credits integer default 6
+  trial_credits integer default 6,
+  premium_credits integer default 0,
+  topup_credits integer default 0,
+  premium_expires_at timestamp with time zone,
+  topup_expires_at timestamp with time zone
 );
 
 -- Set up Row Level Security (RLS)
@@ -22,7 +25,7 @@ create policy "Users can update own profile." on profiles
 create function public.handle_new_user()
 returns trigger as $$
 begin
-  insert into public.profiles (id, tier, credits)
+  insert into public.profiles (id, tier, trial_credits)
   values (new.id, 'TRIAL', 6);
   return new;
 end;
