@@ -89,16 +89,18 @@ function PricingContent() {
         },
     ];
 
-    const handleCheckout = async (priceId: string) => {
+    const handleCheckout = async (priceId: string, tier: string) => {
         try {
             const res = await fetch("/api/checkout", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ priceId }),
+                body: JSON.stringify({ priceId, tier }),
             });
             const data = await res.json();
             if (data.url) {
                 window.location.href = data.url;
+            } else if (data.error) {
+                alert(`Checkout Error: ${data.error}`);
             }
         } catch (err) {
             console.error(err);
@@ -224,20 +226,24 @@ function PricingContent() {
                             {isCurrent ? (
                                 <button
                                     disabled
-                                    className="w-full py-4 rounded-xl font-bold text-gray-400 bg-white/5 border border-white/10 uppercase tracking-wider text-sm cursor-not-allowed"
+                                    className="w-full py-4 rounded-xl font-bold text-[#EEDC00] bg-[#EEDC00]/10 border border-[#EEDC00]/30 uppercase tracking-wider text-sm cursor-default"
                                 >
-                                    {t.btn_current}
+                                    {t.btn_current || "Current Plan"}
                                 </button>
-                            ) : plan.price[currency as keyof typeof plan.price] === 0 ? (
+                            ) : plan.tierEnum === "TRIAL" ? (
                                 <button
-                                    disabled
-                                    className="w-full py-4 rounded-xl font-bold text-gray-400 bg-white/5 border border-white/10 uppercase tracking-wider text-sm cursor-not-allowed"
+                                    disabled={!!profile}
+                                    onClick={() => !profile && navigateTo("/login")}
+                                    className={`w-full py-4 rounded-xl font-bold uppercase tracking-wider text-sm transition-all duration-300 ${profile
+                                            ? "text-gray-500 bg-white/5 border border-white/10 cursor-default"
+                                            : "text-[#EEDC00] bg-[#EEDC00]/10 border border-[#EEDC00]/30 hover:bg-[#EEDC00] hover:text-black shadow-[0_0_15px_rgba(238,220,0,0.1)] hover:shadow-[0_0_25px_rgba(238,220,0,0.3)]"
+                                        }`}
                                 >
-                                    {t.price_signup_claim}
+                                    {profile ? (t.btn_claimed || "已經領取") : t.price_signup_claim}
                                 </button>
                             ) : (
                                 <YellowButton
-                                    onClick={() => handleCheckout(plan.stripePriceId!)}
+                                    onClick={() => handleCheckout(plan.stripePriceId!, plan.tierEnum)}
                                     className="w-full py-4 rounded-xl uppercase tracking-wider text-sm"
                                 >
                                     {t.btn_buy}

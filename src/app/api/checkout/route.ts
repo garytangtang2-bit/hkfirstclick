@@ -18,11 +18,14 @@ export async function POST(req: Request) {
         }
 
         const body = await req.json();
-        const { priceId } = body;
+        const { priceId, tier } = body;
+
+        // Determine mode: TOPUP is a one-time 'payment', others are 'subscription'
+        const mode = tier === "TOPUP" ? "payment" : "subscription";
 
         const session = await stripe.checkout.sessions.create({
             payment_method_types: ["card"],
-            mode: "subscription", // Change to 'payment' if top-up non-recurring
+            mode: mode,
             line_items: [
                 {
                     price: priceId,
