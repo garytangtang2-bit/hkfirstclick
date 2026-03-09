@@ -278,5 +278,20 @@
   "tier3_feature5": "優先客戶服務與新功能",
   "tier3_feature6": "最高優先級生成（VIP 秒速）",
   "tier3_feature7": "最高優先級生成（VIP 秒速）",
-  "map_subtitle_page": "在我們的互動式全球追蹤地圖上，看著您生成的AI行程栩栩如生地呈現。"
+  "map_subtitle_page": "在我們的互動式全球追蹤地圖上，看著您生成的AI行程栩栩如生地呈現。",
+  "privacy_title": "隱私權政策",
+  "privacy_collect_title": "收集哪些資料",
+  "privacy_collect_intro": "為了提供更優質的服務，我們在您使用 Google 帳號登入時會收集以下必要資料：",
+  "privacy_collect_item1": "Google 帳號提供的 Email",
+  "privacy_collect_item2": "Google 帳號提供的頭像",
+  "privacy_collect_item3": "Google 帳號提供的姓名",
+  "privacy_usage_title": "資料用途",
+  "privacy_usage_intro": "收集的資料僅用於以下特定用途：",
+  "privacy_usage_item1": "建立與管理您的用戶帳號",
+  "privacy_usage_item2": "保存您生成的旅遊行程",
+  "privacy_usage_item3": "透過 Stripe 處理安全的支付交易",
+  "privacy_protect_title": "資料保護",
+  "privacy_protect_desc": "我們非常重視您的隱私，承諾絕對不會將您的個人資料出售或提供給任何第三方進行廣告或營銷活動。所有資料處理均符合現代安全通訊標準。",
+  "privacy_contact_title": "聯絡方式",
+  "privacy_contact_intro": "如果您對本隱私權政策有任何疑問，請透過以下電子郵件聯絡我們："
 }

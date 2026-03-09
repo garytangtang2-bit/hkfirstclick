@@ -278,5 +278,20 @@
   "tier3_feature5": "Priority Customer Service & New Features",
   "tier3_feature6": "Highest Priority Generation (VIP Speed)",
   "tier3_feature7": "Highest Priority Generation (VIP Speed)",
-  "map_subtitle_page": "Watch your generated AI itineraries come to life on our interactive global tracking map."
+  "map_subtitle_page": "Watch your generated AI itineraries come to life on our interactive global tracking map.",
+  "privacy_title": "Privacy Policy",
+  "privacy_collect_title": "Information Collection",
+  "privacy_collect_intro": "To provide better service, we collect the following necessary information when you log in using your Google account:",
+  "privacy_collect_item1": "Email provided by Google account",
+  "privacy_collect_item2": "Avatar provided by Google account",
+  "privacy_collect_item3": "Name provided by Google account",
+  "privacy_usage_title": "Data Usage",
+  "privacy_usage_intro": "The collected data is only used for the following specific purposes:",
+  "privacy_usage_item1": "Creating and managing your user account",
+  "privacy_usage_item2": "Saving your generated travel itineraries",
+  "privacy_usage_item3": "Processing secure payment transactions via Stripe",
+  "privacy_protect_title": "Data Protection",
+  "privacy_protect_desc": "We value your privacy and promise never to sell or provide your personal data to any third party for advertising or marketing activities. All data processing complies with modern secure communication standards.",
+  "privacy_contact_title": "Contact Us",
+  "privacy_contact_intro": "If you have any questions about this Privacy Policy, please contact us at:"
 }

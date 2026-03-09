@@ -181,6 +181,11 @@ function LoginContent() {
                         </svg>
                         Sign in with Google
                     </button>
+                    <div className="text-center mt-6">
+                        <a href="/privacy" className="text-xs text-gray-500 hover:text-[#EEDC00] transition-colors uppercase tracking-widest font-bold">
+                            {t.footer_privacy}
+                        </a>
+                    </div>
                 </form>
             </div>
         </div>

@@ -2,6 +2,7 @@
 
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { Navbar } from "@/components/Navbar";
+import { Footer } from "@/components/Footer";
 import { createClient } from "@/utils/supabase/client";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
@@ -96,6 +97,7 @@ function AppContentWrapper({ children }: { children: React.ReactNode }) {
                 navigateTo={navigateTo}
             />
             <div className="flex-1 pt-16 relative">{children}</div>
+            <Footer t={t} />
         </div>
     );
 }
