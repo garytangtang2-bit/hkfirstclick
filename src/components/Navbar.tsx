@@ -137,31 +137,36 @@ export function Navbar({
                     </div>
 
                     {user ? (
-                        <div className="flex items-center gap-4 bg-white/5 px-4 py-1.5 rounded-full border border-white/10">
-                            <div className="hidden md:flex flex-col items-end">
-                                <span className="text-[10px] text-gray-400">
+                        <div className="flex items-center gap-3 bg-white/5 pl-4 pr-2 py-1.5 rounded-full border border-white/10 group/profile hover:bg-white/10 transition-all duration-300">
+                            <div className="hidden md:flex flex-col items-end leading-tight">
+                                <span className="text-[10px] text-gray-500 font-bold uppercase tracking-wider">
                                     {user.email?.split("@")[0]}
                                 </span>
-                                <span className="text-xs font-bold text-[#EEDC00]">
+                                <div className="flex items-center gap-1.5">
                                     {profile ? (
-                                        `${credits} Credits`
+                                        <>
+                                            <span className="text-xs font-black text-[#EEDC00]">
+                                                {credits}
+                                            </span>
+                                            <span className="text-[9px] text-gray-400 font-medium">CREDITS</span>
+                                        </>
                                     ) : (
-                                        <Loader2 size={12} className="animate-spin" />
+                                        <Loader2 size={10} className="animate-spin text-[#EEDC00]" />
                                     )}
-                                </span>
+                                </div>
                             </div>
                             <button
                                 onClick={handleSignOut}
-                                className="text-gray-400 hover:text-red-400 transition-colors"
-                                title="登出"
+                                className="w-8 h-8 flex items-center justify-center rounded-full bg-white/5 text-gray-400 hover:text-red-400 hover:bg-red-400/10 transition-all duration-300"
+                                title="Sign Out"
                             >
-                                <LogOut size={16} />
+                                <LogOut size={14} />
                             </button>
                         </div>
                     ) : (
                         <button
                             onClick={() => navigateTo("/login")}
-                            className="bg-[#EEDC00]/10 border border-[#EEDC00]/30 text-[#EEDC00] px-4 py-1.5 rounded-full text-sm font-bold flex items-center gap-2 hover:bg-[#EEDC00] hover:text-black transition-all"
+                            className="bg-[#EEDC00]/10 border border-[#EEDC00]/30 text-[#EEDC00] px-5 py-2 rounded-full text-sm font-bold flex items-center gap-2 hover:bg-[#EEDC00] hover:text-black transition-all duration-300 shadow-[0_0_15px_rgba(238,220,0,0.1)] hover:shadow-[0_0_25px_rgba(238,220,0,0.3)]"
                         >
                             <User size={16} /> {t.nav_login}
                         </button>

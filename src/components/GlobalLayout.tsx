@@ -50,26 +50,35 @@ function AppContentWrapper({ children }: { children: React.ReactNode }) {
     }, [supabase]);
 
     const fetchProfile = async (userId: string) => {
-        const { data } = await supabase
-            .from("profiles")
-            .select("tier, trial_credits, premium_credits, premium_expires_at, topup_credits, topup_expires_at")
-            .eq("id", userId)
-            .single();
+        try {
+            const { data, error } = await supabase
+                .from("profiles")
+                .select("tier, trial_credits, premium_credits, premium_expires_at, topup_credits, topup_expires_at")
+                .eq("id", userId)
+                .single();
 
-        if (data) {
-            setProfile(data);
+            if (error) throw error;
 
-            const now = new Date();
-            let activeTotal = data.trial_credits || 0;
+            if (data) {
+                setProfile(data);
 
-            if (data.premium_expires_at && new Date(data.premium_expires_at) > now) {
-                activeTotal += (data.premium_credits || 0);
+                const now = new Date();
+                let activeTotal = data.trial_credits || 0;
+
+                if (data.premium_expires_at && new Date(data.premium_expires_at) > now) {
+                    activeTotal += (data.premium_credits || 0);
+                }
+                if (data.topup_expires_at && new Date(data.topup_expires_at) > now) {
+                    activeTotal += (data.topup_credits || 0);
+                }
+
+                setCredits(activeTotal);
             }
-            if (data.topup_expires_at && new Date(data.topup_expires_at) > now) {
-                activeTotal += (data.topup_credits || 0);
-            }
-
-            setCredits(activeTotal);
+        } catch (err) {
+            console.error("Error fetching profile:", err);
+            // Default fallback to prevent infinite loader
+            setProfile({ tier: "casual" });
+            setCredits(0);
         }
     };
 
