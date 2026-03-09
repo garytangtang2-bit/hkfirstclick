@@ -131,10 +131,10 @@ export async function POST(req: Request) {
             );
         }
 
-        // 🚨 Business Logic Constraint: FREE/TRIAL users are capped at 5 days max.
-        if (tier === "TRIAL" && tripDays > 5) {
+        // 🚨 Business Logic Constraint: FREE/TRIAL/Casual users are capped at 5 days max.
+        if ((tier === "TRIAL" || tier === "Casual") && tripDays > 5) {
             return NextResponse.json(
-                { error: "Free trial users are limited to generating itineraries up to 5 days. Please upgrade your plan for longer trips." },
+                { error: "Free and Casual users are limited to generating itineraries up to 5 days. Please upgrade to a Journey Pass for longer trips." },
                 { status: 403 }
             );
         }

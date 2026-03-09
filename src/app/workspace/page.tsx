@@ -275,6 +275,21 @@ function WorkspaceContent() {
             setError(t.err_empty);
             return;
         }
+
+        // 🚨 Frontend Limitation Check: 5 Days for Free Users
+        const startDate = new Date(dates.start);
+        const endDate = new Date(dates.end);
+        const tripDays = Math.ceil((endDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24)) + 1;
+
+        if ((!userTier || userTier === "TRIAL" || userTier === "Casual") && tripDays > 5) {
+            setError(language?.includes("中文")
+                ? "免費用戶目前僅限生成 5 天內的行程。請升級以解鎖長途旅程！"
+                : "Free users are limited to 5-day itineraries. Upgrade to unlock longer trips!");
+            // Scroll to top to see error
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            return;
+        }
+
         setError("");
         setLoading(true);
 
