@@ -16,10 +16,15 @@ export default function Pricing() {
     );
 }
 
+import { useRouter } from "next/navigation";
+
 function PricingContent() {
     const { t, currency } = useAppContext();
     const [profile, setProfile] = useState<any>(null);
     const supabase = createClient();
+    const router = useRouter();
+
+    const navigateTo = (path: string) => router.push(path);
 
     useEffect(() => {
         const fetchProfile = async () => {
@@ -235,8 +240,8 @@ function PricingContent() {
                                     disabled={!!profile}
                                     onClick={() => !profile && navigateTo("/login")}
                                     className={`w-full py-4 rounded-xl font-bold uppercase tracking-wider text-sm transition-all duration-300 ${profile
-                                            ? "text-gray-500 bg-white/5 border border-white/10 cursor-default"
-                                            : "text-[#EEDC00] bg-[#EEDC00]/10 border border-[#EEDC00]/30 hover:bg-[#EEDC00] hover:text-black shadow-[0_0_15px_rgba(238,220,0,0.1)] hover:shadow-[0_0_25px_rgba(238,220,0,0.3)]"
+                                        ? "text-gray-500 bg-white/5 border border-white/10 cursor-default"
+                                        : "text-[#EEDC00] bg-[#EEDC00]/10 border border-[#EEDC00]/30 hover:bg-[#EEDC00] hover:text-black shadow-[0_0_15px_rgba(238,220,0,0.1)] hover:shadow-[0_0_25px_rgba(238,220,0,0.3)]"
                                         }`}
                                 >
                                     {profile ? (t.btn_claimed || "已經領取") : t.price_signup_claim}
