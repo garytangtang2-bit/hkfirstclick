@@ -171,11 +171,18 @@ function PricingContent() {
                                         </div>
                                     );
                                 })()}
-                                <span className="text-4xl font-black text-white">
-                                    {plan.price[currency as keyof typeof plan.price] === 0
-                                        ? t.free_credit
-                                        : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
-                                </span>
+                                <div className="flex items-baseline gap-2">
+                                    <span className="text-4xl font-black text-white">
+                                        {plan.price[currency as keyof typeof plan.price] === 0
+                                            ? t.free_credit
+                                            : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
+                                    </span>
+                                    {plan.price[currency as keyof typeof plan.price] > 0 && (
+                                        <span className="text-sm text-gray-500 font-bold uppercase tracking-wider">
+                                            {t.price_one_time}
+                                        </span>
+                                    )}
+                                </div>
                             </div>
 
                             <div className="space-y-4 mb-8 flex-1">
