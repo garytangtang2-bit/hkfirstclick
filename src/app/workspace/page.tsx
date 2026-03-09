@@ -1168,13 +1168,18 @@ function WorkspaceContent() {
                                                                     <div className="flex gap-4 items-start relative -mt-4 mb-4 break-inside-avoid">
                                                                         <div className="w-16 shrink-0"></div>
                                                                         <div className="w-8 shrink-0 flex justify-center -ml-2 relative z-10">
-                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center premium-glass-card">
-                                                                                <Route size={10} className="text-gray-400 text-muted-premium" />
+                                                                            <div className="w-6 h-6 rounded-full bg-[#1A1A1A] border border-[#333] flex items-center justify-center premium-glass-card shadow-[0_0_10px_rgba(0,0,0,0.5)]">
+                                                                                <Route size={12} className="text-[#EEDC00]" />
                                                                             </div>
                                                                         </div>
-                                                                        <div className="flex-1 border-t border-b border-[#333] py-2.5 -ml-2 text-xs text-gray-400 flex items-center gap-3 text-muted-premium">
-                                                                            <span>{act.transitToNext.duration}</span>
-                                                                            <span className="bg-[#EEDC00]/10 text-[#EEDC00] border border-[#EEDC00]/20 px-2 py-0.5 rounded text-[10px] font-bold">{act.transitToNext.mode}</span>
+                                                                        <div className="flex-1 border-t border-b border-white/5 py-3 -ml-2 text-xs text-gray-400 flex items-center justify-between px-2 group/transit hover:bg-white/5 rounded-lg transition-colors">
+                                                                            <div className="flex items-center gap-3">
+                                                                                <div className="flex flex-col">
+                                                                                    <span className="text-gray-300 font-bold">{act.transitToNext.mode}</span>
+                                                                                    <span className="text-gray-500 text-[10px] font-mono">{act.transitToNext.duration}</span>
+                                                                                </div>
+                                                                            </div>
+                                                                            <ArrowRight size={14} className="text-gray-600 group-hover/transit:translate-x-1 transition-transform" />
                                                                         </div>
                                                                     </div>
                                                                 )}
