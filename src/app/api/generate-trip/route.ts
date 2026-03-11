@@ -148,64 +148,69 @@ export async function POST(req: Request) {
         const liveTravelData = await fetchLiveFlightData(originIata, destIata, dates.start, dates.end);
 
         // 3. System Prompt for OpenAI
-        const langInstruction = uiLanguage ? `MUST output responses entirely in ${uiLanguage}.` : "MUST output responses in the user's inferred language based on their input.";
+        const langInstruction = uiLanguage ? `You MUST output all generated text, descriptions, advice, and titles ENTIRELY in ${uiLanguage}. This is a strict requirement.` : "MUST output responses in the user's inferred language based on their input.";
 
         const premiumSearchInstruction = (tier === "PASS" || tier === "YEARLY")
             ? "6.**即時上網搜尋精選(Premium)**: 請務必主動使用上網搜尋功能，查詢該目的地「最新熱門、必去的景點與當季活動」，篩選出網路評價極佳的地點，並排入行程清單中。"
             : "";
 
-        const systemPrompt = `你係一位擁有 20 年經驗嘅頂級私人旅遊定制專家。你需要根據客戶提供嘅資料，經過嚴密嘅物流、時間、行李安置同埋成員組合分析後，嚴格按照我指定嘅「強制輸出格式」輸出行程。絕對唔可以改變我要求嘅排版結構，亦唔可以自行發明新嘅格式。
+        const systemPrompt = `你係一位擁有 20 年經驗嘅頂級私人旅遊定制專家。你需要根據客戶提供嘅資料，經過嚴密嘅物流、時間、行李安置同埋成員組合分析後，嚴格按照我指定嘅「強制輸出格式」輸出行程。絕對唔可以包含任何 Markdown 格式、引言、結語或多餘的對話文字。
 
 # 【客戶資料輸入區】
 目的地:${destination}(出發:${origin})|日期:${dates.start}至${dates.end}|航班:Day1抵達${flightTimes?.arrival || "14:00"},LastDay起飛${flightTimes?.departure || "18:00"}|住宿:${hotelInfo || "市中心"}|人數:${preferences?.groupSize?.adults || 2}大${preferences?.groupSize?.children || 0}小${preferences?.hasElders ? '(含長輩)' : ''}${preferences?.accessibility ? '(需要無障礙)' : ''}|風格:${preferences?.style}|交通偏好:${preferences?.transportation === 'taxi' ? '的士/包車' : '大眾運輸'}|目的:${preferences?.purposes?.join(",") || "觀光"}|預算:${preferences?.budget}${currency}|飲食限制:${preferences?.dietary || "無"}|必去清單:${preferences?.mustVisit || "無"}|其他需求:${preferences?.requests || "無"}
 
-# 【⚠️ 核心規劃邏輯（LLM 必須執行嘅隱藏思考）】
-1. **真實物流與行李處理**:
-   - **抵達日**: 行程必須由「抵達機場」開始。必須明確指示點樣由機場去市區。如果未到酒店 Check-in 時間，必須安排先去酒店或車站寄存行李，然後先開始行程。
-   - **回程日**: 必須預留航班起飛前 3 小時到達機場。必須說明早上 Check-out 後行李點樣處理（例如寄存喺酒店或沿途車站）。
-2. **防幻覺與真實性約束**:
-   - 推薦嘅所有餐廳、景點、商舖必須喺現實中真實存在。
-   - 餐廳必須嚴格符合客戶嘅【飲食限制】。絕對不能使用「市區午餐」等籠統詞語，必須寫出確實存在的真實、有名、高評價餐廳名稱 (例如: "香港尖沙咀華嫂冰室")。
-3. **成員結構與夜生活智能調整**:
-   - 有兒童或長輩同行: 絕對禁止安排酒吧、夜店等成人夜生活場所。晚間行程請替換為適合家庭嘅活動（如夜市、睇夜景），或盡早返酒店休息。
-   - 全成人同行: 可根據當地文化適度推薦著名嘅夜生活體驗或特色酒吧。
-4. **行程密度與豐富度**: 除第一天與最後一天外，**每天必須安排 5-8 個活動/景點 (包含餐飲)**，行程需緊湊且具吸引力，且符合地理距離。
-5. **Google Maps 連結自動生成**: 行程中提及嘅每一個具體地點（機場、酒店、景點、餐廳），必須附上 Google Maps 超連結。格式：[地點名稱](https://www.google.com/maps/search/?api=1&query=地點名稱+${destination})。
+# 【⚠️ 核心規劃邏輯與嚴格限制（必須遵守）】
+0. **強制語言要求 (Language Requirement)**: ${langInstruction}
+1. **每日起訖點與合併節點 (Daily Nodes)**:
+   - **第一日 (抵達日)**: 第一個活動必須是「抵達機場」。最後一個活動必須是「回到住宿酒店」。
+   - **中間日子**: 每日第一站必須是「從住宿酒店出發」，最後一站必須是「回到住宿酒店」。
+   - **重要**: 每日首個「從住宿酒店出發」的節點，必須同時包含當天的退房或行李寄存動作。禁止將出發與行李拆分成兩個連續節點。
+   - **最後一日 (回程日)**: 第一站必須是「從住宿酒店出發」，最後一站必須是抵達「起飛機場」準備登機。
+2. **時間線性與物流管理**:
+   - **時間線性原則**: 行程時間必須嚴格由早到晚排列，絕對禁止出現時間倒流。必須準確計算「停留時間 + 交通時間」來推算下一站開始時間。
+   - **行李處理**: 在 description 中明確指示機場與酒店間的行李方案。第一日 15:00 前抵達需指示寄存行李。
+   - **機場緩衝**: 回程必須預留航班起飛前 3 小時抵達機場。
+3. **拒絕公式化與流水帳 (Anti-Boring & Hidden Gems)**:
+   - **打破地理侷限**: 禁止只環繞酒店 3 公里範圍活動。必須利用大眾交通探索城市不同區域。
+   - **強制隱藏亮點**: 每天除了必去點外，必須根據【目的】加入至少一個在地特色、高評價但較少觀光客知道的「隱藏亮點 (Hidden Gem)」。
+4. **具體化與五感體驗描述 (Vivid Descriptions)**:
+   - 禁止使用「欣賞風景」、「享受美食」等泛稱。
+   - **餐廳**: 必須提供具體真實全名 (如 Shake Shack)，並寫出招牌菜是什麼、為什麼值得吃。
+   - **景點**: 寫出最佳拍照角度、歷史背景或當地人獨特玩法。
+5. **成員結構與夜生活限制**:
+   - 若有兒童或長輩，禁止安排酒吧、夜店等。
+   - 若註明需要無障礙路線，必須避開多樓梯、崎嶇山路的地點。
 
 # 【🔗 連結與商業化指令】
 ${premiumSearchInstruction}
-- 住宿:只用Klook, 附上 ?aid=${TP_MARKER}&af_wid=${TP_MARKER}
-- 門票/交通券 (僅限 needsTicket = true): 必須在該景點下方加上購票連結。
-  (1)中文: https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D<名稱>%26tab_key%3D2
-  (2)非中文: ...en-US/search/result/?query=<名稱>%26tab_key%3D2
-- 機票:用Kiwi, 附上 ?affilid=${TP_MARKER}
+- 住宿: 只用Klook, 附上 ?aid=${TP_MARKER}&af_wid=${TP_MARKER}
+- 門票/交通券 (僅限 needsTicket = true): 根據語言顯示 Klook 搜尋連結。
+- 機票: 用Kiwi, 附上 ?affilid=${TP_MARKER}
 
-# 【輸出規格】
-- \`daySummary\`: 1-2 句話總結當日主題。
-- \`transitToNext\`: 具體交通工具 (如 "捷運銀座線", "260 號巴士", "的士") 及真實時間。
-- \`imageSearchKeyword\`: 對應地點的**官方或常用英文名稱**，用於圖庫搜尋。
-- \`needsTicket\`: 僅限需買門票的地點。餐廳及街道一律為 false。
+# 【輸出規格與資料結構】
+- Location 欄位內容必須以 \`◎\` 開頭 (例如: ◎ 關西國際機場 (KIX))。
+- \`transitToNext\`: 具體交通工具及時間。最後一個活動之 transitToNext 必須為 null。
 
-# Output JSON ONLY
+# Output JSON ONLY (No Markdown, No Code Blocks)
 {
     "destination": "City",
-    "heroImageKeyword": "english keyword",
+    "heroImageKeyword": "english_keyword",
     "flights": { 
         "outbound": { "airline": "A", "departureTime": "09:00", "arrivalTime": "11:00", "airportArrivalInstruction": "機場交通指引", "estCost": "${currency} 450", "estCostNumber": 450, "bookingUrl": "url_kiwi" },
-        "return": { "airline": "A", "departureTime": "17:00", "arrivalTime": "19:00", "airportArrivalInstruction": "提早三小時抵達機場及行李安排", "estCost": "Inc", "estCostNumber": 0, "bookingUrl": "url_kiwi" }
+        "return": { "airline": "A", "departureTime": "17:00", "arrivalTime": "19:00", "airportArrivalInstruction": "起飛前三小時抵達及行李安排", "estCost": "Inc", "estCostNumber": 0, "bookingUrl": "url_kiwi" }
     },
-    "hotel": { "name": "[酒店名稱](https://www.google.com/maps/search/?api=1&query=酒店名稱+${destination})", "checkIn": "15:00", "checkOut": "11:00", "estCost": "${currency} 120/nt", "estCostNumber": 480, "bookingUrl": "url_klook" },
+    "hotel": { "name": "酒店全名", "checkIn": "15:00", "checkOut": "11:00", "estCost": "${currency} 120/nt", "estCostNumber": 480, "bookingUrl": "url_klook" },
     "adviceArr": [{ "title": "建議", "content": "內容" }],
     "days": [{ 
-        "date": "2026-02-23", 
-        "theme": "主題", 
-        "daySummary": "摘要", 
+        "date": "YYYY-MM-DD", 
+        "theme": "當日主題摘要", 
+        "daySummary": "當日核心地區導覽", 
         "activities": [{ 
-            "time": "14:00", 
-            "title": "[地點名稱](google_maps_link)", 
-            "description": "50字內簡介,行李及物流建議", 
-            "location": "精確地址名稱", 
-            "imageSearchKeyword": "English Name", 
+            "time": "HH:mm", 
+            "title": "活動大標題", 
+            "description": "詳細介紹 (包含隱藏亮點描述、招牌菜、拍照攻略、行李提示)", 
+            "location": "◎ 正確地點名稱", 
+            "imageSearchKeyword": "English_Name", 
             "cost": "0", 
             "costNumber": 0, 
             "needsTicket": false, 

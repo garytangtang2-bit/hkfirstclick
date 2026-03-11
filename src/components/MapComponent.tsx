@@ -15,202 +15,182 @@ declare global {
 interface MapComponentProps {
     userTier: string | null;
     selectedRegion: string;
+    hoveredCityName: string | null;
     onCitySelect: (city: any) => void;
     onVisibleCitiesChange: (cities: any[]) => void;
+    flyToCityRef?: React.MutableRefObject<((city: any) => void) | null>;
 }
 
-export default function MapComponent({ userTier, selectedRegion, onCitySelect, onVisibleCitiesChange }: MapComponentProps) {
+export default function MapComponent({ userTier, selectedRegion, hoveredCityName, onCitySelect, onVisibleCitiesChange, flyToCityRef }: MapComponentProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstance = useRef<any>(null);
     const markersClusterRef = useRef<any>(null);
     const [mapLoaded, setMapLoaded] = useState(false);
+    const [dataLoaded, setDataLoaded] = useState(false);
     const { t, language } = useAppContext();
-    const allCitiesRef = useRef<any[]>([]); // Store parsed CSV data
-    const topCitiesRef = useRef<any[]>([]); // Top 50 subset
+    const allCitiesRef = useRef<any[]>([]);
 
     // Fetch and parse CSV data once
     useEffect(() => {
         Papa.parse("/global_cities_1000.csv", {
             download: true,
             header: true,
-            dynamicTyping: true, // auto convert numbers
+            dynamicTyping: true,
             complete: (results) => {
-                // Filter out invalid rows instantly
                 const validData = results.data.filter((d: any) => d.City && d.Latitude && d.Longitude);
                 allCitiesRef.current = validData;
-                topCitiesRef.current = validData.slice(0, 50); // Just mock Top 50 based on order
+                setDataLoaded(true);
             }
         });
     }, []);
 
     useEffect(() => {
-        // Essential check to ensure 'L' (Leaflet) exists on the window object (loaded via Script tag)
         if (typeof window !== "undefined" && window.L && !mapInstance.current && mapRef.current) {
-
-            // 1. Initialize map centered globally to show off clusters
             mapInstance.current = window.L.map(mapRef.current, {
-                zoomControl: false // Disable default top-left zoom
+                zoomControl: false,
+                maxZoom: 18
             }).setView([20, 0], 2);
 
-            // Add zoom control to bottom right
             window.L.control.zoom({
                 position: 'bottomright'
             }).addTo(mapInstance.current);
 
-            // 2. Add OpenStreetMap Tile Layer (Dark Theme No Labels via CartoDB to support dynamic text rendering)
             window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
-                maxZoom: 19,
+                maxZoom: 18,
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
             }).addTo(mapInstance.current);
 
             setMapLoaded(true);
+
+            // Register flyToCity function so page.tsx search can command the map
+            if (flyToCityRef) {
+                flyToCityRef.current = (city: any) => {
+                    if (mapInstance.current && city.Latitude && city.Longitude) {
+                        mapInstance.current.flyTo([city.Latitude, city.Longitude], 10, {
+                            animate: true,
+                            duration: 1.5
+                        });
+                    }
+                };
+            }
         }
 
         return () => {
             if (mapInstance.current) {
                 mapInstance.current.remove();
                 mapInstance.current = null;
+                markersClusterRef.current = null;
             }
         };
     }, []);
 
+    // This effect only runs on initial load or when region/language changes
     useEffect(() => {
-        if (!mapLoaded || !mapInstance.current) return;
+        if (!mapLoaded || !dataLoaded || !mapInstance.current) return;
         const L = window.L;
-        // 3. Render logic function
-        const renderMarkers = (dataToRender: any[]) => {
-            if (markersClusterRef.current) {
-                markersClusterRef.current.clearLayers();
-            } else {
-                markersClusterRef.current = L.markerClusterGroup({
-                    spiderfyOnMaxZoom: true,
-                    showCoverageOnHover: false,
-                    zoomToBoundsOnClick: true,
-                    maxClusterRadius: 80, // Slightly more spread out clusters
-                    // Custom Cluster Icon - Shows a summary or "City Name +"
-                    iconCreateFunction: function (cluster: any) {
-                        const count = cluster.getChildCount();
-                        const currentZoom = mapInstance.current.getZoom();
-                        const childMarkers = cluster.getAllChildMarkers();
 
-                        // Pick the first child's name as the representative
-                        const repCity = childMarkers[0]?.cityData;
-                        const translatedRepName = repCity ? getTranslatedCityName(repCity.City, language) : "";
+        // Remove old cluster if any
+        if (markersClusterRef.current) {
+            mapInstance.current.removeLayer(markersClusterRef.current);
+            markersClusterRef.current = null;
+        }
 
-                        if (currentZoom < 4) {
-                            // Global view: Heatmap illusion
-                            return L.divIcon({
-                                html: `<div style="width: ${22 + Math.min(count, 50) / 2}px; height: ${22 + Math.min(count, 50) / 2}px; background: radial-gradient(circle, rgba(238,220,0,0.7) 0%, rgba(238,220,0,0) 70%); border-radius: 50%; box-shadow: 0 0 40px rgba(238,220,0,0.5); transform: translate(-50%, -50%);"></div>`,
-                                className: 'custom-heatmap-icon',
-                                iconSize: L.point(0, 0)
-                            });
-                        } else {
-                            // Mid-zoom: Show Representative City + Count
-                            return L.divIcon({
-                                html: `
-                                    <div class="flex items-center gap-2 bg-[#161616]/90 backdrop-blur-md border border-[#EEDC00]/30 py-1.5 px-3 rounded-full shadow-[0_8px_25px_rgba(0,0,0,0.5)] whitespace-nowrap">
-                                        <div class="w-1.5 h-1.5 rounded-full bg-[#EEDC00]"></div>
-                                        <span class="text-white text-[11px] font-black tracking-wide">${translatedRepName}</span>
-                                        <span class="bg-[#EEDC00] text-black text-[9px] font-black px-1.5 py-0.5 rounded-full min-w-[18px] text-center">${count}</span>
-                                    </div>
-                                `,
-                                className: 'custom-cluster-label-icon',
-                                iconSize: L.point(0, 0),
-                                iconAnchor: [50, 15]
-                            });
-                        }
-                    }
+        // Create a brand new MarkerClusterGroup
+        const clusterGroup = L.markerClusterGroup({
+            maxClusterRadius: 60,
+            showCoverageOnHover: false,
+            spiderfyOnMaxZoom: true,
+            disableClusteringAtZoom: 10,
+            iconCreateFunction: (cluster: any) => {
+                const count = cluster.getChildCount();
+                let size = 40;
+                if (count > 10) size = 50;
+                if (count > 20) size = 60;
+                return L.divIcon({
+                    html: `<div>${count}</div>`,
+                    className: 'custom-cluster-icon',
+                    iconSize: L.point(size, size, true),
                 });
-                mapInstance.current.addLayer(markersClusterRef.current);
             }
+        });
 
-            let filteredData = dataToRender;
-            if (selectedRegion && selectedRegion !== "All") {
-                filteredData = dataToRender.filter(city => city.Region && city.Region.includes(selectedRegion));
-            }
+        // Filter by region
+        let filteredData = allCitiesRef.current;
+        if (selectedRegion && selectedRegion !== "All") {
+            filteredData = allCitiesRef.current.filter(city => city.Region && city.Region.includes(selectedRegion));
+        }
 
-            filteredData.forEach((city) => {
-                const translatedName = getTranslatedCityName(city.City, language);
-
-                // Individual Label Marker - Matching Premium Design
-                const labelIcon = L.divIcon({
-                    html: `
-                        <div class="group flex flex-col items-center">
-                            <div class="bg-[#161616]/95 backdrop-blur-xl border border-white/20 py-1.5 px-3 rounded-xl shadow-[0_10px_35px_rgba(0,0,0,0.6)] group-hover:border-[#EEDC00]/50 transition-all duration-300 flex items-center gap-2">
-                                <div class="w-2 h-2 rounded-full bg-[#EEDC00] shadow-[0_0_10px_rgba(238,220,0,0.8)]"></div>
-                                <span class="text-white text-xs font-black tracking-tight whitespace-nowrap">${translatedName}</span>
-                            </div>
-                            <div class="w-px h-2 bg-gradient-to-b from-white/30 to-transparent"></div>
-                        </div>
-                    `,
-                    className: 'custom-city-label-icon',
-                    iconSize: [0, 0],
-                    iconAnchor: [60, 35]
-                });
-
-                const marker = L.marker([city.Latitude, city.Longitude], { icon: labelIcon });
-                (marker as any).cityData = city; // Store for cluster identification
-
-                marker.on('click', () => {
-                    // Fly to location smoothly
-                    mapInstance.current.flyTo([city.Latitude, city.Longitude], 12, {
-                        animate: true,
-                        duration: 1.5
-                    });
-
-                    // Trigger Bottom Drawer
-                    onCitySelect(city);
-                });
-
-                markersClusterRef.current.addLayer(marker);
+        // Create all markers
+        filteredData.forEach((city) => {
+            const translatedName = getTranslatedCityName(city.City, language);
+            const isActive = hoveredCityName === city.City;
+            const pureGlowIcon = L.divIcon({
+                className: 'clear-leaflet-bg',
+                html: `<div class="pure-glow-dot ${isActive ? 'active-glow-dot' : ''}"></div>`,
+                iconSize: [40, 40],
+                iconAnchor: [20, 20]
             });
-        };
 
-        // 4. Initial Render based on Region or Zoom
-        // Wait a tiny bit for PapaParse to finish initially (could be handled via state, but this is a lightweight approach for local CSV)
-        setTimeout(() => {
-            const currentZoom = mapInstance.current.getZoom();
-            if (currentZoom < 4 && (!selectedRegion || selectedRegion === "All")) {
-                renderMarkers(topCitiesRef.current);
-            } else {
-                renderMarkers(allCitiesRef.current);
-            }
-        }, 100);
+            const marker = L.marker([city.Latitude, city.Longitude], { icon: pureGlowIcon });
+            (marker as any).cityData = city;
 
-        // 5. Semantic Lazy Loading & Bounds Binding
-        const handleMapMovement = () => {
+            marker.bindTooltip(translatedName, {
+                permanent: false,
+                direction: 'top',
+                className: 'leaflet-tooltip-premium',
+                offset: [0, -10]
+            });
+
+            marker.on('click', () => {
+                mapInstance.current.flyTo([city.Latitude, city.Longitude], 12, {
+                    animate: true,
+                    duration: 1.5
+                });
+                onCitySelect(city);
+            });
+
+            clusterGroup.addLayer(marker);
+        });
+
+        mapInstance.current.addLayer(clusterGroup);
+        markersClusterRef.current = clusterGroup;
+
+        // Update visible cities on map move
+        const handleMoveEnd = () => {
             if (!mapInstance.current) return;
-
-            const currentZoom = mapInstance.current.getZoom();
-            if (currentZoom < 4 && (!selectedRegion || selectedRegion === "All")) {
-                renderMarkers(topCitiesRef.current);
-            } else {
-                renderMarkers(allCitiesRef.current);
-            }
-
-            // Calculate visible cities in current bounds
             try {
                 const bounds = mapInstance.current.getBounds();
                 const visible = allCitiesRef.current.filter((city: any) =>
                     bounds.contains([city.Latitude, city.Longitude])
                 );
-                // Return max 15 to keep UI responsive
                 onVisibleCitiesChange(visible.slice(0, 15));
-            } catch (e) {
-                // Ignore initial bounds errors
-            }
+            } catch (e) { }
         };
 
-        mapInstance.current.off('zoomend');
-        mapInstance.current.off('moveend');
+        mapInstance.current.off('moveend', handleMoveEnd);
+        mapInstance.current.on('moveend', handleMoveEnd);
+        setTimeout(handleMoveEnd, 300);
 
-        mapInstance.current.on('zoomend', handleMapMovement);
-        mapInstance.current.on('moveend', handleMapMovement);
+    }, [mapLoaded, dataLoaded, selectedRegion, language]);
 
-        // Initial bounds calculation
-        setTimeout(handleMapMovement, 300);
+    // Separate effect for hover state changes - just updates icons without rebuilding everything
+    useEffect(() => {
+        if (!mapLoaded || !markersClusterRef.current || !window.L) return;
+        const L = window.L;
 
-    }, [mapLoaded, userTier, selectedRegion, language]);
+        markersClusterRef.current.eachLayer((marker: any) => {
+            const city = marker.cityData;
+            if (!city) return;
+            const isActive = hoveredCityName === city.City;
+            const pureGlowIcon = L.divIcon({
+                className: 'clear-leaflet-bg',
+                html: `<div class="pure-glow-dot ${isActive ? 'active-glow-dot' : ''}"></div>`,
+                iconSize: [40, 40],
+                iconAnchor: [20, 20]
+            });
+            marker.setIcon(pureGlowIcon);
+        });
+    }, [hoveredCityName, mapLoaded]);
 
     return (
         <div className="w-full h-full relative overflow-hidden bg-gray-100">

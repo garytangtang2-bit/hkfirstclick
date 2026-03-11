@@ -244,16 +244,24 @@ function PricingContent() {
                                     {profile ? (t.btn_claimed || "已經領取") : t.price_signup_claim}
                                 </button>
                             ) : (
-                                <YellowButton
-                                    onClick={() => handleCheckout(plan.stripePriceId!, plan.tierEnum)}
-                                    className="w-full py-4 rounded-xl uppercase tracking-wider text-sm"
-                                >
-                                    {t.btn_buy}
-                                </YellowButton>
+                                <>
+                                    <YellowButton
+                                        onClick={() => handleCheckout(plan.stripePriceId!, plan.tierEnum)}
+                                        className="w-full py-4 rounded-xl uppercase tracking-wider text-sm"
+                                    >
+                                        {t.btn_buy}
+                                    </YellowButton>
+                                </>
                             )}
                         </div>
                     );
                 })}
+            </div>
+
+            {/* Full-width payment notice between grid and rules */}
+            <div className="flex items-center justify-center gap-3 -mt-8 mb-12 text-sm text-gray-400 text-center">
+                <span className="text-base">💳</span>
+                <span>{t.price_payment_notice || "單次付費，無隱藏訂閱。為確保價格公平，本地報價僅供參考，扣款將以美元 (USD) 定價為準。"}</span>
             </div>
 
             <div className="bg-[#161616] border border-white/5 rounded-3xl p-8 md:p-12 mb-16">

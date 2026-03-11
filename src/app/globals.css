@@ -158,6 +158,7 @@ body {
     color: white !important;
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
+    font-family: sans-serif;
   }
 
   .print\:hidden {
@@ -199,4 +200,89 @@ body {
     max-width: 100% !important;
     padding: 0 !important;
   }
+}
+
+/* =========================================
+   Map Marker UI Enhancement (Purest Glowing Dot)
+   ========================================= */
+
+/* 清除 Leaflet 預設的白色背景與邊框，並確保發光中心對齊 */
+.clear-leaflet-bg {
+  background: transparent !important;
+  border: none !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  overflow: visible !important;
+  /* 重要：確保外層大範圍光暈不會被裁切 */
+}
+
+/* 完美還原圖片的發光點 (無邊界、自然發光) */
+.pure-glow-dot {
+  width: 10px;
+  /* 核心實色圓點大小 */
+  height: 10px;
+  background-color: #FACC15;
+  border-radius: 50%;
+
+  /* 核心秘訣：利用多層次 box-shadow 疊加出極度柔和、向外擴散的無邊界光暈 */
+  box-shadow:
+    0 0 8px 2px rgba(250, 204, 21, 0.9),
+    /* 內層強光 */
+    0 0 25px 10px rgba(250, 204, 21, 0.4),
+    /* 中層柔光 */
+    0 0 50px 20px rgba(250, 204, 21, 0.15);
+  /* 外層大範圍擴散光暈 */
+
+  transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+  cursor: pointer;
+}
+
+/* 當卡片被 Hover 時，發光點的高亮狀態 */
+.pure-glow-dot.active-glow-dot {
+  transform: scale(2.2) !important;
+  box-shadow:
+    0 0 12px 4px rgba(250, 204, 21, 1),
+    0 0 40px 15px rgba(250, 204, 21, 0.6),
+    0 0 80px 35px rgba(250, 204, 21, 0.3);
+  z-index: 1000 !important;
+}
+
+/* 自訂的 Cluster 星團外觀 */
+.custom-cluster-icon {
+  background-color: rgba(250, 204, 21, 0.15) !important;
+  /* 極透的黃色底，帶出毛玻璃感 */
+  border: 2px solid rgba(250, 204, 21, 0.8) !important;
+  /* 發光邊框 */
+  border-radius: 50% !important;
+  color: #FACC15 !important;
+  /* 數字用你專屬的純黃色 */
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  box-shadow: 0 0 20px 5px rgba(250, 204, 21, 0.3) !important;
+  /* 外圍柔和光暈 */
+  backdrop-filter: blur(4px) !important;
+  /* 毛玻璃特效 */
+  -webkit-backdrop-filter: blur(4px) !important;
+}
+
+/* 高級深色風格 Tooltip */
+.leaflet-tooltip-premium {
+  background-color: #1A1A1A !important;
+  color: #FACC15 !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 8px !important;
+  padding: 6px 12px !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  box-spacing: 0 4px 10px rgba(0, 0, 0, 0.5) !important;
+  white-space: nowrap;
+}
+
+/* 隱藏預設的白色小箭頭，改為深色 */
+.leaflet-tooltip-top:before {
+  border-top-color: #1A1A1A !important;
 }

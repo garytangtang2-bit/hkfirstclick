@@ -52,7 +52,7 @@ export async function POST(req: Request) {
             );
         }
 
-        const langInstruction = uiLanguage ? `MUST output responses entirely in ${uiLanguage}.` : "MUST output responses in the user's inferred language.";
+        const langInstruction = uiLanguage ? `You MUST output all generated text, descriptions, advice, and titles ENTIRELY in ${uiLanguage}. This is a strict requirement.` : "MUST output responses in the user's inferred language.";
 
         // To save tokens and speed up generation, we strip out static data (flights, hotel, adviceArr)
         // and only pass the core `days` array to the AI. Include destination for context.

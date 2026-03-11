@@ -47,18 +47,38 @@ function WorkspaceContent() {
         return { h, m };
     };
 
+    // Helper to strip markdown links [label](url) -> label
+    const stripMarkdownLinks = (text: string) => {
+        if (!text) return "";
+        return text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+    };
+
     // Format Date string aesthetically e.g. "10月15日 (週二)" or "Oct 15 (Tue)"
     const formatDateString = (dateString: string) => {
         if (!dateString) return "";
         try {
             const date = new Date(dateString);
-            const locales = language?.includes("中文") ? "zh-TW" : "en-US";
+            const localeMap: Record<string, string> = {
+                "English": "en-US",
+                "繁體中文": "zh-TW",
+                "日本語": "ja-JP",
+                "한국어": "ko-KR",
+                "Français": "fr-FR",
+                "Español": "es-ES",
+                "Bahasa Indonesia": "id-ID",
+                "हिन्दी": "hi-IN",
+                "Português": "pt-PT",
+                "العربية": "ar-SA",
+                "বাংলা": "bn-BD",
+                "Русский": "ru-RU",
+            };
+            const locale = localeMap[language] || "en-US";
             const options: Intl.DateTimeFormatOptions = {
                 month: "short",
                 day: "numeric",
                 weekday: "short"
             };
-            return new Intl.DateTimeFormat(locales, options).format(date);
+            return new Intl.DateTimeFormat(locale, options).format(date);
         } catch {
             return dateString;
         }
@@ -282,9 +302,7 @@ function WorkspaceContent() {
         const tripDays = Math.ceil((endDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24)) + 1;
 
         if ((!userTier || userTier === "TRIAL" || userTier === "Casual") && tripDays > 5) {
-            setError(language?.includes("中文")
-                ? "免費用戶目前僅限生成 5 天內的行程。請升級以解鎖長途旅程！"
-                : "Free users are limited to 5-day itineraries. Upgrade to unlock longer trips!");
+            setError(t.ws_trip_limit || "Free users are limited to 5-day itineraries. Upgrade to unlock longer trips!");
             // Scroll to top to see error
             window.scrollTo({ top: 0, behavior: 'smooth' });
             return;
@@ -471,7 +489,7 @@ function WorkspaceContent() {
                                                 <h3 className="font-extrabold text-[#F8F9FA] text-2xl heading-premium mb-1">
                                                     {t.ws_section1 || "1. Base Constraints"}
                                                 </h3>
-                                                <p className="text-[#A0A0A0] text-sm">Where and when are we going?</p>
+                                                <p className="text-[#A0A0A0] text-sm">{t.ws_where_when || "Where and when are we going?"}</p>
                                             </div>
                                             <div>
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
@@ -982,7 +1000,7 @@ function WorkspaceContent() {
                                                                 {t.ws_hotel_rec || "推薦住宿"}
                                                             </div>
                                                             <div className="text-white font-bold text-lg leading-tight mb-2">
-                                                                {itinerary.hotel.name}
+                                                                {stripMarkdownLinks(itinerary.hotel.name)}
                                                             </div>
                                                             <div className="text-xs text-gray-400 flex flex-col gap-0.5 text-muted-premium">
                                                                 <span>{t.ws_hotel_checkin} <span className="text-gray-300 font-medium">{itinerary.hotel.checkIn}</span></span>
@@ -1117,10 +1135,10 @@ function WorkspaceContent() {
 
                                                                             <div className="flex-1 flex flex-col sm:flex-row items-start justify-between gap-4 w-full">
                                                                                 <div>
-                                                                                    <h4 className="font-bold text-white text-[17px] flex items-center gap-2 heading-premium">
-                                                                                        {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400 text-muted-premium" /> : null}
-                                                                                        {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400 text-muted-premium" /> : null}
-                                                                                        {act.title}
+                                                                                    <h4 className="font-bold text-white text-[17px] flex items-center gap-2 heading-premium break-words overflow-hidden">
+                                                                                        {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400 text-muted-premium shrink-0" /> : null}
+                                                                                        {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400 text-muted-premium shrink-0" /> : null}
+                                                                                        {stripMarkdownLinks(act.title)}
                                                                                     </h4>
 
                                                                                     {/* Location/Address if any */}

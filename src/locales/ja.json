@@ -278,5 +278,12 @@
   "tier3_feature5": "優先カスタマーサービスと新機能",
   "tier3_feature6": "最高優先生成（VIP 速度）",
   "tier3_feature7": "最高優先生成（VIP 速度）",
-  "map_subtitle_page": "生成されたAIの旅程が、インタラクティブなグローバルトラッキングマップ上で動き出すのをご覧ください。"
+  "map_subtitle_page": "生成されたAIの旅程が、インタラクティブなグローバルトラッキングマップ上で動き出すのをご覧ください。",
+  "header_generate": "AI旅程を生成",
+  "map_search_no_results": "都市が見つかりません",
+  "map_search_results_label": "都市",
+  "map_premium_badge": "プレミアム機能",
+  "map_upgrade_cta": "アップグレードして解除",
+  "map_search_hint": "都市を検索...",
+  "price_payment_notice": "一回払い、隠れたサブスクなし。現地通貨の表示価格は参考のみ — 実際の請求は米ドル（USD）で行われます。"
 }

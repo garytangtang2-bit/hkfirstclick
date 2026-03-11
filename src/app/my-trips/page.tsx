@@ -47,10 +47,10 @@ function MyTripsContent() {
         <div className="min-h-screen pt-12 pb-24 px-6 md:px-12 max-w-7xl mx-auto">
             <div className="text-center mb-16 relative">
                 <h1 className="text-4xl md:text-5xl font-black mb-6 drop-shadow-lg text-white">
-                    My Itineraries
+                    {t.mytrips_title || "My Itineraries"}
                 </h1>
                 <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-                    View, manage, and iterate on your past AI-generated travel plans.
+                    {t.mytrips_desc || "View, manage, and iterate on your past AI-generated travel plans."}
                 </p>
             </div>
 
@@ -78,7 +78,7 @@ function MyTripsContent() {
                                 </div>
 
                                 <div className="mt-auto flex items-center text-[#EEDC00] text-sm font-bold group-hover:translate-x-2 transition-transform">
-                                    View Itinerary <ArrowRight size={16} className="ml-2" />
+                                    {t.mytrips_view || "View Itinerary"} <ArrowRight size={16} className="ml-2" />
                                 </div>
                             </div>
                         </Link>
@@ -87,11 +87,11 @@ function MyTripsContent() {
             ) : (
                 <div className="bg-[#1E1E1E] border border-white/10 rounded-3xl p-12 text-center max-w-2xl mx-auto shadow-2xl premium-glass-card">
                     <MapPin size={48} className="text-gray-700 mx-auto mb-6" />
-                    <h3 className="text-xl font-bold text-white mb-4">No trips found</h3>
-                    <p className="text-gray-400 mb-8">You haven't generated any itineraries yet. Let's create your first adventure!</p>
+                    <h3 className="text-xl font-bold text-white mb-4">{t.mytrips_empty_title || "No trips found"}</h3>
+                    <p className="text-gray-400 mb-8">{t.mytrips_empty_desc || "You haven't generated any itineraries yet. Let's create your first adventure!"}</p>
                     <Link href="/workspace">
                         <button className="bg-[#EEDC00] text-black px-8 py-3 rounded-xl font-bold hover:bg-[#ffe600] transition-colors">
-                            Create New Trip
+                            {t.mytrips_create || "Create New Trip"}
                         </button>
                     </Link>
                 </div>

@@ -278,5 +278,12 @@
   "tier3_feature5": "Service client prioritaire et nouvelles fonctionnalités",
   "tier3_feature6": "Génération prioritaire maximale (Vitesse VIP)",
   "tier3_feature7": "Génération prioritaire maximale (Vitesse VIP)",
-  "map_subtitle_page": "Regardez vos itinéraires générés par l'IA prendre vie sur notre carte de suivi mondial interactive."
+  "map_subtitle_page": "Regardez vos itinéraires générés par l'IA prendre vie sur notre carte de suivi mondial interactive.",
+  "header_generate": "Générer un itinéraire AI",
+  "map_search_no_results": "Aucune ville trouvée",
+  "map_search_results_label": "Villes",
+  "map_premium_badge": "Fonctionnalité Premium",
+  "map_upgrade_cta": "Mettre à niveau pour déverrouiller",
+  "map_search_hint": "Rechercher une ville...",
+  "price_payment_notice": "Paiement unique, pas d'abonnement caché. Les prix en devise locale sont indicatifs — la facturation réelle se fait en USD."
 }

@@ -278,5 +278,12 @@
   "tier3_feature5": "Servicio al cliente prioritario y nuevas funciones",
   "tier3_feature6": "Generación de la más alta prioridad (Velocidad VIP)",
   "tier3_feature7": "Generación de la más alta prioridad (Velocidad VIP)",
-  "map_subtitle_page": "Ve cómo tus itinerarios generados por IA cobran vida en nuestro mapa interactivo de seguimiento global."
+  "map_subtitle_page": "Ve cómo tus itinerarios generados por IA cobran vida en nuestro mapa interactivo de seguimiento global.",
+  "header_generate": "Generar itinerario con IA",
+  "map_search_no_results": "No se encontraron ciudades",
+  "map_search_results_label": "Ciudades",
+  "map_premium_badge": "Función Premium",
+  "map_upgrade_cta": "Actualizar para desbloquear",
+  "map_search_hint": "Buscar una ciudad...",
+  "price_payment_notice": "Pago único, sin suscripciones ocultas. Los precios en moneda local son referencials — el cargo real se realizará en USD."
 }
