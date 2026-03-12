@@ -184,7 +184,7 @@ export async function POST(req: Request) {
 # 【🔗 連結與商業化指令】
 ${premiumSearchInstruction}
 - 住宿: 只用Klook, 附上 ?aid=${TP_MARKER}&af_wid=${TP_MARKER}
-- 門票/交通券 (僅限 needsTicket = true): 根據語言顯示 Klook 搜尋連結。按鈕上的文字必須被翻譯為目標語言 (例如：如果在英文版，必須寫 "Book (Klook)"；法文版寫 "Réserver (Klook)"；北印地文寫 "बुक करें (Klook)"，以此類推)。
+- 門票/交通券 (僅限 needsTicket = true): 必須在 bookingUrl 欄位提供對應的 Klook 搜尋連結。絕對不要在地點描述或標題中產生任何 Markdown 格式的 Klook 文字連結，以避免前端畫面重複。
 - 機票: 用Kiwi, 附上 ?affilid=${TP_MARKER}
 
 # 【輸出規格與資料結構】
