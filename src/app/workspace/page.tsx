@@ -1159,23 +1159,19 @@ function WorkspaceContent() {
                                                                                     </p>
                                                                                 </div>
 
-                                                                                {/* Actions/Cost */}
-                                                                                <div className="flex flex-col items-start sm:items-end gap-2 shrink-0 print:hidden">
-                                                                                    {act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && !act.isFood ? (
+                                                                                <div className="flex flex-col items-start sm:items-end gap-2 shrink-0 print:hidden mt-2 lg:mt-0">
+                                                                                    {((act.needsTicket === true) || (act.bookingUrl && act.bookingUrl !== "#")) && !act.isFood ? (
                                                                                         <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
-                                                                                            <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end text-muted-premium">
-                                                                                                {act.cost}
-                                                                                            </span>
-                                                                                            <a href={`https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[85px] text-center shrink-0 flex justify-center items-center">
-                                                                                                {t.ws_book_now || '馬上預訂'}
+                                                                                            {act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && (
+                                                                                                <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end text-muted-premium">
+                                                                                                    {act.cost}
+                                                                                                </span>
+                                                                                            )}
+                                                                                            <a href={act.bookingUrl && act.bookingUrl !== "#" ? act.bookingUrl : `https://tp.media/r?campaign_id=137&erid=2Vtzqw6jKWc&marker=706940&p=4110&trs=503142&u=${encodeURIComponent(`https://www.klook.com/en-US/search/result/?query=${act.title}&sort=most_relevant&start=1&tab_key=2`)}`} target="_blank" rel="noreferrer" className="bg-[#EEDC00] hover:bg-[#ffe800] text-black text-[11px] font-bold px-3 py-1.5 rounded-md transition-colors shadow-lg mt-0.5 w-[95px] text-center shrink-0 flex justify-center items-center">
+                                                                                                {t.ws_book_klook || '預訂 Klook'}
                                                                                             </a>
                                                                                         </div>
                                                                                     ) : null}
-                                                                                    {act.bookingUrl && act.bookingUrl !== "#" && act.needsTicket === true && !act.isFood && (
-                                                                                        <a href={act.bookingUrl} target="_blank" rel="noreferrer" className="text-[#EEDC00] hover:text-[#ffe800] text-xs font-bold underline underline-offset-2">
-                                                                                            {act.bookingUrl.includes('klook') ? '預訂 (Klook)' : t.ws_act_book || 'Book'}
-                                                                                        </a>
-                                                                                    )}
                                                                                 </div>
                                                                             </div>
                                                                         </div>
