@@ -77,6 +77,7 @@ export async function POST(req: Request) {
         7. 每日行程安排與邏輯: Keep locations geographically close. Include morning, lunch, afternoon, and dinner activities appropriately.
         8. 🚨餐廳與美食 (isFood = true): If the user asks for food, or you are scheduling Breakfast/Lunch/Dinner/Supper, you MUST set 'isFood: true'. You MUST output an EXACT, REAL restaurant name prefixed with the city name (e.g. "香港尖沙咀華嫂冰室"). DO NOT use generic terms like "Lunch in city".
         9. 地點名稱 (\`location\`): JSON 中的 \`location\` 欄位必須是精確的地址與名稱組合，不可包含 Markdown 連結。
+        10. 門票/活動按鈕: If \`needsTicket\` is true, the button text (if generated) MUST be translated to the UI language (e.g. "Book (Klook)" in EN, "Réserver (Klook)" in FR, "बुक करें (Klook)" in HI).
         
         Here is the MINIMAL itinerary JSON that you need to modify:
         ${JSON.stringify(minimalItinerary)}
