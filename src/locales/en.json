@@ -305,5 +305,11 @@
   "ws_where_when": "Where and when are we going?",
   "ws_who_travel": "Who is coming and how do we travel?",
   "ws_diet_must": "Any dietary restrictions or absolute must-haves?",
-  "ws_next_step": "Next Step"
+  "ws_next_step": "Next Step",
+  "mytrips_title": "My Itineraries",
+  "mytrips_desc": "View, manage, and iterate on your past AI-generated travel plans.",
+  "mytrips_view": "View Itinerary",
+  "mytrips_empty_title": "No trips found",
+  "mytrips_empty_desc": "You haven't generated any itineraries yet. Let's create your first adventure!",
+  "mytrips_create": "Create New Trip"
 }

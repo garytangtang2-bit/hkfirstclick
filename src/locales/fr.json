@@ -290,5 +290,11 @@
   "ws_where_when": "Où et quand partons-nous ?",
   "ws_who_travel": "Qui vient et comment voyageons-nous ?",
   "ws_diet_must": "Des restrictions alimentaires ou des incontournables ?",
-  "ws_next_step": "Étape Suivante"
+  "ws_next_step": "Étape Suivante",
+  "mytrips_title": "Mes itinéraires",
+  "mytrips_desc": "Consultez, gérez et réitérez vos anciens plans de voyage générés par l'IA.",
+  "mytrips_view": "Voir l'itinéraire",
+  "mytrips_empty_title": "Aucun voyage trouvé",
+  "mytrips_empty_desc": "Vous n'avez pas encore généré d'itinéraires. Créons votre première aventure !",
+  "mytrips_create": "Créer un nouveau voyage"
 }

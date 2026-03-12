@@ -290,5 +290,11 @@
   "ws_where_when": "언제, 어디로 가시나요?",
   "ws_who_travel": "누구와 어떻게 여행하시나요?",
   "ws_diet_must": "식이 제한이나 반드시 해야 할 것이 있나요?",
-  "ws_next_step": "다음 단계"
+  "ws_next_step": "다음 단계",
+  "mytrips_title": "내 일정",
+  "mytrips_desc": "과거에 AI가 생성한 여행 계획을 확인하고 관리하세요.",
+  "mytrips_view": "일정 보기",
+  "mytrips_empty_title": "일정을 찾을 수 없습니다",
+  "mytrips_empty_desc": "아직 여정을 생성하지 않았습니다. 첫 모험을 만들어 보세요!",
+  "mytrips_create": "새 일정 만들기"
 }

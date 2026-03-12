@@ -305,5 +305,11 @@
   "ws_where_when": "我們何時出發及去哪裡？",
   "ws_who_travel": "誰會同行以及交通方式？",
   "ws_diet_must": "有任何飲食限制或絕對必去的地方嗎？",
-  "ws_next_step": "下一步"
+  "ws_next_step": "下一步",
+  "mytrips_title": "我的行程",
+  "mytrips_desc": "查看、管理並重新規劃您過去由 AI 生成的旅遊計畫。",
+  "mytrips_view": "查看行程",
+  "mytrips_empty_title": "尚未建立行程",
+  "mytrips_empty_desc": "你還沒有產生任何旅遊行程。立刻開始你的第一段冒險吧！",
+  "mytrips_create": "建立新行程"
 }

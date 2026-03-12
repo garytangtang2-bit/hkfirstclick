@@ -290,5 +290,11 @@
   "ws_where_when": "いつ、どこへ行きますか？",
   "ws_who_travel": "誰と、どのように旅行しますか？",
   "ws_diet_must": "食事制限や絶対に外せない希望はありますか？",
-  "ws_next_step": "次へ"
+  "ws_next_step": "次へ",
+  "mytrips_title": "マイ旅程",
+  "mytrips_desc": "過去にAIが生成した旅行プランを確認、管理、再構成します。",
+  "mytrips_view": "旅程を見る",
+  "mytrips_empty_title": "旅程が見つかりません",
+  "mytrips_empty_desc": "まだ旅程が生成されていません。初めての冒険を作成しましょう！",
+  "mytrips_create": "新しい旅程を作成"
 }

@@ -290,5 +290,11 @@
   "ws_where_when": "¿Dónde y cuándo vamos?",
   "ws_who_travel": "¿Quién viene y cómo viajamos?",
   "ws_diet_must": "¿Alguna restricción o algo imprescindible?",
-  "ws_next_step": "Siguiente Paso"
+  "ws_next_step": "Siguiente Paso",
+  "mytrips_title": "Mis Itinerarios",
+  "mytrips_desc": "Visualiza, gestiona y repite tus planes de viaje anteriores generados por IA.",
+  "mytrips_view": "Ver Itinerario",
+  "mytrips_empty_title": "No se encontraron viajes",
+  "mytrips_empty_desc": "Aún no has generado ningún itinerario. ¡Vamos a crear tu primera aventura!",
+  "mytrips_create": "Crear Nuevo Viaje"
 }
