@@ -77,6 +77,7 @@ export async function POST(req: Request) {
         7. Daily Logistics & Pacing: Keep locations geographically close. Include morning, lunch, afternoon, and dinner activities appropriately.
         8. 🚨Restaurants & Food (isFood = true): If the user asks for food, or you are scheduling Breakfast/Lunch/Dinner/Supper, you MUST set 'isFood: true'. You MUST output an EXACT, REAL restaurant name prefixed with the city name (e.g. "Hong Kong Tsim Sha Tsui Waso Cafe"). DO NOT use generic terms like "Lunch in city".
         9. Location Name (\`location\`): The JSON \`location\` field must be an exact address/name string, absolutely NO markdown links.
+        10. 🔥 CRITICAL SPEED RULE: Keep all \`description\` fields EXTREMELY SHORT (Maximum 1-2 sentences). Absolutely no filler words.
         
         Here is the MINIMAL itinerary JSON that you need to modify:
         ${JSON.stringify(minimalItinerary)}

@@ -173,10 +173,10 @@ Destination:${destination}(Origin:${origin})|Dates:${dates.start} to ${dates.end
 3. **Anti-Boring & Hidden Gems**:
    - **Geographic Spread**: Do not restrict activities to within 3km of the hotel. Utilize transit to explore different districts.
    - **Hidden Gems Requirement**: You MUST assign at least one highly-rated, local "Hidden Gem" per day based on the user's purposes, apart from tourist traps.
-4. **Vivid & Sensory Descriptions**:
-   - Do not use generic phrases like "enjoy the views" or "eat good food".
-   - **Restaurants**: Provide the EXACT full real name of the restaurant (e.g. "Shake Shack Ginza"). State their signature dish and why it's worth it.
-   - **Attractions**: State the best photo angle, historical context, or local's way to experience it.
+4. **Ultra-Concise & Vivid Descriptions**:
+   - 🔥 CRITICAL SPEED RULE: Keep all descriptions EXTREMELY SHORT (Maximum 2 short sentences). Absolutely no filler words.
+   - **Restaurants**: Provide the EXACT full real name. State signature dish briefly.
+   - **Attractions**: State one photo tip or local secret in one sentence.
 5. **Group Constraints**:
    - Do not schedule bars or nightclubs if children or elders are present.
    - If accessibility is requested, strictly avoid steep hills or multi-stair locations.
@@ -227,7 +227,7 @@ ${premiumSearchInstruction}
         let fallbackModel = "gpt-4o-mini"; // ChatGPT fallback for all tiers
 
         if (tier === "PASS" || tier === "YEARLY") {
-            primaryModel = "gemini-2.5-flash-preview-04-17"; // Priority: same for both paid tiers
+            primaryModel = "gemini-2.5-flash"; // Priority: Stable, ultra-fast model
         }
 
         // 5. Call Gemini API securely First
