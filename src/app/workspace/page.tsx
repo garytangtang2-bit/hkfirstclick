@@ -653,7 +653,7 @@ function WorkspaceContent() {
                                                 <h3 className="font-extrabold text-[#F8F9FA] text-2xl heading-premium mb-1">
                                                     {t.q_group_title || "2. Group & Vibe"}
                                                 </h3>
-                                                <p className="text-[#A0A0A0] text-sm">Who is coming and how do we travel?</p>
+                                                <p className="text-[#A0A0A0] text-sm">{t.ws_who_travel || "Who is coming and how do we travel?"}</p>
                                             </div>
                                             <div className="grid grid-cols-2 gap-4">
                                                 <div className="flex items-center justify-between bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-3">
@@ -760,7 +760,7 @@ function WorkspaceContent() {
                                                 <h3 className="font-extrabold text-[#F8F9FA] text-2xl heading-premium mb-1 flex items-center gap-2">
                                                     <Sparkles size={24} className="text-[#EEDC00]" /> {t.pref_title || "3. Strict Preferences"}
                                                 </h3>
-                                                <p className="text-[#A0A0A0] text-sm">Any dietary restrictions or absolute must-haves?</p>
+                                                <p className="text-[#A0A0A0] text-sm">{t.ws_diet_must || "Any dietary restrictions or absolute must-haves?"}</p>
                                             </div>
 
                                             <div>
@@ -824,7 +824,7 @@ function WorkspaceContent() {
                                                 }}
                                                 className={`py-4 rounded-xl font-bold bg-white text-black hover:bg-gray-200 transition-colors flex justify-center items-center ${wizardStep === 1 ? 'w-full' : 'w-2/3'}`}
                                             >
-                                                Next Step <ArrowRight size={18} className="ml-2" />
+                                                {t.ws_next_step || "Next Step"} <ArrowRight size={18} className="ml-2" />
                                             </button>
                                         ) : (
                                             <button

@@ -286,5 +286,9 @@
   "map_upgrade_cta": "Mettre à niveau pour déverrouiller",
   "map_search_hint": "Rechercher une ville...",
   "price_payment_notice": "Paiement unique, pas d'abonnement caché. Les prix en devise locale sont indicatifs — la facturation réelle se fait en USD.",
-  "ws_back": "Retour"
+  "ws_back": "Retour",
+  "ws_where_when": "Où et quand partons-nous ?",
+  "ws_who_travel": "Qui vient et comment voyageons-nous ?",
+  "ws_diet_must": "Des restrictions alimentaires ou des incontournables ?",
+  "ws_next_step": "Étape Suivante"
 }

@@ -286,5 +286,9 @@
   "map_upgrade_cta": "업그레이드하여 잠금 해제",
   "map_search_hint": "도시 검색...",
   "price_payment_notice": "일회성 결제, 숨겨진 구독 없음. 현지 통화 가격은 참고용이며, 실제 청구는 USD로 이루어집니다。",
-  "ws_back": "뒤로"
+  "ws_back": "뒤로",
+  "ws_where_when": "언제, 어디로 가시나요?",
+  "ws_who_travel": "누구와 어떻게 여행하시나요?",
+  "ws_diet_must": "식이 제한이나 반드시 해야 할 것이 있나요?",
+  "ws_next_step": "다음 단계"
 }
