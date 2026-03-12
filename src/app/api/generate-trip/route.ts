@@ -148,19 +148,35 @@ export async function POST(req: Request) {
         const liveTravelData = await fetchLiveFlightData(originIata, destIata, dates.start, dates.end);
 
         // 3. System Prompt for OpenAI
+        const nativeLanguagePrompts: Record<string, string> = {
+            'zh': '🚨 絕對指令：你必須扮演頂級旅遊專家，並【全部使用繁體中文】生成這個行程，包含所有標題、描述和細節。絕對禁止使用其他語言！',
+            'ja': '🚨 絶対的な指示：あなたはトップクラスの旅行エキスパートです。【必ず日本語で】この旅程を作成してください。タイトルや説明など、すべて日本語で出力すること。他の言語は一切禁止です！',
+            'ko': '🚨 절대 지침: 당신은 최고 수준의 여행 전문가입니다. 제목, 설명, 세부 정보를 포함하여 이 일정표를 【반드시 한국어로】 생성해야 합니다. 다른 언어 사용은 절대 금지됩니다!',
+            'fr': '🚨 DIRECTIVE ABSOLUE : Vous devez générer cet itinéraire 【ENTIÈREMENT EN FRANÇAIS】, y compris tous les titres et descriptions. L\'utilisation d\'autres langues est strictement interdite !',
+            'es': '🚨 DIRECTIVA ABSOLUTA: Debes generar este itinerario 【COMPLETAMENTE EN ESPAÑOL】, incluyendo todos los títulos y descripciones. ¡El uso de otros idiomas está estrictamente prohibido!',
+            'id': '🚨 ARAHAN MUTLAK: Anda harus menghasilkan rencana perjalanan ini 【SEPENUHNYA DALAM BAHASA INDONESIA】, termasuk semua judul dan deskripsi. Penggunaan bahasa lain sangat dilarang!',
+            'hi': '🚨 पूर्ण निर्देश: आपको इस यात्रा कार्यक्रम को 【पूरी तरह से हिंदी में】 उत्पन्न करना चाहिए। अन्य भाषाओं का उपयोग सख्त वर्जित है!',
+            'pt': '🚨 DIRETRIZ ABSOLUTA: Você deve gerar este itinerário 【TOTALMENTE EM PORTUGUÊS】, incluindo todos os títulos e descrições. O uso de outros idiomas é estritamente proibido!',
+            'ar': '🚨 توجيه مطلق: يجب أن تقوم بإنشاء مسار الرحلة هذا 【باللغة العربية بالكامل】. يمنع منعا باتا استخدام لغات أخرى!',
+            'bn': '🚨 পরম নির্দেশ: আপনাকে এই ভ্রমণপথটি 【সম্পূর্ণরূপে বাংলায়】 তৈরি করতে হবে। অন্য ভাষার ব্যবহার কঠোরভাবে নিষিদ্ধ!',
+            'ru': '🚨 АБСОЛЮТНАЯ ДИРЕКТИВА: Вы должны составить этот маршрут 【ПОЛНОСТЬЮ НА РУССКОМ ЯЗЫКЕ】. Использование других языков строго запрещено!',
+            'en': '🚨 ABSOLUTE DIRECTIVE: You must generate this itinerary 【ENTIRELY IN ENGLISH】, including all titles and descriptions. The use of other languages is strictly prohibited!'
+        };
+
+        const nativeCommand = uiLanguage ? (nativeLanguagePrompts[uiLanguage] || nativeLanguagePrompts['en']) : nativeLanguagePrompts['en'];
         const langInstruction = uiLanguage ? `You MUST output all generated text, descriptions, advice, and titles ENTIRELY in ${uiLanguage}. This is a strict requirement.` : "MUST output responses in the user's inferred language based on their input.";
 
         const premiumSearchInstruction = (tier === "PASS" || tier === "YEARLY")
             ? "6.**即時上網搜尋精選(Premium)**: 請務必主動使用上網搜尋功能，查詢該目的地「最新熱門、必去的景點與當季活動」，篩選出網路評價極佳的地點，並排入行程清單中。"
             : "";
 
-        const systemPrompt = `You are a top-tier private travel customization expert with 20 years of experience. You must analyze the exact logistics, time constraints, luggage handling, and group composition provided by the user, and strictly output the itinerary in the REQUIRED FORMAT. DO NOT include any Markdown formatting, conversational text, intros, or outros.
+        const systemPrompt = `${nativeCommand}\n\nYou are a top-tier private travel customization expert with 20 years of experience. You must analyze the exact logistics, time constraints, luggage handling, and group composition provided by the user, and strictly output the itinerary in the REQUIRED FORMAT. DO NOT include any Markdown formatting, conversational text, intros, or outros.
 
 # [USER INPUT PROFILES]
 Destination:${destination}(Origin:${origin})|Dates:${dates.start} to ${dates.end}|Flights:Day1 Arrival ${flightTimes?.arrival || "14:00"},LastDay Departure ${flightTimes?.departure || "18:00"}|Hotel:${hotelInfo || "City Center"}|Group:${preferences?.groupSize?.adults || 2} Adults ${preferences?.groupSize?.children || 0} Children ${preferences?.hasElders ? '(with Elders)' : ''}${preferences?.accessibility ? '(Needs Accessibility)' : ''}|Style:${preferences?.style}|Transport:${preferences?.transportation === 'taxi' ? 'Taxi/Private' : 'Public Transit'}|Purposes:${preferences?.purposes?.join(",") || "Sightseeing"}|Budget:${preferences?.budget}${currency}|Dietary:${preferences?.dietary || "None"}|Must Visit:${preferences?.mustVisit || "None"}|Requests:${preferences?.requests || "None"}
 
 # [⚠️ CORE LOGIC & STRICT RULES (MUST FOLLOW)]
-0. **ENFORCED OUTPUT LANGUAGE**: ${langInstruction}. All generated names, descriptions, and advice MUST be exactly in ${uiLanguage}.
+0. **ENFORCED OUTPUT LANGUAGE**: ${langInstruction}. All generated names, descriptions, and advice MUST be exactly in the target language requested.
 1. **Daily Nodes**:
    - **Day 1 (Arrival)**: The first activity MUST be "Arrive at Airport". The last activity MUST be "Return to Hotel".
    - **Middle Days**: The first activity MUST be "Depart from Hotel". The last activity MUST be "Return to Hotel".

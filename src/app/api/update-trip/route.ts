@@ -52,7 +52,23 @@ export async function POST(req: Request) {
             );
         }
 
-        const langInstruction = uiLanguage ? `You MUST output all generated text, descriptions, advice, and titles ENTIRELY in ${uiLanguage}. This is a strict requirement.` : "MUST output responses in the user's inferred language.";
+        const nativeLanguagePrompts: Record<string, string> = {
+            'zh': '🚨 絕對指令：你必須扮演頂級旅遊專家，並【全部使用繁體中文】修改這個行程，包含所有標題、描述和細節。絕對禁止使用其他語言！',
+            'ja': '🚨 絶対的な指示：あなたはトップクラスの旅行エキスパートです。【必ず日本語で】この旅程を修正してください。タイトルや説明など、すべて日本語で出力すること。他の言語は一切禁止です！',
+            'ko': '🚨 절대 지침: 당신은 최고 수준의 여행 전문가입니다. 제목, 설명, 세부 정보를 포함하여 이 일정표를 【반드시 한국어로】 수정해야 합니다. 다른 언어 사용은 절대 금지됩니다!',
+            'fr': '🚨 DIRECTIVE ABSOLUE : Vous devez modifier cet itinéraire 【ENTIÈREMENT EN FRANÇAIS】, y compris tous les titres et descriptions. L\'utilisation d\'autres langues est strictement interdite !',
+            'es': '🚨 DIRECTIVA ABSOLUTA: Debes modificar este itinerario 【COMPLETAMENTE EN ESPAÑOL】, incluyendo todos los títulos y descripciones. ¡El uso de otros idiomas está estrictamente prohibido!',
+            'id': '🚨 ARAHAN MUTLAK: Anda harus mengubah rencana perjalanan ini 【SEPENUHNYA DALAM BAHASA INDONESIA】, termasuk semua judul dan deskripsi. Penggunaan bahasa lain sangat dilarang!',
+            'hi': '🚨 पूर्ण निर्देश: आपको इस यात्रा कार्यक्रम को 【पूरी तरह से हिंदी में】 संशोधित करना चाहिए। अन्य भाषाओं का उपयोग सख्त वर्जित है!',
+            'pt': '🚨 DIRETRIZ ABSOLUTA: Você deve modificar este itinerário 【TOTALMENTE EM PORTUGUÊS】, incluindo todos os títulos e descrições. O uso de outros idiomas é estritamente proibido!',
+            'ar': '🚨 توجيه مطلق: يجب أن تقوم بتعديل مسار الرحلة هذا 【باللغة العربية بالكامل】. يمنع منعا باتا استخدام لغات أخرى!',
+            'bn': '🚨 পরম নির্দেশ: আপনাকে এই ভ্রমণপথটি 【সম্পূর্ণরূপে বাংলায়】 সংশোধন করতে হবে। অন্য ভাষার ব্যবহার কঠোরভাবে নিষিদ্ধ!',
+            'ru': '🚨 АБСОЛЮТНАЯ ДИРЕКТИВА: Вы должны изменить этот маршрут 【ПОЛНОСТЬЮ НА РУССКОМ ЯЗЫКЕ】. Использование других языков строго запрещено!',
+            'en': '🚨 ABSOLUTE DIRECTIVE: You must modify this itinerary 【ENTIRELY IN ENGLISH】, including all titles and descriptions. The use of other languages is strictly prohibited!'
+        };
+
+        const nativeCommand = uiLanguage ? (nativeLanguagePrompts[uiLanguage] || nativeLanguagePrompts['en']) : nativeLanguagePrompts['en'];
+        const langInstruction = uiLanguage ? `You MUST output all generated text, descriptions, advice, and titles ENTIRELY in target language. This is a strict requirement.` : "MUST output responses in the user's inferred language.";
 
         // To save tokens and speed up generation, we strip out static data (flights, hotel, adviceArr)
         // and only pass the core `days` array to the AI. Include destination for context.
@@ -62,7 +78,7 @@ export async function POST(req: Request) {
             days: currentItinerary.days
         };
 
-        const systemPrompt = `You are a professional travel planner with deep expertise in optimizing travel itineraries based on budget, style, and purpose.
+        const systemPrompt = `${nativeCommand}\n\nYou are a professional travel planner with deep expertise in optimizing travel itineraries based on budget, style, and purpose.
         
         The user wants to MODIFY their existing travel itinerary based on this new request:
         "${userMessage}"

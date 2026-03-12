@@ -344,7 +344,7 @@ function MapContent() {
                                             <Sparkles size={18} /> ✨ {t.map_actions_generate || "1-Click Generate"} <span className="text-black/60 font-semibold text-xs ml-1 bg-black/10 px-2 py-0.5 rounded-full">{t.map_actions_cost || "(5 pts)"}</span>
                                         </button>
                                     </Link>
-                                    <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
+                                    <Link href={`/catalog`} className="w-full">
                                         <button className="w-full bg-white/10 backdrop-blur-md text-white border border-white/20 px-6 py-4 rounded-xl font-bold hover:bg-white/20 transition-transform hover:scale-[1.02] active:scale-95 flex justify-center items-center gap-2 shadow-xl">
                                             <Navigation size={18} /> {t.map_actions_modify || "View Inspiration Catalog"}
                                         </button>

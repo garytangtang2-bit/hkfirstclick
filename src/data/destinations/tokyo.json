@@ -1,0 +1,47 @@
+{
+    "slug": "tokyo",
+    "en": {
+        "destination": "Tokyo",
+        "heroImageKeyword": "Tokyo",
+        "days": [
+            {
+                "date": "Day 1",
+                "theme": "Arrival & City Lights",
+                "daySummary": "Settle into Tokyo and explore the vibrant neon streets of Shinjuku.",
+                "activities": [
+                    {
+                        "time": "14:00",
+                        "title": "Arrive at Narita Airport",
+                        "description": "Take the Narita Express to the city center.",
+                        "location": "◎ Narita International Airport",
+                        "cost": "JPY 3000",
+                        "needsTicket": false,
+                        "isFood": false
+                    }
+                ]
+            }
+        ]
+    },
+    "zh": {
+        "destination": "東京",
+        "heroImageKeyword": "Tokyo",
+        "days": [
+            {
+                "date": "第一天",
+                "theme": "抵達與城市霓虹",
+                "daySummary": "安頓並探索新宿充滿活力的霓虹街道。",
+                "activities": [
+                    {
+                        "time": "14:00",
+                        "title": "抵達成田機場",
+                        "description": "搭乘成田特快前往市中心。",
+                        "location": "◎ 成田國際機場",
+                        "cost": "JPY 3000",
+                        "needsTicket": false,
+                        "isFood": false
+                    }
+                ]
+            }
+        ]
+    }
+}
