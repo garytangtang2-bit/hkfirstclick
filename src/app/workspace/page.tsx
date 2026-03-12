@@ -808,7 +808,7 @@ function WorkspaceContent() {
                                                 onClick={() => { setError(""); setWizardStep(wizardStep - 1); }}
                                                 className="px-6 py-4 rounded-xl font-bold bg-[#161616] text-[#A0A0A0] hover:text-white hover:bg-white/5 border border-white/10 transition-colors w-1/3 text-center"
                                             >
-                                                Back
+                                                {t.ws_back || "Back"}
                                             </button>
                                         )}
 

@@ -207,7 +207,7 @@
   "ws_budget_set": "現在の総予算設定",
   "ws_budget_est": "総推定費用（フライト＋宿泊＋現地アクティビティ）",
   "ws_budget_remain": "残り予算",
-  "ws_empty": "未設定",
+  "ws_empty": "設定なし",
   "ws_ready_title": "冒険の準備はできていますか？",
   "ws_ready_desc": "パネルにフライトと宿泊情報を入力してください。最高のAIが完璧な冒険を作成します。",
   "ws_hour": "時",
@@ -227,8 +227,8 @@
   "ws_transport_label": "交通手段",
   "ws_transport_public": "主に公共交通",
   "ws_transport_taxi": "主にタクシー/貸切",
-  "ws_day_overview": "概観",
-  "ws_day_label": "第 {n} 日",
+  "ws_day_overview": "概要",
+  "ws_day_label": "{n}日目",
   "ws_daily_theme": "日程テーマ",
   "ws_share": "シェア",
   "ws_book_now": "今すぐ予約",
@@ -285,5 +285,6 @@
   "map_premium_badge": "プレミアム機能",
   "map_upgrade_cta": "アップグレードして解除",
   "map_search_hint": "都市を検索...",
-  "price_payment_notice": "一回払い、隠れたサブスクなし。現地通貨の表示価格は参考のみ — 実際の請求は米ドル（USD）で行われます。"
+  "price_payment_notice": "一回払い、隠れたサブスクなし。現地通貨の表示価格は参考のみ — 実際の請求は米ドル（USD）で行われます。",
+  "ws_back": "戻る"
 }
