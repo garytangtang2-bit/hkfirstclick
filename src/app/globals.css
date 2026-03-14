@@ -8,6 +8,23 @@
 }
 
 body {
+  /*
+   * Font-family fallback chain for multi-script support:
+   *   1. Outfit          — primary latin/display font
+   *   2. Noto Sans (Devanagari subset) — हिन्दी (Hindi)
+   *   3. Noto Sans Bengali             — বাংলা  (Bengali)
+   *   4. Noto Sans Arabic              — العربية (Arabic, RTL)
+   * The browser picks the first font that contains the glyph, so Outfit
+   * renders latin text while Noto variants automatically kick in for
+   * non-latin characters — no extra class needed at usage sites.
+   */
+  font-family:
+    var(--font-outfit),
+    var(--font-noto-devanagari),
+    var(--font-noto-bengali),
+    var(--font-noto-arabic),
+    sans-serif;
+
   color: var(--foreground);
   background: var(--background);
   background-image: radial-gradient(circle at top, #1c1c2b 0%, var(--background) 100%);
