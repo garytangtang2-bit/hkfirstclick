@@ -950,10 +950,13 @@ export const getCitySlug = (cityId: string): string => {
 };
 
 export const getCityIdFromSlug = (slug: string): string | null => {
+    const normalizedTarget = slug.toLowerCase().replace(/[^a-z0-9]+/g, '');
     for (const [cityId, data] of Object.entries(cityDataTranslations)) {
         const enName = data.name.EN || cityId;
         const currentSlug = enName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-        if (currentSlug === slug) return cityId;
+        const currentPureSlug = enName.toLowerCase().replace(/[^a-z0-9]+/g, '');
+        
+        if (currentSlug === slug || currentPureSlug === normalizedTarget) return cityId;
     }
     return null;
 };
