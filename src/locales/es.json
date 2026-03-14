@@ -322,5 +322,11 @@
   "landing_detailed_desc": "Estamos preparando un horario detallado hora por hora para este destino. ¡Vuelve más tarde!",
   "guide_title_dynamic": "Guía definitiva de {days} días",
   "itinerary_label_dynamic": "Itinerario de {days} días",
-  "detailed_coming_soon_dynamic": "Próximamente itinerario detallado de {days} días"
+  "detailed_coming_soon_dynamic": "Próximamente itinerario detallado de {days} días",
+  "itinerary_day": "Day {n}",
+  "itinerary_theme_1": "Arrival & Atmosphere",
+  "itinerary_theme_2": "Iconic Landmarks",
+  "itinerary_theme_3": "Culinary Journey",
+  "itinerary_theme_4": "Leisure & Gems",
+  "itinerary_highlights": "Highlights"
 }

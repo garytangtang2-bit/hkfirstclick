@@ -75,17 +75,45 @@ function DestinationContent({ cityId }: Props) {
                     </div>
                 </div>
 
-                {/* Placeholder for future detailed itinerary */}
-                <div className="border border-dashed border-white/10 rounded-3xl p-12 text-center bg-[#161616]/50 mb-12">
-                    <div className="bg-white/5 w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6">
-                        <Calendar className="text-gray-500" size={28} />
-                    </div>
-                    <h3 className="text-2xl font-bold text-gray-300 mb-3">
-                        {t.detailed_coming_soon_dynamic ? t.detailed_coming_soon_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : t.landing_detailed_coming_soon || `Detailed ${getRecommendedDays(cityId)}-Day Itinerary Coming Soon`}
-                    </h3>
-                    <p className="text-gray-500 text-sm max-w-md mx-auto leading-relaxed">
-                        {t.landing_detailed_desc || "We are preparing a fully detailed hour-by-hour schedule for this destination. Check back later!"}
-                    </p>
+                {/* Dynamic Preview Itinerary */}
+                <div className="space-y-6 mb-16">
+                    {Array.from({ length: getRecommendedDays(cityId) }, (_, i) => {
+                        const dayNum = i + 1;
+                        let themeKey = "itinerary_theme_4";
+                        if (dayNum === 1) themeKey = "itinerary_theme_1";
+                        else if (dayNum === 2) themeKey = "itinerary_theme_2";
+                        else if (dayNum === 3) themeKey = "itinerary_theme_3";
+
+                        const theme = t[themeKey] || "Daily Highlights";
+                        const highlight = dayNum === 2 ? mustVisit : (dayNum === 3 ? topFood : (dayNum === 1 ? description : cityName));
+
+                        return (
+                            <div key={dayNum} className="group relative bg-[#161616]/40 hover:bg-[#161616]/60 border border-white/5 hover:border-purple-500/30 rounded-3xl p-6 transition-all duration-300">
+                                <div className="flex flex-col md:flex-row gap-6">
+                                    <div className="flex-shrink-0">
+                                        <div className="w-14 h-14 rounded-2xl bg-purple-500/10 border border-purple-500/20 flex flex-col items-center justify-center text-purple-400 group-hover:bg-purple-500 group-hover:text-white transition-colors duration-300">
+                                            <span className="text-[10px] font-bold uppercase tracking-tighter opacity-70">DAY</span>
+                                            <span className="text-xl font-black">{dayNum}</span>
+                                        </div>
+                                    </div>
+                                    <div className="flex-1">
+                                        <div className="flex items-center gap-2 mb-2">
+                                            <Sparkles size={14} className="text-purple-400 opacity-60" />
+                                            <h4 className="text-purple-300/80 text-xs font-bold uppercase tracking-widest">
+                                                {theme}
+                                            </h4>
+                                        </div>
+                                        <h3 className="text-white text-xl font-bold mb-3 group-hover:text-purple-200 transition-colors">
+                                            {highlight}
+                                        </h3>
+                                        <p className="text-gray-400 text-sm leading-relaxed line-clamp-2 italic opacity-60 group-hover:opacity-100 transition-opacity">
+                                            {t.itinerary_highlights || "Highlights"}: {dayNum === 2 ? `Explore the iconic ${mustVisit}.` : (dayNum === 3 ? `Savor the best local ${topFood}.` : `Immerse yourself in ${cityName}.`)}
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        );
+                    })}
                 </div>
 
                 {/* Call To Action */}

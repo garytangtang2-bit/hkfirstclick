@@ -322,5 +322,11 @@
   "landing_detailed_desc": "نحن نعد جدولاً مفصلاً ساعة بساعة لهذه الوجهة. يرجى التحقق مرة أخرى لاحقاً!",
   "guide_title_dynamic": "دليل نهائي لمدة {days} أيام",
   "itinerary_label_dynamic": "مسار رحلة لمدة {days} أيام",
-  "detailed_coming_soon_dynamic": "مسار رحلة مفصل لمدة {days} أيام قريبًا"
+  "detailed_coming_soon_dynamic": "مسار رحلة مفصل لمدة {days} أيام قريبًا",
+  "itinerary_day": "Day {n}",
+  "itinerary_theme_1": "Arrival & Atmosphere",
+  "itinerary_theme_2": "Iconic Landmarks",
+  "itinerary_theme_3": "Culinary Journey",
+  "itinerary_theme_4": "Leisure & Gems",
+  "itinerary_highlights": "Highlights"
 }

@@ -322,5 +322,11 @@
   "landing_detailed_desc": "이 목적지에 대한 시간별 상세 일정을 준비하고 있습니다. 나중에 다시 확인해 주세요!",
   "guide_title_dynamic": "{days}일 완벽 가이드",
   "itinerary_label_dynamic": "{days}일 일정",
-  "detailed_coming_soon_dynamic": "상세한 {days}일 일정이 곧 제공됩니다"
+  "detailed_coming_soon_dynamic": "상세한 {days}일 일정이 곧 제공됩니다",
+  "itinerary_day": "{n} 일차",
+  "itinerary_theme_1": "도착 및 도시 분위기",
+  "itinerary_theme_2": "상징적인 랜드마크",
+  "itinerary_theme_3": "미식 여행",
+  "itinerary_theme_4": "여유로운 산책과 숨은 명소",
+  "itinerary_highlights": "오늘의 하이라이트"
 }

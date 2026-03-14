@@ -322,5 +322,11 @@
   "landing_detailed_desc": "Kami sedang menyiapkan jadwal jam demi jam yang sangat mendetail untuk destinasi ini. Periksa kembali nanti!",
   "guide_title_dynamic": "Panduan Utama {days} Hari",
   "itinerary_label_dynamic": "Rencana Perjalanan {days} Hari",
-  "detailed_coming_soon_dynamic": "Rencana Perjalanan {days} Hari yang Mendetail Segera Hadir"
+  "detailed_coming_soon_dynamic": "Rencana Perjalanan {days} Hari yang Mendetail Segera Hadir",
+  "itinerary_day": "Day {n}",
+  "itinerary_theme_1": "Arrival & Atmosphere",
+  "itinerary_theme_2": "Iconic Landmarks",
+  "itinerary_theme_3": "Culinary Journey",
+  "itinerary_theme_4": "Leisure & Gems",
+  "itinerary_highlights": "Highlights"
 }

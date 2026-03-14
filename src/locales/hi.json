@@ -322,5 +322,11 @@
   "landing_detailed_desc": "हम इस गंतव्य के लिए घंटे-दर-घंटे का विस्तृत कार्यक्रम तैयार कर रहे हैं। बाद में वापस देखें!",
   "guide_title_dynamic": "{days}-दिन की अंतिम मार्गदर्शिका",
   "itinerary_label_dynamic": "{days} दिनों की यात्रा कार्यक्रम",
-  "detailed_coming_soon_dynamic": "विस्तृत {days}-दिवसीय यात्रा कार्यक्रम जल्द आ रहा है"
+  "detailed_coming_soon_dynamic": "विस्तृत {days}-दिवसीय यात्रा कार्यक्रम जल्द आ रहा है",
+  "itinerary_day": "Day {n}",
+  "itinerary_theme_1": "Arrival & Atmosphere",
+  "itinerary_theme_2": "Iconic Landmarks",
+  "itinerary_theme_3": "Culinary Journey",
+  "itinerary_theme_4": "Leisure & Gems",
+  "itinerary_highlights": "Highlights"
 }

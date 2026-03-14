@@ -322,5 +322,11 @@
   "landing_detailed_desc": "Мы готовим подробное почасовое расписание для этого направления. Зайдите позже!",
   "guide_title_dynamic": "{days}-дневный идеальный гид",
   "itinerary_label_dynamic": "{days}-дневный маршрут",
-  "detailed_coming_soon_dynamic": "Подробный {days}-дневный маршрут скоро появится"
+  "detailed_coming_soon_dynamic": "Подробный {days}-дневный маршрут скоро появится",
+  "itinerary_day": "Day {n}",
+  "itinerary_theme_1": "Arrival & Atmosphere",
+  "itinerary_theme_2": "Iconic Landmarks",
+  "itinerary_theme_3": "Culinary Journey",
+  "itinerary_theme_4": "Leisure & Gems",
+  "itinerary_highlights": "Highlights"
 }

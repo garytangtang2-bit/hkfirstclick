@@ -322,5 +322,11 @@
   "landing_detailed_desc": "この目的地の詳細な時間ごとのスケジュールを準備中です。後でまた確認してください！",
   "guide_title_dynamic": "究極の {days} 日間プラン",
   "itinerary_label_dynamic": "{days} 日間の旅程",
-  "detailed_coming_soon_dynamic": "詳細な {days} 日間の旅程は近日公開予定"
+  "detailed_coming_soon_dynamic": "詳細な {days} 日間の旅程は近日公開予定",
+  "itinerary_day": "{n} 日目",
+  "itinerary_theme_1": "到着と街の雰囲気",
+  "itinerary_theme_2": "定番スポット巡り",
+  "itinerary_theme_3": "絶品グルメ体験",
+  "itinerary_theme_4": "のんびり散策と穴場",
+  "itinerary_highlights": "今日の見どころ"
 }

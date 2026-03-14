@@ -322,5 +322,11 @@
   "landing_detailed_desc": "আমরা এই গন্তব্যের জন্য একটি সম্পূর্ণ বিস্তারিত ঘন্টা-অনুযায়ী সময়সূচী প্রস্তুত করছি। পরে আবার চেক করুন!",
   "guide_title_dynamic": "{days}-দিনের চূড়ান্ত গাইড",
   "itinerary_label_dynamic": "{days} দিনের সূচি",
-  "detailed_coming_soon_dynamic": "বিস্তারিত {days}-দিনের সূচি শীঘ্রই আসছে"
+  "detailed_coming_soon_dynamic": "বিস্তারিত {days}-দিনের সূচি শীঘ্রই আসছে",
+  "itinerary_day": "Day {n}",
+  "itinerary_theme_1": "Arrival & Atmosphere",
+  "itinerary_theme_2": "Iconic Landmarks",
+  "itinerary_theme_3": "Culinary Journey",
+  "itinerary_theme_4": "Leisure & Gems",
+  "itinerary_highlights": "Highlights"
 }
