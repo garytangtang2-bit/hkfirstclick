@@ -75,6 +75,19 @@ function DestinationContent({ cityId }: Props) {
                     </div>
                 </div>
 
+                {/* Placeholder for future detailed itinerary */}
+                <div className="border border-dashed border-white/10 rounded-3xl p-12 text-center bg-[#161616]/50 mb-12">
+                    <div className="bg-white/5 w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6">
+                        <Calendar className="text-gray-500" size={28} />
+                    </div>
+                    <h3 className="text-2xl font-bold text-gray-300 mb-3">
+                        {t.detailed_coming_soon_dynamic ? t.detailed_coming_soon_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : t.landing_detailed_coming_soon || `Detailed ${getRecommendedDays(cityId)}-Day Itinerary Coming Soon`}
+                    </h3>
+                    <p className="text-gray-500 text-sm max-w-md mx-auto leading-relaxed">
+                        {t.landing_detailed_desc || "We are preparing a fully detailed hour-by-hour schedule for this destination. Check back later!"}
+                    </p>
+                </div>
+
                 {/* Call To Action */}
                 <div className="bg-gradient-to-br from-purple-900/40 to-[#161616] border border-purple-500/20 rounded-3xl p-8 md:p-12 text-center shadow-2xl mb-16 relative overflow-hidden">
                     <div className="absolute top-0 right-0 w-64 h-64 bg-purple-500 rounded-full blur-[120px] opacity-20 pointer-events-none"></div>
@@ -98,19 +111,6 @@ function DestinationContent({ cityId }: Props) {
                             </button>
                         </Link>
                     </div>
-                </div>
-
-                {/* Placeholder for future detailed itinerary */}
-                <div className="border border-dashed border-white/10 rounded-3xl p-12 text-center bg-[#161616]/50">
-                    <div className="bg-white/5 w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-6">
-                        <Calendar className="text-gray-500" size={28} />
-                    </div>
-                    <h3 className="text-2xl font-bold text-gray-300 mb-3">
-                        {t.detailed_coming_soon_dynamic ? t.detailed_coming_soon_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : t.landing_detailed_coming_soon || `Detailed ${getRecommendedDays(cityId)}-Day Itinerary Coming Soon`}
-                    </h3>
-                    <p className="text-gray-500 text-sm max-w-md mx-auto leading-relaxed">
-                        {t.landing_detailed_desc || "We are preparing a fully detailed hour-by-hour schedule for this destination. Check back later!"}
-                    </p>
                 </div>
 
             </div>
