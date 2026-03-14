@@ -37,7 +37,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "大皇宮、鄭王廟", EN: "Grand Palace, Temple of Dawn (Wat Arun)", JP: "王宮、暁の寺（ワット・アルン）", KR: "왕궁, 새벽 사원(왓 아룬)", FR: "Grand Palais, Temple de l'Aube (Wat Arun)", ES: "Gran Palacio, Templo del Amanecer (Wat Arun)", ID: "Istana Agung, Kuil Fajar (Wat Arun)", HI: "ग्रांड पैलेस, भोर का मंदिर (वट अरुण)", PT: "Grande Palácio, Templo da Aurora (Wat Arun)", AR: "القصر الكبير، معبد الفجر (وات أرون)", RU: "Большой дворец, Храм Рассвета (Ват Арун)",
     },
-    recommendedDays: 4
+    recommendedDays: 3
   },
   "東京": {
     name: {
@@ -83,7 +83,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "大英博物館、倫敦塔橋", EN: "British Museum, Tower Bridge", JP: "大英博物館、タワーブリッジ", KR: "대영박물관, 타워브리지", FR: "British Museum, Tower Bridge", ES: "Museo Británico, Puente de la Torre", ID: "Museum Inggris, Tower Bridge", HI: "ब्रिटिश संग्रहालय, टावर ब्रिज", PT: "Museu Britânico, Tower Bridge", AR: "المتحف البريطاني، جسر البرج", RU: "Британский музей, Тауэрский мост",
     },
-    recommendedDays: 6
+    recommendedDays: 7
   },
   "新加坡": {
     name: {
@@ -131,7 +131,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "哈里發塔、帆船酒店", EN: "Burj Khalifa, Burj Al Arab", JP: "ブルジュ・ハリファ、ブルジュ・アル・アラブ", KR: "버즈 칼리파, 버즈 알 아랍", FR: "Burj Khalifa, Burj Al Arab", ES: "Burj Khalifa, Burj Al Arab", ID: "Burj Khalifa, Burj Al-Arab", HI: "बुर्ज खलीफा, बुर्ज अल अरब", PT: "Burj Khalifa, Burj Al Arab", AR: "برج خليفة، برج العرب", RU: "Бурдж Халифа, Бурдж Аль Араб",
     },
-    recommendedDays: 4
+    recommendedDays: 5
   },
   "羅馬": {
     name: {
@@ -195,7 +195,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] JP: "九份101ビル" → "台北101、九份"
       TW: "101大樓、九份", EN: "Taipei 101, Jiufen", JP: "台北101、九份（ジウフェン）", KR: "101 빌딩, 지우펀", FR: "Taipei 101, Jiufen", ES: "Taipei 101, Jiufen", ID: "Taipei 101, Jiufen", HI: "ताइपे 101, जिउफेन", PT: "Taipei 101, Jiufen", AR: "تايبيه 101، جيوفين", RU: "Тайбэй 101, Цзюфэнь",
     },
-    recommendedDays: 3
+    recommendedDays: 4
   },
   "大阪": {
     name: {
@@ -257,7 +257,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "梵谷博物館、安妮之家", EN: "Van Gogh Museum, Anne Frank House", JP: "ゴッホ美術館、アンネ・フランクの家", KR: "반고흐 미술관, 안네 프랑크의 집", FR: "Musée Van Gogh, Maison d'Anne Frank", ES: "Museo Van Gogh, Casa de Ana Frank", ID: "Museum Van Gogh, Rumah Anne Frank", HI: "वान गाग संग्रहालय, ऐनी फ्रैंक हाउस", PT: "Museu Van Gogh, Casa de Anne Frank", AR: "متحف فان جوخ، بيت آن فرانك", RU: "Музей Ван Гога, Дом Анны Франк",
     },
-    recommendedDays: 2
+    recommendedDays: 4
   },
   "威尼斯": {
     name: {
@@ -287,7 +287,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "查理大橋、布拉格城堡", EN: "Charles Bridge, Prague Castle", JP: "カレル橋、プラハ城", KR: "카를교, 프라하 성", FR: "Pont Charles, Château de Prague", ES: "Puente de Carlos, Castillo de Praga", ID: "Jembatan Charles, Kastil Praha", HI: "चार्ल्स ब्रिज, प्राग कैसल", PT: "Ponte Carlos, Castelo de Praga", AR: "جسر تشارلز، قلعة براغ", RU: "Карлов мост, Пражский Град",
     },
-    recommendedDays: 3
+    recommendedDays: 4
   },
   "吉隆坡": {
     name: {
@@ -318,7 +318,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "美泉宮、國家歌劇院", EN: "Schönbrunn Palace, State Opera House", JP: "シェーンブルン宮殿、国立歌劇場", KR: "쇤부른 궁전, 국립 오페라 하우스", FR: "Château de Schönbrunn, Opéra national", ES: "Palacio de Schönbrunn, Ópera Estatal", ID: "Istana Schönbrunn, Gedung Opera Negara", HI: "शॉनब्रुन पैलेस, स्टेट ओपेरा हाउस", PT: "Palácio de Schönbrunn, Ópera Estatal", AR: "قصر شونبرون، دار الأوبرا الحكومية", RU: "Дворец Шенбрунн, Государственный оперный театр",
     },
-    recommendedDays: 3
+    recommendedDays: 4
   },
   "柏林": {
     name: {
@@ -334,7 +334,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "布蘭登堡門、柏林圍牆", EN: "Brandenburg Gate, Berlin Wall", JP: "ブランデンブルク門、ベルリンの壁", KR: "브란덴부르크 문, 베를린 장벽", FR: "Porte de Brandebourg, mur de Berlin", ES: "Puerta de Brandenburgo, Muro de Berlín", ID: "Gerbang Brandenburg, Tembok Berlin", HI: "ब्रैंडेनबर्ग गेट, बर्लिन की दीवार", PT: "Portão de Brandemburgo, Muro de Berlim", AR: "بوابة براندنبورغ، جدار برلين", RU: "Бранденбургские ворота, Берлинская стена",
     },
-    recommendedDays: 4
+    recommendedDays: 5
   },
   "馬德里": {
     name: {
@@ -368,7 +368,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "貝倫塔、聖喬治城堡", EN: "Belem Tower, Castle of Saint George", JP: "ベレンの塔、聖ジョージ城", KR: "벨렘 타워, 세인트 조지 성", FR: "Tour de Belém, Château de Saint Georges", ES: "Torre de Belem, Castillo de San Jorge", ID: "Menara Belem, Kastil Saint George", HI: "बेलेम टॉवर, सेंट जॉर्ज का महल", PT: "Torre de Belém, Castelo de São Jorge", AR: "برج بيليم، قلعة القديس جاورجيوس", RU: "Белемская башня, замок Святого Георгия",
     },
-    recommendedDays: 3
+    recommendedDays: 4
   },
   "雅典": {
     name: {
@@ -400,7 +400,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "粉紅教堂、咖啡公寓", EN: "Pink church, coffee apartment", JP: "ピンクの教会、コーヒーアパートメント", KR: "핑크 교회, 커피 아파트", FR: "Église rose, appartement de café", ES: "Iglesia rosa, apartamento café.", ID: "Gereja merah muda, apartemen kopi", HI: "गुलाबी चर्च, कॉफ़ी अपार्टमेंट", PT: "Igreja rosa, apartamento café", AR: "الكنيسة الوردية، شقة القهوة", RU: "Розовая церковь, кофейная квартира",
     },
-    recommendedDays: 5
+    recommendedDays: 3
   },
   "斯德哥爾摩": {
     name: {
@@ -436,7 +436,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "小美人魚像、蒂沃利花園", EN: "The Little Mermaid, Tivoli Gardens", JP: "リトル・マーメイド、チボリ公園", KR: "인어공주, 티볼리 정원", FR: "La Petite Sirène, Jardins de Tivoli", ES: "La Sirenita, Jardines de Tívoli", ID: "Putri Duyung Kecil, Taman Tivoli", HI: "द लिटिल मरमेड, टिवोली गार्डन", PT: "A Pequena Sereia, Jardins Tivoli", AR: "ذا ليتل ميرميد، حدائق تيفولي", RU: "Русалочка, сады Тиволи",
     },
-    recommendedDays: 4
+    recommendedDays: 3
   },
   "慕尼黑": {
     name: {
@@ -500,7 +500,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "CN塔、聖勞倫斯市場", EN: "CN Tower, St. Lawrence Market", JP: "CNタワー、セントローレンスマーケット", KR: "CN 타워, 세인트 로렌스 마켓", FR: "Tour CN, Marché Saint-Laurent", ES: "Torre CN, Mercado de San Lorenzo", ID: "Menara CN, Pasar St.Lawrence", HI: "सीएन टावर, सेंट लॉरेंस मार्केट", PT: "Torre CN, Mercado de São Lourenço", AR: "برج CN، سوق سانت لورانس", RU: "Си-Эн Тауэр, Рынок Святого Лаврентия",
     },
-    recommendedDays: 3
+    recommendedDays: 4
   },
   "洛杉磯": {
     name: {
@@ -515,7 +515,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "好萊塢標誌、聖莫尼卡海灘", EN: "Hollywood sign, Santa Monica beach", JP: "ハリウッドサイン、サンタモニカビーチ", KR: "할리우드 사인, 산타모니카 해변", FR: "Panneau Hollywood, plage de Santa Monica", ES: "Cartel de Hollywood, playa de Santa Mónica", ID: "Tanda Hollywood, pantai Santa Monica", HI: "हॉलीवुड साइन, सांता मोनिका बीच", PT: "Letreiro de Hollywood, praia de Santa Mônica", AR: "علامة هوليوود، شاطئ سانتا مونيكا", RU: "Знак Голливуда, пляж Санта-Моники",
     },
-    recommendedDays: 3
+    recommendedDays: 5
   },
   "三藩市": {
     name: {
@@ -578,7 +578,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "聯邦廣場、大洋路", EN: "Federation Square, Great Ocean Road", JP: "フェデレーション スクエア、グレート オーシャン ロード", KR: "페더레이션 광장, 그레이트 오션 로드", FR: "Place de la Fédération, Great Ocean Road", ES: "Plaza de la Federación, Great Ocean Road", ID: "Lapangan Federasi, Great Ocean Road", HI: "फेडरेशन स्क्वायर, ग्रेट ओशन रोड", PT: "Praça da Federação, Great Ocean Road", AR: "ساحة الاتحاد، طريق المحيط العظيم", RU: "Площадь Федерации, Великая океанская дорога",
     },
-    recommendedDays: 6
+    recommendedDays: 5
   },
   "奧克蘭": {
     name: {
@@ -594,7 +594,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "天空塔、伊甸山", EN: "Sky Tower, Mount Eden", JP: "スカイタワー、マウントイーデン", KR: "스카이 타워, 에덴 산", FR: "Sky Tower, Mont Éden", ES: "Sky Tower, Monte Edén", ID: "Menara Langit, Gunung Eden", HI: "स्काई टावर, माउंट ईडन", PT: "Torre do Céu, Monte Éden", AR: "برج السماء، جبل عدن", RU: "Небесная башня, гора Эдем",
     },
-    recommendedDays: 7
+    recommendedDays: 3
   },
   "開普敦": {
     name: {
@@ -651,7 +651,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] All languages were Chinese
       TW: "吉薩金字塔、埃及博物館", EN: "Giza Pyramids, Egyptian Museum", JP: "ギザのピラミッド、エジプト博物館", KR: "기자 피라미드, 이집트 박물관", FR: "Pyramides de Gizeh, Musée égyptien", ES: "Pirámides de Guiza, Museo Egipcio", ID: "Piramida Giza, Museum Mesir", HI: "गीज़ा के पिरामिड, मिस्र का संग्रहालय", PT: "Pirâmides de Gizé, Museu Egípcio", AR: "أهرامات الجيزة، المتحف المصري", RU: "Пирамиды Гизы, Египетский музей",
     },
-    recommendedDays: 3
+    recommendedDays: 5
   },
   "札幌": {
     name: {
@@ -689,7 +689,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] All languages were Chinese
       TW: "大濠公園、太宰府天滿宮", EN: "Ohori Park, Dazaifu Tenmangu Shrine", JP: "大濠公園、太宰府天満宮", KR: "오호리 공원, 다자이후 텐만구 신사", FR: "Parc Ohori, Sanctuaire Dazaifu Tenmangu", ES: "Parque Ohori, Santuario Dazaifu Tenmangu", ID: "Taman Ohori, Kuil Dazaifu Tenmangu", HI: "ओहोरी पार्क, दाजाइफू तेनमंगू मंदिर", PT: "Parque Ohori, Santuário Dazaifu Tenmangu", AR: "حديقة أوهوري، ضريح دازايفو تينمانجو", RU: "Парк Охори, святилище Дадзайфу Тэнмангу",
     },
-    recommendedDays: 2
+    recommendedDays: 3
   },
   "箱根": {
     name: {
@@ -708,7 +708,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] All languages were Chinese
       TW: "大涌谷、蘆之湖", EN: "Owakudani, Lake Ashi", JP: "大涌谷、芦ノ湖", KR: "오와쿠다니, 아시 호수", FR: "Owakudani, Lac Ashi", ES: "Owakudani, Lago Ashi", ID: "Owakudani, Danau Ashi", HI: "ओवाकुदानी, आशी झील", PT: "Owakudani, Lago Ashi", AR: "أواكوداني، بحيرة آشي", RU: "Овакудани, озеро Аси",
     },
-    recommendedDays: 7
+    recommendedDays: 2
   },
   "沖繩": {
     name: {
@@ -727,7 +727,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] EN/JP/KR/FR were all Chinese
       TW: "首里城、美麗海水族館", EN: "Shuri Castle, Churaumi Aquarium", JP: "首里城、美ら海水族館", KR: "슈리성, 추라우미 수족관", FR: "Château Shuri, Aquarium Churaumi", ES: "Castillo Shuri, Acuario Churaumi", ID: "Kastil Shuri, Akuarium Churaumi", HI: "शुरी कैसल, चुरौमी एक्वेरियम", PT: "Castelo Shuri, Aquário Churaumi", AR: "قلعة شوري، حوض أسماك تشوراومي", RU: "Замок Сюри, Аквариум Тюрауми",
     },
-    recommendedDays: 7
+    recommendedDays: 5
   },
   "拉斯維加斯": {
     name: {
@@ -746,7 +746,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] KR/FR/ES/ID/HI/PT/AR/RU were all Chinese
       TW: "拉斯維加斯大道、大峽谷(鄰近)", EN: "Las Vegas Strip, Grand Canyon (nearby)", JP: "ラスベガス ストリップ、グランド キャニオン（近隣）", KR: "라스베이거스 스트립, 그랜드 캐니언 (인근)", FR: "Las Vegas Strip, Grand Canyon (à proximité)", ES: "Las Vegas Strip, Gran Cañón (cercano)", ID: "Las Vegas Strip, Grand Canyon (terdekat)", HI: "लास वेगास स्ट्रिप, ग्रैंड कैनियन (निकट)", PT: "Las Vegas Strip, Grand Canyon (próximo)", AR: "شريط لاس فيغاس، غراند كانيون (قريب)", RU: "Лас-Вегас Стрип, Гранд-Каньон (рядом)",
     },
-    recommendedDays: 6
+    recommendedDays: 3
   },
   "芝加哥": {
     name: {
@@ -765,7 +765,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] EN/JP were all Chinese
       TW: "雲門 (The Bean)、海軍碼頭", EN: "Cloud Gate (The Bean), Navy Pier", JP: "クラウドゲート（ザ・ビーン）、ネイビーピア", KR: "클라우드 게이트(더 빈), 네이비 피어", FR: "Cloud Gate (Le Haricot), Navy Pier", ES: "Cloud Gate (The Bean), Navy Pier", ID: "Cloud Gate (The Bean), Dermaga Angkatan Laut", HI: "क्लाउड गेट (द बीन), नेवी पियर", PT: "Cloud Gate (O Feijão), Navy Pier", AR: "بوابة السحابة (ذا فول)، الرصيف البحري", RU: "Облачные ворота (Бин), Военно-морской пирс",
     },
-    recommendedDays: 2
+    recommendedDays: 4
   },
   "邁阿密": {
     name: {
@@ -844,7 +844,7 @@ export const cityDataTranslations: Record<string, {
       // [FIX] ES/ID/HI used adjective form ("bonito"/"Bagus"/"अच्छा") instead of city name
       TW: "天使灣、尼斯老城", EN: "Bay of Angels, Nice Old Town", JP: "ベイ オブ エンジェルス、ニース旧市街", KR: "베이 오브 엔젤스, 니스 구시가지", FR: "Baie des Anges, Vieille Ville de Nice", ES: "Bahía de los Ángeles, casco antiguo de Niza", ID: "Bay of Angels, Kota Tua Nice", HI: "एन्जिल्स की खाड़ी, नीस का पुराना शहर", PT: "Baía dos Anjos, Cidade Velha de Nice", AR: "خليج الملائكة، مدينة نيس القديمة", RU: "Залив Ангелов, Старый город Ниццы",
     },
-    recommendedDays: 2
+    recommendedDays: 3
   },
   "聖托里尼": {
     name: {
@@ -875,7 +875,7 @@ export const cityDataTranslations: Record<string, {
     must_visit_spot: {
       TW: "藍湖溫泉、哈爾格林姆教堂", EN: "Blue Lagoon, Hallgrímskirkja", JP: "ブルー ラグーン、ハットルグリムス教会", KR: "블루 라군, 할그림스키르캬", FR: "Lagon Bleu, Hallgrímskirkja", ES: "Laguna Azul, Hallgrímskirkja", ID: "Laguna Biru, Hallgrímskirkja", HI: "ब्लू लैगून, हॉलग्रिम्सकिर्कजा", PT: "Lagoa Azul, Hallgrímskirkja", AR: "بلو لاجون، هالجريمسكيركجا", RU: "Голубая лагуна, Хадльгримскиркья",
     },
-    recommendedDays: 5
+    recommendedDays: 6
   },
   "峇里島(庫塔)": {
     name: {
