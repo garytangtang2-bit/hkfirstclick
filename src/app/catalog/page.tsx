@@ -6,7 +6,7 @@ import { AppProvider, useAppContext } from "@/components/AppContext";
 import { MapPin, Navigation, Search } from "lucide-react";
 import Link from "next/link";
 import { cityPhotos } from "@/data/cityPhotos";
-import { getTranslatedCityName, getCitySlug } from "@/utils/cityTranslations";
+import { getTranslatedCityName, getCitySlug, getRecommendedDays } from "@/utils/cityTranslations";
 
 export default function CatalogPage() {
     return (
@@ -67,7 +67,7 @@ function CatalogContent() {
                             </h3>
                             <div className="flex items-center gap-2 text-sm font-bold text-gray-300 group-hover:text-white transition-colors">
                                 <span className="bg-white/20 backdrop-blur-md px-3 py-1 rounded-full text-xs">
-                                    3 {t.landing_days || "Days"}
+                                    {t.itinerary_label_dynamic ? t.itinerary_label_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : `${getRecommendedDays(cityId)} ${t.landing_days || "Days"}`}
                                 </span>
                             </div>
                         </div>

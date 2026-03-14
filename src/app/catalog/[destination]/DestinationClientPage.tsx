@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { cityPhotos } from "@/data/cityPhotos";
-import { getTranslatedCityName, getTranslatedData } from "@/utils/cityTranslations";
+import { getTranslatedCityName, getTranslatedData, getRecommendedDays } from "@/utils/cityTranslations";
 import { Navigation, Sparkles, Utensils, Landmark, Calendar } from "lucide-react";
 import Link from "next/link";
 
@@ -42,7 +42,7 @@ function DestinationContent({ cityId }: Props) {
                 
                 <div className="relative z-10 max-w-4xl w-full text-center flex flex-col items-center">
                     <div className="bg-purple-500/20 text-purple-300 px-4 py-1.5 rounded-full text-xs font-bold mb-6 tracking-widest uppercase border border-purple-500/30 backdrop-blur-md">
-                        3 {t.landing_days || "Days Itinerary"}
+                        {t.itinerary_label_dynamic ? t.itinerary_label_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : `${getRecommendedDays(cityId)} ${t.landing_days || "Days Itinerary"}`}
                     </div>
                     <h1 className="text-5xl md:text-7xl font-black text-white mb-6 drop-shadow-2xl">
                         {cityName}
@@ -106,7 +106,7 @@ function DestinationContent({ cityId }: Props) {
                         <Calendar className="text-gray-500" size={28} />
                     </div>
                     <h3 className="text-2xl font-bold text-gray-300 mb-3">
-                        {t.landing_detailed_coming_soon || "Detailed 3-Day Itinerary Coming Soon"}
+                        {t.detailed_coming_soon_dynamic ? t.detailed_coming_soon_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : t.landing_detailed_coming_soon || `Detailed ${getRecommendedDays(cityId)}-Day Itinerary Coming Soon`}
                     </h3>
                     <p className="text-gray-500 text-sm max-w-md mx-auto leading-relaxed">
                         {t.landing_detailed_desc || "We are preparing a fully detailed hour-by-hour schedule for this destination. Check back later!"}
