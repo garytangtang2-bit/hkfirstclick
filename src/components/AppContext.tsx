@@ -1,7 +1,7 @@
 "use client";
 
 import { createContext, useContext, useState, useEffect, ReactNode } from "react";
-import { LANG_CODE_TO_NAME, LANG_NAME_TO_CODE } from "@/utils/langMapping";
+import { LANG_CODE_TO_NAME } from "@/utils/langMapping";
 
 import en from "../locales/en.json";
 import zh from "../locales/zh.json";
@@ -87,13 +87,8 @@ export const AppProvider = ({ children, initialLanguage }: { children: ReactNode
     const handleSetLanguage = (lang: string) => {
         setLanguage(lang);
         localStorage.setItem("hkfirstclick_lang", lang);
-
-        if (typeof window !== "undefined") {
-            const url = new URL(window.location.href);
-            const code = LANG_NAME_TO_CODE[lang] || "en";
-            url.searchParams.set("lang", code);
-            window.history.pushState({}, "", url.toString());
-        }
+        // URL updates are handled by GlobalLayout (router.push) — do NOT pushState here
+        // to avoid conflicting with catalog/destination page navigation
     };
 
     const handleSetCurrency = (curr: string) => {
