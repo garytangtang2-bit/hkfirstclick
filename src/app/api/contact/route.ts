@@ -1,8 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Resend } from "resend";
-
-const resend = new Resend(process.env.RESEND_API_KEY);
-
 // Simple in-memory rate limiter: max 3 requests per IP per 10 minutes
 const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
 const RATE_LIMIT = 3;
@@ -46,6 +43,8 @@ export async function POST(req: NextRequest) {
 
         const adminEmail = process.env.ADMIN_EMAIL;
         if (!adminEmail) throw new Error("ADMIN_EMAIL not configured.");
+
+        const resend = new Resend(process.env.RESEND_API_KEY);
 
         await resend.emails.send({
             from: "HKfirstclick Contact <onboarding@resend.dev>",
