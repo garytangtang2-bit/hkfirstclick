@@ -40,10 +40,10 @@ function CatalogGrid({ initialLang, langCode }: CatalogLangPageProps) {
       {/* SEO H1 + intro */}
       <div className="w-full max-w-3xl mx-auto mb-10 text-center">
         <h1 className="text-3xl md:text-5xl font-black text-white mb-4 heading-premium">
-          {(t.catalog_heading || 'AI Travel Itinerary — {count} Destinations').replace('{count}', String(allCities.length))}
+          {t.catalog_heading || 'AI Travel Itinerary — Curated Destinations'}
         </h1>
         <p className="text-gray-400 text-base md:text-lg leading-relaxed">
-          {(t.catalog_intro || 'Browse our AI-generated day-by-day travel guides for {count} top destinations worldwide. Each itinerary includes curated spots, practical tips, and real-time flight suggestions — tailored to your language and travel style.').replace(/{count}/g, String(allCities.length))}
+          {t.catalog_intro || 'Browse our AI-generated day-by-day travel guides for top destinations worldwide. Each itinerary includes curated spots and practical tips — tailored to your language and travel style.'}
         </p>
       </div>
 

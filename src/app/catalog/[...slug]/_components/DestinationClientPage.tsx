@@ -132,9 +132,9 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
     const klookSimUrl = klookBase + encodeURIComponent(`https://www.klook.com/${klookLang}/search/result/?query=${encodeURIComponent(cityName + ' SIM card')}&sort=most_relevant&tab_key=0&start=1`);
 
     return (
-        <div className="min-h-screen bg-[#0A0A0A] pb-24 text-white">
+        <div className="min-h-screen bg-[radial-gradient(ellipse_at_top,_#0f172a_0%,_#0a0a0a_60%)] pb-24 text-white">
             {/* Two-column layout: article | sidebar */}
-            <div className="max-w-[1120px] mx-auto px-4 pt-28 md:pt-36 flex gap-8 items-start">
+            <div className="max-w-[1120px] mx-auto px-4 pt-20 md:pt-24 flex gap-8 items-start">
 
             {/* Main Article Container */}
             <div className="flex-1 min-w-0 px-5 sm:px-8">
