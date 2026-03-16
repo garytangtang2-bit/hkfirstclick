@@ -11,7 +11,7 @@ export function Footer({ t }: { t: any }) {
                         HKfirstclick
                     </Link>
                     <p className="text-gray-500 text-sm font-medium">
-                        © {new Date().getFullYear()} All rights reserved.
+                        {t.footer_copyright?.replace("{year}", new Date().getFullYear().toString()) || `© ${new Date().getFullYear()} All rights reserved.`}
                     </p>
                     <p className="text-purple-400 text-xs font-semibold">
                         ✨ {t.footer_free_trial || "Free trial included — no credit card needed"}
