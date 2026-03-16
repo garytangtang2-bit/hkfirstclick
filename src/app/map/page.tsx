@@ -131,6 +131,7 @@ function MapContent() {
     };
 
     return (
+        <>
         <div className="h-[calc(100vh-64px)] w-full relative overflow-hidden bg-[#0A0A0A]">
 
             {/* The Actual Map Component (Full Screen Background) */}
@@ -357,5 +358,24 @@ function MapContent() {
                 )}
             </div>
         </div>
+
+        {/* SEO content - visually minimal, indexable by crawlers */}
+        <section className="sr-only" aria-label="Map page description">
+          <h1>AI Travel Map — Explore 1,000+ Cities Worldwide</h1>
+          <p>
+            HKfirstclick&apos;s interactive AI Travel Map lets you explore over 1,000 cities across Asia, Europe,
+            the Americas, the Middle East, Oceania, and Africa. Search any city to instantly see top spots,
+            must-try food, and one-click AI itinerary generation. Filter by region, browse city cards,
+            and fly to any destination on the map. Available with a Journey Pass or above.
+          </p>
+          <ul>
+            <li>Explore 1,000+ global cities on an interactive map</li>
+            <li>Search cities in 12 languages with translated city names</li>
+            <li>View must-visit spots and local food recommendations</li>
+            <li>Generate a personalized AI itinerary with one click</li>
+            <li>Filter destinations by region: Asia, Europe, Americas, Middle East, Oceania, Africa</li>
+          </ul>
+        </section>
+        </>
     );
 }

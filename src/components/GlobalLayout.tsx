@@ -6,16 +6,33 @@ import { Footer } from "@/components/Footer";
 import { createClient } from "@/utils/supabase/client";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
+import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
 
-export default function GlobalLayout({ children }: { children: React.ReactNode }) {
+export default function GlobalLayout({
+    children,
+    onLanguageChange,
+    initialLanguage,
+}: {
+    children: React.ReactNode;
+    onLanguageChange?: (langCode: string) => void;
+    initialLanguage?: string;
+}) {
     return (
-        <AppProvider>
-            <AppContentWrapper>{children}</AppContentWrapper>
+        <AppProvider initialLanguage={initialLanguage}>
+            <AppContentWrapper onLanguageChange={onLanguageChange}>
+                {children}
+            </AppContentWrapper>
         </AppProvider>
     );
 }
 
-function AppContentWrapper({ children }: { children: React.ReactNode }) {
+function AppContentWrapper({
+    children,
+    onLanguageChange,
+}: {
+    children: React.ReactNode;
+    onLanguageChange?: (langCode: string) => void;
+}) {
     const { language, setLanguage, currency, setCurrency, t } = useAppContext();
     const [user, setUser] = useState<any>(null);
     const [profile, setProfile] = useState<any>(null);
@@ -88,7 +105,57 @@ function AppContentWrapper({ children }: { children: React.ReactNode }) {
     };
 
     const navigateTo = (path: string) => {
+        // Special handling for catalog links - preserve language in URL
+        if (path === "/catalog") {
+            const langCode = LANG_NAME_TO_CODE[language] || "en";
+            router.push(`/catalog/${langCode}`);
+            return;
+        }
         router.push(path);
+    };
+
+    // Wrapper for language changes - always updates the URL
+    const handleSetLanguage = (langName: string) => {
+        setLanguage(langName);
+        const langCode = LANG_NAME_TO_CODE[langName] || "en";
+
+        // If parent page provides a custom handler (e.g. catalog), use that
+        if (onLanguageChange) {
+            onLanguageChange(langCode);
+            return;
+        }
+
+        // Otherwise, update the URL automatically based on current path
+        const currentPath = window.location.pathname;
+        const currentSearch = window.location.search;
+        const params = new URLSearchParams(currentSearch);
+
+        // /catalog/[oldLang]/... → /catalog/[newLang]/...
+        const catalogMatch = currentPath.match(/^\/catalog\/([a-z]{2})(\/.*)?$/);
+        if (catalogMatch) {
+            const rest = catalogMatch[2] || "";
+            router.push(`/catalog/${langCode}${rest}`);
+            return;
+        }
+
+        // /destinations/[slug]/[oldLang] → /destinations/[slug]/[newLang]
+        const destMatch = currentPath.match(/^\/destinations\/([^/]+)\/([a-z]{2})$/);
+        if (destMatch) {
+            router.push(`/destinations/${destMatch[1]}/${langCode}`);
+            return;
+        }
+
+        // /[oldLang]/... → /[newLang]/...
+        const langPathMatch = currentPath.match(/^\/([a-z]{2})(\/.*)?$/);
+        if (langPathMatch) {
+            const rest = langPathMatch[2] || "";
+            router.push(`/${langCode}${rest}`);
+            return;
+        }
+
+        // All other pages: add/replace ?lang= query param
+        params.set("lang", langCode);
+        router.push(`${currentPath}?${params.toString()}`);
     };
 
     return (
@@ -100,7 +167,7 @@ function AppContentWrapper({ children }: { children: React.ReactNode }) {
                 handleSignOut={handleSignOut}
                 t={t}
                 language={language}
-                setLanguage={setLanguage}
+                setLanguage={handleSetLanguage}
                 currency={currency}
                 setCurrency={setCurrency}
                 navigateTo={navigateTo}

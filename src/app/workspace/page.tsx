@@ -3,9 +3,10 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
-import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon } from "lucide-react";
+import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Coins } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
+import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
 
 export default function Workspace() {
     return (
@@ -122,13 +123,10 @@ function WorkspaceContent() {
     const [imageSources, setImageSources] = useState<Record<string, string>>({});
     const [fetchingImages, setFetchingImages] = useState<Record<string, boolean>>({});
 
-    const UNSPLASH_ACCESS_KEY = "06R1gHhtyt6f4D9Fl8qYKpMqZtVm354366roz2SjnLM";
-    const PEXELS_API_KEY = "1TJnP77SuCLaRw1Dc1fKiSzTA280VSp3UhgpEOlMdFrHly8yeb4nfgZ6";
     const DEFAULT_IMAGE = "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop";
 
     const fetchActivityImage = async (cityName: string, keyword: string, fallbackKeyword: string, activityId: string) => {
         if (activityImages[activityId] || fetchingImages[activityId]) return;
-
         setFetchingImages(prev => ({ ...prev, [activityId]: true }));
 
         const setImageData = (url: string, source: string) => {
@@ -137,64 +135,9 @@ function WorkspaceContent() {
         };
 
         try {
-            // Tier 1: Wikimedia Commons API via Wikipedia Search
-            let res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(keyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
-            let data = await res.json();
-            let pages = data.query?.pages;
-            let pageId = Object.keys(pages || {})[0];
-            let imageUrl = pages?.[pageId]?.thumbnail?.source;
-
-            if (!imageUrl && fallbackKeyword) {
-                res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(fallbackKeyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
-                data = await res.json();
-                pages = data.query?.pages;
-                pageId = Object.keys(pages || {})[0];
-                imageUrl = pages?.[pageId]?.thumbnail?.source;
-            }
-
-            // Reject maps, icons, logos, and svg to force fallbacks
-            if (imageUrl) {
-                const lowerUrl = imageUrl.toLowerCase();
-                if (
-                    lowerUrl.includes('map') ||
-                    lowerUrl.includes('locator') ||
-                    lowerUrl.includes('.svg') ||
-                    lowerUrl.includes('logo') ||
-                    lowerUrl.includes('symbol') ||
-                    lowerUrl.includes('flag')
-                ) {
-                    imageUrl = null; // Forces Unsplash fallback
-                }
-            }
-
-            if (imageUrl) {
-                setImageData(imageUrl, "Wikimedia");
-                return;
-            }
-
-            // Tier 2: Unsplash API
-            const unsplashRes = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(cityName + ' ' + keyword)}&orientation=landscape&per_page=1`, {
-                headers: { "Authorization": `Client-ID ${UNSPLASH_ACCESS_KEY}` }
-            });
-            const unsplashData = await unsplashRes.json();
-            if (unsplashData.results && unsplashData.results.length > 0) {
-                setImageData(unsplashData.results[0].urls.regular, "Unsplash");
-                return;
-            }
-
-            // Tier 3: Pexels API
-            const pexelsRes = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(cityName + ' ' + keyword)}&per_page=1`, {
-                headers: { "Authorization": PEXELS_API_KEY }
-            });
-            const pexelsData = await pexelsRes.json();
-            if (pexelsData.photos && pexelsData.photos.length > 0) {
-                setImageData(pexelsData.photos[0].src.landscape || pexelsData.photos[0].src.large, "Pexels");
-                return;
-            }
-
-            // Tier 4: Default Fallback
-            setImageData(DEFAULT_IMAGE, "Default");
-
+            const res = await fetch(`/api/activity-photo?keyword=${encodeURIComponent(keyword)}&city=${encodeURIComponent(cityName)}`);
+            const data = await res.json();
+            setImageData(data.url || DEFAULT_IMAGE, data.url ? "API" : "Default");
         } catch (e) {
             console.error("Failed to fetch image for " + keyword, e);
             setImageData(DEFAULT_IMAGE, "Default");
@@ -231,21 +174,8 @@ function WorkspaceContent() {
     ];
 
     const getPromptLanguage = (lang: string) => {
-        const map: Record<string, string> = {
-            "English": "English",
-            "繁體中文": "Traditional Chinese",
-            "日本語": "Japanese",
-            "한국어": "Korean",
-            "Français": "French",
-            "Español": "Spanish",
-            "Bahasa Indonesia": "Indonesian",
-            "हिन्दी": "Hindi",
-            "Português": "Portuguese",
-            "العربية": "Arabic",
-            "বাংলা": "Bengali",
-            "Русский": "Russian",
-        };
-        return map[lang] || "English";
+        // Return BCP-47 language code to match backend nativeLanguagePrompts keys
+        return LANG_NAME_TO_CODE[lang] || "en";
     };
 
     useEffect(() => {
@@ -826,19 +756,44 @@ function WorkspaceContent() {
                                             >
                                                 {t.ws_next_step || "Next Step"} <ArrowRight size={18} className="ml-2" />
                                             </button>
-                                        ) : (
-                                            <button
-                                                onClick={handleGenerate}
-                                                disabled={loading}
-                                                className="w-2/3 py-4 rounded-xl font-bold bg-[#EEDC00] text-black hover:bg-[#ffe800] transition-colors flex items-center justify-center gap-2 shadow-[0_0_20px_rgba(238,220,0,0.3)] disabled:opacity-50"
-                                            >
-                                                {loading ? (
-                                                    <><Loader2 size={18} className="animate-spin" /> {t.gen_title}</>
-                                                ) : (
-                                                    <><CheckCircle2 size={18} /> {t.btn_start_gen}</>
-                                                )}
-                                            </button>
-                                        )}
+                                        ) : (() => {
+                                            const calculateDeductCredits = (start: string, end: string) => {
+                                                if (!start || !end) return 5;
+                                                try {
+                                                    const startDate = new Date(start);
+                                                    const endDate = new Date(end);
+                                                    const tripDays = Math.ceil((endDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24)) + 1;
+                                                    if (tripDays <= 10) return 5;
+                                                    return 5 + Math.max(0, tripDays - 10);
+                                                } catch {
+                                                    return 5;
+                                                }
+                                            };
+                                            const points = calculateDeductCredits(dates.start, dates.end);
+                                            return (
+                                                <button
+                                                    onClick={handleGenerate}
+                                                    disabled={loading}
+                                                    className="w-2/3 py-4 rounded-xl font-bold bg-[#EEDC00] text-black hover:bg-[#ffe800] transition-colors flex items-center justify-center gap-2 shadow-[0_0_20px_rgba(238,220,0,0.3)] disabled:opacity-50"
+                                                >
+                                                    {loading ? (
+                                                        <><Loader2 size={18} className="animate-spin" /> {t.gen_title}</>
+                                                    ) : (
+                                                        <div className="flex flex-col items-center gap-0.5 py-1">
+                                                            <span className="flex items-center gap-2 text-sm md:text-base font-black tracking-tight leading-tight">
+                                                                <CheckCircle2 size={18} className="shrink-0" /> {t.btn_start_gen}
+                                                            </span>
+                                                            <div className="flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-black/10 border border-black/5 shadow-inner">
+                                                                <Coins size={12} className="text-black/60" />
+                                                                <span className="text-[10px] font-bold uppercase tracking-[0.1em] text-black/70">
+                                                                    {t.ws_credit_deduction?.replace('{points}', points.toString())}
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    )}
+                                                </button>
+                                            );
+                                        })()}
                                     </div>
 
                                     {error && <p className="text-red-400 text-sm mt-4 text-center font-medium bg-red-500/10 py-2 rounded-lg">{error}</p>}

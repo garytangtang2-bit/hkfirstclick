@@ -8,8 +8,9 @@ export async function GET(req: Request) {
         const id = searchParams.get('id');
 
         if (id) {
-            // Fetch single itinerary by ID (Public Share Link enabled via unguessable UUID)
-            // Use service role key to bypass RLS for public share links
+            // Check if the requesting user owns this itinerary first
+            const { data: { user } } = await supabase.auth.getUser();
+
             const { createClient: createSupabaseClient } = await import('@supabase/supabase-js');
             const serviceClient = createSupabaseClient(
                 process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -22,6 +23,16 @@ export async function GET(req: Request) {
                 .single();
 
             if (error) throw error;
+            if (!data) return NextResponse.json({ error: "Not found" }, { status: 404 });
+
+            // Allow access only if: user owns it, OR it is marked as public
+            const isOwner = user && data.user_id === user.id;
+            const isPublic = data.is_public === true;
+
+            if (!isOwner && !isPublic) {
+                return NextResponse.json({ error: "Unauthorized" }, { status: 403 });
+            }
+
             return NextResponse.json({ itinerary: data });
         } else {
             // Fetch all itineraries for user dashboard (STRICT AUTHENTICATION REQUIRED)

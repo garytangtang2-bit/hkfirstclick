@@ -13,16 +13,25 @@ export function Footer({ t }: { t: any }) {
                     <p className="text-gray-500 text-sm font-medium">
                         © {new Date().getFullYear()} All rights reserved.
                     </p>
+                    <p className="text-purple-400 text-xs font-semibold">
+                        ✨ {t.footer_free_trial || "Free trial included — no credit card needed"}
+                    </p>
                 </div>
 
                 <div className="flex flex-wrap justify-center gap-8 text-sm font-bold uppercase tracking-widest">
+                    <Link href="/about" className="text-gray-400 hover:text-[#EEDC00] transition-colors">
+                        {t.footer_about || "About"}
+                    </Link>
                     <Link href="/privacy" className="text-gray-400 hover:text-[#EEDC00] transition-colors">
                         {t.footer_privacy}
+                    </Link>
+                    <Link href="/terms" className="text-gray-400 hover:text-[#EEDC00] transition-colors">
+                        {t.footer_terms}
                     </Link>
                     <Link href="/pricing" className="text-gray-400 hover:text-[#EEDC00] transition-colors">
                         {t.nav_pricing}
                     </Link>
-                    <Link href="mailto:garytangtang2@gmail.com" className="text-gray-400 hover:text-[#EEDC00] transition-colors">
+                    <Link href="/contact" className="text-gray-400 hover:text-[#EEDC00] transition-colors">
                         {t.footer_contact}
                     </Link>
                 </div>

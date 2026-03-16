@@ -17,13 +17,11 @@ export default async function AdminDashboard() {
     const supabaseAuth = await createServerClient();
     const { data: { user } } = await supabaseAuth.auth.getUser();
 
-    // Replace with your actual admin email
-    const ADMIN_EMAIL = "gary@example.com";
+    const ADMIN_EMAIL = process.env.ADMIN_EMAIL;
 
-    // If you want strictly secure testing, uncomment below lines
-    // if (!user || user.email !== ADMIN_EMAIL) {
-    //   redirect("/"); 
-    // }
+    if (!user || !ADMIN_EMAIL || user.email !== ADMIN_EMAIL) {
+        redirect("/");
+    }
 
     // 2. Fetch Metrics using Admin Key
     const { count: totalUsers } = await supabaseAdmin

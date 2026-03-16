@@ -11,12 +11,14 @@ import Link from "next/link";
 import { useState } from "react";
 
 const NavItem = ({ label, hasDropdown = false, onClick }: any) => (
-    <div
-        onClick={onClick}
-        className="flex items-center gap-1 text-sm font-medium text-white hover:text-[#EEDC00] cursor-pointer transition-colors whitespace-nowrap"
-    >
-        {label} {hasDropdown && <ChevronDown size={14} className="text-gray-400" />}
-    </div>
+    <li>
+        <div
+            onClick={onClick}
+            className="flex items-center gap-1 text-sm font-medium text-white hover:text-[#EEDC00] cursor-pointer transition-colors whitespace-nowrap"
+        >
+            {label} {hasDropdown && <ChevronDown size={14} className="text-gray-400" />}
+        </div>
+    </li>
 );
 
 const TopbarSelect = ({ value, onChange, options }: any) => {
@@ -81,12 +83,12 @@ export function Navbar({
                     >
                         HKfirstclick
                     </Link>
-                    <div className="hidden lg:flex items-center gap-6">
+                    <ul className="hidden lg:flex items-center gap-6">
                         <NavItem label={t.nav_itinerary} onClick={() => navigateTo("/workspace")} />
                         <NavItem label={t.nav_my_trips} onClick={() => navigateTo("/my-trips")} />
                         <NavItem label={t.nav_map} onClick={() => navigateTo("/map")} />
                         <NavItem label={t.nav_catalog} onClick={() => navigateTo("/catalog")} />
-                    </div>
+                    </ul>
                 </div>
 
                 <div className="flex items-center gap-6">
@@ -148,7 +150,7 @@ export function Navbar({
                                             <span className="text-xs font-black text-[#EEDC00]">
                                                 {credits}
                                             </span>
-                                            <span className="text-[9px] text-gray-400 font-medium">CREDITS</span>
+                                            <span className="text-[9px] text-gray-400 font-medium">{t.credits_label || "CREDITS"}</span>
                                         </>
                                     ) : (
                                         <Loader2 size={10} className="animate-spin text-[#EEDC00]" />
@@ -220,6 +222,49 @@ export function Navbar({
                         >
                             {t.nav_login}
                         </span>
+
+                        <div className="pt-4 border-t border-white/10 flex flex-col gap-4">
+                            <div className="flex items-center justify-between">
+                                <span className="text-gray-400 text-sm font-medium">Language</span>
+                                <TopbarSelect
+                                    value={language}
+                                    onChange={setLanguage}
+                                    options={[
+                                        { label: "English", value: "English", flagCode: "us", display: "EN" },
+                                        { label: "繁體中文", value: "繁體中文", flagCode: "tw", display: "TW" },
+                                        { label: "日本語", value: "日本語", flagCode: "jp", display: "JP" },
+                                        { label: "한국어", value: "한국어", flagCode: "kr", display: "KR" },
+                                        { label: "Français", value: "Français", flagCode: "fr", display: "FR" },
+                                        { label: "Español", value: "Español", flagCode: "es", display: "ES" },
+                                        { label: "Bahasa Indonesia", value: "Bahasa Indonesia", flagCode: "id", display: "ID" },
+                                        { label: "हिन्दी", value: "हिन्दी", flagCode: "in", display: "IN" },
+                                        { label: "Português", value: "Português", flagCode: "pt", display: "PT" },
+                                        { label: "العربية", value: "العربية", flagCode: "sa", display: "SA" },
+                                        { label: "বাংলা", value: "বাংলা", flagCode: "bd", display: "BD" },
+                                        { label: "Русский", value: "Русский", flagCode: "ru", display: "RU" },
+                                    ]}
+                                />
+                            </div>
+                            <div className="flex items-center justify-between">
+                                <span className="text-gray-400 text-sm font-medium">Currency</span>
+                                <TopbarSelect
+                                    value={currency}
+                                    onChange={setCurrency}
+                                    options={[
+                                        { label: "USD ($)", value: "USD", flagCode: "us", display: "USD" },
+                                        { label: "HKD ($)", value: "HKD", flagCode: "hk", display: "HKD" },
+                                        { label: "TWD (NT$)", value: "TWD", flagCode: "tw", display: "TWD" },
+                                        { label: "JPY (¥)", value: "JPY", flagCode: "jp", display: "JPY" },
+                                        { label: "EUR (€)", value: "EUR", flagCode: "eu", display: "EUR" },
+                                        { label: "KRW (₩)", value: "KRW", flagCode: "kr", display: "KRW" },
+                                        { label: "GBP (£)", value: "GBP", flagCode: "gb", display: "GBP" },
+                                        { label: "AUD ($)", value: "AUD", flagCode: "au", display: "AUD" },
+                                        { label: "CAD ($)", value: "CAD", flagCode: "ca", display: "CAD" },
+                                        { label: "SGD ($)", value: "SGD", flagCode: "sg", display: "SGD" },
+                                    ]}
+                                />
+                            </div>
+                        </div>
                     </div>
                 </div>
             )}

@@ -1,6 +1,7 @@
 "use client";
 
 import { createContext, useContext, useState, useEffect, ReactNode } from "react";
+import { LANG_CODE_TO_NAME, LANG_NAME_TO_CODE } from "@/utils/langMapping";
 
 import en from "../locales/en.json";
 import zh from "../locales/zh.json";
@@ -32,37 +33,46 @@ export const locales: Record<string, any> = {
 
 const AppContext = createContext<any>(null);
 
-export const AppProvider = ({ children }: { children: ReactNode }) => {
-    const [language, setLanguage] = useState("English");
+export const AppProvider = ({ children, initialLanguage }: { children: ReactNode; initialLanguage?: string }) => {
+    const [language, setLanguage] = useState(initialLanguage || "English");
     const [currency, setCurrency] = useState("USD");
     const [mounted, setMounted] = useState(false);
 
     useEffect(() => {
-        let targetLang = "English";
+        let targetLang = initialLanguage || "English";
         if (typeof window !== "undefined") {
-            const browserLang = navigator.language.toLowerCase();
-            if (browserLang.includes("zh")) targetLang = "繁體中文";
-            else if (browserLang.includes("ja")) targetLang = "日本語";
-            else if (browserLang.includes("ko")) targetLang = "한국어";
-            else if (browserLang.includes("fr")) targetLang = "Français";
-            else if (browserLang.includes("es")) targetLang = "Español";
-            else if (browserLang.includes("id")) targetLang = "Bahasa Indonesia";
-            else if (browserLang.includes("hi")) targetLang = "हिन्दी";
-            else if (browserLang.includes("pt")) targetLang = "Português";
-            else if (browserLang.includes("ar")) targetLang = "العربية";
-            else if (browserLang.includes("bn")) targetLang = "বাংলা";
-            else if (browserLang.includes("ru")) targetLang = "Русский";
+            if (!initialLanguage) {
+                // No URL-specified language: use browser/localStorage detection
+                const browserLang = navigator.language.toLowerCase();
+                if (browserLang.includes("zh")) targetLang = "繁體中文";
+                else if (browserLang.includes("ja")) targetLang = "日本語";
+                else if (browserLang.includes("ko")) targetLang = "한국어";
+                else if (browserLang.includes("fr")) targetLang = "Français";
+                else if (browserLang.includes("es")) targetLang = "Español";
+                else if (browserLang.includes("id")) targetLang = "Bahasa Indonesia";
+                else if (browserLang.includes("hi")) targetLang = "हिन्दी";
+                else if (browserLang.includes("pt")) targetLang = "Português";
+                else if (browserLang.includes("ar")) targetLang = "العربية";
+                else if (browserLang.includes("bn")) targetLang = "বাংলা";
+                else if (browserLang.includes("ru")) targetLang = "Русский";
 
-            const savedLang = localStorage.getItem("hkfirstclick_lang");
-            if (savedLang && locales[savedLang]) {
-                targetLang = savedLang;
+                const savedLang = localStorage.getItem("hkfirstclick_lang");
+                if (savedLang && locales[savedLang]) {
+                    targetLang = savedLang;
+                }
             }
+            // initialLanguage (from URL) always wins — do NOT let localStorage override it
 
-            // URL ?lang= param has highest priority (used by shared links)
+            // URL ?lang= param has highest priority (supports both "en" code and "English" name)
             const urlParams = new URLSearchParams(window.location.search);
             const urlLang = urlParams.get("lang");
-            if (urlLang && locales[decodeURIComponent(urlLang)]) {
-                targetLang = decodeURIComponent(urlLang);
+            if (urlLang) {
+                const decoded = decodeURIComponent(urlLang);
+                if (locales[decoded]) {
+                    targetLang = decoded; // full name e.g. "English"
+                } else if (LANG_CODE_TO_NAME[decoded] && locales[LANG_CODE_TO_NAME[decoded]]) {
+                    targetLang = LANG_CODE_TO_NAME[decoded]; // code e.g. "en" → "English"
+                }
             }
 
             const savedCurrency = localStorage.getItem("hkfirstclick_currency");
@@ -72,11 +82,18 @@ export const AppProvider = ({ children }: { children: ReactNode }) => {
         }
         setLanguage(targetLang);
         setMounted(true);
-    }, []);
+    }, [initialLanguage]);
 
     const handleSetLanguage = (lang: string) => {
         setLanguage(lang);
         localStorage.setItem("hkfirstclick_lang", lang);
+
+        if (typeof window !== "undefined") {
+            const url = new URL(window.location.href);
+            const code = LANG_NAME_TO_CODE[lang] || "en";
+            url.searchParams.set("lang", code);
+            window.history.pushState({}, "", url.toString());
+        }
     };
 
     const handleSetCurrency = (curr: string) => {

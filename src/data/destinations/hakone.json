@@ -1,0 +1,812 @@
+{
+  "seo_meta": {
+    "title": "2026 Hakone 2-Day Itinerary — Mt Fuji Views, Onsen & Ryokan Stay",
+    "description": "第一次去 箱根 怎麼玩？這篇超完整的 2 天 箱根 自由行攻略，帶你一次逛完必去景點、品嚐在地美食與泡湯體驗，讓你輕鬆玩轉箱根！"
+  },
+  "hero_section": {
+    "hook_intro": "準備好迎接一場療癒身心的溫泉之旅了嗎？箱根，作為東京近郊最耀眼的寶石，完美結合了壯麗的富士山景、古老的溫泉文化與充滿趣味的交通工具體驗！這趟兩天一夜的箱根深度行，我們將利用經典的箱根周遊券，帶你從浪漫的蘆之湖畔，一路玩到熱鬧的強羅小鎮，感受四季變幻的極致美景。",
+    "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+  },
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "day_title": "Day 1：箱根經典環線與蘆之湖畔風光",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "箱根湯本站與商店街",
+          "image_search_keyword": "Hakone Yumoto Station shopping street",
+          "rich_description": "從東京新宿搭乘小田急浪漫特快抵達箱根湯本，這裡是旅程的起點！漫步在充滿懷舊風情的商店街，一定要試試現炸的魚板與溫泉饅頭，空氣中瀰漫著濃濃的溫泉鄉氣息，絕對能瞬間點燃你的度假心情！",
+          "practical_tip": "💡 達人小提示：記得先在車站辦理行李寄送服務，輕鬆空手遊箱根！"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "蘆之湖與海盜船",
+          "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+          "rich_description": "搭乘箱根登山電車與纜車來到蘆之湖，搭乘復古海盜船巡遊湖面，運氣好的話，還能捕捉到富士山在湖面上的絕美倒影。站在船頭吹著微風，這就是人生最愜意的時刻呀！",
+          "practical_tip": "💡 達人小提示：建議坐在海盜船的戶外甲板區，視野最廣，拍照最無死角。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "箱根神社與鳥居",
+          "image_search_keyword": "Hakone Shrine floating torii gate",
+          "rich_description": "傍晚時分，走訪靜謐的箱根神社，那座矗立在水中的紅色「平和之鳥居」是網紅打卡聖地。夕陽餘暉灑在湖面上，靜謐的氛圍讓人心靈瞬間平靜，是這趟旅程中最神聖的體驗。",
+          "practical_tip": "💡 達人小提示：鳥居拍照排隊人潮多，建議提早前往或避開週末尖峰時段。"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "Day 2：大涌谷火山奇景與強羅藝術漫遊",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "大涌谷火山地貌",
+          "image_search_keyword": "Owakudani volcanic valley",
+          "rich_description": "搭乘箱根空中纜車直達大涌谷，親眼見證火山噴發的壯觀景象！這裡最著名的就是「黑蛋」，傳說吃一顆能增壽七年，口感Q彈又有淡淡的硫磺香，絕對是箱根必吃的標配美食！",
+          "practical_tip": "💡 達人小提示：纜車若因火山氣體濃度過高停駛，請隨時關注官網動態。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "強羅公園與雕刻之森美術館",
+          "image_search_keyword": "Hakone Open-Air Museum",
+          "rich_description": "來到強羅，感受法式庭園的優雅，再前往雕刻之森美術館，欣賞戶外裝置藝術與壯麗山景的完美結合。這裡的空間設計感十足，不論是情侶或親子遊，都能在這裡找到無限趣味。",
+          "practical_tip": "💡 達人小提示：美術館內有免費的足湯，逛累了記得帶條小毛巾去泡泡腳。",
+          "needsTicket": true,
+          "klookQuery": "Hakone Open-Air Museum"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "強羅溫泉旅館一泊二食",
+          "image_search_keyword": "Hakone Gora Onsen Ryokan",
+          "rich_description": "結束充實的行程，入住強羅的溫泉旅館。享受頂級的懷石料理與暖呼呼的溫泉，讓身體徹底放鬆。在滿天星斗下泡著湯，為這次箱根之旅畫下最完美的句點。",
+          "practical_tip": "💡 達人小提示：選擇含晚餐的方案，能讓你免去晚餐尋找餐廳的奔波，享受真正的慢活。"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "en": {
+      "seo_meta": {
+        "title": "[2026 Hakone Free Travel] Ultimate 2-Day Itinerary Planning Guide! Attractions, Transportation & Must-Try Foods",
+        "description": "How to explore Hakone for the first time? This comprehensive 2-day Hakone free travel guide will take you through must-visit attractions, local delicacies, and hot spring experiences, making your time in Hakone effortless and enjoyable!"
+      },
+      "hero_section": {
+        "hook_intro": "Are you ready to embark on a healing journey to the hot springs? Hakone, shining as the brightest gem near Tokyo, perfectly combines the majestic views of Mt. Fuji, ancient hot spring culture, and delightful transportation experiences! On this two-day, one-night immersive Hakone adventure, we'll utilize the classic Hakone Free Pass to take you from the romantic shores of Lake Ashi to the bustling town of Gora, experiencing the ultimate beauty of the changing seasons.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: Classic Hakone Loop and scenic Lake Ashi",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Hakone Yumoto Station and Shopping Street",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "Ride the Odakyu Romancecar from Shinjuku in Tokyo to Hakone Yumoto, the starting point of your journey! Stroll through the nostalgic shopping street and be sure to try the freshly fried fish cakes and hot spring buns. The air is filled with a strong aroma of hot springs, sure to ignite your vacation spirit instantly!",
+              "practical_tip": "💡 Insider Tip: Don't forget to use the luggage delivery service at the station, making your trip in Hakone easy and hands-free!"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Lake Ashi and Pirate Ship",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "Take the Hakone Mountain Railway and cable car to Lake Ashi, where you can enjoy a cruise on the vintage pirate ship. If you're lucky, you might capture a stunning reflection of Mt. Fuji on the lake's surface. Standing at the bow, with the breeze in your hair, this is one of life's most blissful moments!",
+              "practical_tip": "💡 Insider Tip: It's recommended to sit in the outdoor deck area of the pirate ship for the best views and photo opportunities."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Hakone Shrine and Torii Gate",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "In the evening, visit the serene Hakone Shrine, home to the iconic red 'Peace Torii' standing in the water, a popular photo spot. The sunset shines on the lake's surface, and the tranquil atmosphere brings instant peace to your soul, making it the most sacred experience of your journey.",
+              "practical_tip": "💡 Insider Tip: There can be long queues for photos at the torii gate, so it's best to go early or avoid peak times on weekends."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: Owakudani Volcano Wonders and Gora Art Stroll",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Owakudani Volcanic Landscape",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "Take the Hakone Ropeway directly to Owakudani and witness the spectacular sights of volcanic eruptions! The most famous local delicacy here is the 'black egg,' which is said to add seven years to your life. It's chewy with a subtle hint of sulfur, definitely a must-try food in Hakone!",
+              "practical_tip": "💡 Insider Tip: Keep an eye on the official website for updates in case the ropeway stops due to high volcanic gas levels."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Gora Park and Hakone Open-Air Museum",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "Arriving in Gora, enjoy the elegance of the French-style gardens, then head to the Hakone Open-Air Museum to admire the perfect blend of outdoor sculptures and stunning mountain views. The spatial design here is impressive, making it a delightful spot for couples and families alike.",
+              "practical_tip": "💡 Insider Tip: The museum has free foot baths, so remember to bring a small towel to soak your feet after exploring!",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Gora Onsen Ryokan with Dinner and Breakfast",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "After an enriching day, check into a hot spring ryokan in Gora. Indulge in a top-notch kaiseki meal and warm, soothing hot springs, allowing your body to fully relax. Soaking under a sky full of stars provides the perfect conclusion to your Hakone adventure.",
+              "practical_tip": "💡 Insider Tip: Opt for a plan that includes dinner, so you can skip the hassle of searching for a restaurant and truly enjoy a slow-paced experience."
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "seo_meta": {
+        "title": "【2026年 箱根 一人旅】完全攻略！2日間モデルコース・観光スポット＆グルメガイド",
+        "description": "初めて箱根に行くのはどう楽しむ？この超完全な2日間の箱根自由行攻略を通じて、必見の観光スポットを巡り、地元の美食や温泉体験を味わい、箱根を気軽に楽しむことができます！"
+      },
+      "hero_section": {
+        "hook_intro": "心と体を癒す温泉旅行の準備はできていますか？箱根は東京の近郊にある最も輝く宝石で、壮麗な富士山の景色、古い温泉文化、そしてユニークな交通機関の体験が完璧に融合しています！この2日間の箱根深掘りの旅では、クラシックな箱根周遊券を利用して、ロマンティックな芦ノ湖の湖畔から賑やかな強羅の町まで、四季の変化を感じながら素晴らしい景色を楽しみましょう。",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "1日目：箱根クラシック環状線と芦ノ湖の風景",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "Hakone Yumoto駅と商店街",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "東京の新宿から小田急ロマンスカーでHakone Yumotoに到着します。ここが旅の出発点です！懐かしい雰囲気の商店街を散策し、揚げたての練り物や温泉まんじゅうをぜひお試しください。空気には香り高い温泉町の香りが漂い、あなたのバカンス気分をすぐに盛り上げてくれることでしょう！",
+              "practical_tip": "💡 達人からの小さなアドバイス：駅での荷物預かりサービスを利用して、手ぶらでHakoneを楽しみましょう！"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "芦ノ湖と海賊船",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "箱根登山鉄道とロープウェイを利用して芦ノ湖に到着後、レトロな海賊船に乗り、湖面をクルーズします。運が良ければ、湖面に映る富士山の美しい倒影を捉えることができます。船首に立って風を感じる、この瞬間が人生で最高に心地よい時です！",
+              "practical_tip": "💡 達人小提示：海賊船の屋外デッキに座ることをお勧めします。視野が広く、写真も素晴らしい角度で撮れます。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "Hakone Jinjaと鳥居",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "夕方、静かなHakone Jinjaを訪れます。水の中にそびえる赤い「平和の鳥居」は人気のインスタスポットです。夕陽が湖面に差し込み、静謐な雰囲気は心を一瞬で落ち着ける、旅の中で最も神聖な体験です。",
+              "practical_tip": "💡 達人小提示：鳥居での写真撮影は行列ができることが多いので、早めに訪れるか、週末のピーク時を避けることをお勧めします。"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "2日目：大涌谷の火山の驚異と強羅のアート探訪",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "大涌谷の火山地貌",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "箱根ロープウェイに乗って大涌谷に直行し、火山噴火の壮観を目の当たりにしましょう！ここで最も有名なのは「黒卵」伝説で、1個食べると寿命が7年延びると言われています。弾力のある食感とわずかな硫黄の香り、絶対に箱根での必食アイテムです！",
+              "practical_tip": "💡 達人小提示：ロープウェイが火山ガス濃度の高まりで運行停止する場合があるので、公式サイトの情報を常にチェックしてください。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "強羅公園と彫刻の森美術館",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "強羅に到着し、フランス式庭園の優雅さを感じた後、彫刻の森美術館へ進み、屋外にあるインスタレーションアートと壮観な山の景色の完璧な組み合わせを鑑賞しましょう。ここは空間デザインが際立っており、カップルや家族連れが無限の楽しみを見つけることができます。",
+              "practical_tip": "💡 達人小提示：美術館内には無料の足湯があるので、歩き疲れたら小さなタオルを持参してください。",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "強羅温泉旅館一泊二食",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "充実した行程を終え、強羅の温泉旅館に宿泊します。最高級の懐石料理と暖かい温泉を楽しみ、身体を完全にリラックスさせましょう。星空の下で温泉に浸かり、箱根の旅に完璧な締めくくりをしましょう。",
+              "practical_tip": "💡 達人小提示：夕食込みのプランを選ぶと、レストランを探し回る必要がなく、真のスローペースを楽しむことができます。"
+            }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "seo_meta": {
+        "title": "【2026 하코네 자유여행】최강 2일 일정 계획 원포인트 가이드! 관광지 교통 & 필수 먹거리 완벽 가이드",
+        "description": "하코네는 처음인데 어떻게 놀아야 할까요? 이 완벽한 2일 하코네 자유여행 가이드에서는 꼭 가봐야 할 관광지, 지역 음식 맛보기, 온천 체험까지 한 번에 즐길 수 있도록 안내합니다. 하코네를 쉽게 즐겨보세요!"
+      },
+      "hero_section": {
+        "hook_intro": "온몸과 마음을 치유하는 온천 여행을 맞이할 준비가 되셨나요? 하코네는 도쿄 근교에서 가장 빛나는 보석으로, 장엄한 후지산 풍경과 고대 온천 문화, 재미있는 교통수단 체험이 완벽하게 어우러져 있습니다! 이 2일 반의 하코네 깊이 여행에서는 클래식한 하코네 패스를 이용해, 낭만적인 아시노코 호수 주변에서부터 분주한 고라 마을까지 사계절 변화를 느끼며 극상의 아름다움을 경험할 것입니다.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "첫째 날: 하코네 클래식 순환선과 아시노코 호수의 풍광",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "하코네 유모토역과 상점가",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "도쿄 신주쿠에서 오다큐 로맨틱 급행을 타고 하코네 유모토에 도착하면 여행의 시작입니다! 향수가 가득한 상점가를 거닐며, 갓 튀긴 어판과 온천 만두를 꼭 맛보세요. 공기 중에 진한 온천 마을의 향기가 가득해, 당신의 휴가 기분을 즉시 깨워줄 것입니다!",
+              "practical_tip": "💡 전문가 노하우: 미리 역에서 짐 송부 서비스를 신청하고, 가벼운 손으로 하코네를 즐기세요!"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "아시노코 호수와 해적선",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "하코네 등산 철도와 케이블카를 타고 아시노코 호수에 도착하세요. 복고풍의 해적선을 타고 호수를巡遊하며, 운이 좋으면 호수 위에 비친 후지산의 절경을 포착할 수 있습니다. 배의 선두에서 바람을 맞으며, 이것이 인생에서 가장 쾌적한 순간입니다!",
+              "practical_tip": "💡 전문가 노하우: 해적선의 야외 갑판 구역에 앉는 것을 추천합니다. 시야가 가장 넓고 사진을 찍기에 완벽한 곳입니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "하코네 신사와 토리이",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "저녁이 되면 조용한 하코네 신사를 방문하세요. 수중에 우뚝 서 있는 빨간색 '평화의 토리이'는 인기 있는 사진 촬영 명소입니다. 석양이 호수 위에 내리쬐고, 고요한 분위기가 마음을 즉시 평온하게 해주는, 이 여행에서 가장 신성한 경험이 될 것입니다.",
+              "practical_tip": "💡 전문가 노하우: 토리이 사진 촬영 시 대기 인파가 많으니, 미리 가거나 주말 혼잡 시간을 피하는 것이 좋습니다."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "둘째 날: 다오타카 화산 경치와 고라 예술 탐방",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "다오타카 화산 지형",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "하코네 공중 케이블카를 타고 다오타카에 도착해, 화산 분출의 장관을 직접 체험해보세요! 이곳의 가장 유명한 '검은 알'은, 하나를 먹으면 수명을 7년 늘린다는 전설이 있습니다. 식감이 쫄깃하고 은은한 유황 향이 풍미를 더해주며, 하코네에서 꼭 먹어봐야 할 필수 미식입니다!",
+              "practical_tip": "💡 전문가 노하우: 화산가스 농도가 높아 케이블카가 운행 중단될 경우, 공식 웹사이트의 정보를 꼭 확인하세요."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "고라 공원과 조각의 숲 미술관",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "고라에 도착하여 프랑스 정원의 우아함을 느낀 후, 조각의 숲 미술관으로 가서 야외 설치 미술과 장엄한 산경치의 완벽한 조화를 감상하세요. 이곳의 공간 디자인감은 뛰어나, 연인이나 가족 여행자 모두에게 무한한 재미를 선사할 수 있습니다.",
+              "practical_tip": "💡 전문가 노하우: 미술관 내부에는 무료 족탕이 있으니, 구경하다가 피곤하면 작은 수건을 가져가서 발을 담그세요."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "고라 온천 여관의 1박 2식",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "충실한 일정을 마치고 고라의 온천 여관에 체크인합니다. 최고의 가이세키 요리와 따뜻한 온천을 즐기며 몸을 완전히 이완하세요. 만천의 별빛 아래에서 온천에 몸을 담그며 이번 하코네 여행의 가장 완벽한 마무리를 짓습니다.🌟",
+              "practical_tip": "💡 전문가 노하우: 저녁 식사가 포함된 패키지를 선택하면 저녁 식사를 위한 레스토랑 찾는 번거로움을 피하고 진정한 느림의 삶을 즐길 수 있습니다."
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "seo_meta": {
+        "title": "【2026 Hakone Voyage libre】Le meilleur forfait de planification d'itinéraire de 2 jours ! Guide complet des attractions, transports et plats incontournables",
+        "description": "Comment profiter de votre première visite à Hakone ? Cet article vous offre un guide complet de 2 jours à Hakone, vous permettant de découvrir toutes les attractions incontournables, de goûter la cuisine locale et d'expérimenter les sources chaudes, pour profiter pleinement de Hakone !"
+      },
+      "hero_section": {
+        "hook_intro": "Êtes-vous prêt à vous lancer dans un voyage de détente et de bien-être aux sources chaudes ? Hakone, en tant que pierre précieuse scintillante à proximité de Tokyo, allie à merveille les paysages majestueux du Mont Fuji, la culture ancienne des sources chaudes et des expériences de transport fascinantes ! Au cours de ce voyage de deux jours et une nuit à Hakone, nous utiliserons le célèbre Hakone Free Pass pour vous emmener du romantique lac Ashi jusqu'à la vibrante ville de Gora, en profitant des paysages enchanteurs qui changent avec les saisons.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Jour 1 : L'itinéraire classique de Hakone et les paysages autour du lac Ashi",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Gare de Hakone-Yumoto et rue commerçante",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "Prenez le Romancecar d'Odakyu depuis Shinjuku à Tokyo pour arriver à Hakone-Yumoto, le point de départ de votre voyage ! Flânez dans la rue commerçante chargée de nostalgie et n'oubliez pas d'essayer les boulettes de poisson frites et les manju aux sources chaudes, l'air est imprégné de l'atmosphère des villes thermales, vous serez instantanément plongé dans l'esprit des vacances !",
+              "practical_tip": "💡 Astuce pratique : Pensez à utiliser le service de consigne à bagages à la gare pour profiter de Hakone les mains libres !"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Lac Ashi et bateau pirate",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "Prenez le train de montagne de Hakone et le téléphérique pour rejoindre le lac Ashi, puis faites une croisière sur le lac à bord d'un bateau pirate vintage. Si vous avez de la chance, vous pourrez capturer le magnifique reflet du Mont Fuji sur l'eau. Debout à la proue du bateau, profitant de la brise, c'est l'un des moments les plus agréables de la vie !",
+              "practical_tip": "💡 Astuce pratique : Il est conseillé de s'asseoir sur le pont extérieur du bateau pirate pour avoir une vue dégagée et des photos sans angles morts."
+            },
+            {
+              "time_slot": "Soirée",
+              "spot_name": "Sanctuaire de Hakone et torii",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "En soirée, visitez le paisible sanctuaire de Hakone, où se trouve le célèbre torii rouge 'Torii de la paix' qui est un lieu de rendez-vous incontournable pour les influenceurs. La lumière dorée du coucher de soleil reflète sur le lac, créant une atmosphère tranquille qui apaise instantanément l'esprit, c'est la plus sacrée des expériences de ce voyage.",
+              "practical_tip": "💡 Astuce pratique : Étant donné qu'il y a souvent une file d'attente pour prendre des photos devant le torii, il est conseillé d'y aller tôt ou d'éviter les heures de pointe pendant le week-end."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Jour 2 : Les merveilles volcaniques de Owakudani et balade artistique à Gora",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Formation volcanique de Owakudani",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "Prenez le téléphérique de Hakone directement à Owakudani et soyez témoin de la spectaculaire éruption volcanique ! Ce qui est le plus célèbre ici, ce sont les 'oeufs noirs', dont la légende prétend que manger un œuf prolonge la vie de sept ans. Ils sont à la fois moelleux et dégagent une légère odeur de soufre, un incontournable de la cuisine de Hakone !",
+              "practical_tip": "💡 Astuce pratique : Si le téléphérique s'arrête en raison d'une concentration trop élevée de gaz volcaniques, restez attentif aux mises à jour sur le site officiel."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Parc Gora et Musée de la forêt de sculptures",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "À Gora, savourez l'élégance d'un jardin à la française, puis dirigez-vous vers le Musée de la forêt de sculptures, où vous pourrez admirer une parfaite harmonie entre l'art des installations en plein air et la majesté des montagnes. L'espace est aménagé de manière créative, offrant une expérience illimitée tant pour les couples que pour les familles.",
+              "practical_tip": "💡 Astuce pratique : Le musée propose des bains de pieds gratuits, alors n'oubliez pas d'apporter une petite serviette pour vous détendre après avoir exploré.",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "Soirée",
+              "spot_name": "Ryokan de Gora avec dîner et petit déjeuner",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "Après une journée pleine d'activités, installez-vous dans un ryokan à Gora. Profitez d'un repas kaiseki de premier choix et d'un onsen chaleureux pour détendre votre corps. Trempez-vous dans les sources chaudes sous un ciel étoilé, le point final parfait pour votre voyage à Hakone.",
+              "practical_tip": "💡 Astuce pratique : Optez pour une formule avec dîner inclus afin d'éviter les tracas de chercher un restaurant pour le dîner et de profiter d'un véritable moment de douceur."
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "seo_meta": {
+        "title": "【2026 Hakone Viaje Libre】¡El mejor plan de itinerario de 2 días! Guía completa de atracciones, transporte y comida imprescindible",
+        "description": "¿Primera vez en Hakone y no sabes qué hacer? Esta completa guía de 2 días te llevará a recorrer las atracciones imprescindibles, degustar la deliciosa comida local y experimentar los onsen, ¡todo para que disfrutes cómodamente de Hakone!"
+      },
+      "hero_section": {
+        "hook_intro": "¿Listo para embarcarte en un viaje de relajación en un onsen? Hakone, como la joya más brillante cerca de Tokio, combina a la perfección la majestuosa vista del Monte Fuji, la antigua cultura de los onsen y experiencias divertidas con medios de transporte. En esta aventura de dos días y una noche en Hakone, utilizaremos el clásico Hakone Free Pass para llevarte desde la romántica orilla del Lago Ashi hasta el bullicioso pueblo de Gora, disfrutando de la belleza extrema que cambia con las estaciones.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Día 1: Clásico recorrido por Hakone y vistas del Lago Ashi",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Estación de Hakone Yumoto y Calle Comercial",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "Desde Shinjuku, Tokio, toma el Odakyu Romancecar hasta Hakone Yumoto, ¡el punto de partida de tu viaje! Pasea por la nostálgica calle comercial y prueba las empanadillas de pescado fritas y los onsen manju, mientras sientes el ambiente del pueblo de aguas termales. ¡Esto definitivamente encenderá tu espíritu vacacional!",
+              "practical_tip": "💡 Consejo útil: Asegúrate de enviar tus maletas en la estación para disfrutar de Hakone sin carga."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Lago Ashi y barco pirata",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "Toma el tren de montaña de Hakone y el teleférico hacia el Lago Ashi, donde podrás disfrutar de un paseo en un barco pirata retro. Si tienes suerte, podrás capturar el impresionante reflejo del Monte Fuji en la superficie del lago. ¡Estar en la proa del barco sintiendo la brisa es uno de los momentos más placenteros de la vida!",
+              "practical_tip": "💡 Consejo útil: Se recomienda sentarse en la cubierta exterior del barco pirata, ya que ofrece la mejor vista para fotos."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Santuario de Hakone y Torii",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "Al atardecer, visita el sereno Santuario de Hakone, donde el icónico Torii rojo en medio del agua se ha convertido en un lugar de culto para los influencers. La luz del sol poniente se refleja en el lago, creando una atmósfera tranquila que trae paz al alma, convirtiendo esta experiencia en una de las más sagradas del viaje.",
+              "practical_tip": "💡 Consejo útil: El Torii suele tener mucha gente para las fotos, así que se recomienda llegar temprano o evitar los fines de semana."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Día 2: Maravillas volcánicas de Owakudani y arte en Gora",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Paisaje volcánico de Owakudani",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "Toma el teleférico de Hakone directamente a Owakudani y presencia el espectacular fenómeno de la erupción volcánica. Lo más famoso aquí son los 'huevos negros', que según la leyenda, al comer uno se te añade siete años de vida. ¡Su textura es elástica y tiene un suave aroma a azufre, un manjar que no te puedes perder en Hakone!",
+              "practical_tip": "💡 Consejo útil: Si el teleférico se detiene debido a la alta concentración de gases volcánicos, asegúrate de consultar siempre las actualizaciones en la web."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Parque Gora y Museo de Arte al Aire Libre",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "Al llegar a Gora, disfruta de la elegancia de un jardín francés y visita el Museo de Arte al Aire Libre, donde podrás apreciar la perfecta combinación de instalaciones de arte al aire libre y majestuosas vistas de montaña. Este lugar tiene un diseño espacial impresionante, perfecto para parejas o familias que buscan diversión.",
+              "practical_tip": "💡 Consejo útil: El museo ofrece un servicio de footbath gratuito. Recuerda llevar una pequeña toalla para remojar tus pies después de explorar.",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Ryokan de onsen en Gora con cena",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "Finaliza tu enriquecedor itinerario alojándote en un ryokan de onsen en Gora. Disfruta de una exquisita cena kaiseki y de un cálido onsen, dejando que tu cuerpo se relaje por completo. Bañarte bajo un cielo estrellado es la manera perfecta de cerrar este viaje a Hakone.",
+              "practical_tip": "💡 Consejo útil: Opta por un paquete que incluya cena para evitar el ajetreo de buscar un restaurante en la noche y disfruta de una verdadera vida tranquila."
+            }
+          ]
+        }
+      ]
+    },
+    "id": {
+      "seo_meta": {
+        "title": "【2026 Hakone Perjalanan Bebas】Panduan Perjalanan 2 Hari Terbaik!",
+        "description": "Pertama kali ke Hakone, bagaimana cara bermain? Panduan lengkap 2 hari di Hakone ini membawa Anda mengunjungi semua tempat yang wajib dikunjungi, mencicipi kuliner lokal dan pengalaman berendam di onsen, sehingga Anda dapat menikmati Hakone dengan santai!"
+      },
+      "hero_section": {
+        "hook_intro": "Siap untuk menyambut perjalanan spa yang menyembuhkan jiwa dan raga? Hakone, sebagai permata paling bersinar dekat Tokyo, memadukan pemandangan megah Gunung Fuji, budaya onsen yang kuno, dan pengalaman transportasi yang penuh keseruan! Dalam perjalanan mendalam selama dua hari satu malam ke Hakone ini, kami akan memanfaatkan Hakone Free Pass yang klasik, membawa Anda dari tepi danau Ashi yang romantis, hingga ke kota Gora yang ramai, merasakan keindahan musim yang berubah.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Hari 1: Rute Klasik Hakone dan Pemandangan Tepi Danau Ashi",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Stasiun Hakone Yumoto dan Jalan Belanja",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "Dari Shinjuku Tokyo, naik Odakyu Romancecar menuju Hakone Yumoto, tempat perjalanan Anda dimulai! Berjalan-jalan di jalan belanja yang dipenuhi nuansa nostalgia, jangan lupa mencoba tempura ikan dan onsen manju yang baru digoreng, aroma khas daerah onsen memenuhi udara, pasti akan langsung membangkitkan semangat liburan Anda!",
+              "practical_tip": "💡 Tips Ahli: Ingat untuk menggunakan layanan penyimpanan barang di stasiun untuk menikmati Hakone tanpa beban!"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Danau Ashi dan Perahu Bajak Laut",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "Naik kereta gunung Hakone dan kabel car menuju Danau Ashi, kemudian naik perahu bajak laut yang bergaya vintage untuk berlayar di atas danau. Jika beruntung, Anda bisa menangkap pantulan indah Gunung Fuji di permukaan danau. Berdiri di depan kapal sambil merasakan angin sepoi-sepoi, inilah momen paling menyenangkan dalam hidup!",
+              "practical_tip": "💡 Tips Ahli: Disarankan untuk duduk di area dek luar perahu bajak laut, pandangan paling luas dan foto-foto paling sempurna."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Kuil Hakone dan Torii",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "Saat sore hari, kunjungi Kuil Hakone yang tenang, dengan torii merah yang berdiri di tengah air, merupakan tempat foto yang populer. Sinar matahari senja memantul di permukaan danau, suasana tenang membuat hati tenang seketika, merupakan pengalaman paling suci dalam perjalanan ini.",
+              "practical_tip": "💡 Tips Ahli: Torii sering ramai oleh pengunjung untuk foto, sebaiknya datang lebih awal atau hindari waktu puncak akhir pekan."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Hari 2: Keajaiban Vulkanik Owakudani dan Jelajah Seni di Gora",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Lanskap Gunung Berapi Owakudani",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "Naik kereta kabel Hakone langsung menuju Owakudani, saksikan sendiri pemandangan spektakuler dari letusan vulkanik! Yang paling terkenal di sini adalah 'telur hitam', konon memakan satu bisa memperpanjang umur tujuh tahun, rasanya kenyal dengan aroma belerang yang lembut, pastinya adalah makanan yang wajib dicoba di Hakone!",
+              "practical_tip": "💡 Tips Ahli: Jika kereta kabel berhenti karena konsentrasi gas vulkanik yang tinggi, harap pantau informasi terbaru di situs web resmi."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Taman Gora dan Museum Seni Kebun Patung",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "Di Gora, rasakan keanggunan taman bergaya Prancis, kemudian menuju Museum Seni Kebun Patung, untuk menikmati perpaduan sempurna antara seni instalasi luar ruangan dan pemandangan pegunungan yang megah. Desain ruang di sini sangat menarik, baik untuk pasangan maupun keluarga, Anda akan menemukan kesenangan tak terbatas.",
+              "practical_tip": "💡 Tips Ahli: Di dalam museum terdapat onsen kaki gratis, jika lelah berjalan, jangan lupa membawa handuk kecil untuk merendam kaki.",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Penginapan Onsen Gora dengan Makan Malam",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "Mengakhiri itinerary yang penuh warna, check-in ke penginapan onsen di Gora. Nikmati masakan kaiseki premium dan onsen yang hangat, mengizinkan tubuh Anda benar-benar bersantai. Merendam di onsen di bawah langit berbintang, menandai akhir perjalanan Hakone ini dengan sempurna.",
+              "practical_tip": "💡 Tips Ahli: Pilih paket yang termasuk makan malam agar Anda tidak perlu repot mencari restoran untuk makan malam, nikmati pengalaman hidup yang lambat."
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "seo_meta": {
+        "title": "【2026 हाकोन स्वतंत्र यात्रा】सबसे मजबूत 2-दिन की यात्रा योजना गाइड! आकर्षण, परिवहन और आवश्यक भोजन की पूरी योजना",
+        "description": "पहली बार हाकोन कैसे घूमें? इस पूरी 2-दिन की हाकोन स्वतंत्र यात्रा गाइड में, हम आपको必去景點, स्थानीय भोजन का स्वाद और温泉体验,，让你轻松玩转箱根！"
+      },
+      "hero_section": {
+        "hook_intro": "क्या आप एक ऐसी स्वास्थ्यवर्धक温泉 यात्रा के लिए तैयार हैं? हाकोन, जो टोक्यो के निकटतम सबसे चमकदार रत्नों में से एक है, भव्य फ़ुजी पर्वत के दृश्य, प्राचीन温泉文化 और मजेदार परिवहन अनुभवों के साथ एकदम सही रूप से संयोजित किया गया है! इस दो दिन एक रात की हाकोन गहन यात्रा में, हम क्लासिक हакоन पास का उपयोग करते हुए, आपको रोमांटिक आसु湖 के किनारे से लेकर जीवंत क्योमोरा छोटे शहर तक लाएंगे, चारों मौसमों के परिवर्तन की अद्भुत सुंदरता का अनुभव कराएंगे।",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "दिन 1：हाकोन क्लासिक सर्किट और आसु झील का दृश्य",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "हाकोन युबुस्थान और दुकानें",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "टोक्यो के शिंजुकु से Odakyu Romantic Express पर चढ़कर Hakone Yubutsukan पहुंचकर शुरू करें, यह यात्रा का प्रारंभिक स्थान है! पुरानी यादों से भरी दुकानें घूमते हुए, ताजा तले हुए मछली के पैटी और 温泉饅頭 का चखना न भूलें, हवा में 温泉乡 की सुगंध है, जो निश्चित रूप से आपकी छुट्टी की भावना को तुरंत प्रज्वलित कर देगी!",
+              "practical_tip": "💡 विशेषज्ञ सुझाव: याद रखें कि पहले स्टेशन पर सामान भेजने की सेवा का उपयोग करें, ताकि हाकोन में बेफिक्र घूम सकें!"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "आसु झील और समुद्री डाकू जहाज",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "हाकोन के पहाड़ी ट्रेन और केबल कार से आसु झील पर पहुंचें, और फिर पुरातन समुद्री डाकू जहाज पर सवारी करें। अगर किस्मत साथ हो, तो आप फ़ुजी पर्वत का सुंदर प्रतिबिंब झील की सतह पर देख सकेंगे। जहाज के आगे खड़े होकर हल्की हवा का आनंद लेना, यही जिंदगी के सबसे सुखद पल हैं!",
+              "practical_tip": "💡 विशेषज्ञ सुझाव: समुद्री डाकू जहाज की बाहरी डेक पर बैठना सही रहेगा, सबसे विस्तृत दृश्य और बिना किसी बाधा के तस्वीरें खींचने के लिए।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "हाकोन श्राइन और तोरी",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "संध्याकाल में शांत हाकोन श्राइन की यात्रा करें, वह लाल 'शांति की तोरी' जो पानी में खड़ी है, एक लोकप्रिय इंस्टाग्राम स्थान है। सूर्यास्त की किरणें झील पर पड़ रही हैं, पेचीदा वातावरण ने आपकी आत्मा को ताजगी दी है, यह यात्रा में सबसे पवित्र अनुभव है।",
+              "practical_tip": "💡 विशेषज्ञ सुझाव: तोरी के लिए फोटो लेने की कतारें लंबी होती हैं, तो सुझाव है कि पहले जाें या सप्ताहांत के पीक समय से बचें।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "दिन 2：大涌谷 का ज्वालामुखीय दृश्य और क्यूमोरा कला यात्रा",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "Owakudani का ज्वालामुखीय भूभाग",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "हाकोन के केबल कार से सीधे Owakudani पहुंचे और ज्वालामुखी विस्फोट के अद्भुत दृश्य को देखें! यहां का सबसे प्रसिद्ध 'काले अंडे' है, कहा जाता है कि एक खाने से जीवन में सात साल की उम्र बढ़ जाती है। इसका स्वाद थोड़ा च्यूई और हल्का सल्फर खुशबू वाला होता है, यह निश्चित रूप से हाकोन का एक आवश्यक व्यंजन है!",
+              "practical_tip": "💡 विशेषज्ञ सुझाव: अगर केबल कार ज्वालामुखी गैस की उच्च सांद्रता के कारण रुक जाए, तो कृपया आधिकारिक वेबसाइट पर अपडेट की निगरानी करें।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "क्यूमोरा पार्क और स्कल्पचर फॉरेस्ट म्यूज़ियम",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "क्यूमोरा में पहुँचते ही, फ्रांसीसी बाग़ की सुंदरता का अनुभव करें, इसके बाद स्कल्पचर फॉरेस्ट म्यूज़ियम पर जाएं, जहाँ बाहरी स्थापना कला और भव्य पहाड़ी दृश्य का बिल्कुल सही मेल है। यहाँ की जगह डिजाइनिंग बिल्कुल अद्वितीय है, चाहे वह युगल हो या परिवार, हर कोई यहाँ अंतहीन मजा पा सकता है।",
+              "practical_tip": "💡 विशेषज्ञ सुझाव: संग्रहालय में मुफ्त 足湯 है, अगर आप थक गए हैं तो एक छोटा तौलिया लाना न भूलें।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "Kumora 温泉旅館 一泊二食",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "एक पूरा दिन बिताने के बाद, Kumora के 温泉旅館 में ठहरकर अपने अनुभव का समापन करें। बेहतरीन काइसेकी भोजन और गर्म 温泉 का आनंद लें, अपने शरीर को पूरी तरह से आराम दें। सितारों से भरी रात में 温泉 में डूबकर इस Hakone यात्रा को एकदम सही समाप्ति दें।",
+              "practical_tip": "💡 विशेषज्ञ सुझाव: डिनर विकल्प के साथ योजना चुनें, ताकि आपको डिनर के लिए खोज-बीन में दौड़ नहीं लगानी पड़े और सही ढंग से धीमे जीवन का आनंद ले सकें।"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "seo_meta": {
+        "title": "【2026 Hakone Viagem Livre】O melhor roteiro de 2 dias! Dicas de transporte e gastronomia imperdível",
+        "description": "É a sua primeira vez em Hakone? Este guia completo de 2 dias para explorar Hakone traz os pontos turísticos essenciais, sabores locais e a experiência de onsen, para você aproveitar ao máximo sua viagem!"
+      },
+      "hero_section": {
+        "hook_intro": "Está pronto para uma jornada relaxante em fontes termais? Hakone, como a joia mais brilhante nos arredores de Tóquio, combina a majestosa vista do Monte Fuji, a antiga cultura de onsen e experiências de transporte interessantes! Neste mergulho profundo de dois dias em Hakone, utilizaremos o clássico passe de viagem de Hakone para te levar do romântico Lago Ashi até a vibrante cidade de Gora, experimentando a beleza deslumbrante das quatro estações.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Dia 1: Clássico Circuito de Hakone e Paisagens do Lago Ashi",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Estação Hakone Yumoto e Rua Comercial",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "Pegue o Odakyu Romance Car de Shinjuku, em Tóquio, até Hakone Yumoto, que é o ponto de partida da sua jornada! Passeie pela charmosa rua comercial repleta de nostalgia e não deixe de experimentar os bolinhos de peixe fritos e os bolinhos de onsen. O aroma do onsen no ar certamente vai levantar seu espírito de férias!",
+              "practical_tip": "💡 Dica do especialista: Lembre-se de usar o serviço de despacho de bagagens na estação para aproveitar Hakone sem carregar peso!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Lago Ashi e Barco Pirata",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "Pegue o trem e o teleférico de Hakone até o Lago Ashi, e faça um passeio no barco pirata vintage pelo lago. Se tiver sorte, poderá capturar com a câmera o reflexo incrível do Monte Fuji na água. Ficar na proa sentindo a brisa é um dos momentos mais agradáveis da vida!",
+              "practical_tip": "💡 Dica do especialista: Recomendo sentar na área ao ar livre do barco pirata para ter a melhor visão e ângulos para fotos."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Santuário de Hakone e Torii",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "Ao entardecer, visite o tranquilo Santuário de Hakone. O famoso Torii vermelho 'Torii da Paz', erguido sobre a água, é um lugar popular para fotos. A luz do pôr do sol refletida no lago cria uma atmosfera serena que traz paz ao espírito, sendo essa uma das experiências mais sagradas da viagem.",
+              "practical_tip": "💡 Dica do especialista: O local para fotos junto ao Torii pode ter filas longas, então é melhor chegar cedo ou evitar os horários de pico nos fins de semana."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Dia 2: Maravilhas Vulcânicas de Owakudani e Arte em Gora",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Paisagens Vulcânicas de Owakudani",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "Pegue o teleférico de Hakone até Owakudani e testemunhe a impressionante erupção vulcânica! Aqui, o guloso 'ovo negro', que segundo a lenda pode aumentar a vida em sete anos, é a iguaria famosa. Ele tem uma textura única e um leve aroma de enxofre, sendo uma experiência gastronômica imperdível em Hakone!",
+              "practical_tip": "💡 Dica do especialista: Caso o teleférico pare devido à alta concentração de gases vulcânicos, monitore as atualizações no site oficial."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Parque Gora e Museu ao Ar Livre de Hakone",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "Chegando a Gora, aproveite a elegância do jardim francês e siga para o Museu ao Ar Livre de Hakone, onde você pode admirar a combinação perfeita entre arte de instalação ao ar livre e as magníficas montanhas. O design deste espaço é impressionante, e tanto casais quanto famílias podem encontrar muitas diversões aqui.",
+              "practical_tip": "💡 Dica do especialista: O museu oferece banho de pés gratuito, e se você se cansar, lembre-se de levar uma toalhinha para relaxar!",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Pousada Onsen em Gora com Jantar e Café da Manhã",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "Após um dia cheio de atividades, faça check-in em uma pousada onsen em Gora. Desfrute de um requintado jantar kaiseki e do aquecido onsen, permitindo que seu corpo relaxe completamente. Banhar-se sob as estrelas encerrará sua viagem a Hakone de forma perfeita.",
+              "practical_tip": "💡 Dica do especialista: Escolha um pacote que inclua o jantar para evitar ter que procurar um restaurante e aproveite a verdadeira vida slow."
+            }
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "seo_meta": {
+        "title": "【2026 هاكوني جولة حرة】أقوى خطط الرحلة لمدة يومين! (أماكن، تنقلات & دليل الأكل الشامل)",
+        "description": "كيف تستمتع بزيارة هاكوني لأول مرة؟ هذا الدليل الشامل لتجربة مدة يومين في هاكوني يأخذك لزيارة المعالم السياحية المميزة، تذوق الأطعمة المحلية، وتجربة الينابيع الساخنة، مما يجعل قضاء الوقت في هاكوني أمرًا سهلاً!"
+      },
+      "hero_section": {
+        "hook_intro": "هل أنتم مستعدون لاستقبال رحلة استرخاء شافية للجسد والروح؟ هاكوني، كأحد أجمل الأماكن القريبة من طوكيو، يجمع بشكل مثالي بين مشاهد جبل فوجي الرائعة، ثقافة الينابيع الساخنة القديمة وتجارب وسائل النقل المثيرة! خلال هذه الرحلة التي تستغرق يومين وليلة واحدة، سنستخدم تذكرة هاكوني الكلاسيكية لأخذكم من ضفاف بحيرة آش الرومانسية إلى بلدة غورا النابضة بالحياة، للاستمتاع بأقصى جمال في الفصول الأربعة.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "اليوم الأول: معالم هاكوني الشهيرة وجمال بحيرة آش",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "محطة هاكوني يوبوناك وأزقة التسوق",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "استقل قطار أوداكو الرومانسي من شينجوكو في طوكيو وصولًا إلى هاكوني يوبوناك، حيث يبدأ رحلة المغامرة! تجول في الأزقة القديمة المليئة بالأجواء القديمة، ولا تفوت تجربة الأسماك المقلية الساخنة ومانجو الينابيع الساخنة، حيث تفوح في الأجواء رائحة المنتجع الساخن الشذية، مما يجعلك تشعر بإيقاع عطلتك على الفور!",
+              "practical_tip": "💡 نصيحة هامة: تذكر القيام بترتيب خدمة تخزين الأمتعة في المحطة، لتتمكن من استكشاف هاكوني بدون أعباء!"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "بحيرة آش والسفينة القراصنة",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "استقل قطار هاكوني الجبلي والتلفريك للوصول إلى بحيرة آش، واستمتع بجولة بالقارب القراصنة على سطح البحيرة. إذا كنت محظوظًا، يمكن أن تلتقط جمال انعكاس جبل فوجي على سطح الماء. قف في مقدمة القارب واستمتع بالنسيم، فإنها من أفضل اللحظات في الحياة!",
+              "practical_tip": "💡 نصيحة هامة: يفضل الجلوس في منطقة السطح الخارجي للقارب، حيث الرؤية الأكثر اتساعًا ورائعة لالتقاط الصور."
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "معبد هاكوني وتوري",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "في وقت الغروب، زر معبد هاكوني الهادئ، حيث يقف النصب الأحمر «توري السلام» في وسط الماء، وهو مكان شهير لالتقاط الصور. تضفي أشعة الشمس على سطح البحيرة سحرًا خاصًا، مما يجعل الأجواء الهادئة تمنح روحك الصفاء، وهي واحدة من أكثر التجارب قدسية في هذه الرحلة.",
+              "practical_tip": "💡 نصيحة هامة: الزحام عند التقاط الصور قرب التوري مرتفع، يُفضل الوصول مبكرًا أو تجنب أوقات الذروة في عطلات نهاية الأسبوع."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "اليوم الثاني: عجائب جبل دايوكو وعابقة الفن في غورا",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "تضاريس جبل دايوكو البركانية",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "استقل التلفريك إلى جبل دايوكو وشاهد بأم عينك مشهد ثوران البركان الرائع! أشهر ما في هذا المكان هو «البيض الأسود»، ويُقال إن تناول واحد يمنحك سبع سنوات إضافية من العمر، يتميز بقوامه المطاطي ورائحته الخفيفة من الكبريت، ويعد من الأطعمة الأساسية التي يجب تجربتها في هاكوني!",
+              "practical_tip": "💡 نصيحة هامة: إذا توقف التلفريك بسبب ارتفاع تركيز الغازات البركانية، تابع الأخبار على الموقع الرسمي."
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "حديقة غورا ومتحف نحت الغابة",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "عند دخول غورا، استمتع بأجواء الحدائق الفرنسية الأنيقة، ثم توجه إلى متحف نحت الغابة للاستمتاع بالتركيبات الفنية الخارجية وتشكيلة المناظر الجبلية المدهشة. التصميم الداخلي هنا مذهل، سواء كان لل couples او عائلات، ستجدون هنا متعة لا تنتهي.",
+              "practical_tip": "💡 نصيحة هامة: يوجد في المتحف حوض استحمام مجاني لتخفيف التعب، تذكر أن تأخذ منشفة صغيرة للاستمتاع بالتجربة.",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "إنزال فندق غورا الينابيع الساخنة مع عشاء",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "انتهت الرحلة المليئة بالأنشطة، وقد حان وقت الإقامة في فندق الينابيع الساخنة في غورا. استمتع بأفضل أطباق الكايسيكي، والحمام الساخن الساحر، مما يساعد جسمك على الاسترخاء تمامًا. تحت سماء مليئة بالنجوم، استمتع بحمامات الينابيع الساخنة، لتعطي هذه الرحلة في هاكوني نهاية مثالية.",
+              "practical_tip": "💡 نصيحة هامة: اختر باقة تشمل العشاء لتجنب البحث عن مطاعم للعشاء واستمتع بتجربة الحياة الهادئة."
+            }
+          ]
+        }
+      ]
+    },
+    "bn": {
+      "seo_meta": {
+        "title": "【2026 হাকোনে স্বাধীন ভ্রমণ】সর্বাধিক 2 দিনের ভ্রমণ পরিকল্পনা সহায়িকা! দর্শনীয় স্থান, পরিবহণ ও必吃 সম্পূর্ণ গাইড",
+        "description": "প্রথমবার হাকোনে কিভাবে ঘুরে বেড়াবেন? এই সম্পূর্ণ 2 দিনের হাকোনে স্বাধীন ভ্রমণ গাইডে, আপনাকে অনিবার্য দর্শনীয় স্থানগুলি দেখতে, স্থানীয় খাদ্য উপভোগ করতে এবং গরম জলের অভিজ্ঞতা লাভ করতে সাহায্য করা হবে, যাতে আপনি সহজেই হাকোনে ঘুরতে পারেন!"
+      },
+      "hero_section": {
+        "hook_intro": "আপনি কি একটি নিরাময়ের গরম জলের ভ্রমণের জন্য প্রস্তুত? হাকোনে, টোকিওর নিকটবর্তী সবচেয়ে ঝলমলে রত্ন, সুবর্ণ ফুজি পর্বতের দৃশ্য, প্রাচীন গরম পানির সংস্কৃতি এবং মজাদার পরিবহণের অভিজ্ঞতার আদর্শ মেলবন্ধন ঘটায়! এই দুই দিনের এক রাতের হাকোনে গহনে ভ্রমণে, আমরা ক্ল্যাসিক হাকোনে সার্কিট পাস ব্যবহার করবো, আপনাকে রোমান্টিক আশির লেকের তীরে নিয়ে যাবো, এবং প্রাণবন্ত কিওরো শহরের প্রকৃতির মাধ্যমে খালি হাতে হাকোনে ঘুরে দেখব।",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "প্রথম দিন: হাকোনের ক্লাসিক সার্কিট এবং আকাশির উপকূল",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "হাকোনে উদ্ভাবন স্টেশন এবং দোকানপট্টি",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "টোকিওর শিনজুকু থেকে ছোটো একাধিকার মধ্যে এগিয়ে হাকোনে উদ্ভাবনে পৌঁছান, এটি ভ্রমণের শুরু! পুরাতন দোকান পট্টির মধ্যে হেঁটে বেড়াতে সময় কাটান, অবশ্যই তাজা মাছের স্যান্ডউইচ এবং গরম পানির মৃদু প্যাস্ট্রি টেস্ট করুন, বাতাসে গরম জলশহরের গন্ধ ছড়িয়ে আছে, এটি আপনার ছুটির মেজাজ উজ্জীবিত করবে!",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: স্টেশনে ব্যাগেজ হস্তান্তর পরিষেবা আগে থেকেই করতে মনে রাখবেন, যাতে আপনাকে হাকোনে সহজে হাত খালি করতে হয়!"
+            },
+            {
+              "time_slot": "দুপুর",
+              "spot_name": "আকাশির হ্রদ এবং দস্যুর নৌকা",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "হাকোনের মাউন্টেন ট্রেন এবং কেব্ল কার নিয়ে আকাশির হ্রদে পৌঁছান, এবং পুরানো দস্যুর নৌকায় হ্রদের উপর ভ্রমণ করুন। যদি ভাগ্য ভালো হয়, তাহলে আপনি হ্রদের উপর ফুজি পর্বতের সুন্দর প্রতিবিম্বটি ধরতে পারবেন। নৌকার সামনে দাঁড়িয়ে বাতাসে ফুঁকতে, এই মুহূর্তটি জীবনের সবচেয়ে আরামদায়ক মুহূর্ত!",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: দস্যুর নৌকার বাইরের ডেক এলাকায় বসতে পরামর্শ দেওয়া হচ্ছে, যাতে সর্বাধিক দৃশ্য এবং ফটো তোলা যায়।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "হাকোনে শ্রীমন্দির এবং তোরি গেট",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "সন্ধ্যাকালে, শান্ত হাকোনে শ্রীমন্দির পরিদর্শন করুন, সেই লাল 'শান্তির তোরি' জলরাশিতে বিজয়ীর গন্তব্য। সূর্যাস্তের আলো হ্রদের উপর পড়ে, শান্ত পরিবেশে আপনার মন শান্ত হয়ে যাবে, এটি এই ভ্রমণের সবচেয়ে পবিত্র অভিজ্ঞতা।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: তোরির জন্য ছবির লাইনে সংখ্যা বেশি, তাই আগে থেকেই যাওয়া বা সপ্তাহান্তে উন্মুক্ত সময় পরিহার করা উচিৎ।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "দ্বিতীয় দিন: ডাইজুকু ভূমি ও কিওরোর শিল্প ভ্রমণ",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "ডাইজুকু ভূমি",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "হাকোনের সংলগ্ন কেব্ল কার নিয়ে ডাইজুকু ভূখণ্ডে প্রবেশ করুন, আগ্নেয়গিরির বিস্ফোরণের দৃশ্য প্রত্যক্ষ করুন! এখানে সবচেয়ে যথাযথ 'কালো ডিম', পরিকল্পনাটি একটি খাওয়া আপনাকে সাত বছরের জন্য দীর্ঘায়িত করতে পারে, এবং এটি আন্তরিকভাবে হাকোনের আবশ্যকীয় খাবার!",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: যদি কেব্ল কার আগ্নেয়গিরির গ্যাসের ঘনত্ব অতিরিক্ত হয়ে যায়, অনুগ্রহ করে সর্বদা অফিশিয়াল ওয়েবসাইটে খবরগুলি পরীক্ষা করুন।"
+            },
+            {
+              "time_slot": "দুপুর",
+              "spot_name": "কিওরো পার্ক এবং ভাস্কর্যের যাদুঘর",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "কিওরোতে পৌঁছে, ফরাসি উদ্যানের সৌন্দর্য অনুভব করুন, তারপর ভাস্কর্যের যাদুঘরে যান, যেখানে বাহিরে স্থাপন করা শিল্প এবং সুন্দর পাহাড়ের দৃশ্যের একত্রিত রূপ। এখানে স্পেস ডিজাইন অত্যন্ত বিশেষ, আপনি যান্ত্রিক যুগে প্রেমিক অথবা কিশোরদের সাথে উদযাপন করতে পারেন!",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: যাদুঘরের ভেতরে বিনামূল্যে足湯 রয়েছে, ক্লান্ত হলে একটি ছোট তোয়ালে নিয়ে যান এবং পা ডুবিয়ে দিন।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "Kyoto গরম জলস্খলন এবং দুই খাবারসহ宿泊",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "পুরো ভ্রমণের শেষে, কিওরোর গরম জলস্খলনে অবস্থান করুন। শীর্ষমানের কাইশি খাবার এবং গরম জল উপভোগ করুন, যাতে আপনার শরীর পুরোপুরি শিথিল হয়। আকাশের নীচে গরম জলে বিশ্রাম নিয়ে, এই হাকোনে ভ্রমণের সেরা উপসংহার দিবেন।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: রাতের খাবারের অন্তর্ভুক্ত পরিকল্পনাটি বেছে নিন, যাতে আপনাকে রাতের খাবারের জন্য রেস্তোরাঁ খুঁজতে না হয়, আসলভাবে শান্ত জীবন উপভোগ করতে পারেন।"
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "seo_meta": {
+        "title": "【2026 Хаконе Свободный Путешествие】Самый мощный 2-дневный маршрут для ленивых! Транспорт и обязательные блюда в полном объеме",
+        "description": "В первый раз в Хаконе? Этот суперполный 2-дневный гид по свободному путешествию по Хаконе поможет вам посетить все обязательные места, попробовать местные деликатесы и насладиться горячими источниками, чтобы вы могли легко насладиться Хаконе!"
+      },
+      "hero_section": {
+        "hook_intro": "Готовы ли вы к исцеляющему путешествию на горячие источники? Хаконе, как самый яркий драгоценный камень в окрестностях Токио, идеально сочетает величественные виды на гору Фудзи, древнюю культуру горячих источников и увлекательные транспортные средства! В этом двухдневном глубоком путешествии по Хаконе мы будем использовать классический проездной Хаконе, чтобы отвезти вас от романтичного берега озера Ашия до оживленного города Гора, ощутив на себе великолепие смены сезонов.",
+        "hero_image_keyword": "Hakone Lake Ashi Mt Fuji"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "День 1: Классический маршрут по Хаконе и виды озера Ашия",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Станция Хаконе-Юбато и торговая улица",
+              "image_search_keyword": "Hakone Yumoto Station shopping street",
+              "rich_description": "Садитесь на романтичный экспресс Одзаки из Токио до Хаконе-Юбато, это отправная точка вашего путешествия! Прогуляйтесь по ностальгической торговой улице, обязательно попробуйте свежеприготовленные рыбные пирожки и онсэ-бун, воздух наполнен атмосферой горячих источников, это определенно разбудит ваше чувство отпуска!",
+              "practical_tip": "💡 Полезный совет: Не забудьте сначала оформить услугу отправки багажа на вокзале, чтобы путешествовать по Хаконе без лишнего груза!"
+            },
+            {
+              "time_slot": "После обеда",
+              "spot_name": "Озеро Ашия и пиратский корабль",
+              "image_search_keyword": "Hakone Pirate Ship Lake Ashi",
+              "rich_description": "На поезде и канатной дороге доберитесь до озера Ашия, прокатитесь на винтажном пиратском корабле по озеру, и если повезет, вы сможете запечатлеть невероятное отражение горы Фудзи на поверхности воды. Стоя на носу корабля и ощущая легкий ветерок, вы поймёте, что это один из самых приятных моментов в жизни!",
+              "practical_tip": "💡 Полезный совет: Рекомендуется сидеть на открытой палубе пиратского корабля, чтобы получить лучший обзор и сделать идеальные фотографии."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Хаконэ-синша и тории",
+              "image_search_keyword": "Hakone Shrine floating torii gate",
+              "rich_description": "Вечером посетите спокойный Хаконе-синша, тот самый красный «Тории мира», что стоит в воде, стал популярным местом для фотографий. Солнечные лучи касаются поверхности озера, спокойная атмосфера быстро успокаивает дух, это самое священное переживание в этом путешествии.",
+              "practical_tip": "💡 Полезный совет: В очереди фотографироваться на тории обычно много людей, рекомендуется прийти заранее или избегать пиковых часов в выходные."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "День 2: Вулканические чудеса в Дайакагаки и художественная прогулка по Горе",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Вулканический ландшафт Дайакагаки",
+              "image_search_keyword": "Owakudani volcanic valley",
+              "rich_description": "На канатной дороге Хаконе доберитесь до Дайакагаки и станьте свидетелем зрелищных визгов вулкана! Здесь наиболее известны «черные яйца», по легенде, одно съеденное яйцо может продлить жизнь на семь лет, они имеют отличный упругий вкус с легким запахом серы и являются обязательно пробуемым деликатесом в Хаконе!",
+              "practical_tip": "💡 Полезный совет: Если канатная дорога останавливается из-за высокой концентрации вулканических газов, следите за обновлениями на официальном сайте."
+            },
+            {
+              "time_slot": "После обеда",
+              "spot_name": "Парк Гора и Музей Скульптурного Леса",
+              "image_search_keyword": "Hakone Open-Air Museum",
+              "rich_description": "Добравшись до Горы, насладитесь элегантностью французского сада, затем отправляйтесь в Музей Скульптурного Леса и насладитесь идеальным сочетанием уличного искусства и величественных горных пейзажей. Здесь отличная концепция пространственного дизайна, и парам или семьям будет интересно проводить время здесь.",
+              "practical_tip": "💡 Полезный совет: В музее есть бесплатные источники с тёплой водой для ног, когда устанете от прогулок, не забудьте принести маленькое полотенце для ног.",
+              "needsTicket": true,
+              "klookQuery": "Hakone Open-Air Museum"
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Рёкан Гора с ужином и завтраком",
+              "image_search_keyword": "Hakone Gora Onsen Ryokan",
+              "rich_description": "Завершив насыщенный день, заселяйтесь в рёкан в Горе. Наслаждайтесь первоклассной кухней кaiseki и горячими источниками, чтобы полностью расслабить тело. Под звёздным небом погрузитесь в горячие источники, чтобы завершить это путешествие по Хаконе на самой идеальной ноте.",
+              "practical_tip": "💡 Полезный совет: Выберите пакет с ужином, чтобы избежать поиска ресторана на ужин и насладиться настоящим расслаблением."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

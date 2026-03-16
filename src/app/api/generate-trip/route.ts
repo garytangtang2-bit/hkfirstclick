@@ -9,8 +9,25 @@ const supabaseAdmin = createClient(
 );
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY!;
-const TP_API_TOKEN = process.env.TRAVELPAYOUTS_API_TOKEN || "cc66f5cef74bc5caa83d12b6bf05b37a";
-const TP_MARKER = process.env.TRAVELPAYOUTS_MARKER || "503142";
+const TP_API_TOKEN = process.env.TRAVELPAYOUTS_API_TOKEN!;
+const TP_MARKER = process.env.TRAVELPAYOUTS_MARKER!;
+
+// Rate limiter: max 5 generate requests per IP per hour
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+const RATE_LIMIT = 5;
+const RATE_WINDOW_MS = 60 * 60 * 1000;
+
+function isRateLimited(ip: string): boolean {
+    const now = Date.now();
+    const entry = rateLimitMap.get(ip);
+    if (!entry || now > entry.resetAt) {
+        rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_WINDOW_MS });
+        return false;
+    }
+    if (entry.count >= RATE_LIMIT) return true;
+    entry.count++;
+    return false;
+}
 
 // Helper: Convert User's Text "City Name" to IATA Code (e.g. Taipei -> TPE) using Travelpayouts Autocomplete
 async function getCityIata(cityName: string): Promise<string | null> {
@@ -97,6 +114,23 @@ async function fetchLiveFlightData(originIata: string, destIata: string, departD
 
 export async function POST(req: Request) {
     try {
+        // Use Vercel's real IP (not spoofable x-forwarded-for)
+        const ip = req.headers.get("x-real-ip") || req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+        if (isRateLimited(ip)) {
+            return NextResponse.json({ error: "Too many requests. Please try again later." }, { status: 429 });
+        }
+
+        // 1. Require authentication before doing anything else
+        const authHeader = req.headers.get("Authorization");
+        if (!authHeader) {
+            return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+        }
+        const token = authHeader.replace("Bearer ", "");
+        const { data: { user: authUser } } = await supabaseAdmin.auth.getUser(token);
+        if (!authUser) {
+            return NextResponse.json({ error: "Invalid or expired session." }, { status: 401 });
+        }
+
         const { origin, destination, dates, flightTimes, hotelInfo, preferences, currency, uiLanguage } = await req.json();
 
         // Calculate trip duration
@@ -104,38 +138,33 @@ export async function POST(req: Request) {
         const endDate = new Date(dates.end);
         const tripDays = Math.ceil((endDate.getTime() - startDate.getTime()) / (1000 * 3600 * 24)) + 1;
 
-        // 1. Verify User Session & Credits securely on the server
-        const authHeader = req.headers.get("Authorization");
-        let tier = "TRIAL"; // Default assumption
+        // 2. Fetch verified credits for the authenticated user
+        let tier = "TRIAL";
         let userCredits = 0;
-        let userId: string | null = null;
-
-        if (authHeader) {
-            const token = authHeader.replace("Bearer ", "");
-            const { data: { user }, error } = await supabaseAdmin.auth.getUser(token);
-
-            if (user) {
-                userId = user.id;
-                // Fetch user's exact tier and active credits using helper
-                const result = await getUserCredits(user.id);
-                tier = result.tier;
-                userCredits = result.activeCredits;
-            }
-        }
-
-        // 🚨 Business Logic Constraint: Ensure user has enough credits
-        if (userCredits < 5) {
-            return NextResponse.json(
-                { error: "You need at least 5 credits to generate a new itinerary. Please top up your account." },
-                { status: 402 }
-            );
-        }
+        const userId = authUser.id;
+        const result = await getUserCredits(userId);
+        tier = result.tier;
+        userCredits = result.activeCredits;
 
         // 🚨 Business Logic Constraint: FREE/TRIAL/Casual users are capped at 5 days max.
         if ((tier === "TRIAL" || tier === "Casual") && tripDays > 5) {
             return NextResponse.json(
                 { error: "Free and Casual users are limited to generating itineraries up to 5 days. Please upgrade to a Journey Pass for longer trips." },
                 { status: 403 }
+            );
+        }
+
+        // Calculate credit cost: base 5 credits, +1 per extra day beyond 10
+        const BASE_CREDITS = 5;
+        const EXTRA_DAY_THRESHOLD = 10;
+        const extraDays = Math.max(0, tripDays - EXTRA_DAY_THRESHOLD);
+        const creditCost = BASE_CREDITS + extraDays;
+
+        // 🚨 Business Logic Constraint: Ensure user has enough credits
+        if (userCredits < creditCost) {
+            return NextResponse.json(
+                { error: `You need at least ${creditCost} credits to generate a ${tripDays}-day itinerary. Please top up your account.` },
+                { status: 402 }
             );
         }
 
@@ -238,12 +267,15 @@ ${premiumSearchInstruction}
 }`;
 
         // 4. Determine Dynamic AI Models based on User Tier
-        // Both PASS and YEARLY use the same priority model. TRIAL uses the base model.
-        let primaryModel = "gemini-2.0-flash"; // Default for TRIAL
-        let fallbackModel = "gpt-4o-mini"; // ChatGPT fallback for all tiers
+        let primaryModel: string;
+        let fallbackModel: string;
 
         if (tier === "PASS" || tier === "YEARLY") {
-            primaryModel = "gemini-2.5-flash"; // Priority: Stable, ultra-fast model
+            primaryModel = "gemini-2.5-pro"; // Premium: Gemini 3 Flash (most capable)
+            fallbackModel = "gpt-5-mini";     // Premium fallback: GPT-5 Mini
+        } else {
+            primaryModel = "gemini-2.5-flash"; // Free: Gemini 2.5 Flash
+            fallbackModel = "gpt-4o-mini";     // Free fallback: GPT-4o Mini
         }
 
         // 5. Call Gemini API securely First
@@ -347,7 +379,7 @@ ${premiumSearchInstruction}
         let insertedItineraryId = null;
 
         if (userId) {
-            const deductResult = await deductCredits(userId, 5);
+            const deductResult = await deductCredits(userId, creditCost);
             if (!deductResult.success) {
                 console.error("Failed to deduct credits:", deductResult.error);
             }

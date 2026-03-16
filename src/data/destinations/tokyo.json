@@ -1,47 +1,1820 @@
 {
-    "slug": "tokyo",
-    "en": {
-        "destination": "Tokyo",
-        "heroImageKeyword": "Tokyo",
-        "days": [
-            {
-                "date": "Day 1",
-                "theme": "Arrival & City Lights",
-                "daySummary": "Settle into Tokyo and explore the vibrant neon streets of Shinjuku.",
-                "activities": [
-                    {
-                        "time": "14:00",
-                        "title": "Arrive at Narita Airport",
-                        "description": "Take the Narita Express to the city center.",
-                        "location": "◎ Narita International Airport",
-                        "cost": "JPY 3000",
-                        "needsTicket": false,
-                        "isFood": false
-                    }
-                ]
-            }
-        ]
+  "seo_meta": {
+    "title": "2026 Tokyo 5-Day Itinerary — Shibuya, Temples & Hidden Local Gems",
+    "description": "第一次去 東京 怎麼玩？這篇超完整的 5 天 東京 自由行攻略，帶你一次逛完必去景點、品嚐在地美食。"
+  },
+  "hero_section": {
+    "hook_intro": "東京，這座將傳統與未來完美交織的魔幻都市，永遠有新鮮事在等著你！無論是淺草寺的古樸氛圍，還是澀谷十字路口的霓虹狂熱，這趟 5 天 4 夜的東京之旅，將帶你深度挖掘這座城市的靈魂。我們精心規劃了高效率的順遊路線，讓你從早到晚吃得過癮、買得開心，把東京最經典的風貌一次收藏！",
+    "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+  },
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "day_title": "Day 1：下町風情與東京地標",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "淺草寺 (Sensoji Temple)",
+          "image_search_keyword": "Sensoji Temple Tokyo",
+          "rich_description": "東京旅遊的第一站絕對非淺草寺莫屬！穿過紅色的雷門，漫步在仲見世通商店街，現烤的人形燒香氣四溢，讓人食指大動。在寺內求支籤、洗淨雙手，感受江戶時代留下的濃厚歷史底蘊，是感受東京傳統魅力的最佳起點。📸",
+          "practical_tip": "💡 達人小提示：建議早上 9 點前抵達，避開洶湧的旅遊團人潮，拍到最完美的空景照！"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "東京晴空塔 (Tokyo Skytree)",
+          "image_search_keyword": "Tokyo Skytree view",
+          "rich_description": "從淺草步行或搭乘電車即可抵達晴空塔。登上觀景台，整個東京市景盡收眼底，天氣好時甚至能遠眺富士山！塔下的 Solamachi 商場非常好逛，有很多限定版的紀念品與精緻伴手禮，適合在此悠閒地度過午後。🍜",
+          "practical_tip": "💡 達人小提示：建議事先在網路上購買快速通關票，省下長長的排隊時間。",
+          "needsTicket": true,
+          "klookQuery": "Tokyo Skytree view"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "上野阿美橫丁 (Ameyoko Market)",
+          "image_search_keyword": "Ameyoko Market Tokyo",
+          "rich_description": "晚上來到熱鬧的上野阿美橫丁，這裡充滿了濃厚的市井氣息！各式各樣的藥妝店、平價服飾與海鮮乾貨應有盡有。晚餐推薦在路邊的居酒屋體驗熱鬧的用餐氛圍，來上一串烤雞肉串配啤酒，就是最道地的東京夜晚。🍻",
+          "practical_tip": "💡 達人小提示：這裡的藥妝店價格競爭激烈，建議多比價，通常越靠近車站的價格越優惠。"
+        }
+      ]
     },
-    "zh": {
-        "destination": "東京",
-        "heroImageKeyword": "Tokyo",
-        "days": [
-            {
-                "date": "第一天",
-                "theme": "抵達與城市霓虹",
-                "daySummary": "安頓並探索新宿充滿活力的霓虹街道。",
-                "activities": [
-                    {
-                        "time": "14:00",
-                        "title": "抵達成田機場",
-                        "description": "搭乘成田特快前往市中心。",
-                        "location": "◎ 成田國際機場",
-                        "cost": "JPY 3000",
-                        "needsTicket": false,
-                        "isFood": false
-                    }
-                ]
-            }
-        ]
+    {
+      "day": 2,
+      "day_title": "Day 2：潮流前線與時尚巔峰",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "明治神宮 (Meiji Jingu)",
+          "image_search_keyword": "Meiji Jingu Shrine forest",
+          "rich_description": "隱身在繁華都市中的森林綠洲，明治神宮巨大的鳥居與靜謐的步道，能讓你瞬間忘卻都市的嘈雜。這裡供奉著明治天皇與昭憲皇太后，是東京最神聖的能量景點，晨間漫步在這裡，身心靈都能得到極大的療癒。⛩️",
+          "practical_tip": "💡 達人小提示：從原宿車站出來即可抵達，記得保持安靜，尊重這裡的神聖氛圍。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "原宿竹下通 & 表參道",
+          "image_search_keyword": "Harajuku Takeshita Street",
+          "rich_description": "原宿是日本年輕潮流的發源地！竹下通有著琳瑯滿目的可愛雜貨與必吃的可麗餅，隨後轉往表參道，兩側充滿了精品旗艦店與設計感十足的咖啡廳，建築風格極具現代美感，是時尚愛好者的購物天堂。🛍️",
+          "practical_tip": "💡 達人小提示：表參道上有許多隱藏在巷弄中的設計師小店，值得細細挖掘。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "澀谷十字路口與展望台",
+          "image_search_keyword": "Shibuya Scramble Crossing",
+          "rich_description": "來到東京，怎能不到澀谷十字路口體驗人潮洶湧的震撼感？這裡不僅是潮流中心，更是現代東京的象徵。推薦前往 Shibuya Sky 展望台，在日落時分欣賞 360 度無死角的絕美景色，絕對是你此行最難忘的瞬間！📸",
+          "practical_tip": "💡 達人小提示：Shibuya Sky 的門票非常搶手，務必在出發前一個月上網預訂。",
+          "needsTicket": true,
+          "klookQuery": "Shibuya Scramble Crossing"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "Day 3：文青漫遊與絕美夜景",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "築地場外市場 (Tsukiji Outer Market)",
+          "image_search_keyword": "Tsukiji Outer Market sushi",
+          "rich_description": "美食家的天堂！雖然場內市場已搬遷，但築地場外市場依然熱鬧非凡。這裡聚集了最鮮甜的生魚片丼飯、肥美的烤鰻魚串與現煎玉子燒。建議空著肚子來，一路吃到飽，每一口都是大海最鮮美的滋味！🍣",
+          "practical_tip": "💡 達人小提示：人潮非常多，建議早上 8 點前抵達，避開排隊尖峰。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "銀座商圈",
+          "image_search_keyword": "Ginza luxury shopping",
+          "rich_description": "銀座是東京的高級購物區，擁有眾多頂級百貨公司與精緻的老字號店鋪。在這裡除了購物，更適合感受那股優雅的都會氛圍。不妨找間百年老店享用下午茶，感受日式職人的細膩服務。☕",
+          "practical_tip": "💡 達人小提示：週末銀座的部分路段會封路變成「步行者天國」，走在馬路中央非常過癮！"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "六本木之丘 & 東京鐵塔",
+          "image_search_keyword": "Tokyo Tower night view",
+          "rich_description": "夜晚的重頭戲就是欣賞東京鐵塔！從六本木之丘的 Mori Tower 展望台，可以拍到鐵塔與城市燈火交織的迷人夜景。這裡的氛圍浪漫無比，是情侶約會的首選，也是攝影愛好者捕捉東京夜色的經典地點。🗼",
+          "practical_tip": "💡 達人小提示：展望台內有室內與室外區，建議穿著保暖，室外風大較冷。"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "Day 4：動漫與懷舊鐵道之旅",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "秋葉原電器街",
+          "image_search_keyword": "Akihabara anime district",
+          "rich_description": "動漫迷與電子產品愛好者的聖地！秋葉原擁有無數的公仔店、電玩遊戲中心與電子零件行。即使不是動漫迷，來到這裡感受那種狂熱的次文化氣息也十分有趣，說不定還能挖到意想不到的寶物。🎮",
+          "practical_tip": "💡 達人小提示：許多大型電器行出示護照可享免稅優惠，記得攜帶證件。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "上野公園與美術館",
+          "image_search_keyword": "Ueno Park Tokyo",
+          "rich_description": "位於市區的上野公園，擁有豐富的文化設施，包括國立博物館與美術館。這裡也是賞櫻名所，即便不在花季，漫步在寬廣的步道與不忍池邊，也能感受到濃厚的文化氣息與片刻的寧靜。🎨",
+          "practical_tip": "💡 達人小提示：公園內有許多街頭表演，適合悠閒散步享受午後陽光。",
+          "needsTicket": true,
+          "klookQuery": "Ueno Park Tokyo"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "東京車站與丸之內",
+          "image_search_keyword": "Tokyo Station red brick building",
+          "rich_description": "東京車站本身就是一座美麗的紅磚建築地標。晚上的丸之內區域燈火通明，氣氛高雅，周邊有許多精緻的餐廳。在車站內選購知名的鐵路便當或各種限定伴手禮，為這趟旅程畫下完美的句點。🎁",
+          "practical_tip": "💡 達人小提示：車站內的「東京站一番街」有許多動漫角色商店，非常適合買伴手禮。"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_title": "Day 5：最後採買與優雅告別",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "新宿御苑",
+          "image_search_keyword": "Shinjuku Gyoen National Garden",
+          "rich_description": "在離開東京前，來到新宿御苑享受最後的寧靜。這座融合了日式、英式與法式庭園風格的綠地，空間極為寬廣。在樹蔭下喝杯咖啡，回味這幾天走過的景點，是讓旅程緩慢收尾的最佳方式。🌳",
+          "practical_tip": "💡 達人小提示：入園需門票，建議早點去，人潮較少且光線柔和適合拍照。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "新宿購物中心 (Lumine / Odakyu)",
+          "image_search_keyword": "Shinjuku shopping district",
+          "rich_description": "新宿是東京最繁忙的交通樞紐，也是購物的天堂。各大百貨公司林立，無論是最新款的服飾、藥妝還是生活雜貨，這裡應有盡有。最後衝刺採買伴手禮，把想買的清單一次清空！🛍️",
+          "practical_tip": "💡 達人小提示：新宿車站像迷宮一樣複雜，建議利用車站內的指標輔助，避免迷路。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "成田機場/羽田機場",
+          "image_search_keyword": "Tokyo airport departure",
+          "rich_description": "帶著滿滿的戰利品與回憶，前往機場準備返程。東京這座城市，無論來幾次都會有不同的驚喜。別忘了在機場免稅店買些 Royce 巧克力或東京香蕉，讓這份美味延續到家中。✈️",
+          "practical_tip": "💡 達人小提示：建議提早 3 小時抵達機場，免稅店非常好逛，千萬別錯過！"
+        }
+      ]
     }
+  ],
+  "translations": {
+    "en": {
+      "seo_meta": {
+        "title": "[2026 Tokyo Free Travel] Ultimate 5-Day Itinerary Planning Guide! Attractions, Transportation & Must-Try Food All in One!",
+        "description": "What's the best way to explore Tokyo for the first time? This comprehensive 5-day Tokyo free travel guide will take you through all the must-see spots and local delicacies."
+      },
+      "hero_section": {
+        "hook_intro": "Tokyo, the magical city where tradition merges seamlessly with the future, always has something new waiting for you! Whether it's the historic atmosphere of Sensoji Temple or the neon frenzy of Shibuya Crossing, this 5-day, 4-night Tokyo trip will help you dig deep into the soul of this city. We have meticulously planned an efficient itinerary that allows you to eat to your heart's content and shop till you drop, collecting the most iconic sights of Tokyo in one go!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: The Charm of Downtown and Tokyo Landmarks",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Sensoji Temple",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "The first stop on your Tokyo adventure must be Sensoji Temple! Walk through the iconic red Kaminarimon gate and stroll along Nakamise Street where the aroma of freshly grilled ningyo-yaki will excite your taste buds. Inside the temple, pick a fortune and wash your hands, experience the rich historical heritage left by the Edo period—it's the perfect starting point to feel Tokyo's traditional charm. 📸",
+              "practical_tip": "💡 Expert Tip: Try to arrive before 9 AM to avoid the throngs of tourists and snap the perfect shot without crowds!"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Tokyo Skytree",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "It's a short walk or train ride from Sensoji to the Skytree. Ascend to the observation deck for breathtaking views of the entire Tokyo skyline; on clear days, you might even glimpse Mt. Fuji! The Solamachi shopping mall at the base is great for leisurely browsing, offering many limited edition souvenirs and exquisite gifts, perfect for spending a relaxing afternoon. 🍜",
+              "practical_tip": "💡 Expert Tip: Purchase your fast-pass ticket online in advance to save time queuing.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Ameyoko Market",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "In the evening, head to the bustling Ameyoko Market in Ueno, where the vibrant atmosphere is palpable! You'll find a variety of drugstores, affordable fashion, and seafood snacks. For dinner, enjoy the lively dining atmosphere at a casual izakaya on the street where a skewer of yakitori paired with beer offers the most authentic Tokyo night experience. 🍻",
+              "practical_tip": "💡 Expert Tip: Prices at the drugstores here are competitive, so make sure to compare prices; generally, the closer you are to the station, the better the deals."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: Trendy Frontiers and Fashion Peaks",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Meiji Jingu",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "Hidden in the bustling city is a green oasis at Meiji Jingu, where the massive torii gate and peaceful paths let you forget the urban noise. This shrine honors Emperor Meiji and Empress Shoken, making it one of Tokyo's most sacred energy spots. A morning stroll here can provide immense healing for the body and soul. ⛩️",
+              "practical_tip": "💡 Expert Tip: Just a short walk from Harajuku Station, remember to keep quiet and respect the sacred atmosphere here."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Takeshita Street & Omotesando",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "Harajuku is the birthplace of Japan's youth culture! Takeshita Street is lined with adorable shops and must-try crepes, then head over to Omotesando where flagship boutiques and stylish cafes fill both sides. The modern architectural beauty here is a paradise for fashion lovers. 🛍️",
+              "practical_tip": "💡 Expert Tip: There are many hidden designer shops tucked away in the alleys of Omotesando; they're worth exploring closely."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Shibuya Crossing & Observation Deck",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "No visit to Tokyo would be complete without experiencing the hustle and bustle of Shibuya Crossing! This is not only the center of trends but also a symbol of modern Tokyo. I recommend heading to the Shibuya Sky observation deck at sunset for stunning 360-degree views that will surely be one of your most unforgettable moments! 📸",
+              "practical_tip": "💡 Expert Tip: The tickets for Shibuya Sky are highly sought after, so be sure to book online a month in advance.",
+              "needsTicket": true,
+              "klookQuery": "Shibuya Scramble Crossing"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Day 3: Artsy Amblings and Stunning Night Views",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Tsukiji Outer Market",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "A paradise for foodies! Although the inner market has moved, the Tsukiji Outer Market remains bustling. Here you'll find the freshest sashimi bowls, succulent grilled eel skewers, and freshly made tamagoyaki. Come with an empty stomach, and enjoy a feast where every bite embodies the flavors of the sea! 🍣",
+              "practical_tip": "💡 Expert Tip: The crowds can be overwhelming, so aim to arrive before 8 AM to avoid peak queue times."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Ginza Shopping District",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "Ginza is Tokyo's upscale shopping area, boasting numerous high-end department stores and exquisite long-established shops. Here, you can indulge in shopping while soaking in the elegant city vibe. Why not find a century-old shop to enjoy afternoon tea and experience the meticulous service of Japanese artisans? ☕",
+              "practical_tip": "💡 Expert Tip: Some streets in Ginza are closed to traffic on weekends, transforming them into a 'pedestrian heaven'; walking down the middle of the street is quite the thrill!"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Roppongi Hills & Tokyo Tower",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "The highlight of the evening is undoubtedly the view of Tokyo Tower! From the observation deck at Roppongi Hills' Mori Tower, you can capture stunning night scenes where the tower blends beautifully with the city lights. The romantic atmosphere here makes it a favorite spot for couples and a classic photo opportunity for photography enthusiasts. 🗼",
+              "practical_tip": "💡 Expert Tip: The observation deck has both indoor and outdoor areas, so be sure to dress warmly as it can get windy outside."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Day 4: Anime and Nostalgia Train Journey",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Akihabara Electric Town",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "A holy land for anime fans and electronics enthusiasts! Akihabara is filled with countless stores selling figures, gaming centers, and electronic parts. Even if you're not an anime fan, experiencing the fervent subculture here is quite fascinating, and you might discover unexpected treasures. 🎮",
+              "practical_tip": "💡 Expert Tip: Many large electric shops offer tax-free discounts with your passport, so don’t forget to bring your ID."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Ueno Park & Museums",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "Located in the city center, Ueno Park boasts a wealth of cultural facilities, including national museums and galleries. This area is renowned for cherry blossom viewing, but even outside of the bloom season, strolling along the spacious paths and around Shinobazu Pond, you can still feel the rich cultural atmosphere and a moment of tranquility. 🎨",
+              "practical_tip": "💡 Expert Tip: There are many street performances within the park, perfect for a leisurely stroll and soaking up the afternoon sun.",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Tokyo Station & Marunouchi",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "Tokyo Station itself is a beautiful red brick architectural landmark. At night, the Marunouchi area is brilliantly lit, creating an elegant ambiance, with many exquisite restaurants nearby. Inside the station, purchase famous railway bento boxes or various limited edition souvenirs, putting the perfect wrap on your journey. 🎁",
+              "practical_tip": "💡 Expert Tip: The 'Tokyo Station One Street' inside the station has many anime character shops, ideal for buying souvenirs."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Day 5: Final Shopping and Elegant Farewell",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Shinjuku Gyoen",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "Before leaving Tokyo, come to Shinjuku Gyoen to enjoy the final moments of tranquility. This vast garden, blending Japanese, English, and French styles, offers ample space. Relax under the trees with a cup of coffee, reminiscing about the sights you've explored over these days—a perfect way to slow down your journey. 🌳",
+              "practical_tip": "💡 Expert Tip: Admission requires a ticket, so it's best to arrive early when crowds are fewer and the light is soft for photography."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Shinjuku Shopping Centers (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "Shinjuku is Tokyo's busiest transportation hub and a shopper’s paradise. Major department stores abound here, offering everything from the latest fashion to cosmetics and daily goods. Take a last sprint to purchase souvenirs and clear your shopping list! 🛍️",
+              "practical_tip": "💡 Expert Tip: Shinjuku Station is like a maze; using the station's signs for assistance is recommended to avoid getting lost."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Narita Airport/Haneda Airport",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "With bags full of treasures and memories, head to the airport to prepare for your return journey. This city of Tokyo reveals a different surprise every time you visit. Don't forget to grab some Royce chocolates or Tokyo bananas at the duty-free shops, so this deliciousness continues at home. ✈️",
+              "practical_tip": "💡 Expert Tip: It’s recommended to arrive at the airport 3 hours early, as the duty-free shops are great for browsing, and you definitely don't want to miss out!"
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "seo_meta": {
+        "title": "【2026年 東京 一人旅】完全攻略！5日間モデルコース・観光スポット＆グルメガイド",
+        "description": "初めての東京、どう楽しむ？この超完全な5日間の東京自由旅行ガイドで、ぜひ巡るべき観光地と地元の美味を味わってください。"
+      },
+      "hero_section": {
+        "hook_intro": "東京、この伝統と未来が見事に交錯する魔法の都市には、常に新しい驚きが待っています！浅草寺の古朴な雰囲気から渋谷のネオンの狂熱まで、この5日間4泊の東京の旅が、この街の魂を深く掘り下げます。朝から晩まで満足のいく食事と楽しいショッピングができる効率的なルートを精巧に計画しました。東京のクラシックな風貌を一度に収めましょう！",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "1日目：下町風情と東京のランドマーク",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "Sensoji Temple",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "東京旅行の最初の場所は絶対にSensoji Templeです！赤い雷門を通り抜け、仲見世通りを散策し、焼きたての人形焼きの香りが漂い、思わず手を伸ばしたくなります。境内でおみくじを引き、手を洗いながら江戸時代の深い歴史を感じることができる、東京の伝統的な魅力を感じるのに最適なスタート地点です。📸",
+              "practical_tip": "💡 おすすめ：午前9時前に到着することをお勧めします。混雑したツアーグループを避けて、完璧な景色の写真を撮りましょう！"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "東京スカイツリー (Tokyo Skytree)",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "浅草から徒歩または電車で東京スカイツリーに到着できます。展望台に上がると、東京の全景が広がり、天気が良い時には富士山も見えるかもしれません！東京スカイツリーの下にあるソラマチ商業施設はとても楽しめ、限定版の記念品や精緻なお土産がたくさんあり、ここで悠々と午後を過ごすのにぴったりです。🍜",
+              "practical_tip": "💡達人の小さなヒント：事前にオンラインでファストパスを購入することをお勧めします。長い待ち時間を短縮できます。",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "上野アメ横 (Ameyoko Market)",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "夜になると賑やかな上野アメ横にやってきました。ここは濃厚な市井の雰囲気が漂っています！さまざまなドラッグストアやお手頃な洋服、海鮮の乾物が揃っています。夕食は道端の居酒屋で賑やかな食事の雰囲気を楽しむことをお勧めします。焼き鳥とビールのコンビが本格的な東京の夜を味わえます。🍻",
+              "practical_tip": "💡 達人小提示：この地域のドラッグストアは価格競争が激しいので、値段を比べることをお勧めします。駅に近いほどお得なことが多いです。"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "2日目：トレンドの最前線とファッションの頂点",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "明治神宮 (Meiji Jingu)",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "繁華な都市に隠れた森林のオアシス、明治神宮の巨大な鳥居と静かな散歩道によって、都市の喧騒を一瞬忘れさせてくれます。ここでは明治天皇と昭憲皇太后を祀っています。東京で最も神聖なエネルギースポットで、朝の散歩を楽しめば、心身ともに大きな癒しを得ることができます。⛩️",
+              "practical_tip": "💡 達人小提示：原宿駅からすぐに到着できます。静かにして、ここにある神聖な雰囲気を尊重してください。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "原宿竹下通り & 表参道",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "原宿は日本の若者トレンドの発信地！竹下通りには可愛い雑貨や必食のクレープがたくさんあります。その後、表参道に移り、両側には高級ブランドの旗艦店とデザイン感あふれるカフェが並び、建築スタイルは非常に現代的で、ファッション愛好者のショッピング天国です。🛍️",
+              "practical_tip": "💡 達人小提示：表参道には路地裏に隠れたデザイナーの小さなお店がたくさんあるので、ぜひ探してみてください。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "渋谷スクランブル交差点とShibuya Sky",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "東京に来たら、渋谷のスクランブル交差点の人々の波を体験しないわけにはいきません！ここはトレンドの中心だけでなく、現代東京の象徴でもあります。Shibuya Sky展望台へ行くことをお勧めします。夕暮れ時に360度の美しい景色を楽しむことができる、あなたの旅の中で最も忘れられない瞬間になること間違いなしです！📸",
+              "practical_tip": "💡達人小提示：Shibuya Skyのチケットは非常に人気がありますので、出発の1ヶ月前にオンラインで予約してください。"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "3日目：文化漂流と絶美夜景",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "築地場外市場 (Tsukiji Outer Market)",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "食の楽園！築地市場は移転しましたが、築地の場外市場は今も賑わっています。ここでは新鮮な刺身丼、ふっくらした鰻串、焼きたての玉子焼きを楽しむことができます。空腹の状態で訪れることをお勧めします。すべての一口で海の美味しさを堪能できます！🍣",
+              "practical_tip": "💡 プロの小さなヒント：非常に混雑するので、午前8時前に到着するのがベストです。待ち時間を避けることができます。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "銀座",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "銀座は東京の高級ショッピングエリアで、数多くの高級デパートや伝統的な老舗店があります。ここではショッピングだけでなく、その優雅な都会の雰囲気を満喫できます。100年の歴史を持つ店でアフタヌーンティーを楽しみ、日本の職人による細やかなサービスを体験してみてはいかがでしょうか。☕",
+              "practical_tip": "💡 マスターからのヒント：週末の銀座では、一部の道路が封鎖され「歩行者天国」となります。道路の真ん中を歩くのはとても楽しいですよ！"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "六本木ヒルズ & 東京タワー",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "東京タワーを楽しむ夜のメインイベントです！六本木ヒルズの森タワーの展望台からは、東京タワーと都市の灯りが交わる魅惑的な夜景が撮れます。この雰囲気は非常にロマンチックで、カップルのデートに最適ですし、写真愛好者が東京の夜を捉えるのにも最適なスポットです。🗼",
+              "practical_tip": "💡 達人小提示：展望台には屋内と屋外のエリアがありますので、暖かい服を着ることをお勧めします。外は風が強くて寒いです。"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "4日目：アニメと懐かしい鉄道の旅",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "秋葉原電気街",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "アニメファンと電子機器愛好者の聖地！秋葉原には無数のフィギュアショップやゲームセンター、電子部品の店が揃っています。アニメファンでなくても、ここでこの熱狂的なサブカルチャーを体感するのは非常に面白く、思いもよらない宝物を見つけるかもしれません。🎮",
+              "practical_tip": "💡 達人からの小さなヒント：多くの大型家電量販店ではパスポートを提示すると免税サービスがありますので、身分証明書を持参することをお勧めします。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "上野公園と美術館",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "市内にある上野公園は豊かな文化施設を備えており、国立博物館や美術館もあります。ここは桜の名所でもあり、花の季節でなくても広々とした歩道や不忍池の周りを散策すれば、濃厚な文化的な雰囲気と瞬間の静けさを感じることができます。🎨",
+              "practical_tip": "💡 おすすめのヒント：公園内には多くのストリートパフォーマンスがあり、ゆったりと散歩を楽しむのに最適です。",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "東京駅と丸の内",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "東京駅自体が美しいレンガ造りの建築のランドマークです。夜の丸の内エリアは明るく照らされ、エレガントな雰囲気で、周囲には多くの精緻なレストランがあります。駅内で有名な鉄道弁当や様々な限定のお土産を購入し、この旅の完璧な締めくくりをしましょう。🎁",
+              "practical_tip": "💡 達人小提示：駅内の「東京駅一番街」には多くのアニメキャラクターショップがあり、お土産を買うのに最適です。"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "5日目：最後の買い物と優雅な別れ",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "Shinjuku Gyoen",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "東京を去る前に、新宿御苑で最後の静けさを楽しんでください。この場所は日本式、イギリス式、フランス式の庭園スタイルが融合した広々としたスペースです。木陰でコーヒーを飲みながら、これまで訪れた観光地を思い出すのが、旅を穏やかに締めくくるのに最適な方法です。🌳",
+              "practical_tip": "💡 達人小提示：入園にはチケットが必要ですので、早めに行くことをお勧めします。混雑が少なくて、光が柔らかいので写真にも適しています。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "新宿ショッピングセンター (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "新宿は東京で最も混雑する交通の要所であり、ショッピングの楽園です。さまざまなデパートが立ち並び、最新の服、ドラッグストア、生活雑貨が揃っています。最後のスパートでお土産を買って、欲しいものリストを一気にクリアしましょう！🛍️",
+              "practical_tip": "💡 おすすめのヒント：新宿駅は迷路のように複雑ですので、駅内の案内が役立ちます。迷子にならないように注意してください。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "成田空港/羽田空港",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "たくさんの戦利品と思い出を持って空港へ向かい、帰国の準備をします。この東京という都市は、何度訪れてもさまざまな驚きがあります。空港の免税店でロイズのチョコレートや東京ばな奈を買うのをお忘れなく、これらの美味しさを家に持ち帰りましょう。✈️",
+              "practical_tip": "💡達人小提示：空港には早めに3時間前に到着することをお勧めします。免税店はとても良いので、絶対に見逃さないで！"
+            }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "seo_meta": {
+        "title": "【2026 도쿄 자유여행】최강 5일 일정 계획 가이드! 관광지 교통 & 필수 먹거리 완벽 가이드",
+        "description": "첫 번째 도쿄 여행은 어떻게 즐길까? 이 글에서는 필수 관광지를 모두 포함한 아주 완벽한 5일 도쿄 자유 여행 가이드를 소개합니다."
+      },
+      "hero_section": {
+        "hook_intro": "도쿄, 전통과 미래가 완벽하게 어우러진 마법의 도시에서 언제나 새로운 것들이 당신을 기다립니다! 아사쿠사 사원의 고풍스러운 분위기든, 시부야 횡단보도의 네온 열기든, 이 5일 4박의 도쿄 여행이 당신에게 이 도시의 영혼을 깊이 탐구하게 해줄 것입니다. 우리는 아침부터 저녁까지 풍성하게 먹고 즐길 수 있는 효율적인 동선으로 도쿄의 전통적인 매력을 한 번에 즐길 수 있도록 정성껏 계획했습니다!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "첫째 날: 하늘과의 조화 & 도쿄 랜드마크",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "아사쿠사 신사 (Sensoji Temple)",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "도쿄 여행의 첫 번째 목적지는 분명 아사쿠사 신사입니다! 붉은 雷門을 지나 중간세 거리에서 걷고, 갓 구워낸 인형구이의 향기 속에서 먹고 싶어 질 것입니다. 사원 안에서 줄을 풀고 손을 씻으며 에도 시대의 짙은 역사적 배경을 느끼는 것은 전통적인 도쿄의 매력을 느끼기에 최고의 시작입니다.📸",
+              "practical_tip": "💡 전문가의 팁: 아침 9시 이전에 도착하셔서 관광객 인파를 피하고 가장 완벽한 사진을 찍어보세요!"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "도쿄 스카이트리 (Tokyo Skytree)",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "아사쿠사에서 도보로 또는 전철로 스카이트리에 도착합니다. 전망대에서 도쿄 전경을 한눈에 담고, 날씨가 좋으면 후지산까지 조망할 수 있습니다! 스카이트리 아래의 소라마치 쇼핑몰은 매우 알차고, 한정판 기념품과 세련된 선물이 많아 여유롭게 오후를 보내기 좋습니다.🍜",
+              "practical_tip": "💡 전문가의 팁: 미리 인터넷에서 빠른 패스를 구매하여 긴 대기 시간을 줄이는 것이 좋습니다.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "우에노 아메요코 거리 (Ameyoko Market)",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "저녁에는 활기찬 우에노 아메요코 거리에 오세요. 이곳은 풍부한 시장의 정취로 가득합니다! 각종 약국, 저렴한 의류와 해산물 건어물이 있습니다. 저녁에는 길가의 이자카야에서 활기찬 식사 분위기를 경험해 보세요. 구운 닭꼬치와 맥주 한 잔이 진정한 도쿄의 밤입니다.🍻",
+              "practical_tip": "💡 전문가의 팁: 이곳의 약국은 가격 경쟁이 치열하니 여러 곳을 비교하고, 보통 역 가까운 곳의 가격이 더 유리합니다."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "둘째 날: 트렌드 최전선과 패션의 정점",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "메이지 신궁 (Meiji Jingu)",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "번화한 도시 속의 숲의 오아시스인 메이지 신궁의 거대한 토리와 고요한 산책로는 도시의 소음을 잊게 해줄 것입니다. 여기는 메이지 천황과 쇼켄 황후를 모시는 가장 신성한 장소로, 아침의 산책은 신체와 정신 모두를 편안하게 해줄 것입니다.⛩️",
+              "practical_tip": "💡 전문가의 팁: 하라주쿠 역에서 바로 갈 수 있으며, 조용히 유지하고 이곳의 신성한 분위기를 존중하세요."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "하라주쿠 타케시타 거리 & 오모테산도",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "하라주쿠는 일본 젊은이들의 트렌드의 발상지입니다! 타케시타 거리는 귀여운 잡화와 필수 먹거리 크레페로 가득하며, 이어서 오모테산도로 이동해 양옆에 있는 브랜드 플래그십 스토어와 디자인 감각이 돋보이는 카페를 느껴보세요. 이곳은 패션 애호가들의 쇼핑 천국입니다.🛍️",
+              "practical_tip": "💡 전문가의 팁: 오모테산도에는 골목에 숨겨진 디자이너 가게가 많으니 면밀히 찾아보세요."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "시부야 횡단보도 & 전망대",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "도쿄에 왔으면 시부야 횡단보도를 경험해보지 않을 수 없죠? 이곳은 트렌드의 중심이자 현대 도쿄의 상징입니다. 시부야 스카이 전망대에 가서 일몰 시간에 360도 전경을 감상하는 것은 이번 여행에서 가장 잊지 못할 순간이 될 것입니다!📸",
+              "practical_tip": "💡 전문가의 팁: 시부야 스카이 티켓은 매우 인기가 많으니 출발 전에 한 달 전에 미리 예약하세요.",
+              "needsTicket": true,
+              "klookQuery": "Shibuya Scramble Crossing"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "셋째 날: 문화 탐방과 절경의 밤",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "츠키지 외시장 (Tsukiji Outer Market)",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "미식가의 천국! 내부 시장은 이동했지만 츠키지 외시장은 여전히 활기찹니다. 여기에서는 가장 신선한 생선회 덮밥, 풍성한 구운 장어 꼬치와 갓 부친 계란 말이를 즐길 수 있습니다. 빈속으로 와서 배부르게 먹는 것을 추천합니다. 한 입 한 입이 바다의 가장 맛있는 맛입니다!🍣",
+              "practical_tip": "💡 전문가의 팁: 사람이 매우 많으니 아침 8시 이전에 도착하여 대기 피크를 피하세요."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "긴자 상점가",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "긴자는 도쿄의 고급 쇼핑 지역으로, 수많은 최고급 백화점과 정교한 전통 가게가 가득합니다. 여기서는 쇼핑 외에 우아한 도시 분위기를 느끼기 좋습니다. 백년 된 가게에서 애프터눈 티를 즐기며 일본의 장인의 섬세한 서비스를 경험해보세요.☕",
+              "practical_tip": "💡 전문가의 팁: 주말에는 긴자 일부 도로가 차 없는 거리로 변해 매우 즐겁게 거리를 걸을 수 있습니다!"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "롯폰기 힐즈 & 도쿄 타워",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "밤의 하이라이트는 도쿄 타워 감상입니다! 롯폰기 힐즈의 모리 타워 전망대에서 타워와 도시의 불빛이 어우러진 매력적인 야경을 촬영할 수 있습니다. 이곳의 분위기는 로맨틱하고, 연인들의 데이트 장소 및 사진 애호가들이 도쿄의 야경을 담기에 완벽한 장소입니다.🗼",
+              "practical_tip": "💡 전문가의 팁: 전망대 내부에는 실내와 야외 구역이 있으니 따뜻하게 입으세요. 야외는 바람이 차가울 수 있습니다."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "넷째 날: 애니메이션과 복고풍 철도 여행",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "아키하바라 전자상가",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "애니메이션 팬과 전자 제품 애호가의 성지! 아키하바라는 수많은 피규어 가게, 게임 센터와 전자 부품 가게가 있습니다. 애니메이션 팬이 아니더라도 이곳에서 느껴지는 그 열렬한 하위 문화의 분위기를 즐기는 것은 매우 흥미롭고, 예상치 못한 보물을 발견할 수도 있습니다.🎮",
+              "practical_tip": "💡 전문가의 팁: 많은 대형 전자 상가에서는 여권을 제시하면 면세 혜택을 받을 수 있으니 꼭 신분증을 챙기세요."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "우에노 공원 & 미술관",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "도심에 위치한 우에노 공원은 풍부한 문화 시설을 갖추고 있으며, 국립 박물관과 미술관이 있습니다. 여기서는 벚꽃 명소이기도 하므로, 꽃 시즌이 아닐 때에도 넓은 산책로와 우에노 연못가를 거닐며 풍부한 문화적 분위기와 순간의 고요함을 느낄 수 있습니다.🎨",
+              "practical_tip": "💡 전문가의 팁: 공원 내에는 많은 거리 공연이 있어 여유롭게 산책하며 오후의 햇볕을 즐기기에 좋습니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "도쿄역 & 마루노우치",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "도쿄역 자체가 아름다운 붉은 벽돌 건축의 랜드마크입니다. 저녁의 마루노우치 지역은 불빛이 반짝이며, 우아한 분위기가 감돕니다. 주변에는 많은 정교한 레스토랑이 있습니다. 역 안에서 유명한 철도 도시락이나 각종 한정 기념품을 구매해 이 여행을 완벽하게 마무리하세요.🎁",
+              "practical_tip": "💡 전문가의 팁: 역 내부의 '도쿄역 이치방가이'에는 많은 애니메이션 캐릭터 가게들이 있어 기념품 구매에 매우 좋습니다."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "다섯째 날: 마지막 쇼핑과 우아한 작별",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "신주쿠 교엔",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "도쿄를 떠나기 전에 신주쿠 교엔에서 마지막 고요함을 느껴보세요. 일본식, 영국식, 프랑스식 정원 스타일이 결합된 이 초록 공간은 매우 넓습니다. 그늘 아래에서 커피 한 잔을 마시며 이 며칠 동안 돌아본 장소들을 회상하는 것은 여행을 느리게 마무리 짓는 최고의 방법입니다.🌳",
+              "practical_tip": "💡 전문가의 팁: 입장료가 필요하니 일찍 가는 것이 좋습니다. 인파가 적고 촬영하기 좋은 부드러운 빛이 들어옵니다."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "신주쿠 쇼핑센터 (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "신주쿠는 도쿄에서 가장 바쁜 교통 요충지이자 쇼핑의 천국입니다. 각종 대형 백화점이 밀집해 있어 최신 의류, 약품, 생활 잡화 등 다양한 제품들을 찾을 수 있습니다. 마지막 스퍼트로 기념품 구매에 몰두하여 사고 싶은 리스트를 한 번에 비우세요!🛍️",
+              "practical_tip": "💡 전문가의 팁: 신주쿠역은 미로처럼 복잡하니 역 내의 지표를 참고해 길을 잃지 않도록 하세요."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "나리타 공항/하네다 공항",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "가득한 전리품과 기억들을 안고 공항으로 가서 귀국 준비를 하세요. 도쿄는 몇 번을 방문해도 새롭고 다양한 놀라움을 줍니다. 공항 면세점에서 Royce 초콜릿이나 도쿄 바나나를 사는 것을 잊지 말고, 이 맛있는 것을 집으로 가져가세요.✈️",
+              "practical_tip": "💡 전문가의 팁: 공항에서는 3시간 전에 도착하는 것이 좋습니다. 면세점에서 매우 즐거운 쇼핑을 할 수 있으니 절대 놓치지 마세요!"
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "seo_meta": {
+        "title": "【2026 Tokyo Voyage Libre】Le guide complet de 5 jours ! Attractions, transport et gastronomie incontournable",
+        "description": "Comment s'amuser à Tokyo lors de votre première visite ? Cet article détaillé sur 5 jours à Tokyo vous fait découvrir toutes les attractions à ne pas manquer et à déguster la cuisine locale."
+      },
+      "hero_section": {
+        "hook_intro": "Tokyo, cette ville magique où tradition et futur se mêlent parfaitement, a toujours quelque chose de nouveau à vous offrir ! Que ce soit l'atmosphère ancienne du Temple Sensoji ou l'effervescence du carrefour de Shibuya, ce voyage de 5 jours et 4 nuits à Tokyo vous prendra au cœur de l'âme de cette ville. Nous avons soigneusement planifié un itinéraire efficace pour que vous puissiez vous régaler et faire du shopping, tout en capturant la beauté emblématique de Tokyo !",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Jour 1 : Le charme traditionnel et les monuments de Tokyo",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Temple Sensoji (Sensoji Temple)",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "La première étape de votre voyage à Tokyo doit absolument être le Temple Sensoji ! Traversez la porte rouge Kaminarimon et flânez dans la rue commerçante Nakamise, avec son odeur de dorayaki chaud. Tirer un omikuji et se laver les mains dans le temple vous plongera dans la riche histoire laissée par l'époque Edo, un excellent point de départ pour ressentir le charme traditionnel de Tokyo. 📸",
+              "practical_tip": "💡 Conseil d'expert : Il est conseillé d'arriver avant 9h pour éviter les foules de touristes, et ainsi prendre la plus belle photo de la scène vide !"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Tokyo Skytree",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "De Sensoji, vous pouvez marcher ou prendre le train pour rejoindre la Tokyo Skytree. Montez à l'observatoire pour profiter d'une vue imprenable sur toute la ville de Tokyo, et par temps clair, vous pourrez même apercevoir le mont Fuji ! Le centre commercial Solamachi au pied de la tour est parfait pour flâner, avec de nombreux souvenirs en édition limitée et des cadeaux raffinés, idéal pour passer l'après-midi tranquillement. 🍜",
+              "practical_tip": "💡 Conseil d'expert : Pensez à acheter vos billets coupe-file en ligne à l'avance pour éviter les longues files d'attente.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Marché Ameyoko",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "En soirée, rendez-vous à l'animé marché Ameyoko à Ueno, où l'atmosphère de la rue est vibrante ! De nombreuses boutiques de cosmétiques, vêtements abordables et produits de fruits de mer abondent. Pour le dîner, n'oubliez pas de vousinstaller dans un izakaya en plein air pour profiter de l'ambiance conviviale, en savourant des brochettes de poulet grillées accompagnées d'une bière, c'est la vraie nuit tokyoïte. 🍻",
+              "practical_tip": "💡 Conseil d'expert : Les prix des pharmacies sont très concurrentiels ici, il est conseillé de comparer les prix, généralement ceux près de la station sont plus avantageux."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Jour 2 : À la pointe de la mode et du style",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Meiji Jingu",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "Caché dans la ville animée, le sanctuaire Meiji Jingu est une oasis de verdure. Son immense torii et ses sentiers silencieux vous permettent d'oublier le bruit de la ville. Sanctuaire dédié à l'empereur Meiji et à l'impératrice Shoken, c'est un lieu sacré où une promenade matinale apporte une grande guérison à l'âme. ⛩️",
+              "practical_tip": "💡 Conseil d'expert : Sortez de la station Harajuku pour y accéder, pensez à garder le silence pour respecter l'atmosphère sacrée."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Takeshita Street & Omotesando",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "Harajuku est la source de la mode jeune au Japon ! Takeshita Street regorge de mignonnes boutiques et de crêpes délicieuses, puis direction Omotesando, où de nombreuses boutiques de luxe et des cafés au design moderne se situent des deux côtés, un vrai paradis de shopping pour les amateurs de mode. 🛍️",
+              "practical_tip": "💡 Conseil d'expert : De nombreuses petites boutiques de designers cachées dans les ruelles autour d'Omotesando méritent d'être explorées."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Carrefour de Shibuya et Sky",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "À Tokyo, comment manquer l'occasion de voir le célèbre carrefour de Shibuya et de ressentir l'impressionnant flot de la foule ? Il s'agit non seulement du centre de la mode, mais aussi d'un symbole moderne de Tokyo. Je vous recommande de vous rendre à l'observatoire Shibuya Sky pour admirer la vue panoramique à couper le souffle au coucher du soleil, un moment inoubliable de votre voyage ! 📸",
+              "practical_tip": "💡 Conseil d'expert : Les billets pour Shibuya Sky se vendent rapidement, n'oubliez pas de les réserver en ligne un mois avant votre départ."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Jour 3 : Flânerie culturelle et vues nocturnes époustouflantes",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Marché Extérieur de Tsukiji",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "Le paradis des gourmets ! Bien que le marché intérieur ait déménagé, le marché extérieur de Tsukiji reste très animé. Vous y trouverez des donburi de sashimi ultra frais, des brochettes d'anguille grillée et des omelettes japonaises fraîchement cuites. Mieux vaut venir avec l'estomac vide et manger à volonté, chaque bouchée est une explosion de saveurs maritimes ! 🍣",
+              "practical_tip": "💡 Conseil d'expert : Comme il y a beaucoup de monde, il est conseillé d'arriver avant 8h pour éviter les files d'attente."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Quartier de Ginza",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "Ginza est le quartier du shopping haut de gamme de Tokyo, avec de nombreux grands magasins et boutiques artisanales raffinées. C'est un endroit non seulement pour faire du shopping, mais aussi pour savourer l'élégance de l'atmosphère urbaine. Pourquoi ne pas trouver un établissement centenaire pour déguster un thé l'après-midi et apprécier le service minutieux des artisans japonais ? ☕",
+              "practical_tip": "💡 Conseil d'expert : À Ginza, certains rues sont fermées le week-end pour permettre aux piétons de se balader, c'est très agréable de marcher au milieu de la route !"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Roppongi Hills & Tokyo Tower",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "Le clou de la soirée est d'admirer la Tokyo Tower ! Depuis l'observatoire Mori Tower de Roppongi Hills, vous pourrez capturer une vue nocturne fascinante où la tour et les lumières de la ville se mêlent. L'atmosphère y est extrêmement romantique, un endroit parfait pour une date, ainsi qu'un lieu emblématique pour les photographes à la recherche des meilleures vues nocturnes de Tokyo. 🗼",
+              "practical_tip": "💡 Conseil d'expert : L'observatoire a des zones intérieures et extérieures, pensez à vous habiller chaudement car il peut faire frais dehors."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Jour 4 : Voyage à travers l'animation et le chemin de fer nostalgique",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Akihabara Electric Town",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "Un sanctuaire pour les fans d'animation et d'électronique ! Akihabara est rempli d'innombrables magasins de figurines, centres de jeux vidéo et boutiques d'électronique. Même si vous n'êtes pas fan d'animation, il est très amusant de ressentir cette forte culture sous-culture ici, et vous pourriez même découvrir des trésors inattendus. 🎮",
+              "practical_tip": "💡 Conseil d'expert : De nombreux grands magasins d'électronique offrent des réductions hors taxes si vous montrez votre passeport, n'oubliez pas de l'apporter."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Parc Ueno et musées",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "Le parc Ueno, situé au cœur de la ville, abrite de nombreuses installations culturelles, y compris le musée national et le musée des beaux-arts. C'est aussi un lieu célèbre pour observer les cerisiers, même hors saison, une promenade le long des larges sentiers et du lac Shinobazu vous fera ressentir la riche atmosphère culturelle et une touche de sérénité. 🎨",
+              "practical_tip": "💡 Conseil d'expert : Le parc propose de nombreuses performances de rue, parfaites pour une promenade tranquille en profitant du soleil de l’après-midi.",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Gare de Tokyo et Marunouchi",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "La gare de Tokyo est elle-même un magnifique bâtiment en briques rouges. Le quartier de Marunouchi est illuminé le soir avec une ambiance élégante, entouré de nombreux restaurants raffinés. Pensez à acheter de célèbres bentos ferroviaires ou divers souvenirs à la gare pour mettre un point final parfait à ce voyage. 🎁",
+              "practical_tip": "💡 Conseil d'expert : À 'Tokyo Station Ichibangai' dans la gare, il y a de nombreuses boutiques de personnages d'animation, parfaites pour acheter des souvenirs."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Jour 5 : Dernières emplettes et au revoir élégant",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Jardin National Shinjuku Gyoen",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "Avant de quitter Tokyo, venez savourer le dernier moment de tranquillité au jardin Shinjuku Gyoen. Cet espace de verdure qui mêle styles de jardins japonais, anglais et français offre une vaste étendue. Profitez d'un café à l'ombre des arbres, et revivez les sites que vous avez visités ces derniers jours, c'est le meilleur moyen de conclure votre voyage avec sérénité. 🌳",
+              "practical_tip": "💡 Conseil d'expert : L'entrée nécessite un ticket, il est conseillé d'y aller tôt pour éviter la foule et profiter de la lumière douce parfaite pour les photos."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Centre Commercial Shinjuku (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "Shinjuku est le carrefour de transport le plus occupé de Tokyo et aussi un paradis du shopping. Les grands magasins y abondent, que ce soit pour les vêtements les plus récents, les cosmétiques ou les articles ménagers, il y a tout ce qu'il vous faut. Enfin, foncez pour acheter des souvenirs, videz une fois pour toutes votre liste d'achats ! 🛍️",
+              "practical_tip": "💡 Conseil d'expert : La gare de Shinjuku est complexe comme un labyrinthe, il est conseillé d'utiliser les panneaux à l'intérieur pour éviter de se perdre."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Aéroport de Narita / Aéroport de Haneda",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "Avec plein de souvenirs et de mémoire, dirigez-vous vers l’aéroport pour votre vol de retour. Peu importe le nombre de fois où vous venez, cette ville vous réserve toujours de nouvelles surprises. N'oubliez pas de faire un tour dans les boutiques duty-free pour acheter quelques chocolats Royce ou des bananes de Tokyo, prolongeant ce délicieux souvenir jusqu'à chez vous. ✈️",
+              "practical_tip": "💡 Conseil d'expert : Il est recommandé d'arriver 3 heures avant votre vol, les boutiques duty-free sont très intéressantes, ne les manquez surtout pas !"
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "seo_meta": {
+        "title": "【2026 Tokio Viaje Libre】¡La mejor guía de itinerario de 5 días para ti! Transporte, atracciones y gastronomía imperdibles",
+        "description": "¿Cómo disfrutar de Tokio en tu primera visita? Esta guía completa de 5 días en Tokio te llevará a explorar los lugares imprescindibles y a saborear la deliciosa comida local."
+      },
+      "hero_section": {
+        "hook_intro": "¡Tokio, esta mágica ciudad donde la tradición y el futuro se entrelazan a la perfección, siempre tiene algo nuevo que ofrecerte! Ya sea la atmósfera histórica de Sensoji o la locura de neón en Shibuya, este viaje de 5 días y 4 noches te llevará a descubrir el alma de esta ciudad. Hemos planeado una ruta eficiente para que disfrutes de una buena comida y compras desde la mañana hasta la noche, ¡coleccionando la esencia más clásica de Tokio!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Día 1: El encanto del distrito antiguo y los íconos de Tokio",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Sensoji Temple",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "¡La primera parada en tu viaje a Tokio debe ser Sensoji! Cruza la puerta roja de Kaminarimon y pasea por la calle comercial Nakamise, donde el aroma del ningyo-yaki recién horneado te hará la boca agua. Haz una ofrenda y lava tus manos dentro del templo, sintiendo la rica historia que dejó la Era Edo, es el mejor comienzo para experimentar el encanto tradicional de Tokio.📸",
+              "practical_tip": "💡 Consejo del experto: Se recomienda llegar antes de las 9 a.m. para evitar las aglomeraciones turísticas y capturar la mejor foto del lugar vacío."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Tokyo Skytree",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "Desde Asakusa, puedes caminar o tomar el tren para llegar al Skytree. Sube al mirador y disfruta de una panorámica completa de la ciudad de Tokio; en un día claro, ¡incluso podrás ver el Monte Fuji! El centro comercial Solamachi, ubicado bajo la torre, es un lugar ideal para pasear, lleno de souvenirs exclusivos y delicados recuerdos, perfecto para disfrutar de una tarde relajada.🍜",
+              "practical_tip": "💡 Consejo del experto: Se recomienda comprar el boleto de acceso rápido en línea con anticipación para ahorrar tiempo en la fila.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Ameyoko Market",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "Por la noche, dirígete al bullicioso Ameyoko Market en Ueno, ¡lleno de una atmósfera vibrante! Aquí encontrarás una amplia variedad de tiendas de productos cosméticos, ropa asequible y mariscos secos. Se recomienda cenar en un izakaya al aire libre para experimentar el ambiente animado de la cena; una brocheta de pollo a la parrilla con cerveza es la forma más auténtica de disfrutar de una noche en Tokio.🍻",
+              "practical_tip": "💡 Consejo del experto: Los precios en las tiendas de cosméticos son muy competitivos aquí, se recomienda comparar precios, generalmente, cuanto más cerca estés de la estación, mejor será el precio."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Día 2: Vanguardias de la moda y cumbres fashionistas",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Meiji Jingu",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "Escondido en la bulliciosa ciudad, el Meiji Jingu es un oasis forestal. Sus enormes torii y senderos silenciosos te harán olvidar la contaminación urbana al instante. Este lugar alberga al Emperador Meiji y a la Emperatriz Shoken, siendo uno de los puntos de energía más sagrados de Tokio. Pasear aquí por la mañana te brindará una gran sanación tanto física como espiritual.⛩️",
+              "practical_tip": "💡 Consejo del experto: Desde la estación de Harajuku se llega fácilmente, recuerda mantener el silencio y respetar la atmósfera sagrada del lugar."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Takeshita Street & Omotesando",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "¡Harajuku es la cuna de la moda juvenil en Japón! Takeshita Street cuenta con una variedad de adorables tiendas de souvenirs y crepes imperdibles. Luego, dirígete a Omotesando, donde encontrarás tiendas de lujo y cafeterías de diseño; la armonía arquitectónica es extremadamente contemporánea, un verdadero paraíso para los amantes de la moda.🛍️",
+              "practical_tip": "💡 Consejo del experto: Omotesando alberga muchas pequeñas boutiques de diseñadores ocultas en callejones, ¡vale la pena explorarlas!"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Shibuya Crossing y el Mirador",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "¿Cómo visitar Tokio sin experimentar la impactante multitud de Shibuya Crossing? Este lugar no solo es el centro de moda, sino también un símbolo de la moderna Tokio. Se recomienda visitar el mirador Shibuya Sky y disfrutar de unas impresionantes vistas de 360 grados al atardecer, ¡será uno de los momentos más memorables de tu viaje!📸",
+              "practical_tip": "💡 Consejo del experto: Las entradas para Shibuya Sky son muy solicitadas, asegúrate de reservar en línea al menos un mes antes de tu viaje.",
+              "needsTicket": true,
+              "klookQuery": "Shibuya Scramble Crossing"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Día 3: Paseo artístico y paisajes nocturnos asombrosos",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Tsukiji Outer Market",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "¡El paraíso de los amantes de la comida! Aunque el mercado interior se ha trasladado, el mercado exterior de Tsukiji sigue siendo un lugar bullicioso. Aquí puedes encontrar los más frescos sashimis, deliciosas brochetas de anguila y okonomiyaki recién preparados. Se recomienda ir con hambre y disfrutar de cada bocado, cada uno es una delicia del mar.🍣",
+              "practical_tip": "💡 Consejo del experto: Hay mucha afluencia de gente, así que se recomienda llegar antes de las 8 a.m. para evitar las horas pico de espera."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Zona de Ginza",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "Ginza es la zona de compras de lujo en Tokio, con numerosas tiendas departamentales premium y comercios tradicionales. Los visitantes pueden disfrutar de un elegante ambiente urbano mientras compran. No dudes en visitar una tienda centenaria para disfrutar de un té de la tarde, y experimentar el atento servicio de los artesanos japoneses.☕",
+              "practical_tip": "💡 Consejo del experto: Algunos tramos en Ginza se cierran para convertirse en zonas peatonales durante los fines de semana, ¡es muy divertido caminar en el medio de la carretera!"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Roppongi Hills & Tokyo Tower",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "El gran espectáculo de la noche es admirar la Tokyo Tower. Desde el mirador de Mori Tower en Roppongi Hills, puedes capturar una impresionante vista nocturna donde la torre se entrelaza con las luces de la ciudad. La atmósfera aquí es extremadamente romántica, siendo el lugar ideal para citas, así como un lugar clásico para los amantes de la fotografía que desean capturar la noche en Tokio.🗼",
+              "practical_tip": "💡 Consejo del experto: El mirador tiene áreas interiores y exteriores; se recomienda vestirse abrigado, ya que hace frío afuera por el viento."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Día 4: Un viaje por el mundo del anime y los tranvías nostálgicos",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Akihabara Electric Town",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "¡El lugar sagrado para los fanáticos del anime y los amantes de productos electrónicos! Akihabara alberga innumerables tiendas de figuras, centros de videojuegos y proveedores de componentes electrónicos. Incluso si no eres un entusiasta del anime, la atmósfera del subcultura aquí es muy interesante, ¡puede que encuentres tesoros inesperados!🎮",
+              "practical_tip": "💡 Consejo del experto: Muchas tiendas electrónicas ofrecen descuentos fiscales al mostrar tu pasaporte, ¡asegúrate de llevarlo contigo!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Ueno Park y Museos",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "Situado en el centro de la ciudad, Ueno Park tiene una rica oferta cultural, incluyendo museos nacionales y galerías. Esta también es una famosa zona de cherry blossoms, y aunque no estés en temporada de floración, pasear por sus amplios senderos y junto al estanque Shinobazu te permitirá sentir la intensa atmósfera cultural y disfrutar de un momento de paz.🎨",
+              "practical_tip": "💡 Consejo del experto: Hay muchas actuaciones callejeras en el parque, ideales para disfrutar de un paseo tranquilo bajo el sol de la tarde.",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Estación de Tokio y Marunouchi",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "La estación de Tokio es en sí misma un hermoso hito arquitectónico de ladrillo rojo. En la noche, la zona de Marunouchi brilla con luces, creando un ambiente elegante, con muchos restaurantes de calidad cerca. Aprovecha para comprar un famoso bento de tren o varios souvenirs exclusivos en la estación, poniendo un broche perfecto a esta experiencia.🎁",
+              "practical_tip": "💡 Consejo del experto: En el 'Tokyo Station East Entrance' hay muchas tiendas de personajes de anime, ¡perfectas para comprar recuerdos!"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Día 5: Últimas compras y una elegante despedida",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Shinjuku Gyoen",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "Antes de dejar Tokio, visita Shinjuku Gyoen para disfrutar de un último instante de tranquilidad. Este espacio verde que combina estilos de jardines japonés, inglés y francés es extremadamente amplio. Tómate un café a la sombra de los árboles y recuerda los lugares que has visitado en estos días, ¡una gran manera de cerrar tu viaje lentamente!🌳",
+              "practical_tip": "💡 Consejo del experto: La entrada requiere un boleto, se recomienda ir temprano cuando hay menos gente y la luz es suave, ideal para fotos."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Shinjuku Shopping Center (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "Shinjuku es el nodo de transporte más concurrido de Tokio y un paraíso para las compras. Con tantos grandes almacenes, encontrarás ropa de última moda, productos cosméticos y artículos de uso diario aquí. ¡Haz un último esfuerzo para comprar souvenirs y completa tu lista de compras!🛍️",
+              "practical_tip": "💡 Consejo del experto: La estación de Shinjuku es un laberinto, se recomienda utilizar las señales dentro de la estación para evitar perderse."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Aeropuerto de Narita/Aeropuerto de Haneda",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "Con un montón de recuerdos y tesoros, dirígete al aeropuerto preparándote para regresar. Esta ciudad, sin importa cuántas veces la visitas, siempre tendrá sorpresas. No olvides comprar algunos chocolates Royce o el famoso Tokyo Banana en las tiendas libres de impuestos del aeropuerto, para llevar un toque de sabor a casa.✈️",
+              "practical_tip": "💡 Consejo del experto: Se recomienda llegar al aeropuerto 3 horas antes, las tiendas libres de impuestos son muy interesantes, ¡no te lo pierdas!"
+            }
+          ]
+        }
+      ]
+    },
+    "id": {
+      "seo_meta": {
+        "title": "【2026 Tokyo Bebas Berwisata】Rencana Itinerary 5 Hari Terbaik! Panduan Lengkap Tempat Wisata, Transportasi & Kuliner Wajib Coba",
+        "description": "Pertama kali ke Tokyo, bagaimana cara bermain? Artikel ini adalah panduan lengkap 5 hari di Tokyo, yang akan membawa Anda mengunjungi tempat-tempat wajib dan mencicipi makanan lokal."
+      },
+      "hero_section": {
+        "hook_intro": "Tokyo, kota magis yang menyatukan tradisi dan masa depan dengan sempurna, selalu menyimpan hal baru yang menunggu untuk Anda! Dari suasana klasik Sensoji Temple hingga keramaian jalan di Shibuya Crossing, perjalanan 5 hari 4 malam ini akan membawa Anda menggali lebih dalam jiwa kota ini. Kami telah merencanakan rute yang efisien untuk Anda, sehingga Anda dapat menikmati makanan lezat dan berbelanja dengan senang hati, mengumpulkan momen-momen ikonik Tokyo dalam satu perjalanan! ",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Hari 1: Suasana Kota Tua dan Landmark Tokyo",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Sensoji Temple",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "Tempat pertama yang harus Anda kunjungi di Tokyo adalah Sensoji Temple! Setelah melewati gerbang merah Kaminarimon, berjalan-jalanlah di Nakamise Shopping Street, aroma dorayaki yang baru dipanggang menggugah selera. Minta omikuji dan cuci tangan Anda di dalam kuil, rasakan kedalaman sejarah yang ditinggalkan dari era Edo; ini adalah awal yang terbaik untuk merasakan pesona tradisional Tokyo.📸",
+              "practical_tip": "💡 Tips Ahli: Disarankan untuk tiba sebelum jam 9 pagi, agar terhindar dari kerumunan turis dan memotret foto tanpa orang lain!"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Tokyo Skytree",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "Dari Sensoji, Anda bisa berjalan kaki atau naik kereta ke Skytree. Setelah naik ke observatorium, seluruh pemandangan kota Tokyo akan terlihat indah, jika cuacanya baik, Anda bahkan dapat melihat Gunung Fuji! Mall Solamachi di bawah menara sangat menarik untuk dijelajahi, dengan banyak souvenir edisi terbatas dan oleh-oleh yang elegan, cocok untuk menikmati sore dengan santai.🍜",
+              "practical_tip": "💡 Tips Ahli: Disarankan untuk membeli tiket akses cepat secara online sebelumnya, untuk menghemat waktu antri yang panjang.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Ameyoko Market",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "Malam hari, kunjungi Ameyoko Market yang ramai, tempat ini penuh dengan suasana pasar yang kental! Berbagai apotek, pakaian murah, dan makanan laut kering tersedia di sini. Untuk makan malam, disarankan mencoba izakaya di pinggir jalan untuk merasakan suasana makan yang meriah, sabukkan satu tusuk sate ayam dengan bir, itu adalah malam Tokyo yang paling autentik.🍻",
+              "practical_tip": "💡 Tips Ahli: Harga di apotek di sini sangat kompetitif, disarankan untuk membandingkan harga; biasanya semakin dekat ke stasiun, harganya semakin menguntungkan."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Hari 2: Garis Depan Mode dan Puncak Fashion",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Meiji Jingu",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "Tersembunyi di tengah kota yang ramai, Meiji Jingu adalah oasis hutan yang tenang. Gerbang torii yang besar dan jalur pejalan kaki yang damai di sini akan membuat Anda sejenak melupakan kebisingan kota. Kuil ini didedikasikan untuk Kaisar Meiji dan Permaisuri Shoken, merupakan salah satu tempat energik paling suci di Tokyo. Berjalan-jalan di sini di pagi hari akan membawa ketenangan bagi tubuh, pikiran, dan jiwa.⛩️",
+              "practical_tip": "💡 Tips Ahli: Setelah keluar dari Stasiun Harajuku, Anda bisa langsung menuju ke sini; ingatlah untuk menjaga ketenangan dan menghormati suasana suci di sini."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Takeshita Street & Omotesando",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "Harajuku adalah tempat lahirnya budaya mode muda Jepang! Takeshita Street dipenuhi dengan barang-barang lucu dan crepe yang harus dicoba, kemudian bergeser ke Omotesando, di mana ada banyak butik-butik flagship dan kafe dengan desain yang sangat stylish. Gaya arsitekturnya sangat modern dan merupakan surga belanja bagi para pecinta fashion.🛍️",
+              "practical_tip": "💡 Tips Ahli: Ada banyak toko desainer kecil yang tersembunyi di gang-gang di Omotesando, patut untuk dieksplorasi."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Shibuya Crossing dan Shibuya Sky",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "Ketika Anda berada di Tokyo, tidak lengkap rasanya jika tidak merasakan keramaian Shibuya Crossing! Ini bukan hanya pusat mode, tetapi juga simbol Tokyo modern. Disarankan untuk menuju ke observatorium Shibuya Sky, pada saat matahari terbenam untuk menikmati pemandangan indah 360 derajat, pasti akan menjadi salah satu momen paling tak terlupakan dalam perjalanan Anda!📸",
+              "practical_tip": "💡 Tips Ahli: Tiket untuk Shibuya Sky sangat diminati, pastikan untuk memesan online sebulan sebelum keberangkatan."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Hari 3: Petualangan Kawasan Budaya dan Pemandangan Malam yang Indah",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Pasar Luar Tsukiji",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "Surga bagi para pecinta kuliner! Meskipun pasar dalam sudah pindah, Pasar Luar Tsukiji tetap ramai. Di sini terdapat sashimi yang segar, yakitori unagi yang lezat, dan tamagoyaki yang baru digoreng. Disarankan untuk datang dengan perut kosong, dan makan sampai puas, setiap gigitan adalah rasa laut yang paling segar!🍣",
+              "practical_tip": "💡 Tips Ahli: Banyak orang, disarankan untuk tiba sebelum jam 8 pagi, untuk menghindari antrian siang yang sibuk."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Distrik Ginza",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "Ginza adalah kawasan belanja mewah di Tokyo, dengan banyak department store terkemuka dan toko-toko tradisional yang elegan. Di sini, selain berbelanja, Anda juga bisa merasakan suasana metropolitan yang anggun. Jangan ragu untuk menemukan toko tua yang sudah berusia lebih dari seratus tahun untuk menikmati teh sore dan merasakan layanan halus dari pengrajin Jepang.☕",
+              "practical_tip": "💡 Tips Ahli: Di akhir pekan, beberapa jalan di Ginza akan ditutup untuk pejalan kaki, berjalan di tengah jalan sangat menyenangkan!"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Roppongi Hills & Tokyo Tower",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "Sorotan malam hari adalah melihat Tokyo Tower! Dari observatorium Mori Tower di Roppongi Hills, Anda bisa mengambil foto menara dan lampu kota berpadu dengan indah. Suasana di sini sangat romantis, pilihan utama bagi pasangan, serta lokasi klasik untuk penggemar fotografi dalam menangkap keindahan malam Tokyo.🗼",
+              "practical_tip": "💡 Tips Ahli: Di dalam observatorium terdapat area dalam dan luar ruangan, disarankan untuk berpakaian hangat karena angin bisa cukup dingin."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Hari 4: Perjalanan Anime dan Nostalgia Kereta Api",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Akihabara Electric Town",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "Tempat suci bagi penggemar anime dan pecinta elektronik! Akihabara memiliki banyak toko figur, pusat permainan video, dan toko suku cadang elektronik. Bahkan jika Anda bukan penggemar anime, merasakan semangat subkultur yang berkobar di sini sangatlah menarik, dan mungkin Anda bisa menemukan barang-barang tak terduga.🎮",
+              "practical_tip": "💡 Tips Ahli: Banyak toko besar yang menawarkan bebas pajak jika menunjukkan paspor, jangan lupa untuk membawa dokumen."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Taman Ueno dan Museum",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "Taman Ueno yang terletak di pusat kota memiliki banyak fasilitas budaya, termasuk museum nasional dan galeri seni. Ini juga merupakan tempat terkenal untuk menikmati bunga sakura, meskipun bukan musim berbunga, berjalan di jalur luas dan di tepi kolam Shinobazu, Anda dapat merasakan kekayaan budaya dan momen ketenangan.🎨",
+              "practical_tip": "💡 Tips Ahli: Ada banyak pertunjukan jalanan di taman ini, cocok untuk berjalan santai dan menikmati sinar matahari sore.",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Stasiun Tokyo & Marunouchi",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "Stasiun Tokyo sendiri adalah landmark bangunan bata merah yang indah. Malam hari, area Marunouchi sangat terang benderang dengan suasana yang elegan, dikelilingi oleh banyak restoran yang mewah. Pilihlah bento kereta api terkenal atau berbagai oleh-oleh edisi terbatas, untuk mengakhiri perjalanan ini dengan sempurna.🎁",
+              "practical_tip": "💡 Tips Ahli: Di dalam stasiun, 'Tokyo Station First Avenue' memiliki banyak toko karakter anime, sangat cocok untuk membeli oleh-oleh."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Hari 5: Belanja Terakhir dan Perpisahan Elegan",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Shinjuku Gyoen",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "Sebelum meninggalkan Tokyo, datanglah ke Shinjuku Gyoen untuk menikmati ketenangan terakhir. Taman ini menggabungkan gaya taman Jepang, Inggris, dan Prancis, dengan ruang yang sangat luas. Nikmati secangkir kopi di bawah teduh pohon, mengingat kembali tempat-tempat yang telah Anda kunjungi selama beberapa hari ini, adalah cara terbaik untuk mengakhiri perjalanan secara perlahan.🌳",
+              "practical_tip": "💡 Tips Ahli: Masuk ke taman memerlukan tiket, disarankan untuk datang lebih awal, saat kerumunan sedikit dan cahayanya lembut untuk foto."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Pusat Perbelanjaan Shinjuku (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "Shinjuku adalah pusat transportasi tersibuk di Tokyo dan juga surga belanja. Banyak department store berdiri berdampingan, apakah itu pakaian terbaru, obat-obatan, atau barang-barang kebutuhan sehari-hari, semuanya ada di sini. Terakhir, belanjalah oleh-oleh yang ingin Anda bawa pulang, kosongkan daftar belanja Anda sekaligus!🛍️",
+              "practical_tip": "💡 Tips Ahli: Stasiun Shinjuku sangat rumit seperti labirin, disarankan untuk memanfaatkan panduan di dalam stasiun agar tidak tersesat."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Bandara Narita/Bandara Haneda",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "Dengan membawa banyak barang bawaan dan kenangan, pergi ke bandara untuk bersiap kembali. Kota Tokyo ini, tidak peduli berapa kali Anda mengunjungi, selalu menawarkan kejutan yang berbeda. Jangan lupa membeli beberapa cokelat Royce atau Tokyo Banana di toko bebas pajak bandara, untuk memperpanjang kenikmatan ini hingga di rumah.✈️",
+              "practical_tip": "💡 Tips Ahli: Disarankan untuk tiba 3 jam sebelum penerbangan, karena toko bebas pajak di sini sangat menarik, jangan sampai terlewat!"
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "seo_meta": {
+        "title": "【2026 टोक्यो फ्री ट्रिप】सर्वश्रेष्ठ 5-दिन की यात्रा योजना पैक! स्थलों, परिवहन और अनिवार्य खाने की पूर्ण गाइड",
+        "description": "पहली बार टोक्यो जा रहे हैं? यह संपूर्ण 5-दिन की टोक्यो यात्रा गाइड आपके लिए अनिवार्य स्थलों और स्थानीय व्यंजनों का अनुभव करने का मौका देती है।"
+      },
+      "hero_section": {
+        "hook_intro": "टोक्यो, यह जादुई शहर जो परंपरा और भविष्य को पूरी तरह से समेटे हुए है, हमेशा नई चीजों का इंतजार कर रहा है! चाहे वो सेंसोजी मंदिर का प्राचीन वातावरण हो या शिबुया क्रॉसिंग की नीयन चकाचौंध, यह 5 दिन और 4 रात की टोक्यो यात्रा आपको इस शहर की आत्मा को गहराई से जानने का मौका देगी। हमने एक कुशल यात्रा योजना तैयार की है, जिससे आप सुबह से लेकर रात तक मजेदार खाने एवं खरीदारी का आनंद ले सकें। टोक्यो के सबसे क्लासिक रूप को एक बार में समेट लीजिए!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: डाउनटाउन का आकर्षण और टोक्यो के पहचान स्थल",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "सेंसोजी मंदिर (Sensoji Temple)",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "टोक्यो की यात्रा का पहला पड़ाव सेनसोजी मंदिर है! लाल雷门 को पार करते हुए, नाकामिसे स्ट्रीट पर चलें, जहां ताजे बेक किए गए मानव आकार के बिस्कुट की महक आपको लुभा लेगी। मंदिर के अंदर पूजा करने और अपने हाथ धोने का अनुभव करें, और Edo काल की समृद्ध ऐतिहासिक गहराई को महसूस करें। यह टोक्यो की परंपरागत खूबसूरती का अनुभव करने का बेहतरीन स्थान है।📸",
+              "practical_tip": "💡 विशेषज्ञ टिप: सुबह 9 बजे से पहले पहुंचने की सलाह दी जाती है, ताकि प्रवासी पर्यटकों की भीड़ से बच सकें और आप बेहतरीन बिना लोगों के दृश्य की फोटो ले सकें!"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "टोक्यो स्काईट्री (Tokyo Skytree)",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "सेंसोजी से पैदल चलकर या ट्रैन लेकर स्काईट्री पहुँचा जा सकता है। व्यूइंग डेक से, पूरे टोक्यो का दृश्य दिखाई देता है और अगर मौसम अच्छा है, तो आप फुजी पर्वत को भी देख सकते हैं! टॉवर के नीचे Solamachi शॉपिंग मॉल में कई विशेष स्मारिका और उत्तम उपहार हैं, जहां आप आराम से दोपहर बिता सकते हैं।🍜",
+              "practical_tip": "💡 विशेषज्ञ टिप: लंबे कतार से बचने के लिए ऑनलाइन फास्ट ट्रैक पास खरीदने की सलाह दी जाती है।",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "उएनो अमेयोको मार्केट (Ameyoko Market)",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "रात में जीवंत उएनो अमेयोको मार्केट पर पहुँचें, यही वह जगह है जहां शहर की गहरी भावनाएँ देखने को मिलती हैं! यहां विभिन्न प्रकार की दवा की दुकानें, सस्ती कपड़े और समुद्री खाद्य सामग्री मिलती हैं। रेस्टोरेंटों में गली के किनारे खाने का अनुभव लें,़क्योंकि ताजे ग्रिल्ड चिकन स्क्यूर्स के साथ बीयर, टोक्यो की रात का सही अनुभव है।🍻",
+              "practical_tip": "💡 विशेषज्ञ टिप: यहाँ की दवा की दुकानों में मूल्य तुलना करना उचित है, और आमतौर पर स्टेशन के करीब की कीमतें अधिक प्रीमियम होती हैं।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: ट्रेंडिंग और फैशन की चोटी",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "मेइजी जिंगु (Meiji Jingu)",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "शानदार शहर के बीचोंबीच एक हरे-भरे ओएसिस, मेइजी श्राइन का विशाल तोरी और शांतिपूर्ण पगडंडियाँ आपको तुरंत शहरी हलचल को भुला देती हैं। यहाँ मेइजी सम्राट और शोकेन सम्राज्ञी की पूजा की जाती है, यह टोक्यो का सबसे पवित्र ऊर्जा स्थल है, यहाँ सुबह की सैर करते हुए, आपका शरीर, मन और आत्मा सभी को गहन उपचार मिल सकता है।⛩️",
+              "practical_tip": "💡 विशेष टिप: हारजुकु स्टेशन से बाहर निकलते ही पहुंच जाएंगे, ध्यान रखें कि यहां की पवित्रता का सम्मान करते हुए चुप रहें।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "हराजुकु तकेशिता स्ट्रीट और ओमोटे सांडो",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "हराजुकु जापान के युवा ट्रेंडिंग का जन्मस्थान है! तकेशिता स्ट्रीट पर प्यारी सजावटी वस्तुओं और आवश्यक क्रीप्स की भरपूर विविधता है, फिर ओमोटे सांडो में जाएँ, जहाँ दोनों ओर उच्च ब्रांड की स्टोर और डिजाइन फोकस वाले कैफे हैं। यह शॉपर्स के लिए स्वर्ग है!🛍️",
+              "practical_tip": "💡 विशेषज्ञ टिप: ओमोटेसांडो में कई डिजाइनरों की छोटी दुकानें हैं जो गली-गली में छिपी हुई हैं और उन्हें खोजना बेहद दिलचस्प है।"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "शिबुया क्रॉसिंग और व्यूइंग डेक",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "टोक्यो आने पर, आप शिबुया क्रॉसिंग पर भीड़ की धड़कन का अनुभव नहीं कर सकते? यहाँ आधुनिक टोक्यो का प्रतीक है। शिबुया स्काई व्यूइंग डेक पर जाकर, सूर्यास्त के समय 360-डिग्री बेहतरीन दृश्य का आनंद लें, ये आपके सफर का सबसे यादगार क्षण होगा!📸",
+              "practical_tip": "💡 विशेषज्ञ टिप: शिबुया स्काई के टिकट जल्दी मिलते हैं, यात्रा से एक महीने पहले ऑनलाइन बुकिंग करना न भूलें।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Day 3: साहित्यिक भ्रमण और अद्भुत रात का दृश्य",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "त्सुकिजी आउटडर मार्केट (Tsukiji Outer Market)",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "खाद्य प्रेमियों का स्वर्ग! हालाँकि आंतरिक बाजार स्थानांतरित हो चुका है, त्सुकिजी आउटर मार्केट अब भी हलचल भरा है। यहाँ सबसे ताजे साशिमी बवंडर, ग्रिल्ड एंग्लरकीज़ और ताजे टमागोयाकी मिलते हैं। सलाह दी जाती है कि यहाँ भूख लेकर आएँ, और यहाँ तक कि आप बिना कोई विशेष आदेश के खा सकते हैं।🍣",
+              "practical_tip": "💡 विशेषज्ञ टिप: यहाँ भीड़ अधिक होती है, सुबह 8 बजे से पहले पहुँचने की सलाह दी जाती है।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "गिन्ज़ा शॉपिंग क्षेत्र",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "गिन्ज़ा टोक्यो का प्रमुख शॉपिंग क्षेत्र है, जहाँ विश्व के शीर्ष डिपार्टमेंट स्टोर्स और शानदार बिक्री के स्थल हैं। यहाँ खरीदारी करने के अलावा, एक शानदार शहरी वातावरण का आनंद लेना भी उचित है। कभी-कभी, सम्पूर्ण आनंद का अनुभव करते हुए, एक सच्चे जापानी चाय का आनंद लें।☕",
+              "practical_tip": "💡 विशेषज्ञ टिप: वीकेंड पर गिन्ज़ा के कुछ रास्ते बंद होकर पैदल यातायात के लिये खुल जाते हैं, जिससे सड़क पर चलना मजेदार होता है!"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "रोबोंगी हिल और टोक्यो टॉवर",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "रात का मुख्य आकर्षण टोक्यो टॉवर का आनंद लेना है! रोबोंगी हिल के मोरी टॉवर के दृष्टिकोण से, आप टावर और शहर की रोशनी को एकत्रित देख सकते हैं। यह 분위ा गहराई से रोमांटिक है, जो कपल्स के डेट्स के लिए एक प्रमुख स्थान है, तथा फोटोग्राफी प्रेमियों के लिए टोक्यो की रात की सच्ची यादें पाने का शानदार स्थान है।🗼",
+              "practical_tip": "💡 विशेषज्ञ टिप: व्यूइंग डेक में इनडोर और आउटडोर क्षेत्र हैं, सर्दियों के मौसम में गर्म कपड़े पहनने की सलाह दी जाती है।"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Day 4: एनीमे और पुरानी रेलवे यात्रा",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "अकिहाबारा इलेक्ट्रॉनिक स्ट्रीट",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "एनिमे प्रेमियों और इलेक्ट्रॉनिक सामान के शौकीनों के लिए एक स्वर्ग! अकिहाबारा में अनगिनत प्लश टॉय स्टोर्स, वीडियो गेम सेंटर्स और इलेक्ट्रॉनिक पार्ट्स की दुकानें हैं। यदि आप एनिमे प्रेमी नहीं हैं, तो भी यहाँ की अद्भुत उपसंस्कृति का अनुभव करने में मजा आएगा, शायद आपको कुछ अप्रत्याशित खजाने भी मिल जाएँ।🎮",
+              "practical_tip": "💡 विशेषज्ञ टिप: कई बड़े इलेक्ट्रॉनिक स्टोर्स में पासपोर्ट दिखाने पर कर मुक्त छूट मिलती है, इसलिए पहचान पत्र साथ ले जाना न भूलें।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "उएनो पार्क और संग्रहालय",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "शहर के बीचोंबीच उएनो पार्क में सांस्कृतिक सुविधाओं का भंडार है, जिसमें राष्ट्रीय संग्रहालय और कला संग्रहालय शामिल हैं। यहाँ भी चेरी ब्लॉसम देखने का स्थान है। जब भी फूलों का मौसम ना हो, यहाँ की चौड़ी पगडंडियों पर चलने और नेनबु कोई किनारे पर बैठकर इस पेटू संस्कृति अनुभव और शांति का आनंद लें।🎨",
+              "practical_tip": "💡 विशेषज्ञ टिप: पार्क में कई स्ट्रीट परफॉरमेंस होते हैं, इसलिए आराम से चलने और दिन की धूप का आनंद लेने के लिए यह स्थान बहुत अच्छा है।",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "टोक्यो स्टेशन और Marunouchi",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "टोक्यो स्टेशन स्वयं एक सुंदर लाल ईंट की संरचना है। रात में Marunouchi क्षेत्र रोशनी से जगमगा उठता है, यह भी बहुत अच्छा है। यहाँ कई शानदार रेस्तरां हैं। स्टेशन में प्रसिद्ध रेलव का बेंटो या विभिन्न सीमित उपहार खरीदें, ताकि आपकी यात्रा का एक सुंदर अंत हो。🎁",
+              "practical_tip": "💡 विशेषज्ञ टिप: स्टेशन के 'टोक्यो स्टेशन इची बान गाई' में कई एनीमे किरदारों की दुकानें हैं, जो उपहार खरीदने के लिए बहुत अच्छी हैं।"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Day 5: अंतिम खरीदारी और शालीन विदाई",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "शिंजुकु ग्योएन",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "टोक्यो छोड़ने से पहले, शिंजुकु ग्योएन में अंतिम शांति का अनुभव करें। यह स्थान जापानी, अंग्रेजी और फ्रेंच गार्डन स्टाइल का मिश्रण है, और यह बहुत ही विशाल है। छायादार स्थान पर कॉफी का आनंद लेने के लिए आइए, इस यात्रा के दौरान देखे गए स्थलों की यादों को ताजा करें, यह यात्रा को सुखद अंत देने का सबसे अच्छा तरीका है।🌳",
+              "practical_tip": "💡 विशेषज्ञ टिप: प्रवेश के लिए शुल्क है, इसलिए जल्दी आने की सलाह दी जाती है, ताकि भीड़ कम हो और प्रकाश फोटो के लिए उपयुक्त हो।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "शिंजुकु मॉल (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "शिंजुकु टोक्यो का सबसे व्यस्त ट्रैफिक हब और खरीदारी का स्वर्ग है। यहाँ के प्रमुख डिपार्टमेंट स्टोर्स में नवीनतम फैशन का कपड़ा और दवा सामग्री आदि हैं। आखिरी बार स्मृति चिन्ह खरीदने के लिए अपना लिस्ट पूरा करें!🛍️",
+              "practical_tip": "💡 विशेषज्ञ टिप: शिंजुकु स्टेशन बहुत जटिल है, इसलिए स्टेशन में संकेतों का सहायता का उपयोग करें ताकि आप भटक न जाएं।"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "नारिता एयरपोर्ट / हानेडा एयरपोर्ट",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "विजय और यादों के साथ, एयरपोर्ट की ओर बढ़ें ताकि आप घर लौट सकें। टोक्यो ऐसा शहर है जो आपको हमेशा नए आश्चर्य देगा। एयरपोर्ट के ड्यूटी फ्री स्टोर पर Royce चॉकलेट या टोक्यो बानाना खरीदना न भूलें ताकि यह स्वाद आपके घर तक पहुँच जाए।✈️",
+              "practical_tip": "💡 विशेषज्ञ टिप: एयरपोर्ट पर 3 घंटे पहले पहुंचने की सलाह दी जाती है, ड्यूटी फ्री स्टोर में खरीदारी करना न भूलें!"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "seo_meta": {
+        "title": "【2026 Tóquio Viagem Livre】O melhor roteiro de 5 dias! Guia completo de atrações, transporte & comidas imperdíveis",
+        "description": "É sua primeira vez em Tóquio e não sabe como aproveitar? Este guia super completo de 5 dias em Tóquio te levará a todos os pontos imperdíveis e sabores locais."
+      },
+      "hero_section": {
+        "hook_intro": "Tóquio, esta mágica cidade onde o tradicional e o futuro se entrelaçam perfeitamente, está sempre cheia de novidades para você! Desde a atmosfera histórica do Templo Sensoji até a frenética Shibuya Crossing, esta viagem de 5 dias e 4 noites irá te levar a descobrir a alma dessa cidade. Planejamos um roteiro eficiente para você aproveitar cada momento, comer bem e fazer compras, colecionando o melhor que Tóquio tem a oferecer!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Dia 1: Charme do Centro e Marcos de Tóquio",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Templo Sensoji (Sensoji Temple)",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "A primeira parada na sua viagem por Tóquio deve ser o Templo Sensoji! Atravesse o Torii vermelho e passeie pela Nakamise Street, onde a aroma dos ningyo-yaki recém-assados é irresistível. Faça uma prece e lave suas mãos no templo, sentindo a rica história que remonta à época Edo. Este é o melhor ponto de partida para experimentar o charme tradicional de Tóquio.📸",
+              "practical_tip": "💡 Dica do especialista: é recomendável chegar antes das 9 da manhã para evitar as multidões de turistas e conseguir fotos perfeitas!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Tokyo Skytree",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "Caminhe ou pegue o trem até a Tokyo Skytree. Suba no mirante e tenha uma vista panorâmica de toda a cidade de Tóquio; em dias de céu limpo, você até pode avistar o Monte Fuji! O shopping Solamachi na base da torre é ótimo para passear, com muitas lembranças exclusivas e presentes bem elaborados, ideal para relaxar à tarde.🍜",
+              "practical_tip": "💡 Dica do especialista: é aconselhável comprar os ingressos para o fast pass online com antecedência e evitar filas longas.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Mercado Ameyoko (Ameyoko Market)",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "À noite, vá até o vibrante Mercado Ameyoko em Ueno, repleto de uma autêntica atmosfera local! Você encontrará uma variedade de lojas de cosméticos, roupas acessíveis e frutos do mar secos. Para o jantar, recomendamos que você experimente um izakaya na rua, saboreando espetinhos de frango e cerveja, a verdadeira experiência da noite tokyoense.🍻",
+              "practical_tip": "💡 Dica do especialista: os preços nas lojas de cosméticos aqui são bem competitivos; recomendamos comparar e geralmente os preços mais baixos estão mais próximos da estação."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Dia 2: Vanguarda e Moda",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Santuário Meiji (Meiji Jingu)",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "Escondido na floresta no meio da cidade agitada, o Santuário Meiji, com seu enorme Torii e trilhas tranquilas, faz você esquecer instantaneamente o barulho da cidade. Este é o local de culto para o Imperador Meiji e a Imperatriz Shoken, um dos pontos de energia sagrada de Tóquio. Passear aqui pela manhã é uma maneira incrível de se reconectar com seu eu interior.⛩️",
+              "practical_tip": "💡 Dica do especialista: é fácil acessar a partir da estação Harajuku; lembre-se de manter o silêncio e respeitar a atmosfera sagrada do lugar."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Takeshita Street & Omotesando",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "Harajuku é a origem da cultura jovem e da moda no Japão! Takeshita Street está repleta de lojas de artigos fofos e crepes deliciosos; em seguida, siga para Omotesando, com suas boutiques de grife e cafeterias com design impressionante. A arquitetura moderna aqui é um paraíso para os amantes da moda.🛍️",
+              "practical_tip": "💡 Dica do especialista: em Omotesando, há muitas lojas de designers escondidas pelas ruas laterais que valem a pena explorar."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Shibuya Crossing e Shibuya Sky",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "Se você está em Tóquio, não pode deixar de sentir a eletricidade da famosa Shibuya Crossing! Este lugar é não só um centro de moda, mas também um símbolo da Tóquio moderna. Recomendamos que você vá ao mirante Shibuya Sky, onde poderá admirar a incrível vista 360 graus ao pôr do sol, sendo este um dos momentos mais memoráveis da sua viagem!📸",
+              "practical_tip": "💡 Dica do especialista: os ingressos para Shibuya Sky são bastante procurados, então é essencial reservar online com um mês de antecedência."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Dia 3: Passeios Culturais e Noites Lindas",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Mercado Externo de Tsukiji (Tsukiji Outer Market)",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "Um paraíso para os amantes da gastronomia! Embora o mercado interno tenha se mudado, o mercado externo de Tsukiji continua vibrante. Aqui você encontrará o mais delicioso sashimi de atum, espetinhos de enguia grelhada e omeletes recém-preparadas. É recomendável vir com o estômago vazio e comer até se satisfazer, cada mordida é a explosão do sabor do mar!🍣",
+              "practical_tip": "💡 Dica do especialista: há muitas pessoas, então chegue antes das 8 da manhã para evitar as filas."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Ginza",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "Ginza é a área de compras de luxo de Tóquio, com muitas lojas de departamentos de alta qualidade e boutiques tradicionais. Aqui, além de fazer compras, você pode sentir a elegante atmosfera urbana. Não deixe de encontrar uma loja centenária para um chá da tarde e experimentar o serviço delicado de artesãos japoneses.☕",
+              "practical_tip": "💡 Dica do especialista: nos finais de semana, algumas ruas de Ginza são fechadas para se tornarem um 'parque para pedestres'; é uma experiência divertida andar pela rua."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Roppongi Hills & Tokyo Tower",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "O destaque da noite é apreciar a Tokyo Tower! A partir do mirante do Mori Tower em Roppongi Hills, você pode capturar a mágica vista noturna, onde a torre e as luzes da cidade se entrelaçam. A atmosfera aqui é incrivelmente romântica, tornando-se o local perfeito para casais e um clássico para os amantes da fotografia.🗼",
+              "practical_tip": "💡 Dica do especialista: há áreas internas e externas no mirante, então é recomendável vestir-se bem para o frio, pois a brisa pode ser forte."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Dia 4: Viagem pelo Mundo dos Animes e Nostalgia Ferroviária",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Akihabara",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "Um santuário para fãs de anime e eletrônicos! Akihabara é repleta de lojas de figuras, centros de jogos e lojas de componentes eletrônicos. Mesmo que você não seja fã de anime, é uma experiência divertida absorver o clima dessa subcultura energética, e você pode encontrar tesouros inesperados.🎮",
+              "practical_tip": "💡 Dica do especialista: muitas grandes lojas de eletrônicos oferecem isenção de impostos se você mostrar seu passaporte, então não esqueça de levar!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Parque Ueno e Museus",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "Localizado no centro da cidade, o Parque Ueno oferece uma rica variedade de instalações culturais, incluindo museus nacionais e galerias. Este também é um local famoso para ver as cerejeiras; mesmo fora da temporada, uma caminhada ao longo dos amplos caminhos e próxima ao lago Shinobazu proporciona uma rica atmosfera cultural e momentos de tranquilidade.🎨",
+              "practical_tip": "💡 Dica do especialista: há muitas performances de rua no parque, perfeitas para uma caminhada relaxante aproveitando o sol da tarde.",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Estação de Tóquio e Marunouchi",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "A Estação de Tóquio é em si um belo marco de arquitetura em tijolos vermelhos. À noite, a área de Marunouchi se ilumina, criando uma atmosfera sofisticada, com muitos restaurantes requintados nas proximidades. Dentro da estação, aproveite para comprar os famosos bentôs ou lembranças exclusivas, encerrando sua viagem de maneira perfeita.🎁",
+              "practical_tip": "💡 Dica do especialista: a 'Tokyo Station Ichiban-Gai' tem muitas lojas de personagens de anime, perfeitas para comprar lembranças."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Dia 5: Últimas Compras e Elegante Despedida",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Jardim Nacional Shinjuku Gyoen",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "Antes de deixar Tóquio, aproveite a tranquilidade do Shinjuku Gyoen. Este espaço, que combina estilos de jardins japonês, inglês e francês, é vasto e proporciona um descanso perfeito. Sentar-se à sombra de uma árvore com um café e relembrar os pontos que você visitou nos últimos dias é uma maneira ideal de encerrar sua viagem lentamente.🌳",
+              "practical_tip": "💡 Dica do especialista: a entrada requer um ingresso, por isso, é melhor chegar cedo, quando há menos pessoas e a luz é suave para fotos."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Shopping Shinjuku (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "Shinjuku é o centro de transporte mais movimentado de Tóquio e um paraíso para compras. Com várias lojas de departamentos, você encontrará as mais recentes roupas, cosméticos e artigos para o lar. Última chance para comprar lembranças e limpar sua lista de itens desejados!🛍️",
+              "practical_tip": "💡 Dica do especialista: a estação de Shinjuku é como um labirinto complexo, é aconselhável usar as sinalizações dentro da estação para evitar se perder."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Aeroporto de Narita / Aeroporto de Haneda",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "Com tantas lembranças e experiências, dirija-se ao aeroporto para o retorno. Tóquio, com suas surpresas a cada visita, nunca decepciona. Não esqueça de comprar chocolates Royce ou bananas de Tóquio nas lojas duty-free do aeroporto, para que esses sabores deliciosos continuem em casa.✈️",
+              "practical_tip": "💡 Dica do especialista: é aconselhável chegar ao aeroporto 3 horas antes do seu voo, as lojas duty-free são ótimas para explorar, não perca essa oportunidade!"
+            }
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "seo_meta": {
+        "title": "【2026 طوكيو رحلة حرة】أقوى خطة رحلة لمدة 5 أيام!",
+        "description": "كيف تلعب في طوكيو للمرة الأولى؟ هذا الدليل الشامل لرحلة حرة لمدة 5 أيام في طوكيو، يأخذك لزيارة المعالم السياحية الأساسية وتذوق الأطعمة المحلية."
+      },
+      "hero_section": {
+        "hook_intro": "طوكيو، هذه المدينة السحرية التي تجمع بين التقليد والمستقبل بشكل مثالي، دائماً ما لديها أشياء جديدة تنتظرك! سواء كانت الأجواء القديمة في معبد سينسوجي، أو جنون النيون في تقاطع شibuya، ستأخذك هذه الرحلة التي تمتد لخمسة أيام وأربع ليالٍ في عمق روح المدينة. لقد خططنا بدقة لمسار فعال يجعلك تستمتع بالأكل والتسوق من الصباح حتى الليل، مما يجعلك تجمع تجارب طوكيو الكلاسيكية كلها مرة واحدة!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "اليوم 1: أجواء المدينة القديمة ومعالم طوكيو",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "معبد سينسوجي (Sensoji Temple)",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "تعتبر محطة البداية الأولى خلال رحلتك إلى طوكيو هي معبد سينسوجي! قم بالسير عبر البوابة الحمراء المعروفة بـ 'رايمون' وتجوّل في شارع نامكيسودا التجاري، حيث تتنتشر رائحة 'نينغوياكي' المحمصة حديثاً مما يجعلك تشعر بالجوع. قم بالصلاة داخل المعبد واغسل يديك، لتشعر بجو التاريخ القوي الذي خلفه عصر إيدو، وهو أفضل مكان لتجربة سحر طوكيو التقليدي.📸",
+              "practical_tip": "💡 نصيحة خبير: يُنصح بالوصول قبل الساعة 9 صباحاً لتفادي الزحام من مجموعات السياح والحصول على صور مثالية!"
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "برج طوكيو سكاي تري (Tokyo Skytree)",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "يمكنك الوصول إلى سكاي تري سيراً على الأقدام أو عبر القطار من أسكاوسا. عند الوصول إلى منصة المراقبة، يمكنك رؤية منظر مدينة طوكيو بالكامل، وفي الأيام المشمسة يمكنك رؤية جبل فوجي! مركز تسوق سولامي تشي تحت البرج رائع، حيث ستجد الكثير من الهدايا التذكارية المحدودة والهدايا التذكارية الفاخرة، مما يجعله مكاناً مثالياً لقضاء فترة ما بعد الظهر على مهل.🍜",
+              "practical_tip": "💡 نصيحة خبير: يُنصح بشراء تذاكر الدخول السريع عبر الإنترنت مسبقاً لتوفير الوقت في الطوابير الطويلة.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "سوق أمي-يوكو (Ameyoko Market)",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "عند المساء، توجه إلى سوق أمي-يوكو النابض بالحياة في أويينو، والذي يمتلئ بأجواء المدينة التقليدية! ستجد فيه العديد من متاجر المستحضرات الطبية، الملابس بأسعار معقولة، والمأكولات البحرية المجففة. يُوصى بتجربة تناول العشاء في إيزاكايا بجوار الطريق، حيث ستحصل على طبق دجاج مشوي مع البيرة، مما يجعل تجربة الطابع الياباني الأصيل في الليل.🍻",
+              "practical_tip": "💡 نصيحة خبير: أسعار متاجر الأدوية هنا تنافسية للغاية، يُنصح بالمقارنة بين الأسعار، وعادةً ما تكون الأسعار أفضل كلما اقتربت من المحطة."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "اليوم 2: في الخطوط الأمامية للموضة",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "معبد ميجي (Meiji Jingu)",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "اخترق غابات هذه الواحة الهادئة وسط المدينة الصاخبة، حيث يمكن أن ينسحب الضجيج. يتميز معبد ميجي ببوابته الضخمة وطرق السير الهادئة، مما يجعلك تنسى على الفور ضوضاء المدينة. يُعتبر المعلم المكرس للإمبراطور ميجي والإمبراطورة شوكن، واحداً من أهم المواقع الروحية في طوكيو. سوف تشعر بالهدوء الروحي عندما تتجول هنا في الصباح.⛩️",
+              "practical_tip": "💡 نصيحة خبير: يمكن الوصول إليه بسهولة من محطة هاراجوك، ولا تنسى الحفاظ على الهدوء احتراماً لأجواء هذا المكان المقدس."
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "شارع تاكيشتا & شارع أوموتيساندو",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "الهاراجوك هو مصدر التيار الشبابي في اليابان! يعد شارع تاكيشتا مشحوناً بالهدايا الجذابة والكريب الشهيرة، ثم يمكن الانتقال إلى شارع أوموتيساندو، الذي يمتاز بمحال العلامات الفاخرة والمقاهي ذات التصميم الرائع، مما يجعل تجربة التسوق هنا ببغاء المتعة لعشاق الموضة.🛍️",
+              "practical_tip": "💡 نصيحة خبير: يوجد العديد من المتاجر الصغيرة المخبأة في الأزقة، فاستمتع بالبحث لاكتشافها."
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "تقاطع شibuya ومنصة المراقبة",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "لا يمكنك زيارة طوكيو بدون تجربة الزحام في تقاطع شibuya! لا يُعتبر ذلك فقط مركز الموضة، بل هو رمز حديث لمدينة طوكيو. يُنصح بزيارة منصة المراقبة 'شيبيا سكاي'، لمشاهدة منظر الجمال الأخاذ لمحيط 360 درجة عند الغروب، وهو أحد أكثر اللحظات التي لا تُنسى في رحلتك!📸",
+              "practical_tip": "💡 نصيحة خبير: تذاكر 'شيبيا سكاي' مطلوبة بشدة، تأكد من حجزها عبر الإنترنت قبل شهر من رحلتك."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "اليوم 3: جولة فنية وإطلالات ليلية ساحرة",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "سوق تسوكجي الخارجي (Tsukiji Outer Market)",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "جنة عشاق الطعام! على الرغم من أن السوق الداخلي قد انتقل، إلا أن السوق الخارجي لا يزال حيوياً جداً. تجد هنا ألذ أطباق الساشيمي، وشرائح السمك المشوي، وأومليت تاماغو المحضر حديثاً. يُنصح بالحضور إلى هنا بشهيتك الفارغة،  حيث يمكنك التمتع بكل قضمة التي تمثل طعم البحر الخالص!🍣",
+              "practical_tip": "💡 نصيحة خبير: يعج بالسياح، لذا يُنصح بالوصول قبل الساعة 8 صباحاً لتفادي الازدحام."
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "منطقة جينزا التجارية",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "تُعتبر جينزا منطقة التسوق الفاخرة في طوكيو، حيث تضم العديد من المتاجر الراقية ومحلات العلامات التجارية الشهيرة. يمكنك هنا الاستمتاع بالأجواء الأنيقة فضلاً عن التسوق، لذا لا تفوت تجربة الشاي بعد الظهر في أحد المتاجر القديمة، حيث يمكنك الاستمتاع بجودة الخدمة الحرفية اليابانية الفاخرة.☕",
+              "practical_tip": "💡 نصيحة خبير: بعض الشوارع في جينزا تتحول إلى مناطق مخصصة للمشاة في عطلة نهاية الأسبوع، لذا المشي في منتصف الشارع سيكون تجربة ممتعة!"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "منطقة روبيكي وهضبة طوكيو",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "يعد رؤية برج طوكيو في الليل من أبرز الأحداث! من منصة مراقبة 'موري' في هضبة روبيكي، يمكنك الحصول على مناظر ساحرة تجمع بين البرج وأضواء المدينة. الأجواء هنا رومانسية، مما يجعلها وجهة مفضلة للمواعيد، بالإضافة إلى كونها مكاناً كلاسيكياً لعشاق التصوير لالتقاط جمال ليل طوكيو.🗼",
+              "practical_tip": "💡 نصيحة خبير: تشمل منصة المراقبة مناطق داخلية وخارجية، يُفضل ارتداء ملابس دافئة لأن الرياح في الخارج تكون باردة."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "اليوم 4: رحلة للأنمي ونكهات الزمن القديم",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "شارع أكيهابارا",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "مركز عشاق الأنمي ومحبي الأجهزة الإلكترونية! تضم أكيهابارا العديد من محلات الدمى، ومراكز اللعب الإلكترونية، ومحلات مكونات الأجهزة. حتى لو لم تكن من محبي الأنمي، فإن زيارة هذا المكان والاستمتاع بأجواء الثقافة الفرعية المتقدمة ستكون تجربة ممتعة، وقد تجد بعض الكنوز غير المتوقعة!🎮",
+              "practical_tip": "💡 نصيحة خبير: العديد من المتاجر الكبيرة تقدم إعفاءات ضريبية عند تقديم جواز السفر، لذا لا تنسى إحضار مستنداتك."
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "حديقة أوينو والمتحف",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "تقع حديقة أوينو في قلب المدينة، وتحتوي على العديد من المؤسسات الثقافية، بما في ذلك المتحف الوطني ومتحف الفنون. تُعتبر أيضاً مكاناً شهيراً لرؤية زهور الكرز، حتى وإن لم يكن موسم الازهار، فإن التجول في الممرات الواسعة بجوار حوض نوبوني سيوفر لك تجربة الثقافة والهدوء.🎨",
+              "practical_tip": "💡 نصيحة خبير: توجد العديد من العروض الفنية في الحديقة، مما يجعلها مكاناً مناسباً للتجول والاستمتاع بأشعة الشمس في فترة ما بعد الظهر.",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "محطة طوكيو ومنطقة مارونوتشي",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "تُعتبر محطة طوكيو بمثابة علامة معمارية جميلة مصنوعة من الطوب الأحمر. في الليالي، تكون منطقة مارونوتشي مضاءة بالكامل، مما يضفي جواً أنيقاً، ويتواجد حولها العديد من المطاعم الراقية. يمكنك أيضاً شراء علبة الغداء الشهيرة أو الهدايا التذكارية المتنوعة في المحطة، مما يجعل هذه الرحلة تحظى بنهاية مثالية.🎁",
+              "practical_tip": "💡 نصيحة خبير: يحتوي 'طوكيو ستاشن إيبانغاي' داخل المحطة على العديد من متاجر الشخصيات الأنمي، مما يجعله مكاناً رائعاً لشراء الهدايا التذكارية."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "اليوم 5: عمليات الشراء الأخيرة ووداع أنيق",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "حديقة شinjuku (Shinjuku Gyoen)",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "قبل مغادرتك طوكيو، نزور حديقة شinjuku للاستمتاع بلحظات الهدوء الأخيرة. تتداخل فيها أنماط الحدائق اليابانية، والبريطانية، والفرنسية، مما يجعلها مكانًا فسيحًا للغاية. احرص على احتساء فنجان من القهوة تحت الظلال، واسترجاع الذكريات حول المعالم السياحية التي زرتها خلال الأيام الماضية، إنها أفضل طريقة لإنهاء رحلتك ببطء.🌳",
+              "practical_tip": "💡 نصيحة خبير: يتطلب دخول الحديقة رسوم دخول، لذا يُفضل التوجه مبكراً لتجنب الزحام وضوء النهار المثالي للتصوير."
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "مراكز التسوق في شinjuku (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "تُعتبر شinjuku أحد أكثر نقاط النقل ازدحاماً في طوكيو، وكذلك جنة للتسوق. حيث تنتشر المراكز التجارية، سواء كانت لأحدث صيحات الموضة، أو مستحضرات التجميل، أو السلع المنزلية. فلتكن هذه فرصتك الأخيرة لشراء الهدايا التذكارية وإزالة كل ما في قائمة رغباتك!🛍️",
+              "practical_tip": "💡 نصيحة خبير: إن محطة شinjuku معقدة مثل المتاهة، يُنصح باستخدام اللوحات الإرشادية الموجودة في المحطة لتجنب الضياع."
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "مطار ناريتا / مطار هانيدا",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "مع ذكريات مليئة بالغنائم والتجارب، توجه إلى المطار استعداداً للعودة إلى المنزل. مدينة طوكيو، بغض النظر عن عدد المرات التي تزورها، دائماً ما تقدم مفاجآت جديدة. لا تنسَ شراء بعض الشوكولاتة من 'رويس' أو 'موز طوكيو' في المتاجر المعفاة من الضرائب في المطار، لتستمر هذه المتعة إلى المنزل.✈️",
+              "practical_tip": "💡 نصيحة خبير: يُنصح بالوصول إلى المطار قبل ثلاث ساعات، والمتاجر المعفاة من الضرائب رائعة، فلا تفوتها!"
+            }
+          ]
+        }
+      ]
+    },
+    "bn": {
+      "seo_meta": {
+        "title": "【2026 টোকিও স্বাধীন ভ্রমণ】শক্তিশালী ৫ দিনের itinerary পরিকল্পনা! দর্শনীয় স্থান, পরিবহন ও খাবারের পূর্ণ গাইড",
+        "description": "প্রথমবার টোকিওতে গেলে কিভাবে সময় কাটাবেন? এই পুরো ৫ দিনের টোকিও স্বাধীন ভ্রমণ গাইডে আপনাকে নিয়ে যাবে সবচেয়ে প্রয়োজনীয় স্থানগুলোতে এবং স্থানীয় খাবারের স্বাদ নিতে।"
+      },
+      "hero_section": {
+        "hook_intro": "টোকিও, যেখানে ঐতিহ্য আর ভবিষ্যতের মিশ্রণ ঘটলেও সবসময় আপনার জন্য কিছু নতুন অপেক্ষা করছে! আসাকুসা মন্দিরের প্রাচীন পরিবেশ থেকে শুরু করে শিবুয়া ক্রসিংয়ের নেহরন উন্মাদনায়, এই ৫ দিন ৪ রাতের টোকিও যাত্রা আপনাকে এই শহরের আত্মা গভীরভাবে আবিষ্কার করতে সাহায্য করবে। আমরা কার্যকরী সফরের রূপরেখা পরিকল্পনা করেছি, যাতে আপনি সকাল থেকে রাত পর্যন্ত খেতে পারেন ভদ্রভাবে, কেনাকাটা করতে পারেন আনন্দের সাথে, এবং টোকিওর সবচেয়ে ক্লাসিক ফটোগ্রাফ একবারেই সংগ্রহ করতে পারেন!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "দিন ১: নিম্মশহর ঐতিহ্য এবং টোকিওর দৃষ্টি",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "Sensoji Temple",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "টোকিওর ভ্রমণের প্রথম স্টপ হিসেবে Asakusa মন্দিরের চেয়ে ভালো কিছু হতে পারে না! লাল Kaminarimon পেরিয়ে Nakamise Shopping Street এলাকায় হাঁটার সময়, নতুন করে সজ্জিত উজ্জ্বল নিয়ন বাতির গন্ধ অনুভব করুন। সেখানে মন্দির চত্বরে পণ্যের শোরুমে সাফ সুতর আয়োজন করা হয়েছে। এটি টোকিওর ঐতিহ্যবাহী মহিমার সত্যিকার স্বাদ গ্রহণের সেরা উপায়।📸",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: সকালে ৯টার মধ্যে পৌঁছানো পরামর্শ দেওয়া হয় যাতে ভ্রমণকারী দলের ভিড় এড়ানো যায় এবং সবচেয়ে সুন্দর ফটো তোলা যায়!"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "東京晴空塔 (Tokyo Skytree)",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "আসাকুসা থেকে হাঁটার মাধ্যমে অথবা ট্রেনে করে 東京晴空塔 (Tokyo Skytree) পৌঁছানো যায়। দর্শনীয় আসন থেকে পুরো টোকিও শহরের দৃশ্য দেখা যায়, ভালো আবহাওয়ায় এমনকি ফুজি পর্বত দেখা যায়! টাওারের নিচের সোলামাচি শপিং মল ভ্রমণের জন্য খুব ভালো, সেখানে অনেক সীমিত সংস্করণের উপহার এবং সূক্ষ্ম উপহার পাওয়া যায়, এখানকার বিকেলটা নির্জনভাবে কাটাতে উপযোগী।🍜",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: আগে থেকেই অনলাইনে দ্রুত প্রবেশের টিকিট কিনে রাখা পরামর্শ দেওয়া হয়, দীর্ঘ অপেক্ষা এড়ানোর জন্য।",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "Ameyoko Market (上野阿美橫丁)",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "রাতে জনাকীর্ণ Ameyoko Market (上野阿美橫丁) এ আসুন, এখানে বাজারের কোলাহল! বিভিন্ন ধরনের ওষুধের দোকান, সস্তা পোশাক এবং শুকনো সামুদ্রিক খাবারের দোকান এখানে সবই পাওয়া যায়। রাতের খাবার হিসেবে রাস্তার পাশে একটি ইজাকায়াতে উপভোগ করুন সকালের খাবারের উন্মাদনা, একাধিক কাবাব সেবন করুন, এই হল সঠিক টোকিওর রাতের অভিজ্ঞতা।🍻",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: এখানে ওষুধের দোকানের মূল্য তুলনা করা হয়তো ভালো, সাধারণত যত কাছে ট্রেন স্টেশন হবে, দাম তত কম হবে।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "দিন ২: প্রবণতা ও ফ্যাশনের পিক",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "Meiji Jingu",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "ব্যস্ত শহরের মাঝে একটি বনফুলের ওয়াজ! Meiji Jingu-র বিশাল তোরণ এবং শান্ত পথ, আপনাকে শহরের কোলাহল ভুলিয়ে দেবে। এখানে Meiji সম্রাট এবং Showa সম্রাজ্ঞীকে পূজা করা হয়, টোকিওর সবচেয়ে পবিত্র স্থান। সকালে এখানে হাঁটার সময়, আপনার শরীর ও আত্মা অনেকটা আরাম পাবে।⛩️",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: Harajuku স্টেশনের থেকে বেরিয়ে এসে পৌঁছানো সম্ভব, শান্তি বজায় রাখার জন্য এখানে আসা উচিত।"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "হারাজুকু টেকেশিতা স্ট্রিট & ওমোটসেনডো",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "হারাজুকু (Harajuku) হলো জাপানের যুব সংস্কৃতির কেন্দ্রস্থল! টেকেশিতা স্ট্রিট (Takeshita Street)-এ প্রচুর প্রাণবন্ত সামগ্রী এবং অত্যাবশ্যকীয় ক্রেপ রয়েছে, তারপর আপনি ওমোটসেনডো (Omotesando) এলাকায় যেতে পারেন, যেখানে উভয়দিকেই আরও অসংখ্য বিখ্যাত ব্র্যান্ডের দোকান এবং আধুনিক চমৎকার কেফে রয়েছে, যা ফ্যাশন প্রেমীদের জন্য কেনাকাটার স্বর্গরাজ্য।🛍️",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: ওমোটসেনডো-তে অনেকগুলি লুকানো ডিজাইনার দোকান রয়েছে, যা গভীরভাবে আবিষ্কৃত হওয়া উচিত।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "Shibuya Crossing",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "টোকিওতে আসলে Shibuya Crossing-এ গিয়ে ভিড়ের অনুভূতি উপভোগ করা উচিত? এখানে প্রবণতা কেন্দ্র, বর্তমান টোকিওর প্রতীক। অন্ধকারে ৩৬০ ডিগ্রী দর্শনীয় দৃশ্য দেখতে Shibuya Sky সুপরিশ করা হয়। এই মুহূর্তটি আপনার জন্য হয়ে উঠবে ভুলতে না পারার সময়!📸",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: শিবুয়া স্কাইয়ের টিকেট অত্যন্ত কাঙ্ক্ষিত, যাত্রার এক মাস আগে অনলাইনে আগলে নিতে ভুলবেন না।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "দিন ৩: সাহিত্যপ্রেমীদের ভ্রমণ ও অপূর্ব রাতের দৃশ্য",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "Tsukiji Outer Market",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "গুরুতর খাদ্যপ্রেমীদের জন্য একটি স্থান! যদিও পাঁজরের বাজার স্থানান্তরিত হয়েছে, তবুও Tsukiji Outer Market এখনো প্রাণবন্ত। এখানে সবচেয়ে তাজা সুশি, সুস্বাদু গ্রিলড ইল এবং বর্তমানে তৈরি টমাগো রয়েছে। খালি পেটে আসাটা পরামর্শের, গিয়ে চবুকে নিয়ে আসুন, প্রতিটি কামড় সমুদ্রের স্বাদ!🍣",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: ভিড় খুব বেশি, সকাল ৮টার আগে আসা করার পরামর্শ দেওয়া হয়, যাতে লাইনের চূড়া এড়ানো যায়।"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "গিনজা জেলা (Ginza District)",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "গিনজা (Ginza) হলো টোকিওর একটি শীর্ষস্থানীয় শপিং এলাকা, যেখানে অনেক শীর্ষ ব্র্যান্ডের দোকান এবং ঐতিহ্যবাহী পুরাতন দোকান রয়েছে। এখানে শুধু কেনাকাটা করা হয় না, বরং এই শহরের বিশেষ urbane পরিবেশটি উপভোগ করা যায়। একশত বছরের পুরনো দোকানগুলির মধ্যে একটি খুঁজে নিয়ে, জাপানি শৈল্পিক সেবা দিয়ে আয়েশ করে চা পান করতে ভুলবেন না।☕",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: সাপ্তাহিক ছুটিতে গিনজা-এ কিছু রাস্তার অংশ বন্ধ থাকে এবং তা 'পায়ে চলার স্থান' হয়ে যায়, কেন্দ্রীয় রাস্তার মধ্য দিয়ে হাঁটতে মজাদার মনে হয়!"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "Roppongi Hills & Tokyo Tower",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "রাতে প্রধান আকর্ষণ হলো Tokyo Tower-এর দর্শন! Roppongi Hills-এর Mori Tower-এর দর্শনীয় ফ্লোর থেকে, টাওয়ার এবং শহরের আলোতে চিত্তাকর্ষক রাতের দৃশ্য উপভোগ করতে পারবেন। এখানে পরিবেশ খুব রোমান্টিক, এটি দম্পতির ডেটের জন্য সেরা স্থানে পরিণত হয়েছে এবং সোনালী রাতের দৃশ্যের প্রতি ফটোগ্রাফি প্রেমীদের জন্য একটি ক্লাসিক স্থান।🗼",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: দর্শনীয় আস্তানার মধ্যে অন্দর এবং বাইরের এলাকা রয়েছে, সুতরাং শুভ্রকর্ম এবং ঠান্ডা হাওয়া থাকার কারণে আগ্রহের সাথে যেতে পরামর্শ দেওয়া হয়।"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "দিন ৪: অ্যানিমে ও পুরাতন রেলপথের ভ্রমণ",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "Akihabara",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "অ্যানিমে প্রেমীদের এবং ইলেকট্রনিক পণ্য উৎসাহীদের জন্য স্থান! Akihabara এর অসংখ্য ভিন্ন ভিন্ন দোকান, ভিডিও গেম কেন্দ্র এবং ইলেকট্রনিক যন্ত্রপাতির দোকান রয়েছে। অ্যানিমে প্রেমী না হলেও এখানে আসা চরম গতির সাবকালচারের আবহ বোধ করা মজাদার। আপনিও এটি করতে পারেন।🎮",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: অনেক বড় ইলেকট্রনিক দোকানে পাসপোর্ট দেখালে শুল্ক মুক্ত সুবিধা পাওয়া যায়, তাই ডকুমেন্ট নিয়ে আসতে ভুলবেন না।"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "Ueno Park & Museums",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "শহরের মাঝে Ueno Park, অনেক সাংস্কৃতিক আবহ রয়েছে, যেখানে জাতীয় জাদুঘর এবং শিল্প জাদুঘর অন্তর্ভুক্ত। এটি একটি চেরি ব্লসম স্থানও, তাতে থাকলেও, প্রশস্ত পোর্টের দিকে হাঁটা বাড়িয়ে এবং অসাধারণ সাংস্কৃতিক আবহ ও শান্তি অনুভব করতে পারেন।🎨",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: পার্কে অনেক সড়ক শিল্পকলা রয়েছে, তাই শান্তিপূর্ণভাবে হাঁটার সময় দুপুর থেকে সূর্য রোদ উপভোগ করতে উপযোগী।",
+              "needsTicket": true,
+              "klookQuery": "Ueno Park Tokyo"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "Tokyo Station & Marunouchi",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "টোকিও স্টেশন নিজেই একটি সুন্দর লাল ইটের ভবন। রাতে Marunouchi এলাকা আলোতে উজ্জ্বল হয়ে ওঠে এবং পরিবেশ অত্যন্ত উন্নত, তাই এখানে অনেক ব্যতিক্রমী রেস্টুরেন্ট রয়েছে। টোকিও স্টেশনে উল্লেখযোগ্য রেলপথের বেন্টো পণ্য বা বিভিন্ন সীমিত সংস্করণের ক্যাফে থেকে কেনা আপনার ভ্রমণের শেষ পর্যায় গঠনের চমৎকার একটি উপায়।🎁",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: স্টেশনের ভিতরে 'Tokyo Station First Street' অনেক অ্যানিমে চরিত্রের দোকান রয়েছে, যা সেরা স্বাধীন কেনাকাটা করার জন্য আদর্শ।"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "দিন ৫: শেষ সংগ্রহ এবং সুন্দর বিদায়",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "Shinjuku Gyoen",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "টোকিও ত্যাগ করার আগে, শেষের শান্তি উপভোগের জন্য Shinjuku Gyoen এ আসুন। এই স্থানটি জাপানি, ইংরেজি এবং ফরাসি বাগানের শৈলীর সঙ্গম এবং এটি অনেক প্রশস্ত। গাছের ছায়ায় একটি কাপ কফি পান করতে পারেন, যাতে আপনার ভ্রমণের স্মৃতি পুনরুজ্জীবিত হয়। এটি আপনার সফরের জন্য একদম সঠিক সমাপ্তি হবে।🌳",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: প্রবেশের জন্য টিকিট প্রয়োজন, বিকেলের আগে আসা পরামর্শ দেওয়া হয় যাতে ভিড় কম হয় এবং আলো নরম হওয়ায় ছবি তোলা যায়।"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "শিনজুকু শপিং সেন্টার (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "শিনজুকু (Shinjuku) টোকিওর সবচেয়ে ব্যস্ত যাতায়াতের কেন্দ্র এবং কেনাকাটার স্বর্গ। এখানে বিভিন্ন ব্র্যান্ডের দোকান, যেমন নতুন পোশাক, ওষুধ বা দৈনন্দিন সামগ্রী উপলব্ধ। আপনার কেনাকাটার তালিকার পাশাপাশি আপনি নতুন কিছু কেনা ঠিক করতে পারেন।🛍️",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: শিনজুকু স্টেশন অনেক জটিলভাবে নির্মিত, তাই নিশ্চিত করুন যে স্টেশনের নির্দেশনাগুলোর সাহায্যে চলছেন, যাতে পথ হারাবেন না।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "Narita/Haneda Airport",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "বহু সংগ্রহ এবং স্মৃতি নিয়ে বিমানবন্দরের দিকে যাত্রা করুন। টোকিও একটি অনন্য শহর, যেখানে আপনি অতুলনীয় অভিজ্ঞতা পাবেন। বিমানবন্দরের免稅 (duty-free) দোকানে কিছু স্যুভেনিয়ার চকোলেট বা টোকিওর কলা কিনতে ভুলবেন না, যাতে আপনার খাবারগুলি বাড়িতে নিয়ে যেতে পারেন।✈️",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: বিমানবন্দরে ৩ ঘণ্টা আগে পৌঁছানোর পরামর্শ দেওয়া হয়,免稅 দোকানটি খুব সুন্দর, এটি মিস করবেন না!"
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "seo_meta": {
+        "title": "【2026 Токио Свободный Тур】Самый эффективный план на 5 дней!",
+        "description": "Первый раз в Токио? Эта вторая ге расписание на 5 дней Свободы в Токио, поможет вам увидеть все главные достопримечательности и попробовать местную кухню."
+      },
+      "hero_section": {
+        "hook_intro": "Токио, этот магический город, где традиции гармонично сочетаются с будущим, всегда приготовил для вас что-то новенькое! Будь то атмосферные улицы Асакусы или неоновые огни на перекрестке Сибуи, это 5-дневное путешествие по Токио познакомит вас с душой этого города. Мы тщательно спланировали высокоэффективный маршрут, чтобы вы могли насладиться вкусной едой и шопингом с утра до вечера и собрать все классические образы Токио в одном месте!",
+        "hero_image_keyword": "Tokyo Shibuya Crossing night view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "День 1: Атмосфера старого города и символы Токио",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Храм Сенсодзи (Sensoji Temple)",
+              "image_search_keyword": "Sensoji Temple Tokyo",
+              "rich_description": "Первое место, которое стоит посетить в Токио — это, безусловно, храм Сенсодзи! Пройдите через красные ворота Каминаримон и прогуляйтесь по торговой улице Накамисэ, где запах свежеприготовленных тайяки заставит вас забыть обо всем. Загляните внутрь храма, помолитесь за удачу и ощутите глубокое историческое наследие, оставшееся со времен Эдо — идеальное начало для знакомства с традиционным колоритом Токио. 📸",
+              "practical_tip": "💡 Совет от эксперта: рекомендуем приехать до 9 утра, чтобы избежать больших туристических толп и сделать идеальное фото без людей!"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Токийская башня Скайтри (Tokyo Skytree)",
+              "image_search_keyword": "Tokyo Skytree view",
+              "rich_description": "От Асакусы можно дойти пешком или доехать на поезде до Скайтри. С площадки обзора открывается панорамный вид на весь Токио, а в ясную погоду можно даже увидеть Фудзи! В торговом центре Соламачи, расположенном у подножия башни, много уникальных сувениров и изысканных подарок, где можно провести приятное время. 🍜",
+              "practical_tip": "💡 Совет от эксперта: заранее купите билет на быстрый проход через интернет, чтобы избежать длинной очереди.",
+              "needsTicket": true,
+              "klookQuery": "Tokyo Skytree view"
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Рынок Амеёко (Ameyoko Market)",
+              "image_search_keyword": "Ameyoko Market Tokyo",
+              "rich_description": "Посетите вечерний рынок Амеёко в Уэно, где царит атмосфера стрит-ритейла! Здесь вы найдете множество аптек, доступной одежды и морепродуктов. На ужин рекомендую зайти в изакая на улице и насладиться живой атмосферой, выпив рюмку сидзю и закусив шашлычком из куриного мяса — это самый настоящий токийский вечер. 🍻",
+              "practical_tip": "💡 Совет от эксперта: в аптечных магазинах высокое ценовое соперничество, так что сравнивайте цены — обычно, чем ближе к станции, тем дешевле."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "День 2: В центре моды и стиля",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Храм Мэйдзи (Meiji Jingu)",
+              "image_search_keyword": "Meiji Jingu Shrine forest",
+              "rich_description": "Скрытое в шумном городе зеленое оазис. Огромные тории и тихие дорожки храма Мэйдзи позволят вам на мгновение забыть о городской суете. Здесь поклоняются императору Мэйдзи и императрице Сёкен, это святое место наполнено энергией. Прогулка по утру здесь подарит вам невероятное расслабление и умиротворение. ⛩️",
+              "practical_tip": "💡 Совет от эксперта: выходите на станцию Харадзюку, помните, что необходимо сохранять тишину и уважать святость этого места."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Харадзюку Такешита-дори и Омотэсандо",
+              "image_search_keyword": "Harajuku Takeshita Street",
+              "rich_description": "Харадзюку — это родина японской молодежной моды! На улице Такешита множество милых магазинов и обязательные для пробы крэпсы, затем направляйтесь на Омотэсандо, где расположены множество бутиков и стильных кафе, а архитектура обладает невероятной современною красотой — это настоящая мекка для любителей моды. 🛍️",
+              "practical_tip": "💡 Совет от эксперта: на улице Омотэсандо много скрытых дизайнерских магазинов, которые стоит исследовать."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Перекресток Сибуя и смотровая площадка",
+              "image_search_keyword": "Shibuya Scramble Crossing",
+              "rich_description": "Как можно побывать в Токио и не испытать впечатление от толпы на перекрестке Сибуя? Это не только центр моды, но и символ современного Токио. Рекомендуем посетить смотровую площадку Shibuya Sky, чтобы насладиться 360-градусным видом на потрясающий закат — это одним из самых запоминающихся моментов вашей поездки! 📸",
+              "practical_tip": "💡 Совет от эксперта: билеты на Shibuya Sky раскупаются быстро, обязательно забронируйте их онлайн за месяц до поездки.",
+              "needsTicket": true,
+              "klookQuery": "Shibuya Scramble Crossing"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "День 3: Культурные путешествия и шикарные ночные виды",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Внешний рынок Цукудзи (Tsukiji Outer Market)",
+              "image_search_keyword": "Tsukiji Outer Market sushi",
+              "rich_description": "Рай для гурманов! Хотя внутренний рынок уже переехал, внешний рынок Цукудзи по-прежнему полон жизни. Здесь можно отведать самые свежие супы с сашими, сочные шашлыки из угря и жареные яйца. Рекомендуем приходить с пустым желудком и наслаждаться вкусом каждого укуса, ведь все они полны моря! 🍣",
+              "practical_tip": "💡 Совет от эксперта: здесь много людей, приезжайте до 8 утра, чтобы избежать очередей."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Район Гиндза",
+              "image_search_keyword": "Ginza luxury shopping",
+              "rich_description": "Гиндза — это высококлассный район шопинга в Токио, с множеством элитных универмагов и старинных магазинов. Здесь не только можно делать покупки, но и насладиться элегантной городской атмосферой. Найдите несколько магазинов, которые существуют более века, и попейте чай в стиле японского мастера. ☕",
+              "practical_tip": "💡 Совет от эксперта: по выходным некоторые районы Гиндзы закрыты для автомобилей, прогуливаться по улице центральной части очень приятно!"
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Роппонги Хиллз и Токийская башня",
+              "image_search_keyword": "Tokyo Tower night view",
+              "rich_description": "Главное развлечение вечера — это наслаждение Токийской башней! С площадки наблюдения на башне Мори в Роппонги Хиллз открывается волшебный вид на башню и огни города. Здесь невероятно романтическая атмосфера, идеальное место для свиданий и классическая локация для фотосъемки вечернего Токио. 🗼",
+              "practical_tip": "💡 Совет от эксперта: в смотровой площадке есть крытые и открытые зоны, рекомендуется надеть теплую одежду, поскольку на улице может быть холодно."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "День 4: Путешествие в мир аниме и ностальгии",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Электронный район Акихабара",
+              "image_search_keyword": "Akihabara anime district",
+              "rich_description": "Мекка для любителей аниме и технологий! Акихабара полна магазинов фигурок, игровых центров и магазинов электроники. Даже если вы не фанат аниме, атмосферу дикой субкультуры стоит попробовать — возможно, вы обнаружите неожиданные сокровища. 🎮",
+              "practical_tip": "💡 Совет от эксперта: многие крупные магазины электроники предлагают безналоговые покупки при наличии паспорта, не забудьте взять его с собой."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Парк Уэно и музеи",
+              "image_search_keyword": "Ueno Park Tokyo",
+              "rich_description": "Уэно парк в центре города обладает богатым культурным наследием, включая национальный музей и художественную галерею. Это также знаменитое место для наблюдения за сакурой — даже не в сезон цветения, прогулка по широким тропам и у пруда Уэно подарят вам атмосферу культуры и мгновение покоя. 🎨",
+              "practical_tip": "💡 Совет от эксперта: в парке много уличных представлений, идеально для спокойной прогулки на солнечном свете."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Токийский вокзал и Маруначи",
+              "image_search_keyword": "Tokyo Station red brick building",
+              "rich_description": "Сам по себе токийский вокзал — это прекрасное кирпичное здание-символ. Вечером район Маруначи освещен огнями и полон элегантной атмосферы, здесь много изысканных ресторанов. Внутри вокзала вы можете купить знаменитые бенто или различные ограниченные подарки, завершая это путешествие на идеальной ноте. 🎁",
+              "practical_tip": "💡 Совет от эксперта: в 'Токийском вокзале' много магазинов с аниме-героями, отличное место для покупки сувениров."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "День 5: Последние покупки и элегантное прощание",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Сад Синдзюку Гёэн",
+              "image_search_keyword": "Shinjuku Gyoen National Garden",
+              "rich_description": "Перед отъездом из Токио, проведите утро в Саду Синдзюку Гёэн, наслаждаясь последним моментом тишины. Этот зеленый оазис, сочетающий японский, английский и французский садовые стили, очень просторный. Выпейте чашечку кофе под тенью деревьев и вспомните те места, которые вы посетили — самая лучшая форма завершения путешествия. 🌳",
+              "practical_tip": "💡 Совет от эксперта: вход платный, пришлите немного пораньше, меньше людей и мягкий свет для съемки."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Шопинг-центр Синдзюку (Lumine / Odakyu)",
+              "image_search_keyword": "Shinjuku shopping district",
+              "rich_description": "Синдзюку — это наиболее загруженный транспортный узел Токио, а также рай для шопинга. Здесь много универмагов, и вы найдете все — от последней моды до косметики и домашней утвари. Время сделать последние покупки, чтобы вычистить список желаемого! 🛍️",
+              "practical_tip": "💡 Совет от эксперта: Станция Синдзюку как лабиринт, рекомендуется использовать указатели станции для помощи, чтобы не заблудиться."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Аэропорт Нарита/Аэропорт Ханэда",
+              "image_search_keyword": "Tokyo airport departure",
+              "rich_description": "С полными сумками и воспоминаниями направляйтесь в аэропорт для обратного рейса. Этот город Токио, независимо от того, сколько раз вы его посещаете, всегда готовит новые сюрпризы. Не забудьте купить немного шоколада Royce или Токийского банана в аэропорту, чтобы сохранить эти восхитительные вкусы дома. ✈️",
+              "practical_tip": "💡 Совет от эксперта: рекомендуем прибыть в аэропорт за 3 часа до вылета, чтобы насладиться шопингом в дьюти-фри, никогда не упустите такой шанс!"
+            }
+          ]
+        }
+      ]
+    }
+  }
 }

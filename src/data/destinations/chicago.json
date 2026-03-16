@@ -1,0 +1,1494 @@
+{
+  "seo_meta": {
+    "title": "2026 Chicago 4-Day Itinerary — Architecture, Deep Dish & Jazz",
+    "description": "第一次去 芝加哥 怎麼玩？這篇超完整的 4 天 芝加哥 自由行攻略，帶你一次逛完必去景點、品嚐在地美食，感受風城的建築魅力與絕美湖景！"
+  },
+  "hero_section": {
+    "hook_intro": "歡迎來到全美最迷人的建築之都——芝加哥！這裡不僅有世界級的摩天大樓群，還有密西根湖畔吹來的陣陣涼風。這座城市完美結合了現代藝術、深厚歷史與令人驚嘆的美食，絕對是你人生必訪的夢幻清單！\n\n這份 4 天精華行程，我幫你規劃好了最順暢的路線，從千禧公園的鏡面豆豆到壯麗的河岸巡禮，再到地道的深盤披薩，讓你用最有效率的方式，深度感受這座風城的無限魅力！準備好你的相機，一起出發吧！📸",
+    "hero_image_keyword": "Chicago skyline and Chicago River"
+  },
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "day_title": "Day 1：建築與現代藝術巡禮 (市中心 Loop)",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "千禧公園 (Millennium Park)",
+          "image_search_keyword": "Cloud Gate sculpture Chicago",
+          "rich_description": "來到芝加哥的第一站，絕對是地標「雲門 (Cloud Gate)」，也就是大家口中的豆豆！在這裡可以拍出超有趣的倒影照，感受城市與天空的完美融合。接著逛逛旁邊的皇冠噴泉，感受芝加哥人的休閒步調，這裡絕對是你的拍照打卡第一站！",
+          "practical_tip": "💡 達人小提示：建議早上 9 點前抵達，避開人潮才能拍到乾淨的「豆豆」鏡面喔！"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "芝加哥藝術博物館 (Art Institute of Chicago)",
+          "image_search_keyword": "Art Institute of Chicago exterior",
+          "rich_description": "這座博物館是世界頂級的藝術殿堂，收藏了無數印象派名作，包括梵谷與莫內的經典畫作。即使不是藝術專業，走在館內感受濃厚的文化氣息，也是非常療癒的體驗。建議至少預留 3 小時慢慢逛，絕對不會讓你失望。",
+          "practical_tip": "💡 達人小提示：如果想省錢，記得先上網預訂門票，並善用博物館的語音導覽 APP。",
+          "needsTicket": true,
+          "klookQuery": "Art Institute of Chicago exterior"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "芝加哥河岸漫步與深盤披薩",
+          "image_search_keyword": "Chicago Riverwalk at night",
+          "rich_description": "入夜後的芝加哥河岸燈火通明，美得令人屏息！沿著河岸漫步，感受建築光影的璀璨。晚餐一定要挑戰道地的「深盤披薩 (Deep Dish Pizza)」，厚實的餅皮與滿滿的起司，絕對是芝加哥旅遊的靈魂儀式！",
+          "practical_tip": "💡 達人小提示：推薦 Lou Malnati's Pizzeria，記得因為深盤披薩現烤要 45 分鐘，入座先點餐最聰明。"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "Day 2：登高望遠與購物天堂 (壯麗大道)",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "威利斯大廈 (Willis Tower - Skydeck)",
+          "image_search_keyword": "Willis Tower Skydeck Chicago",
+          "rich_description": "挑戰你的膽量！登上威利斯大廈的 Skydeck，踏上全透明的玻璃觀景台，腳下就是繁華的城市街道。這不僅是視覺上的衝擊，更是俯瞰芝加哥市景的最佳位置。視野遼闊時，甚至可以看到鄰近的州呢！",
+          "practical_tip": "💡 達人小提示：建議購買 CityPASS，可以節省門票費用並快速通關。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "壯麗大道 (The Magnificent Mile)",
+          "image_channel_keyword": "Magnificent Mile Chicago shopping",
+          "rich_description": "這裡是購物狂的夢想天堂！從高檔精品店到大型旗艦店一應俱全。即使不購物，沿途的建築設計也極具藝術感。走累了就找間質感咖啡廳坐下，觀察芝加哥的時尚街拍，享受午後的悠閒氣氛。",
+          "practical_tip": "💡 達人小提示：如果是 11 月下旬去，這裡的聖誕燈飾美到令人窒息，絕對不能錯過！"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "約翰漢考克中心 (360 CHICAGO)",
+          "image_search_keyword": "360 CHICAGO observation deck view",
+          "rich_description": "比起威利斯大廈，這裡的視野更偏向湖景。在 94 樓的觀景台欣賞芝加哥的夕陽與夜景，看著密西根湖從湛藍轉為深邃的黑，城市燈光逐漸亮起，這是芝加哥最浪漫的時刻，保證讓你感動不已。",
+          "practical_tip": "💡 達人小提示：觀景台內有酒吧，點一杯調酒邊喝邊看夜景，氛圍感直接拉滿。"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "Day 3：湖畔休閒與科學教育",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "謝德水族館 (Shedd Aquarium)",
+          "image_search_keyword": "Shedd Aquarium Chicago",
+          "rich_description": "位於博物館園區的謝德水族館，是全美最棒的水族館之一。這裡的海洋生物多樣性令人驚嘆，特別是鯨魚與海豚的展區，適合全家大小一起參觀。館內的建築本身也是歷史悠久的經典作品。",
+          "practical_tip": "💡 達人小提示：記得提前預約表演時段，否則很容易向隅喔！",
+          "needsTicket": true,
+          "klookQuery": "Shedd Aquarium Chicago"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "阿德勒天文館 (Adler Planetarium)",
+          "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+          "rich_description": "這裡是拍攝芝加哥天際線最完美的秘密基地！從這裡回望市中心，整座城市像是一幅畫。館內展覽豐富，深入淺出地介紹宇宙奧秘，是寓教於樂的最佳場所。",
+          "practical_tip": "💡 達人小提示：阿德勒天文館外圍的湖岸步道，是當地人最愛的慢跑與野餐地點。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "海軍碼頭 (Navy Pier)",
+          "image_search_keyword": "Navy Pier Centennial Wheel",
+          "rich_description": "晚上來到海軍碼頭，搭乘巨型摩天輪俯瞰密西根湖與城市夜景。碼頭上有許多餐廳與街頭表演，充滿熱鬧的嘉年華氣氛，是感受芝加哥在地夜生活的絕佳去處。",
+          "practical_tip": "💡 達人小提示：週六晚上夏季通常有煙火秀，記得查詢官網時間表！"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "Day 4：文青街區與在地美食",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "林肯公園動物園 (Lincoln Park Zoo)",
+          "image_search_keyword": "Lincoln Park Zoo Chicago",
+          "rich_description": "這是美國最古老的免費動物園之一，環境優美且充滿綠意。在這裡可以輕鬆漫步，與動物近距離接觸，完全感受不到身處大城市的壓力，是開啟最後一天旅程的清爽選擇。",
+          "practical_tip": "💡 達人小提示：完全免費！適合早起散步，旁邊的林肯公園也非常適合拍照。",
+          "needsTicket": true,
+          "klookQuery": "Lincoln Park Zoo Chicago"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "威克公園 (Wicker Park) 文青區",
+          "image_search_keyword": "Wicker Park Chicago neighborhood",
+          "rich_description": "最後的時光，當然要深入芝加哥的文青區！這裡有充滿特色的古著店、唱片行與獨立書店。找間風格獨特的咖啡廳，細細品味芝加哥的在地生活感，買些手作紀念品作為旅行的結尾。",
+          "practical_tip": "💡 達人小提示：這裡有許多隱藏版的美食小店，隨意走進一家評價好的餐廳都不會踩雷。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "芝加哥藍調酒吧 (Blues Bar)",
+          "image_search_keyword": "Chicago blues club live music",
+          "rich_description": "來到芝加哥，沒聽過藍調音樂等於沒來過！隨意找一家知名的藍調酒吧（如 Buddy Guy's Legends），點杯啤酒，沉浸在深沉又充滿靈魂的音樂節奏中，為這 4 天的夢幻旅程畫下完美的句號。🎷",
+          "practical_tip": "💡 達人小提示：部分熱門酒吧需年滿 21 歲並攜帶護照查驗身分，出發前確認一下喔！"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "en": {
+      "seo_meta": {
+        "title": "[2026 Chicago Free Travel] Ultimate 4-Day Itinerary Guide! Attractions, Transportation & Must-Eat Food Guide",
+        "description": "What to do on your first trip to Chicago? This comprehensive 4-day Chicago travel guide takes you through must-visit attractions, local delicacies, and allows you to experience the architectural charm and stunning lake views of the Windy City!"
+      },
+      "hero_section": {
+        "hook_intro": "Welcome to the most charming architectural capital of the United States—Chicago! Here, you will find not only world-class skyscrapers but also the cool breeze from Lake Michigan. This city perfectly combines contemporary art, rich history, and exquisite cuisine, making it a dream destination you must visit in your lifetime!\n\nIn this 4-day essential itinerary, I have planned the smoothest route for you, from the mirrored bean at Millennium Park to the magnificent riverfront tour and authentic deep-dish pizza, allowing you to deeply experience the infinite charm of this Windy City in the most efficient way! Grab your camera and let’s get started! 📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: Architectural and Modern Art Tour (Downtown Loop)",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Millennium Park",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "Your first stop in Chicago must be the landmark 'Cloud Gate,' commonly known as 'The Bean!' Here, you can take super fun reflection photos, experiencing the perfect blend of city and sky. Then, stroll over to the adjacent Crown Fountain to feel the leisurely pace of Chicagoans; this is definitely your first photo-op destination!",
+              "practical_tip": "💡 Insider Tip: It’s best to arrive before 9 AM to avoid the crowds and capture a clear shot of 'The Bean!'"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Art Institute of Chicago",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "This museum is a top-tier art destination in the world, housing countless masterpieces of Impressionism, including classics by Van Gogh and Monet. Even if you’re not an art expert, simply walking through and absorbing the cultural atmosphere is a wonderfully therapeutic experience. Allocate at least 3 hours to explore at a leisurely pace—you won’t be disappointed.",
+              "practical_tip": "💡 Insider Tip: If you want to save money, remember to book your tickets online first and make use of the museum's audio guide app."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Chicago Riverwalk and Deep Dish Pizza",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "As night falls, the Chicago Riverwalk lights up, creating a breathtaking view! Stroll along the river, taking in the dazzling reflections of the buildings. Dinner must include trying the authentic 'Deep Dish Pizza,' with its thick crust and ample cheese; it’s a signature experience of Chicago!",
+              "practical_tip": "💡 Insider Tip: I recommend Lou Malnati's Pizzeria, but since the deep-dish pizza takes 45 minutes to bake, it’s smartest to order as soon as you’re seated."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: Heights and Shopping Paradise (Magnificent Mile)",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Willis Tower - Skydeck",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "Challenge your courage! Head to the Skydeck of Willis Tower and step onto the all-glass observation deck, with the bustling city streets below your feet. This experience is not only a visual shock but also the best place to overlook the skyline of Chicago. On a clear day, you can even see neighboring states!",
+              "practical_tip": "💡 Insider Tip: It’s advisable to purchase a CityPASS to save on admission fees and skip the lines."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "The Magnificent Mile",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "This is a dream paradise for shopping enthusiasts! With everything from high-end boutiques to large flagship stores, it’s a shopper’s haven. Even if you're not buying, the architectural designs along the way are strikingly artistic. When you’re tired, find a stylish café to relax in, observe the fashion street scene of Chicago, and enjoy a leisurely afternoon.",
+              "practical_tip": "💡 Insider Tip: If you visit in late November, the Christmas decorations here are breathtaking, and you absolutely should not miss them!"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "360 CHICAGO",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "Compared to Willis Tower, this place offers a better view of the lake. Enjoy a breathtaking sunset and city view from the observation deck on the 94th floor as Lake Michigan transitions from azure to a profound darkness, and the city lights gradually illuminate—it’s the most romantic moment in Chicago, guaranteed to move you.",
+              "practical_tip": "💡 Insider Tip: There’s a bar inside the observation deck; order a cocktail and enjoy the night view for a perfect atmosphere."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Day 3: Lakeside Relaxation and Science Education",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Shedd Aquarium",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "Located in the Museum Campus, Shedd Aquarium is one of the best aquariums in the country. Its marine biodiversity is astounding, especially the exhibits featuring whales and dolphins, making it a great spot for families to visit together. The aquarium's architecture is also a classic historical piece.",
+              "practical_tip": "💡 Insider Tip: Make sure to book your performance time slots in advance, or you might miss out!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Adler Planetarium",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "This is the perfect secret spot for a stunning view of the Chicago skyline! From here, looking back at downtown, the whole city looks like a painting. The exhibitions inside are rich and well-explained, introducing the mysteries of the universe in an entertaining manner, making it a great place for learning and fun.",
+              "practical_tip": "💡 Insider Tip: The lakeside trail surrounding Adler Planetarium is a favorite jogging and picnic spot among locals."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Navy Pier",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "At night, visit Navy Pier and ride the giant Ferris wheel to get an aerial view of Lake Michigan and the city’s night scene. The pier is filled with restaurants and street performances, creating a lively carnival atmosphere—it's the perfect place to experience Chicago’s nightlife.",
+              "practical_tip": "💡 Insider Tip: In the summer on Saturday nights, there are usually fireworks shows, so be sure to check their website for the schedule!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Day 4: Artsy Neighborhoods and Local Cuisine",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Lincoln Park Zoo",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "This is one of the oldest free zoos in the United States, set in a beautiful, green environment. Here, you can take a leisurely stroll and get up close with the animals, completely forgetting the stress of being in a big city—a refreshing way to start your last day of travel.",
+              "practical_tip": "💡 Insider Tip: It’s completely free! Perfect for an early walk, and Lincoln Park next door is also great for photos.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Wicker Park Artsy District",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "In your final hours, dive into Chicago's artsy district! Here, you’ll find unique thrift shops, record stores, and independent bookstores. Find a uniquely styled café, savor the local Chicago life, and pick up some handmade souvenirs to conclude your trip.",
+              "practical_tip": "💡 Insider Tip: There are many hidden foodie gems here; casually walking into a highly-rated restaurant is unlikely to disappoint."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Blues Bar",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "Visiting Chicago without listening to blues music is equivalent to not having been! Find a well-known blues bar (like Buddy Guy's Legends), order a beer, and immerse yourself in the deep, soulful rhythms of the music, bringing a perfect end to your 4-day dream journey. 🎷",
+              "practical_tip": "💡 Insider Tip: Some popular bars require you to be 21 and present an ID, so check ahead before you go!"
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "seo_meta": {
+        "title": "【2026 シカゴ 自由旅行】最強 4 日間 itinerary 計画ガイド！観光地交通＆必食完全攻略",
+        "description": "初めてシカゴに行くなら、どう遊ぶ？この超充実の4日間のシカゴ自由旅行攻略ガイドで、必見観光地を一度に巡り、地元の美食を味わい、風の街の建築魅力と絶景の湖を感じましょう！"
+      },
+      "hero_section": {
+        "hook_intro": "アメリカで最も魅力的な建築の都、シカゴへようこそ！ここには世界級の摩天楼とミシガン湖畔の爽やかな風が吹き渡っています。この都市は現代のアート、豊かな歴史、驚くべき美食が見事に融合し、人生で訪れるべき夢のリストに間違いなく加えるべきでしょう！\n\nこの4日間のエッセンスを凝縮した itinerary では、千禧公園のクラウドゲートから壮大なリバークルーズ、そして本格的なディープディッシュピザまで、シカゴの無限の魅力を最も効率的に感じるためのスムーズなルートを計画しました！カメラを持って、さあ出発しましょう！📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "1日目：建築と現代アートの巡り (ダウンタウン Loop)",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "ミレニアムパーク (Millennium Park)",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "シカゴの最初の訪問地は、象徴的な「クラウドゲート (Cloud Gate)」、つまりみんなが呼ぶ豆豆です！ここでは面白い反射写真を撮り、街と空の完璧な融合を感じることができます。その後は隣のクラウンファウンテンを散策し、シカゴの人々のリラックスしたペースを感じる、ここは間違いなくあなたの写真スポット第一位！",
+              "practical_tip": "💡 おすすめの小技：朝の9時前に到着することをお勧めします。人混みを避けて綺麗な「豆豆」の鏡面を撮影しましょう！"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "シカゴ美術館 (Art Institute of Chicago)",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "この美術館は世界屈指のアートの殿堂で、印象派の名作を数多く収蔵しています。ゴッホやモネの伝説的な作品が揃っており、アート専門でなくても、館内を歩くだけで濃厚な文化の息吹を感じることができ、とても癒される体験ができます。少なくとも3時間はゆっくり過ごすことをお勧めします、絶対に後悔しないでしょう。",
+              "practical_tip": "💡 おすすめの小技：お金を節約したいなら、事前にオンラインでチケットを予約し、美術館の音声ガイドアプリを活用しましょう。",
+              "needsTicket": true,
+              "klookQuery": "Art Institute of Chicago exterior"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "シカゴ川沿いの散策とディープディッシュピザ",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "夜になるとシカゴ川沿いは美しい明かりで輝き、息を飲むほどの美しさです！川岸を散策し、建物の光と影が織りなす華やかさを感じましょう。ディナーには本場の「ディープディッシュピザ（Deep Dish Pizza）」にチャレンジすることを忘れずに！厚い生地とたっぷりのチーズは、シカゴ旅行の魂の儀式です！",
+              "practical_tip": "💡 おすすめの小技：ルー・マルナティズ・ピッツェリアをお勧めします。ディープディッシュピザは焼き上がるのに45分かかるので、着席したらすぐに注文するのが賢い選択です。"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "2日目：高所からの展望とショッピング天国 (マグニフィセント・マイル)",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "ウィリス・タワー (Willis Tower - Skydeck)",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "勇気に挑戦！ウィリス・タワーのスカイデッキに登り、全透明のガラスの展望台に立って、足元には繁華街のストリートがあります。これは視覚的な衝撃だけではなく、シカゴの市景を見下ろす最高の位置です。視野が広がると、隣接する州すら見ることができます！",
+              "practical_tip": "💡 おすすめの小技：CityPASSを購入すると、チケット代を節約でき、迅速に入場できます。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "マグニフィセント・マイル (The Magnificent Mile)",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "ここはショッピング好きの夢の天国！高級ブティックから大型フラッグシップストアまで全て揃っています。ショッピングをしなくても、沿道の建築デザインは非常にアート感に富んでいます。疲れたら、おしゃれなカフェを見つけて座り、シカゴのファッショナブルなストリートスタイルを観察しながら、午後のゆったりした雰囲気を楽しみましょう。",
+              "practical_tip": "💡 おすすめの小技：もし11月下旬に訪れるなら、ここでのクリスマスイルミネーションは美しさに息を飲むほどなので、絶対に見逃さないでください！"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ジョン・ハンコック・センター (360 CHICAGO)",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "ウィリス・タワーと比較して、ここからの眺めは特に湖の景色に焦点を当てています。94階の展望台からシカゴの夕日と夜景を楽しみ、ミシガン湖が鮮やかな青から深い黒に変わり、街の灯りが次第に点灯する瞬間は、シカゴで最もロマンチックな時間であり、感動を与えること間違いなしです。",
+              "practical_tip": "💡 おすすめの小技：展望台内にはバーがあり、カクテルを頼んで夜景を楽しみながら、最高の雰囲気を味わえます。"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "3日目：湖畔のリラクゼーションと科学教育",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "シェッド水族館",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "シェッド水族館はミュージアムエリアに位置し、全米で最も優れた水族館の一つです。ここでは驚くべき海洋生物の多様性を楽しむことができ、特にクジラやイルカの展示エリアは家族全員にとって理想的な訪問先です。また、館内の建物自体も歴史的でクラシックな作品です。",
+              "practical_tip": "💡 おすすめの小技：パフォーマンスの時間帯を事前に予約することを忘れずに！そうしないと、すぐに満席になってしまうことがあります！",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "アドラー天文館 (Adler Planetarium)",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "ここはシカゴのスカイラインを撮影するための完璧な秘密基地です！ここから市中心部を振り返ると、全都市が絵のように見えます。館内の展示は豊富で、宇宙の神秘を分かりやすく紹介しており、楽しく学ぶのに最適な場です。",
+              "practical_tip": "💡 おすすめの小技：アドラー天文館の外にある湖岸の遊歩道は、地元の人々のお気に入りのジョギングやピクニックスポットです。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ネイビーピア (Navy Pier)",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "夜のネイビーピアでは、巨大観覧車に乗ってミシガン湖と街の夜景を見下ろすことができます。ピアには多くのレストランやストリートパフォーマンスがあり、賑やかなカーニバルの雰囲気で、シカゴの地元の夜生活を体験するには最適な場所です。",
+              "practical_tip": "💡 おすすめの小技：夏の土曜日の夜には通常花火ショーがありますので、公式ウェブサイトのスケジュールをチェックしてください！"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "4日目：アート好きな街と地元の美食",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "リンカーンパーク動物園 (Lincoln Park Zoo)",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "これはアメリカで最も古い無料の動物園の一つで、美しい緑にあふれています。ここではゆっくり散歩しながら、動物と近距離で触れ合うことができ、大都市にいるというプレッシャーを感じることがありません。最後の旅行のスタートをリフレッシュするのに最適な選択です。",
+              "practical_tip": "💡 おすすめの小技：完全に無料です！早起きして散歩するのに最適で、近くのリンカーンパークでも素敵な写真が撮れます。",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ウィッカー・パーク (Wicker Park) アートエリア",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "最後のひととき、シカゴのアートエリアに深入りしましょう！ここには特徴的な古着屋、レコード店、独立書店がたくさんあります。ユニークなスタイルのカフェを見つけて、シカゴの地元の生活感を味わい、旅行の最後に手作りの記念品をいくつか買いましょう。",
+              "practical_tip": "💡 おすすめの小技：ここには多くの隠れた美食店があるので、評判の良いレストランに気軽に入っても外れはありません。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "シカゴブルースバー (Blues Bar)",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "シカゴに来たなら、ブルース音楽を聴かずに帰ることはできません！有名なブルースバー（たとえばBuddy Guy's Legends）を探して、ビールを頼み、深いソウルのリズムの中に浸り、この4日間の夢のような旅に完璧な締めくくりをつけましょう。🎷",
+              "practical_tip": "💡 おすすめの小技：人気のあるバーの中には21歳以上で身分証明書を持参する必要があるので、出発前に確認してください！"
+            }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "seo_meta": {
+        "title": "【2026 시카고 자유여행】최고의 4일 일정 계획 가이드!",
+        "description": "처음 시카고에서 어떻게 놀아야 할까요? 이 완벽한 4일 시카고 자유여행 가이드로 필수 관광지와 현지 음식을 모두 경험하고, 풍의 도시의 건축 매력과 아름다운 호수 경치를 느껴보세요!"
+      },
+      "hero_section": {
+        "hook_intro": "가장 매력적인 건축 도시인 시카고에 오신 것을 환영합니다! 이곳은 세계적인 마천루가 즐비할 뿐만 아니라, 미시건 호수에서 불어오는 시원한 바람이 특징입니다. 이 도시는 현대 예술, 깊은 역사 그리고 놀라운 미식을 완벽하게 결합한 곳으로, 반드시 당신의 인생에서 방문해야 할 꿈의 리스트입니다!\n\n이 4일 간의 정수를 담은 일정에서 저는 당신을 위해 가장 원활한 경로를 계획했습니다. 밀레니엄 파크의 미러 빈(Mirror Bean)에서부터壮麗한 강가 탐방, 그리고 정통 딥 디쉬 피자까지, 가장 효율적인 방법으로 이 도시의 제한 없는 매력을 깊이 느낄 수 있습니다! 카메라를 준비하고 함께 출발합시다!📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "첫째 날: 건축과 현대 예술 탐방 (시내 루프 지역)",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "밀레니엄 파크 (Millennium Park)",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "시카고의 첫 번째 정거장은 절대적인 랜드마크인 '클라우드 게이트(Cloud Gate)', 즉 모두가 말하는 미러 빈입니다! 이곳에서 재미있는 반사 사진을 찍으며 도시와 하늘의 완벽한 융합을 느껴보세요. 이어서 인근의 크라운 분수를 구경하며, 시카고 사람들의 여유로운 발걸음을 느껴보세요. 이곳은 당신의 사진 촬영 첫 번째 정거장입니다!",
+              "practical_tip": "💡 전문가 팁: 아침 9시 이전에 도착하는 것을 추천합니다. 인파를 피해야지 '미러 빈'의 깨끗한 반사 사진을 찍을 수 있어요!"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "시카고 미술관 (Art Institute of Chicago)",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "이 미술관은 세계 최고의 예술의 전당으로, 반 고흐와 모네의 고전 작품을 포함한 수많은 인상파 명작을 소장하고 있습니다. 예술 전문가가 아니더라도 이곳을 거닐며 깊은 문화의 향기를 느끼는 것은 매우 치유되는 경험입니다. 최소 3시간은 여유롭게 둘러보는 것을 추천합니다. 절대 후회하지 않을 것입니다.",
+              "practical_tip": "💡 전문가 팁: 돈을 절약하고 싶다면 미리 온라인으로 입장권을 예약하고, 박물관의 오디오 가이드 앱을 잘 활용하세요."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "시카고 강가 산책 및 딥 디쉬 피자",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "어두워진 후의 시카고 강가는 화려한 조명으로 아름다움을 더합니다! 강가를 따라 산책하며 건축물의 빛과 그림자를 느껴보세요. 저녁 식사는 정통 '딥 디쉬 피자 (Deep Dish Pizza)'에 도전해야 합니다. 두툼한 피자 도우와 가득한 치즈는 시카고 여행의 영혼을 담고 있습니다!",
+              "practical_tip": "💡 전문가 팁: Lou Malnati's Pizzeria를 추천합니다. 딥 디쉬 피자가 갓 구워지기 때문에 45분이 걸리니 미리 주문하는 것이 현명합니다."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "둘째 날: 높이 오르고 쇼핑 천국 탐방 (장엄한 거리)",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "윌리스 타워 (Willis Tower - Skydeck)",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "용기를 도전하세요! 윌리스 타워의 스카이덱에 올라 투명한 유리 전망대에 서보세요. 발 아래에 번화한 도시 거리들이 펼쳐집니다. 이는 시각적인 충격일 뿐만 아니라 시카고의 전경을 감상하는 최고의 장소입니다. 넓은 시야에서는 인근 주까지 볼 수 있습니다!",
+              "practical_tip": "💡 전문가 팁: CityPASS를 구매하는 것을 추천합니다. 입장료를 절약하고 빠르게 통과할 수 있습니다."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "장엄한 거리 (The Magnificent Mile)",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "여기는 쇼핑 애호가의 꿈의 천국입니다! 고급 부티크부터 대형 플래그십 스토어까지 다양하게 갖추고 있습니다. 쇼핑을 하지 않더라도 길을 따라 펼쳐진 건축 디자인은 예술적입니다. 지치면 독특한 카페에 들어가 시카고의 패션 거리를 관찰하며 여유로운 오후를 즐기세요.",
+              "practical_tip": "💡 전문가 팁: 11월 하순에 방문한다면 이곳의 크리스마스 조명이 아름다워 반드시 놓치지 마세요!"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "존 핸콕 센터 (360 CHICAGO)",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "윌리스 타워보다 이곳의 시야는 호수 쪽으로 더 나 있습니다. 94층 전망대에서 시카고의 일몰과 야경을 감상하며 미시건 호수가 푸른색에서 깊은 검은색으로 변하고 도시의 불빛이 점점 켜지는 모습을 지켜보세요. 이는 시카고에서 가장 로맨틱한 순간으로, 당신을 감동시킬 것입니다.",
+              "practical_tip": "💡 전문가 팁: 전망대 내에 바가 있어, 한 잔의 칵테일을 시켜 야경을 보며 분위기를 한층 끌어올려보세요."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "셋째 날: 호숫가 여유로운 시간 및 과학 교육",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "셰드 아쿠아리움 (Shedd Aquarium)",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "박물관 구역에 위치한 셰드 아쿠아리움은 미국 최고의 수족관 중 하나입니다. 이곳의 해양 생물 다양성은 놀라울 정도로, 특히 고래와 돌고래 전시구역은 온 가족이 함께 관람하기에 적합합니다. 건물 그 자체도 역사적인 고전 작품입니다.",
+              "practical_tip": "💡 전문가 팁: 공연 시간을 미리 예약하는 것을 잊지 마세요. 그렇지 않으면 쉽게 좌석이 없어질 수 있습니다!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "아들러 천문관 (Adler Planetarium)",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "여기는 시카고의 스카이라인을 촬영하기에 완벽한 비밀 장소입니다! 이곳에서 도시 중심부를 바라보면 도시가 한 폭의 그림처럼 보입니다. 전시 내용도 풍부하며 우주의 비밀을 쉽게 소개하는, 교육적이면서도 재미있는 장소입니다.",
+              "practical_tip": "💡 전문가 팁: 아들러 천문관 주변의 호숫가 산책로는 현지인들이 가장 좋아하는 조깅 및 피크닉 장소입니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "네이비 피어 (Navy Pier)",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "저녁의 네이비 피어에서 대형 관람차를 타고 미시건 호수와 도시의 야경을 감상해보세요. 부두에는 많은 레스토랑과 거리 공연이 있어, 활기찬 카니발 분위기가 넘치는 곳입니다. 시카고의 밤 문화를 느낄 수 있는 완벽한 장소입니다.",
+              "practical_tip": "💡 전문가 팁: 여름의 토요일 밤에는 대개 불꽃놀이가 있으니, 공식 웹사이트에서 시간을 확인해보세요!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "넷째 날: 예술가들의 거리와 현지 먹거리",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "링컨 파크 동물원 (Lincoln Park Zoo)",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "이곳은 미국에서 가장 오래된 무료 동물원 중 하나로, 환경이 아름답고 푸르름이 가득합니다. 이곳에서 편하게 산책하며 동물들과 가까이 접촉할 수 있어, 도시의 모든 압박감에서 벗어날 수 있는 신선한 선택입니다.",
+              "practical_tip": "💡 전문가 팁: 완전히 무료입니다! 이른 아침 산책에 적합하며, 바로 옆의 링컨 파크에서도 멋진 사진을 찍기 좋습니다.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "위커 파크 (Wicker Park) 예술가 지역",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "마지막 시간을 시카고의 예술가 지역에서 깊이 있게 즐겨보세요! 이곳은 개성 넘치는 빈티지 상점, 레코드 가게, 독립 서점이 가득합니다. 독특한 스타일의 카페를 찾아 시카고의 삶을 천천히 맛보고, 여행의 마무리로 수제 기념품을 사세요.",
+              "practical_tip": "💡 전문가 팁: 이곳에는 많은 숨겨진 미식 가게가 있으니, 평가가 좋은 레스토랑에 무작정 들어가도 실망하지 않을 것입니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "시카고 블루스 바 (Blues Bar)",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "시카고에 왔다면 블루스 음악을 듣지 않은 건 오지 않은 것과 같습니다! 유명한 블루스 바(예: Buddy Guy's Legends)를 찾아 맥주 한 잔 시켜 깊고 감성적인 음악 리듬에 흠뻑 빠져보세요. 이 4일의 꿈 같은 여행에 완벽한 마침표를 찍습니다.🎷",
+              "practical_tip": "💡 전문가 팁: 일부 인기 있는 바는 21세 이상이어야 하며 신분증 확인이 필요하니, 출발 전에 확인해 주세요!"
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "seo_meta": {
+        "title": "【2026 Chicago Voyage Autonome】Guide ultime de planification d'itinéraire de 4 jours ! Attractions, transports & incontournables",
+        "description": "Comment explorer Chicago pour la première fois ? Ce guide complet de 4 jours vous fera découvrir toutes les attractions incontournables, savourer la cuisine locale et ressentir le charme architectural de la ville des vents et ses magnifiques rives !"
+      },
+      "hero_section": {
+        "hook_intro": "Bienvenue dans la ville la plus charmante des États-Unis, la capitale architecturale — Chicago ! Ici, vous trouverez non seulement une impressionnante collection de gratte-ciels, mais aussi la douce brise du lac Michigan. Cette ville combine à la perfection l'art moderne, une histoire riche et une cuisine étonnante, un must sur votre liste de voyages !\n\nCe programme essentiel de 4 jours vous propose le meilleur itinéraire, depuis le Cloud Gate à Millennium Park jusqu'à la magnifique croisière sur la rivière, en passant par la célèbre pizza à croûte épaisse, pour vous immerger dans le charme infini de cette ville des vents ! Préparez votre appareil photo et c'est parti ! 📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Jour 1 : Circuit architectural et art moderne (Loop)",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Millennium Park",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "Votre première étape à Chicago doit être le célèbre 'Cloud Gate', connu sous le nom de 'Bean' ! Ici, vous pouvez prendre des photos amusantes avec des reflets, ressentant la fusion parfaite entre la ville et le ciel. Ensuite, flânez près de la Crown Fountain et appréciez le mode de vie détendu des Chicagoans. C'est définitivement votre premier arrêt photo !",
+              "practical_tip": "💡 Conseil pratique : Il est conseillé d'arriver avant 9h du matin pour éviter la foule et capturer des photos nettes du 'Bean' !"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Art Institute of Chicago",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "Ce musée est un temple de l'art de classe mondiale, abritant d'innombrables chefs-d'œuvre impressionnistes, y compris des œuvres célèbres de Van Gogh et Monet. Même si vous n'êtes pas un spécialiste de l'art, marcher dans ses halls et ressentir l'atmosphère culturelle est une expérience enrichissante. Prévoyez au moins 3 heures pour l'explorer sans hâte.",
+              "practical_tip": "💡 Conseil pratique : Si vous voulez économiser, n'oubliez pas de réserver vos billets en ligne et d'utiliser l'application de guide audio du musée."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Promenade sur la rivière de Chicago et Deep Dish Pizza",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "La rivière de Chicago s'illumine la nuit, offrant un spectacle de beauté époustouflant ! Flânez le long de la rivière et admirez les jeux de lumière sur l'architecture. Pour le dîner, ne manquez pas de goûter à la 'Deep Dish Pizza', avec sa croûte épaisse et son fromage débordant, c'est un rite de passage lors de votre voyage à Chicago !",
+              "practical_tip": "💡 Conseil pratique : Je vous recommande Lou Malnati's Pizzeria. N'oubliez pas de commander dès votre arrivée car la préparation de la Deep Dish Pizza prend 45 minutes."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Jour 2 : Montée et shopping au paradis (Magnificent Mile)",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Willis Tower - Skydeck",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "Mettez-vous au défi ! Montez au Skydeck de la Willis Tower et marchez sur la plateforme d'observation en verre transparent, avec la ville animée juste en dessous. C'est plus qu'un choc visuel, c'est le meilleur endroit pour admirer la vue sur Chicago. Par temps clair, vous pouvez même voir les états voisins !",
+              "practical_tip": "💡 Conseil pratique : Il est recommandé d'acheter un CityPASS pour économiser sur les frais d'entrée et bénéficier d'un accès rapide."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "The Magnificent Mile",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "C'est le paradis des accros du shopping ! Des boutiques de luxe aux grands magasins, tout y est. Même si vous n'achetez rien, l'architecture le long de la rue est un véritable plaisir esthétique. Lorsque vous êtes fatigué, trouvez un café avec du cachet pour vous asseoir, observer les rues de Chicago et profiter de l'atmosphère décontractée de l'après-midi.",
+              "practical_tip": "💡 Conseil pratique : Si vous y allez fin novembre, les décorations de Noël sont à couper le souffle et ne doivent pas être manquées !"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "360 CHICAGO",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "Ici, la vue est encore plus belle, orientée vers le lac. Profitez du coucher de soleil et du paysage nocturne de Chicago depuis la plateforme d'observation au 94ème étage, regardant le lac Michigan passer d'un bleu éclatant à une teinte profonde de noir, pendant que les lumières de la ville s'allument, c'est le moment le plus romantique à Chicago, garanti de vous émouvoir.",
+              "practical_tip": "💡 Conseil pratique : Le bar de la plateforme d'observation propose des cocktails, commandez-en un pour savourer tout en admirant la vue nocturne."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Jour 3 : Détente au bord du lac et éducation scientifique",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Shedd Aquarium",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "Situé dans le Museum Campus, le Shedd Aquarium est l'un des meilleurs aquariums des États-Unis. La diversité de la vie marine est incroyable, en particulier la section des baleines et des dauphins, parfaite pour une sortie en famille. L'architecture du bâtiment est également un classique chargé d'histoire.",
+              "practical_tip": "💡 Conseil pratique : Assurez-vous de réserver à l'avance pour les spectacles, sinon vous risquez de manquer de place !",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Adler Planetarium",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "C'est le meilleur endroit secret pour photographier la skyline de Chicago ! Depuis ici, lorsque vous regardez vers le centre-ville, la ville ressemble à un tableau. Les expositions sont riches et présentent des mystères de l'univers de manière ludique, c'est un lieu idéal pour apprendre en s'amusant.",
+              "practical_tip": "💡 Conseil pratique : Le sentier au bord du lac autour de l'Adler Planetarium est un endroit prisé par les habitants pour courir et pique-niquer."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Navy Pier",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "Le soir, rendez-vous à Navy Pier et montez à bord de la grande roue pour admirer le lac Michigan et le paysage nocturne de la ville. Le quai regorge de restaurants et de spectacles de rue, offrant une ambiance festive, un excellent endroit pour découvrir la vie nocturne de Chicago.",
+              "practical_tip": "💡 Conseil pratique : Les samedis soirs d'été, des feux d'artifice ont généralement lieu, n'oubliez pas de vérifier le calendrier sur le site officiel !"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Jour 4 : Quartiers bohèmes et cuisine locale",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Lincoln Park Zoo",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "C'est l'un des plus anciens zoos gratuits des États-Unis, avec un environnement magnifique et verdoyant. Ici, vous pouvez vous promener tranquillement, avoir un contact proche avec les animaux, et vraiment ressentir le stress d'une grande ville disparaître, c'est un excellent choix pour commencer votre dernière journée.",
+              "practical_tip": "💡 Conseil pratique : Entièrement gratuit ! Parfait pour une promenade matinale, le Lincoln Park à proximité est également idéal pour les photos.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Wicker Park",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "Pour terminer votre voyage, plongez dans le quartier bohème de Chicago ! Ici, vous trouverez des boutiques vintage uniques, des disquaires et des librairies indépendantes. Trouvez un café au style particulier pour savourer la vie locale à Chicago et achetez quelques souvenirs faits main pour conclure votre voyage.",
+              "practical_tip": "💡 Conseil pratique : Il y a de nombreux restaurants cachés et uniques ici, entrez dans un restaurant bien noté et vous ne serez pas déçu."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Blues Bar",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "Venir à Chicago sans entendre de la musique blues, c'est comme ne pas être venu ! Trouvez un bar blues réputé (comme Buddy Guy's Legends), commandez une bière et laissez-vous emporter par les rythmes profonds et pleins d'âme de la musique, pour conclure en beauté ces 4 jours de voyage de rêve. 🎷",
+              "practical_tip": "💡 Conseil pratique : Certains bars populaires exigent que vous ayez au moins 21 ans et que vous présentiez une pièce d'identité, vérifiez cela avant de partir !"
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "seo_meta": {
+        "title": "【2026 Chicago Viaje Libre】¡El mejor itinerario de 4 días! Plan de transporte y comida imperdible",
+        "description": "¿Cómo disfrutar tu primer viaje a Chicago? Esta completa guía de 4 días en Chicago te llevará a todos los puntos imprescindibles, saborear la comida local y experimentar la arquitectura y las hermosas vistas del Lago Michigan."
+      },
+      "hero_section": {
+        "hook_intro": "¡Bienvenidos a la ciudad arquitectónica más encantadora de Estados Unidos—Chicago! Aquí no solo encontrarás un impresionante paisaje de rascacielos, sino también la brisa refrescante del lago Michigan. Esta ciudad combina perfectamente el arte moderno, una rica historia y una gastronomía asombrosa, ¡sin duda un destino de ensueño en tu lista de viajes!\n\nHe preparado un itinerario de 4 días que optimiza tu ruta, desde el famoso Bean en Millennium Park hasta el impresionante crucero por el río, y la auténtica pizza de molde profundo, todo para que experimentes la infinita belleza de esta ciudad. ¡Prepárate con tu cámara y partamos juntos! 📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Día 1: Tour de Arquitectura y Arte Moderno (Centro Loop)",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Millennium Park",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "La primera parada en Chicago es, sin duda, el icónico 'Cloud Gate', conocido por todos como el Bean. Aquí puedes capturar fotos divertidas de su reflejo, sintiendo la perfecta fusión entre la ciudad y el cielo. Luego, pasea por la cercana Crown Fountain y siente el ritmo relajado de los chicagoenses; ¡este es definitivamente tu primer punto para tomar fotos!",
+              "practical_tip": "💡 Consejo: Se recomienda llegar antes de las 9 a.m. para evitar las multitudes y capturar imágenes de un 'Bean' limpio."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Art Institute of Chicago",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "Este museo es un templo del arte de clase mundial, con una colección increíble de obras impresionistas, incluidas piezas clásicas de Van Gogh y Monet. Incluso si no eres un experto en arte, caminar por sus salas y absorber su rica atmósfera cultural es una experiencia muy gratificante. Sugiero reservar al menos 3 horas para disfrutarlo sin prisa; ¡no te decepcionará!",
+              "practical_tip": "💡 Consejo: Si deseas ahorrar, asegúrate de reservar tus boletos en línea y utiliza la aplicación de audio guía del museo."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Paseo por el Río Chicago y Pizza de Molde Profundo",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "Cuando cae la noche, el río Chicago brilla con luces, ¡una vista que quita el aliento! Pasea a lo largo del río y disfruta del esplendor arquitectónico. Para la cena, definitivamente debes probar la 'Deep Dish Pizza'; su masa gruesa y el abundante queso son un ritual esencial en tu visita a Chicago.",
+              "practical_tip": "💡 Consejo: Recomiendo Lou Malnati's Pizzeria. Recuerda que la pizza de molde profundo se hornea durante 45 minutos, así que lo más inteligente es ordenar al llegar."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Día 2: Alturas y Paraíso de Compras (Magnificent Mile)",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Willis Tower - Skydeck",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "¡Desafía tu valentía! Sube al Skydeck de Willis Tower y pisa la plataforma de vidrio transparente, con la bulliciosa ciudad debajo de tus pies. No solo es un impacto visual, sino que también es el mejor lugar para admirar el panorama de Chicago. Con una vista despejada, ¡incluso puedes ver los estados cercanos!",
+              "practical_tip": "💡 Consejo: Se recomienda comprar CityPASS, para ahorrar en entradas y disfrutar de acceso rápido."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "The Magnificent Mile",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "¡Este es el paraíso de los compradores! Desde tiendas de lujo hasta gigantescas tiendas insignia, aquí encuentras de todo. Aunque no compres nada, el diseño arquitectónico que rodea la zona es realmente artístico. Si te cansas, busca una cafetería con estilo para relajarte, observar la estética de Chicago y disfrutar de un ambiente apacible por la tarde.",
+              "practical_tip": "💡 Consejo: Si visitas a finales de noviembre, ¡las decoraciones navideñas aquí son impresionantes, así que no te lo pierdas!"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "360 CHICAGO",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "En comparación con Willis Tower, aquí la vista está más centrada hacia el lago. Desde el mirador en el piso 94, admira la puesta de sol y la vista nocturna de Chicago, viendo cómo el Lago Michigan pasa de un azul brillante a un profundo negro y las luces de la ciudad se encienden. Este es, sin duda, el momento más romántico en Chicago, ¡te emocionará!",
+              "practical_tip": "💡 Consejo: Hay un bar en el mirador; pide un cóctel y disfruta de la vista nocturna, ¡creando una atmósfera increíble!"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Día 3: Relax junto al Lago y Educativo en Ciencia",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Shedd Aquarium",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "Ubicado en el Museum Campus, el Shedd Aquarium es uno de los mejores acuarios de Estados Unidos. La diversidad de vida marina aquí es asombrosa, especialmente en las exhibiciones de ballenas y delfines, perfectas para toda la familia. La arquitectura del edificio en sí también es una obra clásica histórica.",
+              "practical_tip": "💡 Consejo: Recuerda reservar las sesiones de presentación con anticipación, ¡de lo contrario, podrías quedarte sin espacio!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Adler Planetarium",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "¡Este es el mejor escondite para capturar la perfecta línea del horizonte de Chicago! Desde aquí, miras hacia el centro, donde la ciudad parece una pintura. El museo está lleno de exposiciones que ilustran misterios del universo de manera accesible y divertida, ¡un lugar ideal para aprender mientras te diviertes!",
+              "practical_tip": "💡 Consejo: El sendero alrededor del Adler Planetarium es un lugar favorito para correr y hacer picnics entre los locales."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Navy Pier",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "Al llegar a la noche, visita Navy Pier y sube a la gran rueda de la fortuna para obtener vistas del Lago Michigan y la ciudad iluminada. Hay muchos restaurantes y presentaciones callejeras en el muelle, llenos de una vibrante atmósfera de carnaval, ¡un lugar perfecto para experimentar la vida nocturna de Chicago!",
+              "practical_tip": "💡 Consejo: Los sábados por la noche en verano, suele haber espectáculos de fuegos artificiales, ¡asegúrate de consultar el horario en el sitio oficial!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Día 4: Barrios Alternativos y Comida Local",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Lincoln Park Zoo",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "Este es uno de los zoológicos gratuitos más antiguos de Estados Unidos, ubicado en un hermoso entorno verde. Aquí puedes pasear tranquilamente y acercarte a los animales, sintiendo la reducción del estrés que ofrece la gran ciudad. Es una opción refrescante para empezar tu última jornada de viaje.",
+              "practical_tip": "💡 Consejo: ¡Totalmente gratis! Ideal para una caminata matutina, y el parque Lincoln al lado también es excelente para fotos.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Wicker Park",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "Para las últimas horas, ¡sumérgete en el barrio alternativo de Chicago! Aquí hay tiendas de ropa vintage, disquerías y librerías independientes llenas de carácter. Busca una cafetería única en estilo para saborear la vida local de Chicago y compra algunos souvenirs únicos para llevarte como recuerdo de tu viaje.",
+              "practical_tip": "💡 Consejo: Hay muchas joyas escondidas de comida aquí; entrar a cualquier restaurante con buenas críticas es casi una garantía de éxito."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Blues Bar",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "Llegar a Chicago y no escuchar música blues sería como no haber venido. Encuentra un conocido bar de blues (como Buddy Guy's Legends), pídete una cerveza y déjate envolver por el profundo ritmo musical lleno de alma, para cerrar con broche de oro estos 4 días de viaje soñado. 🎷",
+              "practical_tip": "💡 Consejo: Algunos bares populares requieren tener 21 años y presentar identificación, así que asegúrate de verificar esto antes de salir."
+            }
+          ]
+        }
+      ]
+    },
+    "id": {
+      "seo_meta": {
+        "title": "【2026 Chicago Perjalanan Bebas】Panduan Rencana Perjalanan 4 Hari Terbaik! Tempat Wisata, Transportasi & Kuliner Wajib Dicoba",
+        "description": "Pertama kali ke Chicago, bagaimana cara bermain? Artikel ini adalah panduan lengkap 4 hari di Chicago yang membawa Anda menjelajahi tempat-tempat wajib dikunjungi, mencicipi kuliner lokal, dan merasakan pesona arsitektur serta pemandangan danau yang menakjubkan!"
+      },
+      "hero_section": {
+        "hook_intro": "Selamat datang di ibu kota arsitektur paling menawan di Amerika Serikat—Chicago! Di sini tidak hanya ada deretan gedung pencakar langit kelas dunia, tetapi juga tiupan angin sejuk dari Danau Michigan. Kota ini memadukan seni modern, sejarah yang mendalam, dan kuliner yang menakjubkan, pasti merupakan daftar impian yang harus Anda kunjungi dalam hidup Anda!\n\nDengan rencana perjalanan 4 hari ini, saya telah merancang rute paling lancar untuk Anda, mulai dari Bean di Millennium Park hingga perayaan tepi sungai yang megah, lalu mencicipi pizza deep dish yang otentik, sehingga Anda bisa merasakan daya tarik tanpa akhir dari kota angin ini dengan cara yang paling efisien! Siapkan kamera Anda dan mari kita berangkat!📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Hari 1: Tur Arsitektur dan Seni Modern (Loop Pusat Kota)",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Millennium Park",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "Tempat pertama yang harus Anda kunjungi di Chicago adalah landmark 'Cloud Gate', yang dikenal sebagai Bean! Di sini Anda bisa mengambil foto refleksi yang menarik dan merasakan perpaduan sempurna antara kota dan langit. Selanjutnya, jelajahi Crown Fountain di sebelahnya dan rasakan langkah santai warga Chicago, tempat ini pasti menjadi tempat awal untuk berfoto!",
+              "practical_tip": "💡 Tips Sederhana: Disarankan untuk tiba sebelum jam 9 pagi untuk menghindari keramaian agar bisa mendapatkan foto clean dari 'Bean'!"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Art Institute of Chicago",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "Museum ini adalah kuil seni terkemuka di dunia, menyimpan banyak karya impresionis terkenal, termasuk lukisan klasik Van Gogh dan Monet. Bahkan jika Anda bukan seorang profesional seni, berjalan di dalam museum dan merasakan suasana budaya yang kental adalah pengalaman yang sangat menyegarkan. Disarankan untuk menyisihkan setidaknya 3 jam untuk menjelajahi, pasti tidak akan mengecewakan.",
+              "practical_tip": "💡 Tips Sederhana: Jika ingin berhemat, ingatlah untuk memesan tiket secara online terlebih dahulu dan manfaatkan aplikasi panduan audio museum."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Pesisir Sungai Chicago dan Deep Dish Pizza",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "Setelah gelap, pesisir Sungai Chicago dipenuhi dengan cahaya yang menakjubkan! Berjalan-jalan di tepi sungai, rasakan kilauan cahaya arsitektur. Untuk makan malam, pastikan Anda mencoba 'Deep Dish Pizza' yang otentik, dengan kerak tebal dan keju melimpah, pasti menjadi ritual jiwa saat berwisata di Chicago!",
+              "practical_tip": "💡 Tips Sederhana: Disarankan untuk pergi ke Lou Malnati's Pizzeria, ingat bahwa pizza deep dish segar membutuhkan waktu pemanggangan sekitar 45 menit, jadi pesan makanan saat duduk!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Hari 2: Melihat Dari Ketinggian dan Surga Belanja (The Magnificent Mile)",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Willis Tower - Skydeck",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "Uji nyali Anda! Naiklah ke Skydeck di Willis Tower dan pijak platform kaca transparan, di bawah kaki Anda adalah jalan-jalan kota yang ramai. Ini bukan hanya tentang visual yang mencolok, tetapi juga merupakan tempat terbaik untuk menikmati pemandangan kota Chicago. Saat pandangan terbentang, Anda bahkan bisa melihat negara bagian tetangga!",
+              "practical_tip": "💡 Tips Sederhana: Disarankan membeli CityPASS untuk menghemat biaya tiket dan mempercepat proses masuk."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "The Magnificent Mile",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "Ini adalah surga belanja bagi para pemburu barang! Dari toko mewah hingga toko bendera besar, semuanya tersedia di sini. Bahkan jika Anda tidak berbelanja, desain arsitektur di sepanjang jalan juga sangat artistik. Jika lelah berjalan, cari kafe yang nyaman untuk duduk, mengamati street style Chicago, dan nikmati suasana santai sore.",
+              "practical_tip": "💡 Tips Sederhana: Jika Anda pergi pada akhir November, dekorasi Natal di sini sangat menakjubkan, pastikan Anda tidak melewatkannya!"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "360 CHICAGO",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "Dibandingkan dengan Willis Tower, tempat ini menawarkan pandangan lebih mengarah ke danau. Nikmati matahari terbenam dan pemandangan malam Chicago dari dek observasi di lantai 94, saksikan Danau Michigan yang berwarna biru cerah berubah menjadi hitam yang dalam, lampu kota mulai menyala, ini adalah momen paling romantis di Chicago yang dijamin akan mengharukan hati Anda.",
+              "practical_tip": "💡 Tips Sederhana: Di dalam dek observasi terdapat bar, pesan satu koktail dan nikmati sambil melihat pemandangan malam, suasana akan semakin magis."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Hari 3: Bersantai di Danau dan Pendidikan Sains",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Shedd Aquarium",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "Shedd Aquarium, terletak di kawasan museum, adalah salah satu akuarium terbaik di Amerika. Keanekaragaman biota laut di sini sangat mengagumkan, terutama di area pameran ikan paus dan lumba-lumba, cocok untuk dikunjungi bersama seluruh keluarga. Bangunan di dalamnya juga merupakan karya klasik yang telah ada sejak lama.",
+              "practical_tip": "💡 Tips Sederhana: Ingatlah untuk memesan slot pertunjukan sebelumnya, jika tidak, Anda mungkin akan kehilangan kesempatan!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Adler Planetarium",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "Ini adalah tempat rahasia terbaik untuk memotret garis langit Chicago! Dari sini, melihat kembali ke pusat kota, seluruh kota terlihat seperti lukisan. Pameran di dalamnya kaya dan dijelaskan dengan cara yang menyenangkan, menjadikannya tempat terbaik untuk belajar sambil bersenang-senang.",
+              "practical_tip": "💡 Tips Sederhana: Jalur pejalan kaki di tepi danau di luar Adler Planetarium adalah tempat favorit penduduk setempat untuk jogging dan piknik."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Navy Pier",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "Ketika malam tiba di Navy Pier, naiklah bianglala raksasa untuk melihat Danau Michigan dan pemandangan malam kota. Di dermaga ini terdapat banyak restoran dan pertunjukan jalanan, suasana karnaval yang ramai membuat ini menjadi tempat terbaik untuk merasakan kehidupan malam lokal di Chicago.",
+              "practical_tip": "💡 Tips Sederhana: Biasanya ada pertunjukan kembang api pada Sabtu malam di musim panas, jadi ingat untuk memeriksa jadwal di situs resmi!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Hari 4: Distrik Seni dan Kuliner Lokal",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Lincoln Park Zoo",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "Ini adalah salah satu kebun binatang gratis tertua di Amerika, dengan lingkungan yang indah dan banyak hijau. Di sini Anda bisa berjalan santai, berinteraksi dekat dengan hewan, sepenuhnya merasakan tanpa tekanan kota besar, pilihan yang menyegarkan untuk membuka hari terakhir perjalanan.",
+              "practical_tip": "💡 Tips Sederhana: Sepenuhnya gratis! Cocok untuk berjalan di pagi hari, dan Lincoln Park di sebelahnya juga sangat bagus untuk berfoto.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Wicker Park",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "Di waktu terakhir ini, tentu saja kita harus menyelami distrik seni Chicago! Di sini terdapat toko barang vintage yang unik, toko rekaman, dan toko buku independen. Temukan kafe dengan gaya unik, nikmati kehidupan sehari-hari Chicago, dan beli beberapa suvenir buatan tangan sebagai penutup perjalanan.",
+              "practical_tip": "💡 Tips Sederhana: Di sini ada banyak restoran tersembunyi yang menyajikan makanan lezat, masuk ke restoran dengan rating baik pasti tidak akan mengecewakan."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Blues Bar",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "Datang ke Chicago tanpa mendengarkan musik blues sama saja dengan belum datang! Cari salah satu bar blues terkenal (seperti Buddy Guy's Legends), pesan bir, dan tenggelam dalam alunan musik yang dalam dan penuh jiwa, sempurna untuk mengakhiri perjalanan 4 hari yang menakjubkan ini.🎷",
+              "practical_tip": "💡 Tips Sederhana: Beberapa bar populer memerlukan usia minimal 21 tahun dan pemeriksaan identitas dengan paspor, pastikan untuk memeriksa sebelum berangkat!"
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "seo_meta": {
+        "title": "【2026 शिकागो स्वतंत्र यात्रा】सबसे मजबूत 4 दिवसीय यात्रा कार्यक्रम की योजना का सरल पैकेज! स्थल, परिवहन & आवश्यक खाने की पूरी मार्गदर्शिका",
+        "description": "शिकागो में पहली बार कैसे घूमें? यह विस्तृत 4 दिवसीय शिकागो स्वतंत्र यात्रा मार्गदर्शिका, आपको आवश्यक स्थलों की सैर कराएगी, स्थानीय खाद्य पदार्थों का स्वाद लेने देगी, और इस विंडीत शहर की वास्तुकला की आकर्षण और अद्भुत झील के दृश्य का अनुभव करने देगी!"
+      },
+      "hero_section": {
+        "hook_intro": "आपका स्वागत है अमेरिका की सबसे आकर्षक वास्तुकला की राजधानी——शिकागो में! यहाँ केवल विश्व स्तरीय गगनचुंबी इमारतें ही नहीं हैं, बल्कि मिचिगन झील के किनारे चलने वाली हल्की हवा भी है। यह शहर आधुनिक कला, गहरी इतिहास और अद्भुत भोजन का शानदार मिश्रण है, जो निश्चित रूप से आपके जीवन की यात्रा की सूची में होना चाहिए!\n\nइस 4 दिवसीय यात्रा कार्यक्रम के साथ, मैंने आपके लिए सबसे सुगम मार्ग की योजना बनाई है, मिलेनियम पार्क के दर्पण बीन से लेकर भव्य नदी तट के आकर्षण, फिर स्थानीय गहरे पैने पिज्जा तक, आपको इस विंडीत शहर के अनलिमिटेड आकर्षण का अनुभव कराने के लिए यह सबसे प्रभावी तरीका है! अपनी कैमरा तैयार करें, चलें! 📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "दिन 1: वास्तुकला और आधुनिक कला की यात्रा (सिटी सेंटर लूप)",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "मिलेनियम पार्क (Millennium Park)",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "शिकागो की पहली यात्रा का स्थान, निश्चित रूप से इसका पहचानने योग्य 'क्लाउड गेट (Cloud Gate)' है, जिसे हर कोई बीन कहता है! यहाँ आप मजेदार परछाईं के चित्र ले सकते हैं और शहर और आकाश के बीच के खूबसूरत मेलजोल का अनुभव कर सकते हैं। फिर पास के क्राउन फाउंटेन में घूमें, शिकागो की आरामदायक जीवनशैली का मजा लें, यह आपकी फोटो खींचने की पहली जगह जरूर होगी!",
+              "practical_tip": "💡 विशेषज्ञ टिप: सुबह 9 बजे से पहले पहुंचना बेहतर होता है, ताकि आप बिना भीड़ के 'बीन' के दर्पण की साफ तस्वीर ले सकें!"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "शिकागो आर्ट इंस्टीट्यूट (Art Institute of Chicago)",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "यह संग्रहालय विश्व के शीर्ष कला स्थलों में से एक है, जिसमें अनगिनत इंप्रेशनिस्ट कृतियों का संग्रह है, जिसमें वैन गॉग और मोनेट की क्लासिक पेंटिंग शामिल हैं। यदि आप कला में विशेषज्ञ नहीं हैं, तो भी यहाँ की सांस्कृतिक धारणा का अनुभव करना बहुत सुखदायक है। कम से कम 3 घंटे का समय दें, यकीनन यह आपको निराश नहीं करेगा।",
+              "practical_tip": "💡 विशेषज्ञ टिप: अगर आप पैसे बचाना चाहते हैं, तो पहले से टिकट ऑनलाइन बुक करें, और संग्रहालय का ऑडियो गाइड ऐप का सही उपयोग करें।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "शिकागो नदी के तट पर चलना और गहरे पिज्जा",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "रात होते ही शिकागो नदी का किनारा रोशनी से जगमगाता है, जो दिलकश है! नदी के किनारे पर चलें, और इमारतों की रोशनी का आनंद लें। रात के खाने के लिए, स्थानीय 'गहरे पिज्जा (Deep Dish Pizza)' का अनुभव करना न भूलें, इसकी मोटी परत और ढेर सारे चीज़ के साथ यह शिकागो की यात्रा का आत्मा यादगार बनेगा!",
+              "practical_tip": "💡 विशेषज्ञ टिप: Lou Malnati's Pizzeria का विकल्प चुनें, क्योंकि गहरे पिज्जा को बनने में 45 मिनट लगते हैं, इसलिए पहले बैठने पर ऑर्डर करना सबसे अच्छा है।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "दिन 2: ऊँचाई पर चढ़ना और खरीदारी का स्वर्ग (मैग्निफिसेंट माइल)",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "विलिस टॉवर (Willis Tower - Skydeck)",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "अपनी हिम्मत को चुनौती दें! विलिस टॉवर के स्काईडे क पर चढ़ें, पूरी तरह से पारदर्शी कांच के दृश्य पॉड पर कदम रखें, आपके नीचे व्यस्त शहर की सड़कें हैं। यह न केवल एक दृष्टि का आघात है, बल्कि शिकागो के नज़ारे का सर्वोत्तम स्थान है। विस्तृत दृश्य में, आप समीपवर्ती राज्यों को भी देख सकते हैं!",
+              "practical_tip": "💡 विशेषज्ञ टिप: CityPASS खरीदना बेहतर है, जिससे आप टिकट की लागत बचाते हैं और जल्दी प्रवेश कर सकते हैं।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "मैग्निफिसेंट माइल (The Magnificent Mile)",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "यहाँ कि खरीदारी करने वालों का सपना सच होता है! यहाँ उच्च गुणवत्ता के ब्रांड से लेकर बड़े प्रमुख स्टोर तक सब कुछ है। यदि आप खरीदारी नहीं कर रहे हैं, तो भी रास्ते में इमारतों का डिज़ाइन कला के रूप में अद्भुत है। थक जाने पर, किसी अच्छी कॉफी की दुकान पर बैठें, शिकागो के स्टाइलिश स्ट्रीट फोटो पर नज़र डालें, और दोपहर की सुहावनी हवा का आनंद लें।",
+              "practical_tip": "💡 विशेषज्ञ टिप: यदि आप नवंबर के अंत में आते हैं, तो यहाँ की क्रिसमस लाइटिंग देखने लायक होती है, इसे बिल्कुल मत छोड़ें!"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "जॉन हैंकॉक सेंटर (360 CHICAGO)",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "विलिस टॉवर की तुलना में, यहाँ का दृश्य तालाब की ओर अधिक है। 94 वीं मंजिल के दृश्य स्टूडियो पर शिकागो के सूर्यास्त और रात का नज़ारा देखें, मिचिगन झील नीला से गहरा काला होती है, और शहर की रोशनी धीरे-धीरे जलती है, यह शिकागो का सबसे रोमांटिक क्षण है, यह आपको ज़रूर प्रभावित करेगा।",
+              "practical_tip": "💡 विशेषज्ञ टिप: दृश्य स्टूडियो के भीतर एक बार है, एक कॉकटेल का ऑर्डर करें और नज़ारा देखने के साथ पीजिये, माहौल का अनुभव करें।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "दिन 3: झील किनारे की विश्राम और विज्ञान शिक्षा",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "शेड एक्वेरियम (Shedd Aquarium)",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "संग्रहालय जिले में स्थित शेड एक्वेरियम, अमेरिका के सबसे अच्छे एक्वेरियम में से एक है। यहाँ समुद्री जीवन की विविधता वाकई में आश्चर्यजनक है, विशेष रूप से व्हेल और डोल्फ़िन के प्रदर्शन क्षेत्र सभी उम्र के परिवार के लिए उपयुक्त हैं। संग्रहालय की संरचना भी एक ऐतिहासिक कृति है।",
+              "practical_tip": "💡 विशेषज्ञ टिप: प्रदर्शन कार्यक्रम का समय पहले से बुक करें, वरना स्थान सीमित हो सकता है!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "एडलर प्लैनेटेरियम (Adler Planetarium)",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "यहां शिकागो के क्षितिज के सबसे अच्छे तस्वीरें खींचने का परफेक्ट स्थान है! यहाँ से शहर को देखो, जैसे वह पेंटिंग हो। संग्रहालय में प्रदर्शनी विस्तृत है, जो ब्रह्मांड के रहस्यों को सरलता से प्रस्तुत करती है, यह सीखने और खेलने का सर्वोत्तम स्थान है।",
+              "practical_tip": "💡 विशेषज्ञ टिप: एडलर प्लैनेटेरियम के आस-पास का झील किनारे का ट्रेल, स्थानीय लोगों के लिए जॉगिंग और पिकनिक की सबसे पसंदीदा जगह है।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "नेवी पियर (Navy Pier)",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "शाम को नेवी पियर पर पहुँचे, विशाल फेरिस व्हील पर चढ़कर मिचिगन झील और शहर के रात के दृश्य का आनंद लें। पियरे पर कई रेस्तरां और सड़क कला प्रदर्शन होते हैं, जो एक जीवंत महोत्सव का अनुभव प्रदान करते हैं, यह शिकागो की रात की जीवन का अनुभव करने का सबसे अच्छा स्थल है।",
+              "practical_tip": "💡 विशेषज्ञ टिप: गर्मियों में शनिवार रात को अक्सर आतिशबाज़ी होती है, समय सारणी की जाँच करना न भूलें!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "दिन 4: कलात्मक क्षेत्र और स्थानीय खाद्य पदार्थ",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "लिंकन पार्क चिड़ियाघर (Lincoln Park Zoo)",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "यह अमेरिका के सबसे पुराने मुफ्त चिड़ियाघरों में से एक है, इसका वातावरण खूबसूरत और हरा-भरा है। यहाँ आप आसानी से चल सकते हैं, जानवरों के करीब संपर्क कर सकते हैं, और बड़े शहर के तनाव का अनुभव नहीं कर सकते हैं, यह अंतिम दिन की यात्रा की शुरुआत का ताज़गी भरा विकल्प है।",
+              "practical_tip": "💡 विशेषज्ञ टिप: पूरी तरह से मुफ्त! सुबह की सैर के लिए उपयुक्त है, बगल का लिंकन पार्क फोटो खींचने के लिए भी बहुत अच्छा है।",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "विकर पार्क (Wicker Park) कला क्षेत्र",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "अंतिम क्षणों में, निश्चित रूप से शिकागो के कला क्षेत्र में गहराई से जाना चाहिए! यहाँ पर अनोखे पुराने कपड़ों की दुकानें, रिकॉर्ड स्टोर और स्वतंत्र पुस्तकालय हैं। एक अनोखी शैली वाली कॉफी की दुकान ढूंढें, शिकागो की स्थानीय जीवन शैली का अनुभव करें, और यात्रा के अंत के लिए कुछ हस्तनिर्मित स्मृति चिन्ह खरीदें।",
+              "practical_tip": "💡 विशेषज्ञ टिप: यहाँ कई छिपे हुए खाद्य दुकानें हैं, किसी भी अच्छी रेटिंग वाली रेस्तरां में घूमने का प्रयास करें, आप निराश नहीं होंगे।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "शिकागो ब्लूज़ बार (Blues Bar)",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "शिकागो पहुँचकर, ब्लूज़ संगीत नहीं सुना तो जैसे आप यहाँ नहीं आए! एक प्रसिद्ध ब्लूज़ बार (जैसे Buddy Guy's Legends) में जाएं, एक बियर का ऑर्डर करें और गहरे और आत्मीय संगीत की लय में डूब जाएं, इस 4 दिवसीय अद्भुत यात्रा को पूरा करने का एक सही अंत करें।🎷",
+              "practical_tip": "💡 विशेषज्ञ टिप: कुछ प्रसिद्ध बार में 21 साल की उम्र और आईडी की आवश्यकता होती है, सुनिश्चित करें कि आप साइट पर पहले से चेक कर लें!"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "seo_meta": {
+        "title": "【2026 Chicago Viagem Livre】O melhor guia de itinerário de 4 dias! Transporte, atrações e gastronomia obrigatória",
+        "description": "Primeira vez em Chicago? Este guia completo de 4 dias em Chicago vai te levar a todos os pontos turísticos imperdíveis, saborear a culinária local e sentir o charme arquitetônico e as vistas deslumbrantes do Lago Michigan!"
+      },
+      "hero_section": {
+        "hook_intro": "Bem-vindo à cidade da arquitetura mais encantadora dos Estados Unidos — Chicago! Aqui você não encontra apenas arranha-céus de classe mundial, mas também a brisa fresca vinda das margens do Lago Michigan. Esta cidade combina perfeitamente arte moderna, rica história e uma comida incrível — definitivamente um destino dos sonhos que você deve visitar!\n\nEste itinerário condensado de 4 dias está perfeitamente planejado para você, desde o Bean no Millennium Park até o grandioso passeio pelo rio e a deliciosa pizza deep dish. Prepare-se para mergulhar na infinita beleza da cidade em um jeito super eficiente! Pegue sua câmera e vamos juntos! 📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Dia 1: Tour de Arquitetura e Arte Moderna (Centro Loop)",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Millennium Park",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "A primeira parada em Chicago é definitivamente o icônico 'Cloud Gate', conhecido como o Bean! Aqui, você pode tirar fotos incríveis com reflexos, sentindo a perfeita fusão entre a cidade e o céu. Depois, dê uma olhada na Crown Fountain ao lado, onde você consegue sentir o ritmo descontraído dos habitantes de Chicago; este lugar é definitivamente seu primeiro ponto para fotos!",
+              "practical_tip": "💡 Dica do especialista: Chegue antes das 9h para evitar multidões e garantir uma foto limpa do 'Bean'!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Art Institute of Chicago",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "Este museu é um dos principais templos da arte do mundo, com uma impressionante coleção de obras-primas do Impressionismo, incluindo clássicos de Van Gogh e Monet. Mesmo que você não seja um especialista em arte, caminhar pelo museu e sentir a densa atmosfera cultural é uma experiência muito gratificante. Reserve pelo menos 3 horas para explorar, você não vai se decepcionar.",
+              "practical_tip": "💡 Dica do especialista: Se você quer economizar, lembre-se de reservar seus ingressos online e aproveitar o aplicativo de áudio do museu."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Caminhada pela Margem do Rio Chicago e Pizza Deep Dish",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "À noite, a margem do rio Chicago brilha com luzes, linda de tirar o fôlego! Caminhe ao longo do rio e aprecie o brilho das construções. No jantar, deve-se experimentar a autêntica 'Deep Dish Pizza' — com sua crosta espessa e recheio generoso de queijo, é um ritual essencial na sua viagem a Chicago!",
+              "practical_tip": "💡 Dica do especialista: Eu recomendo a Lou Malnati's Pizzeria, e lembre-se de que a pizza deep dish leva 45 minutos para ser preparada, então faça seu pedido assim que se sentar."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Dia 2: Altura e Paraíso das Compras (Magnificent Mile)",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Willis Tower - Skydeck",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "Desafie sua coragem! Suba ao Skydeck da Willis Tower e pise na varanda de vidro totalmente transparente, com a cidade próspera logo abaixo dos seus pés. Não é apenas um choque visual, mas é também o melhor lugar para ter uma vista do skyline de Chicago. Em dias claros, você até poderá ver estados vizinhos!",
+              "practical_tip": "💡 Dica do especialista: É recomendável comprar o CityPASS, que pode economizar os custos de ingresso e agilizar a entrada."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "The Magnificent Mile",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "Este é o paraíso dos amantes de compras! Desde boutiques de luxo até grandes lojas de departamentos, há de tudo aqui. Mesmo que você não compre nada, os designs das construções ao longo do caminho são visualmente impressionantes. Quando você estiver cansado, encontre um pouco de charme em um café e observe os estilos de moda em Chicago, aproveitando a atmosfera relaxante da tarde.",
+              "practical_tip": "💡 Dica do especialista: Se você estiver aqui no final de novembro, as decorações de Natal são absolutamente deslumbrantes e não podem ser perdidas!"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "360 CHICAGO",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "Comparado à Willis Tower, esta vista é mais voltada para o lago. No 94º andar, aprecie o pôr do sol e as luzes da cidade de Chicago enquanto vê o Lago Michigan mudar de azul brilhante para um profundo tom negro, enquanto as luzes da cidade começam a brilhar — este é definitivamente o momento mais romântico de Chicago que garantirá que você fique emocionado.",
+              "practical_tip": "💡 Dica do especialista: Há um bar na plataforma de observação; peça um coquetel e desfrute da vista noturna, a atmosfera será perfeita."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Dia 3: Lazer à Beira do Lago e Educação Científica",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Shedd Aquarium",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "Localizado na área dos museus, o Shedd Aquarium é um dos melhores aquários dos Estados Unidos. A diversidade marinha aqui é impressionante, especialmente nas seções de baleias e golfinhos, tornando-se uma visita excelente para toda a família. A própria arquitetura do aquário também é uma obra clássica de longa data.",
+              "practical_tip": "💡 Dica do especialista: Lembre-se de reservar sua sessão de apresentações com antecedência, ou corre o risco de perder a oportunidade!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Adler Planetarium",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "Este é o lugar secreto ideal para fotografar o skyline de Chicago! De aqui, olhando para o centro da cidade, você verá a cidade como uma pintura. As exposições no interior são ricas e apresentam os mistérios do universo de maneira acessível e divertida.",
+              "practical_tip": "💡 Dica do especialista: A trilha à beira do lago ao redor do planetário é o local favorito para corrida e piquenique entre os locais."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Navy Pier",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "À noite, vá ao Navy Pier e suba na roda-gigante gigante para aproveitar a vista do Lago Michigan e das luzes da cidade. Há muitos restaurantes e apresentações de rua no píer, que trazem uma atmosfera vibrante de carnaval, tornando-o o lugar perfeito para sentir a vida noturna de Chicago.",
+              "practical_tip": "💡 Dica do especialista: Normalmente, nos sábados à noite durante o verão, há shows de fogos de artifício; verifique o cronograma no site oficial!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Dia 4: Bairro Cultural e Gastronomia Local",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Lincoln Park Zoo",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "Este é um dos zoológicos gratuitos mais antigos dos Estados Unidos, com um ambiente bonito e cheio de verde. Aqui você pode passear tranquilamente e ter um encontro mais próximo com os animais, sentindo completamente a ausência de estresse de estar em uma grande cidade, uma escolha refrescante para começar seu último dia de viagem.",
+              "practical_tip": "💡 Dica do especialista: Totalmente gratuito! Ideal para uma caminhada matinal. O Lincoln Park ao lado também é um ótimo lugar para fotos.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Wicker Park",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "Nos momentos finais, é claro que devemos explorar o bairro cultural de Chicago! Aqui você encontrará lojas de roupas vintage, lojas de discos e livrarias independentes. Encontre um café com estilo único e saboreie a sensação local de Chicago, comprando algumas lembranças como recordações da sua viagem.",
+              "practical_tip": "💡 Dica do especialista: Existem muitos restaurantes escondidos com deliciosas comidas; entrar em qualquer lugar bem avaliado geralmente não decepciona."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Blues Bar",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "Estar em Chicago e não ouvir blues é como não ter ido! Escolha um bar de blues conhecido (como o Buddy Guy's Legends), peça uma cerveja e mergulhe nas profundas e cheias de alma vibrações musicais, encerrando essa viagem de 4 dias de forma perfeita. 🎷",
+              "practical_tip": "💡 Dica do especialista: Alguns bares populares exigem que você tenha pelo menos 21 anos e leve seu passaporte para verificação de identidade; verifique isso antes de sair!"
+            }
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "seo_meta": {
+        "title": "【2026 شيكاغو السياحة الحرة】أقوى خطة itinerary لمدة 4 أيام! دليل كامل للمعالم، وسائل النقل و必吃",
+        "description": "كيف تستمتع بزيارتك الأولى لشيكاغو؟ هذه المقالة الكاملة عن خطة 4 أيام لشيكاغو الحرة تأخذك في جولة لأهم المعالم، تذوق الأطباق المحلية، واستشعر سحر المباني وجمال البحيرة في المدينة! "
+      },
+      "hero_section": {
+        "hook_intro": "مرحبًا بك في عاصمة الهندسة المعمارية الأكثر سحرًا في الولايات المتحدة - شيكاغو! هنا، لن تجد فقط ناطحات سحاب عالمية، بل أيضًا نسيم بارد من بحيرة ميتشيغان. تقدم هذه المدينة مزيجًا مثاليًا من الفن الحديث، التاريخ الغني، ومأكولات مذهلة، وهي بلا شك وجهة يجب زيارتها في قائمة أحلامك!\n\nفي هذا الجدول المختصر والمكون من 4 أيام، قمت بتخطيط أفضل المسارات لك، بدءًا من حبة الفول في Millennium Park إلى السير في القناة المهيبة، ثم تذوق البيتزا العميقة الأصلية. دعونا نستكشف سحر المدينة بطريقة فعالة! استعد لالتقاط الصور، لننطلق معًا! 📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "اليوم الأول: جولة في الهندسة المعمارية والفن الحديث (منطقة Loop)",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "Millennium Park",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "أول محطة لك في شيكاغو هي معلم 'Cloud Gate'، المعروف أيضًا بـ 'حبة الفول'! حيث يمكنك التقاط صور رائعة تعكس انسجام المدينة مع السماء. بعد ذلك، تجول بجوار نافورة Crown واستمتع بإيقاع الحياة التي يعيشها سكّان شيكاغو، فهذا المكان هو بلا شك نقطة انطلاق رائعة لالتقاط الصور!",
+              "practical_tip": "💡 نصيحة صغيرة: يُفضل الوصول قبل الساعة 9 صباحًا لتجنب الازدحام والتقاط صور واضحة لـ 'حبة الفول'!"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "Art Institute of Chicago",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "هذه المتحف هو أحد أفضل معاهد الفن في العالم، حيث يحتوي على العديد من أعمال الانطباعية الشهيرة، بما في ذلك لوحات فان جوخ ومونيه. حتى لو لم تكن محترفًا في الفن، فإن التجول داخل المتحف والاستمتاع بالجو الثقافي يعتبر تجربة مريحة للغاية. يُنصح بتخصيص 3 ساعات على الأقل لهذه الزيارة، وستكون تجربة لا تُنسى.",
+              "practical_tip": "💡 نصيحة صغيرة: إذا كنت تسعى لتوفير المال، تذكّر حجز تذكرتك عبر الإنترنت واستخدام تطبيق دليل الصوت للمتحف."
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "المشي في نهر شيكاغو وبيتزا دبيب",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "عند حلول الليل، تضيء جوانب نهر شيكاغو بأضواء ساحرة! اتخذ مشيًا على طول النهر واستمتع بأضواء المباني. لا تفوت تجربة 'Deep Dish Pizza'، حيث يتميز العجين السميك والجبن بكونه شعيرة لا بد منها خلال زيارتك لشيكاغو!",
+              "practical_tip": "💡 نصيحة صغيرة: يُوصى بـ Lou Malnati's Pizzeria، تذكّر أن بيتزا الدبيب تحتاج إلى 45 دقيقة للطهي، لذا يُفضل الطلب عند الجلوس."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "اليوم الثاني: الإطلالات وبارد التسوق (The Magnificent Mile)",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "Willis Tower - Skydeck",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "تحدّ نفسك! اصعد إلى Skydeck في Willis Tower، واستمتع بالمنصة الزجاجية الشفافة، حيث أن تحت قدميك تنبض شوارع المدينة. هذه ليست فقط تجربة بصرية، ولكنها أيضًا أفضل موقع للتمتع بإطلالة على مناظر مدينة شيكاغو. في يوم صافٍ، يمكنك حتى رؤية الولايات المجاورة!",
+              "practical_tip": "💡 نصيحة صغيرة: يفضل شراء CityPASS لتوفير الأنفاق السريعة والتذاكر."
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "The Magnificent Mile",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "هذا هو الجنة الحلم للمتسوقين! من المتاجر الفاخرة إلى المحلات الكبيرة، كل شيء هنا. حتى لو لم تكن تنوي الشراء، تستحق المباني المعمارية في المنطقة المشاهدة. إذا شعرت بالتعب، ابحث عن مقهى مميز لتجلس فيه، وتراقب الناس في الشوارع وترتشف قهوتك في أجواء بعد الظهر المريحة.",
+              "practical_tip": "💡 نصيحة صغيرة: إذا كنت ستذهب في أواخر نوفمبر، فإن زينة عيد الميلاد هنا مذهلة وتشكل منظرًا لا يُنسى!"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "360 CHICAGO",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "هذه المنصة تتمتع بإطلالة رائعة على بحيرة ميتشيغان. في الطابق 94، يمكنك الاستمتاع بغروب الشمس ومنظر الليل في شيكاغو، حيث يتغير لون البحيرة من الأزرق اللامع إلى الأسود العميق، وتبدأ أضواء المدينة في التلألؤ، وهو الوقت الأكثر رومانسية في شيكاغو.",
+              "practical_tip": "💡 نصيحة صغيرة: يوجد بار في المنصة، اطلب مشروبًا واستمتع بإطلالة على الأضواء الليلية، فالأجواء ستكون رائعة."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "اليوم الثالث: الاسترخاء على الشاطئ والتعليم العلمي",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "Shedd Aquarium",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "يعتبر متحف Shedd Aquarium في منطقة المتاحف من بين أفضل الأحواض المائية في الولايات المتحدة. تنوع الكائنات البحرية هنا مدهش، وخاصة منطقة الحيتان والدلافين، مما يجعلها مثالية للعائلة. كما أن تصميم المتحف نفسه يعتبر عملًا كلاسيكيًا تاريخيًا.",
+              "practical_tip": "💡 نصيحة صغيرة: تأكد من حجز مقعد للعرض مسبقًا، وإلا ستفوت فرصتك!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "Adler Planetarium",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "هذا هو المكان المثالي لتصوير أفق شيكاغو! من هنا، تطل للنظر إلى وسط المدينة، حيث تبدو المدينة وكأنها لوحة. يحتوي المتحف على معارض كثيرة، مما يجعله مكانًا مثاليًا للتعلم والمرح في نفس الوقت.",
+              "practical_tip": "💡 نصيحة صغيرة: تعتبر الطرق المتعرجة حول Adler Planetarium من الأماكن المفضلة للأهالي المحليين للجري والنزهات."
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "Navy Pier",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "عندما تأتي إلى Navy Pier في المساء، تجد نفسك في عجلة مدهشة مع عجلة فيريس العملاقة التي تتيح لك الإطلالة على بحيرة ميتشيغان ومنظر المدينة ليلاً. تمتاز المنطقة بالعديد من المطاعم والعروض الحية التي تعكس أجواء احتفالية نابضة، مما يجعلها مكانًا رائعًا لتجربة حياة الليل المحلّية في شيكاغو.",
+              "practical_tip": "💡 نصيحة صغيرة: عادةً ما تكون هناك عروض للألعاب النارية يوم السبت في الصيف، تأكد من مراجعة الجدول الزمني على الموقع الرسمي!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "اليوم الرابع: أحياء المثقفين وتجربة المأكولات المحلية",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "Lincoln Park Zoo",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "تعتبر حديقة الحيوان هذه واحدة من أقدم حدائق الحيوانات المجانية في الولايات المتحدة، وتوفر بيئة جميلة ومليئة بالخضار. يمكنك هنا التجول بسهولة والاقتراب من الحيوانات، مما يشعر وكأنك بعيد عن ضغوط المدينة الكبيرة. إنها طريقة منعشة لبدء يومك الأخير في الرحلة.",
+              "practical_tip": "💡 نصيحة صغيرة: الدخول مجاني تمامًا! يُعد هذا المكان مثاليًا للمشي في الصباح، كما أن Lincoln Park المجاورة هو مكان جميل لالتقاط الصور.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "Wicker Park",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "في نهاية الرحلة، يجب أن تتعمق في منطقة Wicker Park! هنا، ستجد متاجر الملابس القديمة، ومحلات التسجيلات، والمكتبات المستقلة. ابحث عن مقهى ذات طابع فريد حيث يمكنك الاستمتاع بأسلوب الحياة المحلي في شيكاغو وابتياع بعض التذكارات اليدوية لتختتم بها رحلتك.",
+              "practical_tip": "💡 نصيحة صغيرة: هناك العديد من المتاجر الصغيرة التي تتعدى على تجارب طعام ممتازة، ادخل إلى أي مطعم مُعتمد ولن تخيب آمالك!"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "Blues Bar",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "لم تسمع عن موسيقى البلوز في شيكاغو يعني أنك لم تأتِ! ابحث عن بار بلووز شهير (مثل Buddy Guy's Legends)، اطلب بيرة واستمتع بالموسيقى العميقة والمليئة بالروح، لوضع نقطة ختامية مثالية لهذه الرحلة الرائعة التي استمرت 4 أيام. 🎷",
+              "practical_tip": "💡 نصيحة صغيرة: بعض الحانات الشهيرة تحتاج إلى أن يكون عمرك 21 عامًا وضرورة إظهار الهوية، تأكد من ذلك قبل انطلاقك!"
+            }
+          ]
+        }
+      ]
+    },
+    "bn": {
+      "seo_meta": {
+        "title": "【2026 শিকাগো স্বাধীন সফর】শক্তিশালী 4 দিনের ভ্রমণ পরিকল্পনার সংকলন! দর্শনীয় স্থান, পরিবহন এবং আবশ্যক পদচারণার সম্পূর্ণ গাইড",
+        "description": "প্রথমবার শিকাগো যাচ্ছেন? এই সম্পূর্ণ 4 দিনের শিকাগো স্বাধীন সফরের পরিকল্পনা আপনাকে একবারে করতে হবে দর্শনীয় স্থানগুলো দেখুন, স্থানীয় খাবারগুলো উপভোগ করুন, এবং উইন্ডি সিটির স্থাপত্য সৌন্দর্য ও দৃষ্টিনন্দন হ্রদের দৃশ্যের অভিজ্ঞতা নিন!"
+      },
+      "hero_section": {
+        "hook_intro": "স্বাগতম আমেরিকার সবচেয়ে魅力ত্ব স্থাপত্যের রাজধানী——শিকাগোতে! এখানে শুধু বিশ্বমানের অট্টালিকা নয়, বরং মিশিগান হ্রদের তীরে প্রবাহিত শীতল হাওয়াও। আধুনিক শিল্প, গভীর ইতিহাস এবং অবিশ্বাস্য খাবারের সাথে এই শহর নিখুঁতভাবে সংযুক্ত, নিশ্চয়ই এটি আপনার জীবনের আবশ্যক ভ্রমণের তালিকায় অন্তর্ভুক্ত হবে!\n\nএই 4 দিনের মহান সফরসূচীতে, আমি আপনার জন্য পরিকল্পনা করেছি সবচেয়ে মসৃণ রুট, মিলেনিয়াম পার্কের আয়নাকার বুনি থেকে শুরু করে দুর্দান্ত নদী তীরের সংস্কৃতির অভিজ্ঞতা এবং ঐতিহ্যবাহী গভীর পিজ্জা। প্রস্তুত রাখুন আপনার ক্যামেরা, চলুন একসাথে চলি!📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "প্রথম দিন: স্থাপত্য ও আধুনিক শিল্পের সফর (সিটি সেন্টার লুপ)",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "মিলেনিয়াম পার্ক (Millennium Park)",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "শিকাগোতে আগমনের প্রথম স্টপ, অবশ্যই প্রখ্যাত ‘ক্লাউড গেট’ বা যেটি সকলের কাছে ‘বুনি’ নামে পরিচিত! এখানে আপনি অত্যন্ত মজার প্রতিবিম্ব কবিতা তুলতে পারবেন, শহর এবং আকাশের দক্ষতা পেতে। পরে পাশের ক্রাউন ফোন্টেনটি ঘুরে দেখুন, শিকাগোর মানুষের অবসর সময়ের পদক্ষেপ অনুভব করুন, এটিই আপনার এক নম্বর ছবির জায়গা!",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: সকালে ৯টার আগে পৌঁছানোর সুপারিশ করা হচ্ছে, জনসাধারণের ব্যাপারটি এড়াতে পারেন এবং পরিষ্কার ‘বুনি’ আয়নাকার ছবি তুলতে পারেন!"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "শিকাগো শিল্প ইনস্টিটিউট (Art Institute of Chicago)",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "এই যাদুঘরটি বিশ্বের শীর্ষ পর্যায়ের শিল্প প্রাসাদ, যেখানে অসংখ্য ইম্প্রেশনিস্ট শিল্পকর্ম সংগ্রহ করা হয়েছে, যেমন ভ্যান গঘ এবং মোনেটের ক্লাসিক শিল্পকর্ম। শিল্পের পেশাদার না হলেও, যাদুঘরের ভিতরে শিল্পের গম্ভীর আবহাওয়া অনুভব করা খুবই সুস্থকর অভিজ্ঞতা। অন্তত ৩ ঘণ্টা সময় নিয়ে ধীরে ধীরে ঘোরার সুপারিশ করছি, এটি আপনাকে হতাশ করবে না।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: যদি অর্থ সাশ্রয় করতে চান, তবে আগে অনলাইনে টিকেট বুক করুন এবং যাদুঘরের অডিও গাইড অ্যাপ ব্যবহার করুন।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "শিকাগো নদীর তীরে হাঁটা ও গভীর পিজ্জা",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "রাতে শিকাগো নদীর তীর আলোকিত, যা শ্বাসরুদ্ধকর! নদীর তীরে হাঁটা দিন এবং স্থাপত্যের আলো এবং ছায়ার শিল্পকলার সৌন্দর্য অনুভব করুন। রাতের খাবারে স্থানীয় ‘গভীর পিজ্জা’ চ্যালেঞ্জ করুন, মোটা পেস্টরি এবং গাঢ় চিজ যোগ করে, এটি নিশ্চিতভাবে শিকাগো ভ্রমণের আত্মা অভিজ্ঞান!",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: লু মালনাতি'স পিজ্জের সুপারিশ করা হয়, মনে রাখবেন গভীর পিজ্জা প্রস্তুতির জন্য ৪৫ মিনিট লাগে, আসলে আসার সাথেই অর্ডার দেওয়া সবচেয়ে স্মার্ট।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "দ্বিতীয় দিন: উচ্চতার সম্মুখীন ও বিপণনের স্বর্গ (ম্যাগনিফিসেন্ট মাইল)",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "উইলিস টাওয়ার (Willis Tower - Skydeck)",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "আপনার সাহসের চ্যালেঞ্জ! উইলিস টাওয়ারের স্কাইডেকে উঠুন এবং পুরো স্বচ্ছ কাঁচের পর্যবেক্ষণ ডেকে হাঁটুন, আপনার পায়ের নিচে রয়েছে শহরের বিরাট রাস্তা। এটি শুধুমাত্র একটি ভিজ্যুয়াল ধাক্কা নয়, বরং শিকাগো শহরের দৃশ্য দেখার সেরা স্থান। যখন দৃষ্টি বাড়ানো হয়, তখন আপনি আশেপাশের রাজ্য দেখতে পাবেন!",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: সিটিPASS কিনতে সুপারিশ করা হয়, যা টিকিটের খরচ সাশ্রয় করে এবং দ্রুত প্রবেশের সুবিধা দেয়।"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "ম্যাগনিফিসেন্ট মাইল (The Magnificent Mile)",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "এটি শপিং প্রেমীদের স্বপ্নের স্বর্গ! এখানে উচ্চমানের ব্র্যান্ডের দোকান থেকে বৃহৎ পতাকা দোকান সব পাওয়া যায়। আপনি যদি কেনাকাটা না করেন, তবে রাস্তায় স্থাপত্যের নকশা দেখতে খুবই যত্নসহকারে হবে। একটু বিশ্রাম নিতে, একটি সুস্থ ক্যাফেতে বসুন, শিকাগোর ফ্যাশন স্ন্যাপ দেখুন এবং বিকেলের আনন্দের অঞ্চলে সময় কাটান।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: যদি ১১ নভেম্বরের শেষে যান, তবে এখানে ক্রিসমাসের আলোগুলো শ্বাসরুদ্ধকর, এটি মিস করবেন না!"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "জন্স হ্যানকক সেন্টার (360 CHICAGO)",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "উইলিস টাওয়ারের তুলনায়, এখানে দৃশ্য অধিকাংশটা হ্রদ নির্ভর করে। ৯৪ তলা পর্যবেক্ষণ ডেকে শিকাগোর সূর্যাস্ত এবং রাতের দৃশ্য উপভোগ করুন, মিশিগান হ্রদ নীল রঙ থেকে গা dark ় রঙে বদলাচ্ছে, শহরের বাতি ধীরে ধীরে জ্বলতে শুরু করছে, এটি শিকাগোর সবচেয়ে রোম্যান্টিক সময়, এটি নিশ্চিতভাবে আপনাকে স্পর্শ করবে।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: পর্যবেক্ষণ ডেকের মধ্যে একটি বার রয়েছে, একটি ককটেল অর্ডার করুন এবং রাতের দৃশ্য দেখতে দেখতে পান করুন, পরিবেশ অভিজ্ঞতা বাড়ায়।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "তৃতীয় দিন: হ্রদের তীরে বিশ্রাম ও বিজ্ঞান শিক্ষা",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "শেড অ্যাকুয়ারিয়াম (Shedd Aquarium)",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "যাদুঘর এলাকা অবস্থিত শেড অ্যাকুয়ারিয়াম, এটি আমেরিকার সবচেয়ে শ্রেষ্ঠ অ্যাকুয়ারিয়ামের মধ্যে একটি। এখানে বন্যপ্রাণীর বৈচিত্র্য বিস্ময়কর, বিশেষ করে তিমি ও ডলফিন প্রদর্শনীর অঞ্চল। এটি পুরো পরিবারের জন্য একটি উপযুক্ত দর্শনীয় স্থান। যাদুঘরের স্থাপত্য নিজেই একটি পুনর্মিশ্রণ শিল্পের ক্লাসিক কাজ।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: নিশ্চিত করে আগে প্রদর্শনের সময় নির্ধারণ করুন, অন্যথায় অসুবিধা হতে পারে!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "অ্যাডলার প্ল্যানেটেরিয়াম (Adler Planetarium)",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "এটি শিকাগোর ক্রান্তীয় আকাশের দৃশ্য দেখতে সেরা গোপন স্থান! এখান থেকে শহর কেন্দ্রের দিকে ফিরে দেখুন, পুরো শহর একটি চিত্রের মতো। যাদুঘরের প্রদর্শনী সমৃদ্ধ এবং মহাবিশ্বের রহস্যগুলি সহজভাবে ব্যাখ্যা করে, এটি শিক্ষামূলক ও মজাদার বাস্তবতা।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: অ্যাডলার প্ল্যানেটেরিয়ামের বাইরের হ্রদ সংলগ্ন পথ, স্থানীয়দের জন্য সবচেয়ে পছন্দের দৌড় এবং পিকনিক স্থানে।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "নেভী পিয়ার (Navy Pier)",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "রাতে নেভী পিয়ারে আসুন, বিশাল চাকার উপরে উঠে মিশিগান হ্রদ ও শহরের রাতের দৃশ্য উপভোগ করুন। পিয়ারে অনেক রেস্টুরেন্ট এবং রাস্তার পরিবেশন রয়েছে, যা একটি প্রাণবন্ত উত্সবের ভাব বজায় রাখে, শিকাগোর স্থানীয় রাতের জীবন অনুভব করার জন্য সেরা স্থান।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: গ্রীষ্মের শনিবার রাতে সাধারণত আতশবাজি প্রদর্শন হয়, সময়সূচী পরীক্ষা করতে ভুলবেন না!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "চতুর্থ দিন: সংস্কৃতি ও স্থানীয় খাবার",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "লিংকন পার্ক চিড়িয়াখানা (Lincoln Park Zoo)",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "এটি আমেরিকার সবচেয়ে পুরনো মুক্ত চিড়িয়াখানার মধ্যে একটি, পরিবেশ সুন্দর এবং সবুজে ভরপুর। এখানে আপনি সহজে হাঁটতে পারেন, প্রাণীদের সাথে ঘনিষ্ঠভাবে যোগাযোগ করতে পারেন, বড় শহরে থাকার চাপ অনুভব করতে পারেন না, এটি আপনার শেষ দিনের সফরের জন্য সতেজ ফলাফল।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: পুরোপুরি মুক্ত! সকালে হাঁটার জন্য উপযুক্ত, পাশের লিংকন পার্কও ছবির জন্য খুবই উপযুক্ত।",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "উইকার পার্ক (Wicker Park) সংস্কৃতি এলাকা",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "শেষ দিনের সময় অবশ্যই শিকাগোর সংস্কৃতি এলাকার গভীরতা অন্বেষণ করতে হবে! এখানে আলাদা ফ্যাশনের ভিনটেজ দোকান, রেকর্ড দোকান এবং স্বাধীন বইয়ের দোকান রয়েছে। একটি অনন্য স্থানীয় ক্যাফেতে যান, শিকাগোর স্থানীয় জীবনের জাঁকজমকের স্বাদ নিন এবং কিছু হাতের তৈরি স্মারক কেনা যাক সফরের সমাপ্তির জন্য।",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: এখানে অনেক গোপন খাবারের দোকান রয়েছে, যেকোন ভাল রেটিংযুক্ত রেস্তোরাঁয় ঢুকলে সমস্যা হবে না।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "শিকাগো ব্লুজ বার (Blues Bar)",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "শিকাগোতে আসলে ব্লুজ সঙ্গীত না শুনলে মনে হবে যে আসেননি! একটি নামকরা ব্লুজ বারে (যেমন বাডি গাই'স লিজেন্ডস) ঢুকে, এক কাপ বিয়ার অর্ডার করুন, গভীর ও সোলফুল সঙ্গীতের ঝোঁকেনে নিমজ্জিত করুন, এই 4 দিনের স্বপ্নের সফরকে এক চমৎকার মাসুদে পূর্ণ করুন।🎷",
+              "practical_tip": "💡 বিশেষজ্ঞের পরামর্শ: কিছু জনপ্রিয় বার প্রবেশের জন্য ২১ বছরের উপরে থাকতে হবে এবং পরিচয়পত্র চালায়, চলার আগে নিশ্চিতভাবে যাচাই করুন!"
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "seo_meta": {
+        "title": "【2026 Чикаго Свободное путешествие】Самый сильный план 4-денного путешествия!",
+        "description": "Как провести время в Чикаго, если ты здесь впервые? Этот полный 4-дневный путеводитель по Чикаго поможет тебе посетить все главные достопримечательности, попробовать местную кухню и насладиться архитектурным великолепием и потрясающим видом на озеро!"
+      },
+      "hero_section": {
+        "hook_intro": "Добро пожаловать в архитектурную столицу США — Чикаго! Здесь не только群世界級摩天大樓群, но и свежий ветер с озера Мичиган. Этот город идеально сочетает современное искусство, богатую историю и потрясающую кухню, он определенно должен войти в список мест, которые ты обязан посетить в своей жизни!\n\nВ этом 4-дневном маршруте я уже спланировал самый удобный путь: от зеркального боба в Миллениум-парке до величественной экскурсии по реке, и попробуй аутентичную глубокую пиццу, чтобы почувствовать бесконечное очарование этого города ветров! Готовь свою камеру и отправляйся с нами!📸",
+        "hero_image_keyword": "Chicago skyline and Chicago River"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "День 1: Посещение архитектуры и современного искусства (Центральный деловой район Loop)",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Миллениум-Парк (Millennium Park)",
+              "image_search_keyword": "Cloud Gate sculpture Chicago",
+              "rich_description": "Первое место в Чикаго, которое ты обязательно должен посетить, — это знаменитый символ «Облачные ворота» (Cloud Gate), который также называется бобом! Здесь можно сделать интересные отражающие фотографии и насладиться идеальным сочетанием города и неба. Затем прогуляйся к соседнему фонтану Краун, ощутить расслабленную атмосферу чикагцев: это точно будет твоей первой остановкой для фотографий!",
+              "practical_tip": "💡 Советы опытных путешественников: рекомендуется приезжать до 9 утра, чтобы избежать толпы и получить чистый снимок «боба»!"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Чикагский институт искусства (Art Institute of Chicago)",
+              "image_search_keyword": "Art Institute of Chicago exterior",
+              "rich_description": "Этот музей — одно из лучших художественных заведений בעולם, хранящее множество шедевров импрессионизма, включая классические работы Ван Гога и Моне. Даже если ты не профессионал в искусстве, прогулка по музею с его насыщенной культурной атмосферой будет очень приятной. Рекомендуется выделить не менее 3 часов, чтобы насладиться всем этим.",
+              "practical_tip": "💡 Советы опытных путешественников: если хочешь сэкономить, обязательно забронируй билеты онлайн и воспользуйся аудиогидом музея."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Прогулка по набережной реки Чикаго и глубокая пицца",
+              "image_search_keyword": "Chicago Riverwalk at night",
+              "rich_description": "Когда стемнеет, набережная реки Чикаго будет сверкающей, что оставит тебя без дыхания! Прогулка вдоль берега, под яркими огнями зданий, станет незабываемым опытом. На ужин обязательно попробуй настоящую «глубокую пиццу» (Deep Dish Pizza), с плотным тестом и много сыра — это обязательный ритуал в Чикаго!",
+              "practical_tip": "💡 Советы опытных путешественников: рекомендую Lou Malnati's Pizzeria, так как глубокая пицца готовится около 45 минут, лучше заранее заказать."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "День 2: Высота и шопинг (Величественная миля)",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Башня Уиллис (Willis Tower - Skydeck)",
+              "image_search_keyword": "Willis Tower Skydeck Chicago",
+              "rich_description": "Проверь свои нервы! Поднимись на Skydeck башни Willis и ступай на прозрачную стеклянную смотровую площадку, под ногами ты увидишь繁華街道城市. Это не только визуальный шок, но и лучшее место для обзора панорамы Чикаго. При ясной погоде можно даже увидеть соседние штаты!",
+              "practical_tip": "💡 Советы опытных путешественников: рекомендуется купить CityPASS, чтобы сэкономить на билетах и быстро пройти проход."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Величественная миля (The Magnificent Mile)",
+              "image_channel_keyword": "Magnificent Mile Chicago shopping",
+              "rich_description": "Это настоящая мечта для шопоголиков! Высококлассные бутики и крупные фирменные магазины — здесь найдется все. Даже если ты не собираешься делать покупки, архитектурный дизайн вдоль улицы тоже впечатляет. Если устанешь, загляни в стильное кафе, чтобы оценить чикагский стиль и наслаждаться спокойной атмосферой после обеда.",
+              "practical_tip": "💡 Советы опытных путешественников: если ты едешь в конце ноября, рождественское оформление здесь будет незабываемым, не упусти этот момент!"
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Центр Джона Хэнкока (360 CHICAGO)",
+              "image_search_keyword": "360 CHICAGO observation deck view",
+              "rich_description": "В отличие от башни Уиллис, здесь открывается лучший вид на озеро. На смотровой площадке на 94 этаже насладись закатом и вечерним видом на Чикаго, наблюдая, как озеро Мичиган меняет цвет с ярко-синего на глубокий черный, а огни города постепенно включаются — это самый романтичный момент в Чикаго, который обязательно растрогает тебя.",
+              "practical_tip": "💡 Советы опытных путешественников: на смотровой площадке есть бар, заказывай коктейль и наслаждайся видами, атмосфера здесь просто великолепна."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "День 3: Отдых у озера и научное образование",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Аквариум Шедда (Shedd Aquarium)",
+              "image_search_keyword": "Shedd Aquarium Chicago",
+              "rich_description": "Аквариум Шедда, расположенный в музейном районе, — один из лучших аквариумов в США. Разнообразие морских существ здесь поражает, особенно выставка с китами и дельфинами, которая подойдет для всей семьи. Архитектура музея тоже является историческим шедевром.",
+              "practical_tip": "💡 Советы опытных путешественников: не забудь заранее забронировать время для представлений, иначе останешься без мест!",
+              "needsTicket": true,
+              "klookQuery": "Shedd Aquarium Chicago"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Планетарий Адлера (Adler Planetarium)",
+              "image_search_keyword": "Adler Planetarium view of Chicago skyline",
+              "rich_description": "Это лучшее место для съемки горизонта Чикаго! Отсюда открывается вид на центральную часть города, и весь город кажется настоящей картиной. В выставках станет доступно много информации о тайнах вселенной, это идеальное место, чтобы учиться и развлекаться одновременно.",
+              "practical_tip": "💡 Советы опытных путешественников: набережная вокруг планетария — популярное место для пробежек и пикников у местных жителей."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Морской пирс (Navy Pier)",
+              "image_search_keyword": "Navy Pier Centennial Wheel",
+              "rich_description": "Придя на море в вечернее время, прокатись на большом колесе обозрения, чтобы увидеть озеро Мичиган и ночные огни города. На пирсе много ресторанов и уличных представлений, создающих атмосферу шумного праздника — это отличное место для того, чтобы ощутить ночную жизнь Чикаго.",
+              "practical_tip": "💡 Советы опытных путешественников: по субботам летом обычно проходят фейерверки, не забудь проверить расписание на официальном сайте!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "День 4: Арт-районы и местная кухня",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Зоопарк Линкольн-парка (Lincoln Park Zoo)",
+              "image_search_keyword": "Lincoln Park Zoo Chicago",
+              "rich_description": "Это один из старейших бесплатных зоопарков в Америке, с красивыми зелеными насаждениями. Здесь ты можешь спокойно прогуляться и близко пообщаться с животными, не чувствуя давления большого города, что станет хорошим началом последнего дня путешествия.",
+              "practical_tip": "💡 Советы опытных путешественников: совершенно бесплатно! Идеально подходит для утренней прогулки, рядом с зоопарком также есть парк Линкольн, который отлично подходит для фото.",
+              "needsTicket": true,
+              "klookQuery": "Lincoln Park Zoo Chicago"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Район Викер-парк (Wicker Park)",
+              "image_search_keyword": "Wicker Park Chicago neighborhood",
+              "rich_description": "В последний день, конечно, следует погрузиться в художественный район Чикаго! Здесь есть множество уникальных магазинов с винтажной одеждой, музыкальными дисками и независимыми книжными магазинами. Загляни в кофейню с уникальным стилем, чтобы насладиться местной атмосферой и купить несколько предметов ручной работы на память о путешествии.",
+              "practical_tip": "💡 Советы опытных путешественников: здесь много скрытых мест с отличной едой, так что, заходя в высоко оцениваемые рестораны, ты не ошибешься."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Блюз-бар в Чикаго (Blues Bar)",
+              "image_search_keyword": "Chicago blues club live music",
+              "rich_description": "Приехав в Чикаго, не послушать блюз — значит не побывать здесь! Найди один из известных блюз-баров (например, Buddy Guy's Legends), закажи пиво и насладись душевной и насыщенной музыкой, чтобы завершить это 4-дневное волшебное путешествие на высокой ноте. 🎷",
+              "practical_tip": "💡 Советы опытных путешественников: в некоторых популярных барах необходимо быть не моложе 21 года и иметь паспорт для проверки, убедись в этом перед поездкой!"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

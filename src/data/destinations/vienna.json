@@ -1,0 +1,1538 @@
+{
+  "seo_meta": {
+    "title": "2026 Vienna 4-Day Guide — Imperial Palaces, Coffee Houses & Classical Music",
+    "description": "第一次去 維也納 怎麼玩？這篇超完整的 4 天 維也納 自由行攻略，帶你一次逛完必去景點、品嚐在地美食與體驗古典音樂之都的浪漫魅力。"
+  },
+  "hero_section": {
+    "hook_intro": "歡迎來到音樂之都——維也納！這是一座將古典優雅與現代活力完美融合的城市，走在鋪滿鵝卵石的街道上，彷彿能聽見莫札特與貝多芬的迴響。從璀璨的皇宮到充滿咖啡香的文青巷弄，維也納的每一寸土地都值得你細細品味。\n\n這份 4 天 3 夜的行程，我們精選了最經典的哈布斯堡王朝遺跡、世界級藝術殿堂，以及絕不能錯過的薩赫蛋糕體驗。跟著這份攻略，讓我們一起揭開這座帝國之都的神祕面紗，開啟一場永生難忘的歐洲之旅吧！",
+    "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+  },
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "day_title": "Day 1：帝國榮耀與老城核心探索",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "聖史蒂芬大教堂 (St. Stephen's Cathedral)",
+          "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+          "rich_description": "作為維也納的精神地標，這座哥德式大教堂的彩色屋頂令人過目難忘。走入內部，感受莊嚴肅穆的宗教氣息，推薦一定要挑戰登上南塔，將維也納老城區的紅瓦屋頂盡收眼底，那種震撼絕對值得你爬上 343 階樓梯！",
+          "practical_tip": "💡 達人小提示：建議購買包含登塔的套票，並避開週日彌撒時間前往，以免參觀區域受限。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "霍夫堡皇宮 (Hofburg Palace)",
+          "image_search_keyword": "Hofburg Palace Vienna",
+          "rich_description": "這裡是哈布斯堡王朝的冬宮，也是感受奧匈帝國輝煌歷史的最佳場域。不僅可以參觀茜茜公主博物館，還能見識到皇室奢華的銀器收藏。每一間展廳都精緻得令人屏息，彷彿穿越回了那個貴族舞會盛行的年代。",
+          "practical_tip": "💡 達人小提示：霍夫堡範圍非常大，建議至少預留 3 小時，並預先下載語音導覽 APP 提升參觀深度。",
+          "needsTicket": true,
+          "klookQuery": "Hofburg Palace Vienna"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "Figlmüller 炸豬排",
+          "image_search_keyword": "Figlmuller Schnitzel Vienna",
+          "rich_description": "來到維也納沒吃過炸豬排，別說你來過！Figlmüller 是當地最傳奇的豬排店，比臉還大的酥脆豬排配上清爽的馬鈴薯沙拉，每一口都是滿足。記得搭配一杯奧地利白葡萄酒，這是最道地的吃法。",
+          "practical_tip": "💡 達人小提示：務必在官網提前一週預訂，現場排隊往往需要 1 小時以上。"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "Day 2：絕美宮殿與藝術薰陶",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "美泉宮 (Schönbrunn Palace)",
+          "image_search_keyword": "Schonbrunn Palace gardens",
+          "rich_description": "美泉宮是維也納的皇冠寶石，也是世界遺產之一。這座巴洛克風格的華麗宮殿，擁有絕美的後花園與凱旋門。漫步在開闊的園林中，遠眺維也納市景，感受瑪麗亞·特蕾莎女皇當年的氣派生活。",
+          "practical_tip": "💡 達人小提示：強烈建議購買網路預售票，選擇最早時段入場，以避開來自世界各地的旅遊團人潮。",
+          "needsTicket": true,
+          "klookQuery": "Schonbrunn Palace gardens"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "美景宮 (Belvedere Museum)",
+          "image_search_keyword": "Gustav Klimt The Kiss painting",
+          "rich_description": "這裡是藝術愛好者的天堂！美景宮收藏了古斯塔夫·克林姆的曠世巨作《吻》。除了欣賞震懾人心的畫作，宮殿本身的巴洛克建築設計與水池倒影，也是攝影愛好者捕捉絕佳構圖的聖地。",
+          "practical_tip": "💡 達人小提示：美術館分為上美景宮與下美景宮，若時間有限，強烈建議優先參觀上美景宮。",
+          "needsTicket": true,
+          "klookQuery": "Gustav Klimt The Kiss painting"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "維也納國家歌劇院 (Vienna State Opera)",
+          "image_search_keyword": "Vienna State Opera building night",
+          "rich_description": "維也納的靈魂就是音樂！即便不是歌劇迷，光是欣賞這座宏偉的建築外觀就已足夠。晚上點燈後的歌劇院金碧輝煌，若能買到票進場欣賞一場演出，將會是你這趟旅行最難忘的文化洗禮。",
+          "practical_tip": "💡 達人小提示：想省錢的旅人可以購買「站票 (Standing tickets)」，演出前 80 分鐘開賣，價格極其親民。"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "Day 3：文青咖啡館與市集慢活",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "納許市場 (Naschmarkt)",
+          "image_search_keyword": "Naschmarkt food market Vienna",
+          "rich_description": "這是維也納最熱鬧的露天市集，從新鮮蔬果、異國香料到起司火腿應有盡有。你可以一邊逛一邊品嚐當地小吃，感受維也納市井生活的真實面貌，這裡也是購買特色伴手禮的好去處。",
+          "practical_tip": "💡 達人小提示：週六有跳蚤市場，可以挖到許多歐洲古董小物，記得準備現金。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "中央咖啡館 (Café Central)",
+          "image_search_keyword": "Cafe Central Vienna interior",
+          "rich_description": "維也納咖啡館文化被列為聯合國非物質文化遺產，而中央咖啡館則是當之無愧的王者。在這座挑高華麗的歷史建築裡，點上一杯維也納咖啡 (Melange) 與一份薩赫蛋糕，享受一段優雅的午後時光。",
+          "practical_tip": "💡 達人小提示：門口排隊人潮眾多，建議下午 3 點後前往，或是透過線上系統預約。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "普拉特遊樂園 (Prater)",
+          "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+          "rich_description": "搭乘百年歷史的維也納摩天輪 (Wiener Riesenrad)，隨著緩慢的旋轉，將整座城市的夜景盡收眼底。這裡有著復古又迷人的遊樂園氛圍，非常適合在旅程倒數第二晚，用輕鬆愉快的心情畫下句點。",
+          "practical_tip": "💡 達人小提示：摩天輪入口處有相關歷史展覽，建議預留時間一併參觀，了解電影《第三人》的拍攝背景。"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "Day 4：購物血拼與最後的維也納風情",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "格拉本大街 (Graben)",
+          "image_search_keyword": "Graben street Vienna shopping",
+          "rich_description": "這是維也納最高級的購物街道，兩旁林立著百年老店與精品旗艦店。即使不購物，光是欣賞街道中央的黑死病紀念柱與精緻的建築雕刻，就能讓你感受到維也納身為帝國首都的雄厚底蘊。",
+          "practical_tip": "💡 達人小提示：在這裡可以找到許多奧地利品牌，如 Swarovski 或著名的莫札特巧克力，記得辦理退稅。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "藝術史博物館 (Kunsthistorisches Museum)",
+          "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+          "rich_description": "這是一座建築本身就比展品更精彩的博物館！館內的大階梯與咖啡廳被譽為「世界上最美的博物館咖啡廳」。在這裡看著古典畫作，喝著咖啡，彷彿自己也成了畫中的貴族。",
+          "practical_tip": "💡 達人小提示：博物館內的咖啡廳非常搶手，進場後先去咖啡廳登記候位，再去逛展區最聰明。",
+          "needsTicket": true,
+          "klookQuery": "Kunsthistorisches Museum Vienna interior"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "多瑙河畔散步",
+          "image_search_keyword": "Danube river sunset Vienna",
+          "rich_description": "在旅程的最後一晚，漫步在多瑙河畔，看著夕陽灑落在河面上，微風拂過，這份安靜與祥和是維也納留給你最後的禮物。找間河岸餐廳享用晚餐，為這趟 4 天的完美旅程乾杯！",
+          "practical_tip": "💡 達人小提示：前往多瑙河畔可搭乘地鐵 U1 線，選擇在 Donauinsel 站下車，景色最為開闊。"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "en": {
+      "seo_meta": {
+        "title": "【2026 Vienna Free Travel】Ultimate 4-Day Itinerary Planner! Attractions, Transportation & Must-Eat Guide",
+        "description": "How to enjoy your first visit to Vienna? This comprehensive 4-day travel guide covers all the must-visit attractions, local delicacies, and the romantic charm of the classical music capital."
+      },
+      "hero_section": {
+        "hook_intro": "Welcome to the capital of music—Vienna! This city perfectly blends classical elegance with modern vibrancy. Walking on its cobblestone streets, it feels like you can hear the echoes of Mozart and Beethoven. From the dazzling palaces to the coffee-scented bohemian alleyways, every inch of Vienna invites you to savor its beauty.\n\nIn this 4-day, 3-night itinerary, we've curated the classic remnants of the Habsburg dynasty, world-class art palaces, and the must-try Sachertorte experience. Follow this guide, and let’s uncover the mysteries of this imperial capital together, embarking on an unforgettable European journey!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: Exploring Imperial Glory and the Historic City Center",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "St. Stephen's Cathedral",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "As the spiritual symbol of Vienna, this Gothic cathedral is unforgettable with its colorful roof. Step inside to feel the solemn atmosphere, and be sure to challenge yourself to climb the South Tower for breathtaking views of the old town's red rooftops—it's definitely worth the 343 stairs!",
+              "practical_tip": "💡 Insider Tip: It's recommended to buy a ticket that includes the tower ascent, and avoid visiting during Sunday mass to prevent restricted areas."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Hofburg Palace",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "This was the winter residence of the Habsburg dynasty and the best place to experience the glorious history of the Austro-Hungarian Empire. You can visit the Sisi Museum and view royal luxury in the silver collection. Each exhibition room takes your breath away, transporting you back to the age of grand noble balls.",
+              "practical_tip": "💡 Insider Tip: The Hofburg area is quite large, so allocate at least 3 hours and download an audio guide app in advance to enhance your visit.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Figlmüller Schnitzel",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "You haven't truly been to Vienna until you've tasted a schnitzel! Figlmüller is the most legendary schnitzel house in town, famous for its giant, crispy schnitzels—bigger than your face—paired with refreshing potato salad. Every bite is pure satisfaction. Don’t forget to enjoy it with a glass of Austrian white wine for the most authentic experience.",
+              "practical_tip": "💡 Insider Tip: Be sure to book a spot on their official website at least a week in advance; the wait time can often exceed an hour on-site."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: Stunning Palaces and Artistic Inspiration",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Schönbrunn Palace",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "Schönbrunn is the crowning jewel of Vienna and a UNESCO World Heritage site. This baroque-style palace features beautiful gardens and a triumphal arch. Stroll through the expansive grounds with stunning views of the Vienna skyline, and imagine the grand lifestyle of Empress Maria Theresa.",
+              "practical_tip": "💡 Insider Tip: It's highly recommended to purchase tickets online in advance and to choose the earliest time slot to avoid crowds from tour groups.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Belvedere Museum",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "This place is a paradise for art lovers! Belvedere houses Gustav Klimt's timeless masterpiece, 'The Kiss.' In addition to admiring breathtaking artwork, the baroque architecture and reflections in the water pools make it a perfect spot for photography enthusiasts.",
+              "practical_tip": "💡 Insider Tip: The museum is divided into Upper Belvedere and Lower Belvedere; if you're short on time, it's best to prioritize Upper Belvedere.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Vienna State Opera",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "The soul of Vienna is music! Even if you're not an opera fan, simply appreciating the grand exterior of the opera house is enough. When lit up at night, the opera house shimmers, and if you manage to get a ticket to a performance, it will be one of the most unforgettable cultural experiences of your trip.",
+              "practical_tip": "💡 Insider Tip: Budget travelers can purchase 'standing tickets,' which go on sale 80 minutes before the performance and are very affordable."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Day 3: Trendy Cafés and Relaxing Market Strolls",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Naschmarkt",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "This is Vienna's liveliest outdoor market, featuring everything from fresh produce and exotic spices to cheese and ham. You can try local snacks while strolling and feel the authentic vibe of Vienna's street life; it's also a great spot for unique souvenirs.",
+              "practical_tip": "💡 Insider Tip: There’s a flea market on Saturdays where you can find many European antiques, so be sure to bring cash."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Café Central",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "Vienna's café culture is recognized as an intangible cultural heritage by UNESCO, and Café Central is undoubtedly the king of them all. In this beautifully high-ceilinged historic building, order a Viennese coffee (Melange) and a slice of Sachertorte to enjoy a refined afternoon.",
+              "practical_tip": "💡 Insider Tip: There can be long lines at the entrance, so it's best to come after 3 PM or make a reservation through their online system."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Prater",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "Take a ride on the historic Vienna Ferris Wheel (Wiener Riesenrad) and enjoy stunning views of the city as it gently spins. The vintage and charming amusement park atmosphere makes it the perfect place to unwind in a relaxed and cheerful mood on the second-to-last night of your trip.",
+              "practical_tip": "💡 Insider Tip: There’s a historical exhibition at the entrance of the Ferris wheel, so be sure to set aside time for that to learn about the movie 'The Third Man'."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Day 4: Shopping Spree and Lasting Vienna Vibes",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Graben",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "This is Vienna's most upscale shopping street, flanked by century-old shops and flagship stores. Even if you’re not shopping, just admiring the Plague Column and intricate architectural carvings in the center of the street will give you a sense of Vienna's rich history as the empire's capital.",
+              "practical_tip": "💡 Insider Tip: You can find many Austrian brands like Swarovski or the famous Mozart chocolate here, so don’t forget to process your tax refund."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Kunsthistorisches Museum",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "This museum is even more exciting than its exhibits! The grand staircase and café inside are heralded as 'the most beautiful museum café in the world.' Here, you can sip coffee while gazing at classical paintings, feeling as if you've become part of the art.",
+              "practical_tip": "💡 Insider Tip: The café in the museum is very popular; it’s smart to register for a table upon entry before exploring the exhibition halls.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Walking Along the Danube",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "On your last night, take a stroll along the Danube River, watching the sunset cast shimmering reflections on the water with a gentle breeze. This quiet and peaceful moment is Vienna's final gift to you. Find a riverside restaurant for dinner and toast to the perfect conclusion of your 4-day journey!",
+              "practical_tip": "💡 Insider Tip: You can take the U1 subway line to reach the Danube River, getting off at Donauinsel for the widest views."
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "seo_meta": {
+        "title": "【2026 ウィーン 自由旅行】最強 4 日間行程計画まとめ！観光交通＆必吃完全ガイド",
+        "description": "初めてウィーンに行くにはどうしたらいいの？この超完全な4日間のウィーン自由旅行ガイドで、必見スポットを巡り、地元のグルメを楽しみ、古典音楽の都のロマンチックな魅力を体験しましょう。"
+      },
+      "hero_section": {
+        "hook_intro": "音楽の都、ウィーンへようこそ！ここは古典的な優雅さと現代の活力が完璧に融合した都市です。石畳の道を歩けば、モーツァルトやベートーヴェンの響きが聞こえてきそうです。煌びやかな宮殿から香り高いカフェの路地まで、ウィーンのすべてがあなたの細やかな味わいを待っています。\n\nこの4日間3泊の行程では、ハプスブルク家の遺構や世界的な芸術殿堂、絶対に見逃せないザッハトルテの体験を厳選しました。このガイドに従って、帝国の都の神秘に迫り、忘れられないヨーロッパ旅行を始めましょう！",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "1日目：帝国の栄光と古都の中心探訪",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "聖シュテファン大聖堂 (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "ウィーンの精神的シンボルであるこのゴシック様式の大聖堂の色鮮やかな屋根は忘れられない印象を与えます。内部に足を踏み入れて荘厳な宗教的雰囲気を感じ、ぜひ南塔に登る挑戦をしてみてください。ウィーンの旧市街の赤い屋根を一望できる光景は、343段の階段を上った価値があります。",
+              "practical_tip": "💡 達人からの小ヒント：塔の登ることを含むチケットを購入し、日曜日のミサの前の時間を避けて訪れるのをお勧めします。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ホーフブルク宮殿 (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "ここはハプスブルク家の冬の宮殿であり、オーストリア・ハンガリー帝国の輝かしい歴史を感じる場です。シシィ博物館を見学し、皇族の豪華な銀器コレクションを目にすることができます。各展示室は息をのむほどに精緻で、貴族の舞踏会が栄えた時代にタイムスリップしたような気持ちになります。",
+              "practical_tip": "💡 達人からの小ヒント：ホーフブルク宮殿は非常に広大で、少なくとも3時間は取っておくことをお勧めします。事前に音声ガイドアプリをダウンロードして、訪問を深めましょう。",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "Figlmüller ステーキハウス",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "ウィーンに来たからには、ステーキを食べずには帰れません！Figlmüllerは地元でも伝説的なステーキハウスで、顔よりも大きなサクサクのポークカツレツは、さっぱりしたポテトサラダと共に、一口食べるごとに満足感をもたらします。オーストリアの白ワインを一緒に楽しむこともお勧めです。",
+              "practical_tip": "💡 達人からの小ヒント：必ず公式サイトで1週間前に予約してください。現地での待ち時間は1時間以上になることが多いです。"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "2日目：絶美の宮殿とアートに浸る",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "シェーンブルン宮殿 (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "シェーンブルン宮殿はウィーンの宝石であり、世界遺産の一つです。このバロック様式の華麗な宮殿は、美しい庭園と凱旋門を持っています。広々とした庭を散歩しながらウィーンの市景を眺め、マリア・テレーザ女王の威厳ある生活を味わってください。",
+              "practical_tip": "💡 達人からの小ヒント：ネット予約チケットを購入し、最も早い時間帯を選んで訪れることを強くお勧めします。世界中からの観光客の波を避けられます。",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ベルヴェデーレ宮殿 (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "ここはアート愛好者の楽園です！ベルヴェデーレはゴッホの名作『接吻』を所蔵しています。感動的な絵画を楽しむだけでなく、宮殿自体のバロック建築と池の反映も、写真愛好者が絶好の構図を捕える聖地です。",
+              "practical_tip": "💡 達人からの小ヒント：美術館は上ベルヴェデーレと下ベルヴェデーレに分かれています。時間が限られている場合、上ベルヴェデーレを優先して訪れることを強くお勧めします。",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ウィーン国立歌劇場 (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "ウィーンの魂は音楽です！オペラが好きでなくても、この壮大な建物の外観を楽しむだけで十分です。夜にライトアップされたウィーン国立歌劇場は金色に輝き、演奏を見るチケットが手に入れば、この旅行での最も忘れられない文化体験となるでしょう。",
+              "practical_tip": "💡 達人からの小ヒント：お金を節約したい旅人には「立ち見チケット」を購入することをお勧めします。公演の80分前に販売され、非常に手頃な価格です。"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "3日目：文青カフェとマーケットのんびり",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "ナッシュ市場 (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "これはウィーンで最も賑やかな屋外市場です。新鮮な野菜と果物、エスニックなスパイス、ハムチーズまで何でも揃っています。地元のスナックを味わいながら散策し、ウィーンの日常生活のリアルな姿を感じられる場所であり、特産品のお土産も手に入れられます。",
+              "practical_tip": "💡 達人からの小ヒント：土曜日にはフリーマーケットが開催され、たくさんのヨーロッパのアンティークアイテムを見つけることができるので、現金を忘れずに持参してください。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "中央カフェ (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "ウィーンのカフェ文化はユネスコの無形文化遺産に登録されていますが、中央カフェはその王者です。この高い天井の歴史的建物の中で、ウィーンコーヒー (Melange) とザッハトルテを一杯のコーヒーとともに優雅な午後のひとときを楽しんでください。",
+              "practical_tip": "💡 達人からの小ヒント：入口での行列が長い場合が多いので、午後3時以降に訪れるか、オンラインで予約するのがおすすめです。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "プラーター (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "百年の歴史を持つウィーンの観覧車 (Wiener Riesenrad) に乗ってゆっくり回りながら、街の夜景を一望しましょう。ここはレトロで魅力的な遊園地の雰囲気が漂い、旅行の最後の2晩をリラックスした気分で締めくくるのに最適な場所です。",
+              "practical_tip": "💡 達人からの小ヒント：観覧車入り口に関連する歴史展示があるので、時間を確保して一緒に訪れると、『第三の男』の撮影背景について学べます。"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "4日目：ショッピングと最後のウィーン風情",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "グラーベン通り (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "ウィーンで最も高級なショッピングストリート。老舗のお店やブランドのフラッグシップストアが立ち並び、買い物をしなくても、通り中央にある黒死病記念柱や精美な建物の彫刻を観ることで、ウィーンが帝国の首都であることを実感できます。",
+              "practical_tip": "💡 達人からの小ヒント：ここでは多くのオーストリアブランド、例えばSwarovskiや有名なモーツァルトチョコレートが見つかるので、税金還付手続きを忘れずに。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "美術史博物館 (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "これは展示品よりも建物自体が素晴らしい博物館です！内部の大階段とカフェは「世界で最も美しい博物館のカフェ」と評判です。ここで古典的な絵画を眺めながらコーヒーを飲めば、自分も絵の中の貴族になったような気分を味わえます。",
+              "practical_tip": "💡 達人からの小ヒント：博物館内のカフェは非常に人気があるため、入館後は先にカフェに登録して待機し、その後展示エリアを回るのが賢明です。",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ドナウ川沿いを散歩",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "旅行の最終夜はドナウ川沿いを散策し、夕日が川面に映るのを眺め、そよ風を感じることで、この静けさと穏やかさがウィーンからの最後の贈り物となります。川岸のレストランで夕食を楽しみ、この4日間の完璧な旅に乾杯しましょう！",
+              "practical_tip": "💡 達人からの小ヒント：ドナウ川沿いへは地下鉄U1線で行けます。Donauinsel駅で下車することを選ぶと、景色が最も開けています。"
+            }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "seo_meta": {
+        "title": "【2026 빈】최강 4일 간 자유 여행 계획 정리! 명소, 교통 & 필수 먹거리 완벽 가이드",
+        "description": "처음 빈을 가는 건가요? 이 완벽한 4일 간의 빈 자유 여행 가이드가 필수 명소, 현지 음식, 고전 음악의 낭만적인 매력을 경험할 수 있게 안내해 드립니다."
+      },
+      "hero_section": {
+        "hook_intro": "음악의 도시 빈에 오신 것을 환영합니다! 고전적 우아함과 현대적 활력이 완벽하게 어우러진 이 도시는 자갈로 포장된 거리를 걷다 보면 모차르트와 베토벤의 메아리가 들리는 듯합니다. 찬란한 황궁에서 커피 향이 가득한 예술가의 골목까지, 빈의 모든 곳이 당신의 소중한 기억이 될 것입니다.\n\n이 4일 3박 여행 일정에서는 가장 대표적인 합스부르크 제국의 유적, 세계적 예술의 전당과 놓쳐서는 안 될 사흘 케이크 체험을 엄선했습니다. 이 가이드를 따라 제국의 수도의 신비로운 면모를 함께 탐험하며 잊지 못할 유럽 여행을 시작해 봅시다!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "첫째 날: 제국의 영광과 구시가지 탐방",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "성 스테판 대성당 (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "빈의 정신적 랜드마크인 이 고딕 양식 대성당의 다채로운 지붕은 잊을 수 없는 인상을 남깁니다. 내부로 들어서면 엄숙한 종교적 분위기를 느낄 수 있으며, 꼭 남탑에 올라 빈 구시가지를 한눈에 내려다보는 도전을 해 보세요. 그 감동은 343계단을 오르는 것만큼 가치가 있습니다!",
+              "practical_tip": "💡 전문가 팁: 꼭 타워 포함 패키지를 구매하고, 일요일 미사 시간은 피해서 가는 것을 추천합니다."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "호프부르크 궁전 (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "여기는 합스부르크 제국의 겨울 궁전으로, 오스트리아-헝가리 제국의 찬란한 역사를 느낄 수 있는 최고의 장소입니다. 시시 공주 박물관을 관람할 수 있을 뿐 아니라, 황실의 호화로운 은식기 컬렉션을 감상할 수 있습니다. 각 전시실은 숨 막힐 만큼 정교하여, 귀족 무도회가 유행하던 시대에 시간 여행을 떠나는 듯한 기분을 줍니다.",
+              "practical_tip": "💡 전문가 팁: 호프부르크는 매우 넓으니, 최소 3시간은 확보하고, 사전에 오디오 가이드 앱을 다운로드하여 관람의 깊이를 더하세요.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "Figlmüller 돈까스",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "빈에 와서 돈까스를 먹지 않았다면 이번 방문은 무의미합니다! Figlmüller는 현지에서 가장 전설적인 돈까스 가게로, 얼굴보다 큰 바삭한 돈까스와 상큼한 감자 샐러드를 곁들여 먹으면 만족감이 넘칩니다. 오스트리아 화이트 와인 한 잔과 함께하는 것이 진짜 현지식입니다.",
+              "practical_tip": "💡 전문가 팁: 반드시 공식 웹사이트에서 일주일 전에 예약하세요. 현장에서 대기하는 데는 보통 1시간 이상 걸립니다."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "둘째 날: 아름다운 궁전과 예술의 향연",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "쉔브룬 궁전 (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "쉔브룬 궁전은 빈의 보석이자 세계문화유산 중 하나입니다. 바로크 양식의 화려한 궁전은 절경의 후정과 개선문을 자랑합니다. 넓은 정원에서 빈 시내의 경치를 감상하며, 마리아 테레지아 여왕의 기품 있는 삶을 느껴보세요.",
+              "practical_tip": "💡 전문가 팁: 온라인 사전 예약 티켓 구매를 강력히 추천하며, 가장 이른 시간에 입장해 전 세계 여행자들의 인파를 피하세요.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "벨베데레 궁전 (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "여기는 예술 애호가의 천국입니다! 벨베데레는 구스타프 클림트의 명작 《키스》를 소장하고 있습니다. 감동적인 작품을 감상하는 것 외에도 궁전의 바로크 건축 디자인과 물의 반사는 사진 애호가들에게 최상의 샷을 잡을 수 있는 성지입니다.",
+              "practical_tip": "💡 전문가 팁: 미술관은 상하 두 개의 벨베데레로 나뉘어져 있으니, 시간이 부족할 경우 우선 상벨베데레를 방문하세요.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "빈 국가 오페라하우스 (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "빈의 영혼은 음악입니다! 비록 오페라 팬이 아니더라도 이 웅장한 건축물 외관만으로도 충분히 매력적입니다. 저녁에 불빛이 밝혀진 오페라하우스는 황홀함을 더합니다. 티ケット을 구입해 공연을 관람할 수 있다면 이번 여행 중 가장 잊지 못할 문화 체험이 될 것입니다.",
+              "practical_tip": "💡 전문가 팁: 예산을 절약하고 싶은 여행자는 '스탠딩 티켓 (Standing tickets)'을 구매할 수 있으며, 공연 80분 전부터 판매되어 가격이 매우 저렴합니다."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "셋째 날: 예술가의 카페와 시장의 느긋한 삶",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "나쉬 마켓 (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "여기는 빈에서 가장 활기찬 야외 시장으로, 신선한 과일과 채소, 이국적인 향신료, 치즈와 햄이 가득합니다. 여기서 현지 간식을 맛보며 빈의 생활을 생생하게 느껴보세요. 이곳은 또한 특별한 기념품을 구입하기 좋은 장소입니다.",
+              "practical_tip": "💡 전문가 팁: 토요일에 열리는 벼룩시장에서는 많은 유럽 앤틱 소품을 발굴할 수 있으니, 현금을 꼭 준비하세요."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "중앙 카페 (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "빈 커피문화는 유네스코 비물질문화유산으로 등재되었고, 중앙 카페는 그 명성을 뛰어넘는 자부심을 지니고 있습니다. 이 높고 화려한 역사적인 건물 안에서 빈 커피 (Melange)와 사흘 케이크를 주문하고, 우아한 오후 시간을 즐겨보세요.",
+              "practical_tip": "💡 전문가 팁: 문 앞에는 줄이 길게 늘어설 수 있으니, 오후 3시 이후에 방문하거나 온라인 예약을 이용하는 것을 추천합니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "프라터 (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "100년의 역사를 자랑하는 빈 관람차 (Wiener Riesenrad)를 타고 천천히 돌며 도시의 야경을 감상하세요. 복고풍이며 매력적인 놀이공원 분위기가 느껴져 여행의 둘째 날 저녁을 가볍고 유쾌한 기분으로 마무리하기에 안성맞춤입니다.",
+              "practical_tip": "💡 전문가 팁: 관람차 입구에는 관련 역사 전시가 있으니 시간을 내어 함께 관람하고 영화 《제3의 남자》의 촬영 배경을 이해하는 것도 좋습니다."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "넷째 날: 쇼핑과 마지막 빈의 풍경",
+          "activities": [
+            {
+              "time_slot": "아침",
+              "spot_name": "그라벤 (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "빈에서 가장 고급스러운 쇼핑 거리인 그라벤은 양쪽으로 백년 가게와 플래그십 스토어가 즐비합니다. 쇼핑을 하지 않더라도 거리 중앙에 있는 흑사병 기념비와 정교한 건축 조각을 감상하는 것만으로도 빈이 제국 수도로서 자랑하는 깊은 역사적 배경을 느낄 수 있습니다.",
+              "practical_tip": "💡 전문가 팁: 이곳에서 스와로브스키, 유명한 모차르트 초콜릿과 같은 많은 오스트리아 브랜드를 찾을 수 있으며, 세금 환급을 잊지 마세요."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "미술사 박물관 (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "이곳은 건물 자체가 전시물보다 더 화려한 박물관입니다! 내부의 대계단과 카페는 ‘세계에서 가장 아름다운 박물관 카페’로 불리우고 있습니다. 여기서 고전 작품을 감상하며 커피를 마신다면 마치 그림 속 귀족이 된 듯한 기분을 느낄 수 있습니다.",
+              "practical_tip": "💡 전문가 팁: 박물관 내의 카페는 매우 인기가 높아 입장 후 먼저 카페에서 대기 등록하고, 그 후 전시 공간을 둘러보는 것이 가장 현명합니다.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "다뉴브 강가 산책",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "여행의 마지막 밤, 다뉴브 강가를 산책하며 석양이 강 위에 떨어지는 모습을 바라보세요. 부드러운 바람이 불고, 이 평온함과 안식은 빈이 당신에게 주는 마지막 선물입니다. 강가의 레스토랑에서 저녁을 즐기며, 이번 4일간의 완벽한 여행을 기념해 주 말하세요!",
+              "practical_tip": "💡 전문가 팁: 다뉴브 강가에 가려면 지하철 U1선을 타고 Donauinsel역에서 하차하는 것을 추천하며, 그곳에서 가장 훌륭한 경치를 감상할 수 있습니다."
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "seo_meta": {
+        "title": "【2026 Vienne Voyage Libre】Le meilleur guide d'itinéraire de 4 jours ! Attractions, transports & gastronomie incontournable",
+        "description": "Comment profiter de Vienne lors de votre première visite ? Ce guide complet de 4 jours à Vienne vous emmène à travers toutes les attractions incontournables, à déguster des spécialités locales et à ressentir le charme romantique de la capitale de la musique classique."
+      },
+      "hero_section": {
+        "hook_intro": "Bienvenue dans la capitale de la musique — Vienne ! C'est une ville qui fusionne parfaitement l'élégance classique et l'énergie moderne, marchant le long des rues pavées, vous pouvez presque entendre les échos de Mozart et Beethoven. Des palais éblouissants aux ruelles pleines d'arômes de café, chaque partie de Vienne mérite d'être savourée.\n\nPour ces 4 jours et 3 nuits, nous avons sélectionné les vestiges classiques de la dynastie des Habsbourg, des palais artistiques de renommée mondiale, ainsi que l'expérience incontournable du gâteau Sacher. Suivez ce guide et ensemble, dévoilons le mystère de cette capitale impériale, pour commencer un voyage inoubliable à travers l'Europe !",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Jour 1 : Exploration de la gloire impériale et du cœur de la vieille ville",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Cathédrale Saint-Étienne (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "En tant que symbole spirituel de Vienne, le toit coloré de cette cathédrale gothique est inoubliable. Entrez à l'intérieur et ressentez l'atmosphère religieuse solennelle. Nous vous recommandons de relever le défi de monter au sommet de la tour sud pour admirer le panorama des toits de tuiles rouges de la vieille ville de Vienne. Cette expérience spectaculaire mérite vraiment de grimper les 343 marches !",
+              "practical_tip": "💡 Astuce : Il est conseillé d'acheter un billet combiné incluant l'accès à la tour et d'éviter de visiter pendant les heures de messe du dimanche pour ne pas être limité dans les zones de visite."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Palais Hofburg (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "C'est l'ancienne résidence d'hiver de la dynastie des Habsbourg et le meilleur endroit pour ressentir l'éclat de l'Empire austro-hongrois. Vous pourrez visiter le musée de la princesse Sissi et admirer la luxueuse collection d'argenterie royale. Chaque salle d'exposition est si exquise qu'elle vous transporte à l'époque des bals aristocratiques.",
+              "practical_tip": "💡 Astuce : Le Palais Hofburg est très vaste, il est recommandé de prévoir au moins 3 heures, et de télécharger à l'avance l'application de guide audio pour enrichir votre visite.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Figlmüller Schnitzel",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "Si vous êtes à Vienne sans avoir goûté le schnitzel, alors vous n'êtes définitivement pas venu ! Figlmüller est le restaurant le plus légendaire pour le schnitzel, avec des portions si grandes qu'elles sont plus larges que votre visage, accompagnées d'une salade de pommes de terre rafraîchissante. Chaque bouchée est un pur bonheur. N'oubliez pas d'accompagner cela d'un verre de vin blanc autrichien, c'est la façon la plus authentique de déguster ce plat.",
+              "practical_tip": "💡 Astuce : Assurez-vous de réserver en ligne une semaine à l'avance, la file d'attente sur place dépasse souvent une heure."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Jour 2 : Palais magnifiques et immersion artistique",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Château de Schönbrunn (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "Le château de Schönbrunn est le joyau de la couronne de Vienne et fait partie du patrimoine mondial. Ce superbe palais baroque possède des jardins arrière magnifiques et un arc de triomphe. Flânez dans ces vastes jardins, admirez la vue sur la ville de Vienne et ressentez le mode de vie majestueux de l'impératrice Maria Theresa.",
+              "practical_tip": "💡 Astuce : Il est fortement recommandé d'acheter des billets à l'avance en ligne et d'opter pour le créneau horaire le plus tôt pour éviter la foule des groupes de touristes du monde entier.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Musée Belvédère (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "C'est un véritable paradis pour les amateurs d'art ! Le musée Belvédère abrite l'œuvre maîtresse de Gustav Klimt, 'Le Baiser'. En plus d'admirer des œuvres d'art époustouflantes, l'architecture baroque du palais et les reflets dans les bassins en font un lieu privilégié pour les photographes en quête de compositions parfaites.",
+              "practical_tip": "💡 Astuce : Le musée est divisé entre le Belvédère supérieur et le Belvédère inférieur. Si vous manquez de temps, il est fortement conseillé de commencer par le Belvédère supérieur.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Opéra d'État de Vienne (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "L'âme de Vienne est la musique ! Même si vous n'êtes pas un amateur d'opéra, juste admirer la façade majestueuse de ce bâtiment est suffisant. L'opéra brille de mille feux une fois éclairé le soir. Si vous avez la chance d'acheter des billets pour une représentation, cela sera le plus mémorable des moments culturels de votre voyage.",
+              "practical_tip": "💡 Astuce : Les voyageurs soucieux de leur budget peuvent acheter des 'billets debout', qui sont disponibles 80 minutes avant le début de la représentation à des prix très abordables."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Jour 3 : Cafés bohèmes et un mode de vie tranquille au marché",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Marché Nasch (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "C'est le marché en plein air le plus animé de Vienne, avec une variété de fruits et légumes frais, d'épices exotiques, de fromage et de jambon. Vous pouvez déambuler tout en goûtant des spécialités locales, découvrant la vie authentique des habitants, et c'est également un excellent endroit pour acheter des souvenirs uniques.",
+              "practical_tip": "💡 Astuce : Le samedi, un marché aux puces a lieu, où vous pouvez dénicher de nombreux objets anciens européens, pensez à apporter de l'argent liquide."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Café Central (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "La culture des cafés à Vienne est inscrite au patrimoine culturel immatériel de l'UNESCO, et le Café Central en est le roi incontesté. Dans ce bâtiment historique au design élégant, prenez un café viennois (Melange) avec une part de gâteau Sacher et profitez d'un moment élégant l'après-midi.",
+              "practical_tip": "💡 Astuce : Comme il y a souvent une grande affluence à l'entrée, il est conseillé de s'y rendre après 15h ou de réserver en ligne."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Prater (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "Montez sur la grande roue de Vienne (Wiener Riesenrad) avec un siècle d'histoire. Au fur et à mesure que vous tournez lentement, vous bénéficierez d'une vue imprenable sur l'ensemble de la ville la nuit. L'atmosphère du parc d'attractions vintage est parfaite pour conclure votre voyage en beauté, avec une ambiance joyeuse.",
+              "practical_tip": "💡 Astuce : À l'entrée de la grande roue, il y a une exposition sur son histoire. Il est recommandé de prévoir du temps pour en apprendre davantage sur le contexte du film 'Le Troisième Homme'."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Jour 4 : Shopping intensif et derniers moments viennois",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Rue Graben (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "C'est la rue commerçante la plus haut de gamme de Vienne, bordée de boutiques anciennes centenaires et de magasins phares. Même si vous ne faites pas de shopping, rien que d'admirer la colonne commémorative de la peste noire au centre de la rue et les sculptures complexes des bâtiments, vous fera ressentir la richesse de Vienne en tant que capitale impériale.",
+              "practical_tip": "💡 Astuce : Vous y trouverez de nombreuses marques autrichiennes, telles que Swarovski ou les célèbres chocolats Mozart, pensez à faire votre demande de remboursement de taxes."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Musée d'Histoire de l'Art (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "C'est un musée où l'architecture est parfois plus impressionnante que les expositions elles-mêmes ! L'escalier monumental et le café ont été qualifiés de 'plus beau café de musée du monde'. Ici, en admirant des peintures classiques tout en savourant un café, vous vous sentirez comme un noble de l'époque.",
+              "practical_tip": "💡 Astuce : Le café du musée est très fréquenté. Dès votre arrivée, il est judicieux de vous inscrire pour une table avant d'explorer les galeries d'exposition.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Promenade le long du Danube",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "Pour votre dernière nuit, promenez-vous le long du Danube, regardant le coucher de soleil se refléter sur l'eau et sentir la brise légère. Ce moment de calme et de paix est le dernier cadeau que Vienne vous offre. Trouvez un restaurant au bord de la rivière pour dîner et portez un toast à ce voyage parfait de 4 jours !",
+              "practical_tip": "💡 Astuce : Pour vous rendre au Danube, prenez le métro U1 et descendez à la station Donauinsel, où le panorama est le plus ouvert."
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "seo_meta": {
+        "title": "【2026 Viena Viaje Libre】¡El mejor plan de itinerario de 4 días para principiantes! Guía completa de atracciones, transporte y comidas imperdibles",
+        "description": "¿Cómo disfrutar de tu primera vez en Viena? Esta completa guía de 4 días sobre Viena te llevará a visitar todos los lugares imprescindibles, degustar la deliciosa comida local y experimentar el encanto romántico de la capital de la música clásica."
+      },
+      "hero_section": {
+        "hook_intro": "¡Bienvenido a la capital de la música — Viena! Esta es una ciudad que combina la elegancia clásica con la vitalidad moderna. Al caminar por las calles empedradas, parece escuchar los ecos de Mozart y Beethoven. Desde el resplandeciente palacio imperial hasta las encantadoras callejuelas llenas de aroma a café, cada rincón de Viena merece ser saboreado.\n\nEn este itinerario de 4 días y 3 noches, hemos seleccionado los vestigios más clásicos de la dinastía Habsburgo, templos de arte de nivel mundial, y la experiencia imprescindible del pastel Sacher. Siguiendo esta guía, ¡descubramos juntos el misterioso velo de esta ciudad imperial y comencemos un viaje europeo inolvidable!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Día 1: Exploración del esplendor imperial y el núcleo de la ciudad vieja",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Catedral de San Esteban (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "Como el símbolo espiritual de Viena, el colorido techo de esta catedral gótica es inolvidable. Al entrar, siente la solemnidad de su atmósfera religiosa. Te recomendamos desafiarte a subir a la torre sur para obtener una vista completa de los techos de tejas rojas del casco antiguo de Viena; ¡la experiencia vale la pena los 343 escalones que tendrás que subir!",
+              "practical_tip": "💡 Consejo de experto: Se recomienda comprar un ticket que incluya la subida a la torre y evitar ir durante el horario de misa del domingo para no restringir el acceso a las áreas de visita."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Palacio de Hofburg (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "Este es el palacio de invierno de la dinastía Habsburgo y el mejor lugar para sentir la gloriosa historia del Imperio Austro-Húngaro. No solo puedes visitar el Museo de la Princesa Sissi, sino también admirar la lujosa colección de plata real. Cada sala de exhibición es tan exquisita que te hará sentir como si hubieras viajado a la época de los bailes nobiliarios.",
+              "practical_tip": "💡 Consejo de experto: La extensión de Hofburg es muy amplia, se recomienda reservar al menos 3 horas y descargar una app de audioguía para una mejor experiencia.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Figlmüller - Escalopas",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "¡Si no has probado las escalopas en Viena, realmente no has estado aquí! Figlmüller es la tienda de escalopas más legendaria en la ciudad, con filetes crujientes más grandes que tu cara, acompañados de ensalada de patatas frescas; cada bocado es una delicia. No olvides acompañarlo con una copa de vino blanco austriaco, ¡esa es la manera más auténtica de disfrutarlo!",
+              "practical_tip": "💡 Consejo de experto: Asegúrate de reservar en su página web al menos una semana antes, ya que las filas en el lugar pueden tardar más de una hora."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Día 2: Majestuosos palacios y una inmersión artística",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Palacio de Schönbrunn (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "Schönbrunn es la joya de la corona de Viena y un sitio Patrimonio de la Humanidad. Este palacio de estilo barroco cuenta con unos hermosos jardines y un arco triunfal. Pasea por sus amplios terrenos y disfruta de la vista de la ciudad de Viena, sintiendo la grandeza de la vida de la emperatriz María Teresa.",
+              "practical_tip": "💡 Consejo de experto: Se recomienda encarecidamente comprar tickets de preventa en línea, eligiendo la hora de entrada más temprana para evitar las multitudes de turistas de todo el mundo.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Museo Belvedere (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "¡Este es el paraíso de los amantes del arte! El Belvedere alberga la obra maestra de Gustav Klimt, 'El beso'. Además de admirar impresionantes pinturas, la arquitectura barroca y el reflejo en el estanque del palacio ofrecen magníficas oportunidades fotográficas.",
+              "practical_tip": "💡 Consejo de experto: El museo se divide en el Upper Belvedere y el Lower Belvedere; si tienes tiempo limitado, prioriza la visita al Upper Belvedere.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Ópera Estatal de Viena (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "¡El alma de Viena es la música! Aunque no seas un fanático de la ópera, simplemente admirar el esplendor del exterior de este edificio es suficiente. Después de que se ilumina por la noche, la ópera brilla con esplendor, y si consigues un boleto para una actuación, será un inolvidable baño cultural en este viaje.",
+              "practical_tip": "💡 Consejo de experto: Los viajeros que buscan ahorrar pueden comprar 'tickets de pie' (Standing tickets), que se ponen a la venta 80 minutos antes de la función a muy buenos precios."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Día 3: Cafés artísticos y vida tranquila en el mercado",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Mercado Naschmarkt (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "Este es el mercado al aire libre más animado de Viena, con una variedad que va desde frutas y verduras frescas hasta especias exóticas y jamones de queso. Puedes pasear y degustar bocados locales, sintiendo el auténtico ritmo de la vida cotidiana de Viena. Es también un excelente lugar para comprar recuerdos únicos.",
+              "practical_tip": "💡 Consejo de experto: Los sábados hay un mercadillo donde puedes encontrar antigüedades europeas a buen precio. Recuerda llevar efectivo."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Café Central (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "La cultura del café en Viena está catalogada como Patrimonio Cultural Inmaterial por la UNESCO, y el Café Central es el rey indiscutido. En este histórico y magnífico edificio, disfruta de un café vienés (Melange) y una porción de pastel Sacher, y disfruta de una elegante tarde.",
+              "practical_tip": "💡 Consejo de experto: Hay muchas personas en la cola en la entrada, se recomienda ir después de las 3 p.m. o hacer una reserva en línea."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Parque de atracciones Prater (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "Sube a la noria de Viena (Wiener Riesenrad) con más de un siglo de historia, y mientras gira lentamente, disfruta de la vista nocturna de la ciudad. Este lugar tiene una atmósfera de parque de atracciones retro encantadora, ideal para cerrar con broche de oro la penúltima noche del viaje con una actitud relajada.",
+              "practical_tip": "💡 Consejo de experto: En la entrada de la noria hay una exposición histórica relacionada; se sugiere reservar tiempo para visitarla y conocer el trasfondo de la película 'El tercer hombre'."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Día 4: Compras y el último encanto de Viena",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Calle Graben (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "Esta es la calle comercial más exclusiva de Viena, flanqueada por tiendas centenarias y boutiques de lujo. Incluso si no deseas comprar, solo admirar el monumento a la peste en el centro de la calle y las exquisitas esculturas arquitectónicas te permitirá sentir la sólida herencia de Viena como capital imperial.",
+              "practical_tip": "💡 Consejo de experto: Aquí puedes encontrar muchas marcas austriacas, como Swarovski o el famoso chocolate de Mozart; recuerda hacer el trámite de devolución de impuestos."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Museo de Historia del Arte (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "¡Este es un museo donde la arquitectura rivaliza con las exposiciones! La gran escalera y la cafetería del museo se consideran 'la cafetería de museo más hermosa del mundo'. Aquí, mientras miras obras clásicas, bebiendo un café, te sentirás un noble del cuadro.",
+              "practical_tip": "💡 Consejo de experto: La cafetería del museo es muy popular. Es más inteligente registrarse primero en la cafetería para una mesa antes de comenzar a explorar las exposiciones.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Paseo por la ribera del Danubio",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "En la última noche de tu viaje, pasea a orillas del Danubio, observando el sol poniente reflejarse en el agua, mientras la brisa suave te acaricia; esta paz es el último regalo que Viena te deja. Elige un restaurante junto al río para cenar y brindar por este perfecto viaje de 4 días.",
+              "practical_tip": "💡 Consejo de experto: Puedes tomar el metro línea U1 hacia la ribera del Danubio y bajarte en la estación Donauinsel, donde el paisaje es más amplio."
+            }
+          ]
+        }
+      ]
+    },
+    "id": {
+      "seo_meta": {
+        "title": "【2026 Wina Liburan Mandiri】Rencana Perjalanan 4 Hari Terbaik! Panduan Lengkap Tempat Wisata, Transportasi & Makanan Wajib Coba",
+        "description": "Bagaimana cara bersenang-senang di Wina untuk pertama kalinya? Dengan panduan perjalanan 4 hari yang sangat lengkap ini, kami akan membawa Anda menjelajahi tempat-tempat yang wajib dikunjungi, mencicipi kuliner lokal, dan merasakan pesona romantis ibukota musik klasik."
+      },
+      "hero_section": {
+        "hook_intro": "Selamat datang di ibukota musik—Wina! Ini adalah kota yang menggabungkan keanggunan klasik dengan semangat modern secara sempurna. Menelusuri jalan berbatu, seolah-olah Anda bisa mendengar gema Mozart dan Beethoven. Dari istana yang megah hingga gang-gang yang dipenuhi aroma kopi, setiap inci tanah Wina patut untuk dinikmati.\n\nDalam perjalanan 4 hari 3 malam ini, kami telah memilih peninggalan klasik dinasti Habsburg, gedung seni kelas dunia, serta pengalaman kue Sacher yang tidak boleh dilewatkan. Ikuti panduan ini dan mari kita bersama-sama mengungkap tirai misterius dari ibukota imperial ini, memulai perjalanan Eropa yang tak terlupakan!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Hari 1: Eksplorasi Kejayaan Kekaisaran dan Inti Kota Tua",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Katedral St. Stephen (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "Sebagai landmark spiritual Wina, atap berwarna-warni dari katedral bergaya Gotik ini sungguh tak terlupakan. Masuk ke dalam dan rasakan suasana religius yang khidmat, wajib mencoba mendaki menara selatan untuk melihat seluruh atap ubin merah kawasan kota tua Wina. Pengalaman mengejutkan ini sangat layak untuk mendaki 343 anak tangga!",
+              "practical_tip": "💡 Tips Ahli: Disarankan untuk membeli tiket paket yang mencakup akses ke menara, dan hindari datang sebelum misa hari Minggu untuk menghindari batasan area kunjungan."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Istana Hofburg (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "Ini adalah istana musim dingin dari dinasti Habsburg dan merupakan tempat terbaik untuk merasakan sejarah gemilang Kekaisaran Austro-Hungaria. Tidak hanya dapat mengunjungi museum Putri Sisi, tetapi juga dapat melihat koleksi perak kerajaan yang mewah. Setiap ruang pamer membuat Anda terpesona, seolah-olah kembali ke era di mana balai pernikahan aristokratik menjadi populer.",
+              "practical_tip": "💡 Tips Ahli: Area Hofburg sangat luas, disarankan untuk menyisakan setidaknya 3 jam dan mengunduh aplikasi panduan suara sebelum kunjungan untuk meningkatkan pengalaman.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Figlmüller Schnitzel",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "Tidak makan schnitzel di Wina, jangan bilang Anda sudah pernah ke sini! Figlmüller adalah restoran schnitzel paling legendaris di daerah ini, dengan schnitzel renyah yang lebih besar dari wajah Anda disajikan dengan salad kentang yang segar—setiap suapan adalah kepuasan. Pastikan untuk memadukannya dengan segelas anggur putih Austria, itu adalah cara yang paling otentik.",
+              "practical_tip": "💡 Tips Ahli: Pastikan untuk memesan di situs resmi setidaknya satu minggu sebelumnya, karena antrean di tempat sering kali lebih dari satu jam."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Hari 2: Istana Indah dan Pengalaman Seni",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Istana Schönbrunn (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "Istana Schönbrunn adalah permata mahkota Wina dan juga merupakan salah satu situs warisan dunia. Istana megah bergaya Barok ini memiliki taman belakang yang indah dan gerbang kemenangan yang megah. Berjalanlah di taman yang luas, sambil menikmati pemandangan kota Wina, merasakan gaya hidup megah Ratu Maria Theresa di masa lalu.",
+              "practical_tip": "💡 Tips Ahli: Sangat disarankan untuk membeli tiket pre-order online dan memilih waktu masuk paling awal untuk menghindari kerumunan turis dari seluruh dunia.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Museum Belvedere (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "Ini adalah surga bagi penggemar seni! Belvedere memiliki koleksi karya agung Gustav Klimt, 'The Kiss'. Selain menikmati lukisan yang sangat menawan, desain arsitektur Barok dari istana dan refleksi di kolamnya, juga merupakan tempat sempurna bagi penggemar fotografi untuk menangkap komposisi yang luar biasa.",
+              "practical_tip": "💡 Tips Ahli: Museum ini terbagi menjadi Upper Belvedere dan Lower Belvedere. Jika waktu terbatas, sangat disarankan untuk mengutamakan kunjungan ke Upper Belvedere.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Opera Negara Wina (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "Jiwa Wina adalah musik! Meskipun Anda bukan penggemar opera, hanya melihat keindahan arsitektur megah ini sudah cukup. Setelah lampu menyala di malam hari, opera ini bersinar gemerlap. Jika Anda dapat membeli tiket untuk menyaksikan pertunjukan, itu akan menjadi pengalaman budaya yang paling tak terlupakan dalam perjalanan ini.",
+              "practical_tip": "💡 Tips Ahli: Para pelancong yang ingin menghemat uang dapat membeli 'Standing tickets', yang dijual 80 menit sebelum pertunjukan dimulai dengan harga yang sangat terjangkau."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Hari 3: Kafe Kreatif dan Santai di Pasar",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Pasar Nasch (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "Ini adalah pasar terbuka paling ramai di Wina, dengan berbagai sayuran segar, rempah-rempah asing, dan ham keju tersedia. Anda dapat mengunjungi sambil mencicipi makanan lokal dan merasakan kehidupan kota Wina yang otentik, yang juga merupakan tempat yang baik untuk membeli oleh-oleh khas.",
+              "practical_tip": "💡 Tips Ahli: Pada hari Sabtu ada pasar loak, Anda dapat menemukan banyak barang antik Eropa, ingat untuk mempersiapkan uang tunai."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Kafe Sentral (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "Budaya kafe Wina diakui sebagai warisan budaya tak benda oleh UNESCO, dan Café Central adalah rajanya. Di dalam bangunan bersejarah yang tinggi ini, pesan secangkir kopi Wina (Melange) dan sekeping kue Sacher, nikmati waktu santai di sore hari yang elegan.",
+              "practical_tip": "💡 Tips Ahli: Ada banyak antrean di pintu masuk, disarankan untuk datang setelah jam 3 sore, atau melakukan reservasi melalui sistem online."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Taman Prater (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "Naiklah Ferris Wheel Wina (Wiener Riesenrad) yang bersejarah, dan melintasi kota saat berputar perlahan, Anda dapat melihat pemandangan malam seluruh kota. Dengan suasana taman hiburan yang retro dan menawan, taman ini sangat cocok untuk mengakhiri malam kedua terakhir dalam perjalanan Anda dengan perasaan santai dan menyenangkan.",
+              "practical_tip": "💡 Tips Ahli: Di pintu masuk Ferris Wheel terdapat pameran sejarah terkait, disarankan untuk menyisakan waktu untuk juga mengunjungi pameran itu untuk memahami latar belakang film 'The Third Man'."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Hari 4: Belanja dan Menikmati Pesona Wina Terakhir",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Jalan Graben (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "Ini adalah jalan perbelanjaan paling mewah di Wina, dipenuhi dengan toko-toko tua yang bersejarah dan flagship store. Meskipun tidak berbelanja, hanya dengan menikmati kolom peringatan wabah hitam di tengah jalan dan ukiran bangunan yang indah sudah membuat Anda merasakan kekayaan filisofis Wina sebagai ibukota imperial.",
+              "practical_tip": "💡 Tips Ahli: Di sini Anda dapat menemukan berbagai merek Austria, seperti Swarovski atau cokelat Mozart yang terkenal, ingat untuk mengurus pengembalian pajak."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Museum Sejarah Seni (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "Ini adalah museum yang bangunannya jauh lebih menarik daripada pameran itu sendiri! Tangga besar dan kafe di dalamnya dianggap sebagai 'kafe museum terindah di dunia'. Di sini Anda dapat melihat lukisan klasik sembari menikmati secangkir kopi, seolah-olah Anda juga menjadi bangsawan dalam lukisan tersebut.",
+              "practical_tip": "💡 Tips Ahli: Kafe di dalam museum sangat populer, disarankan untuk mendaftar di kafe setelah masuk, sebelum berkeliling area pameran, agar lebih efisien.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Berjalan di Sisi Sungai Danube",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "Pada malam terakhir perjalanan, berjalanlah di tepi Sungai Danube, melihat matahari terbenam di atas permukaan air, angin sepoi-sepoi, ketenangan dan kedamaian ini adalah hadiah terakhir Wina untuk Anda. Temukan restoran tepi sungai untuk menikmati makan malam, dan bersulang untuk perjalanan sempurna 4 hari ini!",
+              "practical_tip": "💡 Tips Ahli: Anda bisa naik kereta bawah tanah U1 menuju pesisir Danube, turun di stasiun Donauinsel untuk mendapatkan pemandangan yang paling luas."
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "seo_meta": {
+        "title": "【2026 वियना फ्री ट्रिप】सर्वश्रेष्ठ 4 दिवसीय यात्रा कार्यक्रम का गाइड!",
+        "description": "वियना में पहली बार जाने वाले यात्री कैसे यात्रा करें? यह पूर्ण 4-दिन का वियना फ्री ट्रिप गाइड आपको आवश्यक स्थलों की यात्रा करने, स्थानीय भोजन का आनंद लेने और शास्त्रीय संगीत की राजधानी की रोमांटिक魅力 का अनुभव करने में मदद करेगा।"
+      },
+      "hero_section": {
+        "hook_intro": "संगीत की राजधानी——वियना में आपका स्वागत है! यह एक ऐसा शहर है जो शास्त्रीय परिष्कार और आधुनिक ऊर्जा को परिपूर्ण रूप से मिश्रित करता है,鹅卵石 की सड़कों पर चलते हुए, आपको मोत्ज़ार्ट और बेथोवेन की गूंज सुनाई देगी। शानदार साम्राज्य महल से लेकर कॉफी सुगंध से भरे कला मोहल्लों तक, वियना की हर एक इंच ज़मीन आपके अनुभव के लिए तैयार है।\n\nइस 4 दिन, 3 रात के यात्रा कार्यक्रम में, हमने हैब्सबर्ग साम्राज्य के सबसे प्रसिद्ध अवशेष, विश्व स्तरीय कला सरंचनाएँ और उनके साहबकेक (सखर टॉर्ट) का अनुभव शामिल किया है। इस गाइड का पालन करते हुए, चलिए हम इस साम्राज्य की राजधानी के रहस्यमय परत को खोलते हैं और एक अविस्मरणीय यूरोप यात्रा शुरू करते हैं!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "दिन 1: साम्राज्य की महिमा और पुराने शहर के केंद्र की खोज",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "सेंट स्टीफन कैथेड्रल (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "वियना का यह गोथिक कैथेड्रल एक आध्यात्मिक प्रतीक है, इसकी रंग-बिरंगी छत आपको यादगार लगेगी। अंदर प्रवेश करें और धार्मिकता का अनुभव करें, दक्षिणी टॉवर पर चढ़ने का चुनौती लेना सुनिश्चित करें, जिससे आप वियना के पुराने शहर के लाल टाइल वाले छत का नज़ारा देख सकें, यह अनुभव वास्तव में 343 सीढ़ियों तक चढ़ने के लायक है!",
+              "practical_tip": "💡 विशेषज्ञ की टिप: टॉवर की चढ़ाई के लिए संयुक्त टिकट खरीदने की सिफारिश की जाती है, और रविवार की प्रार्थना से पहले जाने की कोशिश करें ताकि आप दर्शन स्थल को सीमित रूप से न देख पाएं।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "हॉफबर्ग पैलेस (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "यह हैब्सबर्ग साम्राज्य का शीतकालीन महल है, जो ऑस्ट्रियाई-हंगेरियन साम्राज्य के भव्य इतिहास का अनुभव करने का एक उत्तम स्थान है। आप सिसी संग्रहालय का दौरा कर सकते हैं, और शाही भव्यता की बर्तन संग्रह का अनुभव कर सकते हैं। प्रत्येक प्रदर्शनी कक्ष मनमोहक है, जैसे किसी नव-युगीन नृत्य पार्टी के युग में यात्रा कर रहे हों।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: हॉफबर्ग बहुत बड़ा है, कम से कम 3 घंटे का समय निकालने की सिफारिश है, और अनुभव को समृद्ध करने के लिए ऑडियो गाइड ऐप डाउनलोड करें।",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "Figlmüller तले हुए पोर्क कटलेट",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "वियना में आने के बाद बिना तले हुए पोर्क कटलेट का अनुभव किए, ऐसा नहीं कहें कि आप आए हैं! Figlmüller यहाँ का सबसे प्रसिद्ध पोर्क कटलेट रेस्त्रां है, इसका परतदार कटलेट अपने आकार में आपके चेहरे से भी बड़ा है और ताजगी से भरे आलू के सलाद के साथ, यह हर निगले में संतोष प्रदान करता है। एक गिलास ऑस्ट्रियाई सफेद वाइन के साथ इसका संयोजन करना न भूलें, यह सबसे प्रामाणिक तरीका है।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: साइट पर एक सप्ताह पहले आरक्षित करें, क्यू में खड़े होने में अक्सर 1 घंटे से अधिक का समय लगता है।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "दिन 2: अद्भुत महल और कला का स्पर्श",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "शॉनब्रुन पैलेस (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "शॉनब्रुन पैलेस वियना का हार्दिक रत्न है और यह विश्व धरोहर स्थलों में से एक है। यह एक बारोक शैली का भव्य महल है, जिसमें सुंदर पिछवाड़ा और ट्रायम्फल आर्क है। खुली बाग़ में चलते हुए वियना के शहर का दृश्य देखें और सम्राज्ञी मैरी टेरेज़ा के समृद्ध जीवन का अनुभव करें।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: ऑनलाइन प्री-सेल टिकट खरीदने की सिफारिश की जाती है, सबसे पहले खोलने के समय में जाएँ, ताकि दुनिया भर से आने वाले पर्यटकों के शिकार से बच सकें।",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "बेलवेरे म्यूजियम (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "यह कला प्रेमियों का स्वर्ग है! बेलवेरे म्यूजियम में गुस्ताव क्लिम्ट का कालातीत कृति 'किस' प्रदर्शित है। केवल आश्चर्यजनक चित्रकला का आनंद लेने के अलावा, महल की बारोक वास्तुकला और जलविहार का प्रतिबिंब भी फोटोग्राफरों के लिए अद्भुत दृष्टिकोण का प्रमाण है।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: कला गैलरी में ऊपरी बेलवेरे और निचले बेलवेरे में विभाजित है, यदि समय सीमित है, तो ऊपरी बेलवेरे को प्राथमिकता देने की सिफारिश की जाती है।",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "वियना स्टेट ओपेरा (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "वियना का आत्मा संगीत है! भले ही आप ओपेरा प्रेमी न हों, इस विशाल इमारत के बाहरी दृश्य को देखते हुए ही आपका मन प्रसन्न हो जाएगा। रात में जब ओपेरा जनरेटर चमकते हैं, यदि आप पेशेवर प्रदर्शन का आनंद लेने के लिए टिकट खरीद सकें, तो यह आपकी यात्रा का सबसे यादगार सांस्कृतिक अनुभव होगा।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: पैसे बचाने के इच्छुक यात्रियों के लिए 'स्टैंडिंग टिकट' खरीदने की सिफारिश की जाती है, प्रदर्शन से 80 मिनट पहले बेचने पर, कीमत बहुत सस्ती होती है।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "दिन 3: कला-केंद्रित कैफे और सुस्त जीवन शैली",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "नाश मार्केट (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "यह वियना का सबसे लोकप्रिय ओपन मार्केट है, जिसमें ताजे फल-वनस्पति, विदेशी मसाले से लेकर चीज़ और हैम तक सब कुछ मौजूद है। आप यहां घूमते हुए स्थानीय स्नैक्स का आनंद ले सकते हैं और वियना के स्थानीय जीवन की वास्तविकता को अनुभव कर सकते हैं, यह विशेष उपहार खरीदने के लिए भी अच्छा स्थान है।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: शनिवार को यहां एक फ़्ली मार्केट होता है, जहां आपको कई यूरोपीय प्राचीन वस्तुएं मिल सकती हैं, याद रखें कि नकद लाना आवश्यक है।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "सेंट्रल कैफे (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "वियना की कैफे संस्कृति को संयुक्त राष्ट्र द्वारा अमूर्त सांस्कृतिक विरासत के रूप में मान्यता प्राप्त है, और सेंट्रल कैफे निस्संदेह इसका राजा है। इस भव्य ऐतिहासिक इमारत में, एक कप वियना कैफे (Melange) और एक सखर केक का ऑर्डर करें, और एक सुरुचिपूर्ण अपराह्न का आनंद लें।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: दरवाजे के बाहर लंबी लाइन है, दोपहर 3 बजे के बाद जाने की सिफारिश की जाती है, या ऑनलाइन सिस्टम के माध्यम से आरक्षित करें।"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "प्राटर (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "100 साल का पुराना वियना फ़ेरिस व्हील (Wiener Riesenrad) पर चढ़ें, धीरे-धीरे घूमते हुए पूरा शहर रात के दृश्य में बह जाता है। यहां एक पुरानी और आकर्षक मनोरंजन पार्क का वातावरण है, जो यात्रा के दूसरे अंतिम रात के लिए एक सुखद और खुशहाल अनुभव देने के लिए एकदम सही है।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: फ़ेरिस व्हील के प्रवेश द्वार पर संबंधित इतिहास की प्रदर्शनी है, समय बचाने की सिफारिश की जाती है ताकि आप इसे साथ ही देखने के लिए समय दें, ताकि फिल्म 'द थर्ड मैन' के शूटिंग का इतिहास समझ सकें।"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "दिन 4: शॉपिंग और आखिरी वियना सभ्यता",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "ग्राबेन (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "यह वियना की सबसे भव्य शॉपिंग स्ट्रीट है, जहां दोनों तरफ पुराने और प्रीमियम स्टोर भरे हैं। भले ही आप खरीदारी न करें, बस सड़क के बीचली काली मuerte का स्मारक और शानदार इमारती नक्काशी को देखना, यह आपको वियना के साम्राज्य की राजधानी होने के मजबूत आधार का अनुभव कराने के लिए काफी है।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: यहां आप कई ऑस्ट्रियाई ब्रांड जैसे Swarovski या प्रसिद्ध मोचार्ट चॉकलेट पा सकते हैं, रिफंड कराने का अनुरोध करना न भूलें।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "कुन्स्टहिस्टोरिशेस म्यूज़ियम (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "यह एक ऐसा म्यूज़ियम है जहाँ खुद इमारत प्रदर्शनीय से भी ज्यादा शानदार है! इसमें, भव्य सीढ़ियाँ और कैफे को 'दुनिया के सबसे खूबसूरत म्यूज़ियम कैफे' के रूप में माना जाता है। यहां प्राचीन चित्रों को देखते हुए, कॉफी पीते हुए, आपको ऐसा महसूस होगा जैसे आप भी चित्र के आभिजात्य बन गए हैं।",
+              "practical_tip": "💡 विशेषज्ञ की टिप: म्यूजियम के कैफे में बहुत ज्यादा भीड़ होती है, इसलिए प्रवेश के बाद पहले कैफे में रजिस्टर करना और फिर प्रदर्शनी क्षेत्र को देखना सबसे अच्छा होता है।",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "डेन्यूब नदी के किनारे टहलना",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "यात्रा की अंतिम रात में, डेन्यूब नदी के किनारे चलना, सूर्यास्त को देखकर, जो नदी पर बिछता है, और हल्की हवा महसूस करना, यह वियना की आपकी अंतिम उपहार है। एक नदी किनारे के रेस्त्रां में रात्रिभोज करें, अपने 4 दिनों की पूरी यात्रा के लिए जश्न मनाएँ!",
+              "practical_tip": "💡 विशेषज्ञ की टिप: डेन्यूब नदी के किनारे पहुँचने के लिए U1 मेट्रो लें और Donauinsel स्टेशन पर उतरें, दृश्य सबसे खुला होता है।"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "seo_meta": {
+        "title": "【2026 Viena Viagem Livre】Melhor Pacote de Planejamento de 4 Dias! Guia Completo de Atrações, Transporte e Gastronomia",
+        "description": "Como aproveitar sua primeira visita a Viena? Este é um guia super completo de 4 dias em Viena, que te leva a todos os pontos turísticos imperdíveis, a degustar a culinária local e a vivenciar o charme romântico da capital da música clássica."
+      },
+      "hero_section": {
+        "hook_intro": "Bem-vindo à capital da música — Viena! Esta é uma cidade que combina perfeitamente a elegância clássica com a vitalidade moderna. Ao caminhar pelas ruas de paralelepípedos, parece que você pode ouvir os ecos de Mozart e Beethoven. Desde os brilhantes palácios imperiais até os cafés charmosos, cada centímetro de Viena merece ser apreciado.\n\nNeste itinerário de 4 dias e 3 noites, selecionamos os locais mais icônicos, os legados da dinastia Habsburgo, palácios de arte de classe mundial e, claro, a imperdível experiência do Apfelstrudel. Com este guia, vamos desvelar o mistério da capital imperial e embarcar juntos em uma viagem inesquecível pela Europa!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Dia 1: Explorando a Glória Imperial e o Centro Histórico",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Catedral de Santo Estêvão (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "Como símbolo espiritual de Viena, o colorido telhado desta catedral gótica é inesquecível. Ao entrar, sinta a atmosfera religiosa solene e grave, e não deixe de desafiar-se a subir na torre sul para ter uma vista deslumbrante dos telhados vermelhos do centro histórico de Viena - a experiência vale a pena os 343 degraus!",
+              "practical_tip": "💡 Dica do especialista: Recomenda-se comprar um ingresso combinado que inclua a subida e evitar o horário da missa aos domingos para não ter restrições na visita."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Palácio Hofburg (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "Este é o palácio de inverno da dinastia Habsburgo, um dos melhores lugares para sentir a grandiosidade da história do Império Austro-Húngaro. Você pode visitar o Museu Sisi, onde pode ver uma coleção luxuosa de prata real. Cada salão é mais deslumbrante que o outro, como uma viagem de volta ao tempo dos grandiosos bailes nobres.",
+              "practical_tip": "💡 Dica do especialista: O complexo do Hofburg é enorme, recomendo reservar pelo menos 3 horas e baixar um aplicativo de audioguias para melhorar a visita.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Figlmüller - Schnitzel",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "Se você não experimentar o schnitzel em Viena, não pode dizer que esteve aqui! O Figlmüller é a lanchonete mais famosa da cidade, com schnitzels crocantes do tamanho de um rosto, acompanhados de uma salada de batata refrescante. Cada mordida é pura satisfação. Não se esqueça de pedir um copo de vinho branco austríaco, é a verdadeira maneira de aproveitar!",
+              "practical_tip": "💡 Dica do especialista: Certifique-se de fazer sua reserva online uma semana antes, pois a fila pode levar mais de uma hora."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Dia 2: Palácios Deslumbrantes e Arte Inspiradora",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Palácio de Schönbrunn (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "Schönbrunn é a joia da coroa de Viena e um Patrimônio Mundial. Este magnífico palácio de estilo barroco possui belíssimos jardins e um arco triunfal. Passeie pelos vastos jardins e admire a vista da cidade de Viena, sentindo a graça da vida da imperatriz Maria Teresa.",
+              "practical_tip": "💡 Dica do especialista: É altamente recomendável comprar ingressos antecipados online e escolher o horário mais cedo para evitar as multidões de turistas.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Museu Belvedere (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "Aqui é o paraíso para os amantes da arte! O Belvedere abriga a célebre obra-prima de Gustav Klimt, 'O Beijo'. Além de admirar as pinturas impressionantes, a arquitetura barroca do palácio e o reflexo na água também são um lugar perfeito para os amantes da fotografia capturarem composições incríveis.",
+              "practical_tip": "💡 Dica do especialista: O museu é dividido entre o Belvedere Superior e o Belvedere Inferior; se o tempo for curto, recomenda-se visitar primeiro o Belvedere Superior.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Ópera Estadual de Viena (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "A alma de Viena é a música! Mesmo que você não seja fã de ópera, admirar a magnífica fachada do prédio já vale a pena. Após o anoitecer, o brilho da ópera iluminada é de tirar o fôlego. Se conseguir comprar ingresso para assistir a uma apresentação, será um dos momentos mais memoráveis da sua viagem cultural.",
+              "practical_tip": "💡 Dica do especialista: Para os viajantes que desejam economizar, é possível comprar 'standing tickets' (ingressos em pé), que são vendidos 80 minutos antes do espetáculo a preços muito acessíveis."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Dia 3: Cafés Alternativos e Vida Lenta nos Mercados",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Mercado de Naschmarkt (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "Este é o mercado ao ar livre mais animado de Viena, com tudo, desde frutas e legumes frescos até especiarias exóticas e queijos. Você pode explorar e degustar petiscos locais, sentindo a verdadeira vida urbana de Viena. É também um ótimo lugar para comprar souvenirs únicos.",
+              "practical_tip": "💡 Dica do especialista: Aos sábados há um mercado de pulgas, onde você pode encontrar numerosas antiguidades europeias, lembre-se de levar dinheiro em espécie."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Café Central (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "A cultura dos cafés em Viena é reconhecida como Patrimônio Imaterial da Humanidade, e o Café Central é o verdadeiro rei entre eles. Neste magnífico edifício histórico, peça um café vienense (Melange) e uma fatia de bolo Sacher e desfrute de uma tarde elegante.",
+              "practical_tip": "💡 Dica do especialista: A fila na entrada costuma ser longa. Recomendamos ir após às 15h ou fazer uma reserva online."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Prater",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "Suba na roda-gigante de Viena (Wiener Riesenrad), que tem mais de cem anos, e, enquanto gira lentamente, você poderá apreciar a vista noturna de toda a cidade. O ambiente retrô e encantador do parque de diversões é perfeito para encerrar sua penúltima noite com um espírito leve e alegre.",
+              "practical_tip": "💡 Dica do especialista: Na entrada da roda-gigante, há uma exposição sobre a história do local. Recomenda-se dedicar um tempo para visitá-la e aprender mais sobre o filme 'O Terceiro Homem'."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Dia 4: Compras e o Último Sabor de Viena",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Avenida Graben (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "Esta é a rua de compras mais luxuosa de Viena, ladeada por lojas centenárias e boutiques de luxo. Mesmo que você não compre nada, apreciar a coluna em memória da peste negra no centro da rua e as intricadas esculturas arquitetônicas pode fazer você sentir a rica herança de Viena como capital imperial.",
+              "practical_tip": "💡 Dica do especialista: Você pode encontrar várias marcas austríacas, como Swarovski ou o famoso chocolate Mozart, e não esqueça de fazer a devolução do imposto."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Museu de História da Arte (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "Este é um museu cuja arquitetura é tão fascinante quanto as próprias obras! A escadaria e o café internos são frequentemente considerados 'o mais belo café de museu do mundo'. Aqui, olhando as obras clássicas e saboreando um café, você se sentirá como se fosse um nobre de um retrato.",
+              "practical_tip": "💡 Dica do especialista: O café do museu é muito popular. Após a entrada, registre-se no café para aguardar sua vez antes de explorar as exibições.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Caminhada à Beira do Danúbio",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "Na última noite da sua viagem, caminhe à beira do Danúbio, assistindo ao pôr do sol refletir sobre as águas, com a brisa suave. Essa tranquilidade e serenidade é o último presente que Viena tem para você. Encontre um restaurante à beira do rio para o jantar e comemore esta perfeita viagem de 4 dias!",
+              "practical_tip": "💡 Dica do especialista: Para chegar ao Danúbio, você pode pegar o metrô da linha U1 e descer na estação Donauinsel, onde a vista é mais ampla."
+            }
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "seo_meta": {
+        "title": "【2026 فيينا جولة حرة】 أقوى خطة رحلة لمدة 4 أيام! دليل شامل للأماكن والنقل والأطعمة التي لا بد من تجربتها",
+        "description": "كيف يمكنك الاستمتاع بزيارتك الأولى إلى فيينا؟ هذا الدليل الشامل لمدة 4 أيام يتيح لك زيارة المعالم السياحية الضرورية، تجربة المأكولات المحلية، واستكشاف سحر مدينة الموسيقى الكلاسيكية."
+      },
+      "hero_section": {
+        "hook_intro": "مرحباً بكم في عاصمة الموسيقى - فيينا! هذه مدينة تدمج بين الأناقة الكلاسيكية والطاقة الحديثة بشكل مثالي، وعند التجول في شوارعها المرصوفة بالحصى، يبدو أنك تسمع أصداء موزارت وبيتهوفن. من القصور المذهلة إلى الأزقة المليئة برائحة القهوة، تستحق كل شبر من فيينا أن تستمتع به.\n\nفي هذه الخطة الرحلية لمدة 4 أيام و3 ليالٍ، اخترنا لك أهم المعالم الأثرية لعائلة هابسبورغ، والمعارض الفنية العالمية، وتجربة كعكة السخن التي لا يمكن تفويتها. دعونا نفتح الستار عن أسرار هذه المدينة الإمبراطورية ونبدأ رحلة لا تُنسى في أوروبا!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "اليوم الأول: استكشاف مجد الإمبراطورية ووسط المدينة القديم",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "كاتدرائية سانت ستيفن (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "كونها معلم روحي لفيينا، تتميز هذه الكاتدرائية القوطية بسقفها الملون الذي لا يُنسى. عند دخولك إلى الداخل، اشعر بأجواء الدين العظيمة، وندعوك بالتأكيد لتحدي نفسك وتسلق البرج الجنوبي، حيث يمكنك رؤية أسطح المدينة القديمة في فيينا، وهذا الشعور بالتأكيد يستحق صعود 343 درجة!",
+              "practical_tip": "💡 نصيحة: يفضل شراء تذكرة تشمل صعود البرج وتجنب زيارة قبل قداس يوم الأحد لتفادي تقييد الوصول إلى المنطقة."
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "قصر هوفبورغ (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "هذا هو القصر الشتوي لعائلة هابسبورغ، وهو أفضل مكان لتجربة التاريخ المجيد للإمبراطورية النمساوية المجرية. يمكنك زيارة متحف الأميرة سيسي، بالإضافة إلى رؤية مجموعة من أدوات الفضة الملكية الفاخرة. كل قاعة عرض مذهلة لدرجة أنك تشعر وكأنك عدت إلى عصر الكرات النبلاء.",
+              "practical_tip": "💡 نصيحة: نطاق هوفبورغ كبير جداً، يُنصح بتخصيص 3 ساعات على الأقل لذلك، وتنزيل تطبيق الدليل الصوتي مسبقاً لتعميق التجربة.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "Figlmüller قطع لحم الخنزير المقلي",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "إذا لم تتناول قطع لحم الخنزير المقلي في فيينا، فلا تقول أنك زرت المدينة! Figlmüller هو أشهر مطعم لشرائح لحم الخنزير، حيث يتم تقديم قطع لحم مقلي أكبر من حجم وجهك مع سلطة بطاطا منعشة، كل قضمة منه ترضي الحواس. لا تنسى أن تطلب كوباً من النبيذ الأبيض النمساوي، فهذا هو الأسلوب الأكثر أصالة.",
+              "practical_tip": "💡 نصيحة: تأكد من حجز طاولة عبر الموقع الرسمي قبل أسبوع، فغالباً ما تحتاج للانتظار أكثر من ساعة في الموقع."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "اليوم الثاني: القصور الجميلة وتأثير الفن",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "قصر شونبرون (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "يعتبر قصر شونبرون جواهر التاج في فيينا، وهو أحد مواقع التراث العالمي. يتميز هذا القصر الباروكي الرائع بحديقته الخلفية الجميلة ونافورته الكلاسيكية. استمتع بالتجول في الحدائق الواسعة ومشاهدة مناظر المدينة، واستشعر عظمة الحياة التي عاشتها الإمبراطورة ماريا تيريزا.",
+              "practical_tip": "💡 نصيحة: يُنصح بشدة بشراء تذكرة مسبقة عبر الإنترنت، واختيار أول وقت للدخول لتجنب حشود السياح من جميع أنحاء العالم.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "متحف بيلفيدير (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "هذا هو جنة عشاق الفن! يحتوي متحف بيلفيدير على التحفة الشهيرة لـ غوستاف كليمت ''العناق''. بجانب الاستمتاع باللوحات المدهشة، تُعد تصميمات المبنى الباروكي ونعكاسات المياه مكانًا مثاليًا لعشاق التصوير لالتقاط أجمل اللقطات.",
+              "practical_tip": "💡 نصيحة: يضم المتحف بيلفيدير قسماً علوياً وآخراً سفليًا، إذا كان وقتك محدوداً، يُفضل البدء بزيارة القسم العلوي أولاً.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "أوبرا فيينا (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "روح فيينا هي الموسيقى! حتى لو لم تكن من محبي الأوبرا، فإن مجرد تقدير هذه التحفة المعمارية يكفي. عندما يضيء الأوبرا في الليل، يصبح مشهدها باهراً، وإذا استطعت الحصول على تذكرة لحضور عرض ما، فسيكون ذلك الاغتسال الثقافي الأكثر تميزًا خلال رحلتك.",
+              "practical_tip": "💡 نصيحة: للمسافرين الذين يريدون التوفير، يمكن شراء ''تذاكر الوقوف'' (Standing tickets)، حيث يبدأ بيع التذاكر قبل 80 دقيقة من العرض، والأسعار منخفضة جداً."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "اليوم الثالث: مقاهي الأدب والأسواق البطيئة",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "سوق ناش (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "هذا هو أكثر الأسواق الخارجية حيوية في فيينا، حيث يتوفر كل شيء من الفواكه والخضروات الطازجة، والتوابل العالمية، إلى الجبن والحم. يمكنك التجول وتذوق الوجبات الخفيفة المحلية، واستشعار الحياة الحقيقية للمدينة، كما أنه مكان رائع لشراء الهدايا التذكارية الفريدة.",
+              "practical_tip": "💡 نصيحة: في يوم السبت، يوجد سوق للأشياء المستعملة، ويمكنك العثور على العديد من التحف الأوروبية، تذكر أخذ النقود معك."
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "المقهى المركزي (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "ثقافة المقاهي في فيينا تم إدراجها ضمن التراث الثقافي غير المادي لليونسكو، ويعتبر المقهى المركزي هو الملك بلا منازع. في هذا المبنى التاريخي الرائع، اطلب فنجانًا من قهوة فيينا (Melange) وقطعة من كعكة السخن، واستمتع بأمسية أنيقة.",
+              "practical_tip": "💡 نصيحة: يوجد طابور طويل عند المدخل، يُفضل زيارة بعد الساعة 3 مساءً، أو الحجز عبر النظام الإلكتروني."
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "حديقة براتر (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "اصعد على عجلة فيريس (Wiener Riesenrad) التي تعود لمئة عام، ومع دورانها البطيء، يمكنك رؤية جميع مناظر المدينة المقابلة. هذه الحديقة الترفيهية القديمة والخلابة ideal للتنزه في الليلة قبل الأخيرة من رحلتك، لتختم مغامرتك بمشاعر خفيفة ومبهجة.",
+              "practical_tip": "💡 نصيحة: عند مدخل العجلة، يوجد عرض تاريخي، يُفضل تخصيص وقت لزيارة هذا المعرض أيضًا، لفهم خلفية تصوير فيلم ''الرجل الثالث''."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "اليوم الرابع: تسوق واستمتع بآخر لمسات فيينا",
+          "activities": [
+            {
+              "time_slot": "صباحاً",
+              "spot_name": "شارع غرا بين (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "هذا هو أفخم شارع للتسوق في فيينا، حيث يضم العديد من المتاجر القديمة الفاخرة. حتى لو لم تكن تنوي التسوق، فإن مجرد تقدير عمود ذكرى الطاعون والتفاصيل المعمارية الرائعة في الشارع ستجعلك تشعر بعظمة فيينا كعاصمة إمبراطورية.",
+              "practical_tip": "💡 نصيحة: ستجد هنا العديد من العلامات التجارية النمساوية، مثل سواروفسكي أو الشوكولاتة الشهيرة لموزارت، تذكر أن تتقدم بطلب للحصول على استرداد ضريبي."
+            },
+            {
+              "time_slot": "ظهراً",
+              "spot_name": "متحف التاريخ الفني (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "هذا متحف يتميز تصميمه المعماري بالمشاهد المعروضة! تم الإشادة بالدور الكبير والسلم والكافيتريا بأنه ''أجمل كافيتريا في المتاحف بالعالم''. هنا، وأنت تستمتع باللوحات الكلاسيكية، تحتسي قهوتك، تشعر كأنك جزء من تلك الأعمال الفنية.",
+              "practical_tip": "💡 نصيحة: كافيتريا المتحف دائمًا مشغولة، يُفضل التسجيل للحصول على مقعد قبل البدء في زيارة المعرض.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "نزهة على ضفاف نهر الدانوب",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "في آخر ليلة من رحلتك، تمشى على ضفاف نهر الدانوب، وشاهد غروب الشمس يلقي بظلاله على سطح النهر، مع نسيم خفيف ينشر السكون والسلام، وهو الهدية الأخيرة التي تقدمها لك فيينا. ابحث عن مطعم على ضفاف النهر لتناول العشاء، واشرب نخب رحلتك الرائعة التي دامت لمدة 4 أيام!",
+              "practical_tip": "💡 نصيحة: يمكن الوصول إلى ضفاف نهر الدانوب عبر خط المترو U1، وينصح بالنزول في محطة Donauinsel، حيث المناظر أكثر اتساعاً."
+            }
+          ]
+        }
+      ]
+    },
+    "bn": {
+      "seo_meta": {
+        "title": "【2026 ভিয়েনা স্বাধীন ভ্রমণ】সর্বশ্রেষ্ঠ 4 দিনের itinerary পরিকল্পনার গাইড! দর্শনীয় স্থান, পরিবহন & খাবারের সুপারিশ",
+        "description": "প্রথমবার ভিয়েনা কিভাবে পরিদর্শন করবেন? এই সম্পূর্ণ 4 দিনের ভিয়েনা স্বাধীন ভ্রমণ গাইড আপনাকে অবশ্যই দর্শনীয় স্থানগুলিতে ঘোরাবে, স্থানীয় খাবার চেখে দেখতে বলবে এবং ক্লাসিকল সঙ্গীতের রাজধানীর রোমান্টিক আভাস অনুভব করতে দেবে।"
+      },
+      "hero_section": {
+        "hook_intro": "মিউজিকের রাজধানীতে আপনাকে স্বাগতম—ভিয়েনা! এটি একটি শহর যা প্রাচীন আনন্দোচ্ছলতা এবং আধুনিক জাঁকজমককে অসাধারণভাবে মিশ্রিত করে। ইটের রাস্তার উপর হাঁটলে, আপনি মনে করতে পারেন যে মজার্ট এবং বেটোভেনের প্রতিধ্বনি শোনা যাচ্ছে। উজ্জ্বল রাজপ্রাসাদ থেকে শুরু করে কফির সুবাসময় সাংস্কৃতিক গলিতে, ভিয়েনার প্রতিটি ইঞ্চি মাটি আপনার নিখুঁত সঙ্গীতের স্বাদ গ্রহণের যোগ্য।\n\nএই 4 দিনের 3 রাতের itinerary-তে, আমরা হাবসবার্গ রাজবংশের ঐতিহ্যবাহী স্থান, বিশ্বমানের শিল্প প্যালেস এবং অবশ্যই চেষ্টা করা উচিত সাচার কেকের অভিজ্ঞতা সহ সর্বাধিক বিখ্যাত কিছু স্থান নির্বাচন করেছি। এই গাইড অনুসরণ করে, চলুন একসাথে এই সাম্রাজ্য রাজধানীর রহস্য উন্মোচন করি এবং একটি স্মরণীয় ইউরোপীয় ভ্রমণ শুরু করি!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "দিন 1: সাম্রাজ্য গৌরব ও পুরানো শহরের কেন্দ্রের অনুসন্ধান",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "সেন্ট সোফিয়া ক্যাথেড্রাল (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "ভিয়েনার মানসিক মার্কার হিসাবে, এই গথিক ক্যাথেড্রালের রঙিন ছাদ দর্শকদের মনে প্রভাব ফেলে। ভেতরে প্রবেশ করে ধর্মীয় মহিমার অনুভূতি অনুভব করুন, দক্ষিণ টাওয়ারে উঠে ভিয়েনার পুরানো শহরের লাল টেরাকোটার ছাদগুলি দেখতে চ্যালেঞ্জ নিন, সেই অভিজ্ঞতা আপনার 343টি সিঁড়ি বেয়ে উঠার যোগ্য! ",
+              "practical_tip": "💡 দক্ষতার টিপ: টাওয়ারের সফরের টিকেট ক্রয় করা সুপারিশ করা হচ্ছে এবং রবিবারের প্রার্থনার সময়ে সেখানে যাওয়া থেকে বিরত থাকুন, কারণ দর্শনের এলাকা সীমাবদ্ধ হতে পারে।"
+            },
+            {
+              "time_slot": "বিকাল",
+              "spot_name": "হফবুর্গ প্রাসাদ (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "এটি হাবসবার্গ রাজবংশের শীতকালীন প্রাসাদ, এবং অস্ট্রো-হাঙ্গেরিয়ান সাম্রাজ্যের গৌরবময় ইতিহাস অনুভব করার জন্য সর্বোত্তম জায়গা। আপনি সিশি প্রিন্সেস যাদুঘর পরিদর্শন করতে পারেন এবং রাজরানের বিলাসবহুল রূপালী সামগ্রীর সংগ্রহও দেখতে পারেন। প্রতিটি প্রদর্শনী কক্ষ শ্বাসরুদ্ধকর এবং মনে হয় আপনি সেই আভিজাত্যপূর্ণ বলের যুগে ফিরে গিয়েছেন।",
+              "practical_tip": "💡 দক্ষতার টিপ: হফবুর্গ প্রাসাদ খুব বড়, অন্তত 3 ঘণ্টা সময় নিন এবং দর্শনের অভিজ্ঞতা বাড়ানোর জন্য একটি অডিও গাইড অ্যাপস ডাউনলোড করে নিন।",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "Figlmüller স্টেক",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "ভিয়েনায় এসে স্টেক না খেলে, আপনি আসলে এখানে আসেননি! Figlmüller স্থানীয় সবচেয়ে প্রখ্যাত স্টেক রেস্তোরাঁ, যা মুখের চেয়ে বড় দানাদার স্টেক এবং তাজা আলু স্যালাড দিয়ে পরিবেশন করা হয়, প্রতিটি কামড়ে সুখের অনুভূতি। একটি গ্লাস অস্ট্রিয়ান সাদা ওয়াইন যোগ করা মনে রাখবেন, এটি এটি খাওয়ার সবচেয়ে প্রামাণিক পদ্ধতি।",
+              "practical_tip": "💡 দক্ষতার টিপ: অফিসিয়াল ওয়েবসাইটে অন্তত এক সপ্তাহ আগে রিজার্ভেশন করা উচিত, কারণ লাইনে দাঁড়ানোর সময় প্রায় এক ঘণ্টার বেশি লাগতে পারে।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "দিন 2: দুর্দান্ত প্রাসাদ এবং শিল্পের প্রভাব",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "শোনব্রুন প্রাসাদ (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "শোনব্রুন প্রাসাদ ভিয়েনার মুকুটের রত্ন, এবং এটি বিশ্ব ঐতিহ্যের একটি অঙ্গ। এই বারোক স্টাইলের দৃষ্টিনন্দন প্রাসাদে সুন্দর উপশহরের বাগান এবং বিজয় স্তম্ভ রয়েছে। বাগানে হাঁটতে থাকুন, ভিয়েনার শহরের দৃশ্য দেখতে পারেন এবং প্রতিষ্ঠার সময় মারিয়া থেরেসিয়ার মৌলিক জীবনযাত্রায় অনুভব করতে পারেন।",
+              "practical_tip": "💡 দক্ষতার টিপ: অনলাইনে প্রাক-ক্রীড়ার টিকেট ক্রয় করা খুবই গুরুত্বপূর্ণ, সবচেয়ে প্রথমের সময় টিকেট নেওয়া পরামর্শ দেওয়া হয়, যাতে বিশ্বের নানা দেশ থেকে আসা পর্যটকদের ভিড় এড়ানো যায়।",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "বিকাল",
+              "spot_name": "বেলভেডিয়ার যাদুঘর (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "এটি শিল্পপ্রেমীদের স্বর্গ! বেলভেডিয়ার যাদুঘরে গুশ্টাভ ক্লিম্টের একটি অসামান্য রচনা 'কিস' স্থান পেয়েছে। হৃদয় স্পর্শ করা ছবির প্রশংসা করার পাশাপাশি, প্রাসাদটির বারোক স্থাপত্য নকশা এবং জলাধারের প্রতিফলনও ফটোগ্রাফারদের জন্য এবং ভালো কাঠামোর অনুসন্ধানে বিশাল স্থান।",
+              "practical_tip": "💡 দক্ষতার টিপ: যাদুঘরটি উপরের বেলভেডিয়ার এবং নিচের বেলভেডিয়ার-তে বিভক্ত, যদি সময় সীমিত থাকে, তাহলে উপরের বেলভেডিয়ার প্রথমে দেখতে যাওয়ার পরামর্শ দেওয়া হয়।",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "ভিয়েনা স্টেট অপেরা (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "ভিয়েনার আত্মা হলো সঙ্গীত! যদিও আপনি অপেরা প্রেমী না হন, এই মহান স্থাপত্যের বাইরের দৃশ্যের প্রশংসা করাও যথেষ্ট। রাতের সময় আলো জ্বলজ্বল করার পর, অপেরা হলটি তার সোনালী রূপে আনন্দময় হয়ে ওঠে, যদি আপনি একটি টিকেট ক্রয় করে একটি অনুষ্ঠান দেখতে সক্ষম হন, এটি আপনার এই ভ্রমণের অন্যতম স্মরণীয় সাংস্কৃতিক অভিজ্ঞতা হবে।",
+              "practical_tip": "💡 দক্ষতার টিপ: যারা অর্থ সাশ্রয় করতে চান তাদের জন্য 'স্ট্যান্ডিং টিকেট' কিনতে পারেন। অনুষ্ঠান শুরু হওয়ার 80 মিনিট আগে বিক্রি হয় এবং দাম অত্যন্ত সাধ্যের মধ্যে।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "দিন 3: সাংস্কৃতিক ক্যাফে এবং বাজারের ধীর গতির জীবন",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "নাচ মার্কেট (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "এটি ভিয়েনার সবচেয়ে জনবহুল খোলামেলা বাজার, যেখানে তাজা শাকসবজি, বিদেশী মশলা থেকে শুরু করে পনির এবং হ্যাম সব কিছু রয়েছে। আপনি স্থানীয় খাবারগুলি স্বাদ নিতে পারেন এবং ভিয়েনার শহুরে জীবনের সত্যিকার চিত্র দেখতে পারেন, এটা বিশেষ স্মারক কেনার জন্যও একটি ভাল জায়গা।",
+              "practical_tip": "💡 দক্ষতার টিপ: শনিবারে ফ্লি মার্কেট হয়, তাই ইউরোপের পুরানো ছোট জিনিসগুলুকেও খুঁজে পেতে পারেন, নগদ অর্থ নিয়ে যাওয়া বিষয়টি মনে রাখবেন।"
+            },
+            {
+              "time_slot": "বিকাল",
+              "spot_name": "সেন্ট্রাল ক্যাফে (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "ভিয়েনার ক্যাফে সংস্কৃতিকে জাতিসংঘের অমৌলিক সাংস্কৃতিক ঐতিহ্য হিসেবে তালিকাভুক্ত করা হয়েছে এবং কেন্দ্রীয় ক্যাফে এমনি রাজা। এই ঐতিহাসিক দালানে, এক কাপ ভিয়েনা কফি (মেলাঞ্জ) এবং একটি সাচার কেক অর্ডার করুন এবং একটি উজ্জ্বল বিকেল সময় কাটান।",
+              "practical_tip": "💡 দক্ষতার টিপ: ভিড়ের মানুষের জন্য পরামর্শ দেওয়া হচ্ছে, বিকেল ৩টার পরে আসবেন, অথবা অনলাইন সিস্টেমের মাধ্যমে বুকিং করুন।"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "প্রাটার (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "শত বছরের পুরনো ভিয়েনা চক্রবিন্দু (Wiener Riesenrad) তে চড়ুন এবং ধীর গতিতে ঘুরতে থাকুন, পুরো শহরের রাতের দৃশ্য আপনার সামনে আসবে। এই জন্যও একটি পুরনো এবং আকর্ষণীয় পার্কের আবহ রয়েছে, এইটা আপনার ভ্রমণের দ্বিতীয় রাতকে সুন্দরভাবে শেষ করার জন্য আদর্শ।",
+              "practical_tip": "💡 দক্ষতার টিপ: চক্রবিন্দুর প্রবেশের দরজার কাছে ঐতিহাসিক প্রদর্শনীগুলি রয়েছে, সময় বরাদ্দ করার জন্য একটি এইসব দেখে নেওয়া উচিত, এবং 'দ্য থার্ড ম্যান' সিনেমার সিনেমাটোগ্রাফির প্রেক্ষাপট জানতে পারবেন।"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "দিন 4: শপিং ও ভিয়েনার শেষ অভিজ্ঞতা",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "গ্রাবেন (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "এটি ভিয়েনার সবচেয়ে বিলাসবহুল শপিং স্ট্রিট, দুই পাশে শতাব্দী প্রাচীন দোকান এবং ব্র্যান্ডের শোরুম। যদিও কেনাকাটা না করলেও, রাস্তার কেন্দ্রে দাম্ভিকতার স্মৃতিসৌধ এবং সূক্ষ্ম স্থাপত্যের খোদাই দেখেও আপনি ভিয়েনার রাজকীয় রাজধানীর শক্তিশালী ঐতিহ্য অনুভব করতে পারেন।",
+              "practical_tip": "💡 দক্ষতার টিপ: এখানে আপনার অনেক অস্ট্রিয়ান ব্র্যান্ডের যেমন Swarovski বা বিখ্যাত মজার্ট চকলেট খুঁজে পাবেন, ভ্যাট ফেরত নিতে মনে রাখবেন।"
+            },
+            {
+              "time_slot": "বিকাল",
+              "spot_name": "শিল্প ইতিহাস যাদুঘর (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "এটি একটি যাদুঘর যা স্থাপত্যের মাধ্যমে প্রদর্শন জিনিসগুলির থেকেও উল্লেখযোগ্য! যাদুঘরের মহান সিঁড়ি এবং ক্যাফে 'বিশ্বের সবচেয়ে সুন্দর যাদুঘরের ক্যাফে' হিসেবে স্বীকৃত। এখানে ক্লাসিক শিল্পকর্ম দেখা, কফি পান করা, যেন আপনি চিত্রের অভিজাত।",
+              "practical_tip": "💡 দক্ষতার টিপ: যাদুঘরের ক্যাফে খুব জনপ্রিয়, প্রবেশের পর সেখানকার ক্যাফেতে নিবন্ধন শুভ কাজ হবে, তারপর প্রদর্শনী এলাকা ঘুরে দেখুন।",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "ডেনিউব নদীর তীরে হাঁটা",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "এই যাত্রার শেষ রাতে, ডেনিউব নদীর তীরে হাটুন, সূর্যাস্ত নদীর পানিতে দেয়ার দৃশ্য দেখুন, এবং হালকা বাতাসের অনুভূতি গ্রহণ করুন, এই শান্তি আর প্রশান্তি হলো ভিয়েনা আপনার কাছে শেষ উপহার। নদীর ধারে একটি রেস্তোরাঁ খুঁজে সন্ধ্যার খাবার গ্রহণ করুন, এই 4 দিনের নিখুঁত যাত্রার জন্য আপনার আনন্দ উত্সব করুন!",
+              "practical_tip": "💡 দক্ষতার টিপ: ডেনিউব নদীর তীরে পৌঁছাতে, U1 মেট্রো ব্যবহার করুন এবং Donauinsel স্টেশনে নেমে যান, দৃশ্যটি সবচেয়ে প্রশস্ত।"
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "seo_meta": {
+        "title": "【2026 Вена Свободное путешествие】 Самый мощный план 4-дневного маршрута для ленивых! Транспорт и всё о достопримечательностях",
+        "description": "Как развлечься в Вене в первый раз? Этот суперполный гид по 4 дням свободного путешествия по Вене поможет посетить все обязательные достопримечательности, попробовать местную кухню и ощутить романтическое очарование столицы классической музыки."
+      },
+      "hero_section": {
+        "hook_intro": "Добро пожаловать в музыкальную столицу — Вену! Этот город, идеально сочетающий классическую элегантность и современную динамичность, заставляет вас услышать отголоски Моцарта и Бетховена, когда вы гуляете по мощёным булыжником улицам. От блестящих императорских дворцов до наполненных кофе уютных улочек, каждый сантиметр Вены заслуживает вашего внимания.\n\nВ этом 4-дневном, 3-ночном маршруте мы выбрали самые классические памятники династии Габсбургов, мировые художественные залы, а также незабываемый опыт с тортом захер. Следуйте этому гиду, и мы вместе раскроем загадочную завесу этой имперской столицы, отправившись в незабываемое путешествие по Европе!",
+        "hero_image_keyword": "Vienna St. Stephen's Cathedral aerial view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "День 1: Исследование имперской славы и старого города",
+          "activities": [
+            {
+              "time_slot": "Утром",
+              "spot_name": "Собор святого Стефана (St. Stephen's Cathedral)",
+              "image_search_keyword": "St. Stephen's Cathedral Vienna interior",
+              "rich_description": "Будучи духовным символом Вены, этот готический собор с цветной крышей оставляет незабываемое впечатление. Заходя внутрь, вы почувствуете величественный религиозный дух, и обязательно попробуйте подняться на южную башню, чтобы увидеть красные черепичные крыши старого города Вены — этот потрясающий вид точно стоит того, чтобы подняться на 343 ступеньки!",
+              "practical_tip": "💡 Совет от эксперта: рекомендуется приобрести комбинированный билет с подъемом на башню и избегать визита в выходные во время богослужений, чтобы не ограничивать доступ к экскурсионной зоне."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Дворец Хофбург (Hofburg Palace)",
+              "image_search_keyword": "Hofburg Palace Vienna",
+              "rich_description": "Это зимняя резиденция Габсбургов и лучшее место для погружения в величественную историю Австро-Венгрии. Здесь можно не только посетить музей принцессы Сиси, но и увидеть роскошную коллекцию серебряной утвари. Каждая выставка настолько изысканна, что кажется, что вы возвращаетесь в тот период, когда были популярны аристократические балы.",
+              "practical_tip": "💡 Совет от эксперта: территория Хофбурга очень большая, рекомендуем выделить не менее 3 часов и заранее скачать приложение с аудиогидом для более глубокого осмотра.",
+              "needsTicket": true,
+              "klookQuery": "Hofburg Palace Vienna"
+            },
+            {
+              "time_slot": "Вечером",
+              "spot_name": "Фигльмюллер (Figlmüller)",
+              "image_search_keyword": "Figlmuller Schnitzel Vienna",
+              "rich_description": "Если вы не попробовали шницель во время пребывания в Вене, то не можете сказать, что были здесь! Figlmüller — это легендарный ресторан шницелей, где подают хрустящие шницели размером с лицо и свежий картофельный салат — каждое укусе вызывает восторг. Не забудьте заказать бокал австрийского белого вина — это самая правильная подача.",
+              "practical_tip": "💡 Совет от эксперта: обязательно заранее забудьте столик на сайте ресторана, так как очередь на месте может занять свыше 1 часа."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "День 2: Удивительные дворцы и художественная атмосфера",
+          "activities": [
+            {
+              "time_slot": "Утром",
+              "spot_name": "Дворец Шёнбрунн (Schönbrunn Palace)",
+              "image_search_keyword": "Schonbrunn Palace gardens",
+              "rich_description": "Дворец Шёнбрунн — это венец Вены и одно из объектов всемирного наследия. Этот роскошный барочный дворец имеет невероятные сады и триумфальную арку. Пройдя по открытым паркам, насладитесь панорамным видом на Вены и почувствуйте величие жизни императрицы Марии Терезии.",
+              "practical_tip": "💡 Совет от эксперта: настоятельно рекомендуется приобрести заранее билет через интернет и выбрать ранний временной слот для входа, чтобы избежать потоков туристов со всего мира.",
+              "needsTicket": true,
+              "klookQuery": "Schonbrunn Palace gardens"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Музей Бельведер (Belvedere Museum)",
+              "image_search_keyword": "Gustav Klimt The Kiss painting",
+              "rich_description": "Это рай для ценителей искусства! Музей Бельведер хранит величайшее творение Густава Климта — 'Поцелуй'. Кроме потрясающих картин, барочная архитектура музея и отражения в прудах также станут идеальным местом для фотографов.",
+              "practical_tip": "💡 Совет от эксперта: музей делится на верхний и нижний Бельведер, и если у вас ограничено время, настоятельно рекомендуется сначала посетить верхний Бельведер.",
+              "needsTicket": true,
+              "klookQuery": "Gustav Klimt The Kiss painting"
+            },
+            {
+              "time_slot": "Вечером",
+              "spot_name": "Венская государственная опера (Vienna State Opera)",
+              "image_search_keyword": "Vienna State Opera building night",
+              "rich_description": "Душа Вены — это музыка! Даже если вы не являетесь фанатом оперы, достаточно только увидеть этот великолепный архитектурный шедевр снаружи. Когда вечером опера освещается, она сверкает, и если вам удастся купить билет на представление, это станет вашим самым незабываемым культурным опытам за всю поездку.",
+              "practical_tip": "💡 Совет от эксперта: путешественники, стремящиеся сэкономить, могут приобрести 'стоячиe билеты (Standing tickets)', которые доступны за 80 минут до начала представления по весьма доступной цене."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "День 3: Уютные кафе и спокойные рынки",
+          "activities": [
+            {
+              "time_slot": "Утром",
+              "spot_name": "Нашмаркт (Naschmarkt)",
+              "image_search_keyword": "Naschmarkt food market Vienna",
+              "rich_description": "Это самый оживленный открытый рынок Вены, где представлены свежие фрукты, экзотические специи и сыровяленый хамон. Вы можете обойти рынок и попробовать местные деликатесы, наслаждаясь подлинным образом жизни венцев; это также отличное место для покупки уникальных сувениров.",
+              "practical_tip": "💡 Совет от эксперта: в субботу на рынке проходит блошиный рынок, где вы можете найти много европейских антикварных вещей, не забудьте взять наличные."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Кафе Централь (Café Central)",
+              "image_search_keyword": "Cafe Central Vienna interior",
+              "rich_description": "Кафейная культура Вены была занесена в список нематериального культурного наследия ЮНЕСКО, а Кафе Централь — безусловный король среди них. В этом великолепном историческом здании закажите венский кофе (Melange) и кусочек торта Захер, наслаждаясь изысканным послеобеденным временем.",
+              "practical_tip": "💡 Совет от эксперта: перед входом может быть много людей в очереди, рекомендуем приходить после 3 часов дня или забронировать столик через онлайн-систему."
+            },
+            {
+              "time_slot": "Вечером",
+              "spot_name": "Пратер (Prater)",
+              "image_search_keyword": "Wiener Riesenrad Ferris wheel",
+              "rich_description": "Поднимитесь на Венском колесе обозрения (Wiener Riesenrad) с 100-летней историей и насладитесь вечерним видом на весь город, медленно вращаясь. Здесь царит ностальгическая и очаровательная атмосфера аттракционов, что очень подходит для расслабляющей и веселой вечеринки на предпоследнюю ночь вашего путешествия.",
+              "practical_tip": "💡 Совет от эксперта: у входа в колесо обозрения есть выставка истории, рекомендуем выделить время, чтобы ее посетить и узнать о съемках фильма 'Третий человек'."
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "День 4: Шопинг и последние штрихи венского очарования",
+          "activities": [
+            {
+              "time_slot": "Утром",
+              "spot_name": "Грабен (Graben)",
+              "image_search_keyword": "Graben street Vienna shopping",
+              "rich_description": "Это самая дорогая улица для шопинга в Вене, по обе стороны которой расположены百年 старинные магазины и флагманские бутики. Даже если вы не покупаете ничего, только наслаждаясь памятником чумы и изысканными архитектурными украшениями, вы почувствуете богатое наследие Вены как имперской столицы.",
+              "practical_tip": "💡 Совет от эксперта: здесь можно найти много австрийских брендов, таких как Swarovski или знаменитый шоколад Моцарта, не забудьте оформить возврат НДС."
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Музей истории искусства (Kunsthistorisches Museum)",
+              "image_search_keyword": "Kunsthistorisches Museum Vienna interior",
+              "rich_description": "Это музей, здание которого само по себе более впечатляющее, чем выставленные экспонаты! Его главная лестница и кафе признаны 'самыми красивыми музейными кафе в мире'. Здесь, наслаждаясь классическими картинами и кофе, вы почувствуете себя тоже как аристократ из картины.",
+              "practical_tip": "💡 Совет от эксперта: кафе в музее очень популярно, после входа сначала зарегистрируйтесь в кафе, чтобы занять место, а затем посетите выставочные залы — это самый умный подход.",
+              "needsTicket": true,
+              "klookQuery": "Kunsthistorisches Museum Vienna interior"
+            },
+            {
+              "time_slot": "Вечером",
+              "spot_name": "Прогулка вдоль Дуная",
+              "image_search_keyword": "Danube river sunset Vienna",
+              "rich_description": "В последний вечер путешествия прогуляйтесь вдоль Дуная, наблюдая за закатом на реке, ощутите легкий ветер. Эта тишина и спокойствие — последний подарок, который Вена оставляет вам. Найдите ресторан у реки и насладитесь ужином, поднимая тост за ваше идеальное 4-дневное путешествие!",
+              "practical_tip": "💡 Совет от эксперта: до Дуная можно доехать на метро U1, выйдя на станции Donauinsel, где открывается самый потрясающий вид."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

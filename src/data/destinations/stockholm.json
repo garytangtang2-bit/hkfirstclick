@@ -1,0 +1,858 @@
+{
+  "seo_meta": {
+    "title": "2026 Stockholm 2-Day Guide — ABBA Museum, Archipelago & Scandinavian Design",
+    "description": "第一次去 斯德哥爾摩 怎麼玩？這篇超完整的 2 天 斯德哥爾摩 自由行攻略，帶你一次逛完必去景點、品嚐在地美食..."
+  },
+  "hero_section": {
+    "hook_intro": "歡迎來到「北歐威尼斯」！斯德哥爾摩由 14 座島嶼組成，交織著古老的中世紀巷弄與現代北歐設計。這座城市完美平衡了歷史底蘊與時尚潮流，是每個旅人一生必訪的夢幻國度。🇸🇪\n\n這份 2 天精華行程將帶你深入舊城區的紅磚建築，並走訪世界級的博物館，最後在斯德哥爾摩群島的夕陽下畫下完美句點。準備好你的相機，跟著我一起探索這座讓全世界驚豔的北歐之都吧！✨",
+    "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+  },
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "day_title": "Day 1：穿越中世紀，漫步舊城與皇室風華",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "斯德哥爾摩舊城區 (Gamla Stan)",
+          "image_search_keyword": "Gamla Stan Stockholm streets",
+          "rich_description": "走進 Gamla Stan，彷彿一腳踏進了中世紀的童話世界！這裡是斯德哥爾摩的心臟，狹窄的鵝卵石街道兩旁盡是色彩繽紛的紅黃色建築。清晨時分人潮較少，非常適合在這裡拍出零路人的復古美照。別忘了在轉角處尋找隱藏的小店，買一份手工製作的瑞典傳統糖果，開啟元氣滿滿的一天！📸",
+          "practical_tip": "💡 達人小提示：一定要走到 Mårten Trotzigs gränd，這是城裡最窄的一條小巷，是極佳的打卡熱點！"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "斯德哥爾摩王宮 (Royal Palace)",
+          "image_search_keyword": "Stockholm Royal Palace guard",
+          "rich_description": "來到瑞典怎能不看皇宮？這座擁有 600 多個房間的巴洛克式巨作，展現了瑞典皇室的威嚴與奢華。推薦一定要預留時間觀看中午的「衛兵交接儀式」，那整齊劃一的步伐與充滿儀式感的軍樂，絕對讓你熱血沸騰！館內展示的歷代皇冠與珠寶更是讓人目不暇給，彷彿置身於歐洲宮廷影集中。👑",
+          "practical_tip": "💡 達人小提示：建議購買組合門票，可以同時參觀旁邊的寶庫（Treasury），裡面收藏了瑞典國王的皇冠。",
+          "needsTicket": true,
+          "klookQuery": "Stockholm Royal Palace guard"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "舊城區瑞典肉丸料理 (Tradition)",
+          "image_search_keyword": "Swedish meatballs lingonberry sauce",
+          "rich_description": "玩了一整天，晚餐絕對要獻給最正宗的「瑞典肉丸」！搭配靈魂配角——越橘果醬（Lingonberry jam）與濃郁的奶油醬汁，這酸甜鹹香的滋味絕對讓你一吃就愛上。在充滿暖黃燈光的舊城餐廳內，品嚐這道國民美食，感受瑞典人對於生活品質的堅持與熱情，這才是最道地的瑞典式晚餐！🍽️",
+          "practical_tip": "💡 達人小提示：熱門餐廳建議提前在官網預約，否則現場排隊可能需要等候 30-60 分鐘喔。"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "Day 2：海上博物館巡禮，體驗北歐極致設計",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "瓦薩沈船博物館 (Vasa Museum)",
+          "image_search_keyword": "Vasa Museum ship",
+          "rich_description": "這絕對是斯德哥爾摩最震撼的博物館！館內展示著 17 世紀保存最完整的瓦薩號沈船，整艘軍艦幾乎 95% 都是原始結構，巨大的船身在昏暗的燈光下顯得無比壯觀。這段關於沉沒與重生的傳奇歷史，絕對會讓你大開眼界，是斯德哥爾摩自由行絕對不能錯過的必訪清單第一名！🚢",
+          "practical_tip": "💡 達人小提示：博物館人潮極多，建議上午開門時就抵達，避開下午的旅行團高峰。",
+          "needsTicket": true,
+          "klookQuery": "Vasa Museum ship"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "斯堪森露天博物館 (Skansen)",
+          "image_search_keyword": "Skansen Open Air Museum",
+          "rich_description": "這裡是世界上第一座露天博物館，佔地廣大，完美重現了瑞典昔日的傳統農村生活。你可以在這裡看到可愛的北歐動物（如麋鹿和馴鹿），還能參觀古老的木造房舍與工藝作坊。走在綠意盎然的園區內，彷彿穿越時空回到過去，非常適合下午時段輕鬆漫步，呼吸北歐清新的空氣。🦌",
+          "practical_tip": "💡 達人小提示：若帶小孩同行，一定要去園區內的兒童動物園區，互動性極高！",
+          "needsTicket": true,
+          "klookQuery": "Skansen Open Air Museum"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "斯德哥爾摩地鐵藝術巡禮 (Stockholm Metro Art)",
+          "image_search_keyword": "Stockholm metro station art",
+          "rich_description": "最後一站，我們來搭地鐵！斯德哥爾摩的地鐵系統被譽為「世界最長的藝術畫廊」，每個車站都有獨特的裝置藝術與壁畫。從 T-Centralen 站的藍色牆面，到 Kungsträdgården 站的考古遺跡風格，每一站都精彩絕倫。不用買昂貴的門票，只要一張地鐵票，就能讓你拍到手軟，為這趟旅程畫下充滿藝術氣息的句點！🎨",
+          "practical_tip": "💡 達人小提示：購買 SL 的 24 小時交通券最划算，可以無限次進出地鐵站拍照，記得挑選離峰時段去拍比較好構圖。"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "bn": {
+      "seo_meta": {
+        "title": "【2026 স্টকহোম স্বাধীন যাত্রা】সর্বশক্তিশালী 2 দিনের ভ্রমণ পরিকল্পনা লাইফহ্যাক! দর্শনীয় স্থান, পরিবহন ও অপরিহার্য খাদ্য গাইড",
+        "description": "প্রথমবার স্টকহোমে যাবেন কিভাবে? এই অত্যন্ত সম্পূর্ণ 2 দিনের স্টকহোম স্বাধীন যাত্রার গাইড, আপনাকে অপরিহার্য দর্শনীয় স্থানগুলো ঘুরিয়ে দেখাবে, স্থানীয় খাবার স্বাদ নেওয়ার সুযোগ দেবে..."
+      },
+      "hero_section": {
+        "hook_intro": "স্বাগতম ‘উত্তরীয় ভেনিস’-এ! স্টকহোম 14 টি দ্বীপ নিয়ে গঠিত, মধ্যযুগীয় গলির প্রাচীনতা ও আধুনিক উত্তরীয় ডিজাইন একত্রে আছে। এই শহর ইতিহাসের গভীরতা ও ফ্যাশনের প্রবাহের মাঝে নিখুঁত ভারসাম্য বজায় রাখে, এটি প্রতিটিTraveler-এর জীবনে একবার দেখা আবশ্যক একটি স্বপ্নের দেশ।🇸🇪\n\nএই 2 দিনের সংক্ষিপ্ত ভ্রমণ পরিকল্পনা আপনাকে পুরাতন শহরের লাল ইটের স্থাপত্যের ভিতরে গভীরভাবে নিয়ে যাবে এবং বিশ্বমানের জাদুঘরগুলোর দর্শন করাবে, শেষ পর্যন্ত স্টকহোম দ্বীপপুঞ্জের সূর্যাস্তের নিচে একটি চমৎকার সমাপ্তি টানবে। আপনার ক্যামেরা প্রস্তুত রাখুন, আমার সাথে এই বিস্ময়কর উত্তরীয় রাজধানী অনুসন্ধানে আসুন!✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "দিন ১: মধ্যযুগে যাত্রা, পুরনো শহর ও রাজকীয় জাঁকজমকে হেঁটে বেড়ানো",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "Gamla Stan",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Gamla Stan-এ প্রবেশ করলেই মনে হবে যেন মধ্যযুগের কাহিনীর জগতে পদার্পণ করলেন! এখানে স্টকহোমের হৃদপিণ্ড, সরু প鹅卵石ের রাস্তাগুলোতে রঙ-বেরঙের লাল-হলুদ ভবনগুলো রয়েছে। সকালে লোকজন কম থাকে, এখানে জিরোনি ছবি তোলার জন্য এটি খুবই উপযুক্ত। কোণায় একটি গোপন দোকান খুঁজে বের করে সুইডিশ ঐতিহ্যবাহী ক্যান্ডি কিনতে ভুলবেন না, একটি শক্তিশালী দিন শুরু করুন!📸",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: Mårten Trotzigs gränd-এ যাওয়া নিশ্চিত করুন, এটি শহরের সবচেয়ে সংকীর্ণ গলিপথ, খুবই চমৎকার একটি চিহ্নিতকরণ স্থান!"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "রাজকীয় প্রাসাদ (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "সুইডেনে এসেছেন আর রাজকীয় প্রাসাদ দেখবেন না, তা কি হয়? 600-এর বেশি ঘর নিয়ে গঠিত এই বারোক স্টাইলের বৃহৎ স্থাপনা সুইডিশ রাজকীয়তার গম্ভীরতা ও বিলাসিতা প্রদর্শন করে। মধ্যাহ্ণের 'গার্ড পাল্টানো অনুষ্ঠানে' সময় বরাদ্দ করার জন্য সুপারিশ করছি, সেই নিবিড় পদক্ষেপ ও আচার-অনুষ্ঠানের সংগীত আপনাকে আবেগময় করে তুলবে! প্রাসাদে প্রদর্শিত বিভিন্ন যুগের تاج ও গহনা আপনার চোখ যেন খুলে দেবে, মনে হবে যেন ইউরোপের দরবারের ছবির মাঝে আপনি রয়েছেন।👑",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: একটি কম্বো টিকিট কিনতে পরামর্শ দেওয়া হচ্ছে, এতে পাশের ট্রেজারিও (Treasury) দেখতে পারবেন, যেখানে সুইডিশ রাজাদের টুকরো সংরক্ষিত রয়েছে।",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "পুরান শহরের সুইডিশ মিটবলের রেস্তোঁরা (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "একদিন ঘোরাঘুরি করে সন্ধ্যার খাবার অবশ্যই সবচেয়ে আসল 'সুইডিশ মিটবল'-কে অফার করতে হবে! এটি সঙ্গী হিসাবে সাইল কাটলেটের সঙ্গে (Lingonberry jam) ও ঘন ক্রিম সস নিয়ে সেবা করা হয়, এই টক-মিষ্টি-লবণাক্ত স্বাদ একবারে আপনাকে প্রেমে ফেলবে। অতি সুন্দর গোলাপী লাইটের পুরান শহরের রেস্তারাঁয় এই জাতীয় জাতীয় খাবারটি উপভোগ করুন, সুইডিশদের জীবনের প্রতি কঠোরতা ও উদ্দীপনা অনুভব করুন, এটাই সবচেয়ে আসল সুইডিশ রাতের খাবার!🍽️",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: জনপ্রিয় রেস্তোঁরাগুলোর জন্য আগে থেকে অফিসিয়াল ওয়েবসাইটে বুকিং দেওয়ার পরামর্শ, নাহলে লাইনে দাঁড়াতে 30-60 মিনিট অপেক্ষা করতে হতে পারে।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "দিন ২: জলবাস্তু জাদুঘরের পরিক্রমা, উত্তরীয় চরম ডিজাইনের অভিজ্ঞতা",
+          "activities": [
+            {
+              "time_slot": "সকাল",
+              "spot_name": "ভাসা জাদুঘর (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "এটি নিঃসন্দেহে স্টকহোমের সবচেয়ে বিস্ময়কর জাদুঘর! এখানে 17 শতকের সবচেয়ে সুরক্ষিত ভাসা জাহাজ প্রদর্শিত আছে, পুরো জাহাজের 95% মূল কাঠামো। বিশাল জাহাজটি অন্ধকারে উজ্জ্বল দেখাচ্ছে। এই ডুবে যাওয়া ও পুনর্জন্মের কাহিনী আপনার দৃষ্টিকে বিস্মৃত করবে, স্টকহোমের স্বাধীন যাত্রায় এটি অবশ্যই খেলার তালিকার প্রথম স্থান!🚢",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: জাদুঘরে বেশী ভিড় থাকে, সকাল খোলার সময়ে সেখানে পৌঁছানোর জন্য পরামর্শ, দুপুরের ভ্রমণ দলের সময় কাটিয়ে ওঠার জন্য।",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "বিকেল",
+              "spot_name": "স্কানসেন (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "এটি বিশ্বের প্রথম খোলা-আকাশ জাদুঘর, বড় এলাকা জুড়ে প্রসারিত, সুইডেনের ঐতিহ্যগত গ্রামীণ জীবনকে সঠিকভাবে পুনঃনির্মাণ করেছে। এখানে আপনি বিঘ বড় উত্তরীয় প্রাণীগুলি (যেমন মহিষ ও রেন) দেখতে পারবেন, এবং প্রাচীন কাঠের বাসস্থান ও কারখানা পরিদর্শন করতে পারবেন। সতেজ গ্রীন গার্ডেনে হাঁটার সময়, যেন সময়ের উলটো দিকে আকৃতি তৈরি হতে থাকে, খুবই উপযুক্ত বিকেলের সময়ে হালকা টহল দেওয়ার জন্য, উত্তরীর সতেজ বাতাস শ্বাস নিতে।🦌",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: যদি শিশুরা থাকে, তাহলে পার্কের শিশুরা প্রাণী উদ্যানে যাওয়া নিশ্চিত করুন, এটি খুব ইন্টারঅ্যাকটিভ!"
+            },
+            {
+              "time_slot": "রাত",
+              "spot_name": "স্টকহোম মেট্রোর শিল্প ভ্রমণ (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "শেষ স্টপে আমরা মেট্রোতে চড়তে যাচ্ছি! স্টকহোমের মেট্রো সিস্টেমকে 'বিশ্বের দীর্ঘতম শিল্প গ্যালারি' বলা হয়, প্রতিটি স্টেশনে বিশেষ শিল্প ও দেওয়াল চিত্র রয়েছে। T-Centralen স্টেশনের নীল দেয়াল থেকে Kungsträdgården স্টেশনের প্রত্নতাত্ত্বিক ভাইবাবে, প্রতিটি স্টেশন চমৎকার।昂贵的票 নেই, শুধুমাত্র একটি মেট্রো টিকিট নিয়ে আপনি অসংখ্য ছবি তুলুন, এই যাত্রাটি একটি শিল্পের আবহের সাথে পূর্ণ করে তুলুন!🎨",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: SL এর 24 ঘণ্টার পরিবহন টিকিট কেনা সবচেয়ে সাশ্রয়ী, এটি আপনাকে মেট্রো স্টেশনে পৌঁছানোর জন্য অসীম বার বার প্রবেশ ও প্রস্থান করার অনুমতি দেবে, বিমূর্ত تصویরের জন্য অফ-পিক সময়ে যাওয়ার জন্য মনে রাখবেন।"
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "seo_meta": {
+        "title": "【2026 Стокгольм Свободный Тур】Лучший план на 2 дня для ленивых путешественников! Полный гид по достопримечательностям и необходимым блюдам",
+        "description": "Как развлекаться в Стокгольме в первый раз? Этот подробный гид по свободному туру на 2 дня в Стокгольме поможет вам посетить все обязательные места и попробовать местную кухню..."
+      },
+      "hero_section": {
+        "hook_intro": "Добро пожаловать в «Северную Вену»! Стокгольм состоит из 14 островов, переплетающихся с древними средневековыми улочками и современным скандинавским дизайном. Этот город идеально сочетает в себе историческое наследие и модные тренды, и это место, которое каждый путешественник мечтает посетить хотя бы раз в жизни.🇸🇪\n\nЭтот двухдневный маршрут погрузит вас в старинные красные кирпичные здания старого города и покажет мировые музеи, а завершится все на закате Стокгольмских островов. Приготовьте свои камеры, давайте исследовать эту восхитительную северную столицу вместе!✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "День 1: Переправа в Средневековье, прогулка по Старому городу и королевское великолепие",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Старый город Стокгольма (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Когда вы входите в Gamla Stan, кажется, что вы попали в сказочный мир Средневековья! Здесь находится сердце Стокгольма, узкие мостовые улицы обрамлены яркими красно-желтыми зданиями. Утром людей мало, поэтому это отличное время, чтобы сделать винтажные фотографии без посторонних. Не забудьте заглянуть в укромные магазинчики на углах, чтобы купить порцию традиционных шведских сладостей, которые зарядят вас энергией на весь день!📸",
+              "practical_tip": "💡 Советы от эксперта: Обязательно посетите Mårten Trotzigs gränd, это самая узкая улочка в городе и отличное место для фотографий!"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Королевский дворец (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "Как можно побывать в Швеции и не увидеть королевский дворец? Это барочная гигантская структура с более чем 600 комнатами демонстрирует величие и роскошь шведской королевской семьи. Обязательно уделите время, чтобы посмотреть на «Церемонию смены караула» в полдень — их стройный шаг и торжественная музыка не оставят вас равнодушными! В залах выставлены короны и драгоценности разных эпох, что заставляет вас почувствовать себя частью европейского дворца.👑",
+              "practical_tip": "💡 Советы от эксперта: Рекомендуется купить комбинированный билет, чтобы одновременно посетить соседнее сокровищницу (Treasury), где хранятся короны шведских королей.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Шведские фрикадельки в Старом городе (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "После целого дня развлечений на ужин обязательно попробуйте самые настоящие «шведские фрикадельки»! В сочетании с душистым клюквенным вареньем и насыщенным сливочным соусом вкус этой сладко-кислой явной еды точно заставит вас влюбиться в нее. В ресторане Старого города с теплым желтым освещением насладитесь этим народным блюдом, прочувствуйте шведское отношение к качеству жизни и новому опыту. Вот что значит настоящая шведская вечеря!🍽️",
+              "practical_tip": "💡 Советы от эксперта: Рекомендуется забронировать популярный ресторан заранее на официальном сайте, иначе вам, возможно, придется ждать в очереди 30-60 минут."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "День 2: Путешествие по морским музеям, испытание идеального скандинавского дизайна",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Музей корабля Ваза (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "Этот музей безусловно самый впечатляющий в Стокгольме! Здесь выставлен затонувший в 17 веке корабль Ваза, который сохранился в почти 95% своей оригинальной конструкции. Его массивный корпус под тусклым светом выглядит неземным. Эта легендарная история о том, как они утонули и затем воскресли, безусловно, откроет вам глаза и станет первым пунктом в вашем списке для посещения в Стокгольме!🚢",
+              "practical_tip": "💡 Советы от эксперта: В музее много людей, рекомендуется приходить сразу после открытия, чтобы избежать наплыва туристов после обеда.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Музей под открытым небом Скансен (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "Это первый в мире музей под открытым небом, с большой площадью, идеально воспроизводящий традиционную деревенскую жизнь в Швеции. Здесь вы можете увидеть милых северных животных, таких как лоси и олени, а также посетить древние деревянные постройки и мастерские. Прогуливаясь по этому зелёному парку, вы почувствуете, будто вернулись в прошлое, что делает его отличным местом для легкой прогулки в послеобеденное время и для вдохновения свежим северным воздухом.🦌",
+              "practical_tip": "💡 Советы от эксперта: Если вы путешествуете с детьми, обязательно посетите детский зоопарк в парке, он очень интерактивный!",
+              "needsTicket": true,
+              "klookQuery": "Skansen Open Air Museum"
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Искусство стокгольмского метро (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "Последняя остановка — давайте воспользуемся метро! Стокгольмская система метро считается «самой длинной художественной галереей в мире», и на каждой станции есть уникальные художественные инсталляции и настенные росписи. От синего стенда на станции T-Centralen до стиля археологических раскопок на станции Kungsträdgården, каждая станция просто потрясающая. Для этого не нужно покупать дорогие билеты, всего лишь одна метро-карта, чтобы сделать десятки фотографий, завершая это путешествие в атмосфере искусства!🎨",
+              "practical_tip": "💡 Советы от эксперта: Покупка 24-часового проездного SL будет наиболее выгодной, вы сможете бесконечно выходить и входить на станции метро для фотографий, лучше всего фотографироваться в часы, когда меньше людей."
+            }
+          ]
+        }
+      ]
+    },
+    "en": {
+      "seo_meta": {
+        "title": "[2026 Stockholm Free Travel] The Ultimate 2-Day Itinerary Guide! Attractions, Transportation & Must-Try Foods",
+        "description": "First time in Stockholm? This incredibly comprehensive 2-day Stockholm free travel guide covers all the must-visit attractions and local delicacies..."
+      },
+      "hero_section": {
+        "hook_intro": "Welcome to the 'Venice of the North'! Stockholm is made up of 14 islands, intertwining ancient medieval alleys with modern Scandinavian design. This city perfectly balances historical depth and trendy fashion, making it a dream destination every traveler must visit in their lifetime. 🇸🇪\n\nThis 2-day highlight itinerary will take you deep into the red-brick buildings of the old town and visit world-class museums, culminating in a perfect ending under the sunset of the Stockholm archipelago. Get your camera ready and join me in exploring this stunning Nordic capital that amazes the world! ✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: Journey Through the Medieval Ages, Stroll the Old Town and Royal Splendor",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Gamla Stan",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Entering Gamla Stan feels like stepping into a medieval fairytale! This is the heart of Stockholm, where narrow cobblestone streets are lined with colorful red and yellow buildings. In the early morning, with fewer crowds, it's perfect for capturing retro photos with no one around. Don't forget to look for hidden little shops around the corners and pick up some handmade Swedish traditional candy to kickstart your energetic day! 📸",
+              "practical_tip": "💡 Insider Tip: Make sure to visit Mårten Trotzigs gränd, the narrowest alley in the city, which is a fantastic photo spot!"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Royal Palace",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "How can one visit Sweden without seeing the Royal Palace? This Baroque masterpiece boasts over 600 rooms, showcasing the grandeur and luxury of the Swedish royal family. Be sure to set aside time to witness the noon 'Changing of the Guard' ceremony, where the synchronized steps and ceremonial military music will definitely get your adrenaline pumping! The displays of historical crowns and jewels will leave you in awe, making you feel as if you are in a European court. 👑",
+              "practical_tip": "💡 Insider Tip: It’s recommended to purchase a combination ticket, so you can also visit the nearby Treasury, which houses the crowns of the Swedish kings.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Tradition",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "After a full day of exploration, dinner must be dedicated to the most authentic 'Swedish Meatballs'! Paired with the soul companion — lingonberry jam and a rich cream sauce, this sweet, sour, and savory flavor will definitely have you falling in love at first bite. Enjoying this national dish in a restaurant filled with warm yellow lighting, you'll experience the Swedish people's commitment and passion for quality of life; this is the most authentic Swedish dinner! 🍽️",
+              "practical_tip": "💡 Insider Tip: It’s advisable to make a reservation in advance on the restaurant's official website, as waiting on-site may take 30-60 minutes."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: A Tour of Maritime Museums, Experience the Pinnacle of Nordic Design",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Vasa Museum",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "This is undoubtedly the most astonishing museum in Stockholm! It houses the well-preserved 17th-century warship, the Vasa, which retains 95% of its original structure. The massive ship appears spectacular under dim lighting. This legendary story of sinking and rebirth will definitely open your eyes; it's the number one must-visit spot on your Stockholm itinerary! 🚢",
+              "practical_tip": "💡 Insider Tip: The museum can get quite crowded, so it’s recommended to arrive when it opens in the morning to avoid the peak tourist hours in the afternoon.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Skansen",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "This is the world’s first open-air museum, covering a large area and perfectly recreating the traditional rural life of Sweden. Here, you can see adorable Nordic animals (like moose and reindeer) and visit ancient wooden houses and craft workshops. Strolling through the lush greenery of the park feels like traveling back in time, making it a perfect spot for a leisurely afternoon walk while breathing in the fresh Nordic air. 🦌",
+              "practical_tip": "💡 Insider Tip: If you're traveling with children, be sure to visit the children's zoo area within the park, which has high interactivity!"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Stockholm Metro Art",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "For our final stop, let's take the metro! Stockholm’s metro system is known as 'the world’s longest art gallery,' with each station featuring unique installations and murals. From the blue walls of T-Centralen station to the archaeological site style of Kungsträdgården station, each stop is truly captivating. Without needing an expensive ticket, just a metro pass will allow you to capture stunning photos that beautifully conclude your artistic journey! 🎨",
+              "practical_tip": "💡 Insider Tip: Buying the SL 24-hour transportation pass is the best deal, allowing you unlimited entries and exits from the metro to take photos; aim for off-peak hours to capture better compositions."
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "seo_meta": {
+        "title": "【2026 ストックホルム 自由旅行】最強 2 日行程プラン！観光地交通＆必食完全ガイド",
+        "description": "初めてのストックホルム、どう遊ぶ？この超完全な 2 日間のストックホルム自由旅行ガイドでは、必訪の観光地を巡り、地元のグルメを味わいます..."
+      },
+      "hero_section": {
+        "hook_intro": "「北欧のヴェネツィア」へようこそ！ストックホルムは 14 の島から成り立ち、中世の古い路地と現代の北欧デザインが交錯しています。この街は歴史的背景とトレンドの完璧なバランスが取れ、旅人にとって生涯に一度は訪れるべき夢の国です。🇸🇪\n\nこの 2 日間のハイライト行程では、旧市街のレンガ建築を深く探訪し、世界クラスの博物館を訪れ、最後にはストックホルム群島の夕日を背景に完璧に締めくくります。カメラを準備して、全世界を驚かせるこの北欧の首都を一緒に探検しましょう！✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "1日目：中世を越えて、旧市街と王室の華やかさを散策",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "ストックホルム旧市街 (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "ガムラスタンに足を踏み入れると、中世の童話の世界に迷い込んだかのよう！ここはストックホルムの心臓部で、狭い石畳の道にはカラフルな赤や黄の建物が並んでいます。朝の時間は人混みが少なく、ゼロ人のレトロな美しい写真が撮れるのにぴったり。角を曲がった先にある隠れた小店を探して、手作りの伝統的なスウェーデンのキャンディを買い、元気いっぱいの一日をスタートしましょう！📸",
+              "practical_tip": "💡 おすすめのポイント：Mårten Trotzigs grändまで足を延ばすことをお忘れなく。ここは街で最も狭い小道で、素晴らしいインスタ映えスポットです！"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ストックホルム王宮 (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "スウェーデンに来たからには、王宮を見逃すわけにはいきません！600を超える部屋を持つバロック様式の巨作は、スウェーデン王室の威厳と豪華さを表現しています。昼の「衛兵交代式」を見るための時間をぜひ確保してください。その整然とした足取りと儀式感あふれる軍楽は、絶対にあなたを興奮させるでしょう！館内には歴代の王冠や宝石が展示されていて、まるでヨーロッパの宮廷映画の中にいるかのようです。👑",
+              "practical_tip": "💡 おすすめのポイント：コンビチケットを購入することをお勧めします。隣の宝庫（Treasury）にも同時に入れるので、ぜひスウェーデン国王の王冠を見てください。",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "旧市街にあるスウェーデン肉団子料理 (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "一日中遊んだ後は、最も本格的な「スウェーデン肉団子」に捧げましょう！魂のサイドディッシュ——リンゴンベリージャム（Lingonberry jam）と濃厚なクリームソースを添えて、甘酸っぱく塩辛いその味は、一口で恋に落ちること間違いなし。暖かな光に包まれた旧市街のレストランで、この国民的グルメを楽しむことで、スウェーデン人の生活の質へのこだわりと情熱が感じられ、これぞ本場のスウェーデン風ディナーです！🍽️",
+              "practical_tip": "💡 おすすめのポイント：人気レストランは、事前に公式サイトで予約をしておくことをお勧めします。現地での待ち時間は30-60分かかることがあります。"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "2日目：海の上の博物館巡り、北欧の極致デザインを体験",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "ヴァーサ博物館 (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "ストックホルムで最も衝撃的な博物館です！ここでは 17 世紀に保存状態の最も良いヴァーサ号沈船が展示されています。軍艦全体の 95% が原寸大の構造で、暗い照明の中でその巨大な船体はとても壮観です。この沈没と再生の伝説的な歴史は、必ずあなたの目を見開かせ、このストックホルム自由旅行の絶対に外せないスポット第一位です！🚢",
+              "practical_tip": "💡 おすすめのポイント：博物館には多くの人が集まるため、開館と同時に訪れることをお勧めします。午後の旅行団のピークを避けるようにしましょう。",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "スカンセン野外博物館 (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "ここは世界初の野外博物館で、広大な敷地の中にスウェーデンの伝統的な農村生活が完璧に再現されています。愛らしい北欧の動物（エルクやトナカイなど）を目にすることができ、古い木造の家屋や工芸作業場を訪れることもできます。緑一杯の園内を歩くと、まるで時空を超えて過去に戻ったかのようで、午後ののんびりした散策にぴったりです。🦌",
+              "practical_tip": "💡 おすすめのポイント：子供を連れている場合は、必ず園内の子供動物園に行くべきです。インタラクティブ性が非常に高いです！",
+              "needsTicket": true,
+              "klookQuery": "Skansen Open Air Museum"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ストックホルム地下鉄アート巡り (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "最後のストップは地下鉄に乗りましょう！ストックホルムの地下鉄システムは「世界最長のアートギャラリー」と称されています。各駅には独特のインスタレーションアートと壁画があります。T-Centralen 駅の青い壁面から、Kungsträdgården 駅の考古遺跡スタイルまで、どの駅も魅力的です。高額な入場券を買う必要もなく、地下鉄のチケット一枚で数えきれないほどの素晴らしい写真が撮れる、この旅の最後を芸術に満ちたものにしましょう！🎨",
+              "practical_tip": "💡 おすすめのポイント：SL の 24 時間交通券を購入するのが最もお得です。無限に地下鉄に出入りでき、良い構図のためにオフピーク時間に訪れることを忘れずに！"
+            }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "seo_meta": {
+        "title": "【2026 스톡홀름 자유여행】최강 2일 일정 계획 뻔뻔 패키지! 관광지 교통 & 필수 먹거리 전격 레포트",
+        "description": "처음 스톡홀름에 가면 어떻게 놀아야 할까요? 이 글은 초완벽한 2일 스톡홀름 자유여행 가이드로, 꼭 가봐야 할 관광지를 한 번에 둘러보고, 현지 음식을 맛볼 수 있도록 안내합니다..."
+      },
+      "hero_section": {
+        "hook_intro": "환영합니다, '북유럽의 베네치아'에 오신 것을! 스톡홀름은 14개의 섬으로 이루어져 있으며, 중세의 고풍스러운 골목과 현대 북유럽 디자인이 어우러져 있습니다. 이 도시는 역사적 배경과 패션의 흐름을 완벽하게 조화시킨 곳으로, 모든 여행자에게 인생의 꿈같은 목적지입니다.🇸🇪\n\n이 2일 간의 주옥 같은 일정은 당신을 구시가지의 붉은 벽돌 건물 속으로 안내하고, 세계적인 박물관을 탐방한 후, 스톡홀름 군도의 석양 아래 완벽한 마무리를 지어줄 것입니다. 카메라를 준비하고, 세계를 놀라게 한 이 북유럽 수도를 함께 탐험해봅시다!✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "첫째 날: 중세를 넘나들며 구시가지와 왕실의 풍채를 거닐다",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "구시가지 (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Gamla Stan에 들어서면 마치 중세 동화 속 세상에 발을 내딛는 기분입니다! 이곳은 스톡홀름의 심장부로, 좁고 아기자기한 자갈길 양쪽에는 다채로운 빨강과 노랑 건물이 늘어서 있습니다. 아침 일찍은 인파가 적어 거리 없는 레트로 멋진 사진을 찍기에 안성맞춤입니다. 꼭 코너에 숨겨진 작은 가게를 찾아 수제 전통 스웨덴 과자를 사서 에너지가 넘치는 하루를 시작하세요!📸",
+              "practical_tip": "💡 전문가 팁: Mårten Trotzigs gränd에 꼭 가보세요. 이곳은 도시에서 가장 좁은 골목으로, 훌륭한 사진 촬영 장소입니다!"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "스톡홀름 왕궁 (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "스웨덴에 왔다면 왕궁을 빼놓을 수 없죠? 600개 이상의 방을 가진 바로크 양식의 거대한 건축물은 스웨덴 왕실의 위엄과 사치로움을 보여줍니다. 정오에 진행되는 '근위병 교대식'을 꼭 관람할 시간을 마련하세요. 그 정렬된 발걸음과 의식 있는 군악이 당신의 열정을 불태울 것입니다! 전시된 역대 왕관과 보석들은 눈을 휘둥그레하게 하며, 마치 유럽 궁전 속에 들어온 듯한 기분을 느끼게 합니다.👑",
+              "practical_tip": "💡 전문가 팁: 조합 입장권을 구매하는 것을 추천합니다. 옆에 있는 보물관 (Treasury)도 함께 관람할 수 있습니다, 그곳에는 스웨덴 국왕의 왕관이 소장되어 있습니다.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "구시가지 전통 스웨덴 미트볼 (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "하루 종일 놀고 난 뒤, 저녁은 가장 정통의 '스웨덴 미트볼'로 채워야 합니다! 영혼의 조연인 링곤베리 잼과 진한 크림 소스를 곁들여, 이 달콤하고 짭짤한 맛은 한 입 먹으면 반하게 만들 것입니다. 따뜻한 노란 조명으로 가득한 구시가지 레스토랑에서 이 국민 음식을 맛보며, 스웨덴인이 생활의 질에 대한 고집과 열정을 느끼는 것이야말로 진정한 스웨덴식 저녁식사입니다!🍽️",
+              "practical_tip": "💡 전문가 팁: 인기 있는 레스토랑은 사전에 공식 웹사이트에서 예약하는 것이 좋습니다. 그렇지 않으면 현장에서 30-60분을 기다릴 수 있습니다."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "둘째 날: 해양 박물관 투어, 북유럽의 극치 디자인을 체험하다",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "바사호 박물관 (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "이곳은 스톡홀름에서 가장 경이로운 박물관입니다! 17세기 가장 완벽하게 보존된 바사호의 침몰을 전시하고 있으며, 거의 95%가 원래 구조로 되어있습니다. 어두운 조명 속에서 거대한 선체는 엄청난 장관을 이룹니다. 침몰과 재생에 대한 이 전설적인 역사 이야기는 당신에게 큰 박물관의 진수를 보여줄 것이며, 스톡홀름 자유여행에서 놓쳐서는 안 될 필수 방문 목록의 1순위입니다!🚢",
+              "practical_tip": "💡 전문가 팁: 박물관이 매우 혼잡하니, 오전 개장 시간에 도착하는 것이 좋습니다. 오후 여행단의 혼잡을 피할 수 있습니다.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "스칸센 야외 박물관 (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "이곳은 세계 최초의 야외 박물관으로, 넓은 부지를 차지하며 스웨덴의 전통 농촌생활을 완벽하게 재현했습니다. 여기서 귀여운 북유럽 동물들(예: 무스와 순록)을 만나고, 고풍스러운 목조 주택과 공예 작업장을 탐방할 수 있습니다. 푸르른 공원 안을 거닐다 보면 마치 시간여행을 하는 듯한 기분이 듭니다. 오후 시간에 느긋하게 산책하며 북유럽의 신선한 공기를 마실 수 있는 최고의 장소입니다.🦌",
+              "practical_tip": "💡 전문가 팁: 아이들과 함께라면 공원 내 어린이 동물원에 꼭 가보세요. 상호작용이 매우 높습니다!",
+              "needsTicket": true,
+              "klookQuery": "Skansen Open Air Museum"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "스톡홀름 지하철 예술 투어 (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "마지막 정거장, 우리는 지하철을 탑니다! 스톡홀름의 지하철 시스템은 '세계에서 가장 긴 예술 갤러리'로 불리며, 각 역마다 독특한 설치 미술과 벽화가 있습니다. T-Centralen 역의 푸른 벽면부터 Kungsträdgården 역의 고고학 유적 느낌까지, 매 역이 화려합니다. 비싼 입장권을 구매하지 않고도 한 장의 지하철 티켓으로 많은 사진을 찍을 수 있어 이 여행을 예술적 감성이 넘치는 마무리로 장식할 수 있습니다!🎨",
+              "practical_tip": "💡 전문가 팁: SL의 24시간 교통권을 구매하는 것이 가장 경제적이며, 무제한으로 지하철 역에 드나들며 사진을 찍을 수 있습니다. 비수 시간에 가는 것이 좋습니다."
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "seo_meta": {
+        "title": "【2026 Stockholm Autotour】Le guide ultime pour un itinéraire de 2 jours ! Attractions, transports & spécialités à ne pas manquer.",
+        "description": "Comment profiter de votre premier voyage à Stockholm ? Ce guide complet de 2 jours vous permet de visiter toutes les attractions incontournables et de savourer la cuisine locale..."
+      },
+      "hero_section": {
+        "hook_intro": "Bienvenue à Venise du Nord ! Stockholm est composée de 14 îles, mêlant ruelles médiévales anciennes et design nordique moderne. Cette ville équilibre parfaitement histoire et tendances, un véritable pays de rêve à visiter au moins une fois dans sa vie. 🇸🇪\n\nCe parcours essentiel de 2 jours vous emmènera à travers les bâtiments en briques rouges de la vieille ville et à la découverte de musées de renommée mondiale, avec un final parfait au coucher de soleil sur l'archipel de Stockholm. Préparez votre appareil photo et explorez avec moi cette capitale nordique qui émerveille le monde ! ✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Jour 1 : Voyage au Moyen Âge, promenade dans la vieille ville et la majesté royale",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Vieille ville de Stockholm (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "En entrant dans Gamla Stan, on a l'impression de pénétrer dans un conte de fées médiéval ! C'est le cœur de Stockholm, avec ses ruelles pavées étroites bordées de maisons colorées en rouge et jaune. Le matin, il y a moins de monde, ce qui est idéal pour prendre des photos vintage sans personnes. N'oubliez pas de chercher des petites boutiques cachées au coin des rues, et d'acheter des bonbons traditionnels suédois faits maison pour commencer la journée en pleine forme ! 📸",
+              "practical_tip": "💡 Astuce : Ne manquez pas de vous rendre à Mårten Trotzigs gränd, la ruelle la plus étroite de la ville, un excellent spot à immortaliser !"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Palais royal de Stockholm (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "Comment visiter la Suède sans voir son palais ? Cette œuvre baroque avec plus de 600 pièces montre la grandeur et le luxe de la royauté suédoise. Il est impératif de prévoir du temps pour assister à la 'Cérémonie de relève de la garde' à midi, avec ses pas uniformes et sa musique militaire, cela vous mettra sans aucun doute en émoi ! Les couronnes et bijoux des différentes dynasties exposés à l'intérieur sont également à couper le souffle, on se croirait dans un album de la cour européenne. 👑",
+              "practical_tip": "💡 Astuce : Pensez à acheter un billet combiné, ce qui vous permettra de visiter également le Trésor (Treasury) à côté, où sont conservées les couronnes du roi de Suède.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Tradition - Restaurant de boulettes de viande suédoises",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "Après une longue journée, le dîner doit absolument être consacré aux plus authentiques 'boulettes de viande suédoises' ! Accompagnées de la garniture d'âme - la confiture de canneberges (Lingonberry jam) et d'une sauce crémeuse savoureuse, ce mélange aigre-doux-salé ne manquera pas de vous séduire dès la première bouchée. Dans ce restaurant de la vieille ville baigné d'une lumière chaude, goûter à ce plat national vous permettra de ressentir l'engagement et la passion des Suédois pour la qualité de vie, c'est vraiment le repas suédois par excellence ! 🍽️",
+              "practical_tip": "💡 Astuce : Il est recommandé de réserver en ligne dans ce restaurant populaire à l'avance, sinon il se pourrait que vous ayez à attendre 30 à 60 minutes sur place."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Jour 2 : Pèlerinage dans les musées maritimes, vivez le design nordique ultime",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Musée Vasa (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "C'est sans aucun doute le musée le plus impressionnant de Stockholm ! Il expose le célèbre navire Vasa du XVIIe siècle, incroyablement bien conservé, avec 95 % de sa structure d'origine. Le grand vaisseau se révèle majestueux dans la lumière tamisée. Cette légende d'une naufrage et d'une renaissance élargira vos horizons, c'est un incontournable lors de votre voyage à Stockholm ! 🚢",
+              "practical_tip": "💡 Astuce : Étant donné la foule, il est conseillé d'arriver dès l'ouverture le matin pour éviter le pic des groupes de touristes l'après-midi.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Musée en plein air de Skansen (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "C'est le premier musée en plein air au monde, couvrant une vaste superficie et recréant parfaitement la vie rurale traditionnelle suédoise d'antan. Vous pourrez y voir de mignons animaux nordiques (comme des élans et des rennes) et visiter des maisons en bois anciennes et des ateliers artisanaux. Se promener dans cette verdure vous donnera l’impression de voyager dans le temps, c'est parfait pour une après-midi de détente, profitant de l'air frais du nord ! 🦌",
+              "practical_tip": "💡 Astuce : Si vous venez avec des enfants, ne manquez pas la zone pour enfants du jardin, elle est très interactive !",
+              "needsTicket": true,
+              "klookQuery": "Skansen Open Air Museum"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Art dans le métro de Stockholm (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "Pour notre dernière escale, nous allons prendre le métro ! Le système de métro de Stockholm est souvent qualifié de 'plus long musée d'art du monde', chaque station offrant des installations artistiques et des fresques uniques. Des murs bleus de la station T-Centralen aux styles archéologiques de Kungsträdgården, chaque station est remarquable. Pas besoin d'acheter un billet coûteux, un simple ticket de métro vous permettra de prendre des photos à volonté et de clore ce voyage sur une note artistique ! 🎨",
+              "practical_tip": "💡 Astuce : L'achat d'un billet de transport SL valable 24 heures est le meilleur rapport qualité-prix, vous pourrez entrer et sortir du métro à volonté pour des photos, pensez à choisir des horaires creux pour de meilleures compositions."
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "seo_meta": {
+        "title": "【2026 Estocolmo Viaje Libre】¡El mejor itinerario para 2 días! Guía completa de atracciones, transporte y comida imperdible",
+        "description": "¿Cómo disfrutar de tu primera vez en Estocolmo? Esta completa guía de 2 días en Estocolmo te llevará a recorrer todas las atracciones imprescindibles y degustar la rica gastronomía local..."
+      },
+      "hero_section": {
+        "hook_intro": "¡Bienvenido a la 'Venecia del Norte'! Estocolmo está compuesta por 14 islas, entrelazando antiguos callejones medievales y el moderno diseño nórdico. Esta ciudad equilibra a la perfección la historia y la moda, siendo un reino de ensueño que todo viajero debe visitar al menos una vez en la vida.🇸🇪\n\nEste itinerario de 2 días te llevará a explorar los edificios de ladrillo rojo en el casco antiguo y a visitar museos de clase mundial, finalizando con un hermoso atardecer sobre las islas de Estocolmo. ¡Prepara tu cámara y acompáñame a explorar esta impresionante capital nórdica!✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Día 1: A través de la Edad Media, paseando por el casco antiguo y el esplendor real",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Casco Antiguo de Estocolmo (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Al entrar en Gamla Stan, ¡te sentirás como si hubieras pisado un cuento de hadas de la Edad Media! Este es el corazón de Estocolmo, donde las estrechas calles empedradas están flanqueadas por coloridos edificios en tonos rojo y amarillo. Por la mañana, hay menos gente, lo que lo hace perfecto para capturar fotos vintage sin nadie alrededor. ¡No olvides buscar las pequeñas tiendas escondidas en las esquinas y comprar un dulce tradicional sueco hecho a mano para comenzar el día con energía!📸",
+              "practical_tip": "💡 Consejo de experto: Asegúrate de llegar a Mårten Trotzigs gränd, ¡la calle más estrecha de la ciudad, un excelente lugar para fotos!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Palacio Real de Estocolmo (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "¿Cómo puedes visitar Suecia sin ver el palacio? Esta obra maestra barroca cuenta con más de 600 habitaciones y exhibe la majestuosidad y el lujo de la familia real sueca. Se recomienda apartar tiempo para ver el 'Cambio de Guardia' al mediodía, ¡los pasos uniformes y la música militar ceremonial te llenarán de adrenalina! Las coronas y joyas expuestas dentro son tan deslumbrantes que sentirás que estás en una revista de cortes europeas.👑",
+              "practical_tip": "💡 Consejo de experto: Se sugiere adquirir un boleto combinado para visitar también el Tesoro (Treasury) al lado, que alberga la corona del rey de Suecia.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Albóndigas Suecas en el Casco Antiguo (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "Después de un día completo, ¡la cena debe ser la auténtica 'Albóndiga Sueca'! Acompañada de la guarnición perfecta: mermelada de arándano rojo (Lingonberry jam) y una rica salsa de crema, esta combinación de sabores ácidos, dulces y salados te enamorará. En un restaurante del casco antiguo con cálidas luces amarillas, disfruta de este plato nacional, sintiendo la dedicación y pasión de los suecos por la calidad de vida; ¡eso es una cena sueca auténtica!🍽️",
+              "practical_tip": "💡 Consejo de experto: Se recomienda reservar en el sitio web del popular restaurante con anticipación, ya que esperar en la cola podría llevar de 30 a 60 minutos."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Día 2: Un recorrido por museos marítimos, experimenta el diseño nórdico en su máxima expresión",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Museo Vasa (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "¡Este es, sin duda, el museo más impresionante de Estocolmo! Exhibe el Vasa, un barco hundido del siglo XVII que se ha conservado casi en un 95% de su estructura original. El enorme casco, iluminado tenuemente, se ve espectacular. Esta legendaria historia de hundimiento y renacimiento te dejará maravillado, ¡es el número uno en la lista de 'imprescindibles' para tu viaje a Estocolmo!🚢",
+              "practical_tip": "💡 Consejo de experto: El museo suele estar muy concurrido, por lo que se recomienda llegar a primera hora justo cuando abre, para evitar las multitudes de las excursiones por la tarde.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Museo al Aire Libre Skansen (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "Este es el primer museo al aire libre del mundo, con una vasta extensión que recrea a la perfección la vida rural tradicional sueca. Aquí puedes ver adorables animales nórdicos (como alces y renos) y explorar casas de madera antiguas y talleres de artesanía. Pasear por los verdes terrenos se siente como un viaje en el tiempo, perfecto para un tranquilo paseo por la tarde mientras respiras el aire fresco nórdico.🦌",
+              "practical_tip": "💡 Consejo de experto: Si viajas con niños, ¡no te olvides de llevarlos al zoológico infantil en el parque, donde hay mucha interacción!",
+              "needsTicket": true,
+              "klookQuery": "Skansen Open Air Museum"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Ruta del Arte en el Metro de Estocolmo (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "¡Nuestra última parada es el metro! El sistema de metro de Estocolmo ha sido llamado 'la galería de arte más larga del mundo', cada estación tiene instalaciones artísticas únicas y murales. Desde las paredes azules de T-Centralen hasta el estilo de ruinas arqueológicas de Kungsträdgården, cada estación es un espectáculo. No necesitas comprar boletos caros, solo un ticket de metro te permitirá tomar fotos increíbles y finalizar este viaje con un toque artístico.🎨",
+              "practical_tip": "💡 Consejo de experto: Comprar el boleto de transporte de 24 horas de SL es lo más conveniente, puedes entrar y salir del metro tantas veces como quieras, ¡recuerda elegir horas de menor afluencia para obtener mejores composiciones!"
+            }
+          ]
+        }
+      ]
+    },
+    "id": {
+      "seo_meta": {
+        "title": "【2026 Stockholm Perjalanan Bebas】Rencana Itinerary 2 Hari Terkuat! Transportasi, Semua Atraksi & Kuliner Wajib",
+        "description": "Pertama kali ke Stockholm, bagaimana cara bermain? Artikel ini menawarkan panduan lengkap 2 hari di Stockholm yang akan membawa Anda mengunjungi semua atraksi wajib dan mencicipi makanan lokal..."
+      },
+      "hero_section": {
+        "hook_intro": "Selamat datang di 'Venice of the North'! Stockholm terdiri dari 14 pulau, menggabungkan jalan-jalan kuno abad pertengahan dengan desain Nordik modern. Kota ini dengan sempurna menyeimbangkan kekayaan sejarah dan tren mode, dan merupakan negeri impian yang harus dikunjungi setiap pelancong dalam seumur hidup.🇸🇪\n\nRencana 2 hari yang ringkas ini akan membawa Anda menyusuri bangunan bata merah di kota tua, serta mengunjungi museum kelas dunia, diakhiri dengan pemandangan matahari terbenam di Kepulauan Stockholm. Siapkan kamera Anda, dan ikutlah saya menjelajahi ibu kota Nordik yang menakjubkan ini!✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Hari 1: Melintasi Abad Pertengahan, Menelusuri Kota Tua dan Keagungan Kerajaan",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Gamla Stan",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Masuk ke Gamla Stan, rasanya seolah Anda melangkah ke dalam dunia dongeng abad pertengahan! Ini adalah jantung Stockholm, dengan jalan-jalan berbatu yang sempit diapit oleh bangunan berwarna-warni. Pada pagi hari, keramaian masih sedikit, sangat cocok untuk memotret foto-foto vintage yang bebas dari orang. Jangan lupa untuk mencari toko kecil tersembunyi di sudut-sudutnya, dan beli permen tradisional Swedia buatan tangan untuk memulai hari dengan penuh energi!📸",
+              "practical_tip": "💡 Tips dari Ahli: Pastikan untuk berjalan sampai ke Mårten Trotzigs gränd, ini adalah gang terkahir di kota yang sangat sempit, tempat yang bagus untuk berfoto!"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Royal Palace",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "Bagaimana mungkin ke Swedia tanpa melihat istana? Karya Barok yang memiliki lebih dari 600 kamar ini memamerkan kemewahan dan keangkuhan kerajaan Swedia. Disarankan untuk menyediakan waktu untuk menonton 'Upacara Pergantian Penjaga' di siang hari, langkah-langkahnya yang teratur dan musik militer yang meriah pasti akan memacu adrenalin Anda! Koleksi mahkota dan perhiasan yang dipamerkan di dalam gedung juga sangat mengagumkan, seolah Anda berada dalam film tentang istana Eropa.👑",
+              "practical_tip": "💡 Tips dari Ahli: Disarankan untuk membeli tiket kombinasi, sehingga Anda bisa mengunjungi Treasury di sebelahnya, di mana mahkota raja Swedia disimpan.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Tradition",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "Setelah seharian bermain, malam ini pasti harus diserahkan untuk menikmati 'Swedish Meatballs' yang paling autentik! Dipadukan dengan bumbu ikonik—selai lingonberry dan saus krim yang kaya, rasa asam, manis, dan gurih ini pasti akan membuat Anda jatuh cinta pada suapan pertama. Di restoran kuno yang diterangi lampu hangat, nikmati hidangan nasional ini dan rasakan semangat dan ketulusan orang Swedia terhadap kualitas hidup; inilah makan malam bergaya Swedia yang paling otentik!🍽️",
+              "practical_tip": "💡 Tips dari Ahli: Disarankan untuk melakukan reservasi di situs web resmi, atau Anda mungkin harus antri di tempat selama 30-60 menit."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Hari 2: Jelajahi Museum Maritim, Alami Desain Nordik yang Extrem",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Vasa Museum",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "Ini adalah museum yang paling mengejutkan di Stockholm! Memamerkan kapal tenggelam Vasa yang paling terawatt dari abad ke-17, hampir 95% dari struktur asli masih utuh. Tubuh besar kapal ini tampak sangat megah dalam cahaya redup. Kisah legendaris tentang tenggelam dan kebangkitan ini pasti akan membuka mata Anda; inilah daftar wajib yang tidak boleh dilewatkan dalam perjalanan bebas Anda ke Stockholm!🚢",
+              "practical_tip": "💡 Tips dari Ahli: Museum ini sering ramai, disarankan untuk tiba saat pembukaan di pagi hari, untuk menghindari keramaian tur di sore hari.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Skansen",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "Ini adalah museum terbuka pertama di dunia, dengan luas yang besar, yang sempurna untuk merekonstruksi kehidupan desa tradisional Swedia bagi pengunjung. Anda bisa melihat hewan-hewan Nordik yang lucu (seperti rusa dan rusa kutub), serta mengunjungi rumah kayu kuno dan bengkel kerajinan. Menyusuri area yang hijau, seolah-olah melintasi waktu ke masa lalu, sangat cocok untuk berjalan santai di sore hari dan menghirup udara segar Nordik.🦌",
+              "practical_tip": "💡 Tips dari Ahli: Jika Anda membawa anak-anak, jangan lewatkan kebun binatang interaktif untuk anak-anak yang berada di area taman!"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Stockholm Metro Art",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "Sebagai penutup terakhir, mari kita naik metro! Sistem metro di Stockholm dijuluki sebagai 'galeri seni terpanjang di dunia', setiap stasiun memiliki instalasi seni dan mural unik. Dari dinding biru di stasiun T-Centralen, hingga gaya arkeologi di stasiun Kungsträdgården, setiap stasiun sangat menarik. Tidak perlu membeli tiket mahal, cukup dengan tiket metro, Anda bisa mendapatkan foto-foto luar biasa untuk mengakhiri perjalanan yang penuh seni ini!🎨",
+              "practical_tip": "💡 Tips dari Ahli: Membeli tiket transportasi 24 jam dari SL adalah pilihan terbaik, Anda bisa naik metro tanpa batas untuk foto-foto, ingat untuk pergi di luar jam sibuk untuk mendapatkan komposisi yang lebih baik."
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "seo_meta": {
+        "title": "【2026 स्टॉकहोम स्वतंन्त्र यात्रा】सबसे बेहतरीन 2 दिन की यात्रा योजना का संपूर्ण गाइड! स्थलों, परिवहन & अनिवार्य खाने की पूरी जानकारी",
+        "description": "पहली बार स्टॉकहोम में कैसे घूमें? यह विस्तृत 2-दिन की स्टॉकहोम यात्रा गाइड आपको अनिवार्य स्थलों और स्थानीय व्यंजनों का अनुभव कराएगी..."
+      },
+      "hero_section": {
+        "hook_intro": "आपका स्वागत है 'उत्तरी वेनिस' में! स्टॉकहोम 14 द्वीपों का समूह है, जो प्राचीन मध्यकालीन गलियों और आधुनिक नॉर्डिक डिज़ाइन के साथ जुड़ा हुआ है। यह शहर इतिहास और फैशन का एक अद्भुत संतुलन बनाए रखता है और यह हर यात्रा करने वाले के लिए एक सपनों की भूमि है।🇸🇪\n\nयह 2 दिन की यात्रा योजना आपको पुराने शहर के लाल ईंटों की इमारतों के अंदर ले जाएगी और विश्व स्तरीय संग्रहालयों का दौरा कराएगी, अंत में स्टॉकहोम द्वीपों के सूर्यास्त के साथ एक शानदार समापन करेगी। अपने कैमरे को तैयार रखें और इस अद्भुत नॉर्डिक राजधानी की खोज में मेरे साथ चलें!✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "पहला दिन：मध्यकालीन से गुजरना, पुराने शहर और शाही वैभव की सैर",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "स्टॉकहोम का पुराना शहर (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Gamla Stan में कदम रखते ही जैसे आप मध्ययुग की परी कथा की दुनिया में पहुँच जाते हैं! यह स्टॉकहोम का दिल है, जहाँ संकीर्ण कंक्रीट की सड़कें रंग-बिरंगी लाल और पीली इमारतों से भरी हुई हैं। सुबह के समय यहाँ लोग कम होते हैं, जिससे आप बिना किसी भीड़ भाड़ के पुराने और सुंदर तस्वीरें ले सकते हैं। कोने पर छिपे छोटे दुकानों की तलाश करना न भूलें, वहाँ के हस्तनिर्मित स्वीडिश पारंपरिक मिठाइयों का स्वाद लें और दिन की शुरुआत करें!📸",
+              "practical_tip": "💡 विशेष टिप: Mårten Trotzigs gränd तक जरूर जाएँ, यह शहर की सबसे संकरी गली है और एक बेहतरीन फोटो स्पॉट है!"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "स्टॉकहोम का शाही महल (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "स्वीडन आएं तो महल देखना कैसे भूल सकते हैं? इस बारोक शैली के महल में 600 से अधिक कमरे हैं, जो स्वीडिश शाही परिवार की गरिमा और विलासिता को दर्शाते हैं। दोपहर की 'गार्ड चेंज सेरेमनी' देखने का समय जरूर निकालें, यह शुद्ध रूप से तालबद्ध कदम और समारोह के साथ सेना के बैंड से आपको उत्साहित कर देगा! संग्रहालय में प्रदर्शित विभिन्न राजाओं के ताज और आभूषण आपको मंत्रमुग्ध कर देंगे, जैसे आप यूरोपीय महलों की छवियों में हों।👑",
+              "practical_tip": "💡 विशेष टिप: संयोजित टिकट खरीदने की सलाह देते हैं, इससे आप पास के खजाने (Treasury) का भी दौरा कर सकते हैं, जिसमें स्वीडिश राजा का ताज है।",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "पुराने शहर में स्वीडिश मीटबॉल (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "एक दिन की यात्रा के बाद, रात का खाना सबसे प्रामाणिक 'स्वीडिश मीटबॉल' को समर्पित करना चाहिए! इसे मुख्य रूप से येनबेरी जैम (Lingonberry jam) और घनी क्रीम सॉस के साथ परोसा जाता है, यह खट्टी-मीठी और नमकीन स्वाद निश्चित रूप से आपको यकीन दिलाएगा। पुरानी शहर के रेस्तरां में, इस राष्ट्रीय व्यंजन का स्वाद लें और स्वीडिश जीवनशैली के प्रति उनकी प्रतिबद्धता और जुनून का अनुभव करें, यही असली स्वीडिश रात का खाना है!🍽️",
+              "practical_tip": "💡 विशेष टिप: लोकप्रिय रेस्तरां में फ़ोन से रिजर्वेशन अवश्य करें, नहीं तो लाइन में 30-60 मिनट तक इंतज़ार करना पड़ सकता है।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "दूसरा दिन：समुद्री संग्रहालय की यात्रा, उत्तरी डिज़ाइन की चरम परख",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "वास्सा जहाज का संग्रहालय (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "यह निश्चित रूप से स्टॉकहोम का सबसे आश्चर्यजनक संग्रहालय है! यहाँ 17वीं सदी का सबसे अच्छी तरह संरक्षित वासा जहाज प्रदर्शित है, यह लगभग 95% मूल संरचना में है, और इसके बड़े शरीर की छवि मंद रोशनी में अद्भुत लगती है। इस डूबने और पुनर्जन्म की महाकवि कहानी आपके विचारों को विस्तारित कर देगी, यह स्टॉकहोम की यात्रा की अनिवार्य सूची में पहले स्थान पर है!🚢",
+              "practical_tip": "💡 विशेष टिप: संग्रहालय में भीड़ होती है, सुबह खुलने के समय पहुँचने की सलाह देते हैं, ताकि अपराह्न यात्रा समूह की पीक से बचा जा सके।",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "स्कैनसेन ऑपन एयर म्यूजियम (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "यह दुनिया का पहला ओपन एयर म्यूजियम है, जो विशाल स्थान पर स्थापित है, स्वीडन के पारंपरिक ग्रामीण जीवन को पूरी तरह से पुन: प्रस्तुत करता है। यहाँ आप प्यारे उत्तरी जानवर (जैसे मूस और रेनडियर) देख सकते हैं, साथ ही प्राचीन लकड़ी के आवासों और शिल्प कार्यशालाओं का दौरा कर सकते हैं। हरियाली वाले क्षेत्र में चलने से ऐसा महसूस होता है जैसे आप समय में पीछे लौट रहे हैं, यह दोपहर में आराम से चलने के लिए बेहतरीन है, उत्तरी ताजगी से भरी हवा का अनुभव करने के लिए।🦌",
+              "practical_tip": "💡 विशेष टिप: यदि आप बच्चों के साथ हैं, तो पार्क में बच्चों के पशु क्षेत्र में जाना न भूलें, यहाँ संवादात्मक गतिविधियाँ होती हैं!"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "स्टॉकहोम मेट्रो आर्ट यात्रा (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "आखिरी चरण में, हम मेट्रो में सवार होते हैं! स्टॉकहोम का मेट्रो सिस्टम 'दुनिया की सबसे लंबी कला दीर्घा' के रूप में जाना जाता है, हर स्टेशन में अद्वितीय इंस्टॉलेशन आर्ट और दीवार चित्र होते हैं। T-Centralen स्टेशन की नीली दीवारों से लेकर Kungsträdgården स्टेशन के पुरातात्त्विक अवशेषों की शैली तक, हर स्टेशन की अपनी अलग कहानी है। महंगे टिकट खरीदने की आवश्यकता नहीं, सिर्फ एक मेट्रो टिकट से आप इस यात्रा का अद्भुत अनुभव ले सकते हैं और इसे कलात्मक रूप से समेट सकते हैं!🎨",
+              "practical_tip": "💡 विशेष टिप: SL का 24 घंटे का परिवहन कार्ड खरीदना सबसे सुविधाजनक है, इससे आप अनगिनत बार मेट्रो स्टेशन पर जा सकते हैं और यादगार तस्वीरें ले सकते हैं, कम भीड़ के समय में जाएँ ताकि अच्छे फोटो का आनंद ले सकें।"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "seo_meta": {
+        "title": "【2026 Estocolmo Viagem Livre】O melhor planejamento de itinerário de 2 dias! Dicas de transporte e comidas imperdíveis",
+        "description": "É a sua primeira vez em Estocolmo e não sabe como aproveitar? Este guia completo de 2 dias em Estocolmo leva você a conhecer os pontos turísticos imperdíveis e a degustar a culinária local..."
+      },
+      "hero_section": {
+        "hook_intro": "Bem-vindo à 'Veneza do Norte'! Estocolmo é composta por 14 ilhas, entrelaçando ruas medievais antigas com o moderno design nórdico. Esta cidade equilibra perfeitamente a rica história com a moda contemporânea, sendo um destino dos sonhos que todo viajante deve visitar uma vez na vida. 🇸🇪\n\nEste itinerário de 2 dias vai te levar a explorar os edifícios de tijolos vermelhos do centro histórico e a visitar museus de classe mundial, terminando com um pôr do sol deslumbrante no arquipélago de Estocolmo. Prepare sua câmera e venha comigo descobrir esta incrível capital nórdica! ✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Dia 1: Atravessando o Médio Idade, Passeando pelo Centro Histórico e a Realeza",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Centro Histórico de Estocolmo (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "Ao entrar em Gamla Stan, você se sentirá como se estivesse dentro de um conto de fadas medieval! Este é o coração de Estocolmo, com suas ruas estreitas de paralelepípedos ladeadas por coloridos edifícios vermelhos e amarelos. Nas primeiras horas da manhã, há menos pessoas, perfeito para tirar fotos vintage sem transeuntes. Não esqueça de procurar as pequenas lojas escondidas na esquina e comprar um doce tradicional sueco feito à mão para começar o dia com energia! 📸",
+              "practical_tip": "💡 Dica do especialista: Não deixe de ir até Mårten Trotzigs gränd, o beco mais estreito da cidade, que é um ótimo ponto para fotos!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Palácio Real de Estocolmo (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "Como vir à Suécia e não visitar um palácio? Esta impressionante obra-prima barroca com mais de 600 quartos exibe a majestade e a opulência da realeza sueca. É imperativo reservar um tempo para assistir à 'Troca da Guarda' ao meio-dia, com seus passos ritmados e a música ceremonial, que vai fazer seu coração disparar! As coroas e joias expostas ao longo das gerações vão te deixar sem palavras, fazendo você se sentir em um cotidiano de corte europeu. 👑",
+              "practical_tip": "💡 Dica do especialista: É recomendável comprar um bilhete combinado que permite a visita ao Tesouro (Treasury) ao lado, onde estão guardadas as coroas dos reis da Suécia.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Almoço de Almôndegas Suecas no Centro Histórico (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "Depois de um dia inteiro de passeios, o jantar deve ser dedicado ao autêntico 'Almôndega Sueca'! Acompanhada de sua dupla essencial — geléia de lingonberry e um molho cremoso rico, essa combinação doce e salgada vai te conquistar imediatamente. Em um restaurante iluminado com luz amarela e aconchegante no centro histórico, saboreie este prato nacional e sinta a paixão e o compromisso dos suecos com a qualidade de vida. Esse é o verdadeiro jantar sueco! 🍽️",
+              "practical_tip": "💡 Dica do especialista: Para restaurantes populares, recomenda-se fazer reservas no site com antecedência, pois a fila pode levar de 30 a 60 minutos."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Dia 2: Roteiro pelo Museu Marítimo, Experiência do Design Nórdico em Seu Máximo",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Museu Vasa (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "Este é, sem dúvida, o museu mais impressionante de Estocolmo! O museu abriga o Vasa, um navio do século XVII que foi preservado quase em sua totalidade, com 95% da estrutura original. Em sua imensa embarcação, sob a luz suave, tudo se revela magnífico. Essa história lendária de naufrágio e renascimento com certeza ampliará seus horizontes e deve ser o primeiro da lista de visitas em Estocolmo! 🚢",
+              "practical_tip": "💡 Dica do especialista: O museu fica muito cheio, então é recomendável chegar logo que abre de manhã para evitar os picos das excursões à tarde.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Museu ao Ar Livre Skansen (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "Aqui está o primeiro museu ao ar livre do mundo, abrangendo uma vasta área que recria perfeitamente a vida tradicional rural sueca. Você poderá ver adoráveis animais nórdicos (como alces e renas), além de visitar antigas casas de madeira e oficinas de artesanato. Caminhando pela verdejante área, parecerá que você viajou no tempo, sendo ideal para um passeio leve à tarde, respirando o ar fresco do norte da Europa. 🦌",
+              "practical_tip": "💡 Dica do especialista: Se você estiver com crianças, deve visitar a área de zoológico infantil dentro do parque, com alta interatividade!",
+              "needsTicket": true,
+              "klookQuery": "Skansen Open Air Museum"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Roteiro de Arte do Metrô de Estocolmo (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "Na última parada, vamos pegar o metrô! O sistema de metrô de Estocolmo é conhecido como 'a galeria de arte mais longa do mundo', com cada estação apresentando instalações artísticas e murais únicos. Desde as paredes azuis da estação T-Centralen até o estilo arqueológico da estação Kungsträdgården, cada parada encanta. Você não precisa comprar um ingresso caro, apenas um bilhete de metrô e você pode tirar fotos à vontade, encerrando sua jornada com uma nota cheia de arte! 🎨",
+              "practical_tip": "💡 Dica do especialista: Comprar o bilhete de transporte de 24 horas da SL é a melhor opção, permitindo que você entre e saia do metrô quantas vezes quiser para tirar fotos. Lembre-se de escolher horários fora do pico para melhores composições."
+            }
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "seo_meta": {
+        "title": "【2026 ستوكهولم السفر الحر】أقوى خطة للرحلة لمدة يومين! دليل شامل للمزارات ووسائل النقل والمأكولات التي يجب تجربتها",
+        "description": "كيف تستمتع بزيارتك الأولى إلى ستوكهولم؟ في هذه المقالة الشاملة عن دليل السفر الحر لمدت يومين، ستجد جميع المزارات التي يجب عليك زيارتها وتجربة الأطعمة المحلية..."
+      },
+      "hero_section": {
+        "hook_intro": "مرحبًا بك في \"فينيسيا الشمالية\"! تتكون ستوكهولم من 14 جزيرة، حيث تتداخل الأزقة القديمة من القرون الوسطى مع التصميم الحديث الاسكندنافي. هذه المدينة توازن بين العمق التاريخي والموضة، وهي دولة الأحلام التي يجب على كل مسافر زيارتها مرة واحدة في حياته.🇸🇪\n\nستأخذك هذه الخطة المكثفة لمدة يومين في جولة عبر المباني المصنوعة من الطوب الأحمر في المدينة القديمة، وزيارة متاحف عالمية المستوى، وفي النهاية، سننهي اليوم تحت أشعة الشمس الغاربة في أرخبيل ستوكهولم. جهز كاميرتك، وانضم إليّ لاستكشاف هذه العاصمة الاسكندنافية الرائعة!✨",
+        "hero_image_keyword": "Stockholm Gamla Stan sunset panoramic view"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "اليوم الأول: عبور القرون الوسطى ، والتجول في المدينة القديمة وفخامة العائلة المالكة",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "المدينة القديمة في ستوكهولم (Gamla Stan)",
+              "image_search_keyword": "Gamla Stan Stockholm streets",
+              "rich_description": "عندما تدخل إلى Gamla Stan، ستشعر وكأنك انتقلت إلى عالم الخيال من القرون الوسطى! هذه هي قلب ستوكهولم، حيث الشوارع الضيقة المرصوفة بالحصى محاطة بالمباني الملونة بالأصفر والأحمر. في الصباح الباكر، يكون عدد الزوار أقل، مما يجعلها مناسبة لالتقاط الصور العتيقة دون وجود الناس. لا تنس البحث عن المتاجر الصغيرة الخفية عند الزوايا، واشترِ بعض الحلوى السويدية التقليدية المصنوعة يدويًا، لتبدأ يومك بإشراقة!📸",
+              "practical_tip": "💡 نصيحة من المحترفين: تأكد من زيارة Mårten Trotzigs gränd، فإنه أضيق زقاق في المدينة، وهو نقطة ممتازة لالتقاط الصور!"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "قصر ستوكهولم (Royal Palace)",
+              "image_search_keyword": "Stockholm Royal Palace guard",
+              "rich_description": "كيف يمكنك زيارة السويد دون رؤية القصر؟ هذه التحفة الباروكية التي تحتوي على أكثر من 600 غرفة تعرض هيبة العائلة المالكة السويدية وفخامتها. يُوصى بالتأكد من إتاحة الوقت لرؤية \"مراسم تغيير الحرس\" في الظهر، فخطواتهم المتزامنة مع الموسيقى العسكرية ذات الطابع الاحتفالي ستجعل قلبك ينبض بالحماس! العرض الداخلي للتاج والمجوهرات من جميع العصور هو بالفعل شيء لا يُنسى، كأنك في إحدى قصور أوروبا.👑",
+              "practical_tip": "💡 نصيحة من المحترفين: يُفضل شراء تذكرة مجمعة، يمكنك زيارة الخزانة المجاورة، التي تضم تاج الملك السويدي.",
+              "needsTicket": true,
+              "klookQuery": "Stockholm Royal Palace guard"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "طبق كرات اللحم السويدية في المدينة القديمة (Tradition)",
+              "image_search_keyword": "Swedish meatballs lingonberry sauce",
+              "rich_description": "بعد يوم حافل، يجب أن يكون العشاء مخصصًا لأصالة \"كرات اللحم السويدية\"! مع المربى التقليدي من التوت البري (Lingonberry jam) و صلصة الكريمة الغنية، ستجعلنك هذه النكهات الحلوة والحامضة والمملحة تقع في حبها من أول قضمة. تناول هذه الأكلة الشعبية في مطعم المدينة القديمة المضاء بأضواء دافئة، واستشعر شغف السويديين بالجودة في حياتهم، فهذه هي هذه العشاء السويدي الأصيل!🍽️",
+              "practical_tip": "💡 نصيحة من المحترفين: يُنصح بالحجز مسبقًا في المطاعم المشهورة عبر الموقع الرسمي، وإلا قد تضطر إلى الانتظار من 30 إلى 60 دقيقة."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "اليوم الثاني: جولة في المتاحف البحرية، وتجربة تصميم شمالي رائع",
+          "activities": [
+            {
+              "time_slot": "صباحًا",
+              "spot_name": "متحف فازا (Vasa Museum)",
+              "image_search_keyword": "Vasa Museum ship",
+              "rich_description": "هذا بالتأكيد هو المتحف الأكثر إثارة في ستوكهولم! يضم المتحف السفينة الغارقة \"فازا\" من القرن السابع عشر، والتي تم الحفاظ عليها بشكل كامل تقريبًا، حيث أن 95% من هيكلها الأصلي هو كما هو. الهيكل الضخم تحت الأضواء الخافتة يبدو رائعًا للغاية. هذه القصة الأسطورية عن الغرق والبعث ستفتح عينيك، وهي في صدارة قائمة الأشياء التي يجب زيارتها في ستوكهولم!🚢",
+              "practical_tip": "💡 نصيحة من المحترفين: نظرًا لكثرة الزوار، يُنصح بالوصول عند فتح المتحف لتجنب حشود بعد الظهر.",
+              "needsTicket": true,
+              "klookQuery": "Vasa Museum ship"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "متحف سكاينسن (Skansen)",
+              "image_search_keyword": "Skansen Open Air Museum",
+              "rich_description": "هذا هو أول متحف في الهواء الطلق في العالم، حيث يعيد تمثيل الحياة القروية التقليدية في السويد. يمكنك رؤية حيوانات شمالية لطيفة (مثل الأيائل والرنة)، وزيارة المنازل الخشبية القديمة وورش الحرفيين. التجول في حديقة خضراء نابضة بالحياة يجعلك وكأنك عدت في الزمن، وهي مثالية لنزهة مسائية مريحة والتنفس في الهواء النقي في الشمال.🦌",
+              "practical_tip": "💡 نصيحة من المحترفين: إذا كنت تسافر مع أطفال، تأكد من زيارة حديقة الحيوانات الصغيرة في المتنزه، فهي تحتوي على الكثير من الأنشطة التفاعلية!",
+              "needsTicket": true,
+              "klookQuery": "Skansen Open Air Museum"
+            },
+            {
+              "time_slot": "مساءً",
+              "spot_name": "جولة فنون مترو ستوكهولم (Stockholm Metro Art)",
+              "image_search_keyword": "Stockholm metro station art",
+              "rich_description": "محطتنا الأخيرة هي ركوب المترو! يشار إلى نظام مترو ستوكهولم بأنه \"أطول معرض فني في العالم\"، حيث يحتوي كل محطة على فنون تركيب فريدة ولوحات جدارية. من الجدران الزرقاء في محطة T-Centralen إلى تصميم الآثار الأثرية في محطة Kungsträdgården، كل محطة تدهش الزوار. لا تحتاج لدفع تذاكر باهظة الثمن، فقط تذكرة مترو واحدة ستتيح لك التقاط صور رائعة وتختتم رحلتك بمسحة فنية!🎨",
+              "practical_tip": "💡 نصيحة من المحترفين: شراء تذكرة النقل لمدة 24 ساعة من SL هو الأكثر توفيرًا، بحيث يمكنك الدخول والخروج من محطة المترو لالتقاط الصور، وتأكد من اختيار أوقات الذروة للحصول على أفضل تركيبة."
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

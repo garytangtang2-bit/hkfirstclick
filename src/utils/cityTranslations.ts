@@ -945,8 +945,22 @@ export const getTranslatedCityName = (cityId: string, currentLangName: string): 
 };
 
 export const getCitySlug = (cityId: string): string => {
-    const enName = cityDataTranslations[cityId]?.name?.EN || cityId;
-    return enName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+    const normalizedId = cityId.toLowerCase().replace(/\s/g, ''); 
+    let enName = cityDataTranslations[normalizedId]?.name?.EN;
+
+    if (!enName) {
+        for (const [key, data] of Object.entries(cityDataTranslations)) {
+            const pureKey = key.toLowerCase().replace(/\s/g, '');
+            const pureEn = (data.name.EN || '').toLowerCase().replace(/[^a-z0-9]+/g, '');
+            if (pureKey === normalizedId || pureEn === normalizedId) {
+                enName = data.name.EN;
+                break;
+            }
+        }
+    }
+
+    const finalName = enName || cityId;
+    return finalName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 };
 
 export const getCityIdFromSlug = (slug: string): string | null => {
@@ -960,6 +974,7 @@ export const getCityIdFromSlug = (slug: string): string | null => {
     }
     return null;
 };
+
 export const getRecommendedDays = (cityId: string): number => {
     if (!cityId) return 3;
     
@@ -981,4 +996,53 @@ export const getRecommendedDays = (cityId: string): number => {
     }
 
     return city?.recommendedDays || 3;
+};
+
+// Region groupings for stable internal linking
+const cityRegions: Record<string, string> = {
+  // Asia - East
+  tokyo: 'asia-east', osaka: 'asia-east', kyoto: 'asia-east', fukuoka: 'asia-east',
+  sapporo: 'asia-east', hakone: 'asia-east', okinawa: 'asia-east',
+  seoul: 'asia-east', taipei: 'asia-east', hongkong: 'asia-east',
+  // Asia - Southeast
+  bangkok: 'asia-se', singapore: 'asia-se', 'bali-kuta': 'asia-se',
+  'kuala-lumpur': 'asia-se', 'ho-chi-minh-city': 'asia-se',
+  // Asia - South & Middle East
+  dubai: 'asia-mid', marrakesh: 'africa',
+  // Europe - West
+  paris: 'europe-west', london: 'europe-west', amsterdam: 'europe-west',
+  brussels: 'europe-west', nice: 'europe-west', barcelona: 'europe-west',
+  madrid: 'europe-west', lisbon: 'europe-west',
+  // Europe - Central & South
+  rome: 'europe-south', florence: 'europe-south', venice: 'europe-south',
+  athens: 'europe-south', santorini: 'europe-south',
+  // Europe - Central
+  berlin: 'europe-central', munich: 'europe-central', vienna: 'europe-central',
+  prague: 'europe-central', zurich: 'europe-central', stockholm: 'europe-central',
+  copenhagen: 'europe-central', edinburgh: 'europe-central', reykjavik: 'europe-central',
+  // Americas
+  'new-york': 'americas', 'los-angeles': 'americas', chicago: 'americas',
+  miami: 'americas', 'san-francisco': 'americas', 'las-vegas': 'americas',
+  toronto: 'americas', seattle: 'americas', 'buenos-aires': 'americas',
+  'rio-de-janeiro': 'americas',
+  // Oceania & Africa
+  sydney: 'oceania', melbourne: 'oceania', auckland: 'oceania',
+  'cape-town': 'africa', cairo: 'africa',
+};
+
+export const getOtherDestinations = (currentCityId: string, limit: number = 6): string[] => {
+    const allCities = Object.keys(cityDataTranslations);
+    const currentRegion = cityRegions[currentCityId] || 'other';
+
+    // Same region first (stable order — alphabetical), excluding current city
+    const sameRegion = allCities
+        .filter(id => id !== currentCityId && cityRegions[id] === currentRegion)
+        .sort();
+
+    // Other regions (stable alphabetical order)
+    const otherRegion = allCities
+        .filter(id => id !== currentCityId && cityRegions[id] !== currentRegion)
+        .sort();
+
+    return [...sameRegion, ...otherRegion].slice(0, limit);
 };

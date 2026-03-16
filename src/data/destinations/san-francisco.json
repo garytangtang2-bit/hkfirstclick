@@ -1,0 +1,1790 @@
+{
+  "seo_meta": {
+    "title": "2026 San Francisco 5-Day Guide — Golden Gate, Alcatraz & Tech Culture",
+    "description": "第一次去 三藩市 怎麼玩？這篇超完整的 5 天 三藩市 自由行攻略，帶你一次逛完必去景點、品嚐在地美食、體驗經典叮叮車，讓你輕鬆玩轉西岸名城！"
+  },
+  "hero_section": {
+    "hook_intro": "準備好迎接加州的陽光了嗎？三藩市（San Francisco）絕對是美國最迷人的城市之一！從霧氣繚繞的金門大橋，到充滿歷史風情的叮叮車，每一處街角都藏著驚喜。這趟 5 天深度遊，我為你精選了最經典的打卡聖地、隱藏版美食與交通密技，保證讓你的舊金山之旅精彩絕倫！",
+    "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+  },
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "day_title": "Day 1：初見舊金山，港灣風情巡禮",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "漁人碼頭 (Fisherman's Wharf)",
+          "image_search_keyword": "Fisherman's Wharf San Francisco",
+          "rich_description": "來到舊金山的第一站，絕對是充滿活力的漁人碼頭！這裡不僅有熱鬧的市集，還能近距離觀察可愛的海獅在 39 號碼頭曬太陽。一定要來一份經典的酸麵包蛤蜊濃湯，濃郁的奶香配上酥脆麵包，開啟你的完美旅程！",
+          "practical_tip": "💡 達人小提示：建議早上 10 點前抵達，避開大批觀光人潮，拍照品質更好喔！"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "39 號碼頭與海獅群",
+          "image_search_keyword": "Pier 39 sea lions",
+          "rich_description": "這裡簡直是海獅的派對現場！看著牠們在那裡推擠、曬太陽，療癒指數破表。逛完碼頭後，還可以漫步至附近的商店街挑選紀念品，感受滿滿的加州休閒氛圍。",
+          "practical_tip": "💡 達人小提示：沿著木棧道走到底，視野最開闊，是拍攝惡魔島的最佳角度。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "吉拉德里廣場 (Ghirardelli Square)",
+          "image_search_keyword": "Ghirardelli Square San Francisco",
+          "rich_description": "晚餐後的甜點時間！來到這裡必嚐著名的海鹽焦糖聖代，巧克力濃郁的香氣與冰淇淋完美融合，是舊金山夜晚最幸福的儀式感。",
+          "practical_tip": "💡 達人小提示：店內常大排長龍，建議外帶到廣場旁的長椅享用，更有氛圍。"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "Day 2：經典地標與藝術氣息",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "金門大橋 (Golden Gate Bridge)",
+          "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+          "rich_description": "這是舊金山的靈魂！無論看過多少次照片，親眼見到那抹標誌性的國際橘（International Orange）依然震撼。你可以選擇步行或租借自行車騎過大橋，將太平洋的壯闊盡收眼底。",
+          "practical_tip": "💡 達人小提示：舊金山容易起霧，建議出發前查看即時攝影機，霧散時景色最美。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "藝術宮 (Palace of Fine Arts)",
+          "image_search_keyword": "Palace of Fine Arts San Francisco",
+          "rich_description": "彷彿走進了歐洲古羅馬，這座優雅的圓頂建築與寧靜的湖泊，是許多電影的取景地。這裡環境清幽，非常適合拍出充滿藝術感的網美照。",
+          "practical_tip": "💡 達人小提示：下午陽光斜射時，建築倒影在湖面上的光影變化極美。",
+          "needsTicket": true,
+          "klookQuery": "Palace of Fine Arts San Francisco"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "聯合廣場 (Union Square)",
+          "image_search_keyword": "Union Square San Francisco",
+          "rich_description": "回到市中心，這裡就是購物天堂！周邊百貨林立，各種精品與潮流店鋪應有盡有。晚餐可以選擇附近的法式或義式餐廳，享受舊金山繁華的都市夜晚。",
+          "practical_tip": "💡 達人小提示：這裡也是叮叮車（Cable Car）的起點，想體驗的話建議避開尖峰時段。"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_title": "Day 3：文青與歷史的交織",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "九曲花街 (Lombard Street)",
+          "image_search_keyword": "Lombard Street San Francisco",
+          "rich_description": "世界上最彎曲的街道，兩旁種滿了色彩繽紛的繡球花與花卉。看著汽車以極慢的速度轉過髮夾彎，這種獨特的城市景觀，只有在這裡才看得到！",
+          "practical_tip": "💡 達人小提示：一定要從下方往上拍，才能將蜿蜒的街道與兩旁的房屋完整入鏡。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "北灘區 (North Beach)",
+          "image_search_keyword": "North Beach San Francisco Italian restaurants",
+          "rich_description": "這裡有著濃厚的義大利血統，空氣中瀰漫著咖啡與披薩的香氣。推薦前往「城市之光書店」感受文學氣息，再找間咖啡館坐下來，享受愜意的午後。",
+          "practical_tip": "💡 達人小提示：這區的義式 Gelato 冰淇淋非常道地，絕對不能錯過。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "唐人街 (Chinatown)",
+          "image_search_keyword": "Chinatown San Francisco dragon gate",
+          "rich_description": "北美歷史最悠久的唐人街！穿過龍門，彷彿穿越時空。這裡有許多道地的港式飲茶與傳統小吃，對亞洲胃來說，這裡是充電補給的最佳去處。",
+          "practical_tip": "💡 達人小提示：嘗試尋找隱藏在巷弄裡的幸運餅乾（Fortune Cookie）工廠，非常有趣！"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_title": "Day 4：都會生活與壯麗海景",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "雙子峰 (Twin Peaks)",
+          "image_search_keyword": "Twin Peaks San Francisco view",
+          "rich_description": "想將整個舊金山盡收眼底？來雙子峰就對了！這裡提供 360 度的城市全景，不管是高樓大廈還是遠方的海灣，在這都一覽無遺，是攝影愛好者的聖地。",
+          "practical_tip": "💡 達人小提示：山上風大且氣溫較低，即便夏天也要記得帶件防風外套。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "卡斯楚區 (The Castro)",
+          "image_search_keyword": "The Castro district San Francisco",
+          "rich_description": "這裡是多元文化的代表區，街道上充滿彩虹旗與充滿個性的特色小店。這裡的建築風格獨特，散發著自由奔放的氣息，非常值得深度漫遊。",
+          "practical_tip": "💡 達人小提示：參觀卡斯楚劇院，感受舊金山特有的復古電影文化。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "渡輪大廈 (Ferry Building)",
+          "image_search_keyword": "Ferry Building Marketplace San Francisco",
+          "rich_description": "這裡不只是交通樞紐，更是美食家的天堂！匯集了在地農產品與精緻手工美食。夜晚的渡輪大廈在燈光映襯下顯得格外優雅，適合安排一場精緻的晚餐。",
+          "practical_tip": "💡 達人小提示：如果剛好遇到週六農夫市集，一定要買杯新鮮的有機果汁。"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_title": "Day 5：悠閒告別與最後採買",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "阿拉莫廣場 (Alamo Square)",
+          "image_search_keyword": "Painted Ladies San Francisco",
+          "rich_description": "這裡有著舊金山最出名的「六姊妹」維多利亞式建築，背景則是現代化的市中心大樓。這種新舊交融的畫面，就是舊金山最經典的風景線。",
+          "practical_tip": "💡 達人小提示：準備一些野餐墊與輕食，在草地上坐著享受陽光，就是最道地的舊金山日常。"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "海耶斯谷 (Hayes Valley)",
+          "image_search_keyword": "Hayes Valley San Francisco shopping",
+          "rich_description": "最後的時光留給採購吧！這裡聚集了許多設計師品牌、文創小店與高品質的咖啡廳。這裡的氛圍比觀光區更安靜、更精緻，非常適合挑選獨特的伴手禮。",
+          "practical_tip": "💡 達人小提示：這裡的精品巧克力店非常出名，適合買回來當作送給親友的高級禮物。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "內河碼頭 (Embarcadero)",
+          "image_search_keyword": "Embarcadero waterfront night",
+          "rich_description": "在微風拂過的碼頭邊，看著海灣大橋（Bay Bridge）閃爍的燈光秀，為這趟 5 天的旅行畫下完美句點。聽著海浪聲，回味這幾天的精彩記憶吧！",
+          "practical_tip": "💡 達人小提示：搭乘叮叮車回到住宿點，別忘了在車上最後一次體驗舊金山的斜坡刺激感！"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "en": {
+      "seo_meta": {
+        "title": "[2026 San Francisco Free Trip] Ultimate 5-Day Itinerary Guide! Attractions, Transportation & Must-Eat Full Strategy",
+        "description": "How to enjoy San Francisco for the first time? This super complete 5-day guide will take you through must-visit attractions, savor local delicacies, and experience the classic cable car, making your trip to the famous West Coast city a breeze!"
+      },
+      "hero_section": {
+        "hook_intro": "Are you ready to embrace the California sunshine? San Francisco is undoubtedly one of the most charming cities in the United States! From the fog-covered Golden Gate Bridge to the historic cable cars, every corner holds surprises. In this 5-day deep dive, I've curated the most iconic photo spots, hidden culinary gems, and transportation tips just for you, ensuring your San Francisco adventure is extraordinary!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: First Encounter with San Francisco – A Harbor Tour",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Fisherman's Wharf",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "Your first stop in San Francisco is the vibrant Fisherman's Wharf! This lively marketplace offers not only bustling shops but also close encounters with adorable sea lions basking in the sun at Pier 39. Don’t miss out on a classic sourdough clam chowder, with its rich creamy flavor paired with crunchy bread to kick off your perfect journey!",
+              "practical_tip": "💡 Expert Tip: Arrive before 10 AM to avoid large crowds, ensuring better photo quality!"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Pier 39 and Sea Lion Colony",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "It's like a sea lion party here! Watching them jostle around and sunbathe is incredibly therapeutic. After exploring the pier, you can stroll to nearby shopping streets to pick up souvenirs and enjoy the laid-back California vibe.",
+              "practical_tip": "💡 Expert Tip: Walk to the end of the boardwalk for the best views, making it ideal for capturing photos of Alcatraz Island."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Ghirardelli Square",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "It's dessert time after dinner! You must try the famous sea salt caramel sundae here, where the rich aroma of chocolate blends perfectly with ice cream; it's the most delightful ritual of a San Francisco night.",
+              "practical_tip": "💡 Expert Tip: Long lines are common, so consider taking your order to a bench nearby in the square for a more atmospheric experience."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: Iconic Landmarks and Artistic Atmosphere",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Golden Gate Bridge",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "This is the soul of San Francisco! No matter how many photos you've seen, witnessing that iconic International Orange in person is still breathtaking. You can choose to walk or rent a bike to ride across the bridge, taking in the vastness of the Pacific Ocean.",
+              "practical_tip": "💡 Expert Tip: San Francisco is prone to fog, so check the live camera before heading out; the views are best when the fog clears."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Palace of Fine Arts",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "Stepping into a scene reminiscent of ancient Rome, this elegant domed structure next to a tranquil lagoon is a popular filming location. The peaceful surroundings are perfect for capturing artistic photos.",
+              "practical_tip": "💡 Expert Tip: When the afternoon sun is slanted, the reflections on the lake create stunning visual patterns.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Union Square",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "Back in the city center, this place is a shopping paradise! Surrounded by department stores, there's an array of boutiques and trendy shops. For dinner, you can choose from nearby French or Italian restaurants and enjoy a vibrant urban evening in San Francisco.",
+              "practical_tip": "💡 Expert Tip: This is also the starting point for the cable car; if you want to ride, it's best to avoid peak hours."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Day 3: The Intersection of Culture and History",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Lombard Street",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "Known as the world’s most crooked street, lined with colorful hydrangeas and blooms. Watching the cars navigate the tight turns at a snail's pace offers a unique urban landscape that can only be found here!",
+              "practical_tip": "💡 Expert Tip: Be sure to take photos from the bottom looking up to capture the winding street along with the houses on either side."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "North Beach",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "With strong Italian roots, the air here is filled with the aromas of coffee and pizza. I recommend visiting City Lights Bookstore to soak in the literary atmosphere, then find a café to relax in and enjoy a leisurely afternoon.",
+              "practical_tip": "💡 Expert Tip: Don't miss out on the authentic Italian Gelato here—it's a must-try!"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Chinatown",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "The oldest Chinatown in North America! Passing through the Dragon Gate feels like a time warp. You'll find plenty of authentic dim sum and traditional snacks here, making it the perfect place to recharge your Asian palate.",
+              "practical_tip": "💡 Expert Tip: Look for the hidden fortune cookie factory in the alleyways—it's a fun experience!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Day 4: Urban Life and Majestic Ocean Views",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Twin Peaks",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "Want a panoramic view of all of San Francisco? Twin Peaks is the spot! It offers 360-degree city vistas where you can see everything from tall buildings to the distant bay, making it a paradise for photography enthusiasts.",
+              "practical_tip": "💡 Expert Tip: It can be windy and cooler at the top, so remember to bring a windbreaker even in the summer."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "The Castro",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "This area is a representation of multiculturalism, with rainbow flags lining the streets and unique boutique shops. The distinctive architectural styles exude a free-spirited vibe, making it worth a deep exploration.",
+              "practical_tip": "💡 Expert Tip: Visit the Castro Theatre to experience San Francisco's unique vintage film culture."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Ferry Building",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "This isn't just a transportation hub; it's a paradise for food lovers! It brings together local produce and exquisite artisanal foods. The Ferry Building shines elegantly under the night lights, perfect for planning a refined dinner.",
+              "practical_tip": "💡 Expert Tip: If you happen to be there during the Saturday farmer's market, be sure to grab a cup of fresh organic juice."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Day 5: Leisurely Farewell and Last-Minute Shopping",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Alamo Square",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "Home to San Francisco's most famous 'Painted Ladies' Victorian houses with modern downtown buildings in the background. This blend of old and new is a classic view of San Francisco.",
+              "practical_tip": "💡 Expert Tip: Bring some picnic blankets and snacks to enjoy the sunshine on the grass—it's the most authentic San Francisco experience."
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Hayes Valley",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "Save the final moments for shopping! This area is packed with designer brands, creative shops, and high-quality cafes. Its atmosphere is quieter and more refined than tourist areas, perfect for selecting unique souvenirs.",
+              "practical_tip": "💡 Expert Tip: The boutique chocolate shops here are well-known, perfect for bringing back as high-end gifts for friends and family."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "Embarcadero",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "At the waterfront, feeling the breeze and watching the Bay Bridge sparkling with lights provides a perfect conclusion to your 5-day journey. Listen to the waves and reminisce about the fabulous memories from these few days!",
+              "practical_tip": "💡 Expert Tip: Take the cable car back to your accommodation; don’t forget to experience the thrill of San Francisco’s slopes one last time!"
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "seo_meta": {
+        "title": "【2026 サンフランシスコ 自由旅行】最強 5 日間行程プラン！観光・交通＆必食完全ガイド",
+        "description": "初めてサンフランシスコに行くなら、どう楽しむ？この超完全な 5 日間のサンフランシスコ自由旅行ガイドでは、必訪スポット、地元の美食、クラシックなケーブルカーの体験まで、簡単に西海岸の名都市を楽しむ方法をお届けします！"
+      },
+      "hero_section": {
+        "hook_intro": "カリフォルニアの太陽を迎える準備はできましたか？サンフランシスコはアメリカで最も魅力的な都市の一つです！霧に包まれたゴールデンゲートブリッジから、歴史あるケーブルカーまで、どの角を曲がっても驚きが隠れています。この 5 日間のディープダイブ旅行では、私が厳選した定番のインスタ映えスポット、隠れた美味しい料理、交通のコツをお届けします。あなたのサンフランシスコ旅行を特別なものにします！",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "1日目：初めてのサンフランシスコ、港湾の魅力巡り",
+          "activities": [
+            {
+              "time_slot": "午前",
+              "spot_name": "フィッシャーマンズワーフ (Fisherman's Wharf)",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "サンフランシスコの最初の目的地は、間違いなく活気にあふれたフィッシャーマンズワーフです！ここでは賑やかなマーケットがあり、39番埠頭で可愛いアシカたちが日光浴をしている姿を間近で見ることができます。クラシックなサワーブレッドのクラムチャウダーを味わうのをお忘れなく。濃厚なミルク風味がサクサクのパンと絶妙に絡みつき、あなたの完璧な旅の始まりです！",
+              "practical_tip": "💡 お役立ちポイント：午前10時前に到着することをお勧めします。観光客が多い時間帯を避け、より良い写真を撮ることができます！"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ピア39とアシカの群れ",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "ここはピア39、アシカたちのパーティー会場です！彼らがそこに押し合い、日光浴をしている様子を見ると、癒されます。埠頭を散策した後は、近くのショッピングストリートをぶらぶらして、お土産を選びながら、カリフォルニアのリラックスした雰囲気を楽しんでください。",
+              "practical_tip": "💡 お役立ちポイント：木製のボードウォークの端まで行くと、視界が開け、アルカトラズ島のベストアングルで写真が撮れます。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ギラデリスクエア (Ghirardelli Square)",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "ディナーの後のデザートタイム！ここに来たら、名物の海塩キャラメルサンデーを味わうべきです。濃厚なチョコレートの香りとアイスクリームが完璧に融合し、サンフランシスコの夜の最高の儀式です。",
+              "practical_tip": "💡 お役立ちポイント：店内は常に行列ができますので、外に持ち帰って広場のベンチで楽しむことをお勧めします。より良い雰囲気が味わえます。"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "2日目：名所とアートの雰囲気",
+          "activities": [
+            {
+              "time_slot": "午前",
+              "spot_name": "ゴールデンゲートブリッジ (Golden Gate Bridge)",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "これはサンフランシスコの魂！何回写真を見ても、その象徴的な国際的オレンジ（International Orange）を目の当たりにすると、やはり感動します。徒歩または自転車を借りて橋を渡ることを選び、太平洋の壮大な景色を満喫しましょう。",
+              "practical_tip": "💡 お役立ちポイント：サンフランシスコは霧が発生しやすいので、出発前にリアルタイムのカメラでチェックすることをお勧めします。霧が晴れた時の景色が最も美しいです。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "美術館 (Palace of Fine Arts)",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "まるで古代ローマに迷い込んだような優雅なドーム建築と静かな湖。多くの映画のロケ地にもなっています。ここは静かな環境で、アートに彩られたインスタ映えの写真を撮るのに最適です。",
+              "practical_tip": "💡 お役立ちポイント：午後の斜めの光が差し込む時間帯に、建物の影が湖面に映る様子が非常に美しいです。",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ユニオンスクエア (Union Square)",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "街の中心部に戻ってきました。ここはショッピングの天国です！周囲には百貨店が立ち並び、様々なブティックやトレンドのお店が揃っています。ディナーは近くのフレンチやイタリアンレストランで、San Franciscoの繁華街の夜を楽しんでください。",
+              "practical_tip": "💡 お役立ちポイント：ここはケーブルカー（Cable Car）の始発地点でもありますので、体験したい方はピーク時を避けることをお勧めします。"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "3日目：文青と歴史の交差点",
+          "activities": [
+            {
+              "time_slot": "午前",
+              "spot_name": "ロンバートストリート (Lombard Street)",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "世界で最も曲がりくねった通りで、両側には色とりどりのアジサイや花々が咲いています。自動車がゆっくりとヘアピンカーブを曲がる様子は、この独特な都市風景、ここでしか見られません！",
+              "practical_tip": "💡 お役立ちポイント：下から上に向かって撮影することで、曲がりくねった道と側道の家々を完全に入れることができます。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ノースビーチ (North Beach)",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "ここは強いイタリアの血が流れ、空気にはコーヒーとピザの香りが漂います。「City Lights Bookstore」に足を運んで文学の雰囲気を感じた後、カフェに座って快適な午後を楽しみましょう。",
+              "practical_tip": "💡 お役立ちポイント：このエリアのアイスクリーム（Gelato）は本格的で、絶対に見逃せません。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "チャイナタウン (Chinatown)",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "北米で最も歴史あるチャイナタウン！ドラゴンゲートを抜けると時空を超えた気分になります。ここには本格的な広東飲茶や伝統的なスナックがたくさんあり、アジアの胃にとっては充電補給の最高の場所です。",
+              "practical_tip": "💡 お役立ちポイント：路地に隠れたフォーチュンクッキーの工場を探してみてください。とても面白いです！"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "4日目：都会の暮らしと壮大な海景",
+          "activities": [
+            {
+              "time_slot": "午前",
+              "spot_name": "ツインピークス (Twin Peaks)",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "サンフランシスコ全体を一望したいなら、ツインピークスが最適です！ここは360度の都市のパノラマを提供し、高層ビルも遠くの湾も見渡せます。これは写真愛好者の聖地です。",
+              "practical_tip": "💡 お役立ちポイント：山の上は風が強くて気温が低いため、夏でも風を防ぐジャケットを持って行くことを忘れないでください。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "カストロ地区 (The Castro)",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "ここは多様な文化の象徴的なエリアで、通りには虹の旗や個性的なお店が並んでいます。この地域の建築スタイルは特徴的で、自由な雰囲気が漂い、じっくりと散策する価値があります。",
+              "practical_tip": "💡 お役立ちポイント：カストロシアターを訪れて、サンフランシスコ特有のレトロな映画文化を体験してみてください。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "フェリービルディング (Ferry Building)",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "ここは単なる交通のハブではなく、グルメの天国です！地元の農産物や精巧な手作りの美食が集まります。夜のフェリービルディングは照明に照らされ、特に優雅に見えます。贅沢なディナーの計画にもぴったりです。",
+              "practical_tip": "💡 お役立ちポイント：もし土曜日の農産物市場に遭遇したら、新鮮なオーガニックジュースを必ず買ってください。"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "5日目：ゆっくりとお別れと最後のショッピング",
+          "activities": [
+            {
+              "time_slot": "午前",
+              "spot_name": "アラモ広場 (Alamo Square)",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "ここにはサンフランシスコで最も有名な「シックスシスターズ」のビクトリア様式の建物があり、背景には現代的な市中心のビルが立ち並んでいます。この新旧が交わる光景こそがサンフランシスコのもっとも象徴的な景色です。",
+              "practical_tip": "💡 お役立ちポイント：ピクニックマットと軽食を持ってきて、芝生の上で日差しを楽しむ。それがサンフランシスコの日常を体験する最高の方法です。"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ヘイズバレー (Hayes Valley)",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "最後の時間はショッピングに使いましょう！ここには多くのデザイナーブランド、クリエイティブな小店、高品質のカフェが集まっています。観光地よりも静かで、洗練された雰囲気が漂っており、ユニークなお土産を選ぶのに最適です。",
+              "practical_tip": "💡 お役立ちポイント：ここにある高級チョコレート店は非常に有名で、友達へのお土産にピッタリです。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "エンバカデロ (Embarcadero)",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "風に吹かれながら埠頭で、ベイブリッジの煌めく光のショーを見て、この5日間の旅の完璧な締めくくりをしましょう。海の波の音を聞きながら、この数日の素晴らしい思い出を振り返りましょう！",
+              "practical_tip": "💡 お役立ちポイント：ケーブルカーに乗って宿泊先に戻る際には、サンフランシスコの坂の刺激を最後に体験するのを忘れないでください！"
+            }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "seo_meta": {
+        "title": "【2026 샌프란시스코 자유여행】강력한 5일 itinerary 계획 완벽 가이드! 명소, 교통 & 필수 먹거리 완전 정복",
+        "description": "샌프란시스코에 처음 가면 어떻게 놀까? 이 글에서는 필수 방문 명소, 지역 음식, 클래식한 케이블카를 경험하는 초완벽한 5일 샌프란시스코 자유여행 가이드를 선사해 드립니다. 서부의 명성을 즐기세요!"
+      },
+      "hero_section": {
+        "hook_intro": "캘리포니아의 햇살을 맞이할 준비가 되었나요? 샌프란시스코는 미국에서 가장 매력이 넘치는 도시 중 하나입니다! 안개로 뒤덮인 금문교부터 역사적인 케이블카까지, 거리마다 놀라움이 숨겨져 있습니다. 이번 5일의 심층 여행에서 제가 엄선한 클래식한 포토 스폿, 숨겨진 맛집과 교통 팁을 통해 당신의 샌프란시스코 여행을 더욱 특별하게 만들어 드립니다!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "첫째 날: 샌프란시스코의 첫인상과 항구 탐방",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "피셔맨스 워프 (Fisherman's Wharf)",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "샌프란시스코의 첫 번째 정거장은 활기찬 피셔맨스 워프입니다! 이곳에는 활기찬 시장이 있을 뿐만 아니라, 39번 부두에서 사랑스러운 바다사자를 가까이에서 관찰할 수 있습니다. 클래식한 사워도우 조개 수프를 꼭 맛보세요. 고소한 우유 향과 바삭한 빵이 완벽하게 어우러져 당신의 완벽한 여행을 시작하게 해줄 거예요!",
+              "practical_tip": "💡 팁: 아침 10시 이전에 도착하는 것이 좋습니다. 많은 관광객을 피할 수 있어 사진 품질이 더 좋아요!"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "39번 부두와 바다사자 군집",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "여기는 바다사자의 파티 장면입니다! 그들이 함께 밀치고 햇볕을 쬐는 모습을 보면 힐링 지수가 최고조에 달합니다. 부두를 구경한 후에는 근처의 쇼핑가를 걸으며 기념품을 구입하고 캘리포니아의 여유로운 분위기를 만끽하세요.",
+              "practical_tip": "💡 팁: 나무 갑판 끝까지 걸어가면 가장 넓은 전망을 즐길 수 있으며, 알카트라즈 섬을 촬영하기에 최적의 각도입니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "기라델리 스퀘어 (Ghirardelli Square)",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "저녁 식사 후 디저트 시간입니다! 여기에서는 유명한 바다 소금 캐러멜 선디를 꼭 맛봐야 합니다. 풍부한 초콜릿 향과 아이스크림이 완벽하게 조화를 이루어 샌프란시스코의 밤에 행복한 순간을 선사할 것입니다.",
+              "practical_tip": "💡 팁: 가게에 긴 줄이 생길 수 있으니, 외부로 포장해 광장 옆 벤치에서 즐기는 것을 추천합니다. 분위기가 한층 더 좋습니다."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "둘째 날: 클래식 명소와 예술의 향기",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "금문교 (Golden Gate Bridge)",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "샌프란시스코의 영혼입니다! 몇 번 사진을 보았더라도, 그 상징적인 국제 오렌지색을 직접 보게 되면 여전히 놀라움이 밀려옵니다. 걷거나 자전거를 빌려 다리를 건너면서 태평양의 장엄한 풍경을 감상하세요.",
+              "practical_tip": "💡 팁: 샌프란시스코는 안개가 자주 끼므로 출발 전 실시간 카메라를 확인하는 것이 좋습니다. 안개가 걷히면 경치가 가장 아름답습니다."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "아트 팰리스 (Palace of Fine Arts)",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "유럽 고로마에 들어선 듯한 느낌을 주는 이 우아한 돔 건물과 조용한 호수는 많은 영화의 촬영지입니다. 이곳의 환경은 아늑하여 예술 감각이 가득한 인스타그램 사진을 찍기에 매우 적합합니다.",
+              "practical_tip": "💡 팁: 오후 햇살이 비칠 때 건물의 반영이 호수 surface에서 아름답게 변합니다.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "유니언 스퀘어 (Union Square)",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "도심으로 돌아오면, 여기는 쇼핑의 천국입니다! 주위에는 백화점이 즐비하고 다양한 부티크와 트렌드 매장이 있습니다. 저녁 식사는 근처의 프랑스 또는 이탈리안 레스토랑에서 즐기며 샌프란시스코의 화려한 도시 밤을 만끽하세요.",
+              "practical_tip": "💡 팁: 여기서 케이블카의 출발지이기도 하니, 이를 경험하고 싶다면 혼잡한 시간을 피하는 것이 좋습니다."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "셋째 날: 예술과 역사의 엮임",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "롬바드 스트리트 (Lombard Street)",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "세계에서 가장 구불구불한 거리! 양쪽으로는 형형색색의 수국과 꽃들이 가득합니다. 자동차가 느리게 헤어핀 곡선을 돌아가는 모습을 보며, 이 독특한 도시 풍경은 여기서만 볼 수 있는 특별한 경험입니다!",
+              "practical_tip": "💡 팁: 반드시 아래쪽에서 위로 촬영해야 구불구불한 거리와 양쪽 집들을 모두 담을 수 있습니다."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "노스 비치 (North Beach)",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "여기에는 강한 이탈리아 혈통이 있습니다. 커피와 피자의 향기가 공기 중에 퍼져 있습니다. '시티 라이트 북스토어'에서 문학의 기운을 느껴보고 커피숍에서 앉아 편안한 오후를 즐겨보세요.",
+              "practical_tip": "💡 팁: 이 지역의 이탈리안 젤라토는 매우 진정하고 절대 놓쳐서는 안 됩니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "차이나타운 (Chinatown)",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "북미에서 가장 오래된 차이나타운! 드래곤 게이트를 지나면 마치 시간 여행을 하는 것 같습니다. 여기에는 많은 본토의 홍콩식 딤섬과 전통 스낵이 있으며, 아시아의 입맛에 맞는 최고의 보충 장소입니다.",
+              "practical_tip": "💡 팁: 골목에 숨겨진 포춘 쿠키 공장을 찾아보는 것을 추천합니다. 매우 흥미로워요!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "넷째 날: 도시 생활과 웅장한 해변 경치",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "트윈 픽스 (Twin Peaks)",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "샌프란시스코를 한눈에 담고 싶다면 여기로 오세요! 이곳은 360도 도시 전경을 제공합니다. 높이 솟은 빌딩부터 멀리 보이는 만까지, 모든 것을 한눈에 볼 수 있는 사진 애호가의 성지입니다.",
+              "practical_tip": "💡 팁: 산 위는 바람이 세고 기온이 낮습니다. 여름에도 바람막이 자켓을 챙기는 것을 잊지 마세요."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "캐스트로 (The Castro)",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "여기는 다문화의 대표 지역으로, 거리에는 무지개 깃발과 독특한 개성을 갖춘 상점들이 가득합니다. 독특한 건축 양식은 자유롭고 파격적인 분위기를 발산하여 깊이 탐방할만 합니다.",
+              "practical_tip": "💡 팁: 캐스트로 극장을 방문하여 샌프란시스코 특유의 복고 영화 문화를 느껴보세요."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "페리 빌딩 (Ferry Building)",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "이곳은 단순한 교통 허브가 아니라 미식가의 천국입니다! 지역 농산물과 정교한 수공예 음식을 집결하고 있습니다. 밤의 페리 빌딩은 조명 아래에서 더욱 우아하게 빛나며, 세련된 저녁 식사를 즐기기에 적합합니다.",
+              "practical_tip": "💡 팁: 마침 토요일 농부 시장이 열리면, 반드시 신선한 유기농 주스를 사보세요."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "다섯째 날: 느긋한 작별과 마지막 쇼핑",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "알라모 광장 (Alamo Square)",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "여기에서는 샌프란시스코에서 가장 유명한 '여섯 자매' 빅토리아 양식 건축물을 볼 수 있으며, 배경은 현대적인 시내 건물입니다. 이러한 새로운 것과 오래된 것의 조화가 샌프란시스코의 가장 멋진 경관입니다.",
+              "practical_tip": "💡 팁: 피크닉 매트와 간단한 간식을 준비해 풀밭에 앉아 햇살을 즐기는 것이 가장 진정한 샌프란시스코의 일상입니다."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "헤이즈 밸리 (Hayes Valley)",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "마지막 시간은 쇼핑에 할애하세요! 이곳에는 여러 디자이너 브랜드, 문화 창작 상점 및 고급 커피숍이 모여 있습니다. 관광지보다 조용하고 세련된 분위기에서 독특한 기념품을 고르기에 좋습니다.",
+              "practical_tip": "💡 팁: 이곳의 프리미엄 초콜릿 가게은 매우 유명하여, 친구에게 선물하기에 훌륭한 고급 선물로 적합합니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "엠바카데로 (Embarcadero)",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "산들바람이 스치는 부두에서, 빛나는 베이 브리지를 감상하며 이 5일간의 여행을 완벽하게 마무리하는 순간입니다. 파도 소리를 들으며 지난 몇 날의 멋진 기억을 되새겨보세요!",
+              "practical_tip": "💡 팁: 케이블카를 타고 숙소로 돌아가는 것을 잊지 말고, 마지막으로 샌프란시스코의 경사감을 경험하세요!"
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "seo_meta": {
+        "title": "【2026 San Francisco Voyage Libre】Le meilleur guide de voyage de 5 jours ! Attractions, transport et spécialités à ne pas manquer",
+        "description": "C'est votre première fois à San Francisco ? Ce guide complet de 5 jours vous mènera à travers les incontournables, vous fera déguster des délices locaux et vous fera vivre l'expérience emblématique des Cable Cars, pour un voyage sans stress dans cette célèbre ville de la côte ouest !"
+      },
+      "hero_section": {
+        "hook_intro": "Prêt à accueillir le soleil de Californie ? San Francisco est sans aucun doute l'une des villes les plus charmantes des États-Unis ! Du brouillard enveloppant du Golden Gate Bridge aux Cable Cars chargés d’histoire, chaque coin de rue réserve des surprises. Pour ce voyage en profondeur de 5 jours, j'ai sélectionné pour vous les lieux emblématiques, des plats cachés et des astuces de transport qui garantiront une expérience inoubliable à San Francisco !",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Jour 1 : Découverte de San Francisco, balade au bord de la baie",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Fisherman's Wharf",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "Votre première étape à San Francisco est sans aucun doute le dynamique Fisherman's Wharf ! Ici, vous trouverez non seulement des marchés animés, mais vous pourrez aussi observer de près les adorables otaries se prélassant au Pier 39. Ne manquez pas de déguster une soupe de palourdes servie dans un pain au levain classique, une combinaison de crémeux et de croquant qui commence votre voyage parfaitement !",
+              "practical_tip": "💡 Astuce : Nous vous conseillons d'arriver avant 10 heures du matin pour éviter les foules de touristes, vous obtiendrez des photos de meilleure qualité !"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Pier 39 et les otaries",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "C'est comme une fête pour les otaries ici ! Les voir se pousser et se prélasser est apaisant à souhait. Après votre visite du quai, vous pouvez vous balader dans les boutiques à proximité pour choisir des souvenirs et profiter de l'ambiance décontractée de Californie.",
+              "practical_tip": "💡 Astuce : Marchez jusqu'au bout de la promenade pour la meilleure vue, c’est l'angle idéal pour photographier l'île d'Alcatraz."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Ghirardelli Square",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "C’est l’heure du dessert après le dîner ! Ici, vous devez absolument goûter le célèbre sundae au caramel salé, avec un parfum de chocolat riche parfaitement mélangé à la glace, pour une expérience sucrée inoubliable à San Francisco.",
+              "practical_tip": "💡 Astuce : Il y a souvent une longue file d'attente, il est conseillé de prendre à emporter et de savourer votre dessert sur un banc à côté, pour une ambiance encore plus agréable."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Jour 2 : Monuments emblématiques et atmosphère artistique",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Golden Gate Bridge",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "C'est l'âme de San Francisco ! Peu importe le nombre de fois où vous avez vu des photos, voir ce célèbre International Orange en personne reste un choc. Vous pouvez choisir de marcher ou de louer un vélo pour traverser le pont et admirer la majesté de l'océan Pacifique.",
+              "practical_tip": "💡 Astuce : San Francisco est souvent brumeux, pensez à vérifier les caméras en direct avant de partir, la vue est la plus belle lorsque le brouillard se dissipe."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Palace of Fine Arts",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "On se croirait dans la Rome antique ! Cette élégante structure à coupole et le lac tranquille environnant sont des lieux de tournage pour de nombreux films. L'environnement est apaisant, parfait pour capturer de superbes photos artistiques.",
+              "practical_tip": "💡 Astuce : Lorsque le soleil de l'après-midi éclaire le bâtiment de manière oblique, les ombres et réflexions sur le lac sontMAGIQUES.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Union Square",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "De retour au centre-ville, voici le paradis du shopping ! Entouré de grands magasins, vous trouverez toutes sortes de boutiques de luxe et de mode. Pour le dîner, optez pour un restaurant français ou italien dans les environs pour profiter de la vie nocturne animée de San Francisco.",
+              "practical_tip": "💡 Astuce : Ici, c’est aussi le point de départ des Cable Cars, si vous souhaitez expérimenter, essayez d'éviter les heures de pointe."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Jour 3 : L'interaction entre culture et histoire",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Lombard Street",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "La rue la plus sinueuse du monde, bordée de magnifiques hortensias colorés. Regardez les voitures tourner à très faible allure dans les virages serrés, ce paysage urbain unique ne se trouve qu'ici !",
+              "practical_tip": "💡 Astuce : Assurez-vous de prendre la photo de bas en montant pour capturer la rue sinueuse et les maisons de chaque côté."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "North Beach",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "Ici, l’héritage italien est omniprésent, l'air est parfumé de café et de pizza. Je vous recommande de visiter la librairie City Lights pour une ambiance littéraire, puis de vous asseoir dans un café pour savourer un après-midi décontracté.",
+              "practical_tip": "💡 Astuce : Les gelato italiens de cette région sont très authentiques, vous ne pouvez absolument pas les manquer."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Chinatown",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "Le plus ancien Chinatown d'Amérique du Nord ! En traversant la porte du Dragon, vous avez l’impression de voyager dans le temps. Ici, vous trouverez de nombreux dim sum locaux et des plats traditionnels, l'endroit idéal pour se ressourcer.",
+              "practical_tip": "💡 Astuce : Essayez de trouver la fabrique de fortune cookies cachée dans le quartier, c'est très amusant !"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Jour 4 : Vie urbaine et vues côtières majestueuses",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Twin Peaks",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "Vous souhaitez voir San Francisco dans son ensemble ? Twin Peaks est l'endroit idéal ! Offrant une vue panoramique à 360 degrés sur la ville, vous pourrez admirer les gratte-ciels et la baie au loin, un véritable paradis pour les photographes.",
+              "practical_tip": "💡 Astuce : Le vent est fort sur la montagne et la température plus fraîche, même en été, n'oubliez pas d'apporter un coupe-vent."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "The Castro",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "Ce quartier est un emblème de la diversité culturelle, les rues sont décorées de drapeaux arc-en-ciel et de boutiques uniques. L’architecture ici est singulière, dégageant une atmosphère libre et ouverte, parfaite pour s'y promener plus longuement.",
+              "practical_tip": "💡 Astuce : Visitez le Castro Theatre pour découvrir la culture unique des vieux films de San Francisco."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Ferry Building",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "Ce n’est pas seulement un hub de transport, c'est aussi un paradis pour les gastronomes ! Rassemblant des produits locaux et des délices faits main. La nuit, le Ferry Building brille sous les lumières, parfait pour un dîner raffiné.",
+              "practical_tip": "💡 Astuce : Si vous tombez sur le marché fermier du samedi, ne manquez pas d'acheter un jus de fruit biologique frais."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Jour 5 : Détente finale et derniers achats",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Alamo Square",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "Ici se trouvent les célèbres 'Six Sœurs' de San Francisco, des bâtiments victoriens emblématiques, avec le moderne centre-ville en fond. Ce mélange harmonieux de vieux et de nouveau est un paysage classique de San Francisco.",
+              "practical_tip": "💡 Astuce : Apportez des couvertures et de la nourriture légère pour savourer le soleil sur l'herbe, c’est le quotidien authentique de San Francisco."
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Hayes Valley",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "Terminez votre temps avec un peu de shopping ! Ce quartier regorge de marques de designers, de boutiques créatives et de cafés de qualité. L'ambiance ici est plus tranquille et raffinée que dans les zones touristiques, parfaite pour choisir des souvenirs uniques.",
+              "practical_tip": "💡 Astuce : Cette chocolaterie artisanale est très célèbre, idéale pour acheter un cadeau haut de gamme pour vos amis et votre famille."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Embarcadero",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "Au bord du quai, dans une brise légère, regardez le spectacle lumineux du Bay Bridge, c'est une façon parfaite de conclure ces 5 jours de voyage. Écoutez le bruit des vagues et revivez les merveilleux souvenirs de ces quelques jours !",
+              "practical_tip": "💡 Astuce : Prenez le Cable Car pour retourner à votre hébergement, n'oubliez pas de vivre la montée finale sur les pentes de San Francisco !"
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "seo_meta": {
+        "title": "【2026 San Francisco Viaje Libre】¡El Mejor Paquete de Itinerario de 5 Días! Guía Completa de Atracciones, Transporte y Comidas Imperdibles",
+        "description": "¿Es tu primera vez en San Francisco? Esta completa guía de 5 días te llevará a los imprescindibles, a saborear la comida local y a experimentar el clásico tranvía, ¡para que disfrutes de esta famosa ciudad de la costa oeste sin complicaciones!"
+      },
+      "hero_section": {
+        "hook_intro": "¿Estás listo para recibir el sol de California? San Francisco es, sin duda, una de las ciudades más encantadoras de Estados Unidos. Desde el misterioso Puente Golden Gate hasta el histórico tranvía, cada rincón tiene sorpresas. En este recorrido de 5 días, he seleccionado los lugares fotogénicos más emblemáticos, restaurantes escondidos y trucos de transporte, ¡garantizando que tu viaje a San Francisco sea inolvidable!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Día 1: Primer vistazo a San Francisco, tour del puerto",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Fisherman's Wharf",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "La primera parada en San Francisco es, sin duda, el vibrante Fisherman's Wharf. Aquí no solo encontrarás un mercado bullicioso, sino que también podrás observar de cerca a los adorables leones marinos tomando el sol en el muelle 39. No olvides probar la clásica sopa de almejas en pan de masa agria, con su intensa sabor lácteo y el crujiente pan, ¡comenzando así tu viaje perfecto!",
+              "practical_tip": "💡 Consejo del experto: Se recomienda llegar antes de las 10 de la mañana para evitar las grandes multitudes de turistas y obtener mejores fotos."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Muelle 39 y la colonia de leones marinos",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "¡Este lugar es como una fiesta de leones marinos! Observa cómo se empujan entre sí y toman el sol, ¡es un alivio para el alma! Después de explorar el muelle, puedes pasear por las tiendas cercanas para elegir souvenirs y sentir el relajado ambiente californiano.",
+              "practical_tip": "💡 Consejo del experto: Camina hasta el final del paseo de madera, donde tendrás la vista más amplia, ¡es el mejor ángulo para fotografiar la Isla de Alcatraz!"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Ghirardelli Square",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "¡Es hora de un dulce postre después de la cena! No puedes irte sin probar el famoso sundae de caramelo salado, donde el rico sabor del chocolate se mezcla perfectamente con el helado, ¡una deliciosa ceremonia nocturna en San Francisco!",
+              "practical_tip": "💡 Consejo del experto: Suele haber largas filas, así que te recomendamos llevarlo para disfrutarlo en un banco junto a la plaza, creando una atmósfera mágica."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Día 2: Monumentos clásicos y ambiente artístico",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Golden Gate Bridge",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "¡Este es el alma de San Francisco! No importa cuántas fotos hayas visto, la vista del icónico naranja internacional sigue impresionando. Puedes elegir caminar o alquilar una bicicleta para cruzar el puente, disfrutando de la majestuosidad del océano Pacífico.",
+              "practical_tip": "💡 Consejo del experto: San Francisco es propensa a la niebla, así que consulta la cámara web antes de salir; los paisajes son más hermosos cuando la niebla se disipa."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Palace of Fine Arts",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "Te sentirás como si hubieras entrado en la Antigua Roma, con esta elegante estructura en forma de cúpula junto a un sereno lago, que ha sido escenario de muchas películas. El entorno es tranquilo, perfecto para capturar esas fotos artísticas en Instagram.",
+              "practical_tip": "💡 Consejo del experto: Con la luz del sol de la tarde, los reflejos del edificio en el agua son simplemente espectaculares.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Union Square",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "De regreso al centro de la ciudad, ¡este es el paraíso de las compras! Rodeado de grandes almacenes, boutiques y tiendas de moda, hay de todo. Para la cena, puedes elegir entre varias opciones de restaurantes franceses o italianos y disfrutar de la vibrante noche de la ciudad.",
+              "practical_tip": "💡 Consejo del experto: Aquí también es la terminal de los tranvías, ¡si deseas experimentar uno, trata de evitarlos en las horas pico!"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Día 3: La intersección del arte y la historia",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Lombard Street",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "¡La calle más torcida del mundo! Flanqueada por coloridas hortensias y flores, observar los coches tomar las curvas lentas es una vista única de la ciudad que solo aquí puedes ver.",
+              "practical_tip": "💡 Consejo del experto: Asegúrate de tomar fotos desde abajo hacia arriba para capturar la sinuosa calle y las casas a los lados."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "North Beach",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "Este lugar tiene una fuerte herencia italiana, con un aire impregnado del aroma del café y la pizza. Te recomiendo visitar 'City Lights Bookstore' para sentir la atmósfera literaria y luego sentarte en una cafetería para disfrutar de una tarde tranquila.",
+              "practical_tip": "💡 Consejo del experto: El gelato italiano de esta zona es auténtico, ¡definitivamente no te lo puedes perder!"
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Chinatown",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "¡El barrio chino más antiguo de América del Norte! Al cruzar por el Dragón, parece que estás cruzando a través del tiempo. Aquí encontrarás auténticos dim sum y bocados tradicionales, ¡el mejor lugar para recargar energías para el paladar asiático!",
+              "practical_tip": "💡 Consejo del experto: Busca la fábrica de galletas de la fortuna escondida en los callejones, ¡es muy interesante!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Día 4: Vida urbana y vistas marinas impresionantes",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Twin Peaks",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "¿Quieres tener la vista más amplia de San Francisco? ¡Twin Peaks es el lugar! Ofrece vistas panorámicas de 360 grados, desde rascacielos hasta la bahía lejana, es un paraíso para fotógrafos.",
+              "practical_tip": "💡 Consejo del experto: Hacia la cima del monte suele hacer viento y estar más fresco, así que incluso en verano recuerda llevar una chaqueta para el viento."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "The Castro",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "Este es un área emblemática de la diversidad cultural, con calles adornadas de banderas arcoíris y peculiares tiendas únicas. La arquitectura aquí es distintiva, ¡y merece una exploración profunda!",
+              "practical_tip": "💡 Consejo del experto: Visita el Castro Theatre para experimentar la cultura de cine retro única de San Francisco."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Ferry Building",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "Este lugar no solo es un centro de transporte, ¡sino también un paraíso para los amantes de la comida! Reúne productos locales y delicias artesanales. En la noche, el Ferry Building, iluminado, se ve especialmente elegante, perfecto para una cena sofisticada.",
+              "practical_tip": "💡 Consejo del experto: Si coincides con el mercado de agricultores el sábado, ¡no dejes de comprar un jugo de frutas orgánicas frescas!"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Día 5: Despedida relajada y últimas compras",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Alamo Square",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "Aquí se encuentran las famosas 'Sisters' victorianas de San Francisco, con el moderno horizonte de edificios de fondo. Esta mezcla de viejo y nuevo crea una de las vistas más icónicas de San Francisco.",
+              "practical_tip": "💡 Consejo del experto: Lleva mantas de picnic y snacks, sentarte en el césped disfrutando del sol es la experiencia más auténtica de San Francisco."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Hayes Valley",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "¡Dedica tu último tiempo a las compras! Aquí se encuentra una colección de marcas de diseñadores, tiendas de creatividad y cafeterías de alta calidad. La atmósfera es más tranquila y sofisticada que en las áreas turísticas, ¡perfecta para elegir regalos únicos!",
+              "practical_tip": "💡 Consejo del experto: Las tiendas de chocolates finos aquí son famosas, perfectas para llevar como regalos especiales para amigos y familiares."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Embarcadero",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "En la orilla del muelle con la brisa suave, observa el espectáculo de luces en el Bay Bridge, poniendo un hermoso cierre a estos 5 días de viaje. Escucha el sonido de las olas y revive los recuerdos emocionantes de estos días.",
+              "practical_tip": "💡 Consejo del experto: Toma el tranvía de regreso a tu alojamiento, ¡no te olvides de experimentar una última vez la emocionante inclinación de San Francisco!"
+            }
+          ]
+        }
+      ]
+    },
+    "id": {
+      "seo_meta": {
+        "title": "【2026 San Francisco Perjalanan Mandiri】Rencana Itinerary 5 Hari Paling Kuat! Panduan Lengkap tentang Tempat Wisata, Transportasi & Makanan yang Harus Coba",
+        "description": "Pertama kali ke San Francisco? Artikel ini merupakan panduan lengkap untuk perjalanan mandiri selama 5 hari di San Francisco, mengajak Anda mengunjungi tempat-tempat wajib, mencicipi kuliner lokal, dan merasakan pengalaman menaiki kabel mobil, memudahkan Anda menjelajahi kota terkenal di pantai barat ini!"
+      },
+      "hero_section": {
+        "hook_intro": "Siap menyambut sinar matahari California? San Francisco adalah salah satu kota paling menawan di Amerika Serikat! Dari Jembatan Golden Gate yang diselimuti kabut, hingga kabel mobil bersejarah, setiap sudut jalan menyimpan kejutan. Dalam perjalanan mendalam selama 5 hari ini, saya telah memilih tempat-tempat ikonik, makanan rahasia, dan trik transportasi terbaik untuk memastikan perjalanan Anda di San Francisco sangat berkesan!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Hari 1: Pertama Kali di San Francisco, Tur Pesona Pelabuhan",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Fisherman's Wharf",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "Destinasi pertama Anda di San Francisco pasti adalah Fisherman's Wharf yang penuh energi! Di sini tidak hanya ada pasar yang ramai, tetapi Anda juga dapat melihat anjing laut yang menggemaskan berjemur di Pier 39. Jangan lupa mencicipi sup kerang dalam roti asam yang terkenal, perpaduan krim susu yang kaya dan roti renyah, memulai perjalanan sempurna Anda!",
+              "practical_tip": "💡 Tips dari Ahli: Disarankan untuk tiba sebelum jam 10 pagi untuk menghindari kerumunan wisatawan, sehingga kualitas foto Anda akan lebih baik!"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Pier 39 dan Sekelompok Anjing Laut",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "Di sini seolah-olah menjadi tempat pesta anjing laut! Melihat mereka bergelut dan berjemur di sana, tingkat ketenangannya sangat tinggi. Setelah menjelajahi dermaga, Anda dapat berjalan-jalan ke jalan depan untuk memilih suvenir dan merasakan suasana santai California.",
+              "practical_tip": "💡 Tips dari Ahli: Berjalanlah hingga ujung jalan kayu, pemandangannya paling luas, dan adalah sudut terbaik untuk memotret Pulau Alcatraz."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Ghirardelli Square",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "Waktu pencuci mulut setelah makan malam! Di sini Anda harus mencicipi sundae karamel laut yang terkenal, aroma cokelat yang kaya berpadu sempurna dengan es krim, adalah ritual paling bahagia di malam hari San Francisco.",
+              "practical_tip": "💡 Tips dari Ahli: Seringkali ada antrean panjang di dalam toko, disarankan untuk dibawa ke bangku di dekat alun-alun untuk menikmati suasana yang lebih baik."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Hari 2: Landmark Klasik dan Suasana Seni",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Golden Gate Bridge",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "Ini adalah jiwa San Francisco! Tak peduli seberapa banyak foto yang sudah Anda lihat, melihat warna oranye internasional yang ikonik secara langsung tetap menggugah. Anda bisa memilih untuk berjalan kaki atau menyewa sepeda untuk melintasi jembatan, menyaksikan keindahan Samudera Pasifik secara langsung.",
+              "practical_tip": "💡 Tips dari Ahli: San Francisco sering berkabut, disarankan untuk memeriksa kamera langsung sebelum berangkat, pemandangannya paling indah ketika kabut menghilang."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Palace of Fine Arts",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "Tampak seperti berjalan ke Eropa kuno Roma, bangunan berkubah elegan ini dengan danau yang tenang adalah lokasi syuting untuk banyak film. Lingkungan yang damai ini sangat cocok untuk menangkap foto-foto yang penuh seni.",
+              "practical_tip": "💡 Tips dari Ahli: Saat sinar matahari menyinari dari sisi, pencahayaan bangunan yang dipantulkan di permukaan danau bisa sangat indah.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Union Square",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "Kembali ke pusat kota, di sini adalah surga belanja! Di sekelilingnya ada banyak department store, berbagai butik dan toko modern. Untuk makan malam, Anda bisa memilih restoran Prancis atau Italia di dekatnya, menikmati malam yang ramai di San Francisco.",
+              "practical_tip": "💡 Tips dari Ahli: Ini juga merupakan titik awal untuk kabel mobil, jika ingin mengalaminya, disarankan untuk menghindari jam sibuk."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Hari 3: Perpaduan Budaya dan Sejarah",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Lombard Street",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "Jalan terbelok paling tajam di dunia, dipenuhi dengan tanaman hortensia dan bunga-bunga berwarna-warni di kedua sisinya. Melihat mobil berbelok dengan sangat lambat melalui tikungan tajam, ini adalah pemandangan kota yang unik hanya dapat Anda lihat di sini!",
+              "practical_tip": "💡 Tips dari Ahli: Pastikan untuk mengambil foto dari bawah ke atas, agar dapat menangkap jalanan yang berkelok dan rumah-rumah di kedua sisinya."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "North Beach",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "Tempat ini memiliki warisan Italia yang kental, dengan aroma kopi dan pizza menyebar di udara. Disarankan untuk menuju 'City Lights Bookstore' merasakan suasana literasi, kemudian cari sebuah kafe untuk duduk dan menikmati sore yang santai.",
+              "practical_tip": "💡 Tips dari Ahli: Gelato Italia di kawasan ini sangat autentik, jangan sampai terlewat!"
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Chinatown",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "Chinatown tertua di Amerika Utara! Melalui Gerbang Naga, Anda akan merasa seolah berlayar waktu. Di sini ada banyak dim sum khas Hong Kong dan makanan tradisional, menjadi tempat yang sempurna untuk mendapatkan energi kembali bagi perut Asia.",
+              "practical_tip": "💡 Tips dari Ahli: Cobalah mencari pabrik kue keberuntungan yang tersembunyi di gang-gang, sangat menarik!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Hari 4: Kehidupan Metropolitan dan Pemandangan Laut yang Megah",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Twin Peaks",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "Ingin melihat seluruh San Francisco dalam satu pandangan? Datanglah ke Twin Peaks! Di sini Anda bisa melihat panorama kota 360 derajat, baik gedung-gedung tinggi maupun teluk yang jauh, semua terlihat jelas, menjadi surga bagi para fotografer.",
+              "practical_tip": "💡 Tips dari Ahli: Angin di puncak gunung sangat kencang dan suhunya lebih dingin, bahkan saat musim panas, jangan lupa bawa jaket anti angin."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "The Castro",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "Ini adalah wilayah budaya yang beragam, jalanannya dipenuhi dengan bendera pelangi dan toko-toko unik yang penuh karakter. Gaya arsitektur di sini sangat berbeda, memancarkan suasana kebebasan, sangat cocok untuk berkeliling mendalam.",
+              "practical_tip": "💡 Tips dari Ahli: Kunjungi Castro Theatre untuk merasakan budaya film retro yang khas San Francisco."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Ferry Building",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "Tempat ini bukan hanya pusat transportasi, tetapi juga surga bagi para pecinta makanan! Menghadirkan produk lokal dan makanan olahan yang berkualitas. Ferry Building di malam hari terlihat sangat elegan di bawah pencahayaan, cocok untuk merencanakan makan malam yang mewah.",
+              "practical_tip": "💡 Tips dari Ahli: Jika kebetulan berada di pasar petani hari Sabtu, jangan lewatkan untuk membeli segelas jus organik segar."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Hari 5: Perpisahan Santai dan Belanja Terakhir",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Alamo Square",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "Di sini terdapat bangunan Victoria yang terkenal, 'Six Sisters', dengan latar gedung modern di pusat kota. Pemandangan yang memadukan yang baru dan yang lama ini adalah salah satu pemandangan paling ikonik di San Francisco.",
+              "practical_tip": "💡 Tips dari Ahli: Bawa beberapa tikar piknik dan makanan ringan, duduk di atas rumput untuk menikmati sinar matahari, itu adalah cara paling otentik menikmati kehidupan sehari-hari di San Francisco."
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Hayes Valley",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "Waktu terakhir dihabiskan untuk berbelanja! Tempat ini diisi dengan banyak merek desainer, toko kreatif, dan kafe berkualitas tinggi. Suasananya lebih tenang dan lebih halus dibandingkan dengan area wisata, sangat cocok untuk memilih oleh-oleh yang unik.",
+              "practical_tip": "💡 Tips dari Ahli: Toko cokelat premium di sini sangat terkenal, cocok untuk dibeli sebagai hadiah mewah untuk teman dan keluarga."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Embarcadero",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "Di tepi dermaga yang diterpa angin, melihat pertunjukan cahaya di Jembatan Teluk, mengakhiri perjalanan 5 hari ini dengan sempurna. Dengarkan suara ombak, menikmati kembali kenangan indah beberapa hari ini!",
+              "practical_tip": "💡 Tips dari Ahli: Naik kabel mobil kembali ke tempat akomodasi, jangan lupa untuk merasakan sensasi mendaki San Francisco sekali lagi di atas kereta!"
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "seo_meta": {
+        "title": "【2026 सैन फ्रांसिस्को स्वतंत्र यात्रा】सबसे मजबूत 5 दिवसीय यात्रा योजना गाइड! आकर्षण, परिवहन और अनिवार्य खाने की पूरी मार्गदर्शिका",
+        "description": "क्या आप पहली बार सैन फ्रांसिस्को जा रहे हैं? यह संपूर्ण 5 दिन की सैन फ्रांसिस्को स्वतंत्र यात्रा गाइड आपको अनिवार्य आकर्षणों की यात्रा करने, स्थानीय भोजन का स्वाद चखने और ऐतिहासिक रोपवे का अनुभव करने में मदद करेगी, जिससे आप पश्चिमी तट के इस प्रसिद्ध शहर को आसानी से探索 कर सकें!"
+      },
+      "hero_section": {
+        "hook_intro": "क्या आप कैलिफ़ोर्निया की धूप का स्वागत करने के लिए तैयार हैं? सैन फ्रांसिस्को अमेरिका के सबसे आकर्षक शहरों में से एक है! धुंध में लिपटा गोल्डन गेट ब्रिज हो, या ऐतिहासिक रोपवे, हर कोने में छुपा है एक आश्चर्य। इस 5 दिवसीय गहरे अनुभव के लिए, मैंने आपके लिए सबसे प्रचलित स्थानों, छिपे हुए खाद्य स्थानों और परिवहन के टिप्स का चुनाव किया है, जो आपकी सैन फ्रांसिस्को यात्रा को अद्भुत बना देगा!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "दिन 1: पहले बार सैन फ्रांसिस्को, बंदरगाह का अनुभव",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "फिशरमैन का घाट (Fisherman's Wharf)",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "सैन फ्रांसिस्को में आपके पहले पड़ाव पर आना, यह निश्चित रूप से जीवंत फिशरमैन's वॉरफ है! यहाँ न केवल एक हलचल भरा बाजार है, बल्कि आप करीब से प्यारे समुद्री शेरों को 39 नंबर डॉक्स पर धूप सेंकते हुए देख सकते हैं। एक क्लासिक खट्टे ब्रेड क्लैम चाउडर का आनंद लेना ना भूले, जब मलाईदार दूध की सुगंध और कुरकुरी ब्रेड के साथ आपका दिन शुरू होता है!",
+              "practical_tip": "💡 अनुभवी सुझाव: सुबह 10 बजे से पहले पहुंचने की सलाह दी जाती है, जिससे भारी भीड़ से बचा जा सके, और फोटो की गुणवत्ता भी बेहतर होगी!"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "39 नंबर डॉक्स और समुद्री शेरों का समूह",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "यहां तो समुद्री शेरों की पार्टी है! उन्हें धूप में लेटे हुए और धक्का देते हुए देखना बेहद सुखद है। डॉक्स के बाद, आप पास की दुकानों की सड़क पर भी टहल सकते हैं, जहां आपको कैलीफोर्निया की आरामदायक वातावरण का अनुभव होगा।",
+              "practical_tip": "💡 अनुभवी सुझाव: लकड़ी के पियर्स पर अंत तक चलें, दृश्यता सबसे खुली होती है, और यह अल्कात्राज़ द्वीप के फोटो लेने का सबसे अच्छा कोण है।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "गिरार्डेली स्क्वायर (Ghirardelli Square)",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "रात के खाने के बाद का मिठाई का समय! यहाँ पहुँचकर प्रसिद्ध समुद्री नमक कारमेल सनडे का अवश्य चखे, चॉकलेट की गहरी सुगंध और आइस क्रीम का परिपूर्ण मिश्रण, यह सैन फ्रांसिस्को की रात का सबसे सुखद अनुभव है।",
+              "practical_tip": "💡 अनुभवी सुझाव: दुकान में अक्सर लंबी कतारें होती हैं, बाहर लेकर स्क्वायर के बगल में बेंच पर खाने की सलाह दी जाती है, इससे अधिक आनंददायक अनुभव होगा।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "दिन 2: क्लासिक प्रतीक और कला की भावना",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "गोल्डन गेट ब्रिज (Golden Gate Bridge)",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "यह सैन फ्रांसिस्को की आत्मा है! चाहे आपने कितनी बार तस्वीरें देखी हों, जब आप उन विशेष अंतरराष्ट्रीय नारंगी रंग को खुद से देखते हैं, यह अभी भी मंत्रमुग्ध कर देने वाला अनुभव है। आप या तो पैदल चल सकते हैं या साइकिल किराए पर लेकर पुल को पार कर सकते हैं, जिससे आप प्रशांत महास Ocean का भव्यता देख सकें।",
+              "practical_tip": "💡 अनुभवी सुझाव: सैन फ्रांसिस्को में धुंध जल्दी होती है, इसलिए यात्रा शुरू करने से पहले रियल-टाइम कैमरा देखें, धुंध छटने पर दृश्यता सबसे सुंदर है।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "फाइन आर्ट्स पैलेस (Palace of Fine Arts)",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "ऐसा लगता है जैसे आप यूरोपीय प्राचीन रोम में कदम रख रहे हैं, यह सुंदर गुंबददार इमारत और शांत झील कई फिल्मों का लोकेशन है। यहाँ का वातावरण शांति भरा है, जो कला से भरी फोटो खींचने के लिए बहुत अच्छा है।",
+              "practical_tip": "💡 अनुभवी सुझाव: दोपहर की धूप जब झील पर पड़ती है, तो इमारत की परछाई का खेल बहुत सुंदर होता है।",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "यूनियन स्क्वायर (Union Square)",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "शहर के केंद्र में लौटें, यह यहाँ शॉपिंग का स्वर्ग है! चारों ओर डिपार्टमेंट स्टोर्स हैं, जहां हर प्रकार की प्रीमियम और ट्रेंडी दुकानों की भरपूरता है। रात के खाने के लिए पास के फ्रेंच या इटालियन रेस्तरां का चुनाव करें, जिससे आप सैन फ्रांसिस्को की जीवंत शहर की रात का आनंद ले सकें।",
+              "practical_tip": "💡 अनुभवी सुझाव: यह रोपवे का प्रारंभिक बिंदु भी है, यदि आप इसे अनुभव करना चाहते हैं, तो पीक टाइम से बचना उचित है।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "दिन 3: साहित्यिक और ऐतिहासिक का मिश्रण",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "लॉम्बार्ड स्ट्रीट (Lombard Street)",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "दुनिया की सबसे टेढ़ी सड़क, इसके दोनों किनारे रंग-बिरंगे हाइड्रेंजिया और फूलों से भरे हुए हैं। कार जब बेहद धीमी गति से ढलान पर मुड़ती है, तो यह अनोखी शहर दृश्य केवल यहीं देखी जाती है!",
+              "practical_tip": "💡 अनुभवी सुझाव: नीचे से ऊपर की ओर फोटो लें, ताकि आप गोलाई वाली सड़क और दोनों ओर के घरों को सही से कैद कर सकें।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "नॉर्थ बीच (North Beach)",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "यहां इटालियन धरोहर की गहरी महक है, यहाँ की हवा में कॉफी और पिज्जा की सुगंध है। 'सिटी लाइट्स बुकस्टोर' पर जाने की सलाह दी जाती है, ताकि आप साहित्यिक भावना का अनुभव कर सकें, फिर किसी कैफे में बैठकर एक सुखद दोपहर बिताएं।",
+              "practical_tip": "💡 अनुभवी सुझाव: इस क्षेत्र का इटालियन जेलाटो आइसक्रीम प्रामाणिक है, जिसे नहीं चूकना चाहिए।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "चाइनाटाउन (Chinatown)",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "उत्तर अमेरिका का सबसे पुराना चाइनाटाउन! ड्रैगन गेट को पार करते हुए, ऐसा लगता है जैसे आप समय में पीछे जा रहे हैं। यहाँ पारंपरिक हांगकांग नाश्ते और विशेष स्नैक्स की भरपूरता है, एशियाई स्वाद के लिए, यह सबसे बेहतरीन जगह है।",
+              "practical_tip": "💡 अनुभवी सुझाव: गली में छिपे हुए फॉर्च्यून कुकी फैक्ट्री को खोजने की कोशिश करें, यह बहुत ही दिलचस्प है!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "दिन 4: शहरी जीवन और शानदार समुद्री दृश्य",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "ट्विन पीक्स (Twin Peaks)",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "क्या आप पूरे सैन फ्रांसिस्को का दृश्य देखना चाहते हैं? तो संगीनी पहाड़ियों पर आना सही है! यहाँ 360 डिग्री का शहर का दृश्य उपलब्ध है, चाहे वह ऊंची इमारतें हों या दूर का खाड़ी, यहाँ सब दिखाई देता है, यह फोटोग्राफरों के लिए स्वर्ग है।",
+              "practical_tip": "💡 अनुभवी सुझाव: पहाड़ी पर तेज़ हवाएं होती हैं और तापमान कम होता है, इसलिए गर्मियों में भी एक विंड ब्रेक जैकेट लाना न भूलें।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "द कास्टरो (The Castro)",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "यह विविधता का प्रतिनिधित्व क्षेत्र है, सड़कों पर रंगीन झंडे और विशिष्ट स्टोर भरे हुए हैं। यहाँ की इमारतों का अंदाज अद्वितीय है, जो स्वतंत्रता की भावना बिखेरती है, यहाँ गहराई से घूमना बहुत अच्छी बात है।",
+              "practical_tip": "💡 अनुभवी सुझाव: कास्टरो थिएटर का दौरा करें, ताकि आप सैन फ्रांसिस्को की विशेष पुरानी फिल्म संस्कृति का अनुभव कर सकें।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "फेरी बिल्डिंग (Ferry Building)",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "यहाँ केवल एक परिवहन केंद्र ही नहीं, बल्कि खाद्य प्रेमियों का स्वर्ग है! यहाँ स्थानीय कृषि उत्पादों और बेहतरीन हस्तशिल्प खाद्य सामग्री का संग्रह है। रात में, फेरी बिल्डिंग रोशनी में अत्यंत सुंदर दिखती है, यह एक सुंदर रात के खाने की योजना बनाने के लिए बहुत अच्छा स्थान है।",
+              "practical_tip": "💡 अनुभवी सुझाव: यदि आप शनिवार के किसानों के बाजार में पहुँच जाएं, तो ताजा ऑर्गैनिक जूस अवश्य खरीदें।"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "दिन 5: आराम से विदाई और अंतिम खरीदारी",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "एलामो स्क्वायर (Alamo Square)",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "यहाँ सैन फ्रांसिस्को की सबसे प्रसिद्ध 'सिक्स सिस्टर्स' विक्टोरियन इमारतें हैं, जो आधुनिक शहर की इमारतों के पीछे हैं। यह नया और पुराना का संगम, सैन फ्रांसिस्को का सबसे क्लासिक दृश्य है।",
+              "practical_tip": "💡 अनुभवी सुझाव: कुछ पिकनिक चटाई और हल्के नाश्ते के लिए तैयार रखें, घास पर बैठकर धूप की सुख का अनुभव करें, यह सबसे प्रामाणिक सैन फ्रांसिस्को की दिनचर्या है।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "हेज वैली (Hayes Valley)",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "अंतिम समय खरीदारी के लिए समर्पित करें! यहाँ कई डिज़ाइनर ब्रांड, कला और संस्कृति की छोटी दुकानें और उच्च गुणवत्ता वाली कैफे शामिल हैं। यहाँ का वातावरण पर्यटन क्षेत्र की तुलना में अधिक शांत और उत्कृष्ट है, जो अद्वितीय उपहार चुनने के लिए बहुत अच्छा है।",
+              "practical_tip": "💡 अनुभवी सुझाव: यहाँ की आर्टिसन चॉकलेट की दुकान बहुत प्रसिद्ध है, जिसे उपहार देने के लिए खरीदना उचित है।"
+            },
+            {
+              "time_slot": "शाम",
+              "spot_name": "एंबार्केडेरो (Embarcadero)",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "जब ठंडी हवा के साथ डॉक्स के किनारे पर, बे ब्रिज के चमकते लाइट शो को देखते हुए, इस 5 दिन की यात्रा को एक परिपूर्ण समापन दें। समुद्र की लहरों की आवाज़ सुनते हुए, इस यात्रा के यादगार पलों को फिर से जीएं!",
+              "practical_tip": "💡 अनुभवी सुझाव: रोपवे पर वापस लौटते समय, सैन फ्रांसिस्को की झुकी हुई सड़कों का अनुभव करने के लिए कभी न भूलें!"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "seo_meta": {
+        "title": "【2026 São Francisco Viagem Livre】O Melhor Guia de Roteiro de 5 Dias! Principais Atrações, Transporte & Gastronomia Imperdível",
+        "description": "Vai a São Francisco pela primeira vez e não sabe como aproveitar? Este guia completo de 5 dias de viagem livre em São Francisco vai te levar a todos os pontos turísticos essenciais, degustar a culinária local e experimentar o clássico Cable Car, permitindo que você explore esta cidade icônica da costa oeste com facilidade!"
+      },
+      "hero_section": {
+        "hook_intro": "Pronto para aproveitar o sol da Califórnia? São Francisco é sem dúvida uma das cidades mais encantadoras dos Estados Unidos! Desde a emblemática Golden Gate Bridge envolta em névoa até os históricos Cable Cars, cada esquina guarda uma surpresa. Neste profundo roteiro de 5 dias, selecionei os locais mais clássicos para fotos, delícias gastronômicas escondidas e dicas de transporte que certamente tornarão sua viagem a São Francisco inesquecível!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Dia 1: Primeira Impressão de São Francisco, Excursão pelo Porto",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Fisherman's Wharf",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "A primeira parada em São Francisco é, sem dúvida, o vibrante Fisherman's Wharf! Aqui, você vai encontrar não apenas um animado mercado, mas também poderá observar de perto as adoráveis focas do mar tomando sol no Pier 39. Não deixe de experimentar a clássica sopa de mariscos servida em pão azedo, a deliciosa combinação de sabores vai iniciar sua jornada perfeita!",
+              "practical_tip": "💡 Dica de Especialista: Recomendo chegar antes das 10 horas da manhã para evitar multidões de turistas e garantir fotos de melhor qualidade!"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Pier 39 e Focas do Mar",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "Este lugar é uma verdadeira festa para as focas do mar! Assistir a elas empurrando umas às outras e tomando sol é uma experiência terapêutica. Depois de explorar o píer, você pode caminhar até as lojas nas proximidades para escolher lembranças e sentir a descontração californiana.",
+              "practical_tip": "💡 Dica de Especialista: Caminhe até o final do calçadão de madeira para ter a melhor vista, que é perfeita para fotografar a Ilha de Alcatraz."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Ghirardelli Square",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "Hora da sobremesa após o jantar! Aqui você deve experimentar o famoso sundae de caramelo salgado, onde o rico aroma do chocolate se mistura perfeitamente com o sorvete, tornando-se um ritual de felicidade nas noites de São Francisco.",
+              "practical_tip": "💡 Dica de Especialista: O local costuma ter longas filas, então é melhor pedir para levar e desfrutar em um banco ao lado da praça, o que cria uma atmosfera mais agradável."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Dia 2: Monumentos Clássicos e Atmosfera Artística",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Golden Gate Bridge",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "Esta é a alma de São Francisco! Não importa quantas fotos você tenha visto, ver a icônica cor laranja internacional ao vivo ainda é impressionante. Você pode optar por caminhar ou alugar uma bicicleta para atravessar a ponte, aproveitando a vista magnífica do Oceano Pacífico.",
+              "practical_tip": "💡 Dica de Especialista: São Francisco costuma ter névoa, então verifique as câmeras ao vivo antes de sair; a vista é mais bonita quando a névoa se dissipa."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Palace of Fine Arts",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "É como entrar na Roma antiga da Europa! Esta elegante construção com cúpula, cercada por um lago tranquilo, é um local de filmagem para muitos filmes. O lugar é sereno e perfeito para tirar fotos artísticas cheias de estilo.",
+              "practical_tip": "💡 Dica de Especialista: Quando o sol começa a baixar à tarde, a luz refletida na água cria sombras muito bonitas.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Union Square",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "De volta ao centro da cidade, aqui é um verdadeiro paraíso para compras! Existem diversos shoppings e boutiques ao redor com todas as opções que você pode imaginar. Para o jantar, você pode escolher entre os restaurantes franceses ou italianos nas proximidades e aproveitar a vida noturna vibrante de São Francisco.",
+              "practical_tip": "💡 Dica de Especialista: Aqui também é o ponto de partida dos Cable Cars; se você deseja experimentar, recomendo evitar os horários de pico."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "Dia 3: Intersecção de Cultura e História",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Lombard Street",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "A rua mais curva do mundo, cheia de coloridas hortênsias e flores ao longo de seus lados. Assistir os carros fazendo as curvas lentas é uma visão única que só você pode ver aqui!",
+              "practical_tip": "💡 Dica de Especialista: Certifique-se de tirar fotos de baixo para cima para capturar a serpenteante rua e as casas ao lado."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "North Beach",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "Este é um bairro com forte influência italiana, onde o ar está impregnado com o aroma de café e pizza. Recomendo visitar a Livraria City Lights para sentir a atmosfera literária e, em seguida, encontrar um café para relaxar e desfrutar da tarde.",
+              "practical_tip": "💡 Dica de Especialista: O gelato italiano desta área é muito autêntico e definitivamente não pode ser perdido."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Chinatown",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "A Chinatown mais antiga da América do Norte! Ao passar pelo Portão do Dragão, você sente como se estivesse viajando no tempo. Aqui você encontrará ótimos dim sums autênticos e lanches tradicionais, um dos melhores lugares para recarregar as energias de quem é asiático.",
+              "practical_tip": "💡 Dica de Especialista: Tente encontrar a fábrica de biscoitos da sorte escondida nas ruas, é muito interessante!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "Dia 4: Vida Metropolitana e Vista Maravilhosa do Mar",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Twin Peaks",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "Quer ter uma visão total de São Francisco? Então você deve ir a Twin Peaks! Aqui você pode ter uma visão panorâmica de 360 graus da cidade, abarcando desde arranha-céus até a baía ao longe, é um verdadeiro paraíso para os amantes da fotografia.",
+              "practical_tip": "💡 Dica de Especialista: O vento é forte e as temperaturas são mais baixas no topo da montanha, então mesmo no verão, lembre-se de levar um casaco à prova de vento."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "The Castro",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "Este é um distrito que representa a diversidade cultural, com ruas repletas de bandeiras de arco-íris e lojas de personalidade. A arquitetura aqui é única, exalando uma atmosfera vibrante e libertária, um lugar realmente vale a pena explorar.",
+              "practical_tip": "💡 Dica de Especialista: Visite o Castro Theatre para sentir a cultura do cinema retrô que é única em São Francisco."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Ferry Building",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "Este lugar não é apenas um ponto de transporte, mas um paraíso para os amantes da gastronomia! Ele reúne produtos agrícolas locais e delicadezas artesanais. À noite, o Ferry Building sob a luz fica especialmente elegante, perfeito para um jantar requintado.",
+              "practical_tip": "💡 Dica de Especialista: Se você tiver a sorte de encontrar o mercado de agricultores de sábado, não perca a oportunidade de comprar um copo de suco de frutas orgânicas frescas."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "Dia 5: Despedida Relaxada e Últimas Compras",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Alamo Square",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "Aqui estão as mais famosas 'Irmãs Seis' construções vitorianas de São Francisco, com o centro moderno da cidade ao fundo. A mistura deste antigo e novo cenário é a vista mais clássica de São Francisco.",
+              "practical_tip": "💡 Dica de Especialista: Prepare alguns mantas de piquenique e lanches leves, sentar na grama e aproveitar o sol é a experiência mais autêntica de São Francisco."
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Hayes Valley",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "O tempo final é para compras! Aqui você encontrará muitas marcas de designers, lojas de criatividade e cafeterias de alta qualidade. O ambiente aqui é mais tranquilo e elegante do que nas áreas turísticas, ideal para escolher lembranças únicas.",
+              "practical_tip": "💡 Dica de Especialista: A loja de chocolates finos aqui é muito famosa, perfeita para comprar como um presente especial para amigos e familiares."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Embarcadero",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "À beira do píer onde a brisa sopra, assistindo ao espetáculo de luzes da Bay Bridge, você encerra esta viagem de 5 dias com chave de ouro. Ouça o som das ondas e reviva as memórias incríveis desses dias!",
+              "practical_tip": "💡 Dica de Especialista: Pegue o Cable Car de volta ao seu local de estadia, não se esqueça de vivenciar mais uma vez a emoção das ladeiras de São Francisco!"
+            }
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "seo_meta": {
+        "title": "【2026 سان فرانسيسكو السفر الحر】أقوى حزمة تخطيط 5 أيام! دليل شامل للمعالم والنقل والأطعمة التي يجب تجربتها",
+        "description": "كيف يمكنك الاستمتاع بزيارة سان فرانسيسكو لأول مرة؟ هذه المقالة الشاملة حول كيفية السفر الحر لمدة 5 أيام في سان فرانسيسكو تأخذك لتكتشف المعالم السياحية الضرورية وتذوق الأطعمة المحلية وتجربة الترام الشهير، مما يجعل تجربتك في مدينة الغرب الساحر سهلة وممتعة!"
+      },
+      "hero_section": {
+        "hook_intro": "هل أنت مستعد لاستقبال شمس كاليفورنيا؟ سان فرانسيسكو واحدة من أكثر المدن سحراً في الولايات المتحدة! من جسر جولدن غيت الضبابي إلى ترام المدينة المليء بالتاريخ، كل زاوية تختفي خلفها مفاجأة. في هذه الرحلة العميقة لمدة 5 أيام، اخترت لك أفضل الأماكن الكلاسيكية، الأطعمة المخفية ونصائح النقل، لتضمن لك رحلة رائعة في سان فرانسيسكو!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "اليوم الأول: التعرف على سان فرانسيسكو، جولة في ميناء المدينة",
+          "activities": [
+            {
+              "time_slot": "الصباح",
+              "spot_name": "واجهة الصيادين (Fisherman's Wharf)",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "أول وجهة لك في سان فرانسيسكو هي واجهة الصيادين النابضة بالحياة! هنا يوجد سوق حيوي، بالإضافة إلى فرصة رؤية أسود البحر حالماً على الرصيف 39. تأكد من تجربة حساء البطلينوس في الخبز الحامض، مزيج منعش من النكهات الذي سيبدأ رحلتك المثالية!",
+              "practical_tip": "💡 نصيحة: يفضل الوصول قبل الساعة 10 صباحًا لتجنب الحشود، مما يحسن جودة الصور!"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "رصيف 39 ومجموعة أسود البحر",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "هذا المكان هو حقاً مكان احتفال بأسود البحر! استمتع بمشاهدتهم يتشمسون ويدفعون بعضهم البعض، مما يفيدك بشعور مريح. بعد التجول في الرصيف، يمكنك السير إلى الشوارع المجاورة لشراء الهدايا التذكارية، مع الإحساس بأجواء كاليفورنيا الهادئة.",
+              "practical_tip": "💡 نصيحة: اتبع الممر الخشبي حتى النهاية حيث الرؤية الأوسع، فهو أفضل زاوية لالتقاط صور لجزر الكابوس."
+            },
+            {
+              "time_slot": "المساء",
+              "spot_name": "ساحة جيراردلي (Ghirardelli Square)",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "وقت الحلوى بعد العشاء! عندما تكون هنا، يجب عليك تجربة صنف الآيس كريم بالشوكولاتة مع الملح البحري، مزيج غني ناعماً مع الآيس كريم، هو طقس سعادتك في ليل سان فرانسيسكو.",
+              "practical_tip": "💡 نصيحة: هناك غالبًا طوابير طويلة، لذا يُفضل أن تأخذها للخارج وتستمتع بها على المقعد المجاور في الساحة، مما سيزيد من الأجواء."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "اليوم الثاني: المعالم الكلاسيكية وأجواء الفن",
+          "activities": [
+            {
+              "time_slot": "الصباح",
+              "spot_name": "جسر جولدن غيت (Golden Gate Bridge)",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "هذا هو روح سان فرانسيسكو! بغض النظر عن عدد المرات التي رأيت فيها صور هذا الجسر، رؤيته بعينيك تظل مدهشة. يمكنك اختيار السير أو استئجار دراجة لعبور الجسر، لتستمتع بأشعة المحيط الهادئ الرائعة.",
+              "practical_tip": "💡 نصيحة: عادةً ما تتشكل الضباب في سان فرانسيسكو، لذا يُفضل مراجعة كاميرات البث المباشر قبل المغادرة، لرؤية المناظر الجميلة عند صفاء الطقس."
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "قصر الفنون الجميلة (Palace of Fine Arts)",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "ستشعر وكأنك تسير داخل روما القديمة! هذا المبنى ذو القبة الأنيقة والبحيرة الهادئة هو مكان تصوير للعديد من الأفلام. المكان هادئ للغاية، مناسب لالتقاط صور فنية رائعة.",
+              "practical_tip": "💡 نصيحة: عندما تشرق الشمس بميل، يتغير وانعكاس المبنى على سطح البحيرة بأسلوب جميل.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "المساء",
+              "spot_name": "ساحة الاتحاد (Union Square)",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "عد إلى وسط المدينة، فهنا هو جنة التسوق! هناك العديد من المتاجر المختلفة والراقية. يمكنك اختيار مطعم فرنسي أو إيطالي قريب لتستمتع بأمسيات سان فرانسيسكو الرائعة.",
+              "practical_tip": "💡 نصيحة: هذه أيضًا نقطة انطلاق الترام (Cable Car)، لذا يُفضل تجنب أوقات الذروة إذا كنت ترغب في تجربته."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "اليوم الثالث: تداخل الثقافة والتاريخ",
+          "activities": [
+            {
+              "time_slot": "الصباح",
+              "spot_name": "شارع لومبارد (Lombard Street)",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "أكثر الشوارع تعرجاً في العالم، تتزين جوانبه بأزهار الهدال الملونة. بينما ترى السيارات تمر ببطء عبر المنعطفات الحادة، يمكنك رؤية هذا المنظر الفريد الذي لن تجد مثله في أي مكان آخر!",
+              "practical_tip": "💡 نصيحة: تأكد من التصوير من الأسفل للأعلى، لتتمكن من التقاط الشارع المتعرج والمنازل على الجانبين."
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "منطقة نورث بيتش (North Beach)",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "تتميز هذه المنطقة بجذورها الإيطالية، حيث تتنشر رائحة القهوة والبيتزا في الهواء. تأكد من الذهاب إلى 'مكتبة مدينة الأنوار' للاستمتاع بالأجواء الأدبية، ثم ابحث عن مقهى للجلوس والاستمتاع بفترة ما بعد الظهر.",
+              "practical_tip": "💡 نصيحة: آيس كريم الجيلاتو الإيطالي هنا حقيقي، لذلك لا تفوت الفرصة لتجربته."
+            },
+            {
+              "time_slot": "المساء",
+              "spot_name": "الحي الصيني (Chinatown)",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "أقدم حي صيني في أمريكا الشمالية! عبر البوابة، ستشعر وكأنك تسافر عبر الزمن. هناك العديد من الأطعمة التقليدية ومتاجر الشاي، وهو أفضل مكان لتجديد الطاقة للمعدة الآسيوية.",
+              "practical_tip": "💡 نصيحة: حاول العثور على مصنع البسكويت المحظوظ المخفي في الأحياء الجانبية، إنه ممتع جداً!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "اليوم الرابع: حياة حضرية ومناظر بحرية رائعة",
+          "activities": [
+            {
+              "time_slot": "الصباح",
+              "spot_name": "قمم التوأم (Twin Peaks)",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "هل تريد رؤية سان فرانسيسكو بالكامل؟ قمم التوأم هي وجهتك! يوفر هذا المكان 360 درجة من الإطلالة على المدينة، سواء الأبراج العالية أو الخليج البعيد، فتستطيع رؤية كل شيء، إنه جنة للمصورين.",
+              "practical_tip": "💡 نصيحة: الرياح قوية في الجبال ودرجة الحرارة منخفضة، لذا تذكر إحضار سترة مضادة للرياح حتى في الصيف."
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "حي كاسترو (The Castro)",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "هذا هو منطقة تعكس التنوع الثقافي، حيث تملأ الأعلام الملونة الشوارع وتنتشر المتاجر الفريدة. العمارة هنا فريدة وتعطي شعورًا بالحرية، مما يجعل من الرائع التجوال فيها.",
+              "practical_tip": "💡 نصيحة: قم بزيارة مسرح كاسترو لتجربة ثقافة السينما القديمة التي تميز سان فرانسيسكو."
+            },
+            {
+              "time_slot": "المساء",
+              "spot_name": "مبنى العبارة (Ferry Building)",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "هذا ليس مجرد محطة مواصلات، بل جنة لعشاق الطعام! مجتمع من المنتجات المحلية والأطعمة اليدوية الرائعة. يبدو مبنى العبارة ساحرًا في الظلام تحت الأضواء، وهو مثالي لارتباط عشاء فخم.",
+              "practical_tip": "💡 نصيحة: إذا صادف أنك في سوق المزارعين في يوم السبت، فلا تنسَ شراء كوب من عصير الفاكهة العضوي الطازج."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "اليوم الخامس: وداع مسترخي وأخيراً التسوق",
+          "activities": [
+            {
+              "time_slot": "الصباح",
+              "spot_name": "ساحة ألا مو (Alamo Square)",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "هنا يوجد المشهد الشهير لستر المتكون من 'أخوات الستة' ذات الطراز الفيكتوري، مع خلفية مباني حديثة في وسط المدينة. هذه الصورة المزج بين القديم والحديث هي واحدة من أكثر المناظر الكلاسيكية في سان فرانسيسكو.",
+              "practical_tip": "💡 نصيحة: احضر بعض بطانيات النزهة والوجبات الخفيفة، واجلس في العشب لتستمتع بأشعة الشمس، فهذا هو الروتين الأكثر أصالة في سان فرانسيسكو."
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "وادي هايز (Hayes Valley)",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "خصص آخر لحظاتك للتسوق! هنا يوجد العديد من الماركات المصممة، ومتاجر الإبداع، والمقاهي عالية الجودة. الأجواء هنا أكثر هدوءًا ورقيًا مقارنة بمناطق السياحة، مما يجعلها مثالية لاختيار هدايا خاصة.",
+              "practical_tip": "💡 نصيحة: المتجر الفاخر للشوكولاتة هنا معروف، وهو الأفضل لشرائها كهدية رائعة للأصدقاء."
+            },
+            {
+              "time_slot": "المساء",
+              "spot_name": "رصيف إيمباركاديرو (Embarcadero)",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "بينما يعبر النسيم على الرصيف، استمتع بمشاهدة عرض أضواء جسر الخليج (Bay Bridge) المتلألئة، حيث تختتم هذه الرحلة التي استمرت 5 أيام بشكل مثالي. استمع إلى صوت الأمواج واستعيد ذكريات الأيام المميزة التي قضيتها!",
+              "practical_tip": "💡 نصيحة: استقل الترام للعودة إلى مكان إقامتك، ولا تنسَ تجربة شعور الانحدار في سان فرانسيسكو للمرة الأخيرة على متن السيارة!"
+            }
+          ]
+        }
+      ]
+    },
+    "bn": {
+      "seo_meta": {
+        "title": "【2026 সান ফ্রান্সিস্কো স্বাধীন ভ্রমণ】শক্তিশালী ৫ দিনের itinerary পরিকল্পনার গাইড! দর্শনীয় স্থান, পরিবহন এবং অপরিহার্য খাবার সমন্বয়ের সম্পূর্ণ গাইড",
+        "description": "প্রথমবার সান ফ্রান্সিসকো কীভাবে ঘুরবেন? এই সুসম্পূর্ণ ৫ দিনের সান ফ্রান্সিসকো স্বাধীন ভ্রমণ গাইড আপনাকে必去 স্থানগুলো ঘুরে দেখাবে, স্থানীয় স্বাদ উপলব্ধি করাবে, ক্লাসিক কেবল কারের অভিজ্ঞতা দেব। বিমুখে বিশাল পশ্চিম উপকূলে ভ্রমণের জন্য প্রস্তুত থাকুন!"
+      },
+      "hero_section": {
+        "hook_intro": "ক্যালিফোর্নিয়ার রোদকে স্বাগত জানাতে প্রস্তুত? সান ফ্রান্সিসকো (San Francisco) অবশ্যই আমেরিকার সবচেয়ে মনোমুগ্ধকর শহরগুলির একটি! ধোঁয়াটে গোল্ডেন গেট ব্রিজ থেকে ইতিহাসের সুখস্মৃতি সমৃদ্ধ কেবল কার, প্রতিটি রাস্তায় সঞ্চিত রয়েছে চমক। এই ৫ দিনের গভীর ভ্রমণে, আমি আপনার জন্য সবচেয়ে ক্লাসিক ইনস্টাগ্রাম-worthy স্থান, গোপন খাবার ও পরিবহণের কৌশল প্রস্তুত করেছি, যা আপনার সান ফ্রান্সিসকো সফরকে অসাধারণ করে তুলবে!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "প্রথম দিন: সান ফ্রান্সিসকোর প্রথম দেখা, বন্দর পরিবেশের পর্যটন",
+          "activities": [
+            {
+              "time_slot": "সকালের",
+              "spot_name": "ফিশারম্যান'স ওয়ার্ফ (Fisherman's Wharf)",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "সান ফ্রান্সিসকোর প্রথম গন্তব্যে পৌঁছানো মানে হল প্রাণবন্ত ফিশারম্যান'স ওয়ার্ফে আসা! এখানে শুধু জমজমাট মার্কেটই নয়, ৩৯ নম্বর পিয়ারে সূর্যস্নান করতে থাকা প্রিয় সীলদের কাছ থেকে কাছাকাছি দেখা যায়। একটি ক্লাসিক স্যাওয়াল্ট ব্রেডের ক্লাম চাউডার একবার চেষ্টা করুন, মাখনের সমৃদ্ধ স্বাদের সাথে ক্রিস্পি ব্রেড মিলে আপনার পারফেক্ট যাত্রার শুরু করবে!",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: সকাল ১০টার আগে পৌঁছানোর পরামর্শ, যাতে ভিড় এড়ানো যায়, ছবি তুলতে আরও ভালো মানের হতে পারবে!"
+            },
+            {
+              "time_slot": "অবগাহনের",
+              "spot_name": "৩৯ নম্বর পিয়ার এবং সীলের দল",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "এটা সত্যিই সীলের পার্টির স্থান! তাদেরকে জায়গাটি ধাক্কা দিচ্ছে এবং সূর্যস্নান করতে দেখে, অভ্যন্তরীণ শান্তি পাবেন। পিয়ারটি ঘুরে শেষ করার পর, নিকটবর্তী দোকানগুলিতে স্মারক সংগ্রহ করতে হাঁটার জন্য সময় বের করতে পারেন এবং তোড়ের জন্য ক্যালিফোর্নিয়ার অবসানময় পরিবেশ অনুভব করুন।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: ওডাবোর্ডের নিচে শেষের দিকে হেঁটে গেলে, দৃশ্যটি সবচেয়ে প্রশস্ত, যেখানে অ্যলকাট্রাজের সেরা ছবি তোলার সুযোগ।"
+            },
+            {
+              "time_slot": "রাতের",
+              "spot_name": "গিরারডেলি স্কয়ার (Ghirardelli Square)",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "রাতের খাবারের পরের মিষ্টান্নের সময়! এখানে আসন্ন আকাশ জলপাইয়ের মিষ্টির সুস্বাদু চেষ্টা করুন, চকোলেটের সমৃদ্ধ সুবাস ও আইসক্রিম শিরোনাম নেওয়ার সাথে মিলিয়ে, এটি সান ফ্রান্সিসকোর রাতে সবচেয়ে সুখী রীতি।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: এই দোকানে প্রায়শই দীর্ঘ লাইন থাকে, তাই সান بابেল পিয়ারনের পাশে সিটে নিয়ে বাইরে নিয়ে খান, আরো সুন্দর পরিবেশে উপভোগ করুন।"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "দ্বিতীয় দিন: ক্লাসিক আইকন এবং শিল্পের স্পর্শ",
+          "activities": [
+            {
+              "time_slot": "সকালের",
+              "spot_name": "গোল্ডেন গেট ব্রিজ (Golden Gate Bridge)",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "এটি সান ফ্রান্সিসকোর আত্মা! কতবার ছবি দেখেছি তা আমলে নেন, কিন্তু সেই আন্তর্জাতিক কমলা (International Orange) রঙের বাড়ি দর্শন করা সবসময় দারুণ। আপনি হাঁটার অথবা বাইক ভাড়া নিয়ে ব্রিজ অতিক্রম করতে পারেন, যেখানে প্যাসিফিকের বিস্তৃত দৃষ্টি দেখতে পাবেন।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: সান ফ্রান্সিসকোতে প্রায়ই কুয়াশা হয়, তাই যাওয়ার আগে লাইভ ক্যামেরায় দেখার পরামর্শ, কুয়াশা কেটে যাবার সময় দৃশ্য সবচেয়ে সুন্দর।"
+            },
+            {
+              "time_slot": "অবগাহনের",
+              "spot_name": "প্যালেস অফ ফাইন আর্টস (Palace of Fine Arts)",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "এটি যেন ইউরোপের প্রাচীন রোমে হাঁটার মত, এই মার্জিত গম্বুজযুক্ত ভবন এবং শান্ত হ্রদ অনেক সিনেমার দৃশ্যের স্থান। এখানে পরিবেশ সুন্দর, যা প্রযুক্তিগতভাবে শিল্পসম্মত ছবি তোলার জন্য খুব উপযোগী।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: বিকেলে সূর্যালোক ঝরে পড়ার সময়, ভবনের প্রতিফলনটি হ্রদের উপর সেরা প্রবাহ তৈরি করে।",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "রাতের",
+              "spot_name": "ইউনিয়ন স্কয়ার (Union Square)",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "মেট্রোপলিটন কেন্দ্রে ফিরে আসা, এখানে ঠিকানা হল শপিংয়ের স্বর্গ! এদিকে নানা ধরনের ব্র্যান্ড এবং ট্রেন্ডি দোকানগুলির সমাহার। রাতের খাবার পার্শ্ববর্তী ফরাসি বা ইটালিয়ান রেস্তোরাঁ থেকে নির্বাচন করতে পারেন, সান ফ্রান্সিসকোর উজ্জ্বল নগরীর রাতে উপভোগ করুন।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: এখানে কেবল কার (Cable Car) এর সূচনা স্থান, অভিজ্ঞতা নিতে চাইলে পিক সময় এড়িয়ে চলুন।"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "তৃতীয় দিন: শিল্পী এবং ইতিহাসের মিশ্রণ",
+          "activities": [
+            {
+              "time_slot": "সকালের",
+              "spot_name": "লোম্বার্ড স্ট্রিট (Lombard Street)",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "বিশ্বের সবচেয়ে বাঁকানো রাস্তা, দুপাশে রঙিন হাইড্রেনজিয়া এবং ফুলের গাছ। গাড়ি খুব ধীরে ধীরে কোণ ঘুরছে, এই বিশেষ নগর দৃশ্যের অভিজ্ঞতা এখানে পেতে পারেন!",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: অবশ্যই নিচ থেকে উপরে ছবিটি তুলুন, যাতে বক্র রাস্তা ও পাশের বাড়ির দৃশ্য সম্পূর্ণভাবে ক্যাপচার করা যায়।"
+            },
+            {
+              "time_slot": "অবগাহনের",
+              "spot_name": "নর্থ বিচ (North Beach)",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "এখানে ইতালীয় ঐতিহ্যের গন্ধ রয়েছে, বাতাসে কফি ও পিজ্জার সুবাস ছড়িয়ে পড়েছে। 'সিটি লাইটস বুকস্টোর' এ গিয়ে সাহিত্য রসাস্বাদন গ্রহণ করুন, তারপর একটি কফি শপে বসে শান্ত দুপুর উপভোগ করুন।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: এই এলাকায় ইতালীয় জেলাতো আসল যে কোনভাবে মিস করবেন না।"
+            },
+            {
+              "time_slot": "রাতের",
+              "spot_name": "চাইনাটাউন (Chinatown)",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "উত্তর আমেরিকার ইতিহাসের সবচেয়ে পুরনো চাইনাটাউন! ড্রাগনের গেট পার হলে, সময়ের জন্য ভ্রমণ করার অনুভূতি হয়। এখানে প্রচুর সরাসরি হংকং এর চা এবং ঐতিহ্যবাহী খাবার রয়েছে, এশীয় পেটের জন্য, এখানে রিচার্জিং এর পক্ষে এটি সেরা স্থান।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: গলির ভেতরের লুকানো ফর্কটুন কুকি (Fortune Cookie) কারখানা খুঁজে বের করার চেষ্টা করুন, এটি খুব মজার!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "চতুর্থ দিন: মহানগর জীবন এবং মহাকাব্যিক সামুদ্রিক দৃশ্য",
+          "activities": [
+            {
+              "time_slot": "সকালের",
+              "spot_name": "টুইন পিকস (Twin Peaks)",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "পুরো সান ফ্রান্সিসকোকে দেখতে চান? টুইন পিকস এ আসুন! এখানে ৩৬০ ডিগ্রি শহরের দৃশ্যের সুবিধা, ব্যবসায়িক ভবন এবং দূরের উপসাগর সব কিছু একসাথে দেখতে পারেন, নিখুঁত চিত্রশিল্পীদের স্বর্গ।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: পাহাড়ের উপরে বাতাস আছে এবং তাপমাত্রাও বেশি, তাই গ্রীষ্মেও একটি বাতাসী জ্যাকেট নিতে ভুলবেন না।"
+            },
+            {
+              "time_slot": "অবগাহনের",
+              "spot_name": "দ্য ক্যাস্ট্রো (The Castro)",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "এটি বিভিন্ন সংস্কৃতির প্রতিনিধিত্বকারী অঞ্চল, রাস্তার উপর রেইনবো পতাকা এবং অনন্য জিনিসপত্রে ভরা। এখানে ভবনের স্টাইল অসাধারণ, স্বাধীনতার আকর্ষণ অনুভব করা উচিৎ এবং গভীরভাবে ঘুরে বেড়ানোর উপযুক্ত।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: ক্যাস্ট্রো থিয়েটার পরিদর্শন করুন, সান ফ্রান্সিসকোর বিশেষ প্রাচীন সিনেমার সংস্কৃতি অনুভব করুন।"
+            },
+            {
+              "time_slot": "রাতের",
+              "spot_name": "ফেরি বিল্ডিং (Ferry Building)",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "এটি কেবল পরিবহন কেন্দ্রে সীমাবদ্ধ নয়, বরং খাদ্য পিপাসুদের স্বর্গ! এখানে স্থানীয় কৃষির পণ্য এবং হাতে তৈরি খাবার রয়েছে। রাতের ফেরি বিল্ডিং আলোতে অসাধারণভাবে সুবর্ণ, একটি সুস্বাদু রাতে নিবন্ধিত করার জন্য আদর্শ।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: যদি শনিবারের কৃষক মার্কেটে এসেছেন, তাজা জৈব রস কিনতে ভুলবেন না।"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "পঞ্চম দিন: সজাগ বিদায় এবং শেষ কেনাকাটা",
+          "activities": [
+            {
+              "time_slot": "সকালের",
+              "spot_name": "আলামো স্কয়ার (Alamo Square)",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "এখানে সান ফ্রান্সিসকোর সবচেয়ে বিখ্যাত 'সিক্স সিস্টার্স' ভিক্টোরিয়ান স্থাপত্য রয়েছে, পটভূমিতে আধুনিক শহরের বিল্ডিং। এই নতুন এবং পুরানের মিশ্রণ হলো সান ফ্রান্সিসকোর সর্বাধিক ক্লাসিক দৃশ্য।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: কিছু পিকনিক ম্যাট এবং হালকা খাবার প্রস্তুত করুন, Gras-e-তে বসে সূর্য উপভোগ করুন, এটি সান ফ্রান্সিসকোর প্রকৃত দৈনন্দিন জীবন।"
+            },
+            {
+              "time_slot": "অবগাহনের",
+              "spot_name": "হায়েস ভ্যালি (Hayes Valley)",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "শেষ সময়খণ্ডটি কেনাকাটার জন্য! এখানে অনেক ডিজাইনার ব্র্যান্ড, শিল্পকলা দোকান এবং উচ্চ মানের ক্যাফে রয়েছে। এখানে আস্বাদসম্ভবীতার তুলনায় শান্তি ও জটিলতা যুগপৎ পেতে পারেন, বিশেষ উপহার বাছাই করার জন্য খুব উপযুক্ত।",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: এখানে একটি সেরা চকোলেটের দোকান রয়েছে, যা উপমহাদেশের দেওয়ার জন্য ভাল উপহারের সাধনার কেন্দ্র।"
+            },
+            {
+              "time_slot": "রাতের",
+              "spot_name": "এমবারকাদিত (Embarcadero)",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "মৃদুমন্দ বাতাসে স্বল্প পরিসরে, বেই ব্রিজের (Bay Bridge) আলোকে দেখতে, ৫ দিনের এই ভ্রমণের জন্য নিখুঁত সমাপ্তি। ঢেউয়ের শব্দ শুনুন এবং এই কয়েকদিনের চমৎকার স্মৃতিগুলোকে পুনরাবৃত্তি করুন!",
+              "practical_tip": "💡 বিশেষজ্ঞের টিপ: প্রশস্ত ফেরিত কারে ফিরতে যাবেন, যেন শেষবারের মতো সান ফ্রান্সিসকোর ঢালু অনুভূতির অভিজ্ঞতা নিতে ভুলবেন না!"
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "seo_meta": {
+        "title": "【2026 Сан-Франциско Свободная поездка】Супер план 5 дней отдыха! Все о достопримечательностях, транспорте и обязательных кулинарных удовольствиях",
+        "description": "Как развлечься в Сан-Франциско в первый раз? Этот полный путеводитель по 5-дневной свободной поездке в Сан-Франциско поможет вам посетить обязательные достопримечательности, попробовать местные деликатесы и испытать классический трамвай, чтобы с легкостью насладиться этим знаковым городом на западном берегу!"
+      },
+      "hero_section": {
+        "hook_intro": "Готовы встретить солнечное Калифорнийское утро? Сан-Франциско — один из самых очаровательных городов Америки! От окутанного туманом Золотого моста до исторического трамвая, на каждом углу вас поджидает удивление. В течение этого 5-дневного глубокого путешествия я подготовил для вас самые классические точки для посещения, скрытые кулинарные вкусности и секреты транспорта, чтобы ваши приключения в Сан-Франциско были по-настоящему незабываемыми!",
+        "hero_image_keyword": "Golden Gate Bridge San Francisco sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "День 1: Первое знакомство с Сан-Франциско, экскурсия по гавани",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Причал рыболовов (Fisherman's Wharf)",
+              "image_search_keyword": "Fisherman's Wharf San Francisco",
+              "rich_description": "Первая остановка в Сан-Франциско — это, несомненно, энергичный Причал рыболовов! Здесь не только шумный рынок, но также можно вблизи наблюдать за милыми морскими львами, которые загорают на 39-м причале. Обязательно попробуйте классический суп из моллюсков с кислым хлебом, сливочный вкус которого в сочетании с хрустящим хлебом станет отличным началом вашего идеального путешествия!",
+              "practical_tip": "💡 Советы от знатока: рекомендуется приезжать до 10 утра, чтобы избежать больших толп туристов и сделать лучшие снимки!"
+            },
+            {
+              "time_slot": "День",
+              "spot_name": "39-й причал и колония морских львов",
+              "image_search_keyword": "Pier 39 sea lions",
+              "rich_description": "Это настоящая вечеринка для морских львов! Смотрите, как они толкаются и загорают, уровень умиротворения зашкаливает. Прогулявшись по причалу, вы можете также посетить близлежащую торговую улицу и выбрать памятные сувениры, наслаждаясь расслабляющей атмосферой Калифорнии.",
+              "practical_tip": "💡 Советы от знатока: идите по деревянному настилу до самого конца, там самый открытый вид — это лучший уголок для съемки тюрьмы Алькатрас."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Площадь Гирардели (Ghirardelli Square)",
+              "image_search_keyword": "Ghirardelli Square San Francisco",
+              "rich_description": "Время десерта после ужина! Вам обязательно нужно попробовать знаменитое мороженое с морской солью и карамелью, в котором шоколадный аромат идеально соединяется с мороженым — это самый счастливый ритуал в вечернем Сан-Франциско.",
+              "practical_tip": "💡 Советы от знатока: в магазине часто длинные очереди, лучше заказать на вынос и наслаждаться атмосферой на скамейках рядом с площадью."
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "День 2: Классические памятники и художественная атмосфера",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Золотые ворота (Golden Gate Bridge)",
+              "image_search_keyword": "Golden Gate Bridge view from Welcome Center",
+              "rich_description": "Это душа Сан-Франциско! Сколько бы раз вы не видели фотографии, увидев этот знаковый международный оранжевый цвет (International Orange) своими глазами, вы все равно будете поражены. Вы можете выбрать пешую прогулку или взять напрокат велосипед, чтобы проехать по мосту и насладиться великолепным видом на Тихий океан.",
+              "practical_tip": "💡 Советы от знатока: в Сан-Франциско часто туманы, перед выходом посмотрите на веб-камеру — в ясную погоду виды особенно красивы."
+            },
+            {
+              "time_slot": "День",
+              "spot_name": "Дворец изящных искусств (Palace of Fine Arts)",
+              "image_search_keyword": "Palace of Fine Arts San Francisco",
+              "rich_description": "Похоже, что вы попали в древний Рим! Этот элегантный купольный храм и спокойное озеро стали местом съемок для множества фильмов. Это место с прекрасной атмосферой идеально подходит для создания художественных инстаграммных фото.",
+              "practical_tip": "💡 Советы от знатока: когда солнце светит под углом, отражение здания в озере выглядит очень красиво.",
+              "needsTicket": true,
+              "klookQuery": "Palace of Fine Arts San Francisco"
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Площадь Юнион (Union Square)",
+              "image_search_keyword": "Union Square San Francisco",
+              "rich_description": "Мы вернулись в центр города, и это настоящий шопинг-рай! Вокруг много универмагов и магазинов с различными бутиками и современными марками. На ужин можно выбрать французский или итальянский ресторан поблизости, чтобы насладиться вечерней атмосферой городской жизни в Сан-Франциско.",
+              "practical_tip": "💡 Советы от знатока: здесь также стартовая точка для трамваев, и если вы хотите испытать, лучше избегать пиковых часов."
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "day_title": "День 3: Переплетение искусства и истории",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Улица Ломбард (Lombard Street)",
+              "image_search_keyword": "Lombard Street San Francisco",
+              "rich_description": "Самая извивающаяся улица в мире, по обеим сторонам которой растут цветные гортензии и цветы. Смотрите, как машины медленно поворачивают на крутых поворотах — такого уникального городского пейзажа вы не увидите нигде больше!",
+              "practical_tip": "💡 Советы от знатока: обязательно снимайте, начиная снизу и поднимаясь вверх, чтобы запечатлеть извивающуюся дорогу и дома по обочине."
+            },
+            {
+              "time_slot": "День",
+              "spot_name": "Северный берег (North Beach)",
+              "image_search_keyword": "North Beach San Francisco Italian restaurants",
+              "rich_description": "Здесь сильные итальянские корни, воздух пропитан ароматами кофе и пиццы. Рекомендуем посетить 'City Lights Bookstore', чтобы почувствовать литературную атмосферу, а затем остановиться в кафе и насладиться спокойным днем.",
+              "practical_tip": "💡 Советы от знатока: здесь итальянское мороженое Gelato очень аутентичное, его обязательно стоит попробовать."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Чайнатаун (Chinatown)",
+              "image_search_keyword": "Chinatown San Francisco dragon gate",
+              "rich_description": "Старейший Чайнатаун в Северной Америке! Пройдя через Драконьи ворота, вы словно переноситесь во времени. Здесь множество традиционных димсамов и уличной еды, это идеальное место для пополнения энергии для азиатского желудка.",
+              "practical_tip": "💡 Советы от знатока: попробуйте найти фабрику удачных печенек (Fortune Cookie), спрятанную в переулках — это будет очень интересно!"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "day_title": "День 4: Городская жизнь и великолепные морские пейзажи",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Близнецы (Twin Peaks)",
+              "image_search_keyword": "Twin Peaks San Francisco view",
+              "rich_description": "Хотите увидеть весь Сан-Франциско? Тогда вам сюда! Здесь открывается 360-градусный панорамный вид на город — будь то высокие здания или удаленная бухта, здесь все видно, это рай для фотографов.",
+              "practical_tip": "💡 Советы от знатока: на горе ветрено и холодно, даже летом не забудьте взять ветровку."
+            },
+            {
+              "time_slot": "День",
+              "spot_name": "Кастро (The Castro)",
+              "image_search_keyword": "The Castro district San Francisco",
+              "rich_description": "Это район, представляющий многокультурность, улицы полны радужных флагов и уникальных магазинов. Архитектурный стиль здесь уникален, а атмосфера свободы и раскрепощенности делает его отличным местом для глубоких прогулок.",
+              "practical_tip": "💡 Советы от знатока: посетите Кастро-театр и насладитесь уникальной атмосферой ретро-кино культуры Сан-Франциско."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Ферри Билдинг (Ferry Building)",
+              "image_search_keyword": "Ferry Building Marketplace San Francisco",
+              "rich_description": "Это не просто транспортный узел, это настоящая гастрономическая находка! Здесь собрано множество местных продуктов и изысканных деликатесов. Ночью Ферри Билдинг, освещенный огнями, выглядит особенно элегантно — идеально подходит для изысканного ужина.",
+              "practical_tip": "💡 Советы от знатока: если вы попадете на рынок фермеров в субботу, обязательно купите свежевыжатый органический сок."
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "day_title": "День 5: Ненавязчивое прощание и последние покупки",
+          "activities": [
+            {
+              "time_slot": "Утро",
+              "spot_name": "Площадь Аламо (Alamo Square)",
+              "image_search_keyword": "Painted Ladies San Francisco",
+              "rich_description": "Здесь находятся знаменитые 'Шесть сестер' викторианской архитектуры, на фоне современных зданий центра города. Эта сцена, соединяющая старину и современность, - классический пейзаж Сан-Франциско.",
+              "practical_tip": "💡 Советы от знатока: возьмите с собой покрывала для пикника и легкие закуски, посидите на траве под солнечными лучами — это и есть настоящая жизнь в Сан-Франциско."
+            },
+            {
+              "time_slot": "День",
+              "spot_name": "Долина Хейз (Hayes Valley)",
+              "image_search_keyword": "Hayes Valley San Francisco shopping",
+              "rich_description": "Последнее время — это время для покупок! Здесь много дизайнерских брендов, креативных магазинов и высококачественных кафе. Атмосфера здесь тише и элегантнее, чем в туристических зонах, идеально подходит для выбора уникальных сувениров.",
+              "practical_tip": "💡 Советы от знатока: здесь особенные шоколадные магазины, которые очень популярны — отличный выбор для подарков друзьям и семье."
+            },
+            {
+              "time_slot": "Вечер",
+              "spot_name": "Национальный пирс (Embarcadero)",
+              "image_search_keyword": "Embarcadero waterfront night",
+              "rich_description": "На пирсе, где дует легкий ветерок, любуясь сверкающей огнями шоу на мосту залива (Bay Bridge), завершите ваше 5-дневное путешествие на идеальной ноте. Слушая звук волн, вспомните все яркие моменты этих дней!",
+              "practical_tip": "💡 Полезный совет от эксперта: Когда будете возвращаться на проживание на трамвайчике, не забудьте в последний раз испытать захватывающие ощущения от склонов Сан-Франциско!"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

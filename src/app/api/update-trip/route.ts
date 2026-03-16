@@ -10,31 +10,55 @@ const supabaseAdmin = createClient(
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY!;
 
+// Rate limiter: max 10 update requests per IP per hour
+const rateLimitMap = new Map<string, { count: number; resetAt: number }>();
+const RATE_LIMIT = 10;
+const RATE_WINDOW_MS = 60 * 60 * 1000;
+
+function isRateLimited(ip: string): boolean {
+    const now = Date.now();
+    const entry = rateLimitMap.get(ip);
+    if (!entry || now > entry.resetAt) {
+        rateLimitMap.set(ip, { count: 1, resetAt: now + RATE_WINDOW_MS });
+        return false;
+    }
+    if (entry.count >= RATE_LIMIT) return true;
+    entry.count++;
+    return false;
+}
+
 export async function POST(req: Request) {
     try {
+        // Use Vercel's real IP (not spoofable x-forwarded-for)
+        const ip = req.headers.get("x-real-ip") || req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+        if (isRateLimited(ip)) {
+            return NextResponse.json({ error: "Too many requests. Please try again later." }, { status: 429 });
+        }
+
+        // 1. Require authentication before doing anything else
+        const authHeader = req.headers.get("Authorization");
+        if (!authHeader) {
+            return NextResponse.json({ error: "Authentication required." }, { status: 401 });
+        }
+        const token = authHeader.replace("Bearer ", "");
+        const { data: { user: authUser } } = await supabaseAdmin.auth.getUser(token);
+        if (!authUser) {
+            return NextResponse.json({ error: "Invalid or expired session." }, { status: 401 });
+        }
+
         const { currentItinerary, itineraryId, userMessage, uiLanguage, currency } = await req.json();
 
         if (!currentItinerary || !userMessage) {
             return NextResponse.json({ error: "Missing required fields" }, { status: 400 });
         }
 
-        // 1. Verify User Session & Credits securely on the server
-        const authHeader = req.headers.get("Authorization");
+        // 2. Fetch verified credits for the authenticated user
         let tier = "TRIAL";
         let userCredits = 0;
-        let userId: string | null = null;
-
-        if (authHeader) {
-            const token = authHeader.replace("Bearer ", "");
-            const { data: { user }, error } = await supabaseAdmin.auth.getUser(token);
-
-            if (user) {
-                userId = user.id;
-                const result = await getUserCredits(user.id);
-                tier = result.tier;
-                userCredits = result.activeCredits;
-            }
-        }
+        const userId = authUser.id;
+        const result = await getUserCredits(userId);
+        tier = result.tier;
+        userCredits = result.activeCredits;
 
         // 🚨 Block TRIAL users from updating itineraries — AI Tweak is a PASS/YEARLY feature
         if (tier === "TRIAL") {

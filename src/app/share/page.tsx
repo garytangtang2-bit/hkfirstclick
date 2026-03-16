@@ -100,13 +100,10 @@ function WorkspaceContent() {
     const [imageSources, setImageSources] = useState<Record<string, string>>({});
     const [fetchingImages, setFetchingImages] = useState<Record<string, boolean>>({});
 
-    const UNSPLASH_ACCESS_KEY = "06R1gHhtyt6f4D9Fl8qYKpMqZtVm354366roz2SjnLM";
-    const PEXELS_API_KEY = "1TJnP77SuCLaRw1Dc1fKiSzTA280VSp3UhgpEOlMdFrHly8yeb4nfgZ6";
     const DEFAULT_IMAGE = "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop";
 
     const fetchActivityImage = async (cityName: string, keyword: string, fallbackKeyword: string, activityId: string) => {
         if (activityImages[activityId] || fetchingImages[activityId]) return;
-
         setFetchingImages(prev => ({ ...prev, [activityId]: true }));
 
         const setImageData = (url: string, source: string) => {
@@ -115,64 +112,9 @@ function WorkspaceContent() {
         };
 
         try {
-            // Tier 1: Wikimedia Commons API via Wikipedia Search
-            let res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(keyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
-            let data = await res.json();
-            let pages = data.query?.pages;
-            let pageId = Object.keys(pages || {})[0];
-            let imageUrl = pages?.[pageId]?.thumbnail?.source;
-
-            if (!imageUrl && fallbackKeyword) {
-                res = await fetch(`https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(fallbackKeyword)}&gsrlimit=1&prop=pageimages&pithumbsize=500&format=json&origin=*`);
-                data = await res.json();
-                pages = data.query?.pages;
-                pageId = Object.keys(pages || {})[0];
-                imageUrl = pages?.[pageId]?.thumbnail?.source;
-            }
-
-            // Reject maps, icons, logos, and svg to force fallbacks
-            if (imageUrl) {
-                const lowerUrl = imageUrl.toLowerCase();
-                if (
-                    lowerUrl.includes('map') ||
-                    lowerUrl.includes('locator') ||
-                    lowerUrl.includes('.svg') ||
-                    lowerUrl.includes('logo') ||
-                    lowerUrl.includes('symbol') ||
-                    lowerUrl.includes('flag')
-                ) {
-                    imageUrl = null; // Forces Unsplash fallback
-                }
-            }
-
-            if (imageUrl) {
-                setImageData(imageUrl, "Wikimedia");
-                return;
-            }
-
-            // Tier 2: Unsplash API
-            const unsplashRes = await fetch(`https://api.unsplash.com/search/photos?query=${encodeURIComponent(cityName + ' ' + keyword)}&orientation=landscape&per_page=1`, {
-                headers: { "Authorization": `Client-ID ${UNSPLASH_ACCESS_KEY}` }
-            });
-            const unsplashData = await unsplashRes.json();
-            if (unsplashData.results && unsplashData.results.length > 0) {
-                setImageData(unsplashData.results[0].urls.regular, "Unsplash");
-                return;
-            }
-
-            // Tier 3: Pexels API
-            const pexelsRes = await fetch(`https://api.pexels.com/v1/search?query=${encodeURIComponent(cityName + ' ' + keyword)}&per_page=1`, {
-                headers: { "Authorization": PEXELS_API_KEY }
-            });
-            const pexelsData = await pexelsRes.json();
-            if (pexelsData.photos && pexelsData.photos.length > 0) {
-                setImageData(pexelsData.photos[0].src.landscape || pexelsData.photos[0].src.large, "Pexels");
-                return;
-            }
-
-            // Tier 4: Default Fallback
-            setImageData(DEFAULT_IMAGE, "Default");
-
+            const res = await fetch(`/api/activity-photo?keyword=${encodeURIComponent(keyword)}&city=${encodeURIComponent(cityName)}`);
+            const data = await res.json();
+            setImageData(data.url || DEFAULT_IMAGE, data.url ? "API" : "Default");
         } catch (e) {
             console.error("Failed to fetch image for " + keyword, e);
             setImageData(DEFAULT_IMAGE, "Default");

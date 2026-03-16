@@ -11,8 +11,22 @@ export function LandingContent({ t, user, navigateTo }: any) {
         { q: t.faq_q5, a: t.faq_a5 },
     ];
 
+    const faqSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": faqList.map(({ q, a }) => ({
+            "@type": "Question",
+            "name": q,
+            "acceptedAnswer": { "@type": "Answer", "text": a },
+        })),
+    };
+
     return (
         <main>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+            />
             <section className="relative min-h-screen flex flex-col items-center justify-center px-4 overflow-hidden">
                 <div className="absolute inset-0 z-0">
                     <img

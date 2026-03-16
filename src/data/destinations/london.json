@@ -1,0 +1,824 @@
+{
+  "seo_meta": {
+    "title": "2026 London 7-Day Itinerary — Royal Sights, Markets & Free Museums",
+    "description": "第一次去 倫敦 怎麼玩？這篇超完整的 7 天 倫敦 自由行攻略，帶你一次逛完必去景點、品嚐在地美食..."
+  },
+  "hero_section": {
+    "hook_intro": "準備好迎接一場穿越時空的英倫浪漫了嗎？倫敦，這座融合古典宮廷美學與現代潮流的城市，正張開雙臂等待你的到來！從大笨鐘的莊嚴鐘聲到柯芬園的街頭藝術，每一步都是風景。這趟 7 天 6 夜的深度行程，將帶你避開觀光陷阱，將倫敦最精華的歷史底蘊與時髦生活一次打包帶走！",
+    "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+  },
+  "daily_itinerary": [
+    {
+      "day": 1,
+      "day_title": "Day 1：皇室經典與地標巡禮",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "白金漢宮",
+          "image_search_keyword": "Buckingham Palace Changing of the Guard",
+          "rich_description": "來到倫敦的第一站，絕對是見證白金漢宮的衛兵交接儀式！這不僅是英國皇室的象徵，更是最具儀式感的體驗。看著身穿紅制服、頭戴熊皮帽的衛兵整齊劃一地行進，那種震撼感真的會讓你起雞皮疙瘩！記得提早 45 分鐘卡位，才能拍到最清晰的畫面喔。",
+          "practical_tip": "💡 達人小提示：請務必先上官網查詢交接儀式的確切日期，通常是隔天舉行，別撲空了！"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "西敏寺與大笨鐘",
+          "image_search_keyword": "Westminster Abbey London",
+          "rich_description": "步行即可抵達西敏寺，這裡是歷代君主加冕與安息之所，哥德式建築的細膩雕刻絕對讓你嘆為觀止。接著步行至大笨鐘與國會大廈，這是倫敦最經典的明信片視角！站在西敏橋上，感受泰晤士河的微風，這就是你夢想中的英倫氣息。",
+          "practical_tip": "💡 達人小提示：西敏寺內部禁止拍照，建議將手機收起，靜心感受這座千年古蹟的歷史沉澱。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "倫敦眼摩天輪",
+          "image_search_keyword": "London Eye at night",
+          "rich_description": "晚餐後，搭乘倫敦眼將整座城市的夜景盡收眼底！隨著摩天輪緩緩升起，泰晤士河畔的燈火輝煌顯得格外迷人。這是情侶約會或家庭旅遊的絕佳選擇，坐在透明艙內，俯瞰大笨鐘與國會大廈閃耀的燈光，浪漫指數破表。",
+          "practical_tip": "💡 達人小提示：強烈建議事先在網路上預訂快速通關票，現場排隊人潮可是非常驚人的！"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_title": "Day 2：博物館巡禮與文青聚落",
+      "activities": [
+        {
+          "time_slot": "早上",
+          "spot_name": "大英博物館",
+          "image_search_keyword": "The British Museum Great Court",
+          "rich_description": "全球收藏最豐富的大英博物館，絕對是歷史迷的聖地！從埃及的羅塞塔石碑到希臘的帕德嫩神廟雕塑，這些無價之寶就在你眼前。博物館佔地廣大，建議預留 3-4 小時，並鎖定幾個必看展區，才不會逛到腿軟喔！",
+          "practical_tip": "💡 達人小提示：入場免費但需預約，建議提前在官網預約門票，省去現場排隊時間。",
+          "needsTicket": true,
+          "klookQuery": "The British Museum Great Court"
+        },
+        {
+          "time_slot": "下午",
+          "spot_name": "柯芬園",
+          "image_search_keyword": "Covent Garden Market",
+          "rich_description": "逛完博物館，來柯芬園感受倫敦最熱鬧的文青氣息。這裡有各式特色市集、精緻的手工藝品店，還有隨處可見的街頭藝人表演。找間露天咖啡廳坐下，點一杯英式下午茶，觀察熙熙攘攘的人群，這就是倫敦最道地的慢活時光。",
+          "practical_tip": "💡 達人小提示：柯芬園旁的「Shake Shack」雖然是美式漢堡，但口味極佳，逛累了來這補充能量最適合。"
+        },
+        {
+          "time_slot": "晚上",
+          "spot_name": "西區音樂劇",
+          "image_search_keyword": "London West End theatre district",
+          "rich_description": "來到倫敦，沒看一場音樂劇等於沒來過！西區（West End）的演出水準世界頂尖。不管是長青劇目《悲慘世界》還是《歌劇魅影》，震撼的聲光效果與演員精湛的演技，絕對會讓你感動落淚。這絕對是你倫敦之行最難忘的夜晚。",
+          "practical_tip": "💡 達人小提示：想買便宜票？推薦到萊斯特廣場（Leicester Square）的 TKTS 櫃檯購買當日剩餘票券，運氣好能省下一半價格！"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "en": {
+      "seo_meta": {
+        "title": "[2026 London Free Travel] Ultimate 7-Day Itinerary Planning Guide! Attractions, Transportation & Must-Try Foods",
+        "description": "How to enjoy your first trip to London? This super comprehensive 7-day London free travel guide will take you through all the must-visit attractions and local delicacies..."
+      },
+      "hero_section": {
+        "hook_intro": "Are you ready to embrace a journey through time and the romantic vibes of England? London, a city that blends classic royal aesthetics with modern trends, is eagerly awaiting your arrival! From the solemn chimes of Big Ben to the street art in Covent Garden, every step is a beautiful sight. This in-depth 7-day, 6-night itinerary will help you avoid typical tourist traps and capture the essence of London's rich history and stylish lifestyle in one go!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Day 1: A Royal Classic and Landmark Tour",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "Buckingham Palace",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "Your first stop in London must be witnessing the Changing of the Guard at Buckingham Palace! This is not only a symbol of the British monarchy but also a deeply ceremonial experience. Watching the guards in their bright red uniforms and bear skin hats march in perfect unison will send chills down your spine! Be sure to arrive 45 minutes early to secure the best viewing spots for clear photos.",
+              "practical_tip": "💡 Insider Tip: Be sure to check the official website for the exact dates of the ceremony, as it usually occurs every other day. You don’t want to miss out!",
+              "needsTicket": true,
+              "klookQuery": "Buckingham Palace Changing of the Guard"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Westminster Abbey and Big Ben",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "You can walk to Westminster Abbey, the resting place and coronation site of monarchs throughout history, where the intricate carvings of Gothic architecture will truly amaze you. Next, head over to Big Ben and the Houses of Parliament, which offer the most iconic postcard view of London! Stand on Westminster Bridge and feel the breeze of the River Thames; this is the quintessential British atmosphere you’ve been dreaming of.",
+              "practical_tip": "💡 Insider Tip: Photography is not allowed inside Westminster Abbey, so it's best to put your phone away and take in the historical weight of this millennium-old monument."
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "London Eye",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "After dinner, take a ride on the London Eye to enjoy the spectacular night view of the entire city! As the Ferris wheel slowly rises, the dazzling lights along the Thames look especially enchanting. This is a perfect choice for a romantic date or family outing; sitting in the transparent capsule, you can gaze down at the shimmering lights of Big Ben and the Houses of Parliament—a truly romantic experience.",
+              "practical_tip": "💡 Insider Tip: It’s highly recommended to book fast-track tickets online in advance, as the lines at the venue can be quite overwhelming!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Day 2: Museum Tour and Artsy Neighborhoods",
+          "activities": [
+            {
+              "time_slot": "Morning",
+              "spot_name": "British Museum",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "The British Museum, with its richest collection in the world, is a must-visit haven for history enthusiasts! From the Rosetta Stone of Egypt to the sculptures of the Parthenon in Greece, these priceless treasures are right before your eyes. Given the museum's vast size, it's advisable to allocate 3-4 hours and focus on a few key exhibition areas to avoid tiring out your legs!",
+              "practical_tip": "💡 Insider Tip: Entry is free but requires a reservation; it’s best to book your tickets in advance on the official website to skip the queue.",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "Afternoon",
+              "spot_name": "Covent Garden",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "After visiting the museum, head to Covent Garden to experience one of London’s liveliest artsy atmospheres. Here, you'll find various distinctive markets, exquisite craft shops, and street performers everywhere. Find a seat in an outdoor café, order a cup of English afternoon tea, and observe the bustling crowd—this is the most authentic slow living moment in London.",
+              "practical_tip": "💡 Insider Tip: Although ‘Shake Shack’ next to Covent Garden serves American burgers, they are incredibly tasty, making it a perfect spot to refuel after some shopping!"
+            },
+            {
+              "time_slot": "Evening",
+              "spot_name": "West End Theatre",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "No visit to London is complete without seeing a musical! The performances in the West End are world-class. Whether it is the long-running classic ‘Les Misérables’ or ‘The Phantom of the Opera,’ the stunning visual and sound effects combined with the actors' superb performances are bound to bring tears to your eyes. This will definitely be one of the most unforgettable nights of your trip to London.",
+              "practical_tip": "💡 Insider Tip: Looking for cheap tickets? Consider heading to the TKTS booth at Leicester Square to purchase same-day remaining tickets; with a bit of luck, you might save up to half the price!"
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "seo_meta": {
+        "title": "【2026 ロンドン 自由旅行】最強 7 日行程計画の手引き！観光地交通＆必食全攻略",
+        "description": "初めてロンドンに行く場合、どう楽しむ？この超詳細な 7 日間のロンドン自由旅行ガイドでは、必見の観光地を巡り、現地の美食も味わい尽くします..."
+      },
+      "hero_section": {
+        "hook_intro": "時空を超えたイギリスのロマンを迎える準備はできましたか？ロンドン、この古典的な宮廷美学と現代のトレンドが融合した都市が、あなたの到来を心待ちにしています！ビッグベンの荘厳な鐘の音からコヴェントガーデンのストリートアートまで、どの歩みも風景です。この 7 日間 6 泊のディープな旅程は、観光トラップを避け、ロンドンの歴史的背景とモダンな生活を一度に体験させてくれます！",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "1日目：王室クラシックとランドマーク巡り",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "バッキンガム宮殿",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "ロンドンの最初の訪問地は、バッキンガム宮殿の衛兵交代式を見学することです！これはイギリス王室の象徴であり、最も儀式感のある体験です。赤い制服を着た衛兵たちが整然と行進する様子は、あなたに衝撃を与え、肌がぞくぞくするほどの体験です！45分前に早めに場所取りを忘れずに、クリアな写真を撮りましょう。",
+              "practical_tip": "💡 おすすめポイント：公式サイトで交代式の日程を事前に確認してください。通常は翌日行われるので、無駄足にならないように！",
+              "needsTicket": true,
+              "klookQuery": "Buckingham Palace Changing of the Guard"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "ウェストミンスター寺院とビッグベン",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "ウェストミンスター寺院まで歩いて行けます。ここは歴代の君主が即位や安息する場所で、ゴシック建築の繊細な彫刻に息を呑むはずです。その後、ビッグベンと国会議事堂へ歩いて行きましょう。ここはロンドンの最もクラシックなポストカードビューポイント！ウェストミンスター橋に立って、テムズ川の微風を感じながら、夢のようなイギリスの雰囲気を味わってください。",
+              "practical_tip": "💡 おすすめポイント：ウェストミンスター寺院内は写真撮影禁止ですので、スマホをしまって、千年の歴史に浸ってください。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ロンドン・アイ",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "夕食後、ロンドン・アイに乗って、都市の夜景を一望しましょう！観覧車がゆっくりと上昇するにつれて、テムズ川の灯りが特に魅力的です。カップルのデートや家族旅行にも最適で、透明なカプセルに座ってビッグベンと国会議事堂の光を見下ろすと、ロマンティックな瞬間が楽しめます。",
+              "practical_tip": "💡 おすすめポイント：事前にオンラインでファストトラックチケットを予約することを強くお勧めします。現地での行列は非常に驚異的ですから！"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "2日目：博物館巡りとクリエイターの街",
+          "activities": [
+            {
+              "time_slot": "朝",
+              "spot_name": "大英博物館",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "世界で最も豊富なコレクションを誇る大英博物館は、歴史ファンの聖地です！エジプトのロゼッタストーンからギリシャのパルテノン神殿の彫刻まで、これらの無価値な宝物が目の前に広がっています。博物館は広大なので、3-4時間を確保し、いくつかの必見エリアに注目することをお勧めします。そうしないと、足が疲れてしまいますよ！",
+              "practical_tip": "💡 おすすめポイント：入場は無料ですが予約が必要です。事前に公式サイトでチケットを予約すると、現地での行列を避けられます。",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "午後",
+              "spot_name": "コヴェントガーデン",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "博物館を見た後は、Covent Gardenでロンドンの最も活気あるクリエイターの雰囲気を楽しみましょう。ここにはさまざまな特色ある市場や精緻な手工芸品店、そしていたる所にストリートパフォーマンスが行われています。オープンカフェで一休みし、イギリスのアフタヌーンティーを楽しみながら、賑わう人々を観察するのが、本当にロンドンらしいゆったりとした時間です。",
+              "practical_tip": "💡 おすすめポイント：Covent Gardenの隣にある「Shake Shack」はアメリカのハンバーガーですが、とても美味しいので、疲れた時のエネルギー補給にぴったりです。"
+            },
+            {
+              "time_slot": "夜",
+              "spot_name": "ウェストエンドのミュージカル",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "ロンドンに来たら、ミュージカルを観なければ来た意味がありません！ウェストエンドの公演は世界最高水準です。人気のミュージカル「レ・ミゼラブル」や「オペラ座の怪人」など、感動的な照明や演技は、あなたを感動させて涙を誘うことでしょう。これはロンドン旅行の中で最も忘れられない夜になること間違いなしです。",
+              "practical_tip": "💡 おすすめポイント：安いチケットを買いたい？レスタースクエアのTKTS窓口で当日の残席チケットを購入することをお勧めします。運が良ければ半額で手に入れることができるかも！"
+            }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "seo_meta": {
+        "title": "【2026 런던 자유여행】최강 7일 일정 계획 잔지르! 명소 교통 & 필수 먹거리 전체 가이드",
+        "description": "첫 번째 런던 여행, 어떻게 놀아야 할까요? 이 글은 초완벽한 7일 런던 자유여행 가이드로, 꼭 가볼 만한 명소와 현지 음식을 모두 체험할 수 있습니다..."
+      },
+      "hero_section": {
+        "hook_intro": "과거와 미래가 만나는 영국의 낭만을 맞이할 준비가 되셨나요? 런던, 고전 궁전의 미학과 현대적인 트렌드가 조화를 이루는 이 도시는 당신의 도착을 기다리고 있습니다! 빅벤의 장엄한 종소리부터 코벤트 가든의 거리 예술까지, 내걸음마다 새로운 풍경이 펼쳐집니다. 이번 7일 6박 깊이 있는 일정은 관광 함정을 피하면서 런던의 역사적 깊이와 트렌디한 삶을 한 번에 경험할 수 있도록 할 것입니다!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "첫째 날: 왕실의 고전과 랜드마크 투어",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "버킹엄 궁전",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "런던에서의 첫 번째 방문지는 버킹엄 궁전의 수문교대식입니다! 이곳은 영국 왕실의 상징이며, 가장 의식적인 경험 중 하나입니다. 붉은 제복을 입고 곰털 모자를 쓴 수비대가 일직선으로 행진하는 모습을 보면, 그 경이로움에 소름이 돋을 것입니다! 45분 전에 도착해 가장 선명한 사진을 찍는 것을 잊지 마세요.",
+              "practical_tip": "💡 꿀팁: 반드시 공식 웹사이트에서 교대식의 정확한 날짜를 확인하세요. 보통 하루 전날 이루어지니 헛수고 하지 않도록 하세요!"
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "웨스트민스터 사원과 빅벤",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "웨스트민스터 사원까지 걸어서 가보세요. 이곳은 모든 군주의 대관식과 안식처이며, 고딕 건축의 섬세한 조각이 당신을 감탄하게 할 것입니다. 이어서 빅벤과 국회의사당으로 걸어가세요. 이곳은 런던 최고의 엽서 같은 장면을 제공합니다! 웨스트민스터 다리 위에 서서 템스강의 미풍을 느낀다면, 이곳이 당신이 꿈꿔왔던 영국의 분위기입니다.",
+              "practical_tip": "💡 꿀팁: 웨스트민스터 사원 내부는 촬영이 금지되니, 스마트폰을 넣고 이 천년의 유적의 역사적 깊이를 느끼는 것이 좋습니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "런던 아이",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "저녁 식사 후에 런던 아이를 타고 도시의 야경을 감상하세요! 대관람차가 천천히 올라갈수록 템스강의 불빛이 더욱 매력적으로 다가옵니다. 커플 데이트나 가족 여행에 딱 좋은 선택이며, 투명 캐빈에 앉아 빅벤과 국회의사당의 반짝이는 불빛을 내려다보면 로맨틱 지수가 최고조에 달합니다.",
+              "practical_tip": "💡 꿀팁: 사전에 인터넷에서 빠른 통과 티켓을 예약하는 것을 강력히 추천합니다. 현장에서의 줄이 매우 긴단 말이에요!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "둘째 날: 박물관 투어와 예술가의 마을",
+          "activities": [
+            {
+              "time_slot": "오전",
+              "spot_name": "브리티시 뮤지엄",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "세계에서 가장 방대한 컬렉션을 자랑하는 브리티시 뮤지엄은 역사 애호가의 성지입니다! 이집트의 로제타 스톤에서 그리스의 파르테논 신전 조각까지, 이러한 무형의 보물들이 바로 당신의 눈앞에 있습니다. 박물관은 광범위하므로 3-4시간 정도의 시간을 할애하고 꼭 봐야 할 전시구역 몇 개를 정해 가세요, 그렇지 않으면 다리가 아플지도 모릅니다!",
+              "practical_tip": "💡 꿀팁: 입장은 무료지만 예약이 필요합니다. 미리 공식 웹사이트에서 티켓을 예약하면 대기 시간을 줄일 수 있습니다."
+            },
+            {
+              "time_slot": "오후",
+              "spot_name": "코벤트 가든",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "박물관을 관람한 후, 코벤트 가든에서 런던의 가장 활기찬 예술적인 분위기를 즐겨보세요. 이곳에는 다양한 특색 있는 시장과 정교한 수공예품 가게들이 있으며, 곳곳에서 거리 예술가의 공연을 볼 수 있습니다. 야외 카페에 앉아 영국식 애프터눈 티를 주문하고, 분주한 인파를 관람하며 여유로운 시간을 즐겨 보세요. 이곳이 바로 런던의 가장 진정한 느림의 미학입니다.",
+              "practical_tip": "💡 꿀팁: 코벤트 가든 바로 옆에 있는 'Shake Shack'은 비록 미국식 햄버거이지만 맛이 정말 뛰어납니다. 피곤할 때 에너지를 보충하기에 가장 좋습니다."
+            },
+            {
+              "time_slot": "저녁",
+              "spot_name": "웨스트엔드 뮤지컬",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "런던에 오면 뮤지컬을 보지 않고서는 간다고 할 수 없습니다! 웨스트엔드의 공연 수준은 세계 최고입니다. 장기 공연인 '레 미제라블'이나 '오페라의 유령' 등, 압도적인 조명 효과와 배우의 뛰어난 연기는 당신의 감정에 깊은 울림을 줄 것입니다. 이곳은 당신의 런던 여행 중 가장 잊지 못할 밤이 될 것입니다.",
+              "practical_tip": "💡 꿀팁: 저렴한 티켓을 사고 싶으신가요? 리스터 스퀘어의 TKTS 카운터를 방문하여 당일 잔여 티켓을 구매하는 것을 추천합니다. 운이 좋으면 가격을 반값에 절약할 수 있습니다!"
+            }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "seo_meta": {
+        "title": "【2026 Londres Voyage libre】Le meilleur plan de visite de 7 jours ! Attractions, transports et incontournable guide culinaire",
+        "description": "Comment découvrir Londres pour la première fois ? Ce guide complet de 7 jours à Londres vous permet de visiter tous les incontournables et de savourer la cuisine locale..."
+      },
+      "hero_section": {
+        "hook_intro": "Prêt à vivre une romance anglo-saxonne à travers le temps ? Londres, cette ville qui allie esthétique classique et tendances modernes, vous attend les bras ouverts ! Du son solennel du Big Ben à l'art de rue de Covent Garden, chaque pas est un paysage. Cet itinéraire approfondi de 7 jours et 6 nuits vous permettra d’éviter les pièges à touristes et de découvrir l’essence même de l'histoire et de la vie branchée de Londres !",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Jour 1 : Visite des classiques royaux et des monuments",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "Buckingham Palace",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "Votre première étape à Londres sera d'assister à la cérémonie de relève de la garde du Buckingham Palace ! C'est non seulement le symbole de la royauté britannique, mais aussi une expérience hautement cérémonielle. Regarder les gardes en uniforme rouge et portant des chapeaux en fourrure avancer de manière si ordonnée vous fera vraiment frémir ! N'oubliez pas d'arriver 45 minutes à l'avance pour capturer les meilleurs clichés.",
+              "practical_tip": "💡 Astuce du pro : Consultez absolument le site officiel pour connaître la date exacte de la relève, qui a lieu généralement le lendemain, afin de ne pas vous déplacer pour rien !",
+              "needsTicket": true,
+              "klookQuery": "Buckingham Palace Changing of the Guard"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Abbaye de Westminster et Big Ben",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "Vous pouvez vous rendre à pied à l'Abbaye de Westminster, où les monarques sont couronnés et reposent en paix. Les délicates sculptures gothiques vous laisseront sans voix. Ensuite, marchez vers le Big Ben et le Palais de Westminster, le point de vue le plus classique de Londres ! En vous tenant sur le pont de Westminster, ressentez la brise de la Tamise, c'est l'essence même du charme britannique.",
+              "practical_tip": "💡 Astuce du pro : Les photos à l'intérieur de l'Abbaye de Westminster sont interdites, il est donc conseillé de ranger votre téléphone et de profiter de l'histoire de ce monument millénaire."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "London Eye",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "Après le dîner, montez à bord du London Eye pour admirer la vue nocturne de toute la ville ! Alors que la grande roue s'élève lentement, les lumières scintillantes le long de la Tamise deviennent particulièrement envoûtantes. C'est une option parfaite pour une sortie en amoureux ou un voyage en famille ; asseyez-vous dans une cabine transparente et admirez les lumières scintillantes du Big Ben et du Palais de Westminster, un véritable moment romantique.",
+              "practical_tip": "💡 Astuce du pro : Il est fortement conseillé de réserver vos billets coupe-file en ligne à l'avance, car la file d'attente sur place peut être impressionnante !"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Jour 2 : Parcours des musées et quartiers bohèmes",
+          "activities": [
+            {
+              "time_slot": "Matin",
+              "spot_name": "British Museum",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "Le British Museum, réputé pour sa collection inégalée, est un véritable paradis pour les passionnés d'histoire ! Des Rosettes d'Égypte aux sculptures du Parthénon grec, ces trésors inestimables sont à votre portée. Étant donné la taille du musée, il est conseillé de prévoir 3 à 4 heures et de se concentrer sur quelques sections incontournables pour ne pas en sortir épuisé !",
+              "practical_tip": "💡 Astuce du pro : L'entrée est gratuite mais nécessite une réservation, il est donc conseillé de réserver vos billets à l'avance sur le site officiel pour réduire le temps d'attente sur place.",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "Après-midi",
+              "spot_name": "Covent Garden",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "Après votre visite au musée, plongez dans l'ambiance bohème de Covent Garden, le quartier le plus animé de Londres. Vous y trouverez des marchés artisanaux, des boutiques de créations raffinées et des performances d'artistes de rue à chaque coin de rue. Trouvez un café en plein air, commandez un traditionnel thé de l’après-midi et observez la foule animée ; c'est là que se trouve la véritable essence du temps de détente à Londres.",
+              "practical_tip": "💡 Astuce du pro : Bien que le Shake Shack à proximité de Covent Garden propose des hamburgers américains, sa qualité est excellente et c'est un endroit parfait pour refaire le plein d'énergie après vos emplettes."
+            },
+            {
+              "time_slot": "Soir",
+              "spot_name": "Spectacle du West End",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "Avoir visité Londres sans voir une comédie musicale équivaut à ne jamais y être allé ! Les performances du West End sont de renommée mondiale. Que ce soit le classique intemporel Les Misérables ou Le Fantôme de l'Opéra, les effets visuels éblouissants et le talent des acteurs ne manqueront pas de vous émouvoir aux larmes. C'est assurément l'une des nuits les plus mémorables de votre voyage à Londres.",
+              "practical_tip": "💡 Astuce du pro : Vous cherchez des billets moins chers ? Rendez-vous au guichet TKTS à Leicester Square pour acheter les billets restants du jour, vous pourriez avoir la chance de payer moitié prix !"
+            }
+          ]
+        }
+      ]
+    },
+    "es": {
+      "seo_meta": {
+        "title": "【2026 Londres Viaje Libre】¡El mejor paquete de planificación de itinerario de 7 días!",
+        "description": "¿Cómo disfrutar Londres en tu primera visita? Esta guía de 7 días te lleva a todos los lugares imprescindibles y a degustar la comida local..."
+      },
+      "hero_section": {
+        "hook_intro": "¿Listo para disfrutar de un romance británico a través del tiempo? Londres, la ciudad que fusiona la estética clásica de los palacios con las tendencias modernas, ¡te está esperando con los brazos abiertos! Desde el solemne repique del Big Ben hasta el arte callejero de Covent Garden, cada paso es un paisaje. Este itinerario de 7 días y 6 noches te llevará a evitar trampas turísticas y a llevarte lo mejor de la historia y la vida moderna de Londres en una sola experiencia.",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Día 1: Recorrido por los Clásicos Reales y Monumentos",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Buckingham Palace",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "La primera parada en Londres es sin duda presenciar la ceremonia del cambio de guardia en Buckingham Palace. ¡Esto no solo es un símbolo de la realeza británica, sino una experiencia llena de ceremonial! Ver a los guardianes vestidos con uniformes rojos y gorras de piel de oso marchar con precisión realmente te hará sentir una oleada de emoción. Recuerda llegar 45 minutos antes para tomar la mejor posición y capturar las imágenes más nítidas.",
+              "practical_tip": "💡 Consejo útil: Asegúrate de consultar el sitio web oficial para las fechas exactas de la ceremonia, usualmente se lleva a cabo al día siguiente, ¡no te quedes sin verlo!",
+              "needsTicket": true,
+              "klookQuery": "Buckingham Palace Changing of the Guard"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Abadía de Westminster y Big Ben",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "Puedes llegar a pie a la Abadía de Westminster, donde se han llevado a cabo las coronaciones y funerales de los monarcas a lo largo de la historia. La delicada escultura del estilo gótico seguro te dejará maravillado. Luego, dirígete a Big Ben y al Palacio de Westminster; ¡esta es la vista icónica de una postal de Londres! Desde el Puente de Westminster, siente la brisa del río Támesis, esto es lo que sueñas en tu experiencia británica.",
+              "practical_tip": "💡 Consejo útil: No se permiten fotografías dentro de la Abadía de Westminster; te sugerimos guardar tu móvil y sumergirte en la historia de este monumento milenario."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "London Eye",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "Después de la cena, ¡sube al London Eye y disfruta de las vistas nocturnas de toda la ciudad! A medida que la noria se eleva lentamente, las luces a lo largo del río Támesis lucen deslumbrantes. Esto es una elección perfecta para una cita romántica o unas vacaciones familiares; sentado en una cabina de vidrio, podrás contemplar las luces que brillan en Big Ben y el Palacio de Westminster, ¡una experiencia totalmente romántica!",
+              "practical_tip": "💡 Consejo útil: Se recomienda encarecidamente reservar boletos de acceso rápido en línea con anticipación, ¡las filas pueden ser abrumadoras!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Día 2: Recorrido por Museos y Barrios Artísticos",
+          "activities": [
+            {
+              "time_slot": "Mañana",
+              "spot_name": "Museo Británico",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "El Museo Británico, que alberga la colección más rica del mundo, ¡es sin duda un paraíso para los amantes de la historia! Desde la Piedra de Rosetta de Egipto hasta las esculturas del Partenón griego, estos tesoros incalculables están justo frente a tus ojos. El museo es extenso, por lo que se sugiere reservar de 3 a 4 horas y enfocarse en algunas secciones clave para no acabar con las piernas agotadas.",
+              "practical_tip": "💡 Consejo útil: La entrada es gratuita, pero se necesita reservar; te recomendamos hacer la reserva de tus boletos en el sitio web oficial para evitar las filas.",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Covent Garden",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "Después de visitar el museo, dirígete a Covent Garden para sentir la vibrante atmósfera artística de Londres. Aquí encontrarás diversos mercados, tiendas de artesanía exquisita, y artistas callejeros actuando por doquier. Encuentra una cafetería al aire libre, pide un té de la tarde inglés y observa a la multitud pululante, ¡esta es la esencia del estilo de vida tranquilo de Londres!",
+              "practical_tip": "💡 Consejo útil: Aunque 'Shake Shack' al lado de Covent Garden ofrece hamburguesas estilo americano, ¡su sabor es excelente! Ideal para reponer energías después de un día de exploración."
+            },
+            {
+              "time_slot": "Noche",
+              "spot_name": "Musical en el West End",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "¡Si visitas Londres y no asistes a un musical, realmente no has estado aquí! Las actuaciones del West End están entre las mejores del mundo. Ya sea que prefieras el clásico 'Les Misérables' o 'The Phantom of the Opera', el impresionante espectáculo de luces y efectos de sonido junto con las actuaciones excepcionales te dejarán sin palabras. Definitivamente será una de las noches más memorables de tu viaje a Londres.",
+              "practical_tip": "💡 Consejo útil: ¿Buscas entradas más baratas? Te recomendamos visitar la taquilla de TKTS en Leicester Square para comprar boletos sobrantes del día, ¡podrías ahorrar hasta la mitad del precio!"
+            }
+          ]
+        }
+      ]
+    },
+    "id": {
+      "seo_meta": {
+        "title": "【2026 London Perjalanan Bebas】Paket Perencanaan Itinerary 7 Hari Terbaik! Destinasi, Transportasi & Panduan Makanan Wajib",
+        "description": "Pertama kali ke London, bagaimana cara bermain? Artikel ini adalah panduan lengkap 7 hari di London, membawa Anda menjelajahi tempat-tempat yang wajib dikunjungi dan mencicipi kuliner lokal..."
+      },
+      "hero_section": {
+        "hook_intro": "Siap untuk menyambut sebuah perjalanan romantis Inggris yang melintasi waktu? London, kota yang memadukan estetika istana klasik dengan tren modern, sedang membuka tangannya untuk menyambut kedatanganmu! Dari suara lonceng Big Ben yang megah hingga seni jalanan di Covent Garden, setiap langkah adalah pemandangan. Itinerary 7 hari 6 malam yang mendalam ini akan membawamu menghindari perangkap pariwisata dan mengumpulkan kekayaan sejarah serta gaya hidup modis London dalam satu paket!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Hari 1: Kunjungan ke Landmark Kerajaan",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "Buckingham Palace",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "Tiba di London, hentian pertama yang harus dicapai adalah menyaksikan upacara pergantian penjaga di Buckingham Palace! Ini bukan hanya simbol kerajaan Inggris, tetapi juga pengalaman yang sangat ritualistik. Menyaksikan para penjaga berpakaian seragam merah dan berperisai topi bulu bergerak dengan rapi, rasa kagum itu pasti akan membuatmu merinding! Ingat untuk datang 45 menit lebih awal agar bisa menangkap gambar yang paling jelas.",
+              "practical_tip": "💡 Tips Dari Ahli: Pastikan untuk memeriksa tanggal pasti upacara di situs resmi karena biasanya diadakan keesokan harinya, agar tidak sia-sia!",
+              "needsTicket": true,
+              "klookQuery": "Buckingham Palace Changing of the Guard"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Westminster Abbey dan Big Ben",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "Bisa dicapai dengan berjalan kaki, Westminster Abbey adalah tempat di mana para raja dan ratu dimahkotai dan beristirahat. Ukiran halus dalam arsitektur Gotik pasti akan mengagumkan. Setelah itu, jalan kaki ke Big Ben dan Gedung Parlemen, ini adalah sudut pandang kartu pos yang paling klasik di London! Berdiri di Jembatan Westminster dan nikmati angin dari Sungai Thames, ini adalah suasana Inggris yang selalu Anda impikan.",
+              "practical_tip": "💡 Tips Dari Ahli: Dilarang mengambil foto di dalam Westminster Abbey, jadi lebih baik simpan ponselmu dan rasakan ketenangan sejarah situs bersejarah ini."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "London Eye",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "Setelah makan malam, naiklah London Eye untuk melihat pemandangan malam kota yang menakjubkan! Saat roda Ferris perlahan naik, cahaya di tepi Sungai Thames terlihat sangat menawan. Ini adalah pilihan yang sempurna untuk kencan atau perjalanan keluarga, duduk di kabin transparan sambil melihat cahaya berkilau Big Ben dan Gedung Parlemen, suasana romantis yang tak tertandingi.",
+              "practical_tip": "💡 Tips Dari Ahli: Sangat disarankan untuk memesan tiket fast track secara online sebelumnya, karena antrean di lokasi bisa sangat mengesankan!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Hari 2: Tur Museum dan Komunitas Seni",
+          "activities": [
+            {
+              "time_slot": "Pagi",
+              "spot_name": "British Museum",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "British Museum, museum dengan koleksi paling kaya di dunia, adalah surga bagi para pencinta sejarah! Dari Rosetta Stone Mesir hingga patung Parthenon Yunani, harta tak ternilai ini ada di depan mata. Museum ini sangat luas, disarankan untuk menyisihkan 3-4 jam dan fokus pada beberapa area pameran yang wajib dilihat, agar tidak kelelahan!",
+              "practical_tip": "💡 Tips Dari Ahli: Masuk gratis tetapi harus memesan, sebaiknya pesan tiket di situs resmi sebelumnya untuk menghindari antrean saat tiba.",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "Siang",
+              "spot_name": "Covent Garden",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "Setelah mengunjungi museum, datanglah ke Covent Garden untuk merasakan suasana seni yang paling hidup di London. Di sini ada berbagai pasar unik, toko kerajinan yang indah, dan pertunjukan seniman jalanan di mana-mana. Temukan kafe terbuka dan pesan secangkir teh sore Inggris, sambil mengamati kerumunan yang sibuk, inilah waktu santai yang paling otentik di London.",
+              "practical_tip": "💡 Tips Dari Ahli: 'Shake Shack' di sebelah Covent Garden meskipun adalah burger Amerika, rasanya sangat enak dan cocok untuk mengisi kembali energi setelah berkeliling."
+            },
+            {
+              "time_slot": "Malam",
+              "spot_name": "Musical di West End",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "Ketika berada di London, tidak menonton pertunjukan musikal sama sekali sama dengan belum datang! Pertunjukan di West End adalah yang terbaik di dunia. Baik itu pertunjukan abadi 'Les Misérables' atau 'The Phantom of the Opera', efek suara dan cahaya yang mengesankan, serta keterampilan akting para pemain, pasti akan membuatmu terharu. Ini pasti akan menjadi malam yang paling tak terlupakan dalam perjalananmu di London.",
+              "practical_tip": "💡 Tips Dari Ahli: Ingin mendapatkan tiket murah? Disarankan untuk membeli tiket sisa hari di loket TKTS di Leicester Square, dengan sedikit keberuntungan, kamu bisa menghemat hingga setengah harga!"
+            }
+          ]
+        }
+      ]
+    },
+    "hi": {
+      "seo_meta": {
+        "title": "【2026 लंदन स्वतंत्र यात्रा】सबसे बेहतरीन 7 दिन की यात्रा योजना पैकेज! आकर्षण, परिवहन और जरूरी खाद्य पदार्थों की पूरी गाइड",
+        "description": "पहली बार लंदन जाने का क्या प्लान करें? यह पूरी 7 दिन की लंदन स्वतंत्र यात्रा गाइड, आपको अनिवार्य स्थल, स्थानीय व्यंजन का स्वाद लेने में मदद करेगी..."
+      },
+      "hero_section": {
+        "hook_intro": "क्या आप समय और स्थान के बीच एक इंग्लिश रोमांस का स्वागत करने के लिए तैयार हैं? लंदन, यह शहर जो शास्त्रीय राजशाही सौंदर्य और आधुनिक प्रवृत्तियों का समागम है, आपकी आगमन की प्रतीक्षा कर रहा है! बिग बेन की गंभीर घण्टी से लेकर कोवेंट गार्डन की स्ट्रीट आर्ट तक, हर कदम एक दृश्य है। यह 7 दिन का गहन यात्रा कार्यक्रम आपको पर्यटन जाल से बचाएगा, और लंदन के अभूतपूर्व इतिहास और शानदार जीवन का अनुभव कराने में मदद करेगा!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "पहला दिन: शाही क्लासिक्स और स्थलों की यात्रा",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "बकिंघम पैलेस",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "लंदन की पहली यात्रा का स्थान निश्चित रूप से बकिंघम पैलेस की गार्ड चेंज समारोह को देखना है! यह न केवल ब्रिटिश शाही परिवार का प्रतीक है, बल्कि सबसे अनुष्ठानिक अनुभव भी है। लाल वर्दी में डressed, भालू की खाल की टोपी पहनने वाले गार्ड को एकसाथ चलते हुए देखना, वह अनुभव वाकई में आपको रोमांचित कर देगा! सुनिश्चित करें कि आप 45 मिनट पहले पहुंचें, ताकि सबसे स्पष्ट चित्र ले सकें।",
+              "practical_tip": "💡 विशेषज्ञ टिप: कृपया पहले आधिकारिक वेबसाइट पर गार्ड चेंज समारोह की सही तारीख की जांच करें, आमतौर पर यह अगले दिन होती है, ताकि आपको निराशा न हो!"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "वेस्टमिंस्टर एबी और बिग बेन",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "वेस्टमिंस्टर एबी की ओर पैदल चलें, यह जगह सभी राजाओं के ताज पहनाने और विश्राम स्थलों का स्थान है, गोथिक शैली की इमारतों की विस्तृत नक्काशी आपको मंत्रमुग्ध कर देगी। फिर बिग बेन और संसद भवन की ओर चलें, यह लंदन का सबसे क्लासिक पोस्टकार्ड दृश्य है! वेस्टमिंस्टर ब्रिज पर खड़े होकर, थेम्स नदी की हल्की हवा का अनुभव करें, यही आपके सपनों का इंग्लिश माहौल है।",
+              "practical_tip": "💡 विशेषज्ञ टिप: वेस्टमिंस्टर एबी के अंदर फोटोग्राफी की अनुमति नहीं है, सुझाव है कि अपना फोन वापस रख लें, और इस हजार साल पुरानी विरासत के इतिहास को दिल से अनुभव करें।"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "लंदन आई फेरिस व्हील",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "डिनर के बाद, लंदन आई पर चढ़कर पूरे शहर के रात के दृश्य का आनंद लें! जैसे ही फेरिस व्हील धीरे-धीरे उठता है, थेम्स नदी के किनारे की रोशनी विशेष रूप से मोहक नजर आती है। यह एक रोमांटिक डेट या परिवार की यात्रा के लिए एकदम सही है, पारदर्शी कैब में बैठे हुए, बिग बेन और संसद भवन की चमकती रोशनी को देखते हुए, रोमांटिकता की ऊंचाई पर पहुँच जाएंगे।",
+              "practical_tip": "💡 विशेषज्ञ टिप: ऑनलाइन पहले से फास्ट ट्रैक टिकट बुक करने की सिफारिश की जाती है,现场 में कतार बहुत लंबी हो सकती है!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "दूसरा दिन: संग्रहालय यात्रा और सांस्कृतिक माहौल",
+          "activities": [
+            {
+              "time_slot": "सुबह",
+              "spot_name": "ब्रिटिश म्यूजियम",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "दुनिया का सबसे समृद्ध संग्रहालय, ब्रिटिश म्यूजियम, निश्चित रूप से इतिहास प्रेमियों का स्वर्ग है! यहाँ आप मिस्र के रोसेट्टा स्टोन से लेकर यूनान के पार्थेनन मंदिर की मूर्तियों तक, अनमोल खजाने का सामना करेंगे। संग्रहालय का क्षेत्र विशाल है, यथासंभव 3-4 घंटे का समय रखें, और कुछ प्रमुख प्रदर्शन क्षेत्रों पर ध्यान केंद्रित करें, ताकि आपके पैर न थकें!",
+              "practical_tip": "💡 विशेषज्ञ टिप: प्रवेश मुफ्त है लेकिन बुकिंग आवश्यक है, सुझाव है कि आधिकारिक वेबसाइट पर पहले से टिकट बुक करें,现场 में रुकने का समय बचाने के लिए।"
+            },
+            {
+              "time_slot": "दोपहर",
+              "spot_name": "कोवेंट गार्डन",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "संग्रहालय की यात्रा के बाद, कोवेंट गार्डन में लंदन के सबसे जीवंत सांस्कृतिक माहौल का अनुभव करें। यहाँ विशेष बाजार, बारीक हस्तनिर्मित सामान की दुकानों और सड़कों पर प्रदर्शन करने वाले कलाकारों की भरपूर संख्या है। एक बाहरी कैफे में बैठकर, एक कप अंग्रेजी दोपहर की चाय का आंनद लें, और भीड़-भाड़ वाले लोगों का अवलोकन करें, यही लंदन का वास्तविक धीमा जीवन है।",
+              "practical_tip": "💡 विशेषज्ञ टिप: कोवेंट गार्डन के बगल में 'Shake Shack' भले ही अमेरिकी बर्गर हो, लेकिन इसका स्वाद बहुत अच्छा है, थक गए हैं तो यहां ऊर्जा को नवीनीकरण करना सबसे अच्छा है।"
+            },
+            {
+              "time_slot": "रात",
+              "spot_name": "वेस्ट एंड म्यूजिकल",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "लंदन आएंगे और एक म्यूजिकल का अनुभव नहीं करेंगे, यह इसका अनुभव नहीं है! वेस्ट एंड (West End) का प्रदर्शन दुनिया की शीर्ष श्रेणी में है। चाहे वह वर्षों से चलता आ रहा नाटक 'Les Misérables' हो या 'The Phantom of the Opera', ध्वनि और प्रकाश का प्रदर्शन और अभिनेता की बेहतरीन अभिनय कला, निश्चित रूप से आपको भावुक कर देगा। यह आपके लंदन यात्रा का सबसे अविस्मरणीय रात होगा।",
+              "practical_tip": "💡 विशेषज्ञ टिप: सस्ते टिकट खरीदने की इच्छा है? लेस्टर स्क्वायर (Leicester Square) पर TKTS काउंटर पर जाकर दिन की बची हुई टिकट खरीदने की सिफारिश की जाती है, यदि किस्मत अच्छी हो तो आधी कीमत में बचत कर सकते हैं!"
+            }
+          ]
+        }
+      ]
+    },
+    "pt": {
+      "seo_meta": {
+        "title": "【2026 Londres Viagem Livre】O Melhor Roteiro de 7 Dias! Guia Completo de Atrações, Transporte e Comidas Imperdíveis",
+        "description": "Como se divertir na sua primeira visita a Londres? Este guia super completo de 7 dias para uma viagem livre em Londres vai te levar por todos os pontos turísticos essenciais e saborear as delícias locais..."
+      },
+      "hero_section": {
+        "hook_intro": "Está pronto para uma viagem romântica através do tempo na Inglaterra? Londres, essa cidade que mescla a estética clássica dos palácios com as tendências modernas, está de braços abertos esperando por você! Desde o majestoso sino do Big Ben até a arte de rua em Covent Garden, cada passo é uma nova paisagem. Este roteiro aprofundado de 7 dias e 6 noites vai te ajudar a evitar armadilhas turísticas e a levar para casa a essência da história rica e da vida elegante de Londres!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "Dia 1: Clássicos Reais e Tour de Marcas",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Buckingham Palace",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "A primeira parada em Londres deve ser para testemunhar a troca da guarda no Buckingham Palace! Isso não é apenas um símbolo da realeza britânica, mas também uma experiência cheia de ritual. Ver os guardas em uniformes vermelhos, usando chapéus de pele de urso, marchando em perfeita sincronia é realmente de tirar o fôlego! Lembre-se de chegar 45 minutos antes para conseguir a melhor posição para fotos.",
+              "practical_tip": "💡 Dica do especialista: Verifique sempre o site oficial para os horários exatos da troca da guarda, geralmente acontece na próxima manhã, para não perder a oportunidade!",
+              "needsTicket": true,
+              "klookQuery": "Buckingham Palace Changing of the Guard"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Abadia de Westminster e Big Ben",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "Você pode caminhar até a Abadia de Westminster, onde os monarcas britânicos são coroados e enterrados. A delicada escultura da arquitetura gótica vai te deixar impressionado. Em seguida, caminhe até o Big Ben e o Parlamento, com uma vista espetacular que se tornou um clássico de Londres! Fique na Westminster Bridge e sinta a brisa do rio Tamisa, essa é a verdadeira essência britânica que você sempre sonhou.",
+              "practical_tip": "💡 Dica do especialista: Não é permitido tirar fotos dentro da Abadia de Westminster, então é melhor guardar o celular e absorver a história desse monumento milenar!"
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "London Eye",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "Após o jantar, embarque no London Eye para desfrutar da vista noturna da cidade! Com a roda giratória subindo lentamente, as luzes ao longo do rio Tamisa cintilam de forma deslumbrante. É uma excelente opção para casais ou para famílias em viagem. Sentando em uma cápsula de vidro, você poderá admirar as luzes do Big Ben e do Parlamento brilhar junto ao céu noturno, tornando o momento extremamente romântico.",
+              "practical_tip": "💡 Dica do especialista: Reserve os bilhetes de acesso rápido online com antecedência, pois a fila pode ser realmente impressionante!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "Dia 2: Tour de Museus e Comunidades Criativas",
+          "activities": [
+            {
+              "time_slot": "Manhã",
+              "spot_name": "Museu Britânico",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "O Museu Britânico, que possui uma das coleções mais ricas do mundo, é um verdadeiro paraíso para os amantes da história! Desde a Pedra de Rosetta do Egito até as esculturas do Partenon grego, essas preciosidades estarão diante de seus olhos. O museu é imenso, então reserve de 3 a 4 horas e escolha algumas áreas de exposição que você deseja ver, para não acabar cansado!",
+              "practical_tip": "💡 Dica do especialista: A entrada é gratuita, mas é necessário agendar, então é recomendável reservar os ingressos com antecedência no site oficial para evitar filas.",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "Tarde",
+              "spot_name": "Covent Garden",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "Após a visita ao museu, vá a Covent Garden para sentir a vibração vibrante da cidade. Aqui você encontra diversos mercados, lojas de artesanato e apresentações de artistas de rua por toda parte. Encontre um café ao ar livre, peça um tradicional chá da tarde inglês e observe a movimentação das pessoas, esse é o verdadeiro ritmo de vida londrino.",
+              "practical_tip": "💡 Dica do especialista: Embora o 'Shake Shack' ao lado de Covent Garden sirva hambúrgueres americanos, o sabor é excepcional, então é o lugar perfeito para recarregar as energias após um dia de passeios."
+            },
+            {
+              "time_slot": "Noite",
+              "spot_name": "Musicais do West End",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "Ao visitar Londres, assistir a um musical é imperdível! As produções do West End são de nível mundial. Seja o clássico 'Les Misérables' ou 'O Fantasma da Ópera', os efeitos incríveis e a performance dos atores certamente vão emocionar você. Esta será uma das noites mais memoráveis da sua viagem a Londres.",
+              "practical_tip": "💡 Dica do especialista: Quer comprar ingressos mais baratos? Recomendo comprar os ingressos restantes no guichê do TKTS em Leicester Square, com um pouco de sorte você pode conseguir metade do preço!"
+            }
+          ]
+        }
+      ]
+    },
+    "ar": {
+      "seo_meta": {
+        "title": "【2026 لندن自由行】أقوى خطة رحلة لمدة 7 أيام!",
+        "description": "كيف تلعب في لندن للمرة الأولى؟ هذه المقالة الشاملة عن رحلتك الحرة لمدة 7 أيام في لندن ستأخذك في جولة للأماكن التي يجب زيارتها وتذوق الطعام المحلي..."
+      },
+      "hero_section": {
+        "hook_intro": "هل أنت مستعد لاستقبال تجربة رومانسية إنجليزية عبر الزمن؟ لندن، ذلك المدينة التي تدمج بين جمال القصور الكلاسيكية والموضة العصرية، تفتح ذراعيها في انتظارك! من دقات ساعة بيج بن المهيبة إلى فنون الشارع في كوفنت غاردن، كل خطوة هي مشهد. هذه الرحلة المعمقة والممتدة على مدى 7 أيام و6 ليالٍ ستأخذك بعيداً عن فخاخ السياحة وتعبّر لك عن جوهر لندن التاريخي والحياة العصرية في تجربة واحدة رائعة!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "اليوم الأول: جولة في المعالم الملكية والتقليدية",
+          "activities": [
+            {
+              "time_slot": "الصباح",
+              "spot_name": "قصر باكنغهام",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "وجهتك الأولى في لندن يجب أن تكون لحضور مراسم تغيير الحرس في قصر باكنغهام! هذا ليس مجرد رمز للعائلة الملكية البريطانية، بل تجربة ذات طابع خاص. احرص على رؤية الحراس الذين يرتدون الزي الأحمر والقبعات المصنوعة من الفرو وهم يسيرون بانسجام، حيث أن تأثير هذا المظهر يمكن أن يجعلك تشعر بالقشعريرة! تذكر أن تصل قبل 45 دقيقة للحصول على أفضل الزوايا للتصوير.",
+              "practical_tip": "💡 نصيحة من خبير: تأكد من التحقق من التاريخ المحدد لمراسم تغيير الحرس على الموقع الرسمي، وعادةً ما تُقام في اليوم التالي، فلا تضيع وقتك!"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "دير ويستمينستر وبيج بن",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "يمكنك الوصول إلى دير ويستمينستر سيرًا على الأقدام، هذا هو مكان تتويج ودفن الملوك على مر العصور، والنقوش المعمارية القوطية هنا تبهر بجمالها. بعد ذلك، امشِ نحو بيج بن ومبنى البرلمان، حيث تأتيك واحدة من أكثر المناظير شهرة في لندن! قف على جسر ويستمينستر، واستمتع بنسيم نهر التايمز، ستشعر بأجواء إنجليزية حالمة.",
+              "practical_tip": "💡 نصيحة من خبير: يُمنع التصوير داخل دير ويستمينستر، لذا يُفضل أن تضع هاتفك في جيبك لتستمتع بتاريخ هذه الأثر العتيق."
+            },
+            {
+              "time_slot": "الليل",
+              "spot_name": "عجلة لندن",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "بعد العشاء، انطلق إلى عجلة لندن لتستمتع بمشهد المدينة ليلاً! بينما ترتفع العجلة ببطء، تتلألأ الأضواء على ضفاف نهر التايمز بشكل ساحر للغاية. هذه تجربة مثالية للتواريخ الرومانسية أو العائلات، حيث يمكنك الجلوس في كابينة زجاجية ومشاهدة أضواء بيج بن ومبنى البرلمان، مما يزيد من جمال اللحظة.",
+              "practical_tip": "💡 نصيحة من خبير: يوصى بشدة بحجز تذاكر الدخول السريع عبر الإنترنت مسبقًا، فطوابير الانتظار في الموقع قد تكون مروعة!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "اليوم الثاني: جولة في المتاحف ومكان مبدع",
+          "activities": [
+            {
+              "time_slot": "الصباح",
+              "spot_name": "المتحف البريطاني",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "المتحف البريطاني، الذي يضم أغنى المجموعات في العالم، هو وجهة مقدسة لعشاق التاريخ! من حجر رشيد المصري إلى تماثيل البارثينون اليوناني، هذه الكنوز لا تقدر بثمن توجد أمام عينيك. مساحة المتحف واسعة، لذا يُفضل تخصيص 3-4 ساعات وزيارة بعض المعروضات الأساسية لتجنب شعور التعب.",
+              "practical_tip": "💡 نصيحة من خبير: الدخول مجاني لكن يتطلب حجز مسبق، لذا يُفضل حجز تذاكر الدخول عبر الموقع الرسمي لتفادي الانتظار.",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "بعد الظهر",
+              "spot_name": "كوفنت غاردن",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "بعد زيارة المتحف، يمكنك الذهاب إلى كوفنت غاردن للاستمتاع بأجواء ثقافية مفعمة بالحيوية. هنا يمكنك العثور على أسواق مميزة، ومتاجر للحرف اليدوية، بالإضافة إلى عروض فنية في كل مكان. ابحث عن مقهى في الهواء الطلق واجلس لتناول الشاي بعد الظهر الإنجليزي، واستمتع بمشاهدة الحشود المذهلة، فهذا هو الوقت المثالي للاسترخاء في لندن.",
+              "practical_tip": "💡 نصيحة من خبير: على الرغم من أن "
+            },
+            {
+              "time_slot": "الليل",
+              "spot_name": "المسرحيات الموسيقية في ويست إند",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "زيارة لندن دون مشاهدة مسرحية موسيقية تعني أنك لم تزور لندن بعد! يقدم ويست إند مستويات عالمية من الأداء. سواء كانت المسرحية الخالدة مثل ",
+              "practical_tip": "💡 نصيحة من خبير: هل ترغب في الحصول على تذاكر رخيصة؟ ابحث عن كشك TKTS في ميدان ليستر لشراء التذاكر المتاحة في نفس اليوم، وإذا كنت محظوظًا يمكنك توفير النصف!"
+            }
+          ]
+        }
+      ]
+    },
+    "bn": {
+      "seo_meta": {
+        "title": "【2026 লন্ডন স্বাধীনতার যাত্রা】সর্বশ্রেষ্ঠ ৭ দিনের itinerary পরিকল্পনার স্বল্পকালিক প্যাকেজ! দর্শনীয় স্থান, পরিবহন ও অবশ্যই খাওয়ার সম্পূর্ণ গাইড",
+        "description": "লন্ডনে প্রথমবার গেলে কীভাবে ভ্রমণ করবেন? এই সম্পূর্ণ ৭ দিনের লন্ডন স্বাধীনতার গাইড আপনাকে নিয়ে যাবে অবশ্যই দর্শনীয় স্থানগুলো ঘুরে দেখতে এবং স্থানীয় খাদ্যরসাস্বাদন করতে..."
+      },
+      "hero_section": {
+        "hook_intro": "অতীত ও স্থানে একটি ইংরেজ রোমান্সের জন্য প্রস্তুত? লন্ডন, এই শহরটি প্রাচীন রাজকীয় স্থাপত্য ও আধুনিক সংস্কৃতির একটি মিশ্রণ, আপনার আগমনের জন্য অপেক্ষা করছে! বিগ বেঙের গম্ভীর ঘণ্টাধ্বনি থেকে কোভেন্ড গার্ডেনের রাস্তায় শিল্প, প্রত্যেক পদক্ষেপে এক অনন্য দৃশ্য। এই ৭ দিনের ৬ রাতের গভীর ভ্রমণ আপনাকে দর্শনীয় স্থানগুলোর ফাঁদ থেকে বাঁচিয়ে লন্ডনের ইতিহাস ও আধুনিক জীবনশৈলীর সেরা অভিজ্ঞতা দেবে!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "দিন ১: রাজকীয় ক্লাসিক ও সর্বজনীন চিহ্নের সফর",
+          "activities": [
+            {
+              "time_slot": "প্রাতঃকাল",
+              "spot_name": "বাকিংহাম প্যালেস",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "লন্ডনে আপনার প্রথম গন্তব্য অবশ্যই বাকিংহাম প্যালেসের গার্ড চেঞ্জিং সারির সাক্ষী হওয়া। এটি কেবলমাত্র ব্রিটিশ রাজ পরিবারের প্রতীক নয়, বরং এটি একটি অন্যতম আনুষ্ঠানিক অভিজ্ঞতা। লাল_uniform_ পরিহিত, রুক্ষ পশুর টুপি পরিহিত গার্ডদের সুশৃঙ্খলভাবে অগ্রসর হতে দেখে সত্যিই আপনার মাঝে রোমাঞ্চ সৃষ্টি করবে! ছবি তোলার জন্য ৪৫ মিনিট আগে আসতে ভুলবেন না।",
+              "practical_tip": "💡 তথ্যসূত্র: নিশ্চিত করুন আগের দিন গার্ড চেঞ্জিং সারির প্রকৃত তারিখটি সরকারি ওয়েবসাইটে দেখুন, যেন সময় নষ্ট না হয়!"
+            },
+            {
+              "time_slot": "দুপুরে",
+              "spot_name": "ওয়েস্টমিনস্টার অ্যাবি ও বিগ বেন",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "পায়ে হাঁটা, ওয়েস্টমিনস্টার অ্যাবিতে পৌঁছান, যেখানে বিভিন্ন রাজা রাজাদের রাজ্যাপত্তন ও সমাহিত করা হয়েছে, গথিক স্থাপত্যের সূক্ষ্ম খোদাইয়ে আপনাকে মুগ্ধ করে তুলবে। এরপর বিগ বেন ও পার্লামেন্ট ভবনের দিকে হাঁটা, এটি লন্ডনের সবচেয়ে ক্লাসিক পোস্টকার্ড দৃশ্য! ওয়েস্টমিনস্টার ব্রিজে দাঁড়িয়ে টেমস নদীর সিম্পল হাওয়ায় অনুভব করতে পারেন, এটি আপনার স্বপ্নের ইংরেজ আবহএর সময়।",
+              "practical_tip": "💡 তথ্যসূত্র: ওয়েস্টমিনস্টার অ্যাবির ভিতরে ছবি তোলা নিষিদ্ধ, ফোন কিছু সময়ের জন্য বন্ধ করে রেখেও এই হাজার বছরের পুরানো ঐতিহাসিক স্থানের গভীরতা অনুভব করুন।"
+            },
+            {
+              "time_slot": "রাতের",
+              "spot_name": "লন্ডন আই",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "রাতের খাবারের পর, লন্ডন আই উঁচুতে উঠুন এবং শহরের রাতে সৌন্দর্য উপভোগ করুন! চাকার ধীরে ধীরে উঁচুতে উঠতে থাকা এর মাঝে টেমস নদীর ধারে আলোতরঙ্গ অন্যরকম রোমাঞ্চকর। এটি প্রেমের ডেট বা পরিবারের ভ্রমণের জন্য উপযুক্ত, সচ্ছ কক্ষের মধ্যে বসে বিগ বেন ও পার্লামেন্টের আলোর উজ্জ্বলতা দেখে মুগ্ধ হন।",
+              "practical_tip": "💡 তথ্যসূত্র: দ্রুত প্রবেশের জন্য আগে থেকেই অনলাইনে টিকেট বুক করার সুপারিশ করছি, কারণ现场ের লাইনে প্রত্যাশিত জনসমাগম অবাক করবে!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "দিন ২: জাদুঘরের সফর ও সাংস্কৃতিক কেন্দ্র",
+          "activities": [
+            {
+              "time_slot": "প্রাতঃকাল",
+              "spot_name": "ব্রিটিশ মিউজিয়াম",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "বিশ্বের সবচেয়ে সমৃদ্ধ ব্রিটিশ মিউজিয়াম, যা ইতিহাসের প্রেমীদের জন্য অধিকারিক স্থান! মিসরের রোসেট স্টোন থেকে গ্রীসের পার্থেনন মন্দিরের প্রতিমূর্তির দেখা নিতে পারবেন, মূল্যবান অনন্য রত্নগুলো আপনার সামনে। যেহেতু জাদুঘরটি বিশাল, নির্দেশিত ৩-৪ ঘণ্টা সময় রাখতে এবং কিছু পান্ডিত্যের স্থানের দিকে ফোকাস করে ঘুরতে পারেন, নাহলে পা ভেঙে যাবে!",
+              "practical_tip": "💡 তথ্যসূত্র: প্রবেশ ফ্রি তবে আগে থেকে বুক করতে হবে, তাই সরকারি ওয়েবসাইটে আগে থেকে টিকেট বুক করতে সুপারিশ।"
+            },
+            {
+              "time_slot": "দুপুরে",
+              "spot_name": "কوفেন্ড গার্ডেন",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "জাদুঘর পরিদর্শন শেষে কভেন্ড গার্ডেনে চলে আসুন, যেখানে লন্ডনের সবচেয়ে প্রাণবন্ত সাংস্কৃতিক আবহ পাবেন। এখানে বিভিন্ন ধরনের বাজার, সূক্ষ্ম হস্তশিল্পের দোকান রয়েছে, আর এছাড়া সড়ক শিল্পীদের প্রদর্শনও পাবেন। একটি উন্মুক্ত ক্যাফেতে বসে একটি কাপ ইংরেজি চা উপভোগ করুন, প্যাসিং ক্রু দেখতে। এটি লন্ডনের আসল স্লো লাইফ সময়।",
+              "practical_tip": "💡 তথ্যসূত্র: কভেন্ড গার্ডেনের পাশে 'শেক শ্যাক' যদিও আমেরিকান বার্গার, কিন্তু সেখানকার স্বাদ অসাধারণ, ক্লান্ত হলে এখানে এনার্জি পেতে এসে দেখলে ভালো হবে।"
+            },
+            {
+              "time_slot": "রাতের",
+              "spot_name": "ওয়েস্ট এন্ড মিউজিক্যাল",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "লন্ডনে এসে একটি মিউজিক্যাল না দেখলে আসা অস্ফল হয়! ওয়েস্ট এন্ডের পারফরম্যান্সগুলি বিশ্বের সেরা। চির আবির্ভূত নাটক 'লেস মিসে' হতে সালিকরণ এবং মঞ্চে অভিনয়শিল্পীদের অসাধারণ অভিনয়, নিশ্চিতভাবে আপনাকে ভক্তি ও আবেগে অভিভূত করবে। এটি আপনার লন্ডন সফরের সবচেয়ে স্মরণীয় রাত।",
+              "practical_tip": "💡 তথ্যসূত্র: সস্তা টিকেট কিনতে চান? লেস্টার স্কয়ারের TKTS কন্ট্রোলারে দিনে বাকি টিকেট কিনতে যান, ভাগ্য ভালো হলে দাম অর্ধেক সাশ্রয় করতে পারবেন!"
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "seo_meta": {
+        "title": "【2026 Лондон Свободное Путешествие】Самая сильная 7-дневная программа для ленивых! Полный гид по достопримечательностям, транспорту и местной кухне",
+        "description": "Как провести время в Лондоне в первый раз? Этот супер полный 7-дневный маршрут по Лондону ведет вас через все обязательные достопримечательности и местные деликатесы..."
+      },
+      "hero_section": {
+        "hook_intro": "Готовы встретить английский романтизм в путешествии во времени? Лондон, город, который сочетает в себе классическую королевскую эстетику и современную атмосферу, с нетерпением ждет вашего прихода! От величественного звука Биг-Бена до уличного искусства в Ковент-Гардене, каждый шаг — это захватывающее зрелище. Этот 7-дневный маршрут глубокой проработки поможет вам избежать туристических ловушек и увезти с собой лучшее из истории и модной жизни Лондона!",
+        "hero_image_keyword": "Big Ben and Westminster Bridge sunset"
+      },
+      "daily_itinerary": [
+        {
+          "day": 1,
+          "day_title": "День 1: Королевская классика и знакомство с достопримечательностями",
+          "activities": [
+            {
+              "time_slot": "Утром",
+              "spot_name": "Букингемский дворец",
+              "image_search_keyword": "Buckingham Palace Changing of the Guard",
+              "rich_description": "Первая остановка в Лондоне — это, безусловно, свидание с церемонией смены охраны у Букингемского дворца! Это не просто символ британской королевской семьи, но и настоящая ритуальная практика. Смотрите, как охранники в красной униформе и медвежьих шапках строем проходят мимо — это зрелище действительно вызывает мурашки! Не забудьте занять место за 45 минут до начала, чтобы получить наилучшие кадры.",
+              "practical_tip": "💡 Полезный совет: Обязательно проверьте точные даты церемонии на официальном сайте, обычно она проходит через день, чтобы не потратить время зря!"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Вестминстерское аббатство и Биг-Бен",
+              "image_search_keyword": "Westminster Abbey London",
+              "rich_description": "Прогуляйтесь до Вестминстерского аббатства, что является местом коронации и захоронения королей. Тонкие готические скульптуры этого здания непременно поразят вас. После этого пройдите к Биг-Бену и здание парламента — это самая классическая открытка Лондона! Постояв на Вестминстерском мосту, почувствуйте легкий ветерок от Темзы — именно так вы себе представляли английскую атмосферу.",
+              "practical_tip": "💡 Полезный совет: Внутри Вестминстерского аббатства фотографировать нельзя, поэтому рекомендуется убрать телефон и отдаться атмосфере этой исторической сокровищницы."
+            },
+            {
+              "time_slot": "Вечером",
+              "spot_name": "Лондонский глаз",
+              "image_search_keyword": "London Eye at night",
+              "rich_description": "После ужина прокатитесь на Лондонском глазе, чтобы насладиться ночным видом на город! Пока колесо обозрения медленно поднимается, огни вдоль Темзы сверкают особенно привлекательно. Это отличный выбор для свиданий или семейных поездок; сидя в прозрачной кабине, вы сможете увидеть сияние Биг-Бена и здания парламента — романтика здесь зашкаливает.",
+              "practical_tip": "💡 Полезный совет: Настоятельно рекомендуется заранее забронировать билет на быстрый проход через интернет, так как очередь на месте может быть огромной!"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "day_title": "День 2: Экскурсия по музеям и арт-пространствам",
+          "activities": [
+            {
+              "time_slot": "Утром",
+              "spot_name": "Британский музей",
+              "image_search_keyword": "The British Museum Great Court",
+              "rich_description": "Британский музей, который обладает одним из самых богатых собраний в мире, — это святилище для любителей истории! От египетского Розеттского камня до греческих скульптур Парфенона, эти бесценные сокровища прямо перед вами. Музей огромный, поэтому рекомендуем выделить 3-4 часа и остановиться на нескольких обязательных для посещения экспозициях, чтобы не устать слишком быстро!",
+              "practical_tip": "💡 Полезный совет: Вход бесплатный, но требуется предварительная запись. Рекомендуется заранее забронировать билеты на официальном сайте, чтобы избежать очередей на месте.",
+              "needsTicket": true,
+              "klookQuery": "The British Museum Great Court"
+            },
+            {
+              "time_slot": "После полудня",
+              "spot_name": "Ковент-Гарден",
+              "image_search_keyword": "Covent Garden Market",
+              "rich_description": "После музея загляните в Ковент-Гарден, чтобы насладиться самой оживленной артистичной атмосферой Лондона. Здесь есть разнообразные уникальные рынки, магазины с изысканными ремесленными изделиями и уличные исполнители повсюду. Найдите открытое кафе, закажите чашечку английского чая, наблюдайте за суетой прохожих — так вы сможете насладиться настоящими медленными часами в Лондоне.",
+              "practical_tip": "💡 Полезный совет: Хотя «Shake Shack» рядом с Ковент-Гарденом предлагает американские бургеры, их вкус отменный, поэтому после прогулки здесь вы сможете подзарядиться энергией."
+            },
+            {
+              "time_slot": "Вечером",
+              "spot_name": "Мюзикл в Вест-Энде",
+              "image_search_keyword": "London West End theatre district",
+              "rich_description": "При посещении Лондона нельзя не увидеть мюзикл! Поставленные в Вест-Энде показы считаются мировым эталоном. Неважно, собираетесь ли вы посмотреть классические «Отверженные» или «Призрак оперы», потрясающие световые и звуковые эффекты и мастерство актеров обязательно тронут вас до слез. Это будет одна из самых незабываемых ночей вашей поездки в Лондон.",
+              "practical_tip": "💡 Полезный совет: Хотите купить билеты по скидке? Рекомендуем пройти на кассу TKTS на Лестер-сквер, где вы можете купить оставшиеся билеты на день, и повезет, если сможете сэкономить до половины цены!"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

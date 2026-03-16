@@ -1,7 +1,7 @@
 "use client";
 
 import GlobalLayout from "@/components/GlobalLayout";
-import { AppProvider, useAppContext } from "@/components/AppContext";
+import { useAppContext } from "@/components/AppContext";
 import { YellowButton } from "@/components/ui/YellowButton";
 import { createClient } from "@/utils/supabase/client";
 import { useEffect, useState } from "react";
@@ -124,7 +124,44 @@ function PricingContent() {
         }
     };
 
+    const pricingFaqSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Is HKfirstclick a subscription?",
+                "acceptedAnswer": { "@type": "Answer", "text": "No. HKfirstclick uses one-time purchases with no hidden subscriptions. You buy credits or a pass and use them at your own pace." },
+            },
+            {
+                "@type": "Question",
+                "name": "What is the free trial plan?",
+                "acceptedAnswer": { "@type": "Answer", "text": "The free trial gives you limited credits to generate your first AI itinerary. No credit card required — just sign up and start planning." },
+            },
+            {
+                "@type": "Question",
+                "name": "What does the Journey Pass include?",
+                "acceptedAnswer": { "@type": "Answer", "text": "The Journey Pass is our most popular plan. It includes credits for multiple itinerary generations, map access, and PDF export." },
+            },
+            {
+                "@type": "Question",
+                "name": "Can I top up credits without buying a full plan?",
+                "acceptedAnswer": { "@type": "Answer", "text": "Yes. The Credit Top-up option lets you purchase extra credits at any time without upgrading your plan." },
+            },
+            {
+                "@type": "Question",
+                "name": "What currencies are supported?",
+                "acceptedAnswer": { "@type": "Answer", "text": "Prices are displayed in HKD, TWD, JPY, and USD. All charges are processed in USD as the base currency." },
+            },
+        ],
+    };
+
     return (
+        <>
+        <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(pricingFaqSchema) }}
+        />
         <div className="min-h-screen pt-12 pb-24 px-6 md:px-12 max-w-7xl mx-auto">
             <div className="text-center mb-16 relative">
                 <h1 className="text-4xl md:text-6xl font-black mb-6 drop-shadow-lg text-white">
@@ -241,7 +278,7 @@ function PricingContent() {
                                         : "text-[#EEDC00] bg-[#EEDC00]/10 border border-[#EEDC00]/30 hover:bg-[#EEDC00] hover:text-black shadow-[0_0_15px_rgba(238,220,0,0.1)] hover:shadow-[0_0_25px_rgba(238,220,0,0.3)]"
                                         }`}
                                 >
-                                    {profile ? (t.btn_claimed || "已經領取") : t.price_signup_claim}
+                                    {profile ? (t.btn_claimed || "已經領取") : (t.price_signup_claim || "Sign up to claim")}
                                 </button>
                             ) : (
                                 <>
@@ -320,7 +357,19 @@ function PricingContent() {
                         </div>
                     </div>
                 </div>
+
+                {/* Rule 3 — Extended itinerary pricing */}
+                <div className="mt-10 pt-8 border-t border-white/5">
+                    <h4 className="font-bold text-white text-base mb-4 border-b border-white/10 pb-2 inline-block">
+                        {t.rule_3_title}
+                    </h4>
+                    <p className="text-gray-300 leading-relaxed mb-3">{t.rule_3_intro}</p>
+                    <div className="bg-[#EEDC00]/5 border border-[#EEDC00]/20 rounded-xl px-5 py-3 text-sm text-[#EEDC00] font-medium">
+                        {t.rule_3_example}
+                    </div>
+                </div>
             </div>
         </div>
+        </>
     );
 }
