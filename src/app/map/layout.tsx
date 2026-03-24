@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "AI Travel Map — Explore 1,000+ Destinations Worldwide",
-    description: "Explore an interactive AI-powered travel map with 1,000+ cities worldwide. Click any destination to instantly generate a custom itinerary with local tips, attractions, and travel insights.",
-    keywords: ["travel map", "interactive world map", "AI travel map", "destination explorer", "world cities map", "travel inspiration"],
+    title: "AI Travel Map — Explore Top Destinations Worldwide | HKfirstclick",
+    description: "Explore an interactive AI-powered travel map. Click any city to instantly generate a free day-by-day itinerary with curated spots, local tips, and travel insights. Available in 12 languages.",
+    keywords: ["AI travel map", "interactive world map", "travel itinerary map", "destination explorer", "trip planner map", "free travel planner"],
     alternates: {
         canonical: "https://www.hkfirstclick.com/map",
         languages: {
@@ -23,8 +23,8 @@ export const metadata: Metadata = {
         },
     },
     openGraph: {
-        title: "AI Travel Map | HKfirstclick — Explore 1,000+ Destinations",
-        description: "Interactive AI-powered travel map. Click any city to generate a custom itinerary instantly.",
+        title: "AI Travel Map | HKfirstclick — Free Day-by-Day Itineraries",
+        description: "Interactive AI travel map. Click any city to generate a free day-by-day itinerary instantly.",
         url: "https://www.hkfirstclick.com/map",
         siteName: "HKfirstclick",
         images: [{ url: "https://www.hkfirstclick.com/og-image.png", width: 1200, height: 630 }],
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "AI Travel Map | HKfirstclick",
-        description: "Explore 1,000+ destinations on an interactive AI travel map.",
+        description: "Interactive AI travel map. Click any city for a free day-by-day itinerary.",
         images: ["https://www.hkfirstclick.com/og-image.png"],
     },
 };

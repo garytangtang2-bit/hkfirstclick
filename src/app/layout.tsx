@@ -50,12 +50,12 @@ export const metadata: Metadata = {
         default: "HKfirstclick | AI Travel Itinerary Generator",
         template: "%s | HKfirstclick"
     },
-    description: "Generate perfect AI travel itineraries in seconds. Plan trips to 54+ world destinations with real-time flight prices, hotel recommendations, and day-by-day schedules. Free to try.",
+    description: "Generate day-by-day AI travel itineraries for 54+ destinations in seconds. Free to start — no credit card needed. Available in 12 languages.",
     keywords: [
-        "AI travel planner", "itinerary generator", "trip planner AI",
-        "travel itinerary", "AI vacation planner", "Hong Kong travel",
-        "Tokyo itinerary", "Paris itinerary", "travel planning tool",
-        "AI travel assistant", "free trip planner", "travel SaaS"
+        "AI travel itinerary", "AI trip planner", "travel itinerary generator",
+        "day by day travel plan", "free travel planner", "AI vacation planner",
+        "Tokyo itinerary", "Paris itinerary", "Bali itinerary", "travel planning tool",
+        "AI travel assistant", "12 language travel planner", "personalized itinerary"
     ],
     authors: [{ name: "HKfirstclick Team" }],
     creator: "HKfirstclick",
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
     },
     openGraph: {
         title: "HKfirstclick | AI Travel Itinerary Generator",
-        description: "Generate perfect AI travel itineraries in seconds. Plan trips to 54+ destinations with real-time prices and day-by-day schedules.",
+        description: "Generate free day-by-day AI travel itineraries for 54+ destinations in seconds. Available in 12 languages. No credit card needed.",
         url: "https://www.hkfirstclick.com",
         siteName: "HKfirstclick",
         images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: "HKfirstclick - AI Travel Planner" }],
@@ -91,7 +91,7 @@ export const metadata: Metadata = {
     twitter: {
         card: "summary_large_image",
         title: "HKfirstclick | AI Travel Itinerary Generator",
-        description: "Generate perfect AI travel itineraries in seconds. 54+ destinations, 12 languages.",
+        description: "Free AI travel itinerary generator. 54+ destinations, 12 languages, day-by-day plans.",
         images: [OG_IMAGE],
     },
     icons: {
@@ -256,6 +256,8 @@ export default function RootLayout({
                 <div className="liquid-wipe"></div>
 
                 {children}
+                <Analytics />
+                <SpeedInsights />
             </body>
         </html>
     );
