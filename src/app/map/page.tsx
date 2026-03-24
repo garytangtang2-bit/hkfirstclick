@@ -296,7 +296,11 @@ function MapContent() {
                         <div
                             className="absolute inset-0 bg-center bg-cover transition-opacity duration-300 opacity-60"
                             style={{
-                                backgroundImage: cityPhotos[selectedCity.City] ? `url('${cityPhotos[selectedCity.City]}')` : 'none',
+                                backgroundImage: (() => {
+                                    const key = selectedCity.City.toLowerCase().replace(/[^a-z0-9]/g, '');
+                                    const photo = cityPhotos[key] || cityPhotos[selectedCity.City];
+                                    return photo ? `url('${photo}')` : 'none';
+                                })(),
                             }}
                         />
                         {/* Gradient overlays to ensure perfect text readability */}
