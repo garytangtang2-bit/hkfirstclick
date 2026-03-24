@@ -145,9 +145,10 @@ function AppContentWrapper({
             return;
         }
 
-        // /[oldLang]/... → /[newLang]/...
+        // /[oldLang]/... → /[newLang]/... (only for known lang codes)
+        const LANG_CODES = ['en','zh','ja','ko','fr','es','id','hi','pt','ar','bn','ru'];
         const langPathMatch = currentPath.match(/^\/([a-z]{2})(\/.*)?$/);
-        if (langPathMatch) {
+        if (langPathMatch && LANG_CODES.includes(langPathMatch[1])) {
             const rest = langPathMatch[2] || "";
             router.push(`/${langCode}${rest}`);
             return;
