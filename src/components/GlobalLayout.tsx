@@ -155,7 +155,9 @@ function AppContentWrapper({
 
         // All other pages: add/replace ?lang= query param
         params.set("lang", langCode);
-        router.push(`${currentPath}?${params.toString()}`);
+        const newUrl = `${currentPath}?${params.toString()}`;
+        // Use replaceState so the URL updates without a full navigation/re-render
+        window.history.replaceState(null, "", newUrl);
     };
 
     return (

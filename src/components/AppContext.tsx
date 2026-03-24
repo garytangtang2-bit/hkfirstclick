@@ -42,23 +42,24 @@ export const AppProvider = ({ children, initialLanguage }: { children: ReactNode
         let targetLang = initialLanguage || "English";
         if (typeof window !== "undefined") {
             if (!initialLanguage) {
-                // No URL-specified language: use browser/localStorage detection
-                const browserLang = navigator.language.toLowerCase();
-                if (browserLang.includes("zh")) targetLang = "繁體中文";
-                else if (browserLang.includes("ja")) targetLang = "日本語";
-                else if (browserLang.includes("ko")) targetLang = "한국어";
-                else if (browserLang.includes("fr")) targetLang = "Français";
-                else if (browserLang.includes("es")) targetLang = "Español";
-                else if (browserLang.includes("id")) targetLang = "Bahasa Indonesia";
-                else if (browserLang.includes("hi")) targetLang = "हिन्दी";
-                else if (browserLang.includes("pt")) targetLang = "Português";
-                else if (browserLang.includes("ar")) targetLang = "العربية";
-                else if (browserLang.includes("bn")) targetLang = "বাংলা";
-                else if (browserLang.includes("ru")) targetLang = "Русский";
-
+                // No URL-specified language: use localStorage first, then browser language
                 const savedLang = localStorage.getItem("hkfirstclick_lang");
                 if (savedLang && locales[savedLang]) {
                     targetLang = savedLang;
+                } else {
+                    // No saved preference: detect from browser language
+                    const browserLang = navigator.language.toLowerCase();
+                    if (browserLang.includes("zh")) targetLang = "繁體中文";
+                    else if (browserLang.includes("ja")) targetLang = "日本語";
+                    else if (browserLang.includes("ko")) targetLang = "한국어";
+                    else if (browserLang.includes("fr")) targetLang = "Français";
+                    else if (browserLang.includes("es")) targetLang = "Español";
+                    else if (browserLang.includes("id")) targetLang = "Bahasa Indonesia";
+                    else if (browserLang.includes("hi")) targetLang = "हिन्दी";
+                    else if (browserLang.includes("pt")) targetLang = "Português";
+                    else if (browserLang.includes("ar")) targetLang = "العربية";
+                    else if (browserLang.includes("bn")) targetLang = "বাংলা";
+                    else if (browserLang.includes("ru")) targetLang = "Русский";
                 }
             }
             // initialLanguage (from URL) always wins — do NOT let localStorage override it
