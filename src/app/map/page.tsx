@@ -8,7 +8,7 @@ import Link from "next/link";
 import dynamic from "next/dynamic";
 import { useEffect, useState, useRef, useCallback } from "react";
 import { createClient } from "@/utils/supabase/client";
-import { getTranslatedCityName, getTranslatedData } from "@/utils/cityTranslations";
+import { getTranslatedCityName, getTranslatedData, getCitySlug } from "@/utils/cityTranslations";
 import { cityPhotos } from "@/data/cityPhotos";
 import Papa from "papaparse";
 
@@ -369,7 +369,7 @@ function MapContent() {
                                             <Sparkles size={18} /> ✨ {t.map_actions_generate || "1-Click Generate"} <span className="text-black/60 font-semibold text-xs ml-1 bg-black/10 px-2 py-0.5 rounded-full">{t.map_actions_cost || "(5 pts)"}</span>
                                         </button>
                                     </Link>
-                                    <Link href={`/catalog/${LANG_NAME_TO_CODE[language] || 'en'}/${selectedCity.City.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')}`} className="w-full">
+                                    <Link href={`/catalog/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="w-full">
                                         <button className="w-full bg-white/10 backdrop-blur-md text-white border border-white/20 px-6 py-4 rounded-xl font-bold hover:bg-white/20 transition-transform hover:scale-[1.02] active:scale-95 flex justify-center items-center gap-2 shadow-xl">
                                             <Navigation size={18} /> {t.map_actions_modify || "View Inspiration Catalog"}
                                         </button>
