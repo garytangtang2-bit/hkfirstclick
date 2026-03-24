@@ -1048,8 +1048,8 @@ function WorkspaceContent() {
                                                                     {/* Center Line & Node */}
                                                                     <div className="flex flex-col items-center shrink-0 relative w-8 min-h-[100px] -ml-2">
                                                                         {/* Node Circle */}
-                                                                        <div className="w-8 h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
-                                                                            {j + 1}
+                                                                        <div className="w-8 h-8 rounded-full bg-[#333] flex items-center justify-center z-10 border-2 border-[#111]">
+                                                                            <div className="w-2 h-2 rounded-full bg-[#FF7B89]"></div>
                                                                         </div>
                                                                         {/* Connecting Line to next activity */}
                                                                         {j < (day.activities.length - 1) && (
