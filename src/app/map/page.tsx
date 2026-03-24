@@ -14,6 +14,25 @@ import Papa from "papaparse";
 // Leaflet relies on the `window` object, so it MUST be dynamically imported with SSR disabled.
 const MapComponent = dynamic(() => import("@/components/MapComponent"), { ssr: false });
 
+// Map Chinese city names (from CSV) to cityPhotos keys
+const cityNameToPhotoKey: Record<string, string> = {
+    "香港": "hongkong", "曼谷": "bangkok", "東京": "tokyo", "巴黎": "paris",
+    "倫敦": "london", "新加坡": "singapore", "紐約": "newyork", "杜拜": "dubai",
+    "羅馬": "rome", "巴塞隆拿": "barcelona", "首爾": "seoul", "台北": "taipei",
+    "大阪": "osaka", "京都": "kyoto", "雪梨": "sydney", "阿姆斯特丹": "amsterdam",
+    "威尼斯": "venice", "布拉格": "prague", "吉隆坡": "kualalumpur", "維也納": "vienna",
+    "柏林": "berlin", "馬德里": "madrid", "里斯本": "lisbon", "雅典": "athens",
+    "胡志明市": "hochiminhcity", "斯德哥爾摩": "stockholm", "哥本哈根": "copenhagen",
+    "慕尼黑": "munich", "布魯塞爾": "brussels", "蘇黎世": "zurich", "多倫多": "toronto",
+    "洛杉磯": "losangeles", "三藩市": "sanfrancisco", "里約熱內盧": "riodejaneiro",
+    "布宜諾斯艾利斯": "buenosaires", "墨爾本": "melbourne", "奧克蘭": "auckland",
+    "開普敦": "capetown", "馬拉喀什": "marrakech", "開羅": "cairo", "札幌": "sapporo",
+    "福岡": "fukuoka", "箱根": "hakone", "沖繩": "okinawa", "拉斯維加斯": "lasvegas",
+    "芝加哥": "chicago", "邁阿密": "miami", "西雅圖": "seattle", "愛丁堡": "edinburgh",
+    "佛羅倫斯": "florence", "尼斯": "nice", "聖托里尼": "santorini",
+    "雷克雅維克": "reykjavik", "峇里島(庫塔)": "bali",
+};
+
 export default function MapPage() {
     return (
         <AppProvider>
@@ -297,8 +316,8 @@ function MapContent() {
                             className="absolute inset-0 bg-center bg-cover transition-opacity duration-300 opacity-60"
                             style={{
                                 backgroundImage: (() => {
-                                    const key = selectedCity.City.toLowerCase().replace(/[^a-z0-9]/g, '');
-                                    const photo = cityPhotos[key] || cityPhotos[selectedCity.City];
+                                    const photo = cityPhotos[cityNameToPhotoKey[selectedCity.City]]
+                                        || cityPhotos[selectedCity.City.toLowerCase().replace(/[^a-z0-9]/g, '')];
                                     return photo ? `url('${photo}')` : 'none';
                                 })(),
                             }}
