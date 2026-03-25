@@ -3,9 +3,32 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import Link from "next/link";
 
+const personJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Gary Tang",
+    "jobTitle": "Founder & Developer",
+    "worksFor": {
+        "@type": "Organization",
+        "name": "HKfirstclick",
+        "url": "https://www.hkfirstclick.com",
+    },
+    "description": "Hong Kong-based indie developer and frequent traveler. Built HKfirstclick to solve the frustration of manual trip planning with AI-powered itinerary generation.",
+    "url": "https://www.hkfirstclick.com/about",
+    "knowsAbout": ["Travel Planning", "AI Technology", "Hong Kong Travel", "Asia Travel Itineraries"],
+    "sameAs": [
+        "https://www.instagram.com/hkfirstclick",
+        "https://www.facebook.com/hkfirstclick",
+    ],
+};
+
 export default function AboutPage() {
     return (
         <GlobalLayout>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+            />
             <AboutContent />
         </GlobalLayout>
     );
@@ -76,14 +99,44 @@ function AboutContent() {
                     <h2 className="text-xl font-bold text-[#EEDC00]">我們是誰</h2>
                     <div className="text-gray-300 leading-relaxed space-y-4 text-base md:text-lg">
                         <p>
-                            HKfirstclick 是一個香港獨立開發項目，由一個對旅行和技術都有興趣的人做出來的。
+                            HKfirstclick 是一個香港獨立開發項目，由 Gary Tang 建立。他是一位旅遊愛好者兼軟體開發者，走訪過亞洲、歐洲、中東超過 30 個城市，深知規劃行程有多耗時。
                         </p>
                         <p>
-                            沒有大團隊，沒有投資方。就是覺得這個工具應該存在，所以把它做出來了。
+                            沒有大團隊，沒有投資方。目的地內容由 AI 生成後，經過人工審核確保資訊準確，並定期根據用戶反饋更新。
                         </p>
                         <p className="text-gray-400">
                             如果你有任何建議、反饋，或者只是想說說你的旅行體驗，我們很樂意聽。
                         </p>
+                    </div>
+
+                    {/* Author card - E-E-A-T signal */}
+                    <div className="mt-6 flex items-center gap-4 bg-white/5 border border-white/10 rounded-2xl px-5 py-4">
+                        <div className="w-12 h-12 rounded-full bg-gradient-to-tr from-[#EEDC00] to-yellow-300 flex items-center justify-center text-black font-black text-lg shrink-0">G</div>
+                        <div>
+                            <p className="text-white font-bold text-sm">Gary Tang</p>
+                            <p className="text-gray-400 text-xs">Founder · Hong Kong · 旅遊 &amp; 技術開發者</p>
+                            <p className="text-gray-500 text-xs mt-0.5">走訪 30+ 城市 · 內容最後審核：{new Date().toLocaleDateString('zh-TW', { year: 'numeric', month: 'long' })}</p>
+                        </div>
+                    </div>
+                </section>
+
+                <div className="border-t border-white/10" />
+
+                {/* Trust signals */}
+                <section className="space-y-5">
+                    <h2 className="text-xl font-bold text-[#EEDC00]">內容品質保證</h2>
+                    <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                        {[
+                            { icon: "🗺️", title: "54+ 目的地", desc: "涵蓋亞洲、歐洲、美洲、中東" },
+                            { icon: "🌐", title: "12 種語言", desc: "繁中、日、韓、阿拉伯語等" },
+                            { icon: "✅", title: "人工審核", desc: "AI 生成內容經過人工驗證" },
+                        ].map((item) => (
+                            <div key={item.title} className="bg-white/5 border border-white/10 rounded-xl p-4 text-center">
+                                <div className="text-2xl mb-2">{item.icon}</div>
+                                <p className="text-white font-bold text-sm">{item.title}</p>
+                                <p className="text-gray-500 text-xs mt-1">{item.desc}</p>
+                            </div>
+                        ))}
                     </div>
                 </section>
 

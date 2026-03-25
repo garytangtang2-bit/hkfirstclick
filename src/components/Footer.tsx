@@ -38,12 +38,12 @@ export function Footer({ t }: { t: any }) {
                 </div>
 
                 <div className="flex gap-4">
-                    <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] cursor-pointer transition-colors">
+                    <a href="https://www.facebook.com/hkfirstclick" target="_blank" rel="noopener noreferrer" aria-label="HKfirstclick Facebook" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] transition-colors">
                         <i className="fab fa-facebook-f text-xs"></i>
-                    </div>
-                    <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] cursor-pointer transition-colors">
+                    </a>
+                    <a href="https://www.instagram.com/hkfirstclick" target="_blank" rel="noopener noreferrer" aria-label="HKfirstclick Instagram" className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] transition-colors">
                         <i className="fab fa-instagram text-xs"></i>
-                    </div>
+                    </a>
                 </div>
             </div>
         </footer>

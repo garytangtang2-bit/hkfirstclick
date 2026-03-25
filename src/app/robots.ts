@@ -26,6 +26,10 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: 'bingbot', allow: '/' },
       // Apple
       { userAgent: 'Applebot', allow: '/' },
+      // ByteDance / TikTok AI
+      { userAgent: 'Bytespider', allow: '/' },
+      // Amazon Alexa / Rufus AI
+      { userAgent: 'Amazonbot', allow: '/' },
       // Common AI research crawlers
       { userAgent: 'cohere-ai', allow: '/' },
       { userAgent: 'YouBot', allow: '/' },
