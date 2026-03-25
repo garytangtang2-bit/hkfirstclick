@@ -2,9 +2,9 @@
   "city_slug": "munich",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Munich 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Munich. Find opening hours, ticket prices and booking links for Munich's top landmarks.",
-      "page_intro": "Munich, the capital of Bavaria, is a vibrant city known for its rich history, stunning architecture, and lively culture. Visitors can explore magnificent palaces, world-class museums, and beautiful parks. With its famous beer gardens and traditional markets, Munich offers a unique blend of modernity and tradition, making it a must-visit destination for travelers from around the globe.",
+      "seo_title": "8 Must-See Attractions in Munich 2026 — Complete Guide",
+      "seo_description": "Discover Munich's top attractions with tickets, opening hours, and insider tips. Book your adventure now with Klook!",
+      "page_intro": "Discover the magic of Munich, where iconic landmarks like Marienplatz and the enchanting Neuschwanstein Castle await. With lush parks and vibrant beer gardens, this city is a delightful blend of history and culture. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "marienplatz",
@@ -103,12 +103,16 @@
           "best_time": "afternoon",
           "klook_query": "Schloss Nymphenburg tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Munich?",
+      "faq_q2": "Do I need tickets for attractions in Munich?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Munich require tickets for entry. You can conveniently purchase them through Klook to avoid long queues."
     },
     "zh": {
-      "seo_title": "2026 年慕尼黑最佳景点 — 票务、提示与完整指南",
-      "seo_description": "探索慕尼黑最佳景点。查找开放时间、票价和慕尼黑顶级地标的预订链接。",
-      "page_intro": "慕尼黑，巴伐利亚的首府，是一座充满活力的城市，以其丰富的历史、令人惊叹的建筑和生动的文化而闻名。游客可以探索宏伟的宫殿、世界级的博物馆和美丽的公园。凭借其著名的啤酒花园和传统市场，慕尼黑提供了现代与传统的独特结合，成为全球旅行者必访的目的地。",
+      "seo_title": "2026 年慕尼黑 8 大必看景點 — 完整指南",
+      "seo_description": "獲取慕尼黑必看景點的票務、開放時間和內部提示，並透過 Klook 預訂，開始您的旅程！",
+      "page_intro": "探索慕尼黑的魅力，這座城市擁有壯麗的瑪麗恩廣場、夢幻般的新天鵝堡和寧靜的英國花園。無論是歷史愛好者還是自然擁護者，這裡都能滿足您的需求，立即透過 Klook 預訂，輕鬆遊覽！",
       "items": [
         {
           "id": "marienplatz",
@@ -206,12 +210,16 @@
           "best_time": "afternoon",
           "klook_query": "Schloss Nymphenburg tickets"
         }
-      ]
+      ],
+      "faq_q1": "慕尼黑的熱門景點有哪些？",
+      "faq_q2": "在慕尼黑的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您透過 Klook 提前購票，以確保順利入場。"
     },
     "ja": {
-      "seo_title": "2026年ミュンヘンのトップ観光スポット — チケット、ヒント、完全ガイド",
-      "seo_description": "ミュンヘンの最高の観光スポットを探索してください。ミュンヘンの主要な名所の営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "ミュンヘンはバイエルン州の首都で、豊かな歴史、美しい建築、活気ある文化で知られる活気ある都市です。訪問者は、壮大な宮殿、世界的な美術館、美しい公園を探索できます。有名なビアガーデンや伝統的な市場を持つミュンヘンは、現代と伝統が独特に融合した訪れる価値のある目的地です。",
+      "seo_title": "2026年ミュンヘンの必見観光スポット8選 — 完全ガイド",
+      "seo_description": "ミュンヘンの名所のチケット、営業時間、インサイダー情報をチェック。Klookで簡単に予約して、素晴らしい旅を楽しもう！",
+      "page_intro": "ミュンヘンの魅力は、マリエン広場やノイシュバンシュタイン城、イギリス庭園など、素晴らしい名所に満ちています。歴史と文化が息づくこの都市を訪れたら、ぜひその魅力を体験してください。スムーズな旅行をお楽しみいただくために、Klookでの予約をお忘れなく。",
       "items": [
         {
           "id": "marienplatz",
@@ -309,12 +317,16 @@
           "best_time": "afternoon",
           "klook_query": "Schloss Nymphenburg tickets"
         }
-      ]
+      ],
+      "faq_q1": "ミュンヘンの主な観光名所は何ですか？",
+      "faq_q2": "ミュンヘンの観光地にはチケットが必要ですか？",
+      "faq_a1_suffix": " マリエン広場、ノイシュバンシュタイン城、イギリス庭園などが必見の観光地です。",
+      "faq_a2": "はい、ほとんどの観光地には入場チケットが必要です。Klookで事前にチケットを購入することで、スムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "2026년 뮌헨 최고의 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "뮌헨의 최고의 명소를 탐험하세요. 뮌헨의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "뮌헨은 바이에른의 수도로, 풍부한 역사, 멋진 건축물, 활기찬 문화로 유명한 도시입니다. 방문객들은 웅장한 궁전, 세계적 수준의 박물관, 아름다운 공원을 탐험할 수 있습니다. 유명한 맥주 정원과 전통 시장을 갖춘 뮌헨은 현대성과 전통이 독특하게 혼합된 여행자들이 반드시 방문해야 할 목적지입니다.",
+      "seo_title": "2026년 뮌헨의 8대 필수 명소 — 완벽 가이드",
+      "seo_description": "뮌헨의 필수 명소 개장 시간, 티켓 가격, Klook 예약 링크를 확인하고 여행을 계획하세요!",
+      "page_intro": "뮌헨은 역사적 매력과 현대적 활력이 어우러진 도시로, 마리엔플라츠, 노이슈반슈타인 성, 잉글리시 가든과 같은 명소들이 기다립니다. 특별한 경험을 원하신다면 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "marienplatz",
@@ -412,11 +424,15 @@
           "best_time": "afternoon",
           "klook_query": "Schloss Nymphenburg tickets"
         }
-      ]
+      ],
+      "faq_q1": "뮌헨의 주요 관광지는 무엇인가요?",
+      "faq_q2": "뮌헨의 관광지에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광지에는 입장권이 필요합니다. Klook을 통해 미리 구매하면 대기 시간을 줄일 수 있습니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Munich 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Munich. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Munich.",
+      "seo_title": "Top 8 Attractions à Munich 2026 — Guide Complet",
+      "seo_description": "Explorez les horaires, prix et astuces pour les meilleures attractions de Munich. Réservez vos billets sur Klook et commencez votre aventure !",
       "page_intro": "Munich, la capitale de la Bavière, est une ville dynamique connue pour sa riche histoire, son architecture époustouflante et sa culture vivante. Les visiteurs peuvent explorer de magnifiques palais, des musées de classe mondiale et de beaux parcs. Avec ses célèbres jardins à bière et ses marchés traditionnels, Munich offre un mélange unique de modernité et de tradition, ce qui en fait une destination incontournable pour les voyageurs du monde entier.",
       "items": [
         {
@@ -518,8 +534,8 @@
       ]
     },
     "es": {
-      "seo_title": "Principales atracciones en Múnich 2026 — Entradas, consejos y guía completa",
-      "seo_description": "Explora las mejores atracciones en Múnich. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Múnich.",
+      "seo_title": "Las 8 Mejores Atracciones en Múnich 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las atracciones imprescindibles de Múnich. ¡Planifica tu viaje ahora!",
       "page_intro": "Múnich, la capital de Baviera, es una ciudad vibrante conocida por su rica historia, impresionante arquitectura y cultura animada. Los visitantes pueden explorar magníficos palacios, museos de clase mundial y hermosos parques. Con sus famosos jardines de cerveza y mercados tradicionales, Múnich ofrece una mezcla única de modernidad y tradición, lo que la convierte en un destino imprescindible para los viajeros de todo el mundo.",
       "items": [
         {
@@ -621,7 +637,7 @@
       ]
     },
     "id": {
-      "seo_title": "Daya Tarikan Terbaik di Munich 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Daya Tarikan Terbaik di Munich 2026",
       "seo_description": "Jelajahi daya tarik terbaik di Munich. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas di Munich.",
       "page_intro": "Munich, ibu kota Bavaria, adalah kota yang dinamis yang dikenal dengan sejarah yang kaya, arsitektur yang menakjubkan, dan budaya yang hidup. Pengunjung dapat menjelajahi istana yang megah, museum kelas dunia, dan taman yang indah. Dengan taman birnya yang terkenal dan pasar tradisional, Munich menawarkan perpaduan unik antara modernitas dan tradisi, menjadikannya tujuan yang wajib dikunjungi bagi para pelancong dari seluruh dunia.",
       "items": [
@@ -827,7 +843,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Munique 2026 - Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Munique 2026 - Guia e Dicas",
       "seo_description": "Explore as melhores atrações em Munique. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Munique.",
       "page_intro": "Munique, a capital da Baviera, é uma cidade vibrante conhecida por sua rica história, arquitetura deslumbrante e cultura animada. Os visitantes podem explorar magníficos palácios, museus de classe mundial e belos parques. Com seus famosos jardins de cerveja e mercados tradicionais, Munique oferece uma mistura única de modernidade e tradição, tornando-se um destino imperdível para viajantes de todo o mundo.",
       "items": [
@@ -930,7 +946,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في ميونيخ 2026 - تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل 10 معالم في ميونيخ 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في ميونيخ. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في ميونيخ.",
       "page_intro": "ميونيخ، عاصمة بافاريا، هي مدينة نابضة بالحياة معروفة بتاريخها الغني، ومعمارها المذهل، وثقافتها الحيوية. يمكن للزوار استكشاف القصور الرائعة، والمتاحف العالمية، والحدائق الجميلة. مع حدائق البيرة الشهيرة والأسواق التقليدية، تقدم ميونيخ مزيجًا فريدًا من الحداثة والتقاليد، مما يجعلها وجهة لا بد من زيارتها للمسافرين من جميع أنحاء العالم.",
       "items": [
@@ -1033,8 +1049,8 @@
       ]
     },
     "bn": {
-      "seo_title": "মিউনিখের শীর্ষ আকর্ষণ ২০২৬ - টিকিট, পরামর্শ এবং সম্পূর্ণ গাইড",
-      "seo_description": "মিউনিখের সেরা আকর্ষণগুলি আবিষ্কার করুন। মিউনিখের শীর্ষ স্থাপনার জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "মিউনিখের ৮টি শীর্ষ আকর্ষণ ২০২৬ - সম্পূর্ণ গাইড",
+      "seo_description": "মিউনিখের সেরা আকর্ষণগুলোর টিকিট, খোলার সময় এবং গোপন তথ্য জানুন। Klook এ বুকিং করুন এবং আপনার যাত্রা পরিকল্পনা করুন!",
       "page_intro": "মিউনিখ, বাভারিয়ার রাজধানী, একটি প্রাণবন্ত শহর যা তার সমৃদ্ধ ইতিহাস, চমৎকার স্থাপত্য এবং প্রাণবন্ত সংস্কৃতির জন্য পরিচিত। দর্শকরা মহৎ প্রাসাদ, বিশ্বমানের জাদুঘর এবং সুন্দর উদ্যানগুলি আবিষ্কার করতে পারেন। বিখ্যাত বিয়ার বাগান এবং ঐতিহ্যবাহী বাজারগুলির সাথে, মিউনিখ আধুনিকতা এবং ঐতিহ্যের একটি অনন্য মিশ্রণ সরবরাহ করে, যা এটিকে সারা বিশ্ব থেকে ভ্রমণকারীদের জন্য একটি অবশ্যই দর্শনীয় গন্তব্য করে তোলে।",
       "items": [
         {
@@ -1136,9 +1152,9 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей Мюнхена 2026 — Билеты, советы и полное руководство",
+      "seo_title": "Топ 10 достопримечательностей Мюнхена 2026",
       "seo_description": "Изучите лучшие достопримечательности Мюнхена. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Мюнхена.",
-      "page_intro": "Мюнхен, столица Баварии, — это яркий город, известный своей богатой историей, потрясающей архитектурой и живой культурой. Посетители могут исследовать великолепные дворцы, музеи мирового уровня и красивые парки. С известными пивными садами и традиционными рынками, Мюнхен предлагает уникальное сочетание современности и традиций, что делает его обязательным для посещения местом для путешественников со всего мира.",
+      "page_intro": "Откройте для себя волшебство Мюнхена — города, где средневековые площади встречаются с величественными замками и зелеными парками. Не пропустите такие знаковые места, как Мариенплац и замок Нойшванштайн. Забронируйте свои билеты на Klook и погрузитесь в атмосферу Баварии!",
       "items": [
         {
           "id": "marienplatz",
@@ -1236,7 +1252,11 @@
           "best_time": "afternoon",
           "klook_query": "Schloss Nymphenburg tickets"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Мюнхене?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Мюнхене?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей требуются билеты. Вы можете легко купить их через Klook."
     }
   }
 }

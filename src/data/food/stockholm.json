@@ -2,9 +2,9 @@
   "city_slug": "stockholm",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Stockholm 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Stockholm. From budget eats to fine dining — with booking links.",
-      "page_intro": "Stockholm's food culture is a vibrant blend of traditional Swedish cuisine and international influences. The city is known for its fresh seafood, innovative culinary scene, and cozy cafes. From bustling food markets to high-end dining experiences, Stockholm offers something for every palate, making it a must-visit destination for food lovers.",
+      "seo_title": "8 Best Must-Try Restaurants in Stockholm 2026",
+      "seo_description": "Save time with real recommendations for Stockholm's top eats. Book via Klook and discover local favorites. Plan your meal today!",
+      "page_intro": "Dive into Stockholm's culinary scene, where traditional Swedish dishes like herring and meatballs meet innovative flavors from around the globe. Discover the city's top spots, from cozy cafes to gourmet restaurants, with our curated picks to save you time on your gastronomic adventure!",
       "items": [
         {
           "id": "fika-coffee",
@@ -13,7 +13,7 @@
           "description": "Café Saturnus is famous for its delicious pastries and the iconic Swedish 'fika' experience. Indulge in their giant cinnamon buns and freshly brewed coffee in a cozy atmosphere. The café is a popular spot for both locals and tourists, perfect for a relaxed afternoon. Price range: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Cinnamon Bun",
           "klook_query": "Café Saturnus booking"
         },
@@ -24,7 +24,7 @@
           "description": "Located in Sodermalm, Pelikan is a beloved restaurant serving traditional Swedish dishes. The ambience is warm and welcoming, reflecting the charm of old Stockholm. Try their herring platter or the classic meatballs for an authentic experience. Price range: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Swedish Meatballs",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -35,7 +35,7 @@
           "description": "Östermalms Saluhall is a historic food hall that showcases the best of Swedish culinary offerings. Here, you can sample gourmet foods, fresh seafood, and local delicacies. The lively atmosphere makes it a great spot for foodies to explore. Price range: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Gravlax",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -46,7 +46,7 @@
           "description": "Svenskt Tenn is not just a design store; it features a charming café serving classic Swedish dishes. Enjoy a light meal or a traditional lunch in a beautifully styled setting. Their open-faced sandwiches are a must-try. Price range: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Open-Faced Sandwich",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -57,7 +57,7 @@
           "description": "K25 is a vibrant food court located in the heart of Stockholm, featuring a variety of street food vendors. From gourmet burgers to Asian street fare, there's something for everyone. The casual and lively atmosphere makes it perfect for a late-night bite. Price range: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "Gourmet Burger",
           "klook_query": "K25 food court booking"
         },
@@ -68,7 +68,7 @@
           "description": "Frantzén is Stockholm's first three-Michelin-star restaurant, offering a unique dining experience combining Swedish flavors with international techniques. The tasting menu is a culinary journey that delights the senses. Reservations are highly recommended. Price range: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "Tasting Menu",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -79,7 +79,7 @@
           "description": "Smorgastarteriet is known for its creative take on traditional Swedish street food. Located in the lively area of Sodermalm, their dishes are made with fresh, local ingredients. Don't miss their reindeer hot dogs! Price range: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "Reindeer Hot Dog",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -90,16 +90,19 @@
           "description": "Feskekôrka, known as the 'Fish Church,' is a seafood market and restaurant offering the freshest fish dishes in Stockholm. The unique architecture adds to the experience. Try the seafood platter for a true taste of the sea. Price range: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Seafood Platter",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Stockholm?",
+      "faq_q2": "Where can I find the best restaurants in Stockholm?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年斯德哥尔摩最佳美食——顶级餐厅和街头美食指南",
-      "seo_description": "探索斯德哥尔摩最好的餐厅、街头美食和当地特色。从经济实惠的美食到精致的餐饮——附带预订链接。",
-      "page_intro": "斯德哥尔摩的饮食文化是传统瑞典美食与国际影响的生动融合。这个城市以新鲜的海鲜、创新的烹饪场景和舒适的咖啡馆而闻名。从繁忙的食品市场到高档餐饮体验，斯德哥尔摩为每种口味提供了丰富的选择，是美食爱好者的必游之地。",
+      "seo_title": "2026年斯德哥尔摩最佳美食：8大必試餐廳與隱藏美味",
+      "seo_description": "節省時間，探索斯德哥尔摩的真實美食推薦，透過Klook預訂，立即計劃你的美食之旅！",
+      "page_intro": "探索斯德哥尔摩的美食世界，您将体验到传统瑞典菜肴与国际风味的完美结合。无论是新鲜的鲱鱼、肉丸，还是独特的咖啡文化，这座城市都能满足每位美食爱好者的味蕾。让我们为您精心挑选餐厅，节省时间，尽情享受美食之旅！",
       "items": [
         {
           "id": "fika-coffee",
@@ -108,7 +111,7 @@
           "description": "咖啡馆Saturnus以其美味的糕点和标志性的瑞典' fika'体验而闻名。在舒适的氛围中，享受他们的巨型肉桂卷和新鲜酿造的咖啡。这个咖啡馆是当地人和游客的热门去处，非常适合放松的下午。价格范围：$$。",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "肉桂捲",
           "klook_query": "Café Saturnus booking"
         },
@@ -119,7 +122,7 @@
           "description": "Pelikan位于索德马尔姆，是一家受欢迎的餐厅，提供传统瑞典菜肴。氛围温暖而热情，反映了旧斯德哥尔摩的魅力。尝试他们的鲱鱼拼盘或经典肉丸，体验正宗的风味。价格范围：$$$。",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "瑞典肉丸",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -130,7 +133,7 @@
           "description": "Östermalms Saluhall是一个历史悠久的食品大厅，展示了瑞典烹饪的最佳特色。在这里，您可以品尝美食、新鲜海鲜和当地美味。热闹的氛围使它成为美食爱好者探索的好地方。价格范围：$$。",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "醃鮭魚",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -141,7 +144,7 @@
           "description": "Svenskt Tenn不仅仅是一家设计商店；它设有一个迷人的咖啡馆，提供经典瑞典菜肴。在精美的环境中享用一顿简单的餐点或传统的午餐。他们的开放式三明治是必试之选。价格范围：$$。",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "開放式三明治",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -152,7 +155,7 @@
           "description": "K25是位于斯德哥尔摩心脏地带的一个充满活力的美食广场，提供各种街头食品摊位。从美食汉堡到亚洲街头小吃，应有尽有。休闲热闹的氛围非常适合夜宵。价格范围：$。",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "美味漢堡",
           "klook_query": "K25 food court booking"
         },
@@ -163,7 +166,7 @@
           "description": "Frantzén是斯德哥尔摩第一家获得三颗米其林星的餐厅，提供将瑞典风味与国际技术相结合的独特用餐体验。品尝菜单是一场愉悦感官的烹饪之旅。强烈建议提前预订。价格范围：$$$$。",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "品嚐菜單",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -174,7 +177,7 @@
           "description": "Smorgastarteriet以其对传统瑞典街头食品的创意演绎而闻名。位于热闹的索德马尔姆地区，他们的菜肴采用新鲜的当地食材制作。不要错过他们的驯鹿热狗！价格范围：$$。",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "馴鹿熱狗",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -185,16 +188,19 @@
           "description": "Feskekôrka，被称为'鱼教堂'，是一家海鲜市场和餐厅，提供斯德哥尔摩最新鲜的鱼类菜肴。独特的建筑增添了体验的魅力。尝试海鲜拼盘，真正品味海洋的滋味。价格范围：$$$。",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "海鮮拼盤",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "在斯德哥尔摩最值得尝试的美食是什么？",
+      "faq_q2": "我在哪里可以找到斯德哥尔摩最好的餐厅？",
+      "faq_a2_suffix": " 是备受好评的用餐选择。"
     },
     "ja": {
-      "seo_title": "2026年ストックホルムの最高の食事 — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ストックホルムの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に合った食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "ストックホルムの食文化は、伝統的なスウェーデン料理と国際的な影響の活気に満ちた融合です。この街は新鮮な海鮮、革新的な料理シーン、そして居心地の良いカフェで知られています。にぎやかなフードマーケットから高級ダイニング体験まで、ストックホルムはすべての味覚に合う何かを提供しており、食愛好家にとって訪れるべき場所です。",
+      "seo_title": "2026年ストックホルムの必食レストラン8選",
+      "seo_description": "時間を節約し、Klookでストックホルムの隠れた名店を発見。今すぐ食事を計画しましょう！",
+      "page_intro": "ストックホルムの食文化は、伝統的なスウェーデン料理と世界各国のフレーバーが交わる魅力的な舞台です。新鮮なハリングやスモーガスボードなどの地元の名物を味わいながら、カフェやレストランでの特別な体験が待っています。Klookで厳選されたおすすめスポットをチェックして、時間を節約しましょう。",
       "items": [
         {
           "id": "fika-coffee",
@@ -203,7 +209,7 @@
           "description": "カフェ・サターンヌスは、その美味しいペストリーと象徴的なスウェーデンの「フィーカ」体験で有名です。居心地の良い雰囲気の中で、巨大なシナモンロールと新鮮に淹れたコーヒーを楽しんでください。このカフェは地元の人々や観光客に人気のスポットで、リラックスした午後にぴったりです。価格帯：$$。",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "シナモンロール",
           "klook_query": "Café Saturnus booking"
         },
@@ -214,7 +220,7 @@
           "description": "ペリカンはソーデルマルムに位置し、伝統的なスウェーデン料理を提供する人気のレストランです。温かく迎え入れてくれる雰囲気は、古いストックホルムの魅力を反映しています。正真正銘の体験のために、ニシンの盛り合わせやクラシックなミートボールをお試しください。価格帯：$$$。",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "スウェーデン風ミートボール",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -225,7 +231,7 @@
           "description": "エステルマルムス・サルフホールは、スウェーデンの料理のベストを紹介する歴史的なフードホールです。ここでは、グルメフード、新鮮な海鮮、地元の珍味を試すことができます。活気に満ちた雰囲気は、食通にとって探索するのに最適な場所です。価格帯：$$。",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "グラブラックス",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -236,7 +242,7 @@
           "description": "スヴェンスクト・テンは、単なるデザインストアではなく、クラシックなスウェーデン料理を提供する魅力的なカフェがあります。美しくスタイリングされた環境で軽食や伝統的なランチを楽しんでください。彼らのオープンサンドイッチは必食です。価格帯：$$。",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "オープンサンドイッチ",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -247,7 +253,7 @@
           "description": "K25はストックホルムの中心に位置する活気に満ちたフードコートで、さまざまなストリートフードのベンダーが集まっています。グルメバーガーからアジアのストリートフードまで、誰もが楽しめるものがあります。カジュアルで賑やかな雰囲気は、夜遅くのひと口にぴったりです。価格帯：$。",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "グルメバーガー",
           "klook_query": "K25 food court booking"
         },
@@ -258,7 +264,7 @@
           "description": "フランツェンはストックホルム初の三つ星ミシュランレストランで、スウェーデンのフレーバーと国際的な技法を組み合わせたユニークなダイニング体験を提供します。テイスティングメニューは感覚を喜ばせる料理の旅です。予約は強く推奨されます。価格帯：$$$$。",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "テイスティングメニュー",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -269,7 +275,7 @@
           "description": "スメルガスタルテリエットは、伝統的なスウェーデンのストリートフードにクリエイティブなアプローチを取ることで知られています。ソーデルマルムの活気あるエリアに位置し、彼らの料理は新鮮で地元の食材を使用しています。彼らのトナカイホットドッグをお見逃しなく！価格帯：$$。",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "トナカイホットドッグ",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -280,16 +286,19 @@
           "description": "フェスケクルカは「魚の教会」として知られ、ストックホルムで最も新鮮な魚料理を提供する海鮮市場兼レストランです。その独特な建築が体験をより魅力的にします。海の本当の味を楽しむために海鮮盛り合わせをお試しください。価格帯：$$$。",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "シーフードプラッター",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "ストックホルムでおすすめの料理は何ですか？",
+      "faq_q2": "ストックホルムで最高のレストランはどこですか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "2026년 스톡홀름 최고의 음식 — 최고 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "스톡홀름 최고의 레스토랑, 스트리트 푸드 및 지역 특산물을 발견하세요. 예산에 맞는 음식부터 고급 다이닝까지 — 예약 링크가 포함되어 있습니다.",
-      "page_intro": "스톡홀름의 음식 문화는 전통적인 스웨덴 요리와 국제적인 영향을 활기차게 혼합한 것입니다. 이 도시는 신선한 해산물, 혁신적인 요리 장면, 아늑한 카페로 유명합니다. 번화한 음식 시장에서 고급 식사 경험에 이르기까지 스톡홀름은 모든 입맛에 맞는 무언가를 제공하여 음식 애호가들이 꼭 방문해야 할 곳입니다.",
+      "seo_title": "2026년 스톡홀름 8곳의 꼭 가봐야 할 레스토랑",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 지역 맛집을 발견하고, 지금 식사를 계획하세요!",
+      "page_intro": "스톡홀름의 음식 세계는 전통 스웨덴 요리와 현대적인 혁신이 어우러지는 매력적인 장소입니다. 신선한 해산물 요리와 맛있는 미트볼, 그리고 아늑한 카페에서의 커피 타임까지, 이곳은 미식가들의 천국입니다. Klook을 통해 시간을 절약하고 엄선된 맛집을 만나보세요!",
       "items": [
         {
           "id": "fika-coffee",
@@ -298,7 +307,7 @@
           "description": "카페 사투르누스는 맛있는 페이스트리와 상징적인 스웨덴 '피카' 경험으로 유명합니다. 아늑한 분위기 속에서 그들의 거대한 시나몬 번과 갓 내린 커피를 즐겨보세요. 이 카페는 현지인과 관광객 모두에게 인기 있는 장소로, 편안한 오후에 적합합니다. 가격대: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "시나몬 번",
           "klook_query": "Café Saturnus booking"
         },
@@ -309,7 +318,7 @@
           "description": "펠리칸은 소더말름에 위치한 사랑받는 레스토랑으로 전통 스웨덴 요리를 제공합니다. 따뜻하고 환영하는 분위기는 오래된 스톡홀름의 매력을 반영합니다. 정통 경험을 위해 그들의 청어 플래터나 클래식 미트볼을 시도해보세요. 가격대: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "스웨디시 미트볼",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -320,7 +329,7 @@
           "description": "외스터말름 살루홀은 스웨덴 요리의 최선을 보여주는 역사적인 식품 홀입니다. 여기서는 미식가 음식, 신선한 해산물 및 지역 특산물을 샘플링할 수 있습니다. 활기찬 분위기는 미식가들이 탐험하기 좋은 장소입니다. 가격대: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "그라블락스",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -331,7 +340,7 @@
           "description": "스벤스크 텐은 단순한 디자인 상점이 아니라 클래식한 스웨덴 요리를 제공하는 매력적인 카페입니다. 아름답게 꾸며진 환경에서 가벼운 식사나 전통적인 점심을 즐겨보세요. 그들의 오픈 샌드위치는 꼭 시도해봐야 합니다. 가격대: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "열린 샌드위치",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -342,7 +351,7 @@
           "description": "K25는 스톡홀름 중심부에 위치한 활기찬 푸드코트로 다양한 스트리트 푸드 판매자가 있습니다. 미식가 버거부터 아시아 스트리트 음식까지, 모두를 위한 무언가가 있습니다. 캐주얼하고 활기찬 분위기는 늦은 밤 간식에 적합합니다. 가격대: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "고급 버거",
           "klook_query": "K25 food court booking"
         },
@@ -353,7 +362,7 @@
           "description": "프란츠옌은 스톡홀름 최초의 3스타 미슐랭 레스토랑으로, 스웨덴의 맛과 국제적인 기술을 결합한 독특한 식사 경험을 제공합니다. 테이스팅 메뉴는 감각을 즐겁게 하는 요리 여행입니다. 예약을 강력히 권장합니다. 가격대: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "테이스팅 메뉴",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -364,7 +373,7 @@
           "description": "스모르가스타르테리엣은 전통 스웨덴 스트리트 음식에 대한 창의적인 접근으로 유명합니다. 활기찬 소더말름 지역에 위치하며, 그들의 요리는 신선한 지역 재료로 만들어집니다. 그들의 순록 핫도그를 놓치지 마세요! 가격대: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "순록 핫도그",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -375,16 +384,19 @@
           "description": "페스케크르카는 '물고기 교회'로 알려져 있으며, 스톡홀름에서 가장 신선한 해산물 요리를 제공하는 해산물 시장 겸 레스토랑입니다. 독특한 건축물이 경험을 더합니다. 진정한 바다의 맛을 즐기기 위해 해산물 플래터를 시도해보세요. 가격대: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "해산물 플래터",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "스톡홀름에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "스톡홀름에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Stockholm 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Stockholm. Des repas à petit budget aux dîners raffinés — avec des liens de réservation.",
-      "page_intro": "La culture alimentaire de Stockholm est un mélange vibrant de cuisine suédoise traditionnelle et d'influences internationales. La ville est connue pour ses fruits de mer frais, sa scène culinaire innovante et ses cafés chaleureux. Des marchés alimentaires animés aux expériences gastronomiques haut de gamme, Stockholm offre quelque chose pour chaque palais, faisant de cette ville une destination incontournable pour les amateurs de gastronomie.",
+      "seo_title": "8 Meilleurs Restaurants à Stockholm 2026 - Top Saveurs",
+      "seo_description": "Gagnez du temps avec des recommandations authentiques. Réservez sur Klook et découvrez les trésors locaux. Planifiez votre repas dès maintenant !",
+      "page_intro": "Découvrez la scène culinaire palpitante de Stockholm, où les saveurs traditionnelles suédoises rencontrent des influences du monde entier. Ne manquez pas les célèbres boulettes de viande et le hareng mariné, tout en profitant de nos recommandations soigneusement sélectionnées pour un voyage gastronomique inoubliable avec Klook.",
       "items": [
         {
           "id": "fika-coffee",
@@ -393,7 +405,7 @@
           "description": "Café Saturnus est célèbre pour ses délicieuses pâtisseries et l'iconique expérience suédoise du 'fika'. Offrez-vous leurs énormes brioches à la cannelle et leur café fraîchement préparé dans une atmosphère conviviale. Le café est un lieu prisé tant par les locaux que par les touristes, parfait pour un après-midi détendu. Prix : $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Bun à la cannelle",
           "klook_query": "Café Saturnus booking"
         },
@@ -404,7 +416,7 @@
           "description": "Situé à Sodermalm, Pelikan est un restaurant apprécié servant des plats suédois traditionnels. L'ambiance est chaleureuse et accueillante, reflétant le charme du vieux Stockholm. Essayez leur plateau de hareng ou les célèbres boulettes de viande pour une expérience authentique. Prix : $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Boulettes de viande suédoises",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -415,7 +427,7 @@
           "description": "Östermalms Saluhall est une halle alimentaire historique qui présente le meilleur de l'offre culinaire suédoise. Ici, vous pouvez déguster des produits gastronomiques, des fruits de mer frais et des spécialités locales. L'atmosphère animée en fait un excellent endroit pour les gourmets à explorer. Prix : $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Gravlax",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -426,7 +438,7 @@
           "description": "Svenskt Tenn n'est pas seulement un magasin de design ; il dispose d'un charmant café servant des plats suédois classiques. Profitez d'un léger repas ou d'un déjeuner traditionnel dans un cadre magnifiquement stylé. Leurs sandwiches ouverts sont un incontournable. Prix : $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Sandwich ouvert",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -437,7 +449,7 @@
           "description": "K25 est un marché alimentaire dynamique situé au cœur de Stockholm, proposant une variété de vendeurs de street food. Des hamburgers gastronomiques aux plats de rue asiatiques, il y en a pour tous les goûts. L'atmosphère décontractée et vivante en fait un endroit parfait pour un en-cas tardif. Prix : $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "Burger gourmet",
           "klook_query": "K25 food court booking"
         },
@@ -448,7 +460,7 @@
           "description": "Frantzén est le premier restaurant trois étoiles Michelin de Stockholm, offrant une expérience culinaire unique alliant saveurs suédoises et techniques internationales. Le menu de dégustation est un voyage culinaire qui ravit les sens. Les réservations sont fortement recommandées. Prix : $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "Menu dégustation",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -459,7 +471,7 @@
           "description": "Smorgastarteriet est connu pour sa version créative de la street food suédoise traditionnelle. Situé dans le quartier animé de Sodermalm, leurs plats sont préparés avec des ingrédients locaux frais. Ne manquez pas leurs hot-dogs de renne ! Prix : $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "Hot-dog de renne",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -470,16 +482,19 @@
           "description": "Feskekôrka, connue sous le nom de 'Église des poissons', est un marché de fruits de mer et un restaurant proposant les plats de poisson les plus frais de Stockholm. L'architecture unique ajoute à l'expérience. Essayez le plateau de fruits de mer pour un véritable goût de la mer. Prix : $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Plateau de fruits de mer",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Stockholm ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Stockholm ?",
+      "faq_a2_suffix": " sont parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Estocolmo 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Estocolmo. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
-      "page_intro": "La cultura gastronómica de Estocolmo es una mezcla vibrante de la cocina sueca tradicional y las influencias internacionales. La ciudad es conocida por sus mariscos frescos, su innovadora escena culinaria y sus acogedoras cafeterías. Desde bulliciosos mercados de alimentos hasta experiencias gastronómicas de alta gama, Estocolmo ofrece algo para cada paladar, convirtiéndola en un destino imprescindible para los amantes de la comida.",
+      "seo_title": "Top 8 Restaurantes en Estocolmo 2026 - ¡Imperdibles!",
+      "seo_description": "Ahorra tiempo con nuestras recomendaciones reales. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre la emocionante escena gastronómica de Estocolmo! Deléitate con los sabores del arenque marinado y las albóndigas suecas en un entorno vibrante. Con nuestras recomendaciones, ahorrarás tiempo y disfrutarás de lo mejor de la ciudad.",
       "items": [
         {
           "id": "fika-coffee",
@@ -488,7 +503,7 @@
           "description": "Café Saturnus es famoso por sus deliciosos pasteles y la icónica experiencia sueca del 'fika'. Disfruta de sus enormes rollos de canela y café recién hecho en un ambiente acogedor. El café es un lugar popular tanto para los locales como para los turistas, perfecto para una tarde relajada. Rango de precios: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Rollo de Canela",
           "klook_query": "Café Saturnus booking"
         },
@@ -499,7 +514,7 @@
           "description": "Ubicado en Sodermalm, Pelikan es un querido restaurante que sirve platos tradicionales suecos. El ambiente es cálido y acogedor, reflejando el encanto del viejo Estocolmo. Prueba su plato de arenque o las clásicas albóndigas para una experiencia auténtica. Rango de precios: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Albóndigas Suecas",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -510,7 +525,7 @@
           "description": "Östermalms Saluhall es una histórica sala de comida que muestra lo mejor de la oferta culinaria sueca. Aquí puedes degustar alimentos gourmet, mariscos frescos y delicias locales. La atmósfera animada lo convierte en un excelente lugar para que los amantes de la comida exploren. Rango de precios: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Gravlax",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -521,7 +536,7 @@
           "description": "Svenskt Tenn no es solo una tienda de diseño; cuenta con un encantador café que sirve platos suecos clásicos. Disfruta de una comida ligera o un almuerzo tradicional en un ambiente bellamente decorado. Sus sándwiches abiertos son imprescindibles. Rango de precios: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Sándwich Abierto",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -532,7 +547,7 @@
           "description": "K25 es un vibrante patio de comidas ubicado en el corazón de Estocolmo, que presenta una variedad de vendedores de comida callejera. Desde hamburguesas gourmet hasta comida callejera asiática, hay algo para todos. La atmósfera casual y animada lo convierte en un lugar perfecto para un bocado nocturno. Rango de precios: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "Hamburguesa Gourmet",
           "klook_query": "K25 food court booking"
         },
@@ -543,7 +558,7 @@
           "description": "Frantzén es el primer restaurante de Estocolmo con tres estrellas Michelin, que ofrece una experiencia gastronómica única que combina sabores suecos con técnicas internacionales. El menú de degustación es un viaje culinario que deleita los sentidos. Se recomienda hacer reservas. Rango de precios: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "Menú de Degustación",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -554,7 +569,7 @@
           "description": "Smorgastarteriet es conocido por su versión creativa de la comida callejera sueca tradicional. Ubicado en el animado barrio de Sodermalm, sus platos se preparan con ingredientes locales frescos. ¡No te pierdas sus perritos calientes de reno! Rango de precios: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "Perro Caliente de Reno",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -565,15 +580,18 @@
           "description": "Feskekôrka, conocida como la 'Iglesia del Pescado', es un mercado de mariscos y restaurante que ofrece los platos de pescado más frescos de Estocolmo. La arquitectura única agrega a la experiencia. Prueba el plato de mariscos para un verdadero sabor del mar. Rango de precios: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Plato de Mariscos",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Estocolmo?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Estocolmo?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas más valoradas."
     },
     "id": {
-      "seo_title": "Best Food in Stockholm 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Stockholm. From budget eats to fine dining — with booking links.",
+      "seo_title": "8 Restoran Terbaik di Stockholm 2026 - Favorit Lokal",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata. Temukan favorit lokal dan pesan melalui Klook. Rencanakan santapan Anda sekarang!",
       "page_intro": "Stockholm's food culture is a vibrant blend of traditional Swedish cuisine and international influences. The city is known for its fresh seafood, innovative culinary scene, and cozy cafes. From bustling food markets to high-end dining experiences, Stockholm offers something for every palate, making it a must-visit destination for food lovers.",
       "items": [
         {
@@ -583,7 +601,7 @@
           "description": "Café Saturnus is famous for its delicious pastries and the iconic Swedish 'fika' experience. Indulge in their giant cinnamon buns and freshly brewed coffee in a cozy atmosphere. The café is a popular spot for both locals and tourists, perfect for a relaxed afternoon. Price range: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Roti Kayu Manis",
           "klook_query": "Café Saturnus booking"
         },
@@ -594,7 +612,7 @@
           "description": "Located in Sodermalm, Pelikan is a beloved restaurant serving traditional Swedish dishes. The ambience is warm and welcoming, reflecting the charm of old Stockholm. Try their herring platter or the classic meatballs for an authentic experience. Price range: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Bakso Swedia",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -605,7 +623,7 @@
           "description": "Östermalms Saluhall is a historic food hall that showcases the best of Swedish culinary offerings. Here, you can sample gourmet foods, fresh seafood, and local delicacies. The lively atmosphere makes it a great spot for foodies to explore. Price range: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Gravlax",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -616,7 +634,7 @@
           "description": "Svenskt Tenn is not just a design store; it features a charming café serving classic Swedish dishes. Enjoy a light meal or a traditional lunch in a beautifully styled setting. Their open-faced sandwiches are a must-try. Price range: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Sandwich Terbuka",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -627,7 +645,7 @@
           "description": "K25 is a vibrant food court located in the heart of Stockholm, featuring a variety of street food vendors. From gourmet burgers to Asian street fare, there's something for everyone. The casual and lively atmosphere makes it perfect for a late-night bite. Price range: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "Burger Gourmet",
           "klook_query": "K25 food court booking"
         },
@@ -638,7 +656,7 @@
           "description": "Frantzén is Stockholm's first three-Michelin-star restaurant, offering a unique dining experience combining Swedish flavors with international techniques. The tasting menu is a culinary journey that delights the senses. Reservations are highly recommended. Price range: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "Menu Cicip",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -649,7 +667,7 @@
           "description": "Smorgastarteriet is known for its creative take on traditional Swedish street food. Located in the lively area of Sodermalm, their dishes are made with fresh, local ingredients. Don't miss their reindeer hot dogs! Price range: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "Hot Dog Rusa",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -660,15 +678,15 @@
           "description": "Feskekôrka, known as the 'Fish Church,' is a seafood market and restaurant offering the freshest fish dishes in Stockholm. The unique architecture adds to the experience. Try the seafood platter for a true taste of the sea. Price range: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Piring Seafood",
           "klook_query": "Feskekôrka booking"
         }
       ]
     },
     "hi": {
-      "seo_title": "स्टॉकहोम में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "स्टॉकहोम में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "स्टॉकहोम के 10 सर्वश्रेष्ठ रेस्तरां 2026 - स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और वास्तविक सिफारिशें पाएं। Klook के साथ बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय विशेषताओं की खोज करें!",
       "page_intro": "स्टॉकहोम की खाद्य संस्कृति पारंपरिक स्वीडिश व्यंजनों और अंतरराष्ट्रीय प्रभावों का जीवंत मिश्रण है। शहर अपने ताजे समुद्री भोजन, अभिनव पाक दृश्य और आरामदायक कैफे के लिए जाना जाता है। हलचल भरे खाद्य बाजारों से लेकर उच्च श्रेणी के खाने के अनुभवों तक, स्टॉकहोम हर स्वाद के लिए कुछ न कुछ पेश करता है, जो खाद्य प्रेमियों के लिए एक अनिवार्य यात्रा गंतव्य बनाता है।",
       "items": [
         {
@@ -678,7 +696,7 @@
           "description": "कैफे सैटर्नस अपने स्वादिष्ट पेस्ट्री और प्रसिद्ध स्वीडिश 'फिका' अनुभव के लिए प्रसिद्ध है। आरामदायक वातावरण में उनके विशाल दालचीनी बुन और ताज़ा भुनी हुई कॉफी का आनंद लें। यह कैफे स्थानीय निवासियों और पर्यटकों दोनों के लिए एक लोकप्रिय स्थान है, जो एक आरामदायक दोपहर के लिए उपयुक्त है। मूल्य सीमा: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "दालचीनी बुन",
           "klook_query": "Café Saturnus booking"
         },
@@ -689,7 +707,7 @@
           "description": "सोदर्माल्म में स्थित, पेलिकन एक प्रिय रेस्तरां है जो पारंपरिक स्वीडिश व्यंजन परोसता है। वातावरण गर्म और स्वागत करने वाला है, जो पुराने स्टॉकहोम के आकर्षण को दर्शाता है। प्रामाणिक अनुभव के लिए उनकी हेरिंग प्लेटर या क्लासिक मीटबॉल का प्रयास करें। मूल्य सीमा: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "स्वीडिश मीटबॉल",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -700,7 +718,7 @@
           "description": "Östermalms सलुहॉल एक ऐतिहासिक खाद्य हॉल है जो स्वीडिश पाक पेशकशों का सर्वश्रेष्ठ प्रदर्शन करता है। यहाँ, आप गॉरमेट खाद्य पदार्थ, ताजे समुद्री भोजन और स्थानीय विशेषताओं का स्वाद ले सकते हैं। जीवंत वातावरण इसे खाद्य प्रेमियों के लिए अन्वेषण करने के लिए एक महान स्थान बनाता है। मूल्य सीमा: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "ग्रैवलैक्स",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -711,7 +729,7 @@
           "description": "स्वेन्स्क्ट टेन केवल एक डिज़ाइन स्टोर नहीं है; इसमें एक आकर्षक कैफे भी है जो क्लासिक स्वीडिश व्यंजन परोसता है। खूबसूरती से सजाए गए माहौल में हल्का भोजन या पारंपरिक दोपहर का भोजन का आनंद लें। उनके ओपन-फेस सैंडविच का प्रयास करना न भूलें। मूल्य सीमा: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "ओपन-फेस सैंडविच",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -722,7 +740,7 @@
           "description": "K25 स्टॉकहोम के दिल में स्थित एक जीवंत फूड कोर्ट है, जिसमें विभिन्न स्ट्रीट फूड विक्रेता हैं। गॉरमेट बर्गर से लेकर एशियाई स्ट्रीट फेयर तक, यहाँ हर किसी के लिए कुछ न कुछ है। आकस्मिक और जीवंत वातावरण इसे रात के खाने के लिए एकदम सही बनाता है। मूल्य सीमा: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "गौरमेट बर्गर",
           "klook_query": "K25 food court booking"
         },
@@ -733,7 +751,7 @@
           "description": "फ्रांत्ज़ेन स्टॉकहोम का पहला तीन-मिशेलिन-तारा रेस्तरां है, जो स्वीडिश स्वादों को अंतरराष्ट्रीय तकनीकों के साथ मिलाकर एक अनूठा खाने का अनुभव प्रदान करता है। टेस्टिंग मेनू एक पाक यात्रा है जो इंद्रियों को प्रसन्न करता है। आरक्षण अत्यधिक अनुशंसित है। मूल्य सीमा: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "टेस्टिंग मेन्यू",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -744,7 +762,7 @@
           "description": "स्मोर्गस्टार्टरियेट अपने पारंपरिक स्वीडिश स्ट्रीट फूड पर रचनात्मक दृष्टिकोण के लिए जाना जाता है। सोदर्माल्म के जीवंत इलाके में स्थित, उनके व्यंजन ताजे, स्थानीय सामग्री से बनाए जाते हैं। उनके रेनडियर हॉट डॉग को न चूकें! मूल्य सीमा: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "रेनडियर हॉट डॉग",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -755,15 +773,15 @@
           "description": "फेस्केकॉर्का, जिसे 'फिश चर्च' के नाम से जाना जाता है, एक समुद्री भोजन बाजार और रेस्तरां है जो स्टॉकहोम में सबसे ताजे मछली के व्यंजन पेश करता है। अद्वितीय वास्तुकला अनुभव को और बढ़ाती है। समुद्र के असली स्वाद के लिए समुद्री भोजन प्लेटर का प्रयास करें। मूल्य सीमा: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "सीफूड प्लेटर",
           "klook_query": "Feskekôrka booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhores Comidas em Estocolmo 2026 - Melhores Restaurantes & Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais em Estocolmo. Desde refeições econômicas a jantares requintados - com links de reserva.",
+      "seo_title": "Top 8 Restaurantes em Estocolmo 2026 - Delícias",
+      "seo_description": "Economize tempo com recomendações reais de restaurantes. Reserve sua mesa com Klook e descubra as delícias locais agora mesmo!",
       "page_intro": "A cultura alimentar de Estocolmo é uma mistura vibrante da culinária sueca tradicional e influências internacionais. A cidade é conhecida por seus frutos do mar frescos, uma cena culinária inovadora e cafés aconchegantes. Desde mercados de alimentos agitados até experiências gastronômicas de alto nível, Estocolmo oferece algo para todos os paladares, tornando-se um destino imperdível para os amantes da comida.",
       "items": [
         {
@@ -773,7 +791,7 @@
           "description": "O Café Saturnus é famoso por seus deliciosos doces e a icônica experiência sueca de 'fika'. Delicie-se com seus enormes pães de canela e café recém-preparado em um ambiente acolhedor. O café é um local popular tanto para os moradores quanto para os turistas, perfeito para uma tarde relaxante. Faixa de preço: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Pão de Canela",
           "klook_query": "Café Saturnus booking"
         },
@@ -784,7 +802,7 @@
           "description": "Localizado em Sodermalm, o Pelikan é um restaurante adorado que serve pratos suecos tradicionais. O ambiente é acolhedor e convidativo, refletindo o charme do antigo Estocolmo. Experimente seu prato de arenque ou as clássicas almôndegas para uma experiência autêntica. Faixa de preço: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Almôndegas Suecas",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -795,7 +813,7 @@
           "description": "Östermalms Saluhall é um mercado de alimentos histórico que apresenta o melhor da culinária sueca. Aqui, você pode experimentar iguarias gourmet, frutos do mar frescos e delícias locais. A atmosfera animada torna este um ótimo lugar para os amantes da comida explorarem. Faixa de preço: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Gravlax",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -806,7 +824,7 @@
           "description": "Svenskt Tenn não é apenas uma loja de design; possui um charmoso café que serve pratos suecos clássicos. Desfrute de uma refeição leve ou um almoço tradicional em um ambiente lindamente decorado. Seus sanduíches abertos são imperdíveis. Faixa de preço: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Sanduíche Aberto",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -817,7 +835,7 @@
           "description": "K25 é um vibrante food court localizado no coração de Estocolmo, apresentando uma variedade de vendedores de comida de rua. Desde hambúrgueres gourmet até comida de rua asiática, há algo para todos. A atmosfera casual e animada torna-o perfeito para um lanche noturno. Faixa de preço: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "Hambúrguer Gourmet",
           "klook_query": "K25 food court booking"
         },
@@ -828,7 +846,7 @@
           "description": "Frantzén é o primeiro restaurante de três estrelas Michelin em Estocolmo, oferecendo uma experiência gastronômica única que combina sabores suecos com técnicas internacionais. O menu de degustação é uma jornada culinária que encanta os sentidos. Reservas são altamente recomendadas. Faixa de preço: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "Menu Degustação",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -839,7 +857,7 @@
           "description": "Smorgastarteriet é conhecido por sua abordagem criativa à comida de rua sueca tradicional. Localizado na animada área de Sodermalm, seus pratos são feitos com ingredientes frescos e locais. Não perca seus cachorros-quentes de rena! Faixa de preço: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "Hot Dog de Rena",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -850,16 +868,16 @@
           "description": "Feskekôrka, conhecida como a 'Igreja do Peixe', é um mercado de frutos do mar e restaurante que oferece os pratos de peixe mais frescos de Estocolmo. A arquitetura única acrescenta à experiência. Experimente o prato de frutos do mar para um verdadeiro sabor do mar. Faixa de preço: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Prato de Frutos do Mar",
           "klook_query": "Feskekôrka booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل الأطعمة في ستوكهولم 2026 - أفضل المطاعم ودليل الطعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في ستوكهولم. من المأكولات ذات الميزانية المحدودة إلى تناول الطعام الراقي - مع روابط الحجز.",
-      "page_intro": "ثقافة الطعام في ستوكهولم هي مزيج حيوي من المأكولات السويدية التقليدية والتأثيرات الدولية. المدينة معروفة بمأكولاتها البحرية الطازجة، ومشهدها الطهوي المبتكر، والمقاهي المريحة. من الأسواق الغذائية المزدحمة إلى تجارب تناول الطعام الراقية، تقدم ستوكهولم شيئًا للجميع، مما يجعلها وجهة يجب زيارتها لمحبي الطعام.",
+      "seo_title": "أفضل 8 مطاعم في ستوكهولم 2026 - كنوز محلية يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في ستوكهولم. احجز عبر Klook واكتشف المأكولات المحلية الآن!",
+      "page_intro": "استعد لاستكشاف مشهد الطهي المثير في ستوكهولم، حيث تلتقي النكهات السويدية التقليدية بالتأثيرات العالمية. تذوق الأطباق البحرية الطازجة مثل السلمون المدخن وكفتة اللحم، واستمتع بتجارب تناول الطعام في أماكن مثل Café Saturnus وPelikan. مع خيارات مختارة بعناية، نوفر لك أفضل التجارب لتوفير وقتك.",
       "items": [
         {
           "id": "fika-coffee",
@@ -868,7 +886,7 @@
           "description": "مقهى ساتورنوس مشهور بمخبوزاته اللذيذة وتجربة 'فيكا' السويدية الشهيرة. دلل نفسك بحلويات القرفة العملاقة والقهوة الطازجة في أجواء مريحة. المقهى مكان شهير لكل من السكان المحليين والسياح، مما يجعله مثاليًا لظهيرة مريحة. مدى السعر: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "لفافة القرفة",
           "klook_query": "Café Saturnus booking"
         },
@@ -879,7 +897,7 @@
           "description": "يقع بليكان في سوديرمالم، وهو مطعم محبوب يقدم الأطباق السويدية التقليدية. الجو دافئ ومرحب، مما يعكس سحر ستوكهولم القديمة. جرب طبق الرنجة أو كرات اللحم الكلاسيكية لتجربة أصيلة. مدى السعر: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "كرات اللحم السويدية",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -890,7 +908,7 @@
           "description": "Östermalms سالوهال هو سوق غذائي تاريخي يعرض أفضل ما في المأكولات السويدية. هنا، يمكنك تذوق الأطعمة الفاخرة، والمأكولات البحرية الطازجة، والتخصصات المحلية. الأجواء الحيوية تجعلها مكانًا رائعًا لعشاق الطعام للاستكشاف. مدى السعر: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "جرابلاكس",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -901,7 +919,7 @@
           "description": "سفينسكت تين ليست مجرد متجر تصميم؛ بل تضم مقهى ساحر يقدم الأطباق السويدية التقليدية. استمتع بوجبة خفيفة أو غداء تقليدي في أجواء مصممة بشكل جميل. ساندويتشاتهم المفتوحة هي تجربة يجب أن تجربها. مدى السعر: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "ساندويتش مفتوح الوجه",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -912,7 +930,7 @@
           "description": "K25 هو فود كورت حيوي يقع في قلب ستوكهولم، ويضم مجموعة متنوعة من بائعي الطعام الشارع. من البرغر الفاخر إلى الأطعمة الآسيوية، هناك شيء للجميع. الجو غير الرسمي والحيوي يجعله مثاليًا لتناول وجبة خفيفة في وقت متأخر من الليل. مدى السعر: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "برغر غرامي",
           "klook_query": "K25 food court booking"
         },
@@ -923,7 +941,7 @@
           "description": "فرانزين هو أول مطعم ثلاثة نجوم ميشلان في ستوكهولم، يقدم تجربة طعام فريدة تجمع بين النكهات السويدية والتقنيات الدولية. قائمة التذوق هي رحلة طهو تسعد الحواس. يُنصح بشدة بالحجز. مدى السعر: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "قائمة التذوق",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -934,7 +952,7 @@
           "description": "سمورغستارتيت معروف بنهجه الإبداعي في الطعام الشارع السويدي التقليدي. يقع في المنطقة النابضة بالحياة في سوديرمالم، تُصنع أطباقهم من مكونات محلية وطازجة. لا تفوت نقانق الرنجة! مدى السعر: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "هوت دوغ الرنّة",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -945,15 +963,18 @@
           "description": "فيسككوركا، المعروفة باسم 'كنيسة السمك'، هي سوق للمأكولات البحرية ومطعم يقدم أكثر أطباق السمك طازجة في ستوكهولم. تضيف الهندسة المعمارية الفريدة إلى التجربة. جرب طبق المأكولات البحرية للحصول على طعم حقيقي من البحر. مدى السعر: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "طبق المأكولات البحرية",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "ما هي أفضل الأطعمة التي يمكن تناولها في ستوكهولم؟",
+      "faq_q2": "أين يمكنني العثور على أفضل المطاعم في ستوكهولم؟",
+      "faq_a2_suffix": " من بين الخيارات الأكثر تقييمًا."
     },
     "bn": {
-      "seo_title": "স্টকহোমের সেরা খাবার 2026 - শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
-      "seo_description": "স্টকহোমের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "seo_title": "স্টকহোমের ৮ সেরা রেস্তোরাঁ 2026 - মিস করবেন না!",
+      "seo_description": "আপনার সময় বাঁচান, সেরা স্থানীয় খাবার খুঁজে পান। Klook-এর মাধ্যমে বুকিং করুন এবং আপনার খাবারের পরিকল্পনা এখনই করুন!",
       "page_intro": "স্টকহোমের খাবারের সংস্কৃতি ঐতিহ্যবাহী সুইডিশ রান্না এবং আন্তর্জাতিক প্রভাবগুলির একটি প্রাণবন্ত মিশ্রণ। শহরটি তার তাজা সীফুড, উদ্ভাবনী রন্ধনসম্পর্কীয় দৃশ্য এবং আরামদায়ক ক্যাফের জন্য পরিচিত। ব্যস্ত খাবারের বাজার থেকে শুরু করে উচ্চমানের খাবারের অভিজ্ঞতা পর্যন্ত, স্টকহোম সকলের জন্য কিছু না কিছু সরবরাহ করে, যা খাদ্যপ্রেমীদের জন্য একটি অপরিহার্য গন্তব্য।",
       "items": [
         {
@@ -963,7 +984,7 @@
           "description": "ক্যাফে স্যাটার্নাস তার সুস্বাদু পেস্ট্রি এবং আইকনিক সুইডিশ 'ফিকা' অভিজ্ঞতার জন্য বিখ্যাত। আরামদায়ক পরিবেশে তাদের বিশাল দারুচিনি বুন এবং তাজা রোস্ট করা কফির স্বাদ নিন। ক্যাফেটি স্থানীয় এবং পর্যটকদের জন্য জনপ্রিয় স্থান, একটি আরামদায়ক বিকেলের জন্য উপযুক্ত। মূল্য পরিসীমা: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "দারুচিনি বান",
           "klook_query": "Café Saturnus booking"
         },
@@ -974,7 +995,7 @@
           "description": "সোদার্মাল্মে অবস্থিত, পেলিকান একটি প্রিয় রেস্তোরাঁ যা ঐতিহ্যবাহী সুইডিশ খাবার পরিবেশন করে। পরিবেশ উষ্ণ এবং স্বাগতিক, পুরানো স্টকহোমের আকর্ষণকে প্রতিফলিত করে। একটি প্রামাণিক অভিজ্ঞতার জন্য তাদের হেরিং প্লেট বা ক্লাসিক মিটবল চেষ্টা করুন। মূল্য পরিসীমা: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "সুইডিশ মিটবল",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -985,7 +1006,7 @@
           "description": "Östermalms সালুহাল একটি ঐতিহাসিক খাদ্য হল যা সুইডিশ রন্ধনসম্পর্কীয় অফারগুলির সেরা প্রদর্শন করে। এখানে, আপনি গার্মেট খাবার, তাজা সীফুড, এবং স্থানীয় মুখরোচক খাবারগুলি স্বাদ নিতে পারেন। প্রাণবন্ত পরিবেশ এটিকে খাদ্যপ্রেমীদের জন্য একটি দুর্দান্ত স্থান করে তোলে। মূল্য পরিসীমা: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "গ্রাভলাক্স",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -996,7 +1017,7 @@
           "description": "স্বেনস্কট টেন শুধু একটি ডিজাইন স্টোর নয়; এটি একটি আকর্ষণীয় ক্যাফে রয়েছে যা ক্লাসিক সুইডিশ খাবার পরিবেশন করে। একটি সুন্দরভাবে সাজানো পরিবেশে হালকা খাবার বা একটি ঐতিহ্যবাহী লাঞ্চের স্বাদ নিন। তাদের ওপেন-ফেস স্যান্ডউইচ অবশ্যই চেষ্টা করতে হবে। মূল্য পরিসীমা: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "ওপেন-ফেস স্যান্ডউইচ",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -1007,7 +1028,7 @@
           "description": "K25 স্টকহোমের কেন্দ্রস্থলে অবস্থিত একটি প্রাণবন্ত ফুড কোর্ট, যেখানে বিভিন্ন স্ট্রিট ফুড বিক্রেতারা রয়েছে। গার্মেট বার্গার থেকে এশিয়ান স্ট্রিট ফেয়ার পর্যন্ত, এখানে সবার জন্য কিছু না কিছু রয়েছে। অস্থায়ী এবং প্রাণবন্ত পরিবেশ এটি রাতের খাবারের জন্য উপযুক্ত করে তোলে। মূল্য পরিসীমা: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "গৌরমেট বার্গার",
           "klook_query": "K25 food court booking"
         },
@@ -1018,7 +1039,7 @@
           "description": "ফ্রান্তজেন হল স্টকহোমের প্রথম তিন-মিশেলিন-তারকা রেস্তোরাঁ, যা সুইডিশ স্বাদকে আন্তর্জাতিক প্রযুক্তির সঙ্গে মিলিয়ে একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে। স্বাদ গ্রহণের মেনুটি একটি রন্ধনযাত্রা যা ইন্দ্রিয়গুলোকে আনন্দিত করে। রিজার্ভেশন অত্যন্ত সুপারিশ করা হয়। মূল্য পরিসীমা: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "টেস্টিং মেনু",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -1029,7 +1050,7 @@
           "description": "স্মরগস্টারটেরিয়েট ঐতিহ্যবাহী সুইডিশ স্ট্রিট ফুডের সৃষ্টিশীল দৃষ্টিকোণে পরিচিত। সোদার্মাল্মের প্রাণবন্ত ক্ষেত্রে অবস্থিত, তাদের খাবার তাজা, স্থানীয় উপাদান দিয়ে তৈরি। তাদের রেনডিয়ার হট ডগ মিস করবেন না! মূল্য পরিসীমা: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "রেইনডিয়ার হট ডগ",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -1040,16 +1061,16 @@
           "description": "ফেস্কেকর্কা, যা 'ফিশ চার্চ' নামে পরিচিত, একটি সীফুড বাজার এবং রেস্তোরাঁ যা স্টকহোমে সবচেয়ে তাজা মাছের খাবার সরবরাহ করে। অনন্য স্থাপত্য অভিজ্ঞতাকে বাড়িয়ে তোলে। সত্যিকারের সাগরের স্বাদের জন্য সীফুড প্লেটার চেষ্টা করুন। মূল্য পরিসীমা: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "সীফুড প্ল্যাটার",
           "klook_query": "Feskekôrka booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Стокгольме 2026 - Топ-рестораны и гид по уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Стокгольме. От бюджетной еды до изысканных ужинов - с ссылками на бронирование.",
-      "page_intro": "Кулинарная культура Стокгольма - это яркое сочетание традиционной шведской кухни и международных влияний. Город известен своими свежими морепродуктами, инновационной кулинарной сценой и уютными кафе. От шумных продуктовых рынков до высококлассных ресторанов, Стокгольм предлагает что-то для каждого гурмана, что делает его обязательным местом для посещения для любителей еды.",
+      "seo_title": "10 лучших ресторанов Стокгольма 2026 - Попробуйте!",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
+      "page_intro": "Стокгольм — это настоящий рай для гурманов, где традиционная шведская кухня встречается с международными влияниями. Не упустите возможность попробовать такие местные деликатесы, как фрикадельки и свежие морепродукты. С нашими тщательно подобранными рекомендациями вы сэкономите время на поиски лучших мест и сможете насладиться уникальными блюдами города.",
       "items": [
         {
           "id": "fika-coffee",
@@ -1058,7 +1079,7 @@
           "description": "Кафе Сатурнус славится своей вкусной выпечкой и культовым шведским опытом 'фики'. Наслаждайтесь их гигантскими булочками с корицей и свежезаваренным кофе в уютной обстановке. Кафе является популярным местом как для местных жителей, так и для туристов, идеально подходящим для расслабляющего вечера. Ценовой диапазон: $$.",
           "image_keyword": "Café Saturnus Stockholm",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Булочка с корицей",
           "klook_query": "Café Saturnus booking"
         },
@@ -1069,7 +1090,7 @@
           "description": "Расположенный в Сёдермальме, Пеликан - это любимый ресторан, предлагающий традиционные шведские блюда. Атмосфера теплая и гостеприимная, отражающая очарование старого Стокгольма. Попробуйте их тарелку с сельдью или классические фрикадельки для подлинного опыта. Ценовой диапазон: $$$.",
           "image_keyword": "Pelikan Stockholm",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Шведские фрикадельки",
           "klook_query": "Pelikan restaurant booking"
         },
@@ -1080,7 +1101,7 @@
           "description": "Östermalms Saluhall - это исторический рынок еды, представляющий лучшее из шведской кулинарии. Здесь вы можете попробовать гурманские продукты, свежие морепродукты и местные деликатесы. Живое окружение делает это отличным местом для гурманов, чтобы исследовать. Ценовой диапазон: $$.",
           "image_keyword": "Östermalms Saluhall",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Гравлакс",
           "klook_query": "Östermalms Saluhall booking"
         },
@@ -1091,7 +1112,7 @@
           "description": "Svenskt Tenn - это не просто магазин дизайна; здесь есть очаровательное кафе, предлагающее классические шведские блюда. Наслаждайтесь легким обедом или традиционным обедом в красиво оформленной обстановке. Их открытые сэндвичи обязательно стоит попробовать. Ценовой диапазон: $$.",
           "image_keyword": "Svenskt Tenn café",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "kr150–300",
           "must_try": "Сэндвич открытый",
           "klook_query": "Svenskt Tenn café booking"
         },
@@ -1102,7 +1123,7 @@
           "description": "K25 - это яркая фуд-корт в сердце Стокгольма, где представлены различные уличные торговцы. От гурманских бургеров до азиатской уличной еды, здесь есть что-то для каждого. Непринужденная и живая атмосфера делает его идеальным для позднего перекуса. Ценовой диапазон: $.",
           "image_keyword": "K25 Stockholm",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "kr50–100",
           "must_try": "Гурман-бургер",
           "klook_query": "K25 food court booking"
         },
@@ -1113,7 +1134,7 @@
           "description": "Францен - это первый ресторан в Стокгольме, удостоенный трех звезд Мишлен, предлагающий уникальный опыт ужина, сочетающий шведские вкусы с международными техниками. Дегустационное меню - это кулинарное путешествие, которое радует чувства. Рекомендуется заранее бронировать. Ценовой диапазон: $$$$.",
           "image_keyword": "Frantzén restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$$",
+          "price_range": "kr1,500–3,000",
           "must_try": "Дегустационное меню",
           "klook_query": "Frantzén restaurant booking"
         },
@@ -1124,7 +1145,7 @@
           "description": "Smorgastarteriet известен своим креативным подходом к традиционной шведской уличной еде. Расположенный в оживленном районе Сёдермальм, их блюда готовятся из свежих, местных ингредиентов. Не пропустите их хот-доги из оленины! Ценовой диапазон: $$.",
           "image_keyword": "Smorgastarteriet Stockholm",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "kr100–200",
           "must_try": "Хот-дог с олениной",
           "klook_query": "Smorgastarteriet booking"
         },
@@ -1135,11 +1156,14 @@
           "description": "Фескекорка, известная как 'Церковь рыбы', - это рынок морепродуктов и ресторан, предлагающий самые свежие рыбные блюда в Стокгольме. Уникальная архитектура добавляет к опыту. Попробуйте тарелку с морепродуктами для истинного вкуса моря. Ценовой диапазон: $$$.",
           "image_keyword": "Feskekôrka Stockholm",
           "star_rating": 4.5,
-          "price_range": "$$$",
+          "price_range": "kr400–800",
           "must_try": "Морепродукты на блюде",
           "klook_query": "Feskekôrka booking"
         }
-      ]
+      ],
+      "faq_q1": "Какое лучшее блюдо попробовать в Стокгольме?",
+      "faq_q2": "Где можно найти лучшие рестораны в Стокгольме?",
+      "faq_a2_suffix": " являются одними из самых популярных мест для ужина."
     }
   }
 }

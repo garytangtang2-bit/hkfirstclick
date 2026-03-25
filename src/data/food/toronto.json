@@ -2,9 +2,9 @@
   "city_slug": "toronto",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Toronto 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Toronto. From budget eats to fine dining — with booking links.",
-      "page_intro": "Toronto is a vibrant culinary hub that showcases a diverse range of flavors and cultures. From bustling street food vendors to high-end dining establishments, the city offers something for every palate. Explore local specialties and international cuisine that reflect Toronto's multicultural identity.",
+      "seo_title": "Top 8 Must-Try Restaurants in Toronto 2026",
+      "seo_description": "Save time with real recommendations for Toronto's best eats. Book with Klook and plan your meal now to discover local favorites!",
+      "page_intro": "Dive into Toronto's dynamic food scene, where local favorites like peameal bacon sandwiches and butter tarts await. Discover curated picks to savor the city's rich culinary landscape with ease.",
       "items": [
         {
           "id": "st-lawrence-market",
@@ -13,7 +13,7 @@
           "description": "St. Lawrence Market is a must-visit for food lovers, featuring a variety of vendors selling fresh produce, artisanal products, and delicious prepared foods. Try the famous peameal bacon sandwich at Carousel Bakery. The market has a lively atmosphere and is a perfect spot for both locals and tourists. Prices vary, but you can find great budget options as well as gourmet treats.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Peameal Bacon Sandwich",
           "klook_query": "St. Lawrence Market food tour",
           "photo_url": "https://images.pexels.com/photos/35038769/pexels-photo-35038769.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Baro is a vibrant Latin American restaurant that offers a unique dining experience with its colorful dishes and lively ambiance. Their menu features a variety of shareable plates, making it perfect for groups. The grilled octopus and the tres leches cake are must-tries. Expect to pay around $$ for a fulfilling meal.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Grilled Octopus",
           "klook_query": "Baro restaurant booking"
         },
@@ -36,7 +36,7 @@
           "description": "The Distillery District is a charming pedestrian-only area filled with boutique shops, galleries, and eateries. During the warmer months, food vendors and pop-up markets highlight local cuisine and craft beverages. Explore the area while enjoying artisanal snacks and drinks. The atmosphere is lively and perfect for a leisurely stroll.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Craft Beer",
           "klook_query": "Distillery District food tour"
         },
@@ -47,7 +47,7 @@
           "description": "Kinton Ramen is renowned for its rich, flavorful ramen bowls and casual dining vibe. Choose from a variety of broths and toppings to customize your bowl. The pork belly and the spicy miso ramen are favorites among regulars. Prices range from $$ to $$$ depending on your choices.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Spicy Miso Ramen",
           "klook_query": "Kinton Ramen booking"
         },
@@ -58,7 +58,7 @@
           "description": "Poutini's House of Poutine serves up some of the best poutine in the city, a quintessential Canadian dish. Choose from a variety of toppings to customize your fries, cheese curds, and gravy. The casual setting makes it a great spot for a quick bite. Prices are very reasonable at around $.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Classic Poutine",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -69,7 +69,7 @@
           "description": "Seven Lives Tacos is famous for its fresh and flavorful taco offerings. Located in the Kensington Market, this vibrant spot is known for its Baja-style fish tacos and unique salsas. The casual atmosphere attracts both locals and visitors, making it a lively dining experience. Expect to spend around $$.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "Baja Fish Taco",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -80,7 +80,7 @@
           "description": "Skippa offers an unforgettable sushi experience with a focus on quality ingredients and traditional techniques. The omakase menu is a highlight, where chefs create a personalized meal based on the freshest catch of the day. The intimate setting allows for great interaction with the chefs. Prices are on the higher end at $$$.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "Omakase",
           "klook_query": "Skippa reservation"
         },
@@ -91,16 +91,19 @@
           "description": "Bannock offers Canadian comfort food with a modern twist, featuring a menu that highlights local ingredients. The atmosphere is warm and inviting, ideal for a cozy meal. Try their famous fried chicken and house-made biscuits. Main dishes typically range from $$ to $$$.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Fried Chicken",
           "klook_query": "Bannock restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Toronto?",
+      "faq_q2": "Where can I find the best restaurants in Toronto?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 年多伦多最佳美食 — 顶级餐馆和街头美食指南",
-      "seo_description": "探索多伦多最好的餐馆、街头美食和当地特色。无论是预算美食还是高级餐饮 — 还有预订链接。",
-      "page_intro": "多伦多是一个充满活力的美食中心，展示了多样的风味和文化。从熙熙攘攘的街头小吃摊到高档餐厅，这座城市为每一种口味提供了选择。探索反映多伦多多元文化身份的当地特色和国际美食。",
+      "seo_title": "2026 年多伦多 8 大必试美食与餐馆",
+      "seo_description": "节省时间，获取真实推荐！探索多伦多的隐藏美食，使用 Klook 预订，立即计划您的美食之旅！",
+      "page_intro": "多倫多的美食場景讓人垂涎欲滴，從新鮮的海鮮到獨特的國際風味，這裡有無數美味選擇。別錯過像聖勞倫斯市場的地道佳餚與蒸汽區的創意料理，讓我們幫你節省時間，提供精選的美食體驗！",
       "items": [
         {
           "id": "st-lawrence-market",
@@ -109,7 +112,7 @@
           "description": "圣劳伦斯市场是美食爱好者必访之地，拥有多样摊位出售新鲜农产品、手工艺品和美味熟食。在 Carousel Bakery 尝试著名的培根三明治。市场氛围热闹，是当地人和游客的完美去处。价格各异，但您可以找到很棒的预算选择和美食款待。",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "豬肉腩三明治",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -120,7 +123,7 @@
           "description": "巴罗是一家充满活力的拉丁美洲餐厅，提供独特的用餐体验，色彩缤纷的菜肴和热闹的氛围。菜单上有多种可分享的菜品，非常适合团体聚餐。烤章鱼和三奶蛋糕是必尝之选。期待每餐花费大约 $$。",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "燒烤章魚",
           "klook_query": "Baro restaurant booking"
         },
@@ -131,7 +134,7 @@
           "description": "酿酒厂区是一个迷人的步行区，满是精品店、画廊和餐饮场所。在温暖的月份，食品摊贩和快闪市场展示当地美食和手工饮品。边享用手工小吃和饮品边探索该地区。气氛热闹，非常适合悠闲散步。",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "手工啤酒",
           "klook_query": "Distillery District food tour"
         },
@@ -142,7 +145,7 @@
           "description": "金顿拉面以其丰富、美味的拉面碗和休闲的用餐氛围而闻名。可以选择多种汤底和配料来定制您的拉面。五花肉和辣味味噌拉面是常客的最爱。价格根据选择大约在 $$ 到 $$$ 之间。",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "辛辣味噌拉麵",
           "klook_query": "Kinton Ramen booking"
         },
@@ -153,7 +156,7 @@
           "description": "Poutini's Poutine之家提供城中最佳的 poutine，这是典型的加拿大菜。可以选择多种配料来自定义薯条、奶酪凝块和肉汁。休闲的环境使其成为快餐的好去处。价格非常合理，大约在 $。",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "經典普丁",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -164,7 +167,7 @@
           "description": "七条命塔可是以新鲜美味的塔可而闻名。位于肯辛顿市场，这个充满活力的地方以巴哈风格的鱼塔可和独特的莎莎酱而闻名。休闲的氛围吸引了当地人和游客，使用餐体验生动有趣。预计花费大约 $$。",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "巴哈魚塔可",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -175,7 +178,7 @@
           "description": "Skippa 提供难忘的寿司体验，注重优质食材和传统技艺。Omakase 菜单是亮点，厨师会根据当天最新鲜的食材为您制作个性化的餐点。亲密的环境使您与厨师有良好的互动。价格偏高，大约在 $$$。",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "Omakase",
           "klook_query": "Skippa reservation"
         },
@@ -186,16 +189,19 @@
           "description": "Bannock 提供现代化的加拿大舒适食品，菜单突出当地食材。氛围温馨宜人，适合享用温馨的餐点。尝试他们著名的炸鸡和自制饼干。主菜通常在 $$ 到 $$$ 之间。",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "炸雞",
           "klook_query": "Bannock restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "在多倫多最好吃的食物是什麼？",
+      "faq_q2": "在哪裡可以找到多倫多最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "2026年トロントのベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "トロントの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンクあり。",
-      "page_intro": "トロントは、多様なフレーバーと文化を展示する活気に満ちた料理の中心地です。賑やかなストリートフードの屋台から高級レストランまで、街はすべての味覚に応えます。トロントの多文化的なアイデンティティを反映した地元の特産品や国際的な料理を探索してください。",
+      "seo_title": "2026年トロントの必食レストラン8選 — ベストフードガイド",
+      "seo_description": "時間を節約し、信頼できるおすすめを見つけましょう。Klookで予約して、地元の名物を今すぐ計画しましょう！",
+      "page_intro": "トロントの料理シーンは、驚くほど多彩で刺激的です。地元の名物であるペイストリーやストリートフード、さらには国際的な料理の数々を味わいながら、グルメな旅をお楽しみください。Klookでの予約で、時間を節約しつつ厳選されたレストランを体験できます。",
       "items": [
         {
           "id": "st-lawrence-market",
@@ -204,7 +210,7 @@
           "description": "セントローレンスマーケットは、食べ物好きには欠かせない場所で、新鮮な農産物、職人製品、美味しい料理を販売するさまざまな店舗があります。Carousel Bakeryで有名なピームールベーコンのサンドイッチを試してみてください。市場は賑やかな雰囲気で、地元の人々と観光客にとって完璧な場所です。価格はさまざまですが、素晴らしい予算オプションやグルメトリートを見つけることができます。",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "ピーミールベーコンサンドイッチ",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -215,7 +221,7 @@
           "description": "バロは、色とりどりの料理と賑やかな雰囲気でユニークなダイニング体験を提供する活気あるラテンアメリカのレストランです。メニューにはさまざまなシェアプレートがあり、グループに最適です。グリルしたタコやトレスレチェスケーキは必食です。満足のいく食事には約$$を期待してください。",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "グリルドオクトパス",
           "klook_query": "Baro restaurant booking"
         },
@@ -226,7 +232,7 @@
           "description": "ディスティラリーディストリクトは、ブティックショップ、ギャラリー、飲食店が集まった魅力的な歩行者専用エリアです。温暖な季節には、食品ベンダーやポップアップマーケットが地元の料理やクラフト飲料を特集します。アーティザナルなスナックや飲み物を楽しみながら、このエリアを探索してください。雰囲気は賑やかで、ゆったりとした散歩に最適です。",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "クラフトビール",
           "klook_query": "Distillery District food tour"
         },
@@ -237,7 +243,7 @@
           "description": "キントンラーメンは、その豊かで風味豊かなラーメンボウルとカジュアルなダイニングの雰囲気で知られています。さまざまなスープとトッピングから選んで、自分だけのラーメンをカスタマイズできます。豚バラとスパイシー味噌ラーメンは常連のお気に入りです。価格は選択に応じて $$ から $$$ の範囲です。",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "辛味噌ラーメン",
           "klook_query": "Kinton Ramen booking"
         },
@@ -248,7 +254,7 @@
           "description": "プティニーズハウスオブプーティンは、カナダの代表的な料理であるプーティンを提供しており、街で最高のプーティンの一つとされています。さまざまなトッピングから選んで、フライドポテト、チーズカード、グレービーをカスタマイズできます。カジュアルな雰囲気で、さっと食べるのに最適な場所です。価格は非常にリーズナブルで、約$です。",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "クラシックプーティン",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -259,7 +265,7 @@
           "description": "セブンライヴスタコスは、新鮮で風味豊かなタコスで有名です。ケンジントンマーケットに位置するこの活気のあるスポットは、バハスタイルのフィッシュタコスとユニークなサルサで知られています。カジュアルな雰囲気は、地元の人々と訪問者の両方を惹きつけ、生き生きとしたダイニング体験を提供します。約$$を期待してください。",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "バハフィッシュタコ",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -270,7 +276,7 @@
           "description": "スキッパは、質の高い食材と伝統的な技術に重点を置いた忘れられない寿司体験を提供します。おまかせメニューはハイライトで、シェフがその日の新鮮な魚に基づいて個別の食事を作ります。親密な設定は、シェフとの素晴らしい対話を可能にします。価格は高めで、約$$$です。",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "おまかせ",
           "klook_query": "Skippa reservation"
         },
@@ -281,16 +287,19 @@
           "description": "バンノックは、地元の食材を強調した現代的なカナダのコンフォートフードを提供します。雰囲気は温かく、居心地が良く、心温まる食事に最適です。彼らの有名なフライドチキンと自家製ビスケットを試してみてください。主菜は通常 $$ から $$$ の範囲です。",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "フライドチキン",
           "klook_query": "Bannock restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "トロントでおすすめの料理は何ですか？",
+      "faq_q2": "トロントで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションです。"
     },
     "ko": {
-      "seo_title": "2026년 토론토 최고의 음식 — 인기 레스토랑 및 거리 음식 가이드",
-      "seo_description": "토론토 최고의 레스토랑, 거리 음식 및 지역 특산품을 발견하세요. 예산 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "토론토는 다양한 맛과 문화를 선보이는 활기찬 미식 중심지입니다. 번화한 거리 음식 판매자부터 고급 식당까지, 이 도시는 모든 입맛을 만족시킵니다. 토론토의 다문화 정체성을 반영한 지역 특산물과 세계 각국의 요리를 탐험하세요.",
+      "seo_title": "2026년 토론토 최고의 8개 음식 — 숨겨진 보석들",
+      "seo_description": "시간을 절약하고 진짜 추천을 받으세요. Klook 예약으로 토론토의 현지 인기 음식을 계획해보세요!",
+      "page_intro": "토론토의 미식 세계는 놀라운 맛의 향연으로 가득 차 있습니다. 유명한 피칸 파이와 푸짐한 캐나다식 팬케이크 등 현지 특산물을 맛보세요. Klook에서 추천하는 맛집으로 시간과 노력을 절약하세요.",
       "items": [
         {
           "id": "st-lawrence-market",
@@ -299,7 +308,7 @@
           "description": "세인트 로렌스 마켓은 신선한 농산물, 장인의 제품, 맛있는 조리식을 판매하는 다양한 판매자가 있는 미식가 필수 방문 장소입니다. Carousel Bakery에서 유명한 피밀 베이컨 샌드위치를 꼭 드셔보세요. 시장은 활기찬 분위기를 자랑하며, 현지인과 관광객 모두에게 완벽한 장소입니다. 가격은 다양하지만 훌륭한 예산 옵션과 고급 간식을 찾을 수 있습니다.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "피메일 베이컨 샌드위치",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -310,7 +319,7 @@
           "description": "바로는 다채로운 요리와 활기찬 분위기로 독특한 다이닝 경험을 제공하는 라틴 아메리카 레스토랑입니다. 그들의 메뉴는 다양한 공유 가능한 요리를 포함하여 그룹에 적합합니다. 그릴에 구운 문어와 트레스 레체스 케이크는 꼭 시도해야 할 메뉴입니다. 만족스러운 식사에는 약 $$를 예상하세요.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "구운 문어",
           "klook_query": "Baro restaurant booking"
         },
@@ -321,7 +330,7 @@
           "description": "증류소 지구는 부티크 상점, 갤러리 및 식당으로 가득 찬 매력적인 보행자 전용 지역입니다. 따뜻한 계절에는 음식 판매자와 팝업 마켓이 지역 요리와 수제 음료를 선보입니다. 장인의 스낵과 음료를 즐기며 이 지역을 탐험하세요. 분위기는 활기차고 여유로운 산책에 적합합니다.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "크래프트 맥주",
           "klook_query": "Distillery District food tour"
         },
@@ -332,7 +341,7 @@
           "description": "킨톤 라멘은 풍부하고 맛이 좋은 라멘과 캐주얼한 다이닝 분위기로 유명합니다. 다양한 육수와 토핑 중에서 선택하여 나만의 라멘을 커스터마이즈하세요. 삼겹살과 매운 된장 라멘은 단골 손님들 사이에서 인기 있는 메뉴입니다. 가격은 선택에 따라 $$에서 $$$까지 다양합니다.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "매운 미소 라멘",
           "klook_query": "Kinton Ramen booking"
         },
@@ -343,7 +352,7 @@
           "description": "푸티니's 하우스 오브 푸틴은 이 도시에서 최고의 푸틴을 제공합니다. 캐나다의 대표적인 요리입니다. 다양한 토핑 중에서 선택하여 감자튀김, 치즈 커드 및 그레이비를 커스터마이즈하세요. 캐주얼한 환경은 간편하게 먹기 좋은 장소입니다. 가격은 매우 합리적이며 약 $입니다.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "클래식 푸틴",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -354,7 +363,7 @@
           "description": "세븐 라이브 타코스는 신선하고 맛있는 타코로 유명합니다. 켄싱턴 마켓에 위치한 이 활기찬 장소는 바하 스타일의 생선 타코와 독특한 살사를 자랑합니다. 캐주얼한 분위기는 현지인과 방문객 모두를 매료시켜 생동감 넘치는 다이닝 경험을 제공합니다. 예상 비용은 약 $$입니다.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "바하 피쉬 타코",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -365,7 +374,7 @@
           "description": "스키파는 질 좋은 재료와 전통 기술에 중점을 둔 잊을 수 없는 스시 경험을 제공합니다. 오마카세 메뉴는 하이라이트로, 셰프가 그날의 신선한 재료를 바탕으로 개인화된 식사를 만듭니다. 친밀한 환경은 셰프와의 훌륭한 상호작용을 가능하게 합니다. 가격은 높은 편이며 약 $$$입니다.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "오마카세",
           "klook_query": "Skippa reservation"
         },
@@ -376,16 +385,19 @@
           "description": "반녹은 현대적인 변형의 캐나다식 편안한 음식을 제공합니다. 메뉴는 지역 재료를 강조합니다. 분위기는 따뜻하고 아늑하여 편안한 식사에 적합합니다. 그들의 유명한 프라이드 치킨과 수제 비스킷을 시도해보세요. 주요 요리는 일반적으로 $$에서 $$$ 사이입니다.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "프라이드 치킨",
           "klook_query": "Bannock restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "토론토에서 꼭 먹어야 할 음식은 무엇인가요?",
+      "faq_q2": "토론토에서 최고의 식당은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 다이닝 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Toronto 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Toronto. Des repas à petit budget à la gastronomie — avec des liens de réservation.",
-      "page_intro": "Toronto est un centre culinaire vibrant qui met en valeur une gamme diversifiée de saveurs et de cultures. Des vendeurs de street food animés aux établissements de restauration haut de gamme, la ville offre quelque chose pour chaque palais. Explorez les spécialités locales et la cuisine internationale qui reflètent l'identité multiculturelle de Toronto.",
+      "seo_title": "Top 8 Restaurants à Toronto 2026 — Meilleures Découvertes",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les trésors culinaires de Toronto. Planifiez votre repas maintenant!",
+      "page_intro": "Découvrez la scène culinaire effervescente de Toronto, où les poutines savoureuses et les tacos innovants se rencontrent. Profitez de nos sélections soigneusement choisies pour savourer le meilleur de la ville sans perdre de temps avec Klook.",
       "items": [
         {
           "id": "st-lawrence-market",
@@ -394,7 +406,7 @@
           "description": "Le Marché St. Lawrence est un incontournable pour les amoureux de la nourriture, avec une variété de vendeurs proposant des produits frais, des produits artisanaux et de délicieux plats préparés. Essayez le célèbre sandwich au bacon peameal chez Carousel Bakery. Le marché a une atmosphère animée et est un endroit parfait pour les habitants comme pour les touristes. Les prix varient, mais vous pouvez trouver d'excellentes options à petit budget ainsi que des délices gastronomiques.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Sandwich au bacon de dos de porc",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -405,7 +417,7 @@
           "description": "Baro est un restaurant latino-américain vibrant qui offre une expérience culinaire unique avec ses plats colorés et son ambiance animée. Leur menu propose une variété de plats à partager, ce qui le rend parfait pour les groupes. Le poulpe grillé et le gâteau tres leches sont à essayer absolument. Attendez-vous à débourser environ $$ pour un repas satisfaisant.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Poulpe grillé",
           "klook_query": "Baro restaurant booking"
         },
@@ -416,7 +428,7 @@
           "description": "Le Quartier de la distillerie est une charmante zone piétonne remplie de boutiques, de galeries et de restaurants. Pendant les mois plus chauds, les vendeurs de nourriture et les marchés éphémères mettent en avant la cuisine locale et les boissons artisanales. Explorez la région tout en savourant des collations et des boissons artisanales. L'atmosphère est animée et parfaite pour une promenade tranquille.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Bière artisanale",
           "klook_query": "Distillery District food tour"
         },
@@ -427,7 +439,7 @@
           "description": "Kinton Ramen est réputé pour ses bols de ramen riches et savoureux et son ambiance décontractée. Choisissez parmi une variété de bouillons et de garnitures pour personnaliser votre bol. Le ventre de porc et le ramen miso épicé sont des favoris parmi les habitués. Les prix varient de $$ à $$$ selon vos choix.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Ramen au miso épicé",
           "klook_query": "Kinton Ramen booking"
         },
@@ -438,7 +450,7 @@
           "description": "La Maison de Poutini sert certaines des meilleures poutines de la ville, un plat canadien par excellence. Choisissez parmi une variété de garnitures pour personnaliser vos frites, caillés de fromage et sauce. L'ambiance décontractée en fait un endroit idéal pour un repas rapide. Les prix sont très raisonnables, autour de $.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Poutine classique",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -449,7 +461,7 @@
           "description": "Tacos Sept Vies est célèbre pour ses offres de tacos frais et savoureux. Situé dans le Kensington Market, cet endroit vibrant est connu pour ses tacos de poisson de style Baja et ses salsas uniques. L'atmosphère décontractée attire à la fois les locaux et les visiteurs, ce qui en fait une expérience culinaire animée. Attendez-vous à dépenser environ $$.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "Taco de poisson Baja",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -460,7 +472,7 @@
           "description": "Skippa offre une expérience de sushi inoubliable avec un accent sur des ingrédients de qualité et des techniques traditionnelles. Le menu omakase est un point fort, où les chefs créent un repas personnalisé en fonction de la prise la plus fraîche du jour. L'ambiance intime permet une excellente interaction avec les chefs. Les prix sont plus élevés, autour de $$$.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "Omakase",
           "klook_query": "Skippa reservation"
         },
@@ -471,15 +483,18 @@
           "description": "Bannock propose une cuisine canadienne réconfortante avec une touche moderne, mettant en avant des ingrédients locaux. L'atmosphère est chaleureuse et accueillante, idéale pour un repas confortable. Essayez leur célèbre poulet frit et leurs biscuits faits maison. Les plats principaux se situent généralement entre $$ et $$$.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Poulet frit",
           "klook_query": "Bannock restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Toronto ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Toronto ?",
+      "faq_a2_suffix": " figurent parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Toronto 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Toronto. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "seo_title": "Top 10 Restaurantes en Toronto 2026 — ¡Descúbrelos!",
+      "seo_description": "Ahorra tiempo con recomendaciones reales. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
       "page_intro": "Toronto es un vibrante centro culinario que exhibe una diversa gama de sabores y culturas. Desde bulliciosos vendedores de comida callejera hasta establecimientos de alta cocina, la ciudad ofrece algo para cada paladar. Explora las especialidades locales y la cocina internacional que reflejan la identidad multicultural de Toronto.",
       "items": [
         {
@@ -489,7 +504,7 @@
           "description": "El Mercado de St. Lawrence es una visita obligada para los amantes de la comida, con una variedad de vendedores que ofrecen productos frescos, productos artesanales y deliciosos platos preparados. Prueba el famoso sándwich de tocino peameal en Carousel Bakery. El mercado tiene una atmósfera animada y es un lugar perfecto tanto para locales como para turistas. Los precios varían, pero puedes encontrar excelentes opciones económicas así como delicias gourmet.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Sándwich de tocino canadiense",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -500,7 +515,7 @@
           "description": "Baro es un vibrante restaurante latinoamericano que ofrece una experiencia gastronómica única con sus coloridos platos y ambiente animado. Su menú presenta una variedad de platos compartibles, lo que lo hace perfecto para grupos. El pulpo a la parrilla y el pastel tres leches son imprescindibles. Espera pagar alrededor de $$ por una comida satisfactoria.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Pulpo a la parrilla",
           "klook_query": "Baro restaurant booking"
         },
@@ -511,7 +526,7 @@
           "description": "El Distrito de la destilería es una encantadora área peatonal llena de boutiques, galerías y restaurantes. Durante los meses más cálidos, los vendedores de comida y los mercados emergentes destacan la cocina local y las bebidas artesanales. Explora la zona mientras disfrutas de bocadillos y bebidas artesanales. La atmósfera es animada y perfecta para un paseo tranquilo.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Cerveza artesanal",
           "klook_query": "Distillery District food tour"
         },
@@ -522,7 +537,7 @@
           "description": "Kinton Ramen es conocido por sus ricos y sabrosos cuencos de ramen y su ambiente casual. Elige entre una variedad de caldos y coberturas para personalizar tu cuenco. La panceta de cerdo y el ramen de miso picante son favoritos entre los asiduos. Los precios oscilan entre $$ y $$$ dependiendo de tus elecciones.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Ramen picante de miso",
           "klook_query": "Kinton Ramen booking"
         },
@@ -533,7 +548,7 @@
           "description": "La Casa de Poutini sirve algunas de las mejores poutines de la ciudad, un plato canadiense por excelencia. Elige entre una variedad de coberturas para personalizar tus papas fritas, cuajada de queso y salsa. El ambiente casual lo convierte en un lugar ideal para un bocado rápido. Los precios son muy razonables, alrededor de $.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Poutine clásico",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -544,7 +559,7 @@
           "description": "Tacos Siete Vidas es famoso por sus frescos y sabrosos tacos. Ubicado en Kensington Market, este vibrante lugar es conocido por sus tacos de pescado estilo Baja y sus salsas únicas. La atmósfera casual atrae tanto a locales como a visitantes, lo que lo convierte en una experiencia gastronómica animada. Espera gastar alrededor de $$.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "Taco de pescado estilo Baja",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -555,7 +570,7 @@
           "description": "Skippa ofrece una experiencia de sushi inolvidable con enfoque en ingredientes de calidad y técnicas tradicionales. El menú omakase es un punto destacado, donde los chefs crean una comida personalizada basada en la pesca más fresca del día. El ambiente íntimo permite una excelente interacción con los chefs. Los precios son más altos, alrededor de $$$.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "Omakase",
           "klook_query": "Skippa reservation"
         },
@@ -566,14 +581,14 @@
           "description": "Bannock ofrece comida reconfortante canadiense con un toque moderno, destacando ingredientes locales. La atmósfera es cálida y acogedora, ideal para una comida cómoda. Prueba su famoso pollo frito y galletas hechas en casa. Los platos principales suelen oscilar entre $$ y $$$.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Pollo frito",
           "klook_query": "Bannock restaurant booking"
         }
       ]
     },
     "id": {
-      "seo_title": "Best Food in Toronto 2026 — Top Restaurants & Street Food Guide",
+      "seo_title": "Makanan Terbaik Toronto 2026 — 10 Restoran & Street Food",
       "seo_description": "Discover the best restaurants, street food and local specialties in Toronto. From budget eats to fine dining — with booking links.",
       "page_intro": "Toronto is a vibrant culinary hub that showcases a diverse range of flavors and cultures. From bustling street food vendors to high-end dining establishments, the city offers something for every palate. Explore local specialties and international cuisine that reflect Toronto's multicultural identity.",
       "items": [
@@ -584,7 +599,7 @@
           "description": "St. Lawrence Market is a must-visit for food lovers, featuring a variety of vendors selling fresh produce, artisanal products, and delicious prepared foods. Try the famous peameal bacon sandwich at Carousel Bakery. The market has a lively atmosphere and is a perfect spot for both locals and tourists. Prices vary, but you can find great budget options as well as gourmet treats.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Sandwich Bacon Peameal",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -595,7 +610,7 @@
           "description": "Baro is a vibrant Latin American restaurant that offers a unique dining experience with its colorful dishes and lively ambiance. Their menu features a variety of shareable plates, making it perfect for groups. The grilled octopus and the tres leches cake are must-tries. Expect to pay around $$ for a fulfilling meal.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Gurita Bakar",
           "klook_query": "Baro restaurant booking"
         },
@@ -606,7 +621,7 @@
           "description": "The Distillery District is a charming pedestrian-only area filled with boutique shops, galleries, and eateries. During the warmer months, food vendors and pop-up markets highlight local cuisine and craft beverages. Explore the area while enjoying artisanal snacks and drinks. The atmosphere is lively and perfect for a leisurely stroll.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Bir Kerajinan",
           "klook_query": "Distillery District food tour"
         },
@@ -617,7 +632,7 @@
           "description": "Kinton Ramen is renowned for its rich, flavorful ramen bowls and casual dining vibe. Choose from a variety of broths and toppings to customize your bowl. The pork belly and the spicy miso ramen are favorites among regulars. Prices range from $$ to $$$ depending on your choices.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Ramen Miso Pedas",
           "klook_query": "Kinton Ramen booking"
         },
@@ -628,7 +643,7 @@
           "description": "Poutini's House of Poutine serves up some of the best poutine in the city, a quintessential Canadian dish. Choose from a variety of toppings to customize your fries, cheese curds, and gravy. The casual setting makes it a great spot for a quick bite. Prices are very reasonable at around $.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Poutine Klasik",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -639,7 +654,7 @@
           "description": "Seven Lives Tacos is famous for its fresh and flavorful taco offerings. Located in the Kensington Market, this vibrant spot is known for its Baja-style fish tacos and unique salsas. The casual atmosphere attracts both locals and visitors, making it a lively dining experience. Expect to spend around $$.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "Taco Ikan Baja",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -650,7 +665,7 @@
           "description": "Skippa offers an unforgettable sushi experience with a focus on quality ingredients and traditional techniques. The omakase menu is a highlight, where chefs create a personalized meal based on the freshest catch of the day. The intimate setting allows for great interaction with the chefs. Prices are on the higher end at $$$.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "Omakase",
           "klook_query": "Skippa reservation"
         },
@@ -661,14 +676,14 @@
           "description": "Bannock offers Canadian comfort food with a modern twist, featuring a menu that highlights local ingredients. The atmosphere is warm and inviting, ideal for a cozy meal. Try their famous fried chicken and house-made biscuits. Main dishes typically range from $$ to $$$.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Ayam Goreng",
           "klook_query": "Bannock restaurant booking"
         }
       ]
     },
     "hi": {
-      "seo_title": "टोरंटो में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_title": "2026 में टोरंटो के 10 सर्वश्रेष्ठ भोजन गाइड",
       "seo_description": "टोरंटो के सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर उच्च श्रेणी के भोजन तक - बुकिंग लिंक के साथ।",
       "page_intro": "टोरंटो एक जीवंत खाद्य केंद्र है जो विभिन्न प्रकार के स्वादों और संस्कृतियों को प्रदर्शित करता है। हलचल भरे स्ट्रीट फूड विक्रेताओं से लेकर उच्च गुणवत्ता वाले भोजनालयों तक, यह शहर हर स्वाद के लिए कुछ न कुछ प्रदान करता है। स्थानीय विशेषताओं और अंतरराष्ट्रीय व्यंजनों का अन्वेषण करें जो टोरंटो की बहुसांस्कृतिक पहचान को दर्शाते हैं।",
       "items": [
@@ -679,7 +694,7 @@
           "description": "सेंट लॉरेंस मार्केट खाद्य प्रेमियों के लिए एक अवश्य देखने योग्य स्थान है, जहां ताजे उत्पाद, हस्तशिल्प उत्पाद और स्वादिष्ट तैयार खाद्य पदार्थ बेचने वाले विभिन्न विक्रेता हैं। कैरोसेल बेकररी में प्रसिद्ध पीमील बेकन सैंडविच का प्रयास करें। मार्केट का माहौल जीवंत है और यह स्थानीय लोगों और पर्यटकों दोनों के लिए एकदम सही स्थान है। कीमतें भिन्न होती हैं, लेकिन आप बजट के अच्छे विकल्प और उच्च श्रेणी के व्यंजन भी पा सकते हैं।",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "पीमेल बेकन सैंडविच",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -690,7 +705,7 @@
           "description": "बारो एक जीवंत लैटिन अमेरिकी रेस्तरां है जो अपने रंगीन व्यंजनों और जीवंत वातावरण के साथ एक अनोखा भोजन अनुभव प्रदान करता है। उनका मेन्यू साझा करने योग्य प्लेटों की एक विविधता पेश करता है, जो समूहों के लिए इसे आदर्श बनाता है। ग्रिल्ड ऑक्टोपस और ट्रेस लेचेस केक अवश्य चखने योग्य हैं। एक संतोषजनक भोजन के लिए लगभग $$ खर्च करने की उम्मीद करें।",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "ग्रिल्ड ऑक्टोपस",
           "klook_query": "Baro restaurant booking"
         },
@@ -701,7 +716,7 @@
           "description": "डिस्टिलरी डिस्ट्रिक्ट एक आकर्षक पैदल यात्री क्षेत्र है जिसमें बुटीक दुकानें, गैलरी और भोजनालय हैं। गर्मियों के महीनों में, खाद्य विक्रेता और पॉप-अप मार्केट स्थानीय व्यंजन और शिल्प पेय पदार्थों को उजागर करते हैं। क्षेत्र का अन्वेषण करें जबकि हस्तशिल्प स्नैक्स और पेय का आनंद लेते हैं। वातावरण जीवंत है और एक आरामदायक टहलने के लिए एकदम सही है।",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "क्राफ्ट बियर",
           "klook_query": "Distillery District food tour"
         },
@@ -712,7 +727,7 @@
           "description": "किंटन रामेन अपने समृद्ध, स्वादिष्ट रामेन बाउल के लिए प्रसिद्ध है और आकस्मिक भोजन के माहौल के लिए जाना जाता है। अपने बाउल को अनुकूलित करने के लिए विभिन्न ब्रॉथ और टॉपिंग में से चुनें। पोर्क बेली और स्पाइसी मिसो रामेन नियमितों के बीच पसंदीदा हैं। आपकी पसंद के अनुसार कीमतें $$ से $$$ तक होती हैं।",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "स्पाइसी मिसो रामेन",
           "klook_query": "Kinton Ramen booking"
         },
@@ -723,7 +738,7 @@
           "description": "पाउटिनी का हाउस ऑफ पाउटिन शहर में सबसे अच्छे पाउटिन में से कुछ परोसता है, जो एक अद्वितीय कनाडाई व्यंजन है। अपने फ्राई, चीज़ कर्ड और ग्रेवी को अनुकूलित करने के लिए विभिन्न टॉपिंग में से चुनें। आकस्मिक सेटिंग इसे त्वरित नाश्ते के लिए एक बेहतरीन स्थान बनाती है। कीमतें $ के आसपास बहुत उचित हैं।",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "क्लासिक पोटीन",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -734,7 +749,7 @@
           "description": "सेवन लाइव्स टैकोस अपने ताजे और स्वादिष्ट टैको के लिए प्रसिद्ध है। केन्सिंगटन मार्केट में स्थित, यह जीवंत स्थान अपने बैजा-शैली के मछली टैको और अनोखे सालसास के लिए जाना जाता है। आकस्मिक माहौल स्थानीय लोगों और आगंतुकों दोनों को आकर्षित करता है, जिससे यह एक जीवंत भोजन अनुभव बनता है। लगभग $$ खर्च करने की उम्मीद करें।",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "बाजा फिश टैको",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -745,7 +760,7 @@
           "description": "स्किप्पा एक अविस्मरणीय सुशी अनुभव प्रदान करता है जो गुणवत्ता सामग्री और पारंपरिक तकनीकों पर केंद्रित है। ओमाकासे मेन्यू एक मुख्य आकर्षण है, जहां शेफ दिन की ताजा पकड़ के आधार पर व्यक्तिगत भोजन तैयार करते हैं। अंतरंग सेटिंग शेफ के साथ महान इंटरैक्शन की अनुमति देती है। कीमतें $$$ के उच्च स्तर पर हैं।",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "ओमाकसे",
           "klook_query": "Skippa reservation"
         },
@@ -756,14 +771,14 @@
           "description": "बैनॉक एक आधुनिक मोड़ के साथ कनाडाई आराम भोजन प्रदान करता है, जिसमें स्थानीय सामग्री को उजागर करने वाला मेन्यू है। वातावरण गर्म और आमंत्रित है, जो एक आरामदायक भोजन के लिए आदर्श है। उनके प्रसिद्ध तले हुए चिकन और घर में बने बिस्कुट का प्रयास करें। मुख्य व्यंजन आमतौर पर $$ से $$$ के बीच होते हैं।",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "फ्राइड चिकन",
           "klook_query": "Bannock restaurant booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhores Comidas em Toronto 2026 — Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_title": "Top 10 Comidas em Toronto 2026 — Guia Imperdível",
       "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Toronto. Desde refeições econômicas até alta gastronomia — com links de reserva.",
       "page_intro": "Toronto é um vibrante centro culinário que exibe uma ampla gama de sabores e culturas. Desde vendedores de comida de rua movimentados até estabelecimentos de alta qualidade, a cidade oferece algo para todos os paladares. Explore as especialidades locais e a cozinha internacional que refletem a identidade multicultural de Toronto.",
       "items": [
@@ -774,7 +789,7 @@
           "description": "O Mercado St. Lawrence é uma visita obrigatória para os amantes da comida, apresentando uma variedade de vendedores que vendem produtos frescos, produtos artesanais e deliciosos alimentos preparados. Experimente o famoso sanduíche de bacon peameal na Carousel Bakery. O mercado tem uma atmosfera animada e é um local perfeito para moradores e turistas. Os preços variam, mas você pode encontrar ótimas opções econômicas, bem como iguarias gourmet.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Sanduíche de Bacon Peameal",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -785,7 +800,7 @@
           "description": "Baro é um vibrante restaurante latino-americano que oferece uma experiência gastronômica única com seus pratos coloridos e ambiente animado. O menu apresenta uma variedade de pratos para compartilhar, tornando-o perfeito para grupos. O polvo grelhado e o bolo tres leches são imperdíveis. Espere pagar em torno de $$ por uma refeição satisfatória.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Polvo Grelhado",
           "klook_query": "Baro restaurant booking"
         },
@@ -796,7 +811,7 @@
           "description": "O Distrito da Destilaria é uma encantadora área exclusiva para pedestres repleta de lojas boutique, galerias e restaurantes. Durante os meses mais quentes, os vendedores de comida e mercados pop-up destacam a culinária local e bebidas artesanais. Explore a área enquanto desfruta de lanches e bebidas artesanais. A atmosfera é animada e perfeita para um passeio relaxante.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Cerveja Artesanal",
           "klook_query": "Distillery District food tour"
         },
@@ -807,7 +822,7 @@
           "description": "Kinton Ramen é conhecido por suas tigelas de ramen ricas e saborosas e um ambiente de jantar casual. Escolha entre uma variedade de caldos e coberturas para personalizar sua tigela. A barriga de porco e o ramen de miso picante são favoritos entre os clientes regulares. Os preços variam de $$ a $$$, dependendo de suas escolhas.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Ramen de Miso Picante",
           "klook_query": "Kinton Ramen booking"
         },
@@ -818,7 +833,7 @@
           "description": "A Casa de Poutine do Poutini serve algumas das melhores poutines da cidade, um prato canadense por excelência. Escolha entre uma variedade de coberturas para personalizar suas batatas fritas, coalhada de queijo e molho. O ambiente casual faz dele um ótimo lugar para um lanche rápido. Os preços são muito razoáveis, em torno de $.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Poutine Clássico",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -829,7 +844,7 @@
           "description": "Os Tacos Seven Lives são famosos por suas ofertas de tacos frescos e saborosos. Localizado no Kensington Market, este vibrante local é conhecido por seus tacos de peixe estilo Baja e salsas únicas. O ambiente casual atrai tanto moradores quanto visitantes, tornando a experiência gastronômica animada. Espere gastar cerca de $$.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "Taco de Peixe Baja",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -840,7 +855,7 @@
           "description": "Skippa oferece uma experiência de sushi inesquecível com foco em ingredientes de qualidade e técnicas tradicionais. O menu omakase é um destaque, onde os chefs criam uma refeição personalizada com base na pesca mais fresca do dia. O ambiente íntimo permite uma ótima interação com os chefs. Os preços estão na faixa mais alta, em $$$.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "Omakase",
           "klook_query": "Skippa reservation"
         },
@@ -851,14 +866,14 @@
           "description": "Bannock oferece comida reconfortante canadense com um toque moderno, apresentando um menu que destaca ingredientes locais. A atmosfera é acolhedora e convidativa, ideal para uma refeição aconchegante. Experimente seu famoso frango frito e biscoitos caseiros. Os pratos principais costumam variar de $$ a $$$.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Frango Frito",
           "klook_query": "Bannock restaurant booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل الطعام في تورونتو 2026 — أفضل المطاعم ودليل طعام الشارع",
+      "seo_title": "أفضل 10 مطاعم في تورونتو 2026 — دليل الطعام",
       "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في تورونتو. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر — مع روابط الحجز.",
       "page_intro": "تورونتو هي مركز طهوي نابض يعرض مجموعة متنوعة من النكهات والثقافات. من بائعي الطعام في الشارع المزدحمين إلى المؤسسات الفاخرة، تقدم المدينة شيئًا لكل ذوق. استكشف التخصصات المحلية والمأكولات الدولية التي تعكس الهوية متعددة الثقافات في تورونتو.",
       "items": [
@@ -869,7 +884,7 @@
           "description": "سوق سانت لورانس يعد وجهة يجب زيارتها لعشاق الطعام، حيث يضم مجموعة متنوعة من البائعين الذين يبيعون المنتجات الطازجة والمنتجات الحرفية والأطعمة الجاهزة اللذيذة. جرب شطيرة لحم الخنزير الشهيرة في مخبز كاروسيل. السوق له جو حيوي وهو مكان مثالي لكل من السكان المحليين والسياح. تتفاوت الأسعار، ولكن يمكنك العثور على خيارات اقتصادية رائعة بالإضافة إلى أطباق فاخرة.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "ساندويتش لحم الخنزير المقدد",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -880,7 +895,7 @@
           "description": "بارو هو مطعم أمريكي لاتيني نابض يقدم تجربة تناول طعام فريدة مع أطباقه الملونة وأجواءه النابضة بالحياة. يقدم قائمة متنوعة من الأطباق القابلة للمشاركة، مما يجعله مثاليًا للمجموعات. يجب تجربة الأخطبوط المشوي وكعكة التريس ليشيز. توقع أن تدفع حوالي $$ لوجبة مشبعة.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "أخطبوط مشوي",
           "klook_query": "Baro restaurant booking"
         },
@@ -891,7 +906,7 @@
           "description": "حي المقطر هو منطقة جذابة للمشاة مليئة بالمتاجر البوتيكية والمعارض والمطاعم. خلال أشهر الصيف الأكثر دفئًا، تبرز بائعو الطعام والأسواق المؤقتة المأكولات المحلية والمشروبات الحرفية. استكشف المنطقة أثناء الاستمتاع بالوجبات الخفيفة والمشروبات الحرفية. الأجواء حيوية ومثالية لنزهة مريحة.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "بيرة حرفية",
           "klook_query": "Distillery District food tour"
         },
@@ -902,7 +917,7 @@
           "description": "كينتون رامين معروف بأطباق الرامين الغنية والمليئة بالنكهات وأجواء تناول الطعام غير الرسمية. اختر من بين مجموعة متنوعة من المرق والإضافات لتخصيص طبقك. لحم الخنزير البطني ورامين ميسو الحار هما من المفضلات بين الزبائن المنتظمين. تتراوح الأسعار من $$ إلى $$$ حسب اختياراتك.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "رامن ميسو حار",
           "klook_query": "Kinton Ramen booking"
         },
@@ -913,7 +928,7 @@
           "description": "يقدم بيت بوتيني بعضًا من أفضل الأطباق في المدينة، وهو طبق كندي أصيل. اختر من بين مجموعة متنوعة من الإضافات لتخصيص بطاطس فرينش الخاصة بك، وقطع الجبنة، والصلصة. تجعل الإعداد غير الرسمي منه مكانًا رائعًا لتناول وجبة سريعة. الأسعار معقولة جدًا، حوالي $.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "بوتين كلاسيكي",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -924,7 +939,7 @@
           "description": "تاكوس سبعة أرواح مشهور بعروضه من التاكو الطازج واللذيذ. يقع في سوق كينسينغتون، هذا المكان النابض معروف بتاكو السمك على طريقة باجا والسالسا الفريدة. يجذب الجو غير الرسمي السكان المحليين والزوار على حد سواء، مما يجعل تجربة تناول الطعام حيوية. توقع أن تنفق حوالي $$.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "تاكو سمك باخا",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -935,7 +950,7 @@
           "description": "تقدم سكيبا تجربة سوشي لا تُنسى مع التركيز على المكونات عالية الجودة والتقنيات التقليدية. قائمة أومكاس هي واحدة من أبرز عناصر القائمة، حيث يقوم الطهاة بإعداد وجبة شخصية تعتمد على أحدث صيد اليوم. يسمح الإعداد الحميم بتفاعل رائع مع الطهاة. الأسعار في الطرف الأعلى عند $$$.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "أومكاس",
           "klook_query": "Skippa reservation"
         },
@@ -946,15 +961,15 @@
           "description": "يقدم بانوك طعامًا مريحًا كنديًا مع لمسة عصرية، حيث يحتوي على قائمة تبرز المكونات المحلية. الجو دافئ ومرحب، مما يجعله مثاليًا لوجبة مريحة. جرب دجاجهم المقلي الشهير والبسكويت المنزلي. تتراوح الأطباق الرئيسية عادة من $$ إلى $$$.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "دجاج مقلي",
           "klook_query": "Bannock restaurant booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "টরন্টোর সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
-      "seo_description": "টরন্টোর সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার — বুকিং লিঙ্ক সহ।",
+      "seo_title": "টরন্টোর সেরা ১০ খাবার ২০২৬ — অবশ্যই ট্রাই করতে হবে",
+      "seo_description": "আপনার সময় বাঁচান এবং সঠিক রেস্তোরাঁ খুঁজে পান। Klook বুকিং লিঙ্ক সহ স্থানীয় প্রিয় খাবার আবিষ্কার করুন। এখনই আপনার খাবারের পরিকল্পনা করুন!",
       "page_intro": "টরন্টো একটি প্রাণবন্ত খাদ্য কেন্দ্র যা বিভিন্ন স্বাদ এবং সংস্কৃতিকে প্রদর্শন করে। ব্যস্ত স্ট্রিট ফুড বিক্রেতাদের থেকে শুরু করে উচ্চ-মানের খাবার প্রতিষ্ঠানে, শহরটি প্রতিটি স্বাদের জন্য কিছু না কিছু প্রদান করে। স্থানীয় বিশেষত্ব এবং আন্তর্জাতিক রান্নার অনুসন্ধান করুন যা টরন্টোর বহুসাংস্কৃতিক পরিচয়কে প্রতিফলিত করে।",
       "items": [
         {
@@ -964,7 +979,7 @@
           "description": "সেন্ট লরেন্স মার্কেট খাদ্য প্রেমীদের জন্য একটি আবশ্যক স্থান, যেখানে তাজা পণ্য, হস্তশিল্পের পণ্য এবং সুস্বাদু প্রস্তুত খাবার বিক্রির জন্য বিভিন্ন বিক্রেতা রয়েছে। ক্যারোসেল বেকারিতে বিখ্যাত পিয়ামেল বেকন স্যান্ডউইচ চেষ্টা করুন। বাজারের একটি প্রাণবন্ত পরিবেশ রয়েছে এবং এটি স্থানীয় এবং পর্যটকদের জন্য একটি নিখুঁত স্থান। দাম পরিবর্তিত হয়, তবে আপনি দুর্দান্ত বাজেটের বিকল্পগুলি এবং গরম খাবারও খুঁজে পেতে পারেন।",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "পিমিল বেকন স্যান্ডউইচ",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -975,7 +990,7 @@
           "description": "বারো একটি প্রাণবন্ত ল্যাটিন আমেরিকান রেস্তোরাঁ যা রঙিন খাবার এবং প্রাণবন্ত পরিবেশের সাথে একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে। তাদের মেনুতে বিভিন্ন ভাগযোগ্য প্লেট রয়েছে, যা এটিকে গোষ্ঠীর জন্য আদর্শ করে তোলে। গ্রিলড অক্টোপাস এবং ট্রেস লেচেস কেক অবশ্যই চেষ্টা করতে হবে। একটি পূর্ণ খাবারের জন্য প্রায় $$ খরচ করার প্রত্যাশা করুন।",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "গ্রিলড অক্টোপাস",
           "klook_query": "Baro restaurant booking"
         },
@@ -986,7 +1001,7 @@
           "description": "ডিস্টিলারি ডিস্ট্রিক্ট একটি মনোরম পদচারী এলাকা যা বুটিক দোকান, গ্যালারি এবং রেস্তোরাঁর সাথে পূর্ণ। গরম মাসগুলিতে, খাদ্য বিক্রেতা এবং পপ-আপ বাজার স্থানীয় খাবার এবং শিল্প পানীয়গুলিকে তুলে ধরে। আর্টিজিনাল স্ন্যাকস এবং পানীয় উপভোগ করার সময় এলাকাটি অন্বেষণ করুন। পরিবেশ প্রাণবন্ত এবং আরামদায়ক হাঁটার জন্য একদম ঠিক।",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "ক্রাফট বিয়ার",
           "klook_query": "Distillery District food tour"
         },
@@ -997,7 +1012,7 @@
           "description": "কিনটন রামেন তার সমৃদ্ধ, স্বাদযুক্ত রামেন বোলের জন্য বিখ্যাত এবং অনানুষ্ঠানিক খাবারের পরিবেশের জন্য পরিচিত। আপনার বোলটি কাস্টমাইজ করার জন্য বিভিন্ন ব্রথ এবং টপিং থেকে বেছে নিন। পাঁজর এবং মশলাদার মিসো রামেন নিয়মিতদের মধ্যে প্রিয়। আপনার পছন্দ অনুসারে দাম $$ থেকে $$$ এর মধ্যে পরিবর্তিত হয়।",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "স্পাইসি মিসো রামেন",
           "klook_query": "Kinton Ramen booking"
         },
@@ -1008,7 +1023,7 @@
           "description": "পাউটিনি'স হাউস অফ পাউটিন শহরে সেরা পাউটিনের কিছু পরিবেশন করে, যা একটি আদর্শ কানাডিয়ান খাবার। আপনার ফ্রাই, পনিরের কর্ড এবং গ্রেভি কাস্টমাইজ করতে বিভিন্ন টপিং থেকে বেছে নিন। অনানুষ্ঠানিক পরিবেশ এটিকে দ্রুত নাশতার জন্য একটি দুর্দান্ত স্থান করে তোলে। দাম প্রায় $ খুব যুক্তিসঙ্গত।",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "ক্লাসিক পাউটিন",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -1019,7 +1034,7 @@
           "description": "সেভেন লাইভস টাকোস তাদের তাজা এবং স্বাদযুক্ত টাকোর জন্য বিখ্যাত। কেনসিংটন মার্কেটের মধ্যে অবস্থিত, এই প্রাণবন্ত স্থানটি তাদের বায়া-স্টাইলের মাছের টাকো এবং অনন্য সালসার জন্য পরিচিত। অনানুষ্ঠানিক পরিবেশ স্থানীয় এবং দর্শকদের উভয়কেই আকৃষ্ট করে, যা এটিকে একটি প্রাণবন্ত খাবারের অভিজ্ঞতা তৈরি করে। প্রায় $$ ব্যয় করার প্রত্যাশা করুন।",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "বাহা ফিশ টাকো",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -1030,7 +1045,7 @@
           "description": "স্কিপ্পা একটি অবিস্মরণীয় সুশির অভিজ্ঞতা প্রদান করে যা গুণমানের উপকরণ এবং ঐতিহ্যগত প্রযুক্তিতে ফোকাস করে। ওমাকাসে মেনু একটি হাইলাইট, যেখানে শেফরা দিনের সবচেয়ে তাজা মাছের উপর ভিত্তি করে একটি ব্যক্তিগত খাবার তৈরি করেন। ঘনিষ্ঠ পরিবেশ শেফদের সাথে দুর্দান্ত ইন্টারঅ্যাকশন করার অনুমতি দেয়। দাম $$$ এর উচ্চ প্রান্তে।",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "ওমাকাসে",
           "klook_query": "Skippa reservation"
         },
@@ -1041,14 +1056,14 @@
           "description": "বানক আধুনিক মোড় সহ কানাডিয়ান আরামদায়ক খাবার প্রদান করে, স্থানীয় উপকরণকে হাইলাইট করা একটি মেনু বৈশিষ্ট্য। পরিবেশ উষ্ণ এবং আমন্ত্রণমূলক, যা একটি আরামদায়ক খাবারের জন্য আদর্শ। তাদের বিখ্যাত ভাজা মুরগি এবং বাড়িতে তৈরি বিস্কুট চেষ্টা করুন। প্রধান ডিশ সাধারণত $$ থেকে $$$ এর মধ্যে থাকে।",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "ফ্রাইড চিকেন",
           "klook_query": "Bannock restaurant booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Торонто 2026 — Лучшие рестораны и гид по уличной еде",
+      "seo_title": "Топ блюд Торонто 2026 — Рестораны и уличная еда",
       "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных специалитетах в Торонто. От бюджетных закусок до изысканных ужинов — со ссылками для бронирования.",
       "page_intro": "Торонто — это яркий кулинарный центр, демонстрирующий разнообразие вкусов и культур. От шумных уличных торговцев до ресторанов высокой кухни, город предлагает что-то на любой вкус. Исследуйте местные специалитеты и международную кухню, отражающие многокультурную идентичность Торонто.",
       "items": [
@@ -1059,7 +1074,7 @@
           "description": "Рынок Сент-Лоренс — обязательное место для любителей еды, где представлено множество продавцов, предлагающих свежие продукты, ремесленные изделия и вкусные готовые блюда. Обязательно попробуйте знаменитый сэндвич с беконом пимил в Carousel Bakery. У рынка живая атмосфера, и это идеальное место как для местных жителей, так и для туристов. Цены варьируются, но вы можете найти отличные бюджетные варианты, а также гурманские угощения.",
           "image_keyword": "St. Lawrence Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Сэндвич с беконом из гороха",
           "klook_query": "St. Lawrence Market food tour"
         },
@@ -1070,7 +1085,7 @@
           "description": "Баро — это яркий ресторан латиноамериканской кухни, который предлагает уникальный гастрономический опыт с его красочными блюдами и живой атмосферой. Меню включает разнообразные блюда на компанию, что делает его идеальным для групп. Обжаренный осьминог и торт tres leches — это то, что обязательно нужно попробовать. Ожидайте потратить около $$ на сытный обед.",
           "image_keyword": "Baro restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Грильованный осьминог",
           "klook_query": "Baro restaurant booking"
         },
@@ -1081,7 +1096,7 @@
           "description": "Район дистиллярии — это очаровательная пешеходная зона, заполненная бутиковыми магазинами, галереями и ресторанами. В теплые месяцы уличные торговцы и поп-ап рынки подчеркивают местную кухню и ремесленные напитки. Исследуйте этот район, наслаждаясь ремесленными закусками и напитками. Атмосфера живая и идеально подходит для неспешной прогулки.",
           "image_keyword": "Distillery District food",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Крафтовое пиво",
           "klook_query": "Distillery District food tour"
         },
@@ -1092,7 +1107,7 @@
           "description": "Кинтон Рамен славится своими насыщенными и ароматными раменами и непринужденной атмосферой. Выбирайте из множества бульонов и топпингов, чтобы настроить свою порцию. Свинина и острый рамен с мисо — это любимые блюда постоянных клиентов. Цены варьируются от $$ до $$$ в зависимости от вашего выбора.",
           "image_keyword": "Kinton Ramen",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "CA$15–30",
           "must_try": "Острая рамен с мисо",
           "klook_query": "Kinton Ramen booking"
         },
@@ -1103,7 +1118,7 @@
           "description": "Дом Поутини предлагает некоторые из лучших путин в городе, классическое канадское блюдо. Выбирайте из разнообразных топпингов, чтобы настроить свои картофель фри, сырные творожки и соус. Непринужденная атмосфера делает это отличным местом для быстрого перекуса. Цены очень разумные — около $.",
           "image_keyword": "Poutini's House of Poutine",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "CA$5–10",
           "must_try": "Классическая путин",
           "klook_query": "Poutini's House of Poutine experience"
         },
@@ -1114,7 +1129,7 @@
           "description": "Такос Семь Жизней знаменит своими свежими и вкусными такос. Расположенный на рынке Кенсингтон, это яркое заведение известно своими такос из рыбы в стиле Баха и уникальными сальсами. Непринужденная атмосфера привлекает как местных жителей, так и посетителей, что делает это место живым и интересным. Ожидайте потратить около $$.",
           "image_keyword": "Seven Lives Tacos",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "CA$10–20",
           "must_try": "Тако с рыбой по-Баеха",
           "klook_query": "Seven Lives Tacos booking"
         },
@@ -1125,7 +1140,7 @@
           "description": "Скиппа предлагает незабываемый опыт суши с акцентом на качественные ингредиенты и традиционные техники. Меню омакасе является его ярким моментом, где шеф-повара готовят персонализированное блюдо на основе самого свежего улова дня. Уютная атмосфера позволяет хорошо взаимодействовать с шеф-поварами. Цены находятся на высоком уровне — $$$.",
           "image_keyword": "Skippa restaurant",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "CA$40–70",
           "must_try": "Омакосе",
           "klook_query": "Skippa reservation"
         },
@@ -1136,7 +1151,7 @@
           "description": "Баннок предлагает канадскую комфортную еду с современным акцентом, предлагая меню, подчеркивающее местные ингредиенты. Атмосфера теплая и уютная, идеально подходящая для комфортного ужина. Обязательно попробуйте их знаменитую жареную курицу и домашние печенья. Основные блюда обычно стоят от $$ до $$$.",
           "image_keyword": "Bannock restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "CA$20–40",
           "must_try": "Жареная курица",
           "klook_query": "Bannock restaurant booking"
         }

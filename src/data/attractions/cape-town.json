@@ -2,9 +2,9 @@
   "city_slug": "cape-town",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Cape Town 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Cape Town. Find opening hours, ticket prices and booking links for Cape Town's top landmarks.",
-      "page_intro": "Cape Town is a vibrant city known for its stunning landscapes, rich history, and diverse culture. Nestled between the iconic Table Mountain and the Atlantic Ocean, it offers a plethora of attractions for every kind of traveler. From breathtaking views to historical landmarks, Cape Town promises an unforgettable experience.",
+      "seo_title": "8 Must-See Attractions in Cape Town 2026 - Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Cape Town's best attractions. Book your adventure with Klook today!",
+      "page_intro": "Discover the magic of Cape Town, where breathtaking views of Table Mountain meet the rugged beauty of the Cape of Good Hope. Explore historical treasures like Robben Island and enjoy the vibrant culture that fills the city. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "table-mountain",
@@ -102,12 +102,16 @@
           "best_time": "afternoon",
           "klook_query": "V&A Waterfront activities"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Cape Town?",
+      "faq_q2": "Do I need tickets for attractions in Cape Town?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Cape Town require tickets for entry. You can conveniently purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "開普敦2026年最佳景點 - 票務、提示與完整指南",
-      "seo_description": "探索開普敦最好的景點。查找開放時間、票價和開普敦主要地標的預訂鏈接。",
-      "page_intro": "開普敦是一座充滿活力的城市，以壯麗的風景、豐富的歷史和多樣的文化而聞名。它位於標誌性的桌山和大西洋之間，為每一類型的旅客提供了許多景點。從壯觀的景色到歷史地標，開普敦保證帶來難忘的體驗。",
+      "seo_title": "開普敦2026年8大必看景點 - 完整指南與票務",
+      "seo_description": "探索開普敦的最佳景點，獲取票務、開放時間及內部提示，立即透過Klook預訂，開始您的冒險！",
+      "page_intro": "探索開普敦的魅力，這裡擁有壯觀的桌山、壯麗的好望角和歷史悠久的羅本島等著名地標。無論是自然奇觀還是文化瑰寶，開普敦都將為您帶來難忘的回憶。立即透過Klook預訂，享受無需排隊的便利！",
       "items": [
         {
           "id": "table-mountain",
@@ -205,12 +209,16 @@
           "best_time": "afternoon",
           "klook_query": "V&A Waterfront activities"
         }
-      ]
+      ],
+      "faq_q1": "開普敦的熱門景點有哪些？",
+      "faq_q2": "在開普敦的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，您可以通過Klook輕鬆購買門票，避免排隊等候。"
     },
     "ja": {
-      "seo_title": "ケープタウンのトップアトラクション 2026 - チケット、ヒント、完全ガイド",
-      "seo_description": "ケープタウンの最高のアトラクションを探索しましょう。ケープタウンの主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "ケープタウンは、美しい風景、豊かな歴史、多様な文化で知られる活気ある都市です。アイコニックなテーブルマウンテンと大西洋の間に位置し、あらゆる種類の旅行者のための多くのアトラクションを提供します。息をのむような景色から歴史的なランドマークまで、ケープタウンは忘れられない体験を約束します。",
+      "seo_title": "ケープタウンの2026年必見アトラクション8選 - 完全ガイド",
+      "seo_description": "チケット、営業時間、インサイダーのヒントをチェック。Klookで簡単予約して、ケープタウンの魅力を満喫しましょう！",
+      "page_intro": "ケープタウンは、息をのむような自然の美しさと豊かな文化が融合した魅力的な都市です。テーブルマウンテンやロッベン島などのアイコニックなランドマークが待っています。行列を避けて、Klookで簡単に予約して素晴らしい体験をお楽しみください。",
       "items": [
         {
           "id": "table-mountain",
@@ -308,12 +316,16 @@
           "best_time": "afternoon",
           "klook_query": "V&A Waterfront activities"
         }
-      ]
+      ],
+      "faq_q1": "ケープタウンの主な観光名所は何ですか？",
+      "faq_q2": "ケープタウンの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光名所には入場チケットが必要です。Klookで事前にチケットを購入すると、スムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "케이프타운의 주요 명소 2026 - 티켓, 팁 및 완벽한 가이드",
-      "seo_description": "케이프타운 최고의 명소를 탐험하세요. 케이프타운 주요 랜드마크의 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "케이프타운은 멋진 풍경, 풍부한 역사, 다양한 문화로 유명한 활기찬 도시입니다. 상징적인 테이블 마운틴과 대서양 사이에 위치하여 모든 여행자에게 다양한 명소를 제공합니다. 숨막히는 전망부터 역사적인 랜드마크까지, 케이프타운은 잊을 수 없는 경험을 약속합니다.",
+      "seo_title": "2026 케이프타운의 8대 필수 명소 - 완벽 가이드",
+      "seo_description": "티켓, 운영 시간, 숨겨진 팁을 확인하고 Klook에서 예약하세요. 케이프타운의 매력을 발견해 보세요!",
+      "page_intro": "케이프타운은 환상적인 풍경과 다채로운 문화가 어우러진 도시로, 테이블 마운틴, 좋은 희망곶, 로벤섬과 같은 상징적인 명소들이 여러분을 기다립니다. 잊지 못할 경험을 위해 Klook에서 미리 예약하고 기다림 없이 즐기세요!",
       "items": [
         {
           "id": "table-mountain",
@@ -411,12 +423,16 @@
           "best_time": "afternoon",
           "klook_query": "V&A Waterfront activities"
         }
-      ]
+      ],
+      "faq_q1": "케이프타운의 주요 명소는 무엇인가요?",
+      "faq_q2": "케이프타운의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 반드시 방문해야 할 명소입니다.",
+      "faq_a2": "대부분의 명소는 입장권이 필요합니다. Klook을 통해 편리하게 미리 예약할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Principales attractions de Cape Town 2026 - Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Cape Town. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principales attractions de Cape Town.",
-      "page_intro": "Cape Town est une ville dynamique connue pour ses paysages époustouflants, son histoire riche et sa culture diversifiée. Nichée entre la célèbre Table Montagne et l'océan Atlantique, elle offre une multitude d'attractions pour tous les types de voyageurs. Des vues à couper le souffle aux monuments historiques, Cape Town promet une expérience inoubliable.",
+      "seo_title": "Top 8 Attractions à Cape Town 2026 - Guide Complet",
+      "seo_description": "Explorez les horaires, prix et conseils pour les meilleures attractions de Cape Town. Réservez vos billets sur Klook dès maintenant!",
+      "page_intro": "Découvrez Cape Town, une ville envoûtante où la majestueuse Table Montagne rencontre l'océan Atlantique. Des sites emblématiques comme le Cap de Bonne-Espérance et l'île de Robben vous attendent. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "table-mountain",
@@ -514,11 +530,15 @@
           "best_time": "afternoon",
           "klook_query": "V&A Waterfront activities"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Cape Town ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Cape Town ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé de réserver vos billets à l'avance pour éviter les déceptions. Vous pouvez facilement acheter vos billets sur Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones en Ciudad del Cabo 2026 - Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en Ciudad del Cabo. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Ciudad del Cabo.",
+      "seo_title": "8 Mejores Atracciones en Ciudad del Cabo 2026",
+      "seo_description": "Descubre horarios, precios y consejos para las top atracciones de Ciudad del Cabo. Reserva fácil con Klook y empieza tu aventura hoy.",
       "page_intro": "Ciudad del Cabo es una ciudad vibrante conocida por sus impresionantes paisajes, rica historia y cultura diversa. Ubicada entre la icónica Montaña de la Mesa y el Océano Atlántico, ofrece una plétora de atracciones para todo tipo de viajero. Desde vistas impresionantes hasta monumentos históricos, Ciudad del Cabo promete una experiencia inolvidable.",
       "items": [
         {
@@ -620,9 +640,9 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Cape Town 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "Top 5 Atraksi Cape Town 2026 — Panduan Terbaik",
       "seo_description": "Explore the best attractions in Cape Town. Find opening hours, ticket prices and booking links for Cape Town's top landmarks.",
-      "page_intro": "Cape Town is a vibrant city known for its stunning landscapes, rich history, and diverse culture. Nestled between the iconic Table Mountain and the Atlantic Ocean, it offers a plethora of attractions for every kind of traveler. From breathtaking views to historical landmarks, Cape Town promises an unforgettable experience.",
+      "page_intro": "Rasakan pesona Cape Town, kota yang memikat dengan keindahan alamnya dan sejarah yang kaya. Dari keanggunan Gunung Table hingga keajaiban Tanjung Harapan, setiap sudutnya menawarkan pengalaman tak terlupakan. Pesan tiket Anda dengan mudah melalui Klook!",
       "items": [
         {
           "id": "table-mountain",
@@ -720,12 +740,16 @@
           "best_time": "afternoon",
           "klook_query": "V&A Waterfront activities"
         }
-      ]
+      ],
+      "faq_q1": "Apa saja atraksi utama di Cape Town?",
+      "faq_q2": "Apakah saya perlu membeli tiket untuk atraksi di Cape Town?",
+      "faq_a1_suffix": " adalah atraksi yang wajib dikunjungi.",
+      "faq_a2": "Ya, sebagian besar atraksi memerlukan tiket masuk. Anda bisa membeli tiket dengan mudah di Klook untuk menghindari antrean."
     },
     "hi": {
       "seo_title": "केप टाउन में शीर्ष आकर्षण 2026 - टिकट, टिप्स और पूर्ण गाइड",
       "seo_description": "केप टाउन के सबसे अच्छे आकर्षणों का अन्वेषण करें। केप टाउन के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
-      "page_intro": "केप टाउन एक जीवंत शहर है जो अपनी आश्चर्यजनक परिदृश्यों, समृद्ध इतिहास और विविध संस्कृति के लिए जाना जाता है। यह प्रसिद्ध टेबल माउंटेन और अटलांटिक महासागर के बीच स्थित है, जो प्रत्येक प्रकार के यात्री के लिए आकर्षण की एक विस्तृत श्रृंखला प्रदान करता है। श्वसनकारी दृश्यों से लेकर ऐतिहासिक स्थलों तक, केप टाउन एक अविस्मरणीय अनुभव का वादा करता है।",
+      "page_intro": "केप टाउन एक अद्भुत गंतव्य है जो अपने शानदार टेबल माउंटेन, ऐतिहासिक रोबेन द्वीप और प्राकृतिक सौंदर्य के लिए प्रसिद्ध है। यहां के अनोखे आकर्षण और सांस्कृतिक अनुभव हर यात्री को मंत्रमुग्ध कर देंगे। अपनी यात्रा को सरल बनाएं और Klook के माध्यम से बुकिंग करें।",
       "items": [
         {
           "id": "table-mountain",
@@ -823,10 +847,14 @@
           "best_time": "afternoon",
           "klook_query": "V&A Waterfront activities"
         }
-      ]
+      ],
+      "faq_q1": "केप टाउन में शीर्ष आकर्षण क्या हैं?",
+      "faq_q2": "क्या मुझे केप टाउन में आकर्षणों के लिए टिकट की आवश्यकता है?",
+      "faq_a1_suffix": " टेबल माउंटेन, केप ऑफ गुड होप और रोबेन द्वीप जैसी जगहें अवश्य देखने योग्य हैं।",
+      "faq_a2": "हाँ, अधिकांश आकर्षणों के लिए टिकट की आवश्यकता होती है। Klook के माध्यम से आसानी से टिकट बुक करें और अपनी यात्रा का आनंद लें।"
     },
     "pt": {
-      "seo_title": "Principais Atrações em Cape Town 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Cape Town 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Cape Town. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Cape Town.",
       "page_intro": "Cape Town é uma cidade vibrante conhecida por suas paisagens deslumbrantes, rica história e cultura diversificada. Aninhada entre a icônica Table Mountain e o Oceano Atlântico, oferece uma infinidade de atrações para todos os tipos de viajantes. Desde vistas de tirar o fôlego até marcos históricos, Cape Town promete uma experiência inesquecível.",
       "items": [
@@ -929,7 +957,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم في كيب تاون 2026 - التذاكر والنصائح والدليل الشامل",
+      "seo_title": "أفضل 5 معالم في كيب تاون 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم في كيب تاون. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز للمعالم السياحية الرئيسية في كيب تاون.",
       "page_intro": "كيب تاون مدينة نابضة بالحياة معروفة بمناظرها الطبيعية الخلابة وتاريخها الغني وثقافتها المتنوعة. تقع بين جبل الطاولة الشهير والمحيط الأطلسي، وتقدم مجموعة من المعالم السياحية لكل نوع من المسافرين. من المناظر الخلابة إلى المعالم التاريخية، تعد كيب تاون بتجربة لا تُنسى.",
       "items": [
@@ -1032,7 +1060,7 @@
       ]
     },
     "bn": {
-      "seo_title": "কেপ টাউন এর শীর্ষ আকর্ষণ 2026 - টিকিট, টিপস ও সম্পূর্ণ গাইড",
+      "seo_title": "কেপ টাউন এর শীর্ষ ১০ আকর্ষণ ২০২৬ - সম্পূর্ণ গাইড",
       "seo_description": "কেপ টাউনের সেরা আকর্ষণগুলি অন্বেষণ করুন। কেপ টাউনের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
       "page_intro": "কেপ টাউন একটি জীবন্ত শহর যা তার মনোরম প্রাকৃতিক দৃশ্য, সমৃদ্ধ ইতিহাস এবং বৈচিত্র্যময় সংস্কৃতির জন্য পরিচিত। আইকনিক টেবিল মাউন্টেন এবং আটলান্টিক মহাসাগরের মধ্যে অবস্থিত, এটি প্রতিটি ধরনের ভ্রমণকারীর জন্য আকর্ষণের একটি বিস্তৃত পরিসর অফার করে। মন্ত্রমুগ্ধকর দৃশ্য থেকে ঐতিহাসিক স্থাপনা পর্যন্ত, কেপ টাউন একটি অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দেয়।",
       "items": [
@@ -1135,7 +1163,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Кейптауна 2026 — Билеты, Советы и Полное руководство",
+      "seo_title": "Лучшие достопримечательности Кейптауна 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Кейптауна. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Кейптауна.",
       "page_intro": "Кейптаун — это яркий город, известный своими потрясающими пейзажами, богатой историей и разнообразной культурой. Уютно расположенный между знаменитой горой Стол и Атлантическим океаном, он предлагает множество достопримечательностей для всех типов путешественников. От захватывающих видов до исторических памятников, Кейптаун обещает незабываемые впечатления.",
       "items": [

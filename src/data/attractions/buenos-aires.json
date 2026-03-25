@@ -2,9 +2,9 @@
   "city_slug": "buenos-aires",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Buenos Aires 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Buenos Aires. Find opening hours, ticket prices and booking links for Buenos Aires's top landmarks.",
-      "page_intro": "Buenos Aires, the vibrant capital of Argentina, is a city rich in culture, history, and passion. From the colorful streets of La Boca to the elegant avenues of Recoleta, there’s something for every traveler. Enjoy world-class museums, stunning architecture, and the lively atmosphere of tango dancing in this captivating city.",
+      "seo_title": "Top 8 Must-See Buenos Aires Attractions 2026",
+      "seo_description": "Discover top attractions like Plaza de Mayo & MALBA. Get tickets, opening hours, and insider tips. Book now with Klook for an unforgettable trip!",
+      "page_intro": "Dive into the enchanting world of Buenos Aires, where every corner reveals iconic landmarks like Plaza de Mayo and Teatro Colón, alongside hidden gems waiting to be discovered. Experience the city's vibrant culture and history firsthand—skip the lines and book via Klook for a seamless adventure.",
       "items": [
         {
           "id": "plaza-de-mayo",
@@ -102,12 +102,16 @@
           "best_time": "afternoon",
           "klook_query": "San Telmo Market tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Buenos Aires?",
+      "faq_q2": "Do I need tickets for attractions in Buenos Aires?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions require tickets for entry. To make your visit easier, consider booking through Klook for convenient access."
     },
     "zh": {
-      "seo_title": "2026年布宜诺斯艾利斯最佳景点 — 门票、提示与完整指南",
-      "seo_description": "探索布宜诺斯艾利斯最好的景点。查找布宜诺斯艾利斯顶级地标的开放时间、票价和预订链接。",
-      "page_intro": "布宜诺斯艾利斯，阿根廷充满活力的首都，是一座富含文化、历史和激情的城市。从色彩斑斓的拉博卡街区到优雅的雷可莱塔大街，这里有适合每位旅行者的景点。享受世界级的博物馆、令人惊叹的建筑和热情洋溢的探戈舞蹈氛围，尽情沉醉于这个迷人的城市。",
+      "seo_title": "2026年布宜诺斯艾利斯8大必游景点 — 完整指南",
+      "seo_description": "获取布宜诺斯艾利斯顶级景点的票价、开放时间与内部提示，立即通过Klook预订，开启你的旅行冒险！",
+      "page_intro": "探索布宜诺斯艾利斯的魅力，這裡有壯麗的普拉薩德馬約廣場、令人驚嘆的科隆劇院，以及充滿拉丁美洲藝術的MALBA博物館。透過Klook預訂，輕鬆避開排隊，盡情享受這座城市的精華！",
       "items": [
         {
           "id": "plaza-de-mayo",
@@ -205,12 +209,16 @@
           "best_time": "afternoon",
           "klook_query": "San Telmo Market tickets"
         }
-      ]
+      ],
+      "faq_q1": "布宜诺斯艾利斯有哪些熱門景點？",
+      "faq_q2": "在布宜诺斯艾利斯參觀景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，大多數景點都需要購票。建議您透過Klook提前購票，以便節省時間和避免排隊。"
     },
     "ja": {
-      "seo_title": "2026年ブエノスアイレスのトップ観光地 — チケット、ヒント、完全ガイド",
-      "seo_description": "ブエノスアイレスの最高の観光名所を探ろう。ブエノスアイレスの主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "ブエノスアイレスは、アルゼンチンの活気ある首都で、文化、歴史、情熱に満ちた街です。ラ・ボカのカラフルな通りからレコレータのエレガントな大通りまで、旅行者にとって魅力的な何かがあります。世界クラスの博物館、壮大な建築、そしてこの魅力的な街でのタンゴダンスの賑やかな雰囲気を楽しんでください。",
+      "seo_title": "2026年ブエノスアイレスの必見観光地8選 — 完全ガイド",
+      "seo_description": "ブエノスアイレスの観光名所のチケット、営業時間、インサイダー情報をチェック。Klookで予約して冒険を始めよう！",
+      "page_intro": "ブエノスアイレスは、魅力的な文化と歴史が息づく街です。プラザ・デ・マヨ、テアトロ・コロン、そしてMALBAなどのアイコニックな名所を巡りながら、アルゼンチンの情熱を感じてください。行列をスキップして、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "plaza-de-mayo",
@@ -308,12 +316,16 @@
           "best_time": "afternoon",
           "klook_query": "San Telmo Market tickets"
         }
-      ]
+      ],
+      "faq_q1": "ブエノスアイレスの主な観光名所は何ですか？",
+      "faq_q2": "ブエノスアイレスの観光名所には入場券が必要ですか？",
+      "faq_a1_suffix": "は必見の観光スポットです。",
+      "faq_a2": "はい、多くの観光名所には入場券が必要です。Klookを利用すれば、事前にチケットを簡単に予約できます。"
     },
     "ko": {
-      "seo_title": "2026년 부에노스아이레스 최고의 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "부에노스아이레스의 최고의 명소를 탐험하세요. 부에노스아이레스 주요 랜드마크의 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "부에노스아이레스는 아르헨티나의 활기찬 수도로, 문화, 역사 및 열정이 가득한 도시입니다. 다채로운 라 보카 거리에서 우아한 레콜레타 거리까지, 모든 여행자를 위한 매력이 있습니다. 세계적 수준의 박물관, 놀라운 건축물, 그리고 이 매력적인 도시에서의 탱고 춤의 생동감 넘치는 분위기를 즐겨보세요.",
+      "seo_title": "2026년 부에노스아이레스 최고의 8대 명소 — 완벽 가이드",
+      "seo_description": "부에노스아이레스의 8대 명소를 탐험하세요! 운영 시간, 티켓 가격, Klook 예약 링크를 확인하고 지금 바로 여행 계획을 세우세요.",
+      "page_intro": "부에노스아이레스는 문화와 역사가 어우러진 매력적인 도시로, 플라자 데 마요와 테아트로 콜론, 그리고 현대 미술의 보물창고인 MALBA를 탐험해보세요. 이곳의 독특한 매력을 경험하고 싶다면 Klook을 통해 간편하게 예약하세요.",
       "items": [
         {
           "id": "plaza-de-mayo",
@@ -411,12 +423,16 @@
           "best_time": "afternoon",
           "klook_query": "San Telmo Market tickets"
         }
-      ]
+      ],
+      "faq_q1": "부에노스아이레스의 주요 관광지는 무엇인가요?",
+      "faq_q2": "부에노스아이레스의 관광지에는 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광지는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리하게 입장할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Buenos Aires 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Découvrez les meilleures attractions de Buenos Aires. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Buenos Aires.",
-      "page_intro": "Buenos Aires, la capitale vibrante de l'Argentine, est une ville riche en culture, histoire et passion. Des rues colorées de La Boca aux avenues élégantes de Recoleta, il y en a pour tous les voyageurs. Profitez de musées de classe mondiale, d'une architecture époustouflante et de l'atmosphère animée de la danse tango dans cette ville captivante.",
+      "seo_title": "Top 8 Attractions à Buenos Aires 2026 - Guide",
+      "seo_description": "Découvrez les horaires, tarifs et conseils pour les meilleures attractions de Buenos Aires. Réservez vos billets sur Klook dès maintenant!",
+      "page_intro": "Découvrez Buenos Aires, une métropole où chaque coin de rue révèle un trésor culturel. Des majestueux Teatro Colón aux historiques Plaza de Mayo, chaque visite est une expérience inoubliable. Évitez les files d'attente et réservez vos billets via Klook.",
       "items": [
         {
           "id": "plaza-de-mayo",
@@ -514,11 +530,15 @@
           "best_time": "afternoon",
           "klook_query": "San Telmo Market tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Buenos Aires ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Buenos Aires ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les files d'attente. Vous pouvez les réserver facilement sur Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Buenos Aires 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Buenos Aires. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Buenos Aires.",
+      "seo_title": "10 Atracciones Top en Buenos Aires 2026",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Buenos Aires. Reserva en Klook y vive la experiencia al máximo.",
       "page_intro": "Buenos Aires, la vibrante capital de Argentina, es una ciudad rica en cultura, historia y pasión. Desde las coloridas calles de La Boca hasta las elegantes avenidas de Recoleta, hay algo para cada viajero. Disfruta de museos de clase mundial, impresionante arquitectura y la animada atmósfera del baile de tango en esta cautivadora ciudad.",
       "items": [
         {
@@ -620,7 +640,7 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Buenos Aires 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "10 Atraksi Terbaik di Buenos Aires 2026",
       "seo_description": "Explore the best attractions in Buenos Aires. Find opening hours, ticket prices and booking links for Buenos Aires's top landmarks.",
       "page_intro": "Buenos Aires, the vibrant capital of Argentina, is a city rich in culture, history, and passion. From the colorful streets of La Boca to the elegant avenues of Recoleta, there’s something for every traveler. Enjoy world-class museums, stunning architecture, and the lively atmosphere of tango dancing in this captivating city.",
       "items": [
@@ -723,7 +743,7 @@
       ]
     },
     "hi": {
-      "seo_title": "ब्यूनस आयर्स में शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण मार्गदर्शिका",
+      "seo_title": "ब्यूनस आयर्स के 10 शीर्ष आकर्षण 2026 - मार्गदर्शिका",
       "seo_description": "ब्यूनस आयर्स के सबसे अच्छे आकर्षणों की खोज करें। ब्यूनस आयर्स के प्रमुख स्थलों के लिए खुलने के घंटे, टिकट की कीमतें और बुकिंग लिंक प्राप्त करें।",
       "page_intro": "ब्यूनस आयर्स, अर्जेंटीना की जीवंत राजधानी, एक ऐसा शहर है जो संस्कृति, इतिहास और जुनून में समृद्ध है। ला बोका की रंगीन सड़कों से लेकर रेकोलेटा की सुरुचिपूर्ण सड़कों तक, हर यात्री के लिए कुछ न कुछ है। विश्व स्तरीय संग्रहालयों, अद्भुत वास्तुकला और इस आकर्षक शहर में टेंगो नृत्य के जीवंत माहौल का आनंद लें।",
       "items": [
@@ -826,9 +846,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Buenos Aires 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Buenos Aires 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Buenos Aires. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Buenos Aires.",
-      "page_intro": "Buenos Aires, a vibrante capital da Argentina, é uma cidade rica em cultura, história e paixão. Desde as ruas coloridas de La Boca até as elegantes avenidas de Recoleta, há algo para cada viajante. Aproveite museus de classe mundial, deslumbrante arquitetura e a atmosfera animada da dança do tango nesta cidade cativante.",
+      "page_intro": "Descubra Buenos Aires, uma cidade que pulsa cultura e história em cada esquina! Explore a icônica Plaza de Mayo, o deslumbrante Teatro Colón e o fascinante MALBA. Evite filas e reserve suas entradas com a Klook.",
       "items": [
         {
           "id": "plaza-de-mayo",
@@ -926,10 +946,14 @@
           "best_time": "afternoon",
           "klook_query": "San Telmo Market tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Buenos Aires?",
+      "faq_q2": "Preciso de ingressos para as atrações em Buenos Aires?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, é recomendável comprar ingressos antecipadamente para garantir sua entrada. Use a Klook para facilitar sua reserva."
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في بوينس آيرس 2026 — التذاكر، النصائح والدليل الشامل",
+      "seo_title": "أفضل 10 معالم في بوينس آيرس 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في بوينس آيرس. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في بوينس آيرس.",
       "page_intro": "بوينس آيرس، العاصمة النابضة بالحياة للأرجنتين، هي مدينة غنية بالثقافة والتاريخ والشغف. من الشوارع الملونة في لا بوكا إلى الشوارع الأنيقة في ريكوليتا، هناك شيء لكل مسافر. استمتع بالمتاحف العالمية المستوى، والهندسة المعمارية الرائعة، والأجواء الحيوية لرقص التانغو في هذه المدينة الساحرة.",
       "items": [
@@ -1032,8 +1056,8 @@
       ]
     },
     "bn": {
-      "seo_title": "বুয়েনোস আইরেসের শীর্ষ আকর্ষণ 2026 — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "বুয়েনোস আইরেসের সেরা আকর্ষণগুলি অনুসন্ধান করুন। বুয়েনোস আইরেসের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "বুয়েনোস আইরেসের ৮টি শীর্ষ আকর্ষণ 2026 — সম্পূর্ণ গাইড",
+      "seo_description": "বুয়েনোস আইরেসের সেরা স্থানগুলোর টিকিট, খোলার সময় ও কৌশলগত টিপস জানুন। Klook থেকে বুকিং করুন এবং আপনার ভ্রমণ পরিকল্পনা শুরু করুন!",
       "page_intro": "বুয়েনোস আইরেস, আর্জেন্টিনার প্রাণবন্ত রাজধানী, একটি শহর যা সংস্কৃতি, ইতিহাস এবং আবেগে সমৃদ্ধ। লা বোকার রঙিন রাস্তা থেকে শুরু করে রেকোলেটার মার্জিত সড়ক পর্যন্ত, প্রতিটি ভ্রমণকারীর জন্য কিছু না কিছু রয়েছে। বিশ্বমানের জাদুঘর, চমত্কার স্থাপত্য এবং এই মন্ত্রমুগ্ধকর শহরে টেনগো নৃত্যের উজ্জ্বল পরিবেশ উপভোগ করুন।",
       "items": [
         {
@@ -1135,7 +1159,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ Attractions в Буэнос-Айресе 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ 10 Attractions в Буэнос-Айресе 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Буэнос-Айреса. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Буэнос-Айреса.",
       "page_intro": "Буэнос-Айрес, яркая столица Аргентины, — это город, богатый культурой, историей и страстью. От цветных улиц Ла Боки до элегантных проспектов Реколеты, здесь есть что-то для каждого путешественника. Наслаждайтесь музеями мирового уровня, потрясающей архитектурой и живой атмосферой танго в этом захватывающем городе.",
       "items": [

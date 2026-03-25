@@ -2,9 +2,9 @@
   "city_slug": "dubai",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Dubai 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Dubai. Find opening hours, ticket prices and booking links for Dubai's top landmarks.",
-      "page_intro": "Dubai is a bustling metropolis known for its modern architecture, luxury shopping, and vibrant nightlife. From the iconic Burj Khalifa to the serene beaches, Dubai offers a unique blend of cultural experiences and contemporary attractions. Whether you're seeking adventure or relaxation, there's something for everyone in this dynamic city.",
+      "seo_title": "8 Must-See Attractions in Dubai 2026 - Complete Guide",
+      "seo_description": "Discover Dubai's top attractions with tickets, hours, and insider tips. Book now on Klook for an unforgettable experience!",
+      "page_intro": "Dive into the dazzling world of Dubai, where the towering Burj Khalifa and the sprawling Dubai Mall await your exploration. Discover both iconic landmarks and hidden gems, all while skipping the lines by booking via Klook.",
       "items": [
         {
           "id": "burj-khalifa",
@@ -102,12 +102,16 @@
           "best_time": "anytime",
           "klook_query": "Sheikh Zayed Grand Mosque tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Dubai?",
+      "faq_q2": "Do I need tickets for attractions in Dubai?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Dubai require tickets for entry. You can conveniently purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年迪拜最佳景點 — 票務、技巧與完整指南",
-      "seo_description": "探索迪拜最佳景點。查找開放時間、票價和迪拜主要地標的預訂鏈接。",
-      "page_intro": "迪拜是一個繁忙的大都市，以其現代建築、奢華購物和充滿活力的夜生活而聞名。從標誌性的哈利法塔到靜謐的沙灘，迪拜提供獨特的文化體驗和當代景點。不論您是在尋求冒險還是放鬆，這個充滿活力的城市總有適合每個人的選擇。",
+      "seo_title": "2026年迪拜最佳景點 — 8大必看景點完整指南",
+      "seo_description": "獲取迪拜最佳景點的票務、開放時間及內幕秘訣，並透過Klook輕鬆預訂，立即計劃您的夢幻之旅！",
+      "page_intro": "探索迪拜的驚人魅力，從壯觀的哈利法塔到奢華的迪拜購物中心，再到迷人的迪拜噴泉，這裡的每一個角落都充滿驚喜。無論您是想享受刺激的冒險還是悠閒的時光，迪拜都能滿足您的需求。立即透過Klook預訂，輕鬆避開排隊人潮！",
       "items": [
         {
           "id": "burj-khalifa",
@@ -205,12 +209,16 @@
           "best_time": "anytime",
           "klook_query": "Sheikh Zayed Grand Mosque tour"
         }
-      ]
+      ],
+      "faq_q1": "迪拜的熱門景點有哪些？",
+      "faq_q2": "在迪拜的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必看的景點。",
+      "faq_a2": "是的，許多景點都需要購票。您可以透過Klook輕鬆購買門票，享受無憂的旅遊體驗。"
     },
     "ja": {
-      "seo_title": "2026年ドバイの主な観光名所 - チケット、ヒント、完全ガイド",
-      "seo_description": "ドバイの最高の観光名所を探検しましょう。営業時間、チケット価格、ドバイの主要なランドマークの予約リンクを見つけてください。",
-      "page_intro": "ドバイは、現代的な建築、豪華なショッピング、活気あるナイトライフで知られる賑やかな大都市です。象徴的なブルジュ・ハリファから静かなビーチまで、ドバイは文化体験と現代のアトラクションが独自に融合しています。冒険を求めている方もリラックスを求めている方も、このダイナミックな都市には誰にでも何かがあります。",
+      "seo_title": "2026年ドバイの必見観光名所 - 完全ガイドとチケット情報",
+      "seo_description": "ドバイの人気観光地のチケット、営業時間、ヒントをチェック。Klookで簡単に予約して、素晴らしい旅を始めましょう！",
+      "page_intro": "ドバイの魅力は、ブルジュ・ハリファやドバイ・モール、ドバイ・ファウンテンなどのアイコニックなランドマークに満ちています。壮大な都市の冒険を体験し、Klookでスムーズに予約して、待ち時間を気にせず楽しみましょう。",
       "items": [
         {
           "id": "burj-khalifa",
@@ -308,12 +316,16 @@
           "best_time": "anytime",
           "klook_query": "Sheikh Zayed Grand Mosque tour"
         }
-      ]
+      ],
+      "faq_q1": "ドバイの主要な観光名所は何ですか？",
+      "faq_q2": "ドバイの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光名所にはチケットが必要です。Klookを利用すれば、簡単に事前にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 두바이 최고의 명소 — 티켓, 팁 및 완벽한 가이드",
-      "seo_description": "두바이 최고의 명소를 탐험하세요. 두바이의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "두바이는 현대 건축, 럭셔리 쇼핑 및 활기찬 야경으로 알려진 분주한 대도시입니다. 상징적인 부르즈 할리파에서 고요한 해변까지, 두바이는 문화 경험과 현대적인 명소가 독특하게 혼합된 곳입니다. 모험을 원하시든 휴식을 원하시든, 이 역동적인 도시에서는 모두를 위한 무언가가 있습니다.",
+      "seo_title": "2026년 두바이 8대 필수 명소 — 완벽 가이드",
+      "seo_description": "두바이의 필수 명소를 탐험하세요. 개장 시간, 티켓 가격, Klook 예약 링크를 확인하고 여행을 계획해보세요!",
+      "page_intro": "두바이는 부르즈 할리파, 두바이 몰, 두바이 분수와 같은 놀라운 명소로 가득한 도시입니다. 현대적인 건축물과 전통 문화가 어우러진 이곳에서는 잊지 못할 경험을 할 수 있습니다. 긴 대기 없이 Klook을 통해 미리 예약하세요!",
       "items": [
         {
           "id": "burj-khalifa",
@@ -411,12 +423,16 @@
           "best_time": "anytime",
           "klook_query": "Sheikh Zayed Grand Mosque tour"
         }
-      ]
+      ],
+      "faq_q1": "두바이의 주요 명소는 무엇인가요?",
+      "faq_q2": "두바이의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소에는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Meilleures attractions à Dubaï 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Dubaï. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Dubaï.",
-      "page_intro": "Dubaï est une métropole animée connue pour son architecture moderne, ses boutiques de luxe et sa vie nocturne dynamique. Du célèbre Burj Khalifa aux plages sereines, Dubaï offre un mélange unique d'expériences culturelles et d'attractions contemporaines. Que vous cherchiez l'aventure ou la détente, il y en a pour tous les goûts dans cette ville dynamique.",
+      "seo_title": "Top 8 Attractions à Dubaï 2026 — Guide Complet et Conseils",
+      "seo_description": "Explorez les 8 meilleures attractions de Dubaï. Horaires, prix, conseils et liens de réservation Klook. Planifiez votre visite dès maintenant!",
+      "page_intro": "Découvrez Dubaï, une ville fascinante où se mêlent modernité et tradition. Des merveilles architecturales comme le Burj Khalifa aux expériences uniques du Dubai Mall, chaque coin de la ville regorge de surprises. Évitez les files d'attente et réservez via Klook pour profiter pleinement de votre visite !",
       "items": [
         {
           "id": "burj-khalifa",
@@ -514,10 +530,14 @@
           "best_time": "anytime",
           "klook_query": "Sheikh Zayed Grand Mosque tour"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Dubaï ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Dubaï ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets. Réservez facilement vos entrées sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales atracciones en Dubái 2026 — Entradas, consejos y guía completa",
+      "seo_title": "Las 10 mejores atracciones en Dubái 2026",
       "seo_description": "Explora las mejores atracciones en Dubái. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Dubái.",
       "page_intro": "Dubái es una metrópoli bulliciosa conocida por su arquitectura moderna, compras de lujo y vibrante vida nocturna. Desde el icónico Burj Khalifa hasta las tranquilas playas, Dubái ofrece una mezcla única de experiencias culturales y atracciones contemporáneas. Ya sea que busques aventura o relajación, hay algo para todos en esta ciudad dinámica.",
       "items": [
@@ -620,7 +640,7 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Dubai 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "Atraksi Terbaik Dubai 2026: Tips & Tiket",
       "seo_description": "Explore the best attractions in Dubai. Find opening hours, ticket prices and booking links for Dubai's top landmarks.",
       "page_intro": "Dubai is a bustling metropolis known for its modern architecture, luxury shopping, and vibrant nightlife. From the iconic Burj Khalifa to the serene beaches, Dubai offers a unique blend of cultural experiences and contemporary attractions. Whether you're seeking adventure or relaxation, there's something for everyone in this dynamic city.",
       "items": [
@@ -826,7 +846,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Dubai 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Dubai 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Dubai. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Dubai.",
       "page_intro": "Dubai é uma metrópole movimentada conhecida por sua arquitetura moderna, compras de luxo e vida noturna vibrante. Desde o icônico Burj Khalifa até as praias serenas, Dubai oferece uma mistura única de experiências culturais e atrações contemporâneas. Se você está em busca de aventura ou relaxamento, há algo para todos nesta cidade dinâmica.",
       "items": [
@@ -929,8 +949,8 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في دبي 2026 - التذاكر والنصائح والدليل الشامل",
-      "seo_description": "استكشف أفضل المعالم السياحية في دبي. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم في دبي.",
+      "seo_title": "أفضل 8 معالم سياحية في دبي 2026 - الدليل الشامل",
+      "seo_description": "احصل على تذاكر، ساعات عمل، ونصائح داخلية لأفضل المعالم في دبي. احجز الآن عبر Klook واستمتع برحلتك!",
       "page_intro": "دبي هي مدينة صاخبة معروفة بهندستها المعمارية الحديثة، والتسوق الفاخر، والحياة الليلية النابضة بالحياة. من برج خليفة الشهير إلى الشواطئ الهادئة، تقدم دبي مزيجًا فريدًا من التجارب الثقافية والمعالم السياحية المعاصرة. سواء كنت تبحث عن المغامرة أو الاسترخاء، هناك شيء للجميع في هذه المدينة الديناميكية.",
       "items": [
         {
@@ -1032,8 +1052,8 @@
       ]
     },
     "bn": {
-      "seo_title": "দুবাইয়ের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "দুবাইয়ের সেরা আকর্ষণগুলি এক্সপ্লোর করুন। দুবাইয়ের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "দুবাইয়ের ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "দুবাইয়ের সেরা ৮টি আকর্ষণ, টিকিট, খোলার সময় ও গোপন তথ্য জানুন। Klook বুকিং লিঙ্কে ক্লিক করুন!",
       "page_intro": "দুবাই একটি ব্যস্ত মহানগরী, যা এর আধুনিক স্থাপত্য, বিলাসবহুল শপিং এবং প্রাণবন্ত রাতের জীবন জন্য পরিচিত। আইকনিক বুর্জ খলিফা থেকে শুরু করে শান্ত সৈকত পর্যন্ত, দুবাই সাংস্কৃতিক অভিজ্ঞতা এবং সমকালীন আকর্ষণের একটি অনন্য মিশ্রণ প্রদান করে। আপনি যদি অ্যাডভেঞ্চারের সন্ধানে থাকেন বা বিশ্রামের জন্য, এই গতিশীল শহরে সবার জন্য কিছু না কিছু রয়েছে।",
       "items": [
         {
@@ -1135,8 +1155,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Дубая 2026 — Билеты, советы и полный гид",
-      "seo_description": "Исследуйте лучшие достопримечательности Дубая. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Дубая.",
+      "seo_title": "10 лучших достопримечательностей Дубая 2026 — Полный гид",
+      "seo_description": "Узнайте часы работы, цены на билеты и советы по бронированию на Klook. Откройте для себя Дубай с нашим полным гидом!",
       "page_intro": "Дубай — это бурлящий мегаполис, известный своей современной архитектурой, роскошным шопингом и яркой ночной жизнью. От знакового Бурдж-Халифа до спокойных пляжей, Дубай предлагает уникальное сочетание культурных впечатлений и современных достопримечательностей. Если вы ищете приключения или отдыха, в этом динамичном городе найдется что-то для каждого.",
       "items": [
         {

@@ -2,9 +2,9 @@
   "city_slug": "taipei",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Taipei 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Taipei. Find opening hours, ticket prices and booking links for Taipei's top landmarks.",
-      "page_intro": "Taipei, the vibrant capital of Taiwan, is a bustling metropolis that seamlessly blends modernity with rich cultural heritage. Known for its towering skyscrapers, traditional temples, and bustling night markets, Taipei offers a diverse range of attractions for every traveler. From the iconic Taipei 101 to the serene Longshan Temple, visitors can explore a mix of architectural wonders and natural beauty, while indulging in the city's famous street food scene. Whether you're an art enthusiast or a nature lover, Taipei promises a memorable experience.",
+      "seo_title": "8 Must-See Attractions in Taipei 2026 - Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Taipei's best attractions. Book your adventure with Klook today!",
+      "page_intro": "Discover the allure of Taipei, where stunning skyscrapers and ancient temples coexist in harmony. From the breathtaking views at Taipei 101 to the rich history at the National Palace Museum, this city is a treasure trove of experiences waiting to be explored. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "taipei-101",
@@ -104,12 +104,16 @@
           "best_time": "afternoon",
           "klook_query": "Sun Yat-sen Memorial Hall tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Taipei?",
+      "faq_q2": "Do I need tickets for attractions in Taipei?",
+      "faq_a1_suffix": " Taipei 101, National Palace Museum, and Longshan Temple are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Taipei require tickets for entry. You can conveniently purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "臺北2026年熱門景點 — 門票、提示及完整指南",
-      "seo_description": "探索臺北的最佳景點。查找開放時間、門票價格及臺北熱門地標的預訂鏈接。",
-      "page_intro": "臺北，臺灣的活力首都，是一個現代與豐富文化遺產完美融合的大都市。以其高聳的摩天大樓、傳統寺廟和熱鬧的夜市而聞名，臺北為每位旅行者提供多樣的景點選擇。從標誌性的臺北101到靜謐的龍山寺，遊客可以探索建築奇觀和自然美景，同時享受這座城市著名的街頭美食。不論是藝術愛好者還是自然愛好者，臺北承諾帶來難忘的體驗。",
+      "seo_title": "2026年臺北必看景點 — 完整指南與票務資訊",
+      "seo_description": "探索臺北的最佳景點，獲取票價、開放時間及Klook預訂鏈接，讓您的旅行更加順利！",
+      "page_intro": "探索臺北的魅力，這座城市以其壯觀的摩天大樓和深厚的文化底蘊而聞名。從臺北101的璀璨景觀到國立故宮博物院的珍寶，無論是歷史愛好者還是美食家，都能在這裡找到無限驚喜。立即透過Klook預訂，讓您的臺北之旅更加順利！",
       "items": [
         {
           "id": "taipei-101",
@@ -207,12 +211,16 @@
           "best_time": "afternoon",
           "klook_query": "Sun Yat-sen Memorial Hall tour"
         }
-      ]
+      ],
+      "faq_q1": "臺北有哪些熱門景點？",
+      "faq_q2": "在臺北的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議使用Klook提前訂票，這樣可以節省時間並避免排隊。"
     },
     "ja": {
-      "seo_title": "台北のトップアトラクション2026 — チケット、ヒント、完全ガイド",
-      "seo_description": "台北のベストアトラクションを探索しましょう。台北の主要名所の開館時間、チケット価格、および予約リンクを見つけましょう。",
-      "page_intro": "台北、台湾の活気ある首都は、現代性と豊かな文化遺産がシームレスに融合した大都市です。高層ビル、伝統的な寺院、賑やかなナイトマーケットで知られる台北は、旅行者のための多様な観光スポットを提供しています。象徴的な台北101から静かな龍山寺まで、建築の驚異と自然の美しさを探求しながら、街の有名なストリートフードを楽しむことができます。アート愛好家でも自然愛好家でも、台北は忘れられない体験を約束します。",
+      "seo_title": "台北の2026年必見アトラクション8選 — 完全ガイド",
+      "seo_description": "台北の主要名所のチケット、開館時間、インサイダー情報をチェック！Klookで簡単予約を。今すぐ計画を立てましょう！",
+      "page_intro": "台北の魅力的な観光スポットは、訪れる人々を魅了し続けています。象徴的な台北101や国立故宮博物院、歴史ある龍山寺など、見逃せない名所が満載です。行列を避けて、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "taipei-101",
@@ -310,12 +318,16 @@
           "best_time": "afternoon",
           "klook_query": "Sun Yat-sen Memorial Hall tour"
         }
-      ]
+      ],
+      "faq_q1": "台北の主な観光名所は何ですか？",
+      "faq_q2": "台北の観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光名所にはチケットが必要です。Klookを利用すれば、事前にスムーズに購入できます。"
     },
     "ko": {
-      "seo_title": "타이베이의 인기 관광지 2026 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "타이베이의 최고의 관광지를 탐험하세요. 타이베이의 주요 랜드마크의 개장 시간, 티켓 가격 및 예약 링크를 찾을 수 있습니다.",
-      "page_intro": "대만의 활기찬 수도 타이베이는 현대성과 풍부한 문화 유산이 조화를 이루는 번화한 대도시입니다. 높은 고층 빌딩, 전통 사원, 번화한 야시장으로 유명한 타이베이는 모든 여행자에게 다양한 관광 명소를 제공합니다. 상징적인 타이베이 101에서부터 평화로운 롱산 사원까지, 방문객들은 건축의 경이로움과 자연의 아름다움을 탐험하며 도시의 유명한 길거리 음식을 즐길 수 있습니다. 예술 애호가든 자연 애호가든, 타이베이는 잊을 수 없는 경험을 약속합니다.",
+      "seo_title": "타이베이 2026: 8가지 필수 관광지 완벽 가이드",
+      "seo_description": "타이베이의 인기 관광지 개장 시간, 티켓 가격, Klook 예약 링크를 확인하고 여행을 계획하세요!",
+      "page_intro": "타이베이는 현대적 매력과 전통이 어우러진 도시로, 타이베이 101의 웅장함과 국립고궁박물관의 문화적 깊이를 자랑합니다. 숨겨진 보석 같은 롱산 사원도 놓치지 마세요! Klook을 통해 줄 서지 않고 편리하게 예약하세요.",
       "items": [
         {
           "id": "taipei-101",
@@ -413,11 +425,15 @@
           "best_time": "afternoon",
           "klook_query": "Sun Yat-sen Memorial Hall tour"
         }
-      ]
+      ],
+      "faq_q1": "타이베이의 주요 관광 명소는 무엇인가요?",
+      "faq_q2": "타이베이의 관광 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 타이베이 101, 국립고궁박물관, 롱산 사원이 반드시 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광 명소에는 입장권이 필요합니다. Klook을 통해 미리 예약하시면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales Attractions à Taipei 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de Taipei. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Taipei.",
+      "seo_title": "Top 8 Attractions à Taipei 2026 — Guide Complet & Billets",
+      "seo_description": "Découvrez les horaires, prix et astuces pour Taipei. Réservez vos billets sur Klook et explorez les incontournables de la ville !",
       "page_intro": "Taipei, la capitale dynamique de Taïwan, est une métropole animée qui allie parfaitement modernité et riche patrimoine culturel. Connue pour ses gratte-ciels imposants, ses temples traditionnels et ses marchés nocturnes animés, Taipei offre une gamme diversifiée d'attractions pour chaque voyageur. Du Taipei 101 emblématique au serein Temple Longshan, les visiteurs peuvent explorer un mélange de merveilles architecturales et de beauté naturelle tout en se délectant de la célèbre scène de street food de la ville. Que vous soyez un amateur d'art ou un amoureux de la nature, Taipei promet une expérience mémorable.",
       "items": [
         {
@@ -519,8 +535,8 @@
       ]
     },
     "es": {
-      "seo_title": "Principales Atracciones en Taipéi 2026 — Entradas, Consejos & Guía Completa",
-      "seo_description": "Explore las mejores atracciones en Taipéi. Encuentre horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Taipéi.",
+      "seo_title": "Las 8 Mejores Atracciones en Taipéi 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las atracciones de Taipéi. Reserva tus entradas en Klook y vive una experiencia inolvidable.",
       "page_intro": "Taipéi, la vibrante capital de Taiwán, es una metrópolis bulliciosa que combina perfectamente la modernidad con un rico patrimonio cultural. Conocida por sus imponentes rascacielos, templos tradicionales y bulliciosos mercados nocturnos, Taipéi ofrece una diversa gama de atracciones para cada viajero. Desde el icónico Taipei 101 hasta el sereno Templo Longshan, los visitantes pueden explorar una mezcla de maravillas arquitectónicas y belleza natural, mientras disfrutan de la famosa escena de comida callejera de la ciudad. Ya sea que seas un entusiasta del arte o un amante de la naturaleza, Taipéi promete una experiencia memorable.",
       "items": [
         {
@@ -622,7 +638,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Taipei 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik Taipei 2026: Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Taipei. Temukan jam buka, harga tiket dan tautan pemesanan untuk landmark utama Taipei.",
       "page_intro": "Taipei, ibu kota Taiwan yang penuh semangat, adalah kota metropolis yang ramai yang menggabungkan modernitas dengan warisan budaya yang kaya. Dikenal karena gedung pencakar langitnya yang menjulang, kuil tradisional, dan pasar malam yang ramai, Taipei menawarkan beragam atraksi untuk setiap pelancong. Dari Taipei 101 yang ikonik hingga Kuil Longshan yang tenang, pengunjung dapat menjelajahi campuran keajaiban arsitektur dan keindahan alam, sambil menikmati makanan jalanan terkenal di kota ini. Apakah Anda penggemar seni atau pecinta alam, Taipei menjanjikan pengalaman yang tak terlupakan.",
       "items": [
@@ -725,8 +741,8 @@
       ]
     },
     "hi": {
-      "seo_title": "ताइपे 2026 के शीर्ष आकर्षण — टिकट, टिप्स और संपूर्ण गाइड",
-      "seo_description": "ताइपे के सर्वश्रेष्ठ आकर्षणों का अन्वेषण करें। ताइपे के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "seo_title": "ताइपे 2026 के 8 शीर्ष आकर्षण — संपूर्ण गाइड",
+      "seo_description": "ताइपे के शीर्ष स्थलों के लिए टिकट, खुलने के समय और अंदरूनी टिप्स खोजें। Klook पर बुकिंग करें और अपनी यात्रा की योजना बनाएं!",
       "page_intro": "ताइवान की जीवंत राजधानी ताइपे एक गतिशील महानगर है जो आधुनिकता को समृद्ध सांस्कृतिक विरासत के साथ सहजता से जोड़ता है। अपने ऊँचे गगनचुंबी इमारतों, पारंपरिक मंदिरों और व्यस्त रात बाजारों के लिए जाना जाने वाला ताइपे हर यात्री के लिए आकर्षण का विविधता भरा अवसर प्रदान करता है। प्रतिष्ठित ताइपे 101 से लेकर शांतिपूर्ण लोंगशान मंदिर तक, आगंतुक वास्तुशिल्प चमत्कारों और प्राकृतिक सुंदरता का मिश्रण खोज सकते हैं, जबकि शहर के प्रसिद्ध स्ट्रीट फूड सीन का आनंद ले सकते हैं। चाहे आप कला प्रेमी हों या प्रकृति प्रेमी, ताइपे एक यादगार अनुभव का वादा करता है।",
       "items": [
         {
@@ -828,7 +844,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Taipei 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Taipei 2026 — Dicas e Ingressos",
       "seo_description": "Explore as melhores atrações em Taipei. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Taipei.",
       "page_intro": "Taipei, a vibrante capital de Taiwan, é uma metrópole agitada que mistura modernidade com rica herança cultural. Conhecida por seus arranha-céus imponentes, templos tradicionais e mercados noturnos movimentados, Taipei oferece uma variedade diversificada de atrações para todos os viajantes. Desde o icônico Taipei 101 até o sereno Templo Longshan, os visitantes podem explorar uma mistura de maravilhas arquitetônicas e beleza natural, enquanto apreciam a famosa cena de comida de rua da cidade. Seja você um entusiasta da arte ou um amante da natureza, Taipei promete uma experiência memorável.",
       "items": [
@@ -931,7 +947,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في تايبيه 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم سياحية في تايبيه 2026",
       "seo_description": "استكشف أفضل المعالم السياحية في تايبيه. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم تايبيه.",
       "page_intro": "تايبيه، العاصمة النابضة بالحياة لتايوان، هي مدينة كبرى مزدهرة تمزج بين الحداثة والتراث الثقافي الغني. معروفة بناطحات السحاب الشاهقة والمعابد التقليدية والأسواق الليلية الصاخبة، تقدم تايبيه مجموعة متنوعة من المعالم السياحية لكل مسافر. من تايبيه 101 الشهير إلى معبد لونغشان الهادئ، يمكن للزوار استكشاف مزيج من العجائب المعمارية والجمال الطبيعي، بينما يستمتعون بمشهد طعام الشارع الشهير في المدينة. سواء كنت من محبي الفن أو الطبيعة، فإن تايبيه تعد بتجربة لا تُنسى.",
       "items": [
@@ -1034,7 +1050,7 @@
       ]
     },
     "bn": {
-      "seo_title": "তাইপে 2026 এর শীর্ষ আকর্ষণীয় স্থানসমূহ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_title": "তাইপে 2026 এর শীর্ষ ১০ আকর্ষণীয় স্থানসমূহ",
       "seo_description": "তাইপের সেরা আকর্ষণীয় স্থানসমূহ আবিষ্কার করুন। তাইপের প্রধান ল্যান্ডমার্কগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
       "page_intro": "তাইওয়ানের প্রাণবন্ত রাজধানী তাইপে একটি ব্যস্ত মহানগরী যা আধুনিকতার সাথে সমৃদ্ধ সাংস্কৃতিক ঐতিহ্যকে সহজেই মিশিয়ে দেয়। তার উঁচু বহুতল ভবন, ঐতিহ্যবাহী মন্দির এবং ব্যস্ত রাতের বাজারের জন্য পরিচিত, তাইপে প্রতিটি ভ্রমণকারীর জন্য বিভিন্ন প্রকার আকর্ষণীয় স্থান প্রদান করে। আইকনিক তাইপে 101 থেকে শান্ত লংশান মন্দির পর্যন্ত, দর্শকরা স্থাপত্য বিস্ময় এবং প্রাকৃতিক সৌন্দর্যের একটি মিশ্রণ আবিষ্কার করতে পারেন, যখন শহরের বিখ্যাত রাস্তার খাবারের দৃশ্যের আনন্দ নেন। আপনি আর্ট প্রেমিক হন বা প্রকৃতি প্রেমিক, তাইপে একটি স্মরণীয় অভিজ্ঞতা প্রতিশ্রুতি দেয়।",
       "items": [
@@ -1137,9 +1153,9 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Тайбэя 2026 — билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Тайбэя 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Тайбэя. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Тайбэя.",
-      "page_intro": "Тайбэй, оживленная столица Тайваня, является бурным мегаполисом, который безупречно сочетает в себе современность и богатое культурное наследие. Известный своими высотными небоскребами, традиционными храмами и оживленными ночными рынками, Тайбэй предлагает разнообразный спектр достопримечательностей для каждого путешественника. От знаменитого Тайбэй 101 до спокойного храма Луншань, посетители могут исследовать сочетание архитектурных чудес и природной красоты, наслаждаясь известной уличной едой города. Независимо от того, являетесь ли вы поклонником искусства или любителем природы, Тайбэй обещает незабываемое впечатление.",
+      "page_intro": "Тайбэй, сердце Тайваня, манит путешественников своими удивительными достопримечательностями. От величественного Тайбэй 101 до культурного наследия Национального дворца, здесь каждый найдет что-то особенное. Избегайте очередей и бронируйте билеты через Klook!",
       "items": [
         {
           "id": "taipei-101",
@@ -1237,7 +1253,11 @@
           "best_time": "afternoon",
           "klook_query": "Sun Yat-sen Memorial Hall tour"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Тайбэе?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Тайбэе?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей в Тайбэе требуются билеты. Рекомендуем покупать их через Klook для удобства и экономии времени."
     }
   }
 }

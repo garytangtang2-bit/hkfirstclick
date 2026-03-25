@@ -2,9 +2,9 @@
   "city_slug": "auckland",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Auckland 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Auckland. Find opening hours, ticket prices and booking links for Auckland's top landmarks.",
-      "page_intro": "Auckland, known as the 'City of Sails', is New Zealand's largest city and a vibrant hub of culture, nature, and adventure. With stunning harbors, lush parks, and a rich history, there's something for everyone to enjoy. Whether you're looking for breathtaking views from the Sky Tower or exploring the unique wildlife at the Auckland Zoo, this city offers an unforgettable experience for all travelers.",
+      "seo_title": "8 Must-See Attractions in Auckland 2026 — Complete Guide",
+      "seo_description": "Discover Auckland's top attractions with tickets, opening hours, and insider tips. Book now through Klook for an unforgettable experience!",
+      "page_intro": "Discover Auckland, the 'City of Sails', where iconic landmarks like the Sky Tower and Rangitoto Island await. Dive into a vibrant blend of culture and adventure—book your unforgettable experience via Klook!",
       "items": [
         {
           "id": "sky-tower",
@@ -102,12 +102,16 @@
           "best_time": "anytime",
           "klook_query": "Kelvingrove Market events"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Auckland?",
+      "faq_q2": "Do I need tickets for attractions in Auckland?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Auckland require tickets for entry. You can conveniently purchase them through Klook for a seamless experience."
     },
     "zh": {
-      "seo_title": "奧克蘭2026年最佳景點 — 票務、提示及完整指南",
-      "seo_description": "探索奧克蘭的最佳景點。查找奧克蘭主要地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "奧克蘭，被稱為「帆船之城」，是新西蘭最大的城市，也是文化、自然和冒險的活力中心。擁有壯觀的海港、郁郁葱葱的公園和豐富的歷史，這裡有適合每個人的東西可供享受。無論您是想在天空塔上欣賞壯麗的景色，還是探索奧克蘭動物園的獨特野生動物，這座城市為所有旅行者提供難忘的體驗。",
+      "seo_title": "奧克蘭2026年8大必看景點 — 完整指南",
+      "seo_description": "發現奧克蘭的最佳景點，獲取票務、開放時間及內部提示，立即透過Klook預訂！",
+      "page_intro": "探索奧克蘭的魅力，這座「帆船之城」擁有壯觀的天空塔、歷史悠久的奧克蘭戰爭紀念博物館和迷人的朗吉托島。無論您是文化愛好者還是冒險家，這裡都能讓您留下難忘的回憶，立即透過Klook預訂您的旅程！",
       "items": [
         {
           "id": "sky-tower",
@@ -205,12 +209,16 @@
           "best_time": "anytime",
           "klook_query": "Kelvingrove Market events"
         }
-      ]
+      ],
+      "faq_q1": "奧克蘭的熱門景點有哪些？",
+      "faq_q2": "我需要購票進入奧克蘭的景點嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數奧克蘭的景點都需要購票，建議您透過Klook提前購票以確保順利入場。"
     },
     "ja": {
-      "seo_title": "オークランドのトップ観光地2026年 — チケット、ヒント、完全ガイド",
-      "seo_description": "オークランドの最高の観光地を探索しましょう。オークランドの主要なランドマークの営業時間、チケット料金、予約リンクを見つけてください。",
-      "page_intro": "オークランドは「帆船の街」として知られ、新ゼランド最大の都市であり、文化、自然、冒険の活気ある中心地です。壮大な港、緑豊かな公園、豊かな歴史があり、誰もが楽しめる何かがあります。スカイタワーからの breathtaking views や、オークランド動物園でのユニークな野生動物の探索など、この街はすべての旅行者に忘れられない体験を提供します。",
+      "seo_title": "オークランドの2026年必見観光地8選 — 完全ガイド",
+      "seo_description": "オークランドのチケット、営業時間、インサイダー情報をチェック。Klookで簡単予約！今すぐ計画を始めましょう。",
+      "page_intro": "オークランドの魅力は、スカイタワーの壮大な眺望やラニトト島の自然美にあります。歴史と文化が交差するこの街で、特別な体験をお楽しみください。行列をスキップして、Klookで予約しましょう！",
       "items": [
         {
           "id": "sky-tower",
@@ -308,12 +316,16 @@
           "best_time": "anytime",
           "klook_query": "Kelvingrove Market events"
         }
-      ]
+      ],
+      "faq_q1": "オークランドの主な観光名所は何ですか？",
+      "faq_q2": "オークランドの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " スカイタワー、オークランド戦争記念館、ラニトト島などが必見の観光地です。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用して事前にチケットを購入すると、スムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "오클랜드의 주요 관광지 2026 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "오클랜드의 최고의 관광지를 탐험하세요. 오클랜드의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "오클랜드는 '돛의 도시'로 알려져 있으며, 뉴질랜드에서 가장 큰 도시이자 문화, 자연, 모험의 활기찬 중심지입니다. 멋진 항구, 푸르른 공원, 풍부한 역사를 가진 이곳은 누구나 즐길 수 있는 다양한 즐거움을 제공합니다. 스카이 타워에서 경 breathtaking views 을 감상하거나 오클랜드 동물원에서 독특한 야생 동물을 탐험하는 등, 이 도시는 모든 여행자에게 잊지 못할 경험을 제공합니다.",
+      "seo_title": "오클랜드 2026: 8개의 꼭 가봐야 할 관광지 완벽 가이드",
+      "seo_description": "오클랜드의 주요 관광지 운영 시간, 티켓 가격, Klook 예약 링크를 확인하고 여행을 계획하세요!",
+      "page_intro": "오클랜드는 숨막히는 경관과 독특한 문화로 가득한 도시입니다. 스카이 타워와 오클랜드 전쟁 기념 박물관, 랑기토토 섬 등 다양한 명소가 여행자들을 기다리고 있습니다. 줄 서지 않고 Klook를 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "sky-tower",
@@ -411,12 +423,16 @@
           "best_time": "anytime",
           "klook_query": "Kelvingrove Market events"
         }
-      ]
+      ],
+      "faq_q1": "오클랜드의 주요 명소는 무엇인가요?",
+      "faq_q2": "오클랜드의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소는 입장권이 필요합니다. Klook를 통해 미리 예약하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Auckland 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Découvrez les meilleures attractions à Auckland. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites d'Auckland.",
-      "page_intro": "Auckland, connue sous le nom de 'Ville des Voiles', est la plus grande ville de Nouvelle-Zélande et un centre vibrant de culture, de nature et d'aventure. Avec ses magnifiques ports, ses parcs verdoyants et son histoire riche, il y en a pour tous les goûts. Que vous souhaitiez admirer des vues à couper le souffle depuis la Sky Tower ou explorer la faune unique au Zoo d'Auckland, cette ville offre une expérience inoubliable à tous les voyageurs.",
+      "seo_title": "8 Must-See Attractions à Auckland 2026 — Guide Complet",
+      "seo_description": "Explorez les heures d'ouverture, les prix et les conseils pour les meilleures attractions d'Auckland. Réservez vos billets sur Klook dès maintenant!",
+      "page_intro": "Découvrez Auckland, une ville où l'aventure rencontre la culture! Des vues époustouflantes depuis la Sky Tower aux trésors historiques du Musée Mémorial de la Guerre d'Auckland, chaque coin de rue regorge de surprises. Ne perdez pas de temps, réservez via Klook pour une expérience mémorable!",
       "items": [
         {
           "id": "sky-tower",
@@ -514,11 +530,15 @@
           "best_time": "anytime",
           "klook_query": "Kelvingrove Market events"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Auckland?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Auckland?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé de réserver vos billets à l'avance. Utilisez Klook pour éviter les files d'attente et garantir votre accès."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Auckland 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Auckland. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Auckland.",
+      "seo_title": "Las 8 Mejores Atracciones de Auckland 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las atracciones imperdibles de Auckland. ¡Planifica tu visita ahora!",
       "page_intro": "Auckland, conocida como la 'Ciudad de las Velas', es la ciudad más grande de Nueva Zelanda y un vibrante centro de cultura, naturaleza y aventura. Con impresionantes puertos, parques exuberantes y una rica historia, hay algo para que todos disfruten. Ya sea que estés buscando vistas impresionantes desde la Sky Tower o explorando la fauna única en el Zoológico de Auckland, esta ciudad ofrece una experiencia inolvidable para todos los viajeros.",
       "items": [
         {
@@ -620,9 +640,9 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Auckland 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "Atraksi Terbaik Auckland 2026: Panduan & Tips",
       "seo_description": "Explore the best attractions in Auckland. Find opening hours, ticket prices and booking links for Auckland's top landmarks.",
-      "page_intro": "Auckland, known as the 'City of Sails', is New Zealand's largest city and a vibrant hub of culture, nature, and adventure. With stunning harbors, lush parks, and a rich history, there's something for everyone to enjoy. Whether you're looking for breathtaking views from the Sky Tower or exploring the unique wildlife at the Auckland Zoo, this city offers an unforgettable experience for all travelers.",
+      "page_intro": "Auckland, 'Kota Layang-Layang', menawarkan berbagai atraksi menakjubkan seperti Sky Tower dan Museum Perang Auckland. Temukan keindahan alam dan budaya yang kaya di sini, dan pesan pengalaman Anda melalui Klook!",
       "items": [
         {
           "id": "sky-tower",
@@ -720,7 +740,11 @@
           "best_time": "anytime",
           "klook_query": "Kelvingrove Market events"
         }
-      ]
+      ],
+      "faq_q1": "Apa saja atraksi terbaik di Auckland?",
+      "faq_q2": "Apakah saya perlu tiket untuk atraksi di Auckland?",
+      "faq_a1_suffix": " adalah atraksi yang wajib dilihat.",
+      "faq_a2": "Ya, sebagian besar atraksi memerlukan tiket. Anda dapat membeli tiket dengan mudah melalui Klook."
     },
     "hi": {
       "seo_title": "ऑकलैंड में शीर्ष आकर्षण 2026 - टिकट, टिप्स और पूर्ण गाइड",
@@ -826,7 +850,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Auckland 2026 - Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Auckland 2026 - Guia Completo",
       "seo_description": "Explore as melhores atrações em Auckland. Encontre horários de funcionamento, preços de ingressos e links de reservas para os principais pontos turísticos de Auckland.",
       "page_intro": "Auckland, conhecida como a 'Cidade das Velas', é a maior cidade da Nova Zelândia e um vibrante centro de cultura, natureza e aventura. Com portos deslumbrantes, parques exuberantes e uma rica história, há algo para todos desfrutarem. Se você está procurando vistas de tirar o fôlego da Sky Tower ou explorando a vida selvagem única no Zoológico de Auckland, esta cidade oferece uma experiência inesquecível para todos os viajantes.",
       "items": [
@@ -929,7 +953,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في أوكلاند 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في أوكلاند 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في أوكلاند. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم في أوكلاند.",
       "page_intro": "تُعرف أوكلاند باسم 'مدينة الأشرعة'، وهي أكبر مدينة في نيوزيلندا ومركز نابض بالحياة للثقافة والطبيعة والمغامرة. مع الموانئ الخلابة والحدائق المورقة والتاريخ الغني، هناك شيء للجميع للاستمتاع به. سواء كنت تبحث عن مناظر خلابة من برج السماء أو تستكشف الحياة البرية الفريدة في حديقة حيوان أوكلاند، تقدم هذه المدينة تجربة لا تُنسى لجميع المسافرين.",
       "items": [
@@ -1032,8 +1056,8 @@
       ]
     },
     "bn": {
-      "seo_title": "অকল্যান্ডে শীর্ষ আকর্ষণ ২০২৬ - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "অকল্যান্ডের সেরা আকর্ষণগুলি অন্বেষণ করুন। অকল্যান্ডের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "অকল্যান্ডে ৮টি শীর্ষ আকর্ষণ ২০২৬ - সম্পূর্ণ গাইড",
+      "seo_description": "অকল্যান্ডের সেরা আকর্ষণগুলোর টিকিট, খোলার সময় ও টিপস খুঁজুন। Klook বুকিং লিঙ্কে ক্লিক করে আপনার ভ্রমণ পরিকল্পনা করুন!",
       "page_intro": "অকল্যান্ড, যা 'পাল তোলা শহর' নামে পরিচিত, নিউজিল্যান্ডের সবচেয়ে বড় শহর এবং সংস্কৃতি, প্রকৃতি এবং সাহসিকতার একটি প্রাণবন্ত কেন্দ্র। মনোরম বন্দরে, সবুজ পার্ক এবং সমৃদ্ধ ইতিহাসের সাথে, এখানে সবার জন্য উপভোগ করার জন্য কিছু না কিছু আছে। আপনি স্কাই টাওয়ার থেকে শ্বাসরুদ্ধকর দৃশ্য খুঁজছেন বা অকল্যান্ড চিড়িয়াখানায় অনন্য প্রাণীজগত অন্বেষণ করছেন, এই শহরটি সকল ভ্রমণকারীদের জন্য একটি অবিস্মরণীয় অভিজ্ঞতা প্রদান করে।",
       "items": [
         {
@@ -1135,7 +1159,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Окленда 2026 - Билеты, Советы и Полный Гид",
+      "seo_title": "Лучшие достопримечательности Окленда 2026",
       "seo_description": "Изучите лучшие достопримечательности Окленда. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Окленда.",
       "page_intro": "Окленд, известный как 'Город парусов', является крупнейшим городом Новой Зеландии и ярким центром культуры, природы и приключений. С потрясающими гаванями, зелеными парками и богатой историей здесь есть что-то для каждого. Если вы ищете захватывающие виды с Башни неба или изучаете уникальную диких животных в Зоопарке Окленда, этот город предлагает незабываемый опыт для всех путешественников.",
       "items": [

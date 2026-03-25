@@ -2,9 +2,9 @@
   "city_slug": "seoul",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Seoul 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Seoul. Find opening hours, ticket prices and booking links for Seoul's top landmarks.",
-      "page_intro": "Seoul, the vibrant capital of South Korea, is a city where the past and the present coexist in harmony. From ancient palaces and traditional markets to modern skyscrapers and bustling districts, Seoul offers a diverse array of attractions that cater to all types of travelers. Whether you're interested in cultural experiences, culinary adventures, or exploring futuristic architecture, Seoul promises an unforgettable journey filled with captivating sights and unique experiences.",
+      "seo_title": "8 Must-See Attractions in Seoul 2026 - Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Seoul's best attractions. Book your adventure with Klook today!",
+      "page_intro": "Discover the enchanting allure of Seoul, where ancient palaces like Gyeongbokgung and the stunning N Seoul Tower create a mesmerizing skyline. Dive into the charm of Bukchon Hanok Village and more—skip the lines, book via Klook!",
       "items": [
         {
           "id": "gyeongbokgung-palace",
@@ -102,12 +102,16 @@
           "best_time": "morning",
           "klook_query": "Jongmyo Shrine ticket"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Seoul?",
+      "faq_q2": "Do I need tickets for attractions in Seoul?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Seoul require tickets for entry. You can conveniently purchase them through Klook to avoid long queues."
     },
     "zh": {
-      "seo_title": "首爾2026年熱門景點 — 門票、提示與完整指南",
-      "seo_description": "探索首爾的最佳景點。查找開放時間、門票價格及首爾頂級地標的預訂連結。",
-      "page_intro": "首爾，這個活力四射的韓國首都，是一個過去與現代和諧共存的城市。從古老的宮殿和傳統市場到現代摩天大樓和繁華街區，首爾提供了多樣化的景點，滿足各類旅行者的需求。無論您對文化體驗、美食冒險還是探索未來建築有興趣，首爾都承諾帶來充滿迷人景觀和獨特經歷的難忘旅程。",
+      "seo_title": "2026年首爾必看景點 — 完整指南與門票資訊",
+      "seo_description": "發現首爾的最佳景點，獲取門票、開放時間及內部提示，透過Klook輕鬆預訂，立即計劃您的旅程！",
+      "page_intro": "探索首爾的魅力，這座城市融合了古老的傳統與現代的活力。從壯麗的景福宮到浪漫的南山塔，還有隱藏於巷弄中的北村韓屋村，首爾的每個角落都充滿驚喜。立即透過Klook預訂，輕鬆避開人潮，享受完美旅程！",
       "items": [
         {
           "id": "gyeongbokgung-palace",
@@ -205,12 +209,16 @@
           "best_time": "morning",
           "klook_query": "Jongmyo Shrine ticket"
         }
-      ]
+      ],
+      "faq_q1": "首爾有哪些熱門景點？",
+      "faq_q2": "在首爾的景點需要購票嗎？",
+      "faq_a1_suffix": "是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您透過Klook輕鬆購票，避免排隊等候。"
     },
     "ja": {
-      "seo_title": "ソウルのトップ観光スポット2026 — チケット、ヒント、完全ガイド",
-      "seo_description": "ソウルのベスト観光スポットを探検しましょう。開館時間、チケット価格、ソウルの主要ランドマークの予約リンクを見つけましょう。",
-      "page_intro": "韓国の活気ある首都ソウルは、過去と現在が調和して共存する都市です。古代の宮殿や伝統的な市場から現代の超高層ビルや賑やかな地区まで、ソウルは多様な観光スポットを提供し、あらゆる種類の旅行者に対応しています。文化体験や美食の冒険、未来的な建築の探検に興味がある場合でも、ソウルは魅力的な景観とユニークな体験で満たされた忘れられない旅を約束します。",
+      "seo_title": "2026年ソウルの必見観光スポット10選 — 完全ガイド",
+      "seo_description": "ソウルの観光名所のチケット、開館時間、ヒントを提供。Klookでの予約リンクもチェックして、素晴らしい旅を計画しましょう！",
+      "page_intro": "ソウルの魅力的な観光スポットを探求しよう！景福宮やNソウルタワー、北村韓屋村など、歴史と現代が融合した名所が目白押しです。行列を避けて、Klookで簡単に予約しましょう！",
       "items": [
         {
           "id": "gyeongbokgung-palace",
@@ -308,12 +316,16 @@
           "best_time": "morning",
           "klook_query": "Jongmyo Shrine ticket"
         }
-      ]
+      ],
+      "faq_q1": "ソウルのおすすめ観光スポットは何ですか？",
+      "faq_q2": "ソウルの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見のアトラクションです。",
+      "faq_a2": "多くの観光名所では入場チケットが必要ですが、Klookを利用すればスムーズにチケットを手に入れることができます。"
     },
     "ko": {
-      "seo_title": "서울 인기 관광지 2026 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "서울의 최고 명소를 탐험하세요. 서울의 주요 랜드마크의 개장 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
-      "page_intro": "한국의 활기찬 수도 서울은 과거와 현재가 조화롭게 공존하는 도시입니다. 고대 궁전과 전통 시장에서 현대적인 고층 건물과 번화한 지역에 이르기까지, 서울은 다양한 여행객의 요구를 충족시키는 다양한 명소를 제공합니다. 문화 체험, 미식 모험 또는 미래적인 건축 탐험에 관심이 있든, 서울은 매력적인 풍경과 독특한 경험으로 가득 찬 잊을 수 없는 여행을 약속합니다.",
+      "seo_title": "서울 2026: 8 Must-See 관광지 완벽 가이드",
+      "seo_description": "서울의 숨겨진 보석을 발견하세요! 개장 시간, 티켓 가격 및 Klook 예약 링크를 통해 여행을 계획해 보세요.",
+      "page_intro": "서울은 고궁과 현대 건축물이 어우러진 매력적인 도시입니다. 경복궁, N서울타워, 북촌 한옥마을 등 다양한 명소가 여러분을 기다립니다. 줄 서지 않고 Klook을 통해 예약하세요!",
       "items": [
         {
           "id": "gyeongbokgung-palace",
@@ -411,12 +423,16 @@
           "best_time": "morning",
           "klook_query": "Jongmyo Shrine ticket"
         }
-      ]
+      ],
+      "faq_q1": "서울의 주요 명소는 무엇인가요?",
+      "faq_q2": "서울의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "대부분의 명소는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Séoul 2026 — Billets, conseils et guide complet",
-      "seo_description": "Explorez les meilleures attractions de Séoul. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Séoul.",
-      "page_intro": "Séoul, la capitale vibrante de la Corée du Sud, est une ville où le passé et le présent coexistent en harmonie. Des palais anciens et des marchés traditionnels aux gratte-ciels modernes et aux quartiers animés, Séoul offre une variété d'attractions qui répondent à tous les types de voyageurs. Que vous soyez intéressé par des expériences culturelles, des aventures culinaires ou l'exploration de l'architecture futuriste, Séoul promet un voyage inoubliable rempli de sites captivants et d'expériences uniques.",
+      "seo_title": "Top 8 Attractions à Séoul 2026 — Guide Complet",
+      "seo_description": "Découvrez les heures d'ouverture, les prix des billets et des conseils d'initiés pour les meilleures attractions de Séoul. Réservez sur Klook!",
+      "page_intro": "Découvrez Séoul, une métropole où l'histoire et la modernité s'entrelacent à chaque coin de rue. Des joyaux comme le Palais Gyeongbokgung et la Tour N de Séoul aux ruelles pittoresques de Bukchon Hanok Village, chaque visite est une aventure. Évitez les files d'attente et réservez via Klook pour une expérience sans souci.",
       "items": [
         {
           "id": "gyeongbokgung-palace",
@@ -514,12 +530,16 @@
           "best_time": "morning",
           "klook_query": "Jongmyo Shrine ticket"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Séoul ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Séoul ?",
+      "faq_a1_suffix": " font partie des incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent un billet d'entrée. Pour gagner du temps, pensez à réserver vos billets à l'avance sur Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones en Seúl 2026 — Boletos, consejos y guía completa",
+      "seo_title": "Top 10 atracciones en Seúl 2026 — Guía y consejos",
       "seo_description": "Explora las mejores atracciones en Seúl. Encuentra horarios de apertura, precios de boletos y enlaces de reserva para los principales puntos de referencia de Seúl.",
-      "page_intro": "Seúl, la vibrante capital de Corea del Sur, es una ciudad donde el pasado y el presente coexisten en armonía. Desde palacios antiguos y mercados tradicionales hasta rascacielos modernos y distritos bulliciosos, Seúl ofrece una variedad de atracciones que satisfacen a todo tipo de viajeros. Ya sea que estés interesado en experiencias culturales, aventuras culinarias o explorar arquitectura futurista, Seúl promete un viaje inolvidable lleno de vistas cautivadoras y experiencias únicas.",
+      "page_intro": "¡Descubre Seúl, una metrópoli donde la historia se entrelaza con la modernidad! Desde la majestuosidad del Palacio Gyeongbokgung hasta las impresionantes vistas desde la N Seoul Tower, cada rincón tiene algo especial que ofrecer. No te pierdas la oportunidad de explorar esta fascinante ciudad: reserva con Klook y vive una experiencia inolvidable.",
       "items": [
         {
           "id": "gyeongbokgung-palace",
@@ -617,12 +637,16 @@
           "best_time": "morning",
           "klook_query": "Jongmyo Shrine ticket"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuáles son las principales atracciones en Seúl?",
+      "faq_q2": "¿Necesito boletos para las atracciones en Seúl?",
+      "faq_a1_suffix": " son algunas de las atracciones que no te puedes perder.",
+      "faq_a2": "Sí, muchas atracciones requieren boletos para la entrada. Te recomendamos comprar tus entradas a través de Klook para evitar filas y asegurar tu acceso."
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Seoul 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik di Seoul 2026 — Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Seoul. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Seoul.",
-      "page_intro": "Seoul, ibu kota Korea Selatan yang hidup, adalah kota di mana masa lalu dan masa kini hidup berdampingan secara harmonis. Dari istana kuno dan pasar tradisional hingga gedung pencakar langit modern dan distrik yang ramai, Seoul menawarkan beragam atraksi yang melayani semua jenis wisatawan. Baik Anda tertarik dengan pengalaman budaya, petualangan kuliner, atau menjelajahi arsitektur futuristik, Seoul menjanjikan perjalanan yang tak terlupakan yang dipenuhi dengan pemandangan menawan dan pengalaman unik.",
+      "page_intro": "Temukan pesona Seoul, di mana keindahan istana bersejarah dan modernitas bertemu! Dari Gyeongbokgung Palace yang megah hingga N Seoul Tower yang menakjubkan, setiap sudut kota ini menyimpan keajaiban. Pesan pengalaman Anda melalui Klook dan nikmati perjalanan yang tak terlupakan!",
       "items": [
         {
           "id": "gyeongbokgung-palace",
@@ -720,7 +744,11 @@
           "best_time": "morning",
           "klook_query": "Jongmyo Shrine ticket"
         }
-      ]
+      ],
+      "faq_q1": "Apa saja atraksi utama di Seoul?",
+      "faq_q2": "Apakah saya perlu tiket untuk atraksi di Seoul?",
+      "faq_a1_suffix": " adalah atraksi yang wajib dikunjungi.",
+      "faq_a2": "Ya, sebagian besar atraksi di Seoul memerlukan tiket masuk. Anda dapat membeli tiket dengan mudah melalui Klook untuk menghindari antrean."
     },
     "hi": {
       "seo_title": "सियोल में शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूरा गाइड",
@@ -826,7 +854,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Seul 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Seul 2026 — Guia e Dicas",
       "seo_description": "Explore as melhores atrações de Seul. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Seul.",
       "page_intro": "Seul, a vibrante capital da Coreia do Sul, é uma cidade onde o passado e o presente coexistem em harmonia. De antigos palácios e mercados tradicionais a modernos arranha-céus e distritos movimentados, Seul oferece uma variedade diversificada de atrações que atendem a todos os tipos de viajantes. Quer você esteja interessado em experiências culturais, aventuras culinárias ou explorando arquitetura futurista, Seul promete uma jornada inesquecível repleta de vistas cativantes e experiências únicas.",
       "items": [
@@ -929,7 +957,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في سيول 2026 — تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل 10 معالم في سيول 2026 — دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في سيول. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأبرز معالم سيول.",
       "page_intro": "سيول، العاصمة النابضة بالحياة لكوريا الجنوبية، هي مدينة يتعايش فيها الماضي والحاضر في تناغم. من القصور القديمة والأسواق التقليدية إلى ناطحات السحاب الحديثة والمناطق الصاخبة، تقدم سيول مجموعة متنوعة من المعالم التي تلبي جميع أنواع المسافرين. سواء كنت مهتمًا بالتجارب الثقافية، المغامرات الطهوية، أو استكشاف العمارة المستقبلية، تعد سيول برحلة لا تُنسى مليئة بالمناظر الآسرة والتجارب الفريدة.",
       "items": [
@@ -1032,8 +1060,8 @@
       ]
     },
     "bn": {
-      "seo_title": "সিওলে শীর্ষ আকর্ষণীয় স্থান ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "সিওলের সেরা আকর্ষণীয় স্থানগুলি অন্বেষণ করুন। সিওলের শীর্ষ দর্শনীয় স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "সিওল: ৮টি শীর্ষ আকর্ষণীয় স্থান ২০২৬ - সম্পূর্ণ গাইড",
+      "seo_description": "সিওলের সেরা ৮টি আকর্ষণীয় স্থান জানুন। টিকিটের দাম, খোলার সময় ও Klook বুকিং লিঙ্ক খুঁজুন। আপনার যাত্রা শুরু করুন!",
       "page_intro": "দক্ষিণ কোরিয়ার প্রাণবন্ত রাজধানী সিওল একটি শহর যেখানে অতীত এবং বর্তমান সহাবস্থান করে। প্রাচীন প্রাসাদ এবং ঐতিহ্যবাহী বাজার থেকে আধুনিক আকাশচুম্বি ভবন এবং ব্যস্ত এলাকাগুলি পর্যন্ত, সিওল সকল প্রকারের ভ্রমণকারীদের জন্য বিভিন্ন আকর্ষণীয় স্থান প্রদান করে। আপনি সাংস্কৃতিক অভিজ্ঞতা, খাদ্য অভিযানে আগ্রহী হন অথবা ভবিষ্যত স্থাপত্য অন্বেষণ করতে চান, সিওল একটি অবিস্মরণীয় যাত্রার প্রতিশ্রুতি দেয় যা মনোমুগ্ধকর দৃশ্য এবং অনন্য অভিজ্ঞতায় পরিপূর্ণ।",
       "items": [
         {
@@ -1135,8 +1163,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие Достопримечательности Сеула 2026 — Билеты, Советы и Полное Руководство",
-      "seo_description": "Исследуйте лучшие достопримечательности Сеула. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Сеула.",
+      "seo_title": "Топ 8 Достопримечательностей Сеула 2026",
+      "seo_description": "Откройте для себя часы работы, цены и советы по бронированию на Klook. Исследуйте Сеул с нашим полным гидом!",
       "page_intro": "Сеул, яркая столица Южной Кореи, это город, где прошлое и настоящее сосуществуют в гармонии. От древних дворцов и традиционных рынков до современных небоскрёбов и оживлённых районов, Сеул предлагает разнообразные достопримечательности, которые подойдут всем типам путешественников. Независимо от того, интересуетесь ли вы культурными впечатлениями, кулинарными приключениями или исследованием футуристической архитектуры, Сеул обещает незабываемое путешествие, полное захватывающих видов и уникальных впечатлений.",
       "items": [
         {

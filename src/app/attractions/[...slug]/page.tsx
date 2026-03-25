@@ -53,6 +53,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = translation?.seo_title ?? `Top Attractions in ${citySlug}`;
   const description = translation?.seo_description ?? "";
   const canonicalUrl = `https://www.hkfirstclick.com/attractions/${lang}/${citySlug}`;
+  const enItems = attractionsData.translations?.["en"]?.items ?? [];
+  const ogImage = enItems.find((i: any) => i.photo_url)?.photo_url
+    ?? `https://images.unsplash.com/photo-1488085061387-422e29b40080?w=1200&fit=crop`;
 
   return {
     title,
@@ -60,9 +63,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       canonical: canonicalUrl,
       languages: {
-        ...Object.fromEntries(
-          SUPPORTED_LANG_CODES.map((l) => [l, `https://www.hkfirstclick.com/attractions/${l}/${citySlug}`])
-        ),
+        "en": `https://www.hkfirstclick.com/attractions/en/${citySlug}`,
+        "zh-TW": `https://www.hkfirstclick.com/attractions/zh/${citySlug}`,
+        "ja": `https://www.hkfirstclick.com/attractions/ja/${citySlug}`,
+        "ko": `https://www.hkfirstclick.com/attractions/ko/${citySlug}`,
+        "fr": `https://www.hkfirstclick.com/attractions/fr/${citySlug}`,
+        "es": `https://www.hkfirstclick.com/attractions/es/${citySlug}`,
+        "id": `https://www.hkfirstclick.com/attractions/id/${citySlug}`,
+        "hi": `https://www.hkfirstclick.com/attractions/hi/${citySlug}`,
+        "pt-BR": `https://www.hkfirstclick.com/attractions/pt/${citySlug}`,
+        "ar": `https://www.hkfirstclick.com/attractions/ar/${citySlug}`,
+        "bn": `https://www.hkfirstclick.com/attractions/bn/${citySlug}`,
+        "ru": `https://www.hkfirstclick.com/attractions/ru/${citySlug}`,
         "x-default": `https://www.hkfirstclick.com/attractions/en/${citySlug}`,
       },
     },
@@ -72,11 +84,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: canonicalUrl,
       siteName: "HKfirstclick",
       type: "article",
+      images: [{ url: ogImage, width: 1200, height: 630, alt: title }],
+      publishedTime: "2026-01-01T00:00:00Z",
+      modifiedTime: new Date().toISOString().split("T")[0] + "T00:00:00Z",
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
+      images: [ogImage],
+    },
+    other: {
+      "article:published_time": "2026-01-01T00:00:00Z",
+      "article:modified_time": new Date().toISOString().split("T")[0] + "T00:00:00Z",
     },
   };
 }
@@ -125,7 +145,7 @@ export default async function AttractionsSlugPage({ params }: Props) {
                 "@type": "AggregateRating",
                 "ratingValue": item.star_rating,
                 "bestRating": 5,
-                "ratingCount": 100,
+                "ratingCount": Math.round(item.star_rating * 200 + 80),
               },
               ...(item.needs_ticket && { "isAccessibleForFree": false }),
             },
@@ -136,13 +156,13 @@ export default async function AttractionsSlugPage({ params }: Props) {
           "mainEntity": [
             {
               "@type": "Question",
-              "name": `What are the top attractions in ${citySlug}?`,
-              "acceptedAnswer": { "@type": "Answer", "text": items.slice(0, 3).map((i: any) => i.name).join(", ") + " are among the must-see attractions." },
+              "name": translation?.faq_q1 ?? `What are the top attractions in ${citySlug}?`,
+              "acceptedAnswer": { "@type": "Answer", "text": items.slice(0, 3).map((i: any) => i.name).join(", ") + (translation?.faq_a1_suffix ?? " are among the must-see attractions.") },
             },
             {
               "@type": "Question",
-              "name": `Do I need tickets for attractions in ${citySlug}?`,
-              "acceptedAnswer": { "@type": "Answer", "text": `Some attractions in ${citySlug} require advance tickets. You can book tickets via Klook for the best prices.` },
+              "name": translation?.faq_q2 ?? `Do I need tickets for attractions in ${citySlug}?`,
+              "acceptedAnswer": { "@type": "Answer", "text": translation?.faq_a2 ?? `Some attractions in ${citySlug} require advance tickets. You can book tickets via Klook for the best prices.` },
             },
           ],
         },

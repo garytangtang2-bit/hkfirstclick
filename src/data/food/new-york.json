@@ -2,9 +2,9 @@
   "city_slug": "new-york",
   "translations": {
     "en": {
-      "seo_title": "Best Food in New York 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in New York. From budget eats to fine dining — with booking links.",
-      "page_intro": "New York City is a melting pot of cultures, and its food scene reflects this diversity. From Michelin-starred restaurants to vibrant street food vendors, the city offers an incredible variety of culinary experiences. Whether you're craving a slice of pizza or a gourmet meal, New York has something to satisfy every palate.",
+      "seo_title": "8 Best Must-Try Restaurants in New York 2026",
+      "seo_description": "Save time with real recommendations! Book through Klook to discover local favorites. Plan your meal now!",
+      "page_intro": "Dive into New York City's vibrant food scene, where iconic dishes like bagels, pizza, and pastrami sandwiches await. Discover curated picks that save you time and enhance your culinary adventure with Klook.",
       "items": [
         {
           "id": "katzs-delicatessen",
@@ -13,7 +13,7 @@
           "description": "A legendary deli famous for its pastrami sandwiches, Katz's offers a classic New York experience. The bustling atmosphere and generous portions make it a must-visit. Don't miss their pastrami on rye, and expect to spend around $20-30 per person.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "Pastrami Sandwich",
           "klook_query": "Katz's Delicatessen booking",
           "photo_url": "https://images.pexels.com/photos/13667126/pexels-photo-13667126.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Smorgasburg is a food market that showcases a variety of local vendors offering delicious street food. From artisanal donuts to innovative tacos, there's something for everyone. Prices vary, but most dishes are around $5-15, making it a great spot for foodies.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Ramen Burger",
           "klook_query": "Smorgasburg food market booking",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Known for serving some of the best steaks in New York, Peter Luger has been a staple since 1887. The no-frills atmosphere adds to its charm. Be sure to order the signature porterhouse steak, with an average cost of $50-100 per person.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "Porterhouse Steak",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -48,7 +48,7 @@
           "description": "Famous for their chicken and gyro over rice, The Halal Guys started as a food cart and became a sensation. The vibrant flavors and generous portions make it a favorite among locals and tourists alike. Expect to pay around $8-10 for a filling meal.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Chicken and Gyro Platter",
           "klook_query": "The Halal Guys booking"
         },
@@ -59,7 +59,7 @@
           "description": "Renowned for its classic New York-style pizza, Di Fara Pizza is a must-visit for pizza lovers. Each pie is handcrafted with fresh ingredients, and the lines can be long, but the wait is worth it. Prices range from $20-30 for a pizza.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Cheese Pizza",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -70,7 +70,7 @@
           "description": "Chelsea Market is an indoor food hall that offers a wide range of cuisines from around the world. It's a perfect spot for foodies to explore diverse options, from tacos to sushi. Expect to spend about $10-20 per dish.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Lobster Roll",
           "klook_query": "Chelsea Market booking"
         },
@@ -81,7 +81,7 @@
           "description": "Los Tacos No. 1 serves authentic Mexican tacos that are a hit among NYC locals. With fresh ingredients and vibrant flavors, each taco is a burst of taste. Prices are reasonable, averaging around $3-5 per taco.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "Adobada Taco",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -92,16 +92,19 @@
           "description": "Jacob's Pickles is a cozy eatery known for its Southern comfort food and craft beer. The warm ambiance makes it ideal for a casual meal. Their pickles and fried chicken are highly recommended, with prices around $15-30.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Fried Chicken",
           "klook_query": "Jacob's Pickles booking"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in New York?",
+      "faq_q2": "Where can I find the best restaurants in New York?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 年紐約最佳美食 — 頂級餐廳與街頭美食指南",
-      "seo_description": "探索紐約最佳餐廳、街頭美食和當地特色。從經濟實惠的餐點到高檔餐飲 — 還附有預訂鏈接。",
-      "page_intro": "紐約市是文化的熔爐，其美食場景反映了這種多樣性。從米其林星級餐廳到充滿活力的街頭美食攤位，這座城市提供了令人難以置信的各種烹飪體驗。無論你渴望一片披薩還是一頓美食，紐約都有適合每種味蕾的選擇。",
+      "seo_title": "2026 年紐約最佳美食 — 8 大必吃隱藏版餐廳",
+      "seo_description": "節省時間，發現紐約的真實推薦！立即透過 Klook 預訂，計劃你的美食之旅，探索當地最愛！",
+      "page_intro": "紐約市的美食場景如同一場味蕾的盛宴，無論是經典的卡茲熟食店三明治，還是熱鬧的斯莫加斯堡美食市集，這裡的美味令人垂涎。探索這些精選餐廳，讓你的旅程更加難忘！",
       "items": [
         {
           "id": "katzs-delicatessen",
@@ -110,7 +113,7 @@
           "description": "這家傳奇的熟食店以其牛肉乾三明治而聞名，Katz's 提供經典的紐約體驗。熱鬧的氣氛和慷慨的份量使其成為必訪之地。不要錯過他們的黑麥牛肉乾，預計每人花費約 $20-30。",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "帕斯特拉米三明治",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -121,7 +124,7 @@
           "description": "Smorgasburg 是一個食品市場，展示了各種本地供應商提供的美味街頭食品。從手工甜甜圈到創新塔可，這裡有適合每個人的選擇。價格各異，但大多數菜品約 $5-15，是美食愛好者的理想之地。",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "拉麵漢堡",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -132,7 +135,7 @@
           "description": "以提供紐約一些最佳牛排而聞名，Peter Luger 自1887年以來一直是當地的主食。簡約的氛圍增添了其魅力。一定要點招牌波特豪斯牛排，平均每人花費約 $50-100。",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "波特豪斯牛排",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -143,7 +146,7 @@
           "description": "以雞肉和希臘肉飯而聞名，The Halal Guys 起初是一個食品推車，卻成為轟動一時的美食。鮮明的風味和慷慨的份量使其在當地人和遊客中都受到喜愛。預計每餐約需花費 $8-10。",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "雞肉與希臘肉串拼盤",
           "klook_query": "The Halal Guys booking"
         },
@@ -154,7 +157,7 @@
           "description": "以其經典紐約風格的披薩而聞名，Di Fara Pizza 是披薩愛好者的必訪之地。每個披薩都用新鮮的食材手工製作，排隊可能會很長，但等待是值得的。價格範圍為 $20-30。",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "起司披薩",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -165,7 +168,7 @@
           "description": "Chelsea Market 是一個室內食品廣場，提供來自世界各地的各種美食。這裡是美食愛好者探索多樣選擇的理想場所，從塔可到壽司。每道菜大約花費 $10-20。",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "龍蝦卷",
           "klook_query": "Chelsea Market booking"
         },
@@ -176,7 +179,7 @@
           "description": "Los Tacos No. 1 提供正宗的墨西哥塔可，在紐約市當地人中廣受歡迎。採用新鮮食材和鮮明風味，每個塔可都是一陣味覺的爆發。價格合理，平均每個塔可約 $3-5。",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "阿多巴塔可餅",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -187,16 +190,19 @@
           "description": "Jacob's Pickles 是一家舒適的餐廳，以南方舒適食物和精釀啤酒而聞名。溫馨的氛圍使其成為休閒用餐的理想之地。他們的醃菜和炸雞非常推薦，價格約在 $15-30。",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "炸雞",
           "klook_query": "Jacob's Pickles booking"
         }
-      ]
+      ],
+      "faq_q1": "在紐約市最好吃的食物是什麼？",
+      "faq_q2": "我在哪裡可以找到紐約市最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "2026年ニューヨークのベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ニューヨークのベストレストラン、ストリートフード、ローカルスペシャリティを発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "ニューヨーク市は文化のるつぼであり、その食文化はこの多様性を反映しています。ミシュラン星付きのレストランから活気あるストリートフードの屋台まで、街は信じられないほどの料理体験を提供しています。ピザのスライスが食べたい時も、グルメな食事が欲しい時も、ニューヨークにはすべての味覚を満たす何かがあります。",
+      "seo_title": "2026年ニューヨークの必食8レストラン — 地元の隠れた名店",
+      "seo_description": "時間を節約し、リアルなおすすめを発見。Klookで予約して、今すぐ地元の名店を計画しよう！",
+      "page_intro": "ニューヨークの食文化は、世界中の味が集まる魅力的な舞台です。名物のニューヨークスタイルのピザや、伝説のカッツ・デリカテッセンのサンドイッチなど、必食の料理が揃っています。Klookでの予約を利用して、時間を節約しながら厳選された美味しい体験をお楽しみください。",
       "items": [
         {
           "id": "katzs-delicatessen",
@@ -205,7 +211,7 @@
           "description": "パストラミサンドイッチで有名な伝説的なデリ、Katz'sはクラシックなニューヨーク体験を提供します。賑やかな雰囲気とボリューム満点の料理は訪れる価値があります。ライ麦パンのパストラミをお見逃しなく、1人あたり約$20-30を見込んでください。",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "パストラミサンドイッチ",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -216,7 +222,7 @@
           "description": "Smorgasburgは、様々な地元のベンダーが提供する美味しいストリートフードを展示するフードマーケットです。アーティザンドーナツから革新的なタコスまで、誰にでも楽しめるものがあります。価格は様々ですが、ほとんどの料理は約$5-15で、美食家にとって素晴らしいスポットです。",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "ラーメンバーガー",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -227,7 +233,7 @@
           "description": "ニューヨークで最高のステーキを提供することで知られるPeter Lugerは、1887年以来の定番です。シンプルな雰囲気がその魅力を加えています。名物のポーターハウスステーキを必ず注文してください。平均的な費用は1人あたり$50-100です。",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "ポーターハウスステーキ",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -238,7 +244,7 @@
           "description": "チキンとギロのライスで有名なThe Halal Guysは、フードカートから始まり、センセーションとなりました。鮮やかな風味とボリューム満点の料理は、地元の人々や観光客の間で人気です。満足のいく食事には約$8-10かかると予想してください。",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "チキンとギロプレート",
           "klook_query": "The Halal Guys booking"
         },
@@ -249,7 +255,7 @@
           "description": "クラシックなニューヨークスタイルのピザで有名なDi Fara Pizzaは、ピザ愛好者には必見の場所です。各ピザは新鮮な材料で手作りされており、行列は長くなることがありますが、待つ価値があります。価格は$20-30の範囲です。",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "チーズピザ",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -260,7 +266,7 @@
           "description": "Chelsea Marketは、世界中の多様な料理を提供する屋内フードホールです。タコスから寿司まで、食通が多様な選択肢を探求するのに最適な場所です。各料理には約$10-20かかると予想してください。",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "ロブスターロール",
           "klook_query": "Chelsea Market booking"
         },
@@ -271,7 +277,7 @@
           "description": "Los Tacos No. 1は、ニューヨークの地元の間で大ヒットの本格メキシコタコスを提供します。新鮮な材料と鮮やかな味わいで、各タコスは味の爆発です。価格は手頃で、平均$3-5です。",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "アドバダタコス",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -282,16 +288,19 @@
           "description": "Jacob's Picklesは、南部のコンフォートフードとクラフトビールで知られる居心地の良い食堂です。温かい雰囲気がカジュアルな食事にぴったりです。彼らのピクルスとフライドチキンは非常におすすめで、価格は約$15-30です。",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "フライドチキン",
           "klook_query": "Jacob's Pickles booking"
         }
-      ]
+      ],
+      "faq_q1": "ニューヨークでおすすめの食べ物は何ですか？",
+      "faq_q2": "ニューヨークで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高い飲食店の一部です。"
     },
     "ko": {
-      "seo_title": "2026년 뉴욕 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "뉴욕 최고의 레스토랑, 스트리트 푸드 및 지역 특산물을 발견하십시오. 예산 친화적인 식사부터 고급 식사까지 — 예약 링크가 포함되어 있습니다.",
-      "page_intro": "뉴욕시는 문화의 용광로이며, 그 음식 문화는 이러한 다양성을 반영합니다. 미쉐린 스타 레스토랑에서 활기찬 스트리트 푸드 판매자까지, 이 도시는 믿을 수 없을 만큼 다양한 요리 경험을 제공합니다. 피자 한 조각이든 미식가의 식사가 필요하든, 뉴욕에는 모든 입맛을 만족시킬 무언가가 있습니다.",
+      "seo_title": "2026년 뉴욕 최고의 8개 맛집 — 꼭 먹어봐야 할 숨은 보석",
+      "seo_description": "시간을 절약하고 진짜 추천을 확인하세요. Klook 예약으로 뉴욕의 로컬 맛집을 발견하고 식사를 계획해보세요!",
+      "page_intro": "뉴욕의 음식 문화는 그 자체로 하나의 예술입니다! 세계적으로 유명한 핫도그, 피자, 그리고 카츠 델리의 샌드위치 등, 이곳에서만 맛볼 수 있는 특별한 요리가 가득합니다. Klook에서 추천하는 최고의 맛집으로 시간을 절약하세요!",
       "items": [
         {
           "id": "katzs-delicatessen",
@@ -300,7 +309,7 @@
           "description": "파스트라미 샌드위치로 유명한 전설적인 델리, Katz's는 클래식한 뉴욕 경험을 제공합니다. 분주한 분위기와 넉넉한 양은 방문할 가치가 있습니다. 라이 호밀빵에 파스트라미를 놓치지 마세요. 1인당 약 $20-30를 예상하세요.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "파스트라미 샌드위치",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -311,7 +320,7 @@
           "description": "Smorgasburg는 다양한 지역 공급자가 제공하는 맛있는 스트리트 푸드를 전시하는 푸드 마켓입니다. 장인의 도넛부터 혁신적인 타코까지, 모든 사람을 위한 무언가가 있습니다. 가격은 다양하지만 대부분의 요리는 약 $5-15로 미식가에게 훌륭한 장소입니다.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "라멘 버거",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -322,7 +331,7 @@
           "description": "뉴욕 최고의 스테이크를 제공하는 것으로 유명한 Peter Luger는 1887년부터의 단골입니다. 소박한 분위기가 그 매력을 더합니다. 시그니처 포터하우스 스테이크를 꼭 주문하세요. 평균 비용은 1인당 $50-100입니다.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "포터하우스 스테이크",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -333,7 +342,7 @@
           "description": "치킨과 자이로를 곁들인 밥으로 유명한 The Halal Guys는 푸드 카트에서 시작하여 센세이션이 되었습니다. 생생한 풍미와 넉넉한 양은 현지인과 관광객 모두에게 사랑받고 있습니다. 푸짐한 식사에는 약 $8-10를 예상하세요.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "치킨과 기로 플래터",
           "klook_query": "The Halal Guys booking"
         },
@@ -344,7 +353,7 @@
           "description": "클래식한 뉴욕 스타일 피자로 유명한 Di Fara Pizza는 피자 애호가들에게 꼭 방문해야 할 장소입니다. 각 피자는 신선한 재료로 수작업으로 만들어지며, 대기줄이 길 수 있지만 기다릴 가치가 있습니다. 가격은 $20-30입니다.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "치즈 피자",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -355,7 +364,7 @@
           "description": "Chelsea Market는 세계 각국의 다양한 요리를 제공하는 실내 푸드 홀입니다. 타코에서 스시까지, 미식가들이 다양한 선택을 탐험할 수 있는 완벽한 장소입니다. 각 요리에 약 $10-20를 예상하세요.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "랍스터 롤",
           "klook_query": "Chelsea Market booking"
         },
@@ -366,7 +375,7 @@
           "description": "Los Tacos No. 1은 뉴욕 현지인들 사이에서 인기가 높은 정통 멕시코 타코를 제공합니다. 신선한 재료와 생생한 풍미로, 각 타코는 맛의 폭발입니다. 가격은 합리적이며, 평균적으로 타코당 약 $3-5입니다.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "아도바다 타코",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -377,16 +386,19 @@
           "description": "Jacob's Pickles는 남부 편안한 음식과 수제 맥주로 유명한 아늑한 식당입니다. 따뜻한 분위기는 캐주얼한 식사에 적합합니다. 그들의 피클과 프라이드 치킨은 매우 추천되며, 가격은 약 $15-30입니다.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "프라이드 치킨",
           "klook_query": "Jacob's Pickles booking"
         }
-      ]
+      ],
+      "faq_q1": "뉴욕에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "뉴욕에서 최고의 레스토랑은 어디서 찾을 수 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à New York 2026 — Meilleurs restaurants & guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à New York. Des repas économiques à la haute cuisine — avec des liens de réservation.",
-      "page_intro": "La ville de New York est un véritable melting pot de cultures, et sa scène gastronomique reflète cette diversité. Des restaurants étoilés au guide Michelin aux vendeurs de street food dynamiques, la ville offre une variété incroyable d'expériences culinaires. Que vous ayez envie d'une part de pizza ou d'un repas gourmet, New York a quelque chose pour satisfaire tous les palais.",
+      "seo_title": "8 Meilleurs Restaurants à New York 2026 – Incontournables",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les trésors locaux. Planifiez votre repas maintenant !",
+      "page_intro": "Plongez dans l'effervescence culinaire de New York, où chaque coin de rue révèle des saveurs uniques, des bagels aux cheesecakes. Avec nos choix soigneusement sélectionnés, savourez le meilleur de la gastronomie new-yorkaise sans perdre de temps.",
       "items": [
         {
           "id": "katzs-delicatessen",
@@ -395,7 +407,7 @@
           "description": "Une légendaire charcuterie célèbre pour ses sandwichs au pastrami, Katz's offre une expérience classique de New York. L'atmosphère animée et les portions généreuses en font un incontournable. Ne manquez pas leur pastrami sur seigle, et prévoyez de dépenser environ 20 à 30 $ par personne.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "Sandwich au pastrami",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -406,7 +418,7 @@
           "description": "Smorgasburg est un marché alimentaire qui met en avant une variété de vendeurs locaux offrant de délicieuses street food. Des donuts artisanaux aux tacos innovants, il y en a pour tous les goûts. Les prix varient, mais la plupart des plats sont environ 5 à 15 $, ce qui en fait un excellent spot pour les gourmets.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Burger ramen",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -417,7 +429,7 @@
           "description": "Connu pour servir certains des meilleurs steaks de New York, Peter Luger est une institution depuis 1887. L'atmosphère sans chichis ajoute à son charme. Assurez-vous de commander le steak porterhouse signature, avec un coût moyen de 50 à 100 $ par personne.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "Steak porterhouse",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -428,7 +440,7 @@
           "description": "Célèbre pour son poulet et son gyros sur riz, The Halal Guys a commencé comme un food truck et est devenu une sensation. Les saveurs vibrantes et les portions généreuses en font un favori parmi les habitants et les touristes. Attendez-vous à payer environ 8 à 10 $ pour un repas copieux.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Plat de poulet et gyros",
           "klook_query": "The Halal Guys booking"
         },
@@ -439,7 +451,7 @@
           "description": "Réputé pour sa pizza de style New York classique, Di Fara Pizza est un incontournable pour les amateurs de pizza. Chaque tarte est faite à la main avec des ingrédients frais, et les files d'attente peuvent être longues, mais l'attente en vaut la peine. Les prix varient de 20 à 30 $ pour une pizza.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Pizza au fromage",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -450,7 +462,7 @@
           "description": "Chelsea Market est un hall alimentaire intérieur qui propose une large gamme de cuisines du monde entier. C'est un endroit idéal pour les gourmets qui souhaitent explorer des options diverses, des tacos aux sushis. Attendez-vous à dépenser environ 10 à 20 $ par plat.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Roulé de homard",
           "klook_query": "Chelsea Market booking"
         },
@@ -461,7 +473,7 @@
           "description": "Los Tacos No. 1 sert des tacos mexicains authentiques qui sont très appréciés des habitants de NYC. Avec des ingrédients frais et des saveurs vibrantes, chaque taco est une explosion de goût. Les prix sont raisonnables, avec un prix moyen d'environ 3 à 5 $ par taco.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "Taco adobada",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -472,15 +484,18 @@
           "description": "Jacob's Pickles est un restaurant chaleureux connu pour sa cuisine de confort du Sud et sa bière artisanale. L'ambiance chaleureuse le rend idéal pour un repas décontracté. Leurs pickles et leur poulet frit sont fortement recommandés, avec des prix autour de 15 à 30 $.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Poulet frit",
           "klook_query": "Jacob's Pickles booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à New York ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à New York ?",
+      "faq_a2_suffix": " sont parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Nueva York 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Nueva York. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
+      "seo_title": "8 Mejores Restaurantes en Nueva York 2026",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
       "page_intro": "La ciudad de Nueva York es un crisol de culturas, y su escena gastronómica refleja esta diversidad. Desde restaurantes con estrellas Michelin hasta vibrantes vendedores de comida callejera, la ciudad ofrece una increíble variedad de experiencias culinarias. Ya sea que anheles una porción de pizza o una comida gourmet, Nueva York tiene algo para satisfacer todos los paladares.",
       "items": [
         {
@@ -490,7 +505,7 @@
           "description": "Una charcutería legendaria famosa por sus sándwiches de pastrami, Katz's ofrece una experiencia clásica de Nueva York. La atmósfera bulliciosa y las porciones generosas lo convierten en una visita obligada. No te pierdas su pastrami en centeno, y espera gastar alrededor de $20-30 por persona.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "Sándwich de Pastrami",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -501,7 +516,7 @@
           "description": "Smorgasburg es un mercado de comida que muestra una variedad de vendedores locales que ofrecen deliciosa comida callejera. Desde donuts artesanales hasta tacos innovadores, hay algo para todos. Los precios varían, pero la mayoría de los platos están alrededor de $5-15, lo que lo convierte en un excelente lugar para los foodies.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Hamburguesa Ramen",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -512,7 +527,7 @@
           "description": "Conocido por servir algunos de los mejores filetes en Nueva York, Peter Luger ha sido un pilar desde 1887. La atmósfera sin pretensiones añade a su encanto. Asegúrate de pedir el filete porterhouse, con un costo promedio de $50-100 por persona.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "Bistec Porterhouse",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -523,7 +538,7 @@
           "description": "Famoso por su pollo y gyro sobre arroz, The Halal Guys comenzó como un carrito de comida y se convirtió en una sensación. Los sabores vibrantes y las porciones generosas lo convierten en un favorito entre los locales y los turistas. Espera pagar alrededor de $8-10 por una comida abundante.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Plato de Pollo y Gyro",
           "klook_query": "The Halal Guys booking"
         },
@@ -534,7 +549,7 @@
           "description": "Renombrado por su pizza al estilo de Nueva York, Di Fara Pizza es una visita obligada para los amantes de la pizza. Cada pizza está hecha a mano con ingredientes frescos, y las filas pueden ser largas, pero la espera vale la pena. Los precios oscilan entre $20-30 por pizza.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Pizza de Queso",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -545,7 +560,7 @@
           "description": "Chelsea Market es un mercado de comida interior que ofrece una amplia gama de cocinas de todo el mundo. Es un lugar perfecto para que los amantes de la comida exploren diversas opciones, desde tacos hasta sushi. Espera gastar alrededor de $10-20 por plato.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Rollito de Langosta",
           "klook_query": "Chelsea Market booking"
         },
@@ -556,7 +571,7 @@
           "description": "Los Tacos No. 1 sirve auténticos tacos mexicanos que son un éxito entre los locales de Nueva York. Con ingredientes frescos y sabores vibrantes, cada taco es una explosión de sabor. Los precios son razonables, promediando entre $3-5 por taco.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "Taco Adobada",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -567,15 +582,15 @@
           "description": "Jacob's Pickles es un acogedor restaurante conocido por su comida reconfortante del sur y su cerveza artesanal. La cálida atmósfera lo hace ideal para una comida informal. Sus encurtidos y pollo frito son muy recomendados, con precios alrededor de $15-30.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Pollo Frito",
           "klook_query": "Jacob's Pickles booking"
         }
       ]
     },
     "id": {
-      "seo_title": "Best Food in New York 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in New York. From budget eats to fine dining — with booking links.",
+      "seo_title": "8 Restoran Terbaik di New York 2026 - Favorit Lokal",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata. Temukan Katz's, Smorgasburg, dan Peter Luger. Pesan melalui Klook dan rencanakan santapan Anda sekarang!",
       "page_intro": "New York City is a melting pot of cultures, and its food scene reflects this diversity. From Michelin-starred restaurants to vibrant street food vendors, the city offers an incredible variety of culinary experiences. Whether you're craving a slice of pizza or a gourmet meal, New York has something to satisfy every palate.",
       "items": [
         {
@@ -585,7 +600,7 @@
           "description": "A legendary deli famous for its pastrami sandwiches, Katz's offers a classic New York experience. The bustling atmosphere and generous portions make it a must-visit. Don't miss their pastrami on rye, and expect to spend around $20-30 per person.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "Sandwich Pastrami",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -596,7 +611,7 @@
           "description": "Smorgasburg is a food market that showcases a variety of local vendors offering delicious street food. From artisanal donuts to innovative tacos, there's something for everyone. Prices vary, but most dishes are around $5-15, making it a great spot for foodies.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Burger Ramen",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -607,7 +622,7 @@
           "description": "Known for serving some of the best steaks in New York, Peter Luger has been a staple since 1887. The no-frills atmosphere adds to its charm. Be sure to order the signature porterhouse steak, with an average cost of $50-100 per person.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "Steak Porterhouse",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -618,7 +633,7 @@
           "description": "Famous for their chicken and gyro over rice, The Halal Guys started as a food cart and became a sensation. The vibrant flavors and generous portions make it a favorite among locals and tourists alike. Expect to pay around $8-10 for a filling meal.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Piring Ayam dan Gyro",
           "klook_query": "The Halal Guys booking"
         },
@@ -629,7 +644,7 @@
           "description": "Renowned for its classic New York-style pizza, Di Fara Pizza is a must-visit for pizza lovers. Each pie is handcrafted with fresh ingredients, and the lines can be long, but the wait is worth it. Prices range from $20-30 for a pizza.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Pizza Keju",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -640,7 +655,7 @@
           "description": "Chelsea Market is an indoor food hall that offers a wide range of cuisines from around the world. It's a perfect spot for foodies to explore diverse options, from tacos to sushi. Expect to spend about $10-20 per dish.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Lobster Roll",
           "klook_query": "Chelsea Market booking"
         },
@@ -651,7 +666,7 @@
           "description": "Los Tacos No. 1 serves authentic Mexican tacos that are a hit among NYC locals. With fresh ingredients and vibrant flavors, each taco is a burst of taste. Prices are reasonable, averaging around $3-5 per taco.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "Taco Adobada",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -662,15 +677,15 @@
           "description": "Jacob's Pickles is a cozy eatery known for its Southern comfort food and craft beer. The warm ambiance makes it ideal for a casual meal. Their pickles and fried chicken are highly recommended, with prices around $15-30.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Ayam Goreng",
           "klook_query": "Jacob's Pickles booking"
         }
       ]
     },
     "hi": {
-      "seo_title": "न्यूयॉर्क में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "न्यूयॉर्क में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "न्यूयॉर्क के 10 बेहतरीन भोजन 2026 - शीर्ष रेस्तरां",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Katz's, Smorgasburg और Peter Luger Steak House के साथ Klook पर बुकिंग करें। अपने भोजन की योजना बनाएं!",
       "page_intro": "न्यूयॉर्क शहर संस्कृतियों का एक पिघलने वाला बर्तन है, और इसका खाद्य दृश्य इस विविधता को दर्शाता है। मिशेलिन-स्टार रेस्तरां से लेकर जीवंत स्ट्रीट फूड विक्रेताओं तक, शहर अद्भुत पाक अनुभवों की एक विस्तृत श्रृंखला पेश करता है। चाहे आप पिज्जा का एक टुकड़ा चाहते हों या एक शानदार भोजन, न्यूयॉर्क में हर स्वाद को संतुष्ट करने के लिए कुछ न कुछ है।",
       "items": [
         {
@@ -680,7 +695,7 @@
           "description": "पास्त्रामि सैंडविच के लिए प्रसिद्ध एक प्रसिद्ध डेली, कैट्ज़ एक क्लासिक न्यूयॉर्क अनुभव प्रदान करता है। हलचल भरा माहौल और उदार हिस्से इसे एक अवश्य देखने योग्य बनाते हैं। उनके राई पर पास्त्रामि को न छोड़ें, और प्रत्येक व्यक्ति के लिए लगभग $20-30 खर्च करने की उम्मीद करें।",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "पास्त्रामी सैंडविच",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -691,7 +706,7 @@
           "description": "स्मोर्गसबर्ग एक खाद्य बाजार है जो स्थानीय विक्रेताओं की एक श्रृंखला को प्रदर्शित करता है जो स्वादिष्ट स्ट्रीट फूड पेश करते हैं। आर्टिसनल डोनट्स से लेकर नवोन्मेषी टाकोस तक, यहाँ हर किसी के लिए कुछ न कुछ है। कीमतें भिन्न होती हैं, लेकिन अधिकांश व्यंजन $5-15 के आसपास होते हैं, जो खाद्य प्रेमियों के लिए एक शानदार स्थान बनाते हैं।",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "रामेन बर्गर",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -702,7 +717,7 @@
           "description": "न्यूयॉर्क में कुछ बेहतरीन स्टेक सर्व करने के लिए प्रसिद्ध, पीटर लूगर 1887 से एक स्थायी नाम है। बिना झंझट के माहौल इसकी खासियत को बढ़ाता है। सिग्नेचर पोर्टरहाउस स्टेक ऑर्डर करना न भूलें, जिसकी औसत लागत $50-100 प्रति व्यक्ति होती है।",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "पोर्टरहाउस स्टेक",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -713,7 +728,7 @@
           "description": "चिकन और जिरो ओवर राइस के लिए प्रसिद्ध, द हलाल गाइज एक खाद्य कार्ट के रूप में शुरू हुए और एक सनसनी बन गए। जीवंत स्वाद और उदार हिस्से इसे स्थानीय लोगों और पर्यटकों के बीच एक पसंदीदा बनाते हैं। भरपेट भोजन के लिए लगभग $8-10 खर्च करने की उम्मीद करें।",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "चिकन और गीरो प्लेटर",
           "klook_query": "The Halal Guys booking"
         },
@@ -724,7 +739,7 @@
           "description": "क्लासिक न्यूयॉर्क-शैली की पिज्जा के लिए प्रसिद्ध, डी फारा पिज्जा पिज्जा प्रेमियों के लिए एक अवश्य देखने योग्य स्थान है। प्रत्येक पाई ताजे सामग्री के साथ हाथ से बनाई जाती है, और कतारें लंबी हो सकती हैं, लेकिन इंतजार इसके लायक है। पिज्जा के लिए कीमतें $20-30 के बीच होती हैं।",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "चीज़ पिज़्ज़ा",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -735,7 +750,7 @@
           "description": "चेल्सी मार्केट एक इनडोर फूड हॉल है जो दुनिया भर के विभिन्न व्यंजनों की विस्तृत श्रृंखला पेश करता है। यह खाद्य प्रेमियों के लिए टाकोस से लेकर सुशी तक विविध विकल्पों का अन्वेषण करने के लिए एकदम सही स्थान है। प्रत्येक व्यंजन के लिए लगभग $10-20 खर्च करने की उम्मीद करें।",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "लॉबस्टर रोल",
           "klook_query": "Chelsea Market booking"
         },
@@ -746,7 +761,7 @@
           "description": "लॉस टाकोस नं। 1 प्रामाणिक मेक्सिकन टाकोस पेश करता है जो NYC के स्थानीय लोगों के बीच हिट हैं। ताज़ी सामग्री और जीवंत स्वाद के साथ, प्रत्येक टाको स्वाद का एक विस्फोट है। कीमतें उचित हैं, प्रत्येक टाको के लिए औसतन $3-5।",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "एडोबादा टैको",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -757,15 +772,15 @@
           "description": "जैकब्स पिकल्स एक आरामदायक भोजनालय है जो अपने दक्षिणी आरामदायक भोजन और शिल्प बियर के लिए जाना जाता है। गर्म वातावरण इसे एक आकस्मिक भोजन के लिए आदर्श बनाता है। उनके पिकल्स और तले हुए चिकन की अत्यधिक सिफारिश की जाती है, कीमतें लगभग $15-30 हैं।",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "फ्राइड चिकन",
           "klook_query": "Jacob's Pickles booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Nova Iorque 2026 — Principais Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Nova Iorque. Desde refeições econômicas até alta gastronomia — com links para reservas.",
+      "seo_title": "Os 10 Melhores Restaurantes em Nova Iorque 2026",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "A cidade de Nova Iorque é um caldeirão de culturas, e sua cena gastronômica reflete essa diversidade. Desde restaurantes estrelados pelo Michelin até vibrantes vendedores de comida de rua, a cidade oferece uma incrível variedade de experiências culinárias. Se você está desejando uma fatia de pizza ou uma refeição gourmet, Nova Iorque tem algo para satisfazer todos os paladares.",
       "items": [
         {
@@ -775,7 +790,7 @@
           "description": "Uma delicatessen lendária famosa por seus sanduíches de pastrami, Katz oferece uma experiência clássica de Nova Iorque. A atmosfera agitada e as porções generosas fazem dela uma visita obrigatória. Não perca o pastrami no centeio e espere gastar cerca de $20-30 por pessoa.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "Sanduíche de Pastrami",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -786,7 +801,7 @@
           "description": "Smorgasburg é um mercado de comida que apresenta uma variedade de vendedores locais oferecendo deliciosa comida de rua. Desde donuts artesanais até tacos inovadores, há algo para todos. Os preços variam, mas a maioria dos pratos custa entre $5-15, tornando-se um ótimo local para os amantes da comida.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Hambúrguer de Ramen",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -797,7 +812,7 @@
           "description": "Conhecido por servir alguns dos melhores steaks de Nova Iorque, o Peter Luger é um ícone desde 1887. A atmosfera simples acrescenta ao seu charme. Certifique-se de pedir o famoso steak porterhouse, com um custo médio de $50-100 por pessoa.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "Bife Porterhouse",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -808,7 +823,7 @@
           "description": "Famoso por seu frango e gyro sobre arroz, The Halal Guys começou como um carrinho de comida e se tornou uma sensação. Os sabores vibrantes e as porções generosas fazem dele um favorito entre locais e turistas. Espere pagar cerca de $8-10 por uma refeição farta.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Prato de Frango e Gyro",
           "klook_query": "The Halal Guys booking"
         },
@@ -819,7 +834,7 @@
           "description": "Renomada por sua clássica pizza estilo Nova Iorque, a Di Fara Pizza é uma visita obrigatória para os amantes de pizza. Cada pizza é feita à mão com ingredientes frescos, e as filas podem ser longas, mas a espera vale a pena. Os preços variam de $20-30 por pizza.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Pizza de Queijo",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -830,7 +845,7 @@
           "description": "Chelsea Market é um mercado de comida coberto que oferece uma ampla variedade de culinárias de todo o mundo. É um local perfeito para os amantes da comida explorarem opções diversas, de tacos a sushi. Espere gastar cerca de $10-20 por prato.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Sanduíche de Lagosta",
           "klook_query": "Chelsea Market booking"
         },
@@ -841,7 +856,7 @@
           "description": "Los Tacos No. 1 serve tacos mexicanos autênticos que são um sucesso entre os locais de NYC. Com ingredientes frescos e sabores vibrantes, cada taco é uma explosão de sabor. Os preços são razoáveis, com uma média de $3-5 por taco.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "Taco Adobada",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -852,15 +867,15 @@
           "description": "Jacob's Pickles é um restaurante aconchegante conhecido por sua comida confortante do sul e cervejas artesanais. O ambiente acolhedor o torna ideal para uma refeição casual. Os picles e o frango frito são altamente recomendados, com preços em torno de $15-30.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Frango Frito",
           "klook_query": "Jacob's Pickles booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل الطعام في نيويورك 2026 - دليل أفضل المطاعم وطعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في نيويورك. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "seo_title": "أفضل 8 مطاعم في نيويورك 2026 - تجارب لا تفوت",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل المطاعم في نيويورك. احجز عبر Klook وابدأ بتخطيط وجبتك الآن!",
       "page_intro": "مدينة نيويورك هي بوتقة تنصهر فيها الثقافات، ومشهد الطعام فيها يعكس هذه التنوع. من المطاعم الحائزة على نجوم ميشلان إلى بائعي طعام الشارع النابضين بالحياة، تقدم المدينة مجموعة مذهلة من التجارب الطهي. سواء كنت تتوق إلى شريحة من البيتزا أو وجبة فاخرة، فإن نيويورك لديها ما يرضي جميع الأذواق.",
       "items": [
         {
@@ -870,7 +885,7 @@
           "description": "دلي شهير معروف بسندويشات الباسترامي الخاصة به، تقدم كاتز تجربة كلاسيكية في نيويورك. تجعل الأجواء المزدحمة والأجزاء السخية منها وجهة يجب زيارتها. لا تفوت الباسترامي على الجاودار، ومن المتوقع أن تنفق حوالي 20-30 دولارًا للشخص الواحد.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "ساندويتش باسترامي",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -881,7 +896,7 @@
           "description": "سمورغاسبورغ هو سوق طعام يعرض مجموعة متنوعة من البائعين المحليين الذين يقدمون طعام الشارع اللذيذ. من الكعك الحرفي إلى التاكو المبتكر، هناك شيء للجميع. تختلف الأسعار، ولكن معظم الأطباق تتراوح بين 5-15 دولارًا، مما يجعله مكانًا رائعًا لعشاق الطعام.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "برغر رامين",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -892,7 +907,7 @@
           "description": "معروف بتقديمه لبعض من أفضل شرائح اللحم في نيويورك، تعتبر بيترا لوغر أساسية منذ عام 1887. تضيف الأجواء البسيطة إلى سحرها. تأكد من طلب شريحة اللحم المميزة، بتكلفة متوسطة تتراوح بين 50-100 دولار للشخص الواحد.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "ستيك بورتيرهوس",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -903,7 +918,7 @@
           "description": "مشهور بدجاجه وجيرو الأرز، بدأ الحلال غايز كعربة طعام وأصبح ظاهرة. تجعل النكهات النابضة والأجزاء السخية منه مفضلًا بين المحليين والسياح على حد سواء. توقع دفع حوالي 8-10 دولارات لوجبة مملوءة.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "طبق دجاج وجيروس",
           "klook_query": "The Halal Guys booking"
         },
@@ -914,7 +929,7 @@
           "description": "معروفة ببيتزا نيويورك الكلاسيكية، تعتبر دي فاري بيتزا وجهة يجب زيارتها لعشاق البيتزا. يتم صنع كل فطيرة يدويًا بمكونات طازجة، وقد تكون الطوابير طويلة، لكن الانتظار يستحق ذلك. تتراوح الأسعار من 20-30 دولارًا للبيتزا.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "بيتزا جبن",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -925,7 +940,7 @@
           "description": "سوق تشيلسي هو قاعة طعام داخلية تقدم مجموعة واسعة من المأكولات من جميع أنحاء العالم. إنه مكان مثالي لعشاق الطعام لاستكشاف خيارات متنوعة، من التاكو إلى السوشي. توقع إنفاق حوالي 10-20 دولارًا لكل طبق.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "لفائف لوبستر",
           "klook_query": "Chelsea Market booking"
         },
@@ -936,7 +951,7 @@
           "description": "يقدم لوس تاكوس رقم 1 التاكو المكسيكي الأصيل الذي يحظى بشعبية بين سكان مدينة نيويورك. مع مكونات طازجة ونكهات نابضة، كل تاكو هو انفجار من الطعم. الأسعار معقولة، بمتوسط 3-5 دولارات لكل تاكو.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "تاكو أدوبادا",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -947,15 +962,15 @@
           "description": "مخللات يعقوب هو مطعم مريح معروف بالطعام الجنوبي المريح والبيرة الحرفية. تجعل الأجواء الدافئة منه مثاليًا لوجبة غير رسمية. أوصي بشدة بمخللاتهم والدجاج المقلي، بأسعار تتراوح حول 15-30 دولارًا.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "دجاج مقلي",
           "klook_query": "Jacob's Pickles booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "নিউ ইয়র্কের সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
-      "seo_description": "নিউ ইয়র্কের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "seo_title": "নিউ ইয়র্কের ১০টি সেরা খাবার ২০২৬ - মাস্ট-ট্রাই রেস্তোরাঁ",
+      "seo_description": "আপনার সময় বাঁচান এবং নিউ ইয়র্কের স্থানীয় বিশেষত্ব আবিষ্কার করুন। Klook বুকিংয়ের মাধ্যমে এখন আপনার খাবার পরিকল্পনা করুন!",
       "page_intro": "নিউ ইয়র্ক সিটি সংস্কৃতির একটি গলিত পাত্র, এবং এর খাবারের দৃশ্য এই বৈচিত্র্যকে প্রতিফলিত করে। মিশেলিন-স্টার রেস্তোরাঁ থেকে শুরু করে উজ্জ্বল স্ট্রিট ফুড বিক্রেতাদের কাছে, শহর অবিশ্বাস্য রকমের পুষ্টি অভিজ্ঞতা প্রদান করে। আপনি যদি পিজ্জার একটি টুকরো বা একটি গৃহজাত খাবারের জন্য কামনা করেন, নিউ ইয়র্কে প্রতিটি স্বাদের জন্য কিছু না কিছু আছে।",
       "items": [
         {
@@ -965,7 +980,7 @@
           "description": "পাস্ত্রমি স্যান্ডউইচের জন্য বিখ্যাত একটি কিংবদন্তি ডেলি, কাটজ একটি ক্লাসিক নিউ ইয়র্ক অভিজ্ঞতা প্রদান করে। ব্যস্ত পরিবেশ এবং উদার অংশগুলি এটিকে একটি অবশ্যই ভ্রমণযোগ্য করে তোলে। তাদের রাইয়ের উপর পাস্ত্রমি মিস করবেন না, এবং প্রত্যেক ব্যক্তির জন্য প্রায় $20-30 খরচ করার আশা করুন।",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "পাস্ত্রামি স্যান্ডউইচ",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -976,7 +991,7 @@
           "description": "স্মোর্গাসবার্গ একটি খাদ্য বাজার যা স্থানীয় বিক্রেতাদের বিভিন্ন প্রকারের সুস্বাদু স্ট্রিট ফুড প্রদর্শন করে। শিল্পী ডোনাট থেকে শুরু করে উদ্ভাবনী টাকোস পর্যন্ত, সবার জন্য কিছু না কিছু রয়েছে। দাম ভিন্ন হয়, তবে বেশিরভাগ খাবার $5-15 এর মধ্যে থাকে, যা খাদ্যপ্রেমীদের জন্য একটি দুর্দান্ত স্থান করে তোলে।",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "রামেন বার্গার",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -987,7 +1002,7 @@
           "description": "নিউ ইয়র্কের কিছু সেরা স্টেক পরিবেশন করার জন্য পরিচিত, পিটার লুগার 1887 সাল থেকে একটি স্টেপল। কোনো প্রকারের ফ্রিল নেই পরিবেশে এর আকর্ষণ যোগ করে। স্বাক্ষর পোর্টারহাউস স্টেক অর্ডার করা নিশ্চিত করুন, যার গড় খরচ $50-100 প্রতি ব্যক্তির।",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "পোর্টারহাউস স্টেক",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -998,7 +1013,7 @@
           "description": "চিকেন এবং জিরো ওভার রাইসের জন্য পরিচিত, দ্য হালাল গাইজ একটি খাদ্য গাড়ি হিসেবে শুরু হয়েছিল এবং একটি সেনসেশন হয়ে উঠেছে। উজ্জ্বল স্বাদ এবং উদার অংশগুলির জন্য এটি স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয়। একটি পরিপূর্ণ খাবারের জন্য প্রায় $8-10 খরচ করার আশা করুন।",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "চিকেন এবং গাইরো প্ল্যাটার",
           "klook_query": "The Halal Guys booking"
         },
@@ -1009,7 +1024,7 @@
           "description": "ক্লাসিক নিউ ইয়র্ক-শৈলীর পিজ্জার জন্য বিখ্যাত, ডি ফারা পিজ্জা পিজ্জা প্রেমীদের জন্য একটি অবশ্যই ভ্রমণযোগ্য স্থান। প্রতিটি পি হাত দিয়ে তাজা উপাদান দিয়ে তৈরি করা হয়, এবং লাইনে দাঁড়ানো দীর্ঘ হতে পারে, তবে অপেক্ষা করার মতো। পিজ্জার জন্য দাম $20-30 এর মধ্যে।",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "চিজ পিজ্জা",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -1020,7 +1035,7 @@
           "description": "চেলসি মার্কেট একটি ইনডোর ফুড হল যা বিশ্বের বিভিন্ন রন্ধনপ্রণালীর বিস্তৃত পরিসর প্রদান করে। এটি খাদ্যপ্রেমীদের জন্য বিভিন্ন বিকল্প অনুসন্ধানের জন্য একটি নিখুঁত স্থান, টাকোস থেকে শুরু করে সুশি পর্যন্ত। প্রত্যেকটি ম dish ার জন্য প্রায় $10-20 খরচ করার আশা করুন।",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "লবস্টার রোল",
           "klook_query": "Chelsea Market booking"
         },
@@ -1031,7 +1046,7 @@
           "description": "লস টাকোস নং ১ প্রামাণিক মেক্সিকান টাকোস পরিবেশন করে যা NYC এর স্থানীয়দের মধ্যে জনপ্রিয়। তাজা উপাদান এবং উজ্জ্বল স্বাদ সহ, প্রতিটি টাকো স্বাদের বিস্ফোরণ। দামগুলি যুক্তিসঙ্গত, প্রতি টাকোর জন্য গড়ে $3-5।",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "অ্যাডোবাদা টাকো",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -1042,15 +1057,15 @@
           "description": "জ্যাকবের পিকলস একটি আরামদায়ক খাবারের স্থান যা দক্ষিণী আরামদায়ক খাবার এবং কারিগরি বিয়ারের জন্য পরিচিত। উষ্ণ পরিবেশ এটি একটি অনানুষ্ঠানিক খাবারের জন্য আদর্শ করে তোলে। তাদের পিকলস এবং ভাজা মুরগির অত্যন্ত সুপারিশ করা হয়, দাম প্রায় $15-30।",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "ফ্রাইড চিকেন",
           "klook_query": "Jacob's Pickles booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Нью-Йорке 2026 — Топ-рестораны и гид по уличной еде",
-      "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных специалитетах в Нью-Йорке. От бюджетных блюд до изысканной кухни — со ссылками на бронирование.",
+      "seo_title": "10 Лучших Ресторанов Нью-Йорка 2026 — Обязательно!",
+      "seo_description": "Сэкономьте время с нашими рекомендациями! Узнайте о Katz's, Smorgasburg и Peter Luger. Бронируйте через Klook и планируйте свой обед сейчас!",
       "page_intro": "Нью-Йорк — это плавильный котел культур, и его гастрономическая сцена отражает это разнообразие. От ресторанов с звездами Мишлен до ярких уличных торговцев, город предлагает невероятное разнообразие кулинарных впечатлений. Если вы хотите кусочек пиццы или изысканный ужин, в Нью-Йорке найдется что-то на любой вкус.",
       "items": [
         {
@@ -1060,7 +1075,7 @@
           "description": "Легендарная деликатесса, известная своими сэндвичами с пастрамой, Кац предлагает классический нью-йоркский опыт. Оживленная атмосфера и щедрые порции делают это место обязательным для посещения. Не пропустите пастраму на ржаном хлебе и ожидайте потратить около $20-30 с человека.",
           "image_keyword": "Katz's Delicatessen pastrami sandwich",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "$25–40",
           "must_try": "Пастрами сэндвич",
           "klook_query": "Katz's Delicatessen booking"
         },
@@ -1071,7 +1086,7 @@
           "description": "Сморгасбург — это рынок еды, который демонстрирует разнообразных местных продавцов, предлагающих вкусную уличную еду. От ремесленных пончиков до инновационных тако, здесь есть что-то для всех. Цены варьируются, но большинство блюд стоят от $5 до $15, что делает это отличным местом для гурманов.",
           "image_keyword": "Smorgasburg food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Рамен бургер",
           "klook_query": "Smorgasburg food market booking"
         },
@@ -1082,7 +1097,7 @@
           "description": "Известный тем, что подает некоторые из лучших стейков в Нью-Йорке, Питер Лугер является основным заведением с 1887 года. Непритязательная атмосфера добавляет шарма. Обязательно закажите фирменный стейк-портерхаус, средняя стоимость которого составляет от $50 до $100 с человека.",
           "image_keyword": "Peter Luger Steak House steak",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "$50–80",
           "must_try": "Портерхаус стейк",
           "klook_query": "Peter Luger Steak House booking"
         },
@@ -1093,7 +1108,7 @@
           "description": "Известные своим куриным блюдом и гиросом с рисом, Халал Гайз начали как фургон с едой и стали сенсацией. Яркие вкусы и щедрые порции делают это любимым местом как для местных жителей, так и для туристов. Ожидайте заплатить около $8-10 за сытный обед.",
           "image_keyword": "The Halal Guys food cart",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Курица с гиросом",
           "klook_query": "The Halal Guys booking"
         },
@@ -1104,7 +1119,7 @@
           "description": "Знаменитая своей классической нью-йоркской пиццей, Ди Фара Пицца — это обязательное место для любителей пиццы. Каждая пицца изготавливается вручную из свежих ингредиентов, и очереди могут быть длинными, но ожидание того стоит. Цены варьируются от $20 до $30 за пиццу.",
           "image_keyword": "Di Fara Pizza slice",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Пицца с сыром",
           "klook_query": "Di Fara Pizza booking"
         },
@@ -1115,7 +1130,7 @@
           "description": "Челси Маркет — это крытый рынок еды, который предлагает широкий спектр кухонь со всего мира. Это идеальное место для гурманов, чтобы исследовать разнообразные варианты, от тако до суши. Ожидайте потратить около $10-20 за блюдо.",
           "image_keyword": "Chelsea Market food hall",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Лобстер ролл",
           "klook_query": "Chelsea Market booking"
         },
@@ -1126,7 +1141,7 @@
           "description": "Лос Такос № 1 предлагает подлинные мексиканские тако, которые пользуются популярностью среди местных жителей Нью-Йорка. С свежими ингредиентами и яркими вкусами каждое тако — это взрыв вкуса. Цены разумные, в среднем от $3 до $5 за тако.",
           "image_keyword": "Los Tacos No. 1 tacos",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "$3–6",
           "must_try": "Тако адобада",
           "klook_query": "Los Tacos No. 1 booking"
         },
@@ -1137,7 +1152,7 @@
           "description": "Пиклс Якоба — это уютное заведение, известное своей южной комфортной едой и крафтовым пивом. Уютная атмосфера делает его идеальным для непринужденного обеда. Их соленья и жареная курица настоятельно рекомендуются, цены составляют около $15-30.",
           "image_keyword": "Jacob's Pickles southern food",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Жареная курица",
           "klook_query": "Jacob's Pickles booking"
         }

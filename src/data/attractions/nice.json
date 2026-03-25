@@ -2,9 +2,9 @@
   "city_slug": "nice",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Nice 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Nice. Find opening hours, ticket prices and booking links for Nice's top landmarks.",
-      "page_intro": "Nice, located on the French Riviera, is a stunning destination known for its beautiful beaches, vibrant markets, and rich history. Visitors can enjoy a blend of culture, art, and relaxation, making it an ideal spot for both adventure seekers and those looking to unwind. With its Mediterranean climate and picturesque landscapes, Nice offers something for everyone.",
+      "seo_title": "8 Must-See Attractions in Nice 2026 — Complete Guide",
+      "seo_description": "Discover ticket prices, opening hours, and insider tips for Nice's top attractions. Book your adventure with Klook today!",
+      "page_intro": "Discover the allure of Nice, where the stunning Promenade des Anglais and the breathtaking views from Castle Hill await you. Don't miss the artistic treasures at Musée Matisse! Skip the lines and book via Klook for an unforgettable experience.",
       "items": [
         {
           "id": "promenade-des-anglais",
@@ -102,12 +102,16 @@
           "best_time": "afternoon",
           "klook_query": "Musée des Beaux-Arts de Nice tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Nice?",
+      "faq_q2": "Do I need tickets for attractions in Nice?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Nice require tickets for entry. To make your visit seamless, consider booking your tickets through Klook."
     },
     "zh": {
-      "seo_title": "尼斯最佳景點 2026 — 票務、建議及完整指南",
-      "seo_description": "探索尼斯最好的景點。查找尼斯主要地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "尼斯位於法國蔚藍海岸，是一個以美麗海灘、充滿活力的市場和豐富歷史而聞名的迷人目的地。遊客可以享受文化、藝術和放鬆的結合，成為尋求冒險和想要放鬆的理想地點。尼斯擁有地中海氣候和如畫的景觀，為每個人提供了獨特的體驗。",
+      "seo_title": "2026年尼斯最佳景點 — 8大必看景點完整指南",
+      "seo_description": "獲取尼斯主要景點的票務、開放時間及內部建議，立即透過Klook預訂，開始您的旅程！",
+      "page_intro": "探索尼斯這個迷人的城市，無論是沿著壯觀的英國大道漫步，還是攀登城堡山欣賞全景，這裡的每一處都充滿驚喜。從馬蒂斯博物館的藝術珍品到迷人的海灘，尼斯是一個不容錯過的目的地，別忘了透過Klook預訂，輕鬆跳過排隊！",
       "items": [
         {
           "id": "promenade-des-anglais",
@@ -205,12 +209,16 @@
           "best_time": "afternoon",
           "klook_query": "Musée des Beaux-Arts de Nice tickets"
         }
-      ]
+      ],
+      "faq_q1": "尼斯的熱門景點有哪些？",
+      "faq_q2": "我需要購買尼斯景點的門票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數尼斯的景點都需要購票，建議您透過Klook提前購買，以便享受更便利的入場體驗。"
     },
     "ja": {
-      "seo_title": "2026年ニースのトップアトラクション — チケット、ヒント＆完全ガイド",
-      "seo_description": "ニースの最高のアトラクションを探索します。ニースの主要なランドマークの営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "フレンチリビエラに位置するニースは、美しいビーチ、活気ある市場、豊かな歴史で知られる魅力的な目的地です。訪問者は文化、アート、リラクゼーションの融合を楽しむことができ、冒険を求める人々やリラックスしたい人々にとって理想的なスポットです。地中海気候と絵のような風景を持つニースは、誰にでも何かを提供します。",
+      "seo_title": "2026年ニースの必見アトラクション8選 — 完全ガイド",
+      "seo_description": "ニースのチケット、営業時間、インサイダー情報をチェック。Klookでの予約リンクもあり！今すぐ計画を始めましょう。",
+      "page_intro": "ニースの魅力的な観光スポットを探索しましょう！プロムナード・デ・ザングレや美しい城山、マティス美術館など、訪れる価値のある名所が満載です。行列を避けて、Klookで簡単に予約しましょう。",
       "items": [
         {
           "id": "promenade-des-anglais",
@@ -308,12 +316,16 @@
           "best_time": "afternoon",
           "klook_query": "Musée des Beaux-Arts de Nice tickets"
         }
-      ]
+      ],
+      "faq_q1": "ニースのおすすめ観光スポットは何ですか？",
+      "faq_q2": "ニースの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光名所です。",
+      "faq_a2": "はい、多くの観光名所には入場券が必要です。Klookを利用すれば、事前にチケットを購入してスムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "2026년 니스의 주요 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "니스의 최고의 명소를 탐험하세요. 니스의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "프렌치 리비에라에 위치한 니스는 아름다운 해변, 활기찬 시장 및 풍부한 역사로 알려진 매력적인 목적지입니다. 방문객들은 문화, 예술 및 휴식의 조화를 즐길 수 있으며, 모험을 찾는 사람들과 긴장을 풀고 싶은 사람들에게 이상적인 장소입니다. 지중해 기후와 그림 같은 경치를 갖춘 니스는 모든 사람에게 무언가를 제공합니다.",
+      "seo_title": "2026년 니스의 8대 필수 명소 — 완벽 가이드",
+      "seo_description": "니스의 주요 명소 운영 시간, 티켓 가격 및 Klook 예약 링크를 확인하세요. 지금 바로 여행 계획을 세워보세요!",
+      "page_intro": "니스는 프렌치 리비에라의 보석으로, 아름다운 프로므나드 데 장글레와 역사적인 성산인 성산 언덕, 그리고 마티스 미술관과 같은 명소들로 가득합니다. 이곳에서 문화와 예술의 매력을 만끽하며, Klook을 통해 간편하게 예약하고 줄 서는 번거로움을 피하세요.",
       "items": [
         {
           "id": "promenade-des-anglais",
@@ -411,12 +423,16 @@
           "best_time": "afternoon",
           "klook_query": "Musée des Beaux-Arts de Nice tickets"
         }
-      ]
+      ],
+      "faq_q1": "니스의 주요 명소는 무엇인가요?",
+      "faq_q2": "니스의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "대부분의 명소는 입장권이 필요하며, Klook을 통해 미리 구매하면 더욱 편리합니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Nice 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Découvrez les meilleures attractions à Nice. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Nice.",
-      "page_intro": "Nice, située sur la Côte d'Azur, est une destination magnifique connue pour ses belles plages, ses marchés animés et sa riche histoire. Les visiteurs peuvent profiter d'un mélange de culture, d'art et de détente, en faisant de cette ville un lieu idéal pour les amateurs d'aventure et ceux qui souhaitent se relaxer. Avec son climat méditerranéen et ses paysages pittoresques, Nice offre quelque chose pour tout le monde.",
+      "seo_title": "8 Must-See Attractions à Nice 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions de Nice. Réservez vos billets sur Klook et explorez dès maintenant!",
+      "page_intro": "Découvrez Nice, un trésor de la Côte d'Azur où la Promenade des Anglais et la Colline du Château vous attendent. Plongez dans l'art au Musée Matisse et laissez-vous séduire par cette ville enchanteresse. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "promenade-des-anglais",
@@ -514,11 +530,15 @@
           "best_time": "afternoon",
           "klook_query": "Musée des Beaux-Arts de Nice tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Nice ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Nice ?",
+      "faq_a1_suffix": " font partie des incontournables.",
+      "faq_a2": "Oui, il est conseillé de réserver vos billets à l'avance pour éviter les files d'attente. Utilisez Klook pour un accès facile et rapide."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Niza 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Niza. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Niza.",
+      "seo_title": "8 Atracciones Imperdibles en Niza 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Niza. Reserva fácilmente en Klook y disfruta de tu visita.",
       "page_intro": "Niza, situada en la Costa Azul, es un destino impresionante conocido por sus hermosas playas, mercados vibrantes y rica historia. Los visitantes pueden disfrutar de una combinación de cultura, arte y relajación, lo que lo convierte en un lugar ideal tanto para los buscadores de aventuras como para quienes buscan relajarse. Con su clima mediterráneo y paisajes pintorescos, Niza ofrece algo para todos.",
       "items": [
         {
@@ -620,7 +640,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Nice 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Atraksi Terbaik di Nice 2026 — Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Nice. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Nice.",
       "page_intro": "Nice, yang terletak di Riviera Prancis, adalah tujuan yang menakjubkan yang dikenal karena pantai yang indah, pasar yang ramai, dan sejarah yang kaya. Pengunjung dapat menikmati perpaduan budaya, seni, dan relaksasi, menjadikannya tempat ideal bagi pencari petualangan dan mereka yang ingin bersantai. Dengan iklim Mediterania dan pemandangan yang indah, Nice menawarkan sesuatu untuk semua orang.",
       "items": [
@@ -826,9 +846,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Nice 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Nice 2026 — Dicas e Ingressos",
       "seo_description": "Explore as melhores atrações em Nice. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Nice.",
-      "page_intro": "Nice, localizada na Riviera Francesa, é um destino deslumbrante, conhecido por suas belas praias, mercados vibrantes e rica história. Os visitantes podem desfrutar de uma mistura de cultura, arte e relaxamento, tornando-se um local ideal tanto para os aventureiros quanto para aqueles que buscam descansar. Com seu clima mediterrâneo e paisagens pitorescas, Nice oferece algo para todos.",
+      "page_intro": "Descubra a beleza de Nice, onde a Promenade des Anglais, o encantador Castle Hill e o inspirador Musée Matisse esperam por você. Mergulhe em uma experiência cultural única e aproveite para evitar filas, reservando sua visita pelo Klook.",
       "items": [
         {
           "id": "promenade-des-anglais",
@@ -926,10 +946,14 @@
           "best_time": "afternoon",
           "klook_query": "Musée des Beaux-Arts de Nice tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Nice?",
+      "faq_q2": "Preciso de ingressos para as atrações em Nice?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, muitas atrações exigem ingressos. Você pode comprá-los facilmente pelo Klook para evitar filas."
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في نيس 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 5 معالم في نيس 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في نيس. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم في نيس.",
       "page_intro": "تعتبر نيس، الواقعة على الريفييرا الفرنسية، وجهة رائعة معروفة بشواطئها الجميلة، وأسواقها النابضة بالحياة، وتاريخها الغني. يمكن للزوار الاستمتاع بمزيج من الثقافة والفن والاسترخاء، مما يجعلها مكانًا مثاليًا لكل من الباحثين عن المغامرة وأولئك الذين يسعون للاسترخاء. مع مناخها المتوسطي ومناظرها الخلابة، تقدم نيس شيئًا للجميع.",
       "items": [
@@ -1032,8 +1056,8 @@
       ]
     },
     "bn": {
-      "seo_title": "নিসের শীর্ষ আকর্ষণ ২০২৬ - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "নিসের সেরা আকর্ষণগুলি অন্বেষণ করুন। নিসের প্রধান স্থাপনার জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "নিসের ৮টি সেরা আকর্ষণ ২০২৬ - সম্পূর্ণ গাইড",
+      "seo_description": "নিসের সেরা ৮টি আকর্ষণ আবিষ্কার করুন। টিকিটের দাম, খোলার সময় ও Klook বুকিং লিঙ্ক পান। এখনই আপনার ভ্রমণ পরিকল্পনা করুন!",
       "page_intro": "নিস, ফরাসি রিভিয়েরায় অবস্থিত, একটি চমৎকার গন্তব্য যা তার সুন্দর সৈকত, প্রাণবন্ত বাজার এবং সমৃদ্ধ ইতিহাসের জন্য পরিচিত। দর্শকরা সংস্কৃতি, শিল্প এবং বিশ্রামের একটি মিশ্রণ উপভোগ করতে পারেন, যা এটি অভিযাত্রী খোঁজার এবং বিশ্রাম করতে চাওয়াদের জন্য একটি আদর্শ স্থান করে তোলে। এর ভূমধ্যসাগরীয় জলবায়ু এবং চিত্রকর্মের দৃশ্যপটের সাথে, নিস সবার জন্য কিছু না কিছু অফার করে।",
       "items": [
         {
@@ -1135,8 +1159,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Ниццы 2026 — Билеты, Советы и Полное руководство",
-      "seo_description": "Изучите лучшие достопримечательности Ниццы. Найдите часы работы, цены на билеты и ссылки на бронирование для главных достопримечательностей Ниццы.",
+      "seo_title": "8 Лучших Достопримечательностей Ниццы 2026",
+      "seo_description": "Откройте для себя 8 лучших достопримечательностей Ниццы. Узнайте часы работы, цены и забронируйте билеты через Klook. Начните своё путешествие!",
       "page_intro": "Ницца, расположенная на французской Ривьере, является потрясающим направлением, известным своими красивыми пляжами, яркими рынками и богатой историей. Посетители могут насладиться сочетанием культуры, искусства и отдыха, что делает это идеальным местом как для искателей приключений, так и для тех, кто хочет расслабиться. С средиземноморским климатом и живописными пейзажами Ницца предлагает что-то для каждого.",
       "items": [
         {

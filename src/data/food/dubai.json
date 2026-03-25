@@ -2,9 +2,9 @@
   "city_slug": "dubai",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Dubai 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Dubai. From budget eats to fine dining — with booking links.",
-      "page_intro": "Dubai's food scene is a vibrant tapestry of flavors influenced by its diverse culture and heritage. From traditional Emirati dishes to international cuisine, the city offers a culinary adventure for every palate. Whether you're exploring the bustling street food markets or dining in luxurious restaurants, Dubai is a food lover's paradise.",
+      "seo_title": "8 Best Must-Try Restaurants in Dubai 2026",
+      "seo_description": "Save time with real recommendations for Dubai's top eats. Book via Klook and discover local favorites. Plan your meal now!",
+      "page_intro": "Dive into Dubai's culinary wonderland, where spices dance and flavors collide! Savor local delights like shawarma and falafel, or indulge in exquisite fine dining. Let us guide you to the best spots with curated picks and easy Klook bookings!",
       "items": [
         {
           "id": "al-maha-restaurant",
@@ -13,7 +13,7 @@
           "description": "Nestled in the tranquil desert, Al Maha offers a unique dining experience with Emirati and international cuisine. The ambiance is luxurious and serene, perfect for a romantic dinner or special occasion. Don't miss the lamb ouzi, a traditional dish cooked to perfection. Price range is $$$.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Lamb Ouzi",
           "klook_query": "Al Maha Desert Resort dining",
           "photo_url": "https://images.pexels.com/photos/8484836/pexels-photo-8484836.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Karama Market is a bustling hub of street food, offering a range of delicious bites from various Asian cuisines. Try the famous shawarma and samosas while enjoying the vibrant atmosphere. Prices are budget-friendly, making it a great stop for food lovers. Expect a lively crowd and a variety of flavors.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Shawarma",
           "klook_query": "Karama Market food tour",
           "photo_url": "https://images.pexels.com/photos/868110/pexels-photo-868110.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Zaroob is known for its modern take on Middle Eastern street food. The lively setting and colorful decor add to the experience, making it a popular spot for locals and tourists alike. Be sure to try the manakish and falafel wraps. Prices are reasonable, ranging from $ to $$.",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Manakish",
           "klook_query": "Zaroob restaurant booking",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -49,7 +49,7 @@
           "description": "For those craving Caribbean flavors, Smoky Jerk offers mouthwatering jerk chicken and other island delights. This food truck is a local favorite, often found at various events and markets. The casual vibe and affordable prices make it a must-visit. Enjoy it with a side of rice and peas.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Jerk Chicken",
           "klook_query": "Smoky Jerk food truck",
           "photo_url": "https://images.pexels.com/photos/949131/pexels-photo-949131.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -61,7 +61,7 @@
           "description": "Al Reef Bakery is famous for its fresh and delicious Emirati pastries. The cozy atmosphere is perfect for enjoying a quick snack or dessert. Don't miss the khameer bread and date-filled pastries, which are popular among both locals and visitors. Prices are very affordable.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "Khameer Bread",
           "klook_query": "Al Reef Bakery visit",
           "photo_url": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -73,7 +73,7 @@
           "description": "Located on the 122nd floor of the Burj Khalifa, At.mosphere offers stunning views alongside a fine dining experience. The menu features gourmet dishes with a focus on seasonal ingredients. Ideal for a special occasion, be sure to try the caviar and the signature beef tenderloin. Prices are $$$.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Beef Tenderloin",
           "klook_query": "At.mosphere reservation",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -85,7 +85,7 @@
           "description": "Souk Al Bahar is a cultural marketplace featuring a variety of restaurants and cafes overlooking the Burj Lake. Enjoy local and international dishes in a vibrant setting. Perfect for a night out, with a range of options from casual to fine dining. Prices vary from $ to $$$.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Arabic Mezze",
           "klook_query": "Souk Al Bahar food options",
           "photo_url": "https://images.pexels.com/photos/337932/pexels-photo-337932.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -97,17 +97,20 @@
           "description": "Al Hallab is a well-known Lebanese restaurant that serves authentic Middle Eastern cuisine. The vibrant atmosphere and friendly service make it a popular choice. Be sure to try the mixed grill platter, which is perfect for sharing. Prices are $$.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Mixed Grill Platter",
           "klook_query": "Al Hallab restaurant booking",
           "photo_url": "https://images.pexels.com/photos/415752/pexels-photo-415752.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Dubai?",
+      "faq_q2": "Where can I find the best restaurants in Dubai?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年迪拜最佳美食 — 顶级餐厅与街头美食指南",
-      "seo_description": "探索迪拜最佳餐厅、街头美食和当地特产。从经济实惠的美食到高档餐饮 — 带有预订链接。",
-      "page_intro": "迪拜的美食场景是一个充满活力的风味拼图，受其多元文化和遗产的影响。从传统的阿联酋菜肴到国际美食，这座城市为每一种口味提供了美食冒险。无论你是在熙熙攘攘的街头美食市场还是在豪华餐厅用餐，迪拜都是美食爱好者的天堂。",
+      "seo_title": "2026年迪拜最佳美食 — 8大必嚐隱藏美味",
+      "seo_description": "節省時間，發掘迪拜真實推薦，透過Klook預訂，立即計劃你的美食之旅！",
+      "page_intro": "迪拜的美食场景如同一场味蕾的盛宴，融合了传统阿联酋菜肴与世界各地的风味。无论是品尝香料丰富的沙威玛，还是在豪华的Al Maha Desert Resort & Spa用餐，迪拜都能满足每一位美食爱好者的期待。让我们为你节省时间，带你探索经过精心挑选的美食体验，尽在Klook预订。",
       "items": [
         {
           "id": "al-maha-restaurant",
@@ -116,7 +119,7 @@
           "description": "坐落于宁静的沙漠中，阿尔马哈提供独特的用餐体验，结合阿联酋和国际美食。奢华而宁静的氛围，非常适合浪漫晚餐或特殊场合。不要错过完美烹饪的羔羊烤肉。价格范围为 $$$。",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "羊肉烤餅",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -127,7 +130,7 @@
           "description": "卡拉马市场是一个热闹的街头美食中心，提供各种亚洲美食的美味小吃。尝试著名的沙威玛和萨莫萨，享受充满活力的氛围。价格实惠，非常适合美食爱好者。人群热闹，风味多样。",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "沙威瑪",
           "klook_query": "Karama Market food tour"
         },
@@ -138,7 +141,7 @@
           "description": "扎鲁布以其现代风格的中东街头美食而闻名。热闹的环境和多彩的装饰为体验增添了乐趣，成为当地人和游客的热门去处。一定要尝试马纳基什和法拉费尔卷。价格合理，范围从 $ 到 $$。",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "馬納基什",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -149,7 +152,7 @@
           "description": "对于渴望加勒比风味的人，烟熏炖肉提供美味的炭烧鸡和其他岛屿美食。这个食品车是当地人的最爱，常常出现在各种活动和市场上。轻松的氛围和实惠的价格使其成为必访之地。搭配米饭和豌豆享用。",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "牙買加燒雞",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -160,7 +163,7 @@
           "description": "阿尔里夫面包店以新鲜美味的阿联酋糕点而闻名。舒适的环境非常适合享用快速小吃或甜点。不要错过受当地人和游客欢迎的哈米尔面包和枣饼。价格非常实惠。",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "哈米爾麵包",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -171,7 +174,7 @@
           "description": "位于哈利法塔122层的At.mosphere，提供壮观的景色与高档用餐体验。菜单特色美食，重点突出时令食材。非常适合特殊场合，一定要尝试鱼子酱和招牌牛肉菲力。价格为 $$$。",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "牛小排",
           "klook_query": "At.mosphere reservation"
         },
@@ -182,7 +185,7 @@
           "description": "巴哈尔市场是一个文化市场，拥有各种餐厅和咖啡馆，可俯瞰哈利法湖。在充满活力的环境中享用当地和国际菜肴。非常适合夜间出游，提供从休闲到高档的多种选择。价格从 $ 到 $$$ 不等。",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "阿拉伯小菜",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -193,16 +196,19 @@
           "description": "阿尔哈拉布是一家著名的黎巴嫩餐厅，提供正宗的中东美食。生动的氛围和友好的服务使其成为受欢迎的选择。一定要尝试适合分享的混合烤肉拼盘。价格为 $$。",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "混合燒烤拼盤",
           "klook_query": "Al Hallab restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "在迪拜最推荐吃什么？",
+      "faq_q2": "在迪拜哪里可以找到最好的餐厅？",
+      "faq_a2_suffix": " 是最受欢迎的用餐选择之一。"
     },
     "ja": {
-      "seo_title": "2026年ドバイのベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ドバイの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "ドバイの食文化は、多様な文化と遺産の影響を受けた活気に満ちた風味のタペストリーです。伝統的なエミラティ料理から国際的な料理まで、この都市はすべての味覚に向けた料理の冒険を提供します。賑やかなストリートフード市場を探検するか、豪華なレストランで食事を楽しむか、ドバイは食べ物愛好家の楽園です。",
+      "seo_title": "2026年ドバイの必食トップ8レストランと隠れた名店",
+      "seo_description": "時間を節約し、本当におすすめのレストランを見つけましょう。Klookで予約して、地元の名物を今すぐ計画しましょう！",
+      "page_intro": "ドバイの食のシーンは、スパイスと香りが織りなす魅力的な冒険です。伝統的なフムスや香ばしいシャワルマ、豪華なデザートが楽しめます。Klookで厳選されたレストランを予約して、素晴らしい食体験をお楽しみください。",
       "items": [
         {
           "id": "al-maha-restaurant",
@@ -211,7 +217,7 @@
           "description": "静かな砂漠に位置するアルマハは、エミラティと国際料理を提供するユニークなダイニング体験を提供します。雰囲気は贅沢で静かで、ロマンチックなディナーや特別な日のために完璧です。完璧に調理されたラムウジをお見逃しなく。価格帯は $$$。",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "ラム・ウジ",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -222,7 +228,7 @@
           "description": "カラマ市場は、さまざまなアジア料理の美味しいスナックを提供する賑やかなストリートフードの中心地です。有名なシャワルマとサモサを味わいながら、活気ある雰囲気を楽しんでください。価格は予算に優しく、美食愛好家にとって素晴らしい立ち寄りスポットです。賑やかな人々とさまざまなフレーバーを期待してください。",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "シャワルマ",
           "klook_query": "Karama Market food tour"
         },
@@ -233,7 +239,7 @@
           "description": "ザルーブは、現代的な中東のストリートフードで知られています。活気のある設定とカラフルな装飾が体験を豊かにし、地元の人々や観光客に人気のスポットとなっています。マナキッシュとファラフェルラップは必ず試してみてください。価格は $ から $$ の範囲で合理的です。",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "マナキシュ",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -244,7 +250,7 @@
           "description": "カリブの風味を求める方には、スモーキージャークが口の中でとろけるようなジャークチキンや他の島の美味を提供します。このフードトラックは地元の人々のお気に入りで、さまざまなイベントや市場でよく見かけます。カジュアルな雰囲気と手頃な価格で、訪れる価値があります。ご飯と豆と一緒に楽しんでください。",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "ジャークチキン",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -255,7 +261,7 @@
           "description": "アルリーフベーカリーは、新鮮で美味しいエミラティのペストリーで有名です。居心地の良い雰囲気は、軽食やデザートを楽しむのに最適です。地元の人々や訪問者に人気のあるハミールブレッドやデーツ入りペストリーをお見逃しなく。価格は非常に手頃です。",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "ハミールブレッド",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -266,7 +272,7 @@
           "description": "ブルジュ・ハリファの122階に位置するAt.mosphereでは、素晴らしい景色とともに高級な食事体験を提供します。メニューには、季節の食材に焦点を当てたグルメ料理が含まれています。特別な機会に最適で、キャビアと名物ビーフテンダーロインをぜひお試しください。価格は $$$。",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "ビーフテンダーロイン",
           "klook_query": "At.mosphere reservation"
         },
@@ -277,7 +283,7 @@
           "description": "スーク・アル・バハールは、ブルジュ湖を見渡すさまざまなレストランやカフェを特徴とする文化市場です。活気ある環境で地元および国際料理を楽しめます。カジュアルから高級ダイニングまで多様な選択肢があり、夜のお出かけに最適です。価格は $ から $$$ まで様々です。",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "アラビックメゼ",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -288,16 +294,19 @@
           "description": "アル・ハラーブは、本格的な中東料理を提供する有名なレバノンのレストランです。活気ある雰囲気とフレンドリーなサービスが人気の理由です。シェアするのに最適なミックスグリルプレートをぜひお試しください。価格は $$。",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "ミックスグリルプレート",
           "klook_query": "Al Hallab restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "ドバイでおすすめの料理は何ですか？",
+      "faq_q2": "ドバイで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの中でも特におすすめです。"
     },
     "ko": {
-      "seo_title": "2026년 두바이 최고의 음식 — 최고의 레스토랑 및 길거리 음식 가이드",
-      "seo_description": "두바이 최고의 레스토랑, 길거리 음식 및 지역 특산물을 발견하세요. 예산 친화적인 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "두바이의 음식 장면은 다양한 문화와 유산의 영향을 받은 활기찬 맛의 태피스트리입니다. 전통 에미리트 요리부터 국제 요리에 이르기까지 이 도시는 모든 입맛을 위한 요리 모험을 제공합니다. 분주한 길거리 음식 시장을 탐험하든 고급 레스토랑에서 식사를 하든 두바이는 음식 애호가의 천국입니다.",
+      "seo_title": "2026년 두바이 최고의 8가지 맛집 — 필수 맛집 가이드",
+      "seo_description": "시간을 절약하고 진짜 추천을 확인하세요. Klook 예약으로 지역 특선 요리를 즐기고 지금 맛집을 계획해 보세요!",
+      "page_intro": "두바이의 음식 장면은 세계 각국의 맛이 어우러진 진정한 미식 천국입니다. 전통적인 샤와르마부터 향긋한 후무스까지, 이곳의 특별한 요리는 입맛을 사로잡습니다. Klook에서 추천하는 맛집을 통해 시간을 절약하고 최고의 미식을 경험하세요!",
       "items": [
         {
           "id": "al-maha-restaurant",
@@ -306,7 +315,7 @@
           "description": "조용한 사막에 위치한 알 마하는 에미리트 및 국제 요리를 제공하는 독특한 다이닝 경험을 제공합니다. 고급스럽고 고요한 분위기는 로맨틱한 저녁 식사나 특별한 날에 완벽합니다. 완벽하게 조리된 양고기 우지(오븐 구운 양고기)를 놓치지 마세요. 가격대는 $$$입니다.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "양고기 우지",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -317,7 +326,7 @@
           "description": "카라마 시장은 다양한 아시아 요리의 맛있는 간식을 제공하는 분주한 길거리 음식 중심지입니다. 유명한 샤와르마와 사모사를 맛보며 활기찬 분위기를 즐기세요. 가격이 저렴해 음식 애호가들에게 훌륭한 정거장입니다. 활기찬 인파와 다양한 맛을 기대하세요.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "샤와르마",
           "klook_query": "Karama Market food tour"
         },
@@ -328,7 +337,7 @@
           "description": "자루브는 현대적인 중동 길거리 음식으로 유명합니다. 활기찬 환경과 다채로운 장식이 경험을 더욱 풍부하게 만들어 주며, 현지인과 관광객 모두에게 인기 있는 장소입니다. 마나키쉬와 팔라펠 랩은 꼭 시도해 보세요. 가격은 $에서 $$까지 합리적입니다.",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "마나키시",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -339,7 +348,7 @@
           "description": "카리브해의 맛을 갈망하는 사람들을 위해 스모키 저크는 군침이 도는 저크 치킨과 다른 섬의 요리를 제공합니다. 이 푸드 트럭은 현지인들에게 인기 있으며, 다양한 행사와 시장에서 자주 볼 수 있습니다. 캐주얼한 분위기와 저렴한 가격으로 꼭 가봐야 할 곳입니다. 밥과 완두콩과 함께 즐기세요.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "저크 치킨",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -350,7 +359,7 @@
           "description": "알 리프 베이커리는 신선하고 맛있는 에미리트 페이스트리로 유명합니다. 아늑한 분위기는 빠른 간식이나 디저트를 즐기기에 완벽합니다. 현지인과 방문객 모두에게 인기 있는 하미르 빵과 대추로 속을 채운 페이스트리를 놓치지 마세요. 가격이 매우 저렴합니다.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "카미르 빵",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -361,7 +370,7 @@
           "description": "부르즈 할리파 122층에 위치한 At.mosphere는 멋진 전망과 함께 고급 식사 경험을 제공합니다. 메뉴는 제철 재료에 중점을 둔 고급 요리를 특징으로 합니다. 특별한 날에 적합하며, 캐비어와 시그니처 비프 텐더로인을 꼭 드셔보세요. 가격은 $$$입니다.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "소고기 안심",
           "klook_query": "At.mosphere reservation"
         },
@@ -372,7 +381,7 @@
           "description": "수크 알 바하르는 부르즈 호수를 바라보는 다양한 레스토랑과 카페가 있는 문화 시장입니다. 활기찬 환경에서 현지 및 국제 요리를 즐길 수 있습니다. 캐주얼한 것부터 고급 다이닝까지 다양한 옵션이 있어 밤 외출에 적합합니다. 가격은 $에서 $$$까지 다양합니다.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "아랍식 메제",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -383,16 +392,19 @@
           "description": "알 할랍은 정통 중동 요리를 제공하는 유명한 레바논 레스토랑입니다. 활기찬 분위기와 친절한 서비스로 인기 있는 선택입니다. 나눠 먹기에 적합한 혼합 그릴 플래터를 꼭 드셔보세요. 가격은 $$입니다.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "혼합 그릴 플래터",
           "klook_query": "Al Hallab restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "두바이에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "두바이에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 식사 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Dubaï 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Dubaï. Des repas à petit budget à la haute cuisine — avec des liens de réservation.",
-      "page_intro": "La scène culinaire de Dubaï est une tapisserie vibrante de saveurs influencées par sa culture et son patrimoine divers. Des plats traditionnels émiratis à la cuisine internationale, la ville offre une aventure culinaire pour tous les palais. Que vous exploriez les marchés de street food animés ou dîniez dans des restaurants luxueux, Dubaï est un paradis pour les amateurs de gastronomie.",
+      "seo_title": "8 Meilleures Adresses à Dubaï 2026 — Incontournables",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les spécialités locales. Planifiez votre repas dès maintenant !",
+      "page_intro": "Dubaï est un véritable festin pour les sens, où chaque plat raconte une histoire unique. Ne manquez pas de goûter aux spécialités émiraties comme le shawarma et le machboos. Profitez de nos sélections soigneusement choisies pour savourer le meilleur de la gastronomie locale sans perdre de temps.",
       "items": [
         {
           "id": "al-maha-restaurant",
@@ -401,7 +413,7 @@
           "description": "Niché dans le désert tranquille, Al Maha offre une expérience culinaire unique avec une cuisine émiratie et internationale. L'ambiance est luxueuse et sereine, parfaite pour un dîner romantique ou une occasion spéciale. Ne manquez pas le lamb ouzi, un plat traditionnel cuit à la perfection. La fourchette de prix est $$$.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Agneau Ouzi",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -412,7 +424,7 @@
           "description": "Le marché de Karama est un carrefour animé de street food, offrant une gamme de délices issus de diverses cuisines asiatiques. Essayez le célèbre shawarma et les samosas tout en profitant de l'atmosphère vibrante. Les prix sont abordables, ce qui en fait un excellent arrêt pour les amateurs de gastronomie. Attendez-vous à une foule animée et à une variété de saveurs.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Shawarma",
           "klook_query": "Karama Market food tour"
         },
@@ -423,7 +435,7 @@
           "description": "Zaroob est connu pour sa version moderne de la street food du Moyen-Orient. L'environnement animé et la décoration colorée ajoutent à l'expérience, en faisant un endroit populaire tant pour les locaux que pour les touristes. Assurez-vous d'essayer les manakish et les wraps de falafel. Les prix sont raisonnables, allant de $ à $$.",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Manakish",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -434,7 +446,7 @@
           "description": "Pour ceux qui recherchent des saveurs caribéennes, Smoky Jerk propose du poulet jerk savoureux et d'autres délices insulaires. Ce food truck est un favori local, souvent trouvé lors de divers événements et marchés. L'ambiance décontractée et les prix abordables en font un must. Profitez-en avec un accompagnement de riz et de pois.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Poulet Jerk",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -445,7 +457,7 @@
           "description": "La boulangerie Al Reef est célèbre pour ses pâtisseries émiraties fraîches et délicieuses. L'atmosphère chaleureuse est parfaite pour déguster un en-cas rapide ou un dessert. Ne manquez pas le pain khameer et les pâtisseries fourrées aux dattes, qui sont populaires auprès des locaux et des visiteurs. Les prix sont très abordables.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "Pain Khameer",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -456,7 +468,7 @@
           "description": "Situé au 122ème étage du Burj Khalifa, At.mosphere offre une vue imprenable ainsi qu'une expérience de haute cuisine. Le menu propose des plats gastronomiques axés sur des ingrédients de saison. Idéal pour une occasion spéciale, assurez-vous d'essayer le caviar et le filet de bœuf signature. Les prix sont $$$.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Filet de bœuf",
           "klook_query": "At.mosphere reservation"
         },
@@ -467,7 +479,7 @@
           "description": "Le Souk Al Bahar est un marché culturel regroupant une variété de restaurants et de cafés surplombant le lac Burj. Profitez de plats locaux et internationaux dans un cadre vibrant. Parfait pour une sortie nocturne, avec un éventail d'options allant du décontracté à la haute cuisine. Les prix varient de $ à $$$.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Mezze arabe",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -478,16 +490,19 @@
           "description": "Al Hallab est un restaurant libanais bien connu qui sert une cuisine authentique du Moyen-Orient. L'atmosphère vibrante et le service amical en font un choix populaire. Assurez-vous d'essayer le plateau de grillades mixtes, parfait pour partager. Les prix sont $$.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Assiette de grillades mixtes",
           "klook_query": "Al Hallab restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Dubaï ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Dubaï ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Dubái 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Dubái. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
-      "page_intro": "La escena gastronómica de Dubái es un vibrante tapiz de sabores influenciados por su diversa cultura y patrimonio. Desde platos tradicionales emiratíes hasta cocina internacional, la ciudad ofrece una aventura culinaria para todos los paladares. Ya sea que estés explorando los bulliciosos mercados de comida callejera o cenando en lujosos restaurantes, Dubái es un paraíso para los amantes de la comida.",
+      "seo_title": "8 Mejores Restaurantes en Dubái 2026 - Joyas Ocultas",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre el festín de sabores que ofrece Dubái! Desde el delicioso shawarma hasta los exquisitos platos emiratíes, la ciudad es un verdadero paraíso gastronómico. Ahorra tiempo y disfruta de nuestras selecciones curadas para una experiencia inolvidable.",
       "items": [
         {
           "id": "al-maha-restaurant",
@@ -496,7 +511,7 @@
           "description": "Ubicado en el tranquilo desierto, Al Maha ofrece una experiencia culinaria única con cocina emiratí e internacional. El ambiente es lujoso y sereno, perfecto para una cena romántica o una ocasión especial. No te pierdas el lamb ouzi, un plato tradicional cocinado a la perfección. El rango de precios es $$$.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Cordero Ouzi",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -507,7 +522,7 @@
           "description": "El Mercado de Karama es un bullicioso centro de comida callejera, que ofrece una variedad de deliciosos bocados de diversas cocinas asiáticas. Prueba el famoso shawarma y los samosas mientras disfrutas de la vibrante atmósfera. Los precios son asequibles, lo que lo convierte en una gran parada para los amantes de la comida. Espera una multitud animada y una variedad de sabores.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Shawarma",
           "klook_query": "Karama Market food tour"
         },
@@ -518,7 +533,7 @@
           "description": "Zaroob es conocido por su enfoque moderno de la comida callejera del Medio Oriente. El entorno animado y la colorida decoración añaden a la experiencia, convirtiéndolo en un lugar popular tanto para locales como para turistas. Asegúrate de probar los manakish y los wraps de falafel. Los precios son razonables, que van desde $ hasta $$. ",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Manakish",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -529,7 +544,7 @@
           "description": "Para aquellos que anhelan sabores caribeños, Smoky Jerk ofrece pollo jerk delicioso y otras delicias isleñas. Este camión de comida es un favorito local, a menudo encontrado en varios eventos y mercados. La atmósfera informal y los precios asequibles lo convierten en una visita obligada. Disfrútalo con un acompañamiento de arroz y guisantes.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Pollo Jerk",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -540,7 +555,7 @@
           "description": "Al Reef Bakery es famosa por sus pasteles emiratíes frescos y deliciosos. El ambiente acogedor es perfecto para disfrutar de un bocadillo rápido o un postre. No te pierdas el pan khameer y los pasteles rellenos de dátiles, que son populares entre los locales y visitantes. Los precios son muy asequibles.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "Pan Khameer",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -551,7 +566,7 @@
           "description": "Ubicado en el piso 122 del Burj Khalifa, At.mosphere ofrece impresionantes vistas junto con una experiencia de alta cocina. El menú presenta platos gourmet con un enfoque en ingredientes de temporada. Ideal para una ocasión especial, asegúrate de probar el caviar y el solomillo de res de la casa. Los precios son $$$.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Solomillo de Res",
           "klook_query": "At.mosphere reservation"
         },
@@ -562,7 +577,7 @@
           "description": "Souk Al Bahar es un mercado cultural que cuenta con una variedad de restaurantes y cafeterías con vistas al lago Burj. Disfruta de platos locales e internacionales en un ambiente vibrante. Perfecto para una noche de salida, con una variedad de opciones que van desde casual hasta alta cocina. Los precios varían de $ a $$$.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Mezze Árabe",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -573,15 +588,18 @@
           "description": "Al Hallab es un conocido restaurante libanés que sirve auténtica cocina del Medio Oriente. La atmósfera vibrante y el servicio amable lo convierten en una opción popular. Asegúrate de probar la bandeja de parrilladas mixtas, perfecta para compartir. Los precios son $$.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Plato de Parrilla Mixta",
           "klook_query": "Al Hallab restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Dubái?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Dubái?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas más valoradas."
     },
     "id": {
-      "seo_title": "Best Food in Dubai 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Dubai. From budget eats to fine dining — with booking links.",
+      "seo_title": "8 Restoran Terbaik di Dubai 2026 - Must Try!",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata. Pesan di Klook dan rencanakan makanan Anda sekarang!",
       "page_intro": "Dubai's food scene is a vibrant tapestry of flavors influenced by its diverse culture and heritage. From traditional Emirati dishes to international cuisine, the city offers a culinary adventure for every palate. Whether you're exploring the bustling street food markets or dining in luxurious restaurants, Dubai is a food lover's paradise.",
       "items": [
         {
@@ -591,7 +609,7 @@
           "description": "Nestled in the tranquil desert, Al Maha offers a unique dining experience with Emirati and international cuisine. The ambiance is luxurious and serene, perfect for a romantic dinner or special occasion. Don't miss the lamb ouzi, a traditional dish cooked to perfection. Price range is $$$.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Lamb Ouzi",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -602,7 +620,7 @@
           "description": "Karama Market is a bustling hub of street food, offering a range of delicious bites from various Asian cuisines. Try the famous shawarma and samosas while enjoying the vibrant atmosphere. Prices are budget-friendly, making it a great stop for food lovers. Expect a lively crowd and a variety of flavors.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Shawarma",
           "klook_query": "Karama Market food tour"
         },
@@ -613,7 +631,7 @@
           "description": "Zaroob is known for its modern take on Middle Eastern street food. The lively setting and colorful decor add to the experience, making it a popular spot for locals and tourists alike. Be sure to try the manakish and falafel wraps. Prices are reasonable, ranging from $ to $$.",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Manakish",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -624,7 +642,7 @@
           "description": "For those craving Caribbean flavors, Smoky Jerk offers mouthwatering jerk chicken and other island delights. This food truck is a local favorite, often found at various events and markets. The casual vibe and affordable prices make it a must-visit. Enjoy it with a side of rice and peas.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Jerk Chicken",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -635,7 +653,7 @@
           "description": "Al Reef Bakery is famous for its fresh and delicious Emirati pastries. The cozy atmosphere is perfect for enjoying a quick snack or dessert. Don't miss the khameer bread and date-filled pastries, which are popular among both locals and visitors. Prices are very affordable.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "Roti Khameer",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -646,7 +664,7 @@
           "description": "Located on the 122nd floor of the Burj Khalifa, At.mosphere offers stunning views alongside a fine dining experience. The menu features gourmet dishes with a focus on seasonal ingredients. Ideal for a special occasion, be sure to try the caviar and the signature beef tenderloin. Prices are $$$.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Beef Tenderloin",
           "klook_query": "At.mosphere reservation"
         },
@@ -657,7 +675,7 @@
           "description": "Souk Al Bahar is a cultural marketplace featuring a variety of restaurants and cafes overlooking the Burj Lake. Enjoy local and international dishes in a vibrant setting. Perfect for a night out, with a range of options from casual to fine dining. Prices vary from $ to $$$.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Mezze Arab",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -668,15 +686,15 @@
           "description": "Al Hallab is a well-known Lebanese restaurant that serves authentic Middle Eastern cuisine. The vibrant atmosphere and friendly service make it a popular choice. Be sure to try the mixed grill platter, which is perfect for sharing. Prices are $$.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Piring Grill Campuran",
           "klook_query": "Al Hallab restaurant booking"
         }
       ]
     },
     "hi": {
-      "seo_title": "दुबई में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "दुबई में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "दुबई के 10 सर्वश्रेष्ठ भोजन 2026 - टॉप रेस्तरां",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook से बुकिंग करें और अपने खाने की योजना बनाएं। स्थानीय पसंदीदा खोजें!",
       "page_intro": "दुबई का खाद्य दृश्य विभिन्न संस्कृति और विरासत से प्रभावित स्वादों का एक जीवंत ताना-बाना है। पारंपरिक अमीराती व्यंजनों से लेकर अंतरराष्ट्रीय व्यंजनों तक, शहर हर स्वाद के लिए एक पाक साहसिकता प्रदान करता है। चाहे आप हलचल भरे स्ट्रीट फूड बाजारों की खोज कर रहे हों या लग्जरी रेस्तरां में भोजन कर रहे हों, दुबई खाद्य प्रेमियों का स्वर्ग है।",
       "items": [
         {
@@ -686,7 +704,7 @@
           "description": "शांत रेगिस्तान में स्थित, अल महा अद्वितीय भोजन अनुभव प्रदान करता है जिसमें अमीराती और अंतरराष्ट्रीय व्यंजन शामिल हैं। वातावरण भव्य और शांत है, जो रोमांटिक डिनर या विशेष अवसर के लिए एकदम सही है। भेड़ का ऊजी न चूकें, जो एक पारंपरिक व्यंजन है जिसे संपूर्णता के लिए पकाया गया है। मूल्य रेंज $$$ है।",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "लैम्ब औज़ी",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -697,7 +715,7 @@
           "description": "करामा मार्केट स्ट्रीट फूड का एक हलचल भरा केंद्र है, जो विभिन्न एशियाई व्यंजनों से स्वादिष्ट बाइट्स की एक श्रृंखला प्रदान करता है। प्रसिद्ध शावरमा और समोसे का आनंद लें जबकि जीवंत वातावरण का आनंद लें। कीमतें बजट के अनुकूल हैं, जिससे यह खाद्य प्रेमियों के लिए एक शानदार स्थान बनता है। एक जीवंत भीड़ और स्वादों की विविधता की अपेक्षा करें।",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "शावरमा",
           "klook_query": "Karama Market food tour"
         },
@@ -708,7 +726,7 @@
           "description": "जारूब मध्य पूर्व के स्ट्रीट फूड पर आधुनिक दृष्टिकोण के लिए जाना जाता है। जीवंत सेटिंग और रंगीन सजावट अनुभव को बढ़ाती है, जिससे यह स्थानीय लोगों और पर्यटकों के लिए एक लोकप्रिय स्थान बन जाता है। मनाकिश और फालाफेल रैप को जरूर आजमाएं। कीमतें उचित हैं, $ से $$ के बीच।",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "मनकिश",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -719,7 +737,7 @@
           "description": "जो लोग कैरेबियन स्वाद की तलाश कर रहे हैं, उनके लिए स्मोकी जर्क लिप्त करने वाला जर्क चिकन और अन्य द्वीप विशेषताएँ पेश करता है। यह फूड ट्रक स्थानीय लोगों का पसंदीदा है, जो अक्सर विभिन्न आयोजनों और बाजारों में पाया जाता है। कैजुअल वाइब और किफायती कीमतें इसे एक अनिवार्य स्थान बनाती हैं। इसे चावल और मटर के साइड के साथ आनंद लें।",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "जर्क चिकन",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -730,7 +748,7 @@
           "description": "अल रीफ बेकरी अपने ताज़ा और स्वादिष्ट अमीराती पेस्ट्री के लिए प्रसिद्ध है। आरामदायक वातावरण एक त्वरित नाश्ते या मिठाई का आनंद लेने के लिए एकदम सही है। खामीर ब्रेड और खजूर से भरी पेस्ट्री को न चूकें, जो स्थानीय लोगों और आगंतुकों दोनों के बीच लोकप्रिय हैं। कीमतें बहुत सस्ती हैं।",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "खमीर ब्रेड",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -741,7 +759,7 @@
           "description": "बुर्ज खलीफा की 122वीं मंजिल पर स्थित, एटमॉस्फियर शानदार दृश्यों के साथ एक फाइन डाइनिंग अनुभव प्रदान करता है। मेन्यू में मौसमी सामग्री पर ध्यान केंद्रित करते हुए गॉरमेट व्यंजन हैं। विशेष अवसर के लिए आदर्श, कैवियार और सिग्नेचर बीफ टेंडरलॉइन को जरूर आजमाएं। कीमतें $$$ हैं।",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "बीफ टेंडरलॉइन",
           "klook_query": "At.mosphere reservation"
         },
@@ -752,7 +770,7 @@
           "description": "सौक अल बहार एक सांस्कृतिक बाजार है जिसमें बुर्ज झील के दृश्य वाले विभिन्न रेस्तरां और कैफे हैं। जीवंत सेटिंग में स्थानीय और अंतरराष्ट्रीय व्यंजनों का आनंद लें। रात के बाहर जाने के लिए एकदम सही, कैजुअल से लेकर फाइन डाइनिंग तक विकल्पों की एक श्रृंखला के साथ। कीमतें $ से $$$ के बीच भिन्न होती हैं।",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "अरबी मेज़",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -763,15 +781,15 @@
           "description": "अल हलाब एक प्रसिद्ध लेबनानी रेस्तरां है जो प्रामाणिक मध्य पूर्वी व्यंजन परोसता है। जीवंत वातावरण और मित्रवत सेवा इसे एक लोकप्रिय विकल्प बनाती है। मिश्रित ग्रिल प्लेटर को जरूर आजमाएं, जो साझा करने के लिए एकदम सही है। कीमतें $$ हैं।",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "मिक्स्ड ग्रिल प्लेटर",
           "klook_query": "Al Hallab restaurant booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhores Comidas em Dubai 2026 - Principais Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais em Dubai. Desde refeições econômicas até alta gastronomia - com links de reserva.",
+      "seo_title": "Top 8 Restaurantes em Dubai 2026 - Imperdíveis!",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "A cena gastronômica de Dubai é um vibrante mosaico de sabores influenciados pela sua rica cultura e herança. Desde pratos tradicionais emiratis até a cozinha internacional, a cidade oferece uma aventura culinária para todos os paladares. Seja explorando os movimentados mercados de comida de rua ou jantando em restaurantes luxuosos, Dubai é um paraíso para os amantes da gastronomia.",
       "items": [
         {
@@ -781,7 +799,7 @@
           "description": "Situado no tranquilo deserto, o Al Maha oferece uma experiência gastronômica única com cozinha emiratis e internacional. O ambiente é luxuoso e sereno, perfeito para um jantar romântico ou ocasião especial. Não perca o lamb ouzi, um prato tradicional cozido à perfeição. A faixa de preço é $$$.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Carne de Cordeiro Ouzi",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -792,7 +810,7 @@
           "description": "O Mercado Karama é um centro movimentado de comida de rua, oferecendo uma variedade de petiscos deliciosos de várias cozinhas asiáticas. Experimente o famoso shawarma e samosas enquanto desfruta da atmosfera vibrante. Os preços são acessíveis, tornando-se uma ótima parada para os amantes da comida. Espere uma multidão animada e uma variedade de sabores.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Shawarma",
           "klook_query": "Karama Market food tour"
         },
@@ -803,7 +821,7 @@
           "description": "Zaroob é conhecido por sua abordagem moderna à comida de rua do Oriente Médio. O ambiente animado e a decoração colorida adicionam à experiência, tornando-se um local popular tanto para locais quanto para turistas. Não deixe de experimentar o manakish e wraps de falafel. Os preços são razoáveis, variando de $ a $$.",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Manakish",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -814,7 +832,7 @@
           "description": "Para aqueles que desejam sabores caribenhos, o Smoky Jerk oferece frango jerk de dar água na boca e outras delícias da ilha. Este food truck é um favorito local, frequentemente encontrado em vários eventos e mercados. A atmosfera casual e os preços acessíveis fazem dele uma visita obrigatória. Aproveite com um acompanhamento de arroz e ervilhas.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Frango Jerk",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -825,7 +843,7 @@
           "description": "A Al Reef Bakery é famosa por suas deliciosas e frescas pastéis emiratis. O ambiente aconchegante é perfeito para um lanche rápido ou sobremesa. Não perca o pão khameer e os pastéis recheados com tâmaras, que são populares entre locais e visitantes. Os preços são muito acessíveis.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "Pão Khameer",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -836,7 +854,7 @@
           "description": "Localizado no 122º andar do Burj Khalifa, o At.mosphere oferece vistas deslumbrantes junto com uma experiência de alta gastronomia. O menu apresenta pratos gourmet com foco em ingredientes sazonais. Ideal para uma ocasião especial, não deixe de experimentar o caviar e o famoso filé mignon. Os preços são $$$.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Filé Mignon",
           "klook_query": "At.mosphere reservation"
         },
@@ -847,7 +865,7 @@
           "description": "O Souk Al Bahar é um mercado cultural com uma variedade de restaurantes e cafés com vista para o Lago Burj. Desfrute de pratos locais e internacionais em um ambiente vibrante. Perfeito para uma noite fora, com uma gama de opções que vão de casuais a alta gastronomia. Os preços variam de $ a $$$.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Mezze Árabe",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -858,15 +876,15 @@
           "description": "Al Hallab é um renomado restaurante libanês que serve autêntica cozinha do Oriente Médio. O ambiente vibrante e o atendimento amigável fazem dele uma escolha popular. Não deixe de experimentar o prato de grelhados mistos, que é perfeito para compartilhar. Os preços são $$.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Prato de Churrasco Misto",
           "klook_query": "Al Hallab restaurant booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل المأكولات في دبي 2026 - أفضل المطاعم ودليل الطعام الشارعي",
-      "seo_description": "اكتشف أفضل المطاعم، وطعام الشارع، والتخصصات المحلية في دبي. من الأطعمة ذات الميزانية إلى الطعام الراقي - مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في دبي 2026 - اكتشف المأكولات المحلية",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل المطاعم في دبي. احجز عبر Klook الآن واستمتع بأشهى الأطباق! اكتشف المأكولات المحلية اليوم.",
       "page_intro": "تعد مشهد الطعام في دبي نسيجًا نابضًا من النكهات المتأثرة بثقافتها وتراثها المتنوع. من الأطباق الإماراتية التقليدية إلى المأكولات العالمية، تقدم المدينة مغامرة طهي تناسب جميع الأذواق. سواء كنت تستكشف أسواق الطعام الشارعي المزدحمة أو تتناول الطعام في مطاعم فاخرة، تعتبر دبي جنة لعشاق الطعام.",
       "items": [
         {
@@ -876,7 +894,7 @@
           "description": "يقع في صحراء هادئة، يقدم المها تجربة تناول طعام فريدة مع المأكولات الإماراتية والعالمية. الأجواء فاخرة وهادئة، مثالية لعشاء رومانسي أو مناسبة خاصة. لا تفوت طبق لحم الأوزي، وهو طبق تقليدي مطبوخ بشكل مثالي. نطاق الأسعار هو $$$.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "لحم عوزي",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -887,7 +905,7 @@
           "description": "يعتبر سوق الكرامة مركزًا مزدحمًا لطعام الشارع، حيث يقدم مجموعة من الوجبات اللذيذة من مختلف المأكولات الآسيوية. جرب الشاورما الشهيرة والساموسا بينما تستمتع بالأجواء النابضة. الأسعار مناسبة للميزانية، مما يجعله محطة رائعة لعشاق الطعام. توقع حشودًا حيوية وتنوعًا في النكهات.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "شاورما",
           "klook_query": "Karama Market food tour"
         },
@@ -898,7 +916,7 @@
           "description": "زاروب معروف بنظرته الحديثة إلى طعام الشارع الشرق أوسطي. تضيف الأجواء النابضة والديكور الملون إلى التجربة، مما يجعله مكانًا شائعًا بين المحليين والسياح على حد سواء. تأكد من تجربة المناقيش ولفائف الفلافل. الأسعار معقولة، تتراوح من $ إلى $$.",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "مناقيش",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -909,7 +927,7 @@
           "description": "بالنسبة لأولئك الذين يتوقون إلى نكهات الكاريبي، يقدم سموكي جيرك دجاج جيرك لذيذ وغيرها من الأطباق الجزيرة. هذه الشاحنة الغذائية هي مفضلة محلية، وغالبًا ما توجد في مختلف الفعاليات والأسواق. تجعل الأجواء غير الرسمية والأسعار المعقولة منه مكانًا يجب زيارته. استمتع به مع جانب من الأرز والبازلاء.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "دجاج جيرك",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -920,7 +938,7 @@
           "description": "مخبز الريف مشهور بمعجناته الإماراتية الطازجة واللذيذة. الجو المريح مثالي للاستمتاع بوجبة خفيفة سريعة أو حلوى. لا تفوت خبز الخمير والمعجنات المحشوة بالتمر، والتي تحظى بشعبية بين المحليين والزوار على حد سواء. الأسعار معقولة جداً.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "خبز خمير",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -931,7 +949,7 @@
           "description": "يقع في الطابق 122 من برج خليفة، يوفر أتموسفير مناظر خلابة مع تجربة تناول طعام راقية. يحتوي القائمة على أطباق فاخرة مع التركيز على المكونات الموسمية. مثالي لمناسبة خاصة، تأكد من تجربة الكافيار وشرائح اللحم البقري الشهيرة. الأسعار هي $$$.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "لحم بقر تندور",
           "klook_query": "At.mosphere reservation"
         },
@@ -942,7 +960,7 @@
           "description": "سوق البحر هو سوق ثقافي يضم مجموعة متنوعة من المطاعم والمقاهي المطلة على بحيرة برج. استمتع بالأطباق المحلية والدولية في أجواء نابضة. مثالي لقضاء ليلة خارج، مع مجموعة من الخيارات تتراوح بين غير الرسمية والراقية. تختلف الأسعار من $ إلى $$$.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "مقبلات عربية",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -953,15 +971,15 @@
           "description": "الحلاب هو مطعم لبناني معروف يقدم المأكولات الشرق أوسطية الأصيلة. تجعل الأجواء النابضة والخدمة الودية منه خيارًا شائعًا. تأكد من تجربة طبق المشاوي المختلطة، الذي يعد مثاليًا للمشاركة. الأسعار هي $$.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "طبق مشاوي مشكل",
           "klook_query": "Al Hallab restaurant booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "দুবাইয়ের সেরা খাবার ২০২৬ - শীর্ষ রেস্টুরেন্ট এবং রাস্তায় খাবার গাইড",
-      "seo_description": "দুবাইয়ে সেরা রেস্টুরেন্ট, রাস্তায় খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিংকের সাথে।",
+      "seo_title": "দুবাইয়ের সেরা ৮ খাবার ২০২৬ - অবশ্যই ট্রাই করুন!",
+      "seo_description": "আপনার সময় বাঁচান এবং স্থানীয় খাবারের সেরা সুপারিশ পান। Klook বুকিংয়ের মাধ্যমে আপনার খাবার পরিকল্পনা করুন। এখনই আবিষ্কার করুন!",
       "page_intro": "দুবাইয়ের খাবারের দৃশ্য একটি উজ্জ্বল পটভূমি যা তার বৈচিত্র্যময় সংস্কৃতি এবং ঐতিহ্যের দ্বারা প্রভাবিত। ঐতিহ্যবাহী আমিরাতি খাবার থেকে আন্তর্জাতিক খাবার, শহরটি প্রতিটি স্বাদের জন্য একটি খাদ্য অভিযান অফার করে। আপনি যদি ব্যস্ত রাস্তায় খাবারের বাজারগুলি অন্বেষণ করছেন বা বিলাসবহুল রেস্তোরাঁয় ভোজন করছেন, তবে দুবাই একটি খাবারপ্রেমীর স্বর্গ।",
       "items": [
         {
@@ -971,7 +989,7 @@
           "description": "শांत মরুভূমিতে অবস্থিত, আল মাহা একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে যা আমিরাতি এবং আন্তর্জাতিক খাবার নিয়ে গঠিত। পরিবেশটি বিলাসবহুল এবং শান্ত, রোমান্টিক রাতের খাবার বা বিশেষ উপলক্ষের জন্য নিখুঁত। ল্যাম্ব ওউজি মিস করবেন না, একটি ঐতিহ্যবাহী খাবার যা নিখুঁতভাবে রান্না করা হয়। মূল্য পরিসীমা $$$।",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "ল্যাম্ব ওজী",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -982,7 +1000,7 @@
           "description": "কারামা মার্কেট একটি ব্যস্ত রাস্তায় খাবারের কেন্দ্র, যা বিভিন্ন এশীয় রন্ধনসম্পর্কিতের স্বাদযুক্ত খাবারের একটি পরিসর প্রদান করে। বিখ্যাত শাওয়ারমা এবং সমোসা চেষ্টা করুন যখন আপনি প্রাণবন্ত পরিবেশের আনন্দ উপভোগ করেন। দাম বাজেটের জন্য সুবিধাজনক, খাদ্যপ্রেমীদের জন্য এটি একটি দুর্দান্ত জায়গা করে তোলে। একটি প্রাণবন্ত ভিড় এবং স্বাদের বৈচিত্র্যের প্রত্যাশা করুন।",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "শাওয়ারমা",
           "klook_query": "Karama Market food tour"
         },
@@ -993,7 +1011,7 @@
           "description": "জারুব মধ্য প্রাচ্যের রাস্তায় খাবারগুলির আধুনিক দৃষ্টিভঙ্গির জন্য পরিচিত। প্রাণবন্ত সেটিং এবং রংবেরঙের সাজসজ্জা অভিজ্ঞতাকে বাড়িয়ে তোলে, স্থানীয় এবং পর্যটকদের জন্য এটি একটি জনপ্রিয় স্থান করে তোলে। মণাকিশ এবং ফালাফেল র‍্যাপ চেখে দেখতে ভুলবেন না। দাম যৌক্তিক, $ থেকে $$ এর মধ্যে।",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "মানাকিশ",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -1004,7 +1022,7 @@
           "description": "যারা ক্যারিবিয়ান স্বাদের জন্য উদগ্রীব, তাদের জন্য স্মোকি জার্ক মুখরোচক জার্ক মুরগি এবং অন্যান্য দ্বীপের রসনা নিয়ে আসে। এই খাবারের ট্রাকটি স্থানীয়দের প্রিয়, যা প্রায়ই বিভিন্ন অনুষ্ঠানে এবং বাজারে পাওয়া যায়। অবাধ আবহাওয়া এবং সাশ্রয়ী মূল্যের দাম এটিকে একটি অবশ্যই পরিদর্শন করতে হবে। এটি মটরশুঁটি এবং চালের সাইডের সাথে উপভোগ করুন।",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "জার্ক চিকেন",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -1015,7 +1033,7 @@
           "description": "আল রিফ বেকারি তার তাজা এবং স্বাদযুক্ত আমিরাতি পেস্ট্রির জন্য বিখ্যাত। আরামদায়ক পরিবেশ দ্রুত স্ন্যাক বা মিষ্টান্ন উপভোগ করার জন্য নিখুঁত। খামির রুটি এবং খেজুর ভর্তি পেস্ট্রি মিস করবেন না, যা স্থানীয় এবং দর্শকদের মধ্যে জনপ্রিয়। দাম খুব সস্তা।",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "খামীর রুটি",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -1026,7 +1044,7 @@
           "description": "বুর্জ খলিফার ১২২ তলায় অবস্থিত, এটমোস্ফিয়ার একটি বিলাসবহুল খাবারের অভিজ্ঞতার সাথে চমৎকার দৃশ্য উপস্থাপন করে। মেনুতে মৌসুমি উপাদানের উপর ভিত্তি করে গৌরমেট খাবার রয়েছে। বিশেষ উপলক্ষের জন্য উপযুক্ত, ক্যাভিয়ার এবং সিগনেচার গরুর টেন্ডারলয়েন চেষ্টা করতে ভুলবেন না। দাম $$$।",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "গরুর টেন্ডারলয়ন",
           "klook_query": "At.mosphere reservation"
         },
@@ -1037,7 +1055,7 @@
           "description": "সুক আল বাহার একটি সাংস্কৃতিক বাজার যা বুর্জ লেকের দিকে কয়েকটি রেস্টুরেন্ট এবং ক্যাফে নিয়ে গঠিত। একটি প্রাণবন্ত পরিবেশে স্থানীয় এবং আন্তর্জাতিক খাবারের স্বাদ নিন। রাতের বাইরে যাওয়ার জন্য নিখুঁত, অস্বাভাবিক থেকে শুরু করে বিলাসবহুল খাবারের একটি পরিসর রয়েছে। দাম $ থেকে $$$ এর মধ্যে পরিবর্তিত হয়।",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "আরবিক মেজ্জে",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -1048,15 +1066,15 @@
           "description": "আল হালাব একটি পরিচিত লেবাননের রেস্টুরেন্ট যা প্রামাণিক মধ্য প্রাচ্যের খাবার পরিবেশন করে। প্রাণবন্ত পরিবেশ এবং বন্ধুত্বপূর্ণ পরিষেবা এটিকে একটি জনপ্রিয় পছন্দ করে তোলে। ভাগ করে নেওয়ার জন্য নিখুঁত মিশ্রিত গ্রিল প্ল্যাটারটি অবশ্যই চেখে দেখতে হবে। দাম $$।",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "মিশ্র গ্রিল প্ল্যাটার",
           "klook_query": "Al Hallab restaurant booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Дубае 2026 — Топ-рестораны и путеводитель по уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Дубае. От бюджетных закусок до изысканной кухни — с ссылками для бронирования.",
+      "seo_title": "10 Лучших ресторанов Дубая 2026 — Обязательно к дегустации",
+      "seo_description": "Сэкономьте время с реальными рекомендациями! Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Кулинарная сцена Дубая — это яркое полотно вкусов, вдохновленное его разнообразной культурой и наследием. От традиционных эмиратских блюд до международной кухни город предлагает кулинарное приключение для каждого гурмана. Независимо от того, исследуете ли вы шумные рынки уличной еды или обедаете в роскошных ресторанах, Дубай — это рай для любителей еды.",
       "items": [
         {
@@ -1066,7 +1084,7 @@
           "description": "Расположенный в тихой пустыне, Al Maha предлагает уникальный опыт ужина с эмиратской и международной кухней. Атмосфера роскошная и спокойная, идеально подходящая для романтического ужина или особого случая. Не пропустите лямб-узи, традиционное блюдо, приготовленное до совершенства. Ценовой диапазон составляет $$$.",
           "image_keyword": "Al Maha Restaurant Dubai",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Бараний Узи",
           "klook_query": "Al Maha Desert Resort dining"
         },
@@ -1077,7 +1095,7 @@
           "description": "Рынок Карама — это шумный центр уличной еды, предлагающий разнообразные вкусные закуски из различных азиатских кухонь. Обязательно попробуйте знаменитый шаурму и самосы, наслаждаясь яркой атмосферой. Цены доступны, что делает его отличной остановкой для любителей еды. Ожидайте оживленную толпу и разнообразие вкусов.",
           "image_keyword": "Karama Market Dubai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Шаурма",
           "klook_query": "Karama Market food tour"
         },
@@ -1088,7 +1106,7 @@
           "description": "Zaroob известен своим современным подходом к уличной еде Ближнего Востока. Живой обстановки и яркий декор добавляют к опыту, делая его популярным местом как для местных жителей, так и для туристов. Обязательно попробуйте манакеш и фалафельные обертки. Цены разумные, от $ до $$.",
           "image_keyword": "Zaroob Restaurant Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Манакиш",
           "klook_query": "Zaroob restaurant booking"
         },
@@ -1099,7 +1117,7 @@
           "description": "Для тех, кто жаждет карибских вкусов, Smoky Jerk предлагает восхитительное куриное мясо и другие островные деликатесы. Этот фуд-трак является любимцем местных жителей, его часто можно встретить на различных мероприятиях и рынках. Непринужденная атмосфера и доступные цены делают его обязательным для посещения. Наслаждайтесь с гарниром из риса и гороха.",
           "image_keyword": "Smoky Jerk Dubai",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "د.إ10–20",
           "must_try": "Джерк-курица",
           "klook_query": "Smoky Jerk food truck"
         },
@@ -1110,7 +1128,7 @@
           "description": "Al Reef Bakery славится своими свежими и вкусными эмиратскими кондитерскими изделиями. Уютная атмосфера идеально подходит для быстрого перекуса или десерта. Не пропустите хлеб хамира и пирожные с финиками, которые популярны как среди местных жителей, так и среди туристов. Цены очень доступные.",
           "image_keyword": "Al Reef Bakery Dubai",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "د.إ5–15",
           "must_try": "Хамир",
           "klook_query": "Al Reef Bakery visit"
         },
@@ -1121,7 +1139,7 @@
           "description": "Расположенный на 122-м этаже Бурдж-Халифа, At.mosphere предлагает потрясающие виды наряду с изысканным ужином. Меню включает в себя гурманские блюда с акцентом на сезонные ингредиенты. Идеально подходит для особого случая, обязательно попробуйте икру и фирменный говяжий стейк. Цены составляют $$$.",
           "image_keyword": "At.mosphere Burj Khalifa",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "د.إ800–1,200",
           "must_try": "Говяжья вырезка",
           "klook_query": "At.mosphere reservation"
         },
@@ -1132,7 +1150,7 @@
           "description": "Souk Al Bahar — это культурный рынок, предлагающий разнообразные рестораны и кафе с видом на озеро Бурдж. Наслаждайтесь местными и международными блюдами в яркой обстановке. Идеально подходит для вечернего выхода, с множеством вариантов от непринужденного до изысканного ужина. Цены варьируются от $ до $$$.",
           "image_keyword": "Souk Al Bahar Dubai",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Арабские мезе",
           "klook_query": "Souk Al Bahar food options"
         },
@@ -1143,7 +1161,7 @@
           "description": "Al Hallab — это известный ливанский ресторан, предлагающий подлинную кухню Ближнего Востока. Живое окружение и дружелюбное обслуживание делают его популярным выбором. Обязательно попробуйте смешанную тарелку-гриль, идеально подходящую для совместного использования. Цены составляют $$.",
           "image_keyword": "Al Hallab Dubai",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "د.إ30–60",
           "must_try": "Смешанная тарелка гриля",
           "klook_query": "Al Hallab restaurant booking"
         }

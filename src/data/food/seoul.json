@@ -2,9 +2,9 @@
   "city_slug": "seoul",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Seoul 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Seoul. From budget market eats to fine dining — with booking links.",
-      "page_intro": "Seoul is a dynamic culinary hub where centuries-old traditions meet modern food trends. From the sizzling grills of Korean barbecue joints to the vibrant stalls of Gwangjang Market serving crispy mung bean pancakes, the city's food scene is bold, spicy, and deeply comforting. Whether you are seeking a hearty bowl of ginseng chicken soup or trendy cafe pastries, Seoul promises a mouth-watering adventure that never sleeps.",
+      "seo_title": "8 Best Local Favorites in Seoul 2026 - Must-Try Eats",
+      "seo_description": "Save time with real recommendations for Seoul's top eats. Book your culinary adventure with Klook. Discover local favorites today!",
+      "page_intro": "Dive into Seoul's vibrant food scene, where savory kimchi, steaming bowls of ginseng chicken soup, and crispy mung bean pancakes await. Experience the best of local flavors with our curated picks, making your culinary adventure effortless!",
       "items": [
         {
           "id": "gwangjang-market",
@@ -13,7 +13,7 @@
           "description": "One of South Korea's oldest and largest traditional markets, globally famous for its bustling food alley. It is the ultimate destination to sample authentic Korean street food, with vendors expertly frying crispy bindaetteok (mung bean pancakes) and rolling addictive mayak gimbap. The lively, elbow-to-elbow atmosphere offers a genuine taste of local Seoul culture.",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Bindaetteok (Mung Bean Pancake) and Mayak Gimbap",
           "klook_query": "Gwangjang Market Food Tour",
           "photo_url": "https://images.pexels.com/photos/31955741/pexels-photo-31955741.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "A Michelin Bib Gourmand institution that has been drawing massive crowds since 1966. They are famous for a very simple menu, starring kalguksu—handmade, knife-cut wheat noodles in a rich, deeply flavorful chicken broth. Paired with their signature thin-skinned mandu (dumplings) and intensely garlicky kimchi, it is a quintessential Seoul dining experience.",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Kalguksu (Knife-cut Noodle Soup) and Mandu",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -36,7 +36,7 @@
           "description": "Located near Gyeongbokgung Palace in a traditional hanok building, this legendary restaurant serves Seoul's most famous bowl of ginseng chicken soup. A whole young chicken is stuffed with glutinous rice, ginseng, jujube, and garlic, then simmered in a rich, nutty broth. It is a deeply nourishing and comforting dish loved by locals and tourists alike.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Samgyetang (Ginseng Chicken Soup)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -47,7 +47,7 @@
           "description": "As the sun sets, the vibrant shopping district of Myeongdong transforms into a massive, neon-lit street food paradise. Carts line the streets selling trendy and inventive snacks, from grilled cheese lobsters and spicy tteokbokki to towering 32cm soft serve ice cream. It is a fast-paced, highly photogenic culinary carnival.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Spicy Tteokbokki and Egg Bread (Gyeran-ppang)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -58,7 +58,7 @@
           "description": "A highly regarded Korean barbecue restaurant known for its premium cuts of meat and attentive table service. Diners can enjoy beautifully marbled Hanwoo (Korean beef) and marinated galbi grilled to perfection right at their table. The array of complimentary banchan (side dishes) and elegant atmosphere make it a fantastic K-BBQ choice.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Premium Hanwoo Beef BBQ and Marinated Galbi",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -69,7 +69,7 @@
           "description": "A sprawling, 24-hour seafood market that offers a sensory overload of ocean-fresh sights and sounds. Visitors can purchase live seafood—including giant king crabs and squirming octopus—from the ground floor vendors and take it upstairs to a restaurant to be prepared immediately. It is an adventurous and authentic Seoul seafood experience.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Sannakji (Live Octopus) and King Crab",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -80,7 +80,7 @@
           "description": "Set inside a beautifully restored traditional hanok (Korean house), this trendy cafe perfectly blends Seoul's historical architecture with modern coffee culture. Visitors can sit on floor cushions while enjoying artisanal coffee and an array of freshly baked, visually stunning pastries. Their signature powdered sugar Pandoro is an absolute must-order.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "Pandoro Pastry",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -91,16 +91,19 @@
           "description": "Experiencing 'chimaek' (the beloved combination of fried chicken and beer) is mandatory in Seoul, and Kyochon is one of the nation's premier spots to do it. Located in the youthful Hongdae district, they are famous for their incredibly crispy, double-fried chicken coated in addictive soy garlic or spicy glazes. It is the perfect late-night indulgence.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Honey Original Fried Chicken",
           "klook_query": "Kyochon Chicken Seoul"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Seoul?",
+      "faq_q2": "Where can I find the best restaurants in Seoul?",
+      "faq_a2_suffix": " Gwangjang Market, Myeongdong Kyoja, and Tosokchon Samgyetang are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 首爾必吃美食推薦 — 頂級餐廳與街頭小吃指南",
-      "seo_description": "探索首爾最佳餐廳、街頭小吃與在地特色美食。從廣藏市場的平價小吃到高級韓牛燒肉，提供完整推薦與預訂連結。",
-      "page_intro": "首爾是一個充滿活力的美食樞紐，百年傳統與現代飲食趨勢在此交會。從韓式烤肉店裡滋滋作響的烤盤，到廣藏市場販售酥脆綠豆煎餅的熱鬧攤位，這座城市的飲食文化大膽、辛辣且撫慰人心。無論您是想喝一碗豐盛的人蔘雞湯，還是品嚐時髦咖啡廳的精緻糕點，首爾都將為您帶來一場不夜城般的美味冒險。",
+      "seo_title": "2026 首爾8大必吃美食 — 當地最愛與隱藏版",
+      "seo_description": "節省時間，探索首爾的真實美食推薦，透過Klook輕鬆預訂。立即計劃你的美食之旅！",
+      "page_intro": "首爾的美食場景令人興奮不已，融合了傳統與創新的風味。無論是享用熱騰騰的人蔘雞湯，還是品味廣藏市場的綠豆煎餅，這裡的每一口都是文化的體驗。透過我們精心挑選的餐廳名單，讓您省時又能品嚐到最地道的美味。",
       "items": [
         {
           "id": "gwangjang-market",
@@ -109,7 +112,7 @@
           "description": "韓國歷史最悠久、規模最大的傳統市場之一，以其熙來攘往的美食街聞名全球。這裡是品嚐道地韓國街頭小吃的終極目的地，攤販們熟練地煎著酥脆的綠豆煎餅，並捲著令人上癮的麻藥紫菜包飯。熱鬧、摩肩擦踵的氛圍提供了最真實的首爾在地文化體驗。",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "煎綠豆餅和魔法紫菜包飯",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -120,7 +123,7 @@
           "description": "自1966年開業以來便吸引大批人潮的米其林必比登推介名店。他們以非常簡單的菜單聞名，主打「刀削麵」——手工切製的小麥麵條，搭配濃郁鮮美的雞高湯。配上招牌的薄皮餃子和蒜味極重的老泡菜，是首爾最具代表性的用餐體驗。",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "刀削麵和餃子",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -131,7 +134,7 @@
           "description": "位於景福宮附近的一棟傳統韓屋建築內，這家傳奇餐廳供應首爾最著名的人蔘雞湯。整隻童子雞內塞滿了糯米、人蔘、紅棗和整瓣大蒜，然後在濃郁充滿堅果香氣的高湯中燉煮。這是一道深受當地人和遊客喜愛、極具滋補與撫慰人心的美味佳餚。",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "參雞湯",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -142,7 +145,7 @@
           "description": "夕陽西下時，充滿活力的明洞購物區便會化身為巨大、霓虹閃爍的街頭美食天堂。街道兩旁排滿了攤車，販售各種時髦且極具創意的零食，從烤起司龍蝦、辣炒年糕到高達32公分的霜淇淋應有盡有。這是一場節奏快速、極具視覺效果的美食嘉年華。",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "辣炒年糕和蛋糕麵包",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -153,7 +156,7 @@
           "description": "一家備受推崇的韓式烤肉餐廳，以其優質的肉品切工和無微不至的桌邊服務而聞名。食客可以在餐桌上享受專人代烤至完美熟度、擁有美麗大理石油花的頂級韓牛和醃製排骨。琳瑯滿目的免費小菜和優雅的氛圍使其成為韓式烤肉的絕佳選擇。",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "高級韓牛燒烤和醃製排骨",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -164,7 +167,7 @@
           "description": "一個佔地廣大、24小時營業的海鮮市場，為您帶來視覺與聽覺的海洋新鮮衝擊。遊客可以在一樓攤販處購買活海鮮（包括巨大的帝王蟹和蠕動的活章魚），然後帶到樓上的餐廳立即料理享用。這是一次充滿冒險且道地的首爾海鮮體驗。",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "活章魚和帝王蟹",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -175,7 +178,7 @@
           "description": "這家時髦的咖啡廳坐落於一棟經過精美修復的傳統韓屋內，完美融合了首爾的歷史建築與現代咖啡文化。遊客可以坐在地板的坐墊上，享用職人咖啡和一系列新鮮出爐、視覺效果驚豔的糕點。他們招牌的撒滿糖粉的黃金麵包 (Pandoro) 絕對必點。",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "潘多羅糕",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -186,16 +189,19 @@
           "description": "來到首爾，體驗「雞啤」（Chimaek，炸雞與啤酒的完美結合）是必須的，而橋村正是全國品嚐雞啤的頂級名店之一。位於充滿年輕氣息的弘大區，他們以極度酥脆、經過兩次油炸的炸雞聞名，外層包裹著令人上癮的大蒜醬油或香辣醬汁。這是完美的深夜享受。",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "蜂蜜原味炸雞",
           "klook_query": "Kyochon Chicken Seoul"
         }
-      ]
+      ],
+      "faq_q1": "在首爾最推薦的美食是什麼？",
+      "faq_q2": "我可以在哪裡找到首爾最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "2026年 ソウルの絶品グルメ — 人気レストラン＆屋台街ガイド",
-      "seo_description": "ソウルの最高級レストラン、食べ歩きスポット、郷土料理をご紹介。広蔵市場のB級グルメから高級焼肉まで、予約リンク付きでご案内します。",
-      "page_intro": "ソウルは、何世紀にもわたる伝統と現代の食のトレンドが交差するダイナミックな美食の中心地です。韓国焼肉店のジュージューと音を立てる鉄板から、サクサクの緑豆チヂミを提供する広蔵市場の活気ある屋台まで、この街の食のシーンは大胆でスパイシーで、心温まるものです。具だくさんの参鶏湯からトレンディなカフェのスイーツまで、ソウルは眠らない美味しい冒険を約束します。",
+      "seo_title": "2026年 ソウルの隠れた名店10選 — 必食グルメガイド",
+      "seo_description": "時間を節約し、信頼できるおすすめをチェック。Klookで予約して、地元の名物を今すぐ楽しもう！食事を計画しよう。",
+      "page_intro": "ソウルの美食シーンは、香ばしい焼肉や新鮮なチヂミ、滋養豊富な参鶏湯など、味覚を刺激する魅力が満載です。地元の名店を厳選して紹介するので、時間を節約して美味しい体験をお楽しみください。",
       "items": [
         {
           "id": "gwangjang-market",
@@ -204,7 +210,7 @@
           "description": "韓国で最も古く最大の伝統市場の一つであり、活気あふれるうまいもの通りで世界的に有名です。サクサクのピンデトッ（緑豆チヂミ）や病みつきになる麻薬キンパを堪能できる、本格的な韓国屋台料理の究極の目的地です。肩が触れ合うほどの賑やかな雰囲気は、ソウルのローカルな文化を肌で感じさせてくれます。",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "ビンダッテッョク（緑豆パンケーキ）とマヤクキンパ",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -215,7 +221,7 @@
           "description": "1966年以来、多くの人々を魅了し続けているミシュラン・ビブグルマン掲載店。濃厚で深みのある鶏ガラスープに手打ちのカルグクス（韓国うどん）を入れたシンプルなメニューで有名です。名物の薄皮のマンドゥ（餃子）と、ニンニクが強烈に効いたキムチとの組み合わせは、ソウルを代表する食事体験です。",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "カルグクス（手切りヌードルスープ）とマンドゥ",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -226,7 +232,7 @@
           "description": "景福宮近くの伝統的な韓屋建築にあるこの伝説的なレストランは、ソウルで最も有名な参鶏湯を提供しています。若鶏丸一匹に餅米、高麗人参、ナツメ、ニンニクを詰め、コクのあるナッツ風味のスープで煮込んでいます。地元の人々にも観光客にも愛される、滋養強壮と癒しの一品です。",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "サムゲタン（参鶏湯）",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -237,7 +243,7 @@
           "description": "日が沈むと、活気ある明洞のショッピング街は、ネオンが輝く巨大な屋台天国へと変貌します。チーズ焼きロブスターや辛いトッポッキから、高さ32cmのソフトクリームまで、トレンディで独創的なスナックを売る屋台が通りに立ち並びます。スピーディーで写真映えする美食のカーニバルです。",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "辛いトッポッキと卵パン（ギョランパン）",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -248,7 +254,7 @@
           "description": "最高級の肉と行き届いたテーブルサービスで知られる、評価の高い韓国焼肉レストラン。美しい霜降りの韓牛（ハヌ）や味付けカルビを、スタッフが目の前で完璧に焼き上げてくれます。種類豊富な無料のパンチャン（おかず）と優雅な雰囲気で、K-BBQの素晴らしい選択肢となっています。",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "プレミアムハンウ牛焼肉とマリネしたカルビ",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -259,7 +265,7 @@
           "description": "新鮮な海の視覚と聴覚の過負荷を体験できる、広大な24時間営業のシーフード市場。1階の業者から巨大なタラバガニやうごめくサンナクチ（活ダコ）などの活魚を購入し、上の階のレストランに持ち込んでその場で調理してもらうことができます。冒険的で本格的なソウルの海鮮体験です。",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "サンナクチ（生タコ）とキングクラブ",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -270,7 +276,7 @@
           "description": "美しく修復された伝統的な韓屋（ハノク）の中にあるこのトレンディなカフェは、ソウルの歴史的建築と現代のコーヒー文化を完璧に融合させています。床のクッションに座りながら、職人こだわりのコーヒーや、見た目も美しい焼き立てのペストリーを楽しむことができます。名物の粉砂糖がたっぷりかかったパンドーロは必食です。",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "パンドーロ",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -281,16 +287,19 @@
           "description": "ソウルに来たら「チメク」（フライドチキンとビールの愛される組み合わせ）の体験は必須であり、キョチョンはそれを楽しむための国内有数のスポットです。若者の街、弘大（ホンデ）に位置し、病みつきになるニンニク醤油やスパイシーなソースでコーティングされた、信じられないほどサクサクの二度揚げチキンで有名です。完璧な深夜の贅沢です。",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "ハニーロリジナルフライドチキン",
           "klook_query": "Kyochon Chicken Seoul"
         }
-      ]
+      ],
+      "faq_q1": "ソウルで食べるべき最高の料理は何ですか？",
+      "faq_q2": "ソウルで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": " は、評価の高いダイニングオプションです。"
     },
     "ko": {
-      "seo_title": "2026 서울 최고 맛집 - 추천 레스토랑 및 길거리 음식 가이드",
-      "seo_description": "서울의 최고 레스토랑, 길거리 음식, 현지 특선 요리를 만나보세요. 광장시장 길거리 음식부터 파인 다이닝까지, 예약 링크를 제공합니다.",
-      "page_intro": "서울은 수백 년의 전통과 현대적인 음식 트렌드가 만나는 역동적인 미식의 중심지입니다. 지글지글 고기가 익어가는 한국식 바비큐 식당부터 바삭한 빈대떡을 파는 광장시장의 활기찬 노점까지, 이 도시의 음식 문화는 강렬하고 매콤하며 깊은 만족감을 선사합니다. 든든한 삼계탕 한 그릇을 원하든 트렌디한 카페의 페이스트리를 원하든, 서울은 잠들지 않는 군침 도는 미식 모험을 약속합니다.",
+      "seo_title": "2026 서울 최고의 맛집 8곳 - 필수 방문 레스토랑",
+      "seo_description": "시간을 절약하고 진짜 추천을 확인하세요. Klook 예약으로 서울의 숨겨진 맛집을 발견하고 지금 맛있는 식사를 계획하세요!",
+      "page_intro": "서울의 음식 세계는 입맛을 사로잡는 다양한 맛의 향연으로 가득합니다. 전통의 맛을 느낄 수 있는 삼계탕, 매콤한 비빔밥, 그리고 길거리에서 즐기는 빈대떡까지, 이곳에서는 미각의 모험이 기다립니다. Klook에서 추천하는 맛집으로 시간을 절약하고 최고의 음식을 경험해보세요.",
       "items": [
         {
           "id": "gwangjang-market",
@@ -299,7 +308,7 @@
           "description": "한국에서 가장 오래되고 규모가 큰 전통 시장 중 하나로, 북적이는 먹자골목으로 세계적인 명성을 얻고 있습니다. 바삭한 빈대떡과 중독성 강한 마약김밥을 맛볼 수 있는 정통 한국 길거리 음식의 궁극적인 종착지입니다. 어깨를 부딪치며 먹는 활기찬 분위기는 서울의 진정한 로컬 문화를 느끼게 해줍니다.",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "빈대떡과 마약김밥",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -310,7 +319,7 @@
           "description": "1966년 개업 이래 수많은 인파를 끌어모으고 있는 미슐랭 빕 구르망 선정 식당입니다. 진하고 깊은 맛의 닭 육수에 손으로 직접 썬 밀가루 면을 넣은 칼국수가 주력 메뉴입니다. 얇은 피의 고기만두와 마늘 향이 강렬한 겉절이 김치를 곁들여 먹는 것은 서울의 필수 미식 경험입니다.",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "칼국수와 만두",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -321,7 +330,7 @@
           "description": "경복궁 인근 전통 한옥 건물에 자리 잡은 이 전설적인 식당은 서울에서 가장 유명한 삼계탕을 선보입니다. 영계의 배 속에 찹쌀, 인삼, 대추, 마늘을 채워 넣고 견과류가 들어간 진한 국물에 푹 끓여냅니다. 현지인과 관광객 모두에게 사랑받는 영양 만점의 보양식입니다.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "삼계탕",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -332,7 +341,7 @@
           "description": "해가 지면 활기찬 명동 쇼핑 거리는 네온사인이 빛나는 거대한 길거리 음식의 천국으로 변신합니다. 치즈 랍스터 구이와 매콤한 떡볶이부터 32cm 아이스크림까지 트렌디하고 독창적인 간식을 파는 노점상들이 거리를 가득 메웁니다. 빠르고 사진 찍기 좋은 미식의 카니발입니다.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "매운 떡볶이와 계란빵",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -343,7 +352,7 @@
           "description": "최상급 육류와 세심한 테이블 서비스로 유명한 높은 평가를 받는 한국식 바비큐 레스토랑입니다. 환상적인 마블링을 자랑하는 한우와 양념 갈비를 직원이 테이블에서 완벽하게 구워줍니다. 다양하게 제공되는 무료 반찬과 우아한 분위기 덕분에 K-BBQ를 즐기기에 환상적인 선택입니다.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "프리미엄 한우 BBQ와 양념갈비",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -354,7 +363,7 @@
           "description": "시각과 청각을 압도하는 바다의 신선함을 느낄 수 있는 광활한 24시간 해산물 시장입니다. 방문객들은 1층 상인들에게서 거대한 킹크랩과 꿈틀거리는 산낙지 등 활해산물을 구매한 뒤, 위층 식당으로 가져가 즉석에서 요리해 맛볼 수 있습니다. 모험적이고 진정한 서울의 해산물 경험입니다.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "산낙지와 킹크랩",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -365,7 +374,7 @@
           "description": "아름답게 복원된 전통 한옥 안에 자리 잡은 이 트렌디한 카페는 서울의 역사적 건축물과 현대적인 커피 문화를 완벽하게 조화시켰습니다. 방문객들은 바닥 쿠션에 앉아 장인의 커피와 갓 구워낸 시각적으로도 훌륭한 다양한 페이스트리를 즐길 수 있습니다. 슈가 파우더가 듬뿍 뿌려진 시그니처 팡도르는 절대 놓칠 수 없는 메뉴입니다.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "판도로 페이스트리",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -376,16 +385,19 @@
           "description": "서울에서 '치맥'(치킨과 맥주의 사랑받는 조합)을 경험하는 것은 필수이며, 교촌은 이를 즐기기에 가장 좋은 곳 중 하나입니다. 젊음의 거리 홍대에 위치한 이곳은 중독성 있는 마늘 간장 소스나 매콤한 소스를 입혀 두 번 튀겨낸 믿을 수 없을 정도로 바삭한 치킨으로 유명합니다. 완벽한 심야의 야식입니다.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "허니 오리지널 프라이드 치킨",
           "klook_query": "Kyochon Chicken Seoul"
         }
-      ]
+      ],
+      "faq_q1": "서울에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "서울에서 최고의 레스토랑을 어디에서 찾을 수 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleurs Restaurants à Séoul en 2026 — Guide de la Street Food",
-      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales de Séoul. Du marché de Gwangjang à la haute gastronomie.",
-      "page_intro": "Séoul est un pôle culinaire dynamique où des traditions séculaires rencontrent les tendances alimentaires modernes. Des grils crépitants de barbecue coréen aux étals animés du marché de Gwangjang, la scène culinaire est audacieuse, épicée et réconfortante.",
+      "seo_title": "8 Meilleurs Restaurants à Séoul en 2026 - Favoris Locaux",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les plats incontournables. Planifiez votre repas maintenant!",
+      "page_intro": "Découvrez la scène culinaire palpitante de Séoul, où le kimchi épicé et le barbecue coréen se mêlent à des créations modernes. Profitez de nos choix soigneusement sélectionnés pour savourer le meilleur de la gastronomie locale sans perdre de temps.",
       "items": [
         {
           "id": "gwangjang-market",
@@ -394,7 +406,7 @@
           "description": "L'un des marchés traditionnels les plus anciens et les plus vastes de Corée du Sud, mondialement connu pour son allée gastronomique. C'est l'endroit idéal pour déguster des crêpes aux haricots mungo (bindaetteok) et du mayak gimbap.",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Bindaetteok (Crêpe de Haricot Mung) et Mayak Gimbap",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -405,7 +417,7 @@
           "description": "Une institution Michelin Bib Gourmand qui attire les foules depuis 1966. Ils sont célèbres pour un menu très simple, mettant en vedette le kalguksu (nouilles coupées au couteau) et de délicieux raviolis (mandu).",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Kalguksu (Soupe de Nouilles Coupées au Couteau) et Mandu",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -416,7 +428,7 @@
           "description": "Situé près du palais Gyeongbokgung dans un bâtiment traditionnel hanok, ce restaurant sert la soupe de poulet au ginseng la plus célèbre de Séoul. C'est un plat profondément nourrissant et réconfortant.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Samgyetang (Soupe de Poulet au Ginseng)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -427,7 +439,7 @@
           "description": "Au coucher du soleil, le quartier commerçant de Myeongdong se transforme en un immense paradis de la street food éclairé aux néons. Les stands vendent des collations inventives comme le tteokbokki épicé et des glaces géantes.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Tteokbokki Épicé et Pain aux Oeufs (Gyeran-ppang)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -438,7 +450,7 @@
           "description": "Un restaurant de barbecue coréen très réputé, connu pour ses coupes de viande de première qualité et son service attentionné. Dégustez du bœuf coréen (Hanwoo) magnifiquement persillé et du galbi mariné.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "BBQ de Boeuf Hanwoo Premium et Galbi Mariné",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -449,7 +461,7 @@
           "description": "Un vaste marché aux fruits de mer ouvert 24h/24. Les visiteurs peuvent acheter des fruits de mer vivants au rez-de-chaussée et les apporter à l'étage dans un restaurant pour qu'ils soient préparés immédiatement.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Sannakji (Poulpe Vivant) et Crabe Royal",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -460,7 +472,7 @@
           "description": "Installé dans une maison traditionnelle (hanok) magnifiquement restaurée, ce café branché mélange parfaitement l'architecture historique et la culture du café moderne. Leur Pandoro au sucre glace est un incontournable.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "Pâtisserie Pandoro",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -471,15 +483,18 @@
           "description": "Découvrir le 'chimaek' (poulet frit et bière) est obligatoire à Séoul, et Kyochon est l'un des meilleurs endroits pour le faire. Ils sont célèbres pour leur poulet doublement frit incroyablement croustillant.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Poulet Frit Original au Miel",
           "klook_query": "Kyochon Chicken Seoul"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Séoul ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Séoul ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor Comida en Seúl 2026 — Guía de Restaurantes y Street Food",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales de Seúl. Desde el Mercado de Gwangjang hasta alta cocina.",
+      "seo_title": "8 Mejores Comidas en Seúl 2026 — Delicias Imperdibles",
+      "seo_description": "Ahorra tiempo con nuestras recomendaciones de Klook. Descubre los favoritos locales y planifica tu comida ahora en Seúl.",
       "page_intro": "Seúl es un centro culinario dinámico donde las tradiciones se encuentran con las tendencias modernas. Desde las parrillas de las barbacoas coreanas hasta los puestos del mercado de Gwangjang, la comida de la ciudad es audaz, picante y reconfortante.",
       "items": [
         {
@@ -489,7 +504,7 @@
           "description": "Uno de los mercados tradicionales más antiguos y grandes de Corea del Sur, famoso por su callejón de comida. Es el destino definitivo para probar la auténtica comida callejera coreana, como el bindaetteok (panqueques de frijol mungo).",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Bindaetteok (Tortilla de frijol mungo) y Mayak Gimbap",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -500,7 +515,7 @@
           "description": "Una institución Michelin Bib Gourmand desde 1966. Son famosos por un menú muy simple, protagonizado por el kalguksu (fideos de trigo cortados a cuchillo) en un rico caldo de pollo, junto con sus característicos mandu (bolas de masa).",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Kalguksu (Sopa de fideos cortados a cuchillo) y Mandu",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -511,7 +526,7 @@
           "description": "Ubicado cerca del Palacio Gyeongbokgung en un edificio tradicional hanok, sirve la sopa de pollo con ginseng más famosa de Seúl. Es un plato profundamente nutritivo y reconfortante.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Samgyetang (Sopa de pollo con ginseng)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -522,7 +537,7 @@
           "description": "A medida que se pone el sol, el distrito comercial se transforma en un paraíso de comida callejera iluminado con neón. Los carritos venden desde tteokbokki picante hasta helados suaves de 32 cm.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Tteokbokki picante y Pan de huevo (Gyeran-ppang)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -533,7 +548,7 @@
           "description": "Un restaurante de barbacoa coreana muy bien considerado, conocido por sus cortes premium y servicio atento. Los comensales pueden disfrutar de carne de res coreana (Hanwoo) y galbi marinado asados a la perfección en su mesa.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "BBQ de carne Hanwoo premium y Galbi marinado",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -544,7 +559,7 @@
           "description": "Un extenso mercado de mariscos abierto las 24 horas. Los visitantes pueden comprar mariscos vivos, incluidos cangrejos gigantes y pulpos que se retuercen, y llevarlos arriba para que los preparen de inmediato.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Sannakji (Pulpo vivo) y Cangrejo rey",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -555,7 +570,7 @@
           "description": "Ubicado dentro de un hanok tradicional bellamente restaurado, este café de moda combina la arquitectura histórica con la cultura moderna del café. Su Pandoro de azúcar glas es absolutamente imprescindible.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "Pastel Pandoro",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -566,16 +581,16 @@
           "description": "Experimentar el 'chimaek' (pollo frito y cerveza) es obligatorio en Seúl, y Kyochon es un lugar de primer nivel para hacerlo. Son famosos por su pollo increíblemente crujiente de doble fritura.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Pollo frito original con miel",
           "klook_query": "Kyochon Chicken Seoul"
         }
       ]
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Seoul 2026 — Panduan Restoran & Jajanan Pasar",
-      "seo_description": "Temukan restoran terbaik, jajanan pasar, dan makanan khas lokal di Seoul. Dari makanan Pasar Gwangjang hingga fine dining.",
-      "page_intro": "Seoul adalah pusat kuliner dinamis tempat tradisi kuno bertemu dengan tren modern. Dari panggangan restoran barbekyu Korea hingga kedai semarak di Pasar Gwangjang, kulinernya sangat berani dan menghibur.",
+      "seo_title": "8 Makanan Terbaik di Seoul 2026 - Must Try!",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata! Temukan restoran dan jajanan terbaik di Seoul. Pesan di Klook dan rencanakan santapan Anda sekarang.",
+      "page_intro": "Rasakan kelezatan kuliner Seoul yang memikat, dari bibimbap yang menggugah selera hingga samgyetang yang menyehatkan. Temukan pilihan terbaik dan hemat waktu dengan rekomendasi terkurasi kami di Klook.",
       "items": [
         {
           "id": "gwangjang-market",
@@ -584,7 +599,7 @@
           "description": "Salah satu pasar tradisional tertua dan terbesar di Korea Selatan. Ini adalah tujuan utama untuk mencicipi jajanan pasar Korea otentik, seperti bindaetteok (panekuk kacang hijau) yang renyah dan mayak gimbap.",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Bindaetteok (Pancake Kacang Hijau) dan Mayak Gimbap",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -595,7 +610,7 @@
           "description": "Institusi Michelin Bib Gourmand ini terkenal dengan menu sederhananya, kalguksu (mi potong pisau) buatan tangan dengan kaldu ayam yang kaya rasa. Dipasangkan dengan mandu dan kimchi, rasanya tak tertandingi.",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Kalguksu (Sup Mie Potong) dan Mandu",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -606,7 +621,7 @@
           "description": "Terletak di dekat Istana Gyeongbokgung di gedung hanok tradisional, restoran ini menyajikan sup ayam ginseng paling terkenal di Seoul. Hidangan yang sangat menutrisi dan disukai oleh penduduk lokal maupun turis.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Samgyetang (Sup Ayam Ginseng)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -617,7 +632,7 @@
           "description": "Saat matahari terbenam, distrik perbelanjaan Myeongdong berubah menjadi surga jajanan kaki lima yang diterangi lampu neon. Menjual camilan trendi, dari tteokbokki pedas hingga es krim setinggi 32cm.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Tteokbokki Pedas dan Roti Telur (Gyeran-ppang)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -628,7 +643,7 @@
           "description": "Restoran barbekyu Korea yang sangat dihormati dan terkenal dengan potongan daging premiumnya. Pengunjung dapat menikmati daging sapi Hanwoo dan galbi yang dipanggang dengan sempurna langsung di meja mereka.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Premium Daging Sapi Hanwoo BBQ dan Galbi Marinasi",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -639,7 +654,7 @@
           "description": "Pasar makanan laut 24 jam yang luas. Pengunjung dapat membeli makanan laut hidup, termasuk kepiting raja raksasa dan gurita yang menggeliat, dan membawanya ke atas ke restoran untuk segera disiapkan.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Sannakji (Gurita Hidup) dan Kepiting Raja",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -650,7 +665,7 @@
           "description": "Berada di dalam hanok tradisional yang dipugar, kafe trendi ini memadukan arsitektur sejarah dengan budaya kopi modern. Pastry Pandoro gula bubuk khas mereka mutlak harus dipesan.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "Pastry Pandoro",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -661,15 +676,18 @@
           "description": "Merasakan 'chimaek' (kombinasi ayam goreng dan bir) adalah wajib di Seoul. Terletak di distrik Hongdae, mereka terkenal dengan ayam goreng ganda yang sangat renyah.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Ayam Goreng Madu Original",
           "klook_query": "Kyochon Chicken Seoul"
         }
-      ]
+      ],
+      "faq_q1": "Apa makanan terbaik yang bisa dicoba di Seoul?",
+      "faq_q2": "Di mana saya bisa menemukan restoran terbaik di Seoul?",
+      "faq_a2_suffix": " adalah pilihan tempat makan yang paling direkomendasikan."
     },
     "hi": {
-      "seo_title": "सियोल में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "सियोल में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशिष्टताओं की खोज करें। ग्वंगजांग मार्केट से लेकर बढ़िया भोजन तक।",
+      "seo_title": "सियोल के 10 सर्वश्रेष्ठ भोजन 2026 - स्थानीय पसंदीदा",
+      "seo_description": "सियोल में समय बचाएं और असली सिफारिशें पाएं। Klook पर बुकिंग करें और अपने भोजन की योजना बनाएं!",
       "page_intro": "सियोल एक गतिशील पाक केंद्र है जहां सदियों पुरानी परंपराएं आधुनिक भोजन प्रवृत्तियों से मिलती हैं। कोरियाई बारबेक्यू के सिज़लिंग ग्रिल्स से लेकर ग्वंगजांग मार्केट के जीवंत स्टालों तक, शहर का भोजन दृश्य स्वादिष्ट है।",
       "items": [
         {
@@ -679,7 +697,7 @@
           "description": "दक्षिण कोरिया के सबसे पुराने और सबसे बड़े पारंपरिक बाजारों में से एक। यह प्रामाणिक कोरियाई स्ट्रीट फूड का नमूना लेने के लिए अंतिम गंतव्य है, जिसमें कुरकुरा बिंदाटेओक (मूंग दाल पैनकेक) शामिल है।",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "बिंदत्तेक (मूंगफली का पैनकेक) और मयक गिम्बाप",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -690,7 +708,7 @@
           "description": "एक मिशेलिन बिब गौरमंड संस्थान जो 1966 से बड़ी भीड़ खींच रहा है। वे कालगुकसु (चाकू से कटे गेहूं के नूडल्स) और मांडू (पकौड़ी) के लिए प्रसिद्ध हैं।",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "कालगुक्सु (चाकू से कटे नूडल सूप) और मंडू",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -701,7 +719,7 @@
           "description": "एक पारंपरिक हनोक इमारत में ग्योंगबोकगंग पैलेस के पास स्थित, यह महान रेस्तरां सियोल का सबसे प्रसिद्ध जिनसेंग चिकन सूप परोसता है।",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "सैमग्येटांग (जिनसेंग चिकन सूप)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -712,7 +730,7 @@
           "description": "सूरज डूबते ही यह एक विशाल, नियॉन-रोशनी वाले स्ट्रीट फूड स्वर्ग में बदल जाता है। गाड़ियां ट्रेंडी और आविष्कारशील स्नैक्स बेचती हैं, मसालेदार त्तेओकबोक्की से लेकर 32 सेमी आइसक्रीम तक।",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "स्पाइसी ट्टोकबोक्की और अंडे की ब्रेड (ग्येरान-प्पांग)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -723,7 +741,7 @@
           "description": "मीट के प्रीमियम कट के लिए जाना जाने वाला एक उच्च माना जाने वाला कोरियाई बारबेक्यू रेस्तरां। भोजन करने वाले खूबसूरती से मार्बल वाले हनू (कोरियाई बीफ) का आनंद ले सकते हैं।",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "प्रीमियम हानवू बीफ बीबीक्यू और मैरिनेटेड गल्बी",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -734,7 +752,7 @@
           "description": "एक विशाल, 24 घंटे का समुद्री भोजन बाजार। आगंतुक भूतल के विक्रेताओं से जीवित समुद्री भोजन खरीद सकते हैं और इसे तुरंत तैयार करने के लिए ऊपर एक रेस्तरां में ले जा सकते हैं।",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "सन्नाक्जी (जिंदा ऑक्टोपस) और किंग क्रैब",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -745,7 +763,7 @@
           "description": "खूबसूरती से बहाल किए गए पारंपरिक हनोक के अंदर स्थित यह ट्रेंडी कैफे आधुनिक कॉफी संस्कृति के साथ ऐतिहासिक वास्तुकला को मिलाता है। उनका पांडोरो पेस्ट्री एक परम आवश्यक ऑर्डर है।",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "पंडोरो पेस्ट्री",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -756,15 +774,15 @@
           "description": "सियोल में 'चिमाएक' (फ्राइड चिकन और बीयर) का अनुभव करना अनिवार्य है। वे अपने अविश्वसनीय रूप से कुरकुरे, डबल-फ्राइड चिकन के लिए प्रसिद्ध हैं।",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "हनी ओरिजिनल फ्राइड चिकन",
           "klook_query": "Kyochon Chicken Seoul"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida de Seul 2026 — Guia de Restaurantes e Street Food",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais de Seul. Do Mercado de Gwangjang a jantares sofisticados.",
+      "seo_title": "Top 8 Restaurantes em Seul 2026 — Imperdíveis",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "Seul é um polo culinário dinâmico onde tradições seculares encontram tendências alimentares modernas. Das churrascarias coreanas às barracas vibrantes do Mercado de Gwangjang, a comida da cidade é ousada e reconfortante.",
       "items": [
         {
@@ -774,7 +792,7 @@
           "description": "Um dos mercados tradicionais mais antigos e maiores da Coreia do Sul, famoso por seu beco de alimentação. É o destino definitivo para provar a autêntica comida de rua coreana, como o bindaetteok (panqueca de feijão mungo).",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Bindaetteok (Panqueca de Feijão Mungo) e Mayak Gimbap",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -785,7 +803,7 @@
           "description": "Uma instituição Michelin Bib Gourmand desde 1966. São famosos por um menu simples estrelado pelo kalguksu (macarrão de trigo cortado à mão) em um rico caldo de frango, junto com seus deliciosos mandu.",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Kalguksu (Sopa de Macarrão Cortado à Faca) e Mandu",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -796,7 +814,7 @@
           "description": "Localizado perto do Palácio Gyeongbokgung em um edifício hanok tradicional, serve a sopa de galinha com ginseng mais famosa de Seul. É um prato profundamente nutritivo e amado por todos.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Samgyetang (Sopa de Frango com Ginseng)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -807,7 +825,7 @@
           "description": "Quando o sol se põe, o distrito de compras se transforma em um enorme paraíso de comida de rua. Os carrinhos vendem lanches criativos, desde tteokbokki picante até sorvetes de 32 cm.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Tteokbokki Picante e Pão de Ovo (Gyeran-ppang)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -818,7 +836,7 @@
           "description": "Um restaurante de churrasco coreano altamente conceituado, conhecido por seus cortes premium. Os clientes podem desfrutar da carne Hanwoo e do galbi marinado grelhados perfeitamente em suas mesas.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Churrasco Premium de Carne Hanwoo e Galbi Marinado",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -829,7 +847,7 @@
           "description": "Um amplo mercado de frutos do mar 24 horas. Os visitantes podem comprar frutos do mar vivos e levá-los para um restaurante no andar de cima para serem preparados imediatamente.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Sannakji (Polvo Vivo) e Caranguejo Rei",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -840,7 +858,7 @@
           "description": "Instalado em um hanok tradicional maravilhosamente restaurado, este café mistura a arquitetura histórica com a cultura moderna. Seu Pandoro coberto de açúcar é absolutamente obrigatório.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "Pão Pandoro",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -851,15 +869,15 @@
           "description": "Experimentar 'chimaek' (frango frito e cerveja) é obrigatório, e o Kyochon é perfeito para isso. Eles são famosos por seu frango duplamente frito incrivelmente crocante.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Frango Frito Original com Mel",
           "klook_query": "Kyochon Chicken Seoul"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في سيول 2026 — دليل أفضل المطاعم وأكل الشوارع",
-      "seo_description": "اكتشف أفضل المطاعم وأكل الشوارع والتخصصات المحلية في سيول. من طعام سوق غوانغجانغ إلى الأكل الفاخر.",
+      "seo_title": "أفضل 8 مطاعم في سيول 2026 — كنوز محلية يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في سيول. احجز عبر Klook واكتشف المأكولات المحلية الآن!",
       "page_intro": "سيول هي مركز طهي ديناميكي تلتقي فيه التقاليد القديمة باتجاهات الطعام الحديثة. من مشاوي الشواء الكورية إلى أكشاك سوق غوانغجانغ النابضة بالحياة، مشهد الطعام في المدينة جريء ومريح.",
       "items": [
         {
@@ -869,7 +887,7 @@
           "description": "من أقدم وأكبر الأسواق التقليدية في كوريا الجنوبية. إنها الوجهة المثالية لتجربة طعام الشارع الكوري الأصيل، مثل بيندايتيوك (فطيرة الفاصوليا).",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "بينداتوك (فطيرة الفاصوليا mung) وميّاك غيمباب",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -880,7 +898,7 @@
           "description": "مؤسسة ميشلان بيب غورماند منذ عام 1966. يشتهرون بقائمة بسيطة للغاية من الكالغوكسو (نودلز مقطعة بالسكين) والمندو (الزلابية).",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "كالغوكسو (حساء المعكرونة المقطوعة بالسكين) وماندو",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -891,7 +909,7 @@
           "description": "يقع بالقرب من قصر جيونجبوكجونج، ويقدم أشهر وعاء من حساء دجاج الجينسنغ في سيول. إنه طبق مغذٍ للغاية.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "سامغيتانغ (حساء الدجاج الجينسنغ)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -902,7 +920,7 @@
           "description": "تتحول منطقة التسوق إلى جنة طعام شوارع مضاءة بالنيون عند غروب الشمس. تبيع العربات وجبات خفيفة عصرية، من تيوكبوكي الحار إلى الآيس كريم.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "توكبوكي الحار وخبز البيض (جييران-ببانغ)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -913,7 +931,7 @@
           "description": "مطعم شواء كوري يحظى بتقدير كبير، معروف بقطع اللحم الفاخرة. استمتع بلحم هانو البقري الكوري الرائع.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "شواء لحم هانوو الفاخر وكرات اللحم المتبلة",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -924,7 +942,7 @@
           "description": "سوق مأكولات بحرية واسع يعمل على مدار 24 ساعة. يمكنك شراء المأكولات البحرية الحية وأخذها إلى مطعم في الطابق العلوي لإعدادها على الفور.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "ساناكي (الأخطبوط الحي) وملك السلطعون",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -935,7 +953,7 @@
           "description": "يقع هذا المقهى العصري داخل منزل هانوك تقليدي أعيد ترميمه بشكل جميل. معجنات باندورو الخاصة بهم يجب طلبها.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "باندورو",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -946,15 +964,15 @@
           "description": "تجربة الدجاج المقلي والبيرة إلزامية في سيول. كيوشون هو أحد أفضل الأماكن بفضل الدجاج المقلي المقرمش بشكل لا يصدق.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "دجاج مقلي بالعسل",
           "klook_query": "Kyochon Chicken Seoul"
         }
       ]
     },
     "bn": {
-      "seo_title": "সিউলের সেরা খাবার 2026 - রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
-      "seo_description": "সিউলের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় খাবার আবিষ্কার করুন। গোয়াংজাং মার্কেট থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত।",
+      "seo_title": "সিউল 2026: ৮টি সেরা খাবার ও রেস্টুরেন্ট",
+      "seo_description": "সিউলের সেরা খাবার খুঁজে পান। Klook-এ বুকিং করুন এবং আপনার খাবারের পরিকল্পনা এখনই করুন!",
       "page_intro": "সিউল একটি গতিশীল রন্ধনসম্পর্কীয় কেন্দ্র যেখানে শতাব্দী-প্রাচীন ঐতিহ্য আধুনিক খাদ্য প্রবণতার সাথে মিলিত হয়। কোরিয়ান বারবিকিউ থেকে শুরু করে গোয়াংজাং মার্কেটের স্টল পর্যন্ত, শহরের খাবার অত্যন্ত সুস্বাদু।",
       "items": [
         {
@@ -964,7 +982,7 @@
           "description": "দক্ষিণ কোরিয়ার প্রাচীনতম এবং বৃহত্তম ঐতিহ্যবাহী বাজারগুলির মধ্যে একটি। খাঁটি কোরিয়ান স্ট্রিট ফুডের নমুনা নেওয়ার জন্য এটি চূড়ান্ত গন্তব্য।",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "বিন্দাত্তেক (মুগ ডাল প্যানকেক) এবং মায়াক গিম্বাপ",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -975,7 +993,7 @@
           "description": "একটি মিশেলিন বিব গৌরমান্ড প্রতিষ্ঠান যা 1966 সাল থেকে ভিড় টানছে। তারা কালগুকসু (ছুরি-কাটা নুডলস) এবং মান্ডু (ডাম্পলিং) এর জন্য বিখ্যাত।",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "কালগুকসু (ছুরি-কাটা নুডল স্যুপ) এবং মণ্ডু",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -986,7 +1004,7 @@
           "description": "একটি ঐতিহ্যবাহী হানোক ভবনে জিয়ংবোকগুং প্রাসাদের কাছে অবস্থিত, এই রেস্তোরাঁটি সিউলের সবচেয়ে বিখ্যাত জিনসেং চিকেন স্যুপ পরিবেশন করে।",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "স্যামগেটাং (জিনসেং মুরগির স্যুপ)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -997,7 +1015,7 @@
           "description": "সূর্য অস্ত যাওয়ার সাথে সাথে শপিং ডিস্ট্রিক্টটি একটি নিয়ন-আলোকিত স্ট্রিট ফুড স্বর্গে পরিণত হয়। গাড়িগুলো মসলাদার টককোকি থেকে শুরু করে আইসক্রিম বিক্রি করে।",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "মশলাদার ট্টেকবোক্কি এবং ডিমের রুটি (গেয়ারান-প্পাং)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -1008,7 +1026,7 @@
           "description": "একটি অত্যন্ত সম্মানিত কোরিয়ান বারবিকিউ রেস্তোরাঁ, যা প্রিমিয়াম মাংসের জন্য পরিচিত। ডিনাররা টেবিলে মার্বেল করা কোরিয়ান গরুর মাংস উপভোগ করতে পারেন।",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "প্রিমিয়াম হানউ বিফ বারবিকিউ এবং মেরিনেটেড গালবি",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -1019,7 +1037,7 @@
           "description": "একটি 24-ঘন্টা সামুদ্রিক খাবারের বাজার। দর্শনার্থীরা জীবিত সামুদ্রিক খাবার কিনতে পারে এবং তা অবিলম্বে প্রস্তুত করার জন্য উপরের একটি রেস্তোরাঁয় নিয়ে যেতে পারে।",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "সাননাকজি (জীবন্ত অক্টোপাস) এবং কিং ক্র্যাব",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -1030,7 +1048,7 @@
           "description": "একটি সুন্দরভাবে পুনরুদ্ধার করা ঐতিহ্যবাহী হানোকের ভিতরে অবস্থিত, এই ট্রেন্ডি ক্যাফেটি আধুনিক কফি সংস্কৃতির সাথে মিশে আছে। তাদের পান্ডোরো পেস্ট্রি আবশ্যক।",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "পান্ডোরো পেস্ট্রি",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -1041,15 +1059,15 @@
           "description": "সিউলে 'চিমেক' (ভাজা মুরগি এবং বিয়ার) অনুভব করা বাধ্যতামূলক। কিয়োচোন তাদের অবিশ্বাস্যভাবে খাস্তা, ডাবল-ফ্রাইড চিকেনের জন্য বিখ্যাত।",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "হানি অরিজিনাল ফ্রাইড চিকেন",
           "klook_query": "Kyochon Chicken Seoul"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшая еда в Сеуле 2026 — Гид по ресторанам и уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Сеуле. От рынка Кванджан до высокой кухни.",
+      "seo_title": "10 Лучшая еда в Сеуле 2026 — Обязательные к дегустации",
+      "seo_description": "Сэкономьте время с проверенными рекомендациями от Klook. Откройте для себя местные деликатесы и спланируйте свой обед сейчас!",
       "page_intro": "Сеул — это динамичный кулинарный центр, где вековые традиции встречаются с современными тенденциями. От корейского барбекю до шумных прилавков рынка Кванджан, еда в городе смелая и пряная.",
       "items": [
         {
@@ -1059,7 +1077,7 @@
           "description": "Один из старейших и крупнейших традиционных рынков Южной Кореи. Это лучшее место, чтобы попробовать настоящую корейскую уличную еду, такую как биндэтток (блинчики из маша).",
           "image_keyword": "gwangjang market street food bindaetteok",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Биндаэтток (блинчики из mung бобов) и Майак Гимбап",
           "klook_query": "Gwangjang Market Food Tour"
         },
@@ -1070,7 +1088,7 @@
           "description": "Заведение Мишлен Bib Gourmand с 1966 года. Они славятся кальгуксу (лапшой, нарезанной ножом) в густом курином бульоне в паре с манду.",
           "image_keyword": "myeongdong kyoja kalguksu mandu",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Калгуксу (лапша с ножом) и Манду",
           "klook_query": "Myeongdong Food Guide"
         },
@@ -1081,7 +1099,7 @@
           "description": "Этот легендарный ресторан, расположенный недалеко от дворца Кёнбоккун в традиционном здании ханок, подает самый известный в Сеуле куриный суп с женьшенем.",
           "image_keyword": "tosokchon samgyetang ginseng chicken",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Самгетанг (куриный суп с женьшенем)",
           "klook_query": "Tosokchon Samgyetang Seoul"
         },
@@ -1092,7 +1110,7 @@
           "description": "С заходом солнца Мёндон превращается в огромный рай уличной еды. В тележках продают всё: от острых ттокпокки до мороженого высотой 32 см.",
           "image_keyword": "myeongdong street food night stall",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "₩3,000–5,000",
           "must_try": "Острые Ттокбокки и Яичный хлеб (Гйеран-ппанг)",
           "klook_query": "Myeongdong Night Tour"
         },
@@ -1103,7 +1121,7 @@
           "description": "Высоко оцененный ресторан корейского барбекю, известный первоклассными кусками мяса. Посетители могут насладиться корейской говядиной хану.",
           "image_keyword": "korean bbq hanwoo galbi",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Премиум говядина Ханву BBQ и маринованные Гальби",
           "klook_query": "Wangbijib Myeongdong Reservation"
         },
@@ -1114,7 +1132,7 @@
           "description": "Круглосуточный рынок морепродуктов. Посетители могут купить живые морепродукты и отнести их в ресторан наверху для немедленного приготовления.",
           "image_keyword": "noryangjin fish market seoul seafood",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "₩20,000–30,000",
           "must_try": "Саннакджи (живой осьминог) и королевский краб",
           "klook_query": "Noryangjin Fish Market Tour"
         },
@@ -1125,7 +1143,7 @@
           "description": "Модное кафе, расположенное в традиционном ханоке, идеально сочетает историческую архитектуру с современной кофейной культурой. Обязательно закажите пандоро.",
           "image_keyword": "cafe onion anguk hanok pastry",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩8,000–12,000",
           "must_try": "Пандоро",
           "klook_query": "Seoul Hanok Cafe Tour"
         },
@@ -1136,7 +1154,7 @@
           "description": "Чимек (жареная курица с пивом) в Сеуле обязателен. Kyochon известен своей невероятно хрустящей курицей двойной обжарки.",
           "image_keyword": "korean fried chicken chimaek kyochon",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "₩10,000–15,000",
           "must_try": "Курица фри с медом",
           "klook_query": "Kyochon Chicken Seoul"
         }

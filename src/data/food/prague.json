@@ -2,9 +2,9 @@
   "city_slug": "prague",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Prague 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Prague. From budget eats to fine dining — with booking links.",
-      "page_intro": "Prague's food culture is a delightful blend of traditional Czech cuisine and modern culinary trends. The city is famous for its hearty dishes, vibrant street food scene, and charming cafes. From savoring goulash in a cozy tavern to enjoying trdelník from a street vendor, there’s something for every palate in the City of a Hundred Spires.",
+      "seo_title": "Top 8 Must-Try Restaurants in Prague 2026",
+      "seo_description": "Save time with real recommendations! Explore top spots like Lokal and Kampa Park. Book via Klook and plan your meal now!",
+      "page_intro": "Dive into Prague's vibrant food scene, where traditional dishes like goulash and sweet trdelník await. Discover curated dining experiences that save you time and elevate your culinary journey!",
       "items": [
         {
           "id": "lokal",
@@ -13,7 +13,7 @@
           "description": "Lokal is a must-visit for anyone seeking authentic Czech cuisine in a vibrant setting. Known for its fresh, locally sourced ingredients, this restaurant serves traditional dishes like svíčková and goulash. The atmosphere is lively and casual, making it perfect for both families and groups. Expect to spend around $15-$30 per person.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Svíčková",
           "klook_query": "Lokal Prague restaurant booking",
           "photo_url": "https://images.pexels.com/photos/32772143/pexels-photo-32772143.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Kampa Park offers an exquisite dining experience with stunning views of the Vltava River and Charles Bridge. This upscale restaurant specializes in contemporary Czech and international dishes, with an emphasis on seasonal ingredients. The elegant ambiance and attentive service make it a perfect choice for a special occasion. Prices range from $30 to $100 per person.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "Duck Breast",
           "klook_query": "Kampa Park Prague restaurant booking",
           "photo_url": "https://images.pexels.com/photos/14658340/pexels-photo-14658340.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Experience dining like never before at Vytopna Railway Restaurant, where food is delivered by miniature trains. This unique concept offers a fun atmosphere for families and groups. The menu features a selection of Czech beer and hearty dishes, ideal for a casual meal. Expect to spend about $15-$25 per person.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "Czech Beer",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -48,7 +48,7 @@
           "description": "The Prague Street Food Market is a vibrant gathering spot for food lovers, featuring a variety of local and international street foods. From aromatic sausages to sweet trdelník, you can taste the city's diverse culinary offerings here. The market has a lively atmosphere, perfect for exploring and trying different dishes. Prices typically range from $5 to $15.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Trdelník",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -59,7 +59,7 @@
           "description": "The Naplavka Farmers' Market is a popular weekend destination for locals and tourists alike. Located along the riverbank, this market features a wide variety of fresh produce, artisanal foods, and delicious street eats. It's a great place to enjoy a casual afternoon while sampling local delicacies. Prices vary, with most items around $5 to $20.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Local Cheeses",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -70,7 +70,7 @@
           "description": "Visit the famous Pilsner Urquell Brewery to learn about the history of Czech beer and enjoy a tasting session. The brewery offers guided tours that include a look at the brewing process and samples of their iconic pilsner. The cafe on-site is perfect for relaxing with a cold beer and traditional Czech snacks. Expect to spend around $10-$20.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "Pilsner Beer",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -81,7 +81,7 @@
           "description": "Eska is a modern bistro located in the trendy Karlín district, known for its innovative take on traditional Czech dishes. The restaurant focuses on seasonal ingredients and offers a unique menu that changes regularly. The stylish decor and open kitchen create a welcoming atmosphere. Expect to pay around $25-$50 for a meal.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Beef Tartare",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -96,12 +96,15 @@
           "must_try": "Goulash",
           "klook_query": "Kolkovna Prague restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Prague?",
+      "faq_q2": "Where can I find the best restaurants in Prague?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年布拉格最佳美食——顶级餐厅与街头美食指南",
-      "seo_description": "探索布拉格最好的餐厅、街头美食和当地特色。无论是预算餐还是高档餐饮——都有预订链接。",
-      "page_intro": "布拉格的美食文化是捷克传统美食与现代烹饪趋势的美妙结合。这座城市以丰盛的菜肴、充满活力的街头美食场景和迷人的咖啡馆而闻名。从在舒适的小酒馆品尝炖牛肉到从街头小贩那里享用特尔德尼克，百塔之城的每一种味蕾都有其所需。",
+      "seo_title": "2026年布拉格最佳美食：8家必試餐廳與隱藏珍寶",
+      "seo_description": "節省時間，發現布拉格的真實美食推薦，透過Klook預訂，立即規劃您的美食之旅！",
+      "page_intro": "布拉格的美食場景令人垂涎，融合了捷克的傳統佳餚與創新的現代烹飪。無論是品嚐經典的捷克啤酒搭配炖牛肉，還是享受街頭小吃特爾德尼克，這裡的每一口都讓人回味無窮。讓我們幫您節省時間，精選最佳餐廳，輕鬆預訂，讓您的美食之旅更加完美！",
       "items": [
         {
           "id": "lokal",
@@ -110,7 +113,7 @@
           "description": "Lokal是任何寻求正宗捷克美食的人的必访之地，氛围活跃。餐厅以新鲜的本地食材而闻名，提供传统菜肴如瑞维科娃和炖牛肉。气氛轻松随意，非常适合家庭和团体。预计每人消费约15至30美元。",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "斯維克諾瓦",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -121,7 +124,7 @@
           "description": "Kampa Park提供精致的用餐体验，享有伏尔塔瓦河和查尔斯桥的壮丽景色。这家高档餐厅专注于现代捷克和国际菜肴，强调季节性食材。优雅的氛围和周到的服务使其成为特殊场合的完美选择。价格范围为每人30至100美元。",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "鴨胸",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -132,7 +135,7 @@
           "description": "在Vytopna铁路餐厅体验前所未有的用餐方式，食物由迷你火车送达。这一独特概念为家庭和团体提供了有趣的氛围。菜单上提供捷克啤酒和丰盛的菜肴，适合随意的用餐。预计每人消费约15至25美元。",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "捷克啤酒",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -143,7 +146,7 @@
           "description": "布拉格街头美食市场是美食爱好者的活力聚集地，提供各种本地和国际街头美食。从香气四溢的香肠到甜美的特尔德尼克，您可以在这里品尝到这座城市多样的美食。市场氛围热闹，非常适合探索和尝试不同的菜肴。价格通常在5至15美元之间。",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "捷克捲",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -154,7 +157,7 @@
           "description": "Naplavka农贸市场是本地居民和游客周末的热门目的地。市场位于河岸旁，提供各种新鲜农产品、手工食品和美味的街头小吃。这里是享受悠闲午后并品尝当地美味的好地方。价格不一，大多数商品在5至20美元之间。",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "當地起司",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -165,7 +168,7 @@
           "description": "参观著名的皮尔森乌尔奎尔啤酒厂，了解捷克啤酒的历史并享受品酒体验。啤酒厂提供的导览包括了解酿造过程和品尝他们标志性的皮尔森。现场咖啡馆非常适合放松，享用冰啤酒和传统捷克小吃。预计每人消费约10至20美元。",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "皮爾森啤酒",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -176,7 +179,7 @@
           "description": "Eska是一家现代小酒馆，位于时尚的卡尔林区，以其对传统捷克菜肴的创新演绎而闻名。餐厅专注于季节性食材，提供定期更换的独特菜单。时尚的装饰和开放式厨房营造出温馨的氛围。预计用餐费用约为25至50美元。",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "生牛肉塔塔",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -191,12 +194,15 @@
           "must_try": "古拉什",
           "klook_query": "Kolkovna Prague restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "在布拉格最推薦的美食是什麼？",
+      "faq_q2": "我可以在哪裡找到布拉格最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "2026年プラハのベストフード — トップレストランとストリートフードガイド",
-      "seo_description": "プラハの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算の食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "プラハの食文化は、伝統的なチェコ料理と現代的な料理トレンドの素晴らしい融合です。この街は、ボリューム満点の料理、活気あるストリートフードシーン、魅力的なカフェで有名です。居心地の良い酒場でグーラッシュを味わったり、ストリートベンダーからトルデルニークを楽しんだりと、百塔の町にはすべての味覚に合うものがあります。",
+      "seo_title": "2026年プラハの必食8レストラン — 地元の隠れた名店",
+      "seo_description": "時間を節約し、リアルなおすすめを見つけましょう。Klookで予約して、地元の名物を楽しんでください。今すぐ食事を計画！",
+      "page_intro": "プラハの食シーンは、伝統的なチェコ料理と現代のフレーバーが絶妙に交わる魅力的な体験です。特にグーラッシュやトルデルニークは必ず試したい地元の名物です。Klookでの予約を利用して、時間を節約しながら厳選されたレストランを楽しんでください。",
       "items": [
         {
           "id": "lokal",
@@ -205,7 +211,7 @@
           "description": "Lokalは、活気ある環境で本格的なチェコ料理を求める人には必見のスポットです。新鮮で地元の食材を使用したこのレストランは、伝統的な料理であるスヴィーチコバやグーラッシュを提供しています。雰囲気は賑やかでカジュアルで、家族やグループに最適です。1人あたり約15〜30ドルの費用がかかります。",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "スヴィチコヴァ",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -216,7 +222,7 @@
           "description": "カンパパークは、ヴルタヴァ川とカール橋の素晴らしい景色を楽しむことができる、洗練されたダイニング体験を提供します。この高級レストランは、季節の食材を重視した現代チェコ料理と国際料理を専門としています。エレガントな雰囲気と細やかなサービスが、特別な日にぴったりの選択肢となっています。価格は1人あたり30〜100ドルです。",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "ダックブレスト",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -227,7 +233,7 @@
           "description": "Vytopna鉄道レストランでは、食べ物がミニチュア列車で運ばれる、前例のないダイニング体験を楽しめます。このユニークなコンセプトは、家族やグループにとって楽しい雰囲気を提供します。メニューには、チェコのビールやボリューム満点の料理が含まれており、カジュアルな食事に最適です。1人あたり約15〜25ドルの費用がかかります。",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "チェコビール",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -238,7 +244,7 @@
           "description": "プラハストリートフードマーケットは、さまざまな地元および国際的なストリートフードを提供する美食愛好家の活気ある集まりです。香ばしいソーセージから甘いトルデルニークまで、ここで市内の多様な料理を味わうことができます。市場は賑やかな雰囲気で、さまざまな料理を探求し、試すのに最適です。価格は通常5〜15ドルです。",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "トレドゥルニーク",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -249,7 +255,7 @@
           "description": "ナプラフカファーマーズマーケットは、地元の人々と観光客に人気の週末の目的地です。川岸に位置するこの市場は、新鮮な農産物、アーティザナルフード、そして美味しいストリートフードを幅広く提供しています。地元の美味しいものを味わいながら、カジュアルな午後を楽しむのに最適な場所です。価格はさまざまで、大部分のアイテムは5〜20ドルです。",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "地元のチーズ",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -260,7 +266,7 @@
           "description": "有名なピルスナーウルケル醸造所を訪れて、チェコのビールの歴史を学び、テイスティングセッションを楽しみましょう。醸造所では、醸造プロセスを見学し、彼らの象徴的なピルスナーをサンプルするガイド付きツアーを提供しています。併設のカフェは、冷たいビールと伝統的なチェコのスナックでリラックスするのに最適です。1人あたり約10〜20ドルの費用がかかります。",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "ピルスナー",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -271,7 +277,7 @@
           "description": "Eskaはトレンディなカルリン地区にある現代的なビストロで、伝統的なチェコ料理を革新的にアレンジしたことで知られています。レストランは季節の食材に焦点を当て、定期的に変わる独自のメニューを提供しています。スタイリッシュな装飾とオープンキッチンが、温かい雰囲気を作り出しています。食事には約25〜50ドルが必要です。",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "ビーフタルタル",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -286,12 +292,15 @@
           "must_try": "グーラッシュ",
           "klook_query": "Kolkovna Prague restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "プラハでおすすめの料理は何ですか？",
+      "faq_q2": "プラハで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は評価の高いダイニングオプションです。"
     },
     "ko": {
-      "seo_title": "2026년 프라하 최고의 음식 — 최고의 레스토랑 및 길거리 음식 가이드",
-      "seo_description": "프라하에서 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 저렴한 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "프라하의 음식 문화는 전통 체코 요리와 현대 요리 트렌드의 즐거운 조화를 이룹니다. 이 도시는 푸짐한 요리, 활기찬 길거리 음식 장면, 매력적인 카페로 유명합니다. 아늑한 선술집에서 굴라시를 맛보거나 거리 노점상에서 트르델니크를 즐기는 등, 백탑 도시에서 모든 입맛에 맞는 것이 있습니다.",
+      "seo_title": "2026년 프라하의 8대 필수 맛집 — 숨겨진 보석들",
+      "seo_description": "시간을 절약하고 진짜 추천 맛집을 발견하세요. Klook 예약으로 지금 바로 식사를 계획해 보세요!",
+      "page_intro": "프라하는 전통 체코 요리와 현대적인 창의력이 어우러진 맛의 천국입니다. 특히, 굴라시와 트르델니크 같은 지역 특산물은 꼭 맛봐야 할 별미입니다. Klook에서 추천하는 식당으로 시간을 절약하고 최고의 미식을 경험하세요!",
       "items": [
         {
           "id": "lokal",
@@ -300,7 +309,7 @@
           "description": "Lokal은 활기찬 분위기에서 정통 체코 요리를 찾는 사람에게 꼭 방문해야 할 곳입니다. 신선하고 지역에서 조달된 재료로 유명한 이 레스토랑은 스비치코바와 굴라시 같은 전통 요리를 제공합니다. 분위기는 활기차고 캐주얼하여 가족과 그룹 모두에게 적합합니다. 1인당 약 15~30달러를 예상하세요.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "스비츠코바",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -311,7 +320,7 @@
           "description": "캄파 파크는 블타바 강과 카를 다리의 멋진 전망과 함께 우아한 식사 경험을 제공합니다. 이 고급 레스토랑은 계절 재료를 강조한 현대 체코 및 국제 요리를 전문으로 합니다. 세련된 분위기와 세심한 서비스로 특별한 날에 완벽한 선택입니다. 가격은 1인당 30~100달러입니다.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "오리 가슴살",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -322,7 +331,7 @@
           "description": "비토프나 철도 레스토랑에서 미니어처 기차로 음식을 배달받는 전례 없는 식사를 경험하세요. 이 독특한 개념은 가족과 그룹에게 재미있는 분위기를 제공합니다. 메뉴에는 체코 맥주와 푸짐한 요리가 포함되어 있어 캐주얼한 식사에 적합합니다. 1인당 약 15~25달러를 예상하세요.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "체코 맥주",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -333,7 +342,7 @@
           "description": "프라하 스트리트 푸드 마켓은 다양한 지역 및 국제 길거리 음식을 제공하는 미식가들의 활기찬 모임 장소입니다. 향긋한 소시지에서 달콤한 트르델니크까지, 이곳에서 도시의 다양한 요리를 맛볼 수 있습니다. 시장은 활기찬 분위기로, 다양한 요리를 탐험하고 시식하는 데 완벽합니다. 가격은 일반적으로 5~15달러입니다.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "츄르델니크",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -344,7 +353,7 @@
           "description": "나플라프카 농산물 시장은 현지인과 관광객 모두에게 인기 있는 주말 여행지입니다. 강가에 위치한 이 시장은 신선한 농산물, 수공예 식품 및 맛있는 길거리 음식을 다양하게 제공합니다. 현지 별미를 맛보며 여유로운 오후를 즐기기에 좋은 장소입니다. 가격은 다양하며, 대부분의 품목이 5~20달러입니다.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "지역 치즈",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -355,7 +364,7 @@
           "description": "유명한 필스너 우르켈 양조장을 방문하여 체코 맥주의 역사에 대해 배우고 시음 세션을 즐기세요. 양조장은 양조 과정을 살펴보고 그들의 상징적인 필스너를 시음할 수 있는 가이드 투어를 제공합니다. 현장 카페는 시원한 맥주와 전통 체코 스낵으로 휴식을 취하기에 완벽합니다. 1인당 약 10~20달러를 예상하세요.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "필스너 맥주",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -366,7 +375,7 @@
           "description": "Eska는 트렌디한 칼린 지역에 위치한 현대적인 비스트로이며, 전통 체코 요리에 대한 혁신적인 해석으로 유명합니다. 레스토랑은 계절 재료에 중점을 두고 정기적으로 변경되는 독특한 메뉴를 제공합니다. 세련된 장식과 오픈 키친이 아늑한 분위기를 만들어냅니다. 식사 비용은 약 25~50달러입니다.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "소고기 타르타르",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -381,12 +390,15 @@
           "must_try": "구울라시",
           "klook_query": "Kolkovna Prague restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "프라하에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "프라하에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 식사 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Prague 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Prague. Des repas à petit budget à la gastronomie — avec des liens de réservation.",
-      "page_intro": "La culture alimentaire de Prague est un mélange délicieux de cuisine tchèque traditionnelle et de tendances culinaires modernes. La ville est célèbre pour ses plats copieux, sa scène de street food dynamique et ses charmants cafés. Que ce soit pour savourer un goulash dans une taverne confortable ou déguster un trdelník chez un vendeur de rue, il y en a pour tous les goûts dans la ville aux cent flèches.",
+      "seo_title": "8 Meilleurs Restaurants à Prague 2026 - À Découvrir",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les spécialités locales. Planifiez votre repas maintenant.",
+      "page_intro": "Plongez dans la scène culinaire vibrante de Prague, où les saveurs traditionnelles se mêlent à l'innovation moderne. Ne manquez pas de goûter au goulash, aux knedlíky et au trdelník. Avec nos recommandations triées sur le volet, gagnez du temps et savourez le meilleur de la gastronomie praguoise grâce à Klook.",
       "items": [
         {
           "id": "lokal",
@@ -395,7 +407,7 @@
           "description": "Lokal est un incontournable pour quiconque cherche une cuisine tchèque authentique dans un cadre vibrant. Connue pour ses ingrédients frais et locaux, ce restaurant sert des plats traditionnels comme le svíčková et le goulash. L'ambiance est animée et décontractée, ce qui en fait un endroit parfait pour les familles et les groupes. Attendez-vous à dépenser environ 15 à 30 dollars par personne.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Svíčková",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -406,7 +418,7 @@
           "description": "Kampa Park offre une expérience culinaire exquise avec une vue imprenable sur la rivière Vltava et le pont Charles. Ce restaurant haut de gamme se spécialise dans des plats tchèques contemporains et internationaux, avec un accent sur les ingrédients de saison. L'ambiance élégante et le service attentif en font un choix parfait pour une occasion spéciale. Les prix varient de 30 à 100 dollars par personne.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "Magret de canard",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -417,7 +429,7 @@
           "description": "Vivez une expérience culinaire unique au Vytopna Railway Restaurant, où la nourriture est livrée par des trains miniatures. Ce concept unique offre une atmosphère amusante pour les familles et les groupes. Le menu propose une sélection de bières tchèques et de plats copieux, idéaux pour un repas décontracté. Attendez-vous à dépenser environ 15 à 25 dollars par personne.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "Bière tchèque",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -428,7 +440,7 @@
           "description": "Le Marché de street food de Prague est un lieu de rassemblement animé pour les amateurs de bonne cuisine, proposant une variété de street food locale et internationale. Des saucisses aromatiques aux trdelník sucrés, vous pouvez goûter à la diversité culinaire de la ville ici. Le marché a une atmosphère animée, parfaite pour explorer et essayer différents plats. Les prix varient généralement de 5 à 15 dollars.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Trdelník",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -439,7 +451,7 @@
           "description": "Le Marché fermier de Naplavka est une destination populaire le week-end pour les habitants et les touristes. Situé le long de la rivière, ce marché propose une grande variété de produits frais, de produits artisanaux et de délicieuses spécialités de rue. C'est un excellent endroit pour profiter d'un après-midi décontracté tout en dégustant des délices locaux. Les prix varient, la plupart des articles coûtant entre 5 et 20 dollars.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Fromages locaux",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -450,7 +462,7 @@
           "description": "Visitez la célèbre brasserie Pilsner Urquell pour en apprendre davantage sur l'histoire de la bière tchèque et profiter d'une séance de dégustation. La brasserie propose des visites guidées qui incluent un aperçu du processus de brassage et des échantillons de leur pilsner emblématique. Le café sur place est parfait pour se détendre avec une bière fraîche et des collations tchèques traditionnelles. Attendez-vous à dépenser environ 10 à 20 dollars.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "Bière Pilsner",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -461,7 +473,7 @@
           "description": "Eska est un bistro moderne situé dans le quartier tendance de Karlín, connu pour sa réinterprétation innovante des plats tchèques traditionnels. Le restaurant se concentre sur des ingrédients de saison et propose un menu unique qui change régulièrement. La décoration élégante et la cuisine ouverte créent une atmosphère accueillante. Attendez-vous à dépenser environ 25 à 50 dollars pour un repas.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Tartare de boeuf",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -476,11 +488,14 @@
           "must_try": "Goulash",
           "klook_query": "Kolkovna Prague restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Prague ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Prague ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "La mejor comida en Praga 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Praga. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "seo_title": "8 Mejores Restaurantes en Praga 2026 - ¡Favoritos Locales!",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los imperdibles. ¡Planifica tu comida ahora!",
       "page_intro": "La cultura gastronómica de Praga es una deliciosa mezcla de la cocina checa tradicional y las tendencias culinarias modernas. La ciudad es famosa por sus platos abundantes, su vibrante escena de comida callejera y sus encantadoras cafeterías. Desde saborear un gulash en una taberna acogedora hasta disfrutar de un trdelník de un vendedor callejero, hay algo para todos los paladares en la Ciudad de las Cien Torres.",
       "items": [
         {
@@ -490,7 +505,7 @@
           "description": "Lokal es una visita obligada para cualquiera que busque auténtica cocina checa en un ambiente vibrante. Conocido por sus ingredientes frescos y de origen local, este restaurante sirve platos tradicionales como el svíčková y el gulash. La atmósfera es animada y casual, lo que lo convierte en un lugar perfecto para familias y grupos. Espera gastar alrededor de $15 a $30 por persona.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Svíčková",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -501,7 +516,7 @@
           "description": "Kampa Park ofrece una experiencia culinaria exquisita con impresionantes vistas del río Vltava y el puente Carlos. Este restaurante de alta gama se especializa en platos checos contemporáneos e internacionales, con un énfasis en ingredientes de temporada. La elegancia del ambiente y el servicio atento lo convierten en una elección perfecta para una ocasión especial. Los precios oscilan entre $30 y $100 por persona.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "Pechuga de pato",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -512,7 +527,7 @@
           "description": "Experimenta una cena como nunca antes en el Restaurante Vytopna Railway, donde la comida es entregada por trenes en miniatura. Este concepto único ofrece un ambiente divertido para familias y grupos. El menú presenta una selección de cervezas checas y platos abundantes, ideales para una comida casual. Espera gastar alrededor de $15 a $25 por persona.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "Cerveza checa",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -523,7 +538,7 @@
           "description": "El Mercado de Comida Callejera de Praga es un lugar vibrante de encuentro para los amantes de la comida, que cuenta con una variedad de comidas callejeras locales e internacionales. Desde salchichas aromáticas hasta dulces trdelník, aquí puedes degustar la diversa oferta culinaria de la ciudad. El mercado tiene un ambiente animado, perfecto para explorar y probar diferentes platos. Los precios suelen oscilar entre $5 y $15.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Trdelník",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -534,7 +549,7 @@
           "description": "El Mercado de Agricultores de Naplavka es un destino popular los fines de semana para locales y turistas. Ubicado a lo largo de la ribera, este mercado cuenta con una amplia variedad de productos frescos, alimentos artesanales y deliciosas comidas callejeras. Es un excelente lugar para disfrutar de una tarde casual mientras pruebas delicias locales. Los precios varían, siendo la mayoría de los artículos entre $5 y $20.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Quesos locales",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -545,7 +560,7 @@
           "description": "Visita la famosa Cervecería Pilsner Urquell para aprender sobre la historia de la cerveza checa y disfrutar de una sesión de degustación. La cervecería ofrece visitas guiadas que incluyen un vistazo al proceso de elaboración y muestras de su icónica pilsner. El café en el lugar es perfecto para relajarse con una cerveza fría y bocadillos checos tradicionales. Espera gastar alrededor de $10 a $20.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "Cerveza Pilsner",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -556,7 +571,7 @@
           "description": "Eska es un bistró moderno ubicado en el trendy distrito de Karlín, conocido por su interpretación innovadora de los platos checos tradicionales. El restaurante se centra en ingredientes de temporada y ofrece un menú único que cambia regularmente. La decoración elegante y la cocina abierta crean una atmósfera acogedora. Espera pagar alrededor de $25 a $50 por una comida.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Tártaro de res",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -574,8 +589,8 @@
       ]
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Praha 2026 — Panduan Restoran & Makanan Jalanan Teratas",
-      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Praha. Dari makanan anggaran hingga makan malam mewah — dengan tautan pemesanan.",
+      "seo_title": "8 Restoran Terbaik di Praha 2026 yang Wajib Dicoba",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata. Temukan restoran terbaik di Praha dan pesan melalui Klook. Rencanakan makanan Anda sekarang!",
       "page_intro": "Budaya makanan Praha adalah perpaduan yang menyenangkan antara masakan tradisional Ceko dan tren kuliner modern. Kota ini terkenal dengan hidangan yang mengenyangkan, suasana makanan jalanan yang dinamis, dan kafe yang menawan. Dari menikmati gulash di tavern yang nyaman hingga menikmati trdelník dari penjual jalanan, ada sesuatu untuk setiap selera di Kota Seratus Menara.",
       "items": [
         {
@@ -585,7 +600,7 @@
           "description": "Lokal adalah tempat yang wajib dikunjungi bagi siapa saja yang mencari masakan Ceko yang otentik di lingkungan yang hidup. Dikenal karena bahan-bahan segar yang bersumber lokal, restoran ini menyajikan hidangan tradisional seperti svíčková dan gulash. Suasananya ceria dan santai, membuatnya sempurna untuk keluarga dan kelompok. Harapkan untuk menghabiskan sekitar $15-$30 per orang.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Svíčková",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -596,7 +611,7 @@
           "description": "Kampa Park menawarkan pengalaman bersantap yang luar biasa dengan pemandangan menakjubkan Sungai Vltava dan Jembatan Charles. Restoran mewah ini mengkhususkan diri dalam hidangan Ceko kontemporer dan internasional, dengan penekanan pada bahan musiman. Suasana yang elegan dan layanan yang penuh perhatian menjadikannya pilihan sempurna untuk acara khusus. Harga berkisar antara $30 hingga $100 per orang.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "Dada Bebek",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -607,7 +622,7 @@
           "description": "Rasakan pengalaman bersantap yang belum pernah ada sebelumnya di Restoran Kereta Api Vytopna, di mana makanan diantar oleh kereta miniatur. Konsep unik ini menawarkan suasana yang menyenangkan untuk keluarga dan kelompok. Menu menampilkan pilihan bir Ceko dan hidangan mengenyangkan, ideal untuk makan santai. Harapkan untuk menghabiskan sekitar $15-$25 per orang.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "Bir Ceko",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -618,7 +633,7 @@
           "description": "Pasar Makanan Jalanan Praha adalah tempat berkumpul yang hidup bagi para pecinta makanan, menampilkan berbagai makanan jalanan lokal dan internasional. Dari sosis aromatik hingga trdelník manis, Anda dapat mencicipi keragaman kuliner kota di sini. Pasar ini memiliki suasana yang meriah, sempurna untuk menjelajahi dan mencoba berbagai hidangan. Harga biasanya berkisar antara $5 hingga $15.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Trdelník",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -629,7 +644,7 @@
           "description": "Pasar Petani Naplavka adalah tujuan akhir pekan yang populer bagi penduduk lokal dan turis. Terletak di tepi sungai, pasar ini menawarkan berbagai produk segar, makanan artisanal, dan makanan jalanan yang lezat. Ini adalah tempat yang bagus untuk menikmati sore santai sambil mencicipi makanan lokal. Harga bervariasi, dengan sebagian besar barang berkisar antara $5 hingga $20.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Keju Lokal",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -640,7 +655,7 @@
           "description": "Kunjungi Pabrik Bir Pilsner Urquell yang terkenal untuk mempelajari sejarah bir Ceko dan menikmati sesi mencicipi. Pabrik bir menawarkan tur berpemandu yang mencakup melihat proses pembuatan bir dan mencicipi pilsner ikonik mereka. Kafe di lokasi sangat cocok untuk bersantai dengan bir dingin dan makanan ringan tradisional Ceko. Harapkan untuk menghabiskan sekitar $10-$20.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "Bir Pilsner",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -651,7 +666,7 @@
           "description": "Eska adalah bistro modern yang terletak di distrik Karlín yang trendi, terkenal dengan interpretasi inovatifnya terhadap hidangan Ceko tradisional. Restoran ini fokus pada bahan musiman dan menawarkan menu unik yang berubah secara teratur. Dekorasi yang stylish dan dapur terbuka menciptakan suasana yang ramah. Harapkan untuk membayar sekitar $25-$50 untuk satu makanan.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Tartare Daging",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -669,8 +684,8 @@
       ]
     },
     "hi": {
-      "seo_title": "प्राग में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "प्राग में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के भोजन से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "प्राग में 8 सर्वश्रेष्ठ भोजन 2026 - टॉप रेस्तरां",
+      "seo_description": "समय बचाएं और प्राग के स्थानीय पसंदीदा खोजें। Klook से बुकिंग करें और अपनी भोजन योजना अभी बनाएं!",
       "page_intro": "प्राग की खाद्य संस्कृति पारंपरिक चेक व्यंजनों और आधुनिक पाक प्रवृत्तियों का आनंददायक मिश्रण है। शहर अपने दिलकश व्यंजनों, जीवंत स्ट्रीट फूड दृश्य और आकर्षक कैफे के लिए प्रसिद्ध है। एक आरामदायक तवर्न में गौलाश का स्वाद लेने से लेकर एक स्ट्रीट विक्रेता से ट्रडेल्निक का आनंद लेने तक, सिटी ऑफ़ अ हंड्रेड स्पायर्स में हर स्वाद के लिए कुछ न कुछ है।",
       "items": [
         {
@@ -680,7 +695,7 @@
           "description": "लोकल एक जीवंत सेटिंग में प्रामाणिक चेक व्यंजन खोजने वालों के लिए एक अवश्य देखने योग्य स्थान है। ताजा, स्थानीय रूप से प्राप्त सामग्रियों के लिए प्रसिद्ध, यह रेस्तरां पारंपरिक व्यंजन जैसे कि स्वीक्वाक और गौलाश पेश करता है। वातावरण जीवंत और अनौपचारिक है, जो परिवारों और समूहों के लिए इसे उत्तम बनाता है। प्रत्येक व्यक्ति पर लगभग $15-$30 खर्च करने की अपेक्षा करें।",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "स्वीचकोवा",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -691,7 +706,7 @@
           "description": "कांपा पार्क एक शानदार खाने का अनुभव प्रदान करता है, जिसमें वल्टावा नदी और चार्ल्स पुल के आश्चर्यजनक दृश्य हैं। यह उच्च श्रेणी का रेस्तरां समकालीन चेक और अंतर्राष्ट्रीय व्यंजनों में विशेषज्ञता रखता है, जिसमें मौसमी सामग्रियों पर जोर दिया गया है। सुरुचिपूर्ण वातावरण और संवेदनशील सेवा इसे विशेष अवसर के लिए एक आदर्श विकल्प बनाते हैं। कीमतें प्रति व्यक्ति $30 से $100 तक होती हैं।",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "बत्तख का स्तन",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -702,7 +717,7 @@
           "description": "वायटोपना रेलवे रेस्तरां में पहले कभी अनुभव न किए गए खाने का अनुभव करें, जहां भोजन लघु रेलगाड़ियों द्वारा वितरित किया जाता है। यह अनूठा अवधारणा परिवारों और समूहों के लिए एक मजेदार वातावरण प्रदान करता है। मेनू में चेक बियर और दिलकश व्यंजन शामिल हैं, जो आकस्मिक भोजन के लिए आदर्श हैं। प्रत्येक व्यक्ति पर लगभग $15-$25 खर्च करने की अपेक्षा करें।",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "चेक बीयर",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -713,7 +728,7 @@
           "description": "प्राग स्ट्रीट फूड मार्केट खाद्य प्रेमियों के लिए एक जीवंत बैठक स्थल है, जिसमें स्थानीय और अंतर्राष्ट्रीय स्ट्रीट फूड का एक विविध चयन है। सुगंधित सॉसेज से लेकर मीठे ट्रडेल्निक तक, आप यहाँ शहर की विविध पाक पेशकशों का स्वाद ले सकते हैं। बाजार का वातावरण जीवंत है, जो विभिन्न व्यंजनों का अन्वेषण करने और आजमाने के लिए आदर्श है। कीमतें सामान्यतः $5 से $15 तक होती हैं।",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "ट्रडेल्निक",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -724,7 +739,7 @@
           "description": "नप्लाव्का किसान मार्केट स्थानीय लोगों और पर्यटकों के लिए एक लोकप्रिय सप्ताहांत गंतव्य है। नदी के किनारे स्थित, यह मार्केट ताज़ा उत्पादों, कारीगर खाद्य पदार्थों और स्वादिष्ट स्ट्रीट खाने की एक विस्तृत विविधता पेश करता है। यह स्थानीय व्यंजनों का स्वाद लेते हुए एक आकस्मिक दोपहर का आनंद लेने के लिए एक शानदार स्थान है। कीमतें भिन्न होती हैं, अधिकांश वस्तुएँ लगभग $5 से $20 के आसपास होती हैं।",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "स्थानीय पनीर",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -735,7 +750,7 @@
           "description": "चेक बियर के इतिहास के बारे में जानने और एक चखने का सत्र आनंद लेने के लिए प्रसिद्ध पिल्सनर उर्क्वेल ब्रेवरी का दौरा करें। ब्रेवरी मार्गदर्शित टूर प्रदान करती है जिसमें ब्रूइंग प्रक्रिया का अवलोकन और उनके प्रतीकात्मक पिल्सनर के नमूने शामिल हैं। साइट पर कैफे ठंडी बीयर और पारंपरिक चेक स्नैक्स के साथ आराम करने के लिए उत्तम है। प्रत्येक व्यक्ति पर लगभग $10-$20 खर्च करने की अपेक्षा करें।",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "पिल्सनर बीयर",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -746,7 +761,7 @@
           "description": "एस्का एक आधुनिक बिस्ट्रो है जो ट्रेंडी कार्लिन जिले में स्थित है, जो पारंपरिक चेक व्यंजनों पर नवोन्मेषी दृष्टिकोण के लिए जाना जाता है। यह रेस्तरां मौसमी सामग्रियों पर ध्यान केंद्रित करता है और एक अनूठा मेनू पेश करता है जो नियमित रूप से बदलता है। स्टाइलिश सजावट और खुली रसोई एक स्वागत योग्य वातावरण बनाती है। एक भोजन के लिए लगभग $25-$50 खर्च करने की अपेक्षा करें।",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "बीफ टारटारे",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -764,9 +779,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Praga 2026 — Principais Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Praga. De refeições econômicas a alta gastronomia — com links de reserva.",
-      "page_intro": "A cultura alimentar de Praga é uma mistura deliciosa da culinária tcheca tradicional com as tendências culinárias modernas. A cidade é famosa por seus pratos substanciais, vibrante cena de comida de rua e charmosos cafés. Desde saborear goulash em uma taverna aconchegante até apreciar trdelník de um vendedor de rua, há algo para todos os paladares na Cidade das Cem Torres.",
+      "seo_title": "Top 8 Restaurantes em Praga 2026 — Must-Try!",
+      "seo_description": "Economize tempo com recomendações reais. Reserve sua mesa com Klook e descubra os sabores de Praga. Planeje sua refeição agora!",
+      "page_intro": "Descubra a vibrante cena gastronômica de Praga, onde a tradição se encontra com a inovação! Delicie-se com pratos icônicos como o goulash e o trdelník em locais imperdíveis. Economize tempo com nossas escolhas curadas e faça sua reserva pelo Klook!",
       "items": [
         {
           "id": "lokal",
@@ -775,7 +790,7 @@
           "description": "Lokal é uma visita obrigatória para quem busca a autêntica culinária tcheca em um ambiente vibrante. Conhecido por seus ingredientes frescos e de origem local, este restaurante serve pratos tradicionais como svíčková e goulash. A atmosfera é animada e casual, tornando-o perfeito para famílias e grupos. Espere gastar cerca de $15 a $30 por pessoa.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Svíčková",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -786,7 +801,7 @@
           "description": "Kampa Park oferece uma experiência gastronômica requintada com vistas deslumbrantes do Rio Vltava e da Ponte Carlos. Este restaurante de alto padrão é especializado em pratos contemporâneos tchecos e internacionais, com ênfase em ingredientes sazonais. O ambiente elegante e o atendimento atencioso fazem dele uma escolha perfeita para uma ocasião especial. Os preços variam de $30 a $100 por pessoa.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "Peito de Pato",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -797,7 +812,7 @@
           "description": "Experimente uma refeição como nunca antes no Restaurante Vytopna Railway, onde a comida é entregue por trens em miniatura. Este conceito único oferece uma atmosfera divertida para famílias e grupos. O menu apresenta uma seleção de cervejas tchecas e pratos substanciais, ideais para uma refeição casual. Espere gastar cerca de $15 a $25 por pessoa.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "Cerveja Checa",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -808,7 +823,7 @@
           "description": "O Mercado de Comida de Rua de Praga é um vibrante ponto de encontro para amantes da comida, apresentando uma variedade de comidas de rua locais e internacionais. Desde salsichas aromáticas até doces trdelník, você pode experimentar aqui as diversas ofertas culinárias da cidade. O mercado tem uma atmosfera animada, perfeita para explorar e experimentar diferentes pratos. Os preços geralmente variam de $5 a $15.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Trdelník",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -819,7 +834,7 @@
           "description": "O Mercado de Agricultores Naplavka é um destino popular nos fins de semana para os locais e turistas. Localizado ao longo da margem do rio, este mercado apresenta uma ampla variedade de produtos frescos, alimentos artesanais e deliciosas comidas de rua. É um ótimo lugar para desfrutar de uma tarde casual enquanto experimenta as delícias locais. Os preços variam, com a maioria dos itens custando entre $5 a $20.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Queijos Locais",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -830,7 +845,7 @@
           "description": "Visite a famosa Cervejaria Pilsner Urquell para conhecer a história da cerveja tcheca e desfrutar de uma sessão de degustação. A cervejaria oferece passeios guiados que incluem uma visão do processo de fabricação e amostras de seu icônico pilsner. O café no local é perfeito para relaxar com uma cerveja gelada e petiscos tradicionais tchecos. Espere gastar cerca de $10 a $20.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "Cerveja Pilsner",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -841,7 +856,7 @@
           "description": "Eska é um bistrô moderno localizado no trendy distrito de Karlín, conhecido por sua abordagem inovadora dos pratos tradicionais tchecos. O restaurante foca em ingredientes sazonais e oferece um menu único que muda regularmente. A decoração estilosa e a cozinha aberta criam uma atmosfera acolhedora. Espere pagar cerca de $25 a $50 por refeição.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Tártaro de Carne",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -856,11 +871,14 @@
           "must_try": "Goulash",
           "klook_query": "Kolkovna Prague restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "Qual é a melhor comida para experimentar em Praga?",
+      "faq_q2": "Onde posso encontrar os melhores restaurantes em Praga?",
+      "faq_a2_suffix": " são algumas das opções de jantar mais bem avaliadas."
     },
     "ar": {
-      "seo_title": "أفضل طعام في براغ 2026 — أفضل المطاعم ودليل الطعام الشارعي",
-      "seo_description": "اكتشف أفضل المطاعم، طعام الشارع والتخصصات المحلية في براغ. من الوجبات الاقتصادية إلى تناول الطعام الراقي — مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في براغ 2026 — كنوز محلية لا بد من تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في براغ. احجز عبر Klook واستمتع بتجربة تناول طعام لا تُنسى. خطط لوجبتك الآن!",
       "page_intro": "تعتبر ثقافة الطعام في براغ مزيجًا رائعًا من المأكولات التشيكية التقليدية والاتجاهات الطهو الحديثة. تشتهر المدينة بأطباقها القلبية، ومشهد طعام الشارع النابض بالحياة، والمقاهي الساحرة. بدءًا من تذوق الجولاش في حانة مريحة إلى الاستمتاع بالتردلنيك من بائع شوارع، هناك شيء لكل الأذواق في مدينة المائة برج.",
       "items": [
         {
@@ -870,7 +888,7 @@
           "description": "لوكال هو مكان يجب زيارته لأي شخص يبحث عن المأكولات التشيكية الأصيلة في بيئة نابضة بالحياة. معروف بمكوناته الطازجة والمحلية، يقدم هذا المطعم أطباقًا تقليدية مثل سفيتشكوفا والجولاش. الأجواء حيوية وغير رسمية، مما يجعلها مثالية للعائلات والمجموعات. توقع أن تنفق حوالي 15-30 دولارًا للشخص الواحد.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "سفيتشكوفا",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -881,7 +899,7 @@
           "description": "تقدم حديقة كامبا تجربة طعام رائعة مع مناظر خلابة لنهر فلتافا وجسر تشارلز. يتخصص هذا المطعم الراقي في الأطباق التشيكية المعاصرة والدولية، مع التركيز على المكونات الموسمية. تجعل الأجواء الأنيقة والخدمة اليقظة منه خيارًا مثاليًا للمناسبات الخاصة. تتراوح الأسعار من 30 إلى 100 دولار للشخص الواحد.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "صدر البط",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -892,7 +910,7 @@
           "description": "اختبر تجربة تناول طعام لم يسبق لها مثيل في مطعم سكة حديد فايطوبنا، حيث يتم توصيل الطعام بواسطة قطارات مصغرة. يقدم هذا المفهوم الفريد جوًا ممتعًا للعائلات والمجموعات. تشمل القائمة مجموعة من البيرة التشيكية والأطباق القلبية، المثالية لوجبة غير رسمية. توقع أن تنفق حوالي 15-25 دولارًا للشخص الواحد.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "بيرة تشيكية",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -903,7 +921,7 @@
           "description": "سوق طعام الشارع في براغ هو مكان نابض بالحياة لمحبي الطعام، ويضم مجموعة متنوعة من أطعمة الشارع المحلية والدولية. من النقانق العطرية إلى التردلنيك الحلو، يمكنك تذوق مجموعة متنوعة من العروض الطهو في المدينة هنا. يتمتع السوق بأجواء حيوية، مما يجعله مثاليًا لاستكشاف وتجربة أطباق مختلفة. تتراوح الأسعار عادةً من 5 إلى 15 دولارًا.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "ترادلنيك",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -914,7 +932,7 @@
           "description": "يعتبر سوق المزارعين نابلافكا وجهة شهيرة في عطلات نهاية الأسبوع للسكان المحليين والسياح على حد سواء. يقع على ضفاف النهر، ويضم هذا السوق مجموعة واسعة من المنتجات الطازجة، والأطعمة الحرفية، والأطباق اللذيذة من الشارع. إنه مكان رائع للاستمتاع بعد ظهر غير رسمي أثناء تذوق الأطباق المحلية. تختلف الأسعار، حيث تتراوح معظم العناصر من 5 إلى 20 دولارًا.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "أجبان محلية",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -925,7 +943,7 @@
           "description": "قم بزيارة مخمرة بيلسني أوركيل الشهيرة لتتعرف على تاريخ البيرة التشيكية واستمتع بجلسة تذوق. تقدم المخمرة جولات إرشادية تتضمن لمحة عن عملية التخمير وعينات من بيرة بيلسني الشهيرة. يعد المقهى الموجود في الموقع مثاليًا للاسترخاء مع بيرة باردة ووجبات خفيفة تشيكية تقليدية. توقع أن تنفق حوالي 10-20 دولارًا.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "بيرة بيلسنر",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -936,7 +954,7 @@
           "description": "إسكا هي بيسرو حديث تقع في حي كارلين العصري، المعروف بنهجه المبتكر في الأطباق التشيكية التقليدية. يركز المطعم على المكونات الموسمية ويقدم قائمة فريدة تتغير بانتظام. تخلق الديكورات الأنيقة والمطبخ المفتوح أجواء ترحيبية. توقع أن تدفع حوالي 25-50 دولارًا للوجبة.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "تارتار لحم البقر",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -954,8 +972,8 @@
       ]
     },
     "bn": {
-      "seo_title": "প্রাগে সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবারের গাইড",
-      "seo_description": "প্রাগে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার — বুকিং লিঙ্ক সহ।",
+      "seo_title": "প্রাগে ২০২৬ সালের সেরা ৮ খাবার — টপ রেস্তোরাঁ ও গোপন রত্ন",
+      "seo_description": "আপনার সময় বাঁচান এবং প্রাগের স্থানীয় রত্ন আবিষ্কার করুন। Klook-এর মাধ্যমে বুকিং করুন। এখনই আপনার খাবারের পরিকল্পনা করুন!",
       "page_intro": "প্রাগের খাবার সংস্কৃতি ঐতিহ্যগত চেক রান্না এবং আধুনিক রন্ধনপ্রণালীর একটি আনন্দদায়ক মিশ্রণ। শহরটি তার পুষ্টিকর খাবার, প্রাণবন্ত রাস্তার খাবারের দৃশ্য এবং আকর্ষণীয় ক্যাফের জন্য পরিচিত। একটি আরামদায়ক ট্যাভার্নে গুলাশ উপভোগ করা থেকে শুরু করে একটি রাস্তার বিক্রেতার কাছ থেকে ট্রডেলনিক উপভোগ করা পর্যন্ত, সিটি অফ আ হান্ড্রেড স্পায়ার্সে প্রতিটি স্বাদের জন্য কিছু না কিছু রয়েছে।",
       "items": [
         {
@@ -965,7 +983,7 @@
           "description": "লোকাল একটি প্রাণবন্ত পরিবেশে অপ্রতিরোধ্য চেক রান্নার সন্ধানকারীদের জন্য একটি আবশ্যক ভ্রমণ। তাজা, স্থানীয়ভাবে উত্সাহিত উপাদানের জন্য পরিচিত, এই রেস্তোরাঁটি স্বীচকোভা এবং গুলাশের মতো ঐতিহ্যবাহী খাবার পরিবেশন করে। পরিবেশটি প্রাণবন্ত এবং অ-আনুষ্ঠানিক, পরিবার এবং গ্রুপের জন্য এটি নিখুঁত করে তোলে। প্রত্যেকের জন্য প্রায় $15-$30 খরচ করার প্রত্যাশা করুন।",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "সোভিচকোভা",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -976,7 +994,7 @@
           "description": "কাম্পা পার্ক অদ্ভুত ভোঁতা নদী এবং চার্লস সেতুর অপরূপ দৃশ্য সহ একটি উৎসবের অভিজ্ঞতা প্রদান করে। এই উচ্চমানের রেস্তোরাঁটি সমসাময়িক চেক এবং আন্তর্জাতিক খাবারে বিশেষজ্ঞ, মৌসুমি উপকরণের উপর জোর দেয়। মার্জিত পরিবেশ এবং মনোযোগী পরিষেবা বিশেষ উপলক্ষের জন্য এটি একটি নিখুঁত পছন্দ তৈরি করে। প্রতি ব্যক্তির মূল্য $30 থেকে $100 পর্যন্ত।",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "ডাক ব্রেস্ট",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -987,7 +1005,7 @@
           "description": "ভাইটোপনা রেলওয়ে রেস্তোরাঁতে একেবারে নতুন অভিজ্ঞতা করুন, যেখানে খাবার ক্ষুদ্র ট্রেনে পরিবেশন করা হয়। এই অনন্য ধারণাটি পরিবার এবং দলের জন্য একটি মজার পরিবেশ প্রদান করে। মেনুতে চেক বিয়ার এবং পুষ্টিকর খাবারের একটি নির্বাচন রয়েছে, যা একটি অচল খাবারের জন্য আদর্শ। প্রত্যেকের জন্য প্রায় $15-$25 খরচ করার প্রত্যাশা করুন।",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "চেক বিয়ার",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -998,7 +1016,7 @@
           "description": "প্রাগ স্ট্রিট ফুড মার্কেট খাদ্য প্রেমীদের জন্য একটি প্রাণবন্ত মিলনস্থল, স্থানীয় এবং আন্তর্জাতিক রাস্তার খাবারের একটি বৈচিত্র্য প্রদর্শন করে। সুগন্ধি সসেজ থেকে শুরু করে মিষ্টি ট্রডেলনিক, আপনি এখানে শহরের বিভিন্ন খাদ্য অফারগুলি স্বাদ গ্রহণ করতে পারেন। বাজারের পরিবেশটি প্রাণবন্ত, যা বিভিন্ন খাবার অন্বেষণ এবং চেষ্টা করার জন্য আদর্শ। সাধারণত দাম $5 থেকে $15 পর্যন্ত হতে পারে।",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "ট্রডেলনিক",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -1009,7 +1027,7 @@
           "description": "নপ্লাভকা কৃষক মার্কেট স্থানীয়দের এবং পর্যটকদের জন্য একটি জনপ্রিয় সপ্তাহান্তের গন্তব্য। নদীর তীরে অবস্থিত, এই বাজারটি তাজা পণ্যের একটি বিস্তৃত বৈচিত্র্য, শিল্পজাত খাদ্য এবং সুস্বাদু রাস্তার খাবার নিয়ে গঠিত। স্থানীয় বিশেষত্বগুলি স্বাদ গ্রহণের সময় একটি সাধারণ বিকেল উপভোগ করার জন্য এটি একটি দুর্দান্ত স্থান। দাম ভিন্ন, বেশিরভাগ আইটেম $5 থেকে $20 এর মধ্যে।",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "স্থানীয় পনির",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -1020,7 +1038,7 @@
           "description": "চেক বিয়ারের ইতিহাস সম্পর্কে জানুন এবং একটি স্বাদ নেওয়ার সেশনে উপভোগ করতে পিলসনার উর্কুয়েল ব্রিউয়ারিতে যান। ব্রিউয়ারিটি গাইডেড ট্যুর অফার করে যা ব্রিউইং প্রক্রিয়া এবং তাদের আইকনিক পিলসনারের নমুনা দেখায়। সাইটে ক্যাফে শীতল বিয়ার এবং ঐতিহ্যগত চেক স্ন্যাকস নিয়ে আরাম করার জন্য নিখুঁত। প্রত্যেকের জন্য প্রায় $10-$20 খরচ করার প্রত্যাশা করুন।",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "পিলসনার বিয়ার",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -1031,7 +1049,7 @@
           "description": "এসকা একটি আধুনিক বীস্ট্রো যা ট্রেন্ডি কার্লিন জেলায় অবস্থিত, যা ঐতিহ্যবাহী চেক খাবারের উদ্ভাবনী দৃষ্টিকোণ জন্য পরিচিত। এই রেস্তোরাঁটি মৌসুমি উপাদানের উপর ফোকাস করে এবং একটি অনন্য মেনু সরবরাহ করে যা নিয়মিত পরিবর্তিত হয়। স্টাইলিশ সজ্জা এবং খোলা রান্নাঘর একটি স্বাগতম পরিবেশ তৈরি করে। একটি খাবারের জন্য প্রায় $25-$50 খরচ করার প্রত্যাশা করুন।",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "বিফ টারটারে",
           "klook_query": "Eska Prague restaurant booking"
         },
@@ -1049,8 +1067,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Праге 2026 — Топ-рестораны и гид по уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Праге. От недорогих блюд до высокой кухни — со ссылками для бронирования.",
+      "seo_title": "10 Лучших Ресторанов Праги 2026 — Обязательно!",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные любимцы. Планируйте свой обед сейчас!",
       "page_intro": "Кулинарная культура Праги — это восхитительное сочетание традиционной чешской кухни и современных кулинарных трендов. Город славится своими сытными блюдами, яркой уличной едой и очаровательными кафе. От дегустации гуляша в уютной таверне до наслаждения трдельником у уличного продавца, в Городе Сотни Шпилей найдется что-то на любой вкус.",
       "items": [
         {
@@ -1060,7 +1078,7 @@
           "description": "Локал — обязательное место для посещения для тех, кто ищет аутентичную чешскую кухню в яркой обстановке. Известный своими свежими, местными ингредиентами, этот ресторан предлагает традиционные блюда, такие как свичкова и гуляш. Атмосфера оживленная и непринужденная, что делает его идеальным как для семей, так и для групп. Ожидайте потратить около 15-30 долларов с человека.",
           "image_keyword": "Lokal restaurant Prague",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Свичкова",
           "klook_query": "Lokal Prague restaurant booking"
         },
@@ -1071,7 +1089,7 @@
           "description": "Кампа Парк предлагает изысканный опыт ужина с захватывающим видом на реку Влтаву и Карлов мост. Этот элитный ресторан специализируется на современных чешских и международных блюдах, делая акцент на сезонных ингредиентах. Элегантная атмосфера и внимательное обслуживание делают его идеальным выбором для особого случая. Цены колеблются от 30 до 100 долларов с человека.",
           "image_keyword": "Kampa Park restaurant Prague",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "Kč800–1,500",
           "must_try": "Утиная грудка",
           "klook_query": "Kampa Park Prague restaurant booking"
         },
@@ -1082,7 +1100,7 @@
           "description": "Испытайте ужин, как никогда раньше, в ресторане Вытопна, где еда подается миниатюрными поездами. Эта уникальная концепция предлагает веселую атмосферу для семей и групп. Меню включает выбор чешского пива и сытных блюд, идеально подходящих для неформального обеда. Ожидайте потратить около 15-25 долларов с человека.",
           "image_keyword": "Vytopna Railway Restaurant Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč150–300",
           "must_try": "Чешское пиво",
           "klook_query": "Vytopna Railway Prague booking"
         },
@@ -1093,7 +1111,7 @@
           "description": "Рынок уличной еды в Праге — это яркое место встречи для любителей пищи, предлагающее разнообразие местной и международной уличной еды. От ароматных сосисок до сладкого трдельника, здесь вы можете попробовать разнообразные кулинарные предложения города. Атмосфера на рынке живая, и это идеальное место для изучения и дегустации различных блюд. Цены обычно колеблются от 5 до 15 долларов.",
           "image_keyword": "Prague Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Трдельник",
           "klook_query": "Prague Street Food Market tour"
         },
@@ -1104,7 +1122,7 @@
           "description": "Фермерский рынок Наплавка — популярное место для местных жителей и туристов на выходных. Расположенный вдоль берега реки, этот рынок предлагает широкий выбор свежих продуктов, ремесленных продуктов питания и вкусной уличной еды. Это отличное место, чтобы насладиться непринужденным днем, пробуя местные деликатесы. Цены варьируются, большинство товаров стоят от 5 до 20 долларов.",
           "image_keyword": "Naplavka Farmers' Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "Kč50–150",
           "must_try": "Местные сыры",
           "klook_query": "Naplavka Farmers' Market tour"
         },
@@ -1115,7 +1133,7 @@
           "description": "Посетите знаменитую пивоварню Пилснер Урквелл, чтобы узнать об истории чешского пива и насладиться дегустацией. Пивоварня предлагает экскурсии с гидом, которые включают обзор процесса пивоварения и дегустацию их знакового пива. Кафе на месте идеально подходит для отдыха с холодным пивом и традиционными чешскими закусками. Ожидайте потратить около 10-20 долларов.",
           "image_keyword": "Pilsner Urquell Brewery Prague",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "Kč300–600",
           "must_try": "Пильзенское пиво",
           "klook_query": "Pilsner Urquell Brewery tour"
         },
@@ -1126,7 +1144,7 @@
           "description": "Эска — это современное бистро, расположенное в модном районе Карлин, известное своим инновационным подходом к традиционным чешским блюдам. Ресторан сосредоточен на сезонных ингредиентах и предлагает уникальное меню, которое регулярно меняется. Стильный декор и открытая кухня создают уютную атмосферу. Ожидайте заплатить около 25-50 долларов за блюдо.",
           "image_keyword": "Eska restaurant Prague",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "Kč300–600",
           "must_try": "Беф тартар",
           "klook_query": "Eska Prague restaurant booking"
         },

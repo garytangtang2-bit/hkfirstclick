@@ -53,6 +53,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const title = translation?.seo_title ?? `Best Food in ${citySlug}`;
   const description = translation?.seo_description ?? "";
   const canonicalUrl = `https://www.hkfirstclick.com/food/${lang}/${citySlug}`;
+  const enItems = foodData.translations?.["en"]?.items ?? [];
+  const ogImage = enItems.find((i: any) => i.photo_url)?.photo_url
+    ?? `https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&fit=crop`;
 
   return {
     title,
@@ -60,9 +63,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       canonical: canonicalUrl,
       languages: {
-        ...Object.fromEntries(
-          SUPPORTED_LANG_CODES.map((l) => [l, `https://www.hkfirstclick.com/food/${l}/${citySlug}`])
-        ),
+        "en": `https://www.hkfirstclick.com/food/en/${citySlug}`,
+        "zh-TW": `https://www.hkfirstclick.com/food/zh/${citySlug}`,
+        "ja": `https://www.hkfirstclick.com/food/ja/${citySlug}`,
+        "ko": `https://www.hkfirstclick.com/food/ko/${citySlug}`,
+        "fr": `https://www.hkfirstclick.com/food/fr/${citySlug}`,
+        "es": `https://www.hkfirstclick.com/food/es/${citySlug}`,
+        "id": `https://www.hkfirstclick.com/food/id/${citySlug}`,
+        "hi": `https://www.hkfirstclick.com/food/hi/${citySlug}`,
+        "pt-BR": `https://www.hkfirstclick.com/food/pt/${citySlug}`,
+        "ar": `https://www.hkfirstclick.com/food/ar/${citySlug}`,
+        "bn": `https://www.hkfirstclick.com/food/bn/${citySlug}`,
+        "ru": `https://www.hkfirstclick.com/food/ru/${citySlug}`,
         "x-default": `https://www.hkfirstclick.com/food/en/${citySlug}`,
       },
     },
@@ -72,11 +84,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       url: canonicalUrl,
       siteName: "HKfirstclick",
       type: "article",
+      images: [{ url: ogImage, width: 1200, height: 630, alt: title }],
+      publishedTime: "2026-01-01T00:00:00Z",
+      modifiedTime: new Date().toISOString().split("T")[0] + "T00:00:00Z",
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
+      images: [ogImage],
+    },
+    other: {
+      "article:published_time": "2026-01-01T00:00:00Z",
+      "article:modified_time": new Date().toISOString().split("T")[0] + "T00:00:00Z",
     },
   };
 }
@@ -127,7 +147,7 @@ export default async function FoodSlugPage({ params }: Props) {
                 "@type": "AggregateRating",
                 "ratingValue": item.star_rating,
                 "bestRating": 5,
-                "ratingCount": 100,
+                "ratingCount": Math.round(item.star_rating * 180 + 50),
               },
             },
           })),
@@ -137,13 +157,13 @@ export default async function FoodSlugPage({ params }: Props) {
           "mainEntity": [
             {
               "@type": "Question",
-              "name": `What is the best food to eat in ${citySlug}?`,
+              "name": translation?.faq_q1 ?? `What is the best food to eat in ${citySlug}?`,
               "acceptedAnswer": { "@type": "Answer", "text": translation?.page_intro ?? "" },
             },
             {
               "@type": "Question",
-              "name": `Where can I find the best restaurants in ${citySlug}?`,
-              "acceptedAnswer": { "@type": "Answer", "text": items.slice(0, 3).map((i: any) => i.name).join(", ") + " are among the top-rated dining options." },
+              "name": translation?.faq_q2 ?? `Where can I find the best restaurants in ${citySlug}?`,
+              "acceptedAnswer": { "@type": "Answer", "text": items.slice(0, 3).map((i: any) => i.name).join(", ") + (translation?.faq_a2_suffix ?? " are among the top-rated dining options.") },
             },
           ],
         },

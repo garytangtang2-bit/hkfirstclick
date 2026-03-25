@@ -2,9 +2,9 @@
   "city_slug": "sapporo",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Sapporo 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Sapporo. Find opening hours, ticket prices and booking links for Sapporo's top landmarks.",
-      "page_intro": "Sapporo, the vibrant capital of Hokkaido, is a city known for its stunning architecture, rich history, and delicious cuisine. From the iconic Sapporo Beer Museum to the beautiful Moerenuma Park, there's something for every traveler in this dynamic city. Discover the unique blend of urban and natural attractions that make Sapporo a must-visit destination in Japan.",
+      "seo_title": "8 Must-See Attractions in Sapporo 2026 - Complete Guide",
+      "seo_description": "Discover Sapporo's top attractions with tickets, hours, and insider tips. Book your adventure now on Klook for an unforgettable experience!",
+      "page_intro": "Dive into Sapporo, Hokkaido's lively capital, where stunning landmarks like the Sapporo Clock Tower and the serene Odori Park await. Experience the perfect mix of culture and nature—book your adventure with Klook today!",
       "items": [
         {
           "id": "sapporo-clock-tower",
@@ -103,12 +103,16 @@
           "best_time": "anytime",
           "klook_query": "Jozankei Onsen tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Sapporo?",
+      "faq_q2": "Do I need tickets for attractions in Sapporo?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, some attractions require tickets for entry. You can conveniently purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年札幌最佳景點 — 票務、提示與完整指南",
-      "seo_description": "探索札幌最佳景點。查找札幌主要地標的開放時間、票價及預訂鏈接。",
-      "page_intro": "札幌是北海道的活力之都，以其壯麗的建築、豐富的歷史和美味的料理而聞名。從標誌性的札幌啤酒博物館到美麗的毛良沼公園，這座充滿活力的城市為每位旅行者提供了獨特的體驗。探索城市與自然景點的獨特融合，讓札幌成為日本必訪的目的地。",
+      "seo_title": "2026年札幌8大必看景點 — 完整指南",
+      "seo_description": "獲取札幌主要景點的票務、開放時間及內部提示，並透過Klook輕鬆預訂，立即計劃你的旅程！",
+      "page_intro": "探索札幌的魅力，這座城市以其壯觀的札幌時計台、迷人的大通公園和歷史悠久的札幌啤酒博物館而聞名。無論是城市的繁華還是自然的靜謐，札幌都為您提供獨特的體驗，立即透過Klook預訂，輕鬆避開人潮！",
       "items": [
         {
           "id": "sapporo-clock-tower",
@@ -206,12 +210,16 @@
           "best_time": "anytime",
           "klook_query": "Jozankei Onsen tickets"
         }
-      ]
+      ],
+      "faq_q1": "札幌的熱門景點有哪些？",
+      "faq_q2": "札幌的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大部分景點都需要購票，建議您透過Klook提前購票，以便輕鬆進入並享受旅程。"
     },
     "ja": {
-      "seo_title": "2026年札幌のトップ観光スポット — チケット、ヒントと完全ガイド",
-      "seo_description": "札幌の最高の観光スポットを探検してください。札幌の主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "札幌は北海道の活気ある首都で、美しい建築、豊かな歴史、そして美味しい料理で知られています。象徴的な札幌ビール博物館から美しいモエレ沼公園まで、このダイナミックな都市には旅行者のための何かがあります。札幌を日本の必訪の目的地にしている都市と自然の観光名所のユニークな組み合わせを発見してください。",
+      "seo_title": "2026年札幌の必見観光スポット8選 — 完全ガイド",
+      "seo_description": "札幌の観光スポットのチケット、営業時間、インサイダー情報をチェック。Klookで簡単に予約して、素晴らしい旅を！",
+      "page_intro": "札幌の魅力は、歴史的な札幌時計台や広々とした大通公園、そしてビールの聖地である札幌ビール博物館にあります。これらの名所を訪れ、札幌の魅力を存分に体験してください。行列を避けて、Klookでの予約をお忘れなく！",
       "items": [
         {
           "id": "sapporo-clock-tower",
@@ -309,12 +317,16 @@
           "best_time": "anytime",
           "klook_query": "Jozankei Onsen tickets"
         }
-      ]
+      ],
+      "faq_q1": "札幌のおすすめ観光スポットは何ですか？",
+      "faq_q2": "札幌の観光スポットにはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見の観光名所です。",
+      "faq_a2": "はい、いくつかの観光スポットには入場チケットが必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 삿포로의 주요 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "삿포로의 최고의 명소를 탐험하세요. 삿포로의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾을 수 있습니다.",
-      "page_intro": "삿포로는 홋카이도의 활기찬 수도로, 멋진 건축물, 풍부한 역사 및 맛있는 요리로 유명합니다. 상징적인 삿포로 맥주 박물관부터 아름다운 모에레누마 공원까지, 이 다이나믹한 도시에서는 모든 여행자를 위한 무언가가 있습니다. 삿포로를 일본의 필수 방문지로 만드는 도시와 자연 명소의 독특한 조화를 발견하세요.",
+      "seo_title": "2026년 삿포로의 8대 필수 명소 — 완벽 가이드",
+      "seo_description": "삿포로의 주요 명소 개장 시간, 티켓 가격, 예약 링크를 Klook에서 확인하고 여행을 계획하세요!",
+      "page_intro": "삿포로는 홋카이도의 매력을 한껏 느낄 수 있는 도시로, 삿포로 시계탑과 오도리 공원 같은 아이코닉한 명소가 가득합니다. Klook을 통해 줄 서지 않고 편리하게 예약하세요!",
       "items": [
         {
           "id": "sapporo-clock-tower",
@@ -412,12 +424,16 @@
           "best_time": "anytime",
           "klook_query": "Jozankei Onsen tickets"
         }
-      ]
+      ],
+      "faq_q1": "삿포로의 주요 명소는 무엇인가요?",
+      "faq_q2": "삿포로의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 삿포로 시계탑, 오도리 공원, 삿포로 맥주 박물관 등이 반드시 방문해야 할 명소입니다.",
+      "faq_a2": "대부분의 명소에는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리하게 이용할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Sapporo 2026 — Billets, conseils et guide complet",
-      "seo_description": "Explorez les meilleures attractions de Sapporo. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Sapporo.",
-      "page_intro": "Sapporo, la capitale dynamique de Hokkaido, est une ville connue pour son architecture époustouflante, son histoire riche et sa délicieuse cuisine. Du célèbre musée de la bière de Sapporo au magnifique parc Moerenuma, il y a quelque chose pour chaque voyageur dans cette ville dynamique. Découvrez le mélange unique d'attractions urbaines et naturelles qui font de Sapporo une destination incontournable au Japon.",
+      "seo_title": "Top 8 Attractions à Sapporo 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions de Sapporo. Réservez vos billets sur Klook et explorez la ville!",
+      "page_intro": "Découvrez Sapporo, où l'architecture moderne rencontre l'histoire fascinante. Ne manquez pas la célèbre horloge de Sapporo et le musée de la bière, des incontournables qui vous plongeront dans l'essence de cette ville. Réservez dès maintenant via Klook pour une expérience inoubliable !",
       "items": [
         {
           "id": "sapporo-clock-tower",
@@ -515,10 +531,14 @@
           "best_time": "anytime",
           "klook_query": "Jozankei Onsen tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Sapporo ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Sapporo ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les files d'attente. Vous pouvez les réserver facilement sur Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones en Sapporo 2026 — Entradas, consejos y guía completa",
+      "seo_title": "Las 10 mejores atracciones en Sapporo 2026",
       "seo_description": "Explora las mejores atracciones en Sapporo. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales puntos de interés de Sapporo.",
       "page_intro": "Sapporo, la vibrante capital de Hokkaido, es una ciudad conocida por su impresionante arquitectura, rica historia y deliciosa gastronomía. Desde el icónico Museo de la Cerveza de Sapporo hasta el hermoso Parque Moerenuma, hay algo para cada viajero en esta dinámica ciudad. Descubre la combinación única de atracciones urbanas y naturales que hacen de Sapporo un destino imperdible en Japón.",
       "items": [
@@ -621,8 +641,8 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Sapporo 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Sapporo. Find opening hours, ticket prices and booking links for Sapporo's top landmarks.",
+      "seo_title": "8 Atraksi Terbaik di Sapporo 2026 — Panduan Lengkap",
+      "seo_description": "Temukan tiket, jam buka, dan tips insider untuk atraksi Sapporo. Pesan dengan mudah melalui tautan Klook dan jelajahi keindahan kota!",
       "page_intro": "Sapporo, the vibrant capital of Hokkaido, is a city known for its stunning architecture, rich history, and delicious cuisine. From the iconic Sapporo Beer Museum to the beautiful Moerenuma Park, there's something for every traveler in this dynamic city. Discover the unique blend of urban and natural attractions that make Sapporo a must-visit destination in Japan.",
       "items": [
         {
@@ -827,7 +847,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Sapporo 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Sapporo 2026 — Guia e Dicas",
       "seo_description": "Explore as melhores atrações em Sapporo. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Sapporo.",
       "page_intro": "Sapporo, a vibrante capital de Hokkaido, é uma cidade conhecida por sua impressionante arquitetura, rica história e deliciosa culinária. Desde o icônico Museu da Cerveja Sapporo até o belo Parque Moerenuma, há algo para cada viajante nesta cidade dinâmica. Descubra a mistura única de atrações urbanas e naturais que fazem de Sapporo um destino imperdível no Japão.",
       "items": [
@@ -930,7 +950,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أهم المعالم السياحية في سابورو 2026 — التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل معالم سابورو 2026 — دليل شامل للتذاكر",
       "seo_description": "استكشف أفضل المعالم السياحية في سابورو. ابحث عن أوقات العمل وأسعار التذاكر وروابط الحجز لأهم معالم سابورو.",
       "page_intro": "سابورو، العاصمة النابضة بالحياة لهوكايدو، هي مدينة معروفة بهندستها المعمارية الرائعة، وتاريخها الغني، ومأكولاتها اللذيذة. من متحف سابورو للبيرة الأيقوني إلى حديقة مويرنومة الجميلة، هناك شيء لكل مسافر في هذه المدينة الديناميكية. اكتشف المزيج الفريد من المعالم الحضرية والطبيعية التي تجعل من سابورو وجهة لا بد من زيارتها في اليابان.",
       "items": [
@@ -1033,8 +1053,8 @@
       ]
     },
     "bn": {
-      "seo_title": "সাপ্পোরোর শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "সাপ্পোরোর সেরা আকর্ষণগুলি অন্বেষণ করুন। সাপ্পোরোর শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "সাপ্পোরোর ২০২৬ সালের শীর্ষ ৫ আকর্ষণ — সম্পূর্ণ গাইড",
+      "seo_description": "সাপ্পোরোর সেরা ৫ আকর্ষণ, টিকিটের দাম, খোলার সময় ও Klook বুকিং লিঙ্ক পেতে আজই পরিকল্পনা করুন!",
       "page_intro": "সাপ্পোরো, হোক্কাইডোর প্রাণবন্ত রাজধানী, একটি শহর যা তার চমৎকার স্থাপত্য, সমৃদ্ধ ইতিহাস এবং সুস্বাদু রেসিপির জন্য পরিচিত। আইকনিক সাপ্পোরো বিয়ার মিউজিয়াম থেকে সুন্দর মোএরেনুমা পার্ক পর্যন্ত, এই গতিশীল শহরে প্রতিটি ভ্রমণকারীর জন্য কিছু না কিছু রয়েছে। সাপ্পোরোর শহুরে এবং প্রাকৃতিক আকর্ষণের অনন্য মিশ্রণ আবিষ্কার করুন যা এটিকে জাপানের একটি অবশ্যই দর্শনীয় গন্তব্যে পরিণত করে।",
       "items": [
         {
@@ -1136,8 +1156,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Саппоро 2026 — Билеты, советы и полный гид",
-      "seo_description": "Исследуйте лучшие достопримечательности Саппоро. Найдите часы работы, цены на билеты и ссылки на бронирование для главных достопримечательностей Саппоро.",
+      "seo_title": "8 Главных Достопримечательностей Саппоро 2026 — Полный Гид",
+      "seo_description": "Узнайте часы работы, цены и советы по 8 главным достопримечательностям Саппоро. Бронируйте билеты на Klook и исследуйте город!",
       "page_intro": "Саппоро, яркая столица Хоккайдо, — это город, известный своей потрясающей архитектурой, богатой историей и вкусной кухней. От знакового Музея пива Саппоро до красивого парка Моеренума — в этом динамичном городе найдется что-то для каждого путешественника. Откройте для себя уникальное сочетание городских и природных достопримечательностей, которые делают Саппоро обязательным для посещения местом в Японии.",
       "items": [
         {

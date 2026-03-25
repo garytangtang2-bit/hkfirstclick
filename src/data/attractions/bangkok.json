@@ -2,9 +2,9 @@
   "city_slug": "bangkok",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Bangkok 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Bangkok. Find opening hours, ticket prices and booking links for Bangkok's top landmarks.",
-      "page_intro": "Bangkok, the vibrant capital of Thailand, is a city that seamlessly blends the old with the new. Known for its ornate shrines and bustling street life, Bangkok offers a rich tapestry of cultural experiences. From the grandeur of its temples to the lively markets and modern skyscrapers, the city is a dynamic hub that promises unforgettable adventures for travelers.",
+      "seo_title": "8 Must-See Attractions in Bangkok 2026 | Complete Guide",
+      "seo_description": "Discover Bangkok's top sights with tickets, hours & insider tips. Book your adventure now with Klook for an unforgettable experience!",
+      "page_intro": "Dive into the heart of Bangkok, where the majestic Grand Palace and the serene Wat Pho await your discovery. With vibrant markets like Chatuchak offering a taste of local life, this city is a treasure trove of experiences. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "grand-palace",
@@ -104,12 +104,16 @@
           "best_time": "evening",
           "klook_query": "wat arun ticket"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Bangkok?",
+      "faq_q2": "Do I need tickets for attractions in Bangkok?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Bangkok require tickets for entry. You can easily purchase them in advance through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年曼谷最佳景点——门票、提示和完整指南",
-      "seo_description": "探索曼谷的最佳景点。查找曼谷顶级地标的开放时间、门票价格和预订链接。",
-      "page_intro": "曼谷，泰国充满活力的首都，是一座将古老与现代完美融合的城市。以其华丽的神社和繁忙的街道生活而闻名，曼谷提供丰富的文化体验。从壮丽的寺庙到热闹的市场和现代摩天大楼，这座城市是一个充满活力的中心，为旅行者提供难忘的冒险。",
+      "seo_title": "2026年曼谷8大必看景点——完整指南",
+      "seo_description": "获取曼谷最佳景点的门票、开放时间和内部提示，立即通过Klook预订，开启您的曼谷之旅！",
+      "page_intro": "探索曼谷的魅力，這座城市以壯麗的皇宮、古老的寺廟和熱鬧的市場而聞名。從大皇宮到臥佛寺，曼谷的每一個角落都充滿驚喜！立即透過Klook預訂，享受無與倫比的旅行體驗。",
       "items": [
         {
           "id": "grand-palace",
@@ -207,12 +211,16 @@
           "best_time": "evening",
           "klook_query": "wat arun ticket"
         }
-      ]
+      ],
+      "faq_q1": "曼谷的熱門景點有哪些？",
+      "faq_q2": "在曼谷的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，大部分景點都需要購票。您可以透過Klook輕鬆購買門票，省去排隊的時間。"
     },
     "ja": {
-      "seo_title": "2026年バンコクのトップ観光スポット - チケット、ヒントと完全ガイド",
-      "seo_description": "バンコクの最高の観光スポットを探索しましょう。バンコクの主要なランドマークの営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "タイの活気ある首都バンコクは、古き良きものと新しいものが見事に融合した街です。その華麗な神社や賑やかなストリートライフで知られるバンコクは、豊かな文化体験を提供します。壮大な寺院から賑やかな市場、現代的な高層ビルまで、この街は旅行者に忘れられない冒険を約束するダイナミックなハブです。",
+      "seo_title": "2026年バンコクの必見観光スポット8選 - 完全ガイド",
+      "seo_description": "バンコクの観光名所のチケット、営業時間、インサイダー情報をチェック。Klookで簡単予約！今すぐ計画を始めましょう。",
+      "page_intro": "バンコクの魅力的なアトラクションは、訪れる人々を魅了してやみません。壮麗な王宮や歴史的なワット・ポー、活気あふれるチャトゥチャック・ウィークエンドマーケットなど、見どころが満載です。行列を避けて、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "grand-palace",
@@ -310,12 +318,16 @@
           "best_time": "evening",
           "klook_query": "wat arun ticket"
         }
-      ]
+      ],
+      "faq_q1": "バンコクのおすすめ観光スポットは何ですか？",
+      "faq_q2": "バンコクの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " グランドパレス、ワット・ポー、チャトゥチャック・ウィークエンドマーケットなどが必見の観光名所です。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを購入してスムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "2026년 방콕 최고의 관광 명소 - 티켓, 팁 및 완벽한 가이드",
-      "seo_description": "방콕의 최고의 관광 명소를 탐험하세요. 방콕 주요 랜드마크의 운영 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
-      "page_intro": "태국의 활기찬 수도 방콕은 오래된 것과 새로운 것이 완벽하게 조화를 이루는 도시입니다. 화려한 사원과 분주한 거리 생활로 유명한 방콕은 풍부한 문화 경험을 제공합니다. 사원의 웅장함부터 활기찬 시장과 현대적인 고층 빌딩까지, 이 도시는 여행자에게 잊을 수 없는 모험을 약속하는 역동적인 허브입니다.",
+      "seo_title": "2026년 방콕 최고의 관광 명소 8곳 - 완벽 가이드",
+      "seo_description": "방콕의 숨겨진 보석을 발견하세요! 운영 시간, 티켓 가격 및 Klook 예약 링크를 확인하고 여행을 계획하세요.",
+      "page_intro": "방콕은 화려한 사원과 활기찬 시장, 현대적인 고층 빌딩이 어우러진 매력적인 도시입니다. 그랜드 팰리스와 왓 포, 차투착 주말 시장 등은 놓칠 수 없는 명소입니다. 긴 줄을 피하고 Klook에서 미리 예약하세요!",
       "items": [
         {
           "id": "grand-palace",
@@ -413,12 +425,16 @@
           "best_time": "evening",
           "klook_query": "wat arun ticket"
         }
-      ]
+      ],
+      "faq_q1": "방콕의 주요 관광지는 무엇인가요?",
+      "faq_q2": "방콕의 관광지에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광지에 입장권이 필요합니다. Klook을 통해 미리 구매하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Bangkok en 2026 - Billets, conseils et guide complet",
-      "seo_description": "Explorez les meilleures attractions de Bangkok. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Bangkok.",
-      "page_intro": "Bangkok, la capitale vibrante de la Thaïlande, est une ville qui mêle harmonieusement l'ancien et le moderne. Connue pour ses sanctuaires ornés et sa vie de rue animée, Bangkok offre une riche tapisserie d'expériences culturelles. De la grandeur de ses temples aux marchés animés et aux gratte-ciels modernes, la ville est un centre dynamique qui promet des aventures inoubliables aux voyageurs.",
+      "seo_title": "Top 8 Attractions à Bangkok en 2026 - Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions de Bangkok. Réservez vos billets sur Klook et explorez la ville !",
+      "page_intro": "Découvrez Bangkok, une ville fascinante où le passé rencontre le présent à chaque coin de rue. Des merveilles comme le Grand Palais et Wat Pho aux trésors cachés du marché de Chatuchak, chaque visite est une aventure. Évitez les files d'attente et réservez facilement via Klook.",
       "items": [
         {
           "id": "grand-palace",
@@ -516,11 +532,15 @@
           "best_time": "evening",
           "klook_query": "wat arun ticket"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Bangkok ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Bangkok ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent un billet d'entrée. Pour faciliter votre visite, pensez à réserver vos billets via Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones en Bangkok 2026 - Entradas, consejos y guía completa",
-      "seo_description": "Explora las mejores atracciones de Bangkok. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Bangkok.",
+      "seo_title": "8 Atracciones Imperdibles en Bangkok 2026 - Guía Completa",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las mejores atracciones de Bangkok. ¡Planifica tu visita ahora!",
       "page_intro": "Bangkok, la vibrante capital de Tailandia, es una ciudad que combina a la perfección lo antiguo con lo nuevo. Conocida por sus santuarios ornamentados y su ajetreada vida callejera, Bangkok ofrece una rica gama de experiencias culturales. Desde la grandeza de sus templos hasta los mercados animados y los modernos rascacielos, la ciudad es un centro dinámico que promete aventuras inolvidables para los viajeros.",
       "items": [
         {
@@ -622,7 +642,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Bangkok 2026 - Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Atraksi Terbaik Bangkok 2026: Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Bangkok. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Bangkok.",
       "page_intro": "Bangkok, ibu kota Thailand yang ramai, adalah kota yang menggabungkan yang lama dengan yang baru secara sempurna. Dikenal dengan kuil-kuilnya yang indah dan kehidupan jalanannya yang sibuk, Bangkok menawarkan pengalaman budaya yang kaya. Dari kemegahan kuilnya hingga pasar yang meriah dan gedung pencakar langit modern, kota ini adalah pusat dinamis yang menjanjikan petualangan tak terlupakan bagi para pelancong.",
       "items": [
@@ -725,8 +745,8 @@
       ]
     },
     "hi": {
-      "seo_title": "बैंकॉक में शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
-      "seo_description": "बैंकॉक के सर्वश्रेष्ठ आकर्षणों का अन्वेषण करें। बैंकॉक के शीर्ष स्थलों के लिए खुलने का समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "seo_title": "बैंकॉक के 5 शीर्ष आकर्षण 2026 — पूर्ण गाइड",
+      "seo_description": "बैंकॉक के सर्वश्रेष्ठ स्थलों के लिए टिकट, खुलने का समय और अंदरूनी टिप्स पाएं। Klook पर बुकिंग करें और अपनी यात्रा की योजना बनाएं!",
       "page_intro": "थाईलैंड की जीवंत राजधानी बैंकॉक एक ऐसा शहर है जो पुराने और नए का बेहतरीन मेल करता है। अपनी भव्य मंदिरों और व्यस्त सड़क जीवन के लिए जाना जाने वाला, बैंकॉक सांस्कृतिक अनुभवों का एक समृद्ध ताना-बाना प्रस्तुत करता है। इसके मंदिरों की भव्यता से लेकर जीवंत बाजारों और आधुनिक गगनचुंबी इमारतों तक, यह शहर यात्रियों के लिए अविस्मरणीय रोमांच का वादा करता है।",
       "items": [
         {
@@ -828,9 +848,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Bangkok 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Bangkok 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Bangkok. Encontre horários de funcionamento, preços de ingressos e links para reservas dos principais marcos de Bangkok.",
-      "page_intro": "Bangkok, a vibrante capital da Tailândia, é uma cidade que mistura perfeitamente o antigo e o novo. Conhecida por seus santuários ornamentados e vida de rua agitada, Bangkok oferece uma rica tapeçaria de experiências culturais. Da grandiosidade de seus templos aos mercados animados e arranha-céus modernos, a cidade é um centro dinâmico que promete aventuras inesquecíveis para os viajantes.",
+      "page_intro": "Descubra Bangkok, onde a tradição se encontra com a modernidade em cada esquina! Com marcos icônicos como o Grand Palace e o Wat Pho, além do vibrante Chatuchak Weekend Market, a cidade promete experiências inesquecíveis. Evite filas e reserve suas atrações pelo Klook!",
       "items": [
         {
           "id": "grand-palace",
@@ -928,10 +948,14 @@
           "best_time": "evening",
           "klook_query": "wat arun ticket"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Bangkok?",
+      "faq_q2": "Preciso de ingressos para as atrações em Bangkok?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, é recomendável adquirir ingressos antecipadamente para evitar filas. Você pode comprar facilmente pelo Klook."
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في بانكوك 2026 — التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم سياحية في بانكوك 2026",
       "seo_description": "استكشف أفضل المعالم السياحية في بانكوك. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأبرز معالم بانكوك.",
       "page_intro": "بانكوك، العاصمة النابضة بالحياة لتايلاند، هي مدينة تمزج بسلاسة بين القديم والجديد. معروفة بمعابدها المزخرفة وحياتها الشارعية النشطة، تقدم بانكوك نسيجًا غنيًا من التجارب الثقافية. من عظمة معابدها إلى الأسواق الحيوية وناطحات السحاب الحديثة، المدينة هي مركز ديناميكي يعد بمغامرات لا تُنسى للمسافرين.",
       "items": [
@@ -1034,8 +1058,8 @@
       ]
     },
     "bn": {
-      "seo_title": "ব্যাংককের শীর্ষ আকর্ষণ ২০২৬ — টিকেট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "ব্যাংককের সেরা আকর্ষণগুলি আবিষ্কার করুন। ব্যাংককের শীর্ষ স্থাপনাগুলির জন্য খোলার সময়, টিকেটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "ব্যাংককের ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "ব্যাংককের সেরা আকর্ষণগুলির টিকেট, খোলার সময় ও টিপস পান। Klook বুকিং লিঙ্কের মাধ্যমে আপনার ভ্রমণ পরিকল্পনা করুন!",
       "page_intro": "থাইল্যান্ডের প্রাণবন্ত রাজধানী ব্যাংকক এমন একটি শহর যা পুরাতন এবং নতুনকে সহজেই মিশ্রিত করে। এর সুশোভিত মন্দির এবং ব্যস্ত রাস্তার জীবনের জন্য পরিচিত, ব্যাংকক সাংস্কৃতিক অভিজ্ঞতার একটি সমৃদ্ধ ট্যাপেস্ট্রি প্রদান করে। এর মন্দিরগুলির মহিমা থেকে শুরু করে জীবন্ত বাজার এবং আধুনিক আকাশচুম্বী ভবন, শহরটি একটি গতিশীল কেন্দ্র যা ভ্রমণকারীদের জন্য অবিস্মরণীয় অভিযানের প্রতিশ্রুতি দেয়।",
       "items": [
         {
@@ -1137,7 +1161,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие Достопримечательности Бангкока 2026 — Билеты, Советы и Полный Гид",
+      "seo_title": "Топ 10 Достопримечательностей Бангкока 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Бангкока. Найдите часы работы, цены на билеты и ссылки для бронирования для главных достопримечательностей Бангкока.",
       "page_intro": "Бангкок, оживлённая столица Таиланда, это город, который безупречно сочетает старое и новое. Известный своими богато украшенными храмами и оживлённой уличной жизнью, Бангкок предлагает богатую палитру культурных впечатлений. От величия своих храмов до оживлённых рынков и современных небоскрёбов, этот город — динамичный центр, обещающий незабываемые приключения для путешественников.",
       "items": [

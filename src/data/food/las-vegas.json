@@ -2,9 +2,9 @@
   "city_slug": "las-vegas",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Las Vegas 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Las Vegas. From budget eats to fine dining — with booking links.",
-      "page_intro": "Las Vegas is not just about the bright lights and entertainment; it's also a culinary haven. With a diverse food scene that includes everything from high-end restaurants by celebrity chefs to vibrant street food markets, there's something for every palate. Whether you're looking for a quick bite or an extravagant meal, Las Vegas offers an unforgettable dining experience.",
+      "seo_title": "Best 8 Must-Try Restaurants in Las Vegas 2026",
+      "seo_description": "Save time with real recommendations for Las Vegas dining. Book on Klook and discover local favorites. Plan your meal now!",
+      "page_intro": "Dive into Las Vegas's vibrant food scene, where Michelin-starred delights like Joël Robuchon and authentic Thai at Lotus of Siam await. Discover curated dining experiences to make your culinary journey unforgettable!",
       "items": [
         {
           "id": "joel-robuchon",
@@ -13,7 +13,7 @@
           "description": "A Michelin-starred restaurant that serves exquisite French cuisine in an elegant setting. Known for its multi-course tasting menus, it's perfect for a special occasion. Don't miss the signature potato purée and the caviar. Expect to spend $$$.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "Potato Purée",
           "klook_query": "joel robuchon reservation",
           "photo_url": "https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Renowned for its authentic Northern Thai dishes, this restaurant is a must-visit for food lovers. The garlic prawns and khao soi are especially popular. The casual atmosphere makes it welcoming for everyone. Prices are reasonable at $$.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking",
           "photo_url": "https://images.pexels.com/photos/12829476/pexels-photo-12829476.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "This iconic area is not just about light shows; it’s also home to various food vendors offering a mix of local and international flavors. Enjoy street tacos, BBQ, and classic American fare while soaking in the lively atmosphere. Prices vary from $ to $$.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Street Tacos",
           "klook_query": "fremont street food tour"
         },
@@ -48,7 +48,7 @@
           "description": "Join a guided food tour that takes you through some of the best local eateries and hidden gems in Las Vegas. Sample a variety of dishes from different cultures and learn about the culinary landscape of the city. Prices start at $$.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Local Specialties",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -59,7 +59,7 @@
           "description": "This casual eatery specializes in gourmet burgers with a wide variety of toppings. The atmosphere is relaxed, making it a great spot for families. Try the signature 'Build Your Own Burger' option. Prices are moderate at $$.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Build Your Own Burger",
           "klook_query": "burger bar reservation"
         },
@@ -70,7 +70,7 @@
           "description": "Explore this unique outdoor museum featuring iconic Las Vegas signs and enjoy food trucks serving various cuisines. It's a quirky place to grab a bite and take some memorable photos. Prices vary from $ to $$.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Food Truck Specialties",
           "klook_query": "neon boneyard food tour"
         },
@@ -81,7 +81,7 @@
           "description": "A trendy spot known for its creative comfort food and a vibrant atmosphere. Enjoy dishes like the Pork Belly Sliders and the House-Made Charcuterie. Perfect for a casual night out. Prices are $$.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Pork Belly Sliders",
           "klook_query": "carson kitchen reservation"
         },
@@ -92,16 +92,19 @@
           "description": "Famous for its gourmet egg sandwiches and brunch menu, this café is a favorite among locals and tourists alike. The 'Slut' sandwich is a must-try, served with a side of fluffy potatoes. Prices are $.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Las Vegas?",
+      "faq_q2": "Where can I find the best restaurants in Las Vegas?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 年拉斯維加斯最佳美食 — 頂級餐廳與街頭美食指南",
-      "seo_description": "探索拉斯維加斯最佳餐廳、街頭美食和當地特色。從經濟實惠的餐飲到高級餐廳 — 包括預訂連結。",
-      "page_intro": "拉斯維加斯不僅僅是璀璨的燈光和娛樂；它也是一個美食天堂。擁有多樣化的美食場景，包括名廚的高檔餐廳和熱鬧的街頭美食市場，這裡適合每一種味蕾。無論您是在尋找快速的點心還是奢華的晚餐，拉斯維加斯都提供難忘的用餐體驗。",
+      "seo_title": "2026 年拉斯維加斯 8 大必試美食與隱藏寶石",
+      "seo_description": "節省時間，探索拉斯維加斯的真實美食推薦，透過 Klook 預訂，立即計劃您的美食之旅！",
+      "page_intro": "拉斯維加斯的美食場景令人驚嘆，從米其林星級的Joël Robuchon到地道的Lotus of Siam，每一口都是一次美味的冒險。無論您想品嚐經典的美國料理或異國風味，拉斯維加斯都能帶給您難以忘懷的用餐體驗，讓Klook幫您節省時間，輕鬆預訂！",
       "items": [
         {
           "id": "joel-robuchon",
@@ -110,7 +113,7 @@
           "description": "一家米其林星級餐廳，提供精緻的法式料理，環境優雅。以多道品嚐菜單而聞名，適合特殊場合。不要錯過招牌的馬鈴薯泥和魚子醬。預計花費 $$$。",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "馬鈴薯泥",
           "klook_query": "joel robuchon reservation"
         },
@@ -121,7 +124,7 @@
           "description": "以正宗的泰北菜聞名，這家餐廳是美食愛好者的必訪之地。蒜香大蝦和咖喱麵特別受歡迎。輕鬆的氛圍讓每個人都感到受歡迎。價格合理，約在 $$。",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "喀索伊",
           "klook_query": "lotus of siam booking"
         },
@@ -132,7 +135,7 @@
           "description": "這個標誌性的地區不僅僅是燈光秀；這裡也是各種食品攤販的聚集地，提供本地和國際美食。享受街頭塔可、燒烤和經典美國菜，同時沉浸在熱鬧的氛圍中。價格範圍從 $ 到 $$。",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "街頭塔可",
           "klook_query": "fremont street food tour"
         },
@@ -143,7 +146,7 @@
           "description": "參加一個導覽美食之旅，帶您走訪拉斯維加斯一些最佳的本地餐廳和隱藏的寶石。品嚐來自不同文化的各種菜餚，了解這座城市的美食景觀。價格從 $$ 開始。",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "當地特色",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -154,7 +157,7 @@
           "description": "這家休閒餐廳專注於美味漢堡，提供多種配料。輕鬆的氛圍使其成為家庭聚餐的好地方。嘗試招牌的“自製漢堡”選項。價格適中，約在 $$。",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "自製漢堡",
           "klook_query": "burger bar reservation"
         },
@@ -165,7 +168,7 @@
           "description": "探索這個獨特的戶外博物館，展示標誌性的拉斯維加斯招牌，並享受提供各種美食的食品卡車。這是一個獨特的地方，可以輕鬆用餐並拍攝一些難忘的照片。價格範圍從 $ 到 $$。",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "餐車特色",
           "klook_query": "neon boneyard food tour"
         },
@@ -176,7 +179,7 @@
           "description": "這是一個時尚的地方，以創意舒適食物和熱鬧的氛圍而聞名。享用豬肚滑餅和自製肉醬等菜餚。非常適合隨意的夜晚出遊。價格為 $$。",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "五花肉滑堡",
           "klook_query": "carson kitchen reservation"
         },
@@ -187,16 +190,19 @@
           "description": "以其美味的蛋三明治和早午餐菜單而聞名，這家咖啡館是當地人和遊客的最愛。必試的“蛋皇”三明治，搭配鬆軟的馬鈴薯。價格為 $。",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "在拉斯維加斯最好吃的食物是什麼？",
+      "faq_q2": "我可以在哪裡找到拉斯維加斯最好的餐廳？",
+      "faq_a2_suffix": "是評價最高的用餐選擇之一。"
     },
     "ja": {
-      "seo_title": "2026年ラスベガスのベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ラスベガスで最高のレストラン、ストリートフード、地元の特産品を発見しましょう。手頃な価格の食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "ラスベガスは明るい光とエンターテイメントだけではなく、料理の楽園でもあります。セレブシェフによる高級レストランから活気あるストリートフード市場まで、多様な食文化が楽しめ、あらゆる味覚に合うものがあります。素早い食事を求めている場合でも、豪華な食事を求めている場合でも、ラスベガスは忘れられないダイニング体験を提供します。",
+      "seo_title": "2026年ラスベガスの必食レストラン8選 — ベストガイド",
+      "seo_description": "時間を節約し、リアルなおすすめを見つけましょう。Klookで予約して、地元の名物を今すぐ計画しましょう！",
+      "page_intro": "ラスベガスの食シーンは、豪華なディナーからユニークなストリートフードまで、まさに味覚の冒険です。ジョエル・ロブションやロータス・オブ・サイアムなどの名店で、地元の特産品や有名料理を楽しみながら、時間を節約し、厳選されたおすすめをKlookで予約しましょう。",
       "items": [
         {
           "id": "joel-robuchon",
@@ -205,7 +211,7 @@
           "description": "エレガントな設定で絶品フランス料理を提供するミシュラン星付きレストラン。マルチコースのテイスティングメニューで知られ、特別な occasion に最適です。定番のポテトピューレとキャビアをお見逃しなく。予算は $$$。",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "ポテトピューレ",
           "klook_query": "joel robuchon reservation"
         },
@@ -216,7 +222,7 @@
           "description": "本格的な北タイ料理で有名なこのレストランは、食通必見です。ガーリックエビとカオソーイが特に人気です。カジュアルな雰囲気で、誰でも歓迎されています。価格は $$ と手頃です。",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "カオソーイ",
           "klook_query": "lotus of siam booking"
         },
@@ -227,7 +233,7 @@
           "description": "このアイコニックなエリアは、ライトショーだけでなく、地元と国際的なフレーバーをミックスした様々な食品ベンダーの本拠地でもあります。ストリートタコス、BBQ、クラシックなアメリカ料理を楽しみながら、活気ある雰囲気に浸りましょう。価格は $ から $$ まで様々です。",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "ストリートタコス",
           "klook_query": "fremont street food tour"
         },
@@ -238,7 +244,7 @@
           "description": "ラスベガスの最高の地元の飲食店や隠れた名店を巡るガイド付きフードツアーに参加しましょう。さまざまな文化の料理を試食し、街の食文化について学びます。価格は $$ から始まります。",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "地元の特産品",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -249,7 +255,7 @@
           "description": "このカジュアルな飲食店は、さまざまなトッピングを備えたグルメバーガーを専門にしています。リラックスした雰囲気があり、家族にとって素晴らしい場所です。定番の「ビルド・ユア・オウン・バーガー」オプションを試してみてください。価格は $$ で中程度です。",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "自分で作るバーガー",
           "klook_query": "burger bar reservation"
         },
@@ -260,7 +266,7 @@
           "description": "アイコニックなラスベガスの看板を展示するユニークな屋外博物館を探索し、さまざまな料理を提供するフードトラックを楽しみましょう。軽食を取り、思い出に残る写真を撮るためのユニークな場所です。価格は $ から $$ まで様々です。",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "フードトラックの特製",
           "klook_query": "neon boneyard food tour"
         },
@@ -271,7 +277,7 @@
           "description": "クリエイティブなコンフォートフードと活気ある雰囲気で知られるトレンディなスポット。ポークベリーのスライダーや自家製シャルキュトリーなどの料理をお楽しみください。カジュアルな夜のお出かけに最適です。価格は $$。",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "ポークベリー・スライダー",
           "klook_query": "carson kitchen reservation"
         },
@@ -282,16 +288,19 @@
           "description": "グルメな卵サンドイッチとブランチメニューで有名なこのカフェは、地元の人々や観光客に人気です。「スラット」サンドイッチは必見で、ふわふわのポテトが添えられます。価格は $。",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "ザ・スラットサンドイッチ",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "ラスベガスでおすすめの料理は何ですか？",
+      "faq_q2": "ラスベガスで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "2026년 라스베가스 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "라스베가스의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 친화적인 식사부터 고급 식사까지 — 예약 링크 포함.",
-      "page_intro": "라스베가스는 화려한 조명과 오락만이 아닌 미식의 천국입니다. 유명 셰프의 고급 레스토랑부터 활기찬 스트리트 푸드 시장까지 다양한 음식 문화가 있어 모든 입맛에 맞는 것이 있습니다. 빠른 간식을 찾고 있든 화려한 식사를 원하든 라스베가스는 잊을 수 없는 다이닝 경험을 제공합니다.",
+      "seo_title": "2026년 라스베가스 최고의 맛집 8곳 — 필수 방문 리스트",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 현지 인기 맛집을 발견하고, 지금 식사를 계획해보세요!",
+      "page_intro": "라스베가스의 미식 세계는 상상을 초월합니다! 미슐랭 스타 레스토랑에서 현지의 맛을 살린 요리까지, 이곳에서는 입맛을 사로잡는 다양한 요리를 경험할 수 있습니다. 시간을 절약하고 최고의 맛집을 찾으려면 Klook에서 추천된 레스토랑을 예약하세요!",
       "items": [
         {
           "id": "joel-robuchon",
@@ -300,7 +309,7 @@
           "description": "우아한 환경에서 절품 프랑스 요리를 제공하는 미슐랭 스타 레스토랑. 다중 코스 테이스팅 메뉴로 유명하며 특별한 경우에 적합합니다. 시그니처 감자 퓨레와 캐비어를 놓치지 마세요. 예상 비용은 $$$입니다.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "감자 퓨레",
           "klook_query": "joel robuchon reservation"
         },
@@ -311,7 +320,7 @@
           "description": "정통 북부 태국 요리로 유명한 이 레스토랑은 미식가들이 반드시 방문해야 할 곳입니다. 마늘 새우와 카오 소이가 특히 인기가 많습니다. 캐주얼한 분위기로 모두에게 환영받는 곳입니다. 가격은 $$로 합리적입니다.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "카오 소이",
           "klook_query": "lotus of siam booking"
         },
@@ -322,7 +331,7 @@
           "description": "이 상징적인 지역은 조명 쇼뿐만 아니라 다양한 음식 공급업체들이 모여 있는 곳이기도 합니다. 거리 타코, BBQ, 클래식한 미국 요리를 즐기며 활기찬 분위기를 만끽하세요. 가격은 $부터 $$까지 다양합니다.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "스트리트 타코",
           "klook_query": "fremont street food tour"
         },
@@ -333,7 +342,7 @@
           "description": "라스베가스의 최고의 지역 식당과 숨겨진 보석들을 안내하는 가이드 투어에 참여하세요. 다양한 문화의 요리를 시식하고 도시의 요리 풍경에 대해 알아보세요. 가격은 $$부터 시작합니다.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "지역 특선",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -344,7 +353,7 @@
           "description": "이 캐주얼한 식당은 다양한 토핑을 가진 미식가 버거를 전문으로 합니다. 편안한 분위기로 가족 단위 손님에게 좋은 장소입니다. 시그니처 '자신만의 버거 만들기' 옵션을 시도해 보세요. 가격은 $$로 적당합니다.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "내가 만드는 버거",
           "klook_query": "burger bar reservation"
         },
@@ -355,7 +364,7 @@
           "description": "상징적인 라스베가스 간판을 전시하는 독특한 야외 박물관을 탐험하고 다양한 요리를 제공하는 푸드 트럭을 즐기세요. 간단한 식사를 하며 잊을 수 없는 사진을 찍을 수 있는 기발한 장소입니다. 가격은 $부터 $$까지 다양합니다.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "푸드 트럭 특선",
           "klook_query": "neon boneyard food tour"
         },
@@ -366,7 +375,7 @@
           "description": "창의적인 편안한 음식과 활기찬 분위기로 유명한 트렌디한 장소입니다. 돼지고기 배 슬라이더와 자가제 샤르퀴트리와 같은 요리를 즐기세요. 캐주얼한 외출에 적합합니다. 가격은 $$입니다.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "삼겹살 슬라이더",
           "klook_query": "carson kitchen reservation"
         },
@@ -377,16 +386,19 @@
           "description": "미식가용 계란 샌드위치와 브런치 메뉴로 유명한 이 카페는 현지인과 관광객 모두에게 인기입니다. '슬럿' 샌드위치는 반드시 시도해야 하며, 폭신한 감자와 함께 제공됩니다. 가격은 $입니다.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "더 슬럿 샌드위치",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "라스베가스에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "라스베가스에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 다이닝 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleures restaurants à Las Vegas 2026 — Guide des meilleurs restaurants et de la street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Las Vegas. Des repas à petit prix à la haute cuisine — avec des liens de réservation.",
-      "page_intro": "Las Vegas n'est pas seulement connue pour ses lumières éclatantes et son divertissement ; c'est aussi un véritable paradis culinaire. Avec une scène gastronomique diversifiée comprenant des restaurants haut de gamme de chefs célèbres et des marchés de street food animés, il y en a pour tous les goûts. Que vous cherchiez un en-cas rapide ou un repas extravagant, Las Vegas offre une expérience culinaire inoubliable.",
+      "seo_title": "8 Meilleurs Restaurants à Las Vegas 2026 - Incontournables",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les saveurs locales. Planifiez votre repas maintenant!",
+      "page_intro": "Las Vegas est un véritable festival de saveurs où chaque bouchée raconte une histoire. Des plats raffinés de Joël Robuchon aux délices thaïlandais de Lotus of Siam, la ville émerveille les gourmets. Gagnez du temps avec nos sélections exclusives et réservez facilement avec Klook !",
       "items": [
         {
           "id": "joel-robuchon",
@@ -395,7 +407,7 @@
           "description": "Un restaurant étoilé au Michelin qui sert une cuisine française exquise dans un cadre élégant. Connu pour ses menus de dégustation à plusieurs plats, il est parfait pour une occasion spéciale. Ne manquez pas la purée de pommes de terre signature et le caviar. Préparez-vous à dépenser $$$.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "Purée de pommes de terre",
           "klook_query": "joel robuchon reservation"
         },
@@ -406,7 +418,7 @@
           "description": "Renommé pour ses plats authentiques du nord de la Thaïlande, ce restaurant est un incontournable pour les amateurs de bonne cuisine. Les crevettes à l'ail et le khao soi sont particulièrement populaires. L'atmosphère décontractée le rend accueillant pour tous. Les prix sont raisonnables à $$.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking"
         },
@@ -417,7 +429,7 @@
           "description": "Cette zone emblématique n'est pas seulement connue pour ses spectacles de lumière ; elle abrite également divers vendeurs de nourriture offrant un mélange de saveurs locales et internationales. Profitez des tacos de rue, du BBQ et de la cuisine américaine classique tout en profitant de l'ambiance animée. Les prix varient de $ à $$.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Tacos de rue",
           "klook_query": "fremont street food tour"
         },
@@ -428,7 +440,7 @@
           "description": "Participez à une visite gastronomique guidée qui vous emmène dans certains des meilleurs restaurants locaux et des joyaux cachés à Las Vegas. Goûtez à une variété de plats de différentes cultures et apprenez-en davantage sur le paysage culinaire de la ville. Les prix commencent à $$.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Spécialités locales",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -439,7 +451,7 @@
           "description": "Ce restaurant décontracté se spécialise dans les hamburgers gastronomiques avec une large gamme de garnitures. L'atmosphère est détendue, ce qui en fait un excellent endroit pour les familles. Essayez l'option signature 'Construisez votre propre hamburger'. Les prix sont modérés à $$.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Créez votre propre burger",
           "klook_query": "burger bar reservation"
         },
@@ -450,7 +462,7 @@
           "description": "Explorez ce musée en plein air unique présentant des enseignes emblématiques de Las Vegas et profitez des camions de nourriture servant diverses cuisines. C'est un endroit original pour prendre un repas et faire des photos mémorables. Les prix varient de $ à $$.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Spécialités de camion de nourriture",
           "klook_query": "neon boneyard food tour"
         },
@@ -461,7 +473,7 @@
           "description": "Un endroit tendance connu pour sa cuisine réconfortante créative et une atmosphère vibrante. Profitez de plats tels que les sliders de poitrine de porc et la charcuterie maison. Parfait pour une soirée décontractée. Les prix sont de $$.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Mini-burgers au ventre de porc",
           "klook_query": "carson kitchen reservation"
         },
@@ -472,16 +484,19 @@
           "description": "Célèbre pour ses sandwiches aux œufs gastronomiques et son menu de brunch, ce café est un favori parmi les habitants et les touristes. Le sandwich 'Slut' est un incontournable, servi avec un accompagnement de pommes de terre moelleuses. Les prix sont de $.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Le Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Las Vegas ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Las Vegas ?",
+      "faq_a2_suffix": " font partie des options gastronomiques les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Las Vegas 2026 — Guía de los mejores restaurantes y comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Las Vegas. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
-      "page_intro": "Las Vegas no solo se trata de luces brillantes y entretenimiento; también es un paraíso culinario. Con una escena gastronómica diversa que incluye desde restaurantes de lujo de chefs famosos hasta vibrantes mercados de comida callejera, hay algo para cada paladar. Ya sea que busques un bocado rápido o una comida extravagante, Las Vegas ofrece una experiencia gastronómica inolvidable.",
+      "seo_title": "Las Vegas 2026: 8 Mejores Restaurantes y Joyas Ocultas",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre el festín culinario que Las Vegas tiene para ofrecer! Desde el exquisito foie gras de Joël Robuchon hasta los auténticos sabores tailandeses de Lotus of Siam, cada bocado es una aventura. Con nuestras recomendaciones seleccionadas, ahorrarás tiempo y disfrutarás de lo mejor de la gastronomía local.",
       "items": [
         {
           "id": "joel-robuchon",
@@ -490,7 +505,7 @@
           "description": "Un restaurante con estrella Michelin que sirve exquisita cocina francesa en un entorno elegante. Conocido por sus menús de degustación de varios platos, es perfecto para una ocasión especial. No te pierdas el puré de patatas y el caviar. Espera gastar $$$.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "Purée de Patatas",
           "klook_query": "joel robuchon reservation"
         },
@@ -501,7 +516,7 @@
           "description": "Reconocido por sus platos auténticos del norte de Tailandia, este restaurante es una visita obligada para los amantes de la buena comida. Los camarones al ajo y el khao soi son especialmente populares. La atmósfera casual lo hace acogedor para todos. Los precios son razonables a $$.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking"
         },
@@ -512,7 +527,7 @@
           "description": "Esta área icónica no solo se trata de espectáculos de luces; también alberga varios vendedores de comida que ofrecen una mezcla de sabores locales e internacionales. Disfruta de tacos callejeros, BBQ y comida americana clásica mientras disfrutas de la animada atmósfera. Los precios varían desde $ hasta $$.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Tacos Callejeros",
           "klook_query": "fremont street food tour"
         },
@@ -523,7 +538,7 @@
           "description": "Únete a un tour gastronómico guiado que te llevará a algunos de los mejores restaurantes locales y joyas escondidas en Las Vegas. Prueba una variedad de platos de diferentes culturas y aprende sobre el paisaje culinario de la ciudad. Los precios comienzan en $$.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Especialidades Locales",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -534,7 +549,7 @@
           "description": "Este restaurante casual se especializa en hamburguesas gourmet con una amplia variedad de ingredientes. La atmósfera es relajada, lo que lo convierte en un gran lugar para familias. Prueba la opción de 'Construye tu propia hamburguesa'. Los precios son moderados a $$.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Crea Tu Propia Hamburguesa",
           "klook_query": "burger bar reservation"
         },
@@ -545,7 +560,7 @@
           "description": "Explora este museo al aire libre único que presenta letreros icónicos de Las Vegas y disfruta de camiones de comida que sirven diversas cocinas. Es un lugar peculiar para comer algo y tomar fotos memorables. Los precios varían desde $ hasta $$.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Especialidades de Camiones de Comida",
           "klook_query": "neon boneyard food tour"
         },
@@ -556,7 +571,7 @@
           "description": "Un lugar moderno conocido por su cocina creativa y reconfortante y una atmósfera vibrante. Disfruta de platos como los sliders de panceta de cerdo y la charcutería casera. Perfecto para una noche informal. Los precios son $$.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Deslizadores de Panceta de Cerdo",
           "klook_query": "carson kitchen reservation"
         },
@@ -567,16 +582,19 @@
           "description": "Famoso por sus sándwiches de huevo gourmet y su menú de brunch, este café es un favorito entre los locales y los turistas. El sándwich 'Slut' es imprescindible, servido con una guarnición de papas esponjosas. Los precios son $.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Las Vegas?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Las Vegas?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas más valoradas."
     },
     "id": {
-      "seo_title": "Best Food in Las Vegas 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Las Vegas. From budget eats to fine dining — with booking links.",
-      "page_intro": "Las Vegas is not just about the bright lights and entertainment; it's also a culinary haven. With a diverse food scene that includes everything from high-end restaurants by celebrity chefs to vibrant street food markets, there's something for every palate. Whether you're looking for a quick bite or an extravagant meal, Las Vegas offers an unforgettable dining experience.",
+      "seo_title": "8 Restoran Terbaik di Las Vegas 2026 — Hidden Gems",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata! Temukan favorit lokal dan pesan melalui Klook. Rencanakan santapan Anda sekarang!",
+      "page_intro": "Las Vegas adalah surga kuliner yang tak boleh dilewatkan! Nikmati hidangan khas seperti foie gras di Joël Robuchon dan hidangan Thailand otentik di Lotus of Siam. Dengan pilihan yang sudah kami kurasi, Anda dapat menghemat waktu dan memesan melalui Klook!",
       "items": [
         {
           "id": "joel-robuchon",
@@ -585,7 +603,7 @@
           "description": "A Michelin-starred restaurant that serves exquisite French cuisine in an elegant setting. Known for its multi-course tasting menus, it's perfect for a special occasion. Don't miss the signature potato purée and the caviar. Expect to spend $$$.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "Purée Kentang",
           "klook_query": "joel robuchon reservation"
         },
@@ -596,7 +614,7 @@
           "description": "Renowned for its authentic Northern Thai dishes, this restaurant is a must-visit for food lovers. The garlic prawns and khao soi are especially popular. The casual atmosphere makes it welcoming for everyone. Prices are reasonable at $$.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking"
         },
@@ -607,7 +625,7 @@
           "description": "This iconic area is not just about light shows; it’s also home to various food vendors offering a mix of local and international flavors. Enjoy street tacos, BBQ, and classic American fare while soaking in the lively atmosphere. Prices vary from $ to $$.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Taco Jalanan",
           "klook_query": "fremont street food tour"
         },
@@ -618,7 +636,7 @@
           "description": "Join a guided food tour that takes you through some of the best local eateries and hidden gems in Las Vegas. Sample a variety of dishes from different cultures and learn about the culinary landscape of the city. Prices start at $$.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Spesial Lokal",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -629,7 +647,7 @@
           "description": "This casual eatery specializes in gourmet burgers with a wide variety of toppings. The atmosphere is relaxed, making it a great spot for families. Try the signature 'Build Your Own Burger' option. Prices are moderate at $$.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Buat Burger Sendiri",
           "klook_query": "burger bar reservation"
         },
@@ -640,7 +658,7 @@
           "description": "Explore this unique outdoor museum featuring iconic Las Vegas signs and enjoy food trucks serving various cuisines. It's a quirky place to grab a bite and take some memorable photos. Prices vary from $ to $$.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Spesial Food Truck",
           "klook_query": "neon boneyard food tour"
         },
@@ -651,7 +669,7 @@
           "description": "A trendy spot known for its creative comfort food and a vibrant atmosphere. Enjoy dishes like the Pork Belly Sliders and the House-Made Charcuterie. Perfect for a casual night out. Prices are $$.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Slider Perut Babi",
           "klook_query": "carson kitchen reservation"
         },
@@ -662,15 +680,18 @@
           "description": "Famous for its gourmet egg sandwiches and brunch menu, this café is a favorite among locals and tourists alike. The 'Slut' sandwich is a must-try, served with a side of fluffy potatoes. Prices are $.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "Apa makanan terbaik yang bisa dimakan di Las Vegas?",
+      "faq_q2": "Di mana saya bisa menemukan restoran terbaik di Las Vegas?",
+      "faq_a2_suffix": " adalah beberapa pilihan tempat makan yang paling direkomendasikan."
     },
     "hi": {
-      "seo_title": "लास वेगास में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "लास वेगास में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर उच्च श्रेणी के भोजन तक — बुकिंग लिंक के साथ।",
+      "seo_title": "लास वेगास में 10 सर्वश्रेष्ठ भोजन 2026 — स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook से बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय विशेषताओं का पता लगाएं!",
       "page_intro": "लास वेगास केवल चमकीली रोशनी और मनोरंजन के बारे में नहीं है; यह एक पाक स्वर्ग भी है। इसमें उच्च श्रेणी के रेस्तरां से लेकर जीवंत स्ट्रीट फूड मार्केट तक का विविध खाद्य दृश्य है, हर स्वाद के लिए कुछ न कुछ है। चाहे आप त्वरित नाश्ते की तलाश में हों या भव्य भोजन के लिए, लास वेगास एक अविस्मरणीय भोजन अनुभव प्रदान करता है।",
       "items": [
         {
@@ -680,7 +701,7 @@
           "description": "एक मिशेलिन-स्टार प्राप्त रेस्तरां जो एक शानदार सेटिंग में बेजोड़ फ्रांसीसी व्यंजन परोसता है। इसके मल्टी-कोर्स टेस्टिंग मेनू के लिए जाना जाता है, यह विशेष अवसरों के लिए बिल्कुल सही है। सिग्नेचर आलू प्यूरी और कैवियार को न चूकें। अपेक्षा करें कि आप $$$ खर्च करेंगे।",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "आलू प्यूरी",
           "klook_query": "joel robuchon reservation"
         },
@@ -691,7 +712,7 @@
           "description": "इसके प्रामाणिक उत्तरी थाई व्यंजनों के लिए प्रसिद्ध, यह रेस्तरां खाद्य प्रेमियों के लिए एक अवश्य देखने योग्य स्थान है। लहसुन के झींगे और खाओ सोई विशेष रूप से लोकप्रिय हैं। आकस्मिक वातावरण इसे सभी के लिए स्वागतयोग्य बनाता है। कीमतें $$ पर उचित हैं।",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking"
         },
@@ -702,7 +723,7 @@
           "description": "यह प्रतिष्ठित क्षेत्र केवल लाइट शो के बारे में नहीं है; यह विभिन्न खाद्य विक्रेताओं का घर भी है जो स्थानीय और अंतरराष्ट्रीय स्वादों का मिश्रण पेश करते हैं। जीवंत वातावरण का आनंद लेते हुए स्ट्रीट टैकोस, बीबीक्यू और क्लासिक अमेरिकी भोजन का आनंद लें। कीमतें $ से $$ के बीच भिन्न होती हैं।",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "स्ट्रीट टैकोस",
           "klook_query": "fremont street food tour"
         },
@@ -713,7 +734,7 @@
           "description": "एक मार्गदर्शित खाद्य दौरे में शामिल हों जो आपको लास वेगास के कुछ बेहतरीन स्थानीय भोजनालयों और छिपे हुए रत्नों के माध्यम से ले जाता है। विभिन्न संस्कृतियों के व्यंजनों का नमूना लें और शहर के पाक परिदृश्य के बारे में जानें। कीमतें $$ से शुरू होती हैं।",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "स्थानीय विशेषताएँ",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -724,7 +745,7 @@
           "description": "यह आकस्मिक भोजनालय गॉरमेट बर्गर में विशेषज्ञता रखता है जिसमें टॉपिंग की एक विस्तृत विविधता होती है। वातावरण आरामदायक है, जो परिवारों के लिए इसे एक बेहतरीन स्थान बनाता है। सिग्नेचर 'बिल्ड योर ओन बर्गर' विकल्प आजमाएं। कीमतें $$ पर मध्यम हैं।",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "अपना खुद का बर्गर बनाएं",
           "klook_query": "burger bar reservation"
         },
@@ -735,7 +756,7 @@
           "description": "इस अनोखे बाहरी संग्रहालय का अन्वेषण करें जो प्रतिष्ठित लास वेगास के संकेतों को प्रदर्शित करता है और विभिन्न व्यंजनों की सेवा करने वाले खाद्य ट्रकों का आनंद लें। यह एक अनोखा स्थान है जहाँ आप नाश्ता कर सकते हैं और कुछ यादगार फोटो ले सकते हैं। कीमतें $ से $$ के बीच भिन्न होती हैं।",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "फूड ट्रक विशेषताएँ",
           "klook_query": "neon boneyard food tour"
         },
@@ -746,7 +767,7 @@
           "description": "एक ट्रेंडी स्थान जो अपने रचनात्मक कम्फर्ट फूड और जीवंत वातावरण के लिए जाना जाता है। पोर्क बैली स्लाइडर्स और हाउस-मेड चारक्यूटरी जैसे व्यंजनों का आनंद लें। आकस्मिक रात के लिए बिल्कुल सही। कीमतें $$ हैं।",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "पॉर्क बैली स्लाइडर्स",
           "klook_query": "carson kitchen reservation"
         },
@@ -757,16 +778,16 @@
           "description": "अपने गॉरमेट अंडा सैंडविच और ब्रंच मेनू के लिए प्रसिद्ध, यह कैफे स्थानीय निवासियों और पर्यटकों के बीच पसंदीदा है। 'स्लट' सैंडविच एक अवश्य-कोशिश करने योग्य है, जिसे फुलके आलू के साथ परोसा जाता है। कीमतें $ हैं।",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Las Vegas 2026 — Melhores Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Las Vegas. Desde refeições econômicas até alta gastronomia — com links para reservas.",
-      "page_intro": "Las Vegas não é apenas sobre as luzes brilhantes e entretenimento; é também um paraíso culinário. Com uma cena gastronômica diversificada que inclui desde restaurantes de alto nível por chefs famosos até vibrantes mercados de comida de rua, há algo para todos os paladares. Se você está buscando um lanche rápido ou uma refeição extravagante, Las Vegas oferece uma experiência gastronômica inesquecível.",
+      "seo_title": "8 Melhores Restaurantes em Las Vegas 2026 — Imperdíveis",
+      "seo_description": "Economize tempo com recomendações reais. Reserve sua mesa com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
+      "page_intro": "Descubra o sabor vibrante de Las Vegas, onde pratos icônicos como o famoso ramen do Lotus of Siam e a cozinha requintada de Joël Robuchon aguardam por você. Prepare-se para uma jornada gastronômica inesquecível com nossas recomendações selecionadas.",
       "items": [
         {
           "id": "joel-robuchon",
@@ -775,7 +796,7 @@
           "description": "Um restaurante estrelado pelo Michelin que serve uma cozinha francesa requintada em um ambiente elegante. Conhecido por seus menus de degustação de vários pratos, é perfeito para uma ocasião especial. Não perca o purê de batata signature e o caviar. Espere gastar $$$.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "Purê de Batata",
           "klook_query": "joel robuchon reservation"
         },
@@ -786,7 +807,7 @@
           "description": "Famoso por seus pratos autênticos do norte da Tailândia, este restaurante é uma visita obrigatória para os amantes da comida. Os camarões ao alho e o khao soi são especialmente populares. A atmosfera casual o torna acolhedor para todos. Os preços são razoáveis em $$.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking"
         },
@@ -797,7 +818,7 @@
           "description": "Esta área icônica não é apenas sobre shows de luz; também abriga vários vendedores de comida que oferecem uma mistura de sabores locais e internacionais. Desfrute de tacos de rua, churrasco e pratos clássicos americanos enquanto aproveita o ambiente animado. Os preços variam de $ a $$.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Tacos de Rua",
           "klook_query": "fremont street food tour"
         },
@@ -808,7 +829,7 @@
           "description": "Participe de um tour gastronômico guiado que o levará por alguns dos melhores restaurantes locais e joias escondidas em Las Vegas. Experimente uma variedade de pratos de diferentes culturas e aprenda sobre a cena culinária da cidade. Os preços começam em $$.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Especialidades Locais",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -819,7 +840,7 @@
           "description": "Este restaurante casual é especializado em hambúrgueres gourmet com uma ampla variedade de coberturas. A atmosfera é relaxada, tornando-o um ótimo lugar para famílias. Experimente a opção 'Monte Seu Próprio Hambúrguer'. Os preços são moderados em $$.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Monte Seu Próprio Hambúrguer",
           "klook_query": "burger bar reservation"
         },
@@ -830,7 +851,7 @@
           "description": "Explore este museu ao ar livre único que apresenta placas icônicas de Las Vegas e aproveite os food trucks que servem várias cozinhas. É um lugar peculiar para fazer um lanche e tirar algumas fotos memoráveis. Os preços variam de $ a $$.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Especialidades de Food Truck",
           "klook_query": "neon boneyard food tour"
         },
@@ -841,7 +862,7 @@
           "description": "Um local moderno conhecido por sua comida reconfortante criativa e uma atmosfera vibrante. Desfrute de pratos como os sliders de barriga de porco e a charcutaria artesanal. Perfeito para uma noite casual. Os preços são $$.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Mini Sanduíches de Barriga de Porco",
           "klook_query": "carson kitchen reservation"
         },
@@ -852,15 +873,18 @@
           "description": "Famoso por seus sanduíches de ovo gourmet e menu de brunch, este café é um favorito entre os locais e turistas. O sanduíche 'Slut' é imperdível, servido com uma porção de batatas fofas. Os preços são $.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
-      ]
+      ],
+      "faq_q1": "Qual é a melhor comida para comer em Las Vegas?",
+      "faq_q2": "Onde posso encontrar os melhores restaurantes em Las Vegas?",
+      "faq_a2_suffix": " estão entre as opções de jantar mais bem avaliadas."
     },
     "ar": {
-      "seo_title": "أفضل طعام في لاس فيغاس 2026 - أفضل المطاعم ودليل طعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في لاس فيغاس. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "seo_title": "أفضل 8 مطاعم في لاس فيغاس 2026 - تجارب لا تُنسى",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في لاس فيغاس. احجز عبر Klook واستمتع بتجربة طعام فريدة. خطط لوجبتك الآن!",
       "page_intro": "لاس فيغاس ليست مجرد أضواء ساطعة وترفيه؛ إنها أيضاً جنة للطهي. مع مشهد غذائي متنوع يشمل كل شيء من المطاعم الراقية من قبل الطهاة المشاهير إلى أسواق الطعام الشارع النابضة بالحياة، هناك شيء لكل ذوق. سواء كنت تبحث عن وجبة سريعة أو وجبة فاخرة، تقدم لاس فيغاس تجربة تناول طعام لا تُنسى.",
       "items": [
         {
@@ -870,7 +894,7 @@
           "description": "مطعم حاصل على نجمة ميشلان يقدم المطبخ الفرنسي الرائع في أجواء أنيقة. يُعرف بقوائم التذوق التي تتكون من عدة أطباق، وهو مثالي لمناسبة خاصة. لا تفوت هريس البطاطا المميز والكافيار. توقع أن تنفق $$$.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "بطاطا مهروسة",
           "klook_query": "joel robuchon reservation"
         },
@@ -881,7 +905,7 @@
           "description": "يشتهر بأطباقه التايلاندية الشمالية الأصيلة، يعد هذا المطعم وجهة لا بد من زيارتها لعشاق الطعام. الروبيان بالثوم وكاو سو هي خاصة شائعة. الجو غير الرسمي يجعله مرحبًا للجميع. الأسعار معقولة عند $$.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "كاو صوي",
           "klook_query": "lotus of siam booking"
         },
@@ -892,7 +916,7 @@
           "description": "هذه المنطقة الأيقونية ليست فقط عن عروض الأضواء؛ بل هي موطن للعديد من بائعي الطعام الذين يقدمون مزيجًا من النكهات المحلية والدولية. استمتع بالتاكو الشارعي، والشواء، والمأكولات الأمريكية الكلاسيكية بينما تستمتع بالأجواء الحيوية. تتفاوت الأسعار من $ إلى $$.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "تاكو الشارع",
           "klook_query": "fremont street food tour"
         },
@@ -903,7 +927,7 @@
           "description": "انضم إلى جولة طعام موجهة تأخذك عبر بعض من أفضل المطاعم المحلية والكنوز المخفية في لاس فيغاس. تذوق مجموعة متنوعة من الأطباق من ثقافات مختلفة وتعرف على المشهد الطهوي في المدينة. تبدأ الأسعار من $$.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "أطباق محلية",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -914,7 +938,7 @@
           "description": "هذا المطعم غير الرسمي متخصص في البرجر الفاخر مع مجموعة واسعة من الإضافات. الجو مريح، مما يجعله مكانًا رائعًا للعائلات. جرب خيار 'اصنع برجر الخاص بك'. الأسعار معتدلة عند $$.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "برجر حسب الطلب",
           "klook_query": "burger bar reservation"
         },
@@ -925,7 +949,7 @@
           "description": "استكشف هذا المتحف الخارجي الفريد الذي يعرض لافتات لاس فيغاس الأيقونية واستمتع بشاحنات الطعام التي تقدم مجموعة متنوعة من المأكولات. إنه مكان غريب لتناول وجبة خفيفة والتقاط بعض الصور التذكارية. تتفاوت الأسعار من $ إلى $$.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "أطباق شاحنة الطعام",
           "klook_query": "neon boneyard food tour"
         },
@@ -936,7 +960,7 @@
           "description": "مكان عصري معروف بمأكولاته المريحة الإبداعية وأجوائه النابضة بالحياة. استمتع بأطباق مثل شطائر لحم الخنزير ووجبة تشاركوتيري محلية الصنع. مثالي لليلة غير رسمية. الأسعار هي $$.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "سلايدر لحم الخنزير",
           "klook_query": "carson kitchen reservation"
         },
@@ -947,15 +971,15 @@
           "description": "يشتهر بشطائره الرائعة من البيض وقائمة برنش، هذا المقهى مفضل بين السكان المحليين والسياح على حد سواء. شطيرة 'Slut' هي تجربة لا بد منها، تُقدم مع جانب من البطاطس الرقيقة. الأسعار هي $.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "ساندويتش ذا سلوت",
           "klook_query": "the eggslut booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "লাস ভেগাসে সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবার গাইড",
-      "seo_description": "লাস ভেগাসের সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার — বুকিং লিঙ্ক সহ।",
+      "seo_title": "লাস ভেগাসের ৮ সেরা খাবার ২০২৬ — মিস করবেন না!",
+      "seo_description": "আপনার সময় বাঁচান, বাস্তব সুপারিশ পান। Klook বুকিংয়ের মাধ্যমে স্থানীয় প্রিয় খাবার আবিষ্কার করুন। এখনই আপনার খাবার পরিকল্পনা করুন!",
       "page_intro": "লাস ভেগাস শুধুমাত্র উজ্জ্বল আলো এবং বিনোদনের জন্য নয়; এটি একটি রন্ধনসম্পর্কীয় স্বর্গও। এখানে বিখ্যাত শেফদের উচ্চমানের রেস্তোরাঁ থেকে শুরু করে প্রাণবন্ত রাস্তার খাবারের বাজারের মতো একটি বৈচিত্র্যময় খাবারের দৃশ্য রয়েছে, প্রতিটি স্বাদের জন্য কিছু না কিছু রয়েছে। আপনি যদি দ্রুত কিছু খুঁজছেন বা একটি বৈভবপূর্ণ খাবারের জন্য, লাস ভেগাস একটি অবিস্মরণীয় খাবারের অভিজ্ঞতা প্রদান করে।",
       "items": [
         {
@@ -965,7 +989,7 @@
           "description": "একটি মিশেলিন-তারকা রেস্তোরাঁ যা একটি সুন্দর পরিবেশে চমৎকার ফরাসি রান্না পরিবেশন করে। এর বহু-কোর্সের স্বাদ তালিকার জন্য পরিচিত, এটি একটি বিশেষ উপলক্ষে উপযুক্ত। স্বাক্ষর আলু পিউরি এবং গাভিয়ার মিস করবেন না। আপনি $$$ খরচ আশা করতে পারেন।",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "আলু পিউরে",
           "klook_query": "joel robuchon reservation"
         },
@@ -976,7 +1000,7 @@
           "description": "এর প্রামাণিক উত্তর থাই খাবারের জন্য পরিচিত, এই রেস্তোরাঁটি খাবারের প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান। রসুন চিংড়ি এবং খাও সোই বিশেষভাবে জনপ্রিয়। অস্বস্তিকর পরিবেশ এটিকে সবার জন্য স্বাগত জানায়। দাম $$ এ যুক্তিসঙ্গত।",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking"
         },
@@ -987,7 +1011,7 @@
           "description": "এই আইকনিক এলাকা শুধু লাইট শো নিয়েই নয়; এটি বিভিন্ন খাবারের বিক্রেতার বাড়িও যারা স্থানীয় এবং আন্তর্জাতিক স্বাদের মিশ্রণ সরবরাহ করে। প্রাণবন্ত পরিবেশে স্ট্রিট টাকোস, বারবিকিউ এবং ক্লাসিক আমেরিকান খাবারের স্বাদ নিন। দাম $ থেকে $$ এর মধ্যে পরিবর্তিত হয়।",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "স্ট্রিট টাকোস",
           "klook_query": "fremont street food tour"
         },
@@ -998,7 +1022,7 @@
           "description": "একটি গাইডেড ফুড ট্যুরে যোগ দিন যা আপনাকে লাস ভেগাসের কিছু সেরা স্থানীয় খাবারের দোকান এবং গোপন রত্নের মাধ্যমে নিয়ে যাবে। বিভিন্ন সংস্কৃতির বিভিন্ন ডিশের স্বাদ নিন এবং শহরের রন্ধনসম্পর্কীয় দৃশ্য সম্পর্কে জানুন। দাম $$ থেকে শুরু হয়।",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "স্থানীয় বিশেষত্ব",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -1009,7 +1033,7 @@
           "description": "এই অস্বস্তিকর খাবারটি গার্মেট বার্গারে বিশেষজ্ঞ যা বিভিন্ন টপিংয়ের বিস্তৃত বৈচিত্র্য রয়েছে। পরিবেশ শিথিল, যা পরিবারগুলির জন্য এটি একটি দুর্দান্ত স্থান করে তোলে। 'বিল্ড ইয়োর ওন বার্গার' বিকল্পটি চেষ্টা করুন। দাম $$ এ মাঝারি।",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "নিজের বার্গার তৈরি করুন",
           "klook_query": "burger bar reservation"
         },
@@ -1020,7 +1044,7 @@
           "description": "এই অনন্য বাইরের জাদুঘরটি লাস ভেগাসের আইকনিক সাইনগুলিকে প্রদর্শন করে এবং বিভিন্ন খাবারের ট্রাকগুলি বিভিন্ন রান্না পরিবেশন করছে। এটি একটি অদ্ভুত স্থান যেখানে আপনি নাস্তা করতে পারেন এবং কিছু স্মরণীয় ছবি তুলতে পারেন। দাম $ থেকে $$ এর মধ্যে পরিবর্তিত হয়।",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "ফুড ট্রাক বিশেষত্ব",
           "klook_query": "neon boneyard food tour"
         },
@@ -1031,7 +1055,7 @@
           "description": "একটি ট্রেন্ডি স্থান যা এর সৃজনশীল কমফর্ট ফুড এবং একটি প্রাণবন্ত পরিবেশের জন্য পরিচিত। পোর্ক বেলি স্লাইডার্স এবং হাউস-মেড চারকিউটেরি জাতীয় খাবারের স্বাদ নিন। একটি অস্বস্তিকর রাতের জন্য পুরোপুরি উপযুক্ত। দাম $$।",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "পোর্ক বেলি স্লাইডার",
           "klook_query": "carson kitchen reservation"
         },
@@ -1042,15 +1066,15 @@
           "description": "এর গার্মেট ডিমের স্যান্ডউইচ এবং ব্রাঞ্চ মেনুর জন্য বিখ্যাত, এই ক্যাফে স্থানীয় এবং পর্যটকদের মধ্যে একটি পছন্দের। 'স্লাট' স্যান্ডউইচটি একটি অবশ্যই-যাচাই করা, নরম আলুর পাশে পরিবেশন করা হয়। দাম $।",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Лас-Вегасе 2026 — Топ-рестораны и гид по уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Лас-Вегасе. От бюджетной еды до изысканной кухни — с ссылками для бронирования.",
+      "seo_title": "10 Лучших Ресторанов Лас-Вегаса 2026 — Обязательно!",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Лас-Вегас — это не только яркие огни и развлечения; это также кулинарный рай. С разнообразной гастрономической сценой, включая все — от высококлассных ресторанов знаменитых шеф-поваров до ярких рынков уличной еды, здесь есть что-то для каждого вкуса. Независимо от того, ищете ли вы быстрый перекус или роскошный обед, Лас-Вегас предлагает незабываемый опытDining.",
       "items": [
         {
@@ -1060,7 +1084,7 @@
           "description": "Ресторан с звездой Мишлен, предлагающий изысканную французскую кухню в элегантной обстановке. Известен своими многопортовыми меню дегустации, идеально подходит для особого случая. Не пропустите фирменное картофельное пюре и икру. Ожидайте потратить $$$.",
           "image_keyword": "joel robuchon restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$$",
+          "price_range": "$300–500",
           "must_try": "Картофельное пюре",
           "klook_query": "joel robuchon reservation"
         },
@@ -1071,7 +1095,7 @@
           "description": "Известный своими аутентичными блюдами северной тайской кухни, этот ресторан — обязательное место для любителей еды. Креветки с чесноком и кхао сои особенно популярны. Непринужденная атмосфера делает его гостеприимным для всех. Цены разумные — от $$.",
           "image_keyword": "lotus of siam restaurant",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Khao Soi",
           "klook_query": "lotus of siam booking"
         },
@@ -1082,7 +1106,7 @@
           "description": "Эта знаковая область не только для световых шоу; здесь также расположены различные поставщики еды, предлагающие смесь местных и международных вкусов. Наслаждайтесь уличными тако, барбекю и классической американской кухней, погружаясь в живую атмосферу. Цены варьируются от $ до $$.",
           "image_keyword": "fremont street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Уличные тако",
           "klook_query": "fremont street food tour"
         },
@@ -1093,7 +1117,7 @@
           "description": "Присоединяйтесь к экскурсии по еде, которая проведет вас по некоторым из лучших местных ресторанов и скрытым жемчужинам Лас-Вегаса. Попробуйте различные блюда из разных культур и узнайте о гастрономической сцене города. Цены начинаются от $$.",
           "image_keyword": "eating las vegas food tour",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Местные специалитеты",
           "klook_query": "eating las vegas food tour booking"
         },
@@ -1104,7 +1128,7 @@
           "description": "Этот непринужденный ресторан специализируется на гастрономических бургерах с широким выбором начинок. Атмосфера расслабленная, что делает его отличным местом для семей. Попробуйте опцию 'Составьте свой бургер'. Цены умеренные — от $$.",
           "image_keyword": "burger bar las vegas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Собери свой бургер",
           "klook_query": "burger bar reservation"
         },
@@ -1115,7 +1139,7 @@
           "description": "Исследуйте этот уникальный музей под открытым небом, представляющий собой знаковые вывески Лас-Вегаса, и наслаждайтесь фуд-траками, предлагающими различные кухни. Это необычное место, где можно перекусить и сделать несколько запоминающихся фотографий. Цены варьируются от $ до $$.",
           "image_keyword": "neon boneyard food trucks",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "Специальности фудтрака",
           "klook_query": "neon boneyard food tour"
         },
@@ -1126,7 +1150,7 @@
           "description": "Модное место, известное своей креативной комфортной едой и яркой атмосферой. Наслаждайтесь такими блюдами, как слайдеры из свинины и домашняя нарезка. Идеально для непринужденного вечера. Цены — $$.",
           "image_keyword": "carson kitchen las vegas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "$15–30",
           "must_try": "Слайдеры из свиной грудинки",
           "klook_query": "carson kitchen reservation"
         },
@@ -1137,7 +1161,7 @@
           "description": "Известное своими гастрономическими яичными сэндвичами и меню бранча, это кафе пользуется популярностью как у местных жителей, так и у туристов. Сэндвич 'Slut' обязательно нужно попробовать, подается с гарниром из пушистого картофеля. Цены — $.",
           "image_keyword": "the eggslut cafe",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "$5–10",
           "must_try": "The Slut Sandwich",
           "klook_query": "the eggslut booking"
         }

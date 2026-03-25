@@ -2,9 +2,9 @@
   "city_slug": "cairo",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Cairo 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Cairo. Find opening hours, ticket prices and booking links for Cairo's top landmarks.",
-      "page_intro": "Cairo, the bustling capital of Egypt, is a city that beautifully intertwines ancient history with modern life. From the majestic pyramids that have stood the test of time to vibrant markets filled with local crafts, there is something for every traveler. Explore the rich culture, delicious cuisine, and warm hospitality that make Cairo an unforgettable destination.",
+      "seo_title": "8 Must-See Attractions in Cairo 2026 — Complete Guide",
+      "seo_description": "Discover Cairo's top attractions with tickets, opening hours, and insider tips. Book now with Klook for an unforgettable experience!",
+      "page_intro": "Discover the wonders of Cairo, where the iconic Pyramids of Giza rise majestically alongside the treasures of the Egyptian Museum and the bustling charm of Khan El Khalili. Experience a city that offers a captivating blend of history and culture. Skip the lines and book your adventure via Klook!",
       "items": [
         {
           "id": "pyramids-of-giza",
@@ -103,12 +103,16 @@
           "best_time": "morning",
           "klook_query": "Great Sphinx tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Cairo?",
+      "faq_q2": "Do I need tickets for attractions in Cairo?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Cairo require tickets for entry. To make your visit seamless, consider purchasing your tickets through Klook."
     },
     "zh": {
-      "seo_title": "2026年開羅最佳景點 — 票務、提示與完整指南",
-      "seo_description": "探索開羅最佳景點。查找開放時間、票價和開羅頂級地標的預訂連結。",
-      "page_intro": "開羅，埃及繁忙的首都，是一座古老歷史與現代生活完美交織的城市。從雄偉的金字塔到充滿當地手工藝品的活力市場，每位旅客都能找到適合自己的景點。探索豐富的文化、美味的美食和熱情的款待，使開羅成為難忘的目的地。",
+      "seo_title": "2026年開羅8大必看景點 — 完整指南",
+      "seo_description": "獲取開羅頂尖景點的票務、開放時間及內幕提示，立即透過Klook預訂，開始您的冒險！",
+      "page_intro": "開羅，這座充滿活力的城市，擁有壯觀的金字塔、古老的埃及博物館以及熱鬧的汗伊哈利利市場，吸引著每一位旅客的目光。無論是探索歷史的足跡，還是品味當地的美食，開羅都能帶給你難忘的體驗。立即透過Klook預訂，輕鬆避開人潮！",
       "items": [
         {
           "id": "pyramids-of-giza",
@@ -206,12 +210,16 @@
           "best_time": "morning",
           "klook_query": "Great Sphinx tickets"
         }
-      ]
+      ],
+      "faq_q1": "開羅的熱門景點有哪些？",
+      "faq_q2": "在開羅的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，許多景點需要購票。建議您透過Klook提前購票，以便輕鬆入場。"
     },
     "ja": {
-      "seo_title": "2026年カイロのトップアトラクション — チケット、ヒント＆完全ガイド",
-      "seo_description": "カイロの最高のアトラクションを探求してください。カイロの主要な名所の営業時間、チケット価格、予約リンクを見つけることができます。",
-      "page_intro": "カイロはエジプトの賑やかな首都で、古代の歴史と現代の生活が美しく交差する都市です。時を超えて立ち続ける壮大なピラミッドから、地元の工芸品であふれる活気ある市場まで、旅人にとって何か特別なものがあります。カイロを忘れられない目的地にする豊かな文化、美味しい料理、温かいホスピタリティを探求してください。",
+      "seo_title": "2026年カイロの必見アトラクション8選 — 完全ガイド",
+      "seo_description": "カイロの名所のチケット、営業時間、予約リンクをKlookでチェック！今すぐ計画を立てましょう。",
+      "page_intro": "カイロは、壮大なピラミッドやエジプト博物館、賑やかなハーン・エル・ハリリ市場など、魅力的な観光名所が揃う都市です。歴史と文化の宝庫であるこの地で、特別な体験をお楽しみください。行列を避けて、Klookで簡単に予約しましょう。",
       "items": [
         {
           "id": "pyramids-of-giza",
@@ -309,12 +317,16 @@
           "best_time": "morning",
           "klook_query": "Great Sphinx tickets"
         }
-      ]
+      ],
+      "faq_q1": "カイロのおすすめ観光地は何ですか？",
+      "faq_q2": "カイロの観光地にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光地には入場チケットが必要です。Klookを利用すれば、事前に簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 카이로의 주요 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "카이로의 최고의 명소를 탐험하세요. 카이로의 주요 명소에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾을 수 있습니다.",
-      "page_intro": "카이로는 이집트의 분주한 수도로, 고대 역사와 현대 생활이 아름답게 얽혀 있는 도시입니다. 시간의 시험을 견뎌낸 장엄한 피라미드부터 지역 공예품으로 가득한 활기찬 시장까지, 모든 여행자에게 적합한 무언가가 있습니다. 카이로를 잊을 수 없는 여행지로 만드는 풍부한 문화, 맛있는 요리 및 따뜻한 환대를 탐험하세요.",
+      "seo_title": "2026년 카이로의 8대 필수 명소 — 완벽 가이드",
+      "seo_description": "카이로의 필수 명소 개장 시간, 티켓 가격 및 Klook 예약 링크를 확인하세요. 지금 바로 여행 계획을 세워보세요!",
+      "page_intro": "카이로는 고대 이집트의 신비와 현대의 활기가 어우러진 도시입니다. 장엄한 기자의 피라미드와 매혹적인 이집트 박물관, 생동감 넘치는 칸 엘 칼리리 시장을 탐험하세요. 줄을 서지 않고 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "pyramids-of-giza",
@@ -412,11 +424,15 @@
           "best_time": "morning",
           "klook_query": "Great Sphinx tickets"
         }
-      ]
+      ],
+      "faq_q1": "카이로의 주요 관광지는 무엇인가요?",
+      "faq_q2": "카이로의 관광지에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광지에는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Le Caire 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions du Caire. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites du Caire.",
+      "seo_title": "8 Meilleures Attractions au Caire 2026",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions du Caire. Réservez vos billets sur Klook et explorez dès maintenant!",
       "page_intro": "Le Caire, la capitale animée de l'Égypte, est une ville qui entrelace magnifiquement l'histoire ancienne et la vie moderne. Des majestueuses pyramides qui ont résisté à l'épreuve du temps aux marchés vibrants remplis d'artisanat local, il y en a pour tous les voyageurs. Explorez la riche culture, la délicieuse cuisine et l'hospitalité chaleureuse qui font du Caire une destination inoubliable.",
       "items": [
         {
@@ -518,8 +534,8 @@
       ]
     },
     "es": {
-      "seo_title": "Principales Atracciones en El Cairo 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en El Cairo. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de El Cairo.",
+      "seo_title": "8 Atracciones Imperdibles en El Cairo 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las 8 mejores atracciones de El Cairo. Reserva tus entradas en Klook y comienza tu aventura.",
       "page_intro": "El Cairo, la bulliciosa capital de Egipto, es una ciudad que entrelaza maravillosamente la historia antigua con la vida moderna. Desde las majestuosas pirámides que han resistido la prueba del tiempo hasta los vibrantes mercados llenos de artesanías locales, hay algo para cada viajero. Explora la rica cultura, la deliciosa cocina y la cálida hospitalidad que hacen de El Cairo un destino inolvidable.",
       "items": [
         {
@@ -621,7 +637,7 @@
       ]
     },
     "id": {
-      "seo_title": "Daya Tarikan Teratas di Kairo 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Daya Tarikan Terbaik di Kairo 2026",
       "seo_description": "Jelajahi daya tarik terbaik di Kairo. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Kairo.",
       "page_intro": "Kairo, ibu kota Mesir yang ramai, adalah kota yang indah menggabungkan sejarah kuno dengan kehidupan modern. Dari piramida megah yang telah bertahan dari ujian waktu hingga pasar yang ramai penuh dengan kerajinan lokal, ada sesuatu untuk setiap pelancong. Jelajahi budaya yang kaya, masakan yang lezat, dan keramahan hangat yang menjadikan Kairo sebagai tujuan yang tak terlupakan.",
       "items": [
@@ -724,8 +740,8 @@
       ]
     },
     "hi": {
-      "seo_title": "काहिरा के शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
-      "seo_description": "काहिरा के सर्वोत्तम आकर्षणों का अन्वेषण करें। काहिरा के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "seo_title": "काहिरा के 8 शीर्ष आकर्षण 2026 — पूर्ण गाइड",
+      "seo_description": "काहिरा के शीर्ष स्थलों के लिए टिकट, खुलने का समय और अंदरूनी टिप्स खोजें। Klook पर बुकिंग करें और अपनी यात्रा की योजना बनाएं!",
       "page_intro": "काहिरा, मिस्र की हलचल भरी राजधानी, एक ऐसा शहर है जो प्राचीन इतिहास को आधुनिक जीवन के साथ खूबसूरती से जोड़ता है। समय की कसौटी पर खड़ी भव्य पिरामिडों से लेकर स्थानीय शिल्प से भरे रंगीन बाजारों तक, हर यात्री के लिए कुछ न कुछ है। काहिरा की समृद्ध संस्कृति, स्वादिष्ट भोजन और गर्म आतिथ्य का अन्वेषण करें जो इसे एक अविस्मरणीय गंतव्य बनाता है।",
       "items": [
         {
@@ -827,7 +843,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações no Cairo 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações no Cairo 2026 — Dicas e Ingressos",
       "seo_description": "Explore as melhores atrações do Cairo. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos do Cairo.",
       "page_intro": "Cairo, a movimentada capital do Egito, é uma cidade que entrelaça lindamente a história antiga com a vida moderna. Desde as majestosas pirâmides que resistiram ao teste do tempo até os vibrantes mercados cheios de artesanato local, há algo para cada viajante. Explore a rica cultura, a deliciosa culinária e a calorosa hospitalidade que tornam o Cairo um destino inesquecível.",
       "items": [
@@ -930,7 +946,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في القاهرة 2026 - تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل 10 معالم سياحية في القاهرة 2026",
       "seo_description": "استكشف أفضل المعالم السياحية في القاهرة. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم السياحية في القاهرة.",
       "page_intro": "القاهرة، عاصمة مصر المزدحمة، هي مدينة تتشابك فيها التاريخ القديم مع الحياة الحديثة بشكل جميل. من الأهرامات الرائعة التي صمدت أمام اختبار الزمن إلى الأسواق النابضة بالحياة المليئة بالحرف المحلية، هناك شيء لكل مسافر. استكشف الثقافة الغنية، والمأكولات اللذيذة، وكرم الضيافة الذي يجعل القاهرة وجهة لا تُنسى.",
       "items": [
@@ -1033,9 +1049,9 @@
       ]
     },
     "bn": {
-      "seo_title": "কায়রোর শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস ও সম্পূর্ণ গাইড",
-      "seo_description": "কায়রোর সেরা আকর্ষণগুলি আবিষ্কার করুন। কায়রোর শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
-      "page_intro": "কায়রো, মিসরের ব্যস্ত রাজধানী, একটি শহর যা প্রাচীন ইতিহাসকে আধুনিক জীবনের সাথে সুন্দরভাবে intertwines করে। সময়ের পরীক্ষায় দাঁড়িয়ে থাকা মহিমান্বিত পিরামিড থেকে শুরু করে স্থানীয় কারুশিল্পে ভরা উজ্জ্বল বাজার, প্রতিটি ভ্রমণকারীর জন্য কিছু না কিছু রয়েছে। কায়রোর সমৃদ্ধ সংস্কৃতি, সুস্বাদু খাবার এবং উষ্ণ আতিথ্য আবিষ্কার করুন যা এটিকে একটি অদ্বিতীয় গন্তব্যে পরিণত করে।",
+      "seo_title": "কায়রো ২০২৬: ৮টি শীর্ষ আকর্ষণ — সম্পূর্ণ গাইড",
+      "seo_description": "কায়রোর শীর্ষ ৮টি আকর্ষণের টিকিট, খোলার সময় ও টিপস জানুন। Klook বুকিং লিঙ্কে ক্লিক করুন এবং আপনার সফর পরিকল্পনা শুরু করুন!",
+      "page_intro": "কায়রো, মিসরের হৃদয়ে অবস্থিত একটি চমৎকার শহর, যেখানে প্রাচীন পিরামিডের মহিমা এবং ঐতিহাসিক জাদুঘরের সমৃদ্ধি মিলে যায়। স্থানীয় বাজারের উজ্জ্বলতা এবং সাংস্কৃতিক ঐতিহ্য আবিষ্কার করুন। লাইনে দাঁড়ানোর ঝামেলা ছাড়াই ক্লুকের মাধ্যমে বুক করুন!",
       "items": [
         {
           "id": "pyramids-of-giza",
@@ -1133,12 +1149,16 @@
           "best_time": "morning",
           "klook_query": "Great Sphinx tickets"
         }
-      ]
+      ],
+      "faq_q1": "কায়রোর শীর্ষ আকর্ষণগুলো কী কী?",
+      "faq_q2": "কায়রোতে আকর্ষণের জন্য কি টিকিট প্রয়োজন?",
+      "faq_a1_suffix": " হল দর্শনীয় স্থানগুলোর মধ্যে।",
+      "faq_a2": "হ্যাঁ, কায়রোর বেশিরভাগ আকর্ষণের জন্য টিকিট প্রয়োজন। আপনি ক্লুকের মাধ্যমে সহজেই টিকিট কিনতে পারেন।"
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Каира 2026 — Билеты, советы и полное руководство",
+      "seo_title": "Лучшие достопримечательности Каира 2026 — Топ 5",
       "seo_description": "Изучите лучшие достопримечательности Каира. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Каира.",
-      "page_intro": "Каир, шумная столица Египта, — это город, который прекрасно сочетает древнюю историю и современную жизнь. От величественных пирамид, которые выдержали испытание временем, до ярких рынков, полных местных ремесел, здесь есть что-то для каждого путешественника. Исследуйте богатую культуру, вкусную кухню и теплое гостеприимство, которые делают Каир незабываемым направлением.",
+      "page_intro": "Погрузитесь в волшебство Каира, где величественные пирамиды Гизы и сокровища Египетского музея ждут вас. Откройте для себя яркие рынки и уникальную культуру, которые делают этот город неповторимым. Пропустите очереди и бронируйте через Klook!",
       "items": [
         {
           "id": "pyramids-of-giza",
@@ -1236,7 +1256,11 @@
           "best_time": "morning",
           "klook_query": "Great Sphinx tickets"
         }
-      ]
+      ],
+      "faq_q1": "Каковы главные достопримечательности в Каире?",
+      "faq_q2": "Нужны ли мне билеты для посещения достопримечательностей в Каире?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей вам понадобятся билеты. Вы можете легко приобрести их через Klook, чтобы избежать очередей."
     }
   }
 }

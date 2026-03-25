@@ -2,9 +2,9 @@
   "city_slug": "rome",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Rome 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Rome. Find opening hours, ticket prices and booking links for Rome's top landmarks.",
-      "page_intro": "Rome, the Eternal City, offers a rich tapestry of history, culture, and art. From ancient ruins to bustling piazzas, Rome captivates visitors with its timeless beauty and vibrant energy. Whether you're wandering through the Roman Forum, admiring the masterpieces in the Vatican Museums, or savoring authentic Italian cuisine, Rome promises an unforgettable journey through time and tradition. Perfect for history buffs and art lovers alike, Rome's attractions are a testament to its enduring allure.",
+      "seo_title": "8 Must-See Attractions in Rome 2026 — Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Rome's best attractions. Book easily with Klook and start your adventure today!",
+      "page_intro": "Discover the magic of Rome, where iconic landmarks like the Colosseum and Vatican Museums await your exploration. From the enchanting Trevi Fountain to hidden gems around every corner, immerse yourself in the city's rich heritage. Skip the lines and book your adventures via Klook for a seamless experience.",
       "items": [
         {
           "id": "colosseum",
@@ -102,12 +102,16 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Rome?",
+      "faq_q2": "Do I need tickets for attractions in Rome?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Rome require tickets for entry. To make your visit hassle-free, consider booking your tickets through Klook."
     },
     "zh": {
-      "seo_title": "羅馬 2026 年頂級景點 — 門票、貼士與完整指南",
-      "seo_description": "探索羅馬最好的景點。查找開放時間、門票價格和羅馬熱門地標的預訂鏈接。",
-      "page_intro": "羅馬，永恆之城，提供豐富的歷史、文化和藝術。從古老的遺跡到繁忙的廣場，羅馬以其永恆的美麗和充滿活力的能量吸引著遊客。無論您是在羅馬廣場漫步、欣賞梵蒂岡博物館的傑作，還是品嚐地道的意大利美食，羅馬都承諾帶您度過一場難忘的時光和傳統之旅。對於歷史愛好者和藝術愛好者來說，羅馬的景點是其持久魅力的見證。",
+      "seo_title": "2026 年羅馬 8 大必看景點 — 完整指南",
+      "seo_description": "獲取羅馬景點的門票、開放時間及內部貼士，立即透過 Klook 預訂，開始你的旅程！",
+      "page_intro": "探索羅馬的魅力，這座城市以其壯麗的古蹟和迷人的街道而聞名。從壯觀的羅馬競技場到神秘的梵蒂岡博物館，每一處都充滿了歷史的回音。立即透過Klook預訂，省去排隊的時間，享受無與倫比的旅程！",
       "items": [
         {
           "id": "colosseum",
@@ -205,12 +209,16 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "羅馬的熱門景點有哪些？",
+      "faq_q2": "我需要購買羅馬景點的門票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，羅馬的主要景點通常需要門票。您可以透過Klook輕鬆購票，避免排隊等候。"
     },
     "ja": {
-      "seo_title": "ローマ2026年のトップアトラクション — チケット、ヒント、完全ガイド",
-      "seo_description": "ローマの最高のアトラクションを探索してください。ローマの人気ランドマークの営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "ローマ、永遠の都は、歴史、文化、芸術の豊かなタペストリーを提供します。古代遺跡から賑やかな広場まで、ローマはその時を超えた美しさと活気に満ちたエネルギーで訪れる人々を魅了します。ローマのフォーラムを歩き回ったり、バチカン美術館の傑作を鑑賞したり、本格的なイタリア料理を味わったりする中で、ローマは時間と伝統を超えた忘れられない旅を約束します。歴史愛好家や芸術愛好家にとって完璧なローマのアトラクションは、その永続的な魅力の証です。",
+      "seo_title": "ローマ2026年の必見アトラクション8選 — 完全ガイド",
+      "seo_description": "ローマのチケット、営業時間、インサイダー情報をチェック。Klookでの予約リンクもあり！今すぐ計画を始めましょう。",
+      "page_intro": "ローマの魅力は、コロッセオやバチカン美術館、トレヴィの泉といったアイコニックなランドマークに満ちています。隠れた宝物も見逃せないこの街で、スムーズに観光を楽しむためにはKlookでの事前予約がおすすめです。",
       "items": [
         {
           "id": "colosseum",
@@ -308,12 +316,16 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "ローマの主な観光名所は何ですか？",
+      "faq_q2": "ローマの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光名所には入場チケットが必要です。Klookで事前にチケットを購入することで、スムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "로마의 주요 관광지 2026 — 티켓, 팁 및 완전 가이드",
-      "seo_description": "로마 최고의 관광지를 탐험하세요. 로마의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "로마, 영원한 도시는 역사, 문화, 예술의 풍부한 태피스트리를 제공합니다. 고대 유적지부터 활기찬 광장까지 로마는 그 시대를 초월한 아름다움과 생동감 있는 에너지로 방문객을 매료시킵니다. 로마 포럼을 거닐며, 바티칸 박물관의 걸작을 감상하거나, 정통 이탈리아 요리를 맛보면서 로마는 시간과 전통을 초월한 잊을 수 없는 여행을 약속합니다. 역사 애호가와 예술 애호가 모두에게 완벽한 로마의 관광지는 그 지속적인 매력의 증거입니다.",
+      "seo_title": "로마의 8대 관광명소 2026 — 완전 가이드",
+      "seo_description": "로마의 주요 관광지 운영 시간, 티켓 가격, Klook 예약 링크를 확인하고 최고의 여행을 계획하세요!",
+      "page_intro": "로마의 매력적인 명소들이 여러분을 기다립니다! 콜로세움, 바티칸 박물관, 그리고 트레비 분수와 같은 아이코닉한 랜드마크부터 숨겨진 보석들까지, 로마는 여러분의 여행을 특별하게 만들어줄 것입니다. 긴 줄을 건너뛰고 Klook을 통해 예약하세요!",
       "items": [
         {
           "id": "colosseum",
@@ -411,12 +423,16 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "로마의 주요 관광지는 무엇인가요?",
+      "faq_q2": "로마의 관광지에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광지에는 입장권이 필요합니다. Klook을 통해 미리 예약하시면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales Attractions à Rome 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Découvrez les meilleures attractions de Rome. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Rome.",
-      "page_intro": "Rome, la Ville Éternelle, offre un riche tissu d'histoire, de culture et d'art. Des ruines antiques aux places animées, Rome captive les visiteurs par sa beauté intemporelle et son énergie vibrante. Que vous vous promeniez dans le Forum Romain, admirant les chefs-d'œuvre des Musées du Vatican ou savourant une cuisine italienne authentique, Rome promet un voyage inoubliable à travers le temps et la tradition. Parfait pour les passionnés d'histoire et les amateurs d'art, les attractions de Rome témoignent de son attrait durable.",
+      "seo_title": "Top 8 Attractions à Rome 2026 — Guide Complet & Billets",
+      "seo_description": "Explorez les horaires, prix et conseils pour les monuments de Rome. Réservez facilement vos billets sur Klook et ne manquez rien !",
+      "page_intro": "Découvrez les merveilles de Rome, où chaque coin de rue révèle des trésors historiques et des chefs-d'œuvre artistiques. Du majestueux Colisée à la splendeur des Musées du Vatican, chaque visite est une aventure unique. Évitez les files d'attente et réservez vos billets via Klook pour profiter pleinement de votre expérience romaine.",
       "items": [
         {
           "id": "colosseum",
@@ -514,11 +530,15 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Rome ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Rome ?",
+      "faq_a1_suffix": " font partie des attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les longues files d'attente. Vous pouvez facilement réserver vos entrées via Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Roma 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en Roma. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Roma.",
+      "seo_title": "Top 8 Atracciones Imperdibles en Roma 2026 - Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Roma. Reserva tus entradas en Klook y vive la experiencia al máximo.",
       "page_intro": "Roma, la Ciudad Eterna, ofrece un rico tapiz de historia, cultura y arte. Desde antiguas ruinas hasta plazas bulliciosas, Roma cautiva a los visitantes con su belleza atemporal y energía vibrante. Ya sea que estés paseando por el Foro Romano, admirando las obras maestras en los Museos Vaticanos, o saboreando la auténtica cocina italiana, Roma promete un viaje inolvidable a través del tiempo y la tradición. Perfecto para los amantes de la historia y el arte, las atracciones de Roma son un testimonio de su atractivo perdurable.",
       "items": [
         {
@@ -620,9 +640,9 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Roma 2026 — Tiket, Tip & Panduan Lengkap",
-      "seo_description": "Jelajahi atraksi terbaik di Roma. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas di Roma.",
-      "page_intro": "Roma, Kota Abadi, menawarkan kekayaan sejarah, budaya, dan seni. Dari reruntuhan kuno hingga piazza yang sibuk, Roma memikat pengunjung dengan keindahannya yang abadi dan energinya yang semarak. Apakah Anda berjalan melalui Forum Romawi, mengagumi mahakarya di Museum Vatikan, atau menikmati masakan Italia otentik, Roma menjanjikan perjalanan tak terlupakan melalui waktu dan tradisi. Sempurna untuk pecinta sejarah dan seni, atraksi Roma adalah bukti daya tariknya yang abadi.",
+      "seo_title": "8 Atraksi Terbaik di Roma 2026 — Panduan Lengkap",
+      "seo_description": "Temukan tiket, jam buka, dan tips insider untuk atraksi top di Roma. Pesan sekarang melalui Klook dan rencanakan petualangan Anda!",
+      "page_intro": "Rasakan pesona Roma yang tiada duanya, di mana Colosseum yang megah, keindahan Museum Vatikan, dan keajaiban Air Mancur Trevi menanti untuk dijelajahi. Temukan keajaiban sejarah dan budaya yang tak terlupakan, dan pesan tiket Anda dengan mudah melalui Klook.",
       "items": [
         {
           "id": "colosseum",
@@ -720,12 +740,16 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "Apa saja atraksi utama di Roma?",
+      "faq_q2": "Apakah saya perlu tiket untuk atraksi di Roma?",
+      "faq_a1_suffix": " adalah beberapa atraksi yang wajib dikunjungi.",
+      "faq_a2": "Ya, sebagian besar atraksi di Roma memerlukan tiket masuk. Anda dapat membeli tiket dengan mudah melalui Klook untuk menghindari antrean."
     },
     "hi": {
       "seo_title": "रोम में शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
       "seo_description": "रोम के बेहतरीन आकर्षणों का अन्वेषण करें। रोम के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
-      "page_intro": "रोम, अनंत नगरी, इतिहास, संस्कृति, और कला की समृद्धि का एक ताना-बाना प्रस्तुत करती है। प्राचीन खंडहरों से लेकर व्यस्त पियाजाओं तक, रोम अपनी अनंत सुंदरता और जीवंत ऊर्जा से आगंतुकों को मंत्रमुग्ध करता है। चाहे आप रोमन फोरम में घूम रहे हों, वेटिकन संग्रहालयों में कृतियों की प्रशंसा कर रहे हों, या प्रामाणिक इतालवी व्यंजनों का स्वाद ले रहे हों, रोम समय और परंपरा के माध्यम से एक अविस्मरणीय यात्रा का वादा करता है। इतिहास प्रेमियों और कला प्रेमियों के लिए आदर्श, रोम के आकर्षण इसकी स्थायी मोहकता का प्रमाण हैं।",
+      "page_intro": "रोम, एक अद्भुत नगरी, जो अपने ऐतिहासिक खजाने और सांस्कृतिक धरोहर के लिए जानी जाती है। कोलोसियम, वेटिकन संग्रहालय और ट्रेवी फव्वारा जैसे प्रतिष्ठित स्थल आपके दिल को छू लेंगे। लंबी कतारों से बचें, Klook के माध्यम से अपनी टिकटें पहले से बुक करें!",
       "items": [
         {
           "id": "colosseum",
@@ -823,10 +847,14 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "रोम में शीर्ष आकर्षण क्या हैं?",
+      "faq_q2": "क्या मुझे रोम में आकर्षणों के लिए टिकट की आवश्यकता है?",
+      "faq_a1_suffix": " को अवश्य देखना चाहिए।",
+      "faq_a2": "हाँ, अधिकांश आकर्षणों के लिए टिकट की आवश्यकता होती है। Klook पर पहले से बुकिंग करके आप लंबी कतारों से बच सकते हैं।"
     },
     "pt": {
-      "seo_title": "Principais Atrações em Roma 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Roma 2026 — Dicas e Ingressos",
       "seo_description": "Explore as melhores atrações em Roma. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Roma.",
       "page_intro": "Roma, a Cidade Eterna, oferece uma rica tapeçaria de história, cultura e arte. De ruínas antigas a praças movimentadas, Roma cativa os visitantes com sua beleza atemporal e energia vibrante. Seja vagando pelo Fórum Romano, admirando as obras-primas dos Museus do Vaticano ou saboreando a autêntica culinária italiana, Roma promete uma viagem inesquecível através do tempo e da tradição. Perfeita para amantes de história e arte, as atrações de Roma são um testemunho de seu eterno fascínio.",
       "items": [
@@ -929,8 +957,8 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في روما 2026 - التذاكر والنصائح والدليل الكامل",
-      "seo_description": "استكشاف أفضل المعالم السياحية في روما. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم في روما.",
+      "seo_title": "أفضل 8 معالم سياحية في روما 2026 - الدليل الكامل",
+      "seo_description": "اكتشف ساعات العمل، أسعار التذاكر، ونصائح داخلية لأهم المعالم في روما. احجز عبر Klook الآن!",
       "page_intro": "روما، المدينة الأبدية، تقدم نسيجًا غنيًا من التاريخ والثقافة والفن. من الآثار القديمة إلى الساحات الصاخبة، تأسر روما الزوار بجمالها الدائم وطاقتها النابضة بالحياة. سواء كنت تتجول في المنتدى الروماني، أو تعجب بالروائع في متاحف الفاتيكان، أو تتذوق المأكولات الإيطالية الأصيلة، تعد روما برحلة لا تُنسى عبر الزمن والتقاليد. مثالية لمحبي التاريخ والفن، تعد معالم روما شهادة على جاذبيتها الأبدية.",
       "items": [
         {
@@ -1032,8 +1060,8 @@
       ]
     },
     "bn": {
-      "seo_title": "রোমের শীর্ষ আকর্ষণীয় স্থানসমূহ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "রোমের সেরা আকর্ষণীয় স্থানসমূহ অন্বেষণ করুন। রোমের শীর্ষ স্থানসমূহের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "রোমের ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "রোমের টিকিট, খোলার সময় ও গোপন টিপস জানুন। Klook বুকিং লিঙ্কে ক্লিক করে আপনার ভ্রমণ পরিকল্পনা শুরু করুন!",
       "page_intro": "রোম, অনন্ত শহর, ইতিহাস, সংস্কৃতি এবং শিল্পের সমৃদ্ধ বুনন প্রদান করে। প্রাচীন ধ্বংসাবশেষ থেকে ব্যস্ত পিয়াজা পর্যন্ত, রোম তার চিরন্তন সৌন্দর্য এবং উজ্জ্বল শক্তি দিয়ে দর্শকদের মুগ্ধ করে। আপনি রোমান ফোরামে হাঁটছেন, ভ্যাটিকান মিউজিয়ামের মাস্টারপিসগুলোর প্রশংসা করছেন বা সত্যিকার ইতালিয়ান খাবারের স্বাদ নিচ্ছেন, রোম সময় এবং ঐতিহ্যের মাধ্যমে একটি অবিস্মরণীয় যাত্রার প্রতিশ্রুতি দেয়। ইতিহাস ও শিল্প প্রেমীদের জন্য আদর্শ, রোমের আকর্ষণগুলো তার চিরন্তন আকর্ষণের প্রমাণ।",
       "items": [
         {
@@ -1135,9 +1163,9 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Рима 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ достопримечательностей Рима 2026 — Гид и советы",
       "seo_description": "Исследуйте лучшие достопримечательности Рима. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Рима.",
-      "page_intro": "Рим, Вечный город, предлагает богатое полотно истории, культуры и искусства. От древних руин до шумных площадей, Рим пленяет посетителей своей вечной красотой и яркой энергией. Независимо от того, гуляете ли вы по Римскому форуму, любуетесь шедеврами в Ватиканских музеях или наслаждаетесь аутентичной итальянской кухней, Рим обещает незабываемое путешествие сквозь время и традиции. Идеально подходит для любителей истории и искусства, достопримечательности Рима свидетельствуют о его вечной привлекательности.",
+      "page_intro": "Рим, город с уникальным сочетанием истории и культуры, предлагает вам незабываемые впечатления от посещения Колизея, Ватиканских музеев и фонтанов Треви. Откройте для себя как известные достопримечательности, так и скрытые жемчужины, и забудьте о длинных очередях — бронируйте билеты через Klook.",
       "items": [
         {
           "id": "colosseum",
@@ -1235,7 +1263,11 @@
           "best_time": "anytime",
           "klook_query": "Villa Borghese bike rental"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Риме?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Риме?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей Рима требуются билеты. Рекомендуем забронировать их через Klook, чтобы избежать очередей."
     }
   }
 }

@@ -2,9 +2,9 @@
   "city_slug": "miami",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Miami 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Miami. Find opening hours, ticket prices and booking links for Miami's top landmarks.",
-      "page_intro": "Miami is a vibrant city known for its stunning beaches, rich cultural diversity, and vibrant nightlife. Whether you're looking to relax on the sandy shores, explore art deco architecture, or delve into the local cuisine, Miami has something for everyone. From the bustling streets of Little Havana to the serene beauty of the Everglades, this city is a paradise for travelers seeking adventure and relaxation.",
+      "seo_title": "8 Must-See Attractions in Miami 2026 — Complete Guide",
+      "seo_description": "Discover Miami's top attractions with tickets, hours, and insider tips. Book your adventure now with Klook for the best experience!",
+      "page_intro": "Dive into Miami's vibrant allure, where sun-kissed South Beach, the enchanting Vizcaya Museum and Gardens, and the colorful Wynwood Walls await. Experience the magic of this city—skip the lines and book via Klook!",
       "items": [
         {
           "id": "south-beach",
@@ -102,12 +102,16 @@
           "best_time": "anytime",
           "klook_query": "Art Deco Historic District"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Miami?",
+      "faq_q2": "Do I need tickets for attractions in Miami?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Miami require tickets for entry. To make your visit hassle-free, consider booking through Klook."
     },
     "zh": {
-      "seo_title": "邁阿密2026年最佳景點 — 票務、提示和完整指南",
-      "seo_description": "探索邁阿密最佳景點。查找邊開放時間、票價和邁阿密主要地標的預訂鏈接。",
-      "page_intro": "邁阿密是一座充滿活力的城市，以其壯觀的海灘、豐富的文化多樣性和活力四射的夜生活而聞名。無論您是想在沙灘上放鬆，探索藝術裝飾建築，還是沉浸於當地美食，邁阿密都能滿足每個人的需求。從小哈瓦那繁忙的街道到大沼澤地的寧靜美景，這座城市是尋求冒險和放鬆的旅行者的天堂。",
+      "seo_title": "邁阿密2026年必看景點 — 完整指南與票務資訊",
+      "seo_description": "探索邁阿密的最佳景點，獲取票價、開放時間和內部提示，並透過Klook輕鬆預訂，立即計劃您的旅程！",
+      "page_intro": "邁阿密是一個充滿魅力的城市，以其迷人的南海灘、壯麗的維茲卡亞博物館和花園以及色彩斑斕的Wynwood牆面而聞名。無論您喜愛藝術、文化或美食，這裡都有無窮的驚喜等著您發掘。透過Klook預訂，輕鬆避開排隊，享受這座城市的精華！",
       "items": [
         {
           "id": "south-beach",
@@ -205,12 +209,16 @@
           "best_time": "anytime",
           "klook_query": "Art Deco Historic District"
         }
-      ]
+      ],
+      "faq_q1": "邁阿密的主要景點有哪些？",
+      "faq_q2": "在邁阿密的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，大多數景點都需要購票。您可以透過Klook輕鬆購買門票，省去排隊的時間。"
     },
     "ja": {
-      "seo_title": "マイアミのトップ観光名所2026 — チケット、ヒント＆完全ガイド",
-      "seo_description": "マイアミの最高の観光名所を探検し、営業時間、チケット価格、マイアミの主要ランドマークの予約リンクを見つけましょう。",
-      "page_intro": "マイアミは美しいビーチ、豊かな文化的多様性、活気あるナイトライフで知られる活気ある都市です。砂浜でリラックスしたり、アールデコ建築を探索したり、地元の料理に浸ったりしたい場合でも、マイアミには誰にでも何かがあります。小ハバナの賑やかな通りからエバーグレーズの静かな美しさまで、この都市は冒険とリラックスを求める旅行者のための楽園です。",
+      "seo_title": "マイアミ2026年の必見観光名所8選 — 完全ガイド",
+      "seo_description": "チケット、営業時間、インサイダーのヒントをチェック！Klookでマイアミの観光名所を予約して、素晴らしい旅を始めましょう。",
+      "page_intro": "マイアミの魅力的なビーチやアートシーンは、訪れる人々を魅了します。サウスビーチの白い砂浜やビスカヤ美術館の美しい庭園、ウィンウッドの壁画など、見どころが満載です。行列を避けて、Klookで簡単に予約しましょう。",
       "items": [
         {
           "id": "south-beach",
@@ -308,12 +316,16 @@
           "best_time": "anytime",
           "klook_query": "Art Deco Historic District"
         }
-      ]
+      ],
+      "faq_q1": "マイアミの主な観光名所は何ですか？",
+      "faq_q2": "マイアミの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見の観光スポットです。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、スムーズにチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "마이애미의 주요 명소 2026 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "마이애미 최고의 명소를 탐험하세요. 운영 시간, 티켓 가격 및 마이애미의 주요 랜드마크 예약 링크를 찾아보세요.",
-      "page_intro": "마이애미는 아름다운 해변, 풍부한 문화적 다양성, 활기찬 밤문화로 유명한 역동적인 도시입니다. 모래 해변에서 휴식을 취하거나 아르데코 건축을 탐험하거나 현지 요리를 맛보고 싶든, 마이애미는 모든 사람을 위한 무언가를 제공합니다. 바쁜 리틀 하바나의 거리에서 에버글레이즈의 고요한 아름다움까지, 이 도시는 모험과 휴식을 찾는 여행자들에게 완벽한 천국입니다.",
+      "seo_title": "마이애미 2026: 8 Must-See 명소 완벽 가이드",
+      "seo_description": "운영 시간, 티켓 가격, 인사이더 팁을 확인하고 Klook에서 예약하세요. 마이애미의 숨겨진 보물을 발견해보세요!",
+      "page_intro": "마이애미의 매력에 빠져보세요! 남부의 햇살 아래 펼쳐진 사우스 비치, 아름다운 비즈카야 박물관과 정원, 그리고 다채로운 윈우드 월즈까지. 긴 줄을 피하고 Klook를 통해 예약하세요!",
       "items": [
         {
           "id": "south-beach",
@@ -411,12 +423,16 @@
           "best_time": "anytime",
           "klook_query": "Art Deco Historic District"
         }
-      ]
+      ],
+      "faq_q1": "마이애미의 주요 명소는 무엇인가요?",
+      "faq_q2": "마이애미의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 사우스 비치, 비즈카야 박물관과 정원, 윈우드 월즈가 필수 방문 명소입니다.",
+      "faq_a2": "네, 대부분의 명소는 입장권이 필요합니다. Klook를 통해 미리 예약하시면 편리합니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Miami 2026 — Billets, Astuces et Guide Complet",
-      "seo_description": "Découvrez les meilleures attractions de Miami. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Miami.",
-      "page_intro": "Miami est une ville dynamique connue pour ses plages magnifiques, sa diversité culturelle riche et sa vie nocturne animée. Que vous souhaitiez vous détendre sur le sable, explorer l'architecture art déco ou plonger dans la cuisine locale, Miami a quelque chose à offrir à chacun. Des rues animées de Little Havana à la beauté sereine des Everglades, cette ville est un paradis pour les voyageurs en quête d'aventure et de détente.",
+      "seo_title": "8 Must-See Attractions à Miami 2026 — Guide Complet",
+      "seo_description": "Explorez les meilleures attractions de Miami avec horaires, prix et astuces. Réservez vos billets sur Klook et commencez votre aventure !",
+      "page_intro": "Découvrez Miami, une ville où le soleil brille sur des plages emblématiques et des trésors culturels. Des jardins enchanteurs de Vizcaya aux murs vibrants de Wynwood, chaque coin de Miami révèle une nouvelle aventure. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "south-beach",
@@ -514,10 +530,14 @@
           "best_time": "anytime",
           "klook_query": "Art Deco Historic District"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Miami ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Miami ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets. Pensez à réserver vos entrées à l'avance sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Miami 2026 — Entradas, Consejos y Guía Completa",
+      "seo_title": "Top 10 Atracciones en Miami 2026 — Guía Esencial",
       "seo_description": "Explora las mejores atracciones de Miami. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Miami.",
       "page_intro": "Miami es una ciudad vibrante conocida por sus impresionantes playas, rica diversidad cultural y animada vida nocturna. Ya sea que busques relajarte en las playas de arena, explorar la arquitectura art déco o sumergirte en la cocina local, Miami tiene algo para todos. Desde las bulliciosas calles de Little Havana hasta la serena belleza de los Everglades, esta ciudad es un paraíso para los viajeros en busca de aventura y relajación.",
       "items": [
@@ -620,9 +640,9 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Miami 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik di Miami 2026 - Panduan Lengkap",
       "seo_description": "Jelajahi atraksi terbaik di Miami. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Miami.",
-      "page_intro": "Miami adalah kota yang penuh semangat, terkenal dengan pantainya yang menakjubkan, keragaman budaya yang kaya, dan kehidupan malam yang cerah. Apakah Anda ingin bersantai di tepi pantai berpasir, menjelajahi arsitektur art deco, atau menyelami masakan lokal, Miami memiliki sesuatu untuk semua orang. Dari jalanan sibuk Little Havana hingga keindahan tenang Everglades, kota ini adalah surga bagi para pelancong yang mencari petualangan dan relaksasi.",
+      "page_intro": "Temukan pesona Miami, kota yang memikat dengan pantai South Beach yang ikonik, keindahan Vizcaya Museum and Gardens, dan seni jalanan di Wynwood Walls. Segera rencanakan petualangan Anda dan pesan melalui Klook!",
       "items": [
         {
           "id": "south-beach",
@@ -720,7 +740,11 @@
           "best_time": "anytime",
           "klook_query": "Art Deco Historic District"
         }
-      ]
+      ],
+      "faq_q1": "Apa saja atraksi terbaik di Miami?",
+      "faq_q2": "Apakah saya perlu tiket untuk atraksi di Miami?",
+      "faq_a1_suffix": " adalah beberapa atraksi yang wajib dikunjungi.",
+      "faq_a2": "Ya, sebagian besar atraksi memerlukan tiket untuk masuk. Anda bisa memesan tiket dengan mudah melalui Klook untuk menghindari antrean."
     },
     "hi": {
       "seo_title": "मियामी में शीर्ष आकर्षण 2026 - टिकट, टिप्स और पूर्ण गाइड",
@@ -826,9 +850,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Miami 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Miami 2026 — Guia e Dicas Essenciais",
       "seo_description": "Explore as melhores atrações em Miami. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Miami.",
-      "page_intro": "Miami é uma cidade vibrante conhecida por suas deslumbrantes praias, rica diversidade cultural e vida noturna animada. Se você está procurando relaxar nas areias ensolaradas, explorar a arquitetura art déco ou mergulhar na culinária local, Miami tem algo para todos. Desde as movimentadas ruas de Little Havana até a beleza serena dos Everglades, esta cidade é um paraíso para viajantes em busca de aventura e relaxamento.",
+      "page_intro": "Descubra a magia de Miami, onde as praias de South Beach, a elegância do Vizcaya Museum and Gardens e a arte vibrante dos Wynwood Walls esperam por você. Prepare-se para uma experiência inesquecível nesta cidade cheia de vida e cultura. Evite filas e reserve suas atrações com a Klook!",
       "items": [
         {
           "id": "south-beach",
@@ -926,11 +950,15 @@
           "best_time": "anytime",
           "klook_query": "Art Deco Historic District"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Miami?",
+      "faq_q2": "Preciso de ingressos para as atrações em Miami?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, é recomendável adquirir ingressos antecipadamente para garantir sua entrada. Você pode comprar facilmente pelo Klook."
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في ميامي 2026 - التذاكر، النصائح والدليل الكامل",
-      "seo_description": "استكشف أفضل المعالم السياحية في ميامي. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في ميامي.",
+      "seo_title": "أفضل 8 معالم سياحية في ميامي 2026 - دليل كامل",
+      "seo_description": "احصل على تذاكر، ساعات عمل ونصائح داخلية لأفضل المعالم في ميامي. احجز الآن عبر Klook واستمتع بتجربة لا تُنسى!",
       "page_intro": "ميامي مدينة نابضة بالحياة معروفة بشواطئها الرائعة، وتنوعها الثقافي الغني، وحياتها الليلية النابضة بالحياة. سواء كنت تبحث عن الاسترخاء على الشواطئ الرملية، أو استكشاف العمارة على طراز آرت ديكو، أو الانغماس في المأكولات المحلية، فإن ميامي لديها ما يناسب الجميع. من شوارع ليتل هافانا المزدحمة إلى جمال إيفرغلادز الهادئ، هذه المدينة هي جنة للمسافرين الذين يبحثون عن المغامرة والاسترخاء.",
       "items": [
         {
@@ -1135,8 +1163,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей в Майами 2026 — Билеты, Советы и Полное Руководство",
-      "seo_description": "Исследуйте лучшие достопримечательности Майами. Узнайте часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Майами.",
+      "seo_title": "8 Топ Достопримечательностей Майами 2026",
+      "seo_description": "Узнайте о билетах, часах работы и советах по 8 лучшим местам в Майами. Бронируйте через Klook и откройте для себя скрытые жемчужины!",
       "page_intro": "Майами — это яркий город, известный своими потрясающими пляжами, богатым культурным разнообразием и насыщенной ночной жизнью. Если вы хотите расслабиться на солнечных пляжах, исследовать архитектуру в стиле ар-деко или погрузиться в местную кухню, в Майами есть что-то для всех. От шумных улиц Литл-Гаваны до спокойной красоты Эверглейдс, этот город является раем для путешественников, ищущих приключения и отдых.",
       "items": [
         {

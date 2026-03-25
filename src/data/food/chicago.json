@@ -2,9 +2,9 @@
   "city_slug": "chicago",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Chicago 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Chicago. From budget eats to fine dining — with booking links.",
-      "page_intro": "Chicago is renowned for its diverse food culture, blending influences from various culinary traditions. Home to iconic deep-dish pizza and an array of street food options, the Windy City offers something for every palate. Whether you're dining at a classic restaurant or exploring bustling food markets, Chicago's food scene is sure to delight.",
+      "seo_title": "8 Best Must-Try Restaurants in Chicago 2026 - Local Gems",
+      "seo_description": "Save time with real recommendations for Chicago's top eats. Book with Klook and discover local favorites. Plan your meal today!",
+      "page_intro": "Dive into Chicago's vibrant food scene, where iconic deep-dish pizza and savory Italian beef sandwiches reign supreme. With our curated picks, you’ll savor the best bites without the hassle.",
       "items": [
         {
           "id": "portillos",
@@ -13,7 +13,7 @@
           "description": "Portillo's is a Chicago staple known for its delicious Italian beef sandwiches and Chicago-style hot dogs. The vibrant atmosphere attracts both locals and tourists alike. Don't miss their chocolate cake shake, a must-try dessert! Prices range from $ to $$.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "Italian beef sandwich",
           "klook_query": "Portillo's restaurant booking",
           "photo_url": "https://images.pexels.com/photos/31373915/pexels-photo-31373915.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Famous for its rich, flavorful Italian beef sandwiches, Al's Beef is a must-visit for any food lover in Chicago. The casual setting complements the iconic dishes, and you can enjoy a side of fries with your order. Prices are budget-friendly, typically around $.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "Italian beef sandwich",
           "klook_query": "Al's Beef restaurant booking",
           "photo_url": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "For those craving Chicago's legendary deep-dish pizza, The Pizza Lounge is a top choice. With a cozy atmosphere and a variety of toppings, this place is perfect for pizza lovers. Be prepared to wait a bit for your pizza to bake! Prices range from $$ to $$$.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Deep-dish pizza",
           "klook_query": "The Pizza Lounge booking",
           "photo_url": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -49,7 +49,7 @@
           "description": "This bustling food market is a haven for street food lovers, offering a variety of local specialties and international cuisine. From tacos to gourmet sandwiches, there's something for everyone. The lively atmosphere makes it a great spot to explore. Prices are generally $$.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "Gourmet tacos",
           "klook_query": "Chicago Food Market tour booking",
           "photo_url": "https://images.pexels.com/photos/868110/pexels-photo-868110.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -61,7 +61,7 @@
           "description": "Maxwell Street Market is a vibrant street market featuring a wide array of food vendors. It's known for its tasty tacos and other Mexican delicacies. Enjoy the lively atmosphere and live music while sampling local eats. Prices are usually budget-friendly, around $.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "Tacos",
           "klook_query": "Maxwell Street Market tour booking",
           "photo_url": "https://images.pexels.com/photos/618491/pexels-photo-618491.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -73,7 +73,7 @@
           "description": "The Chicago Style Pizza Festival is an annual event celebrating the city's iconic pizza. Held in summer, it features various vendors serving both traditional deep-dish and new interpretations. Enjoy live music and a festive atmosphere while tasting different styles of pizza. Prices vary.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "Variety of pizzas",
           "klook_query": "Chicago Style Pizza Festival tickets",
           "photo_url": "https://images.pexels.com/photos/1837755/pexels-photo-1837755.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -85,7 +85,7 @@
           "description": "Famous for its gourmet popcorn, Garrett Popcorn Shops offers a unique selection of flavors, including the iconic Chicago Mix. The shop's nostalgic ambiance makes it a delightful stop for a quick snack. Prices are around $.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Chicago Mix popcorn",
           "klook_query": "Garrett Popcorn booking",
           "photo_url": "https://images.pexels.com/photos/10324993/pexels-photo-10324993.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -97,17 +97,20 @@
           "description": "The Brown Line is a cozy bar offering a selection of local craft beers and classic cocktails. Known for its friendly atmosphere, it's the perfect spot to unwind after a day of exploring. Prices are moderate, typically around $$.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "Local craft beers",
           "klook_query": "The Brown Line bar booking",
           "photo_url": "https://images.pexels.com/photos/38537/woodland-road-falling-leaf-natural-38537.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Chicago?",
+      "faq_q2": "Where can I find the best restaurants in Chicago?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年芝加哥最佳美食 — 顶级餐厅和街头美食指南",
-      "seo_description": "探索芝加哥最佳餐厅、街头美食和当地特色。无论是经济实惠的美食还是高档餐饮 — 包括预订链接。",
-      "page_intro": "芝加哥以其多样化的美食文化而闻名，融合了各种烹饪传统的影响。作为标志性的深盘比萨和各种街头美食的发源地，风之城为每一种口味提供了选择。无论是在经典餐厅用餐，还是在热闹的美食市场探索，芝加哥的美食场景定会让您愉悦。",
+      "seo_title": "2026年芝加哥8大必試美食 — 當地隱藏美食寶藏",
+      "seo_description": "節省時間，探索芝加哥的最佳美食推薦，透過Klook預訂，立即計劃您的美食之旅！",
+      "page_intro": "芝加哥的美食场景令人垂涎，深盘比萨和意大利牛肉三明治是这里的经典美味。无论您是想要品尝地道美食还是寻找新颖的风味，Klook为您精心挑选了最佳餐厅，让您的美食之旅更加轻松愉快。",
       "items": [
         {
           "id": "portillos",
@@ -116,7 +119,7 @@
           "description": "Portillo's是芝加哥的标志性餐厅，以美味的意大利牛肉三明治和芝加哥风味热狗而闻名。生动的氛围吸引了当地人和游客。不要错过他们的巧克力蛋糕奶昔，这是一道必试的甜点！价格范围从$到$$。",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "意大利牛肉三明治",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -127,7 +130,7 @@
           "description": "Al's Beef以其丰富、风味十足的意大利牛肉三明治而著称，是芝加哥任何美食爱好者的必访之地。悠闲的环境与标志性菜肴相得益彰，您可以在点餐时享用一份薯条。价格经济实惠，通常在$左右。",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "意大利牛肉三明治",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -138,7 +141,7 @@
           "description": "对于渴望芝加哥传奇深盘比萨的人来说，The Pizza Lounge是首选。这里氛围舒适，配有多种配料，是比萨爱好者的理想之地。准备好等一会儿让比萨烘烤！价格范围从$$到$$$。",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "深盤比薩",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -149,7 +152,7 @@
           "description": "这个热闹的美食市场是街头美食爱好者的天堂，提供多种当地特色和国际美食。从塔可到美食三明治，应有尽有。生动的氛围使这里成为探索的好地方。价格通常为$$。",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "美食塔可",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -160,7 +163,7 @@
           "description": "Maxwell Street Market是一个充满活力的街市，拥有各种食品摊贩。以美味的塔可和其他墨西哥美食而闻名。享受热闹的氛围和现场音乐，同时品尝当地美食。价格通常比较实惠，约为$。",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "塔可",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -171,7 +174,7 @@
           "description": "芝加哥风味比萨节是一个年度活动，庆祝这座城市的标志性比萨。夏季举行，特色各种摊贩提供传统深盘比萨和新颖的演绎。在享受现场音乐和节日氛围的同时，品尝不同风格的比萨。价格各异。",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "各式比薩",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -182,7 +185,7 @@
           "description": "以其美味的精品爆米花而闻名，Garrett Popcorn Shops提供独特的口味选择，包括标志性的芝加哥混合风味。商店怀旧的氛围使其成为快速小吃的理想去处。价格约为$。",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "芝加哥混合爆米花",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -193,16 +196,19 @@
           "description": "The Brown Line是一家舒适的酒吧，提供当地手工啤酒和经典鸡尾酒的选择。以友好的氛围而闻名，是在探索一天后放松的完美场所。价格适中，通常在$$左右。",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "當地精釀啤酒",
           "klook_query": "The Brown Line bar booking"
         }
-      ]
+      ],
+      "faq_q1": "在芝加哥最好吃的食物是什么？",
+      "faq_q2": "我在哪里可以找到芝加哥最好的餐厅？",
+      "faq_a2_suffix": " 是顶级餐饮选择之一。"
     },
     "ja": {
-      "seo_title": "2026年シカゴのベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "シカゴのベストレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "シカゴは多様な食文化で知られ、さまざまな料理の伝統からの影響が融合しています。アイコニックなディープディッシュピザや多彩なストリートフード選択肢がある風の街は、あらゆる好みに合うものを提供しています。クラシックなレストランで食事をするのも、賑やかなフードマーケットを探索するのも、シカゴの食のシーンはあなたを喜ばせること間違いなしです。",
+      "seo_title": "2026年シカゴの8つの必食レストラン — 地元の名店",
+      "seo_description": "時間を節約し、信頼できるおすすめをチェック。Klookで予約して、今すぐ地元の名物を楽しもう！",
+      "page_intro": "シカゴの食文化は、ディープディッシュピザやイタリアンビーフサンドイッチなど、独自の美味しさで溢れています。多彩な料理を楽しむための厳選されたおすすめを見つけて、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "portillos",
@@ -211,7 +217,7 @@
           "description": "ポルティロスは、シカゴの定番として知られ、美味しいイタリアンビーフサンドイッチとシカゴスタイルのホットドッグで有名です。活気ある雰囲気は地元の人々と観光客を引きつけます。必試のデザートであるチョコレートケーキシェイクをお見逃しなく！価格は$から$$の範囲です。",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "イタリアンビーフサンドイッチ",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -222,7 +228,7 @@
           "description": "リッチで風味豊かなイタリアンビーフサンドイッチで有名なアルズビーフは、シカゴの食通には欠かせない場所です。カジュアルな雰囲気はアイコニックな料理を引き立て、注文の際にフライドポテトを一緒に楽しむことができます。価格は予算に優しく、通常$程度です。",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "イタリアンビーフサンドイッチ",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -233,7 +239,7 @@
           "description": "シカゴの伝説的なディープディッシュピザを求める人にとって、ザ・ピザラウンジは最高の選択肢です。居心地の良い雰囲気と多様なトッピングが揃っており、ピザ愛好家には最適な場所です。ピザが焼き上がるまで少し待つ準備をしてください！価格は$$から$$$の範囲です。",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "ディープディッシュピザ",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -244,7 +250,7 @@
           "description": "この賑やかなフードマーケットはストリートフード愛好者のための楽園で、地元の特産品や国際的な料理の多様性を提供しています。タコスからグルメサンドイッチまで、誰でも楽しめるものがあります。活気ある雰囲気は探索するのに最適な場所です。価格は一般的に$$です。",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "グルメタコス",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -255,7 +261,7 @@
           "description": "マックスウェルストリートマーケットは、さまざまなフードベンダーが集まる活気あるストリートマーケットです。美味しいタコスやその他のメキシコ料理で知られています。地元の料理を試食しながら、活気ある雰囲気とライブ音楽を楽しんでください。価格は通常予算に優しく、約$です。",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "タコス",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -266,7 +272,7 @@
           "description": "シカゴスタイルピザフェスティバルは、シカゴのアイコニックなピザを祝う年次イベントです。夏に開催され、伝統的なディープディッシュと新しい解釈を提供するさまざまなベンダーが出店します。さまざまなスタイルのピザを味わいながら、ライブ音楽とお祭りの雰囲気を楽しんでください。価格はさまざまです。",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "ピザのバラエティ",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -277,7 +283,7 @@
           "description": "美味しいグルメポップコーンで有名なギャレットポップコーンショップは、アイコニックなシカゴミックスを含むユニークなフレーバーのセレクションを提供しています。ショップのノスタルジックな雰囲気は、クイックスナックにぴったりのスポットです。価格は約$です。",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "シカゴミックスポップコーン",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -288,16 +294,19 @@
           "description": "ザ・ブラウンラインは、地元のクラフトビールやクラシックカクテルのセレクションを提供する居心地の良いバーです。フレンドリーな雰囲気で知られ、探索の一日を終えた後にリラックスするのに最適な場所です。価格は中程度で、通常$$程度です。",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "地元のクラフトビール",
           "klook_query": "The Brown Line bar booking"
         }
-      ]
+      ],
+      "faq_q1": "シカゴでおすすめの料理は何ですか？",
+      "faq_q2": "シカゴで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションです。"
     },
     "ko": {
-      "seo_title": "2026년 시카고 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "시카고 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산에 맞는 음식부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "시카고는 다양한 요리 전통의 영향을 혼합한 다채로운 음식 문화로 유명합니다. 상징적인 딥디시 피자와 다양한 스트리트 푸드 옵션으로 가득한 바람의 도시에서는 모든 입맛에 맞는 음식을 제공합니다. 클래식 레스토랑에서 식사를 하든, 번화한 푸드 마켓을 탐험하든, 시카고의 음식 장면은 여러분을 기쁘게 할 것입니다.",
+      "seo_title": "2026년 시카고 최고의 8개 맛집 — 꼭 가봐야 할 레스토랑",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 시카고의 숨겨진 맛집을 지금 계획해보세요!",
+      "page_intro": "시카고의 음식 문화는 입맛을 사로잡는 매력으로 가득 차 있습니다. 세계적으로 유명한 딥디시 피자와 맛있는 이탈리안 비프 샌드위치가 여러분을 기다립니다. Klook의 추천으로 시간을 절약하고 최고의 식사를 즐겨보세요!",
       "items": [
         {
           "id": "portillos",
@@ -306,7 +315,7 @@
           "description": "포르틸로스는 맛있는 이탈리안 비프 샌드위치와 시카고 스타일 핫도그로 유명한 시카고의 대표적인 식당입니다. 생동감 넘치는 분위기는 지역 주민과 관광객 모두를 끌어들입니다. 꼭 먹어봐야 할 디저트인 초콜릿 케이크 쉐이크를 놓치지 마세요! 가격은 $에서 $$까지 다양합니다.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "이탈리안 비프 샌드위치",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -317,7 +326,7 @@
           "description": "풍부하고 맛있는 이탈리안 비프 샌드위치로 유명한 알스 비프는 시카고의 모든 미식가가 꼭 방문해야 할 곳입니다. 캐주얼한 분위기는 상징적인 요리를 잘 어우러지게 하며, 주문 시 감자튀김을 함께 즐길 수 있습니다. 가격은 예산 친화적이며, 일반적으로 $ 정도입니다.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "이탈리안 비프 샌드위치",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -328,7 +337,7 @@
           "description": "시카고의 전설적인 딥디시 피자를 원하신다면, 더 피자 라운지가 최고의 선택입니다. 아늑한 분위기와 다양한 토핑을 갖춘 이곳은 피자 애호가들에게 완벽한 장소입니다. 피자가 구워질 때까지 잠시 기다릴 준비를 하세요! 가격은 $$에서 $$$까지 다양합니다.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "딥디쉬 피자",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -339,7 +348,7 @@
           "description": "이 활기찬 푸드 마켓은 스트리트 푸드 애호가들을 위한 천국으로, 다양한 지역 특산품과 국제 요리를 제공합니다. 타코부터 고급 샌드위치까지, 모두를 위한 음식이 있습니다. 생동감 넘치는 분위기는 탐험하기에 좋은 장소입니다. 가격은 일반적으로 $$입니다.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "고급 타코",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -350,7 +359,7 @@
           "description": "맥스웰 스트리트 마켓은 다양한 음식 판매자가 있는 활기찬 거리 시장입니다. 맛있는 타코와 다른 멕시코 진미로 유명합니다. 현지 음식을 맛보는 동안 생동감 넘치는 분위기와 라이브 음악을 즐기세요. 가격은 보통 예산 친화적이며, 약 $입니다.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "타코",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -361,7 +370,7 @@
           "description": "시카고 스타일 피자 페스티벌은 이 도시의 상징적인 피자를 기념하는 연례 행사입니다. 여름에 열리며, 전통적인 딥디시와 새로운 해석을 제공하는 다양한 판매자가 있습니다. 다양한 스타일의 피자를 맛보면서 라이브 음악과 축제 분위기를 즐기세요. 가격은 다양합니다.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "다양한 피자",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -372,7 +381,7 @@
           "description": "맛있는 고급 팝콘으로 유명한 가렛 팝콘 샵은 아이코닉한 시카고 믹스를 포함한 독특한 맛 선택을 제공합니다. 가게의 향수를 불러일으키는 분위기는 빠른 간식에 적합한 즐거운 정거장입니다. 가격은 약 $입니다.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "시카고 믹스 팝콘",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -383,16 +392,19 @@
           "description": "더 브라운 라인은 지역 수제 맥주와 클래식 칵테일을 제공하는 아늑한 바입니다. 친근한 분위기로 유명하며, 하루 탐험을 마친 후 휴식을 취하기에 완벽한 장소입니다. 가격은 중간 정도로, 일반적으로 $$입니다.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "지역 수제 맥주",
           "klook_query": "The Brown Line bar booking"
         }
-      ]
+      ],
+      "faq_q1": "시카고에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "시카고에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 식사 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Chicago 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Chicago. Des repas à petit budget à la gastronomie — avec des liens de réservation.",
-      "page_intro": "Chicago est renommée pour sa culture culinaire diversifiée, mélangeant des influences de diverses traditions culinaires. Ville emblématique de la pizza deep-dish et d'une multitude d'options de street food, la ville des vents offre quelque chose pour tous les palais. Que vous dîniez dans un restaurant classique ou exploriez des marchés alimentaires animés, la scène gastronomique de Chicago ne manquera pas de vous ravir.",
+      "seo_title": "8 Meilleurs Restaurants à Chicago 2026 — Incontournables",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les favoris locaux. Planifiez votre repas maintenant !",
+      "page_intro": "Découvrez la scène culinaire vibrante de Chicago, où la pizza deep-dish et les sandwiches à la viande sont des incontournables. Profitez de nos sélections soigneusement choisies pour savourer le meilleur de la ville sans perdre de temps.",
       "items": [
         {
           "id": "portillos",
@@ -401,7 +413,7 @@
           "description": "Portillo's est un incontournable de Chicago, connu pour ses délicieux sandwichs à la viande italienne et ses hot-dogs à la Chicago. L'atmosphère vibrante attire à la fois les habitants et les touristes. Ne manquez pas leur milkshake au chocolat, un dessert à essayer absolument ! Les prix varient de $ à $$.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "sandwich de bœuf italien",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -412,7 +424,7 @@
           "description": "Célèbre pour ses sandwichs à la viande italienne riches et savoureux, Al's Beef est un passage obligé pour tout amateur de cuisine à Chicago. L'ambiance décontractée complète les plats emblématiques, et vous pouvez profiter d'une portion de frites avec votre commande. Les prix sont abordables, généralement autour de $.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "sandwich de bœuf italien",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -423,7 +435,7 @@
           "description": "Pour ceux qui craving la légendaire pizza deep-dish de Chicago, The Pizza Lounge est un choix de premier plan. Avec une atmosphère chaleureuse et une variété de garnitures, cet endroit est parfait pour les amateurs de pizza. Préparez-vous à patienter un peu pour que votre pizza cuise ! Les prix varient de $$ à $$$.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "pizza à croûte épaisse",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -434,7 +446,7 @@
           "description": "Ce marché alimentaire animé est un havre pour les amateurs de street food, offrant une variété de spécialités locales et de cuisine internationale. Des tacos aux sandwichs gastronomiques, il y en a pour tous les goûts. L'atmosphère animée en fait un excellent endroit à explorer. Les prix sont généralement de $$.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "tacos gourmets",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -445,7 +457,7 @@
           "description": "Le Maxwell Street Market est un marché de rue vibrant avec une large gamme de vendeurs de nourriture. Il est connu pour ses délicieux tacos et autres spécialités mexicaines. Profitez de l'atmosphère animée et de la musique live tout en dégustant des plats locaux. Les prix sont généralement abordables, autour de $.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "tacos",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -456,7 +468,7 @@
           "description": "Le Festival de la pizza de style Chicago est un événement annuel célébrant la pizza emblématique de la ville. Organisé en été, il met en avant divers vendeurs servant à la fois des pizzas deep-dish traditionnelles et de nouvelles interprétations. Profitez de la musique live et d'une ambiance festive tout en goûtant différentes styles de pizza. Les prix varient.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "variété de pizzas",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -467,7 +479,7 @@
           "description": "Célèbre pour son popcorn gourmet, Garrett Popcorn Shops propose une sélection unique de saveurs, y compris le mélange emblématique de Chicago. L'ambiance nostalgique du magasin en fait un arrêt agréable pour une collation rapide. Les prix sont d'environ $.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "popcorn Chicago Mix",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -478,16 +490,19 @@
           "description": "The Brown Line est un bar confortable proposant une sélection de bières artisanales locales et de cocktails classiques. Connue pour son ambiance conviviale, c'est l'endroit idéal pour se détendre après une journée d'exploration. Les prix sont modérés, généralement autour de $$.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "bières artisanales locales",
           "klook_query": "The Brown Line bar booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Chicago ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Chicago ?",
+      "faq_a2_suffix": " sont parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Chicago 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Chicago. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
-      "page_intro": "Chicago es conocida por su diversa cultura gastronómica, que mezcla influencias de varias tradiciones culinarias. Hogar de la icónica pizza de masa gruesa y una variedad de opciones de comida callejera, la ciudad de los vientos ofrece algo para todos los paladares. Ya sea que cenes en un restaurante clásico o explores bulliciosos mercados de comida, la escena gastronómica de Chicago seguramente te deleitará.",
+      "seo_title": "8 Mejores Restaurantes en Chicago 2026 — ¡Must-Try!",
+      "seo_description": "Ahorra tiempo con recomendaciones reales. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre el festín culinario de Chicago! Desde la famosa pizza de masa gruesa hasta los deliciosos sándwiches de carne, la ciudad es un paraíso para los amantes de la comida. Ahorra tiempo con nuestras recomendaciones seleccionadas y reserva fácilmente con Klook.",
       "items": [
         {
           "id": "portillos",
@@ -496,7 +511,7 @@
           "description": "Portillo's es un lugar emblemático de Chicago conocido por sus deliciosos sándwiches de carne italiana y perritos calientes al estilo de Chicago. La atmósfera vibrante atrae tanto a los locales como a los turistas. ¡No te pierdas su batido de pastel de chocolate, un postre que debes probar! Los precios oscilan entre $ y $$.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "sándwich de carne italiana",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -507,7 +522,7 @@
           "description": "Famoso por sus ricos y sabrosos sándwiches de carne italiana, Al's Beef es una visita obligada para cualquier amante de la comida en Chicago. El ambiente casual complementa los platos icónicos, y puedes disfrutar de una porción de papas fritas con tu pedido. Los precios son amigables para el presupuesto, típicamente alrededor de $.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "sándwich de carne italiana",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -518,7 +533,7 @@
           "description": "Para aquellos que anhelan la legendaria pizza de masa gruesa de Chicago, The Pizza Lounge es una de las mejores opciones. Con un ambiente acogedor y una variedad de coberturas, este lugar es perfecto para los amantes de la pizza. ¡Prepárate para esperar un poco a que tu pizza se hornee! Los precios oscilan entre $$ y $$$.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "pizza al estilo de Chicago",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -529,7 +544,7 @@
           "description": "Este bullicioso mercado de alimentos es un paraíso para los amantes de la comida callejera, ofreciendo una variedad de especialidades locales y cocina internacional. Desde tacos hasta sándwiches gourmet, hay algo para todos. La atmósfera animada lo convierte en un gran lugar para explorar. Los precios son generalmente $$.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "tacos gourmet",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -540,7 +555,7 @@
           "description": "Maxwell Street Market es un vibrante mercado callejero con una amplia gama de vendedores de comida. Es conocido por sus deliciosos tacos y otras delicias mexicanas. Disfruta de la animada atmósfera y la música en vivo mientras pruebas comidas locales. Los precios son generalmente amigables para el presupuesto, alrededor de $.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "tacos",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -551,7 +566,7 @@
           "description": "El Festival de Pizza al Estilo de Chicago es un evento anual que celebra la pizza icónica de la ciudad. Celebrado en verano, cuenta con varios vendedores que ofrecen tanto la tradicional pizza de masa gruesa como nuevas interpretaciones. Disfruta de música en vivo y un ambiente festivo mientras pruebas diferentes estilos de pizza. Los precios varían.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "variedad de pizzas",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -562,7 +577,7 @@
           "description": "Famoso por su gourmet popcorn, Garrett Popcorn Shops ofrece una selección única de sabores, incluido el icónico Chicago Mix. La ambientación nostálgica de la tienda lo convierte en una parada encantadora para un bocadillo rápido. Los precios son alrededor de $.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "palomitas Chicago Mix",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -573,16 +588,19 @@
           "description": "The Brown Line es un bar acogedor que ofrece una selección de cervezas artesanales locales y cócteles clásicos. Conocido por su ambiente amigable, es el lugar perfecto para relajarse después de un día de exploración. Los precios son moderados, típicamente alrededor de $$.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "cervezas artesanales locales",
           "klook_query": "The Brown Line bar booking"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para comer en Chicago?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Chicago?",
+      "faq_a2_suffix": " son algunas de las opciones de comida más valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Chicago 2026 — Panduan Restoran & Makanan Jalan Teratas",
-      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Chicago. Dari makanan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
-      "page_intro": "Chicago terkenal dengan budaya makanan yang beragam, menggabungkan pengaruh dari berbagai tradisi kuliner. Rumah bagi pizza deep-dish yang ikonik dan berbagai pilihan makanan jalanan, Kota Angin menawarkan sesuatu untuk setiap selera. Baik Anda makan di restoran klasik atau menjelajahi pasar makanan yang ramai, pemandangan kuliner Chicago pasti akan memuaskan.",
+      "seo_title": "8 Restoran Terbaik di Chicago 2026 - Makanan Wajib",
+      "seo_description": "Hemat waktu dengan rekomendasi terbaik. Pesan di Klook dan rencanakan santapan Anda sekarang! Temukan favorit lokal di Chicago.",
+      "page_intro": "Rasakan kelezatan kuliner Chicago yang menggugah selera, dari pizza deep-dish yang legendaris hingga sandwich daging sapi yang menggoda. Temukan pilihan terbaik dengan rekomendasi terkurasi dan booking mudah di Klook!",
       "items": [
         {
           "id": "portillos",
@@ -591,7 +609,7 @@
           "description": "Portillo's adalah staple di Chicago yang dikenal dengan sandwich daging Italia yang lezat dan hot dog bergaya Chicago. Suasana yang cerah menarik baik penduduk setempat maupun wisatawan. Jangan lewatkan milkshake kue coklat mereka, makanan penutup yang wajib dicoba! Harga berkisar antara $ hingga $$.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "sandwich daging sapi Italia",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -602,7 +620,7 @@
           "description": "Terkenal dengan sandwich daging Italia yang kaya dan beraroma, Al's Beef adalah tempat yang harus dikunjungi bagi setiap pecinta makanan di Chicago. Suasana santai melengkapi hidangan ikonik, dan Anda dapat menikmati seporsi kentang goreng dengan pesanan Anda. Harga ramah anggaran, biasanya sekitar $.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "sandwich daging sapi Italia",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -613,7 +631,7 @@
           "description": "Bagi mereka yang mengidam pizza deep-dish legendaris Chicago, The Pizza Lounge adalah pilihan utama. Dengan suasana yang nyaman dan berbagai topping, tempat ini sempurna untuk penggemar pizza. Siapkan diri Anda untuk menunggu sedikit saat pizza Anda dipanggang! Harga berkisar antara $$ hingga $$$.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "pizza deep-dish",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -624,7 +642,7 @@
           "description": "Pasar makanan yang ramai ini adalah surga bagi pecinta makanan jalanan, menawarkan berbagai spesialisasi lokal dan masakan internasional. Dari taco hingga sandwich gourmet, ada sesuatu untuk semua orang. Suasana yang hidup membuatnya menjadi tempat yang bagus untuk dijelajahi. Harga umumnya $$.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "taco gourmet",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -635,7 +653,7 @@
           "description": "Maxwell Street Market adalah pasar jalanan yang ramai dengan berbagai vendor makanan. Dikenal dengan taco lezat dan makanan Meksiko lainnya. Nikmati suasana yang meriah dan musik live sambil mencicipi makanan lokal. Harga biasanya ramah anggaran, sekitar $.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "taco",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -646,7 +664,7 @@
           "description": "Festival Pizza Bergaya Chicago adalah acara tahunan yang merayakan pizza ikonik kota ini. Diadakan di musim panas, festival ini menampilkan berbagai vendor yang menyajikan pizza deep-dish tradisional dan interpretasi baru. Nikmati musik live dan suasana meriah sambil mencicipi berbagai gaya pizza. Harga bervariasi.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "berbagai jenis pizza",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -657,7 +675,7 @@
           "description": "Terkenal dengan popcorn gourmet-nya, Garrett Popcorn Shops menawarkan pilihan rasa unik, termasuk Chicago Mix yang ikonik. Suasana nostalgia di toko membuatnya menjadi tempat yang menyenangkan untuk camilan cepat. Harga sekitar $.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "popcorn Chicago Mix",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -668,15 +686,18 @@
           "description": "The Brown Line adalah bar yang nyaman menawarkan berbagai bir kerajinan lokal dan koktail klasik. Dikenal karena suasana yang ramah, ini adalah tempat yang sempurna untuk bersantai setelah seharian menjelajahi. Harga moderat, biasanya sekitar $$.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "bir kerajinan lokal",
           "klook_query": "The Brown Line bar booking"
         }
-      ]
+      ],
+      "faq_q1": "Apa makanan terbaik yang bisa dicoba di Chicago?",
+      "faq_q2": "Di mana saya bisa menemukan restoran terbaik di Chicago?",
+      "faq_a2_suffix": " adalah pilihan tempat makan yang paling direkomendasikan."
     },
     "hi": {
-      "seo_title": "शिकागो में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "शिकागो में सबसे अच्छे रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "seo_title": "शिकागो के 10 सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय पसंदीदा खोजें!",
       "page_intro": "शिकागो अपने विविध खाद्य संस्कृति के लिए प्रसिद्ध है, जो विभिन्न पाक परंपराओं के प्रभावों को मिश्रित करता है। आइकोनिक डीप-डिश पिज्जा और विभिन्न स्ट्रीट फूड विकल्पों का घर, विंडी सिटी हर स्वाद के लिए कुछ न कुछ पेश करता है। चाहे आप किसी क्लासिक रेस्तरां में भोजन कर रहे हों या हलचल भरे खाद्य बाजारों की खोज कर रहे हों, शिकागो का खाद्य दृश्य निश्चित रूप से आनंदित करेगा।",
       "items": [
         {
@@ -686,7 +707,7 @@
           "description": "पोर्टिलो's शिकागो का एक स्थायी स्थल है जो अपने स्वादिष्ट इटालियन बीफ सैंडविच और शिकागो-शैली के हॉट डॉग के लिए जाना जाता है। जीवंत वातावरण स्थानीय लोगों और पर्यटकों दोनों को आकर्षित करता है। उनके चॉकलेट केक शेक को न चूकें, जो एक अवश्य-देखने योग्य मिठाई है! कीमतें $ से $$ तक हैं।",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "इटालियन बीफ सैंडविच",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -697,7 +718,7 @@
           "description": "अपने समृद्ध, स्वादिष्ट इटालियन बीफ सैंडविच के लिए प्रसिद्ध, अल's बीफ शिकागो में किसी भी खाद्य प्रेमी के लिए एक अवश्य-देखने योग्य स्थान है। कैजुअल सेटिंग आइकोनिक डिशेज के साथ मेल खाती है, और आप अपने ऑर्डर के साथ एक साइड फ्राई का आनंद ले सकते हैं। कीमतें बजट के अनुकूल हैं, आमतौर पर $ के आसपास।",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "इटालियन बीफ सैंडविच",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -708,7 +729,7 @@
           "description": "जो लोग शिकागो के प्रसिद्ध डीप-डिश पिज्जा की लालसा कर रहे हैं, उनके लिए द पिज़्ज़ा लाउंज एक शीर्ष विकल्प है। आरामदायक वातावरण और विभिन्न टॉपिंग के साथ, यह स्थान पिज्जा प्रेमियों के लिए आदर्श है। अपने पिज्जा के पकने के लिए थोड़ी देर इंतजार करने के लिए तैयार रहें! कीमतें $$ से $$$ तक हैं।",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "डीप-डिश पिज्जा",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -719,7 +740,7 @@
           "description": "यह हलचल भरा फूड मार्केट स्ट्रीट फूड प्रेमियों के लिए एक स्वर्ग है, जो स्थानीय विशेषताओं और अंतरराष्ट्रीय व्यंजनों की एक विविधता पेश करता है। टैकोस से लेकर गॉरमेट सैंडविच तक, हर किसी के लिए कुछ न कुछ है। जीवंत वातावरण इसे खोजने के लिए एक शानदार स्थान बनाता है। कीमतें आमतौर पर $$ हैं।",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "गौरमेट टैकोस",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -730,7 +751,7 @@
           "description": "मैक्सवेल स्ट्रीट मार्केट एक जीवंत स्ट्रीट मार्केट है जिसमें खाद्य विक्रेताओं की एक विस्तृत श्रृंखला है। यह अपने स्वादिष्ट टैकोस और अन्य मेक्सिकन विशेषताओं के लिए जाना जाता है। स्थानीय खाने का स्वाद लेते हुए जीवंत वातावरण और लाइव संगीत का आनंद लें। कीमतें आमतौर पर बजट के अनुकूल होती हैं, लगभग $।",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "टैकोस",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -741,7 +762,7 @@
           "description": "शिकागो स्टाइल पिज़्ज़ा महोत्सव एक वार्षिक कार्यक्रम है जो शहर के आइकोनिक पिज्जा का जश्न मनाता है। गर्मियों में आयोजित, इसमें विभिन्न विक्रेता पारंपरिक डीप-डिश और नए व्याख्याओं को परोसते हैं। विभिन्न प्रकार के पिज्जा का स्वाद लेते हुए लाइव संगीत और उत्सव का माहौल का आनंद लें। कीमतें भिन्न होती हैं।",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "पिज्जा की विविधता",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -752,7 +773,7 @@
           "description": "अपने गॉरमेट पॉपकॉर्न के लिए प्रसिद्ध, गार्ट पॉपकॉर्न शॉप्स अद्वितीय स्वादों का एक चयन प्रदान करता है, जिसमें आइकोनिक शिकागो मिक्स शामिल है। दुकान का पुरानी यादों वाला माहौल एक त्वरित नाश्ते के लिए एक सुखद स्टॉप बनाता है। कीमतें लगभग $ हैं।",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "शिकागो मिक्स पॉपकॉर्न",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -763,15 +784,15 @@
           "description": "द ब्राउन लाइन एक आरामदायक बार है जो स्थानीय क्राफ्ट बियर और क्लासिक कॉकटेल का चयन पेश करता है। इसके मित्रवत वातावरण के लिए जाना जाता है, यह एक दिन की खोज के बाद आराम करने के लिए एकदम सही स्थान है। कीमतें मध्यम हैं, आमतौर पर $$ के आसपास।",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "स्थानीय क्राफ्ट बीयर",
           "klook_query": "The Brown Line bar booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Chicago 2026 — Principais Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Chicago. De refeições econômicas a alta gastronomia — com links para reservas.",
+      "seo_title": "Top 10 Restaurantes em Chicago 2026 — Imperdíveis",
+      "seo_description": "Economize tempo com recomendações reais. Reserve sua mesa com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "Chicago é renomada por sua cultura alimentar diversificada, misturando influências de várias tradições culinárias. Lar da icônica pizza deep-dish e uma variedade de opções de comida de rua, a Cidade dos Ventos oferece algo para todos os paladares. Seja jantando em um restaurante clássico ou explorando mercados de comida movimentados, a cena gastronômica de Chicago certamente irá encantar.",
       "items": [
         {
@@ -781,7 +802,7 @@
           "description": "Portillo's é um ícone de Chicago conhecido por seus deliciosos sanduíches de carne italiana e cachorros-quentes ao estilo Chicago. A atmosfera vibrante atrai tanto os locais quanto os turistas. Não perca o milkshake de bolo de chocolate, uma sobremesa imperdível! Os preços variam de $ a $$.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "sanduíche de carne italiana",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -792,7 +813,7 @@
           "description": "Famoso por seus sanduíches de carne italiana ricos e saborosos, Al's Beef é uma visita obrigatória para qualquer amante da comida em Chicago. O ambiente casual complementa os pratos icônicos, e você pode desfrutar de uma porção de batatas fritas com seu pedido. Os preços são acessíveis, geralmente em torno de $.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "sanduíche de carne italiana",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -803,7 +824,7 @@
           "description": "Para aqueles que desejam a lendária pizza deep-dish de Chicago, The Pizza Lounge é uma das melhores opções. Com uma atmosfera aconchegante e uma variedade de coberturas, este lugar é perfeito para os amantes de pizza. Esteja preparado para esperar um pouco pelo seu pizza assar! Os preços variam de $$ a $$$.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "pizza de fundo profundo",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -814,7 +835,7 @@
           "description": "Este movimentado mercado de comida é um paraíso para os amantes de comida de rua, oferecendo uma variedade de especialidades locais e culinária internacional. De tacos a sanduíches gourmet, há algo para todos. A atmosfera animada torna-o um ótimo lugar para explorar. Os preços são geralmente $$.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "tacos gourmet",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -825,7 +846,7 @@
           "description": "Maxwell Street Market é um mercado de rua vibrante com uma ampla gama de vendedores de alimentos. É conhecido por seus deliciosos tacos e outras iguarias mexicanas. Desfrute da atmosfera animada e da música ao vivo enquanto experimenta comidas locais. Os preços são geralmente acessíveis, em torno de $.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "tacos",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -836,7 +857,7 @@
           "description": "O Chicago Style Pizza Festival é um evento anual que celebra a pizza icônica da cidade. Realizado no verão, conta com vários vendedores servindo tanto a tradicional deep-dish quanto novas interpretações. Aproveite a música ao vivo e uma atmosfera festiva enquanto prova diferentes estilos de pizza. Os preços variam.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "variedade de pizzas",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -847,7 +868,7 @@
           "description": "Famoso por seu popcorn gourmet, Garrett Popcorn Shops oferece uma seleção única de sabores, incluindo o icônico Chicago Mix. A atmosfera nostálgica da loja torna-a uma parada deliciosa para um lanche rápido. Os preços estão em torno de $.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "pipoca Chicago Mix",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -858,15 +879,15 @@
           "description": "The Brown Line é um bar aconchegante que oferece uma seleção de cervejas artesanais locais e coquetéis clássicos. Conhecido por sua atmosfera amigável, é o lugar perfeito para relaxar após um dia de exploração. Os preços são moderados, geralmente em torno de $$.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "cervejas artesanais locais",
           "klook_query": "The Brown Line bar booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في شيكاغو 2026 - أفضل المطاعم ودليل الطعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في شيكاغو. من وجبات الميزانية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في شيكاغو 2026 - تجارب طعام لا تُنسى",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطباق في شيكاغو. احجز عبر Klook واكتشف المفضلات المحلية. خطط لوجبتك الآن!",
       "page_intro": "تشتهر شيكاغو بثقافتها الغذائية المتنوعة، حيث تمزج بين تأثيرات تقاليد الطهي المختلفة. موطن البيتزا العميقة الشهيرة ومجموعة متنوعة من خيارات طعام الشارع، تقدم مدينة الرياح شيئًا لكل ذوق. سواء كنت تتناول الطعام في مطعم كلاسيكي أو تستكشف أسواق الطعام المزدحمة، فإن مشهد الطعام في شيكاغو سوف يسعدك بالتأكيد.",
       "items": [
         {
@@ -876,7 +897,7 @@
           "description": "بورتيلو هو عنصر أساسي في شيكاغو معروف بسندويشات اللحم الإيطالية اللذيذة والنقانق على طريقة شيكاغو. تجذب الأجواء النابضة بالحياة السكان المحليين والسياح على حد سواء. لا تفوتوا مشروب الكيك بالشوكولاتة، وهو حلوى يجب تجربتها! تتراوح الأسعار من $ إلى $$.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "ساندويتش لحم البقر الإيطالي",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -887,7 +908,7 @@
           "description": "مشهور بسندويشات اللحم الإيطالية الغنية واللذيذة، يُعد لحم آل وجهة لا بد من زيارتها لأي محب للطعام في شيكاغو. يكمل الإعداد غير الرسمي الأطباق الأيقونية، ويمكنك الاستمتاع بجانب من البطاطس المقلية مع طلبك. الأسعار مناسبة للميزانية، عادة حوالي $.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "ساندويتش لحم البقر الإيطالي",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -898,7 +919,7 @@
           "description": "بالنسبة لأولئك الذين يتوقون إلى البيتزا العميقة الأسطورية في شيكاغو، تُعد صالة البيتزا خيارًا رائعًا. مع أجواء مريحة وتنوع من الإضافات، هذا المكان مثالي لعشاق البيتزا. كن مستعدًا للانتظار قليلاً حتى تنضج البيتزا الخاصة بك! تتراوح الأسعار من $$ إلى $$$.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "بيتزا عميقة",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -909,7 +930,7 @@
           "description": "يُعد سوق الطعام المزدحم هذا جنة لعشاق طعام الشارع، حيث يقدم مجموعة متنوعة من التخصصات المحلية والمأكولات الدولية. من التاكو إلى السندويشات الفاخرة، هناك شيء للجميع. تجعل الأجواء الحيوية منه مكانًا رائعًا للاستكشاف. الأسعار عادة ما تكون $$.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "تاكوس فاخرة",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -920,7 +941,7 @@
           "description": "سوق ماكسويل هو سوق شارع نابض يضم مجموعة واسعة من بائعي الطعام. يُعرف بتاكو اللذيذ وغيرها من الأطباق المكسيكية. استمتع بالأجواء النابضة بالحياة والموسيقى الحية أثناء تذوق الأطعمة المحلية. الأسعار عادة ما تكون مناسبة للميزانية، حوالي $.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "تاكوس",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -931,7 +952,7 @@
           "description": "مهرجان بيتزا شيكاغو هو حدث سنوي يحتفل بالبيتزا الأيقونية في المدينة. يُعقد في الصيف، ويضم عددًا من البائعين الذين يقدمون كل من البيتزا العميقة التقليدية والتفسيرات الجديدة. استمتع بالموسيقى الحية والأجواء الاحتفالية أثناء تذوق أنماط مختلفة من البيتزا. الأسعار تختلف.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "مجموعة من البيتزا",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -942,7 +963,7 @@
           "description": "مشهور بوبكورن الغورميه، تقدم محلات جارينت للبوبكورن مجموعة فريدة من النكهات، بما في ذلك مزيج شيكاغو الأيقوني. تجعل الأجواء الحنينية للمتجر محطة لذيذة لتناول وجبة خفيفة سريعة. الأسعار حوالي $.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "فشار شيكاغو مكس",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -953,15 +974,15 @@
           "description": "الخط البني هو بار مريح يقدم مجموعة من البيرة الحرفية المحلية والكوكتيلات الكلاسيكية. يُعرف بأجوائه الودية، وهو المكان المثالي للاسترخاء بعد يوم من الاستكشاف. الأسعار معتدلة، عادة حوالي $$.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "بيرة محلية",
           "klook_query": "The Brown Line bar booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "শিকাগোতে সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
-      "seo_description": "শিকাগোতে সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব সন্ধান করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "seo_title": "শিকাগোতে ৮টি সেরা খাবার ২০২৬ — অবশ্যই চেষ্টা করবেন!",
+      "seo_description": "সময় বাঁচান, বাস্তব সুপারিশ পান। Klook বুকিং লিঙ্ক সহ স্থানীয় প্রিয় খাবার আবিষ্কার করুন। আপনার খাবারের পরিকল্পনা এখনই করুন!",
       "page_intro": "শিকাগো তার বিভিন্ন খাদ্য সংস্কৃতির জন্য খ্যাত, যা বিভিন্ন রন্ধনপ্রণালী ঐতিহ্যের প্রভাব মিশ্রিত করে। আইকনিক ডীপ-ডিশ পিজ্জা এবং বিভিন্ন স্ট্রিট ফুড বিকল্পের বাড়ি, উইন্ডি সিটি প্রতিটি স্বাদের জন্য কিছু না কিছু প্রস্তাব করে। আপনি একটি ক্লাসিক রেস্তোরাঁয় খাবার খাচ্ছেন বা ব্যস্ত খাদ্য বাজারগুলি অনুসন্ধান করছেন, শিকাগোর খাদ্য দৃশ্য আপনাকে নিশ্চয়ই আনন্দিত করবে।",
       "items": [
         {
@@ -971,7 +992,7 @@
           "description": "পোর্টিলো'স শিকাগোর একটি প্রধান স্থান যা স্বাদু ইতালীয় বিফ স্যান্ডউইচ এবং শিকাগো-শৈলীর হট ডগের জন্য পরিচিত। প্রাণবন্ত পরিবেশ স্থানীয় এবং পর্যটকদের উভয়কেই আকর্ষণ করে। তাদের চকোলেট কেক শেক মিস করবেন না, যা একটি অবশ্য-দেখা মিষ্টান্ন! দাম $ থেকে $$ এর মধ্যে।",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "ইতালীয় বিফ স্যান্ডউইচ",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -982,7 +1003,7 @@
           "description": "ধনী, সুস্বাদু ইতালীয় বিফ স্যান্ডউইচের জন্য বিখ্যাত, আল'স বিফ শিকাগোতে যেকোনো খাদ্য প্রেমীর জন্য একটি অবশ্য-দর্শন স্থান। অপ্রাতিষ্ঠানিক পরিবেশ আইকনিক ডিশগুলির সাথে মেলে, এবং আপনি আপনার অর্ডারের সাথে ফ্রাইয়ের একটি সাইড উপভোগ করতে পারেন। দাম বাজেটের জন্য অনুকূল, সাধারণত প্রায় $।",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "ইতালীয় বিফ স্যান্ডউইচ",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -993,7 +1014,7 @@
           "description": "যারা শিকাগোর কিংবদন্তী ডীপ-ডিশ পিজ্জার জন্য আবেগী, তাদের জন্য দ্য পিজ্জা লাউঞ্জ শীর্ষ পছন্দ। আরামদায়ক পরিবেশ এবং বিভিন্ন টপিংয়ের সাথে, এই জায়গাটি পিজ্জা প্রেমীদের জন্য উপযুক্ত। আপনার পিজ্জা বেক করতে একটু অপেক্ষা করতে প্রস্তুত থাকুন! দাম $$ থেকে $$$ এর মধ্যে।",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "ডিপ-ডিশ পিজ্জা",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -1004,7 +1025,7 @@
           "description": "এই ব্যস্ত খাদ্য বাজারটি স্ট্রিট ফুড প্রেমীদের জন্য একটি স্বর্গ, যা স্থানীয় বিশেষত্ব এবং আন্তর্জাতিক রন্ধনশিল্পের বিভিন্নতা প্রদান করে। টাকোস থেকে গৌরমেট স্যান্ডউইচ পর্যন্ত, সবার জন্য কিছু আছে। প্রাণবন্ত পরিবেশ এটি অনুসন্ধানের জন্য একটি দুর্দান্ত স্থান করে তোলে। দাম সাধারণত $$।",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "গৌরমেট টাকোস",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -1015,7 +1036,7 @@
           "description": "ম্যাক্সওয়েল স্ট্রিট মার্কেট একটি প্রাণবন্ত স্ট্রিট মার্কেট যা খাদ্য বিক্রেতাদের একটি বিস্তৃত পরিসর নিয়ে গঠিত। এটি সুস্বাদু টাকোস এবং অন্যান্য মেক্সিকান বিশেষত্বের জন্য পরিচিত। স্থানীয় খাবারগুলি স্বাদ গ্রহণের সময় প্রাণবন্ত পরিবেশ এবং লাইভ সঙ্গীত উপভোগ করুন। দাম সাধারণত বাজেটের জন্য উপযুক্ত, প্রায় $।",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "টাকোস",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -1026,7 +1047,7 @@
           "description": "শিকাগো স্টাইল পিজ্জা উৎসব একটি বার্ষিক ইভেন্ট যা শহরের আইকনিক পিজ্জা উদযাপন করে। গ্রীষ্মকালে অনুষ্ঠিত হয়, এতে বিভিন্ন বিক্রেতা ঐতিহ্যবাহী ডীপ-ডিশ এবং নতুন ব্যাখ্যাগুলি পরিবেশন করে। বিভিন্ন পিজ্জা শৈলীর স্বাদ গ্রহণের সময় লাইভ সঙ্গীত এবং উৎসবের পরিবেশ উপভোগ করুন। দাম পরিবর্তিত হয়।",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "বিভিন্ন ধরনের পিজ্জা",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -1037,7 +1058,7 @@
           "description": "গৌরমেট পপকর্নের জন্য বিখ্যাত, গ্যারেট পপকর্ন শপস একটি অনন্য স্বাদের নির্বাচন অফার করে, যার মধ্যে আইকনিক শিকাগো মিক্স অন্তর্ভুক্ত। দোকানের নস্টালজিক পরিবেশ একটি দ্রুত স্ন্যাকের জন্য একটি আনন্দদায়ক স্টপ তৈরি করে। দাম প্রায় $।",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "শিকাগো মিক্স পপকর্ন",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -1048,15 +1069,15 @@
           "description": "দ্য ব্রাউন লাইন একটি আরামদায়ক বার যা স্থানীয় ক্রাফট বিয়ার এবং ক্লাসিক ককটেলগুলির একটি নির্বাচন অফার করে। বন্ধুত্বপূর্ণ পরিবেশের জন্য পরিচিত, এটি একটি দিনের অনুসন্ধানের পরে বিশ্রাম নেওয়ার জন্য আদর্শ স্থান। দাম মাঝারি, সাধারণত প্রায় $$।",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "স্থানীয় ক্রাফট বীয়ার",
           "klook_query": "The Brown Line bar booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Чикаго 2026 — Топ-рестораны и гид по уличной еде",
-      "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных специалитетах в Чикаго. От бюджетных блюд до изысканной кухни — со ссылками для бронирования.",
+      "seo_title": "10 Лучшими Ресторанов Чикаго 2026 — Обязательно Попробуйте",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Чикаго славится своей разнообразной кулинарной культурой, объединяющей влияния различных кулинарных традиций. Дом для знаменитой пиццы в глубоких тарелках и разнообразия уличной еды, Ветреный город предлагает что-то на любой вкус. Независимо от того, обедаете ли вы в классическом ресторане или исследуете оживленные рынки еды, гастрономическая сцена Чикаго определенно порадует вас.",
       "items": [
         {
@@ -1066,7 +1087,7 @@
           "description": "Portillo's — это чикагское заведение, известное своими вкусными итальянскими говяжьими сэндвичами и хот-догами в чикагском стиле. Яркая атмосфера привлекает как местных жителей, так и туристов. Не пропустите их шоколадный молочный коктейль, который обязательно нужно попробовать! Цены варьируются от $ до $$.",
           "image_keyword": "Portillo's restaurant",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "$10–15",
           "must_try": "Итальянский говяжий сэндвич",
           "klook_query": "Portillo's restaurant booking"
         },
@@ -1077,7 +1098,7 @@
           "description": "Известный своими насыщенными, ароматными итальянскими говяжьими сэндвичами, Al's Beef — это обязательное место для любого любителя еды в Чикаго. Непринужденная обстановка прекрасно дополняет культовые блюда, и вы можете насладиться картошкой фри с вашим заказом. Цены бюджетные, обычно около $.",
           "image_keyword": "Al's Beef restaurant",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$8–12",
           "must_try": "Итальянский говяжий сэндвич",
           "klook_query": "Al's Beef restaurant booking"
         },
@@ -1088,7 +1109,7 @@
           "description": "Для тех, кто жаждет легендарной пиццы в глубоких тарелках Чикаго, The Pizza Lounge — лучший выбор. С уютной атмосферой и разнообразием начинок это место идеально подходит для любителей пиццы. Будьте готовы немного подождать, пока ваша пицца запекается! Цены варьируются от $$ до $$$.",
           "image_keyword": "deep dish pizza",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "$15–25",
           "must_try": "Глубокая пицца",
           "klook_query": "The Pizza Lounge booking"
         },
@@ -1099,7 +1120,7 @@
           "description": "Этот шумный рынок еды — рай для любителей уличной еды, предлагающий разнообразие местных специалитетов и международной кухни. От тако до гурманских сэндвичей — здесь есть что-то для каждого. Живописная атмосфера делает его отличным местом для исследования. Цены, как правило, $$.",
           "image_keyword": "Chicago Food Market",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "$5–10",
           "must_try": "Гурманские тако",
           "klook_query": "Chicago Food Market tour booking"
         },
@@ -1110,7 +1131,7 @@
           "description": "Maxwell Street Market — это яркий уличный рынок с широким выбором продавцов еды. Он известен своими вкусными тако и другими мексиканскими деликатесами. Наслаждайтесь живой атмосферой и живой музыкой, пробуя местные блюда. Цены, как правило, бюджетные, около $.",
           "image_keyword": "Maxwell Street Market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "$3–5",
           "must_try": "Тако",
           "klook_query": "Maxwell Street Market tour booking"
         },
@@ -1121,7 +1142,7 @@
           "description": "Фестиваль пиццы в чикагском стиле — это ежегодное событие, посвященное культовой пицце города. Проходя летом, он включает в себя различных продавцов, предлагающих как традиционные глубокие тарелки, так и новые интерпретации. Наслаждайтесь живой музыкой и праздничной атмосферой, пробуя разные стили пиццы. Цены варьируются.",
           "image_keyword": "Chicago Style Pizza Festival",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "$10–20",
           "must_try": "Разнообразие пицц",
           "klook_query": "Chicago Style Pizza Festival tickets"
         },
@@ -1132,7 +1153,7 @@
           "description": "Известный своим гурманским попкорном, Garrett Popcorn Shops предлагает уникальный выбор вкусов, включая культовый Chicago Mix. Ностальгическая атмосфера магазина делает его приятным местом для быстрого перекуса. Цены около $.",
           "image_keyword": "Garrett Popcorn",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "$5–8",
           "must_try": "Чикагский микс попкорна",
           "klook_query": "Garrett Popcorn booking"
         },
@@ -1143,7 +1164,7 @@
           "description": "The Brown Line — это уютный бар, предлагающий выбор местного крафтового пива и классических коктейлей. Известный своей дружелюбной атмосферой, это идеальное место, чтобы расслабиться после дня исследований. Цены умеренные, обычно около $$.",
           "image_keyword": "The Brown Line bar",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "$10–15",
           "must_try": "Местные крафтовые сорта пива",
           "klook_query": "The Brown Line bar booking"
         }

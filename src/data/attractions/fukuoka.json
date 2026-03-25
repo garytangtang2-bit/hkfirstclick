@@ -2,9 +2,9 @@
   "city_slug": "fukuoka",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Fukuoka 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Fukuoka. Find opening hours, ticket prices and booking links for Fukuoka's top landmarks.",
-      "page_intro": "Fukuoka, a vibrant city on the northern shore of Japan's Kyushu Island, is known for its rich history, modern attractions, and delicious cuisine. From stunning temples to bustling markets, there's something for everyone. Discover the best places to visit and experience the unique culture of this captivating destination.",
+      "seo_title": "8 Must-See Attractions in Fukuoka 2026 - Complete Guide",
+      "seo_description": "Discover Fukuoka's top sights with tickets, hours, and insider tips. Book your adventure now with Klook for an unforgettable experience!",
+      "page_intro": "Dive into the charm of Fukuoka, where the serene beauty of Ohori Park meets the historic allure of Fukuoka Castle Ruins. Uncover the vibrant energy of the Tenjin District and more—skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "ohori-park",
@@ -102,12 +102,16 @@
           "best_time": "morning|afternoon",
           "klook_query": "Dazaifu Tenmangu tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Fukuoka?",
+      "faq_q2": "Do I need tickets for attractions in Fukuoka?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Some attractions in Fukuoka require tickets for entry. You can easily purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年福岡最佳景點 — 票務、提示與完整指南",
-      "seo_description": "探索福岡最佳景點。查找福岡主要地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "福岡是日本九州島北岸的一座充滿活力的城市，以其豐富的歷史、現代景點和美味的料理而聞名。從壯觀的寺廟到熱鬧的市場，這裡有適合每個人的東西。發現最佳的旅遊地點，體驗這個迷人目的地的獨特文化。",
+      "seo_title": "2026年福岡8大必看景點 — 完整指南與票務資訊",
+      "seo_description": "探索福岡的最佳景點，獲取開放時間、票價及Klook預訂鏈接。立即計劃您的旅行！",
+      "page_intro": "探索福岡這座充滿活力的城市，從美麗的大濠公園到歷史悠久的福岡城遺跡，再到繁華的天神區，這裡有無數迷人的景點等待您的發現。立即透過Klook預訂，省去排隊的煩惱，盡情享受這個獨特目的地！",
       "items": [
         {
           "id": "ohori-park",
@@ -205,12 +209,16 @@
           "best_time": "morning|afternoon",
           "klook_query": "Dazaifu Tenmangu tickets"
         }
-      ]
+      ],
+      "faq_q1": "福岡有哪些必訪的景點？",
+      "faq_q2": "在福岡的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必看的景點。",
+      "faq_a2": "大多數景點需要購票，建議您透過Klook提前購買門票，以便更方便地進入各大景點。"
     },
     "ja": {
-      "seo_title": "2026年福岡のトップアトラクション — チケット、ヒント、完全ガイド",
-      "seo_description": "福岡の最高のアトラクションを探索します。福岡の主要な観光名所の営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "福岡は、日本の九州島の北岸に位置する活気に満ちた都市で、豊かな歴史、現代的なアトラクション、美味しい料理で知られています。壮大な寺院から賑やかな市場まで、誰もが楽しめるものがあります。この魅力的な目的地の最高の訪問地を発見し、独自の文化を体験してください。",
+      "seo_title": "2026年福岡の必見アトラクション8選 — 完全ガイド",
+      "seo_description": "福岡のトップアトラクションのチケット、営業時間、予約リンクをKlookでチェック！今すぐ計画を立てましょう。",
+      "page_intro": "福岡の魅力を発見しましょう！大濠公園や福岡城跡、天神地区などのアイコニックな名所が待っています。行列を避けて、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "ohori-park",
@@ -308,12 +316,16 @@
           "best_time": "morning|afternoon",
           "klook_query": "Dazaifu Tenmangu tickets"
         }
-      ]
+      ],
+      "faq_q1": "福岡の主な観光スポットは何ですか？",
+      "faq_q2": "福岡の観光地にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光名所です。",
+      "faq_a2": "はい、一部の観光地には入場チケットが必要です。Klookを利用すれば、事前に簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 후쿠오카 최고의 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "후쿠오카의 최고의 명소를 탐험하세요. 후쿠오카의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "후쿠오카는 일본 큐슈 섬의 북쪽 해안에 위치한 활기찬 도시로, 풍부한 역사, 현대적인 명소, 맛있는 요리로 유명합니다. 멋진 사원부터 분주한 시장까지, 모두를 위한 무언가가 있습니다. 이 매력적인 목적지의 최고의 방문 장소를 발견하고 독특한 문화를 경험해 보세요.",
+      "seo_title": "2026년 후쿠오카 최고의 5대 명소 — 완벽 가이드",
+      "seo_description": "후쿠오카의 5대 명소를 탐험하며 개장 시간, 티켓 가격, 예약은 Klook에서 확인하세요. 지금 바로 계획하세요!",
+      "page_intro": "후쿠오카는 매력적인 명소와 숨겨진 보물이 가득한 도시로, 오호리 공원과 후쿠오카 성터, 그리고 텐진 지구에서 잊지 못할 경험을 선사합니다. 긴 줄을 피하고 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "ohori-park",
@@ -411,12 +423,16 @@
           "best_time": "morning|afternoon",
           "klook_query": "Dazaifu Tenmangu tickets"
         }
-      ]
+      ],
+      "faq_q1": "후쿠오카의 주요 명소는 무엇인가요?",
+      "faq_q2": "후쿠오카의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 오호리 공원, 후쿠오카 성터, 텐진 지구는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리하게 이용할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Attractions incontournables de Fukuoka 2026 — Billets, conseils et guide complet",
-      "seo_description": "Explorez les meilleures attractions de Fukuoka. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Fukuoka.",
-      "page_intro": "Fukuoka, une ville dynamique située sur la côte nord de l'île de Kyushu au Japon, est connue pour sa riche histoire, ses attractions modernes et sa délicieuse cuisine. Des temples magnifiques aux marchés animés, il y en a pour tous les goûts. Découvrez les meilleurs endroits à visiter et vivez la culture unique de cette destination captivante.",
+      "seo_title": "Top 8 Attractions à Fukuoka 2026 — Guide Complet",
+      "seo_description": "Découvrez les billets, horaires et conseils pour les attractions de Fukuoka. Réservez facilement sur Klook et explorez cette ville fascinante !",
+      "page_intro": "Fukuoka, une ville vibrante où l'histoire rencontre la modernité, vous invite à explorer ses trésors tels qu'Ohori Park et les ruines du château de Fukuoka. Plongez dans l'effervescence du quartier de Tenjin et savourez une cuisine délicieuse. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "ohori-park",
@@ -514,11 +530,15 @@
           "best_time": "morning|afternoon",
           "klook_query": "Dazaifu Tenmangu tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Fukuoka ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Fukuoka ?",
+      "faq_a1_suffix": " sont parmi les incontournables à visiter.",
+      "faq_a2": "Oui, certaines attractions nécessitent des billets. Vous pouvez les acheter facilement sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales atracciones en Fukuoka 2026 — Entradas, consejos y guía completa",
-      "seo_description": "Explora las mejores atracciones de Fukuoka. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales puntos de interés de Fukuoka.",
+      "seo_title": "Top 5 Atracciones en Fukuoka 2026 - ¡Imperdibles!",
+      "seo_description": "Descubre horarios, precios y consejos para las atracciones de Fukuoka. Reserva tus entradas en Klook y vive una experiencia inolvidable.",
       "page_intro": "Fukuoka, una ciudad vibrante en la costa norte de la isla de Kyushu en Japón, es conocida por su rica historia, modernas atracciones y deliciosa cocina. Desde templos impresionantes hasta mercados bulliciosos, hay algo para todos. Descubre los mejores lugares para visitar y experimenta la cultura única de este cautivador destino.",
       "items": [
         {
@@ -620,7 +640,7 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Fukuoka 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "5 Atraksi Terbaik di Fukuoka 2026 - Panduan Lengkap",
       "seo_description": "Explore the best attractions in Fukuoka. Find opening hours, ticket prices and booking links for Fukuoka's top landmarks.",
       "page_intro": "Fukuoka, a vibrant city on the northern shore of Japan's Kyushu Island, is known for its rich history, modern attractions, and delicious cuisine. From stunning temples to bustling markets, there's something for everyone. Discover the best places to visit and experience the unique culture of this captivating destination.",
       "items": [
@@ -723,7 +743,7 @@
       ]
     },
     "hi": {
-      "seo_title": "फुकुओका में शीर्ष आकर्षण 2026 - टिकट, टिप्स और पूर्ण मार्गदर्शिका",
+      "seo_title": "फुकुओका के शीर्ष 5 आकर्षण 2026 - टिप्स और टिकट",
       "seo_description": "फुकुओका के सबसे अच्छे आकर्षणों का अन्वेषण करें। फुकुओका की शीर्ष स्थलों के लिए खुलने के घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
       "page_intro": "फुकुओका, जापान के क्यूशू द्वीप के उत्तरी तट पर स्थित एक जीवंत शहर है, जो अपनी समृद्ध इतिहास, आधुनिक आकर्षण और स्वादिष्ट व्यंजनों के लिए जाना जाता है। भव्य मंदिरों से लेकर हलचल भरे बाजारों तक, यहाँ हर किसी के लिए कुछ न कुछ है। इस आकर्षक गंतव्य की अनोखी संस्कृति का अनुभव करने और सबसे अच्छे स्थानों की खोज करने के लिए तैयार हो जाइए।",
       "items": [
@@ -826,7 +846,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Fukuoka 2026 - Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Fukuoka 2026 - Guia Completo",
       "seo_description": "Explore as melhores atrações em Fukuoka. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Fukuoka.",
       "page_intro": "Fukuoka, uma cidade vibrante na costa norte da ilha Kyushu, no Japão, é conhecida por sua rica história, atrações modernas e deliciosa culinária. Desde templos deslumbrantes até mercados movimentados, há algo para todos. Descubra os melhores lugares para visitar e experimente a cultura única deste destino cativante.",
       "items": [
@@ -929,7 +949,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في فوكوكا 2026 - التذاكر، النصائح والدليل الشامل",
+      "seo_title": "أفضل 10 معالم في فوكوكا 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في فوكوكا. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم فوكوكا.",
       "page_intro": "فوكوكا، مدينة نابضة بالحياة على الساحل الشمالي لجزيرة كيوشو في اليابان، معروفة بتاريخها الغني ومعالمها الحديثة ومأكولاتها الشهية. من المعابد الرائعة إلى الأسواق المزدحمة، هناك شيء للجميع. اكتشف أفضل الأماكن للزيارة وتجربة الثقافة الفريدة لهذه الوجهة الساحرة.",
       "items": [
@@ -1032,8 +1052,8 @@
       ]
     },
     "bn": {
-      "seo_title": "ফুকুওকাতে শীর্ষ আকর্ষণ ২০২৬ - টিকিট, পরামর্শ ও সম্পূর্ণ গাইড",
-      "seo_description": "ফুকুওকাতে সেরা আকর্ষণগুলি অন্বেষণ করুন। ফুকুওকাতে শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজে পান।",
+      "seo_title": "ফুকুওকাতে ৮টি শীর্ষ আকর্ষণ ২০২৬ - সম্পূর্ণ গাইড",
+      "seo_description": "ফুকুওকাতে টিকিটের দাম, খোলার সময় ও গোপন রত্ন আবিষ্কার করুন। Klook বুকিং লিঙ্কে ক্লিক করুন এবং আপনার যাত্রা পরিকল্পনা করুন!",
       "page_intro": "ফুকুওকা, জাপানের কিউশু দ্বীপের উত্তর তীরে একটি প্রাণবন্ত শহর, যা তার সমৃদ্ধ ইতিহাস, আধুনিক আকর্ষণ এবং সুস্বাদু খাবারের জন্য পরিচিত। দৃষ্টিনন্দন মন্দির থেকে শুরু করে ব্যস্ত বাজার, সকলের জন্য কিছু না কিছু আছে। এই মন্ত্রমুগ্ধকর গন্তব্যের অনন্য সংস্কৃতি অন্বেষণ করতে এবং পরিদর্শনের জন্য সেরা স্থানগুলি আবিষ্কার করতে প্রস্তুত হন।",
       "items": [
         {
@@ -1135,7 +1155,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей Фукуоки 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Фукуоки 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Фукуоки. Узнайте часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Фукуоки.",
       "page_intro": "Фукуока — это яркий город на северном побережье японского острова Кюсю, известный своей богатой историей, современными достопримечательностями и вкусной кухней. От потрясающих храмов до оживленных рынков — здесь есть что-то для каждого. Откройте для себя лучшие места для посещения и познакомьтесь с уникальной культурой этого очаровательного направления.",
       "items": [

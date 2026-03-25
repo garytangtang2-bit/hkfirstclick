@@ -2,9 +2,9 @@
   "city_slug": "marrakesh",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Marrakesh 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Marrakesh. Find opening hours, ticket prices and booking links for Marrakesh's top landmarks.",
-      "page_intro": "Marrakesh, a vibrant city in Morocco, is known for its stunning landscapes, rich history, and bustling markets. Visitors can immerse themselves in the local culture, explore beautiful palaces, and savor delicious Moroccan cuisine. With its unique blend of tradition and modernity, Marrakesh offers an unforgettable experience for every traveler.",
+      "seo_title": "8 Must-See Attractions in Marrakesh 2026 - Complete Guide",
+      "seo_description": "Discover top attractions in Marrakesh with tickets, hours, and insider tips. Book your adventure now with Klook for the best experience!",
+      "page_intro": "Dive into the enchanting world of Marrakesh, where the vibrant Jemaa el-Fnaa, the majestic Koutoubia Mosque, and the exquisite Bahia Palace await your discovery. Experience the magic of this city by booking your adventures through Klook.",
       "items": [
         {
           "id": "jemaa-el-fnaa",
@@ -102,12 +102,16 @@
           "best_time": "morning",
           "klook_query": "Palmeraie camel rides"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Marrakesh?",
+      "faq_q2": "Do I need tickets for attractions in Marrakesh?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Marrakesh require tickets. For convenience, you can purchase them through Klook to skip the lines."
     },
     "zh": {
-      "seo_title": "2026年馬拉喀什最佳景點 — 票務、提示與完整指南",
-      "seo_description": "探索馬拉喀什的最佳景點。查找馬拉喀什主要地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "馬拉喀什是一座充滿活力的摩洛哥城市，以其壯麗的景觀、豐富的歷史和繁忙的市場而聞名。遊客可以沉浸於當地文化，探索美麗的宮殿，品嚐美味的摩洛哥菜。馬拉喀什以其獨特的傳統與現代融合，為每位旅行者提供難忘的體驗。",
+      "seo_title": "2026年馬拉喀什8大必看景點 — 完整指南",
+      "seo_description": "獲取馬拉喀什景點的票務、開放時間和內部提示，透過Klook輕鬆預訂，開始您的冒險之旅！",
+      "page_intro": "探索馬拉喀什的魅力，這座城市以其壯觀的傑馬艾夫納廣場、壯麗的庫圖比亞清真寺和華麗的巴伊亞宮而聞名。無論是尋找隱藏的寶藏還是經典地標，馬拉喀什都將為您帶來難忘的文化體驗。立即透過Klook預訂，跳過排隊，輕鬆享受您的旅程！",
       "items": [
         {
           "id": "jemaa-el-fnaa",
@@ -205,12 +209,16 @@
           "best_time": "morning",
           "klook_query": "Palmeraie camel rides"
         }
-      ]
+      ],
+      "faq_q1": "馬拉喀什的熱門景點有哪些？",
+      "faq_q2": "在馬拉喀什的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，大多數景點都需要購票。您可以透過Klook輕鬆購買門票，避免排隊等候的麻煩。"
     },
     "ja": {
-      "seo_title": "マラケシュのトップアトラクション2026 — チケット、ヒント＆完全ガイド",
-      "seo_description": "マラケシュのベストアトラクションを探索しましょう。マラケシュの主要な名所の営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "マラケシュはモロッコの活気ある都市で、壮大な風景、豊かな歴史、賑やかな市場で知られています。訪問者は地元の文化に浸り、美しい宮殿を探索し、美味しいモロッコ料理を味わえます。伝統と現代が独特に融合したマラケシュは、すべての旅行者に忘れられない体験を提供します。",
+      "seo_title": "マラケシュの2026年必見トップアトラクション5選",
+      "seo_description": "マラケシュの名所のチケット、営業時間、インサイダー情報をチェック。Klookで予約して、素晴らしい旅を始めましょう！",
+      "page_intro": "魅力あふれるマラケシュでは、ジャマ・エル・フナ広場やクウトゥビアモスク、バヒア宮殿などの名所が待っています。歴史と文化が交差するこの都市で、特別な体験をお楽しみください。行列を避けて、Klookでの予約をお勧めします。",
       "items": [
         {
           "id": "jemaa-el-fnaa",
@@ -308,12 +316,16 @@
           "best_time": "morning",
           "klook_query": "Palmeraie camel rides"
         }
-      ]
+      ],
+      "faq_q1": "マラケシュのおすすめ観光地は何ですか？",
+      "faq_q2": "マラケシュの観光地にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、多くの観光地には入場チケットが必要です。Klookを利用すれば、事前にスムーズにチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 마라케시 최고의 관광명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "마라케시의 최고의 관광명소를 탐험하세요. 마라케시의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "마라케시는 모로코의 활기찬 도시로, 멋진 풍경, 풍부한 역사 및 번화한 시장으로 유명합니다. 방문객들은 현지 문화에 몰입하고 아름다운 궁전을 탐험하며 맛있는 모로코 요리를 즐길 수 있습니다. 전통과 현대가 독특하게 혼합된 마라케시는 모든 여행자에게 잊을 수 없는 경험을 제공합니다.",
+      "seo_title": "2026년 마라케시 최고의 8개 관광명소 — 완벽 가이드",
+      "seo_description": "마라케시의 숨겨진 보석을 발견하세요! 운영 시간, 티켓 가격 및 Klook 예약 링크를 통해 여행을 계획해 보세요.",
+      "page_intro": "마라케시는 독특한 매력으로 가득한 도시입니다. 제마 엘 프나, 쿠투비아 모스크, 바히아 궁전과 같은 상징적인 명소를 탐험하며 잊지 못할 경험을 만끽하세요. 줄 서는 시간을 줄이고 Klook을 통해 예약하세요!",
       "items": [
         {
           "id": "jemaa-el-fnaa",
@@ -411,11 +423,15 @@
           "best_time": "morning",
           "klook_query": "Palmeraie camel rides"
         }
-      ]
+      ],
+      "faq_q1": "마라케시의 주요 명소는 무엇인가요?",
+      "faq_q2": "마라케시의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소에 입장권이 필요합니다. Klook을 통해 미리 예약하시면 편리합니다."
     },
     "fr": {
-      "seo_title": "Meilleures attractions à Marrakech 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Marrakech. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Marrakech.",
+      "seo_title": "Top 8 Attractions à Marrakech 2026 — Guide Complet",
+      "seo_description": "Explorez les 8 meilleures attractions de Marrakech avec horaires, prix et conseils. Réservez vos billets sur Klook et vivez une expérience inoubliable!",
       "page_intro": "Marrakech, une ville vibrante du Maroc, est connue pour ses paysages époustouflants, son histoire riche et ses marchés animés. Les visiteurs peuvent s'immerger dans la culture locale, explorer de magnifiques palais et savourer la délicieuse cuisine marocaine. Avec son mélange unique de tradition et de modernité, Marrakech offre une expérience inoubliable à chaque voyageur.",
       "items": [
         {
@@ -517,8 +533,8 @@
       ]
     },
     "es": {
-      "seo_title": "Principales Atracciones en Marrakech 2026 — Boletos, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en Marrakech. Encuentra horarios de apertura, precios de boletos y enlaces de reserva para los principales lugares de interés de Marrakech.",
+      "seo_title": "Las 8 Mejores Atracciones de Marrakech 2026",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las atracciones imperdibles de Marrakech. ¡Planifica tu aventura ahora!",
       "page_intro": "Marrakech, una ciudad vibrante en Marruecos, es conocida por sus paisajes impresionantes, rica historia y bulliciosos mercados. Los visitantes pueden sumergirse en la cultura local, explorar hermosos palacios y saborear la deliciosa cocina marroquí. Con su mezcla única de tradición y modernidad, Marrakech ofrece una experiencia inolvidable para cada viajero.",
       "items": [
         {
@@ -620,8 +636,8 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Marrakesh 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Marrakesh. Find opening hours, ticket prices and booking links for Marrakesh's top landmarks.",
+      "seo_title": "8 Atraksi Terbaik di Marrakesh 2026 — Panduan Lengkap",
+      "seo_description": "Temukan tiket, jam buka, dan tips terbaik untuk atraksi Marrakesh. Pesan melalui Klook dan jelajahi keajaiban kota ini!",
       "page_intro": "Marrakesh, a vibrant city in Morocco, is known for its stunning landscapes, rich history, and bustling markets. Visitors can immerse themselves in the local culture, explore beautiful palaces, and savor delicious Moroccan cuisine. With its unique blend of tradition and modernity, Marrakesh offers an unforgettable experience for every traveler.",
       "items": [
         {
@@ -723,9 +739,9 @@
       ]
     },
     "hi": {
-      "seo_title": "मार्राकेश में शीर्ष आकर्षण 2026 — टिकट, सुझाव और पूर्ण गाइड",
+      "seo_title": "मार्राकेश के 10 शीर्ष आकर्षण 2026 — पूर्ण गाइड",
       "seo_description": "मार्राकेश के सर्वश्रेष्ठ आकर्षणों का पता लगाएं। मार्राकेश के शीर्ष स्थलों के लिए उद्घाटन समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
-      "page_intro": "मार्राकेश, मोरक्को में एक जीवंत शहर, अपनी खूबसूरत परिदृश्यों, समृद्ध इतिहास और हलचल भरे बाजारों के लिए जाना जाता है। आगंतुक स्थानीय संस्कृति में डूब सकते हैं, सुंदर महलों की खोज कर सकते हैं, और स्वादिष्ट मोरक्को भोजन का आनंद ले सकते हैं। परंपरा और आधुनिकता के अनोखे मिश्रण के साथ, मार्राकेश हर यात्री के लिए एक अविस्मरणीय अनुभव प्रदान करता है।",
+      "page_intro": "मार्राकेश के आकर्षणों में खो जाइए, जहाँ जेमा एल-फना की हलचल और कुतुबिया मस्जिद की भव्यता आपका स्वागत करती है। बहिया पैलेस की खूबसूरती और स्थानीय संस्कृति का अनुभव करें। लाइन में खड़े होने की चिंता छोड़ दें, Klook के माध्यम से बुक करें!",
       "items": [
         {
           "id": "jemaa-el-fnaa",
@@ -823,10 +839,14 @@
           "best_time": "morning",
           "klook_query": "Palmeraie camel rides"
         }
-      ]
+      ],
+      "faq_q1": "मार्राकेश में शीर्ष आकर्षण क्या हैं?",
+      "faq_q2": "क्या मुझे मार्राकेश में आकर्षणों के लिए टिकट की आवश्यकता है?",
+      "faq_a1_suffix": " जेमा एल-फना, कुतुबिया मस्जिद और बहिया पैलेस अवश्य देखने योग्य आकर्षण हैं।",
+      "faq_a2": "हाँ, अधिकांश आकर्षणों के लिए टिकट की आवश्यकता होती है। Klook के माध्यम से आसानी से अपने टिकट बुक करें और लाइन में खड़े होने से बचें।"
     },
     "pt": {
-      "seo_title": "Principais Atrações em Marrakesh 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Marrakesh 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Marrakesh. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Marrakesh.",
       "page_intro": "Marrakesh, uma cidade vibrante no Marrocos, é conhecida por suas paisagens deslumbrantes, rica história e mercados movimentados. Os visitantes podem se imergir na cultura local, explorar belos palácios e saborear a deliciosa culinária marroquina. Com sua mistura única de tradição e modernidade, Marrakesh oferece uma experiência inesquecível para cada viajante.",
       "items": [
@@ -929,7 +949,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في مراكش 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في مراكش 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في مراكش. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم السياحية في مراكش.",
       "page_intro": "مراكش، مدينة نابضة بالحياة في المغرب، معروفة بمناظرها الطبيعية الخلابة وتاريخها الغني وأسواقها النابضة بالحياة. يمكن للزوار الانغماس في الثقافة المحلية، واستكشاف القصور الجميلة، والاستمتاع بالمأكولات المغربية الشهية. مع مزيجها الفريد من التقاليد والحداثة، تقدم مراكش تجربة لا تُنسى لكل مسافر.",
       "items": [
@@ -1032,8 +1052,8 @@
       ]
     },
     "bn": {
-      "seo_title": "মারকেশের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "মারকেশের সেরা আকর্ষণগুলি অন্বেষণ করুন। মারকেশের শীর্ষ দর্শনীয় স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "মারকেশের ১০টি সেরা আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "মারকেশের সেরা ১০ আকর্ষণের টিকিট, খোলার সময় ও টিপস জানুন। Klook বুকিং লিঙ্কে ক্লিক করুন এবং আপনার যাত্রা পরিকল্পনা করুন!",
       "page_intro": "মারকেশ, মরক্কোর একটি উজ্জ্বল শহর, এর চমৎকার প্রাকৃতিক দৃশ্য, সমৃদ্ধ ইতিহাস এবং ব্যস্ত বাজারের জন্য পরিচিত। দর্শকরা স্থানীয় সংস্কৃতিতে ডুবে যেতে পারেন, সুন্দর প্রাসাদগুলি আবিষ্কার করতে পারেন এবং সুস্বাদু মরক্কো খাবারের স্বাদ নিতে পারেন। ঐতিহ্য এবং আধুনিকতার অনন্য মিশ্রণের সাথে, মারকেশ প্রতিটি পর্যটকের জন্য একটি অমূল্য অভিজ্ঞতা প্রদান করে।",
       "items": [
         {
@@ -1135,8 +1155,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Марракеша 2026 — Билеты, Советы и Полное руководство",
-      "seo_description": "Исследуйте лучшие достопримечательности Марракеша. Найдите часы работы, цены на билеты и ссылки на бронирование для главных достопримечательностей Марракеша.",
+      "seo_title": "Топ 8 достопримечательностей Марракеша 2026",
+      "seo_description": "Узнайте часы работы, цены на билеты и советы по посещению. Бронируйте через Klook и откройте для себя лучшие места Марракеша!",
       "page_intro": "Марракеш, яркий город в Марокко, известен своими потрясающими пейзажами, богатой историей и шумными рынками. Посетители могут погрузиться в местную культуру, исследовать красивые дворцы и насладиться вкусной марокканской кухней. С уникальным сочетанием традиций и современности, Марракеш предлагает незабываемый опыт для каждого путешественника.",
       "items": [
         {

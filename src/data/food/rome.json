@@ -2,9 +2,9 @@
   "city_slug": "rome",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Rome 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Rome. From budget eats to fine dining — with booking links.",
-      "page_intro": "Rome, a city where every meal is an experience, offers a culinary journey that spans from traditional trattorias to vibrant street food stalls. Known for its rich history and culture, the food scene in Rome is equally captivating, featuring classic Italian dishes and innovative modern cuisine. Whether you're indulging in a plate of carbonara, savoring a slice of pizza al taglio, or enjoying a gelato by the Trevi Fountain, Rome's food culture is an embodiment of la dolce vita.",
+      "seo_title": "8 Best Restaurants in Rome 2026 – Must-Try Local Favorites",
+      "seo_description": "Save time with real recommendations! Discover Rome's hidden gems and book via Klook. Plan your meal now!",
+      "page_intro": "Dive into Rome's vibrant food scene, where every dish tells a story! Savor local favorites like carbonara and suppli while exploring curated dining experiences that save you time. Discover the essence of Italian cuisine with our top picks!",
       "items": [
         {
           "id": "trattoria-der-pecoraro",
@@ -13,7 +13,7 @@
           "description": "A family-run restaurant offering authentic Roman cuisine. Known for its no-menu dining experience, you are served whatever is fresh and available that day. The cozy atmosphere and friendly service make it a beloved spot among locals and tourists alike.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Amatriciana",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -24,7 +24,7 @@
           "description": "A must-visit for street food lovers, Supplì is famous for its namesake dish—fried rice balls filled with mozzarella. This tiny shop on Via San Francesco a Ripa serves some of the best supplì in the city, perfect for a quick snack.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Supplì al telefono",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -35,7 +35,7 @@
           "description": "A bustling open-air market in the heart of Rome, Campo de' Fiori is ideal for sampling fresh produce, cheeses, and meats. By night, the area transforms into a lively social scene with bars and eateries.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "Porchetta sandwich",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -46,7 +46,7 @@
           "description": "A deli-turned-restaurant that offers a gourmet experience with its selection of cured meats, cheeses, and pasta dishes. Roscioli is famous for its Carbonara, considered one of the best in the city.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonara",
           "klook_query": "Roscioli dining Rome"
         },
@@ -57,7 +57,7 @@
           "description": "Located near Piazza Navona, Gelateria del Teatro crafts artisanal gelato using fresh, natural ingredients. With inventive flavors like sage and raspberry or lavender and white peach, it's a sweet stop you can't miss.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "Pistachio gelato",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -68,7 +68,7 @@
           "description": "Known for its thin, crispy crust, Pizzeria da Baffetto is a favorite for pizza lovers. Located near Piazza Navona, it often has lines out the door, a testament to its popularity and delicious pies.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "Margherita pizza",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -79,7 +79,7 @@
           "description": "Renowned for its high-quality ingredients and innovative toppings, Panificio Bonci is a go-to for pizza al taglio. This bakery offers a variety of slices, each more tempting than the last.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Pizza al taglio",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -90,16 +90,19 @@
           "description": "This charming neighborhood is not just a tourist spot but a culinary hub. Wander its cobblestone streets to find a mix of traditional trattorias, modern eateries, and lively bars that stay open late into the night.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Cacio e Pepe",
           "klook_query": "Trastevere food tour"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Rome?",
+      "faq_q2": "Where can I find the best restaurants in Rome?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年羅馬最佳美食 — 頂級餐廳和街頭美食指南",
-      "seo_description": "探索羅馬的最佳餐廳、街頭美食和當地特色。從經濟實惠的美食到高級餐飲 — 附有預訂連結。",
-      "page_intro": "羅馬，一個每餐都是一種體驗的城市，提供從傳統小餐館到充滿活力的街頭美食攤位的美食之旅。以其豐富的歷史和文化著稱，羅馬的美食界同樣引人入勝，經典的意大利菜餚和創新的現代美食應有盡有。無論是享用一盤卡邦那拉，品嚐一片意大利切片披薩，還是在特雷維噴泉旁享用冰淇淋，羅馬的美食文化都是甜美生活的體現。",
+      "seo_title": "2026年羅馬必試美食 — 8大隱藏美食寶藏",
+      "seo_description": "節省時間，探索羅馬的當地美食推薦，透過Klook輕鬆預訂。立即規劃您的美食之旅！",
+      "page_intro": "羅馬的美食世界如同一場味蕾的盛宴，從經典的卡邦那拉到香脆的薄餅，每一口都令人陶醉。探索當地特色，享受我們精心挑選的餐廳，讓您的美食之旅更加輕鬆愉快！",
       "items": [
         {
           "id": "trattoria-der-pecoraro",
@@ -108,7 +111,7 @@
           "description": "這是一家家庭經營的餐廳，提供地道的羅馬美食。以其無菜單的用餐體驗而聞名，您將享用當日新鮮的食材。溫馨的氛圍和友好的服務使其成為當地人和遊客都喜愛的地方。",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "阿馬特里恰那",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -119,7 +122,7 @@
           "description": "對於街頭美食愛好者來說，Supplì 是必去之地，以其名字命名的炸飯球內填滿了莫扎里拉而聞名。這家位於Via San Francesco a Ripa的小店提供全市最好的supplì，非常適合快速小吃。",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "電話炸飯團",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -130,7 +133,7 @@
           "description": "位於羅馬市中心的熱鬧露天市場，Campo de' Fiori 是品嚐新鮮農產品、奶酪和肉類的理想場所。到了晚上，該地區會變成一個充滿活力的社交場景，有酒吧和餐館。",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "豬肉三明治",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -141,7 +144,7 @@
           "description": "這家由熟食店轉變而來的餐廳提供極致的美食體驗，擁有多樣的醃肉、奶酪和意大利面食。Roscioli 以其被認為是全市最好之一的卡邦那拉而聞名。",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "卡邦尼",
           "klook_query": "Roscioli dining Rome"
         },
@@ -152,7 +155,7 @@
           "description": "位於Piazza Navona附近，Gelateria del Teatro使用新鮮天然食材製作手工冰淇淋。創意口味如鼠尾草和覆盆子或薰衣草和白桃，使其成為您不容錯過的甜蜜驛站。",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "開心果冰淇淋",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -163,7 +166,7 @@
           "description": "以其薄而酥脆的餅皮而聞名，Pizzeria da Baffetto 是披薩愛好者的最愛。位於Piazza Navona附近，經常排起長隊，這證明了其受歡迎程度和美味的餡餅。",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "瑪格麗塔披薩",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -174,7 +177,7 @@
           "description": "以其高品質的食材和創新的配料而聞名，Panificio Bonci 是切片披薩的首選。這家麵包店提供各種誘惑的切片。",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "切片披薩",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -185,16 +188,19 @@
           "description": "這個迷人的街區不僅是旅遊景點，還是一個美食集中地。漫步於鵝卵石街道，發現傳統小餐館、現代餐廳和深夜開放的活躍酒吧。",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "起司和胡椒",
           "klook_query": "Trastevere food tour"
         }
-      ]
+      ],
+      "faq_q1": "在羅馬最好吃的食物是什麼？",
+      "faq_q2": "在羅馬哪裡可以找到最好的餐廳？",
+      "faq_a2_suffix": " 是備受推崇的用餐選擇。"
     },
     "ja": {
-      "seo_title": "ローマのベストフード2026 — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ローマで最高のレストラン、ストリートフード、地元の特産品を発見しよう。お手頃価格の料理から高級料理まで — 予約リンク付き。",
-      "page_intro": "すべての食事が一つの体験となる街、ローマは、伝統的なトラットリアから活気あるストリートフードの屋台まで広がるグルメ旅を提供します。その豊かな歴史と文化で知られるローマの食のシーンも同様に魅力的で、クラシックなイタリア料理や革新的な現代料理が楽しめます。カルボナーラを味わったり、ピッツァ・アル・タリオの一切れを楽しんだり、トレヴィの泉でジェラートを楽しんだり、ローマの食文化はラ・ドルチェ・ヴィータの体現です。",
+      "seo_title": "ローマ2026年の必食8レストラン — ベストフードガイド",
+      "seo_description": "時間を節約し、実際のおすすめを見つけよう。Klookで予約して、地元の名物を今すぐ計画しよう！",
+      "page_intro": "ローマの食文化は、味覚の冒険が広がる魅力的な世界です。伝統的なカルボナーラやピッツァ・アル・タリオ、そして市場での新鮮な食材を楽しむことができます。Klookで厳選されたおすすめスポットを予約して、貴重な時間を節約しましょう。",
       "items": [
         {
           "id": "trattoria-der-pecoraro",
@@ -203,7 +209,7 @@
           "description": "家族経営のレストランで、本格的なローマ料理を提供しています。メニューのない食事体験で知られ、その日の新鮮なものが提供されます。居心地の良い雰囲気と親切なサービスが、地元の人々や観光客に愛されています。",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "アマトリチャーナ",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -214,7 +220,7 @@
           "description": "ストリートフード好きには必訪のスポットで、名物料理であるモッツァレラで満たされた揚げライスボールで有名です。ヴィア・サン・フランチェスコ・ア・リーパの小さな店で、街で最高のスップリを提供しており、素早いスナックに最適です。",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "スプリッツィ・アル・テレフォーネ",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -225,7 +231,7 @@
           "description": "ローマの中心部にある賑やかなオープンエア市場で、新鮮な農産物、チーズ、肉を試すのに最適です。夜になると、このエリアはバーや飲食店が集まる活気ある社交の場に変わります。",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "ポルケッタサンドイッチ",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -236,7 +242,7 @@
           "description": "デリからレストランに変わったこの場所は、熟成肉、チーズ、パスタ料理のセレクションでグルメ体験を提供します。ロショーリは、街で最高の一つとされるカルボナーラで有名です。",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "カルボナーラ",
           "klook_query": "Roscioli dining Rome"
         },
@@ -247,7 +253,7 @@
           "description": "ピアッツァ・ナヴォーナ近くに位置し、新鮮で自然な材料を使用して職人のジェラートを作ります。セージとラズベリーやラベンダーと白桃などの創造的なフレーバーで、見逃せない甘いスポットです。",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "ピスタチオジェラート",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -258,7 +264,7 @@
           "description": "薄くカリカリのクラストで知られるピッツェリア・ダ・バフェットは、ピザ愛好者にとってのお気に入りです。ピアッツァ・ナヴォーナの近くに位置し、人気と美味しさを証明する行列が絶えません。",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "マルゲリータピザ",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -269,7 +275,7 @@
           "description": "高品質の材料と革新的なトッピングで知られるパニフィーチョ・ボンチは、ピッツァ・アル・タリオの定番です。誘惑的なスライスのバリエーションを提供しています。",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "ピッツァ・アル・タリオ",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -280,16 +286,19 @@
           "description": "この魅力的な地区は観光地であるだけでなく、美食の中心地でもあります。石畳の道を歩きながら、伝統的なトラットリア、現代的な飲食店、深夜まで営業する活気あるバーを見つけてください。",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "カチョ・エ・ペペ",
           "klook_query": "Trastevere food tour"
         }
-      ]
+      ],
+      "faq_q1": "ローマでおすすめの食べ物は何ですか？",
+      "faq_q2": "ローマで最高のレストランはどこですか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "로마 최고의 음식 2026 — 최고의 레스토랑 및 길거리 음식 가이드",
-      "seo_description": "로마에서 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 예산에 맞는 음식부터 고급 요리까지 — 예약 링크 포함.",
-      "page_intro": "모든 식사가 하나의 경험인 도시, 로마는 전통적인 트라토리아부터 활기찬 길거리 음식 가판대까지 이어지는 미식 여행을 제공합니다. 풍부한 역사와 문화로 유명한 로마의 음식 장면은 매력적이며, 고전적인 이탈리아 요리와 혁신적인 현대 요리를 모두 갖추고 있습니다. 카르보나라 한 접시를 맛보거나, 피자 알 타글리오 한 조각을 즐기거나, 트레비 분수 옆에서 젤라토를 즐기든 로마의 음식 문화는 달콤한 인생의 구현입니다.",
+      "seo_title": "로마 2026 — 8 Must-Try 레스토랑과 숨겨진 보석",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약 링크로 로마의 지역 특산품을 지금 계획하세요!",
+      "page_intro": "로마의 음식은 그 자체로 하나의 예술입니다. 전통적인 카르보나라와 바삭한 피자, 그리고 신선한 젤라토까지, 이 도시의 미식 여행은 잊지 못할 경험을 선사합니다. Klook의 추천으로 시간을 절약하고 최고의 맛을 즐겨보세요!",
       "items": [
         {
           "id": "trattoria-der-pecoraro",
@@ -298,7 +307,7 @@
           "description": "가족이 운영하는 레스토랑으로, 정통 로마 요리를 제공합니다. 메뉴 없는 식사 경험으로 유명하며, 그날 신선하고 구할 수 있는 재료로 제공됩니다. 아늑한 분위기와 친절한 서비스로 현지인과 관광객 모두에게 사랑받는 장소입니다.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "아마트리치아나",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -309,7 +318,7 @@
           "description": "길거리 음식 애호가에게 필수 방문 장소인 Supplì는 이름을 딴 요리인 모짜렐라로 가득 찬 튀긴 쌀볼로 유명합니다. Via San Francesco a Ripa의 작은 가게로, 도시에서 최고의 supplì를 제공하며 빠른 간식에 적합합니다.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "수플리 알 텔레포노",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -320,7 +329,7 @@
           "description": "로마 중심부에 위치한 번화한 야외 시장으로, 신선한 농산물, 치즈, 육류를 샘플링하기에 이상적입니다. 밤이 되면 이 지역은 바와 식당이 있는 활기찬 사교 장으로 변합니다.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "포르케타 샌드위치",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -331,7 +340,7 @@
           "description": "델리에서 레스토랑으로 변신한 이곳은 절임 고기, 치즈, 파스타 요리의 셀렉션으로 미식 경험을 제공합니다. Roscioli는 도시에서 최고의 카르보나라 중 하나로 여겨지는 요리로 유명합니다.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "카르보나라",
           "klook_query": "Roscioli dining Rome"
         },
@@ -342,7 +351,7 @@
           "description": "Piazza Navona 근처에 위치한 Gelateria del Teatro는 신선한 천연 재료를 사용하여 수제 젤라토를 만듭니다. 세이지와 라즈베리, 라벤더와 백도를 포함한 창의적인 맛으로 놓칠 수 없는 달콤한 멈춤입니다.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "피스타치오 젤라토",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -353,7 +362,7 @@
           "description": "얇고 바삭한 크러스트로 유명한 Pizzeria da Baffetto는 피자 애호가들에게 사랑받는 곳입니다. Piazza Navona 근처에 위치하며, 인기와 맛있는 파이를 증명하는 줄이 자주 생깁니다.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "마르게리타 피자",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -364,7 +373,7 @@
           "description": "고품질의 재료와 혁신적인 토핑으로 유명한 Panificio Bonci는 피자 알 타글리오의 필수 장소입니다. 다양한 유혹적인 슬라이스를 제공합니다.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "피자 알 타글리오",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -375,16 +384,19 @@
           "description": "이 매력적인 동네는 단순한 관광지가 아니라 미식 중심지입니다. 조약돌 거리를 돌아다니며 전통적인 트라토리아, 현대적인 식당, 밤늦게까지 영업하는 활기찬 바를 찾아보세요.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "카치오 에 페페",
           "klook_query": "Trastevere food tour"
         }
-      ]
+      ],
+      "faq_q1": "로마에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "로마에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": " 는 최고의 평점을 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure Nourriture à Rome 2026 — Guide des Meilleurs Restaurants & Street Food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Rome. Des repas économiques à la haute cuisine — avec des liens de réservation.",
-      "page_intro": "Rome, une ville où chaque repas est une expérience, offre un voyage culinaire qui s'étend des trattorias traditionnelles aux vibrants stands de street food. Connue pour son riche patrimoine historique et culturel, la scène gastronomique de Rome est tout aussi captivante, présentant des plats italiens classiques et une cuisine moderne innovante. Que vous vous régaliez d'une assiette de carbonara, savouriez une tranche de pizza al taglio ou dégustiez un gelato près de la fontaine de Trevi, la culture culinaire de Rome incarne la dolce vita.",
+      "seo_title": "8 Meilleures Trattorias à Rome 2026 — À Ne Pas Manquer",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les favoris locaux. Planifiez votre repas dès maintenant !",
+      "page_intro": "Rome, un véritable festin pour les sens, vous invite à explorer ses délices culinaires, des pâtes carbonara aux pizzas croustillantes. Découvrez les meilleures adresses pour savourer ces spécialités tout en gagnant du temps grâce à nos choix soigneusement sélectionnés.",
       "items": [
         {
           "id": "trattoria-der-pecoraro",
@@ -393,7 +405,7 @@
           "description": "Un restaurant familial offrant une cuisine romaine authentique. Connu pour son expérience de dîner sans menu, vous êtes servi ce qui est frais et disponible ce jour-là. L'atmosphère chaleureuse et le service amical en font un lieu prisé des locaux et des touristes.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Amatriciana",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -404,7 +416,7 @@
           "description": "Un incontournable pour les amateurs de street food, Supplì est célèbre pour son plat homonyme — des boules de riz frites remplies de mozzarella. Ce petit magasin sur la Via San Francesco a Ripa sert parmi les meilleurs supplì de la ville, parfait pour une collation rapide.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Supplì au téléphone",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -415,7 +427,7 @@
           "description": "Un marché en plein air animé au cœur de Rome, Campo de' Fiori est idéal pour déguster des produits frais, des fromages et des viandes. La nuit, la zone se transforme en une scène sociale animée avec des bars et des restaurants.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "Sandwich à la porchetta",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -426,7 +438,7 @@
           "description": "Un traiteur devenu restaurant qui offre une expérience gastronomique avec sa sélection de viandes séchées, de fromages et de plats de pâtes. Roscioli est célèbre pour sa Carbonara, considérée comme l'une des meilleures de la ville.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonara",
           "klook_query": "Roscioli dining Rome"
         },
@@ -437,7 +449,7 @@
           "description": "Située près de la Piazza Navona, Gelateria del Teatro fabrique des glaces artisanales en utilisant des ingrédients frais et naturels. Avec des saveurs inventives comme la sauge et la framboise ou la lavande et la pêche blanche, c'est une halte sucrée à ne pas manquer.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "Glace à la pistache",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -448,7 +460,7 @@
           "description": "Connue pour sa croûte fine et croustillante, la Pizzeria da Baffetto est un favori des amateurs de pizza. Située près de la Piazza Navona, elle a souvent des files d'attente à la porte, un témoignage de sa popularité et de ses délicieuses tartes.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "Pizza Margherita",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -459,7 +471,7 @@
           "description": "Réputé pour ses ingrédients de haute qualité et ses garnitures innovantes, le Panificio Bonci est un incontournable pour la pizza al taglio. Cette boulangerie offre une variété de tranches, chacune plus tentante que la précédente.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Pizza al taglio",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -470,16 +482,19 @@
           "description": "Ce quartier charmant n'est pas seulement un lieu touristique mais aussi un pôle culinaire. Flânez dans ses rues pavées pour découvrir un mélange de trattorias traditionnelles, de restaurants modernes et de bars animés ouverts tard dans la nuit.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Cacio e Pepe",
           "klook_query": "Trastevere food tour"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Rome ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Rome ?",
+      "faq_a2_suffix": " sont parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor Comida en Roma 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Roma. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
-      "page_intro": "Roma, una ciudad donde cada comida es una experiencia, ofrece un viaje culinario que abarca desde trattorias tradicionales hasta vibrantes puestos de comida callejera. Conocida por su rica historia y cultura, la escena gastronómica en Roma es igualmente cautivadora, presentando platos italianos clásicos y cocina moderna innovadora. Ya sea que te deleites con un plato de carbonara, saborees una porción de pizza al taglio o disfrutes un gelato junto a la Fontana de Trevi, la cultura alimentaria de Roma es una encarnación de la dolce vita.",
+      "seo_title": "8 Mejores Restaurantes en Roma 2026 — Delicias Imperdibles",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre la vibrante escena culinaria de Roma, donde cada bocado cuenta una historia! Desde la auténtica pasta carbonara hasta los irresistibles supplì, cada plato es una celebración de sabores. Ahorra tiempo y disfruta de nuestras recomendaciones seleccionadas para que tu experiencia gastronómica sea inolvidable.",
       "items": [
         {
           "id": "trattoria-der-pecoraro",
@@ -488,7 +503,7 @@
           "description": "Un restaurante familiar que ofrece auténtica cocina romana. Conocido por su experiencia culinaria sin menú, se sirve lo que es fresco y está disponible ese día. La atmósfera acogedora y el servicio amable lo convierten en un lugar querido por locales y turistas.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Amatriciana",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -499,7 +514,7 @@
           "description": "Una visita obligada para los amantes de la comida callejera, Supplì es famoso por su plato homónimo: bolas de arroz fritas rellenas de mozzarella. Esta pequeña tienda en Via San Francesco a Ripa sirve algunos de los mejores supplì de la ciudad, perfecto para un bocadillo rápido.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Supplì al telefono",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -510,7 +525,7 @@
           "description": "Un bullicioso mercado al aire libre en el corazón de Roma, Campo de' Fiori es ideal para probar productos frescos, quesos y carnes. Por la noche, el área se transforma en una animada escena social con bares y restaurantes.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "Sándwich de Porchetta",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -521,7 +536,7 @@
           "description": "Una charcutería convertida en restaurante que ofrece una experiencia gourmet con su selección de embutidos, quesos y platos de pasta. Roscioli es famoso por su Carbonara, considerada una de las mejores de la ciudad.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonara",
           "klook_query": "Roscioli dining Rome"
         },
@@ -532,7 +547,7 @@
           "description": "Ubicada cerca de la Piazza Navona, Gelateria del Teatro elabora helados artesanales utilizando ingredientes frescos y naturales. Con sabores inventivos como salvia y frambuesa o lavanda y melocotón blanco, es una parada dulce que no te puedes perder.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "Helado de pistacho",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -543,7 +558,7 @@
           "description": "Conocida por su masa fina y crujiente, la Pizzeria da Baffetto es una favorita entre los amantes de la pizza. Ubicada cerca de la Piazza Navona, a menudo tiene filas en la puerta, un testimonio de su popularidad y deliciosas pizzas.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "Pizza Margherita",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -554,7 +569,7 @@
           "description": "Renombrado por sus ingredientes de alta calidad y coberturas innovadoras, Panificio Bonci es un lugar imprescindible para la pizza al taglio. Esta panadería ofrece una variedad de porciones, cada una más tentadora que la anterior.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Pizza al taglio",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -565,15 +580,18 @@
           "description": "Este encantador barrio no es solo un lugar turístico sino un centro culinario. Pasea por sus calles adoquinadas para encontrar una mezcla de trattorias tradicionales, restaurantes modernos y bares animados que permanecen abiertos hasta tarde en la noche.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Cacio e Pepe",
           "klook_query": "Trastevere food tour"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Roma?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Roma?",
+      "faq_a2_suffix": " son algunas de las opciones de comida mejor valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Roma 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
-      "seo_description": "Temukan restoran, makanan jalanan, dan spesialisasi lokal terbaik di Roma. Dari makanan hemat hingga santapan mewah — dengan tautan pemesanan.",
+      "seo_title": "10 Restoran Terbaik di Roma 2026 - Temukan Favorit!",
+      "seo_description": "Hemat waktu dengan rekomendasi asli. Pesan melalui Klook dan rencanakan santapan Anda sekarang!",
       "page_intro": "Roma, sebuah kota di mana setiap makanan adalah pengalaman, menawarkan perjalanan kuliner yang membentang dari trattoria tradisional hingga kios makanan jalanan yang ramai. Dikenal karena sejarah dan budayanya yang kaya, dunia kuliner di Roma sama-sama menawan, menampilkan hidangan klasik Italia dan masakan modern yang inovatif. Apakah Anda menikmati sepiring carbonara, menikmati sepotong pizza al taglio, atau menikmati gelato di dekat Air Mancur Trevi, budaya makanan Roma adalah perwujudan dari la dolce vita.",
       "items": [
         {
@@ -583,7 +601,7 @@
           "description": "Sebuah restoran yang dikelola keluarga yang menawarkan masakan Romawi asli. Dikenal dengan pengalaman bersantap tanpa menu, Anda akan disajikan apa pun yang segar dan tersedia hari itu. Suasana yang nyaman dan pelayanan yang ramah menjadikannya tempat favorit bagi penduduk lokal dan wisatawan.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Amatriciana",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -594,7 +612,7 @@
           "description": "Tempat yang wajib dikunjungi bagi pencinta makanan jalanan, Supplì terkenal dengan hidangan namanya — bola nasi goreng yang diisi dengan mozzarella. Toko kecil di Via San Francesco a Ripa ini menyajikan beberapa supplì terbaik di kota, sempurna untuk camilan cepat.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Supplì al telefono",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -605,7 +623,7 @@
           "description": "Pasar terbuka yang ramai di jantung kota Roma, Campo de' Fiori adalah tempat ideal untuk mencicipi produk segar, keju, dan daging. Di malam hari, area ini berubah menjadi adegan sosial yang meriah dengan bar dan tempat makan.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "Sandwich Porchetta",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -616,7 +634,7 @@
           "description": "Deli yang berubah menjadi restoran yang menawarkan pengalaman gourmet dengan pilihan daging asap, keju, dan hidangan pasta. Roscioli terkenal dengan Carbonara-nya, yang dianggap salah satu yang terbaik di kota.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonara",
           "klook_query": "Roscioli dining Rome"
         },
@@ -627,7 +645,7 @@
           "description": "Terletak dekat Piazza Navona, Gelateria del Teatro membuat gelato artisanal menggunakan bahan-bahan segar dan alami. Dengan rasa inovatif seperti sage dan raspberry atau lavender dan peach putih, ini adalah pemberhentian manis yang tidak boleh dilewatkan.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "Gelato Pistachio",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -638,7 +656,7 @@
           "description": "Dikenal karena keraknya yang tipis dan renyah, Pizzeria da Baffetto adalah favorit bagi pecinta pizza. Terletak dekat Piazza Navona, sering kali terdapat antrean di pintu, sebuah bukti popularitas dan pai yang lezat.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "Pizza Margherita",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -649,7 +667,7 @@
           "description": "Dikenal dengan bahan berkualitas tinggi dan topping inovatifnya, Panificio Bonci adalah tempat yang harus dikunjungi untuk pizza al taglio. Toko roti ini menawarkan berbagai irisan, masing-masing lebih menggoda daripada yang terakhir.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Pizza al taglio",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -660,15 +678,15 @@
           "description": "Lingkungan yang menawan ini bukan hanya tempat wisata tetapi juga pusat kuliner. Jelajahi jalan berbatu untuk menemukan campuran trattoria tradisional, restoran modern, dan bar yang ramai yang buka hingga larut malam.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Cacio e Pepe",
           "klook_query": "Trastevere food tour"
         }
       ]
     },
     "hi": {
-      "seo_title": "रोम में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्टोरेंट्स और स्ट्रीट फूड गाइड",
-      "seo_description": "रोम में सर्वश्रेष्ठ रेस्टोरेंट्स, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट भोजन से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "seo_title": "रोम के 10 सर्वश्रेष्ठ भोजन 2026 — छिपे रत्न",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय विशेषताओं की खोज करें!",
       "page_intro": "रोम, जहाँ हर भोजन एक अनुभव है, एक पाक यात्रा प्रदान करता है जो पारंपरिक ट्रेटोरियास से लेकर जीवंत स्ट्रीट फूड स्टॉल तक फैली हुई है। अपने समृद्ध इतिहास और संस्कृति के लिए जाना जाने वाला रोम का खाद्य दृश्य समान रूप से आकर्षक है, जिसमें क्लासिक इतालवी व्यंजन और आधुनिक नवाचार हैं। चाहे आप कार्बोनारा की प्लेट का आनंद ले रहे हों, पिज्जा अल टैलियो का स्लाइस चख रहे हों, या ट्रेवी फाउंटेन के पास एक जेलाटो का आनंद ले रहे हों, रोम की खाद्य संस्कृति ला डोल्से वीटा का प्रतीक है।",
       "items": [
         {
@@ -678,7 +696,7 @@
           "description": "एक पारिवारिक रेस्तरां जो प्रामाणिक रोमन व्यंजन प्रदान करता है। इसके बिना मेन्यू वाले भोजन अनुभव के लिए जाना जाता है, आपको उस दिन जो ताजगी उपलब्ध होती है, वही परोसा जाता है। आरामदायक वातावरण और मैत्रीपूर्ण सेवा इसे स्थानीय और पर्यटकों के बीच प्रिय बनाती है।",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "अमत्रीचियाना",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -689,7 +707,7 @@
           "description": "स्ट्रीट फूड प्रेमियों के लिए एक आवश्यक स्थल, सुप्ली अपने नामांकित व्यंजन - मोज़ेरेला से भरे तले हुए चावल के गेंदों के लिए प्रसिद्ध है। वाया सैन फ्रांसेस्को ए रिपा की इस छोटी सी दुकान में शहर के कुछ बेहतरीन सुप्ली मिलते हैं, जो एक त्वरित नाश्ते के लिए एकदम सही हैं।",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "सुप्ली अल टेलीफोनों",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -700,7 +718,7 @@
           "description": "रोम के केंद्र में स्थित एक हलचल भरा खुला बाजार, कैंपो डी फियोरी ताज़ा उत्पाद, चीज़ और मांस का स्वाद लेने के लिए आदर्श है। रात होते ही, यह क्षेत्र बार और भोजनालयों के साथ एक जीवंत सामाजिक दृश्य में बदल जाता है।",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "पॉर्केटा सैंडविच",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -711,7 +729,7 @@
           "description": "एक डेली से रेस्तरां में बदल गया स्थान जो अपने चयनित मांस, चीज़ और पास्ता व्यंजनों के साथ एक गोरमेट अनुभव प्रदान करता है। रोस्चियोली अपने कार्बोनारा के लिए प्रसिद्ध है, जिसे शहर के सबसे अच्छे में से एक माना जाता है।",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "कार्बोनारा",
           "klook_query": "Roscioli dining Rome"
         },
@@ -722,7 +740,7 @@
           "description": "पियाज़ा नवोना के पास स्थित, जेलाटेरिया डेल थिएट्रो ताजे, प्राकृतिक सामग्री का उपयोग करके शिल्पकारी जेलाटो तैयार करता है। ऋषि और रसभरी या लैवेंडर और सफेद आड़ू जैसे आविष्कारशील स्वादों के साथ, यह एक मीठा ठहराव है जिसे आप मिस नहीं कर सकते।",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "पिस्ता आइसक्रीम",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -733,7 +751,7 @@
           "description": "अपने पतले, कुरकुरे क्रस्ट के लिए जाना जाता है, पिज़्ज़ेरिया दा बाफेट्टो पिज़्ज़ा प्रेमियों के लिए पसंदीदा है। पियाज़ा नवोना के पास स्थित, इसकी लोकप्रियता और स्वादिष्ट पाई के लिए दरवाजे के बाहर कतारें होती हैं।",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "मार्घेरिटा पिज्जा",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -744,7 +762,7 @@
           "description": "उच्च गुणवत्ता वाले सामग्री और नवाचारपूर्ण टॉपिंग्स के लिए प्रसिद्ध, पानीफिसियो बोंची पिज़्ज़ा अल टैलियो के लिए एक पसंदीदा स्थान है। यह बेकरी विभिन्न प्रकार के स्लाइस प्रदान करती है, प्रत्येक पिछले से अधिक लुभावना।",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "पिज्जा अल टाग्लियो",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -755,15 +773,15 @@
           "description": "यह आकर्षक पड़ोस सिर्फ पर्यटक स्थल नहीं है, बल्कि एक पाक केंद्र भी है। इसके पत्थर के रास्ते पर चलें और पारंपरिक ट्रेटोरियास, आधुनिक भोजनालयों, और जीवंत बार का मिश्रण खोजें जो देर रात तक खुले रहते हैं।",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "काचियो ए पेपे",
           "klook_query": "Trastevere food tour"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Roma 2026 — Guia de Restaurantes e Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Roma. De refeições econômicas a alta gastronomia — com links de reserva.",
+      "seo_title": "Top 10 Restaurantes em Roma 2026 — Delícias!",
+      "seo_description": "Economize tempo com recomendações reais de comida em Roma. Reserve sua mesa com Klook e descubra os sabores locais. Planeje sua refeição agora!",
       "page_intro": "Roma, uma cidade onde cada refeição é uma experiência, oferece uma jornada gastronômica que abrange desde trattorias tradicionais até vibrantes barracas de comida de rua. Conhecida por sua rica história e cultura, a cena gastronômica de Roma é igualmente cativante, apresentando pratos clássicos italianos e cozinha moderna inovadora. Quer você esteja se deliciando com um prato de carbonara, saboreando uma fatia de pizza al taglio ou desfrutando de um gelato na Fontana di Trevi, a cultura alimentar de Roma é uma personificação da la dolce vita.",
       "items": [
         {
@@ -773,7 +791,7 @@
           "description": "Um restaurante familiar que oferece culinária romana autêntica. Conhecido por sua experiência gastronômica sem cardápio, você é servido com o que está fresco e disponível no dia. A atmosfera aconchegante e o atendimento amigável fazem dele um local querido entre os locais e turistas.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Amatriciana",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -784,7 +802,7 @@
           "description": "Um ponto obrigatório para os amantes de comida de rua, o Supplì é famoso por seu prato homônimo - bolas de arroz fritas recheadas com mussarela. Esta pequena loja na Via San Francesco a Ripa serve alguns dos melhores supplì da cidade, perfeito para um lanche rápido.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Supplì al telefono",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -795,7 +813,7 @@
           "description": "Um mercado ao ar livre movimentado no coração de Roma, o Campo de' Fiori é ideal para degustar produtos frescos, queijos e carnes. À noite, a área se transforma em um animado cenário social com bares e restaurantes.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "Sanduíche de Porchetta",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -806,7 +824,7 @@
           "description": "Um delicatessen que se tornou restaurante e oferece uma experiência gourmet com sua seleção de carnes curadas, queijos e pratos de massa. Roscioli é famoso por sua Carbonara, considerada uma das melhores da cidade.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonara",
           "klook_query": "Roscioli dining Rome"
         },
@@ -817,7 +835,7 @@
           "description": "Localizada perto da Piazza Navona, a Gelateria del Teatro prepara gelatos artesanais usando ingredientes frescos e naturais. Com sabores criativos como sálvia e framboesa ou lavanda e pêssego branco, é uma parada doce que você não pode perder.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "Gelato de Pistache",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -828,7 +846,7 @@
           "description": "Conhecida por sua massa fina e crocante, a Pizzeria da Baffetto é um favorito dos amantes de pizza. Localizada perto da Piazza Navona, muitas vezes tem filas na porta, um testemunho de sua popularidade e deliciosas tortas.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "Pizza Margherita",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -839,7 +857,7 @@
           "description": "Renomado por seus ingredientes de alta qualidade e coberturas inovadoras, o Panificio Bonci é uma referência para pizza al taglio. Esta padaria oferece uma variedade de fatias, cada uma mais tentadora que a outra.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Pizza al taglio",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -850,15 +868,15 @@
           "description": "Este bairro encantador não é apenas um ponto turístico, mas um centro gastronômico. Passeie por suas ruas de paralelepípedos para encontrar uma mistura de trattorias tradicionais, restaurantes modernos e bares animados que ficam abertos até tarde da noite.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Cacio e Pepe",
           "klook_query": "Trastevere food tour"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في روما 2026 — دليل المطاعم والأطعمة الشارعية",
-      "seo_description": "اكتشف أفضل المطاعم، الأطعمة الشارعية والتخصصات المحلية في روما. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر — مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في روما 2026 — أطعمة يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في روما. احجز عبر Klook واكتشف المأكولات المحلية الآن!",
       "page_intro": "روما، المدينة التي يكون فيها كل وجبة تجربة، تقدم رحلة طهوية تمتد من التراتورياس التقليدية إلى أكشاك الطعام الشارعية النابضة بالحياة. معروفة بتاريخها الغني وثقافتها، مشهد الطعام في روما لا يقل جاذبية، حيث يتميز بالأطباق الإيطالية الكلاسيكية والمأكولات الحديثة المبتكرة. سواء كنت تستمتع بطبق من كاربونارا، تتذوق شريحة من بيتزا أل تاغليو، أو تستمتع بجيلاتو بجانب نافورة تريفي، ثقافة الطعام في روما تجسد الحياة الحلوة.",
       "items": [
         {
@@ -868,7 +886,7 @@
           "description": "مطعم عائلي يقدم المأكولات الرومانية الأصيلة. معروف بتجربته في تناول الطعام بدون قائمة، حيث يتم تقديم كل ما هو طازج ومتوفر في ذلك اليوم. الأجواء الدافئة والخدمة الودية تجعله مكانًا محبوبًا بين السكان المحليين والسياح على حد سواء.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "أماتريتشانا",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -879,7 +897,7 @@
           "description": "يعد وجهة لا بد من زيارتها لمحبي الطعام الشارعي، يشتهر سوبلي بطبق اسمه - كرات الأرز المقلية المحشوة بالجبن. تقدم هذه المتجر الصغيرة في فيا سان فرانسيسكو أريبا بعضًا من أفضل السوبلي في المدينة، مثالية لوجبة خفيفة سريعة.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "سوبلي ألتيلفونو",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -890,7 +908,7 @@
           "description": "سوق مفتوح مزدحم في قلب روما، كامبو دي فيوري مثالي لتذوق الفواكه والخضروات الطازجة، الجبن، واللحوم. في الليل، يتحول المنطقة إلى مكان اجتماعي نابض بالحياة مع البارات والمطاعم.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "ساندويتش بوركيتا",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -901,7 +919,7 @@
           "description": "متجر يتحول إلى مطعم يقدم تجربة فاخرة مع اختياره من اللحوم المعالجة، الجبن، وأطباق المعكرونة. يشتهر روسشيولي بكاربونارا الخاص به، والذي يعتبر واحدًا من أفضلها في المدينة.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "كاربونارا",
           "klook_query": "Roscioli dining Rome"
         },
@@ -912,7 +930,7 @@
           "description": "يقع بالقرب من ساحة نافونا، يقوم جيلاتيريا ديل تياترو بصنع جيلاتو حرفي باستخدام مكونات طازجة وطبيعية. مع نكهات مبتكرة مثل المريمية والتوت أو اللافندر والخوخ الأبيض، إنها توقف حلو لا يمكنك تفويته.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "جيلاتو الفستق",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -923,7 +941,7 @@
           "description": "معروفة بقشرتها الرقيقة والمقرمشة، بيتزيريا دا بافيتو هي مفضلة لمحبي البيتزا. تقع بالقرب من ساحة نافونا، وغالبًا ما تكون هناك طوابير خارج الباب، وهو دليل على شعبيتها وفطائرها اللذيذة.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "بيتزا مارغريتا",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -934,7 +952,7 @@
           "description": "معروف بمكوناته عالية الجودة والتغطيات المبتكرة، بانيفيتشيو بونشي هو المكان المناسب للبيتزا أل تاغليو. يقدم هذا المخبز مجموعة متنوعة من الشرائح، كل منها أكثر إغراء من الأخرى.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "بيتزا التاجlio",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -945,15 +963,15 @@
           "description": "هذا الحي الساحر ليس مجرد وجهة سياحية بل هو مركز طهوي. تجول في شوارعه المرصوفة بالحصى لتجد مزيجًا من التراتورياس التقليدية والمطاعم الحديثة والبارات النابضة بالحياة التي تفتح حتى وقت متأخر من الليل.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "كاشيو إي بيبي",
           "klook_query": "Trastevere food tour"
         }
       ]
     },
     "bn": {
-      "seo_title": "রোমের সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
-      "seo_description": "রোমে সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেট খাবার থেকে ফাইন ডাইনিং পর্যন্ত — বুকিং লিংকের সাথে।",
+      "seo_title": "রোমের সেরা ১০ খাবার ২০২৬ — মাস্ট-ট্রাই রেস্তোরাঁ",
+      "seo_description": "সময় বাঁচান এবং স্থানীয় রত্ন আবিষ্কার করুন। Klook-এর মাধ্যমে বুকিং করুন। এখনই আপনার খাবার পরিকল্পনা করুন!",
       "page_intro": "রোম, যেখানে প্রতিটি খাবার একটি অভিজ্ঞতা, একটি খাবারের যাত্রা প্রদান করে যা ঐতিহ্যবাহী ট্রাটোরিয়া থেকে শুরু করে জীবন্ত স্ট্রিট ফুড স্টল পর্যন্ত বিস্তৃত। এর সমৃদ্ধ ইতিহাস এবং সংস্কৃতির জন্য পরিচিত, রোমের খাদ্য দৃশ্যটি সমানভাবে মুগ্ধকর, এতে ক্লাসিক ইতালীয় খাবার এবং উদ্ভাবনী আধুনিক খাদ্য রয়েছে। আপনি কার্বোনারার একটি প্লেট উপভোগ করছেন, পিজ্জা আল টাগলিওর একটি স্লাইস স্বাদ নিচ্ছেন বা ট্রেভি ফাউন্টেনের পাশে একটি জেলাটো উপভোগ করছেন কিনা, রোমের খাদ্য সংস্কৃতি লা ডোলসে ভিটার প্রতীক।",
       "items": [
         {
@@ -963,7 +981,7 @@
           "description": "একটি পরিবার পরিচালিত রেস্তোরাঁ যা প্রামাণিক রোমান খাবার সরবরাহ করে। এর মেনু ছাড়া ডাইনিং অভিজ্ঞতার জন্য পরিচিত, আপনাকে যা তাজা এবং সেই দিন উপলব্ধ তা পরিবেশন করা হয়। স্নিগ্ধ পরিবেশ এবং বন্ধুভাবাপন্ন পরিষেবা এটিকে স্থানীয় এবং পর্যটকদের মধ্যে প্রিয় করে তোলে।",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "আমাত্রিচিয়ানা",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -974,7 +992,7 @@
           "description": "স্ট্রিট ফুড প্রেমীদের জন্য একটি অবশ্যই দেখার জায়গা, সুপ্লি তার নামকরণ করা খাবার - মোজারেলা দিয়ে ভরা তেলেভাজা চালের বলগুলির জন্য বিখ্যাত। ভায়া সান ফ্রান্সেসকো এ রিপার এই ছোট দোকানটি শহরের কিছু সেরা সুপ্লি সরবরাহ করে, যা দ্রুত নাস্তার জন্য আদর্শ।",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "সুপ্লি আল টেলিফোনো",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -985,7 +1003,7 @@
           "description": "রোমের হৃদয়ে একটি ব্যস্ত খোলা বাজার, ক্যাম্পো ডি' ফিওরি তাজা ফল, চিজ এবং মাংসের স্বাদ নেওয়ার জন্য আদর্শ। রাতে, এলাকা বার এবং রেস্তোরাঁয় একটি প্রাণবন্ত সামাজিক দৃশ্যে পরিণত হয়।",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "পোরকেটা স্যান্ডউইচ",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -996,7 +1014,7 @@
           "description": "একটি ডেলি থেকে রেস্তোরাঁতে পরিণত হয়েছে যা তার নির্বাচন করা মাংস, চিজ এবং পাস্তা খাবারগুলির সাথে একটি গুরমেট অভিজ্ঞতা প্রদান করে। রসিওলি তার কার্বোনারার জন্য বিখ্যাত, যা শহরের সেরা হিসেবে বিবেচিত হয়।",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "কার্বনারা",
           "klook_query": "Roscioli dining Rome"
         },
@@ -1007,7 +1025,7 @@
           "description": "পিয়াজা নাভোনার কাছে অবস্থিত, জেলাটেরিয়া ডেল তিয়াত্রো তাজা, প্রাকৃতিক উপাদান ব্যবহার করে হস্তনির্মিত জেলাটো তৈরি করে। সেজ এবং রাস্পবেরি বা ল্যাভেন্ডার এবং সাদা পীচের মতো উদ্ভাবনী স্বাদের সাথে, এটি একটি মিষ্টি থাম যা আপনি মিস করতে পারবেন না।",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "পিস্তাচিও জেলাটো",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -1018,7 +1036,7 @@
           "description": "এর পাতলা, খাস্তা ক্রাস্টের জন্য পরিচিত, পিজ্জেরিয়া দা বাফেত্তো পিজ্জা প্রেমীদের জন্য প্রিয়। পিয়াজা নাভোনার কাছে অবস্থিত, এটি প্রায়শই দরজার বাইরে লাইন থাকে, এর জনপ্রিয়তা এবং সুস্বাদু পাইগুলির একটি সাক্ষ্য।",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "মার্গারিটা পিজ্জা",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -1029,7 +1047,7 @@
           "description": "উচ্চ মানের উপাদান এবং উদ্ভাবনী টপিংসের জন্য পরিচিত, পানিফিসিও বনসি পিজ্জা আল টাগলিওর জন্য একটি প্রিয় স্থান। এই বেকারি বিভিন্ন রকমের স্লাইস অফার করে, প্রতিটি পূর্বের চেয়ে বেশি প্রলোভনসঙ্কুল।",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "পিজ্জা আল টাগ্লিও",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -1040,15 +1058,15 @@
           "description": "এই মোহনীয় পাড়া শুধুমাত্র একটি পর্যটক স্পট নয় বরং একটি খাবারের কেন্দ্র। এর পাথরযুক্ত রাস্তা ধরে হাঁটুন এবং ঐতিহ্যবাহী ট্রাটোরিয়াস, আধুনিক রেস্তোরাঁ এবং প্রাণবন্ত বারগুলির একটি মিশ্রণ খুঁজে পান যা রাতের বেলা খোলা থাকে।",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "কাচিও এ পেপে",
           "klook_query": "Trastevere food tour"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшая еда в Риме 2026 — Гид по ресторанам и уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Риме. От бюджетных блюд до изысканной кухни — с ссылками на бронирование.",
+      "seo_title": "10 Лучшая еда в Риме 2026 — Обязательно попробуйте!",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Рим, город, где каждая трапеза - это опыт, предлагает кулинарное путешествие, которое охватывает традиционные траттории и оживленные уличные киоски. Известный своей богатой историей и культурой, кулинарная сцена Рима столь же захватывающая, с классическими итальянскими блюдами и инновационной современной кухней. Независимо от того, наслаждаетесь ли вы тарелкой карбонары, пробуете кусочек пиццы аль тальо или наслаждаетесь джелато у фонтана Треви, культура еды в Риме является воплощением la dolce vita.",
       "items": [
         {
@@ -1058,7 +1076,7 @@
           "description": "Семейный ресторан, предлагающий аутентичную римскую кухню. Известен своим опытом ужина без меню, вас подают свежими блюдами, доступными в тот день. Уютная атмосфера и дружелюбное обслуживание делают его любимым местом среди местных жителей и туристов.",
           "image_keyword": "Trattoria Der Pallaro dining",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Аматричана",
           "klook_query": "Trattoria Der Pallaro Rome"
         },
@@ -1069,7 +1087,7 @@
           "description": "Обязательное место для любителей уличной еды, Суппли знаменит своим одноименным блюдом — жареными рисовыми шариками с моцареллой. Этот крошечный магазин на Виа Сан Франческо а Рипа предлагает одни из лучших суппли в городе, идеально подходящих для быстрого перекуса.",
           "image_keyword": "Supplì Rome street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Суппли",
           "klook_query": "Supplì street food tour Rome"
         },
@@ -1080,7 +1098,7 @@
           "description": "Оживленный открытый рынок в центре Рима, Кампо де' Фиори идеально подходит для дегустации свежих продуктов, сыров и мяса. Ночью район превращается в оживленную социальную сцену с барами и ресторанами.",
           "image_keyword": "Campo de' Fiori Market Rome",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–8",
           "must_try": "Сэндвич с поркеттой",
           "klook_query": "Campo de' Fiori food tour"
         },
@@ -1091,7 +1109,7 @@
           "description": "Деликатесный магазин, превратившийся в ресторан, предлагает гурманский опыт с выбором мясных деликатесов, сыров и пасты. Росчиоли славится своей карбонарой, которая считается одной из лучших в городе.",
           "image_keyword": "Roscioli restaurant dining",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Карбонара",
           "klook_query": "Roscioli dining Rome"
         },
@@ -1102,7 +1120,7 @@
           "description": "Расположенная рядом с Пьяцца Навона, Джелатерия дель Театро готовит ремесленный джелато с использованием свежих, натуральных ингредиентов. С новаторскими вкусами, такими как шалфей и малина или лаванда и белый персик, это сладкая остановка, которую вы не можете пропустить.",
           "image_keyword": "Gelateria del Teatro gelato",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€2–6",
           "must_try": "Пистачковое мороженое",
           "klook_query": "Gelateria del Teatro Rome"
         },
@@ -1113,7 +1131,7 @@
           "description": "Известная своим тонким, хрустящим тестом, Пиццерия да Баффетто — излюбленное место для любителей пиццы. Расположенная рядом с Пьяцца Навона, она часто имеет очереди у дверей, что свидетельствует о ее популярности и вкусных пирогах.",
           "image_keyword": "Pizzeria da Baffetto pizza",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€3–5",
           "must_try": "Пицца Маргарита",
           "klook_query": "Pizzeria da Baffetto Rome"
         },
@@ -1124,7 +1142,7 @@
           "description": "Известная своими высококачественными ингредиентами и инновационными начинками, Панифицио Бончи — это место для пиццы аль тальо. Эта пекарня предлагает разнообразные кусочки, каждый из которых более соблазнителен, чем предыдущий.",
           "image_keyword": "Panificio Bonci pizza",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€2–5",
           "must_try": "Пицца аль таглио",
           "klook_query": "Panificio Bonci food tour Rome"
         },
@@ -1135,7 +1153,7 @@
           "description": "Этот очаровательный район не просто туристическое место, но и кулинарный центр. Прогуляйтесь по его мощеным улицам, чтобы найти смесь традиционных тратторий, современных заведений и оживленных баров, которые открыты до поздней ночи.",
           "image_keyword": "Trastevere Rome night",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Качо э пепе",
           "klook_query": "Trastevere food tour"
         }

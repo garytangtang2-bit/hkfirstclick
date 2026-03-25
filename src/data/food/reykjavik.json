@@ -2,9 +2,9 @@
   "city_slug": "reykjavik",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Reykjavik 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Reykjavik. From budget eats to fine dining — with booking links.",
-      "page_intro": "Reykjavik boasts a vibrant food culture that beautifully blends traditional Icelandic cuisine with modern gastronomy. From fresh seafood caught in local waters to innovative street food, the city offers an array of culinary delights that cater to every palate. Whether you are dining at a cozy café or enjoying a meal at a fine restaurant, Reykjavik's food scene is sure to impress.",
+      "seo_title": "8 Best Must-Try Restaurants in Reykjavik 2026",
+      "seo_description": "Save time with real recommendations! Discover local favorites and book through Klook. Plan your meal in Reykjavik now!",
+      "page_intro": "Dive into Reykjavik's dynamic food scene, where traditional Icelandic dishes like fresh seafood and hot dogs come alive with modern flair. Discover curated dining experiences that save you time on your culinary adventure!",
       "items": [
         {
           "id": "the-harbor-house",
@@ -13,7 +13,7 @@
           "description": "Located in the heart of Reykjavik, The Harbor House is celebrated for its fresh seafood and local ingredients. The cozy atmosphere is perfect for enjoying their signature dish, the Arctic char. Prices are moderate, making it a great choice for both casual diners and food enthusiasts looking for a unique experience.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "Arctic char",
           "klook_query": "The Harbor House Reykjavik",
           "photo_url": "https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "This iconic hot dog stand is a must-visit for anyone in Reykjavik. Famous for its lamb hot dogs, Bæjarins Beztu Pylsur offers a delicious and affordable street food experience. Don't forget to try it with the works, including crispy onions and remoulade for a burst of flavor!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "lamb hot dog",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik",
           "photo_url": "https://images.pexels.com/photos/60561/winter-snow-nature-60561.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Kaldalón is known for its exquisite Icelandic cuisine, featuring fresh fish and traditional dishes. With a stunning view of the harbor, it's the perfect place to enjoy a romantic dinner. The price range is on the higher side, but the quality and atmosphere make it worth every króna.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "fish of the day",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -48,7 +48,7 @@
           "description": "Hlemmur Mathöll is a food hall that showcases a variety of vendors offering everything from gourmet burgers to traditional Icelandic dishes. The lively atmosphere is perfect for food lovers looking to explore different flavors. With reasonable prices and a casual vibe, it's a great spot for lunch or dinner.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "Icelandic lamb soup",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -59,7 +59,7 @@
           "description": "Sægreifinn is renowned for its delicious lobster soup and fresh seafood dishes. This casual eatery is a favorite among locals and tourists alike, making it a must-visit for seafood lovers. Enjoy the relaxed atmosphere while indulging in a bowl of their famous lobster soup at a reasonable price.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "lobster soup",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -70,7 +70,7 @@
           "description": "Street Food Reykjavik is a great spot to sample various Icelandic dishes in a casual setting. They offer everything from fish and chips to traditional Icelandic meat soup. The prices are budget-friendly, making it a perfect stop for a quick meal while exploring the city.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "Icelandic meat soup",
           "klook_query": "Street Food Reykjavik"
         },
@@ -81,7 +81,7 @@
           "description": "Íslenskur Vegur is a cozy café that specializes in traditional Icelandic pastries and coffee. Perfect for breakfast or a light snack, it's a great place to unwind and enjoy a taste of local culture. Prices are very affordable, making it accessible to everyone.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "skyr cake",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -92,16 +92,19 @@
           "description": "Gullfoss Bistro combines modern cuisine with traditional Icelandic flavors, offering a unique dining experience. The restaurant is known for its warm ambiance and excellent service. Prices are moderate, and the menu features a variety of dishes, including fresh fish and gourmet burgers.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "gourmet burger",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Reykjavik?",
+      "faq_q2": "Where can I find the best restaurants in Reykjavik?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年雷克雅未克最佳美食 — 顶级餐厅与街头美食指南",
-      "seo_description": "探索雷克雅未克最佳餐厅、街头美食和当地特色菜。从经济实惠的美食到高档餐饮 — 以及预订链接。",
-      "page_intro": "雷克雅未克拥有充满活力的美食文化，完美融合了传统冰岛美食与现代美食。这里有从当地水域捕捞的新鲜海鲜到创新街头美食的各种美味佳肴，满足每一种味蕾。无论是在舒适的咖啡馆用餐，还是在高档餐厅享用美食，雷克雅未克的美食场景一定会让你印象深刻。",
+      "seo_title": "2026年雷克雅未克8大必試美食與隱藏寶石",
+      "seo_description": "節省時間，探索雷克雅未克的真實推薦，包含Klook預訂鏈接。立即計劃您的美食之旅，發現當地最愛！",
+      "page_intro": "雷克雅未克的美食世界如同其壯麗的自然風光般令人驚豔，這裡不僅有新鮮的海鮮和傳統冰島熱狗，更有創新的料理等你來探索。無論你是想品嚐當地特色還是尋找美食靈感，我們精心挑選的餐廳將幫助你節省時間，讓你的味蕾之旅更加完美。",
       "items": [
         {
           "id": "the-harbor-house",
@@ -110,7 +113,7 @@
           "description": "位于雷克雅未克市中心，港口之家以新鲜的海鲜和当地食材而闻名。舒适的氛围非常适合享用他们的招牌菜——北极红点鲑。价格适中，是休闲食客和寻找独特体验的美食爱好者的绝佳选择。",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "北極鱒",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -121,7 +124,7 @@
           "description": "这个标志性的热狗摊是雷克雅未克任何游客的必访之地。以羊肉热狗而闻名，Bæjarins Beztu Pylsur提供美味又实惠的街头美食体验。别忘了尝试加上所有配料，包括脆洋葱和蛋黄酱，带来味蕾的爆发！",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "羊肉熱狗",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -132,7 +135,7 @@
           "description": "Kaldalón以其精致的冰岛美食而闻名，特色是新鲜的鱼和传统菜肴。拥有壮观的海港景色，是享受浪漫晚餐的完美场所。价格偏高，但质量和氛围使其每一克朗都物有所值。",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "今日魚",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -143,7 +146,7 @@
           "description": "Hlemmur Mathöll是一个美食大厅，展示了多种供应商提供的各种美食，从美味汉堡到传统冰岛菜肴。热闹的氛围非常适合寻找不同风味的美食爱好者。价格合理，氛围轻松，是午餐或晚餐的绝佳场所。",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "冰島羊肉湯",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -154,7 +157,7 @@
           "description": "Sægreifinn以其美味的龙虾汤和新鲜海鲜菜肴而闻名。这家休闲餐厅在当地人和游客中都颇受欢迎，是海鲜爱好者的必访之地。在放松的氛围中享用他们著名的龙虾汤，价格也很合理。",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "龍蝦湯",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -165,7 +168,7 @@
           "description": "雷克雅未克街头美食是一个在休闲环境中品尝各种冰岛菜肴的好地方。他们提供从炸鱼薯条到传统冰岛肉汤的美食。价格实惠，是在探索城市时快速用餐的完美停留点。",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "冰島肉湯",
           "klook_query": "Street Food Reykjavik"
         },
@@ -176,7 +179,7 @@
           "description": "Íslenskur Vegur是一家专注于传统冰岛糕点和咖啡的舒适咖啡馆。非常适合早餐或轻食，是放松并享受当地文化的好地方。价格非常实惠，人人可及。",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "斯基爾蛋糕",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -187,16 +190,19 @@
           "description": "Gullfoss Bistro将现代美食与传统冰岛风味相结合，提供独特的用餐体验。餐厅以温馨的氛围和优质的服务而闻名。价格适中，菜单上有多种菜肴，包括新鲜鱼和美味汉堡。",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "美味漢堡",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
-      ]
+      ],
+      "faq_q1": "在雷克雅未克最好吃的食物是什麼？",
+      "faq_q2": "我可以在哪裡找到雷克雅未克最好的餐廳？",
+      "faq_a2_suffix": "是評價最高的用餐選擇之一。"
     },
     "ja": {
-      "seo_title": "2026年レイキャビクのベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "レイキャビクで最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "レイキャビクは、伝統的なアイスランド料理と現代の美食を美しく融合させた活気ある食文化を誇っています。地元の水域で捕れた新鮮な海鮮から革新的なストリートフードまで、すべての味覚を満たす料理の数々が揃っています。居心地の良いカフェでの食事でも、高級レストランでの食事でも、レイキャビクの食のシーンは必ず感動を与えてくれるでしょう。",
+      "seo_title": "2026年レイキャビクの必食レストラン8選 — トップガイド",
+      "seo_description": "時間を節約し、地元の美味を見つけましょう。Klookで予約して、今すぐ食事を計画しよう！",
+      "page_intro": "レイキャビクの食文化は、伝統的なアイスランド料理と革新的な現代料理が融合した魅力的なシーンです。新鮮な海鮮や名物ホットドッグなど、地元の特産品を堪能できます。Klookで厳選されたレストランを予約して、素晴らしい食体験をお楽しみください。",
       "items": [
         {
           "id": "the-harbor-house",
@@ -205,7 +211,7 @@
           "description": "レイキャビクの中心部に位置するザ・ハーバーハウスは、新鮮な海鮮と地元の食材で知られています。居心地の良い雰囲気の中で、彼らの名物料理である北極チャーを楽しむのに最適です。価格は手頃で、カジュアルな食事を楽しむ人やユニークな体験を求める美食愛好家にとって素晴らしい選択肢です。",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "アークティックチャー",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -216,7 +222,7 @@
           "description": "このアイコニックなホットドッグスタンドは、レイキャビクでの必訪スポットです。ラム肉のホットドッグで有名なバイアリンズ・ベズトゥ・ピルスルは、手頃で美味しいストリートフード体験を提供します。クリスピーローンとレムラードを加えた「すべての具材」で味わうことを忘れないでください！",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "ラムホットドッグ",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -227,7 +233,7 @@
           "description": "カルダロンは、絶品のアイスランド料理で知られ、新鮮な魚と伝統的な料理が楽しめます。港の素晴らしい景色を眺めながらロマンチックなディナーを楽しむのに最適な場所です。価格帯は高めですが、その品質と雰囲気はすべてのクローナに値します。",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "本日の魚",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -238,7 +244,7 @@
           "description": "ヘレムル・マトホルは、グルメバーガーから伝統的なアイスランド料理まで多様なベンダーが揃うフードホールです。活気ある雰囲気は、さまざまなフレーバーを探求したい食べ物愛好家に最適です。リーズナブルな価格とカジュアルな雰囲気は、ランチやディナーにぴったりです。",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "アイスランド風ラムスープ",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -249,7 +255,7 @@
           "description": "サイグレイフィンは、絶品のロブスターのスープと新鮮な海鮮料理で有名です。このカジュアルなレストランは、地元の人々や観光客の間で人気があり、海鮮好きには必訪のスポットです。リラックスした雰囲気の中で、リーズナブルな価格で彼らの名物ロブスターのスープを楽しんでください。",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "ロブスタースープ",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -260,7 +266,7 @@
           "description": "ストリートフード・レイキャビクは、カジュアルな環境でさまざまなアイスランド料理を味わうのに最適なスポットです。フィッシュ＆チップスから伝統的なアイスランドの肉スープまで、すべてを提供しています。価格は予算に優しいため、街を探索しながらのクイックミールに最適です。",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "アイスランド風肉スープ",
           "klook_query": "Street Food Reykjavik"
         },
@@ -271,7 +277,7 @@
           "description": "イースレンスクリュール・ベグルは、伝統的なアイスランドのペストリーとコーヒーを専門にした居心地の良いカフェです。朝食や軽食に最適で、地元の文化を楽しむための素晴らしい場所です。価格は非常に手頃で、誰でもアクセス可能です。",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "スキールケーキ",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -282,16 +288,19 @@
           "description": "グルフス・ビストロは、現代の料理と伝統的なアイスランドの風味を組み合わせ、ユニークなダイニング体験を提供します。レストランは温かみのある雰囲気と優れたサービスで知られています。価格は適度で、新鮮な魚やグルメバーガーなど、さまざまな料理をメニューに取り揃えています。",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "グルメバーガー",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
-      ]
+      ],
+      "faq_q1": "レイキャビクでおすすめの食べ物は何ですか？",
+      "faq_q2": "レイキャビクの最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "2026년 레이캬비크 최고의 음식 — 최고의 레스토랑 및 길거리 음식 가이드",
-      "seo_description": "레이캬비크의 최고의 레스토랑, 길거리 음식 및 현지 특산품을 발견하세요. 저렴한 음식부터 고급 식사까지 — 예약 링크 포함.",
-      "page_intro": "레이캬비크는 전통 아이슬란드 요리와 현대 미식을 아름답게 융합한 활기찬 음식 문화를 자랑합니다. 현지 수역에서 잡힌 신선한 해산물부터 혁신적인 길거리 음식까지, 이 도시는 모든 입맛을 만족시킬 수 있는 다양한 요리의 향연을 제공합니다. 아늑한 카페에서 식사를 하든, 고급 레스토랑에서 식사를 즐기든, 레이캬비크의 음식 장면은 분명히 당신을 감동시킬 것입니다.",
+      "seo_title": "2026년 레이캬비크 8가지 필수 맛집 — 최고의 음식 가이드",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 현지 인기 맛집을 지금 계획해보세요!",
+      "page_intro": "레이캬비크의 음식 장면은 신선한 해산물과 전통 아이슬란드 요리가 어우러져 매혹적인 미식 여행을 선사합니다. 특히 유명한 핫도그와 해산물 요리는 꼭 맛봐야 할 별미입니다. Klook에서 추천하는 맛집으로 시간을 절약하고 잊지 못할 경험을 만끽하세요!",
       "items": [
         {
           "id": "the-harbor-house",
@@ -300,7 +309,7 @@
           "description": "레이캬비크 중심부에 위치한 하버 하우스는 신선한 해산물과 현지 재료로 유명합니다. 아늑한 분위기 속에서 그들의 시그니처 요리인 북극 송어를 즐기기에 완벽한 장소입니다. 가격이 적당하여 캐주얼한 식사객과 독특한 경험을 찾는 미식가 모두에게 훌륭한 선택입니다.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "북극 송어",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -311,7 +320,7 @@
           "description": "이 상징적인 핫도그 가게는 레이캬비크를 방문하는 누구에게나 꼭 가봐야 할 곳입니다. 양고기 핫도그로 유명한 바이아린스 베츠투 필수르는 맛있고 저렴한 길거리 음식 경험을 제공합니다. 모든 토핑과 함께 즐기는 것을 잊지 마세요. 바삭한 양파와 레무라드 소스를 추가하여 풍미를 더하세요!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "양고기 핫도그",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -322,7 +331,7 @@
           "description": "칼달론은 신선한 생선과 전통 요리를 제공하는 정교한 아이슬란드 요리로 유명합니다. 항구의 멋진 경관을 감상하며 로맨틱한 저녁 식사를 즐기기에 완벽한 장소입니다. 가격대는 다소 높지만, 품질과 분위기는 모든 크로나의 가치를 제공합니다.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "오늘의 생선",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -333,7 +342,7 @@
           "description": "흘레무르 마토흘은 미식가 버거부터 전통 아이슬란드 요리까지 다양한 공급업체를 선보이는 푸드 홀입니다. 활기찬 분위기는 다양한 맛을 탐험하고자 하는 음식 사랑가들에게 완벽합니다. 합리적인 가격과 캐주얼한 분위기로 점심이나 저녁에 훌륭한 장소입니다.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "아이슬란드 양고기 수프",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -344,7 +353,7 @@
           "description": "사이그레이핀은 맛있는 랍스터 수프와 신선한 해산물 요리로 유명합니다. 이 캐주얼한 식당은 지역 주민과 관광객 모두에게 인기가 있어 해산물 애호가들에게 꼭 가봐야 할 곳입니다. 편안한 분위기 속에서 그들의 유명한 랍스터 수프를 합리적인 가격에 즐길 수 있습니다.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "랍스터 수프",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -355,7 +364,7 @@
           "description": "레인캬비크 길거리 음식은 캐주얼한 분위기에서 다양한 아이슬란드 요리를 시식할 수 있는 좋은 장소입니다. 그들은 피쉬 앤 칩스부터 전통 아이슬란드 고기 수프까지 모든 것을 제공합니다. 가격이 저렴하여 도시를 탐험하면서 빠른 식사를 하기에 완벽한 장소입니다.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "아이슬란드 고기 수프",
           "klook_query": "Street Food Reykjavik"
         },
@@ -366,7 +375,7 @@
           "description": "이스렌스크르 베구르는 전통 아이슬란드 페이스트리와 커피를 전문으로 하는 아늑한 카페입니다. 아침 식사나 가벼운 스낵에 적합하며, 지역 문화를 즐기기에 완벽한 장소입니다. 가격이 매우 저렴하여 모든 사람이 접근할 수 있습니다.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "스키르 케이크",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -377,16 +386,19 @@
           "description": "굴포스 비스트로는 현대 요리와 전통 아이슬란드 풍미를 결합하여 독특한 다이닝 경험을 제공합니다. 이 레스토랑은 따뜻한 분위기와 훌륭한 서비스로 알려져 있습니다. 가격이 적당하며, 신선한 생선과 미식가 버거 등 다양한 요리가 메뉴에 포함되어 있습니다.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "고급 버거",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
-      ]
+      ],
+      "faq_q1": "레이캬비크에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "레이캬비크에서 최고의 레스토랑은 어디인가요?",
+      "faq_a2_suffix": " 는 최고의 평가를 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Reykjavik 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales à Reykjavik. Des plats économiques aux restaurants haut de gamme — avec des liens de réservation.",
-      "page_intro": "Reykjavik possède une culture alimentaire vibrante qui mélange magnifiquement la cuisine islandaise traditionnelle avec la gastronomie moderne. Des fruits de mer frais pêchés dans les eaux locales aux plats de street food innovants, la ville offre une gamme de délices culinaires qui raviront tous les palais. Que vous dîniez dans un café confortable ou que vous profitiez d'un repas dans un restaurant raffiné, la scène gastronomique de Reykjavik ne manquera pas de vous impressionner.",
+      "seo_title": "8 Meilleures Tables à Reykjavik 2026 - Favoris Locaux",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les spécialités locales. Planifiez votre repas maintenant !",
+      "page_intro": "Découvrez la scène culinaire dynamique de Reykjavik, où la cuisine traditionnelle islandaise rencontre l'innovation moderne. Ne manquez pas les célèbres hot-dogs de Bæjarins Beztu Pylsur et les fruits de mer frais. Profitez de nos recommandations pour savourer le meilleur de la gastronomie locale sans perdre de temps.",
       "items": [
         {
           "id": "the-harbor-house",
@@ -395,7 +407,7 @@
           "description": "Située au cœur de Reykjavik, La Maison du Port est célèbre pour ses fruits de mer frais et ses ingrédients locaux. L'atmosphère confortable est parfaite pour déguster leur plat signature, l'omble chevalier. Les prix sont modérés, ce qui en fait un excellent choix tant pour les dîneurs occasionnels que pour les passionnés de gastronomie à la recherche d'une expérience unique.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "omble chevalier",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -406,7 +418,7 @@
           "description": "Ce stand de hot-dogs emblématique est un incontournable pour quiconque se trouve à Reykjavik. Célèbre pour ses hot-dogs d'agneau, Bæjarins Beztu Pylsur offre une expérience de street food délicieuse et abordable. N'oubliez pas de l'essayer avec toutes les garnitures, y compris des oignons croustillants et de la rémoulade pour une explosion de saveurs !",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "hot dog d'agneau",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -417,7 +429,7 @@
           "description": "Kaldalón est connu pour sa cuisine islandaise exquise, mettant en avant des poissons frais et des plats traditionnels. Avec une vue imprenable sur le port, c'est l'endroit idéal pour déguster un dîner romantique. Le prix est plutôt élevé, mais la qualité et l'ambiance en valent chaque couronne.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "poisson du jour",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -428,7 +440,7 @@
           "description": "Hlemmur Mathöll est une halle de restauration qui présente une variété de vendeurs proposant tout, des hamburgers gastronomiques aux plats islandais traditionnels. L'atmosphère animée est parfaite pour les amateurs de nourriture souhaitant explorer différentes saveurs. Avec des prix raisonnables et une ambiance décontractée, c'est un excellent endroit pour le déjeuner ou le dîner.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "soupe d'agneau islandaise",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -439,7 +451,7 @@
           "description": "Sægreifinn est réputé pour sa délicieuse soupe de homard et ses plats de fruits de mer frais. Ce restaurant décontracté est un favori parmi les locaux et les touristes, ce qui en fait un incontournable pour les amateurs de fruits de mer. Profitez de l'ambiance détendue tout en vous régalant d'un bol de leur fameuse soupe de homard à un prix raisonnable.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "soupe de homard",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -450,7 +462,7 @@
           "description": "Street Food Reykjavik est un excellent endroit pour goûter à divers plats islandais dans un cadre décontracté. Ils proposent tout, des fish and chips à la traditionnelle soupe de viande islandaise. Les prix sont abordables, ce qui en fait un arrêt parfait pour un repas rapide tout en explorant la ville.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "soupe de viande islandaise",
           "klook_query": "Street Food Reykjavik"
         },
@@ -461,7 +473,7 @@
           "description": "Íslenskur Vegur est un café confortable qui se spécialise dans les pâtisseries islandaises traditionnelles et le café. Parfait pour le petit déjeuner ou une collation légère, c'est un endroit idéal pour se détendre et savourer un goût de la culture locale. Les prix sont très abordables, ce qui le rend accessible à tous.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "gâteau au skyr",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -472,16 +484,19 @@
           "description": "Gullfoss Bistro combine cuisine moderne et saveurs islandaises traditionnelles, offrant une expérience culinaire unique. Le restaurant est réputé pour son ambiance chaleureuse et son excellent service. Les prix sont modérés, et le menu propose une variété de plats, y compris des poissons frais et des hamburgers gastronomiques.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "burger gourmet",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Reykjavik ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Reykjavik ?",
+      "faq_a2_suffix": " sont parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "La mejor comida en Reikiavik 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Reikiavik. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
-      "page_intro": "Reikiavik cuenta con una vibrante cultura gastronómica que mezcla a la perfección la cocina islandesa tradicional con la gastronomía moderna. Desde mariscos frescos capturados en aguas locales hasta innovadores platos de comida callejera, la ciudad ofrece una variedad de delicias culinarias que satisfacen todos los paladares. Ya sea que cene en un acogedor café o disfrute de una comida en un elegante restaurante, la escena gastronómica de Reikiavik seguramente le impresionará.",
+      "seo_title": "Top 8 Restaurantes en Reikiavik 2026 - ¡Must!",
+      "seo_description": "Ahorra tiempo con recomendaciones reales. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre la deliciosa escena culinaria de Reikiavik, donde los sabores del mar se encuentran con la innovación! Prueba el famoso hot dog de Bæjarins Beztu Pylsur o saborea mariscos frescos en The Harbor House. Con nuestras recomendaciones, ahorrarás tiempo y disfrutarás de lo mejor de la gastronomía local.",
       "items": [
         {
           "id": "the-harbor-house",
@@ -490,7 +505,7 @@
           "description": "Ubicada en el corazón de Reikiavik, La Casa del Puerto es famosa por sus frescos mariscos y sus ingredientes locales. La atmósfera acogedora es perfecta para disfrutar de su plato insignia, el trucha ártica. Los precios son moderados, lo que la convierte en una excelente opción tanto para comensales casuales como para entusiastas de la gastronomía que buscan una experiencia única.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "char ártico",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -501,7 +516,7 @@
           "description": "Este icónico puesto de hot dogs es una visita obligada para cualquiera en Reikiavik. Famoso por sus hot dogs de cordero, Bæjarins Beztu Pylsur ofrece una deliciosa y asequible experiencia de comida callejera. ¡No olvide probarlo con todos los ingredientes, incluyendo cebollas crujientes y remoulade para un estallido de sabor!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "perro caliente de cordero",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -512,7 +527,7 @@
           "description": "Kaldalón es conocido por su exquisita cocina islandesa, que presenta pescado fresco y platos tradicionales. Con una vista impresionante del puerto, es el lugar perfecto para disfrutar de una cena romántica. El rango de precios es alto, pero la calidad y el ambiente hacen que valga cada corona.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "pescado del día",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -523,7 +538,7 @@
           "description": "Hlemmur Mathöll es un mercado de comida que presenta una variedad de vendedores que ofrecen desde hamburguesas gourmet hasta platos tradicionales islandeses. La atmósfera animada es perfecta para los amantes de la comida que desean explorar diferentes sabores. Con precios razonables y un ambiente casual, es un excelente lugar para almorzar o cenar.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "sopa de cordero islandesa",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -534,7 +549,7 @@
           "description": "Sægreifinn es famoso por su deliciosa sopa de langosta y sus platos de mariscos frescos. Este restaurante informal es un favorito entre los locales y turistas, lo que lo convierte en una visita obligada para los amantes de los mariscos. Disfrute de la atmósfera relajada mientras se deleita con un tazón de su famosa sopa de langosta a un precio razonable.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "sopa de langosta",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -545,7 +560,7 @@
           "description": "Comida Callejera Reikiavik es un excelente lugar para degustar varios platos islandeses en un ambiente informal. Ofrecen desde pescado y papas fritas hasta la tradicional sopa de carne islandesa. Los precios son amigables con el presupuesto, lo que lo convierte en una parada perfecta para una comida rápida mientras explora la ciudad.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "sopa de carne islandesa",
           "klook_query": "Street Food Reykjavik"
         },
@@ -556,7 +571,7 @@
           "description": "Íslenskur Vegur es una acogedora cafetería que se especializa en pasteles y café islandeses tradicionales. Perfecto para el desayuno o un refrigerio ligero, es un excelente lugar para relajarse y disfrutar de un sabor de la cultura local. Los precios son muy asequibles, lo que lo hace accesible para todos.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "pastel de skyr",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -567,15 +582,18 @@
           "description": "Gullfoss Bistro combina cocina moderna con sabores islandeses tradicionales, ofreciendo una experiencia gastronómica única. El restaurante es conocido por su ambiente cálido y su excelente servicio. Los precios son moderados, y el menú presenta una variedad de platos, incluidos pescado fresco y hamburguesas gourmet.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "hamburguesa gourmet",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Reikiavik?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Reikiavik?",
+      "faq_a2_suffix": " son algunas de las opciones de comedor mejor valoradas."
     },
     "id": {
-      "seo_title": "Best Food in Reykjavik 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Reykjavik. From budget eats to fine dining — with booking links.",
+      "seo_title": "8 Restoran Terbaik di Reykjavik 2026 - Favorit Lokal",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata! Temukan favorit lokal dan pesan di Klook. Rencanakan santapan Anda sekarang!",
       "page_intro": "Reykjavik boasts a vibrant food culture that beautifully blends traditional Icelandic cuisine with modern gastronomy. From fresh seafood caught in local waters to innovative street food, the city offers an array of culinary delights that cater to every palate. Whether you are dining at a cozy café or enjoying a meal at a fine restaurant, Reykjavik's food scene is sure to impress.",
       "items": [
         {
@@ -585,7 +603,7 @@
           "description": "Located in the heart of Reykjavik, The Harbor House is celebrated for its fresh seafood and local ingredients. The cozy atmosphere is perfect for enjoying their signature dish, the Arctic char. Prices are moderate, making it a great choice for both casual diners and food enthusiasts looking for a unique experience.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "ikan char Arktik",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -596,7 +614,7 @@
           "description": "This iconic hot dog stand is a must-visit for anyone in Reykjavik. Famous for its lamb hot dogs, Bæjarins Beztu Pylsur offers a delicious and affordable street food experience. Don't forget to try it with the works, including crispy onions and remoulade for a burst of flavor!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "hot dog domba",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -607,7 +625,7 @@
           "description": "Kaldalón is known for its exquisite Icelandic cuisine, featuring fresh fish and traditional dishes. With a stunning view of the harbor, it's the perfect place to enjoy a romantic dinner. The price range is on the higher side, but the quality and atmosphere make it worth every króna.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "ikan hari ini",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -618,7 +636,7 @@
           "description": "Hlemmur Mathöll is a food hall that showcases a variety of vendors offering everything from gourmet burgers to traditional Icelandic dishes. The lively atmosphere is perfect for food lovers looking to explore different flavors. With reasonable prices and a casual vibe, it's a great spot for lunch or dinner.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "sup domba Islandia",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -629,7 +647,7 @@
           "description": "Sægreifinn is renowned for its delicious lobster soup and fresh seafood dishes. This casual eatery is a favorite among locals and tourists alike, making it a must-visit for seafood lovers. Enjoy the relaxed atmosphere while indulging in a bowl of their famous lobster soup at a reasonable price.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "sup lobster",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -640,7 +658,7 @@
           "description": "Street Food Reykjavik is a great spot to sample various Icelandic dishes in a casual setting. They offer everything from fish and chips to traditional Icelandic meat soup. The prices are budget-friendly, making it a perfect stop for a quick meal while exploring the city.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "sup daging Islandia",
           "klook_query": "Street Food Reykjavik"
         },
@@ -651,7 +669,7 @@
           "description": "Íslenskur Vegur is a cozy café that specializes in traditional Icelandic pastries and coffee. Perfect for breakfast or a light snack, it's a great place to unwind and enjoy a taste of local culture. Prices are very affordable, making it accessible to everyone.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "kue skyr",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -662,15 +680,15 @@
           "description": "Gullfoss Bistro combines modern cuisine with traditional Icelandic flavors, offering a unique dining experience. The restaurant is known for its warm ambiance and excellent service. Prices are moderate, and the menu features a variety of dishes, including fresh fish and gourmet burgers.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "burger gourmet",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
       ]
     },
     "hi": {
-      "seo_title": "रेख्याविक में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "रेख्याविक में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट भोजन से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "रेख्याविक के 8 सर्वश्रेष्ठ भोजन 2026 - टॉप रेस्टॉरेंट",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook से बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय पसंदीदा खोजें!",
       "page_intro": "रेख्याविक एक जीवंत खाद्य संस्कृति का दावा करता है जो पारंपरिक आइसलैंडिक व्यंजनों को आधुनिक गैस्ट्रोनोमी के साथ खूबसूरती से मिलाता है। स्थानीय जल में पकड़े गए ताजे समुद्री भोजन से लेकर नवोन्मेषी स्ट्रीट फूड तक, शहर हर स्वाद के लिए खाद्य प्रसन्नता की एक श्रृंखला पेश करता है। चाहे आप एक आरामदायक कैफे में भोजन कर रहे हों या एक अच्छे रेस्तरां में भोजन का आनंद ले रहे हों, रेख्याविक का खाद्य दृश्य निश्चित रूप से प्रभावित करेगा।",
       "items": [
         {
@@ -680,7 +698,7 @@
           "description": "रेख्याविक के दिल में स्थित, द हार्बर हाउस अपने ताजे समुद्री भोजन और स्थानीय सामग्री के लिए प्रसिद्ध है। आरामदायक माहौल उनके सिग्नेचर डिश, आर्कटिक चार का आनंद लेने के लिए बिल्कुल सही है। कीमतें मध्यम हैं, जिससे यह आकस्मिक भोजन करने वालों और अद्वितीय अनुभव की तलाश कर रहे खाद्य प्रेमियों के लिए एक शानदार विकल्प बनाता है।",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "आर्कटिक चार",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -691,7 +709,7 @@
           "description": "यह प्रतिष्ठित हॉट डॉग स्टैंड रेख्याविक में किसी के लिए भी अवश्य देखने योग्य है। अपने भेड़ के मांस के हॉट डॉग के लिए प्रसिद्ध, बैजारिन्स बेज़्टु पिल्सुर एक स्वादिष्ट और किफायती स्ट्रीट फूड अनुभव प्रदान करता है। इसे क्रिस्पी प्याज और रेमोलाड के साथ आजमाना न भूलें, जिससे इसका स्वाद और भी बढ़ जाता है!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "भेड़ का मांस हॉट डॉग",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -702,7 +720,7 @@
           "description": "कैल्डालॉन अपने उत्कृष्ट आइसलैंडिक व्यंजनों के लिए जाना जाता है, जिसमें ताजे मछली और पारंपरिक व्यंजन शामिल हैं। बंदरगाह का शानदार दृश्य इसे एक रोमांटिक डिनर का आनंद लेने के लिए एकदम सही स्थान बनाता है। कीमतें उच्च पक्ष पर हैं, लेकिन गुणवत्ता और माहौल इसे हर क्रोना के लायक बनाते हैं।",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "आज का मछली",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -713,7 +731,7 @@
           "description": "हलेमूर माठोल एक खाद्य हॉल है जो विभिन्न विक्रेताओं को प्रदर्शित करता है जो सभी प्रकार के व्यंजन पेश करते हैं, जैसे कि गॉरमेट बर्गर से लेकर पारंपरिक आइसलैंडिक व्यंजन। जीवंत माहौल खाद्य प्रेमियों के लिए विभिन्न स्वादों का अन्वेषण करने के लिए एकदम सही है। उचित कीमतों और आकस्मिक माहौल के साथ, यह लंच या डिनर के लिए एक शानदार स्थान है।",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "आइसलैंड की भेड़ का मांस का सूप",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -724,7 +742,7 @@
           "description": "सैग्रीफिन अपने स्वादिष्ट लॉबस्टर सूप और ताजे समुद्री भोजन के व्यंजनों के लिए प्रसिद्ध है। यह आकस्मिक भोजनालय स्थानीय लोगों और पर्यटकों दोनों के बीच पसंदीदा है, जिससे यह समुद्री भोजन प्रेमियों के लिए एक अवश्य देखने योग्य स्थान बन जाता है। आरामदायक माहौल में ताजे लॉबस्टर सूप का आनंद लें, इसकी कीमत भी उचित है।",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "लॉबस्टर सूप",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -735,7 +753,7 @@
           "description": "स्ट्रीट फूड रेख्याविक एक सामान्य सेटिंग में विभिन्न आइसलैंडिक व्यंजनों का स्वाद लेने के लिए एक शानदार स्थान है। वे मछली और चिप्स से लेकर पारंपरिक आइसलैंडिक मांस सूप तक सब कुछ पेश करते हैं। कीमतें बजट के अनुकूल हैं, जिससे यह शहर की खोज करते समय त्वरित भोजन के लिए एकदम सही स्थान बन जाता है।",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "आइसलैंड का मांस का सूप",
           "klook_query": "Street Food Reykjavik"
         },
@@ -746,7 +764,7 @@
           "description": "इस्लेंसकुर वेगुर एक आरामदायक कैफे है जो पारंपरिक आइसलैंडिक पेस्ट्री और कॉफी में विशेषज्ञता रखता है। नाश्ते या हल्के नाश्ते के लिए एकदम सही, यह स्थानीय संस्कृति का स्वाद लेने और आराम करने के लिए एक शानदार स्थान है। कीमतें बहुत सस्ती हैं, जिससे यह सभी के लिए सुलभ है।",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "स्कीर केक",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -757,15 +775,15 @@
           "description": "गुल्लफॉस बिस्टरो आधुनिक व्यंजनों को पारंपरिक आइसलैंडिक स्वादों के साथ जोड़ता है, जिससे एक अद्वितीय डाइनिंग अनुभव मिलता है। रेस्तरां अपने गर्म वातावरण और उत्कृष्ट सेवा के लिए जाना जाता है। कीमतें मध्यम हैं, और मेन्यू में ताजे मछली और गॉरमेट बर्गर सहित विभिन्न व्यंजन शामिल हैं।",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "गौरमे बर्गर",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Reykjavik 2026 — Melhores Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Reykjavik. Desde refeições econômicas até jantares requintados — com links de reserva.",
+      "seo_title": "Top 8 Restaurantes em Reykjavik 2026 — Melhores Sabores",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "Reykjavik possui uma cultura alimentar vibrante que combina de forma bonita a culinária tradicional islandesa com a gastronomia moderna. Desde frutos do mar frescos pescados em águas locais até comida de rua inovadora, a cidade oferece uma variedade de delícias culinárias que atendem a todos os paladares. Seja jantando em um café aconchegante ou desfrutando de uma refeição em um bom restaurante, a cena gastronômica de Reykjavik certamente impressionará.",
       "items": [
         {
@@ -775,7 +793,7 @@
           "description": "Localizado no coração de Reykjavik, o The Harbor House é celebrado por seus frutos do mar frescos e ingredientes locais. A atmosfera aconchegante é perfeita para desfrutar de seu prato assinatura, o char ártico. Os preços são moderados, tornando-o uma ótima escolha tanto para jantares casuais quanto para entusiastas da comida em busca de uma experiência única.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "char ártico",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -786,7 +804,7 @@
           "description": "Este icônico carrinho de cachorro-quente é uma visita obrigatória para quem está em Reykjavik. Famoso por seus cachorros-quentes de carneiro, o Bæjarins Beztu Pylsur oferece uma deliciosa e acessível experiência de comida de rua. Não se esqueça de experimentá-lo com tudo, incluindo cebolas crocantes e remoulade para um estouro de sabor!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "cachorro-quente de cordeiro",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -797,7 +815,7 @@
           "description": "Kaldalón é conhecido por sua requintada culinária islandesa, apresentando peixes frescos e pratos tradicionais. Com uma vista deslumbrante do porto, é o lugar perfeito para desfrutar de um jantar romântico. A faixa de preços é mais alta, mas a qualidade e a atmosfera fazem valer cada króna.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "peixe do dia",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -808,7 +826,7 @@
           "description": "Hlemmur Mathöll é um mercado de alimentos que apresenta uma variedade de vendedores oferecendo tudo, desde hambúrgueres gourmet até pratos tradicionais islandeses. A atmosfera animada é perfeita para amantes da comida que desejam explorar diferentes sabores. Com preços razoáveis e um ambiente casual, é um ótimo lugar para almoçar ou jantar.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "sopa de cordeiro islandesa",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -819,7 +837,7 @@
           "description": "Sægreifinn é renomado por sua deliciosa sopa de lagosta e pratos de frutos do mar frescos. Este restaurante casual é um favorito entre os locais e turistas, tornando-se uma visita obrigatória para amantes de frutos do mar. Aproveite a atmosfera descontraída enquanto se delicia com uma tigela de sua famosa sopa de lagosta a um preço razoável.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "sopa de lagosta",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -830,7 +848,7 @@
           "description": "Street Food Reykjavik é um ótimo lugar para experimentar vários pratos islandeses em um ambiente casual. Eles oferecem tudo, desde peixe com batatas fritas até sopa de carne islandesa tradicional. Os preços são acessíveis, tornando-o uma parada perfeita para uma refeição rápida enquanto explora a cidade.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "sopa de carne islandesa",
           "klook_query": "Street Food Reykjavik"
         },
@@ -841,7 +859,7 @@
           "description": "Íslenskur Vegur é um café aconchegante que se especializa em doces e café islandeses tradicionais. Perfeito para um café da manhã ou um lanche leve, é um ótimo lugar para relaxar e desfrutar de um gosto da cultura local. Os preços são muito acessíveis, tornando-o acessível a todos.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "bolo de skyr",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -852,15 +870,15 @@
           "description": "Gullfoss Bistro combina cozinha moderna com sabores tradicionais islandeses, oferecendo uma experiência gastronômica única. O restaurante é conhecido por sua atmosfera acolhedora e excelente serviço. Os preços são moderados e o menu apresenta uma variedade de pratos, incluindo peixes frescos e hambúrgueres gourmet.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "hambúrguer gourmet",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في ريكيافيك 2026 - أفضل المطاعم ودليل الطعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم، طعام الشارع والتخصصات المحلية في ريكيافيك. من الأكلات الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "seo_title": "أفضل 8 مطاعم في ريكيافيك 2026 - كنوز محلية يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في ريكيافيك. احجز عبر Klook واستمتع بتجربة طعام لا تُنسى. خطط لوجبتك الآن!",
       "page_intro": "تفتخر ريكيافيك بثقافة طعام نابضة بالحياة تمزج بين المأكولات الأيسلندية التقليدية وعلم الطهي الحديث بشكل جميل. من المأكولات البحرية الطازجة التي يتم اصطيادها في المياه المحلية إلى طعام الشارع المبتكر، تقدم المدينة مجموعة من الملذات الطهو التي تلبي جميع الأذواق. سواء كنت تتناول الطعام في مقهى مريح أو تستمتع بوجبة في مطعم فاخر، فإن مشهد الطعام في ريكيافيك سيترك انطباعًا بالتأكيد.",
       "items": [
         {
@@ -870,7 +888,7 @@
           "description": "يقع في قلب ريكيافيك، يُحتفى ببيت الميناء لاحتوائه على مأكولات بحرية طازجة ومكونات محلية. الأجواء المريحة مثالية للاستمتاع بالطبق المميز لديهم، وهو سمك الشار القطبي. الأسعار معتدلة، مما يجعله خيارًا رائعًا لتناول الطعام غير الرسمي وعشاق الطعام الذين يبحثون عن تجربة فريدة.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "سمك الشار القطبي",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -881,7 +899,7 @@
           "description": "هذا الكشك الشهير للهوت دوج هو زيارة لا بد منها لأي شخص في ريكيافيك. اشتهر بالنقانق المصنوعة من لحم الضأن، يقدم باجارينز بيزتو بيلسور تجربة طعام شارع لذيذة وميسورة. لا تنسَ تجربته مع كل شيء، بما في ذلك البصل المقلي والريمولاد للحصول على نكهة مدهشة!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "هوت دوغ لحم الضأن",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -892,7 +910,7 @@
           "description": "يشتهر كالدا لون بمأكولاته الأيسلندية الرائعة، التي تضم أسماكًا طازجة وأطباقًا تقليدية. مع إطلالة رائعة على الميناء، فهو المكان المثالي للاستمتاع بعشاء رومانسي. نطاق الأسعار في الجانب الأعلى، لكن الجودة والأجواء تجعلها تستحق كل كرونا.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "سمك اليوم",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -903,7 +921,7 @@
           "description": "هليمور ماثول هو سوق للطعام يعرض مجموعة متنوعة من البائعين الذين يقدمون كل شيء من البرغر الفاخر إلى الأطباق التقليدية الأيسلندية. الأجواء النابضة بالحياة مثالية لعشاق الطعام الذين يتطلعون لاستكشاف نكهات مختلفة. مع أسعار معقولة وأجواء غير رسمية، إنه مكان رائع لتناول الغداء أو العشاء.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "حساء لحم الضأن الأيسلندي",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -914,7 +932,7 @@
           "description": "يشتهر ساي غريفين بحساء الكركند اللذيذ وأطباق المأكولات البحرية الطازجة. هذا المطعم غير الرسمي هو من المفضلات بين السكان المحليين والسياح على حد سواء، مما يجعله مكانًا لا بد من زيارته لعشاق المأكولات البحرية. استمتع بالأجواء المريحة أثناء الاستمتاع بوعاء من حساء الكركند الشهير بسعر معقول.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "حساء الكركند",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -925,7 +943,7 @@
           "description": "طعام الشارع ريكيافيك هو مكان رائع لتجربة مجموعة من الأطباق الأيسلندية في بيئة غير رسمية. يقدمون كل شيء من السمك والبطاطا المقلية إلى حساء اللحم الأيسلندي التقليدي. الأسعار صديقة للميزانية، مما يجعله محطة مثالية لوجبة سريعة أثناء استكشاف المدينة.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "حساء اللحم الأيسلندي",
           "klook_query": "Street Food Reykjavik"
         },
@@ -936,7 +954,7 @@
           "description": "إسلينسكيور فيغور هو مقهى مريح متخصص في الحلويات والقهوة الأيسلندية التقليدية. مثالي للإفطار أو وجبة خفيفة، إنه مكان رائع للاسترخاء والاستمتاع بتجربة من الثقافة المحلية. الأسعار في متناول الجميع، مما يجعلها متاحة للجميع.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "كيكة سكير",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -947,15 +965,15 @@
           "description": "يجمع مطعم غولفوس بين المأكولات الحديثة والنكهات الأيسلندية التقليدية، مما يوفر تجربة تناول طعام فريدة. يُعرف المطعم بأجوائه الدافئة وخدمته الممتازة. الأسعار معتدلة، ويتميز القائمة بتشكيلة من الأطباق بما في ذلك الأسماك الطازجة والبرغر الفاخر.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "برغر فاخر",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
       ]
     },
     "bn": {
-      "seo_title": "রেকজাভিকের সেরা খাবার ২০২৬ - শীর্ষ রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
-      "seo_description": "রেকজাভিকে সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেট খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "seo_title": "রেকজাভিকে ১০টি সেরা খাবার ২০২৬ - টপ রেস্টুরেন্ট",
+      "seo_description": "আপনার সময় বাঁচান এবং রেকজাভিকের সেরা খাবারের আস্বাদ নিন। Klook এ বুকিং করুন এবং এখনই আপনার খাবারের পরিকল্পনা করুন!",
       "page_intro": "রেকজাভিক একটি প্রাণবন্ত খাদ্য সংস্কৃতির জন্য পরিচিত যা ঐতিহ্যবাহী আইসল্যান্ডীয় রান্নাকে আধুনিক গ্যাসট্রোনমির সাথে সুন্দরভাবে মিশ্রিত করে। স্থানীয় জল থেকে ধরা তাজা সামুদ্রিক খাদ্য থেকে উদ্ভাবনী স্ট্রিট ফুড পর্যন্ত, শহরটি সমস্ত স্বাদের জন্য culinary delights এর একটি পরিসর অফার করে। আপনি একটি আরামদায়ক ক্যাফেতে খাচ্ছেন বা একটি ভাল রেস্টুরেন্টে খাবার উপভোগ করছেন, রেকজাভিকের খাবার দৃশ্য নিশ্চিতভাবেই আপনাকে মুগ্ধ করবে।",
       "items": [
         {
@@ -965,7 +983,7 @@
           "description": "রেকজাভিকের হৃদয়ে অবস্থিত, দ্য হার্বার হাউস তার তাজা সামুদ্রিক খাবার এবং স্থানীয় উপকরণের জন্য বিখ্যাত। আরামদায়ক পরিবেশে তাদের স্বাক্ষরিত ডিশ, আর্কটিক চার উপভোগ করার জন্য এটি আদর্শ। দাম মাঝারি, এটি অপ্রথাগত ডাইনিং এবং ইউনিক অভিজ্ঞতার সন্ধানে থাকা খাদ্যপ্রেমীদের জন্য একটি দুর্দান্ত পছন্দ।",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "আর্কটিক চার",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -976,7 +994,7 @@
           "description": "এই আইকনিক হট ডগ স্ট্যান্ডটি রেকজাভিকের জন্য একটি অবশ্যই দেখা উচিত। মেষশাবকের হট ডগের জন্য বিখ্যাত, বায়ারিন্স বেজ্টু পিলসুর একটি সুস্বাদু এবং সাশ্রয়ী স্ট্রিট ফুড অভিজ্ঞতা প্রদান করে। ক্রিস্পি পেঁয়াজ এবং রেমোলাড দিয়ে এটি চেষ্টা করতে ভুলবেন না একটি স্বাদ বিস্ফোরণের জন্য!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "ল্যাম্ব হট ডগ",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -987,7 +1005,7 @@
           "description": "ক্যালডালন তার চমত্কার আইসল্যান্ডীয় রান্নার জন্য পরিচিত, যেখানে তাজা মাছ এবং ঐতিহ্যবাহী পদগুলি রয়েছে। বন্দরের একটি চমত্কার দৃশ্য নিয়ে, এটি একটি রোমান্টিক রাতের খাবারের জন্য আদর্শ স্থান। দাম একটু বেশি, কিন্তু গুণমান এবং পরিবেশ এটিকে প্রতিটি ক্রোনা মূল্যবান করে তোলে।",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "দিনের মাছ",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -998,7 +1016,7 @@
           "description": "হ্লেম্মুর মাথল একটি খাদ্য হল যা বিভিন্ন বিক্রেতাদের প্রদর্শন করে যারা গরম বুর্গার থেকে শুরু করে ঐতিহ্যবাহী আইসল্যান্ডীয় খাবার সরবরাহ করে। প্রাণবন্ত পরিবেশ খাদ্যপ্রেমীদের জন্য বিভিন্ন স্বাদের অনুসন্ধানের জন্য আদর্শ। যুক্তিসঙ্গত দামে এবং একটি অপ্রথাগত পরিবেশে, এটি লাঞ্চ বা রাতের খাবারের জন্য একটি দুর্দান্ত স্থান।",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "আইসল্যান্ডীয় ল্যাম্ব স্যুপ",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -1009,7 +1027,7 @@
           "description": "সাইগ্রিফিন তার সুস্বাদু লবস্টার স্যুপ এবং তাজা সামুদ্রিক খাবার পদগুলির জন্য বিখ্যাত। এই অপ্রথাগত রেস্তোঁরা স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয়, যা এটি সামুদ্রিক খাবার প্রেমীদের জন্য একটি অবশ্যই দেখা উচিত। একটি আরামদায়ক পরিবেশে তাদের বিখ্যাত লবস্টার স্যুপের একটি বাটি উপভোগ করুন, যার দামও যুক্তিসঙ্গত।",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "লবস্টার স্যুপ",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -1020,7 +1038,7 @@
           "description": "স্ট্রিট ফুড রেকজাভিক একটি সাধারণ সেটিংয়ে বিভিন্ন আইসল্যান্ডীয় খাবারের স্বাদ নেওয়ার জন্য একটি দুর্দান্ত স্থান। তারা মাছ এবং চিপস থেকে শুরু করে ঐতিহ্যবাহী আইসল্যান্ডীয় মাংসের সূপ পর্যন্ত সবকিছু অফার করে। দাম বাজেট-বান্ধব, যা শহরটি অন্বেষণ করার সময় একটি দ্রুত খাবারের জন্য এটি একটি নিখুঁত স্টপ তৈরি করে।",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "আইসল্যান্ডীয় মাংসের স্যুপ",
           "klook_query": "Street Food Reykjavik"
         },
@@ -1031,7 +1049,7 @@
           "description": "আইসলেনস্কুর ভেগুর একটি আরামদায়ক ক্যাফে যা ঐতিহ্যবাহী আইসল্যান্ডীয় পেস্ট্রি এবং কফিতে বিশেষজ্ঞ। নাস্তার জন্য বা একটি হালকা নাশতার জন্য উপযুক্ত, এটি স্থানীয় সংস্কৃতির স্বাদ নিতে এবং বিশ্রাম নেওয়ার জন্য একটি দুর্দান্ত স্থান। দাম খুব সাশ্রয়ী, যা এটিকে সবার জন্য প্রবেশযোগ্য করে তোলে।",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "স্কাইর কেক",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -1042,15 +1060,15 @@
           "description": "গুল্লফস বিস্ট্রো আধুনিক রান্নাকে ঐতিহ্যবাহী আইসল্যান্ডীয় স্বাদের সাথে সংযুক্ত করে, যা একটি অনন্য ডাইনিং অভিজ্ঞতা প্রদান করে। রেস্তোরাঁটি তার উষ্ণ পরিবেশ এবং চমৎকার পরিষেবার জন্য পরিচিত। দাম মাঝারি, এবং মেনুতে বিভিন্ন পদ অন্তর্ভুক্ত রয়েছে, যার মধ্যে তাজা মাছ এবং গরম বুর্গার রয়েছে।",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "গৌরমেট বার্গার",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Рейкьявике 2026 — Топ Ресторанов и Уличной Еды",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Рейкьявике. От бюджетной еды до изысканных ужинов — с ссылками для бронирования.",
+      "seo_title": "Топ 10 Ресторанов Рейкьявика 2026 — Лучшие Блюда и Улица",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Запланируйте свой обед сейчас!",
       "page_intro": "Рейкьявик славится яркой культурой еды, которая прекрасно сочетает традиционную исландскую кухню с современной гастрономией. От свежих морепродуктов, пойманных в местных водах, до инновационной уличной еды, город предлагает разнообразие кулинарных наслаждений, которые удовлетворят любой вкус. Независимо от того, обедаете ли вы в уютном кафе или наслаждаетесь блюдами в хорошем ресторане, гастрономическая сцена Рейкьявика обязательно впечатлит.",
       "items": [
         {
@@ -1060,7 +1078,7 @@
           "description": "Расположенный в самом центре Рейкьявика, Гавань Хаус славится своими свежими морепродуктами и местными ингредиентами. Уютная атмосфера идеально подходит для наслаждения их фирменным блюдом — арктическим форелем. Цены умеренные, что делает его отличным выбором как для повседневных ужинов, так и для любителей еды, ищущих уникальный опыт.",
           "image_keyword": "seafood restaurant Reykjavik",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "ISK4,500–8,000",
           "must_try": "Арктический форель",
           "klook_query": "The Harbor House Reykjavik"
         },
@@ -1071,7 +1089,7 @@
           "description": "Этот культовый киоск с хот-догами — обязательное место для посещения для всех, кто находится в Рейкьявике. Известный своими хот-догами из баранины, Bæjarins Beztu Pylsur предлагает вкусный и доступный опыт уличной еды. Не забудьте попробовать его с полным набором, включая хрустящий лук и ремуляд для взрыва вкуса!",
           "image_keyword": "Bæjarins Beztu Pylsur hot dogs",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "горячая собака из ягненка",
           "klook_query": "Bæjarins Beztu Pylsur Reykjavik"
         },
@@ -1082,7 +1100,7 @@
           "description": "Кальдалон известен своей изысканной исландской кухней, предлагающей свежую рыбу и традиционные блюда. С потрясающим видом на гавань, это идеальное место для романтического ужина. Ценовой диапазон выше среднего, но качество и атмосфера делают его стоящим каждой кроны.",
           "image_keyword": "Kaldalon restaurant Reykjavik",
           "star_rating": 4.6,
-          "price_range": "$$$",
+          "price_range": "ISK10,000–18,000",
           "must_try": "рыба дня",
           "klook_query": "Kaldalon Reykjavik"
         },
@@ -1093,7 +1111,7 @@
           "description": "Хлеммур Матхолл — это гастрономический рынок, представляющий разнообразных продавцов, предлагающих все, от гурманских бургеров до традиционных исландских блюд. Живописная атмосфера идеально подходит для любителей еды, желающих исследовать различные вкусы. С разумными ценами и непринужденной атмосферой, это отличное место для обеда или ужина.",
           "image_keyword": "Hlemmur Matholl food market",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,000–6,000",
           "must_try": "исландский суп из ягненка",
           "klook_query": "Hlemmur Matholl Reykjavik"
         },
@@ -1104,7 +1122,7 @@
           "description": "Сайгрейфин известен своим вкусным супом из лобстера и свежими морепродуктами. Этот неформальный ресторан пользуется популярностью как у местных жителей, так и у туристов, что делает его обязательным для посещения для любителей морепродуктов. Наслаждайтесь расслабляющей атмосферой, отведав тарелку их знаменитого супа из лобстера по разумной цене.",
           "image_keyword": "Sægreifinn lobster soup",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "ISK4,000–7,000",
           "must_try": "суп из лобстера",
           "klook_query": "Sægreifinn Reykjavik"
         },
@@ -1115,7 +1133,7 @@
           "description": "Уличная еда Рейкьявика — отличное место, чтобы попробовать различные исландские блюда в непринужденной обстановке. Они предлагают все, от рыбы с картошкой фри до традиционного исландского мясного супа. Цены доступны, что делает это идеальной остановкой для быстрого приема пищи во время изучения города.",
           "image_keyword": "Street Food Reykjavik",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "ISK500–1,000",
           "must_try": "исландский мясной суп",
           "klook_query": "Street Food Reykjavik"
         },
@@ -1126,7 +1144,7 @@
           "description": "Исландский Вегур — это уютное кафе, специализирующееся на традиционных исландских пирожных и кофе. Идеально подходит для завтрака или легкой закуски, это отличное место, чтобы расслабиться и насладиться вкусом местной культуры. Цены очень доступные, что делает его доступным для всех.",
           "image_keyword": "Icelandic cafe Reykjavik",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "ISK600–1,200",
           "must_try": "кейк из скир",
           "klook_query": "Íslenskur Vegur Reykjavik"
         },
@@ -1137,7 +1155,7 @@
           "description": "Гуллфосс Бистро сочетает современную кухню с традиционными исландскими вкусами, предлагая уникальный гастрономический опыт. Ресторан известен своей теплой атмосферой и отличным обслуживанием. Цены умеренные, а меню включает разнообразные блюда, включая свежую рыбу и гурманские бургеры.",
           "image_keyword": "Gullfoss Bistro Reykjavik",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "ISK3,500–6,500",
           "must_try": "гурман-бургер",
           "klook_query": "Gullfoss Bistro Reykjavik"
         }

@@ -2,9 +2,9 @@
   "city_slug": "vienna",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Vienna 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Vienna. Find opening hours, ticket prices and booking links for Vienna's top landmarks.",
-      "page_intro": "Vienna, the capital of Austria, is a city renowned for its imperial palaces, vibrant culture, and rich history. From stunning architecture to world-class museums, visitors can immerse themselves in a destination that seamlessly blends the past with the present. Enjoy a leisurely stroll through its beautiful parks, indulge in delicious local cuisine, and experience the unique charm that makes Vienna a must-visit European city.",
+      "seo_title": "8 Must-See Attractions in Vienna 2026 - Complete Guide",
+      "seo_description": "Discover Vienna's top sights with tickets, opening hours, and insider tips. Book your adventure now with Klook for an unforgettable experience!",
+      "page_intro": "Discover the enchanting allure of Vienna, where majestic Schönbrunn Palace, the breathtaking St. Stephen's Cathedral, and the stunning Belvedere Palace await. Immerse yourself in the city's rich cultural tapestry and book your unforgettable experience via Klook.",
       "items": [
         {
           "id": "schonbrunn-palace",
@@ -91,12 +91,16 @@
           "best_time": "anytime",
           "klook_query": "Innere Stadt"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Vienna?",
+      "faq_q2": "Do I need tickets for attractions in Vienna?",
+      "faq_a1_suffix": " Schönbrunn Palace, St. Stephen's Cathedral, and Belvedere Palace are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Vienna require tickets for entry. You can easily purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026 年維也納最佳景點 — 票務、提示與完整指南",
-      "seo_description": "探索維也納最佳景點。查找維也納主要地標的開放時間、票價和預訂連結。",
-      "page_intro": "維也納，奧地利的首都，以其帝國宮殿、充滿活力的文化和豐富的歷史而聞名。從壯觀的建築到世界級的博物館，遊客可以沉浸在這個無縫結合過去與現在的目的地中。享受在美麗公園中的悠閒漫步，品嚐美味的當地美食，體驗使維也納成為必訪歐洲城市的獨特魅力。",
+      "seo_title": "2026 年維也納 8 大必看景點 — 完整指南",
+      "seo_description": "獲取維也納熱門景點的票務、開放時間及內部提示，立即透過 Klook 預訂，開啟您的旅行冒險！",
+      "page_intro": "探索維也納的魅力，這座城市以壯麗的美泉宮、聖斯特凡大教堂和美麗的貝爾維德宮而聞名。無論是歷史建築還是隱藏的寶石，維也納都能讓你流連忘返。立即透過Klook預訂，避開排隊，輕鬆享受這些必訪景點！",
       "items": [
         {
           "id": "schonbrunn-palace",
@@ -182,12 +186,16 @@
           "best_time": "anytime",
           "klook_query": "Innere Stadt"
         }
-      ]
+      ],
+      "faq_q1": "維也納有哪些熱門景點？",
+      "faq_q2": "我需要購買維也納景點的門票嗎？",
+      "faq_a1_suffix": " 是必看的景點。",
+      "faq_a2": "大多數維也納的景點都需要門票，建議透過Klook提前購票，以便節省時間，輕鬆進入各大景點。"
     },
     "ja": {
-      "seo_title": "2026年ウィーンのトップ観光スポット — チケット、ヒント＆完全ガイド",
-      "seo_description": "ウィーンの最高の観光スポットを探索してください。ウィーンの主要なランドマークの営業時間、チケット価格、予約リンクを見つけます。",
-      "page_intro": "オーストリアの首都ウィーンは、帝国の宮殿、活気ある文化、豊かな歴史で知られる都市です。壮大な建築から世界クラスの博物館まで、訪問者は過去と現在が見事に融合した目的地に没頭することができます。美しい公園をゆっくり散策し、美味しい地元料理を堪能し、ウィーンを訪れるべきヨーロッパの都市にするユニークな魅力を体験してください。",
+      "seo_title": "2026年ウィーンの必見観光スポット8選 — 完全ガイド",
+      "seo_description": "ウィーンの観光スポットのチケット、営業時間、インサイダー情報をチェック。Klookで簡単予約！今すぐ計画を立てよう。",
+      "page_intro": "ウィーンの魅力は、壮麗なシェーンブルン宮殿や歴史的な聖シュテファン大聖堂、そして美しいベルヴェデーレ宮殿に凝縮されています。これらの名所を巡りながら、ウィーンの豊かな文化と歴史に触れてみてください。行列を避け、Klookでスムーズにチケットを予約しましょう。",
       "items": [
         {
           "id": "schonbrunn-palace",
@@ -273,12 +281,16 @@
           "best_time": "anytime",
           "klook_query": "Innere Stadt"
         }
-      ]
+      ],
+      "faq_q1": "ウィーンの主要な観光名所は何ですか？",
+      "faq_q2": "ウィーンの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " シェーンブルン宮殿、聖シュテファン大聖堂、ベルヴェデーレ宮殿が必見の名所です。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、事前に簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 비엔나 최고의 관광명소 — 티켓, 팁 & 완벽 가이드",
-      "seo_description": "비엔나의 최고의 관광명소를 탐험하세요. 비엔나의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "오스트리아의 수도 비엔나는 제국의 궁전, 활기찬 문화, 풍부한 역사로 유명한 도시입니다. 멋진 건축물부터 세계적 수준의 박물관까지, 방문객들은 과거와 현재가 완벽하게 조화를 이루는 목적지에 몰입할 수 있습니다. 아름다운 공원을 여유롭게 산책하고, 맛있는 현지 요리를 즐기며, 비엔나를 꼭 방문해야 할 유럽 도시로 만드는 독특한 매력을 경험해보세요.",
+      "seo_title": "2026년 비엔나 최고의 관광명소 8곳 — 완벽 가이드",
+      "seo_description": "비엔나의 숨겨진 보석을 발견하세요! 운영 시간, 티켓 가격, Klook 예약 링크와 팁을 확인하고 여행을 계획하세요.",
+      "page_intro": "비엔나는 황홀한 궁전과 독특한 문화가 어우러진 도시입니다. 쇤브룬 궁전, 성 슈테판 대성당, 벨베데레 궁전 등은 반드시 방문해야 할 명소입니다. 번거로움 없이 Klook을 통해 미리 예약하고 비엔나의 매력을 만끽하세요.",
       "items": [
         {
           "id": "schonbrunn-palace",
@@ -364,12 +376,16 @@
           "best_time": "anytime",
           "klook_query": "Innere Stadt"
         }
-      ]
+      ],
+      "faq_q1": "비엔나에서 꼭 가봐야 할 명소는 무엇인가요?",
+      "faq_q2": "비엔나의 명소에 입장하려면 티켓이 필요한가요?",
+      "faq_a1_suffix": " 는 필수 방문 명소입니다.",
+      "faq_a2": "대부분의 명소에 입장하려면 티켓이 필요합니다. Klook을 통해 간편하게 미리 예약하세요."
     },
     "fr": {
-      "seo_title": "Top attractions à Vienne 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Vienne. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Vienne.",
-      "page_intro": "Vienne, la capitale de l'Autriche, est une ville renommée pour ses palais impériaux, sa culture vibrante et sa riche histoire. Des architectures époustouflantes aux musées de classe mondiale, les visiteurs peuvent s'immerger dans une destination qui allie harmonieusement le passé et le présent. Profitez d'une promenade tranquille à travers ses beaux parcs, régalez-vous de la délicieuse cuisine locale et découvrez le charme unique qui fait de Vienne une ville européenne incontournable.",
+      "seo_title": "8 Must-See Attractions à Vienne 2026 — Guide Complet",
+      "seo_description": "Obtenez les horaires, prix et conseils pour les attractions de Vienne. Réservez facilement vos billets via Klook et explorez les incontournables!",
+      "page_intro": "Découvrez Vienne, une ville où l'histoire et la modernité se rencontrent à chaque coin de rue ! Des joyaux comme le Palais de Schönbrunn et la cathédrale Saint-Étienne aux trésors cachés, chaque visiteur trouvera son bonheur. Évitez les files d'attente et réservez vos billets via Klook pour une expérience inoubliable.",
       "items": [
         {
           "id": "schonbrunn-palace",
@@ -455,11 +471,15 @@
           "best_time": "anytime",
           "klook_query": "Innere Stadt"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Vienne ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Vienne ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets. Réservez facilement vos entrées sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales atracciones en Viena 2026 — Entradas, consejos y guía completa",
-      "seo_description": "Explora las mejores atracciones de Viena. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Viena.",
+      "seo_title": "Top 5 Must-See Atracciones en Viena 2026",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las mejores atracciones de Viena. ¡Reserva ahora y vive la experiencia al máximo!",
       "page_intro": "Viena, la capital de Austria, es una ciudad reconocida por sus palacios imperiales, su cultura vibrante y su rica historia. Desde impresionantes arquitecturas hasta museos de clase mundial, los visitantes pueden sumergirse en un destino que combina a la perfección el pasado con el presente. Disfruta de un paseo tranquilo por sus hermosos parques, deleítate con la deliciosa cocina local y experimenta el encanto único que hace de Viena una ciudad europea que hay que visitar.",
       "items": [
         {
@@ -549,7 +569,7 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Vienna 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "Atraksi Terbaik di Wina 2026 - Panduan Lengkap",
       "seo_description": "Explore the best attractions in Vienna. Find opening hours, ticket prices and booking links for Vienna's top landmarks.",
       "page_intro": "Vienna, the capital of Austria, is a city renowned for its imperial palaces, vibrant culture, and rich history. From stunning architecture to world-class museums, visitors can immerse themselves in a destination that seamlessly blends the past with the present. Enjoy a leisurely stroll through its beautiful parks, indulge in delicious local cuisine, and experience the unique charm that makes Vienna a must-visit European city.",
       "items": [
@@ -731,7 +751,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Viena 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Viena 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações de Viena. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Viena.",
       "page_intro": "Viena, a capital da Áustria, é uma cidade renomada por seus palácios imperiais, cultura vibrante e rica história. Desde uma arquitetura deslumbrante até museus de classe mundial, os visitantes podem se imergir em um destino que combina perfeitamente o passado com o presente. Aproveite um passeio relaxante por seus belos parques, delicie-se com a deliciosa culinária local e experimente o charme único que torna Viena uma cidade europeia imperdível.",
       "items": [
@@ -822,7 +842,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في فيينا 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم فيينا 2026 - دليل السياحة",
       "seo_description": "استكشف أفضل المعالم السياحية في فيينا. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم فيينا.",
       "page_intro": "فيينا، عاصمة النمسا، هي مدينة مشهورة بقصورها الإمبراطورية، ثقافتها الحيوية وتاريخها الغني. من العمارة الرائعة إلى المتاحف العالمية، يمكن للزوار الانغماس في وجهة تمزج بين الماضي والحاضر بسلاسة. استمتع بنزهة مريحة في حدائقها الجميلة، واغمر نفسك في المأكولات المحلية الشهية، واختبر السحر الفريد الذي يجعل من فيينا مدينة أوروبية لا بد من زيارتها.",
       "items": [
@@ -915,7 +935,7 @@
     "bn": {
       "seo_title": "ভিয়েনার শীর্ষ আকর্ষণ 2026 — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
       "seo_description": "ভিয়েনার সেরা আকর্ষণগুলি অন্বেষণ করুন। ভিয়েনার শীর্ষ স্থাপনাগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
-      "page_intro": "ভিয়েনা, অস্ট্রিয়ার রাজধানী, একটি শহর যা তার সাম্রাজ্যিক প্রাসাদ, প্রাণবন্ত সংস্কৃতি এবং সমৃদ্ধ ইতিহাসের জন্য বিখ্যাত। চমৎকার স্থাপত্য থেকে শুরু করে বিশ্বমানের জাদুঘর, দর্শকরা এক এমন গন্তব্যে নিমজ্জিত হতে পারেন যা অতীত এবং বর্তমানকে নিখুঁতভাবে মিশ্রিত করে। এর সুন্দর উদ্যানগুলির মধ্যে একটি আরামদায়ক পদচারনা উপভোগ করুন, সুস্বাদু স্থানীয় খাবারে মজুন, এবং সেই অনন্য মায়া অনুভব করুন যা ভিয়েনাকে একটি আবশ্যক ইউরোপীয় শহর করে তোলে।",
+      "page_intro": "ভিয়েনা, অস্ট্রিয়ার হৃদয়, একটি বিস্ময়কর শহর যা আপনাকে তার ঐতিহাসিক প্রাসাদ, মনোমুগ্ধকর স্থাপত্য এবং সাংস্কৃতিক বৈচিত্র্যের মধ্যে হারিয়ে যেতে বাধ্য করবে। শোচন প্রাসাদ, সেন্ট স্টিফেন ক্যাথেড্রাল এবং বেলভেদিয়ার প্রাসাদ সহ অসাধারণ দর্শনীয় স্থানগুলি আবিষ্কার করুন। লাইনে দাঁড়ানো এড়িয়ে চলুন, Klook-এর মাধ্যমে বুক করুন।",
       "items": [
         {
           "id": "schonbrunn-palace",
@@ -1001,12 +1021,16 @@
           "best_time": "anytime",
           "klook_query": "Innere Stadt"
         }
-      ]
+      ],
+      "faq_q1": "ভিয়েনার শীর্ষ আকর্ষণগুলি কী কী?",
+      "faq_q2": "ভিয়েনার আকর্ষণের জন্য কি টিকিটের প্রয়োজন?",
+      "faq_a1_suffix": " শীর্ষ দর্শনীয় স্থানগুলির মধ্যে রয়েছে।",
+      "faq_a2": "হ্যাঁ, বেশিরভাগ আকর্ষণের জন্য টিকিটের প্রয়োজন হয়। Klook-এর মাধ্যমে আগেই টিকিট বুক করে আপনার ভ্রমণকে আরও সহজ করুন।"
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Вены 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ достопримечательностей Вены 2026 — Советы",
       "seo_description": "Изучите лучшие достопримечательности Вены. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Вены.",
-      "page_intro": "Вена, столица Австрии, — это город, известный своими императорскими дворцами, яркой культурой и богатой историей. От великолепной архитектуры до музеев мирового класса, посетители могут погрузиться в место, которое гармонично сочетает прошлое и настоящее. Наслаждайтесь неспешной прогулкой по красивым паркам, попробуйте вкусную местную кухню и ощутите уникальное очарование, которое делает Вену обязательным для посещения европейским городом.",
+      "page_intro": "Вена — это настоящая сокровищница культурных и исторических достопримечательностей! От величественного дворца Шенбрунн до великолепия собора Святого Стефана, каждый уголок города полон удивительных открытий. Забудьте о длинных очередях — бронируйте билеты через Klook и наслаждайтесь беззаботным путешествием!",
       "items": [
         {
           "id": "schonbrunn-palace",
@@ -1092,7 +1116,11 @@
           "best_time": "anytime",
           "klook_query": "Innere Stadt"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Вене?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Вене?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей в Вене требуются билеты. Рекомендуем бронировать их через Klook для удобства и экономии времени."
     }
   }
 }

@@ -2,9 +2,9 @@
   "city_slug": "berlin",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Berlin 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Berlin. Find opening hours, ticket prices and booking links for Berlin's top landmarks.",
-      "page_intro": "Berlin, the vibrant capital of Germany, is a city rich in history, culture, and creativity. From its iconic landmarks to its lively districts, there's something for everyone to explore. Whether you're interested in art, history, or simply enjoying the unique atmosphere, Berlin offers an unforgettable experience for every traveler.",
+      "seo_title": "8 Must-See Attractions in Berlin 2026 — Complete Guide",
+      "seo_description": "Discover Berlin's top sights with tickets, hours, and insider tips. Book your adventure now with Klook for an unforgettable experience!",
+      "page_intro": "Discover Berlin, a city where history meets modernity at every turn! From the majestic Brandenburg Gate to the poignant Berlin Wall Memorial and the artistic treasures of Museum Island, there's no shortage of sights to see. Skip the lines and book your adventure via Klook for a seamless experience!",
       "items": [
         {
           "id": "brandenburg-gate",
@@ -102,12 +102,16 @@
           "best_time": "afternoon",
           "klook_query": "Mauerpark tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Berlin?",
+      "faq_q2": "Do I need tickets for attractions in Berlin?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Berlin require tickets for entry. Be sure to check Klook for convenient ticket options to avoid long queues."
     },
     "zh": {
-      "seo_title": "2026 年柏林最佳景點 — 票務、提示及完整指南",
-      "seo_description": "探索柏林最佳景點。了解開放時間、票價和柏林主要地標的訂票連結。",
-      "page_intro": "柏林，德國的活力首都，是一座歷史、文化和創意豐富的城市。從標誌性的地標到熱鬧的區域，每個人都能找到探索的樂趣。無論你對藝術、歷史感興趣，還是單純想享受獨特的氛圍，柏林為每位旅客提供難忘的體驗。",
+      "seo_title": "2026 年柏林 8 大必看景點 — 完整指南及票務資訊",
+      "seo_description": "獲取柏林景點的票務、開放時間及內部提示，並透過 Klook 預訂連結輕鬆規劃行程！",
+      "page_intro": "探索柏林的魅力，這座城市以其歷史悠久的地標和隱藏的珍寶而聞名。從壯觀的布蘭登堡門到感人的柏林圍牆紀念館，每個角落都充滿故事。立即透過Klook預訂，跳過排隊，享受無與倫比的旅程！",
       "items": [
         {
           "id": "brandenburg-gate",
@@ -205,12 +209,16 @@
           "best_time": "afternoon",
           "klook_query": "Mauerpark tickets"
         }
-      ]
+      ],
+      "faq_q1": "柏林有哪些熱門景點？",
+      "faq_q2": "我需要購票進入柏林的景點嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點需要購票，建議您透過Klook提前購買，以便節省時間和避免排隊。"
     },
     "ja": {
-      "seo_title": "2026年ベルリンのトップアトラクション — チケット、ヒント＆完全ガイド",
-      "seo_description": "ベルリンの最高のアトラクションを探索してください。ベルリンの主要なランドマークの開館時間、チケット料金、予約リンクを見つけましょう。",
-      "page_intro": "ベルリンは、歴史、文化、創造性に富んだドイツの活気ある首都です。象徴的なランドマークから賑やかな地区まで、誰もが探索できるものがあります。アートや歴史に興味がある方、または独特の雰囲気を楽しむことに興味がある方にとって、ベルリンは忘れられない体験を提供します。",
+      "seo_title": "2026年ベルリンの必見アトラクション8選 — 完全ガイド",
+      "seo_description": "ベルリンのアトラクションのチケット、開館時間、ヒントをチェック。Klookでの予約リンクもご利用ください。",
+      "page_intro": "歴史と現代が交錯するベルリンは、訪れる人々を魅了する数々の名所が揃っています。ブランデンブルク門やベルリンの壁記念碑など、見逃せないスポットが満載です。行列を避けて、Klookで簡単に予約しましょう！",
       "items": [
         {
           "id": "brandenburg-gate",
@@ -308,12 +316,16 @@
           "best_time": "afternoon",
           "klook_query": "Mauerpark tickets"
         }
-      ]
+      ],
+      "faq_q1": "ベルリンの主な観光名所は何ですか？",
+      "faq_q2": "ベルリンの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " ブランデンブルク門やベルリンの壁記念碑などが必見の観光名所です。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 베를린 최고의 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "베를린 최고의 명소를 탐험하세요. 베를린의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "베를린은 독일의 활기찬 수도로, 역사, 문화 및 창의성으로 가득한 도시입니다. 상징적인 랜드마크에서 활기찬 지역까지, 누구나 탐험할 수 있는 무언가가 있습니다. 예술이나 역사에 관심이 있거나 독특한 분위기를 즐기고 싶다면, 베를린은 모든 여행자에게 잊을 수 없는 경험을 제공합니다.",
+      "seo_title": "2026년 베를린 최고의 8개 명소 — 완벽 가이드",
+      "seo_description": "베를린의 숨겨진 보석과 주요 명소의 개장 시간, 티켓 가격, 예약 링크를 Klook에서 확인하세요. 지금 계획해보세요!",
+      "page_intro": "베를린은 역사와 문화가 어우러진 도시로, 브란덴부르크 문, 베를린 장벽 기념관, 박물관 섬과 같은 상징적인 명소가 가득합니다. 독특한 경험을 원하신다면, Klook을 통해 줄 서지 않고 쉽게 예약하세요.",
       "items": [
         {
           "id": "brandenburg-gate",
@@ -411,12 +423,16 @@
           "best_time": "afternoon",
           "klook_query": "Mauerpark tickets"
         }
-      ]
+      ],
+      "faq_q1": "베를린의 주요 명소는 무엇인가요?",
+      "faq_q2": "베를린의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 브란덴부르크 문, 베를린 장벽 기념관, 박물관 섬 등이 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소는 입장권이 필요합니다. Klook을 통해 미리 구매하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Top attractions à Berlin 2026 — Billets, conseils et guide complet",
-      "seo_description": "Explorez les meilleures attractions de Berlin. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Berlin.",
-      "page_intro": "Berlin, la capitale dynamique de l'Allemagne, est une ville riche en histoire, culture et créativité. Des monuments emblématiques aux quartiers animés, il y a quelque chose à explorer pour tout le monde. Que vous soyez intéressé par l'art, l'histoire ou simplement par profiter de l'atmosphère unique, Berlin offre une expérience inoubliable à chaque voyageur.",
+      "seo_title": "Top 8 Attractions à Berlin 2026 - Guide Incontournable",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions de Berlin. Réservez facilement vos billets sur Klook !",
+      "page_intro": "Découvrez Berlin, une ville où l'histoire et la modernité se rencontrent à chaque coin de rue. Des monuments emblématiques comme la Porte de Brandebourg et le Mémorial du Mur de Berlin aux trésors culturels de l'Île des Musées, chaque visite offre une nouvelle aventure. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "brandenburg-gate",
@@ -514,11 +530,15 @@
           "best_time": "afternoon",
           "klook_query": "Mauerpark tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Berlin ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Berlin ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les files d'attente. Vous pouvez les réserver facilement sur Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones en Berlín 2026 — Entradas, consejos y guía completa",
-      "seo_description": "Explora las mejores atracciones de Berlín. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Berlín.",
+      "seo_title": "Top 8 Atracciones en Berlín 2026 — ¡Imperdibles!",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Berlín. Reserva tus entradas en Klook y vive una experiencia inolvidable.",
       "page_intro": "Berlín, la vibrante capital de Alemania, es una ciudad rica en historia, cultura y creatividad. Desde sus icónicos monumentos hasta sus animados distritos, hay algo para que cada persona explore. Ya sea que estés interesado en el arte, la historia o simplemente en disfrutar de la atmósfera única, Berlín ofrece una experiencia inolvidable para cada viajero.",
       "items": [
         {
@@ -620,9 +640,9 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Berlin 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Atraksi Terbaik Berlin 2026: Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Berlin. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Berlin.",
-      "page_intro": "Berlin, ibu kota Jerman yang dinamis, adalah kota yang kaya akan sejarah, budaya, dan kreativitas. Dari landmark ikonik hingga distrik yang ramai, ada sesuatu untuk dijelajahi oleh semua orang. Apakah Anda tertarik dengan seni, sejarah, atau sekadar menikmati suasana yang unik, Berlin menawarkan pengalaman yang tak terlupakan bagi setiap pelancong.",
+      "page_intro": "Temukan pesona Berlin, kota yang penuh dengan sejarah dan inovasi! Dari Gerbang Brandenburg yang megah hingga Memorial Tembok Berlin yang menyentuh, setiap sudut menawarkan keajaiban. Dapatkan pengalaman tak terlupakan dengan memesan melalui Klook!",
       "items": [
         {
           "id": "brandenburg-gate",
@@ -720,7 +740,11 @@
           "best_time": "afternoon",
           "klook_query": "Mauerpark tickets"
         }
-      ]
+      ],
+      "faq_q1": "Apa saja atraksi utama di Berlin?",
+      "faq_q2": "Apakah saya perlu tiket untuk atraksi di Berlin?",
+      "faq_a1_suffix": " adalah beberapa atraksi yang wajib dikunjungi.",
+      "faq_a2": "Ya, sebagian besar atraksi memerlukan tiket masuk. Anda dapat membeli tiket dengan mudah melalui Klook untuk pengalaman yang lebih lancar."
     },
     "hi": {
       "seo_title": "बर्लिन में शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण गाइड",
@@ -826,9 +850,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Berlim 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Berlim 2026 — Guia e Dicas",
       "seo_description": "Explore as melhores atrações em Berlim. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Berlim.",
-      "page_intro": "Berlim, a vibrante capital da Alemanha, é uma cidade rica em história, cultura e criatividade. Desde seus marcos icônicos até seus bairros animados, há algo para todos explorarem. Se você está interessado em arte, história ou simplesmente em aproveitar a atmosfera única, Berlim oferece uma experiência inesquecível para cada viajante.",
+      "page_intro": "Descubra Berlim, uma cidade que pulsa com história e modernidade! Com marcos icônicos como a Porta de Brandemburgo e o Memorial do Muro de Berlim, cada esquina revela uma nova aventura. Aproveite ao máximo sua visita e reserve suas atrações com Klook!",
       "items": [
         {
           "id": "brandenburg-gate",
@@ -926,10 +950,14 @@
           "best_time": "afternoon",
           "klook_query": "Mauerpark tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Berlim?",
+      "faq_q2": "Preciso de ingressos para as atrações em Berlim?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, muitos locais exigem ingressos. Você pode comprá-los facilmente pelo Klook para evitar filas e garantir sua entrada."
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في برلين 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في برلين 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في برلين. احصل على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم السياحية في برلين.",
       "page_intro": "برلين، العاصمة الحيوية لألمانيا، مدينة غنية بالتاريخ والثقافة والإبداع. من معالمها الأيقونية إلى أحيائها النابضة بالحياة، هناك شيء للجميع لاستكشافه. سواء كنت مهتمًا بالفن، التاريخ، أو ببساطة الاستمتاع بالأجواء الفريدة، تقدم برلين تجربة لا تُنسى لكل مسافر.",
       "items": [
@@ -1032,8 +1060,8 @@
       ]
     },
     "bn": {
-      "seo_title": "বার্লিনের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "বার্লিনের সেরা আকর্ষণগুলি আবিষ্কার করুন। বার্লিনের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিংক খুঁজুন।",
+      "seo_title": "বার্লিনের ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "বার্লিনের সেরা ৮টি আকর্ষণের টিকিট, খোলার সময় ও টিপস পান। Klook বুকিং লিংক ব্যবহার করে আপনার যাত্রা পরিকল্পনা করুন!",
       "page_intro": "বার্লিন, জার্মানির উজ্জ্বল রাজধানী, ইতিহাস, সংস্কৃতি এবং সৃজনশীলতায় সমৃদ্ধ একটি শহর। এর আইকনিক স্থলচিহ্ন থেকে শুরু করে প্রাণবন্ত পাড়া, সবাইকে আবিষ্কারের জন্য কিছু একটা রয়েছে। আপনি যদি শিল্প, ইতিহাসে আগ্রহী হন বা কেবল অনন্য পরিবেশ উপভোগ করতে চান, বার্লিন প্রতিটি ভ্রমণকারীর জন্য একটি অবিস্মরণীয় অভিজ্ঞতা প্রদান করে।",
       "items": [
         {
@@ -1135,7 +1163,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей Берлина 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Берлина 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Берлина. Узнайте часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Берлина.",
       "page_intro": "Берлин, яркая столица Германии, — это город, богатый историей, культурой и креативностью. От его культовых достопримечательностей до оживленных районов здесь есть что-то, что можно исследовать для каждого. Независимо от того, интересуетесь ли вы искусством, историей или просто хотите насладиться уникальной атмосферой, Берлин предлагает незабываемый опыт для каждого путешественника.",
       "items": [

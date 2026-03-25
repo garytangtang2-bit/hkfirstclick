@@ -2,9 +2,9 @@
   "city_slug": "athens",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Athens 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Athens. From budget eats to fine dining — with booking links.",
-      "page_intro": "Athens boasts a vibrant food culture that reflects its rich history and diverse influences. From ancient tavernas serving traditional Greek dishes to modern eateries offering innovative cuisine, the city's culinary scene is a feast for the senses. Don't miss the bustling street food markets where you can savor local specialties and fresh ingredients.",
+      "seo_title": "8 Best Must-Try Restaurants in Athens 2026 - Top Picks",
+      "seo_description": "Save time with real recommendations for Athens' hidden gems. Book via Klook and discover local favorites. Plan your meal now!",
+      "page_intro": "Dive into Athens' culinary paradise, where mouthwatering souvlaki and creamy moussaka await. Experience the city's vibrant flavors with our curated picks, making your food journey effortless!",
       "items": [
         {
           "id": "souvlaki-souvlaki",
@@ -13,7 +13,7 @@
           "description": "Kostas is a legendary spot in Athens, renowned for its delicious souvlaki and gyros. The atmosphere is casual and welcoming, making it a perfect place for a quick meal. Prices are very reasonable, and the highlight here is their perfectly grilled meat served with fresh pita. A must-try for anyone visiting Athens!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Souvlaki",
           "klook_query": "Kostas restaurant Athens",
           "photo_url": "https://images.pexels.com/photos/733200/pexels-photo-733200.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "The Psiri Street Food Market offers a lively atmosphere filled with vendors serving a variety of Greek street food. Here you can indulge in local favorites like koulouri, loukoum, and fresh seafood. It’s a great place to explore different flavors and enjoy the vibrant local culture. Prices vary, but you can find plenty of budget-friendly options.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Koulouri",
           "klook_query": "Psiri Street Food Market tour",
           "photo_url": "https://images.pexels.com/photos/618491/pexels-photo-618491.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "This charming deli-restaurant is perfect for those looking to savor authentic Greek flavors. Specializing in cured meats and cheeses, Ta Karamanlidika Tou Fani offers a cozy atmosphere where you can enjoy a variety of meze dishes. Prices are reasonable for the quality, making it a great stop for lunch or dinner.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Cured meats platter",
           "klook_query": "Ta Karamanlidika Tou Fani booking",
           "photo_url": "https://images.pexels.com/photos/7415261/pexels-photo-7415261.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -49,7 +49,7 @@
           "description": "The Monastiraki Flea Market is not only famous for shopping but also for its street food scene. Enjoy delicious bites like gyros, souvlaki, and local pastries while exploring the vibrant market. The atmosphere is bustling and full of energy, making it a great spot to mingle with locals. Prices are affordable, allowing for a tasty snack on the go.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Gyros",
           "klook_query": "Monastiraki Flea Market food tour",
           "photo_url": "https://images.pexels.com/photos/5792807/pexels-photo-5792807.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -61,7 +61,7 @@
           "description": "Kuzina offers a modern twist on traditional Greek cuisine, located in the heart of Athens. With a stylish interior and a stunning view of the Acropolis, it’s perfect for a special night out. The menu features seasonal ingredients and innovative dishes. Prices are on the higher end, but the experience is well worth it.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Moussaka",
           "klook_query": "Kuzina restaurant booking",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -73,7 +73,7 @@
           "description": "The Varvakios Agora is Athens' central market, showcasing the best of local produce, meats, and seafood. It’s a feast for the senses, where you can sample fresh ingredients and traditional Greek products. The atmosphere is lively and authentic, perfect for food lovers. Prices are very reasonable, especially for fresh produce.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Fresh seafood",
           "klook_query": "Varvakios Agora market tour",
           "photo_url": "https://images.pexels.com/photos/25033569/pexels-photo-25033569.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -85,7 +85,7 @@
           "description": "Lokali is a trendy cafe known for its delicious brunch options and artisanal coffee. The atmosphere is relaxed and inviting, making it a great spot to unwind. Prices are reasonable, with a variety of options from healthy bowls to sweet pastries. It's a perfect stop for a laid-back meal or coffee break.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Avocado toast",
           "klook_query": "Lokali cafe booking",
           "photo_url": "https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -97,17 +97,20 @@
           "description": "Barley Cargo is a popular bar known for its extensive craft beer selection and cozy atmosphere. Located near the city center, it's a great place to enjoy a drink after exploring Athens. The prices are moderate, and they offer a variety of snacks to pair with your beer. A must-visit for beer lovers!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Craft beer flight",
           "klook_query": "Barley Cargo booking",
           "photo_url": "https://images.pexels.com/photos/533346/pexels-photo-533346.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Athens?",
+      "faq_q2": "Where can I find the best restaurants in Athens?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年雅典最佳美食——顶级餐厅和街头美食指南",
-      "seo_description": "发现雅典最佳餐厅、街头美食和当地特色菜。从经济实惠的美食到高档餐饮——附有预订链接。",
-      "page_intro": "雅典拥有丰富的美食文化，反映了其悠久的历史和多样的影响。从提供传统希腊菜肴的古老酒馆到提供创新美食的现代餐厅，这座城市的烹饪场景是一场感官盛宴。不要错过热闹的街头美食市场，在那里你可以品尝到当地特色和新鲜食材。",
+      "seo_title": "2026年雅典必試美食——8大隱藏美食寶藏",
+      "seo_description": "節省時間，發現雅典的真實推薦，包括Klook預訂。立即計劃您的美食之旅，探索當地最愛！",
+      "page_intro": "雅典的美食場景如同一場味覺的冒險，從傳統的希臘沙拉到香氣四溢的燒烤肉串，這裡的每一道菜都講述著歷史的故事。探索當地的特色小吃，讓您的味蕾在熱鬧的街頭美食市場中狂歡，透過精選的餐廳推薦，讓您的美食之旅更輕鬆無憂。",
       "items": [
         {
           "id": "souvlaki-souvlaki",
@@ -116,7 +119,7 @@
           "description": "科斯塔斯是雅典一个传奇的地方，以其美味的烤肉串和吉罗斯而闻名。气氛轻松友好，非常适合快速用餐。价格非常合理，这里的亮点是他们完美烤制的肉类，配有新鲜的皮塔饼。来雅典的人一定要尝试！",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "希臘烤肉串",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -127,7 +130,7 @@
           "description": "普西里街头美食市场提供了一个充满活力的氛围，摊贩们提供各种希腊街头美食。在这里，你可以享受当地的美食，如库拉里、卢库姆和新鲜海鲜。这里是探索不同风味和享受当地文化的好地方。价格各异，但可以找到很多经济实惠的选择。",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "圓環麵包",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -138,7 +141,7 @@
           "description": "这家迷人的熟食餐厅非常适合那些想要品尝正宗希腊风味的人。专注于腌制肉类和奶酪，塔卡拉曼利迪卡·图·法尼提供了一个舒适的氛围，你可以享用各种小菜。价格对于质量来说非常合理，是午餐或晚餐的绝佳选择。",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "醃製肉拼盤",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -149,7 +152,7 @@
           "description": "摩纳斯提拉基跳蚤市场不仅因购物而闻名，还因其街头美食而著称。探索热闹的市场时，享受美味的吉罗斯、烤肉串和当地糕点。气氛热闹而充满活力，是与当地人交流的好地方。价格实惠，非常适合随时享用美味小吃。",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "希臘肉卷",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -160,7 +163,7 @@
           "description": "库齐纳在雅典市中心提供传统希腊美食的现代风格。时尚的内部装饰和壮观的雅典卫城景观，使其成为特别夜晚的理想之地。菜单上有时令食材和创新菜肴。价格偏高，但体验绝对值得。",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "茄子千層麵",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -171,7 +174,7 @@
           "description": "瓦尔瓦基奥斯市场是雅典的中央市场，展示了当地最好的农产品、肉类和海鲜。这里是感官的盛宴，你可以品尝新鲜食材和传统希腊产品。氛围热闹而真实，非常适合美食爱好者。价格非常合理，尤其是新鲜农产品。",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "新鮮海鮮",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -182,7 +185,7 @@
           "description": "洛卡利是一家时尚的咖啡馆，以其美味的早午餐选项和手工咖啡而闻名。氛围轻松宜人，是放松的好地方。价格合理，有各种选择，从健康碗到甜点。这里是享受轻松餐点或咖啡休息的理想停留地。",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "酪梨吐司",
           "klook_query": "Lokali cafe booking"
         },
@@ -193,16 +196,19 @@
           "description": "大麦货舱是一家受欢迎的酒吧，以其丰富的精酿啤酒选择和舒适的氛围而闻名。位于市中心附近，是在游览雅典后享受饮品的好地方。价格适中，并提供各种小吃与啤酒搭配。啤酒爱好者的必访之地！",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "精釀啤酒品飲",
           "klook_query": "Barley Cargo booking"
         }
-      ]
+      ],
+      "faq_q1": "在雅典最值得品嚐的美食是什麼？",
+      "faq_q2": "在雅典哪裡可以找到最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇之一。"
     },
     "ja": {
-      "seo_title": "2026年アテネのベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "アテネの最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで - 予約リンク付き。",
-      "page_intro": "アテネは、その豊かな歴史と多様な影響を反映した活気ある食文化を誇っています。伝統的なギリシャ料理を提供する古代のタベルナから、革新的な料理を提供する現代のレストランまで、この街の料理シーンは感覚の饗宴です。地元の特産品や新鮮な食材を味わえる賑やかなストリートフードマーケットを見逃さないでください。",
+      "seo_title": "2026年アテネの必食レストラン8選 — 地元の隠れた名店",
+      "seo_description": "時間を節約し、信頼できるおすすめを発見。Klookで予約して、地元の人気店を今すぐ計画しましょう！",
+      "page_intro": "アテネの食文化は、伝統と革新が織り成す美味の冒険です。ムサカやスブラキなどの地元料理を楽しみながら、コスタスやプシリストリートフードマーケットの名店を訪れましょう。時間を節約し、厳選されたおすすめをKlookで予約して、特別な食体験を！",
       "items": [
         {
           "id": "souvlaki-souvlaki",
@@ -211,7 +217,7 @@
           "description": "コスタスはアテネの伝説的なスポットで、美味しいスブラキとギロスで有名です。カジュアルで温かみのある雰囲気があり、素早い食事をするのに最適な場所です。価格は非常にリーズナブルで、ここでのハイライトは新鮮なピタと共に提供される完璧にグリルされた肉です。アテネを訪れる誰にとっても必見です！",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "スブラキ",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -222,7 +228,7 @@
           "description": "プシリストリートフードマーケットは、さまざまなギリシャのストリートフードを提供するベンダーで賑わう活気ある雰囲気があります。ここでは、クローリ、ルクーム、新鮮なシーフードなどの地元の人気料理を楽しむことができます。異なるフレーバーを探索しながら、活気ある地元の文化を楽しむのに最適な場所です。価格はさまざまで、予算に優しいオプションも豊富です。",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "クーロウリ",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -233,7 +239,7 @@
           "description": "この魅力的なデリレストランは、本格的なギリシャの風味を味わいたい人にぴったりです。 cured meatsとチーズを専門とするタ・カラマンリディカ・トゥ・ファニは、さまざまなメゼ料理を楽しむことができる居心地の良い雰囲気を提供しています。質に対して価格はリーズナブルで、昼食や夕食に最適なスポットです。",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": " cured meats platter",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -244,7 +250,7 @@
           "description": "モナスティラキ蚤の市は、ショッピングだけでなく、ストリートフードシーンでも有名です。活気ある市場を探索しながら、ギロス、スブラキ、地元のペストリーなどの美味しい料理を楽しんでください。雰囲気は賑やかでエネルギーに満ちており、地元の人々と交流するのに最適な場所です。価格は手頃で、気軽に美味しいスナックを楽しめます。",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "ギロス",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -255,7 +261,7 @@
           "description": "クジナはアテネの中心部に位置し、伝統的なギリシャ料理に現代的なひねりを加えています。スタイリッシュな内装とアクロポリスの素晴らしい眺めを楽しむことができ、特別な夜のお出かけに最適です。メニューには季節の食材や革新的な料理が含まれています。価格は高めですが、その体験には十分価値があります。",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "ムサカ",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -266,7 +272,7 @@
           "description": "ヴァルバキオスアゴラはアテネの中央市場で、地元の農産物、肉、シーフードの最高のものを展示しています。新鮮な食材や伝統的なギリシャ製品を試食できる感覚の饗宴です。雰囲気は活気があり、真実味があり、食べ物好きに最適です。新鮮な農産物に関しては、価格は非常にリーズナブルです。",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "新鮮な海鮮",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -277,7 +283,7 @@
           "description": "ロカリは美味しいブランチオプションとアーティザナルコーヒーで知られるトレンディなカフェです。リラックスできる雰囲気があり、くつろぐのに最適な場所です。価格はリーズナブルで、健康的なボウルから甘いペストリーまで様々な選択肢があります。リラックスした食事やコーヒーブレイクにぴったりのスポットです。",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "アボカドトースト",
           "klook_query": "Lokali cafe booking"
         },
@@ -288,16 +294,19 @@
           "description": "バーレイカーゴは、広範なクラフトビールのセレクションと居心地の良い雰囲気で知られる人気のバーです。市の中心近くに位置しており、アテネを探索した後に飲み物を楽しむのに最適な場所です。価格は適度で、ビールに合うさまざまなスナックを提供しています。ビール愛好家には必見のスポットです！",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "クラフトビールフライト",
           "klook_query": "Barley Cargo booking"
         }
-      ]
+      ],
+      "faq_q1": "アテネでおすすめの料理は何ですか？",
+      "faq_q2": "アテネで最高のレストランはどこですか？",
+      "faq_a2_suffix": " はトップ評価のダイニングオプションです。"
     },
     "ko": {
-      "seo_title": "2026년 아테네 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "아테네 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 친화적인 음식부터 고급 다이닝까지 - 예약 링크 포함.",
-      "page_intro": "아테네는 그 풍부한 역사와 다양한 영향을 반영한 활기찬 음식 문화를 자랑합니다. 전통 그리스 요리를 제공하는 고대 타베르나부터 혁신적인 요리를 제공하는 현대식 레스토랑까지, 이 도시의 요리 장면은 감각을 위한 축제입니다. 현지 특산품과 신선한 재료를 맛볼 수 있는 분주한 스트리트 푸드 시장을 놓치지 마세요.",
+      "seo_title": "2026년 아테네 최고의 8가지 음식 — 숨겨진 보석들",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약 링크로 아테네의 지역 특선 음식을 지금 계획하세요!",
+      "page_intro": "아테네의 음식 장면은 전통과 현대가 어우러진 맛의 향연입니다. 수제 수블라키와 신선한 그리스 샐러드 같은 현지 특산품을 즐기며, 입맛을 사로잡는 경험을 해보세요. Klook을 통해 추천된 맛집을 쉽게 예약하고 시간을 절약하세요.",
       "items": [
         {
           "id": "souvlaki-souvlaki",
@@ -306,7 +315,7 @@
           "description": "코스타스는 아테네의 전설적인 장소로, 맛있는 수블라키와 기로스로 유명합니다. 분위기는 캐주얼하고 친근하여 빠른 식사에 적합한 장소입니다. 가격도 매우 합리적이며, 여기서의 하이라이트는 신선한 피타와 함께 제공되는 완벽하게 구운 고기입니다. 아테네를 방문하는 누구에게나 꼭 추천하는 곳입니다!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "수블라키",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -317,7 +326,7 @@
           "description": "프시리 스트리트 푸드 마켓은 다양한 그리스 스트리트 푸드를 제공하는 상인들로 가득 찬 활기찬 분위기를 제공합니다. 여기에서 쿠로리, 루쿠움, 신선한 해산물과 같은 현지 인기 요리를 즐길 수 있습니다. 다양한 맛을 탐험하고 활기찬 지역 문화를 즐기기에 좋은 장소입니다. 가격은 다양하지만 예산에 맞는 옵션이 많이 있습니다.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "쿨로우리",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -328,7 +337,7 @@
           "description": "이 매력적인 델리 레스토랑은 정통 그리스 풍미를 즐기고자 하는 사람들에게 완벽합니다. cured meats와 치즈를 전문으로 하는 타 카라만리디카 투 파니는 다양한 메제 요리를 즐길 수 있는 아늑한 분위기를 제공합니다. 품질에 비해 가격이 합리적이어서 점심이나 저녁에 좋은 선택입니다.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": " cured meats platter",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -339,7 +348,7 @@
           "description": "모나스티라키 벼룩시장은 쇼핑뿐만 아니라 스트리트 푸드 장면으로도 유명합니다. 활기찬 시장을 탐험하면서 기로스, 수블라키 및 현지 페이스트리를 즐겨보세요. 분위기는 분주하고 에너지가 넘쳐 지역 주민들과 어울리기 좋은 장소입니다. 가격이 저렴하여 언제든지 맛있는 간식을 즐길 수 있습니다.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "기로스",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -350,7 +359,7 @@
           "description": "쿠지나는 아테네 중심부에 위치하며 전통 그리스 요리에 현대적인 변화를 주는 곳입니다. 세련된 인테리어와 아크로폴리스를 바라보는 멋진 전망이 있어 특별한 저녁 외출에 적합한 장소입니다. 메뉴는 제철 재료와 혁신적인 요리로 구성되어 있습니다. 가격은 다소 높은 편이지만 경험은 충분히 가치가 있습니다.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "무사카",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -361,7 +370,7 @@
           "description": "바르바키오스 아고라는 아테네의 중앙 시장으로, 지역의 최고의 농산물, 육류 및 해산물을 선보입니다. 신선한 재료와 전통 그리스 제품을 시식할 수 있는 감각의 향연입니다. 분위기는 활기차고 진정성 있으며, 음식 애호가에게 완벽한 장소입니다. 신선한 농산물의 경우 가격이 매우 합리적입니다.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "신선한 해산물",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -372,7 +381,7 @@
           "description": "로칼리는 맛있는 브런치 옵션과 아티장 커피로 유명한 트렌디한 카페입니다. 편안하고 초대하는 분위기로, 휴식을 취하기에 좋은 장소입니다. 가격은 합리적이며 건강한 볼부터 달콤한 페이스트리까지 다양한 옵션이 있습니다. 느긋한 식사나 커피 휴식을 위한 완벽한 장소입니다.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "아보카도 토스트",
           "klook_query": "Lokali cafe booking"
         },
@@ -383,16 +392,19 @@
           "description": "바를리 카고는 광범위한 수제 맥주 선택과 아늑한 분위기로 유명한 인기 바입니다. 시내 중심 근처에 위치하여 아테네를 탐험한 후 음료를 즐기기에 좋은 장소입니다. 가격은 적당하며, 맥주와 함께 할 수 있는 다양한 스낵을 제공합니다. 맥주 애호가라면 꼭 방문해야 할 곳입니다!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "크래프트 맥주 비행",
           "klook_query": "Barley Cargo booking"
         }
-      ]
+      ],
+      "faq_q1": "아테네에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "아테네에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": " 는 최고의 평가를 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Athènes 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Athènes. Des repas à petit budget à la haute gastronomie - avec des liens de réservation.",
-      "page_intro": "Athènes possède une culture gastronomique vibrante qui reflète sa riche histoire et ses influences diverses. Des tavernes anciennes servant des plats grecs traditionnels aux restaurants modernes offrant une cuisine innovante, la scène culinaire de la ville est un festin pour les sens. Ne manquez pas les marchés de street food animés où vous pouvez savourer des spécialités locales et des ingrédients frais.",
+      "seo_title": "8 Meilleurs Restaurants à Athènes 2026 - Must-Try",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les favoris locaux. Planifiez votre repas dès maintenant !",
+      "page_intro": "Découvrez la scène culinaire d'Athènes, où chaque plat raconte une histoire. Ne manquez pas les souvlakis savoureux et le fromage feta crémeux, tout en explorant nos sélections de restaurants incontournables pour gagner du temps.",
       "items": [
         {
           "id": "souvlaki-souvlaki",
@@ -401,7 +413,7 @@
           "description": "Kostas est un endroit légendaire à Athènes, réputé pour son délicieux souvlaki et ses gyros. L'ambiance est décontractée et accueillante, ce qui en fait un endroit parfait pour un repas rapide. Les prix sont très raisonnables, et le point fort ici est leur viande parfaitement grillée servie avec du pain pita frais. Un incontournable pour quiconque visitant Athènes !",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Souvlaki",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -412,7 +424,7 @@
           "description": "Le marché de street food Psiri offre une ambiance animée avec des vendeurs servant une variété de street food grec. Ici, vous pourrez vous adonner à des favoris locaux tels que le koulouri, le loukoum et des fruits de mer frais. C'est un excellent endroit pour explorer différentes saveurs et profiter de la culture locale vibrante. Les prix varient, mais vous pouvez trouver de nombreuses options à petit budget.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Koulouri",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -423,7 +435,7 @@
           "description": "Ce charmant deli-restaurant est parfait pour ceux qui souhaitent savourer des saveurs grecques authentiques. Spécialisé dans les viandes et fromages affinés, Ta Karamanlidika Tou Fani offre une ambiance chaleureuse où vous pourrez déguster une variété de plats de meze. Les prix sont raisonnables pour la qualité, ce qui en fait un excellent arrêt pour le déjeuner ou le dîner.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Plateau de charcuterie",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -434,7 +446,7 @@
           "description": "Le marché aux puces de Monastiraki est non seulement célèbre pour le shopping mais aussi pour sa scène de street food. Profitez de délicieuses bouchées telles que des gyros, des souvlaki et des pâtisseries locales tout en explorant le marché animé. L'ambiance est animée et pleine d'énergie, ce qui en fait un excellent endroit pour rencontrer des habitants. Les prix sont abordables, permettant de déguster une collation savoureuse sur le pouce.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Gyros",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -445,7 +457,7 @@
           "description": "Kuzina propose une version moderne de la cuisine grecque traditionnelle, située au cœur d'Athènes. Avec un intérieur élégant et une vue imprenable sur l'Acropole, c'est l'endroit idéal pour une soirée spéciale. Le menu propose des ingrédients de saison et des plats innovants. Les prix sont plutôt élevés, mais l'expérience en vaut vraiment la peine.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Moussaka",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -456,7 +468,7 @@
           "description": "La Varvakios Agora est le marché central d'Athènes, mettant en avant le meilleur des produits locaux, des viandes et des fruits de mer. C'est un festin pour les sens, où vous pouvez goûter à des ingrédients frais et des produits grecs traditionnels. L'ambiance est vivante et authentique, parfaite pour les amateurs de bonne nourriture. Les prix sont très raisonnables, surtout pour les produits frais.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Fruits de mer frais",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -467,7 +479,7 @@
           "description": "Lokali est un café tendance connu pour ses délicieuses options de brunch et son café artisanal. L'ambiance est détendue et accueillante, ce qui en fait un endroit parfait pour se détendre. Les prix sont raisonnables, avec une variété d'options allant des bols sains aux pâtisseries sucrées. C'est un arrêt parfait pour un repas décontracté ou une pause café.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Toast à l'avocat",
           "klook_query": "Lokali cafe booking"
         },
@@ -478,16 +490,19 @@
           "description": "Barley Cargo est un bar populaire connu pour sa vaste sélection de bières artisanales et son atmosphère chaleureuse. Situé près du centre-ville, c'est un excellent endroit pour déguster un verre après avoir exploré Athènes. Les prix sont modérés et ils proposent une variété de collations à accompagner de votre bière. Un incontournable pour les amateurs de bière !",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Vol de bières artisanales",
           "klook_query": "Barley Cargo booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Athènes ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Athènes ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Atenas 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Atenas. Desde comidas económicas hasta cenas elegantes — con enlaces de reserva.",
-      "page_intro": "Atenas cuenta con una vibrante cultura gastronómica que refleja su rica historia y diversas influencias. Desde tabernas antiguas que sirven platos griegos tradicionales hasta restaurantes modernos que ofrecen cocina innovadora, la escena culinaria de la ciudad es un festín para los sentidos. No te pierdas los bulliciosos mercados de comida callejera donde puedes degustar especialidades locales e ingredientes frescos.",
+      "seo_title": "Top 8 Restaurantes en Atenas 2026 — Delicias",
+      "seo_description": "Ahorra tiempo con recomendaciones reales. Descubre Kostas, Psiri y más. Reserva con Klook y planifica tu comida ahora.",
+      "page_intro": "¡Descubre la deliciosa escena gastronómica de Atenas! Saborea platos icónicos como el souvlaki y los mezedes en restaurantes emblemáticos y mercados bulliciosos. Ahorra tiempo con nuestras recomendaciones y reservas fáciles en Klook.",
       "items": [
         {
           "id": "souvlaki-souvlaki",
@@ -496,7 +511,7 @@
           "description": "Kostas es un lugar legendario en Atenas, famoso por su delicioso souvlaki y gyros. El ambiente es informal y acogedor, lo que lo convierte en un lugar perfecto para una comida rápida. Los precios son muy razonables, y el punto culminante aquí es su carne perfectamente asada servida con pita fresca. ¡Una visita obligada para cualquiera que visite Atenas!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Souvlaki",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -507,7 +522,7 @@
           "description": "El Mercado de comida callejera Psiri ofrece un ambiente animado lleno de vendedores que sirven una variedad de comida callejera griega. Aquí puedes disfrutar de favoritos locales como koulouri, loukoum y mariscos frescos. Es un gran lugar para explorar diferentes sabores y disfrutar de la vibrante cultura local. Los precios varían, pero puedes encontrar muchas opciones económicas.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Koulouri",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -518,7 +533,7 @@
           "description": "Este encantador deli-restaurante es perfecto para quienes buscan saborear sabores griegos auténticos. Especializado en carnes curadas y quesos, Ta Karamanlidika Tou Fani ofrece un ambiente acogedor donde puedes disfrutar de una variedad de platos de meze. Los precios son razonables para la calidad, lo que lo convierte en una excelente parada para el almuerzo o la cena.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Plato de embutidos",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -529,7 +544,7 @@
           "description": "El Mercado de pulgas de Monastiraki no solo es famoso por las compras, sino también por su escena de comida callejera. Disfruta de deliciosas bocados como gyros, souvlaki y repostería local mientras exploras el bullicioso mercado. El ambiente es animado y lleno de energía, lo que lo convierte en un gran lugar para socializar con los lugareños. Los precios son asequibles, permitiendo un sabroso refrigerio sobre la marcha.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Gyros",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -540,7 +555,7 @@
           "description": "Kuzina ofrece un giro moderno a la cocina griega tradicional, situada en el corazón de Atenas. Con un interior elegante y una vista impresionante de la Acrópolis, es perfecto para una noche especial. El menú presenta ingredientes de temporada y platos innovadores. Los precios son un poco más altos, pero la experiencia bien vale la pena.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Moussaka",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -551,7 +566,7 @@
           "description": "La Varvakios Agora es el mercado central de Atenas, que muestra lo mejor de los productos locales, carnes y mariscos. Es un festín para los sentidos, donde puedes probar ingredientes frescos y productos griegos tradicionales. La atmósfera es animada y auténtica, perfecta para los amantes de la buena comida. Los precios son muy razonables, especialmente para los productos frescos.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Mariscos frescos",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -562,7 +577,7 @@
           "description": "Lokali es un café moderno conocido por sus deliciosas opciones de brunch y café artesanal. La atmósfera es relajada y acogedora, lo que lo convierte en un lugar perfecto para relajarse. Los precios son razonables, con una variedad de opciones desde tazones saludables hasta pasteles dulces. Es una parada perfecta para una comida relajada o un descanso para el café.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Tostada de aguacate",
           "klook_query": "Lokali cafe booking"
         },
@@ -573,15 +588,18 @@
           "description": "Barley Cargo es un bar popular conocido por su amplia selección de cervezas artesanales y su ambiente acogedor. Ubicado cerca del centro de la ciudad, es un gran lugar para disfrutar de una bebida después de explorar Atenas. Los precios son moderados y ofrecen una variedad de aperitivos para acompañar tu cerveza. ¡Una visita obligada para los amantes de la cerveza!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Vuelo de cervezas artesanales",
           "klook_query": "Barley Cargo booking"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Atenas?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Atenas?",
+      "faq_a2_suffix": " son algunas de las opciones de comida mejor valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Athena 2026 — Panduan Restoran & Makanan Jalanan Teratas",
-      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Athena. Dari makanan anggaran hingga makan malam mewah — dengan tautan pemesanan.",
+      "seo_title": "8 Restoran Terbaik di Athena 2026 yang Harus Dicoba",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata. Pesan di Klook dan rencanakan makanan Anda sekarang di Athena!",
       "page_intro": "Athena memiliki budaya makanan yang kaya yang mencerminkan sejarahnya yang kaya dan beragam pengaruh. Dari tavern kuno yang menyajikan hidangan Yunani tradisional hingga restoran modern yang menawarkan masakan inovatif, dunia kuliner kota ini adalah pesta bagi indra. Jangan lewatkan pasar makanan jalanan yang ramai di mana Anda bisa mencicipi spesial lokal dan bahan-bahan segar.",
       "items": [
         {
@@ -591,7 +609,7 @@
           "description": "Kostas adalah tempat legendaris di Athena, terkenal dengan souvlaki dan gyros yang lezat. Suasananya santai dan ramah, menjadikannya tempat yang sempurna untuk makan cepat. Harganya sangat terjangkau, dan sorotan di sini adalah dagingnya yang dipanggang dengan sempurna yang disajikan dengan pita segar. Ini adalah yang wajib dicoba bagi siapa saja yang mengunjungi Athena!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Souvlaki",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -602,7 +620,7 @@
           "description": "Pasar Makanan Jalanan Psiri menawarkan suasana hidup yang dipenuhi penjual yang menyajikan berbagai makanan jalanan Yunani. Di sini Anda dapat menikmati makanan lokal favorit seperti koulouri, loukoum, dan makanan laut segar. Ini adalah tempat yang bagus untuk menjelajahi berbagai rasa dan menikmati budaya lokal yang semarak. Harganya bervariasi, tetapi Anda dapat menemukan banyak pilihan yang ramah anggaran.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Koulouri",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -613,7 +631,7 @@
           "description": "Deli-restoran yang menawan ini sempurna bagi mereka yang ingin menikmati cita rasa Yunani yang otentik. Mengkhususkan diri dalam daging dan keju yang diawetkan, Ta Karamanlidika Tou Fani menawarkan suasana yang nyaman di mana Anda dapat menikmati berbagai hidangan meze. Harganya terjangkau untuk kualitasnya, menjadikannya tempat yang bagus untuk makan siang atau makan malam.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Piring daging olahan",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -624,7 +642,7 @@
           "description": "Pasar Loak Monastiraki tidak hanya terkenal untuk berbelanja tetapi juga untuk suasana makanan jalanan. Nikmati gigitan lezat seperti gyros, souvlaki, dan kue lokal sambil menjelajahi pasar yang ramai. Suasananya ramai dan penuh energi, menjadikannya tempat yang bagus untuk bergaul dengan penduduk setempat. Harganya terjangkau, memungkinkan untuk menikmati camilan lezat di perjalanan.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Gyros",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -635,7 +653,7 @@
           "description": "Kuzina menawarkan sentuhan modern pada masakan Yunani tradisional, terletak di jantung Athena. Dengan interior yang stylish dan pemandangan menakjubkan dari Acropolis, ini adalah tempat yang sempurna untuk malam istimewa. Menu menampilkan bahan musiman dan hidangan inovatif. Harganya di sisi yang lebih tinggi, tetapi pengalaman ini sangat berharga.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Moussaka",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -646,7 +664,7 @@
           "description": "Varvakios Agora adalah pasar pusat Athena, menampilkan yang terbaik dari produk lokal, daging, dan makanan laut. Ini adalah pesta bagi indra, di mana Anda dapat mencicipi bahan-bahan segar dan produk-produk Yunani tradisional. Suasananya hidup dan otentik, sempurna untuk para pecinta makanan. Harganya sangat terjangkau, terutama untuk produk segar.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Seafood segar",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -657,7 +675,7 @@
           "description": "Lokali adalah kafe trendi yang dikenal dengan pilihan brunch yang lezat dan kopi artisan. Suasananya santai dan mengundang, menjadikannya tempat yang bagus untuk bersantai. Harganya terjangkau, dengan berbagai pilihan dari mangkuk sehat hingga kue-kue manis. Ini adalah tempat yang sempurna untuk makan santai atau istirahat kopi.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Roti alpukat",
           "klook_query": "Lokali cafe booking"
         },
@@ -668,15 +686,15 @@
           "description": "Barley Cargo adalah bar populer yang dikenal dengan pilihan bir kerajinan yang luas dan suasana yang nyaman. Terletak dekat pusat kota, ini adalah tempat yang bagus untuk menikmati minuman setelah menjelajahi Athena. Harganya moderat, dan mereka menawarkan berbagai camilan untuk dipasangkan dengan bir Anda. Tempat yang wajib dikunjungi bagi pecinta bir!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Penerbangan bir kerajinan",
           "klook_query": "Barley Cargo booking"
         }
       ]
     },
     "hi": {
-      "seo_title": "एथेंस में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "एथेंस में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट भोजन से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "एथेंस के 8 सर्वश्रेष्ठ भोजन 2026 - स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय विशेषताओं का अन्वेषण करें!",
       "page_intro": "एथेंस एक जीवंत खाद्य संस्कृति का दावा करता है जो इसके समृद्ध इतिहास और विविध प्रभावों को दर्शाता है। प्राचीन तवेरना से लेकर आधुनिक रेस्तरां जो नवाचार कुकिंग पेश करते हैं, शहर का पाक दृश्य इंद्रियों के लिए एक दावत है। स्थानीय विशेषताओं और ताजे सामग्री का स्वाद लेने के लिए हलचल भरे स्ट्रीट फूड बाजारों को न चूकें।",
       "items": [
         {
@@ -686,7 +704,7 @@
           "description": "कोस्टास एथेंस में एक प्रसिद्ध स्थान है, जो अपने स्वादिष्ट सouv्लाकी और गाईरोस के लिए जाना जाता है। माहौल आरामदायक और स्वागतयोग्य है, जो जल्दी भोजन के लिए एकदम सही जगह बनाता है। कीमतें बहुत उचित हैं, और यहां का मुख्य आकर्षण उनके सही से ग्रिल किए गए मांस के साथ ताजे पीटा परोसा जाता है। एथेंस आने वाले किसी भी व्यक्ति के लिए एक जरूर चखने योग्य!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "सौव्लाकी",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -697,7 +715,7 @@
           "description": "प्सिरी स्ट्रीट फूड मार्केट एक जीवंत माहौल प्रदान करता है जिसमें विक्रेता विभिन्न प्रकार के ग्रीक स्ट्रीट फूड परोसते हैं। यहां आप स्थानीय पसंदीदा जैसे कौलौरी, लुकूम और ताजे समुद्री भोजन का आनंद ले सकते हैं। यह विभिन्न स्वादों का अन्वेषण करने और जीवंत स्थानीय संस्कृति का आनंद लेने के लिए एक शानदार जगह है। कीमतें भिन्न होती हैं, लेकिन आप बजट के अनुकूल विकल्पों की भरपूर मात्रा पा सकते हैं।",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "कौलौरी",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -708,7 +726,7 @@
           "description": "यह आकर्षक डेली-रेस्तरां उन लोगों के लिए सही है जो प्रामाणिक ग्रीक स्वाद का आनंद लेना चाहते हैं। सूखे मांस और पनीर में विशेषज्ञता, टा करामानलिडिका टौ फानी एक आरामदायक माहौल प्रदान करता है जहां आप विभिन्न मेज़े व्यंजनों का आनंद ले सकते हैं। गुणवत्ता के लिए कीमतें उचित हैं, जो दोपहर के भोजन या रात के खाने के लिए एक शानदार ठिकाना बनाती हैं।",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": " cured meats platter",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -719,7 +737,7 @@
           "description": "मोनास्टिराकी फ्ली मार्केट न केवल खरीदारी के लिए प्रसिद्ध है बल्कि इसके स्ट्रीट फूड दृश्य के लिए भी। जीवंत बाजार की खोज करते समय गाईरोस, सouv्लाकी और स्थानीय मिठाइयों जैसे स्वादिष्ट नाश्ते का आनंद लें। माहौल हलचल भरा और ऊर्जा से भरा है, जो स्थानीय लोगों के साथ मिलनसार होने के लिए एक शानदार स्थान बनाता है। कीमतें उचित हैं, जिससे चलते-फिरते स्वादिष्ट नाश्ते का आनंद लेना संभव है।",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "जिरोस",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -730,7 +748,7 @@
           "description": "कुजिना पारंपरिक ग्रीक व्यंजनों पर एक आधुनिक मोड़ पेश करता है, जो एथेंस के दिल में स्थित है। स्टाइलिश इंटीरियर्स और एक शानदार एक्रोपोलिस के दृश्य के साथ, यह विशेष रात के लिए एकदम सही है। मेन्यू में मौसमी सामग्री और नवोन्मेषी व्यंजन शामिल हैं। कीमतें उच्चतर हैं, लेकिन अनुभव इसके लिए पूरी तरह से योग्य है।",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "मूसाका",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -741,7 +759,7 @@
           "description": "वारवाकियोज़ अगोरा एथेंस का केंद्रीय बाजार है, जो स्थानीय उत्पादन, मांस, और समुद्री भोजन का सर्वश्रेष्ठ प्रदर्शन करता है। यह इंद्रियों के लिए एक दावत है, जहां आप ताजे सामग्रियों और पारंपरिक ग्रीक उत्पादों का स्वाद ले सकते हैं। माहौल जीवंत और प्रामाणिक है, जो खाद्य प्रेमियों के लिए एकदम सही है। कीमतें बहुत उचित हैं, खासकर ताजे उत्पादन के लिए।",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "ताजा समुद्री भोजन",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -752,7 +770,7 @@
           "description": "लोकाली एक ट्रेंडी कैफे है जो अपने स्वादिष्ट ब्रंच विकल्पों और कला के कॉफी के लिए जाना जाता है। माहौल आरामदायक और आमंत्रित है, जो आराम करने के लिए एक शानदार जगह बनाता है। कीमतें उचित हैं, जिनमें स्वस्थ कटोरे से लेकर मीठी मिठाइयों तक के विकल्प हैं। यह एक आरामदायक भोजन या कॉफी ब्रेक के लिए एकदम सही ठिकाना है।",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "एवोकाडो टोस्ट",
           "klook_query": "Lokali cafe booking"
         },
@@ -763,15 +781,15 @@
           "description": "बार्ली कार्गो एक प्रसिद्ध बार है जो इसके विस्तृत शिल्प बियर चयन और आरामदायक माहौल के लिए जाना जाता है। शहर के केंद्र के निकट स्थित, यह एथेंस की खोज के बाद एक पेय का आनंद लेने के लिए एक शानदार स्थान है। कीमतें मध्यम हैं, और वे आपके बियर के साथ मिलाने के लिए विभिन्न स्नैक्स प्रदान करते हैं। बीयर प्रेमियों के लिए एक जरूर देखना चाहिए!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "क्राफ्ट बियर फ्लाइट",
           "klook_query": "Barley Cargo booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhores Comidas em Atenas 2026 - Melhores Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Atenas. Desde refeições econômicas até alta gastronomia - com links de reserva.",
+      "seo_title": "Top 8 Restaurantes em Atenas 2026 - Imperdíveis",
+      "seo_description": "Ganhe tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "Atenas possui uma cultura alimentar vibrante que reflete sua rica história e diversas influências. Desde tavernas antigas que servem pratos tradicionais gregos até restaurantes modernos que oferecem culinária inovadora, a cena culinária da cidade é um banquete para os sentidos. Não perca os movimentados mercados de comida de rua, onde você pode saborear especialidades locais e ingredientes frescos.",
       "items": [
         {
@@ -781,7 +799,7 @@
           "description": "Kostas é um lugar lendário em Atenas, conhecido por seu delicioso souvlaki e gyros. A atmosfera é casual e acolhedora, tornando-se um lugar perfeito para uma refeição rápida. Os preços são muito razoáveis, e o destaque aqui é a carne perfeitamente grelhada servida com pita fresca. Uma parada obrigatória para quem visita Atenas!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Souvlaki",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -792,7 +810,7 @@
           "description": "O Mercado de Comida de Rua Psiri oferece uma atmosfera animada cheia de vendedores servindo uma variedade de comida de rua grega. Aqui você pode se deliciar com favoritos locais como koulouri, loukoum e frutos do mar frescos. É um ótimo lugar para explorar diferentes sabores e desfrutar da vibrante cultura local. Os preços variam, mas você pode encontrar muitas opções econômicas.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Koulouri",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -803,7 +821,7 @@
           "description": "Este charmoso deli-restaurante é perfeito para quem deseja saborear sabores gregos autênticos. Especializando-se em carnes curadas e queijos, Ta Karamanlidika Tou Fani oferece uma atmosfera aconchegante onde você pode desfrutar de uma variedade de pratos de meze. Os preços são razoáveis para a qualidade, tornando-o uma ótima parada para o almoço ou jantar.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Tábua de embutidos",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -814,7 +832,7 @@
           "description": "O Mercado de Pulgas Monastiraki é famoso não apenas pelas compras, mas também pela sua cena de comida de rua. Aproveite deliciosas mordidas como gyros, souvlaki e doces locais enquanto explora o mercado vibrante. A atmosfera é agitada e cheia de energia, tornando-o um ótimo lugar para se misturar com os locais. Os preços são acessíveis, permitindo um lanche saboroso em movimento.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Gyros",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -825,7 +843,7 @@
           "description": "Kuzina oferece uma reinterpretação moderna da culinária grega tradicional, localizado no coração de Atenas. Com um interior elegante e uma vista deslumbrante da Acrópole, é perfeito para uma noite especial. O menu apresenta ingredientes sazonais e pratos inovadores. Os preços são mais altos, mas a experiência vale a pena.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Moussaka",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -836,7 +854,7 @@
           "description": "A Varvakios Agora é o mercado central de Atenas, apresentando o melhor dos produtos locais, carnes e frutos do mar. É um banquete para os sentidos, onde você pode provar ingredientes frescos e produtos gregos tradicionais. A atmosfera é animada e autêntica, perfeita para os amantes da comida. Os preços são muito razoáveis, especialmente para produtos frescos.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Frutos do mar frescos",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -847,7 +865,7 @@
           "description": "Lokali é um café moderno conhecido por suas deliciosas opções de brunch e café artesanal. A atmosfera é relaxante e acolhedora, tornando-se um ótimo lugar para descontrair. Os preços são razoáveis, com uma variedade de opções que vão de tigelas saudáveis a doces. É uma parada perfeita para uma refeição descontraída ou um intervalo para o café.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Torrada de abacate",
           "klook_query": "Lokali cafe booking"
         },
@@ -858,16 +876,16 @@
           "description": "Barley Cargo é um bar popular conhecido por sua extensa seleção de cervejas artesanais e ambiente acolhedor. Localizado perto do centro da cidade, é um ótimo lugar para desfrutar de uma bebida após explorar Atenas. Os preços são moderados, e eles oferecem uma variedade de petiscos para acompanhar sua cerveja. Uma visita obrigatória para os amantes de cerveja!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Degustação de cervejas artesanais",
           "klook_query": "Barley Cargo booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل الطعام في أثينا 2026 - أفضل المطاعم ودليل الطعام الشوارع",
-      "seo_description": "اكتشف أفضل المطاعم، طعام الشارع، والتخصصات المحلية في أثينا. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
-      "page_intro": "تفتخر أثينا بثقافة غذائية نابضة بالحياة تعكس تاريخها الغني وتأثيراتها المتنوعة. من الحانات القديمة التي تقدم الأطباق اليونانية التقليدية إلى المطاعم الحديثة التي تقدم المأكولات المبتكرة، تعتبر مشهد الطهي في المدينة وليمة للحواس. لا تفوت الأسواق المزدحمة لطعام الشارع حيث يمكنك تذوق التخصصات المحلية والمكونات الطازجة.",
+      "seo_title": "أفضل 8 مطاعم في أثينا 2026 - كنوز محلية يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل المطاعم في أثينا. احجز عبر Klook واستمتع بتجربة طعام لا تُنسى. خطط لوجبتك الآن!",
+      "page_intro": "استعد لتجربة طعام فريدة في أثينا، حيث تمتزج النكهات التقليدية مع الابتكارات الحديثة. لا تفوت فرصة تذوق السوفلاكي، والموساكا، والجبن الفيتا في أجواء ساحرة. اكتشف اختياراتنا المميزة لتوفير الوقت وتسهيل حجزك عبر Klook.",
       "items": [
         {
           "id": "souvlaki-souvlaki",
@@ -876,7 +894,7 @@
           "description": "كوستاس هو مكان أسطوري في أثينا، مشهور بسوفلاكي وغيوروس اللذيذ. الأجواء غير رسمية وترحيبية، مما يجعله مكانًا مثاليًا لوجبة سريعة. الأسعار معقولة جدًا، والميزة هنا هي اللحم المشوي بشكل مثالي المقدم مع خبز البيتا الطازج. يجب تجربته لأي شخص يزور أثينا!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "سوفلاكي",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -887,7 +905,7 @@
           "description": "يقدم سوق طعام الشارع في بيسيري أجواء حيوية مليئة بالبائعين الذين يقدمون مجموعة متنوعة من طعام الشارع اليوناني. هنا يمكنك الاستمتاع بالمفضلات المحلية مثل كولوري، لوكوم، والمأكولات البحرية الطازجة. إنه مكان رائع لاستكشاف نكهات مختلفة والاستمتاع بالثقافة المحلية النابضة بالحياة. تختلف الأسعار، ولكن يمكنك العثور على الكثير من الخيارات الاقتصادية.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "كولوري",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -898,7 +916,7 @@
           "description": "هذا المطعم الديلي الجذاب مثالي لأولئك الذين يرغبون في تذوق النكهات اليونانية الأصيلة. متخصص في اللحوم المدخنة والأجبان، يقدم تا كارامانيليديكا تو فاني أجواء مريحة حيث يمكنك الاستمتاع بمجموعة متنوعة من أطباق المزة. الأسعار معقولة بالنسبة للجودة، مما يجعله مكانًا رائعًا لتناول الغداء أو العشاء.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "طبق اللحوم المدخنة",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -909,7 +927,7 @@
           "description": "سوق موناستيركي لبيع السلع المستعملة مشهور ليس فقط للتسوق ولكن أيضًا لمشهد طعام الشارع. استمتع بوجبات لذيذة مثل غيوروس، سوفلاكي، والحلويات المحلية أثناء استكشاف السوق النابض بالحياة. الأجواء مزدحمة ومليئة بالطاقة، مما يجعلها مكانًا رائعًا للاختلاط مع السكان المحليين. الأسعار معقولة، مما يسمح بوجبة خفيفة لذيذة أثناء التنقل.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "جيروس",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -920,7 +938,7 @@
           "description": "تقدم كوزينا لمسة عصرية على المأكولات اليونانية التقليدية، وتقع في قلب أثينا. مع ديكور أنيق وإطلالة رائعة على الأكروبوليس، فهو مثالي لليلة خاصة. يشتمل القائمة على مكونات موسمية وأطباق مبتكرة. الأسعار مرتفعة قليلاً، ولكن التجربة تستحق ذلك.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "موساكا",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -931,7 +949,7 @@
           "description": "سوق فارفاكيوس هو السوق المركزي في أثينا، ويعرض أفضل المنتجات المحلية واللحوم والمأكولات البحرية. إنه وليمة للحواس، حيث يمكنك تذوق المكونات الطازجة والمنتجات اليونانية التقليدية. الأجواء حيوية وأصيلة، مما يجعلها مثالية لعشاق الطعام. الأسعار معقولة جدًا، خاصةً بالنسبة للمنتجات الطازجة.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "المأكولات البحرية الطازجة",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -942,7 +960,7 @@
           "description": "لوكالي هو مقهى عصري معروف بخيارات الإفطار المتأخرة اللذيذة والقهوة الحرفية. الأجواء مريحة وترحيبية، مما يجعله مكانًا رائعًا للاسترخاء. الأسعار معقولة، مع مجموعة متنوعة من الخيارات من الأطباق الصحية إلى الحلوى. إنه مكان مثالي لتناول وجبة مريحة أو استراحة قهوة.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "توست الأفوكادو",
           "klook_query": "Lokali cafe booking"
         },
@@ -953,15 +971,18 @@
           "description": "بارلي كارغو هو بار شهير معروف بتنوعه الواسع من البيرة الحرفية وأجواءه المريحة. يقع بالقرب من وسط المدينة، وهو مكان رائع للاستمتاع بمشروب بعد استكشاف أثينا. الأسعار معتدلة، ويقدمون مجموعة متنوعة من الوجبات الخفيفة لتتناسب مع بيرةك. يجب زيارته لعشاق البيرة!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "تذوق البيرة الحرفية",
           "klook_query": "Barley Cargo booking"
         }
-      ]
+      ],
+      "faq_q1": "ما هو أفضل طعام يمكن تناوله في أثينا؟",
+      "faq_q2": "أين يمكنني العثور على أفضل المطاعم في أثينا؟",
+      "faq_a2_suffix": "تعتبر من بين الخيارات المفضلة لتناول الطعام."
     },
     "bn": {
-      "seo_title": "এথেন্সের সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
-      "seo_description": "এথেন্সের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "seo_title": "এথেন্সের ৮ সেরা খাবার ২০২৬ - অবশ্যই চেষ্টা করুন!",
+      "seo_description": "সময় বাঁচান, সত্যিকারের সুপারিশ আবিষ্কার করুন। Klook-এ বুকিং করুন এবং আপনার খাবারের পরিকল্পনা এখনই করুন!",
       "page_intro": "এথেন্স একটি প্রাণবন্ত খাদ্য সংস্কৃতি দাবি করে যা এর সমৃদ্ধ ইতিহাস এবং বৈচিত্র্যময় প্রভাবকে প্রতিফলিত করে। প্রাচীন তাভেরনা থেকে শুরু করে আধুনিক রেস্তোরাঁতে উদ্ভাবনী রন্ধনপ্রণালী, শহরের রন্ধনসম্পর্কীয় দৃশ্যটি ইন্দ্রিয়গুলির জন্য একটি উৎসব। স্থানীয় বিশেষত্ব এবং তাজা উপাদানগুলি উপভোগ করার জন্য কলরবপূর্ণ স্ট্রিট ফুড মার্কেটগুলি মিস করবেন না।",
       "items": [
         {
@@ -971,7 +992,7 @@
           "description": "কোস্টাস এথেন্সে একটি কিংবদন্তি স্থান, যা এর সুস্বাদু সোভলাকি এবং গাইরোসের জন্য পরিচিত। পরিবেশ অনানুষ্ঠানিক এবং স্বাগত জানায়, এটি একটি দ্রুত খাবারের জন্য একটি আদর্শ জায়গা। দাম খুবই যুক্তিসঙ্গত, এবং এখানে প্রধান আকর্ষণ হল তাদের নিখুঁতভাবে গ্রিল করা মাংস যা তাজা পিটা দিয়ে পরিবেশন করা হয়। এথেন্সে যাওয়া যেকোনও ব্যক্তির জন্য একটি অবশ্যই চেষ্টা করা উচিত!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "সৌভলাকি",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -982,7 +1003,7 @@
           "description": "প্সিরি স্ট্রিট ফুড মার্কেট একটি প্রাণবন্ত পরিবেশ প্রদান করে যেখানে বিক্রেতারা বিভিন্ন ধরনের গ্রীক স্ট্রিট ফুড পরিবেশন করে। এখানে আপনি স্থানীয় প্রিয় খাবার যেমন কৌলৌরি, লুকুম এবং তাজা সামুদ্রিক খাবারের স্বাদ নিতে পারেন। এটি বিভিন্ন স্বাদ অন্বেষণের এবং প্রাণবন্ত স্থানীয় সংস্কৃতির উপভোগ করার জন্য একটি দুর্দান্ত জায়গা। দাম বিভিন্ন রকমের, তবে আপনি অনেক বাজেট-বান্ধব বিকল্প খুঁজে পেতে পারেন।",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "কৌলৌরি",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -993,7 +1014,7 @@
           "description": "এই আকর্ষণীয় ডেলি-রেস্তোরাঁটি তাদের জন্য উপযুক্ত যারা প্রামাণিক গ্রীক স্বাদের স্বাদ নিতে চান। এতে বিশেষত্ব হল মাংস এবং পনির, টা কারামানলিডিকা টু ফানি একটি আরামদায়ক পরিবেশ প্রদান করে যেখানে আপনি বিভিন্ন মেজে খাবারের স্বাদ নিতে পারেন। গুণগত মানের জন্য দাম যৌক্তিক, যা দুপুর বা রাতের খাবারের জন্য একটি দুর্দান্ত থামার জায়গা করে তোলে।",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "মাংসের প্ল্যাটার",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -1004,7 +1025,7 @@
           "description": "মোনাস্টিরাকি ফ্লি মার্কেট কেবল কেনাকাটার জন্যই বিখ্যাত নয় বরং এর স্ট্রিট ফুড দৃশ্যের জন্যও। গাইরোস, সোভলাকি এবং স্থানীয় মিষ্টির মতো সুস্বাদু খাবার উপভোগ করুন যখন আপনি প্রাণবন্ত বাজারটি অন্বেষণ করেন। পরিবেশটি উজ্জীবিত এবং শক্তিতে পূর্ণ, স্থানীয়দের সাথে মিশ্রিত হওয়ার জন্য এটি একটি দুর্দান্ত স্থান। দাম সাশ্রয়ী, যা চলাফেরার সময় সুস্বাদু নাস্তা উপভোগ করার সুযোগ দেয়।",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "জিরোস",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -1015,7 +1036,7 @@
           "description": "কুজিনা ঐতিহ্যগত গ্রীক রন্ধনপ্রণালীর আধুনিক মোড় নিয়ে আসে, যা এথেন্সের হৃদয়ে অবস্থিত। শৈল্পিক ভিতরে এবং এক্রোপলিসের দুর্দান্ত দৃশ্যের সাথে, এটি বিশেষ রাতের জন্য উপযুক্ত। মেনুতে মৌসুমি উপাদান এবং উদ্ভাবনী খাবার রয়েছে। দামগুলি উচ্চতর পর্যায়ের, তবে অভিজ্ঞতা পুরোপুরি মূল্যবান।",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "মুসাকা",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -1026,7 +1047,7 @@
           "description": "ভারভাকিয়োস আগোরা এথেন্সের কেন্দ্রীয় বাজার, স্থানীয় উৎপাদন, মাংস এবং সামুদ্রিক খাবারের সেরা প্রদর্শনী। এটি ইন্দ্রিয়গুলির জন্য একটি উৎসব, যেখানে আপনি তাজা উপাদান এবং ঐতিহ্যগত গ্রীক পণ্যগুলির স্বাদ নিতে পারেন। পরিবেশটি প্রাণবন্ত এবং প্রামাণিক, যা খাদ্য প্রেমীদের জন্য আদর্শ। দামগুলি খুব যুক্তিসঙ্গত, বিশেষ করে তাজা উৎপাদনের জন্য।",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "তাজা সামুদ্রিক খাবার",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -1037,7 +1058,7 @@
           "description": "লোকালি একটি ট্রেন্ডি ক্যাফে যা এর সুস্বাদু ব্রাঞ্চ বিকল্প এবং শিল্পকর্মের কফির জন্য পরিচিত। পরিবেশটি আরামদায়ক এবং আমন্ত্রণমূলক, যা বিশ্রাম নেওয়ার জন্য একটি দুর্দান্ত স্থান। দামগুলি যুক্তিসঙ্গত, স্বাস্থ্যকর বোল থেকে মিষ্টি পেস্ট্রি পর্যন্ত বিভিন্ন বিকল্প রয়েছে। এটি একটি আরামদায়ক খাবার বা কফি বিরতির জন্য একটি আদর্শ থামার স্থান।",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "অ্যাভোকাডো টোস্ট",
           "klook_query": "Lokali cafe booking"
         },
@@ -1048,15 +1069,15 @@
           "description": "বার্লি কার্গো একটি জনপ্রিয় বার যা এর বিস্তৃত শিল्प বীয়ার নির্বাচন এবং আরামদায়ক পরিবেশের জন্য পরিচিত। শহরের কেন্দ্রীয় এলাকায় অবস্থিত, এটি এথেন্সকে অন্বেষণের পরে একটি পানীয় উপভোগ করার জন্য একটি দুর্দান্ত স্থান। দাম মাঝারি, এবং তারা আপনার বীয়ারের সাথে যুক্ত করার জন্য বিভিন্ন স্ন্যাকস অফার করে। বিয়ার প্রেমীদের জন্য এটি একটি অবশ্যই দর্শনীয়!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "ক্রাফট বিয়ার ফ্লাইট",
           "klook_query": "Barley Cargo booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Афинах 2026 - Топ-рестораны и гид по уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Афинах. От бюджетной еды до изысканной кухни - со ссылками на бронирование.",
+      "seo_title": "8 Лучших ресторанов Афин 2026 - Обязательно к дегустации",
+      "seo_description": "Сэкономьте время с реальными рекомендациями! Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Афины славятся своей яркой кулинарной культурой, отражающей богатую историю и разнообразные влияния. От древних таверн, предлагающих традиционные греческие блюда, до современных ресторанов с инновационной кухней, гастрономическая сцена города - это праздник для чувств. Не пропустите шумные рынки уличной еды, где вы можете попробовать местные специалитеты и свежие ингредиенты.",
       "items": [
         {
@@ -1066,7 +1087,7 @@
           "description": "Костас - это легендарное заведение в Афинах, известное своим вкусным сувлаки и гиросом. Атмосфера непринужденная и приветливая, что делает его идеальным местом для быстрой еды. Цены очень разумные, а главная особенность здесь - идеально приготовленное мясо, подаваемое с свежей питой. Обязательно попробуйте, если вы посетите Афины!",
           "image_keyword": "Kostas souvlaki",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Сувлаки",
           "klook_query": "Kostas restaurant Athens"
         },
@@ -1077,7 +1098,7 @@
           "description": "Уличный рынок Псири предлагает оживленную атмосферу, наполненную продавцами, предлагающими разнообразные греческие уличные блюда. Здесь вы можете насладиться местными фаворитами, такими как кулури, лукум и свежие морепродукты. Это отличное место, чтобы исследовать разные вкусы и насладиться яркой местной культурой. Цены варьируются, но вы можете найти много доступных вариантов.",
           "image_keyword": "Psiri Street Food Market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Кулури",
           "klook_query": "Psiri Street Food Market tour"
         },
@@ -1088,7 +1109,7 @@
           "description": "Этот очаровательный деликатесный ресторан идеально подходит для тех, кто хочет насладиться аутентичными греческими вкусами. Специализируясь на вяленом мясе и сырах, Та Караманлидика Ту Фани предлагает уютную атмосферу, где вы можете насладиться разнообразными блюдами мезе. Цены разумные для такого качества, что делает это отличным местом для обеда или ужина.",
           "image_keyword": "Ta Karamanlidika Tou Fani",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Плато с мясными деликатесами",
           "klook_query": "Ta Karamanlidika Tou Fani booking"
         },
@@ -1099,7 +1120,7 @@
           "description": "Блошиный рынок Монастираки знаменит не только шопингом, но и своей уличной едой. Наслаждайтесь вкусными угощениями, такими как гирос, сувлаки и местные сладости, исследуя оживленный рынок. Атмосфера здесь шумная и полна энергии, что делает это отличным местом для общения с местными жителями. Цены доступные, что позволяет насладиться вкусной закуской на ходу.",
           "image_keyword": "Monastiraki Flea Market street food",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Гирос",
           "klook_query": "Monastiraki Flea Market food tour"
         },
@@ -1110,7 +1131,7 @@
           "description": "Кузина предлагает современный взгляд на традиционную греческую кухню и находится в самом сердце Афин. С стильным интерьером и потрясающим видом на Акрополь, это идеальное место для особого вечера. В меню представлены сезонные ингредиенты и инновационные блюда. Цены выше среднего, но опыт стоит того.",
           "image_keyword": "Kuzina restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Мусака",
           "klook_query": "Kuzina restaurant booking"
         },
@@ -1121,7 +1142,7 @@
           "description": "Варвакиос Агора - центральный рынок Афин, где представлены лучшие местные продукты, мясо и морепродукты. Это праздник для чувств, где вы можете попробовать свежие ингредиенты и традиционные греческие продукты. Атмосфера живая и аутентичная, идеально подходящая для любителей еды. Цены очень разумные, особенно на свежие продукты.",
           "image_keyword": "Varvakios Agora market",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Свежие морепродукты",
           "klook_query": "Varvakios Agora market tour"
         },
@@ -1132,7 +1153,7 @@
           "description": "Локали - это модное кафе, известное своими вкусными бранч-меню и арт-кофе. Атмосфера расслабляющая и уютная, что делает его отличным местом для отдыха. Цены разумные, с разнообразными вариантами от здоровых блюд до сладких десертов. Это идеальное место для непринужденного обеда или перерыва на кофе.",
           "image_keyword": "Lokali cafe",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Тост с авокадо",
           "klook_query": "Lokali cafe booking"
         },
@@ -1143,7 +1164,7 @@
           "description": "Барли Карго - популярный бар, известный своим широким выбором крафтового пива и уютной атмосферой. Находится недалеко от центра города, это отличное место, чтобы насладиться напитком после изучения Афин. Цены умеренные, и они предлагают разнообразные закуски, чтобы сочетать с вашим пивом. Обязательно посетите для любителей пива!",
           "image_keyword": "Barley Cargo bar",
           "star_rating": 4.9,
-          "price_range": "$$",
+          "price_range": "€15–25",
           "must_try": "Крафтовое пиво",
           "klook_query": "Barley Cargo booking"
         }

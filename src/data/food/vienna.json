@@ -2,9 +2,9 @@
   "city_slug": "vienna",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Vienna 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Vienna. From budget eats to fine dining — with booking links.",
-      "page_intro": "Vienna's food culture is a delightful blend of history, tradition, and modern culinary innovations. The city is renowned for its coffee houses, vibrant markets, and a rich array of local specialties such as Wiener Schnitzel and Sachertorte. Whether you're savoring street food at a bustling market or dining at a historic restaurant, Vienna offers a unique gastronomic experience for every palate.",
+      "seo_title": "8 Must-Try Restaurants in Vienna 2026 — Top Food Guide",
+      "seo_description": "Save time with real recommendations! Discover local favorites and book via Klook. Plan your meal now in Vienna's vibrant food scene.",
+      "page_intro": "Dive into Vienna's vibrant food scene, where traditional dishes like Wiener Schnitzel and decadent Sachertorte await. Discover curated dining options that save you time and enhance your culinary adventure.",
       "items": [
         {
           "id": "naschmarkt",
@@ -13,7 +13,7 @@
           "description": "Naschmarkt is Vienna's most famous market, brimming with stalls offering a variety of international foods and local delicacies. It's the perfect spot to try everything from fresh produce to delicious street food. With a vibrant atmosphere, you can enjoy dishes like falafel or traditional Austrian sausages. Prices vary, but you can find budget-friendly options alongside gourmet treats.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Traditional Austrian sausages",
           "klook_query": "Naschmarkt food tour",
           "photo_url": "https://images.pexels.com/photos/31781036/pexels-photo-31781036.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Plachutta is renowned for its authentic Wiener Schnitzel and Tafelspitz, a classic boiled beef dish. The restaurant combines a warm, traditional atmosphere with a commitment to quality ingredients. Expect to pay a bit more for your meal, but the experience and taste are worth it. Don't miss their signature Tafelspitz served with all the traditional sides.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Tafelspitz",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -36,7 +36,7 @@
           "description": "Café Central is a historic coffee house that has been a cultural hub since 1876. The elegant interior and lively atmosphere make it an ideal spot for enjoying a slice of their famous Sachertorte with a cup of Melange coffee. Prices are moderate, and the experience is steeped in Vienna's rich literary history. It's a must-visit for coffee lovers.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Sachertorte",
           "klook_query": "Café Central experience"
         },
@@ -47,7 +47,7 @@
           "description": "Schnitzelwirt is famous for serving some of the best Wiener Schnitzel in town, with generous portions and a crispy golden crust. The casual and bustling atmosphere makes it a favorite among locals and tourists alike. Prices are reasonable, making it a great choice for a hearty meal. Pair your schnitzel with a refreshing Austrian beer.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -58,7 +58,7 @@
           "description": "Karmelitermarkt is a charming market that offers a mix of fresh produce, street food, and local delicacies. With a relaxed vibe, you can find stalls serving up delicious bites such as langos and pastries. It's an excellent place to explore local flavors and enjoy a casual meal. Prices are very affordable, making it a great spot for budget travelers.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Langos",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -69,7 +69,7 @@
           "description": "Gasthaus Pollak is a traditional Austrian tavern known for its warm hospitality and hearty home-cooked meals. The cozy atmosphere makes it a perfect place to enjoy local favorites like goulash and dumplings. The prices are reasonable, and the portions are generous. This is a great spot to experience authentic Austrian cuisine.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Austrian goulash",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -80,7 +80,7 @@
           "description": "The Vienna Street Food Festival is a vibrant event showcasing a diverse range of street food from local and international vendors. With a lively atmosphere, you can sample everything from gourmet burgers to vegan delights. Prices are very accessible, making it easy to try a variety of dishes. This festival is perfect for food lovers looking to explore new flavors.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Gourmet burgers",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -91,16 +91,19 @@
           "description": "The Wiener Schnitzel is Vienna's most iconic dish, made from breaded and fried veal. It's a must-try when visiting the city, available at many restaurants and eateries. The crispy exterior and tender meat are typically served with a slice of lemon and potato salad. Prices vary, but it's generally affordable and definitely worth indulging in.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Wiener Schnitzel experience"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Vienna?",
+      "faq_q2": "Where can I find the best restaurants in Vienna?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "維也納最佳美食2026 — 顶级餐厅与街头美食指南",
-      "seo_description": "探索維也納最好的餐廳、街頭美食和当地特色。从预算餐饮到高档餐饮 — 含预订链接。",
-      "page_intro": "維也納的美食文化是歷史、傳統和現代烹飪創新的美妙融合。這座城市以咖啡館、熱鬧的市場和豐富的當地特色而聞名，像是維也納炸豬排和薩赫蛋糕。無論你是在熱鬧市場享受街頭美食，還是在歷史悠久的餐廳用餐，維也納都為每一種口味提供獨特的美食體驗。",
+      "seo_title": "維也納2026年必試美食 — 8大隱藏美食與餐廳",
+      "seo_description": "節省時間，發現維也納的真實推薦！透過Klook預訂，立即計劃你的美食之旅！",
+      "page_intro": "維也納的美食場景令人驚艷，融合了傳統與創新，讓每一口都充滿驚喜。當地的經典美食如維也納炸豬排和薩赫蛋糕，絕對不容錯過。透過我們精心挑選的美食指南，讓你輕鬆發掘這座城市的美味佳餚！",
       "items": [
         {
           "id": "naschmarkt",
@@ -109,7 +112,7 @@
           "description": "Naschmarkt是維也納最著名的市場，擁有各種國際美食和當地美味的攤位。這是品嚐新鮮農產品到美味街頭食物的理想場所。這裡氣氛活潑，你可以享用像是法拉費爾或傳統奧地利香腸等美食。價格不一，但你可以找到適合預算的選擇和美食款待。",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "傳統奧地利香腸",
           "klook_query": "Naschmarkt food tour"
         },
@@ -120,7 +123,7 @@
           "description": "Plachutta以其正宗的維也納炸豬排和Tafelspitz而聞名，這是一道經典的煮牛肉菜餚。餐廳融合了溫暖的傳統氛圍和對高品質食材的承諾。預期餐費會稍高，但體驗和味道是值得的。不要錯過他們的招牌Tafelspitz，搭配所有傳統配菜。",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "牛肉湯",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -131,7 +134,7 @@
           "description": "Café Central是一家歷史悠久的咖啡館，自1876年以來一直是文化中心。優雅的內部和熱鬧的氛圍使其成為享用他們著名的薩赫蛋糕和一杯Melange咖啡的理想場所。價格適中，體驗充滿了維也納豐富的文學歷史。這是咖啡愛好者的必訪之地。",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "薩赫蛋糕",
           "klook_query": "Café Central experience"
         },
@@ -142,7 +145,7 @@
           "description": "Schnitzelwirt因提供城中最佳的維也納炸豬排而聞名，份量十足且外皮金黃酥脆。隨意而熱鬧的氛圍使其成為當地人和遊客的最愛。價格合理，使其成為豐盛餐點的絕佳選擇。搭配一杯清爽的奧地利啤酒享用你的炸豬排。",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "維也納炸豬排",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -153,7 +156,7 @@
           "description": "Karmelitermarkt是一個迷人的市場，提供新鮮農產品、街頭食物和當地美味。在輕鬆的氛圍中，你可以找到攤位提供美味的小吃，如langos和糕點。這是一個探索當地風味和享用輕鬆餐點的絕佳場所。價格非常實惠，是預算旅行者的好去處。",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "蘭哥士",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -164,7 +167,7 @@
           "description": "Gasthaus Pollak是一家傳統的奧地利酒館，以其熱情好客和豐盛的家常菜而聞名。舒適的氛圍使其成為享用當地最愛的地方，如牛肉湯和餃子的完美場所。價格合理，份量十足。這是體驗正宗奧地利美食的絕佳地點。",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "奧地利燉牛肉",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -175,7 +178,7 @@
           "description": "維也納街頭美食節是一個熱鬧的活動，展示來自當地和國際攤販的多樣街頭美食。在活潑的氛圍中，你可以品嚐到從美食漢堡到素食美味的各種美食。價格非常實惠，讓你輕鬆嘗試各種菜餚。這個節日非常適合尋求探索新風味的美食愛好者。",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "美式漢堡",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -186,16 +189,19 @@
           "description": "維也納炸豬排是維也納最具代表性的菜餚，由裹粉炸的小牛肉製成。這是訪問城市時必試的美食，許多餐廳和小吃店均有提供。酥脆的外皮和嫩滑的肉通常搭配檸檬片和馬鈴薯沙拉。價格不一，但通常價格實惠，絕對值得一試。",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "維也納炸豬排",
           "klook_query": "Wiener Schnitzel experience"
         }
-      ]
+      ],
+      "faq_q1": "在維也納最好吃的食物是什麼？",
+      "faq_q2": "在哪裡可以找到維也納最好的餐廳？",
+      "faq_a2_suffix": "是評價最高的用餐選擇之一。"
     },
     "ja": {
-      "seo_title": "ウィーンのベストフード2026 — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ウィーンのベストレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "ウィーンの食文化は、歴史、伝統、そして現代の料理革新が見事に融合したものです。この街は、カフェ、活気ある市場、ウィーナー・シュニッツェルやザッハトルテなどの豊富な地元の特産品で知られています。賑やかな市場でストリートフードを味わう場合でも、歴史的なレストランで食事を楽しむ場合でも、ウィーンはすべての味覚にユニークな美食体験を提供します。",
+      "seo_title": "ウィーンの2026年必食トップレストラン8選",
+      "seo_description": "時間を節約し、本当におすすめのウィーンの料理を発見。Klookで予約して、地元の名物を今すぐ楽しもう！",
+      "page_intro": "ウィーンの食文化は、魅力的な歴史と現代の革新が交差する場所です。ウィーナー・シュニッツェルやザッハトルテなどの地元の名物を楽しむことで、真のウィーンを体験できます。時間を節約し、厳選されたおすすめをKlookで予約しましょう。",
       "items": [
         {
           "id": "naschmarkt",
@@ -204,7 +210,7 @@
           "description": "ナッシュマルクトはウィーンで最も有名な市場で、様々な国際料理や地元の美味しい料理を提供するスタンドが並んでいます。新鮮な農産物から美味しいストリートフードまで、あらゆるものを試すのに最適な場所です。活気ある雰囲気の中で、ファラフェルや伝統的なオーストリアのソーセージなどの料理を楽しむことができます。価格は様々ですが、予算に優しいオプションとグルメなごちそうの両方が見つかります。",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "伝統的なオーストリアのソーセージ",
           "klook_query": "Naschmarkt food tour"
         },
@@ -215,7 +221,7 @@
           "description": "プラフッタは本格的なウィーナー・シュニッツェルとターフェルシュピッツで知られています。ターフェルシュピッツは、クラシックな煮込み牛肉料理です。レストランは、温かく伝統的な雰囲気と品質の高い食材へのこだわりを融合させています。食事には少し多めに支払うことを期待してくださいが、その体験と味はそれだけの価値があります。伝統的なサイドディッシュと共に提供される、彼らのシグネチャーであるターフェルシュピッツをお見逃しなく。",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "ターフェルシュピッツ",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -226,7 +232,7 @@
           "description": "カフェ・セントラルは1876年から文化の中心地となっている歴史あるカフェです。優雅な内装と賑やかな雰囲気は、彼らの有名なザッハトルテのスライスを一杯のメランジェコーヒーと共に楽しむのに最適な場所です。価格は中程度で、体験はウィーンの豊かな文学史に根ざしています。コーヒー愛好者にとっては必見の場所です。",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "ザッハトルテ",
           "klook_query": "Café Central experience"
         },
@@ -237,7 +243,7 @@
           "description": "シュニッツェルヴィルトは、町で最高のウィーナー・シュニッツェルを提供することで有名で、ボリューム満点でカリカリの黄金色の衣をまとっています。カジュアルで賑やかな雰囲気は、地元の人々や観光客に人気があります。価格は手頃で、ボリュームのある食事には最適な選択です。シュニッツェルを清涼感あふれるオーストリアのビールと一緒に楽しんでください。",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "ウィンナーシュニッツェル",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -248,7 +254,7 @@
           "description": "カルメリート市場は、新鮮な農産物、ストリートフード、地元の美味しい料理のミックスを提供する魅力的な市場です。リラックスした雰囲気の中で、ラングスやペストリーなどの美味しい一品を提供するスタンドを見つけることができます。地元の風味を探求し、カジュアルな食事を楽しむのに最適な場所です。価格は非常に手頃で、予算旅行者にとって素晴らしいスポットです。",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "ラングス",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -259,7 +265,7 @@
           "description": "ガストハウス・ポラッハは、温かいおもてなしとボリューム満点の家庭料理で知られる伝統的なオーストリアの酒場です。居心地の良い雰囲気は、グーラッシュやダンプリングなどの地元の人気料理を楽しむのに最適な場所です。価格は手頃で、ポーションもたっぷりです。これは、本格的なオーストリア料理を体験するための素晴らしい場所です。",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "オーストリアのグーラッシュ",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -270,7 +276,7 @@
           "description": "ウィーンストリートフードフェスティバルは、地元および国際的なベンダーからの多様なストリートフードを展示する活気あるイベントです。賑やかな雰囲気の中で、グルメバーガーからビーガン料理まで、あらゆるものをサンプリングできます。価格は非常にアクセスしやすく、さまざまな料理を試すのが簡単です。このフェスティバルは、新しい風味を探求する食べ物好きにぴったりです。",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "グルメバーガー",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -281,16 +287,19 @@
           "description": "ウィーナー・シュニッツェルは、ウィーンの最も象徴的な料理で、パン粉をまぶして揚げた子牛肉で作られています。市を訪れる際には必ず試すべき料理で、多くのレストランや食堂で提供されています。カリカリの外側と柔らかい肉は、通常、レモンのスライスとポテトサラダと一緒に提供されます。価格は様々ですが、一般的に手頃で、ぜひ味わってみる価値があります。",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "ウィンナーシュニッツェル",
           "klook_query": "Wiener Schnitzel experience"
         }
-      ]
+      ],
+      "faq_q1": "ウィーンで食べるべきおすすめの料理は何ですか？",
+      "faq_q2": "ウィーンで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "비엔나 최고의 음식 2026 — 최고의 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "비엔나의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 친화적인 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "비엔나의 음식 문화는 역사, 전통, 그리고 현대 요리 혁신이 멋지게 혼합된 것입니다. 이 도시는 커피 하우스, 활기찬 시장, 그리고 비엔나 슈니첼 및 자허토르테와 같은 풍부한 지역 특산품으로 유명합니다. 번화한 시장에서 스트리트 푸드를 맛보든, 역사적인 레스토랑에서 식사를 하든, 비엔나는 모든 입맛을 위한 독특한 미식 경험을 제공합니다.",
+      "seo_title": "비엔나 최고의 음식 2026 — 10 Must-Try 레스토랑",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 비엔나의 숨겨진 맛집을 발견하고 식사를 계획하세요!",
+      "page_intro": "비엔나의 음식 세계는 전통과 혁신이 어우러진 맛의 향연입니다. 비엔나 슈니첼과 자허토르테 같은 지역 특산품을 즐기며, 최고의 레스토랑과 카페를 탐방해보세요. Klook에서 미리 예약하면 시간을 절약하고 더 많은 미식을 경험할 수 있습니다.",
       "items": [
         {
           "id": "naschmarkt",
@@ -299,7 +308,7 @@
           "description": "나쉬마르크트는 비엔나에서 가장 유명한 시장으로, 다양한 국제 요리와 지역 별미를 제공하는 가판대가 즐비합니다. 신선한 농산물부터 맛있는 스트리트 푸드까지 모든 것을 시도해 볼 수 있는 완벽한 장소입니다. 활기찬 분위기 속에서 팔라펠이나 전통 오스트리아 소시지 같은 요리를 즐길 수 있습니다. 가격은 다양하지만 예산에 맞는 선택지와 미식 대접을 모두 찾을 수 있습니다.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "전통 오스트리아 소시지",
           "klook_query": "Naschmarkt food tour"
         },
@@ -310,7 +319,7 @@
           "description": "플라후타는 정통 비엔나 슈니첼과 타펠슈피츠로 유명합니다. 타펠슈피츠는 클래식한 끓인 소고기 요리입니다. 이 레스토랑은 따뜻하고 전통적인 분위기와 고급 재료에 대한 헌신을 결합합니다. 식사 비용이 조금 더 들겠지만, 그 경험과 맛은 그만한 가치가 있습니다. 전통적인 사이드와 함께 제공되는 그들의 시그니처 타펠슈피츠를 놓치지 마세요.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "타펠스피츠",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -321,7 +330,7 @@
           "description": "카페 센트럴은 1876년부터 문화의 중심지로 알려진 역사적인 커피 하우스입니다. 우아한 내부와 활기찬 분위기는 그들의 유명한 자허토르테 한 조각과 멜란지 커피 한 잔을 즐기기에 이상적인 장소입니다. 가격은 적당하고, 그 경험은 비엔나의 풍부한 문학 역사에 뿌리를 두고 있습니다. 커피 애호가에게는 꼭 방문해야 할 곳입니다.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "자허토르테",
           "klook_query": "Café Central experience"
         },
@@ -332,7 +341,7 @@
           "description": "슈니첼비르트는 시내에서 최고의 비엔나 슈니첼을 제공하는 곳으로 유명하며, 푸짐한 양과 바삭한 황금색 크러스트가 특징입니다. 캐주얼하고 분주한 분위기는 현지인과 관광객 모두에게 인기 있는 장소입니다. 가격이 합리적이어서 푸짐한 식사를 위한 훌륭한 선택입니다. 슈니첼과 함께 시원한 오스트리아 맥주를 곁들여 드세요.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "비너 슈니첼",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -343,7 +352,7 @@
           "description": "카르멜리터 마르크트는 신선한 농산물, 스트리트 푸드, 지역 별미가 혼합된 매력적인 시장입니다. 느긋한 분위기 속에서 랑고스와 페이스트리 같은 맛있는 음식을 제공하는 가판대를 찾을 수 있습니다. 지역의 맛을 탐험하고 캐주얼한 식사를 즐기기에 최적의 장소입니다. 가격이 매우 저렴하여 예산 여행자에게 훌륭한 장소입니다.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "랑고스",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -354,7 +363,7 @@
           "description": "가스트하우스 폴락은 따뜻한 환대와 푸짐한 가정식으로 유명한 전통 오스트리아 선술집입니다. 아늑한 분위기는 굴라시와 만두와 같은 지역의 인기 요리를 즐기기에 완벽한 장소입니다. 가격이 합리적이며, 양이 푸짐합니다. 정통 오스트리아 요리를 경험하기에 훌륭한 장소입니다.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "오스트리아 굴라시",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -365,7 +374,7 @@
           "description": "비엔나 스트리트 푸드 페스티벌은 지역 및 국제 공급업체의 다양한 스트리트 푸드를 선보이는 활기찬 이벤트입니다. 활기찬 분위기 속에서 미식 버거부터 비건 요리까지 모든 것을 샘플링할 수 있습니다. 가격이 매우 저렴하여 다양한 요리를 쉽게 시도할 수 있습니다. 이 축제는 새로운 맛을 탐험하려는 음식 애호가에게 완벽합니다.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "고급 햄버거",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -376,16 +385,19 @@
           "description": "비엔나 슈니첼은 비엔나에서 가장 상징적인 요리로, 빵가루를 입혀 튀긴 송아지 고기로 만들어집니다. 이 도시에 방문할 때 꼭 시도해야 할 요리이며, 많은 레스토랑과 식당에서 제공합니다. 바삭한 겉과 부드러운 고기는 보통 레몬 조각과 감자 샐러드와 함께 제공됩니다. 가격은 다양하지만 일반적으로 합리적이며 꼭 맛볼 가치가 있습니다.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "비너 슈니첼",
           "klook_query": "Wiener Schnitzel experience"
         }
-      ]
+      ],
+      "faq_q1": "비엔나에서 꼭 먹어봐야 할 음식은 무엇인가요?",
+      "faq_q2": "비엔나에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Vienne 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Vienne. Des repas abordables aux restaurants gastronomiques — avec des liens de réservation.",
-      "page_intro": "La culture alimentaire de Vienne est un mélange délicieux d'histoire, de tradition et d'innovations culinaires modernes. La ville est réputée pour ses cafés, ses marchés animés et une riche variété de spécialités locales telles que le Wiener Schnitzel et la Sachertorte. Que vous dégustiez de la street food dans un marché animé ou dîniez dans un restaurant historique, Vienne offre une expérience gastronomique unique pour tous les palais.",
+      "seo_title": "Top 8 Restaurants à Vienne 2026 — Must-Try et Gems Cachés",
+      "seo_description": "Gagnez du temps avec nos recommandations sur les meilleurs restaurants de Vienne. Réservez sur Klook et planifiez votre repas dès maintenant!",
+      "page_intro": "Découvrez la scène culinaire vibrante de Vienne, où des délices comme le Wiener Schnitzel et la Sachertorte vous attendent. Profitez d'une sélection soigneusement choisie pour savourer le meilleur de la gastronomie viennoise sans perdre de temps.",
       "items": [
         {
           "id": "naschmarkt",
@@ -394,7 +406,7 @@
           "description": "Le Naschmarkt est le marché le plus célèbre de Vienne, regorgeant de stands proposant une variété de cuisines internationales et de spécialités locales. C'est l'endroit idéal pour goûter à tout, des produits frais à la délicieuse street food. Avec une atmosphère vibrante, vous pourrez déguster des plats comme des falafels ou des saucisses autrichiennes traditionnelles. Les prix varient, mais vous trouverez des options abordables à côté de mets gastronomiques.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Saucisses autrichiennes traditionnelles",
           "klook_query": "Naschmarkt food tour"
         },
@@ -405,7 +417,7 @@
           "description": "Plachutta est réputé pour son authentique Wiener Schnitzel et son Tafelspitz, un plat classique de bœuf bouilli. Le restaurant allie une atmosphère chaleureuse et traditionnelle à un engagement envers des ingrédients de qualité. Attendez-vous à payer un peu plus pour votre repas, mais l'expérience et le goût en valent la peine. Ne manquez pas leur Tafelspitz signature servi avec tous les accompagnements traditionnels.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Tafelspitz",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -416,7 +428,7 @@
           "description": "Le Café Central est un café historique qui est devenu un pôle culturel depuis 1876. L'intérieur élégant et l'atmosphère animée en font un endroit idéal pour déguster une part de leur célèbre Sachertorte avec une tasse de café Melange. Les prix sont modérés, et l'expérience est imprégnée de la riche histoire littéraire de Vienne. C'est un lieu incontournable pour les amateurs de café.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Sachertorte",
           "klook_query": "Café Central experience"
         },
@@ -427,7 +439,7 @@
           "description": "Schnitzelwirt est célèbre pour servir certains des meilleurs Wiener Schnitzel de la ville, avec des portions généreuses et une croûte dorée et croustillante. L'atmosphère décontractée et animée en fait un favori parmi les habitants et les touristes. Les prix sont raisonnables, ce qui en fait un excellent choix pour un repas copieux. Accompagnez votre schnitzel d'une bière autrichienne rafraîchissante.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -438,7 +450,7 @@
           "description": "Le Karmelitermarkt est un charmant marché qui propose un mélange de produits frais, de street food et de spécialités locales. Avec une ambiance détendue, vous pouvez trouver des stands servant des bouchées délicieuses telles que des langos et des pâtisseries. C'est un excellent endroit pour explorer les saveurs locales et déguster un repas décontracté. Les prix sont très abordables, ce qui en fait un excellent endroit pour les voyageurs à petit budget.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Langos",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -449,7 +461,7 @@
           "description": "Le Gasthaus Pollak est une taverne autrichienne traditionnelle connue pour son accueil chaleureux et ses plats faits maison copieux. L'atmosphère conviviale en fait un endroit parfait pour déguster des spécialités locales comme le goulasch et les dumplings. Les prix sont raisonnables et les portions sont généreuses. C'est un excellent endroit pour découvrir la cuisine autrichienne authentique.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Goulash autrichien",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -460,7 +472,7 @@
           "description": "Le Festival de Street Food de Vienne est un événement vibrant mettant en avant une large gamme de street food provenant de vendeurs locaux et internationaux. Avec une ambiance animée, vous pouvez déguster tout, des hamburgers gastronomiques aux délices végétaliens. Les prix sont très accessibles, ce qui facilite l'essai de diverses plats. Ce festival est parfait pour les amateurs de nourriture cherchant à explorer de nouvelles saveurs.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Burgers gourmets",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -471,16 +483,19 @@
           "description": "Le Wiener Schnitzel est le plat le plus emblématique de Vienne, fait de veau pané et frit. C'est un plat à essayer absolument lors de votre visite en ville, disponible dans de nombreux restaurants et établissements. L'extérieur croustillant et la viande tendre sont généralement servis avec une tranche de citron et une salade de pommes de terre. Les prix varient, mais c'est généralement abordable et certainement à goûter.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Wiener Schnitzel experience"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Vienne ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Vienne ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Viena 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_title": "Mejor comida en Viena 2026: Top 5 restaurantes",
       "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Viena. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
-      "page_intro": "La cultura gastronómica de Viena es una deliciosa mezcla de historia, tradición e innovaciones culinarias modernas. La ciudad es famosa por sus cafeterías, mercados vibrantes y una rica variedad de especialidades locales como el Wiener Schnitzel y la Sachertorte. Ya sea que estés disfrutando de comida callejera en un mercado bullicioso o cenando en un restaurante histórico, Viena ofrece una experiencia gastronómica única para todos los paladares.",
+      "page_intro": "¡Descubre el vibrante mundo culinario de Viena! Deléitate con delicias como el Wiener Schnitzel y la famosa Sachertorte. Ahorra tiempo con nuestras recomendaciones y reserva fácilmente con Klook.",
       "items": [
         {
           "id": "naschmarkt",
@@ -489,7 +504,7 @@
           "description": "Naschmarkt es el mercado más famoso de Viena, repleto de puestos que ofrecen una variedad de comidas internacionales y delicias locales. Es el lugar perfecto para probar todo, desde productos frescos hasta deliciosa comida callejera. Con una atmósfera vibrante, puedes disfrutar de platos como falafel o salchichas austriacas tradicionales. Los precios varían, pero puedes encontrar opciones económicas junto a delicias gourmet.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Salchichas austriacas tradicionales",
           "klook_query": "Naschmarkt food tour"
         },
@@ -500,7 +515,7 @@
           "description": "Plachutta es conocido por su auténtico Wiener Schnitzel y Tafelspitz, un clásico plato de carne de res hervida. El restaurante combina una cálida atmósfera tradicional con un compromiso con ingredientes de calidad. Espera pagar un poco más por tu comida, pero la experiencia y el sabor valen la pena. No te pierdas su Tafelspitz, servido con todos los acompañamientos tradicionales.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Tafelspitz",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -511,7 +526,7 @@
           "description": "Café Central es una histórica cafetería que ha sido un centro cultural desde 1876. El elegante interior y la atmósfera animada lo convierten en un lugar ideal para disfrutar de una porción de su famosa Sachertorte con una taza de café Melange. Los precios son moderados, y la experiencia está impregnada de la rica historia literaria de Viena. Es una visita obligada para los amantes del café.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Sachertorte",
           "klook_query": "Café Central experience"
         },
@@ -522,7 +537,7 @@
           "description": "Schnitzelwirt es famoso por servir algunos de los mejores Wiener Schnitzel de la ciudad, con porciones generosas y una costra dorada y crujiente. La atmósfera casual y bulliciosa lo convierte en un favorito entre los locales y turistas. Los precios son razonables, lo que lo convierte en una excelente opción para una comida abundante. Acompaña tu schnitzel con una refrescante cerveza austriaca.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -533,7 +548,7 @@
           "description": "Karmelitermarkt es un encantador mercado que ofrece una mezcla de productos frescos, comida callejera y delicias locales. Con una vibra relajada, puedes encontrar puestos que sirven deliciosos bocados como langos y pasteles. Es un excelente lugar para explorar sabores locales y disfrutar de una comida casual. Los precios son muy asequibles, lo que lo convierte en un gran lugar para viajeros con presupuesto limitado.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Langos",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -544,7 +559,7 @@
           "description": "Gasthaus Pollak es una taberna austriaca tradicional conocida por su cálida hospitalidad y abundantes comidas caseras. La atmósfera acogedora lo convierte en un lugar perfecto para disfrutar de platos locales como gulash y dumplings. Los precios son razonables y las porciones son generosas. Este es un gran lugar para experimentar la auténtica cocina austriaca.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Goulash austriaco",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -555,7 +570,7 @@
           "description": "El Festival de Comida Callejera de Viena es un evento vibrante que muestra una amplia gama de comida callejera de vendedores locales e internacionales. Con una atmósfera animada, puedes probar desde hamburguesas gourmet hasta delicias veganas. Los precios son muy accesibles, lo que facilita probar una variedad de platos. Este festival es perfecto para los amantes de la comida que buscan explorar nuevos sabores.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Hamburguesas gourmet",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -566,14 +581,17 @@
           "description": "El Wiener Schnitzel es el plato más icónico de Viena, hecho de ternera empanizada y frita. Es un plato imprescindible cuando visites la ciudad, disponible en muchos restaurantes y comederos. El exterior crujiente y la carne tierna suelen servirse con una rodaja de limón y ensalada de papa. Los precios varían, pero generalmente son asequibles y definitivamente vale la pena disfrutarlo.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Wiener Schnitzel experience"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Viena?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Viena?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas más valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Wina 2026 — Restoran Teratas & Panduan Makanan Jalanan",
+      "seo_title": "Makanan Terbaik Wina 2026: 10 Restoran & Jalanan",
       "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Wina. Dari makanan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
       "page_intro": "Budaya makanan Wina adalah perpaduan menyenangkan antara sejarah, tradisi, dan inovasi kuliner modern. Kota ini terkenal dengan kafe, pasar yang hidup, dan berbagai spesial lokal seperti Wiener Schnitzel dan Sachertorte. Apakah Anda menikmati makanan jalanan di pasar yang ramai atau makan malam di restoran bersejarah, Wina menawarkan pengalaman gastronomi unik untuk setiap selera.",
       "items": [
@@ -584,7 +602,7 @@
           "description": "Naschmarkt adalah pasar paling terkenal di Wina, dipenuhi dengan stan yang menawarkan berbagai makanan internasional dan makanan lokal. Ini adalah tempat yang sempurna untuk mencoba semuanya, mulai dari produk segar hingga makanan jalanan yang lezat. Dengan suasana yang hidup, Anda dapat menikmati hidangan seperti falafel atau sosis Austria tradisional. Harga bervariasi, tetapi Anda dapat menemukan pilihan ramah anggaran di samping hidangan gourmet.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Sosis Austria Tradisional",
           "klook_query": "Naschmarkt food tour"
         },
@@ -595,7 +613,7 @@
           "description": "Plachutta terkenal dengan Wiener Schnitzel dan Tafelspitz yang otentik, hidangan daging sapi rebus klasik. Restoran ini menggabungkan suasana tradisional yang hangat dengan komitmen terhadap bahan berkualitas. Harapkan untuk membayar sedikit lebih untuk makanan Anda, tetapi pengalaman dan rasa sepadan. Jangan lewatkan Tafelspitz khas mereka yang disajikan dengan semua lauk tradisional.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Tafelspitz",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -606,7 +624,7 @@
           "description": "Café Central adalah kafe bersejarah yang telah menjadi pusat budaya sejak 1876. Interior yang elegan dan suasana yang hidup menjadikannya tempat ideal untuk menikmati sepotong Sachertorte terkenal mereka dengan secangkir kopi Melange. Harga moderat, dan pengalaman ini terbenam dalam sejarah sastra kaya Wina. Ini adalah tempat yang wajib dikunjungi bagi pencinta kopi.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Sachertorte",
           "klook_query": "Café Central experience"
         },
@@ -617,7 +635,7 @@
           "description": "Schnitzelwirt terkenal karena menyajikan beberapa Wiener Schnitzel terbaik di kota, dengan porsi besar dan kulit yang renyah keemasan. Suasana santai dan ramai membuatnya menjadi favorit di antara penduduk lokal dan turis. Harganya terjangkau, menjadikannya pilihan yang bagus untuk makan besar. Pasangkan schnitzel Anda dengan bir Austria yang menyegarkan.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -628,7 +646,7 @@
           "description": "Karmelitermarkt adalah pasar yang menawan yang menawarkan campuran produk segar, makanan jalanan, dan makanan lokal. Dengan suasana yang santai, Anda dapat menemukan stan yang menyajikan makanan lezat seperti langos dan kue kering. Ini adalah tempat yang sangat baik untuk menjelajahi rasa lokal dan menikmati makanan santai. Harganya sangat terjangkau, menjadikannya tempat yang sempurna untuk pelancong dengan anggaran terbatas.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Langos",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -639,7 +657,7 @@
           "description": "Gasthaus Pollak adalah tavern tradisional Austria yang dikenal karena keramahan hangatnya dan hidangan rumahan yang melimpah. Suasana yang nyaman menjadikannya tempat yang sempurna untuk menikmati hidangan lokal seperti gulai dan dumpling. Harganya terjangkau, dan porsi yang melimpah. Ini adalah tempat yang bagus untuk merasakan masakan Austria yang otentik.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Goulash Austria",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -650,7 +668,7 @@
           "description": "Festival Makanan Jalanan Wina adalah acara meriah yang menampilkan beragam makanan jalanan dari penjual lokal dan internasional. Dengan suasana yang hidup, Anda dapat mencicipi segalanya, mulai dari burger gourmet hingga makanan vegan. Harganya sangat terjangkau, sehingga mudah untuk mencoba berbagai hidangan. Festival ini sempurna bagi para pecinta makanan yang ingin menjelajahi rasa baru.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Burger Gourmet",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -661,14 +679,14 @@
           "description": "Wiener Schnitzel adalah hidangan paling ikonik di Wina, terbuat dari daging sapi yang dilapisi tepung roti dan digoreng. Ini adalah hidangan yang wajib dicoba saat mengunjungi kota ini, tersedia di banyak restoran dan tempat makan. Kulit yang renyah dan daging yang lembut biasanya disajikan dengan seiris lemon dan salad kentang. Harganya bervariasi, tetapi umumnya terjangkau dan pasti layak untuk dicicipi.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Wiener Schnitzel experience"
         }
       ]
     },
     "hi": {
-      "seo_title": "वियना में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_title": "वियना में 2026 के लिए सर्वश्रेष्ठ भोजन गाइड",
       "seo_description": "वियना में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
       "page_intro": "वियना की खाद्य संस्कृति इतिहास, परंपरा और आधुनिक पाक नवाचारों का एक सुखद मिश्रण है। यह शहर अपने कॉफी हाउस, जीवंत बाजारों और स्थानीय विशेषताओं जैसे वियना स्निटज़ेल और साचरटॉर्ट के लिए प्रसिद्ध है। चाहे आप एक व्यस्त बाजार में स्ट्रीट फूड का आनंद ले रहे हों या एक ऐतिहासिक रेस्तरां में भोजन कर रहे हों, वियना हर स्वाद के लिए एक अद्वितीय गैस्ट्रोनोमिक अनुभव प्रदान करता है।",
       "items": [
@@ -679,7 +697,7 @@
           "description": "नाशमार्कट वियना का सबसे प्रसिद्ध बाजार है, जो विभिन्न अंतरराष्ट्रीय खाद्य पदार्थों और स्थानीय व्यंजनों की पेशकश करने वाले स्टालों से भरा हुआ है। ताजे उत्पादों से लेकर स्वादिष्ट स्ट्रीट फूड तक सब कुछ आजमाने के लिए यह सही जगह है। जीवंत वातावरण के साथ, आप फालाफेल या पारंपरिक ऑस्ट्रियाई सॉसेज जैसे व्यंजनों का आनंद ले सकते हैं। कीमतें भिन्न होती हैं, लेकिन आप बजट के अनुकूल विकल्पों के साथ-साथ गुणवत्तापूर्ण व्यंजन भी पा सकते हैं।",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "पारंपरिक ऑस्ट्रियाई सॉसेज",
           "klook_query": "Naschmarkt food tour"
         },
@@ -690,7 +708,7 @@
           "description": "प्लाचुट्टा अपनी प्रामाणिक वियना स्निटज़ेल और टाफ़ेलस्पिट्ज के लिए प्रसिद्ध है, जो एक क्लासिक उबला हुआ गोमांस व्यंजन है। रेस्तरां एक गर्म, पारंपरिक वातावरण को गुणवत्ता वाले सामग्री के प्रति अपनी प्रतिबद्धता के साथ जोड़ता है। अपने भोजन के लिए थोड़ी अधिक कीमत चुकाने की अपेक्षा करें, लेकिन अनुभव और स्वाद इसके लायक हैं। उनके सिग्नेचर टाफ़ेलस्पिट्ज को सभी पारंपरिक साइड्स के साथ जरूर आजमाएं।",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Tafelspitz",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -701,7 +719,7 @@
           "description": "कैफे सेंट्रल एक ऐतिहासिक कॉफी हाउस है जो 1876 से सांस्कृतिक केंद्र रहा है। इसका सुरुचिपूर्ण इंटीरियर्स और जीवंत वातावरण इसे उनके प्रसिद्ध साचरटॉर्ट के एक टुकड़े के साथ मेलेंज कॉफी का आनंद लेने के लिए आदर्श स्थान बनाता है। कीमतें मध्यम हैं, और अनुभव वियना के समृद्ध साहित्यिक इतिहास में डूबा हुआ है। यह कॉफी प्रेमियों के लिए एक जरूरी स्थान है।",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Sachertorte",
           "klook_query": "Café Central experience"
         },
@@ -712,7 +730,7 @@
           "description": "श्निटज़ेलविर्ट शहर में कुछ बेहतरीन वियना स्निटज़ेल परोसने के लिए प्रसिद्ध है, जिसमें उदार भाग और कुरकुरी सुनहरी परत होती है। आकस्मिक और हलचल भरे वातावरण के कारण यह स्थानीय लोगों और पर्यटकों के बीच एक पसंदीदा है। कीमतें उचित हैं, जिससे यह एक भरपेट भोजन के लिए एक उत्कृष्ट विकल्प बनता है। अपने स्निटज़ेल को ताजे ऑस्ट्रियाई बियर के साथ मिलाएं।",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -723,7 +741,7 @@
           "description": "कार्मेलिटरमार्कट एक आकर्षक बाजार है जो ताजे उत्पादों, स्ट्रीट फूड और स्थानीय व्यंजनों का मिश्रण प्रदान करता है। आरामदायक माहौल के साथ, आप लंगोस और पेस्ट्री जैसी स्वादिष्ट बाइट्स परोसने वाले स्टालों को पा सकते हैं। यह स्थानीय स्वादों का पता लगाने और एक आकस्मिक भोजन का आनंद लेने के लिए एक उत्कृष्ट स्थान है। कीमतें बहुत सस्ती हैं, जिससे यह बजट यात्रा करने वालों के लिए एक शानदार स्थान बनता है।",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "लैंगोश",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -734,7 +752,7 @@
           "description": "गैस्टहाउस पोलक एक पारंपरिक ऑस्ट्रियाई तावेरन है जो अपनी गर्म मेहमाननवाजी और घर के बने हार्दिक भोजन के लिए जाना जाता है। आरामदायक वातावरण इसे गौलाश और डंपलिंग जैसे स्थानीय पसंदीदा का आनंद लेने के लिए एक आदर्श स्थान बनाता है। कीमतें उचित हैं, और भाग उदार हैं। यह प्रामाणिक ऑस्ट्रियाई व्यंजनों का अनुभव करने के लिए एक शानदार स्थान है।",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "ऑस्ट्रियाई गौलाश",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -745,7 +763,7 @@
           "description": "वियना स्ट्रीट फूड महोत्सव एक जीवंत कार्यक्रम है जो स्थानीय और अंतरराष्ट्रीय विक्रेताओं से स्ट्रीट फूड की विविधता को प्रदर्शित करता है। जीवंत वातावरण के साथ, आप सभी प्रकार के व्यंजनों का आनंद ले सकते हैं, जैसे कि शानदार बर्गर से लेकर शाकाहारी व्यंजन। कीमतें बहुत सस्ती हैं, जिससे विभिन्न व्यंजनों का स्वाद लेना आसान हो जाता है। यह महोत्सव खाद्य प्रेमियों के लिए नए स्वादों को खोजने का आदर्श है।",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "गौरमेट बर्गर",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -756,14 +774,14 @@
           "description": "वियना स्निटज़ेल वियना का सबसे प्रसिद्ध व्यंजन है, जो ब्रेडेड और तले हुए वील से बनाया जाता है। शहर में आने पर इसे अवश्य ट्राई करें, यह कई रेस्तरां और खाने की जगहों पर उपलब्ध है। कुरकुरी बाहरी परत और नरम मांस आमतौर पर नींबू के एक टुकड़े और आलू के सलाद के साथ परोसा जाता है। कीमतें भिन्न होती हैं, लेकिन यह आमतौर पर सस्ती होती है और निश्चित रूप से इसका आनंद लेना चाहिए।",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Wiener Schnitzel experience"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Viena 2026 — Melhores Restaurantes & Guia de Comida de Rua",
+      "seo_title": "Top 10 Comidas em Viena 2026 — Guia Imperdível",
       "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Viena. Desde refeições econômicas até alta gastronomia — com links para reservas.",
       "page_intro": "A cultura alimentar de Viena é uma mistura encantadora de história, tradição e inovações culinárias modernas. A cidade é famosa por suas cafeterias, mercados vibrantes e uma rica variedade de especialidades locais, como Wiener Schnitzel e Sachertorte. Quer você esteja saboreando comida de rua em um mercado movimentado ou jantando em um restaurante histórico, Viena oferece uma experiência gastronômica única para todos os paladares.",
       "items": [
@@ -774,7 +792,7 @@
           "description": "Naschmarkt é o mercado mais famoso de Viena, repleto de barracas que oferecem uma variedade de alimentos internacionais e iguarias locais. É o lugar perfeito para experimentar desde produtos frescos até deliciosas comidas de rua. Com uma atmosfera vibrante, você pode desfrutar de pratos como falafel ou salsichas austríacas tradicionais. Os preços variam, mas você pode encontrar opções acessíveis ao lado de iguarias gourmet.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Salsichas austríacas tradicionais",
           "klook_query": "Naschmarkt food tour"
         },
@@ -785,7 +803,7 @@
           "description": "Plachutta é famosa por seu autêntico Wiener Schnitzel e Tafelspitz, um prato clássico de carne bovina cozida. O restaurante combina uma atmosfera calorosa e tradicional com um compromisso com ingredientes de qualidade. Espere pagar um pouco mais pela sua refeição, mas a experiência e o sabor valem a pena. Não perca o seu Tafelspitz assinado, servido com todos os acompanhamentos tradicionais.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Tafelspitz",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -796,7 +814,7 @@
           "description": "Café Central é uma cafeteria histórica que tem sido um centro cultural desde 1876. O interior elegante e a atmosfera animada fazem dele um local ideal para desfrutar de uma fatia de seu famoso Sachertorte com uma xícara de café Melange. Os preços são moderados, e a experiência é imersa na rica história literária de Viena. É uma visita obrigatória para os amantes de café.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Sachertorte",
           "klook_query": "Café Central experience"
         },
@@ -807,7 +825,7 @@
           "description": "Schnitzelwirt é famoso por servir alguns dos melhores Wiener Schnitzel da cidade, com porções generosas e uma crosta dourada e crocante. A atmosfera casual e movimentada o torna um favorito entre locais e turistas. Os preços são razoáveis, tornando-o uma ótima opção para uma refeição substancial. Combine seu schnitzel com uma cerveja austríaca refrescante.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -818,7 +836,7 @@
           "description": "Karmelitermarkt é um mercado encantador que oferece uma mistura de produtos frescos, comida de rua e iguarias locais. Com uma vibração relaxada, você pode encontrar barracas servindo deliciosas opções, como langos e doces. É um excelente lugar para explorar sabores locais e desfrutar de uma refeição casual. Os preços são muito acessíveis, tornando-o um ótimo local para viajantes com orçamento limitado.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Lángos",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -829,7 +847,7 @@
           "description": "Gasthaus Pollak é uma taverna austríaca tradicional conhecida por sua calorosa hospitalidade e refeições caseiras substanciais. A atmosfera aconchegante a torna um lugar perfeito para desfrutar de favoritos locais, como goulash e bolinhos. Os preços são razoáveis, e as porções são generosas. Este é um ótimo lugar para vivenciar a autêntica culinária austríaca.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Goulash austríaco",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -840,7 +858,7 @@
           "description": "O Festival de Comida de Rua de Viena é um evento vibrante que apresenta uma ampla gama de comida de rua de fornecedores locais e internacionais. Com uma atmosfera animada, você pode experimentar desde hambúrgueres gourmet até delícias veganas. Os preços são muito acessíveis, tornando fácil experimentar uma variedade de pratos. Este festival é perfeito para os amantes da comida que desejam explorar novos sabores.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Hambúrgueres gourmet",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -851,14 +869,14 @@
           "description": "O Wiener Schnitzel é o prato mais icônico de Viena, feito de vitela empanada e frita. É uma obrigação experimentar quando visitar a cidade, disponível em muitos restaurantes e lanchonetes. O exterior crocante e a carne macia são geralmente servidos com uma fatia de limão e salada de batata. Os preços variam, mas geralmente são acessíveis e definitivamente vale a pena experimentar.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Wiener Schnitzel",
           "klook_query": "Wiener Schnitzel experience"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في فيينا 2026 — أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_title": "أفضل 10 مطاعم في فيينا 2026 — دليل الطعام",
       "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في فيينا. من المأكولات الاقتصادية إلى تناول الطعام الراقي — مع روابط للحجز.",
       "page_intro": "ثقافة الطعام في فيينا هي مزيج رائع من التاريخ والتقاليد والابتكارات الطهو الحديثة. تشتهر المدينة بمقاهيها، والأسواق الحيوية، وتشكيلة غنية من التخصصات المحلية مثل Wiener Schnitzel و Sachertorte. سواء كنت تستمتع بطعام الشارع في سوق مزدحم أو تتناول الطعام في مطعم تاريخي، تقدم فيينا تجربة طعام فريدة لكل الأذواق.",
       "items": [
@@ -869,7 +887,7 @@
           "description": "يُعتبر ناشفماركت أشهر سوق في فيينا، حيث يزخر بالباعة الذين يقدمون مجموعة متنوعة من الأطعمة الدولية والوجبات المحلية. إنه المكان المثالي لتجربة كل شيء من المنتجات الطازجة إلى طعام الشارع اللذيذ. مع جوه الحيوي، يمكنك الاستمتاع بأطباق مثل الفلافل أو السجق النمساوي التقليدي. تتفاوت الأسعار، ولكن يمكنك العثور على خيارات ميسورة التكلفة بجانب الأطباق الفاخرة.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "نقانق نمساوية تقليدية",
           "klook_query": "Naschmarkt food tour"
         },
@@ -880,7 +898,7 @@
           "description": "تشهر بلاتشوتا بسناجتزل النمساوي الأصيل وتافيلسبيتز، وهو طبق كلاسيكي من لحم البقر المسلوق. يجمع المطعم بين أجواء دافئة وتقليدية مع التزام بمكونات عالية الجودة. توقع دفع المزيد قليلاً مقابل وجبتك، لكن التجربة والطعم يستحقان ذلك. لا تفوت تافيلسبيتز الخاص بهم المقدم مع جميع الجوانب التقليدية.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "تافلسبتس",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -891,7 +909,7 @@
           "description": "كافيه سنترال هو مقهى تاريخي كان مركزًا ثقافيًا منذ عام 1876. تجعل الأجواء الأنيقة والحيوية منه مكانًا مثاليًا للاستمتاع بشريحة من ساشرتورت الشهير مع فنجان من قهوة ميلانج. الأسعار معتدلة، والتجربة غارقة في التاريخ الأدبي الغني في فيينا. إنه مكان يجب زيارته لعشاق القهوة.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "ساشرتورتي",
           "klook_query": "Café Central experience"
         },
@@ -902,7 +920,7 @@
           "description": "يشتهر شنشيلفرت بتقديم بعض من أفضل سناجتزل في المدينة، مع حصص سخية وقشرة ذهبية مقرمشة. تجعل الأجواء غير الرسمية والمزدحمة منه مفضلًا بين السكان المحليين والسياح على حد سواء. الأسعار معقولة، مما يجعله خيارًا رائعًا لوجبة دسمة. اجمع سناجتزل الخاص بك مع بيرة نمساوية منعشة.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "شنيتزل نمساوي",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -913,7 +931,7 @@
           "description": "كارميلترماركت هو سوق ساحر يقدم مزيجًا من المنتجات الطازجة وطعام الشارع والمأكولات المحلية. مع أجواء مريحة، يمكنك العثور على أكشاك تقدم وجبات لذيذة مثل اللانغوس والمعجنات. إنه مكان ممتاز لاستكشاف النكهات المحلية والاستمتاع بوجبة غير رسمية. الأسعار ميسورة جدًا، مما يجعله مكانًا رائعًا للمسافرين ذوي الميزانية المحدودة.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "لانغوس",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -924,7 +942,7 @@
           "description": "غاستهاوس بولاك هو حانة نمساوية تقليدية معروفة بحسن ضيافتها ووجباتها المنزلية الدسمة. تجعل الأجواء المريحة منه مكانًا مثاليًا للاستمتاع بالمأكولات المحلية المفضلة مثل الجولاش والزلابية. الأسعار معقولة، والحصص سخية. هذا مكان رائع لتجربة المأكولات النمساوية الأصيلة.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "غولاش نمساوي",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -935,7 +953,7 @@
           "description": "يعتبر مهرجان طعام الشارع في فيينا حدثًا نابضًا بالحياة يعرض مجموعة متنوعة من طعام الشارع من البائعين المحليين والدوليين. مع أجواء حيوية، يمكنك تذوق كل شيء من البرغر الفاخر إلى الأطباق النباتية اللذيذة. الأسعار ميسورة جدًا، مما يجعل من السهل تجربة مجموعة متنوعة من الأطباق. هذا المهرجان مثالي لعشاق الطعام الذين يتطلعون لاستكشاف نكهات جديدة.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "برغر غوريه",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -946,14 +964,14 @@
           "description": "ويني سناجتزل هو الطبق الأكثر شهرة في فيينا، المصنوع من لحم العجل المغطى بالبقسماط والمقلي. إنه طبق يجب تجربته عند زيارة المدينة، ويتوفر في العديد من المطاعم ومحلات الطعام. عادةً ما يتم تقديم القشرة المقرمشة واللحم الطري مع شريحة من الليمون وسلطة البطاطس. تتفاوت الأسعار، لكنها عمومًا معقولة ومن المؤكد أنها تستحق التجربة.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "شنيتزل نمساوي",
           "klook_query": "Wiener Schnitzel experience"
         }
       ]
     },
     "bn": {
-      "seo_title": "ভিয়েনার সেরা খাবার 2026 — শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
+      "seo_title": "ভিয়েনার সেরা খাবার ২০২৬ — শীর্ষ ৫ রেস্তোরাঁ",
       "seo_description": "ভিয়েনার সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত — বুকিং লিঙ্ক সহ।",
       "page_intro": "ভিয়েনার খাদ্য সংস্কৃতি ইতিহাস, ঐতিহ্য এবং আধুনিক রন্ধনশিল্পের উদ্ভাবনগুলির একটি আনন্দদায়ক মিশ্রণ। শহরটি তার কফি হাউস, প্রাণবন্ত বাজার এবং স্থানীয় বিশেষত্ব যেমন উইনার শ্নিটজেল এবং সাচারটোর্টের জন্য বিখ্যাত। আপনি একটি ব্যস্ত বাজারে স্ট্রিট ফুড উপভোগ করুক না কেন বা একটি ঐতিহাসিক রেস্তোরাঁয় ডিনার করুন, ভিয়েনা প্রতিটি স্বাদের জন্য একটি অনন্য গ্যাস্ট্রোনমিক অভিজ্ঞতা প্রদান করে।",
       "items": [
@@ -964,7 +982,7 @@
           "description": "নাসচমার্কট ভিয়েনার সবচেয়ে বিখ্যাত বাজার, যা আন্তর্জাতিক খাবার এবং স্থানীয় delicacies অফার করা স্টলগুলিতে পূর্ণ। তাজা পণ্য থেকে শুরু করে সুস্বাদু স্ট্রিট ফুড পর্যন্ত সবকিছু চেষ্টা করার জন্য এটি সেরা স্থান। প্রাণবন্ত পরিবেশের সাথে, আপনি ফালাফেল বা ঐতিহ্যবাহী অস্ট্রিয়ান সসেজের মতো খাবার উপভোগ করতে পারেন। দাম ভিন্ন, তবে আপনি বাজেট-বান্ধব বিকল্পের পাশাপাশি গৌরবময় আচারের সন্ধান পেতে পারেন।",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "প্রথাগত অস্ট্রিয়ান সসেজ",
           "klook_query": "Naschmarkt food tour"
         },
@@ -975,7 +993,7 @@
           "description": "প্লাচুট্টা তার প্রামাণিক উইনার শ্নিটজেল এবং টাফেলস্পিটজের জন্য পরিচিত, একটি ক্লাসিক সিদ্ধ গরুর মাংসের পদ। রেস্তোরাঁটি গরম, ঐতিহ্যবাহী পরিবেশকে উচ্চ-মানের উপাদানের প্রতি প্রতিশ্রুতির সাথে মিশ্রিত করে। আপনার খাবারের জন্য একটু বেশি দামে আশা করুন, তবে অভিজ্ঞতা এবং স্বাদ এর যোগ্য। তাদের স্বাক্ষর টাফেলস্পিটজ পরিবেশন করা হয় সব ঐতিহ্যবাহী সাইড সহ।",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "টাফেলস্পিটজ",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -986,7 +1004,7 @@
           "description": "ক্যাফে সেন্ট্রাল একটি ঐতিহাসিক কফি বাড়ি যা 1876 সাল থেকে একটি সাংস্কৃতিক কেন্দ্র। এর মার্জিত অভ্যন্তরীণ এবং প্রাণবন্ত পরিবেশ এটিকে তাদের বিখ্যাত সাচারটোর্টের একটি টুকরো একটি কাপ মেলঞ্জ কফির সাথে উপভোগ করার জন্য আদর্শ স্থান করে তোলে। দাম মাঝারি, এবং অভিজ্ঞতা ভিয়েনার সমৃদ্ধ সাহিত্য ইতিহাসে ডুবে আছে। এটি কফি প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান।",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "সাচারটর্ট",
           "klook_query": "Café Central experience"
         },
@@ -997,7 +1015,7 @@
           "description": "শ্নিটজেলওয়ার্ট শহরের সেরা উইনার শ্নিটজেল পরিবেশন করার জন্য বিখ্যাত, উদার পরিমাণ এবং সোনালী খাস্তা খোসা সহ। অস্বস্তিকর এবং ব্যস্ত পরিবেশ এটিকে স্থানীয় এবং পর্যটকদের মধ্যে একটি জনপ্রিয় স্থান করে তোলে। দাম সঙ্গত, এটি একটি ভরপেট খাবারের জন্য একটি দুর্দান্ত পছন্দ। আপনার শ্নিটজেলকে একটি তাজা অস্ট্রিয়ান বীয়ারের সাথে মিলান।",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "ভিয়েনার শ্নিটজেল",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -1008,7 +1026,7 @@
           "description": "কার্মেলিটারমার্কট একটি মনোরম বাজার যা তাজা পণ্য, স্ট্রিট ফুড এবং স্থানীয় delicacies এর মিশ্রণ সরবরাহ করে। একটি শিথিল পরিবেশের সাথে, আপনি ল্যাংগোস এবং পেস্ট্রি মতো সুস্বাদু খাবার পরিবেশনকারী স্টলগুলি খুঁজে পেতে পারেন। এটি স্থানীয় স্বাদগুলি অন্বেষণ করার এবং একটি সাধারণ খাবারের জন্য একটি চমৎকার স্থান। দাম খুব সাশ্রয়ী, এটি বাজেট ভ্রমণকারীদের জন্য একটি দুর্দান্ত স্থান।",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "ল্যাঙ্গোস",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -1019,7 +1037,7 @@
           "description": "গ্যাস্টহাউস পোলাক একটি ঐতিহ্যগত অস্ট্রিয়ান tavern যা তার উষ্ণ আতিথেয়তা এবং হৃদয়গ্রাহী বাড়ির রান্নার জন্য পরিচিত। আরামদায়ক পরিবেশ এটিকে গুলাশ এবং ডাম্পলিংয়ের মতো স্থানীয় জনপ্রিয়তা উপভোগ করার জন্য একটি আদর্শ স্থান করে তোলে। দাম সঙ্গত, এবং অংশগুলি উদার। এটি প্রামাণিক অস্ট্রিয়ান খাবারের অভিজ্ঞতা লাভ করার জন্য একটি দুর্দান্ত স্থান।",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "অস্ট্রিয়ান গুলাশ",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -1030,7 +1048,7 @@
           "description": "ভিয়েনা স্ট্রীট ফুড ফেস্টিভ্যাল একটি প্রাণবন্ত ইভেন্ট যা স্থানীয় ও আন্তর্জাতিক বিক্রেতাদের কাছ থেকে স্ট্রিট ফুডের একটি বৈচিত্র্য প্রদর্শন করে। একটি প্রাণবন্ত পরিবেশের সাথে, আপনি গৌরবময় বার্গার থেকে শুরু করে শাকাহারী উপভোগ্য পদ পর্যন্ত সবকিছু চেষ্টা করতে পারেন। দাম খুবই সাশ্রয়ী, যা বিভিন্ন ধরনের খাবারের স্বাদ নেওয়া সহজ করে। এই উৎসবটি নতুন স্বাদ অন্বেষণ করতে চান তাদের জন্য আদর্শ।",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "গুরমেট বার্গার",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -1041,14 +1059,14 @@
           "description": "উইনার শ্নিটজেল ভিয়েনার সবচেয়ে আইকনিক পদ, যা ব্রেডেড এবং ফ্রাইড ভিল থেকে তৈরি। শহরটিতে আসলে এটি ট্রাই করা আবশ্যক, এটি অনেক রেস্তোরাঁ এবং খাবারের স্থানে উপলব্ধ। খাস্তা বাইরের এবং নরম মাংস সাধারণত একটি লেবুর টুকরা এবং আলুর সালাদের সাথে পরিবেশন করা হয়। দাম ভিন্ন, তবে এটি সাধারণত সাশ্রয়ী এবং অবশ্যই উপভোগ করার জন্য।",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "ভিয়েনার শ্নিটজেল",
           "klook_query": "Wiener Schnitzel experience"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Вене 2026 — Топ ресторанов и гайд по уличной еде",
+      "seo_title": "Топ 10 блюд в Вене 2026 — Гид по уличной еде",
       "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы Вены. От бюджетных закусок до изысканной кухни — с ссылками для бронирования.",
       "page_intro": "Кулинарная культура Вены — это восхитительная смесь истории, традиций и современных кулинарных новшеств. Город славится своими кафе, яркими рынками и богатым разнообразием местных деликатесов, таких как Винер Шницель и Захер Торт. Независимо от того, пробуете ли вы уличную еду на оживленном рынке или ужинаете в историческом ресторане, Вена предлагает уникальный гастрономический опыт для каждого вкуса.",
       "items": [
@@ -1059,7 +1077,7 @@
           "description": "Насчмарт — самый известный рынок Вены, переполненный прилавками с разнообразной международной едой и местными деликатесами. Это идеальное место, чтобы попробовать всё, от свежих продуктов до вкусной уличной еды. В яркой атмосфере вы можете насладиться такими блюдами, как фалафель или традиционные австрийские сосиски. Цены варьируются, но вы можете найти доступные варианты наряду с гурманскими угощениями.",
           "image_keyword": "Naschmarkt food market",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Традиционные австрийские колбасы",
           "klook_query": "Naschmarkt food tour"
         },
@@ -1070,7 +1088,7 @@
           "description": "Плачутта известна своим аутентичным Винер Шницелем и Тafelspitz, классическим блюдом из отварной говядины. Ресторан сочетает в себе тёплую, традиционную атмосферу с обязательством к качественным ингредиентам. Ожидайте заплатить немного больше за ваше блюдо, но опыт и вкус того стоят. Не пропустите их фирменный Tafelspitz, подаваемый со всеми традиционными гарнирами.",
           "image_keyword": "Plachutta restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€30–50",
           "must_try": "Тафельшпиц",
           "klook_query": "Plachutta restaurant booking"
         },
@@ -1081,7 +1099,7 @@
           "description": "Кафе Централ — это историческое кафе, которое с 1876 года является культурным центром. Элегантный интерьер и живая атмосфера делают его идеальным местом для наслаждения кусочком их знаменитого Захер Торта с чашкой кофе Меланж. Цены умеренные, а опыт погружает вас в богатую литературную историю Вены. Это обязательное место для любителей кофе.",
           "image_keyword": "Café Central coffee house",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Сахерторте",
           "klook_query": "Café Central experience"
         },
@@ -1092,7 +1110,7 @@
           "description": "Шницельвирт знаменит тем, что подает одни из лучших Винер Шницелей в городе с щедрыми порциями и хрустящей золотистой корочкой. Непринужденная и оживленная атмосфера делает его любимым местом как для местных жителей, так и для туристов. Цены разумные, что делает его отличным выбором для сытного обеда. Сочетайте свой шницель с освежающим австрийским пивом.",
           "image_keyword": "Schnitzelwirt restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Венский шницель",
           "klook_query": "Schnitzelwirt booking"
         },
@@ -1103,7 +1121,7 @@
           "description": "Кармерлитермаркт — очаровательный рынок, предлагающий смесь свежих продуктов, уличной еды и местных деликатесов. С расслабленной атмосферой вы можете найти прилавки, предлагающие вкусные блюда, такие как лангош и выпечка. Это отличное место, чтобы исследовать местные вкусы и насладиться непринужденным обедом. Цены очень доступные, что делает его отличным местом для путешественников с ограниченным бюджетом.",
           "image_keyword": "Karmelitermarkt food market",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Лангош",
           "klook_query": "Karmelitermarkt food tour"
         },
@@ -1114,7 +1132,7 @@
           "description": "Гастхаус Поллак — это традиционная австрийская таверна, известная своим теплым гостеприимством и сытными домашними блюдами. Уютная атмосфера делает его идеальным местом для наслаждения местными фаворитами, такими как гуляш и клецки. Цены разумные, а порции щедрые. Это отличное место, чтобы попробовать аутентичную австрийскую кухню.",
           "image_keyword": "Gasthaus Pollak restaurant",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "€10–20",
           "must_try": "Австрийский гуляш",
           "klook_query": "Gasthaus Pollak reservation"
         },
@@ -1125,7 +1143,7 @@
           "description": "Фестиваль Уличной Еды Вены — это яркое событие, представляющее разнообразие уличной еды от местных и международных поставщиков. С живой атмосферой вы можете попробовать все, от гурманских бургеров до веганских деликатесов. Цены очень доступные, что делает легким попробовать разнообразные блюда. Этот фестиваль идеально подходит для любителей еды, желающих исследовать новые вкусы.",
           "image_keyword": "Vienna Street Food Festival",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Гурман-бургеры",
           "klook_query": "Vienna Street Food Festival tickets"
         },
@@ -1136,7 +1154,7 @@
           "description": "Винер Шницель — это самое знаковое блюдо Вены, приготовленное из панированного и жареного телятины. Его обязательно нужно попробовать при посещении города; он доступен во многих ресторанах и закусочных. Хрустящая корочка и нежное мясо обычно подаются с ломтиком лимона и картофельным салатом. Цены варьируются, но они обычно доступны и определенно стоят того, чтобы попробовать.",
           "image_keyword": "Wiener Schnitzel dish",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€10–15",
           "must_try": "Венский шницель",
           "klook_query": "Wiener Schnitzel experience"
         }

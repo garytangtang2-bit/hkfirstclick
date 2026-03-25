@@ -2,9 +2,9 @@
   "city_slug": "rio-de-janeiro",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Rio de Janeiro 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Rio de Janeiro. Find opening hours, ticket prices and booking links for Rio de Janeiro's top landmarks.",
-      "page_intro": "Rio de Janeiro, known for its breathtaking landscapes and vibrant culture, is a must-visit destination in Brazil. With iconic landmarks like Christ the Redeemer and Sugarloaf Mountain, the city offers a unique blend of natural beauty and urban energy. Whether you're lounging on Copacabana Beach or exploring the historic neighborhoods, Rio promises unforgettable experiences for every traveler.",
+      "seo_title": "Top 8 Must-See Attractions in Rio 2026",
+      "seo_description": "Discover ticket prices, opening hours, and insider tips for Rio's top sights. Book your adventure with Klook today!",
+      "page_intro": "Experience the vibrant spirit of Rio de Janeiro, where stunning views and rich culture await. From the majestic Christ the Redeemer to the breathtaking Sugarloaf Mountain, every corner of this city is a feast for the senses. Skip the lines and book your adventures via Klook for an unforgettable journey!",
       "items": [
         {
           "id": "christ-the-redeemer",
@@ -92,12 +92,16 @@
           "klook_query": "Copacabana Beach activities",
           "photo_url": "https://images.pexels.com/photos/720300/pexels-photo-720300.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Rio de Janeiro?",
+      "faq_q2": "Do I need tickets for attractions in Rio de Janeiro?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Rio require tickets for entry. It's best to book your tickets in advance through Klook to ensure a smooth experience."
     },
     "zh": {
-      "seo_title": "2026年里约热内卢的顶级景点 — 门票、提示与完整指南",
-      "seo_description": "探索里约热内卢最好的景点。查找里约热内卢顶级地标的开放时间、票价和预订链接。",
-      "page_intro": "里约热内卢以其壮丽的风景和充满活力的文化而闻名，是巴西一个必游的目的地。拥有基督救世主和糖面包山等标志性地标，这座城市提供了自然美和城市活力的独特融合。无论是在科帕卡巴纳海滩放松，还是探索历史悠久的社区，里约承诺为每位旅行者提供难忘的体验。",
+      "seo_title": "2026年里约热内卢8大必看景点 — 完整指南",
+      "seo_description": "获取里约热内卢顶级景点的门票、开放时间和内部提示，立即通过Klook预订，开启您的旅行冒险！",
+      "page_intro": "探索里约热内卢的魅力，感受基督救世主和糖面包山的壮观景致。无论是迷人的植物园还是热情的海滩，里约都为您提供难忘的体验。立即通过Klook预订，畅享无忧旅行！",
       "items": [
         {
           "id": "christ-the-redeemer",
@@ -183,12 +187,16 @@
           "best_time": "anytime",
           "klook_query": "Copacabana Beach activities"
         }
-      ]
+      ],
+      "faq_q1": "里约热内卢的热门景点有哪些？",
+      "faq_q2": "我需要购买里约热内卢景点的门票吗？",
+      "faq_a1_suffix": " 是必游的景点。",
+      "faq_a2": "大多数景点都需要购票，您可以通过Klook轻松预订，避免排队。"
     },
     "ja": {
-      "seo_title": "2026年リオデジャネイロのトップ観光名所 — チケット、ヒント＆完全ガイド",
-      "seo_description": "リオデジャネイロの最高の観光名所を探索しましょう。リオデジャネイロの主要ランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "リオデジャネイロは、その息をのむような風景と活気ある文化で知られており、ブラジルの必見の目的地です。キリスト像やシュガーローフ山などのアイコニックなランドマークを持つこの都市は、自然の美しさと都市のエネルギーのユニークな融合を提供します。コパカバーナビーチでリラックスするにせよ、歴史的な地区を探索するにせよ、リオはすべての旅行者に忘れられない体験を約束します。",
+      "seo_title": "2026年リオデジャネイロの必見観光名所8選 — 完全ガイド",
+      "seo_description": "リオデジャネイロの観光名所のチケット、営業時間、インサイダー情報をチェック。Klookで予約して、冒険を始めましょう！",
+      "page_intro": "リオデジャネイロの魅力は、壮大なキリスト像や美しいシュガーローフ山に象徴される息をのむような景観にあります。歴史的な地区や緑豊かな植物園も見逃せません。行列を避けて、Klookでスムーズに予約しましょう！",
       "items": [
         {
           "id": "christ-the-redeemer",
@@ -274,12 +282,16 @@
           "best_time": "anytime",
           "klook_query": "Copacabana Beach activities"
         }
-      ]
+      ],
+      "faq_q1": "リオデジャネイロの主な観光名所は何ですか？",
+      "faq_q2": "リオデジャネイロの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを購入してスムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "2026년 리우데자네이루의 주요 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "리우데자네이루의 최고의 명소를 탐험해 보세요. 리우데자네이루의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
-      "page_intro": "리우데자네이루는 숨막히는 풍경과 활기찬 문화로 유명한 브라질의 필수 방문지입니다. 그리스도 구세주와 슈가로프 산과 같은 상징적인 명소가 있는 이 도시는 자연의 아름다움과 도시의 에너지가 독특하게 어우러져 있습니다. 코파카바나 해변에서 휴식을 취하든 역사적인 동네를 탐험하든, 리우는 모든 여행자에게 잊을 수 없는 경험을 약속합니다.",
+      "seo_title": "2026년 리우데자네이루의 8대 필수 명소 완벽 가이드",
+      "seo_description": "리우데자네이루의 주요 명소 개장 시간, 티켓 가격, 예약 링크(Klook)를 확인하고 여행을 계획하세요!",
+      "page_intro": "리우데자네이루의 매력은 그리스도 구세주와 슈가로프 산 같은 상징적인 명소에서부터 시작됩니다. 숨막히는 자연경관과 다채로운 문화가 어우러진 이 도시는 여행자들에게 잊지 못할 경험을 선사합니다. 긴 줄을 피하고 Klook을 통해 예약하세요!",
       "items": [
         {
           "id": "christ-the-redeemer",
@@ -365,12 +377,16 @@
           "best_time": "anytime",
           "klook_query": "Copacabana Beach activities"
         }
-      ]
+      ],
+      "faq_q1": "리우데자네이루의 주요 명소는 무엇인가요?",
+      "faq_q2": "리우데자네이루의 명소에 입장하려면 티켓이 필요한가요?",
+      "faq_a1_suffix": " 는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소는 입장 티켓이 필요합니다. Klook을 통해 미리 구매하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Rio de Janeiro 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Rio de Janeiro. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Rio de Janeiro.",
-      "page_intro": "Rio de Janeiro, connue pour ses paysages à couper le souffle et sa culture vibrante, est une destination incontournable au Brésil. Avec des monuments emblématiques tels que le Christ Rédempteur et le Pain de Sucre, la ville offre un mélange unique de beauté naturelle et d'énergie urbaine. Que vous soyez allongé sur la plage de Copacabana ou en train d'explorer les quartiers historiques, Rio promet des expériences inoubliables pour chaque voyageur.",
+      "seo_title": "Top 8 Attractions à Rio de Janeiro 2026 — Guide Complet",
+      "seo_description": "Explorez les horaires, prix et conseils pour les meilleures attractions de Rio. Réservez vos billets sur Klook et découvrez Rio comme un pro!",
+      "page_intro": "Découvrez Rio de Janeiro, où la beauté naturelle rencontre la culture vibrante ! Des merveilles comme le Christ Rédempteur et le Pain de Sucre aux trésors cachés du jardin botanique, chaque coin de la ville est une invitation à l'émerveillement. Évitez les files d'attente et réservez vos billets via Klook pour profiter pleinement de votre séjour.",
       "items": [
         {
           "id": "christ-the-redeemer",
@@ -456,10 +472,14 @@
           "best_time": "anytime",
           "klook_query": "Copacabana Beach activities"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Rio de Janeiro ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Rio de Janeiro ?",
+      "faq_a1_suffix": " sont parmi les incontournables.",
+      "faq_a2": "Oui, il est conseillé d'acheter des billets à l'avance pour éviter les longues attentes. Vous pouvez facilement les réserver sur Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones en Río de Janeiro 2026 — Entradas, consejos y guía completa",
+      "seo_title": "Las 10 mejores atracciones en Río 2026",
       "seo_description": "Descubre las mejores atracciones en Río de Janeiro. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Río de Janeiro.",
       "page_intro": "Río de Janeiro, conocida por sus paisajes impresionantes y su vibrante cultura, es un destino imperdible en Brasil. Con monumentos icónicos como el Cristo Redentor y el Pan de Azúcar, la ciudad ofrece una mezcla única de belleza natural y energía urbana. Ya sea que estés descansando en la playa de Copacabana o explorando los barrios históricos, Río promete experiencias inolvidables para cada viajero.",
       "items": [
@@ -550,7 +570,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Rio de Janeiro 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik di Rio de Janeiro 2026",
       "seo_description": "Jelajahi atraksi terbaik di Rio de Janeiro. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama di Rio de Janeiro.",
       "page_intro": "Rio de Janeiro, dikenal karena pemandangan yang menakjubkan dan budaya yang hidup, adalah tujuan yang wajib dikunjungi di Brasil. Dengan landmark ikonik seperti Christ the Redeemer dan Sugarloaf Mountain, kota ini menawarkan perpaduan unik antara keindahan alam dan energi perkotaan. Baik Anda bersantai di Pantai Copacabana atau menjelajahi lingkungan bersejarah, Rio menjanjikan pengalaman tak terlupakan bagi setiap pelancong.",
       "items": [
@@ -641,7 +661,7 @@
       ]
     },
     "hi": {
-      "seo_title": "रियो डी जनेरियो के शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
+      "seo_title": "2026 में रियो के शीर्ष 5 आकर्षण — गाइड और टिप्स",
       "seo_description": "रियो डी जनेरियो के सबसे अच्छे आकर्षणों का अन्वेषण करें। रियो डी जनेरियो के शीर्ष स्थलों के लिए खुलने के घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
       "page_intro": "रियो डी जनेरियो, अपने अद्भुत दृश्यों और जीवंत संस्कृति के लिए जाना जाता है, ब्राजील में अवश्य देखने योग्य स्थान है। क्राइस्ट द रिडीमर और शुगरलोफ माउंटेन जैसे प्रतीकात्मक स्थलों के साथ, यह शहर प्राकृतिक सौंदर्य और शहरी ऊर्जा का अनूठा मिश्रण प्रदान करता है। चाहे आप कोपाकबाना बीच पर आराम कर रहे हों या ऐतिहासिक पड़ोस का अन्वेषण कर रहे हों, रियो हर यात्री के लिए अविस्मरणीय अनुभव का वादा करता है।",
       "items": [
@@ -732,7 +752,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações no Rio de Janeiro 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações no Rio de Janeiro 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações do Rio de Janeiro. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos do Rio de Janeiro.",
       "page_intro": "O Rio de Janeiro, conhecido por suas paisagens deslumbrantes e cultura vibrante, é um destino imperdível no Brasil. Com marcos icônicos como o Cristo Redentor e o Pão de Açúcar, a cidade oferece uma mistura única de beleza natural e energia urbana. Seja relaxando na Praia de Copacabana ou explorando os bairros históricos, o Rio promete experiências inesquecíveis para cada viajante.",
       "items": [
@@ -823,7 +843,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في ريو دي جانيرو 2026 - التذاكر والنصائح والدليل الشامل",
+      "seo_title": "أفضل 10 معالم في ريو دي جانيرو 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في ريو دي جانيرو. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم ريو دي جانيرو.",
       "page_intro": "تُعرف ريو دي جانيرو بمناظرها الطبيعية الخلابة وثقافتها النابضة بالحياة، وهي وجهة لا بد من زيارتها في البرازيل. مع معالمها الشهيرة مثل المسيح الفادي وجبل السكر، تقدم المدينة مزيجًا فريدًا من الجمال الطبيعي والطاقة الحضرية. سواء كنت تتنزه على شاطئ كوباكابانا أو تستكشف الأحياء التاريخية، تعد ريو بتجارب لا تُنسى لكل مسافر.",
       "items": [
@@ -914,8 +934,8 @@
       ]
     },
     "bn": {
-      "seo_title": "রিও ডি জেনিরোর শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং পূর্ণ নির্দেশিকা",
-      "seo_description": "রিও ডি জেনিরোর সেরা আকর্ষণগুলি অন্বেষণ করুন। রিও ডি জেনিরোর শীর্ষ দর্শনীয় স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক সন্ধান করুন।",
+      "seo_title": "রিও ডি জেনিরোর ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "রিও ডি জেনিরোর সেরা আকর্ষণগুলি আবিষ্কার করুন। টিকিট, খোলার সময় এবং Klook বুকিং লিঙ্কের জন্য এখনই দেখুন!",
       "page_intro": "রিও ডি জেনিরো, যার অসাধারণ প্রাকৃতিক দৃশ্য এবং প্রাণবন্ত সংস্কৃতির জন্য পরিচিত, ব্রাজিলে একটি অবশ্যই দেখার স্থান। খ্রিস্ট দ্য রিডিমার এবং সুগারলোফ মাউন্টেনের মতো আইকনিক স্থানগুলি নিয়ে, শহরটি প্রাকৃতিক সৌন্দর্য এবং শহুরে শক্তির একটি অনন্য সংমিশ্রণ প্রদান করে। আপনি কোপাকাবানা বিচে বিশ্রাম নিচ্ছেন বা ঐতিহাসিক পাড়াগুলি অন্বেষণ করছেন, রিও প্রতিটি ভ্রমণকারীর জন্য অবিস্মরণীয় অভিজ্ঞতার আশ্বাস দেয়।",
       "items": [
         {
@@ -1005,7 +1025,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей Рио-де-Жанейро 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ 10 достопримечательностей Рио-де-Жанейро 2026",
       "seo_description": "Изучите лучшие достопримечательности Рио-де-Жанейро. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Рио-де-Жанейро.",
       "page_intro": "Рио-де-Жанейро, известный своими захватывающими пейзажами и яркой культурой, является обязательным для посещения местом в Бразилии. С такими знаковыми достопримечательностями, как Христос-Искупитель и гора Sugarloaf, город предлагает уникальное сочетание природной красоты и городской энергии. Независимо от того, отдыхаете ли вы на пляже Копакабана или исследуете исторические районы, Рио обещает незабываемые впечатления для каждого путешественника.",
       "items": [

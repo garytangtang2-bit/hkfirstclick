@@ -2,9 +2,9 @@
   "city_slug": "barcelona",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Barcelona 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Barcelona. From budget eats to fine dining — with booking links.",
-      "page_intro": "Barcelona's food scene is a vibrant tapestry of flavors, reflecting its rich cultural heritage and modern culinary innovations. From the bustling markets offering traditional tapas to Michelin-starred restaurants redefining Spanish cuisine, there's something for every palate. Explore the city's diverse gastronomy, where fresh seafood, cured meats, and local wines take center stage, offering a delicious journey through Catalonia's culinary delights.",
+      "seo_title": "8 Best Must-Try Restaurants in Barcelona 2026",
+      "seo_description": "Save time with real recommendations! Discover local favorites from Mercado de La Boqueria to Tickets. Book via Klook and plan your meal now!",
+      "page_intro": "Dive into Barcelona's culinary wonderland, where tantalizing tapas and fresh seafood await! Savor local specialties like paella and jamón ibérico, and let our curated picks guide you to the best dining experiences.",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -13,7 +13,7 @@
           "description": "La Boqueria is Barcelona's most famous market, offering a vibrant atmosphere and a wide array of fresh produce, meats, and seafood. It's an excellent place to sample traditional Spanish tapas and local delicacies. Prices are reasonable, and it's a must-visit for any food lover looking to experience the city's culinary culture.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Jamon Iberico",
           "klook_query": "La Boqueria market tour",
           "photo_url": "https://images.pexels.com/photos/2031994/pexels-photo-2031994.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Tickets is a Michelin-starred restaurant by the famous Adrià brothers, offering a creative tapas experience. The atmosphere is lively and theatrical, with a menu featuring innovative dishes that play with traditional Spanish flavors. It's a more expensive option, but the unique culinary experience is worth it.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "Olives from El Bulli",
           "klook_query": "Tickets restaurant booking",
           "photo_url": "https://images.pexels.com/photos/7135019/pexels-photo-7135019.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Located within the bustling La Boqueria market, El Quim is a popular spot for locals and tourists alike. Known for its fresh and flavorful tapas, the small bar offers a classic market dining experience. The prices are moderate, and the atmosphere is both chaotic and charming.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Huevos con Chipirones",
           "klook_query": "El Quim de la Boqueria dining",
           "photo_url": "https://images.pexels.com/photos/17606596/pexels-photo-17606596.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -49,7 +49,7 @@
           "description": "Bar Cañete offers a quintessential Barcelona dining experience with its traditional Spanish dishes and vibrant atmosphere. Situated in the heart of the city, it's famous for its high-quality tapas and seafood, and it offers a mid-range price point. The lively vibe makes it perfect for an authentic night out.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Paella",
           "klook_query": "Bar Cañete reservation",
           "photo_url": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -61,7 +61,7 @@
           "description": "This tiny, standing-room-only bar is a hidden gem offering an impressive selection of wines and creative montaditos (small sandwiches). Quimet y Quimet is renowned for its unique combinations of flavors and its extensive drinks menu, making it a beloved spot for both locals and visitors.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Salmon with Yogurt and Truffle Honey",
           "klook_query": "Quimet y Quimet bar tour",
           "photo_url": "https://images.pexels.com/photos/1022923/pexels-photo-1022923.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -73,7 +73,7 @@
           "description": "Cal Pep is a bustling tapas bar known for its fresh seafood and lively atmosphere. Located in the Gothic Quarter, it offers a rotating menu based on the day's catch. The prices are on the higher end, but the quality and excitement of the dining experience make it worthwhile.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Fried Calamari",
           "klook_query": "Cal Pep dining experience",
           "photo_url": "https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -85,7 +85,7 @@
           "description": "Palo Alto Market is a monthly street food and design market held in a former factory space. It offers a unique combination of gourmet street food, music, and art, creating a vibrant and eclectic atmosphere. It's a great place to explore diverse culinary offerings and enjoy the creative energy of Barcelona.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "Artisan food stalls",
           "klook_query": "Palo Alto Market tour",
           "photo_url": "https://images.pexels.com/photos/1251848/pexels-photo-1251848.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -102,12 +102,15 @@
           "klook_query": "Casa Gispert tour",
           "photo_url": "https://images.pexels.com/photos/248913/pexels-photo-248913.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Barcelona?",
+      "faq_q2": "Where can I find the best restaurants in Barcelona?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "巴塞隆納美食2026 — 頂級餐廳和街頭美食指南",
-      "seo_description": "探索巴塞隆納的最佳餐廳、街頭美食和當地特色。從平價美食到高級餐飲 — 提供預訂連結。",
-      "page_intro": "巴塞隆納的美食場景是一幅充滿活力的風味掛毯，反映了其豐富的文化遺產和現代烹飪創新。從提供傳統小吃的繁忙市場到重新定義西班牙美食的米其林星級餐廳，滿足每一個味蕾。探索城市多樣的美食文化，新鮮的海鮮、醃製肉類和當地葡萄酒成為焦點，為您提供穿越加泰羅尼亞美食的美味旅程。",
+      "seo_title": "巴塞隆納2026 — 8大必試餐廳與隱藏美食",
+      "seo_description": "節省時間，發現巴塞隆納的真實美食推薦，透過Klook預訂，立即計劃您的美食之旅！",
+      "page_intro": "巴塞隆納的美食景觀彷彿一場味蕾的盛宴，融合了地中海的鮮美與加泰羅尼亞的獨特風味。無論是市場裡的新鮮海鮮，還是米其林星級餐廳的創意料理，這裡都能讓您大快朵頤。透過我們精心挑選的推薦，輕鬆預訂，讓您的美食之旅無縫接軌！",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -116,7 +119,7 @@
           "description": "波蓋利亞是巴塞隆納最著名的市場，提供充滿活力的氛圍和各種新鮮農產品、肉類和海鮮。這是品嚐傳統西班牙小吃和當地美食的絕佳場所。價格合理，是任何希望體驗城市美食文化的美食愛好者必訪之地。",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "伊比利亞火腿",
           "klook_query": "La Boqueria market tour"
         },
@@ -127,7 +130,7 @@
           "description": "Tickets是由著名的阿德里亞兄弟經營的米其林星級餐廳，提供創意小吃體驗。氛圍活潑且充滿戲劇性，菜單上充滿創新的菜餚，巧妙結合傳統西班牙風味。這是一個更昂貴的選擇，但獨特的烹飪體驗非常值得。",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "艾爾布利的橄欖",
           "klook_query": "Tickets restaurant booking"
         },
@@ -138,7 +141,7 @@
           "description": "位於繁忙的波蓋利亞市場內，El Quim 是當地人和遊客都喜愛的熱門地點。以其新鮮可口的小吃而聞名，這家小酒吧提供經典的市場用餐體驗。價格適中，氛圍既混亂又迷人。",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "墨魚蛋",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -149,7 +152,7 @@
           "description": "Bar Cañete 提供典型的巴塞隆納用餐體驗，以其傳統西班牙菜餚和充滿活力的氛圍著稱。位於市中心，以高品質的小吃和海鮮聞名，價格中等。熱鬧的氛圍使其成為體驗正宗夜生活的理想選擇。",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "西班牙海鮮飯",
           "klook_query": "Bar Cañete reservation"
         },
@@ -160,7 +163,7 @@
           "description": "這家小而僅可站立的酒吧是一個隱藏的寶石，提供令人印象深刻的葡萄酒選擇和創意蒙塔迪托（小三明治）。Quimet y Quimet 以其獨特的風味組合和豐富的飲品單而聞名，是當地人和遊客都喜愛的地點。",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "鮭魚配優格和松露蜜",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -171,7 +174,7 @@
           "description": "Cal Pep 是一間熱鬧的小吃酒吧，以其新鮮的海鮮和活潑的氛圍而聞名。位於哥特區，提供根據每日漁獲變動的菜單。價格較高，但其質量和用餐體驗的興奮感使其物有所值。",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "炸魷魚",
           "klook_query": "Cal Pep dining experience"
         },
@@ -182,7 +185,7 @@
           "description": "Palo Alto 市場是一個每月舉行的街頭美食和設計市場，位於一個舊工廠空間內。它結合了高級街頭美食、音樂和藝術，創造出活力四射且兼容並蓄的氛圍。這是探索多樣美食產品並享受巴塞隆納創意活力的絕佳場所。",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "手工食品攤位",
           "klook_query": "Palo Alto Market tour"
         },
@@ -197,12 +200,15 @@
           "must_try": "烤杏仁",
           "klook_query": "Casa Gispert tour"
         }
-      ]
+      ],
+      "faq_q1": "在巴塞隆納最推薦的美食是什麼？",
+      "faq_q2": "在哪裡可以找到巴塞隆納最好的餐廳？",
+      "faq_a2_suffix": " 是最受好評的用餐選擇。"
     },
     "ja": {
-      "seo_title": "バルセロナのベストフード2026 — トップレストラン＆ストリートフードガイド",
-      "seo_description": "バルセロナの最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優れた食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "バルセロナの食文化は、その豊かな文化遺産と現代的な料理の革新を反映した活気あふれる風味のタペストリーです。伝統的なタパスを提供する賑やかな市場から、スペイン料理を再定義するミシュラン星付きレストランまで、あらゆる味覚を満たします。新鮮な海産物、熟成肉、地元のワインが主役となり、カタルーニャの料理の喜びを味わう美味しい旅を提供します。",
+      "seo_title": "バルセロナ2026年の必食8レストラン — トップガイド",
+      "seo_description": "時間を節約し、真のおすすめを見つけましょう。Klookで予約して、地元の名物を楽しむ計画を立てましょう。",
+      "page_intro": "バルセロナの食シーンは、タパスやパエリアなどの地元の名物料理が織りなす魅力的な体験です。新鮮な海の幸や地元のワインを楽しみながら、時間を節約し、厳選されたレストランをKlookで予約しましょう。",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -211,7 +217,7 @@
           "description": "ラ・ボケリアはバルセロナで最も有名な市場で、活気ある雰囲気と新鮮な農産物、肉、海産物の豊富な品揃えを提供しています。伝統的なスペインのタパスや地元の珍味を味わう絶好の場所です。価格は手頃で、食文化を体験したいすべての食通にとって必訪の地です。",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "ハモン・イベリコ",
           "klook_query": "La Boqueria market tour"
         },
@@ -222,7 +228,7 @@
           "description": "チケットは、著名なアドリア兄弟が手がけるミシュラン星付きのレストランで、創造的なタパス体験を提供します。活気に満ちた演劇的な雰囲気で、伝統的なスペインの風味を遊び心で取り入れた革新的な料理を提供しています。高額な選択肢ですが、ユニークな料理体験は価値があります。",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "エル・ブリのオリーブ",
           "klook_query": "Tickets restaurant booking"
         },
@@ -233,7 +239,7 @@
           "description": "賑やかなラ・ボケリア市場内にある El Quim は、地元の人々と観光客の両方に人気のスポットです。新鮮で風味豊かなタパスで知られ、小さなバーでクラシックな市場の食事体験を提供しています。価格は中程度で、雰囲気は混雑しているが魅力的です。",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "イカの卵と卵料理",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -244,7 +250,7 @@
           "description": "バル・カニェテは、伝統的なスペイン料理と活気ある雰囲気で、典型的なバルセロナの食事体験を提供します。市の中心部に位置し、高品質のタパスと海産物で有名です。中間価格帯を提供し、活気に満ちた雰囲気が本格的な夜を楽しむのに最適です。",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "パエリア",
           "klook_query": "Bar Cañete reservation"
         },
@@ -255,7 +261,7 @@
           "description": "この小さな立ち席のみのバーは、印象的なワインのセレクションと創造的なモンタディート（小さなサンドイッチ）を提供する隠れた名店です。キメット・イ・キメットは、その独特の風味の組み合わせと豊富なドリンクメニューで知られ、地元の人々と訪問者の両方に愛されています。",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "サーモンのヨーグルトとトリュフハニー添え",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -266,7 +272,7 @@
           "description": "カル・ペップは、新鮮な海産物と活気に満ちた雰囲気で有名な賑やかなタパスバーです。ゴシック地区に位置し、その日の漁獲に基づいた回転するメニューを提供しています。価格は高めですが、質の高さと興奮に満ちた食事体験は価値があります。",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "フライドカラマリ",
           "klook_query": "Cal Pep dining experience"
         },
@@ -277,7 +283,7 @@
           "description": "パロ・アルト・マーケットは、旧工場スペースで毎月開催されるストリートフードとデザインのマーケットです。グルメストリートフード、音楽、アートのユニークな組み合わせを提供し、活気に満ちた折衷的な雰囲気を作り出しています。多様な料理の選択肢を探索し、バルセロナの創造的なエネルギーを楽しむのに最適な場所です。",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "アーティザンフードスタンド",
           "klook_query": "Palo Alto Market tour"
         },
@@ -292,12 +298,15 @@
           "must_try": "ローストアーモンド",
           "klook_query": "Casa Gispert tour"
         }
-      ]
+      ],
+      "faq_q1": "バルセロナでおすすめの料理は何ですか？",
+      "faq_q2": "バルセロナで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": " は、評価の高いダイニングオプションの一つです。"
     },
     "ko": {
-      "seo_title": "바르셀로나 최고의 음식 2026 — 최고의 레스토랑 & 스트리트 푸드 가이드",
-      "seo_description": "바르셀로나의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 저렴한 음식부터 고급 요리까지 — 예약 링크 포함.",
-      "page_intro": "바르셀로나의 음식 장면은 풍부한 문화 유산과 현대 요리 혁신을 반영하는 활기찬 풍미의 태피스트리입니다. 전통적인 타파스를 제공하는 번화한 시장부터 스페인 요리를 재정의하는 미슐랭 스타 레스토랑까지, 모든 미각을 만족시킵니다. 신선한 해산물, 훈제 고기 및 지역 와인이 중심이 되어, 카탈루냐의 요리 즐거움을 여행할 수 있는 맛있는 여정을 제공합니다.",
+      "seo_title": "바르셀로나 2026: 꼭 가봐야 할 8대 맛집",
+      "seo_description": "시간을 절약하고 진짜 추천을 확인하세요. Klook 예약으로 바르셀로나의 숨겨진 맛집을 지금 계획해보세요!",
+      "page_intro": "바르셀로나의 음식 세계는 미각을 자극하는 다양한 맛으로 가득 차 있습니다. 신선한 해산물 파에야와 정통 타파스는 이 도시의 필수 경험입니다. Klook에서 추천하는 맛집으로 시간을 절약하고 최고의 식사를 즐겨보세요!",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -306,7 +315,7 @@
           "description": "라 보케리아는 바르셀로나에서 가장 유명한 시장으로, 활기찬 분위기와 신선한 농산물, 고기, 해산물의 다양한 품목을 제공합니다. 전통적인 스페인 타파스와 지역 특산품을 맛보기에 좋은 장소입니다. 가격이 합리적이며, 도시의 음식 문화를 경험하고자 하는 모든 미식가에게 필수 방문지입니다.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "하몽 이베리코",
           "klook_query": "La Boqueria market tour"
         },
@@ -317,7 +326,7 @@
           "description": "티켓은 유명한 아드리아 형제가 운영하는 미슐랭 스타 레스토랑으로, 창의적인 타파스 경험을 제공합니다. 분위기가 활기차고 극적이며, 전통적인 스페인 풍미를 활용한 혁신적인 요리를 제공합니다. 더 비싼 옵션이지만 독특한 요리 경험은 그만한 가치가 있습니다.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "엘 불리의 올리브",
           "klook_query": "Tickets restaurant booking"
         },
@@ -328,7 +337,7 @@
           "description": "분주한 라 보케리아 시장 내에 위치한 엘 퀌임은 현지인과 관광객 모두에게 인기 있는 장소입니다. 신선하고 풍미 가득한 타파스로 유명하며, 작은 바는 클래식한 시장 식사 경험을 제공합니다. 가격이 중간 정도이며, 분위기는 혼잡하지만 매력적입니다.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "오징어와 계란",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -339,7 +348,7 @@
           "description": "바르 카녜테는 전통적인 스페인 요리와 활기찬 분위기로 전형적인 바르셀로나 식사 경험을 제공합니다. 도시 중심부에 위치하여, 고품질의 타파스와 해산물로 유명합니다. 중간 가격대를 제공하며, 활기찬 분위기가 본격적인 밤 외출에 적합합니다.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "파에야",
           "klook_query": "Bar Cañete reservation"
         },
@@ -350,7 +359,7 @@
           "description": "이 작은 서서 먹는 바는 인상적인 와인 선택과 창의적인 몬타디토(작은 샌드위치)를 제공하는 숨겨진 보석입니다. 퀴메트 이 퀴메트는 독특한 맛의 조합과 다양한 음료 메뉴로 유명하며, 현지인과 방문객 모두에게 사랑받는 장소입니다.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "연어와 요거트, 트러플 꿀",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -361,7 +370,7 @@
           "description": "칼펩은 신선한 해산물과 활기찬 분위기로 유명한 번잡한 타파스 바입니다. 고딕 지구에 위치하여, 그날의 어획량에 기반한 회전 메뉴를 제공합니다. 가격이 높은 편이지만, 품질과 식사 경험의 흥분감 때문에 그만한 가치가 있습니다.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "튀긴 오징어",
           "klook_query": "Cal Pep dining experience"
         },
@@ -372,7 +381,7 @@
           "description": "팔로 알토 마켓은 구 공장 공간에서 매달 열리는 스트리트 푸드 및 디자인 마켓입니다. 고급 스트리트 푸드, 음악, 예술의 독특한 조합을 제공하며, 활기차고 독특한 분위기를 만들어냅니다. 다양한 요리 옵션을 탐험하고 바르셀로나의 창의적인 에너지를 즐기기에 좋은 장소입니다.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "장인 음식 가판대",
           "klook_query": "Palo Alto Market tour"
         },
@@ -387,12 +396,15 @@
           "must_try": "구운 아몬드",
           "klook_query": "Casa Gispert tour"
         }
-      ]
+      ],
+      "faq_q1": "바르셀로나에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "바르셀로나에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure Nourriture à Barcelone 2026 — Guide des Meilleurs Restaurants & Street Food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Barcelone. Des plats économiques à la haute cuisine — avec des liens de réservation.",
-      "page_intro": "La scène culinaire de Barcelone est une tapisserie vibrante de saveurs, reflétant son riche patrimoine culturel et ses innovations culinaires modernes. Des marchés animés offrant des tapas traditionnels aux restaurants étoilés Michelin redéfinissant la cuisine espagnole, il y en a pour tous les goûts. Explorez la gastronomie diversifiée de la ville, où les fruits de mer frais, les viandes séchées et les vins locaux occupent le devant de la scène, offrant un délicieux voyage à travers les délices culinaires de la Catalogne.",
+      "seo_title": "8 Meilleurs Restaurants à Barcelone 2026 — Must-Try & Gems",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les saveurs locales. Planifiez votre repas maintenant !",
+      "page_intro": "Découvrez la scène gastronomique palpitante de Barcelone, où des plats emblématiques comme la paella et les tapas font vibrer vos papilles. Ne perdez plus de temps, explorez nos choix soigneusement sélectionnés et réservez facilement avec Klook.",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -401,7 +413,7 @@
           "description": "La Boqueria est le marché le plus célèbre de Barcelone, offrant une ambiance vibrante et une large gamme de produits frais, viandes et fruits de mer. C'est un excellent endroit pour déguster des tapas espagnols traditionnels et des spécialités locales. Les prix sont raisonnables, et c'est un incontournable pour tout amateur de gastronomie souhaitant découvrir la culture culinaire de la ville.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Jambon Ibérique",
           "klook_query": "La Boqueria market tour"
         },
@@ -412,7 +424,7 @@
           "description": "Tickets est un restaurant étoilé Michelin par les célèbres frères Adrià, offrant une expérience de tapas créative. L'atmosphère est animée et théâtrale, avec un menu proposant des plats innovants qui jouent avec les saveurs espagnoles traditionnelles. C'est une option plus coûteuse, mais l'expérience culinaire unique en vaut la peine.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "Olives d'El Bulli",
           "klook_query": "Tickets restaurant booking"
         },
@@ -423,7 +435,7 @@
           "description": "Situé dans le marché animé de La Boqueria, El Quim est un lieu prisé des locaux et des touristes. Connu pour ses tapas fraîches et savoureuses, le petit bar offre une expérience de restauration classique sur le marché. Les prix sont modérés, et l'atmosphère est à la fois chaotique et charmante.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Œufs aux Chipirones",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -434,7 +446,7 @@
           "description": "Bar Cañete offre une expérience culinaire typiquement barcelonaise avec ses plats espagnols traditionnels et son ambiance vibrante. Situé au cœur de la ville, il est célèbre pour ses tapas et fruits de mer de haute qualité, et propose une gamme de prix moyenne. L'ambiance animée en fait un lieu parfait pour une soirée authentique.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Paella",
           "klook_query": "Bar Cañete reservation"
         },
@@ -445,7 +457,7 @@
           "description": "Ce minuscule bar où l'on mange debout est un joyau caché offrant une sélection impressionnante de vins et de montaditos créatifs (petits sandwiches). Quimet y Quimet est réputé pour ses combinaisons de saveurs uniques et son vaste menu de boissons, ce qui en fait un lieu apprécié des locaux et des visiteurs.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Saumon au Yaourt et Miel de Truffe",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -456,7 +468,7 @@
           "description": "Cal Pep est un bar à tapas animé connu pour ses fruits de mer frais et son atmosphère vivante. Situé dans le Quartier Gothique, il propose un menu tournant basé sur la pêche du jour. Les prix sont plus élevés, mais la qualité et l'excitation de l'expérience culinaire en valent la peine.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Calamars Frits",
           "klook_query": "Cal Pep dining experience"
         },
@@ -467,7 +479,7 @@
           "description": "Le Marché Palo Alto est un marché de street food et de design mensuel tenu dans un ancien espace d'usine. Il offre une combinaison unique de street food gastronomique, de musique et d'art, créant une ambiance vibrante et éclectique. C'est un endroit idéal pour explorer les offres culinaires diversifiées et profiter de l'énergie créative de Barcelone.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "Stands de Nourriture Artisanale",
           "klook_query": "Palo Alto Market tour"
         },
@@ -482,12 +494,15 @@
           "must_try": "Amandes Grillées",
           "klook_query": "Casa Gispert tour"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Barcelone ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Barcelone ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor Comida en Barcelona 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Barcelona. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
-      "page_intro": "La escena gastronómica de Barcelona es un tapiz vibrante de sabores, que refleja su rica herencia cultural y sus innovaciones culinarias modernas. Desde los mercados bulliciosos que ofrecen tapas tradicionales hasta los restaurantes con estrellas Michelin que redefinen la cocina española, hay algo para todos los paladares. Explora la diversa gastronomía de la ciudad, donde los mariscos frescos, las carnes curadas y los vinos locales son el centro de atención, ofreciendo un delicioso viaje a través de las delicias culinarias de Cataluña.",
+      "seo_title": "Top 8 Restaurantes en Barcelona 2026 — ¡Descúbrelos!",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los sabores locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre la explosión de sabores que ofrece la gastronomía de Barcelona! Desde tapas tradicionales hasta innovadoras creaciones culinarias, aquí podrás disfrutar de platos emblemáticos como la paella y el jamón ibérico. Ahorra tiempo con nuestras selecciones curadas y reserva fácilmente a través de Klook.",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -496,7 +511,7 @@
           "description": "La Boqueria es el mercado más famoso de Barcelona, ofreciendo un ambiente vibrante y una amplia gama de productos frescos, carnes y mariscos. Es un excelente lugar para degustar tapas españolas tradicionales y delicias locales. Los precios son razonables, y es una visita obligada para cualquier amante de la comida que desee experimentar la cultura culinaria de la ciudad.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Jamon Ibérico",
           "klook_query": "La Boqueria market tour"
         },
@@ -507,7 +522,7 @@
           "description": "Tickets es un restaurante con estrella Michelin de los famosos hermanos Adrià, que ofrece una experiencia creativa de tapas. El ambiente es animado y teatral, con un menú que presenta platos innovadores que juegan con los sabores españoles tradicionales. Es una opción más costosa, pero la experiencia culinaria única vale la pena.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "Aceitunas de El Bulli",
           "klook_query": "Tickets restaurant booking"
         },
@@ -518,7 +533,7 @@
           "description": "Ubicado dentro del bullicioso mercado de La Boqueria, El Quim es un lugar popular tanto para locales como para turistas. Conocido por sus tapas frescas y sabrosas, el pequeño bar ofrece una experiencia clásica de comedor de mercado. Los precios son moderados y el ambiente es tanto caótico como encantador.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Huevos con Chipirones",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -529,7 +544,7 @@
           "description": "Bar Cañete ofrece una experiencia gastronómica barcelonesa por excelencia con sus platos españoles tradicionales y su ambiente vibrante. Situado en el corazón de la ciudad, es famoso por sus tapas y mariscos de alta calidad, y ofrece un rango de precios medio. El ambiente animado lo hace perfecto para una noche auténtica.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Paella",
           "klook_query": "Bar Cañete reservation"
         },
@@ -540,7 +555,7 @@
           "description": "Este diminuto bar de pie es una joya oculta que ofrece una impresionante selección de vinos y montaditos creativos (pequeños sándwiches). Quimet y Quimet es conocido por sus combinaciones únicas de sabores y su extenso menú de bebidas, lo que lo convierte en un lugar querido tanto por locales como por visitantes.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Salmón con Yogur y Miel de Trufa",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -551,7 +566,7 @@
           "description": "Cal Pep es un bar de tapas bullicioso conocido por sus mariscos frescos y su ambiente animado. Ubicado en el Barrio Gótico, ofrece un menú rotativo basado en la pesca del día. Los precios son más altos, pero la calidad y la emoción de la experiencia gastronómica lo hacen valer la pena.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Calamares Fritos",
           "klook_query": "Cal Pep dining experience"
         },
@@ -562,7 +577,7 @@
           "description": "El Mercado Palo Alto es un mercado mensual de comida callejera y diseño que se celebra en un antiguo espacio de fábrica. Ofrece una combinación única de comida callejera gourmet, música y arte, creando un ambiente vibrante y ecléctico. Es un gran lugar para explorar ofertas culinarias diversas y disfrutar de la energía creativa de Barcelona.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "Puestos de comida artesanal",
           "klook_query": "Palo Alto Market tour"
         },
@@ -577,11 +592,14 @@
           "must_try": "Almendras Tostadas",
           "klook_query": "Casa Gispert tour"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Barcelona?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Barcelona?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas más valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Barcelona 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
-      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Barcelona. Dari makanan hemat hingga santapan mewah — dengan tautan pemesanan.",
+      "seo_title": "8 Restoran Terbaik di Barcelona 2026 - Favorit Lokal",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata. Pesan melalui Klook dan rencanakan santapan Anda sekarang!",
       "page_intro": "Skena kuliner Barcelona adalah permadani rasa yang penuh semangat, mencerminkan warisan budayanya yang kaya dan inovasi kuliner modern. Dari pasar ramai yang menawarkan tapas tradisional hingga restoran bintang Michelin yang mendefinisikan ulang masakan Spanyol, ada sesuatu untuk setiap selera. Jelajahi gastronomi kota yang beragam, di mana makanan laut segar, daging asap, dan anggur lokal menjadi pusat perhatian, menawarkan perjalanan lezat melalui kelezatan kuliner Catalunya.",
       "items": [
         {
@@ -591,7 +609,7 @@
           "description": "La Boqueria adalah pasar paling terkenal di Barcelona, menawarkan suasana yang penuh semangat dan beragam hasil bumi segar, daging, dan makanan laut. Ini adalah tempat yang sangat baik untuk mencicipi tapas Spanyol tradisional dan makanan lezat lokal. Harganya terjangkau, dan ini adalah kunjungan wajib bagi setiap pecinta makanan yang ingin merasakan budaya kuliner kota.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Jamon Iberico",
           "klook_query": "La Boqueria market tour"
         },
@@ -602,7 +620,7 @@
           "description": "Tickets adalah restoran bintang Michelin oleh saudara Adrià yang terkenal, menawarkan pengalaman tapas yang kreatif. Suasananya hidup dan teatrikal, dengan menu yang menampilkan hidangan inovatif yang bermain dengan rasa Spanyol tradisional. Ini adalah pilihan yang lebih mahal, tetapi pengalaman kuliner yang unik sangat berharga.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "Olives from El Bulli",
           "klook_query": "Tickets restaurant booking"
         },
@@ -613,7 +631,7 @@
           "description": "Terletak di dalam pasar La Boqueria yang ramai, El Quim adalah tempat populer bagi penduduk lokal dan turis. Dikenal dengan tapasnya yang segar dan lezat, bar kecil ini menawarkan pengalaman makan pasar yang klasik. Harganya sedang, dan suasananya baik kacau maupun menawan.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Huevos con Chipirones",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -624,7 +642,7 @@
           "description": "Bar Cañete menawarkan pengalaman bersantap khas Barcelona dengan hidangan Spanyol tradisionalnya dan suasana yang penuh semangat. Terletak di jantung kota, ini terkenal dengan tapas dan makanan laut berkualitas tinggi, dan menawarkan kisaran harga menengah. Suasana yang hidup membuatnya sempurna untuk malam yang otentik.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Paella",
           "klook_query": "Bar Cañete reservation"
         },
@@ -635,7 +653,7 @@
           "description": "Bar kecil ini, hanya untuk berdiri, adalah permata tersembunyi yang menawarkan pilihan anggur yang mengesankan dan montaditos kreatif (sandwich kecil). Quimet y Quimet terkenal dengan kombinasi rasa uniknya dan menu minuman yang luas, menjadikannya tempat yang dicintai oleh penduduk lokal dan pengunjung.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Salmon with Yogurt and Truffle Honey",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -646,7 +664,7 @@
           "description": "Cal Pep adalah bar tapas yang ramai, dikenal dengan makanan laut segarnya dan suasana yang penuh semangat. Terletak di Gothic Quarter, ini menawarkan menu berputar berdasarkan tangkapan hari ini. Harganya lebih tinggi, tetapi kualitas dan kegembiraan pengalaman bersantap membuatnya berharga.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Cumi Goreng",
           "klook_query": "Cal Pep dining experience"
         },
@@ -657,7 +675,7 @@
           "description": "Pasar Palo Alto adalah pasar makanan jalanan dan desain bulanan yang diadakan di ruang pabrik bekas. Ini menawarkan kombinasi unik dari makanan jalanan gourmet, musik, dan seni, menciptakan suasana yang penuh semangat dan eklektik. Ini adalah tempat yang bagus untuk menjelajahi tawaran kuliner yang beragam dan menikmati energi kreatif Barcelona.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "Stan Makanan Artisan",
           "klook_query": "Palo Alto Market tour"
         },
@@ -675,8 +693,8 @@
       ]
     },
     "hi": {
-      "seo_title": "बार्सिलोना में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्टोरेंट और स्ट्रीट फूड गाइड",
-      "seo_description": "बार्सिलोना में सर्वश्रेष्ठ रेस्टोरेंट, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के अनुसार खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "seo_title": "बार्सिलोना के 10 सर्वश्रेष्ठ भोजन 2026 — स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook से बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय विशेषताओं की खोज करें!",
       "page_intro": "बार्सिलोना का भोजन दृश्य स्वादों की एक जीवंत टेपेस्ट्री है, जो इसकी समृद्ध सांस्कृतिक धरोहर और आधुनिक पाक नवाचारों को प्रतिबिंबित करती है। पारंपरिक तपस पेश करने वाले भीड़भाड़ वाले बाजारों से लेकर स्पेनिश व्यंजनों को पुनर्परिभाषित करने वाले मिशेलिन-स्टार रेस्टोरेंट तक, हर स्वाद के लिए कुछ है। शहर की विविध गैस्ट्रोनॉमी का अन्वेषण करें, जहां ताजा समुद्री भोजन, सूखे मांस, और स्थानीय वाइन केंद्र में हैं, जो कैटालोनिया के पाक आनंदों के माध्यम से एक स्वादिष्ट यात्रा की पेशकश करते हैं।",
       "items": [
         {
@@ -686,7 +704,7 @@
           "description": "ला बोक्वेरिया बार्सिलोना का सबसे प्रसिद्ध बाजार है, जो एक जीवंत वातावरण और ताजा उत्पाद, मांस, और समुद्री भोजन की एक विस्तृत श्रृंखला पेश करता है। यह पारंपरिक स्पेनिश तपस और स्थानीय व्यंजनों का स्वाद लेने के लिए एक उत्कृष्ट स्थान है। कीमतें उचित हैं, और यह शहर की पाक संस्कृति का अनुभव करने वाले किसी भी भोजन प्रेमी के लिए अवश्य देखने योग्य है।",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "जामोन इबेरिको",
           "klook_query": "La Boqueria market tour"
         },
@@ -697,7 +715,7 @@
           "description": "टिकट एक मिशेलिन-स्टार रेस्टोरेंट है, जो प्रसिद्ध एड्रिया भाइयों द्वारा संचालित है, जो एक रचनात्मक तपस अनुभव प्रदान करता है। वातावरण जीवंत और नाटकीय है, जिसमें पारंपरिक स्पेनिश स्वादों के साथ खेल करने वाले नवोन्मेषी व्यंजन शामिल हैं। यह एक महंगा विकल्प है, लेकिन अनोखा पाक अनुभव इसके लायक है।",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "एल बुल्ली के जैतून",
           "klook_query": "Tickets restaurant booking"
         },
@@ -708,7 +726,7 @@
           "description": "भीड़भाड़ वाले ला बोक्वेरिया बाजार के भीतर स्थित, एल क्विम स्थानीय और पर्यटकों दोनों के लिए एक लोकप्रिय स्थान है। इसके ताजा और स्वादिष्ट तपस के लिए जाना जाता है, यह छोटी बार एक क्लासिक बाजार भोजन अनुभव प्रदान करती है। कीमतें मध्यम हैं, और वातावरण दोनों ही अराजक और आकर्षक है।",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "चिपिरोन्स के साथ अंडे",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -719,7 +737,7 @@
           "description": "बार कैनेते अपने पारंपरिक स्पेनिश व्यंजनों और जीवंत वातावरण के साथ एक विशिष्ट बार्सिलोना भोजन अनुभव प्रदान करता है। शहर के केंद्र में स्थित, यह अपने उच्च गुणवत्ता वाले तपस और समुद्री भोजन के लिए प्रसिद्ध है, और यह एक मध्यम श्रेणी की कीमत बिंदु प्रदान करता है। जीवंत माहौल इसे एक प्रामाणिक रात के लिए आदर्श बनाता है।",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "पाएला",
           "klook_query": "Bar Cañete reservation"
         },
@@ -730,7 +748,7 @@
           "description": "यह छोटा, केवल खड़े होकर खाने वाला बार एक छिपा हुआ रत्न है जो वाइन और रचनात्मक मॉन्टाडिटोस (छोटे सैंडविच) का प्रभावशाली चयन पेश करता है। क्विमेट वाई क्विमेट अपने अनोखे स्वाद संयोजनों और अपने विस्तृत ड्रिंक मेनू के लिए प्रसिद्ध है, जो इसे स्थानीय और आगंतुकों दोनों के लिए एक प्रिय स्थान बनाता है।",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "दही और ट्रफल शहद के साथ सैल्मन",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -741,7 +759,7 @@
           "description": "काल पेप एक व्यस्त तपस बार है जो अपने ताजे समुद्री भोजन और जीवंत वातावरण के लिए जाना जाता है। गॉथिक क्वार्टर में स्थित, यह दिन की पकड़ के आधार पर एक घूमता हुआ मेनू प्रदान करता है। कीमतें उच्च स्तर पर हैं, लेकिन भोजन के अनुभव की गुणवत्ता और उत्तेजना इसे सार्थक बनाती है।",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "तले हुए कैलामारी",
           "klook_query": "Cal Pep dining experience"
         },
@@ -752,7 +770,7 @@
           "description": "पालो अल्टो बाजार एक मासिक स्ट्रीट फूड और डिज़ाइन बाजार है, जो एक पूर्व कारखाने की जगह में आयोजित होता है। यह पेटू स्ट्रीट फूड, संगीत, और कला का एक अनोखा संयोजन प्रदान करता है, जो एक जीवंत और विविध वातावरण बनाता है। यह विविध पाक प्रस्तावों का पता लगाने और बार्सिलोना की रचनात्मक ऊर्जा का आनंद लेने के लिए एक शानदार स्थान है।",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "हस्तशिल्प खाद्य स्टॉल",
           "klook_query": "Palo Alto Market tour"
         },
@@ -770,9 +788,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Barcelona 2026 — Guia de Restaurantes e Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Barcelona. De refeições econômicas a alta gastronomia — com links para reservas.",
-      "page_intro": "A cena gastronômica de Barcelona é um vibrante mosaico de sabores, refletindo sua rica herança cultural e inovações culinárias modernas. Dos mercados movimentados que oferecem tapas tradicionais a restaurantes estrelados pelo Michelin que redefinem a cozinha espanhola, há algo para todos os paladares. Explore a diversa gastronomia da cidade, onde frutos do mar frescos, carnes curadas e vinhos locais ocupam o centro do palco, oferecendo uma deliciosa jornada pelos prazeres culinários da Catalunha.",
+      "seo_title": "8 Melhores Restaurantes em Barcelona 2026 — Imperdíveis",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
+      "page_intro": "Descubra a vibrante cena gastronômica de Barcelona, onde tapas saborosas e paella autêntica se encontram em cada esquina. Com opções que vão de mercados icônicos a restaurantes premiados, aproveite nossas recomendações para uma experiência culinária inesquecível.",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -781,7 +799,7 @@
           "description": "La Boqueria é o mercado mais famoso de Barcelona, oferecendo um ambiente vibrante e uma ampla variedade de produtos frescos, carnes e frutos do mar. É um excelente lugar para provar tapas tradicionais espanholas e iguarias locais. Os preços são razoáveis, e é uma visita obrigatória para qualquer amante da gastronomia que deseja experimentar a cultura culinária da cidade.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Jamon Ibérico",
           "klook_query": "La Boqueria market tour"
         },
@@ -792,7 +810,7 @@
           "description": "Tickets é um restaurante estrelado pelo Michelin dos famosos irmãos Adrià, oferecendo uma experiência criativa de tapas. O ambiente é animado e teatral, com um menu que apresenta pratos inovadores que brincam com os sabores tradicionais espanhóis. É uma opção mais cara, mas a experiência culinária única vale a pena.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "Azeitonas do El Bulli",
           "klook_query": "Tickets restaurant booking"
         },
@@ -803,7 +821,7 @@
           "description": "Localizado dentro do movimentado mercado La Boqueria, El Quim é um local popular tanto para os moradores quanto para os turistas. Conhecido por suas tapas frescas e saborosas, o pequeno bar oferece uma experiência clássica de jantar no mercado. Os preços são moderados, e o ambiente é ao mesmo tempo caótico e charmoso.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Ovos com Chipirones",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -814,7 +832,7 @@
           "description": "O Bar Cañete oferece uma experiência gastronômica típica de Barcelona, com seus pratos tradicionais espanhóis e ambiente vibrante. Situado no coração da cidade, é famoso por suas tapas e frutos do mar de alta qualidade, e oferece um preço intermediário. A atmosfera animada o torna perfeito para uma noite autêntica.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Paella",
           "klook_query": "Bar Cañete reservation"
         },
@@ -825,7 +843,7 @@
           "description": "Este pequeno bar, onde só se fica em pé, é uma joia escondida que oferece uma seleção impressionante de vinhos e montaditos criativos (pequenos sanduíches). Quimet y Quimet é renomado por suas combinações únicas de sabores e seu extenso cardápio de bebidas, tornando-o um local querido tanto para os moradores quanto para os visitantes.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Salmão com Iogurte e Mel de Trufa",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -836,7 +854,7 @@
           "description": "Cal Pep é um bar de tapas movimentado, conhecido por seus frutos do mar frescos e atmosfera animada. Localizado no Bairro Gótico, oferece um menu rotativo baseado na pesca do dia. Os preços estão na faixa mais alta, mas a qualidade e a empolgação da experiência gastronômica valem a pena.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Calamares Fritos",
           "klook_query": "Cal Pep dining experience"
         },
@@ -847,7 +865,7 @@
           "description": "O Palo Alto Market é um mercado mensal de comida de rua e design realizado em um antigo espaço fabril. Oferece uma combinação única de comida de rua gourmet, música e arte, criando uma atmosfera vibrante e eclética. É um ótimo lugar para explorar ofertas gastronômicas diversificadas e desfrutar da energia criativa de Barcelona.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "Bancas de Comida Artesanal",
           "klook_query": "Palo Alto Market tour"
         },
@@ -862,11 +880,14 @@
           "must_try": "Amêndoas Torradas",
           "klook_query": "Casa Gispert tour"
         }
-      ]
+      ],
+      "faq_q1": "Qual é a melhor comida para experimentar em Barcelona?",
+      "faq_q2": "Onde posso encontrar os melhores restaurantes em Barcelona?",
+      "faq_a2_suffix": " estão entre as opções de jantar mais bem avaliadas."
     },
     "ar": {
-      "seo_title": "أفضل طعام في برشلونة 2026 — دليل لأفضل المطاعم ووجبات الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وأطعمة الشوارع والتخصصات المحلية في برشلونة. من الأطعمة ذات الميزانية المحدودة إلى تناول الطعام الفاخر — مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في برشلونة 2026 — كنوز محلية يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في برشلونة. احجز عبر Klook واستمتع بتجربة طعام لا تُنسى. خطط لوجبتك الآن!",
       "page_intro": "مشهد الطعام في برشلونة هو نسيج نابض بالحياة من النكهات، يعكس تراثها الثقافي الغني وابتكاراتها الطهوية الحديثة. من الأسواق الصاخبة التي تقدم التاباس التقليدي إلى المطاعم الحاصلة على نجمة ميشلان التي تعيد تعريف المأكولات الإسبانية، هناك شيء لكل ذوق. استكشف تنوع الطعام في المدينة، حيث تحتل المأكولات البحرية الطازجة واللحوم المعالجة والنبيذ المحلي مكانة الصدارة، مما يوفر رحلة لذيذة عبر متع الطهي في كاتالونيا.",
       "items": [
         {
@@ -876,7 +897,7 @@
           "description": "يعتبر سوق لا بوكويريا من أشهر الأسواق في برشلونة، حيث يقدم أجواء نابضة بالحياة ومجموعة واسعة من المنتجات الطازجة واللحوم والمأكولات البحرية. إنه مكان ممتاز لتذوق التاباس الإسباني التقليدي والأطباق المحلية. الأسعار معقولة، ويعتبر زيارة لا غنى عنها لأي محب للطعام يرغب في تجربة الثقافة الطهوية للمدينة.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "جامون إيبيريكو",
           "klook_query": "La Boqueria market tour"
         },
@@ -887,7 +908,7 @@
           "description": "تيكتس هو مطعم حاصل على نجمة ميشلان من قبل الأخوين الشهيرين أدريا، ويقدم تجربة تاباس إبداعية. الأجواء حيوية ومسرحية، مع قائمة تضم أطباق مبتكرة تلعب بالنكهات الإسبانية التقليدية. إنه خيار أكثر تكلفة، لكن التجربة الطهوية الفريدة تستحق العناء.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "زيتون من إل بوي",
           "klook_query": "Tickets restaurant booking"
         },
@@ -898,7 +919,7 @@
           "description": "يقع في سوق لا بوكويريا الصاخب، يعد إل كويم مكانًا شعبيًا للسكان المحليين والسياح على حد سواء. معروف بتاباسه الطازج واللذيذ، يقدم البار الصغير تجربة تناول طعام تقليدية في السوق. الأسعار معتدلة، والأجواء فوضوية وساحرة في آن واحد.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "بيض مع شيبيرانس",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -909,7 +930,7 @@
           "description": "يقدم بار كانيتي تجربة طعام بارسلونية تقليدية مع أطباقه الإسبانية التقليدية وأجوائه النابضة بالحياة. يقع في قلب المدينة، وهو مشهور بتاباسه عالي الجودة والمأكولات البحرية، ويقدم سعرًا متوسطًا. يجعل الجو الحيوي منه مثاليًا لقضاء ليلة أصيلة.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "بايلا",
           "klook_query": "Bar Cañete reservation"
         },
@@ -920,7 +941,7 @@
           "description": "هذا البار الصغير، الذي لا يحتوي سوى على مساحة للوقوف، هو جوهرة مخفية تقدم مجموعة رائعة من النبيذ والمونتاديتوس الإبداعية (السندويشات الصغيرة). يشتهر كويميت إي كويميت بتوليفاته الفريدة من النكهات وقائمته الواسعة من المشروبات، مما يجعله مكانًا محبوبًا للسكان المحليين والزوار على حد سواء.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "سلمون مع زبادي وعسل الكمأ",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -931,7 +952,7 @@
           "description": "كال بيب هو بار تاباس مزدحم معروف بمأكولاته البحرية الطازجة وأجوائه الحيوية. يقع في الحي القوطي، ويقدم قائمة متغيرة بناءً على صيد اليوم. الأسعار في الجانب الأعلى، ولكن جودة وإثارة تجربة تناول الطعام تجعله يستحق العناء.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "كالاماري مقلي",
           "klook_query": "Cal Pep dining experience"
         },
@@ -942,7 +963,7 @@
           "description": "سوق بالو ألتو هو سوق شهري للطعام في الشارع والتصميم يقام في مكان مصنع سابق. يقدم مزيجًا فريدًا من الطعام الفاخر في الشارع والموسيقى والفن، مما يخلق جوًا نابضًا بالحياة ومنوعًا. إنه مكان رائع لاستكشاف العروض الطهوية المتنوعة والاستمتاع بالطاقة الإبداعية لبرشلونة.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "أكشاك الطعام الحرفية",
           "klook_query": "Palo Alto Market tour"
         },
@@ -960,8 +981,8 @@
       ]
     },
     "bn": {
-      "seo_title": "বার্সেলোনায় সেরা খাবার ২০২৬ — শীর্ষ রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
-      "seo_description": "বার্সেলোনায় সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষজ্ঞতা আবিষ্কার করুন। বাজেট ইটস থেকে ফাইন ডাইনিং — বুকিং লিঙ্কসহ।",
+      "seo_title": "বার্সেলোনায় ১০টি সেরা খাবার ২০২৬ — মিস করবেন না!",
+      "seo_description": "আপনার সময় বাঁচান এবং সত্যিকারের সুপারিশ আবিষ্কার করুন। Klook দিয়ে বুকিং করুন। এখনই আপনার খাবারের পরিকল্পনা করুন!",
       "page_intro": "বার্সেলোনার খাদ্য দৃশ্য তার সমৃদ্ধ সাংস্কৃতিক ঐতিহ্য এবং আধুনিক খাদ্য উদ্ভাবনগুলি প্রতিফলিত করে এমন স্বাদের একটি প্রাণবন্ত ট্যাপেস্ট্রি। ব্যস্ত বাজারগুলি থেকে শুরু করে যা ঐতিহ্যবাহী ট্যাপাস অফার করে, মিশেলিন-স্টার রেস্টুরেন্টগুলি স্প্যানিশ খাবার পুনরায় সংজ্ঞায়িত করে, প্রতিটি স্বাদের জন্য কিছু না কিছু রয়েছে। শহরের বৈচিত্র্যময় জাস্ট্রোনমি অন্বেষণ করুন, যেখানে তাজা সীফুড, শুকনো মাংস এবং স্থানীয় ওয়াইনগুলি মূল আকর্ষণ, কাতালোনিয়ার রন্ধনসম্পর্কীয় আনন্দের মধ্য দিয়ে একটি সুস্বাদু যাত্রা অফার করে।",
       "items": [
         {
@@ -971,7 +992,7 @@
           "description": "লা বোকেরিয়া বার্সেলোনার সবচেয়ে বিখ্যাত বাজার, যা একটি প্রাণবন্ত পরিবেশ এবং তাজা পণ্য, মাংস এবং সীফুডের বিস্তৃত বৈচিত্র্য অফার করে। এটি ঐতিহ্যবাহী স্পেনীয় ট্যাপাস এবং স্থানীয় সুস্বাদু খাবার স্বাদ নেওয়ার একটি চমৎকার স্থান। দাম সাশ্রয়ী, এবং এটি শহরের খাদ্য সংস্কৃতি অভিজ্ঞতা করতে আগ্রহী যে কোন খাদ্যপ্রেমীর জন্য একটি অবশ্য-দর্শনীয় স্থান।",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "জামন ইবেরিকো",
           "klook_query": "La Boqueria market tour"
         },
@@ -982,7 +1003,7 @@
           "description": "টিকেটস একটি মিশেলিন-স্টার রেস্টুরেন্ট যা বিখ্যাত আদ্রিয়া ভাইদের দ্বারা পরিচালিত, একটি সৃজনশীল ট্যাপাস অভিজ্ঞতা প্রদান করে। পরিবেশটি জীবন্ত এবং নাটকীয়, একটি মেনু সহ যা ঐতিহ্যবাহী স্পেনীয় স্বাদগুলির সাথে খেলে এমন উদ্ভাবনী খাবারগুলি বৈশিষ্ট্যযুক্ত। এটি একটি আরও ব্যয়বহুল বিকল্প, তবে অনন্য খাদ্য অভিজ্ঞতা মূল্যবান।",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "এল বুলির জলপাই",
           "klook_query": "Tickets restaurant booking"
         },
@@ -993,7 +1014,7 @@
           "description": "ব্যস্ত লা বোকেরিয়া বাজারের মধ্যে অবস্থিত, এল কুইম স্থানীয় এবং পর্যটক উভয়ের জন্যই একটি জনপ্রিয় স্থান। তার তাজা এবং স্বাদযুক্ত ট্যাপাসের জন্য পরিচিত, ছোট বারটি একটি ক্লাসিক বাজার ডাইনিং অভিজ্ঞতা প্রদান করে। দাম মাঝারি, এবং পরিবেশ উভয়ই জটিল এবং আকর্ষণীয়।",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "চিপিরোনেস সহ ডিম",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -1004,7 +1025,7 @@
           "description": "বার ক্যানেট তার ঐতিহ্যবাহী স্পেনীয় খাবার এবং প্রাণবন্ত পরিবেশের সাথে একটি আদর্শ বার্সেলোনা ডাইনিং অভিজ্ঞতা প্রদান করে। শহরের কেন্দ্রে অবস্থিত, এটি তার উচ্চ-মানের ট্যাপাস এবং সীফুডের জন্য বিখ্যাত, এবং এটি একটি মধ্যম দামের পয়েন্ট অফার করে। প্রাণবন্ত পরিবেশ এটিকে একটি প্রামাণিক রাতের জন্য নিখুঁত করে তোলে।",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "পায়েলা",
           "klook_query": "Bar Cañete reservation"
         },
@@ -1015,7 +1036,7 @@
           "description": "এই ছোট, শুধুমাত্র দাঁড়িয়ে থাকা বারটি একটি লুকানো রত্ন যা ওয়াইন এবং সৃজনশীল মন্টাডিটোসের (ছোট স্যান্ডউইচ) একটি চিত্তাকর্ষক নির্বাচন অফার করে। কুইমেট ও কুইমেট তার অনন্য স্বাদের সংমিশ্রণ এবং তার বিস্তৃত পানীয় মেনুর জন্য বিখ্যাত, এটি স্থানীয় এবং দর্শনার্থী উভয়ের জন্য প্রিয় স্থান করে তোলে।",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "দই এবং ট্রাফল মধু সহ স্যালমন",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -1026,7 +1047,7 @@
           "description": "কাল পেপ একটি ব্যস্ত ট্যাপাস বার যা তার তাজা সীফুড এবং প্রাণবন্ত পরিবেশের জন্য পরিচিত। গথিক কোয়ার্টারে অবস্থিত, এটি দিনের ক্যাচের উপর ভিত্তি করে একটি পরিবর্তনশীল মেনু অফার করে। দাম উচ্চ স্তরে, তবে খাদ্য অভিজ্ঞতার গুণমান এবং উত্তেজনা এটিকে মূল্যবান করে তোলে।",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "ভাজা কালামারি",
           "klook_query": "Cal Pep dining experience"
         },
@@ -1037,7 +1058,7 @@
           "description": "পালো অল্টো বাজার একটি মাসিক স্ট্রিট ফুড এবং ডিজাইন বাজার যা একটি প্রাক্তন কারখানা স্থানে অনুষ্ঠিত হয়। এটি গুরমেট স্ট্রিট ফুড, সঙ্গীত এবং শিল্পের একটি অনন্য সংমিশ্রণ অফার করে, একটি প্রাণবন্ত এবং বৈচিত্র্যময় পরিবেশ তৈরি করে। এটি বৈচিত্র্যময় রন্ধনসম্পর্কীয় অফারগুলি অন্বেষণ এবং বার্সেলোনার সৃজনশীল শক্তি উপভোগ করার জন্য একটি দুর্দান্ত স্থান।",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "শিল্পী খাদ্য স্টল",
           "klook_query": "Palo Alto Market tour"
         },
@@ -1055,9 +1076,9 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшая еда в Барселоне 2026 — Лучшие рестораны и уличная еда",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Барселоне. От бюджетных закусок до изысканной кухни — с ссылками на бронирование.",
-      "page_intro": "Кулинарная сцена Барселоны — это яркий гобелен вкусов, отражающий ее богатое культурное наследие и современные кулинарные инновации. От оживленных рынков, предлагающих традиционные тапас, до ресторанов, отмеченных звездой Мишлен, которые переосмысливают испанскую кухню, здесь есть что-то для каждого вкуса. Исследуйте разнообразную гастрономию города, где свежие морепродукты, вяленое мясо и местные вина занимают центральное место, предлагая вкусное путешествие по кулинарным удовольствиям Каталонии.",
+      "seo_title": "10 Лучших ресторанов Барселоны 2026 — Обязательно!",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
+      "page_intro": "Барселона — это рай для гурманов, где каждый уголок полон уникальных вкусов и ароматов. Не упустите возможность попробовать такие местные деликатесы, как паэлья и тапас. С нашими тщательно подобранными рекомендациями вы сэкономите время и насладитесь лучшими кулинарными предложениями города.",
       "items": [
         {
           "id": "mercado-de-la-boqueria",
@@ -1066,7 +1087,7 @@
           "description": "Ла Бокерия — самый известный рынок Барселоны, предлагающий яркую атмосферу и широкий ассортимент свежих продуктов, мяса и морепродуктов. Это отличное место, чтобы попробовать традиционные испанские тапас и местные деликатесы. Цены разумные, и это обязательно к посещению для всех любителей еды, желающих познакомиться с кулинарной культурой города.",
           "image_keyword": "La Boqueria market Barcelona",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Хамон Иберико",
           "klook_query": "La Boqueria market tour"
         },
@@ -1077,7 +1098,7 @@
           "description": "Тикетс — это ресторан, отмеченный звездой Мишлен, от известных братьев Адриа, предлагающий креативный опыт тапас. Атмосфера живая и театральная, с меню, в котором представлены инновационные блюда, играющие с традиционными испанскими вкусами. Это более дорогой вариант, но уникальный кулинарный опыт стоит того.",
           "image_keyword": "Tickets restaurant Barcelona",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€80–150",
           "must_try": "Оливки из Эль Булли",
           "klook_query": "Tickets restaurant booking"
         },
@@ -1088,7 +1109,7 @@
           "description": "Расположенный внутри оживленного рынка Ла Бокерия, Эль Квим — популярное место как для местных жителей, так и для туристов. Известный своими свежими и вкусными тапас, маленький бар предлагает классический рыночный опыт обеда. Цены умеренные, и атмосфера одновременно хаотичная и очаровательная.",
           "image_keyword": "El Quim de la Boqueria",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Яйца с чипиронами",
           "klook_query": "El Quim de la Boqueria dining"
         },
@@ -1099,7 +1120,7 @@
           "description": "Бар Канете предлагает типичный барселонский опыт обеда с традиционными испанскими блюдами и живой атмосферой. Расположенный в самом сердце города, он известен своими высококачественными тапас и морепродуктами, и предлагает среднюю ценовую категорию. Живая атмосфера делает его идеальным для аутентичного вечера.",
           "image_keyword": "Bar Cañete tapas",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Паэлья",
           "klook_query": "Bar Cañete reservation"
         },
@@ -1110,7 +1131,7 @@
           "description": "Этот маленький бар, где можно только стоять, является скрытым сокровищем, предлагающим впечатляющий выбор вин и креативных монтадитос (маленькие сэндвичи). Квимет и Квимет славится своими уникальными комбинациями вкусов и обширным меню напитков, делая его любимым местом как для местных жителей, так и для посетителей.",
           "image_keyword": "Quimet y Quimet bar",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Лосось с йогуртом и трюфельным медом",
           "klook_query": "Quimet y Quimet bar tour"
         },
@@ -1121,7 +1142,7 @@
           "description": "Кал Пеп — это оживленный тапас-бар, известный своими свежими морепродуктами и живой атмосферой. Расположенный в Готическом квартале, он предлагает меняющееся меню на основе улова дня. Цены на более высоком уровне, но качество и волнение от обеденного опыта делают его стоящим.",
           "image_keyword": "Cal Pep tapas",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "€5–10",
           "must_try": "Жареные кальмары",
           "klook_query": "Cal Pep dining experience"
         },
@@ -1132,7 +1153,7 @@
           "description": "Рынок Пало Альто — это ежемесячный рынок уличной еды и дизайна, проводимый на территории бывшего завода. Он предлагает уникальное сочетание гурманской уличной еды, музыки и искусства, создавая яркую и эклектичную атмосферу. Это отличное место для изучения разнообразных кулинарных предложений и наслаждения креативной энергией Барселоны.",
           "image_keyword": "Palo Alto Market Barcelona",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "€10–20",
           "must_try": "Ремесленные продуктовые лавки",
           "klook_query": "Palo Alto Market tour"
         },
@@ -1147,7 +1168,10 @@
           "must_try": "Жареный миндаль",
           "klook_query": "Casa Gispert tour"
         }
-      ]
+      ],
+      "faq_q1": "Какое лучшее блюдо попробовать в Барселоне?",
+      "faq_q2": "Где можно найти лучшие рестораны в Барселоне?",
+      "faq_a2_suffix": " являются одними из самых высоко оцененных ресторанов."
     }
   }
 }

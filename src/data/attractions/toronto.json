@@ -2,9 +2,9 @@
   "city_slug": "toronto",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Toronto 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Toronto. Find opening hours, ticket prices and booking links for Toronto's top landmarks.",
-      "page_intro": "Toronto, the largest city in Canada, is a vibrant metropolis that seamlessly blends the modern and the historical. Known for its diverse culture, stunning skyline, and rich arts scene, Toronto offers a variety of attractions that cater to every type of traveler. Whether you're exploring its iconic landmarks or enjoying its lush parks, there's something for everyone in this dynamic city.",
+      "seo_title": "8 Must-See Attractions in Toronto 2026 | Complete Guide",
+      "seo_description": "Discover Toronto's top attractions with tickets, hours, and insider tips. Book your adventure now with Klook!",
+      "page_intro": "Dive into the excitement of Toronto, where iconic landmarks like the CN Tower and the Royal Ontario Museum await! From the historic charm of the Distillery District to vibrant cultural experiences, this city has something for everyone. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "cn-tower",
@@ -91,12 +91,16 @@
           "best_time": "afternoon",
           "klook_query": "Bata Shoe Museum ticket booking"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Toronto?",
+      "faq_q2": "Do I need tickets for attractions in Toronto?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Toronto require tickets for entry. Be sure to check Klook for convenient ticket options and special deals!"
     },
     "zh": {
-      "seo_title": "2026年多倫多熱門景點 — 票務、建議與完整指南",
-      "seo_description": "探索多倫多最佳景點。查找多倫多頂級地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "多倫多是加拿大最大的城市，是一個充滿活力的都市，完美地融合了現代與歷史。以其多元文化、壯觀的天際線和豐富的藝術場景而聞名，多倫多提供各種吸引每位旅客的景點。無論是探索其標誌性地標還是享受其郁郁蔥蔥的公園，這座充滿活力的城市都有適合每個人的東西。",
+      "seo_title": "2026年多倫多8大必看景點 — 完整指南",
+      "seo_description": "獲取多倫多熱門景點的票務、開放時間及內部建議，立即透過Klook預訂，開啟您的探索之旅！",
+      "page_intro": "探索多倫多的魅力，這座城市以其壯觀的CN塔、皇家安大略博物館和迷人的酒廠區而聞名。無論您是喜愛歷史還是現代藝術，多倫多都能滿足您的渴望，現在就透過Klook預訂，輕鬆跳過排隊！",
       "items": [
         {
           "id": "cn-tower",
@@ -182,12 +186,16 @@
           "best_time": "afternoon",
           "klook_query": "Bata Shoe Museum ticket booking"
         }
-      ]
+      ],
+      "faq_q1": "多倫多的主要景點有哪些？",
+      "faq_q2": "我需要購買多倫多景點的門票嗎？",
+      "faq_a1_suffix": " 是必看景點。",
+      "faq_a2": "是的，您需要購買門票以進入大多數景點。建議透過Klook提前購票，以便享受更便捷的入場體驗。"
     },
     "ja": {
-      "seo_title": "2026年トロントの人気観光スポット - チケット、ヒント、完全ガイド",
-      "seo_description": "トロントの最高の観光名所を探索しましょう。トロントの主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "トロントはカナダ最大の都市で、現代と歴史が見事に融合した活気ある大都市です。多様な文化、壮大なスカイライン、豊かなアートシーンで知られるトロントは、あらゆる旅行者のニーズに応える多彩な観光スポットを提供しています。象徴的なランドマークを探索したり、緑豊かな公園を楽しんだり、このダイナミックな都市には誰にでも何かがあります。",
+      "seo_title": "2026年トロントの必見観光スポット8選 - 完全ガイド",
+      "seo_description": "トロントの観光名所のチケット、営業時間、インサイダー情報をチェック。Klookで予約して、素晴らしい旅を始めましょう！",
+      "page_intro": "トロントの魅力的な観光スポットがあなたを待っています！CNタワーやロイヤルオンタリオ博物館、ディスティラリー地区など、見逃せない名所が目白押し。行列を避けて、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "cn-tower",
@@ -273,12 +281,16 @@
           "best_time": "afternoon",
           "klook_query": "Bata Shoe Museum ticket booking"
         }
-      ]
+      ],
+      "faq_q1": "トロントの主な観光名所は何ですか？",
+      "faq_q2": "トロントの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 토론토의 인기 명소 - 티켓, 팁 및 완벽 가이드",
-      "seo_description": "토론토 최고의 명소를 탐험하세요. 토론토의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "토론토는 캐나다에서 가장 큰 도시로, 현대와 역사가 완벽하게 조화를 이루는 활기찬 대도시입니다. 다양한 문화, 멋진 스카이라인, 풍부한 예술 장면으로 알려진 토론토는 모든 여행자의 요구를 충족시키는 다양한 관광 명소를 제공합니다. 상징적인 랜드마크를 탐험하거나 푸르른 공원을 즐기든 이 다이나믹한 도시에는 누구나 즐길 수 있는 것이 있습니다.",
+      "seo_title": "2026년 토론토의 최고의 명소 8곳 - 완벽 가이드",
+      "seo_description": "토론토의 인기 명소 운영 시간, 티켓 가격, Klook 예약 링크 등 유용한 정보가 가득! 지금 바로 계획해보세요.",
+      "page_intro": "토론토는 세계적인 매력을 지닌 도시로, CN 타워와 로열 온타리오 박물관 같은 상징적인 랜드마크가 여러분을 기다립니다. 숨겨진 보석들도 가득한 이곳에서 특별한 순간을 경험하세요. 줄 서지 않고 Klook을 통해 미리 예약하세요!",
       "items": [
         {
           "id": "cn-tower",
@@ -364,12 +376,16 @@
           "best_time": "afternoon",
           "klook_query": "Bata Shoe Museum ticket booking"
         }
-      ]
+      ],
+      "faq_q1": "토론토의 주요 관광 명소는 무엇인가요?",
+      "faq_q2": "토론토의 관광 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광 명소에는 입장권이 필요합니다. Klook에서 미리 예약하면 편리하게 이용할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Attractions incontournables à Toronto 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Toronto. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Toronto.",
-      "page_intro": "Toronto, la plus grande ville du Canada, est une métropole vibrante qui mêle harmonieusement modernité et histoire. Connue pour sa culture diversifiée, sa magnifique ligne d'horizon et sa riche scène artistique, Toronto offre une variété d'attractions qui répondent à tous les types de voyageurs. Que vous exploriez ses monuments emblématiques ou que vous profitiez de ses parcs luxuriants, il y en a pour tous les goûts dans cette ville dynamique.",
+      "seo_title": "Top 8 Attractions à Toronto 2026 — Guide Complet",
+      "seo_description": "Explorez les 8 meilleures attractions de Toronto avec horaires, prix et conseils. Réservez facilement vos billets sur Klook et partez à l'aventure!",
+      "page_intro": "Découvrez Toronto, une ville où l'innovation rencontre l'histoire à chaque coin de rue. Des icônes comme la Tour CN aux joyaux cachés du Distillery District, chaque visite est une aventure unique. Évitez les files d'attente et réservez via Klook pour profiter pleinement de votre séjour.",
       "items": [
         {
           "id": "cn-tower",
@@ -455,11 +471,15 @@
           "best_time": "afternoon",
           "klook_query": "Bata Shoe Museum ticket booking"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Toronto ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Toronto ?",
+      "faq_a1_suffix": " font partie des attractions incontournables.",
+      "faq_a2": "Oui, il est généralement nécessaire d'acheter des billets pour accéder aux attractions. Vous pouvez les acheter facilement sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Toronto 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Toronto. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Toronto.",
+      "seo_title": "8 Atracciones Imperdibles en Toronto 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Toronto. Reserva tus entradas en Klook y comienza tu aventura hoy.",
       "page_intro": "Toronto, la ciudad más grande de Canadá, es una metrópoli vibrante que combina a la perfección lo moderno y lo histórico. Conocida por su cultura diversa, su impresionante horizonte y su rica escena artística, Toronto ofrece una variedad de atracciones que satisfacen a todo tipo de viajero. Ya sea que estés explorando sus monumentos icónicos o disfrutando de sus exuberantes parques, hay algo para todos en esta dinámica ciudad.",
       "items": [
         {
@@ -549,7 +569,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Toronto 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Atraksi Terbaik Toronto 2026: 5 Tips & Tiket",
       "seo_description": "Jelajahi atraksi terbaik di Toronto. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama di Toronto.",
       "page_intro": "Toronto, kota terbesar di Kanada, adalah metropolis yang hidup yang dengan lancar menggabungkan modern dan sejarah. Dikenal karena budayanya yang beragam, garis langit yang menakjubkan, dan scene seni yang kaya, Toronto menawarkan berbagai atraksi yang memenuhi setiap jenis pelancong. Apakah Anda menjelajahi landmark ikoniknya atau menikmati taman yang rimbun, ada sesuatu untuk semua orang di kota dinamis ini.",
       "items": [
@@ -731,7 +751,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Toronto 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Toronto 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Toronto. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Toronto.",
       "page_intro": "Toronto, a maior cidade do Canadá, é uma metrópole vibrante que combina perfeitamente o moderno e o histórico. Conhecida por sua cultura diversificada, deslumbrante linha do horizonte e rica cena artística, Toronto oferece uma variedade de atrações que atendem a todos os tipos de viajantes. Se você está explorando seus marcos icônicos ou desfrutando de seus parques exuberantes, há algo para todos nesta cidade dinâmica.",
       "items": [
@@ -822,7 +842,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في تورنتو 2026 — التذاكر، النصائح والدليل الشامل",
+      "seo_title": "أفضل 10 معالم في تورنتو 2026 — دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في تورنتو. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في تورنتو.",
       "page_intro": "تورنتو، أكبر مدينة في كندا، هي مدينة نابضة بالحياة تجمع بسلاسة بين الحديث والتاريخي. معروفة بثقافتها المتنوعة، وأفقها المذهل، ومشهدها الفني الغني، تقدم تورنتو مجموعة متنوعة من المعالم السياحية التي تلبي احتياجات جميع أنواع المسافرين. سواء كنت تستكشف معالمها الشهيرة أو تستمتع بحدائقها الجميلة، هناك شيء للجميع في هذه المدينة الديناميكية.",
       "items": [
@@ -1004,7 +1024,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Торонто 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ 10 достопримечательностей Торонто 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Торонто. Найдите часы работы, цены на билеты и ссылки для бронирования главных достопримечательностей Торонто.",
       "page_intro": "Торонто, крупнейший город Канады, — это яркая метрополия, которая гармонично сочетает современность и историю. Известный своей разнообразной культурой, потрясающим горизонтом и богатой художественной сценой, Торонто предлагает множество достопримечательностей, которые удовлетворят потребности каждого путешественника. Независимо от того, исследуете ли вы его знаковые памятники или наслаждаетесь зелеными парками, в этом динамичном городе найдется что-то для каждого.",
       "items": [

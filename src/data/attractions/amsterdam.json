@@ -2,9 +2,9 @@
   "city_slug": "amsterdam",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Amsterdam 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Amsterdam. Find opening hours, ticket prices and booking links for Amsterdam's top landmarks.",
-      "page_intro": "Amsterdam, the capital of the Netherlands, is renowned for its artistic heritage, elaborate canal system, and narrow houses with gabled facades, legacies of the city's 17th-century Golden Age. With world-class museums, vibrant markets, and a rich history to explore, Amsterdam offers something for every traveler. Whether you're cycling along its picturesque canals or indulging in its eclectic culinary scene, this city promises an unforgettable experience.",
+      "seo_title": "8 Must-See Attractions in Amsterdam 2026 - Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Amsterdam's top sights. Book now with Klook for an unforgettable experience!",
+      "page_intro": "Dive into the vibrant heart of Amsterdam, where iconic landmarks like the Rijksmuseum and Anne Frank House await. Explore its artistic treasures and charming canals—book your adventure with Klook for a seamless experience!",
       "items": [
         {
           "id": "rijksmuseum",
@@ -103,12 +103,16 @@
           "best_time": "evening",
           "klook_query": "Red Light District tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Amsterdam?",
+      "faq_q2": "Do I need tickets for attractions in Amsterdam?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Amsterdam require tickets for entry. Be sure to book in advance through Klook for convenience and to skip the lines!"
     },
     "zh": {
-      "seo_title": "阿姆斯特丹2026年顶级景点 — 门票、提示和完整指南",
-      "seo_description": "探索阿姆斯特丹的最佳景点。查找开门时间、门票价格和阿姆斯特丹顶级地标的预订链接。",
-      "page_intro": "阿姆斯特丹是荷兰的首都，以其艺术遗产、精美的运河系统和狭窄的山墙房屋而闻名，这些都是城市17世纪黄金时代的遗产。拥有世界一流的博物馆、热闹的市场和丰富的历史，阿姆斯特丹为每位旅行者提供了丰富的体验。无论您是在其如画的运河旁骑行，还是在其多元化的美食场景中享受，这座城市都承诺为您带来难忘的体验。",
+      "seo_title": "阿姆斯特丹2026年8大必看景点 — 完整指南",
+      "seo_description": "获取阿姆斯特丹顶级景点的门票、开门时间和内幕提示，立即通过Klook预订，开启您的旅行冒险！",
+      "page_intro": "探索阿姆斯特丹的魅力，從世界知名的國立博物館到安妮·弗蘭克故居，每一處都充滿了歷史與藝術的氣息。無論您是喜愛文化還是美食，這座城市都能為您提供難忘的體驗。立即透過Klook預訂，省去排隊的煩惱！",
       "items": [
         {
           "id": "rijksmuseum",
@@ -206,12 +210,16 @@
           "best_time": "evening",
           "klook_query": "Red Light District tour"
         }
-      ]
+      ],
+      "faq_q1": "阿姆斯特丹的熱門景點有哪些？",
+      "faq_q2": "參觀阿姆斯特丹的景點需要購買門票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您提前在Klook上購買，以享受更便捷的入場體驗。"
     },
     "ja": {
-      "seo_title": "アムステルダムの人気観光地 2026 — チケット、ヒント、完全ガイド",
-      "seo_description": "アムステルダムの最高の観光地を探検しましょう。開館時間、チケット価格、アムステルダムの主要ランドマークの予約リンクを見つけてください。",
-      "page_intro": "オランダの首都アムステルダムは、その芸術的遺産、精巧な運河システム、切妻のある狭い家々で知られています。これらは都市の17世紀の黄金時代の遺産です。世界クラスの博物館、活気ある市場、豊かな歴史を探索できるアムステルダムは、すべての旅行者に何かを提供します。絵のような運河をサイクリングしたり、多様な料理シーンを楽しんだりする際、この都市は忘れられない体験を約束します。",
+      "seo_title": "アムステルダムの2026年必見観光地8選 - 完全ガイド",
+      "seo_description": "アムステルダムの人気観光地のチケット、開館時間、ヒントをチェック。Klookで簡単予約！今すぐ計画を始めましょう。",
+      "page_intro": "アムステルダムは、世界的に有名なアートと歴史の宝庫です。ライクスミュージアムやアンネ・フランクの家、ゴッホ美術館など、訪れるべき名所が目白押しです。行列を避けて、Klookで簡単に予約しましょう。",
       "items": [
         {
           "id": "rijksmuseum",
@@ -309,12 +317,16 @@
           "best_time": "evening",
           "klook_query": "Red Light District tour"
         }
-      ]
+      ],
+      "faq_q1": "アムステルダムの主な観光名所は何ですか？",
+      "faq_q2": "アムステルダムの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光名所には入場チケットが必要です。Klookを利用すれば、事前に簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "암스테르담의 주요 관광 명소 2026 — 티켓, 팁 및 종합 가이드",
-      "seo_description": "암스테르담의 최고의 관광 명소를 탐험하세요. 개장 시간, 티켓 가격 및 암스테르담의 주요 랜드마크 예약 링크를 찾으세요.",
-      "page_intro": "네덜란드의 수도 암스테르담은 예술적 유산, 정교한 운하 시스템 및 좁고 경사진 파사드의 집들로 유명합니다. 이러한 것들은 도시의 17세기 황금 시대의 유산입니다. 세계적인 수준의 박물관, 활기찬 시장 및 탐험할 수 있는 풍부한 역사를 자랑하는 암스테르담은 모든 여행자에게 무언가를 제공합니다. 그림 같은 운하를 따라 자전거를 타거나 다양한 요리 장면을 즐기면서 이 도시는 잊을 수 없는 경험을 약속합니다.",
+      "seo_title": "암스테르담 2026: 8개의 필수 관광 명소 완벽 가이드",
+      "seo_description": "암스테르담의 필수 관광 명소를 알아보세요! 개장 시간, 티켓 가격 및 Klook 예약 링크를 통해 여행을 계획하세요.",
+      "page_intro": "암스테르담은 세계적으로 유명한 박물관과 매력적인 운하, 그리고 독특한 건축물로 가득한 도시입니다. Rijksmuseum, Anne Frank House, Van Gogh Museum 등은 꼭 방문해야 할 명소입니다. 줄 서지 않고 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "rijksmuseum",
@@ -412,12 +424,16 @@
           "best_time": "evening",
           "klook_query": "Red Light District tour"
         }
-      ]
+      ],
+      "faq_q1": "암스테르담의 주요 명소는 무엇인가요?",
+      "faq_q2": "암스테르담의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 암스테르담의 주요 명소는 사전 예약이 필요합니다. Klook을 통해 미리 티켓을 구매하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Amsterdam 2026 — Billets, conseils et guide complet",
-      "seo_description": "Explorez les meilleures attractions d'Amsterdam. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites d'Amsterdam.",
-      "page_intro": "Amsterdam, la capitale des Pays-Bas, est réputée pour son patrimoine artistique, son système de canaux élaboré et ses maisons étroites aux façades à pignon, héritages de l'âge d'or du XVIIe siècle de la ville. Avec des musées de classe mondiale, des marchés animés et une histoire riche à explorer, Amsterdam offre quelque chose pour chaque voyageur. Que vous fassiez du vélo le long de ses canaux pittoresques ou que vous vous adonniez à sa scène culinaire éclectique, cette ville promet une expérience inoubliable.",
+      "seo_title": "Top 8 Attractions à Amsterdam 2026 — Guide Complet",
+      "seo_description": "Découvrez les heures d'ouverture, prix des billets et conseils d'initiés pour les meilleures attractions d'Amsterdam. Réservez sur Klook !",
+      "page_intro": "Découvrez Amsterdam, une ville où l'art et l'histoire se rencontrent à chaque coin de rue. Ne manquez pas des joyaux comme le Rijksmuseum, la Maison d'Anne Frank et le Musée Van Gogh. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "rijksmuseum",
@@ -515,11 +531,15 @@
           "best_time": "evening",
           "klook_query": "Red Light District tour"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Amsterdam ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Amsterdam ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les files d'attente. Vous pouvez les réserver facilement sur Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Ámsterdam 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en Ámsterdam. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Ámsterdam.",
+      "seo_title": "Top 5 Atracciones Imperdibles en Ámsterdam 2026",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las mejores atracciones de Ámsterdam. ¡Planifica tu visita ahora!",
       "page_intro": "Ámsterdam, la capital de los Países Bajos, es conocida por su herencia artística, su elaborado sistema de canales y sus estrechas casas con fachadas a dos aguas, legados de la Edad de Oro del siglo XVII de la ciudad. Con museos de clase mundial, mercados vibrantes y una rica historia por explorar, Ámsterdam ofrece algo para cada viajero. Ya sea que estés recorriendo sus pintorescos canales en bicicleta o disfrutando de su ecléctica escena culinaria, esta ciudad promete una experiencia inolvidable.",
       "items": [
         {
@@ -621,8 +641,8 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Amsterdam 2026 — Tiket, Tips & Panduan Lengkap",
-      "seo_description": "Jelajahi atraksi terbaik di Amsterdam. Temukan jam buka, harga tiket dan tautan pemesanan untuk landmark teratas Amsterdam.",
+      "seo_title": "8 Atraksi Teratas di Amsterdam 2026 — Panduan Lengkap",
+      "seo_description": "Dapatkan tiket, jam buka, dan tips insider untuk 8 atraksi terbaik Amsterdam. Pesan melalui Klook dan rencanakan petualangan Anda sekarang!",
       "page_intro": "Amsterdam, ibu kota Belanda, terkenal karena warisan seni, sistem kanal yang rumit, dan rumah-rumah sempit dengan fasad berujung, warisan dari Zaman Keemasan abad ke-17 di kota ini. Dengan museum kelas dunia, pasar yang bersemangat, dan sejarah yang kaya untuk dijelajahi, Amsterdam menawarkan sesuatu untuk setiap pelancong. Baik Anda bersepeda di sepanjang kanalnya yang indah atau menikmati keanekaragaman kuliner, kota ini menjanjikan pengalaman yang tak terlupakan.",
       "items": [
         {
@@ -724,7 +744,7 @@
       ]
     },
     "hi": {
-      "seo_title": "एम्स्टर्डम में शीर्ष आकर्षण 2026 — टिकट, सुझाव और पूर्ण गाइड",
+      "seo_title": "एम्स्टर्डम के शीर्ष 5 आकर्षण 2026 — पूर्ण गाइड",
       "seo_description": "एम्स्टर्डम के सबसे अच्छे आकर्षणों का अन्वेषण करें। एम्स्टर्डम के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
       "page_intro": "नीदरलैंड की राजधानी एम्स्टर्डम अपनी कलात्मक धरोहर, विस्तृत नहर प्रणाली और गेब्ल्ड मुखौटों वाले संकरे घरों के लिए प्रसिद्ध है, जो शहर के 17वीं शताब्दी के स्वर्ण युग की विरासत हैं। विश्वस्तरीय संग्रहालयों, जीवंत बाजारों और समृद्ध इतिहास का अन्वेषण करने के लिए एम्स्टर्डम हर यात्री के लिए कुछ न कुछ प्रदान करता है। चाहे आप इसकी चित्रमय नहरों के साथ साइकिल चला रहे हों या इसके विविध पाक दृश्य का आनंद ले रहे हों, यह शहर एक अविस्मरणीय अनुभव का वादा करता है।",
       "items": [
@@ -827,7 +847,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Amsterdã 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Amsterdã 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Amsterdã. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Amsterdã.",
       "page_intro": "Amsterdã, a capital dos Países Baixos, é renomada por sua herança artística, complexo sistema de canais e casas estreitas com fachadas em empena, legados da Era de Ouro do século XVII da cidade. Com museus de classe mundial, mercados vibrantes e uma rica história para explorar, Amsterdã oferece algo para cada viajante. Quer você esteja pedalando ao longo de seus canais pitorescos ou se entregando à sua cena culinária eclética, esta cidade promete uma experiência inesquecível.",
       "items": [
@@ -930,7 +950,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في أمستردام 2026 — التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في أمستردام 2026 — دليل شامل",
       "seo_description": "اكتشف أفضل المعالم السياحية في أمستردام. ابحث عن أوقات الافتتاح وأسعار التذاكر وروابط الحجز لأهم المعالم في أمستردام.",
       "page_intro": "أمستردام، عاصمة هولندا، مشهورة بتراثها الفني ونظام القنوات المعقدة ومنازلها الضيقة ذات الواجهات ذات الجملونات، وهي إرث من العصر الذهبي للمدينة في القرن السابع عشر. مع المتاحف ذات المستوى العالمي والأسواق النابضة بالحياة والتاريخ الغني للاستكشاف، تقدم أمستردام شيئًا لكل مسافر. سواء كنت تتجول بالدراجة على طول قنواتها الخلابة أو تستمتع بمشهدها الطهوي المتنوع، فإن هذه المدينة تعد بتجربة لا تُنسى.",
       "items": [
@@ -1033,8 +1053,8 @@
       ]
     },
     "bn": {
-      "seo_title": "আমস্টারডামের সেরা আকর্ষণ ২০২৬ — টিকিট, পরামর্শ এবং সম্পূর্ণ গাইড",
-      "seo_description": "আমস্টারডামের সেরা আকর্ষণগুলি অন্বেষণ করুন। আমস্টারডামের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "আমস্টারডামের ৮টি সেরা আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "আমস্টারডামের শীর্ষ আকর্ষণগুলোর টিকিট, খোলার সময় ও কলোকে বুকিং লিঙ্ক সহ জানুন। আপনার ভ্রমণ পরিকল্পনা শুরু করুন!",
       "page_intro": "নেদারল্যান্ডের রাজধানী আমস্টারডাম তার শিল্প ঐতিহ্য, জটিল খাল ব্যবস্থা এবং গেবলড ফ্যাসাড সহ সংকীর্ণ বাড়ির জন্য বিখ্যাত, যা শহরের ১৭শ শতাব্দীর স্বর্ণযুগের উত্তরাধিকার। বিশ্বমানের জাদুঘর, প্রাণবন্ত বাজার এবং সমৃদ্ধ ইতিহাসের সাথে অন্বেষণ করার জন্য আমস্টারডাম প্রতিটি ভ্রমণকারীর জন্য কিছু না কিছু অফার করে। আপনি তার মনোরম খালের পাশে সাইকেল চালাচ্ছেন বা তার বৈচিত্র্যময় রান্নার দৃশ্যে নিজেকে জড়িয়ে ফেলছেন কিনা, এই শহরটি একটি অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দেয়।",
       "items": [
         {
@@ -1136,8 +1156,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Амстердама 2026 — Билеты, советы и полный гид",
-      "seo_description": "Исследуйте лучшие достопримечательности Амстердама. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Амстердама.",
+      "seo_title": "Топ 8 достопримечательностей Амстердама 2026 — Полный гид",
+      "seo_description": "Узнайте часы работы, цены на билеты и советы по бронированию на Klook. Откройте для себя лучшие места Амстердама!",
       "page_intro": "Амстердам, столица Нидерландов, славится своим художественным наследием, сложной системой каналов и узкими домами с фронтонами, наследием Золотого века города XVII века. С музеями мирового класса, оживленными рынками и богатой историей для изучения, Амстердам предлагает что-то для каждого путешественника. Будь вы катаетесь по живописным каналам или наслаждаетесь эклектичной кулинарной сценой, этот город обещает незабываемые впечатления.",
       "items": [
         {

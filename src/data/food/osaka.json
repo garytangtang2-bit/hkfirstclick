@@ -2,9 +2,9 @@
   "city_slug": "osaka",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Osaka 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Osaka. From budget market eats to fine dining — with booking links.",
-      "page_intro": "Osaka is proudly known as 'Tenka no Daidokoro' (the Nation's Kitchen) and embraces the philosophy of 'kuidaore'—to eat until you drop. From the neon-lit streets of Dotonbori serving sizzling takoyaki to the bustling stalls of Kuromon Market, the city's food culture is loud, unpretentious, and incredibly delicious. Whether you are indulging in premium wagyu beef or casual deep-fried kushikatsu, Osaka promises a vibrant culinary adventure that truly satisfies the soul.",
+      "seo_title": "8 Best Must-Try Restaurants in Osaka 2026",
+      "seo_description": "Save time with real recommendations for Osaka's hidden gems. Book via Klook and discover local favorites today!",
+      "page_intro": "Dive into Osaka's culinary wonderland, where street food reigns supreme! Savor local favorites like takoyaki and kushikatsu while exploring vibrant markets. Discover curated dining experiences with Klook for a hassle-free adventure!",
       "items": [
         {
           "id": "kuromon-ichiba-market",
@@ -13,7 +13,7 @@
           "description": "Known as 'Osaka's Kitchen', this vibrant covered market features over 150 stalls selling top-quality seafood, meats, and produce. Wander through the bustling aisles to sample grilled scallops, fatty tuna sashimi, and skewers of premium Kobe beef prepared right before your eyes. It is an absolute paradise for food lovers seeking the freshest local ingredients.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Grilled Scallops and Kobe Beef Skewers",
           "klook_query": "Kuromon Market food tour",
           "photo_url": "https://images.pexels.com/photos/96379/pexels-photo-96379.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "A legendary okonomiyaki establishment in Dotonbori that has been serving hungry crowds for over 70 years. Recognized by the Michelin Guide, they are famous for using yam instead of flour in their batter, resulting in an incredibly fluffy savory pancake. Expect a long line, but the rich, deeply satisfying flavors are entirely worth the wait.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Yamaimoyaki (Yam Okonomiyaki)",
           "klook_query": "Osaka Okonomiyaki experience",
           "photo_url": "https://images.pexels.com/photos/20899958/pexels-photo-20899958.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "The birthplace of Osaka's beloved kushikatsu (deep-fried skewers), operating since 1929 in the nostalgic Shinsekai district. Diners can enjoy an array of meats, vegetables, and seafood perfectly breaded and fried to a golden crisp. Remember the golden rule of this iconic eatery: strictly no double-dipping in the communal savory sauce!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Kushikatsu Assortment (Beef, Pork, Lotus Root)",
           "klook_query": "Shinsekai food tour"
         },
@@ -48,7 +48,7 @@
           "description": "Easily spotted by the giant octopus sign on its storefront, this is one of Dotonbori's most celebrated takoyaki stands. Their signature octopus balls are renowned for being incredibly soft and gooey on the inside while holding a perfectly round shape, topped with a generous dancing layer of bonito flakes. A quintessential Osaka street food experience.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Bikkuri Takoyaki (Surprise Octopus Balls)",
           "klook_query": "Dotonbori street food"
         },
@@ -59,7 +59,7 @@
           "description": "Tucked away in the atmospheric Hozenji Yokocho alley, this premium yakiniku restaurant specializes in Matsusaka beef, one of Japan's top three wagyu brands. Diners grill their own meticulously sliced, beautifully marbled cuts of beef over hot coals in private dining rooms. It offers an intimate, melt-in-your-mouth culinary luxury that is unforgettable.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "Matsusaka Beef Premium Platter",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -70,7 +70,7 @@
           "description": "Made internationally famous by Netflix's Street Food series, this charismatic open-air izakaya in Kyobashi is run by the energetic Chef Toyo. Standing room only, the atmosphere is electric as Toyo uses a blowtorch with his bare hands to sear massive chunks of tuna. It is a wildly entertaining, authentic, and delicious slice of working-class Osaka.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "Blowtorch Seared Tuna (Maguro)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -81,7 +81,7 @@
           "description": "An Osaka landmark, famous for the giant, moving mechanical crab above its entrance. This multi-story restaurant is devoted entirely to crab, prepared in every way imaginable—raw, boiled, grilled, and in hot pot. It provides a luxurious yet accessible dining experience that showcases the sweet, delicate flavors of premium snow and king crab.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "Crab Kaiseki Set Meal",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -96,12 +96,15 @@
           "must_try": "Freshly Baked Cheesecake",
           "klook_query": "Osaka dessert guide"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Osaka?",
+      "faq_q2": "Where can I find the best restaurants in Osaka?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 大阪必吃美食推薦 — 頂級餐廳與街頭小吃指南",
-      "seo_description": "探索大阪最佳餐廳、街頭小吃與在地特色美食。從平價市場小吃到高級和牛燒肉，提供完整推薦與預訂連結。",
-      "page_intro": "大阪被譽為「天下的廚房」，並秉持著「吃到破產」（食い倒れ）的美食哲學。從霓虹閃爍的道頓堀街頭那滋滋作響的章魚燒，到黑門市場熙來攘往的攤位，這座城市的飲食文化熱情、樸實且無比美味。無論是品嚐頂級和牛，還是享用平價的串炸，大阪都保證為您帶來一場真正滿足靈魂的充滿活力的美食冒險。",
+      "seo_title": "2026 大阪必吃美食：8 大隱藏美食與當地最愛",
+      "seo_description": "節省時間，發掘大阪的真實美食推薦！透過 Klook 預訂，立即計劃您的美食之旅！",
+      "page_intro": "大阪的美食世界如同一場無盡的饗宴，從香氣四溢的章魚燒到鮮嫩的和牛，每一口都令人回味無窮。無論您是想品嚐地道的串炸還是探索隱藏的美食寶藏，Klook精心挑選的餐廳將為您節省時間，讓您的味蕾盡情享受！",
       "items": [
         {
           "id": "kuromon-ichiba-market",
@@ -110,7 +113,7 @@
           "description": "被譽為「大阪的廚房」，這個充滿活力的室內市場擁有150多個攤位，販售頂級海鮮、肉類和農產品。漫步在熙來攘往的走道上，品嚐現烤扇貝、肥美鮪魚生魚片，以及在您面前現烤的頂級神戶牛串。對於尋求最新鮮在地食材的美食愛好者來說，這裡是絕對的天堂。",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "燒烤扇貝和神戶牛串",
           "klook_query": "Kuromon Market food tour"
         },
@@ -121,7 +124,7 @@
           "description": "位於道頓堀的傳奇大阪燒名店，70多年來持續滿足著饕客的味蕾。榮獲米其林指南推薦，他們以山藥代替麵粉製作麵糊而聞名，煎出不可思議的鬆軟口感。雖然需要排隊，但那濃郁且令人滿足的風味絕對值得等待。",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "山芋燒 (山藥御好燒)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -132,7 +135,7 @@
           "description": "大阪深受喜愛的串炸發源地，自1929年起在充滿懷舊風情的新世界地區營業。食客可以享用各式肉類、蔬菜和海鮮，裹上麵包粉後炸至金黃酥脆。請記住這家標誌性餐廳的黃金法則：絕對禁止將咬過的串炸二次沾取共用醬汁！",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "串炸拼盤 (牛肉、豬肉、蓮藕)",
           "klook_query": "Shinsekai food tour"
         },
@@ -143,7 +146,7 @@
           "description": "店面上有著巨大章魚招牌，非常顯眼，這是道頓堀最著名的章魚燒攤位之一。他們招牌的章魚燒以內部極度柔軟濃稠、外表保持完美圓形而聞名，上面撒滿了隨熱氣飛舞的柴魚片。這是最典型的大阪街頭美食體驗。",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "驚喜章魚燒",
           "klook_query": "Dotonbori street food"
         },
@@ -154,7 +157,7 @@
           "description": "隱身在充滿氛圍的法善寺橫丁中，這家頂級燒肉餐廳專營日本三大和牛之一的松阪牛。食客可以在私人包廂內的炭火上，親自燒烤切工精細、油花美麗的牛肉。這裡提供令人難忘的、入口即化的私密奢華美食饗宴。",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "松阪牛頂級拼盤",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -165,7 +168,7 @@
           "description": "因 Netflix《世界小吃》系列而享譽國際，這家位於京橋的露天居酒屋由充滿活力的 Toyo 主廚經營。這裡只有站位，氣氛熱烈，Toyo 徒手使用噴燈炙烤巨大的鮪魚塊。這是一場極具娛樂性、道地且美味的大阪勞工階級美食體驗。",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "火焰炙燒鮪魚",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -176,7 +179,7 @@
           "description": "大阪的地標，以入口處巨大的機械動態螃蟹聞名。這家多層樓的餐廳完全以螃蟹為主題，提供各種想像得到的料理方式——生食、水煮、燒烤和火鍋。它提供了奢華卻又平易近人的用餐體驗，完美展現了頂級松葉蟹和帝王蟹的鮮甜與細膩風味。",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "蟹懷石套餐",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -191,12 +194,15 @@
           "must_try": "新鮮出爐起司蛋糕",
           "klook_query": "Osaka dessert guide"
         }
-      ]
+      ],
+      "faq_q1": "在大阪最推薦的美食是什麼？",
+      "faq_q2": "我可以在哪裡找到大阪最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "2026年 大阪の絶品グルメ — 人気レストラン＆屋台街ガイド",
-      "seo_description": "大阪の最高級レストラン、屋台、郷土料理をご紹介。B級グルメから高級焼肉まで、予約リンク付きでご案内します。",
-      "page_intro": "大阪は「天下の台所」として誇り高く知られ、「食い倒れ」の哲学を体現する街です。ネオンが輝く道頓堀で熱々のたこ焼きを提供する屋台から、黒門市場の活気ある店舗まで、この街の食文化は賑やかで気取らず、信じられないほど美味しいのが特徴です。高級和牛を堪能するにしても、カジュアルな串カツを楽しむにしても、大阪は心を満たす活気に満ちた美食の冒険を約束します。",
+      "seo_title": "2026年 大阪の必食グルメ8選 — 地元の隠れた名店",
+      "seo_description": "時間を節約し、本当におすすめの大阪の名店を発見。Klookで予約して、今すぐ食事を計画しよう！",
+      "page_intro": "大阪の食文化は、たこ焼きやお好み焼き、串カツといった名物料理で溢れています。地元の味を存分に楽しむための厳選されたレストランを紹介し、あなたの美食冒険をサポートします。",
       "items": [
         {
           "id": "kuromon-ichiba-market",
@@ -205,7 +211,7 @@
           "description": "「大阪の台所」として知られるこの活気あるアーケード市場には、最高品質の魚介類、肉、農産物を販売する150以上の店舗が並んでいます。賑やかな通路を歩きながら、焼きホタテ、脂の乗ったマグロの刺身、目の前で焼かれる高級神戸牛の串焼きなどを味わえます。新鮮な地元の食材を求めるグルメ愛好家にとって、まさにパラダイスです。",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "グリルホタテと神戸ビーフの串焼き",
           "klook_query": "Kuromon Market food tour"
         },
@@ -216,7 +222,7 @@
           "description": "道頓堀にあるお好み焼きの老舗で、70年以上にわたり食欲旺盛な人々を満足させてきました。ミシュランガイドにも掲載されており、生地に小麦粉の代わりに山芋を使用することで、驚くほどふわふわなお好み焼きに仕上がることで有名です。行列は必至ですが、濃厚で大満足の味わいは待つ価値が十分にあります。",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "山芋焼き",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -227,7 +233,7 @@
           "description": "大阪で愛される串カツの発祥の地であり、ノスタルジックな新世界エリアで1929年から営業しています。肉、野菜、魚介類に完璧なパン粉をつけ、黄金色にサクサクに揚げた串カツを楽しめます。この象徴的な飲食店の黄金のルール、「ソースの二度漬け禁止」をお忘れなく！",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "串カツ盛り合わせ（牛肉、豚肉、レンコン）",
           "klook_query": "Shinsekai food tour"
         },
@@ -238,7 +244,7 @@
           "description": "店先の巨大なタコの看板が目印の、道頓堀で最も有名なたこ焼き店の一つです。名物のたこ焼きは、中が驚くほどとろとろで柔らかく、完璧な丸い形を保ち、その上には踊るようなかつお節がたっぷりとかかっていることで知られています。大阪のストリートフードを代表する体験です。",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "びっくりたこ焼き",
           "klook_query": "Dotonbori street food"
         },
@@ -249,7 +255,7 @@
           "description": "風情ある法善寺横丁にひっそりと佇むこの高級焼肉店は、日本三大和牛の一つである松阪牛の専門店です。個室で、美しくサシの入った丁寧にカットされた牛肉を、炭火で自分の好みに合わせて焼くことができます。忘れられない、口の中でとろけるような親密な美食の贅沢を提供します。",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "松阪牛プレミアム盛り合わせ",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -260,7 +266,7 @@
           "description": "Netflixの「ストリート・グルメを求めて」シリーズで世界的に有名になった、京橋にあるカリスマ的なオープンエアの居酒屋。エネルギッシュな大将「とよ」さんが切り盛りしています。立ち飲みの店内は活気に満ちており、大将が素手で巨大なマグロの塊をガスバーナーで炙る姿は圧巻です。大阪の下町の、楽しくて本格的で美味しい一面を味わえます。",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "バーナー焼きマグロ",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -271,7 +277,7 @@
           "description": "入り口の上にある巨大な動くカニの看板で有名な、大阪のランドマーク。この多層階のレストランはカニ料理専門で、刺身、茹でガニ、焼きガニ、鍋など、あらゆる調理法で提供されます。高級なズワイガニやタラバガニの甘く繊細な風味を堪能できる、豪華でありながら親しみやすいダイニング体験を提供します。",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "蟹懐石セット",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -286,12 +292,15 @@
           "must_try": "焼きたてチーズケーキ",
           "klook_query": "Osaka dessert guide"
         }
-      ]
+      ],
+      "faq_q1": "大阪で食べるべきおすすめの料理は何ですか？",
+      "faq_q2": "大阪で最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高い食事オプションです。"
     },
     "ko": {
-      "seo_title": "2026 오사카 최고 맛집 - 추천 레스토랑 및 길거리 음식 가이드",
-      "seo_description": "오사카의 최고 레스토랑, 길거리 음식, 현지 특선 요리를 만나보세요. 가성비 좋은 시장 음식부터 고급 와규까지, 예약 링크를 제공합니다.",
-      "page_intro": "오사카는 '천하의 부엌'으로 자랑스럽게 알려져 있으며, '쿠이다오레(먹다가 망한다)'라는 철학을 포용하는 도시입니다. 지글지글 익어가는 타코야키를 제공하는 네온사인 빛나는 도톤보리 거리부터 구로몬 시장의 북적이는 노점까지, 이 도시의 음식 문화는 활기차고 소박하며 믿을 수 없을 만큼 맛있습니다. 최고급 와규를 즐기든 캐주얼한 쿠시카츠를 맛보든, 오사카는 영혼을 진정으로 만족시키는 활기찬 미식 모험을 약속합니다.",
+      "seo_title": "2026 오사카 8곳의 최고의 맛집 - 꼭 먹어봐야 할 레스토랑",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook으로 현지 맛집을 예약하고 지금 바로 맛있는 여행을 계획하세요!",
+      "page_intro": "오사카의 음식 세계는 미각의 축제입니다! 타코야키, 오코노미야키, 그리고 쿠시카츠 등 다양한 지역 특선 요리를 즐길 수 있는 이곳에서, 시간을 절약하고 최고의 맛집을 손쉽게 찾아보세요. Klook에서 미리 예약하면 더 편리하게 여행을 즐길 수 있습니다.",
       "items": [
         {
           "id": "kuromon-ichiba-market",
@@ -300,7 +309,7 @@
           "description": "'오사카의 부엌'으로 알려진 이 활기찬 실내 시장에는 최고 품질의 해산물, 육류, 농산물을 파는 150개 이상의 노점이 있습니다. 북적이는 통로를 거닐며 구운 가리비, 기름진 참치회, 눈앞에서 직접 구워주는 최고급 고베 규 꼬치를 맛보세요. 가장 신선한 현지 식재료를 찾는 음식 애호가들에게 절대적인 천국입니다.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "그릴드 가리비와 고베 소고기 꼬치",
           "klook_query": "Kuromon Market food tour"
         },
@@ -311,7 +320,7 @@
           "description": "70년 넘게 배고픈 사람들을 만족시켜 온 도톤보리의 전설적인 오코노미야키 전문점입니다. 미슐랭 가이드에 선정된 이곳은 반죽에 밀가루 대신 마를 사용하여 믿을 수 없을 정도로 푹신하고 맛있는 팬케이크를 만드는 것으로 유명합니다. 긴 줄을 예상해야 하지만, 깊고 풍부한 맛은 기다릴 가치가 충분합니다.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "야마이모야키 (야마 오코노미야키)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -322,7 +331,7 @@
           "description": "오사카에서 사랑받는 쿠시카츠(꼬치 튀김)의 발상지로, 향수를 불러일으키는 신세카이 지역에서 1929년부터 영업하고 있습니다. 고기, 채소, 해산물에 빵가루를 입혀 황금빛으로 바삭하게 튀겨낸 다양한 꼬치를 즐길 수 있습니다. 이 상징적인 식당의 황금률을 기억하세요. 공용 소스에 두 번 찍어 먹는 것은 절대 금지입니다!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "쿠시카츠 모듬 (소고기, 돼지고기, 연근)",
           "klook_query": "Shinsekai food tour"
         },
@@ -333,7 +342,7 @@
           "description": "매장 앞의 거대한 문어 간판으로 쉽게 눈에 띄는 이곳은 도톤보리에서 가장 유명한 타코야키 노점 중 하나입니다. 시그니처 문어빵은 겉은 완벽한 둥근 모양을 유지하면서 속은 믿을 수 없을 정도로 부드럽고 끈적하며, 그 위에 춤추는 가쓰오부시가 듬뿍 올려져 있는 것으로 유명합니다. 오사카 길거리 음식 경험의 정수입니다.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "비쿠리 타코야키 (서프라이즈 문어볼)",
           "klook_query": "Dotonbori street food"
         },
@@ -344,7 +353,7 @@
           "description": "분위기 있는 호젠지 요코초 골목에 숨겨져 있는 이 프리미엄 야키니쿠 레스토랑은 일본 3대 와규 브랜드 중 하나인 마츠사카 규를 전문으로 합니다. 식사하는 사람들은 프라이빗 룸에서 마블링이 아름답고 세심하게 썰린 쇠고기를 숯불에 직접 구워 먹습니다. 입안에서 살살 녹는 잊을 수 없는 미식의 사치를 제공합니다.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "마츠사카 소고기 프리미엄 플래터",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -355,7 +364,7 @@
           "description": "넷플릭스의 '길 위의 셰프들' 시리즈로 세계적으로 유명해진 교바시의 이 매력적인 야외 이자카야는 에너지가 넘치는 토요 셰프가 운영합니다. 서서 먹는 곳으로, 토요 셰프가 맨손으로 토치를 사용하여 거대한 참치 덩어리를 굽는 모습은 열광적인 분위기를 자아냅니다. 오사카 서민들의 즐겁고, 진정성 있으며, 맛있는 단면을 보여줍니다.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "불꽃으로 시어링한 참치 (마구로)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -366,7 +375,7 @@
           "description": "입구 위에 있는 거대하게 움직이는 기계식 게로 유명한 오사카의 랜드마크입니다. 이 다층 레스토랑은 오로지 게에 전념하며 회, 삶은 게, 구이, 전골 등 상상할 수 있는 모든 방법으로 요리됩니다. 최고급 대게와 킹크랩의 달콤하고 섬세한 맛을 선보이는 고급스러우면서도 접근하기 쉬운 다이닝 경험을 제공합니다.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "크랩 가이세키 세트 밀",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -381,12 +390,15 @@
           "must_try": "갓 구운 치즈케이크",
           "klook_query": "Osaka dessert guide"
         }
-      ]
+      ],
+      "faq_q1": "오사카에서 꼭 먹어야 할 음식은 무엇인가요?",
+      "faq_q2": "오사카에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 다이닝 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleurs Restaurants à Osaka en 2026 — Guide de la Street Food",
-      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales d'Osaka. Des repas économiques aux restaurants étoilés — avec liens de réservation.",
-      "page_intro": "Osaka est fièrement connue comme la 'Cuisine de la Nation' et embrasse la philosophie du 'kuidaore' — manger jusqu'à l'épuisement. Des rues éclairées aux néons de Dotonbori aux étals animés du marché de Kuromon, la culture culinaire d'Osaka est bruyante, sans prétention et incroyablement délicieuse.",
+      "seo_title": "8 Meilleurs Restaurants à Osaka en 2026 - Favoris Locaux",
+      "seo_description": "Économisez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les spécialités locales. Planifiez votre repas maintenant !",
+      "page_intro": "Osaka, véritable temple de la gastronomie, vous invite à savourer ses spécialités emblématiques comme l'okonomiyaki et le takoyaki. Plongez dans cette aventure culinaire sans perdre de temps grâce à nos choix soigneusement sélectionnés et réservez facilement avec Klook.",
       "items": [
         {
           "id": "kuromon-ichiba-market",
@@ -395,7 +407,7 @@
           "description": "Connu comme la 'Cuisine d'Osaka', ce marché couvert abrite plus de 150 stands vendant des fruits de mer et des viandes de qualité supérieure. Promenez-vous dans les allées pour déguster des pétoncles grillés et des brochettes de bœuf de Kobe préparées sous vos yeux.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Brochettes de Saint-Jacques et de bœuf Kobe",
           "klook_query": "Kuromon Market food tour"
         },
@@ -406,7 +418,7 @@
           "description": "Un établissement légendaire d'okonomiyaki à Dotonbori. Reconnu par le guide Michelin, il est célèbre pour l'utilisation d'igname à la place de la farine, ce qui donne une crêpe incroyablement moelleuse. Attendez-vous à faire la queue, mais les saveurs en valent la peine.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Yamaimoyaki (Yam Okonomiyaki)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -417,7 +429,7 @@
           "description": "Le berceau du kushikatsu (brochettes frites) bien-aimé d'Osaka, en activité depuis 1929 dans le quartier nostalgique de Shinsekai. Les convives peuvent déguster un éventail de viandes, de légumes et de fruits de mer panés et frits. N'oubliez pas la règle d'or : ne jamais tremper deux fois dans la sauce commune !",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Assortiment de Kushikatsu (Bœuf, Porc, Racine de Lotus)",
           "klook_query": "Shinsekai food tour"
         },
@@ -428,7 +440,7 @@
           "description": "Facilement repérable grâce au poulpe géant sur sa devanture, c'est l'un des stands de takoyaki les plus célèbres de Dotonbori. Leurs boulettes de poulpe sont réputées pour être incroyablement douces et fondantes à l'intérieur, garnies d'une généreuse couche de flocons de bonite.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Bikkuri Takoyaki (Boules de Poulpe Surprise)",
           "klook_query": "Dotonbori street food"
         },
@@ -439,7 +451,7 @@
           "description": "Caché dans la ruelle atmosphérique de Hozenji Yokocho, ce restaurant de yakiniku haut de gamme est spécialisé dans le bœuf de Matsusaka. Les convives font griller leurs propres tranches de bœuf merveilleusement persillées sur des braises chaudes dans des salles à manger privées.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "Plateau Premium de Bœuf Matsusaka",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -450,7 +462,7 @@
           "description": "Rendu célèbre dans le monde entier par la série Street Food de Netflix, cet izakaya charismatique en plein air à Kyobashi est dirigé par l'énergique chef Toyo. L'ambiance y est électrique : Toyo utilise un chalumeau à mains nues pour saisir d'énormes morceaux de thon.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "Thon Sear au Chalumeau (Maguro)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -461,7 +473,7 @@
           "description": "Un point de repère d'Osaka, célèbre pour le crabe mécanique géant et mobile au-dessus de son entrée. Ce restaurant est entièrement consacré au crabe, préparé de toutes les manières imaginables : cru, bouilli, grillé et en fondue.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "Repas de Crab Kaiseki",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -476,12 +488,15 @@
           "must_try": "Cheesecake Fraîchement Cuit",
           "klook_query": "Osaka dessert guide"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Osaka ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Osaka ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor Comida en Osaka 2026 — Guía de Restaurantes y Street Food",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades de Osaka. Desde puestos en el mercado hasta alta cocina, con enlaces de reserva.",
-      "page_intro": "Osaka se conoce orgullosamente como la 'Cocina de la Nación' y abraza la filosofía del 'kuidaore': comer hasta no poder más. Desde los takoyakis humeantes en Dotonbori hasta los puestos del Mercado de Kuromon, su cultura culinaria es ruidosa, deliciosa y sin pretensiones.",
+      "seo_title": "8 Mejores Comidas en Osaka 2026 — Favoritos Locales",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los mejores sabores de Osaka. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre el festín que Osaka tiene para ofrecer! Desde los irresistibles takoyakis hasta el sabroso okonomiyaki, cada bocado es una explosión de sabor. Ahorra tiempo con nuestras selecciones curadas y reserva en Klook.",
       "items": [
         {
           "id": "kuromon-ichiba-market",
@@ -490,7 +505,7 @@
           "description": "Conocido como la 'Cocina de Osaka', este mercado cubierto cuenta con más de 150 puestos que venden mariscos y carnes de primera calidad. Pasea por los pasillos para probar vieiras a la parrilla y brochetas de carne de Kobe preparadas ante tus ojos.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Brochetas de Vieiras a la Parrilla y Carne de Res Kobe",
           "klook_query": "Kuromon Market food tour"
         },
@@ -501,7 +516,7 @@
           "description": "Un legendario establecimiento de okonomiyaki en Dotonbori. Reconocido por la Guía Michelin, es famoso por usar ñame en lugar de harina, lo que da como resultado un panqueque increíblemente esponjoso. Espera hacer cola, pero los ricos sabores valen la pena.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Yamaimoyaki (Yam Okonomiyaki)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -512,7 +527,7 @@
           "description": "El lugar de nacimiento del querido kushikatsu (brochetas fritas) de Osaka, operando desde 1929. Los comensales pueden disfrutar de carnes y verduras perfectamente empanadas y fritas. Recuerda la regla de oro: ¡está estrictamente prohibido mojar dos veces en la salsa común!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Asortido de Kushikatsu (Carne de Res, Cerdo, Raíz de Loto)",
           "klook_query": "Shinsekai food tour"
         },
@@ -523,7 +538,7 @@
           "description": "Fácilmente reconocible por el pulpo gigante en su fachada, es uno de los puestos de takoyaki más famosos de Dotonbori. Sus bolitas de pulpo son famosas por ser suaves y pegajosas por dentro, rematadas con una generosa capa de copos de bonito.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Bikkuri Takoyaki (Bolas de Pulpo Sorpresa)",
           "klook_query": "Dotonbori street food"
         },
@@ -534,7 +549,7 @@
           "description": "Escondido en el callejón de Hozenji Yokocho, este restaurante premium de yakiniku se especializa en carne de Matsusaka. Los comensales asan sus propios cortes de carne finamente veteada sobre brasas calientes en comedores privados.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "Plato Premium de Carne de Res Matsusaka",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -545,7 +560,7 @@
           "description": "Hecho famoso por la serie Street Food de Netflix, este carismático izakaya al aire libre está dirigido por el enérgico Chef Toyo. La atmósfera es eléctrica mientras Toyo usa un soplete con sus propias manos para dorar enormes trozos de atún.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "Atún Sellado con Soplete (Maguro)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -556,7 +571,7 @@
           "description": "Un hito de Osaka, famoso por el cangrejo mecánico gigante. Este restaurante está dedicado enteramente al cangrejo, preparado de todas las formas imaginables: crudo, hervido, a la parrilla y en olla caliente. Ofrece una experiencia culinaria accesible y lujosa.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "Menú de Cangrejo Kaiseki",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -571,11 +586,14 @@
           "must_try": "Cheesecake Recién Horneado",
           "klook_query": "Osaka dessert guide"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Osaka?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Osaka?",
+      "faq_a2_suffix": " son algunas de las opciones de comida mejor valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Osaka 2026 — Panduan Restoran & Jajanan Pasar",
-      "seo_description": "Temukan restoran terbaik, jajanan pasar, dan makanan khas lokal di Osaka. Dari makanan pasar yang murah hingga fine dining — lengkap dengan tautan pemesanan.",
+      "seo_title": "8 Restoran Terbaik di Osaka 2026 — Makanan Wajib Coba",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata! Temukan favorit lokal dan pesan melalui Klook. Rencanakan pengalaman kuliner Anda sekarang!",
       "page_intro": "Osaka dengan bangga dikenal sebagai 'Dapur Nasional' dan menganut filosofi 'kuidaore'—makan sampai Anda kekenyangan. Dari jalanan Dotonbori yang dihiasi lampu neon hingga kedai di Pasar Kuromon, budaya makanan kota ini sangat luar biasa dan lezat.",
       "items": [
         {
@@ -585,7 +603,7 @@
           "description": "Dikenal sebagai 'Dapur Osaka', pasar tertutup yang semarak ini memiliki lebih dari 150 kedai yang menjual makanan laut dan daging kualitas atas. Telusuri lorong yang ramai untuk mencicipi kerang panggang dan sate daging sapi Kobe premium.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Sate Kerang dan Sate Daging Kobe",
           "klook_query": "Kuromon Market food tour"
         },
@@ -596,7 +614,7 @@
           "description": "Kedai okonomiyaki legendaris di Dotonbori yang telah beroperasi lebih dari 70 tahun. Diakui oleh Michelin Guide, mereka terkenal menggunakan ubi liar sebagai pengganti tepung, menghasilkan panekuk gurih yang sangat lembut.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Yamaimoyaki (Yam Okonomiyaki)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -607,7 +625,7 @@
           "description": "Tempat kelahiran kushikatsu (sate goreng) kesayangan Osaka, beroperasi sejak 1929. Pengunjung dapat menikmati berbagai daging dan sayuran yang digoreng renyah. Ingat aturan emasnya: dilarang keras mencelupkan dua kali ke dalam saus bersama!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Kushikatsu Campuran (Daging Sapi, Daging Babi, Akar Teratai)",
           "klook_query": "Shinsekai food tour"
         },
@@ -618,7 +636,7 @@
           "description": "Mudah dikenali dari tanda gurita raksasa di etalasenya, ini adalah salah satu kedai takoyaki paling terkenal di Dotonbori. Bola gurita khas mereka terkenal sangat lembut di dalam, ditaburi lapisan serpihan bonito yang menari.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Bikkuri Takoyaki (Bola Gurita Kejutan)",
           "klook_query": "Dotonbori street food"
         },
@@ -629,7 +647,7 @@
           "description": "Tersembunyi di gang Hozenji Yokocho, restoran yakiniku premium ini berspesialisasi dalam daging sapi Matsusaka. Pengunjung memanggang irisan daging sapi bermarmer indah mereka sendiri di atas bara panas di ruang makan pribadi.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "Piring Premium Daging Matsusaka",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -640,7 +658,7 @@
           "description": "Dikenal secara internasional melalui seri Street Food Netflix, izakaya terbuka yang karismatik ini dijalankan oleh Chef Toyo yang energik. Suasananya semarak saat Toyo menggunakan obor tiup dengan tangan kosong untuk membakar bongkahan besar tuna.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "Ikan Tuna Bakar dengan Blowtorch (Maguro)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -651,7 +669,7 @@
           "description": "Landmark Osaka, terkenal dengan kepiting mekanik raksasa yang bergerak di atas pintu masuknya. Restoran ini dikhususkan sepenuhnya untuk kepiting, dimasak dengan segala cara—mentah, direbus, dipanggang, dan hot pot.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "Set Makan Kaiseki Kepiting",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -669,8 +687,8 @@
       ]
     },
     "hi": {
-      "seo_title": "ओसाका में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "ओसाका में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशिष्टताओं की खोज करें। बुकिंग लिंक के साथ बजट बाजार के खाने से लेकर बढ़िया भोजन तक।",
+      "seo_title": "ओसाका में 10 सर्वश्रेष्ठ भोजन 2026 - स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय विशेषताओं की खोज करें!",
       "page_intro": "ओसाका को गर्व से 'राष्ट्र की रसोई' के रूप में जाना जाता है और यह 'कुइदाओर' के दर्शन को अपनाता है—जब तक आप गिर न जाएं तब तक खाएं। डोटोनबोरी की नीयन-रोशनी वाली सड़कों से लेकर कुरोमोन मार्केट के हलचल भरे स्टालों तक, शहर की भोजन संस्कृति अविश्वसनीय रूप से स्वादिष्ट है।",
       "items": [
         {
@@ -680,7 +698,7 @@
           "description": "'ओसाका की रसोई' के रूप में जाना जाने वाला, इस जीवंत कवर बाजार में 150 से अधिक स्टॉल हैं जो उच्च गुणवत्ता वाले समुद्री भोजन और मीट बेचते हैं। ग्रिल्ड स्कैलप्स और प्रीमियम कोबे बीफ की कटार का स्वाद लेने के लिए गलियारों में घूमें।",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "ग्रिल्ड स्कैलप्स और कोबे बीफ स्क्यूअर्स",
           "klook_query": "Kuromon Market food tour"
         },
@@ -691,7 +709,7 @@
           "description": "डोटोनबोरी में एक प्रसिद्ध ओकोनोमियाकी प्रतिष्ठान जो 70 से अधिक वर्षों से भूख को शांत कर रहा है। मिशेलिन गाइड द्वारा मान्यता प्राप्त, वे अपने बैटर में आटे के बजाय रतालू का उपयोग करने के लिए प्रसिद्ध हैं।",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "यामाइमोयाकी (याम ओकोनोमियाकी)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -702,7 +720,7 @@
           "description": "ओसाका के प्रिय कुशिकात्सु (डीप-फ्राइड स्केवर्स) का जन्मस्थान, 1929 से काम कर रहा है। डाइनर पूरी तरह से ब्रेडेड और सुनहरे कुरकुरे तले हुए मीट और सब्जियों की एक सरणी का आनंद ले सकते हैं। सुनहरे नियम को याद रखें: सांप्रदायिक चटनी में दोबारा डुबोना सख्त मना है!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "कुशिकात्सु असॉर्टमेंट (बीफ, पोर्क, लोटस रूट)",
           "klook_query": "Shinsekai food tour"
         },
@@ -713,7 +731,7 @@
           "description": "इसके स्टोर के सामने विशाल ऑक्टोपस साइन द्वारा आसानी से पहचाना जाने वाला, यह डोटोनबोरी के सबसे प्रसिद्ध ताकोयाकी स्टैंडों में से एक है। उनकी सिग्नेचर ऑक्टोपस बॉल अंदर से अविश्वसनीय रूप से नरम होने के लिए जानी जाती हैं।",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "बिक्कुरी टाकोयाकी (सरप्राइज ऑक्टोपस बॉल्स)",
           "klook_query": "Dotonbori street food"
         },
@@ -724,7 +742,7 @@
           "description": "होज़ेंजी योकोचो गली में छिपा हुआ, यह प्रीमियम याकिनिकु रेस्तरां मात्सुसाका बीफ़ में माहिर है। डिनर निजी डाइनिंग रूम में गर्म कोयले पर बीफ़ के अपने कटे हुए टुकड़ों को ग्रिल करते हैं।",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "मत्सुसाका बीफ प्रीमियम प्लेटर",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -735,7 +753,7 @@
           "description": "नेटफ्लिक्स की स्ट्रीट फूड सीरीज़ से अंतरराष्ट्रीय स्तर पर प्रसिद्ध, इस करिश्माई ओपन-एयर इज़ाकाया को ऊर्जावान शेफ टोयो द्वारा चलाया जाता है। माहौल शानदार है क्योंकि टोयो टूना के बड़े टुकड़ों को भूनने के लिए अपने नंगे हाथों से ब्लोटॉर्च का उपयोग करते हैं।",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "ब्लोटॉर्च सीर्ड ट्यूना (मागुरो)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -746,7 +764,7 @@
           "description": "एक ओसाका लैंडमार्क, इसके प्रवेश द्वार के ऊपर विशाल, चलती यांत्रिक केकड़े के लिए प्रसिद्ध है। यह बहुमंजिला रेस्तरां पूरी तरह से केकड़े को समर्पित है, जो हर कल्पनीय तरीके से तैयार किया जाता है—कच्चा, उबला हुआ और ग्रिल्ड।",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "क्रैब काइसेकी सेट मील",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -764,9 +782,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida de Osaka 2026 — Guia de Restaurantes e Street Food",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades em Osaka. De refeições baratas no mercado a jantares premium — com links de reserva.",
-      "page_intro": "Osaka é orgulhosamente conhecida como a 'Cozinha da Nação' e adota a filosofia de 'kuidaore' — comer até cair. Das ruas iluminadas por neon de Dotonbori servindo takoyaki escaldante às barracas movimentadas do Mercado Kuromon, a cultura alimentar da cidade é vibrante e incrivelmente deliciosa.",
+      "seo_title": "Top 8 Restaurantes em Osaka 2026 — Must-Try Delícias",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
+      "page_intro": "Descubra o sabor vibrante de Osaka, a verdadeira 'Cozinha da Nação', onde pratos como takoyaki e okonomiyaki fazem as delícias dos visitantes. Aproveite nossas dicas selecionadas para saborear a autenticidade local com facilidade, reservando com a Klook!",
       "items": [
         {
           "id": "kuromon-ichiba-market",
@@ -775,7 +793,7 @@
           "description": "Conhecido como a 'Cozinha de Osaka', este vibrante mercado coberto possui mais de 150 barracas vendendo frutos do mar e carnes de alta qualidade. Passeie pelos corredores para provar vieiras grelhadas e espetos de carne de Kobe premium preparados diante de seus olhos.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Espetinhos de Vieiras Grelhadas e Carne Kobe",
           "klook_query": "Kuromon Market food tour"
         },
@@ -786,7 +804,7 @@
           "description": "Um lendário estabelecimento de okonomiyaki em Dotonbori. Reconhecido pelo Guia Michelin, eles são famosos por usar inhame em vez de farinha na massa, resultando em uma panqueca incrivelmente fofa. Espere uma longa fila, mas os sabores ricos valem totalmente a pena.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Yamaimoyaki (Yam Okonomiyaki)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -797,7 +815,7 @@
           "description": "O berço do amado kushikatsu de Osaka (espetos fritos), operando desde 1929. Os clientes podem desfrutar de uma variedade de carnes e legumes perfeitamente empanados e fritos. Lembre-se da regra de ouro: é estritamente proibido mergulhar duas vezes no molho compartilhado!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Kushikatsu Variado (Carne, Porco, Raiz de Lótus)",
           "klook_query": "Shinsekai food tour"
         },
@@ -808,7 +826,7 @@
           "description": "Facilmente identificável pelo letreiro gigante de polvo em sua fachada, esta é uma das barracas de takoyaki mais famosas de Dotonbori. Seus bolinhos de polvo são conhecidos por serem incrivelmente macios por dentro, cobertos com uma generosa camada de flocos de bonito.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Bikkuri Takoyaki (Bolinhos de Polvo Surpresa)",
           "klook_query": "Dotonbori street food"
         },
@@ -819,7 +837,7 @@
           "description": "Escondido no beco de Hozenji Yokocho, este restaurante premium de yakiniku é especializado em carne de Matsusaka. Os clientes grelham seus próprios cortes de carne sobre brasas quentes em salas de jantar privativas. Oferece um luxo culinário que derrete na boca.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "Prato Premium de Carne Matsusaka",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -830,7 +848,7 @@
           "description": "Tornado internacionalmente famoso pela série Street Food da Netflix, este carismático izakaya ao ar livre em Kyobashi é administrado pelo enérgico Chef Toyo. A atmosfera é elétrica enquanto Toyo usa um maçarico com as próprias mãos para selar enormes pedaços de atum.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "Atum Selado com Maçarico (Maguro)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -841,7 +859,7 @@
           "description": "Um marco de Osaka, famoso pelo caranguejo mecânico gigante. Este restaurante é totalmente dedicado ao caranguejo, preparado de todas as formas imagináveis: cru, cozido, grelhado e em hot pot. Ele oferece uma experiência de jantar luxuosa, mas acessível.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "Conjunto de Refeição Kaiseki de Caranguejo",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -856,11 +874,14 @@
           "must_try": "Cheesecake Recém-Assado",
           "klook_query": "Osaka dessert guide"
         }
-      ]
+      ],
+      "faq_q1": "Qual é a melhor comida para experimentar em Osaka?",
+      "faq_q2": "Onde posso encontrar os melhores restaurantes em Osaka?",
+      "faq_a2_suffix": " são algumas das opções de jantar mais bem avaliadas."
     },
     "ar": {
-      "seo_title": "أفضل طعام في أوساكا 2026 — دليل أفضل المطاعم وأكل الشوارع",
-      "seo_description": "اكتشف أفضل المطاعم وأكل الشوارع والتخصصات المحلية في أوساكا. من أكل الأسواق الاقتصادية إلى الفاخر مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في أوساكا 2026 — تجارب لا تفوت",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في أوساكا. احجز عبر Klook واكتشف المأكولات المحلية الآن!",
       "page_intro": "تُعرف أوساكا بفخر باسم 'مطبخ الأمة' وتتبنى فلسفة 'كويداوري' - أي أن تأكل حتى تسقط. من شوارع دوتونبوري المضاءة بالنيون إلى أكشاك سوق كورومون الصاخبة، ثقافة الطعام في المدينة لا تصدق.",
       "items": [
         {
@@ -870,7 +891,7 @@
           "description": "يُعرف باسم 'مطبخ أوساكا'، يضم هذا السوق المغطى أكثر من 150 كشكًا تبيع المأكولات البحرية واللحوم عالية الجودة. تجول في الممرات لتذوق أسياخ لحم بقري كوبي الفاخر والمأكولات البحرية الطازجة.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "أسياخ المحار المشوي ولحم الكوب",
           "klook_query": "Kuromon Market food tour"
         },
@@ -881,7 +902,7 @@
           "description": "مؤسسة أوكونومياكي أسطورية في دوتونبوري. معترف بها من قبل دليل ميشلان، يشتهرون باستخدام اليام بدلاً من الدقيق، مما ينتج عنه فطيرة رقيقة بشكل لا يصدق. توقع طابورًا طويلاً، لكن النكهات الغنية تستحق العناء تمامًا.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "يامايمويكي (يام أكونومياكي)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -892,7 +913,7 @@
           "description": "مسقط رأس الكوشيكاتسو (الأسياخ المقلية) المحبوبة في أوساكا، تعمل منذ عام 1929. يمكن للرواد الاستمتاع بمجموعة من اللحوم والخضروات المقلية. تذكر القاعدة الذهبية: ممنوع الغمس المزدوج في الصلصة المشتركة!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "تشكيلة كوشي كاتسو (لحم البقر، لحم الخنزير، جذر اللوتس)",
           "klook_query": "Shinsekai food tour"
         },
@@ -903,7 +924,7 @@
           "description": "يسهل التعرف عليه من خلال لافتة الأخطبوط العملاقة، وهو أحد أشهر أكشاك التاكوياكي في دوتونبوري. تشتهر كرات الأخطبوط المميزة الخاصة بهم بكونها ناعمة ولزجة بشكل لا يصدق من الداخل.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "بيكوري تاكويكي (كرات الأخطبوط المفاجئة)",
           "klook_query": "Dotonbori street food"
         },
@@ -914,7 +935,7 @@
           "description": "مخبأ في زقاق هوزينجي يوكوتشو، يتخصص مطعم الياكينيكو الفاخر هذا في لحم ماتسوساكا البقري. يقوم الرواد بشوي قطع اللحم البقري الرخامية الجميلة الخاصة بهم على الفحم الساخن في غرف طعام خاصة.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "طبق لحم ماتسوساكا الفاخر",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -925,7 +946,7 @@
           "description": "اشتهرت دوليًا بفضل سلسلة نتفليكس، تُدار هذه الإيزاكايا الجذابة في الهواء الطلق من قبل الشيف تويو النشط. الأجواء مكهربة حيث يستخدم تويو موقد اللحام بيديه العاريتين لتحميص قطع ضخمة من التونة.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "تون ستيك مشوي بمشعل",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -936,7 +957,7 @@
           "description": "معلم من معالم أوساكا، يشتهر بالسرطان الميكانيكي المتحرك العملاق فوق مدخله. يكرس هذا المطعم متعدد الطوابق بالكامل للسرطان، المعد بكل طريقة يمكن تخيلها—نيئ، مسلوق، مشوي، وفي وعاء ساخن.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "وجبة كايسيكي بالسرطان",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -954,8 +975,8 @@
       ]
     },
     "bn": {
-      "seo_title": "ওসাকার সেরা খাবার 2026 - রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
-      "seo_description": "ওসাকার সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় খাবার আবিষ্কার করুন। বাজেট মার্কেট থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "seo_title": "ওসাকায় ৮ সেরা খাবার ২০২৬ - মিস করবেন না!",
+      "seo_description": "সেরা রেস্তোরাঁ ও খাবারের জন্য বাস্তব সুপারিশ পান। Klook বুকিং করুন এবং আপনার খাবার পরিকল্পনা করুন এখনই!",
       "page_intro": "ওসাকা গর্বের সাথে 'জাতির রান্নাঘর' হিসাবে পরিচিত এবং 'কুইদাওরে' এর দর্শন গ্রহণ করে—যতক্ষণ না আপনি পড়ে যান ততক্ষণ খান। ডোটোনবোরির নিয়ন-আলোকিত রাস্তা থেকে কুরোমন মার্কেটের ব্যস্ত স্টল পর্যন্ত, শহরের খাদ্য সংস্কৃতি অবিশ্বাস্যভাবে সুস্বাদু।",
       "items": [
         {
@@ -965,7 +986,7 @@
           "description": "'ওসাকার রান্নাঘর' হিসেবে পরিচিত, এই আচ্ছাদিত বাজারে ১৫০টিরও বেশি স্টল রয়েছে যা শীর্ষ মানের সামুদ্রিক খাবার এবং মাংস বিক্রি করে। গ্রিলড স্ক্যালপস এবং প্রিমিয়াম কোবে গরুর মাংসের স্ক্যুয়ারগুলির নমুনা নিতে করিডোর দিয়ে ঘুরে বেড়ান।",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "গ্রিলড স্ক্যালপস এবং কোবে বিফ স্কিউয়ার",
           "klook_query": "Kuromon Market food tour"
         },
@@ -976,7 +997,7 @@
           "description": "ডোটোনবোরিতে একটি কিংবদন্তি ওকোনোমিয়াকি প্রতিষ্ঠান। মিশেলিন গাইড দ্বারা স্বীকৃত, তারা তাদের ব্যাটারে ময়দার পরিবর্তে ইয়াম ব্যবহার করার জন্য বিখ্যাত। একটি দীর্ঘ লাইনের আশা করুন, তবে স্বাদটি এর জন্য মূল্যবান।",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "যামাইমোয়াকী (যাম ওকোনোমিয়াকি)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -987,7 +1008,7 @@
           "description": "ওসাকার প্রিয় কুশিকাৎসু (ডিপ-ফ্রাইড স্ক্যুয়ার) এর জন্মস্থান, 1929 সাল থেকে কাজ করছে। ডিনাররা নিখুঁতভাবে রুটিযুক্ত এবং ভাজা মাংস এবং শাকসবজি উপভোগ করতে পারে। সুবর্ণ নিয়মটি মনে রাখবেন: সাধারণ সসে ডাবল-ডুবানো কঠোরভাবে নিষিদ্ধ!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "কুশিকাতসু অ্যাসর্টমেন্ট (গরুর মাংস, শূকর, লটুস রুট)",
           "klook_query": "Shinsekai food tour"
         },
@@ -998,7 +1019,7 @@
           "description": "দোকানের সামনের অংশে বিশাল অক্টোপাসের চিহ্ন দ্বারা সহজেই দেখা যায়, এটি ডোটোনবোরির অন্যতম বিখ্যাত তাকোয়াকি স্ট্যান্ড। তাদের স্বাক্ষর অক্টোপাস বলগুলি ভিতরে অবিশ্বাস্যভাবে নরম হওয়ার জন্য বিখ্যাত।",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "বিক্কুরি তাকোয়াকি (সারপ্রাইজ অক্টোপাস বল)",
           "klook_query": "Dotonbori street food"
         },
@@ -1009,7 +1030,7 @@
           "description": "হোজেনজি ইয়োকোচো গলিতে লুকানো, এই প্রিমিয়াম ইয়াকিনিকু রেস্তোরাঁটি মাতসুসাকা গরুর মাংসে বিশেষজ্ঞ। ডিনাররা ব্যক্তিগত ডাইনিং রুমে গরম কয়লার উপর তাদের নিজস্ব সুন্দর মার্বেল করা গরুর মাংস গ্রিল করে।",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "মাতসুসাকা বিফ প্রিমিয়াম প্ল্যাটার",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -1020,7 +1041,7 @@
           "description": "নেটফ্লিক্সের স্ট্রিট ফুড সিরিজ দ্বারা আন্তর্জাতিকভাবে বিখ্যাত, কিওবাশিতে এই ক্যারিশম্যাটিক ওপেন-এয়ার ইজাকায়াটি এনার্জেটিক শেফ টয়ো দ্বারা পরিচালিত। বায়ুমণ্ডলটি বৈদ্যুতিক কারণ টয়ো তার খালি হাতে টুনা বিশাল খণ্ডগুলিকে পুড়িয়ে ফেলার জন্য ব্লোটর্চ ব্যবহার করে।",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "ব্লোটর্চ সিয়ারড টুনা (মাগুরো)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -1031,7 +1052,7 @@
           "description": "একটি ওসাকা ল্যান্ডমার্ক, তার প্রবেশদ্বারের উপরে দৈত্যাকার, চলমান যান্ত্রিক কাঁকড়ার জন্য বিখ্যাত। এই বহুতল রেস্তোরাঁটি সম্পূর্ণভাবে কাঁকড়ার জন্য নিবেদিত, প্রতিটি কল্পনাযোগ্য উপায়ে প্রস্তুত—কাঁচা, সেদ্ধ এবং গ্রিল করা।",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "ক্র্যাব কাইসেকি সেট মিল",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },
@@ -1049,8 +1070,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшая еда в Осаке 2026 — Гид по ресторанам и уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Осаке. От бюджетных рынков до высокой кухни — со ссылками на бронирование.",
+      "seo_title": "10 Лучших ресторанов Осаки 2026 — Обязательно попробуйте!",
+      "seo_description": "Сэкономьте время с реальными рекомендациями! Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Осака с гордостью носит название «Кухня нации» и придерживается философии «куидаорэ» — есть до упаду. От освещенных неоном улиц Дотонбори до шумных прилавков рынка Куромон, культура питания города невероятно вкусна.",
       "items": [
         {
@@ -1060,7 +1081,7 @@
           "description": "Известный как «Кухня Осаки», этот крытый рынок насчитывает более 150 прилавков, торгующих морепродуктами и мясом высочайшего качества. Прогуляйтесь по проходам, чтобы попробовать жареные морские гребешки и шашлыки из премиальной говядины Кобе.",
           "image_keyword": "kuromon market osaka seafood",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Шашлычки из гребешков и говядины Кобе",
           "klook_query": "Kuromon Market food tour"
         },
@@ -1071,7 +1092,7 @@
           "description": "Легендарное заведение окономияки в Дотонбори. Признанные гидом Мишлен, они славятся тем, что используют ямс вместо муки в жидком тесте, в результате чего получается невероятно пушистый блин. Ожидайте длинную очередь, но вкус того стоит.",
           "image_keyword": "osaka okonomiyaki mizuno",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Ямаимояки (ямский окономияки)",
           "klook_query": "Osaka Okonomiyaki experience"
         },
@@ -1082,7 +1103,7 @@
           "description": "Родина любимого осакского кусикацу (шашлычки во фритюре), работающая с 1929 года. Посетители могут насладиться разнообразным мясом и овощами. Помните золотое правило: двойное макание в общий соус строго запрещено!",
           "image_keyword": "kushikatsu daruma shinsekai",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Ассорти кушикацу (говядина, свинина, корень лотоса)",
           "klook_query": "Shinsekai food tour"
         },
@@ -1093,7 +1114,7 @@
           "description": "Этот знаменитый киоск с такояки в Дотонбори легко узнать по огромному знаку осьминога на витрине. Их фирменные шарики из осьминога славятся невероятной мягкостью внутри и щедрым слоем хлопьев бонито.",
           "image_keyword": "takoyaki cooking osaka dotonbori",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Биккури такояки (сюрпризные шарики с осьминогом)",
           "klook_query": "Dotonbori street food"
         },
@@ -1104,7 +1125,7 @@
           "description": "Спрятанный в переулке Хозендзи Ёкочо, этот ресторан якинику премиум-класса специализируется на говядине Мацусака. Посетители сами жарят свои кусочки говядины на горячих углях в отдельных обеденных залах.",
           "image_keyword": "matsusaka beef yakiniku marble",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥5,000–10,000",
           "must_try": "Премиум набор говядины Матсусака",
           "klook_query": "Yakiniku M Osaka reservation"
         },
@@ -1115,7 +1136,7 @@
           "description": "Ставшая всемирно известной благодаря сериалу Уличная еда на Netflix, эта харизматичная изакая под открытым небом управляется энергичным шеф-поваром Тойо. Атмосфера наэлектризована, когда Тойо голыми руками использует паяльную лампу, чтобы обжарить огромные куски тунца.",
           "image_keyword": "izakaya toyo osaka tuna",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥4,000–8,000",
           "must_try": "Тунец, обожженный горелкой (магуро)",
           "klook_query": "Kyobashi Izakaya tour"
         },
@@ -1126,7 +1147,7 @@
           "description": "Достопримечательность Осаки, известная гигантским движущимся механическим крабом над входом. Этот многоэтажный ресторан полностью посвящен крабам, приготовленным всеми мыслимыми способами — сырым, вареным и на гриле.",
           "image_keyword": "kani doraku crab sign osaka",
           "star_rating": 4.3,
-          "price_range": "$$$",
+          "price_range": "¥300–600",
           "must_try": "Крабовый набор кэйсэки",
           "klook_query": "Kani Doraku Osaka meal voucher"
         },

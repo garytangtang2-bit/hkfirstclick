@@ -2,9 +2,9 @@
   "city_slug": "santorini",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Santorini 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Santorini. Find opening hours, ticket prices and booking links for Santorini's top landmarks.",
-      "page_intro": "Santorini, a stunning island in the Aegean Sea, is renowned for its breathtaking sunsets, white-washed buildings, and crystal-clear waters. This picturesque destination offers a perfect blend of relaxation and exploration, with its rich history, vibrant culture, and awe-inspiring landscapes. Visitors can enjoy the culinary delights, unique local shops, and ancient ruins, making Santorini a must-visit for any traveler seeking beauty and adventure.",
+      "seo_title": "8 Must-See Attractions in Santorini 2026 - Complete Guide",
+      "seo_description": "Discover top Santorini attractions with tickets, hours, and insider tips. Book easily with Klook and start your adventure today!",
+      "page_intro": "Discover the enchanting allure of Santorini, where iconic landmarks like Oia Village and Fira Town meet the ancient wonders of Akrotiri. This island paradise invites you to explore its stunning vistas and rich heritage—book your unforgettable experience via Klook!",
       "items": [
         {
           "id": "oia",
@@ -103,12 +103,16 @@
           "best_time": "afternoon",
           "klook_query": "Santorini Wine Museum tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Santorini?",
+      "faq_q2": "Do I need tickets for attractions in Santorini?",
+      "faq_a1_suffix": " Oia Village, Fira Town, and Akrotiri Archaeological Site",
+      "faq_a2": "Yes, many attractions in Santorini require tickets. You can conveniently purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年聖托里尼的熱門景點 — 票務、提示及完整指南",
-      "seo_description": "探索聖托里尼最佳景點。查找聖托里尼頂級地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "聖托里尼是愛琴海上一個令人驚嘆的島嶼，以其壯觀的日落、白色建築和清澈的海水而聞名。這個如畫的目的地提供完美的放鬆和探索的結合，擁有豐富的歷史、充滿活力的文化和令人驚嘆的景觀。遊客可以享受美食、獨特的當地商店和古代遺跡，讓聖托里尼成為任何尋求美麗和冒險的旅行者必訪之地。",
+      "seo_title": "2026年聖托里尼8大必看景點 — 完整指南",
+      "seo_description": "獲取聖托里尼熱門景點的票務、開放時間及內幕提示，透過Klook輕鬆預訂，開始你的夢幻之旅！",
+      "page_intro": "聖托里尼，這個愛琴海的明珠，以其壯麗的日落、迷人的白色建築和碧藍的海水而聞名。探索如Oia村、Fira鎮和阿克羅蒂里考古遺址等標誌性景點，讓你沉浸在這片美麗的土地上。立即通過Klook預訂，省去排隊的煩惱，盡情享受你的旅程！",
       "items": [
         {
           "id": "oia",
@@ -206,12 +210,16 @@
           "best_time": "afternoon",
           "klook_query": "Santorini Wine Museum tickets"
         }
-      ]
+      ],
+      "faq_q1": "聖托里尼有哪些熱門景點？",
+      "faq_q2": "我需要購票進入聖托里尼的景點嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，大多數景點都需要購票。建議你透過Klook提前購票，以便輕鬆入場。"
     },
     "ja": {
-      "seo_title": "2026年サントリーニの観光名所 — チケット、ヒント＆完全ガイド",
-      "seo_description": "サントリーニの最高の観光名所を探索しましょう。サントリーニの主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "サントリーニはエーゲ海に浮かぶ美しい島で、その息を呑むような夕日、白い建物、澄んだ海で知られています。この絵のような目的地は、リラクゼーションと探検の完璧な組み合わせを提供し、豊かな歴史、活気ある文化、そして驚くべき風景を持っています。訪問者は美食、ユニークな地元のショップ、古代の遺跡を楽しむことができ、美しさと冒険を求める旅行者にとってサントリーニは必見の場所です。",
+      "seo_title": "2026年サントリーニの必見観光名所8選 — 完全ガイド",
+      "seo_description": "サントリーニの観光名所のチケット、営業時間、インサイダー情報をチェック！Klookで予約して素晴らしい旅を始めましょう。",
+      "page_intro": "サントリーニの魅力は、オイアの美しい村やフィラの活気ある町、アクロティリの古代遺跡にあります。これらの名所を巡ることで、忘れられない体験が待っています。行列を避けて、Klookで予約しましょう！",
       "items": [
         {
           "id": "oia",
@@ -309,12 +317,16 @@
           "best_time": "afternoon",
           "klook_query": "Santorini Wine Museum tickets"
         }
-      ]
+      ],
+      "faq_q1": "サントリーニの主な観光名所は何ですか？",
+      "faq_q2": "サントリーニの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見の観光地です。",
+      "faq_a2": "はい、いくつかの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 산토리니의 주요 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "산토리니의 최고의 명소를 탐험하세요. 산토리니의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
-      "page_intro": "산토리니는 에게 해에 있는 멋진 섬으로, 숨막히는 일몰, 하얀 건물, 맑은 바다로 유명합니다. 이 그림 같은 목적지는 풍부한 역사, 활기찬 문화, 감탄을 자아내는 풍경과 함께 완벽한 휴식과 탐험의 조화를 제공합니다. 방문객들은 미식 즐기기, 독특한 지역 상점, 고대 유적지를 즐기며, 산토리니는 아름다움과 모험을 찾는 여행자에게 꼭 방문해야 할 곳입니다.",
+      "seo_title": "2026년 산토리니의 8대 필수 명소 — 완벽 가이드",
+      "seo_description": "산토리니의 티켓, 운영 시간, 내부 팁을 확인하고 Klook에서 예약하세요. 지금 여행 계획을 세워보세요!",
+      "page_intro": "산토리니는 에게 해의 보석으로, 오이아 마을의 환상적인 일몰과 피라 타운의 매력적인 거리, 아크로티리 고고학 유적지가 기다리고 있습니다. 이곳에서 잊지 못할 경험을 쌓고, Klook을 통해 간편하게 예약하세요.",
       "items": [
         {
           "id": "oia",
@@ -412,12 +424,16 @@
           "best_time": "afternoon",
           "klook_query": "Santorini Wine Museum tickets"
         }
-      ]
+      ],
+      "faq_q1": "산토리니의 주요 명소는 무엇인가요?",
+      "faq_q2": "산토리니의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 많은 명소는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리하게 입장할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Attractions incontournables à Santorin 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Santorin. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Santorin.",
-      "page_intro": "Santorin, une île magnifique dans la mer Égée, est réputée pour ses couchers de soleil à couper le souffle, ses bâtiments blanchis à la chaux et ses eaux cristallines. Cette destination pittoresque offre un mélange parfait de détente et d'exploration, avec son histoire riche, sa culture vibrante et ses paysages à couper le souffle. Les visiteurs peuvent profiter des délices culinaires, des boutiques locales uniques et des ruines anciennes, faisant de Santorin un incontournable pour tout voyageur en quête de beauté et d'aventure.",
+      "seo_title": "Top 8 Attractions à Santorin 2026 — Guide Complet",
+      "seo_description": "Explorez les meilleures attractions de Santorin : horaires, prix, conseils et liens Klook pour réserver vos billets. Planifiez votre visite dès maintenant!",
+      "page_intro": "Découvrez Santorin, l'île des merveilles aux couchers de soleil enchanteurs et aux villages pittoresques comme Oia et Fira. Explorez des sites emblématiques tels qu'Akrotiri, tout en savourant la cuisine locale. Évitez les files d'attente et réservez via Klook pour une expérience inoubliable.",
       "items": [
         {
           "id": "oia",
@@ -515,10 +531,14 @@
           "best_time": "afternoon",
           "klook_query": "Santorini Wine Museum tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Santorin ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Santorin ?",
+      "faq_a1_suffix": " font partie des incontournables.",
+      "faq_a2": "Oui, de nombreuses attractions nécessitent des billets. Pour faciliter votre visite, pensez à réserver vos entrées à l'avance sur Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Santorini 2026 — Entradas, Consejos y Guía Completa",
+      "seo_title": "Las 10 Mejores Atracciones en Santorini 2026",
       "seo_description": "Explora las mejores atracciones de Santorini. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Santorini.",
       "page_intro": "Santorini, una impresionante isla en el mar Egeo, es famosa por sus impresionantes atardeceres, edificios encalados y aguas cristalinas. Este pintoresco destino ofrece una mezcla perfecta de relajación y exploración, con su rica historia, vibrante cultura y paisajes asombrosos. Los visitantes pueden disfrutar de delicias culinarias, tiendas locales únicas y ruinas antiguas, haciendo de Santorini un lugar imprescindible para cualquier viajero en busca de belleza y aventura.",
       "items": [
@@ -621,7 +641,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Santorini 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Top 10 Atraksi Santorini 2026 — Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Santorini. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Santorini.",
       "page_intro": "Santorini, sebuah pulau menakjubkan di Laut Aegea, terkenal dengan matahari terbenam yang menakjubkan, bangunan bercat putih, dan air yang jernih. Destinasi yang indah ini menawarkan kombinasi sempurna antara relaksasi dan eksplorasi, dengan sejarah yang kaya, budaya yang hidup, dan pemandangan yang mengagumkan. Para pengunjung dapat menikmati hidangan kuliner, toko-toko lokal yang unik, dan reruntuhan kuno, menjadikan Santorini tempat yang wajib dikunjungi bagi setiap pelancong yang mencari keindahan dan petualangan.",
       "items": [
@@ -827,7 +847,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Santorini 2026 - Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Santorini 2026 - Guia e Dicas",
       "seo_description": "Explore as melhores atrações de Santorini. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Santorini.",
       "page_intro": "Santorini, uma deslumbrante ilha no Mar Egeu, é famosa por seus espetaculares pores do sol, edifícios caiados de branco e águas cristalinas. Este destino pitoresco oferece uma mistura perfeita de relaxamento e exploração, com sua rica história, cultura vibrante e paisagens de tirar o fôlego. Os visitantes podem desfrutar das delícias culinárias, lojas locais únicas e ruínas antigas, tornando Santorini um destino imperdível para qualquer viajante em busca de beleza e aventura.",
       "items": [
@@ -930,7 +950,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في سانتوريني 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في سانتوريني 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في سانتوريني. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم سانتوريني.",
       "page_intro": "سانتوريني، جزيرة رائعة في بحر إيجه، تشتهر بغروب الشمس المذهل، والمباني البيضاء، والمياه الصافية. توفر هذه الوجهة الخلابة مزيجًا مثاليًا من الاسترخاء والاستكشاف، مع تاريخها الغني، وثقافتها النابضة بالحياة، والمناظر الطبيعية المذهلة. يمكن للزوار الاستمتاع بالمأكولات الشهية، والمحلات المحلية الفريدة، والخرائب القديمة، مما يجعل سانتوريني وجهة لا بد من زيارتها لأي مسافر يبحث عن الجمال والمغامرة.",
       "items": [
@@ -1033,8 +1053,8 @@
       ]
     },
     "bn": {
-      "seo_title": "সেন্টোরিনিতে শীর্ষ আকর্ষণ ২০২৬ - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "সেন্টোরিনির সেরা আকর্ষণগুলি আবিষ্কার করুন। সেন্টোরিনির শীর্ষ স্থাপনার জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "সেন্টোরিনির ২০২৬ সালের শীর্ষ ৮ আকর্ষণ - সম্পূর্ণ গাইড",
+      "seo_description": "সেন্টোরিনির সেরা আকর্ষণগুলি আবিষ্কার করুন। টিকিট, খোলার সময় ও Klook বুকিং লিঙ্ক পেতে আমাদের গাইডটি দেখুন!",
       "page_intro": "সেন্টোরিনি, এজিয়ান সাগরে একটি চমত্কার দ্বীপ, এর অসাধারণ সূর্যাস্ত, সাদা ধোয়া ভবন এবং স্বচ্ছ জলের জন্য পরিচিত। এই চিত্রময় গন্তব্যটি বিশ্রাম এবং অন্বেষণের একটি নিখুঁত মিশ্রণ প্রদান করে, এর সমৃদ্ধ ইতিহাস, প্রাণবন্ত সংস্কৃতি এবং শ্বাসরুদ্ধকর প্রাকৃতিক দৃশ্যের সাথে। দর্শকরা রন্ধনসম্পর্কীয় স্বাদ, অনন্য স্থানীয় দোকান এবং প্রাচীন ধ্বংসাবশেষ উপভোগ করতে পারেন, যা সেন্টোরিনিকে যেকোনো ভ্রমণকারীর জন্য একটি অবশ্যই-দেখা স্থান তৈরি করে যারা সৌন্দর্য এবং অ্যাডভেঞ্চারের সন্ধানে।",
       "items": [
         {
@@ -1136,8 +1156,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Санторини 2026 — Билеты, Советы и Полное Руководство",
-      "seo_description": "Исследуйте лучшие достопримечательности Санторини. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Санторини.",
+      "seo_title": "10 Лучших Достопримечательностей Санторини 2026",
+      "seo_description": "Откройте для себя часы работы, цены и советы по бронированию на Klook. Исследуйте Санторини — ваши незабываемые приключения ждут!",
       "page_intro": "Санторини, потрясающий остров в Эгейском море, славится своими захватывающими закатами, белоснежными зданиями и кристально чистыми водами. Это живописное направление предлагает идеальное сочетание отдыха и исследований, благодаря своей богатой истории, яркой культуре и потрясающим пейзажам. Посетители могут насладиться кулинарными изысками, уникальными местными магазинами и древними руинами, что делает Санторини обязательным местом для посещения для любого путешественника, ищущего красоты и приключений.",
       "items": [
         {

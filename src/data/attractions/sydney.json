@@ -2,9 +2,9 @@
   "city_slug": "sydney",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Sydney 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Sydney. Find opening hours, ticket prices and booking links for Sydney's top landmarks.",
-      "page_intro": "Sydney, Australia’s largest city, is renowned for its stunning harbour, iconic landmarks, and vibrant culture. With a rich blend of history and modernity, visitors can enjoy beautiful beaches, world-class dining, and a variety of attractions. Whether you're interested in art, nature, or architecture, Sydney has something for everyone.",
+      "seo_title": "8 Must-See Attractions in Sydney 2026 - Complete Guide",
+      "seo_description": "Discover Sydney's top attractions with tickets, opening hours, and insider tips. Book your adventure now with Klook!",
+      "page_intro": "Dive into Sydney's vibrant scene, where the stunning Sydney Opera House and the iconic Harbour Bridge await you. From sun-soaked Bondi Beach to hidden gems, there's adventure at every turn. Skip the lines and book via Klook for an unforgettable experience!",
       "items": [
         {
           "id": "sydney-opera-house",
@@ -90,12 +90,16 @@
           "best_time": "morning",
           "klook_query": "Royal Botanic Gardens tours"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Sydney?",
+      "faq_q2": "Do I need tickets for attractions in Sydney?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Sydney require tickets for entry. You can easily purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年悉尼顶级景点 - 门票、提示与完整指南",
-      "seo_description": "探索悉尼最佳景点。查找开放时间、门票价格和悉尼顶级地标的预订链接。",
-      "page_intro": "澳大利亚最大的城市悉尼以其令人惊叹的港口、标志性地标和生动的文化而闻名。凭借丰富的历史与现代融合，游客可以享受美丽的海滩、一流的餐饮和各种景点。无论您对艺术、自然还是建筑感兴趣，悉尼都有适合每个人的东西。",
+      "seo_title": "2026年悉尼8大必看景點 - 完整指南與秘訣",
+      "seo_description": "獲取悉尼景點的門票、開放時間和內部提示，還可通過Klook輕鬆預訂，立即計劃您的旅行！",
+      "page_intro": "探索悉尼這座充滿活力的城市，擁有壯觀的悉尼歌劇院、壯麗的悉尼海港大橋和迷人的邦迪海灘。無論是藝術愛好者還是自然探索者，悉尼都能滿足您的需求。立即透過Klook預訂，輕鬆跳過排隊！",
       "items": [
         {
           "id": "sydney-opera-house",
@@ -181,12 +185,16 @@
           "best_time": "morning",
           "klook_query": "Royal Botanic Gardens tours"
         }
-      ]
+      ],
+      "faq_q1": "悉尼的熱門景點有哪些？",
+      "faq_q2": "我需要購買悉尼景點的門票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要門票，建議您透過Klook提前購買，以便省時省力。"
     },
     "ja": {
-      "seo_title": "2026年シドニーのトップ観光名所 - チケット、ヒント＆完全ガイド",
-      "seo_description": "シドニーの最高の観光名所を探索しましょう。シドニーの主要なランドマークの営業時間、チケット料金、予約リンクを見つけてください。",
-      "page_intro": "オーストラリア最大の都市シドニーは、その美しい港、アイコニックなランドマーク、そして活気ある文化で知られています。歴史と現代が豊かに融合したこの都市では、美しいビーチ、一流のダイニング、さまざまな観光名所を楽しむことができます。アート、自然、建築に興味がある方は、シドニーには誰にでも合うものがあります。",
+      "seo_title": "2026年シドニーの必見観光名所8選 - 完全ガイド",
+      "seo_description": "シドニーのチケット、営業時間、インサイダー情報をチェック。Klookでの予約リンクもあり！今すぐ計画を始めましょう。",
+      "page_intro": "シドニーの魅力的な観光スポットを探索しませんか？シドニーオペラハウスやハーバーブリッジ、ボンダイビーチなど、アイコニックなランドマークが目白押しです。混雑を避けて、Klookでスムーズに予約しましょう！",
       "items": [
         {
           "id": "sydney-opera-house",
@@ -272,12 +280,16 @@
           "best_time": "morning",
           "klook_query": "Royal Botanic Gardens tours"
         }
-      ]
+      ],
+      "faq_q1": "シドニーのおすすめ観光スポットは何ですか？",
+      "faq_q2": "シドニーの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光名所です。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 시드니 최고의 관광명소 - 티켓, 팁 및 완벽한 가이드",
-      "seo_description": "시드니 최고의 관광명소를 탐험하세요. 시드니의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "호주 최대 도시 시드니는 아름다운 항구, 상징적인 랜드마크, 그리고 활기찬 문화로 유명합니다. 역사와 현대가 풍부하게 어우러진 이곳에서 방문객들은 아름다운 해변, 세계적 수준의 식사, 다양한 관광 명소를 즐길 수 있습니다. 예술, 자연 또는 건축에 관심이 있는 경우, 시드니에는 모두를 위한 무언가가 있습니다.",
+      "seo_title": "2026년 시드니 최고의 3대 관광명소 완벽 가이드",
+      "seo_description": "시드니 오페라 하우스, 하버 브리지, 본다이 비치의 티켓, 운영 시간, 팁을 확인하고 Klook에서 예약하세요!",
+      "page_intro": "시드니의 매력적인 명소들로 가득한 여행을 떠나보세요! 시드니 오페라 하우스, 시드니 하버 브리지, 그리고 본다이 비치와 같은 상징적인 랜드마크를 탐험하며 잊지 못할 경험을 만들어보세요. 줄을 서지 않고 Klook을 통해 미리 예약하세요!",
       "items": [
         {
           "id": "sydney-opera-house",
@@ -363,12 +375,16 @@
           "best_time": "morning",
           "klook_query": "Royal Botanic Gardens tours"
         }
-      ]
+      ],
+      "faq_q1": "시드니의 주요 관광지는 무엇인가요?",
+      "faq_q2": "시드니의 관광지에서 티켓이 필요한가요?",
+      "faq_a1_suffix": " 는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "대부분의 관광지에서는 입장 티켓이 필요합니다. Klook을 통해 미리 구매하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Sydney 2026 - Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de Sydney. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Sydney.",
-      "page_intro": "Sydney, la plus grande ville d'Australie, est renommée pour son port époustouflant, ses monuments emblématiques et sa culture vibrante. Avec un riche mélange d'histoire et de modernité, les visiteurs peuvent profiter de belles plages, d'une gastronomie de classe mondiale et d'une variété d'attractions. Que vous soyez intéressé par l'art, la nature ou l'architecture, Sydney a quelque chose à offrir à chacun.",
+      "seo_title": "8 Meilleures Attractions à Sydney 2026 - Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et conseils pour Sydney. Réservez vos billets sur Klook et explorez ces incontournables dès maintenant!",
+      "page_intro": "Découvrez Sydney, une ville où l'énergie moderne rencontre des merveilles naturelles. Des icônes comme l'Opéra de Sydney et le Pont du Port de Sydney aux plages ensoleillées de Bondi, chaque coin de la ville promet une aventure inoubliable. Évitez les files d'attente et réservez via Klook pour profiter pleinement de votre séjour !",
       "items": [
         {
           "id": "sydney-opera-house",
@@ -454,12 +470,16 @@
           "best_time": "morning",
           "klook_query": "Royal Botanic Gardens tours"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Sydney ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Sydney ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets. Réservez facilement vos entrées sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Sídney 2026 - Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Sídney. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Sídney.",
-      "page_intro": "Sídney, la ciudad más grande de Australia, es famosa por su impresionante puerto, sus monumentos icónicos y su vibrante cultura. Con una rica mezcla de historia y modernidad, los visitantes pueden disfrutar de hermosas playas, restaurantes de clase mundial y una variedad de atracciones. Ya sea que te interese el arte, la naturaleza o la arquitectura, Sídney tiene algo para todos.",
+      "seo_title": "8 Mejores Atracciones en Sídney 2026 - Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las atracciones de Sídney. Reserva fácil con Klook y planifica tu visita ahora.",
+      "page_intro": "¡Descubre Sídney, un destino vibrante donde la belleza natural se encuentra con la arquitectura icónica! Desde la majestuosa Ópera de Sídney hasta el emblemático Puente del Puerto, cada rincón tiene su propia historia. No esperes más, salta las filas y reserva a través de Klook.",
       "items": [
         {
           "id": "sydney-opera-house",
@@ -545,10 +565,14 @@
           "best_time": "morning",
           "klook_query": "Royal Botanic Gardens tours"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuáles son las principales atracciones en Sídney?",
+      "faq_q2": "¿Necesito entradas para las atracciones en Sídney?",
+      "faq_a1_suffix": " son algunas de las atracciones que no te puedes perder.",
+      "faq_a2": "Sí, muchas atracciones requieren entradas. Te recomendamos comprar tus boletos anticipadamente en Klook para evitar largas filas."
     },
     "id": {
-      "seo_title": "Top Attractions in Sydney 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "Atraksi Terbaik Sydney 2026: Panduan & Tiket",
       "seo_description": "Explore the best attractions in Sydney. Find opening hours, ticket prices and booking links for Sydney's top landmarks.",
       "page_intro": "Sydney, Australia’s largest city, is renowned for its stunning harbour, iconic landmarks, and vibrant culture. With a rich blend of history and modernity, visitors can enjoy beautiful beaches, world-class dining, and a variety of attractions. Whether you're interested in art, nature, or architecture, Sydney has something for everyone.",
       "items": [
@@ -730,7 +754,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Sydney 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Sydney 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Sydney. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Sydney.",
       "page_intro": "Sydney, a maior cidade da Austrália, é famosa por seu deslumbrante porto, marcos icônicos e cultura vibrante. Com uma rica mistura de história e modernidade, os visitantes podem desfrutar de belas praias, gastronomia de classe mundial e uma variedade de atrações. Seja você um amante da arte, da natureza ou da arquitetura, Sydney tem algo para todos.",
       "items": [
@@ -821,7 +845,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في سيدني 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في سيدني 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في سيدني. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في سيدني.",
       "page_intro": "سيدني، أكبر مدينة في أستراليا، تشتهر بمينائها الرائع، والمعالم الشهيرة، وثقافتها النابضة بالحياة. مع مزيج غني من التاريخ والحداثة، يمكن للزوار الاستمتاع بالشواطئ الجميلة، والمطاعم الراقية، ومجموعة متنوعة من المعالم السياحية. سواء كنت مهتمًا بالفن أو الطبيعة أو العمارة، فإن سيدني لديها شيء للجميع.",
       "items": [
@@ -1003,7 +1027,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Сиднея 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ 10 достопримечательностей Сиднея 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Сиднея. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Сиднея.",
       "page_intro": "Сидней, крупнейший город Австралии, знаменит своей потрясающей гаванью, знаковыми памятниками и яркой культурой. С богатым сочетанием истории и современности, посетители могут наслаждаться красивыми пляжами, ресторанами мирового уровня и разнообразием достопримечательностей. Независимо от того, интересуетесь ли вы искусством, природой или архитектурой, в Сиднее найдется что-то для каждого.",
       "items": [

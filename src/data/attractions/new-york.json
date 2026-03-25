@@ -2,9 +2,9 @@
   "city_slug": "new-york",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in New York 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in New York. Find opening hours, ticket prices and booking links for New York's top landmarks.",
-      "page_intro": "New York City, often referred to as the Big Apple, is a vibrant metropolis known for its iconic skyline, rich history, and diverse culture. From the bustling streets of Manhattan to the serene beauty of Central Park, NYC offers a plethora of attractions that cater to every type of traveler. Whether you're an art enthusiast, a foodie, or a history buff, New York has something unforgettable waiting for you.",
+      "seo_title": "8 Must-See Attractions in New York 2026 - Complete Guide",
+      "seo_description": "Discover top attractions like the Statue of Liberty & Central Park. Get tickets, hours, and insider tips with Klook. Start your adventure today!",
+      "page_intro": "Dive into the heart of New York City, where iconic landmarks like the Statue of Liberty and Central Park await your discovery. From world-class art at The Met to hidden gems around every corner, NYC promises unforgettable experiences. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "statue-of-liberty",
@@ -91,12 +91,16 @@
           "best_time": "morning",
           "klook_query": "High Line walking tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in New York?",
+      "faq_q2": "Do I need tickets for attractions in New York?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions require tickets for entry. To make your visit seamless, consider booking through Klook for easy access."
     },
     "zh": {
-      "seo_title": "2026 年紐約最佳景點 — 票務、提示及完整指南",
-      "seo_description": "探索紐約最佳景點。查找開放時間、票價和紐約頂級地標的預訂鏈接。",
-      "page_intro": "紐約市，常被稱為大蘋果，是一個充滿活力的大都市，以其標誌性的天際線、豐富的歷史和多元的文化而聞名。從繁忙的曼哈頓街道到中央公園的寧靜美景，紐約提供了豐富的景點，滿足各類旅客的需求。無論你是藝術愛好者、美食家還是歷史迷，紐約都有難忘的體驗在等待著你。",
+      "seo_title": "2026 年紐約 8 大必看景點 — 完整指南",
+      "seo_description": "探索紐約的最佳景點，獲取票務、開放時間及內部提示，並透過 Klook 預訂，開啟你的旅程！",
+      "page_intro": "探索紐約市的無窮魅力，從自由女神像的壯觀到中央公園的寧靜，再到大都會藝術博物館的文化瑰寶。這裡的每一個角落都充滿驚喜，讓你體驗到獨特的城市風情。立即透過Klook預訂，輕鬆跳過排隊，享受精彩旅程！",
       "items": [
         {
           "id": "statue-of-liberty",
@@ -182,12 +186,16 @@
           "best_time": "morning",
           "klook_query": "High Line walking tour"
         }
-      ]
+      ],
+      "faq_q1": "紐約市的熱門景點有哪些？",
+      "faq_q2": "在紐約市的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議你使用Klook提前購票，這樣可以節省時間並確保入場。"
     },
     "ja": {
-      "seo_title": "2026年ニューヨークのトップアトラクション - チケット、ヒント、完全ガイド",
-      "seo_description": "ニューヨークの最高のアトラクションを探索しましょう。営業時間、チケット価格、ニューヨークの主要ランドマークの予約リンクを見つけてください。",
-      "page_intro": "ニューヨーク市、通称ビッグアップルは、アイコニックなスカイライン、豊かな歴史、多様な文化で知られる活気ある大都市です。マンハッタンの賑やかな通りからセントラルパークの静かな美しさまで、NYCはあらゆるタイプの旅行者に対応する多くのアトラクションを提供しています。アート愛好家、グルメ、歴史家のいずれであっても、ニューヨークには忘れられない体験が待っています。",
+      "seo_title": "2026年ニューヨークの必見トップアトラクション8選 - 完全ガイド",
+      "seo_description": "チケット、営業時間、インサイダー情報をチェック。Klookでニューヨークの名所を予約して、素晴らしい旅を始めましょう！",
+      "page_intro": "ニューヨーク市は、自由の女神やセントラルパーク、メトロポリタン美術館などの魅力的なランドマークで溢れています。観光名所を訪れる際は、Klookを通じてスムーズに予約し、長い列を避けましょう。",
       "items": [
         {
           "id": "statue-of-liberty",
@@ -273,12 +281,16 @@
           "best_time": "morning",
           "klook_query": "High Line walking tour"
         }
-      ]
+      ],
+      "faq_q1": "ニューヨークの主要な観光名所は何ですか？",
+      "faq_q2": "ニューヨークのアトラクションにはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見のアトラクションです。",
+      "faq_a2": "はい、多くのアトラクションには事前にチケットが必要です。Klookを利用すれば、簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 뉴욕 최고의 관광지 - 티켓, 팁 및 완벽 가이드",
-      "seo_description": "뉴욕 최고의 관광지를 탐험하세요. 운영 시간, 티켓 가격 및 뉴욕의 주요 랜드마크 예약 링크를 찾으세요.",
-      "page_intro": "뉴욕시는 종종 빅 애플이라고 불리며, 상징적인 스카이라인, 풍부한 역사 및 다양한 문화로 잘 알려진 활기찬 대도시입니다. 맨해튼의 분주한 거리에서 센트럴 파크의 고요한 아름다움까지, NYC는 모든 유형의 여행자를 위한 다양한 관광지를 제공합니다. 예술 애호가, 미식가 또는 역사 애호가라면 뉴욕에는 잊을 수 없는 경험이 기다리고 있습니다.",
+      "seo_title": "2026년 뉴욕 최고의 8대 관광지 - 완벽 가이드",
+      "seo_description": "운영 시간, 티켓 가격, 인사이트 팁을 확인하고 Klook에서 예약하세요. 뉴욕의 숨은 보물을 만나보세요!",
+      "page_intro": "뉴욕시는 매력적인 명소로 가득한 도시입니다. 자유의 여신상, 센트럴 파크, 메트로폴리탄 미술관과 같은 상징적인 랜드마크가 여러분을 기다리고 있습니다. 줄 서는 시간을 줄이고 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "statue-of-liberty",
@@ -364,12 +376,16 @@
           "best_time": "morning",
           "klook_query": "High Line walking tour"
         }
-      ]
+      ],
+      "faq_q1": "뉴욕에서 가장 인기 있는 명소는 무엇인가요?",
+      "faq_q2": "뉴욕의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 자유의 여신상, 센트럴 파크, 메트로폴리탄 미술관이 반드시 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광지에는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리하게 이용할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Attractions Principales à New York 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de New York. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation des principaux monuments de New York.",
-      "page_intro": "La ville de New York, souvent appelée la Grande Pomme, est une métropole vibrante connue pour son horizon emblématique, sa riche histoire et sa culture diversifiée. Des rues animées de Manhattan à la beauté sereine de Central Park, NYC offre une pléthore d'attractions qui répondent à tous les types de voyageurs. Que vous soyez passionné d'art, gourmet ou amateur d'histoire, New York a quelque chose d'inoubliable qui vous attend.",
+      "seo_title": "Top 8 Attractions à New York 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et astuces pour les meilleures attractions de New York. Réservez vos billets sur Klook et explorez la ville!",
+      "page_intro": "Découvrez la magie de New York, où chaque coin de rue révèle des trésors emblématiques comme la Statue de la Liberté et Central Park. Ne manquez pas l'occasion d'explorer ces merveilles ; réservez vos billets via Klook pour éviter les files d'attente.",
       "items": [
         {
           "id": "statue-of-liberty",
@@ -455,11 +471,15 @@
           "best_time": "morning",
           "klook_query": "High Line walking tour"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à New York ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à New York ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est conseillé d'acheter des billets à l'avance pour éviter les longues attentes. Vous pouvez les réserver facilement sur Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Nueva York 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Nueva York. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Nueva York.",
+      "seo_title": "Las 10 Mejores Atracciones de Nueva York 2026",
+      "seo_description": "Consigue entradas, horarios y consejos para las atracciones de Nueva York. Reserva fácilmente con Klook y vive una experiencia inolvidable.",
       "page_intro": "La ciudad de Nueva York, a menudo llamada la Gran Manzana, es una metrópoli vibrante conocida por su icónico horizonte, su rica historia y su diversa cultura. Desde las bulliciosas calles de Manhattan hasta la serena belleza de Central Park, NYC ofrece una plétora de atracciones que satisfacen a todo tipo de viajeros. Ya seas un entusiasta del arte, un amante de la comida o un aficionado a la historia, Nueva York tiene algo inolvidable esperándote.",
       "items": [
         {
@@ -549,8 +569,8 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di New York 2026 — Tiket, Tips & Panduan Lengkap",
-      "seo_description": "Jelajahi atraksi terbaik di New York. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas di New York.",
+      "seo_title": "7 Atraksi Terbaik di New York 2026 - Panduan Lengkap",
+      "seo_description": "Temukan tiket, jam buka, dan tips insider untuk atraksi ikonik New York. Pesan sekarang di Klook dan rencanakan petualangan Anda!",
       "page_intro": "Kota New York, sering disebut sebagai Big Apple, adalah metropolis yang ramai dikenal dengan garis langitnya yang ikonik, sejarah yang kaya, dan budaya yang beragam. Dari jalan-jalan ramai Manhattan hingga keindahan tenang Central Park, NYC menawarkan banyak atraksi yang cocok untuk setiap jenis pelancong. Apakah Anda seorang penggemar seni, pecinta kuliner, atau penggemar sejarah, New York memiliki sesuatu yang tak terlupakan menunggu Anda.",
       "items": [
         {
@@ -640,7 +660,7 @@
       ]
     },
     "hi": {
-      "seo_title": "न्यू यॉर्क में शीर्ष आकर्षण 2026 - टिकट, टिप्स और पूर्ण गाइड",
+      "seo_title": "न्यू यॉर्क के शीर्ष 10 आकर्षण 2026 - पूर्ण गाइड",
       "seo_description": "न्यू यॉर्क के सर्वोत्तम आकर्षणों का अन्वेषण करें। न्यू यॉर्क के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
       "page_intro": "न्यू यॉर्क सिटी, जिसे अक्सर बिग एप्पल के नाम से जाना जाता है, एक जीवंत महानगर है जो अपनी आइकोनिक स्काईलाइन, समृद्ध इतिहास और विविध संस्कृति के लिए जाना जाता है। मैनहट्टन की हलचल भरी सड़कों से लेकर सेंट्रल पार्क की शांत सुंदरता तक, NYC हर प्रकार के यात्री के लिए आकर्षणों का खजाना पेश करता है। चाहे आप कला प्रेमी हों, फूडी हों या इतिहास प्रेमी, न्यू यॉर्क में आपके लिए कुछ अविस्मरणीय इंतज़ार कर रहा है।",
       "items": [
@@ -731,7 +751,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Nova York 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Nova York 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Nova York. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Nova York.",
       "page_intro": "A cidade de Nova York, frequentemente chamada de Big Apple, é uma metrópole vibrante conhecida por seu icônico horizonte, rica história e cultura diversificada. Desde as movimentadas ruas de Manhattan até a beleza serena do Central Park, NYC oferece uma infinidade de atrações que atendem a todos os tipos de viajantes. Se você é um entusiasta da arte, um amante da gastronomia ou um fã de história, Nova York tem algo inesquecível esperando por você.",
       "items": [
@@ -822,7 +842,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في نيويورك 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في نيويورك 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في نيويورك. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم نيويورك.",
       "page_intro": "مدينة نيويورك، التي تُعرف غالبًا باسم التفاحة الكبيرة، هي مدينة نابضة بالحياة معروفة بأفقها الشهير وتاريخها الغني وثقافتها المتنوعة. من شوارع مانهاتن الصاخبة إلى جمال سنترال بارك الهادئ، تقدم NYC مجموعة واسعة من المعالم السياحية التي تلبي جميع أنواع المسافرين. سواء كنت من عشاق الفن أو محبي الطعام أو من عشاق التاريخ، فإن نيويورك لديها شيء لا يُنسى ينتظرك.",
       "items": [
@@ -913,7 +933,7 @@
       ]
     },
     "bn": {
-      "seo_title": "নিউইয়র্কের শীর্ষ আকর্ষণ 2026 — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_title": "নিউইয়র্কের শীর্ষ ১০ আকর্ষণ 2026 — টিপস ও টিকিট",
       "seo_description": "নিউইয়র্কের সেরা আকর্ষণগুলি অন্বেষণ করুন। নিউইয়র্কের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
       "page_intro": "নিউইয়র্ক সিটি, যা প্রায়শই বিগ অ্যাপল নামে পরিচিত, একটি প্রাণবন্ত মহানগরী যা এর আইকনিক স্কাইলাইন, সমৃদ্ধ ইতিহাস এবং বৈচিত্র্যময় সংস্কৃতির জন্য পরিচিত। ম্যানহাটনের ব্যস্ত রাস্তা থেকে সেন্ট্রাল পার্কের শান্ত সৌন্দর্য পর্যন্ত, NYC প্রতিটি ধরনের ভ্রমণকারীর জন্য আকর্ষণের একটি বিপুল পরিমাণ অফার করে। আপনি যদি একজন শিল্প প্রেমী, খাবারের শৌখিন বা ইতিহাস প্রেমী হন, নিউইয়র্কে আপনার জন্য কিছু অবিস্মরণীয় অপেক্ষা করছে।",
       "items": [
@@ -1004,7 +1024,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей Нью-Йорка 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ 10 достопримечательностей Нью-Йорка 2026",
       "seo_description": "Изучите лучшие достопримечательности Нью-Йорка. Найдите часы работы, цены на билеты и ссылки для бронирования на основные достопримечательности Нью-Йорка.",
       "page_intro": "Нью-Йорк, часто называемый Большим Яблоком, — это яркий мегаполис, известный своим знаковым горизонтом, богатой историей и разнообразной культурой. От шумных улиц Манхэттена до спокойной красоты Центрального парка, NYC предлагает множество достопримечательностей, которые подойдут каждому типу путешественника. Если вы любите искусство, гастрономию или историю, в Нью-Йорке вас ждет нечто незабываемое.",
       "items": [

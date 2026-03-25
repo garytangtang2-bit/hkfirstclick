@@ -2,9 +2,9 @@
   "city_slug": "edinburgh",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Edinburgh 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Edinburgh. Find opening hours, ticket prices and booking links for Edinburgh's top landmarks.",
-      "page_intro": "Edinburgh, the capital of Scotland, is a city steeped in history and culture. With its stunning architecture, rich heritage, and vibrant arts scene, there’s something for everyone to enjoy. From the iconic Edinburgh Castle to the charming streets of the Old Town, this city offers a unique blend of the old and the new, making it a must-visit destination for travelers.",
+      "seo_title": "8 Must-See Attractions in Edinburgh 2026 - Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Edinburgh's top sites. Book now with Klook for an unforgettable adventure!",
+      "page_intro": "Discover the enchanting allure of Edinburgh, where history and culture come alive at every turn. From the majestic Edinburgh Castle to the breathtaking vistas atop Arthur's Seat, this city is a treasure trove of iconic landmarks and hidden gems. Skip the lines and book your adventure via Klook!",
       "items": [
         {
           "id": "edinburgh-castle",
@@ -102,12 +102,16 @@
           "best_time": "evening",
           "klook_query": "Edinburgh Christmas Market"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Edinburgh?",
+      "faq_q2": "Do I need tickets for attractions in Edinburgh?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Edinburgh require tickets for entry. You can easily purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "愛丁堡2026年最佳景點 — 門票、提示與完整指南",
-      "seo_description": "探索愛丁堡最佳景點。查找開放時間、票價和愛丁堡著名地標的預訂鏈接。",
-      "page_intro": "愛丁堡，蘇格蘭的首都，這座城市充滿了歷史和文化。擁有壯觀的建築、豐富的遺產和充滿活力的藝術氛圍，這裡有適合每個人享受的東西。從標誌性的愛丁堡城堡到迷人的古城街道，這座城市提供了古老與現代的獨特結合，成為旅行者必訪的目的地。",
+      "seo_title": "愛丁堡2026年必看景點 — 8大最佳景點完整指南",
+      "seo_description": "獲取愛丁堡景點的門票、開放時間和內部提示，並透過Klook輕鬆預訂，立即計劃您的旅行！",
+      "page_intro": "探索愛丁堡的迷人魅力，這座城市以其壯麗的愛丁堡城堡、壯觀的亞瑟座和華麗的霍利魯德宮而聞名。無論是歷史愛好者還是藝術迷，這裡都能滿足您的需求。立即透過Klook預訂，輕鬆享受這些精彩景點！",
       "items": [
         {
           "id": "edinburgh-castle",
@@ -205,12 +209,16 @@
           "best_time": "evening",
           "klook_query": "Edinburgh Christmas Market"
         }
-      ]
+      ],
+      "faq_q1": "愛丁堡有哪些熱門景點？",
+      "faq_q2": "我需要購票進入愛丁堡的景點嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，您可以透過Klook輕鬆購票，避免排隊，享受無憂的旅行體驗。"
     },
     "ja": {
-      "seo_title": "エディンバラのトップアトラクション2026 — チケット、ヒント＆完全ガイド",
-      "seo_description": "エディンバラの最高のアトラクションを探索しましょう。エディンバラの主要なランドマークの営業時間、チケット価格、予約リンクを見つけることができます。",
-      "page_intro": "エディンバラはスコットランドの首都で、歴史と文化にあふれた街です。美しい建築、豊かな遺産、活気に満ちた芸術シーンがあり、誰もが楽しめるものがあります。象徴的なエディンバラ城から魅力的な旧市街の通りまで、この街は古いものと新しいものがユニークに融合した訪れるべき目的地です。",
+      "seo_title": "エディンバラの必見アトラクション8選 2026 - 完全ガイド",
+      "seo_description": "エディンバラのチケット、営業時間、インサイダー情報をチェック。Klookで簡単予約！今すぐ計画を始めましょう。",
+      "page_intro": "エディンバラは、歴史的な魅力と現代の活気が融合した素晴らしい観光地です。エディンバラ城やアーサーズ・シート、ホリールード宮殿など、訪れるべき名所が満載です。行列を避けて、Klookでスムーズに予約しましょう！",
       "items": [
         {
           "id": "edinburgh-castle",
@@ -308,12 +316,16 @@
           "best_time": "evening",
           "klook_query": "Edinburgh Christmas Market"
         }
-      ]
+      ],
+      "faq_q1": "エディンバラの主な観光名所は何ですか？",
+      "faq_q2": "エディンバラの観光地にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光地には入場チケットが必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 에든버러 주요 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "에든버러 최고의 명소를 탐험하세요. 에든버러의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾을 수 있습니다.",
-      "page_intro": "스코틀랜드의 수도인 에든버러는 역사와 문화가 풍부한 도시입니다. 멋진 건축물, 풍부한 유산, 활기찬 예술 현장이 있어 모든 이가 즐길 수 있는 것들이 있습니다. 상징적인 에든버러 성부터 매력적인 구시가지의 거리까지, 이 도시는 오래된 것과 새로운 것의 독특한 조화를 제공하여 여행자들이 반드시 방문해야 할 목적지입니다.",
+      "seo_title": "2026년 에든버러 8대 필수 명소 완벽 가이드",
+      "seo_description": "에든버러의 주요 명소 운영 시간, 티켓 가격, Klook 예약 링크를 확인하고 여행을 계획하세요!",
+      "page_intro": "에든버러는 역사와 문화가 숨 쉬는 도시로, 에든버러 성, 아서의 자리, 홀리루드 궁전 등 매력적인 명소가 가득합니다. 이곳의 독특한 매력을 경험하고 싶다면 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "edinburgh-castle",
@@ -411,12 +423,16 @@
           "best_time": "evening",
           "klook_query": "Edinburgh Christmas Market"
         }
-      ]
+      ],
+      "faq_q1": "에든버러의 주요 명소는 무엇인가요?",
+      "faq_q2": "에든버러의 명소에 입장하려면 티켓이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 에든버러의 주요 명소들은 대부분 티켓이 필요합니다. Klook을 통해 미리 예약하면 대기 시간을 줄일 수 있습니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Édimbourg 2026 — Billets, Astuces & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions à Édimbourg. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites d'Édimbourg.",
-      "page_intro": "Édimbourg, la capitale de l'Écosse, est une ville riche en histoire et en culture. Avec son architecture époustouflante, son riche patrimoine et sa scène artistique dynamique, il y en a pour tous les goûts. De l'emblématique château d'Édimbourg aux charmantes rues de la vieille ville, cette ville offre un mélange unique d'ancien et de nouveau, en faisant une destination incontournable pour les voyageurs.",
+      "seo_title": "8 Must-See Attractions à Édimbourg 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et astuces pour Édimbourg. Réservez facilement vos billets avec Klook et explorez les trésors cachés de la ville!",
+      "page_intro": "Découvrez Édimbourg, une ville fascinante où l'histoire rencontre la modernité. Explorez des sites emblématiques comme le château d'Édimbourg et Arthur's Seat, tout en profitant de l'atmosphère vibrante de la ville. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "edinburgh-castle",
@@ -514,11 +530,15 @@
           "best_time": "evening",
           "klook_query": "Edinburgh Christmas Market"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Édimbourg ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Édimbourg ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets. Pensez à réserver vos entrées à l'avance sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Edimburgo 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en Edimburgo. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales puntos de interés de Edimburgo.",
+      "seo_title": "Las 8 Mejores Atracciones de Edimburgo 2026",
+      "seo_description": "Descubre horarios, precios y consejos para las atracciones de Edimburgo. Reserva fácil con Klook y ¡planifica tu aventura hoy!",
       "page_intro": "Edimburgo, la capital de Escocia, es una ciudad llena de historia y cultura. Con su impresionante arquitectura, rica herencia y vibrante escena artística, hay algo para que todos disfruten. Desde el icónico Castillo de Edimburgo hasta las encantadoras calles de la Ciudad Vieja, esta ciudad ofrece una mezcla única de lo antiguo y lo nuevo, convirtiéndola en un destino imprescindible para los viajeros.",
       "items": [
         {
@@ -620,7 +640,7 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Edinburgh 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "Atraksi Terbaik Edinburgh 2026: Panduan & Tiket",
       "seo_description": "Explore the best attractions in Edinburgh. Find opening hours, ticket prices and booking links for Edinburgh's top landmarks.",
       "page_intro": "Edinburgh, the capital of Scotland, is a city steeped in history and culture. With its stunning architecture, rich heritage, and vibrant arts scene, there’s something for everyone to enjoy. From the iconic Edinburgh Castle to the charming streets of the Old Town, this city offers a unique blend of the old and the new, making it a must-visit destination for travelers.",
       "items": [
@@ -723,7 +743,7 @@
       ]
     },
     "hi": {
-      "seo_title": "एडिनबर्ग के शीर्ष आकर्षण 2026 - टिकट, सुझाव और संपूर्ण गाइड",
+      "seo_title": "एडिनबर्ग के शीर्ष 10 आकर्षण 2026 - संपूर्ण गाइड",
       "seo_description": "एडिनबर्ग के सर्वश्रेष्ठ आकर्षणों का अन्वेषण करें। एडिनबर्ग के शीर्ष स्थलों के लिए उद्घाटन घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
       "page_intro": "एडिनबर्ग, स्कॉटलैंड की राजधानी, एक ऐतिहासिक और सांस्कृतिक शहर है। इसकी शानदार वास्तुकला, समृद्ध विरासत, और जीवंत कला दृश्य के साथ, यहां हर किसी के लिए कुछ न कुछ है। प्रसिद्ध एडिनबर्ग कैसल से लेकर पुराने शहर की आकर्षक गलियों तक, यह शहर पुरानी और नई चीजों का अनोखा मिश्रण प्रस्तुत करता है, जो यात्रियों के लिए एक अवश्य देखने योग्य गंतव्य बनाता है।",
       "items": [
@@ -826,9 +846,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Edimburgo 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Edimburgo 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Edimburgo. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Edimburgo.",
-      "page_intro": "Edimburgo, a capital da Escócia, é uma cidade rica em história e cultura. Com sua arquitetura deslumbrante, rica herança e vibrante cena artística, há algo para todos desfrutarem. Desde o icônico Castelo de Edimburgo até as encantadoras ruas da Cidade Velha, esta cidade oferece uma mistura única do antigo e do novo, tornando-a um destino imperdível para os viajantes.",
+      "page_intro": "Descubra Edimburgo, uma cidade onde a história ganha vida através de suas atrações icônicas como o Castelo de Edimburgo e o majestoso Arthur's Seat. Com uma mistura fascinante de cultura e paisagens deslumbrantes, cada esquina revela um novo encanto. Não perca tempo, reserve suas experiências com a Klook e aproveite ao máximo sua visita!",
       "items": [
         {
           "id": "edinburgh-castle",
@@ -926,10 +946,14 @@
           "best_time": "evening",
           "klook_query": "Edinburgh Christmas Market"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Edimburgo?",
+      "faq_q2": "Preciso de ingressos para as atrações em Edimburgo?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, a maioria das atrações exige ingresso. Você pode comprar seus ingressos facilmente pela Klook para evitar filas."
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في إدنبرة 2026 - التذاكر والنصائح والدليل الشامل",
+      "seo_title": "أفضل 10 معالم في إدنبرة 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في إدنبرة. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم في إدنبرة.",
       "page_intro": "إدنبرة، عاصمة اسكتلندا، هي مدينة غارقة في التاريخ والثقافة. مع هندستها المعمارية المذهلة وتراثها الغني ومشهدها الفني النابض بالحياة، هناك شيء للجميع للاستمتاع به. من قلعة إدنبرة الشهيرة إلى شوارع المدينة القديمة الساحرة، تقدم هذه المدينة مزيجًا فريدًا من القديم والجديد، مما يجعلها وجهة لا بد من زيارتها للمسافرين.",
       "items": [
@@ -1032,8 +1056,8 @@
       ]
     },
     "bn": {
-      "seo_title": "এডিনবুর্গের শীর্ষ আকর্ষণ ২০২৬ - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "এডিনবুর্গের সেরা আকর্ষণগুলি অন্বেষণ করুন। এডিনবুর্গের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "এডিনবুর্গের ১০টি শীর্ষ আকর্ষণ ২০২৬ - সম্পূর্ণ গাইড",
+      "seo_description": "এডিনবুর্গের সেরা আকর্ষণগুলোর টিকিট, খোলার সময় ও গোপন টিপস জানুন। Klook বুকিং লিঙ্কে ক্লিক করুন এবং আপনার যাত্রা পরিকল্পনা করুন!",
       "page_intro": "এডিনবুর্গ, স্কটল্যান্ডের রাজধানী, ইতিহাস এবং সংস্কৃতিতে ভরা একটি শহর। এর চমৎকার স্থাপত্য, সমৃদ্ধ ঐতিহ্য এবং প্রাণবন্ত শিল্প দৃশ্যের সাথে, এখানে সবার জন্য কিছু না কিছু রয়েছে। আইকনিক এডিনবুর্গ কাসল থেকে শুরু করে পুরানো শহরের আকর্ষণীয় রাস্তাগুলি পর্যন্ত, এই শহরটি পুরানো এবং নতুনের একটি অনন্য মিশ্রণ অফার করে, যা এটি ভ্রমণকারীদের জন্য একটি অবশ্যই দর্শনীয় গন্তব্যে পরিণত করে।",
       "items": [
         {
@@ -1135,9 +1159,9 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Эдинбурга 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ достопримечательностей Эдинбурга 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Эдинбурга. Узнайте часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Эдинбурга.",
-      "page_intro": "Эдинбург, столица Шотландии, — город, пропитанный историей и культурой. С его потрясающей архитектурой, богатым наследием и яркой художественной сценой здесь есть что-то для каждого. От знакового Эдинбургского замка до очаровательных улиц Старого города, этот город предлагает уникальное сочетание старого и нового, что делает его обязательным местом для посещения путешественниками.",
+      "page_intro": "Эдинбург — это город, где история встречается с современностью! Обязательно посетите Эдинбургский замок, восхититесь видом с Артурова Сидения и насладитесь королевской атмосферой в Паласе Холирудхаус. Забронируйте свои билеты через Klook и откройте для себя все сокровища этого удивительного города!",
       "items": [
         {
           "id": "edinburgh-castle",
@@ -1235,7 +1259,11 @@
           "best_time": "evening",
           "klook_query": "Edinburgh Christmas Market"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Эдинбурге?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Эдинбурге?",
+      "faq_a1_suffix": " являются обязательными к посещению.",
+      "faq_a2": "Да, для большинства достопримечательностей в Эдинбурге требуются билеты. Вы можете легко забронировать их через Klook."
     }
   }
 }

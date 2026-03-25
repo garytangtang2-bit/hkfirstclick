@@ -2,9 +2,9 @@
   "city_slug": "kuala-lumpur",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Kuala Lumpur 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Kuala Lumpur. Find opening hours, ticket prices and booking links for Kuala Lumpur's top landmarks.",
-      "page_intro": "Kuala Lumpur, the vibrant capital of Malaysia, is a melting pot of culture, cuisine, and modernity. Known for its iconic skyline dominated by the Petronas Twin Towers, the city offers an array of attractions ranging from historic temples and bustling markets to lush parks and world-class museums. Whether you're a history buff, a shopaholic, or an adventure seeker, Kuala Lumpur promises a diverse and unforgettable experience.",
+      "seo_title": "Top 8 Must-See Kuala Lumpur Attractions 2026",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Kuala Lumpur's top attractions. Book now with Klook for an unforgettable adventure!",
+      "page_intro": "Dive into the enchanting world of Kuala Lumpur, where the majestic Petronas Twin Towers and the stunning Batu Caves await your discovery. From vibrant markets to cultural gems, this city offers unforgettable experiences for every traveler. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "petronas-twin-towers",
@@ -102,12 +102,16 @@
           "best_time": "anytime",
           "klook_query": "thean hou temple tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Kuala Lumpur?",
+      "faq_q2": "Do I need tickets for attractions in Kuala Lumpur?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Kuala Lumpur require tickets for entry. You can conveniently purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "吉隆坡2026年顶级景点 - 门票、提示和完整指南",
-      "seo_description": "探索吉隆坡的最佳景点。查找吉隆坡顶级地标的开放时间、票价和预订链接。",
-      "page_intro": "吉隆坡，马来西亚充满活力的首都，是一个文化、美食和现代化的熔炉。以其由双子塔主导的标志性天际线而闻名，这座城市提供从历史悠久的寺庙和繁忙的市场到郁郁葱葱的公园和世界级博物馆等多种景点。无论您是历史爱好者、购物狂还是冒险家，吉隆坡都承诺带来多样且难忘的体验。",
+      "seo_title": "吉隆坡2026年必看景点 - 8大顶级景点完整指南",
+      "seo_description": "获取吉隆坡顶级景点的门票、开放时间和内幕提示，轻松通过Klook预订，开始你的旅行吧！",
+      "page_intro": "探索吉隆坡的魅力，這座城市擁有如雙子塔、巴特洞以及中央市場等令人驚艷的地標。無論您是尋找文化體驗還是美食之旅，吉隆坡都能提供難忘的回憶，立即透過Klook預訂，跳過排隊！",
       "items": [
         {
           "id": "petronas-twin-towers",
@@ -205,12 +209,16 @@
           "best_time": "anytime",
           "klook_query": "thean hou temple tour"
         }
-      ]
+      ],
+      "faq_q1": "吉隆坡有哪些熱門景點？",
+      "faq_q2": "我需要購買吉隆坡景點的門票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您透過Klook提前購買門票，以便節省時間和避免排隊。"
     },
     "ja": {
-      "seo_title": "クアラルンプール2026年のトップ観光名所 - チケット、ヒント、完全ガイド",
-      "seo_description": "クアラルンプールの最高の観光名所を探索しましょう。クアラルンプールの主要ランドマークの開館時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "マレーシアの活気ある首都クアラルンプールは、文化、料理、現代性のるつぼです。ペトロナスツインタワーがそびえるアイコニックなスカイラインで知られるこの都市は、歴史的な寺院、賑やかな市場、緑豊かな公園、世界クラスの博物館まで、さまざまな観光名所を提供します。歴史愛好家、ショッピング好き、冒険家のいずれであっても、クアラルンプールは多様で忘れられない体験を約束します。",
+      "seo_title": "クアラルンプール2026年の必見観光名所8選 - 完全ガイド",
+      "seo_description": "クアラルンプールの観光名所のチケット、開館時間、ヒントをチェック。Klookで簡単予約！今すぐ計画を立てましょう。",
+      "page_intro": "クアラルンプールには、ペトロナスツインタワーやバトゥ洞窟などのアイコニックな名所が揃い、文化と現代性が融合した魅力的な都市です。賑やかな中央市場や隠れた宝石を探索し、忘れられない体験をお楽しみください。行列をスキップして、Klookで簡単に予約しましょう。",
       "items": [
         {
           "id": "petronas-twin-towers",
@@ -308,12 +316,16 @@
           "best_time": "anytime",
           "klook_query": "thean hou temple tour"
         }
-      ]
+      ],
+      "faq_q1": "クアラルンプールの主な観光名所は何ですか？",
+      "faq_q2": "クアラルンプールの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " ペトロナスツインタワー、バトゥ洞窟、中央市場などが必見の観光名所です。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "쿠알라룸푸르 2026년 최고의 명소 - 티켓, 팁 및 완전 가이드",
-      "seo_description": "쿠알라룸푸르의 최고의 명소를 탐험하세요. 쿠알라룸푸르의 주요 랜드마크의 개장 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
-      "page_intro": "말레이시아의 활기찬 수도 쿠알라룸푸르는 문화, 요리 및 현대성의 용광로입니다. 페트로나스 트윈 타워가 지배하는 상징적인 스카이라인으로 유명한 이 도시는 역사적인 사원과 번화한 시장에서 푸른 공원과 세계적 수준의 박물관에 이르기까지 다양한 명소를 제공합니다. 역사 애호가, 쇼핑광 또는 모험가이든 쿠알라룸푸르는 다양한 잊을 수 없는 경험을 약속합니다.",
+      "seo_title": "쿠알라룸푸르 2026년 최고의 8대 명소 - 완전 가이드",
+      "seo_description": "쿠알라룸푸르의 8대 명소를 탐험하세요! 개장 시간, 티켓 가격, Klook 예약 링크와 팁을 확인하고 여행을 계획하세요.",
+      "page_intro": "쿠알라룸푸르는 페트로나스 트윈 타워와 바투 동굴 같은 상징적인 명소가 가득한 매력적인 도시입니다. 역사와 현대가 어우러진 이곳에서 잊지 못할 경험을 만끽하세요. 줄 서지 않고 Klook을 통해 예약하세요!",
       "items": [
         {
           "id": "petronas-twin-towers",
@@ -411,12 +423,16 @@
           "best_time": "anytime",
           "klook_query": "thean hou temple tour"
         }
-      ]
+      ],
+      "faq_q1": "쿠알라룸푸르의 주요 명소는 무엇인가요?",
+      "faq_q2": "쿠알라룸푸르의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "대부분의 명소는 입장권이 필요합니다. Klook을 통해 미리 구매하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Kuala Lumpur 2026 - Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Kuala Lumpur. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Kuala Lumpur.",
-      "page_intro": "Kuala Lumpur, la capitale vibrante de la Malaisie, est un creuset de culture, de cuisine et de modernité. Connue pour sa silhouette emblématique dominée par les tours jumelles Petronas, la ville offre une gamme d'attractions allant des temples historiques et des marchés animés aux parcs luxuriants et aux musées de classe mondiale. Que vous soyez un passionné d'histoire, un accro du shopping ou un amateur d'aventure, Kuala Lumpur promet une expérience diversifiée et inoubliable.",
+      "seo_title": "Top 8 Attractions à Kuala Lumpur 2026 - Guide Complet",
+      "seo_description": "Explorez les heures d'ouverture, les prix et réservez vos billets sur Klook. Découvrez les incontournables de Kuala Lumpur dès maintenant!",
+      "page_intro": "Découvrez Kuala Lumpur, un véritable trésor d'attractions captivantes allant des majestueuses tours jumelles Petronas aux mystérieuses grottes de Batu. Plongez dans cette métropole où chaque coin révèle des merveilles, et réservez via Klook pour éviter les files d'attente.",
       "items": [
         {
           "id": "petronas-twin-towers",
@@ -514,11 +530,15 @@
           "best_time": "anytime",
           "klook_query": "thean hou temple tour"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Kuala Lumpur ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Kuala Lumpur ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est généralement nécessaire d'acheter des billets pour accéder aux attractions. Pour simplifier votre visite, pensez à réserver vos billets via Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Kuala Lumpur 2026 - Entradas, Consejos y Guía Completa",
-      "seo_description": "Explore las mejores atracciones en Kuala Lumpur. Encuentre horarios de apertura, precios de boletos y enlaces de reserva para los principales monumentos de Kuala Lumpur.",
+      "seo_title": "Las 8 Mejores Atracciones de Kuala Lumpur 2026",
+      "seo_description": "Descubre horarios, precios y consejos para las atracciones de Kuala Lumpur. Reserva tus entradas en Klook y vive una experiencia inolvidable.",
       "page_intro": "Kuala Lumpur, la vibrante capital de Malasia, es un crisol de cultura, gastronomía y modernidad. Conocida por su icónico horizonte dominado por las Torres Gemelas Petronas, la ciudad ofrece una variedad de atracciones que van desde templos históricos y mercados bulliciosos hasta parques frondosos y museos de clase mundial. Ya sea que seas un amante de la historia, un adicto a las compras o un buscador de aventuras, Kuala Lumpur promete una experiencia diversa e inolvidable.",
       "items": [
         {
@@ -620,8 +640,8 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Terbaik di Kuala Lumpur 2026 - Tiket, Tips & Panduan Lengkap",
-      "seo_description": "Jelajahi atraksi terbaik di Kuala Lumpur. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas di Kuala Lumpur.",
+      "seo_title": "8 Atraksi Terbaik Kuala Lumpur 2026 - Panduan Lengkap",
+      "seo_description": "Dapatkan tiket, jam buka, dan tips insider untuk Petronas, Batu Caves, dan lebih banyak lagi. Pesan di Klook dan jelajahi Kuala Lumpur!",
       "page_intro": "Kuala Lumpur, ibu kota Malaysia yang hidup, adalah tempat bertemunya budaya, kuliner, dan modernitas. Dikenal karena cakrawalanya yang ikonik yang didominasi oleh Menara Kembar Petronas, kota ini menawarkan berbagai atraksi mulai dari kuil bersejarah dan pasar yang ramai hingga taman hijau dan museum kelas dunia. Apakah Anda seorang pecinta sejarah, shopaholic, atau pencari petualangan, Kuala Lumpur menjanjikan pengalaman yang beragam dan tak terlupakan.",
       "items": [
         {
@@ -723,9 +743,9 @@
       ]
     },
     "hi": {
-      "seo_title": "कुआलालंपुर में शीर्ष आकर्षण 2026 — टिकट, टिप्स और संपूर्ण गाइड",
+      "seo_title": "कुआलालंपुर के शीर्ष आकर्षण 2026 - 10 बेहतरीन टिप्स",
       "seo_description": "कुआलालंपुर के बेहतरीन आकर्षणों की खोज करें। कुआलालंपुर के शीर्ष स्थलों के लिए उद्घाटन समय, टिकट की कीमतें और बुकिंग लिंक प्राप्त करें।",
-      "page_intro": "मलेशिया की जीवंत राजधानी कुआलालंपुर संस्कृति, व्यंजन और आधुनिकता का संगम है। पेट्रोनास ट्विन टावर्स द्वारा प्रभुत्व वाले अपने प्रतिष्ठित स्काईलाइन के लिए जाना जाने वाला यह शहर ऐतिहासिक मंदिरों और व्यस्त बाजारों से लेकर हरे-भरे पार्कों और विश्व स्तरीय संग्रहालयों तक के आकर्षणों की एक श्रृंखला प्रदान करता है। चाहे आप इतिहास प्रेमी हों, शॉपहोलिक हों, या रोमांच के खोजकर्ता हों, कुआलालंपुर एक विविध और अविस्मरणीय अनुभव का वादा करता है।",
+      "page_intro": "कुआलालंपुर, एक रोमांचक शहर, जहां पेट्रोनास ट्विन टावर्स, बैटू गुफाएं और केंद्रीय बाजार जैसे अद्वितीय आकर्षण आपको मंत्रमुग्ध कर देंगे। यहाँ की संस्कृति और व्यंजन आपको एक अविस्मरणीय अनुभव देंगे। लाइनें छोड़ें, Klook के माध्यम से बुक करें!",
       "items": [
         {
           "id": "petronas-twin-towers",
@@ -823,10 +843,14 @@
           "best_time": "anytime",
           "klook_query": "thean hou temple tour"
         }
-      ]
+      ],
+      "faq_q1": "कुआलालंपुर में शीर्ष आकर्षण क्या हैं?",
+      "faq_q2": "क्या मुझे कुआलालंपुर में आकर्षणों के लिए टिकट की आवश्यकता है?",
+      "faq_a1_suffix": " पेट्रोनास ट्विन टावर्स, बैटू गुफाएं और केंद्रीय बाजार जैसे स्थल अवश्य देखने योग्य हैं।",
+      "faq_a2": "हाँ, अधिकांश आकर्षणों के लिए टिकट की आवश्यकता होती है। आप Klook पर आसानी से टिकट बुक कर सकते हैं।"
     },
     "pt": {
-      "seo_title": "Principais Atrações em Kuala Lumpur 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Kuala Lumpur 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Kuala Lumpur. Encontre horários de funcionamento, preços de ingressos e links para reservas dos principais pontos turísticos de Kuala Lumpur.",
       "page_intro": "Kuala Lumpur, a vibrante capital da Malásia, é um caldeirão de culturas, culinária e modernidade. Conhecida por seu icônico horizonte dominado pelas Torres Gêmeas Petronas, a cidade oferece uma variedade de atrações que vão desde templos históricos e mercados movimentados até parques exuberantes e museus de classe mundial. Quer você seja um amante da história, um comprador compulsivo ou um aventureiro, Kuala Lumpur promete uma experiência diversificada e inesquecível.",
       "items": [
@@ -929,7 +953,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في كوالالمبور 2026 — تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل 10 معالم في كوالالمبور 2026 — دليل شامل",
       "seo_description": "استكشاف أفضل المعالم السياحية في كوالالمبور. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في كوالالمبور.",
       "page_intro": "كوالالمبور، العاصمة النابضة بالحياة لماليزيا، هي بوتقة تنصهر فيها الثقافة والمأكولات والحداثة. تُعرف بأفقها الأيقوني الذي تهيمن عليه برجا بتروناس التوأمان، وتقدم المدينة مجموعة من المعالم التي تتراوح من المعابد التاريخية والأسواق الصاخبة إلى الحدائق الخضراء والمتاحف ذات المستوى العالمي. سواء كنت من عشاق التاريخ أو التسوق أو البحث عن المغامرة، فإن كوالالمبور تعد بتجربة متنوعة لا تُنسى.",
       "items": [
@@ -1032,8 +1056,8 @@
       ]
     },
     "bn": {
-      "seo_title": "কুয়ালালামপুরের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "কুয়ালালামপুরের সেরা আকর্ষণগুলি অন্বেষণ করুন। কুয়ালালামপুরের শীর্ষ স্থাপত্যের জন্য খোলার সময়সূচী, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "কুয়ালালামপুরের ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "কুয়ালালামপুরের সেরা আকর্ষণগুলি আবিষ্কার করুন। টিকিট, খোলার সময়সূচী ও Klook বুকিং লিঙ্কের জন্য পড়ুন। আপনার অভিযান শুরু করুন!",
       "page_intro": "মালয়েশিয়ার প্রাণবন্ত রাজধানী কুয়ালালামপুর সংস্কৃতি, রন্ধনপ্রণালী এবং আধুনিকতার এক মিশ্রণ। পেট্রোনাস টুইন টাওয়ার দ্বারা আধিপত্যপূর্ণ তার আইকনিক স্কাইলাইনের জন্য পরিচিত, শহরটি ঐতিহাসিক মন্দির এবং ব্যস্ত বাজার থেকে শুরু করে সবুজ উদ্যান এবং বিশ্বমানের জাদুঘরগুলির একটি পরিসর প্রস্তাব করে। আপনি একজন ইতিহাস প্রেমি, কেনাকাটার পাগল, বা একটি অ্যাডভেঞ্চার সন্ধানী, কুয়ালালামপুর একটি বৈচিত্র্যময় এবং অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দেয়।",
       "items": [
         {
@@ -1135,7 +1159,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Куала-Лумпура 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Куала-Лумпура 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Куала-Лумпура. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Куала-Лумпура.",
       "page_intro": "Куала-Лумпур, оживлённая столица Малайзии, является плавильным котлом культуры, кухни и современности. Известный своим знаковым горизонтом, доминирующим над башнями-близнецами Петронас, город предлагает множество достопримечательностей, начиная от исторических храмов и шумных рынков до зелёных парков и музеев мирового класса. Независимо от того, являетесь ли вы любителем истории, шопоголиком или искателем приключений, Куала-Лумпур обещает разнообразный и незабываемый опыт.",
       "items": [

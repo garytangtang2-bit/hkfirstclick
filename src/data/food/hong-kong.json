@@ -2,9 +2,9 @@
   "city_slug": "hong-kong",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Hong Kong 2026 — Top Restaurants & Dim Sum Guide",
-      "seo_description": "Discover the best restaurants, street food, and local specialties in Hong Kong. From Michelin-starred dim sum to bustling dai pai dongs — with booking links.",
-      "page_intro": "Hong Kong is a world-class culinary capital where East meets West. The city's food scene is a thrilling mix of fast-paced street food stalls (dai pai dongs), historic cha chaan tengs (local diners), and luxurious fine dining. Whether you are savoring delicate, handcrafted dim sum in a bustling tea house or tearing into sweet and savory roast goose, Hong Kong offers a deeply satisfying and unforgettable dining experience.",
+      "seo_title": "8 Best Must-Try Restaurants in Hong Kong 2026",
+      "seo_description": "Save time with real recommendations! Book via Klook and discover local favorites. Plan your meal now in Hong Kong's food scene!",
+      "page_intro": "Dive into Hong Kong's vibrant food scene, where you can relish mouthwatering dim sum and iconic roast goose. Discover curated dining experiences that save you time and enhance your culinary adventure with Klook.",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -13,7 +13,7 @@
           "description": "Famously known as one of the world's cheapest Michelin-starred restaurants, Tim Ho Wan is a legendary dim sum institution. The absolute must-order is their signature Baked BBQ Pork Buns—featuring a crumbly, sweet, and crispy exterior that gives way to a savory, saucy char siu filling. Be prepared to queue, as this bustling spot is always packed.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "Baked BBQ Pork Buns",
           "klook_query": "Tim Ho Wan Hong Kong",
           "photo_url": "https://images.pexels.com/photos/14260829/pexels-photo-14260829.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "A Michelin-starred, family-run establishment in Central that has been perfecting its roast goose recipe since 1957. The goose is marinated with a secret blend of spices and roasted to perfection, resulting in remarkably crispy skin and tender, flavorful meat dripping with rich juices. It is best enjoyed over a simple bowl of hot rice or lai fun noodles.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Roast Goose with Rice or Lai Fun",
           "klook_query": "Yat Lok Roast Goose",
           "photo_url": "https://images.pexels.com/photos/11792972/pexels-photo-11792972.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "The liveliest night market in Hong Kong, Temple Street is the perfect place to experience a traditional 'dai pai dong' (open-air food stall) atmosphere. Grab a plastic stool and feast on wok-hei infused dishes like spicy chili crab, deep-fried squid, and claypot rice washed down with a cold beer.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "Claypot Rice and Chili Crab",
           "klook_query": "Temple Street Night Market Tour",
           "photo_url": "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -49,7 +49,7 @@
           "description": "A legendary noodle shop operating for over 90 years, Kau Kee is universally praised for serving the best beef brisket in the city. The slow-cooked brisket is meltingly tender and served in either a clear broth or a rich, fragrant curry sauce, paired with springy egg noodles or flat rice noodles.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "Curry Beef Brisket E-fu Noodles",
           "klook_query": "Central Hong Kong Food Tour",
           "photo_url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -61,7 +61,7 @@
           "description": "A quintessential Hong Kong 'cha chaan teng' (local diner) famous for two things: incredibly fluffy scrambled eggs and notoriously fast, brash service. The classic breakfast set features thick buttery toast, velvety scrambled eggs, and macaroni soup with ham. It is a fast and efficient slice of local life.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "Scrambled Eggs on Thick Toast",
           "klook_query": "Hong Kong Cha Chaan Teng Tour",
           "photo_url": "https://images.pexels.com/photos/3735192/pexels-photo-3735192.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -73,7 +73,7 @@
           "description": "Step back in time at this historic tea house where dim sum is still served from traditional pushcarts. The chaotic, authentic atmosphere requires diners to actively chase down the carts to grab bamboo baskets of har gow and siu mai. It is a loud and brilliant glimpse into old Hong Kong's yum cha culture.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Har Gow and Siu Mai from the Pushcarts",
           "klook_query": "Traditional Dim Sum Tour Hong Kong",
           "photo_url": "https://images.pexels.com/photos/13400410/pexels-photo-13400410.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -85,7 +85,7 @@
           "description": "The undisputed king of Hong Kong-style egg tarts. Tai Cheong's signature creation features a wonderfully crumbly, buttery shortcrust pastry holding a warm, bright yellow, wobbly egg custard filling that is perfectly sweet. Grabbing a freshly baked tart while wandering Soho is mandatory.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "Freshly Baked Egg Tarts",
           "klook_query": "Soho Hong Kong Food Tour",
           "photo_url": "https://images.pexels.com/photos/7911509/pexels-photo-7911509.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -97,17 +97,20 @@
           "description": "A historic establishment that sets the gold standard for Wonton Noodles. They serve famously small portions—designed to keep the noodles from getting soggy—featuring springy, alkaline egg noodles and bite-sized, incredibly fresh shrimp wontons swimming in a delicate broth made from dried flounder.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "Wonton Noodle Soup",
           "klook_query": "Mak's Noodle Hong Kong",
           "photo_url": "https://images.pexels.com/photos/1395319/pexels-photo-1395319.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Hong Kong?",
+      "faq_q2": "Where can I find the best restaurants in Hong Kong?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 香港必吃美食推薦 — 頂級餐廳與點心指南",
-      "seo_description": "探索香港最佳餐廳、街頭小吃與在地特色美食。從米其林星級點心到熱鬧的大排檔，提供完整推薦與預訂連結。",
-      "page_intro": "香港是一個東西方交匯的世界級美食之都。這座城市的飲食文化令人興奮，融合了節奏明快的街頭大排檔、歷史悠久的茶餐廳，以及奢華的高級餐飲。無論您是在喧鬧的茶樓品嚐精緻的手工點心，還是大啖甜鹹交織的脆皮燒鵝，香港都能為您帶來極度滿足且難忘的用餐體驗。",
+      "seo_title": "2026 香港必吃美食 — 8 大隱藏美味與當地最愛",
+      "seo_description": "節省時間，發現香港的真實推薦！透過 Klook 預訂，立即計劃您的美食之旅，探索當地最愛！",
+      "page_intro": "香港的美食世界令人目不暇接，無論是香氣四溢的燒鵝還是精緻的點心，都是您不容錯過的美味。透過我們精心挑選的餐廳推薦，讓您的用餐體驗更加無憂，輕鬆預訂，享受美食之旅。",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -116,7 +119,7 @@
           "description": "被譽為世界上最平價的米其林星級餐廳之一，添好運是傳奇的點心殿堂。絕對必點的是他們招牌的酥皮焗叉燒包——酥脆香甜的外皮，包裹著鹹甜適中、醬汁濃郁的叉燒內餡。請做好排隊的準備，因為這個熱鬧的地方總是擠滿了饕客。",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "酥皮焗叉燒包 (Baked BBQ Pork Buns)",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -127,7 +130,7 @@
           "description": "位於中環的米其林星級家族餐廳，自1957年以來就不斷完善其燒鵝秘方。鵝肉以獨家秘製香料醃製並烤至完美，外皮酥脆，肉質軟嫩多汁。搭配一碗簡單的熱白飯或瀨粉享用，是人間美味。",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "馳名燒鵝飯或瀨粉",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -138,7 +141,7 @@
           "description": "香港最熱鬧的夜市，廟街是體驗傳統「大排檔」氛圍的絕佳去處。在霓虹燈和算命攤之間，拉張塑膠凳子坐下，大啖充滿「鑊氣」的避風塘炒蟹、炸鮮魷和煲仔飯，再配上一瓶冰涼的啤酒。",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "煲仔飯與避風塘炒蟹",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -149,7 +152,7 @@
           "description": "經營超過90年的傳奇麵店，九記被公認為全城最棒的牛腩店。慢火燉煮的牛腩入口即化，有清湯或濃郁芳香的咖哩湯底可選，搭配彈牙的伊麵或河粉。快節奏的用餐環境也是其魅力的一部分。",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "咖哩牛筋腩伊麵",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -160,7 +163,7 @@
           "description": "經典的香港茶餐廳，以兩件事聞名：不可思議的滑嫩炒蛋，以及出了名快速且充滿霸氣的服務。經典的常餐包含厚片奶油吐司、如絲綢般滑順的炒蛋和火腿通心粉。這是體驗佐敦在地生活最快速有效的方式。",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "招牌炒蛋厚多士",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -171,7 +174,7 @@
           "description": "在這家歷史悠久的茶樓裡時光倒流，這裡仍然保留著傳統點心推車。在混亂而道地的氛圍中，食客必須主動追逐點心車，才能搶到一籠籠的蝦餃和燒賣。這是對老香港「飲茶」文化最喧鬧、最真實的一瞥。",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "推車蝦餃與燒賣",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -182,7 +185,7 @@
           "description": "港式蛋塔的無冕王。泰昌的招牌蛋塔擁有極度酥脆、充滿奶油香的曲奇餅皮，裡面盛著溫熱、金黃色且甜度完美的滑嫩蛋液。在蘇豪區陡峭的街道上漫步時，買一個剛出爐的蛋塔是來香港的必做之事。",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "現烤牛油皮蛋塔",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -193,16 +196,19 @@
           "description": "這是一家歷史悠久的老字號，為雲吞麵確立了黃金標準。他們以供應小份量聞名——目的是為了防止麵條變軟——使用彈牙的鹼水麵，搭配一口大小、極度新鮮的鮮蝦雲吞，湯底則是用大地魚和豬骨熬製的鮮甜清湯。",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "招牌鮮蝦雲吞麵",
           "klook_query": "Mak's Noodle Hong Kong"
         }
-      ]
+      ],
+      "faq_q1": "在香港最好吃的食物是什麼？",
+      "faq_q2": "在香港哪裡可以找到最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "2026年 香港の絶品グルメ — 人気レストラン＆飲茶ガイド",
-      "seo_description": "香港の最高級レストラン、屋台、郷土料理をご紹介。ミシュラン星付きの飲茶から活気ある大排檔（ダイパイドン）まで、予約リンク付きでご案内します。",
-      "page_intro": "香港は、東洋と西洋が交差する世界クラスの美食の都です。この街の食のシーンは、テンポの速い屋台（大排檔）、歴史ある茶餐廳（地元の大衆食堂）、そして豪華なファインダイニングがスリリングに混ざり合っています。活気ある茶楼で繊細な手作りの点心を味わうにしても、甘辛いローストグースを頬張るにしても、香港は深く満足できる忘れられない食事体験を提供します。",
+      "seo_title": "2026年 香港の必食グルメ — 8つの隠れた名店",
+      "seo_description": "時間を節約し、真のおすすめを見つけましょう。Klookで予約して、地元の名物を今すぐ計画しましょう！",
+      "page_intro": "香港の食文化は、驚きと発見に満ちています。絶品の点心や香ばしいローストグース、賑やかなナイトマーケットのストリートフードが楽しめます。Klookで厳選されたレストランを予約し、貴重な時間を節約しましょう。",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -211,7 +217,7 @@
           "description": "「世界で一番安いミシュラン星付きレストラン」として有名な添好運は、伝説的な点心の殿堂です。絶対に注文すべき名物は「ベイクドBBQポークバン（酥皮焗叉燒包）」です。サクサクで甘いクッキー生地の中に、風味豊かなとろみのあるチャーシュー餡が詰まっています。常に満席のため、並ぶ覚悟が必要です。",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "ベイクドBBQポークバン",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -222,7 +228,7 @@
           "description": "中環にあるミシュラン星付きの家族経営の店で、1957年以来ローストグース（ガチョウのロースト）のレシピを完成させ続けています。秘伝のスパイスでマリネされ、完璧に焼き上げられたガチョウは、驚くほどパリパリの皮と、肉汁が滴る柔らかく風味豊かな肉が特徴です。温かいご飯や瀬粉（ライスヌードル）に乗せて食べるのが最高です。",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "ローストグース乗せご飯",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -233,7 +239,7 @@
           "description": "香港で最も活気のあるナイトマーケットである廟街は、伝統的な「大排檔」（屋外の屋台）の雰囲気を体験するのに最適な場所です。ネオンサインと占い師に囲まれながらプラスチックの椅子に座り、スパイシーなチリクラブ、イカの唐揚げ、ボウジャイファン（土鍋ご飯）などを冷たいビールで流し込みましょう。",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "土鍋ご飯とチリクラブ",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -244,7 +250,7 @@
           "description": "90年以上営業している伝説の麺屋である九記は、街で最高の牛バラ肉（牛腩）を提供すると絶賛されています。じっくりと煮込まれた牛バラ肉はとろけるほど柔らかく、クリアなスープまたは濃厚で香り高いカレースープで、弾力のある卵麺や平打ちライスヌードルと共に提供されます。",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "カレー牛バラ肉伊麺",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -255,7 +261,7 @@
           "description": "信じられないほどふわふわのスクランブルエッグと、悪名高いほど速くて素っ気ないサービスで有名な、香港を代表する「茶餐廳」です。定番の朝食セットには、厚切りのバタートースト、ベルベットのようなスクランブルエッグ、ハム入りマカロニスープが含まれます。速くて効率的な地元の生活の一部です。",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "厚切りトーストのスクランブルエッグ乗せ",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -266,7 +272,7 @@
           "description": "昔ながらのワゴン式で点心が提供されるこの歴史ある茶楼で、タイムスリップしてみましょう。カオスで本場さながらの雰囲気の中、客はワゴンを追いかけて、エビ餃子や焼売の入った竹蒸籠を自ら確保する必要があります。古き良き香港の「飲茶」文化を垣間見ることができます。",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "ワゴンから取るエビ餃子と焼売",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -277,7 +283,7 @@
           "description": "香港スタイルのエッグタルトの絶対的王者。泰昌の看板商品は、驚くほどホロホロのバター風味のクッキー生地に、温かくて鮮やかな黄色で、プルプルの完璧な甘さのカスタードフィリングが入っています。ソーホーの急な坂道を散策しながら焼きたてのタルトを食べるのは必須体験です。",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "焼きたてエッグタルト",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -288,16 +294,19 @@
           "description": "ワンタン麺の最高基準を確立した歴史ある老舗です。麺が伸びるのを防ぐために意図的に小さめのポーションで提供されることで有名です。弾力のある卵麺と、一口サイズで新鮮なエビワンタンが、干しカレイと豚骨から作られた繊細で旨味たっぷりのスープに浮かんでいます。",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "エビワンタン麺",
           "klook_query": "Mak's Noodle Hong Kong"
         }
-      ]
+      ],
+      "faq_q1": "香港で食べるべきおすすめの料理は何ですか？",
+      "faq_q2": "香港で最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "2026 홍콩 최고 맛집 - 추천 레스토랑 및 딤섬 가이드",
-      "seo_description": "홍콩의 최고 레스토랑, 길거리 음식, 현지 특선 요리를 만나보세요. 미슐랭 스타 딤섬부터 북적이는 다이파이동까지, 예약 링크를 제공합니다.",
-      "page_intro": "홍콩은 동양과 서양이 만나는 세계적인 미식의 수도입니다. 이 도시의 음식 문화는 빠른 속도의 길거리 음식 노점(다이파이동), 유서 깊은 차찬텡(현지 식당), 그리고 호화로운 파인 다이닝의 스릴 넘치는 조화입니다. 북적이는 찻집에서 정교한 수제 딤섬을 음미하든 달콤하고 짭짤한 거위 구이를 뜯어 먹든, 홍콩은 깊은 만족감과 잊을 수 없는 식사 경험을 제공합니다.",
+      "seo_title": "2026 홍콩 최고의 맛집 8곳 - 필수 방문 레스토랑",
+      "seo_description": "시간을 절약하고 진짜 추천을 만나보세요. Klook으로 현지 인기 맛집을 예약하고 맛있는 여행을 계획해보세요!",
+      "page_intro": "홍콩의 음식 세계는 미각의 축제입니다! 딤섬, 거위 구이, 그리고 다채로운 길거리 음식이 어우러져 잊지 못할 맛의 여행을 선사합니다. Klook을 통해 시간과 노력을 절약하고, 추천된 맛집을 쉽게 예약하세요.",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -306,7 +315,7 @@
           "description": "세계에서 가장 저렴한 미슐랭 스타 레스토랑 중 하나로 유명한 팀호완은 전설적인 딤섬 전문점입니다. 절대적으로 주문해야 할 메뉴는 시그니처인 베이크드 BBQ 포크 번(차슈바오)입니다. 바삭하고 달콤한 겉면을 한 입 베어 물면 짭짤하고 소스가 풍부한 차슈 소가 나옵니다. 항상 현지인과 관광객으로 붐비기 때문에 줄을 설 각오를 해야 합니다.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "베이크드 BBQ 포크 번 (차슈바오)",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -317,7 +326,7 @@
           "description": "센트럴에 위치한 미슐랭 1스타를 받은 가족 운영 식당으로, 1957년부터 거위 구이 레시피를 완성해 왔습니다. 거위를 비밀 향신료로 재워 완벽하게 구워내어, 놀랍도록 바삭한 껍질과 풍부한 육즙이 뚝뚝 떨어지는 부드럽고 풍미 있는 고기를 맛볼 수 있습니다. 따뜻한 밥 한 그릇이나 라이펀(쌀국수)과 함께 먹는 것이 가장 좋습니다.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "거위 구이 덮밥 또는 쌀국수",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -328,7 +337,7 @@
           "description": "홍콩에서 가장 활기찬 야시장인 템플 스트리트는 전통적인 '다이파이동'(야외 노점상) 분위기를 경험할 수 있는 완벽한 장소입니다. 네온사인과 점쟁이들 사이에서 플라스틱 의자를 잡고 앉아 차가운 맥주와 함께 스파이시 칠리 크랩, 오징어 튀김, 뽀짜이판(솥밥) 등 불맛이 가득한 요리를 즐겨보세요.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "뽀짜이판(솥밥)과 칠리 크랩",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -339,7 +348,7 @@
           "description": "90년 이상 운영되어 온 전설적인 국수 가게인 카우키는 홍콩 최고의 소고기 양지머리를 제공하는 곳으로 보편적인 찬사를 받고 있습니다. 천천히 조리된 양지머리는 입안에서 녹을 정도로 부드러우며, 맑고 진한 소고기 육수 또는 풍부하고 향긋한 카레 소스 중 하나를 선택하여 쫄깃한 계란 면이나 납작한 쌀국수와 함께 제공됩니다.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "카레 쇠고기 양지머리 국수",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -350,7 +359,7 @@
           "description": "믿을 수 없을 정도로 폭신한 스크램블 에그와 악명 높게 빠르고 퉁명스러운 서비스라는 두 가지로 유명한 홍콩의 전형적인 '차찬텡'(현지 식당)입니다. 클래식한 아침 식사 세트에는 두툼한 버터 토스트, 벨벳 같은 스크램블 에그, 햄을 넣은 마카로니 수프가 포함됩니다. 조던 지역 현지 삶의 빠르고 효율적인 단면을 보여줍니다.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "두툼한 토스트와 스크램블 에그",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -361,7 +370,7 @@
           "description": "여전히 전통적인 밀기 카트에서 딤섬을 제공하는 이 유서 깊은 찻집에서 시간 여행을 떠나보세요. 혼란스럽고 진정한 분위기 때문에 식사하는 사람들은 하가우(새우 만두)와 슈마이가 담긴 대나무 바구니를 잡기 위해 카트를 적극적으로 쫓아다녀야 합니다. 옛 홍콩의 얌차 문화를 엿볼 수 있는 시끄럽고 멋진 곳입니다.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "카트에서 직접 가져오는 하가우와 슈마이",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -372,7 +381,7 @@
           "description": "홍콩식 에그 타르트의 절대 강자입니다. 타이청의 시그니처 메뉴는 놀랍도록 바삭하고 버터 향이 나는 페이스트리에 따뜻하고 밝은 노란색의 부들부들하고 완벽하게 달콤한 커스터드 크림이 채워져 있습니다. 소호의 가파른 거리를 돌아다니며 갓 구운 타르트를 먹는 것은 홍콩 여행의 필수 코스입니다.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "갓 구운 에그 타르트",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -383,16 +392,19 @@
           "description": "완탕면의 골드 스탠다드를 세운 유서 깊은 식당입니다. 면이 불어나는 것을 방지하기 위해 의도적으로 작은 양으로 제공하는 것으로 유명합니다. 쫄깃한 계란 면과 한 입 크기의 엄청나게 신선한 새우 완탕이 말린 가자미와 돼지 뼈로 만든 섬세하고 감칠맛 나는 국물에 담겨 나옵니다.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "새우 완탕면",
           "klook_query": "Mak's Noodle Hong Kong"
         }
-      ]
+      ],
+      "faq_q1": "홍콩에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "홍콩에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleurs Restaurants à Hong Kong 2026 — Guide des Dim Sum",
-      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités de Hong Kong. Des dim sum étoilés Michelin aux dai pai dongs animés.",
-      "page_intro": "Hong Kong est une capitale culinaire mondiale où l'Orient rencontre l'Occident. La scène culinaire est un mélange palpitant de stands de rue (dai pai dongs), de cha chaan tengs historiques et de restaurants raffinés.",
+      "seo_title": "8 Meilleurs Restaurants à Hong Kong 2026 — Must-Try",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les favoris locaux. Planifiez votre repas dès maintenant !",
+      "page_intro": "Plongez dans l'incroyable scène gastronomique de Hong Kong, où les dim sum, le canard laqué et les délices de rue vous attendent. Gagnez du temps avec nos sélections triées sur le volet et réservez facilement avec Klook.",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -401,7 +413,7 @@
           "description": "Connu comme l'un des restaurants étoilés Michelin les moins chers au monde. L'incontournable absolu est leurs pains au porc BBQ cuits au four, avec un extérieur croustillant et sucré.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "Brioche de Porc au BBQ",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -412,7 +424,7 @@
           "description": "Un établissement familial étoilé à Central, qui perfectionne sa recette d'oie rôtie depuis 1957. L'oie est rôtie à la perfection, avec une peau croustillante et une viande tendre.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Oie Rôtie avec Riz ou Lai Fun",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -423,7 +435,7 @@
           "description": "Le marché nocturne le plus animé. Prenez un tabouret en plastique et régalez-vous de crabe épicé et de riz en pot d'argile dans une véritable atmosphère de dai pai dong.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "Riz en Cocotte et Crabe au Piment",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -434,7 +446,7 @@
           "description": "Une boutique de nouilles légendaire servant la meilleure poitrine de bœuf de la ville, fondante et servie dans un bouillon clair ou une riche sauce au curry.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "Nouilles E-fu au Bœuf au Curry",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -445,7 +457,7 @@
           "description": "Un 'cha chaan teng' emblématique célèbre pour ses œufs brouillés incroyablement moelleux et son service notoirement rapide et impétueux.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "Oeufs Brouillés sur Pain Épais",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -456,7 +468,7 @@
           "description": "Une maison de thé historique où les dim sum sont encore servis à partir de charrettes traditionnelles. Une atmosphère chaotique et authentique.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Har Gow et Siu Mai des Chariots",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -467,7 +479,7 @@
           "description": "Le roi incontesté des tartes aux œufs de Hong Kong, avec une pâte brisée beurrée et une garniture de crème aux œufs chaude et sucrée.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "Tartes aux Oeufs Fraîchement Cuites",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -478,16 +490,19 @@
           "description": "L'étalon-or pour les nouilles Wonton. Ils servent de petites portions de nouilles aux œufs élastiques et de wontons aux crevettes fraîches dans un bouillon délicat.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "Soupe de Nouilles Wonton",
           "klook_query": "Mak's Noodle Hong Kong"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Hong Kong ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Hong Kong ?",
+      "faq_a2_suffix": " sont parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor Comida en Hong Kong 2026 — Guía de Restaurantes y Dim Sum",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades en Hong Kong. Desde dim sum con estrella Michelin hasta bulliciosos dai pai dongs.",
-      "page_intro": "Hong Kong es una capital culinaria de clase mundial donde Oriente se encuentra con Occidente. La escena gastronómica es una emocionante mezcla de puestos de comida callejera (dai pai dongs), históricos cha chaan tengs y cenas de lujo.",
+      "seo_title": "8 Mejores Restaurantes en Hong Kong 2026 — ¡Imperdibles!",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre la vibrante escena gastronómica de Hong Kong, donde los dim sum y el pato asado son solo el comienzo! Desde el bullicio de los mercados nocturnos hasta restaurantes de renombre, te ofrecemos las mejores selecciones para que disfrutes sin perder tiempo.",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -496,7 +511,7 @@
           "description": "Conocido como uno de los restaurantes con estrella Michelin más baratos del mundo. Lo que debes pedir son sus bollos de cerdo a la barbacoa horneados, con un exterior crujiente y dulce.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "Bollos de Cerdo Asado",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -507,7 +522,7 @@
           "description": "Un establecimiento familiar con estrella Michelin en Central que ha perfeccionado el ganso asado desde 1957. El ganso se asa a la perfección, con una piel crujiente y carne jugosa.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Ganso Asado con Arroz o Lai Fun",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -518,7 +533,7 @@
           "description": "El mercado nocturno más animado de Hong Kong. Disfruta de cangrejo con chile y arroz en olla de barro en un ambiente tradicional de 'dai pai dong'.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "Arroz en Olla de Barro y Cangrejo con Chile",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -529,7 +544,7 @@
           "description": "Una legendaria tienda de fideos que sirve la mejor falda de res de la ciudad, increíblemente tierna, en un caldo claro o en una rica salsa de curry.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "Fideos E-fu con Curry de Pecho de Res",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -540,7 +555,7 @@
           "description": "Un clásico 'cha chaan teng' famoso por sus huevos revueltos increíblemente esponjosos y un servicio rápido. Un auténtico trozo de la vida local.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "Huevos Revueltos sobre Tostada Gruesa",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -551,7 +566,7 @@
           "description": "Retrocede en el tiempo en esta casa de té histórica donde el dim sum se sirve desde carritos tradicionales en un ambiente caótico y auténtico.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Har Gow y Siu Mai de los Carritos",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -562,7 +577,7 @@
           "description": "El rey indiscutible de las tartas de huevo de Hong Kong, con una masa quebrada mantecosa y un relleno de crema de huevo amarillo y tembloroso.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "Tartas de Huevo Recién Horneadas",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -573,15 +588,18 @@
           "description": "El estándar de oro para los fideos Wonton. Sirven porciones pequeñas de fideos de huevo y wontons de camarones en un caldo delicado.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "Sopa de Fideos Wonton",
           "klook_query": "Mak's Noodle Hong Kong"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para comer en Hong Kong?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Hong Kong?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas más valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Hong Kong 2026 — Panduan Restoran & Dim Sum",
-      "seo_description": "Temukan restoran terbaik, jajanan pasar, dan makanan khas di Hong Kong. Dari dim sum bintang Michelin hingga dai pai dong yang ramai.",
+      "seo_title": "8 Restoran Terbaik di Hong Kong 2026 — Must-Try Makanan",
+      "seo_description": "Hemat waktu dengan rekomendasi terbaik. Pesan di Klook dan rencanakan makanan Anda sekarang! Temukan favorit lokal di Hong Kong.",
       "page_intro": "Hong Kong adalah ibu kota kuliner kelas dunia tempat Timur bertemu Barat. Suasana makanannya adalah campuran kedai pinggir jalan (dai pai dong), cha chaan teng bersejarah, dan restoran mewah.",
       "items": [
         {
@@ -591,7 +609,7 @@
           "description": "Dikenal sebagai salah satu restoran berbintang Michelin termurah di dunia. Yang wajib dipesan adalah Bakpao Babi BBQ Panggang dengan bagian luar renyah dan isian daging babi char siu.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "Bakpao Babi Bakar",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -602,7 +620,7 @@
           "description": "Restoran keluarga bintang Michelin di Central yang menyajikan angsa panggang sejak 1957. Kulitnya renyah dan dagingnya empuk berair.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Bebek Panggang dengan Nasi atau Lai Fun",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -613,7 +631,7 @@
           "description": "Pasar malam paling meriah, tempat sempurna untuk suasana 'dai pai dong'. Nikmati kepiting cabai dan nasi claypot bersama bir dingin.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "Nasi Claypot dan Kepiting Cabai",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -624,7 +642,7 @@
           "description": "Toko mi legendaris yang menyajikan sandung lamur sapi terbaik di kota, sangat empuk dalam kaldu bening atau saus kari yang kaya.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "Mie E-fu Brisket Daging Kari",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -635,7 +653,7 @@
           "description": "'Cha chaan teng' khas Hong Kong yang terkenal dengan telur orak-arik super lembut dan layanannya yang sangat cepat.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "Telur Orak-arik di Roti Tebal",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -646,7 +664,7 @@
           "description": "Kedai teh bersejarah tempat dim sum masih disajikan dari kereta dorong tradisional. Suasana otentik dari budaya yum cha Hong Kong kuno.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Har Gow dan Siu Mai dari Gerobak",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -657,7 +675,7 @@
           "description": "Raja tart telur ala Hong Kong. Menampilkan kue mentega renyah dengan isian puding telur kuning yang hangat dan manis.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "Tart Telur yang Baru Dipanggang",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -668,16 +686,16 @@
           "description": "Standar emas untuk Mi Wonton. Porsi kecil dengan mi telur kenyal dan pangsit udang segar dalam kaldu yang lembut.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "Sup Mie Wonton",
           "klook_query": "Mak's Noodle Hong Kong"
         }
       ]
     },
     "hi": {
-      "seo_title": "हांगकांग में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और डिम सम गाइड",
-      "seo_description": "हांगकांग में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशिष्टताओं की खोज करें। मिशेलिन-तारांकित डिम सम से लेकर हलचल वाले दाई पाई डोंग तक।",
-      "page_intro": "हांगकांग एक विश्व स्तरीय पाक राजधानी है जहां पूर्व पश्चिम से मिलता है। शहर का भोजन दृश्य स्ट्रीट फूड स्टालों (दाई पाई डोंग), ऐतिहासिक चा चान तेंग और शानदार फाइन डाइनिंग का मिश्रण है।",
+      "seo_title": "हांगकांग में 8 सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ अपनी यात्रा की योजना बनाएं और स्थानीय पसंदीदा खोजें।",
+      "page_intro": "हांगकांग का भोजन दृश्य एक अद्भुत अनुभव है, जहाँ आप बेस्ट रोस्ट गूज, डिम सम और स्ट्रीट फूड का स्वाद ले सकते हैं। अपने समय की बचत करें और Klook के साथ हमारे चयनित रेस्तरां की बुकिंग करें!",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -686,7 +704,7 @@
           "description": "दुनिया के सबसे सस्ते मिशेलिन-तारांकित रेस्तरां के रूप में जाना जाता है। उनका बेक्ड बीबीक्यू पोर्क बन्स एक मीठे, खस्ता बाहरी हिस्से के साथ अवश्य है।",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "बेक्ड बीबीक्यू पोर्क बन्स",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -697,7 +715,7 @@
           "description": "सेंट्रल में एक मिशेलिन-तारांकित प्रतिष्ठान जो 1957 से हंस को भून रहा है। हंस को पूरी तरह से भुना जाता है, जिसके परिणामस्वरूप खस्ता त्वचा और निविदा मांस होता है।",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "रोस्ट गीज़ विद राइस या लाई फन",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -708,7 +726,7 @@
           "description": "सबसे जीवंत रात का बाजार। एक प्लास्टिक स्टूल पकड़ो और ठंडी बीयर के साथ मसालेदार मिर्च केकड़ा और क्लेपॉट चावल जैसी दावतों का आनंद लें।",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "क्लेपट राइस और चिली क्रैब",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -719,7 +737,7 @@
           "description": "शहर में सबसे अच्छा बीफ ब्रिस्केट परोसने वाली एक पौराणिक नूडल शॉप, जो या तो साफ शोरबा या समृद्ध करी सॉस में परोसी जाती है।",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "करी बीफ ब्रिस्केट ई-फू नूडल्स",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -730,7 +748,7 @@
           "description": "अविश्वसनीय रूप से शराबी तले हुए अंडे और कुख्यात तेज सेवा के लिए प्रसिद्ध एक हांगकांग 'चा चान तेंग'।",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "स्क्रैम्बल्ड एग्स ऑन थिक टोस्ट",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -741,7 +759,7 @@
           "description": "इस ऐतिहासिक चाय घर में, डिम सम अभी भी पारंपरिक पुशकार्ट से परोसा जाता है। यह पुराने हांगकांग की यम चा संस्कृति की एक झलक है।",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "हार गॉ और सियू माई फ्रॉम द पुशकार्ट्स",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -752,7 +770,7 @@
           "description": "हांगकांग शैली के एग टार्ट्स का निर्विवाद राजा। शॉर्टक्रस्ट पेस्ट्री में एक गर्म, उज्ज्वल पीले अंडे कस्टर्ड भरने की सुविधा है।",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "फ्रेशली बेक्ड एग टार्ट्स",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -763,15 +781,18 @@
           "description": "वोंटन नूडल्स के लिए स्वर्ण मानक। वे नाजुक शोरबा में ताजे झींगा वोंटन के साथ वसंत नूडल्स के छोटे हिस्से परोसते हैं।",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "वॉन्टन नूडल सूप",
           "klook_query": "Mak's Noodle Hong Kong"
         }
-      ]
+      ],
+      "faq_q1": "हांगकांग में खाने के लिए सबसे अच्छा क्या है?",
+      "faq_q2": "मैं हांगकांग में सबसे अच्छे रेस्तरां कहाँ पा सकता हूँ?",
+      "faq_a2_suffix": " सबसे उच्च रेटेड भोजन विकल्पों में से हैं।"
     },
     "pt": {
-      "seo_title": "Melhor Comida em Hong Kong 2026 — Guia de Restaurantes e Dim Sum",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades em Hong Kong. De dim sum com estrela Michelin a agitados dai pai dongs.",
+      "seo_title": "Top 8 Restaurantes em Hong Kong 2026 — Melhores Delícias",
+      "seo_description": "Economize tempo com recomendações reais. Reserve sua experiência gastronômica com Klook e descubra os favoritos locais agora!",
       "page_intro": "Hong Kong é uma capital culinária de classe mundial onde o Oriente encontra o Ocidente. A cena gastronômica é uma mistura de barracas de rua (dai pai dongs), históricos cha chaan tengs e jantares requintados.",
       "items": [
         {
@@ -781,7 +802,7 @@
           "description": "Conhecido como um dos restaurantes com estrela Michelin mais baratos do mundo. O pedido obrigatório é o Pão de Porco BBQ Assado, com exterior crocante e doce.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "Pãezinhos de Porco Assado com Molho Barbecue",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -792,7 +813,7 @@
           "description": "Um estabelecimento familiar com estrela Michelin em Central. O ganso é assado com perfeição, resultando em uma pele crocante e carne suculenta.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Ganso Assado com Arroz ou Lai Fun",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -803,7 +824,7 @@
           "description": "O mercado noturno mais animado, perfeito para a atmosfera de 'dai pai dong'. Saboreie caranguejo com pimenta e arroz em panela de barro com uma cerveja gelada.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "Arroz de Panela de Barro com Caranguejo ao Molho de Pimenta",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -814,7 +835,7 @@
           "description": "Uma loja de macarrão lendária servindo o melhor peito de boi da cidade, tenro e derretendo na boca, em um caldo claro ou molho de curry rico.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "Macarrão E-fu com Carne de Vaca ao Curry",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -825,7 +846,7 @@
           "description": "Um 'cha chaan teng' clássico famoso por seus ovos mexidos incrivelmente fofos e serviço rápido. Uma verdadeira fatia da vida local.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "Ovos Mexidos em Torrada Grossa",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -836,7 +857,7 @@
           "description": "Uma casa de chá histórica onde o dim sum ainda é servido em carrinhos tradicionais em uma atmosfera caótica e autêntica.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Har Gow e Siu Mai dos Carrinhos",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -847,7 +868,7 @@
           "description": "O rei indiscutível das tortas de ovo ao estilo de Hong Kong. Apresenta uma massa amanteigada com um recheio de creme de ovo amarelo brilhante.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "Tartes de Ovo Frescas",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -858,15 +879,15 @@
           "description": "O padrão ouro para o Wonton Noodle. Eles servem porções pequenas de macarrão de ovo com wontons de camarão fresco em um caldo delicado.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "Sopa de Macarrão com Wonton",
           "klook_query": "Mak's Noodle Hong Kong"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في هونغ كونغ 2026 — دليل أفضل المطاعم والديم سوم",
-      "seo_description": "اكتشف أفضل المطاعم وأكل الشوارع في هونغ كونغ. من الديم سوم الحائز على نجمة ميشلان إلى أكشاك داي باي دونج.",
+      "seo_title": "أفضل 8 مطاعم في هونغ كونغ 2026 — تجارب لا تفوت",
+      "seo_description": "وفر وقتك مع توصيات حقيقية من Klook. اكتشف المأكولات المحلية المفضلة الآن!",
       "page_intro": "هونغ كونغ هي عاصمة طهي عالمية حيث يلتقي الشرق بالغرب. مشهد الطعام هو مزيج من أكشاك الشوارع (داي باي دونج) ومطاعم تشا تشان تينغ التاريخية وتناول الطعام الفاخر.",
       "items": [
         {
@@ -876,7 +897,7 @@
           "description": "يُعرف بأنه أحد أرخص المطاعم الحائزة على نجمة ميشلان. كعك لحم الخنزير المشوي المخبوز ضروري مع قشرة خارجية مقرمشة وحلوة.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "خبز لحم الخنزير المشوي",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -887,7 +908,7 @@
           "description": "مؤسسة عائلية حائزة على نجمة ميشلان في سنترال تشوي الإوز إلى حد الكمال، مع بشرة مقرمشة ولحم طري مليء بالعصارة.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "إوز مشوي مع الأرز أو لاي فن",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -898,7 +919,7 @@
           "description": "السوق الليلي الأكثر حيوية. احصل على كرسي بلاستيكي واستمتع بسرطان البحر الحار وأرز القدر الفخاري في جو داي باي دونج.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "أرز في قدر فخاري وجراد البحر الحار",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -909,7 +930,7 @@
           "description": "متجر نودلز أسطوري يقدم أفضل لحم صدر بقري في المدينة، طري يذوب في مرق صافٍ أو صلصة كاري غنية.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "نودلز لحم البقر بالكاري",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -920,7 +941,7 @@
           "description": "مقهى تشا تشان تينغ يشتهر بالبيض المخفوق الرقيق بشكل لا يصدق والخدمة السريعة للغاية.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "بيض مخفوق على توست سميك",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -931,7 +952,7 @@
           "description": "بيت شاي تاريخي لا يزال يُقدم فيه الديم سوم من العربات التقليدية في جو فوضوي وأصيل.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "هار جاو وسيو ماي من العربات المتنقلة",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -942,7 +963,7 @@
           "description": "ملك تارت البيض على طراز هونغ كونغ. يتميز بمعجنات زبدية مقرمشة مع حشوة كاسترد البيض الأصفر الزاهي.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "تارت البيض المخبوزة حديثًا",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -953,15 +974,15 @@
           "description": "المعيار الذهبي لنودلز وونتون. يقدمون حصصًا صغيرة من نودلز البيض وونتون الروبيان الطازج في مرق دقيق.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "شوربة نودلز الوونتون",
           "klook_query": "Mak's Noodle Hong Kong"
         }
       ]
     },
     "bn": {
-      "seo_title": "হংকংয়ের সেরা খাবার 2026 - শীর্ষ রেস্টুরেন্ট এবং ডিম সাম গাইড",
-      "seo_description": "হংকংয়ে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। মিশেলিন-তারকাযুক্ত ডিম সাম থেকে শুরু করে দাই পাই ডং পর্যন্ত।",
+      "seo_title": "হংকংয়ের ৮ সেরা খাবার ২০২৬ - অবশ্যই চেষ্টা করুন!",
+      "seo_description": "সেরা স্থানীয় খাবার ও রেস্টুরেন্টের সত্যিকারের সুপারিশ পান। Klook দিয়ে বুকিং করুন এবং আপনার খাবারের পরিকল্পনা এখনই করুন!",
       "page_intro": "হংকং একটি বিশ্বমানের রন্ধনসম্পর্কীয় রাজধানী যেখানে পূর্ব পশ্চিমের সাথে মিলিত হয়। শহরের খাবারের দৃশ্যটি রাস্তার খাবারের স্টল, ঐতিহাসিক চা চান টেং এবং বিলাসবহুল ফাইন ডাইনিং এর মিশ্রণ।",
       "items": [
         {
@@ -971,7 +992,7 @@
           "description": "বিশ্বের সবচেয়ে সস্তা মিশেলিন-তারকাযুক্ত রেস্তোরাঁগুলির মধ্যে একটি হিসাবে পরিচিত। তাদের বেকড বিবিকিউ পর্ক বানগুলি মিষ্টি, খাস্তা বাইরের সাথে একটি আবশ্যকীয় পদ।",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "বেকড বারবিকিউ পোর্ট বান",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -982,7 +1003,7 @@
           "description": "সেন্ট্রালে একটি মিশেলিন-তারকাযুক্ত পারিবারিক প্রতিষ্ঠান। হাঁসকে পুরোপুরি ভাজা হয়, যার ফলে খাস্তা চামড়া এবং রসালো মাংস হয়।",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "রোস্ট গুজ উইথ রাইস অর লেই ফান",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -993,7 +1014,7 @@
           "description": "সবচেয়ে প্রাণবন্ত রাতের বাজার। 'দাই পাই ডং' পরিবেশে মশলাদার মরিচ কাঁকড়া এবং ক্লেপট ভাত উপভোগ করুন।",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "ক্লোপট রাইস অ্যান্ড চিলি ক্র্যাব",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -1004,7 +1025,7 @@
           "description": "একটি কিংবদন্তি নুডল শপ যা শহরের সেরা গরুর মাংসের ব্রিসকেট পরিবেশন করে, যা একটি পরিষ্কার ঝোল বা সমৃদ্ধ কারি সসে গলে যায়।",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "কারি বিফ ব্রিসকেট ই-ফু নুডলস",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -1015,7 +1036,7 @@
           "description": "অবিশ্বাস্যভাবে ফ্লাফি স্ক্র্যাম্বলড ডিম এবং কুখ্যাতভাবে দ্রুত পরিষেবার জন্য বিখ্যাত একটি 'চা চান টেং'।",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "থিক টোস্টে স্ক্রাম্বলড এগস",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -1026,7 +1047,7 @@
           "description": "একটি ঐতিহাসিক চা ঘর যেখানে ডিম সাম এখনও একটি বিশৃঙ্খল, খাঁটি পরিবেশে ঐতিহ্যবাহী ঠেলাগাড়ি থেকে পরিবেশন করা হয়।",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "হার গাও এবং সিউ মাই ফ্রম দ্য পুশকার্টস",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -1037,7 +1058,7 @@
           "description": "হংকং ধাঁচের ডিমের টার্টের অবিসংবাদিত রাজা। একটি উজ্জ্বল হলুদ, নিখুঁত মিষ্টি ডিম কাস্টার্ড ভরাট সহ মাখনযুক্ত পেস্ট্রি।",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "ফ্রেশলি বেকড এগ টার্টস",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -1048,16 +1069,16 @@
           "description": "ওনটন নুডলসের জন্য সোনার মান। তারা তাজা চিংড়ি ওনটনের সাথে বসন্তের ডিমের নুডলসের ছোট অংশ পরিবেশন করে।",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "ওন্টন নুডল স্যুপ",
           "klook_query": "Mak's Noodle Hong Kong"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшая еда в Гонконге 2026 — Гид по ресторанам и димсамам",
-      "seo_description": "Откройте для себя лучшие рестораны и уличную еду в Гонконге. От димсамов со звездой Мишлен до шумных дай пай донгов.",
-      "page_intro": "Гонконг — кулинарная столица мирового класса, где Восток встречается с Западом. Гастрономическая сцена представляет собой захватывающее сочетание уличных киосков (дай пай донгов), исторических ча чаан тенгов и роскошных ресторанов.",
+      "seo_title": "10 Лучшая еда в Гонконге 2026 — Обязательно попробуйте",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
+      "page_intro": "Гонконг — это кулинарный рай, где вы сможете попробовать такие деликатесы, как жареная утка и димсамы. Откройте для себя лучшие места с помощью наших рекомендаций и забронируйте с Klook!",
       "items": [
         {
           "id": "tim-ho-wan-sham-shui-po",
@@ -1066,7 +1087,7 @@
           "description": "Известен как один из самых дешевых ресторанов со звездой Мишлен в мире. Обязательно закажите фирменные запеченные булочки со свининой барбекю с хрустящей сладкой корочкой.",
           "image_keyword": "tim ho wan bbq pork bun hong kong",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "HK$150–300",
           "must_try": "Печеные булочки с барбекю из свинины",
           "klook_query": "Tim Ho Wan Hong Kong"
         },
@@ -1077,7 +1098,7 @@
           "description": "Семейное заведение со звездой Мишлен в Центральном районе. Гусь обжаривается до совершенства: хрустящая корочка и сочное мясо.",
           "image_keyword": "yat lok roast goose central",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Жареный гусь с рисом или лаи-фун",
           "klook_query": "Yat Lok Roast Goose"
         },
@@ -1088,7 +1109,7 @@
           "description": "Самый оживленный ночной рынок. Сядьте на пластиковый табурет и насладитесь острым крабом чили и рисом в глиняном горшочке в атмосфере 'дай пай донг'.",
           "image_keyword": "temple street night market dai pai dong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$30–80",
           "must_try": "Рис в глиняном горшке с крабом в остром соусе",
           "klook_query": "Temple Street Night Market Tour"
         },
@@ -1099,7 +1120,7 @@
           "description": "Легендарная лапшичная, где подают лучшую в городе говяжью грудинку, тающую во рту в прозрачном бульоне или густом соусе карри.",
           "image_keyword": "kau kee beef brisket noodle",
           "star_rating": 4.2,
-          "price_range": "$",
+          "price_range": "HK$50–100",
           "must_try": "Кари из говяжьей грудинки с лапшой Е-фу",
           "klook_query": "Central Hong Kong Food Tour"
         },
@@ -1110,7 +1131,7 @@
           "description": "Квинтэссенция гонконгского 'ча чаан тенга', славящаяся невероятно пышной яичницей-болтуньей и печально известным быстрым обслуживанием.",
           "image_keyword": "australian dairy company scrambled eggs",
           "star_rating": 4.1,
-          "price_range": "$",
+          "price_range": "HK$30–60",
           "must_try": "Яичница на толстом тосте",
           "klook_query": "Hong Kong Cha Chaan Teng Tour"
         },
@@ -1121,7 +1142,7 @@
           "description": "Исторический чайный дом, где димсамы до сих пор подают с традиционных тележек в хаотичной и аутентичной атмосфере.",
           "image_keyword": "lin heung tea house dim sum cart",
           "star_rating": 4,
-          "price_range": "$$",
+          "price_range": "HK$100–200",
           "must_try": "Хар гоу и сиу май из тележек",
           "klook_query": "Traditional Dim Sum Tour Hong Kong"
         },
@@ -1132,7 +1153,7 @@
           "description": "Бесспорный король яичных тартов в гонконгском стиле. Маслянистое песочное тесто с теплой сладкой заварной начинкой.",
           "image_keyword": "tai cheong bakery egg tart hong kong",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "HK$20–50",
           "must_try": "Свежевыпеченные яичные тарталетки",
           "klook_query": "Soho Hong Kong Food Tour"
         },
@@ -1143,11 +1164,14 @@
           "description": "Золотой стандарт лапши вонтон. Они подают небольшие порции упругой яичной лапши со свежими вонтонами с креветками.",
           "image_keyword": "mak s noodle wonton hong kong",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "HK$80–150",
           "must_try": "Суп с лапшой и вонтоном",
           "klook_query": "Mak's Noodle Hong Kong"
         }
-      ]
+      ],
+      "faq_q1": "Какое лучшее блюдо попробовать в Гонконге?",
+      "faq_q2": "Где можно найти лучшие рестораны в Гонконге?",
+      "faq_a2_suffix": " являются одними из самых высоко оцененных мест для ужина."
     }
   }
 }

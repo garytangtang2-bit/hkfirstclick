@@ -2,9 +2,9 @@
   "city_slug": "tokyo",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Tokyo 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Tokyo. Find opening hours, ticket prices and booking links for Tokyo's top landmarks.",
-      "page_intro": "Tokyo, the bustling capital of Japan, seamlessly blends traditional and modern attractions, making it a must-visit destination. From its towering skyscrapers to historic temples, Tokyo offers a unique cultural experience. Visitors can indulge in world-class dining, explore cutting-edge fashion districts, and immerse themselves in rich history. Whether you're marveling at the panoramic city views or savoring authentic Japanese cuisine, Tokyo promises an unforgettable adventure.",
+      "seo_title": "8 Must-See Attractions in Tokyo 2026 - Complete Guide",
+      "seo_description": "Discover Tokyo's top sights with tickets, hours, and insider tips. Book now on Klook for an unforgettable adventure!",
+      "page_intro": "Experience the vibrant energy of Tokyo, where tradition meets innovation at iconic landmarks like Tokyo Tower and Senso-ji Temple. Discover serene spots like Shinjuku Gyoen National Garden and more! Skip the lines and book via Klook for a hassle-free adventure.",
       "items": [
         {
           "id": "tokyo-tower",
@@ -102,12 +102,16 @@
           "best_time": "afternoon",
           "klook_query": "Ginza shopping tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Tokyo?",
+      "faq_q2": "Do I need tickets for attractions in Tokyo?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions require tickets for entry. You can easily purchase them in advance through Klook for a seamless experience."
     },
     "zh": {
-      "seo_title": "東京2026年熱門景點 — 門票、提示與完整指南",
-      "seo_description": "探索東京的最佳景點。查找開放時間、票價和東京地標的預訂連結。",
-      "page_intro": "東京，這座繁忙的日本首都，完美地融合了傳統與現代景點，是一個必訪的目的地。從高聳的摩天大樓到歷史悠久的寺廟，東京提供了獨特的文化體驗。遊客可以享受世界級的餐飲，探索前沿時尚區，並沉浸在豐富的歷史中。無論是驚嘆於全景城市景觀還是品嘗正宗的日本料理，東京都承諾帶來難忘的冒險。",
+      "seo_title": "2026年東京最佳景點 — 8大必看景點完整指南",
+      "seo_description": "獲取東京熱門景點的票價、開放時間及內部提示，立即透過Klook預訂，開始您的東京之旅！",
+      "page_intro": "探索東京這座充滿活力的城市，從東京塔的壯觀景致到淺草寺的歷史魅力，無不讓人心醉。無論您是尋找文化遺產還是現代時尚，東京都能提供獨特的體驗。立即透過Klook預訂，輕鬆避開排隊，開始您的冒險！",
       "items": [
         {
           "id": "tokyo-tower",
@@ -205,12 +209,16 @@
           "best_time": "afternoon",
           "klook_query": "Ginza shopping tour"
         }
-      ]
+      ],
+      "faq_q1": "東京有哪些必訪的景點？",
+      "faq_q2": "在東京的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必看的景點之一。",
+      "faq_a2": "大多數景點都需要購票，建議您透過Klook提前購票，以便更方便地進入景點。"
     },
     "ja": {
-      "seo_title": "東京の人気観光地2026 — チケット、ヒント＆完全ガイド",
-      "seo_description": "東京の人気ランドマークの営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "日本の首都東京は、伝統と現代の観光地が見事に融合し、訪れる価値のある目的地です。高層ビルから歴史的な寺院まで、東京はユニークな文化体験を提供します。世界クラスの食事を楽しみ、最先端のファッション地区を探索し、豊かな歴史に浸ることができます。広大な都市の景色を楽しんだり、本格的な和食を堪能したりする中で、東京は忘れられない冒険を約束します。",
+      "seo_title": "2026年東京の必見観光地8選 — 完全ガイド",
+      "seo_description": "東京タワーや浅草寺の営業時間、チケット価格、Klook予約リンクをチェックして、素晴らしい旅を計画しましょう！",
+      "page_intro": "東京は、東京タワーや浅草の浅草寺、そして新宿御苑など、魅力的な観光スポットが満載の都市です。伝統と現代が交錯するこの街で、特別な体験をお楽しみください。行列を避けて、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "tokyo-tower",
@@ -308,12 +316,16 @@
           "best_time": "afternoon",
           "klook_query": "Ginza shopping tour"
         }
-      ]
+      ],
+      "faq_q1": "東京の主な観光名所は何ですか？",
+      "faq_q2": "東京の観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、多くの観光名所には入場チケットが必要です。Klookを利用すれば、事前にチケットを購入してスムーズに入場できます。"
     },
     "ko": {
-      "seo_title": "도쿄 최고의 명소 2026 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "도쿄 최고의 명소를 탐험하세요. 도쿄의 주요 랜드마크의 영업 시간, 티켓 가격 및 예약 링크를 찾을 수 있습니다.",
-      "page_intro": "일본의 번화한 수도 도쿄는 전통과 현대의 명소가 조화롭게 어우러져 꼭 방문해야 할 목적지입니다. 높은 마천루부터 역사적인 사원까지, 도쿄는 독특한 문화 경험을 제공합니다. 방문객들은 세계적 수준의 식사를 즐기고, 최첨단 패션 지역을 탐험하며, 풍부한 역사에 몰입할 수 있습니다. 파노라마 도시 전망을 감상하거나 정통 일본 요리를 맛보며 도쿄는 잊을 수 없는 모험을 약속합니다.",
+      "seo_title": "2026 도쿄 최고의 8개 명소 — 완벽 가이드",
+      "seo_description": "도쿄의 인기 명소 영업 시간, 티켓 가격, Klook 예약 링크와 함께 숨겨진 보석도 발견하세요. 지금 바로 계획하세요!",
+      "page_intro": "도쿄는 전통과 현대가 완벽하게 어우러진 매력적인 도시입니다. 도쿄 타워, 센소지 사원, 신주쿠 교엔과 같은 상징적인 명소를 탐험하며 잊지 못할 경험을 만끽하세요. 긴 줄을 피하고 Klook을 통해 미리 예약하세요!",
       "items": [
         {
           "id": "tokyo-tower",
@@ -411,12 +423,16 @@
           "best_time": "afternoon",
           "klook_query": "Ginza shopping tour"
         }
-      ]
+      ],
+      "faq_q1": "도쿄에서 꼭 가봐야 할 명소는 무엇인가요?",
+      "faq_q2": "도쿄의 명소에 입장하려면 티켓이 필요한가요?",
+      "faq_a1_suffix": " 도쿄에서 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "대부분의 명소에는 입장 티켓이 필요합니다. Klook을 통해 미리 티켓을 구매하면 긴 줄을 피할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Principales attractions à Tokyo 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de Tokyo. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Tokyo.",
-      "page_intro": "Tokyo, la capitale animée du Japon, allie harmonieusement attractions traditionnelles et modernes, en faisant une destination incontournable. Des gratte-ciels imposants aux temples historiques, Tokyo offre une expérience culturelle unique. Les visiteurs peuvent se délecter d'une cuisine de classe mondiale, explorer les quartiers de mode à la pointe et s'immerger dans une riche histoire. Que vous vous émerveilliez devant les vues panoramiques de la ville ou savouriez une cuisine japonaise authentique, Tokyo promet une aventure inoubliable.",
+      "seo_title": "Top 8 Attractions à Tokyo 2026 — Guide Complet et Billets",
+      "seo_description": "Explorez les horaires, prix et astuces pour Tokyo. Réservez vos billets sur Klook et découvrez les incontournables de la ville!",
+      "page_intro": "Tokyo, une métropole fascinante où tradition et modernité se rencontrent, vous invite à explorer ses trésors emblématiques comme la Tokyo Tower et le temple Senso-ji. Découvrez des jardins paisibles et savourez une cuisine raffinée. Réservez facilement vos visites via Klook pour une expérience sans tracas.",
       "items": [
         {
           "id": "tokyo-tower",
@@ -514,11 +530,15 @@
           "best_time": "afternoon",
           "klook_query": "Ginza shopping tour"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Tokyo ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Tokyo ?",
+      "faq_a1_suffix": " sont parmi les incontournables.",
+      "faq_a2": "Oui, il est conseillé d'acheter des billets à l'avance pour éviter les files d'attente. Vous pouvez réserver vos billets facilement sur Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones en Tokio 2026 — Entradas, consejos y guía completa",
-      "seo_description": "Explora las mejores atracciones en Tokio. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Tokio.",
+      "seo_title": "Las 8 Mejores Atracciones en Tokio 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las atracciones de Tokio. Reserva tus entradas en Klook y vive una experiencia inolvidable.",
       "page_intro": "Tokio, la bulliciosa capital de Japón, combina a la perfección atracciones tradicionales y modernas, convirtiéndola en un destino imprescindible. Desde sus imponentes rascacielos hasta templos históricos, Tokio ofrece una experiencia cultural única. Los visitantes pueden disfrutar de cenas de clase mundial, explorar distritos de moda de vanguardia e impregnarse de una rica historia. Ya sea admirando las vistas panorámicas de la ciudad o saboreando la auténtica cocina japonesa, Tokio promete una aventura inolvidable.",
       "items": [
         {
@@ -620,7 +640,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Terbaik di Tokyo 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik di Tokyo 2026 — Panduan Lengkap",
       "seo_description": "Jelajahi atraksi terbaik di Tokyo. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama di Tokyo.",
       "page_intro": "Tokyo, ibu kota Jepang yang ramai, memadukan atraksi tradisional dan modern dengan sempurna, menjadikannya tujuan yang wajib dikunjungi. Dari gedung pencakar langit yang menjulang hingga kuil bersejarah, Tokyo menawarkan pengalaman budaya yang unik. Pengunjung dapat menikmati santapan kelas dunia, menjelajahi distrik mode mutakhir, dan mendalami sejarah yang kaya. Apakah Anda terkagum-kagum dengan pemandangan kota yang panoramik atau menikmati masakan Jepang otentik, Tokyo menjanjikan petualangan yang tak terlupakan.",
       "items": [
@@ -826,9 +846,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Tóquio 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Tóquio 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações de Tóquio. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Tóquio.",
-      "page_intro": "Tóquio, a movimentada capital do Japão, mistura perfeitamente atrações tradicionais e modernas, tornando-a um destino imperdível. De seus arranha-céus imponentes a templos históricos, Tóquio oferece uma experiência cultural única. Os visitantes podem desfrutar de refeições de classe mundial, explorar distritos de moda de ponta e mergulhar em uma rica história. Quer você esteja maravilhado com as vistas panorâmicas da cidade ou saboreando a autêntica culinária japonesa, Tóquio promete uma aventura inesquecível.",
+      "page_intro": "Descubra a fascinante Tóquio, onde a tradição se encontra com a modernidade em cada esquina. Maravilhe-se com ícones como a Torre de Tóquio e o Templo Senso-ji, enquanto explora o tranquilo Jardim Nacional Shinjuku Gyoen. Não perca a chance de viver essa experiência única – reserve sua visita com a Klook!",
       "items": [
         {
           "id": "tokyo-tower",
@@ -926,10 +946,14 @@
           "best_time": "afternoon",
           "klook_query": "Ginza shopping tour"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Tóquio?",
+      "faq_q2": "Preciso de ingressos para as atrações em Tóquio?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, é recomendável adquirir ingressos para as atrações com antecedência. Você pode comprar facilmente seus ingressos pela Klook."
     },
     "ar": {
-      "seo_title": "أهم المعالم السياحية في طوكيو 2026 - تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل معالم طوكيو 2026: دليل شامل وتذاكر",
       "seo_description": "استكشف أفضل المعالم السياحية في طوكيو. اكتشف ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم طوكيو.",
       "page_intro": "طوكيو، العاصمة الصاخبة لليابان، تمزج بسلاسة بين المعالم التقليدية والحديثة، مما يجعلها وجهة لا بد من زيارتها. من ناطحات السحاب الشاهقة إلى المعابد التاريخية، تقدم طوكيو تجربة ثقافية فريدة. يمكن للزوار الاستمتاع بتناول الطعام العالمي، استكشاف أحياء الموضة المتطورة، والانغماس في تاريخ غني. سواء كنت تتأمل في مناظر المدينة البانورامية أو تستمتع بالمأكولات اليابانية الأصيلة، تعد طوكيو بمغامرة لا تُنسى.",
       "items": [
@@ -1032,8 +1056,8 @@
       ]
     },
     "bn": {
-      "seo_title": "টোকিওর শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "টোকিওর সেরা আকর্ষণগুলি এক্সপ্লোর করুন। টোকিওর শীর্ষ ল্যান্ডমার্কগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "টোকিওর ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "টোকিওর সেরা আকর্ষণগুলোর টিকিট, খোলার সময় ও টিপস জানুন। Klook থেকে বুকিং করুন এবং আপনার যাত্রা পরিকল্পনা শুরু করুন!",
       "page_intro": "টোকিও, জাপানের ব্যস্ত রাজধানী, ঐতিহ্যবাহী এবং আধুনিক আকর্ষণগুলির সুনিপুণ সংমিশ্রণ, যা এটিকে একটি অবশ্যই দেখার মতো গন্তব্য করে তোলে। এর আকাশচুম্বী অট্টালিকা থেকে ঐতিহাসিক মন্দির পর্যন্ত, টোকিও একটি অনন্য সাংস্কৃতিক অভিজ্ঞতা প্রদান করে। দর্শকরা বিশ্বমানের ডাইনিং উপভোগ করতে পারেন, অত্যাধুনিক ফ্যাশন জেলার অন্বেষণ করতে পারেন এবং সমৃদ্ধ ইতিহাসে নিমজ্জিত হতে পারেন। আপনি শহরের প্যানোরামিক দৃশ্য দেখে মুগ্ধ হন বা আসল জাপানি খাবারের স্বাদ নিচ্ছেন কিনা, টোকিও একটি অবিস্মরণীয় অ্যাডভেঞ্চার প্রতিশ্রুতি দেয়।",
       "items": [
         {
@@ -1135,7 +1159,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие Достопримечательности Токио 2026 — Билеты, Советы и Полный Гид",
+      "seo_title": "Топ 10 Достопримечательностей Токио 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Токио. Найдите часы работы, цены на билеты и ссылки на бронирование для главных достопримечательностей Токио.",
       "page_intro": "Токио, оживленная столица Японии, безупречно сочетает в себе традиционные и современные достопримечательности, делая его обязательным местом для посещения. От его возвышающихся небоскребов до исторических храмов, Токио предлагает уникальный культурный опыт. Посетители могут насладиться блюдами мирового класса, исследовать передовые модные районы и погрузиться в богатую историю. Независимо от того, восхищаетесь ли вы панорамными видами на город или наслаждаетесь аутентичной японской кухней, Токио обещает незабываемое приключение.",
       "items": [

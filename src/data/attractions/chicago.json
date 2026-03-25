@@ -2,9 +2,9 @@
   "city_slug": "chicago",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Chicago 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Chicago. Find opening hours, ticket prices and booking links for Chicago's top landmarks.",
-      "page_intro": "Chicago, known for its stunning skyline, vibrant culture, and rich history, offers a wealth of attractions for every traveler. From world-class museums to iconic landmarks, this city is a playground for both art lovers and adventure seekers. Whether you're wandering through its charming neighborhoods or savoring deep-dish pizza, Chicago promises unforgettable experiences.",
+      "seo_title": "8 Must-See Attractions in Chicago 2026 — Complete Guide",
+      "seo_description": "Discover Chicago's top attractions with tickets, hours, and insider tips. Book now via Klook for an unforgettable adventure!",
+      "page_intro": "Dive into the heart of Chicago, where iconic landmarks like Millennium Park and Navy Pier meet hidden gems waiting to be discovered. Experience the city's vibrant culture and culinary delights—skip the lines, book via Klook!",
       "items": [
         {
           "id": "millennium-park",
@@ -103,12 +103,16 @@
           "klook_query": "Buddhist Temple Chicago",
           "photo_url": "https://images.pexels.com/photos/50541/dhammakaya-pagoda-more-than-million-budhas-50541.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Chicago?",
+      "faq_q2": "Do I need tickets for attractions in Chicago?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Chicago require tickets for entry. To make your visit seamless, consider booking through Klook for convenient access."
     },
     "zh": {
-      "seo_title": "2026年芝加哥最佳景點 — 票務、提示及完整指南",
-      "seo_description": "探索芝加哥最佳景點。查找芝加哥主要地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "芝加哥以其壯觀的天際線、充滿活力的文化和豐富的歷史而聞名，為每位旅行者提供了豐富的景點。從世界級的博物館到標誌性的地標，這座城市是藝術愛好者和冒險者的遊樂場。無論你是在迷人的社區中漫遊，還是品嚐深盤披薩，芝加哥都承諾提供難忘的體驗。",
+      "seo_title": "2026年芝加哥8大必看景點 — 完整指南",
+      "seo_description": "探索芝加哥的最佳景點，獲取票務、開放時間及內部提示，立即透過Klook預訂，開啟您的旅程！",
+      "page_intro": "探索芝加哥的魅力，這裡擁有令人驚豔的地標和隱藏的寶藏。從千禧公園的綠意盎然到藝術學院的文化瑰寶，這座城市保證為你帶來難忘的回憶。立即透過Klook預訂，輕鬆跳過排隊！",
       "items": [
         {
           "id": "millennium-park",
@@ -206,12 +210,16 @@
           "best_time": "morning",
           "klook_query": "Buddhist Temple Chicago"
         }
-      ]
+      ],
+      "faq_q1": "芝加哥的熱門景點有哪些？",
+      "faq_q2": "在芝加哥的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您透過Klook提前購買，以便避免排隊和確保入場。"
     },
     "ja": {
-      "seo_title": "2026年シカゴのトップアトラクション — チケット、ヒント＆完全ガイド",
-      "seo_description": "シカゴの最高のアトラクションを探索しましょう。シカゴの主要なランドマークの営業時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "シカゴは、その美しいスカイライン、活気ある文化、豊かな歴史で知られており、旅行者にとっての魅力が豊富です。世界クラスの博物館からアイコニックなランドマークまで、この都市はアート愛好者と冒険者の遊び場です。魅力的な近隣を散策したり、ディープディッシュピザを味わったりする中で、シカゴは忘れられない体験を約束します。",
+      "seo_title": "2026年シカゴの必見アトラクション8選 — 完全ガイド",
+      "seo_description": "シカゴのチケット、営業時間、インサイダー情報をチェック！Klookで予約して、最高の体験をお楽しみください。",
+      "page_intro": "シカゴは、壮大なスカイラインと豊かな文化が交差する場所です。ミレニアムパークやアートインスティチュートなど、アイコニックな名所や隠れた宝物が満載。行列を避けて、Klookでスムーズに予約しましょう！",
       "items": [
         {
           "id": "millennium-park",
@@ -309,12 +317,16 @@
           "best_time": "morning",
           "klook_query": "Buddhist Temple Chicago"
         }
-      ]
+      ],
+      "faq_q1": "シカゴのトップアトラクションは何ですか？",
+      "faq_q2": "シカゴのアトラクションにはチケットが必要ですか？",
+      "faq_a1_suffix": "ミレニアムパークやアートインスティチュート、ネイビーピアなどが必見のアトラクションです。",
+      "faq_a2": "はい、ほとんどのアトラクションには入場チケットが必要です。Klookを利用すれば、簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 시카고 최고의 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "시카고의 최고의 명소를 탐험하세요. 시카고의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "시카고는 아름다운 스카이라인, 활기찬 문화, 풍부한 역사로 유명하며, 모든 여행자를 위한 풍부한 명소를 제공합니다. 세계적인 박물관부터 상징적인 랜드마크까지 이 도시는 예술 애호가와 모험가를 위한 놀이터입니다. 매력적인 이웃을 산책하거나 딥디쉬 피자를 맛보는 등, 시카고는 잊을 수 없는 경험을 약속합니다.",
+      "seo_title": "2026년 시카고 최고의 8대 명소 — 완벽 가이드",
+      "seo_description": "시카고의 명소 운영 시간, 티켓 가격 및 Klook 예약 링크를 확인하세요. 지금 바로 여행 계획을 세워보세요!",
+      "page_intro": "시카고는 매혹적인 명소가 가득한 도시로, 밀레니엄 파크와 시카고 미술관, 네이비 피어와 같은 상징적인 랜드마크가 있습니다. Klook을 통해 줄 서지 않고 편리하게 예약하세요!",
       "items": [
         {
           "id": "millennium-park",
@@ -412,11 +424,15 @@
           "best_time": "morning",
           "klook_query": "Buddhist Temple Chicago"
         }
-      ]
+      ],
+      "faq_q1": "시카고의 주요 명소는 무엇인가요?",
+      "faq_q2": "시카고의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 밀레니엄 파크, 시카고 미술관, 네이비 피어 등이 필수 방문 명소입니다.",
+      "faq_a2": "네, 대부분의 명소는 입장권이 필요합니다. Klook을 이용하면 미리 예약하고 편리하게 입장할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Attractions Principales à Chicago 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de Chicago. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Chicago.",
+      "seo_title": "Top 8 Attractions à Chicago 2026 - Guide Incontournable",
+      "seo_description": "Découvrez les horaires, prix et conseils pour visiter Chicago. Réservez facilement vos billets sur Klook et explorez les trésors cachés de la ville!",
       "page_intro": "Chicago, connue pour son impressionnante skyline, sa culture vibrante et son histoire riche, offre une multitude d'attractions pour chaque voyageur. Des musées de classe mondiale aux monuments emblématiques, cette ville est un terrain de jeu pour les amateurs d'art et les chercheurs d'aventure. Que vous vous promeniez dans ses charmants quartiers ou que vous savouriez une pizza à croûte épaisse, Chicago promet des expériences inoubliables.",
       "items": [
         {
@@ -518,8 +534,8 @@
       ]
     },
     "es": {
-      "seo_title": "Principales Atracciones en Chicago 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Chicago. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Chicago.",
+      "seo_title": "8 Atracciones Imperdibles en Chicago 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Chicago. Reserva tus entradas en Klook y ¡explora la ciudad!",
       "page_intro": "Chicago, conocida por su impresionante horizonte, vibrante cultura e historia rica, ofrece una gran cantidad de atracciones para cada viajero. Desde museos de clase mundial hasta monumentos icónicos, esta ciudad es un parque de diversiones para amantes del arte y buscadores de aventuras. Ya sea que estés paseando por sus encantadores vecindarios o saboreando una pizza de plato hondo, Chicago promete experiencias inolvidables.",
       "items": [
         {
@@ -621,8 +637,8 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in Chicago 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Chicago. Find opening hours, ticket prices and booking links for Chicago's top landmarks.",
+      "seo_title": "8 Atraksi Terbaik di Chicago 2026 - Panduan Lengkap",
+      "seo_description": "Temukan tiket, jam buka, dan tips dalam panduan kami. Pesan melalui Klook dan jelajahi Chicago dengan cara terbaik!",
       "page_intro": "Chicago, known for its stunning skyline, vibrant culture, and rich history, offers a wealth of attractions for every traveler. From world-class museums to iconic landmarks, this city is a playground for both art lovers and adventure seekers. Whether you're wandering through its charming neighborhoods or savoring deep-dish pizza, Chicago promises unforgettable experiences.",
       "items": [
         {
@@ -827,7 +843,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Chicago 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Chicago 2026 — Guia e Dicas",
       "seo_description": "Explore as melhores atrações de Chicago. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Chicago.",
       "page_intro": "Chicago, conhecida por seu deslumbrante horizonte, cultura vibrante e rica história, oferece uma riqueza de atrações para cada viajante. Desde museus de classe mundial até marcos icônicos, esta cidade é um playground tanto para amantes da arte quanto para os que buscam aventura. Se você está passeando por seus encantadores bairros ou saboreando uma pizza de prato profundo, Chicago promete experiências inesquecíveis.",
       "items": [
@@ -930,7 +946,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في شيكاغو 2026 - تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل 10 معالم في شيكاغو 2026 - دليل كامل",
       "seo_description": "استكشف أفضل المعالم السياحية في شيكاغو. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في شيكاغو.",
       "page_intro": "تُعرف شيكاغو بأفقها المذهل وثقافتها النابضة بالتنوع وتاريخها الغني، وتقدم ثروة من المعالم السياحية لكل مسافر. من المتاحف العالمية المستوى إلى المعالم الأيقونية، تعتبر هذه المدينة ملعبًا لعشاق الفن والباحثين عن المغامرة. سواء كنت تتجول في أحيائها الساحرة أو تستمتع ببيتزا عميقة، تعدك شيكاغو بتجارب لا تُنسى.",
       "items": [
@@ -1035,7 +1051,7 @@
     "bn": {
       "seo_title": "শিকাগোর শীর্ষ আকর্ষণ 2026 — টিকেট, টিপস এবং সম্পূর্ণ গাইড",
       "seo_description": "শিকাগোর সেরা আকর্ষণগুলি আবিষ্কার করুন। শিকাগোর শীর্ষ স্থাপনাগুলির জন্য খোলার সময়, টিকেটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
-      "page_intro": "শিকাগো, যার চমৎকার আকাশরেখা, প্রাণবন্ত সংস্কৃতি এবং সমৃদ্ধ ইতিহাসের জন্য পরিচিত, প্রতিটি ভ্রমণকারীর জন্য আকর্ষণের একটি সমৃদ্ধ ভাণ্ডার অফার করে। বিশ্বমানের জাদুঘর থেকে আইকনিক স্থাপনাগুলিতে, এই শহরটি শিল্পপ্রেমী এবং অ্যাডভেঞ্চার অনুসন্ধানকারীদের জন্য একটি playground। আপনি এর আকর্ষণীয় পাড়ায় ঘোরাফেরা করুন বা গভীর-ডিশ পিজ্জার স্বাদ নিন, শিকাগো অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দেয়।",
+      "page_intro": "শিকাগো, যার চমৎকার স্থাপত্য এবং সংস্কৃতির সমাহার, ভ্রমণকারীদের জন্য এক অসাধারণ অভিজ্ঞতা নিয়ে আসে। মিলেনিয়াম পার্ক, আর্ট ইনস্টিটিউট এবং নেভি পিয়ারসহ শহরের আইকনিক স্থানগুলোতে ঘুরে দেখুন। লাইনে দাঁড়ানোর ঝামেলা এড়িয়ে Klook-এর মাধ্যমে বুকিং করুন!",
       "items": [
         {
           "id": "millennium-park",
@@ -1133,12 +1149,16 @@
           "best_time": "morning",
           "klook_query": "Buddhist Temple Chicago"
         }
-      ]
+      ],
+      "faq_q1": "শিকাগোর শীর্ষ আকর্ষণগুলো কী কী?",
+      "faq_q2": "শিকাগোর আকর্ষণের জন্য কি টিকিট প্রয়োজন?",
+      "faq_a1_suffix": " শহরের অবশ্যই দেখা উচিত আকর্ষণ।",
+      "faq_a2": "হ্যাঁ, বেশিরভাগ আকর্ষণের জন্য টিকিট প্রয়োজন। Klook-এর মাধ্যমে সহজে এবং দ্রুত টিকিট বুকিং করতে পারেন।"
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Чикаго 2026 — Билеты, Советы и Полное Руководство",
+      "seo_title": "Топ 10 достопримечательностей Чикаго 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Чикаго. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Чикаго.",
-      "page_intro": "Чикаго, известный своим потрясающим горизонтом, яркой культурой и богатой историей, предлагает множество достопримечательностей для каждого путешественника. От музеев мирового уровня до знаковых памятников, этот город является площадкой как для любителей искусства, так и для искателей приключений. Независимо от того, гуляете ли вы по его очаровательным районам или наслаждаетесь глубокой пиццей, Чикаго обещает незабываемые впечатления.",
+      "page_intro": "Чикаго — это город, где встречаются искусство и архитектура, предлагая неповторимые достопримечательности, такие как Миллениум Парк и Институт искусств. Откройте для себя как известные памятники, так и скрытые жемчужины, и сделайте свою поездку незабываемой. Пропустите очереди, бронируйте через Klook!",
       "items": [
         {
           "id": "millennium-park",
@@ -1236,7 +1256,11 @@
           "best_time": "morning",
           "klook_query": "Buddhist Temple Chicago"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Чикаго?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Чикаго?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для многих достопримечательностей требуются билеты. Вы можете легко приобрести их через Klook."
     }
   }
 }

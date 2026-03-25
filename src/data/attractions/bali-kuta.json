@@ -2,9 +2,9 @@
   "city_slug": "bali-kuta",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Bali 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Bali. Find opening hours, ticket prices and booking links for Bali's top landmarks.",
-      "page_intro": "Bali, often referred to as the 'Island of the Gods,' is a dream destination known for its lush landscapes, stunning beaches, and rich cultural heritage. Whether you're drawn to its vibrant arts scene, traditional temples, or thrilling outdoor activities, Bali offers something for every traveler. Discover the island's famous landmarks, indulge in world-class dining, and immerse yourself in the local culture. From the bustling streets of Kuta to the serene rice terraces of Ubud, Bali promises an unforgettable experience.",
+      "seo_title": "8 Must-See Attractions in Bali Kuta 2026 - Complete Guide",
+      "seo_description": "Discover Bali Kuta's top attractions with tickets, opening hours, and insider tips. Book with Klook for an unforgettable experience!",
+      "page_intro": "Uncover the magic of Kuta, Bali, where stunning beaches meet vibrant culture. Explore iconic landmarks like Uluwatu Temple and Tanah Lot, and don't miss the enchanting Ubud Monkey Forest. Skip the lines and book via Klook for an unforgettable adventure!",
       "items": [
         {
           "id": "uluwatu-temple",
@@ -102,12 +102,16 @@
           "best_time": "morning",
           "klook_query": "Besakih Temple tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Bali-Kuta?",
+      "faq_q2": "Do I need tickets for attractions in Bali-Kuta?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions require tickets for entry. You can easily purchase them through Klook for a seamless experience."
     },
     "zh": {
-      "seo_title": "2026年巴厘島最佳景點 - 門票、提示和完整指南",
-      "seo_description": "探索巴厘島的最佳景點。查找開放時間、門票價格和巴厘島頂級地標的預訂鏈接。",
-      "page_intro": "巴厘島，通常被稱為“眾神之島”，是一個夢幻目的地，以其鬱鬱蔥蔥的景觀、迷人的海灘和豐富的文化遺產而聞名。無論您是被其充滿活力的藝術場景、傳統寺廟還是刺激的戶外活動所吸引，巴厘島都為每位旅行者提供了選擇。探索島上的著名地標，享受世界級的餐飲，並沉浸在當地文化中。從庫塔的繁忙街道到烏布寧靜的稻田，巴厘島承諾帶給您難忘的體驗。",
+      "seo_title": "2026年巴厘島庫塔區8大必看景點 - 完整指南",
+      "seo_description": "獲取巴厘島庫塔區最佳景點的門票、開放時間和內部提示，立即透過Klook預訂，開始您的冒險！",
+      "page_intro": "發現巴厘島的魅力，這裡擁有壯觀的烏魯瓦圖寺、迷人的烏布猴森林和壯麗的塔納洛特。無論您是文化愛好者還是冒險家，這裡都能滿足您的需求。立即透過Klook預訂，省去排隊的煩惱！",
       "items": [
         {
           "id": "uluwatu-temple",
@@ -205,12 +209,16 @@
           "best_time": "morning",
           "klook_query": "Besakih Temple tour"
         }
-      ]
+      ],
+      "faq_q1": "巴厘島的熱門景點有哪些？",
+      "faq_q2": "在巴厘島的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必遊的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您透過Klook提前購票，以便輕鬆入場，避免排隊。"
     },
     "ja": {
-      "seo_title": "2026年バリ島のトップ観光スポット - チケット、ヒント、完全ガイド",
-      "seo_description": "バリ島のベストアトラクションを探索しましょう。バリ島の主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "バリ島は「神々の島」とも称され、緑豊かな風景、美しいビーチ、豊かな文化遺産で知られる夢のような目的地です。活気あるアートシーン、伝統的な寺院、スリリングなアウトドアアクティビティに惹かれる方にとって、バリ島はすべての旅行者に何かを提供します。島の有名なランドマークを発見し、世界クラスの食事を楽しみ、地元文化に浸りましょう。クタの賑やかな街からウブドの静かな棚田まで、バリ島は忘れられない体験を約束します。",
+      "seo_title": "2026年バリ・クタの必見観光スポット8選 - 完全ガイド",
+      "seo_description": "バリ・クタの観光名所のチケット、営業時間、インサイダー情報をチェック！Klookで簡単予約を。今すぐ計画を始めましょう！",
+      "page_intro": "バリ島クタは、ウルワツ寺院やウブドの猿の森、タナロットなど、魅力的な観光スポットが満載の楽園です。隠れた宝石を探しながら、心に残る体験をお楽しみください。手間なく予約するならKlookで！",
       "items": [
         {
           "id": "uluwatu-temple",
@@ -308,11 +316,15 @@
           "best_time": "morning",
           "klook_query": "Besakih Temple tour"
         }
-      ]
+      ],
+      "faq_q1": "バリ島クタの主な観光名所は何ですか？",
+      "faq_q2": "バリ島クタの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光スポットです。",
+      "faq_a2": "はい、ほとんどの観光名所には入場チケットが必要です。Klookを利用すれば、事前にスムーズにチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "발리 최고의 명소 2026 - 티켓, 팁 및 완벽 가이드",
-      "seo_description": "발리의 최고의 명소를 탐험하세요. 발리의 주요 랜드마크의 개장 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
+      "seo_title": "발리 꾸따 2026 - 8가지 꼭 가봐야 할 명소 완벽 가이드",
+      "seo_description": "발리의 숨겨진 보석들을 발견하세요. 티켓, 개장 시간, Klook 예약 링크 및 유용한 팁을 확인해보세요!",
       "page_intro": "발리는 '신들의 섬'으로 자주 불리며 푸르른 경관, 멋진 해변, 풍부한 문화 유산으로 유명한 꿈의 여행지입니다. 활기찬 예술 현장, 전통 사원 또는 스릴 넘치는 야외 활동에 끌리든, 발리는 모든 여행자에게 무언가를 제공합니다. 섬의 유명한 랜드마크를 발견하고, 세계적인 수준의 식사를 즐기며, 현지 문화에 몰입하세요. 쿠타의 번화한 거리에서 우붓의 고요한 논밭까지, 발리는 잊을 수 없는 경험을 약속합니다.",
       "items": [
         {
@@ -414,8 +426,8 @@
       ]
     },
     "fr": {
-      "seo_title": "Principales Attractions à Bali 2026 - Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de Bali. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Bali.",
+      "seo_title": "Top 5 Attractions à Bali Kuta 2026 - Guide Complet",
+      "seo_description": "Découvrez les heures d'ouverture, les prix et les liens Klook pour les meilleures attractions de Bali Kuta. Réservez votre aventure dès maintenant !",
       "page_intro": "Bali, souvent appelée 'l'Île des Dieux', est une destination de rêve connue pour ses paysages luxuriants, ses plages magnifiques et son riche patrimoine culturel. Que vous soyez attiré par sa scène artistique vibrante, ses temples traditionnels ou ses activités de plein air palpitantes, Bali offre quelque chose pour chaque voyageur. Découvrez les célèbres monuments de l'île, profitez de la cuisine de classe mondiale et immergez-vous dans la culture locale. Des rues animées de Kuta aux rizières sereines d'Ubud, Bali promet une expérience inoubliable.",
       "items": [
         {
@@ -517,8 +529,8 @@
       ]
     },
     "es": {
-      "seo_title": "Principales Atracciones en Bali 2026 - Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en Bali. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Bali.",
+      "seo_title": "Top 8 Atracciones en Kuta, Bali 2026 - Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Kuta. Reserva tus entradas en Klook y vive la experiencia al máximo.",
       "page_intro": "Bali, a menudo conocida como la 'Isla de los Dioses', es un destino de ensueño famoso por sus paisajes exuberantes, playas impresionantes y rica herencia cultural. Ya sea que te atraiga su vibrante escena artística, sus templos tradicionales o sus emocionantes actividades al aire libre, Bali ofrece algo para cada viajero. Descubre los famosos monumentos de la isla, disfruta de la gastronomía de clase mundial e inmersiónate en la cultura local. Desde las bulliciosas calles de Kuta hasta las serenas terrazas de arroz de Ubud, Bali promete una experiencia inolvidable.",
       "items": [
         {
@@ -620,7 +632,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Terbaik di Bali 2026 - Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Atraksi Terbaik Bali 2026: 10 Tips & Panduan",
       "seo_description": "Jelajahi atraksi terbaik di Bali. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark terkemuka di Bali.",
       "page_intro": "Bali, sering disebut sebagai 'Pulau Dewata', adalah destinasi impian yang dikenal dengan pemandangan subur, pantai yang menakjubkan, dan warisan budaya yang kaya. Baik Anda tertarik dengan seni yang hidup, kuil tradisional, atau aktivitas luar ruang yang menantang, Bali menawarkan sesuatu untuk setiap wisatawan. Temukan landmark terkenal di pulau ini, nikmati santapan kelas dunia, dan meresapi budaya lokal. Dari jalanan sibuk Kuta hingga teras padi yang tenang di Ubud, Bali menjanjikan pengalaman tak terlupakan.",
       "items": [
@@ -826,7 +838,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Bali 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Bali 2026 — Dicas e Ingressos",
       "seo_description": "Explore as melhores atrações de Bali. Encontre horários de abertura, preços de ingressos e links de reservas para os principais pontos turísticos de Bali.",
       "page_intro": "Bali, muitas vezes referida como a 'Ilha dos Deuses', é um destino dos sonhos conhecido por suas paisagens exuberantes, praias deslumbrantes e rica herança cultural. Seja você atraído pela sua vibrante cena artística, templos tradicionais ou atividades ao ar livre emocionantes, Bali oferece algo para cada viajante. Descubra os famosos marcos da ilha, desfrute de refeições de classe mundial e mergulhe na cultura local. Das ruas movimentadas de Kuta aos serenos terraços de arroz de Ubud, Bali promete uma experiência inesquecível.",
       "items": [
@@ -929,7 +941,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في بالي 2026 — التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في بالي 2026 — دليل شامل",
       "seo_description": "اكتشف أفضل المعالم السياحية في بالي. اعثر على أوقات الافتتاح، أسعار التذاكر وروابط الحجز لأهم المعالم في بالي.",
       "page_intro": "بالي، التي تعرف غالبًا باسم 'جزيرة الآلهة'، هي وجهة حلم تشتهر بمناظرها الطبيعية الخلابة، وشواطئها الرائعة، وتراثها الثقافي الغني. سواء كنت تجذبك مشهدها الفني النابض بالحياة، أو معابدها التقليدية، أو الأنشطة الخارجية المثيرة، تقدم بالي شيئًا لكل مسافر. اكتشف المعالم الشهيرة للجزيرة، استمتع بتناول الطعام على مستوى عالمي، وانغمس في الثقافة المحلية. من شوارع كوتا المزدحمة إلى مدرجات الأرز الهادئة في أوبود، تعد بالي بتجربة لا تُنسى.",
       "items": [
@@ -1032,9 +1044,9 @@
       ]
     },
     "bn": {
-      "seo_title": "বালির শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "বালির সেরা আকর্ষণগুলি অন্বেষণ করুন। বালির শীর্ষ ল্যান্ডমার্কগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
-      "page_intro": "বালি, যা প্রায়ই 'দেবতাদের দ্বীপ' নামে পরিচিত, তার সবুজ প্রাকৃতিক দৃশ্য, দৃষ্টিনন্দন সমুদ্র সৈকত এবং সমৃদ্ধ সাংস্কৃতিক ঐতিহ্যের জন্য স্বপ্নের গন্তব্য। আপনি যদি এর উজ্জ্বল শিল্প দৃশ্য, ঐতিহ্যবাহী মন্দির বা উত্তেজনাপূর্ণ বাহ্যিক ক্রিয়াকলাপের দিকে আকৃষ্ট হন, বালি প্রতিটি ভ্রমণকারীর জন্য কিছু না কিছু অফার করে। দ্বীপের বিখ্যাত ল্যান্ডমার্কগুলি আবিষ্কার করুন, বিশ্বস্তরীয় ডাইনিংয়ে মগ্ন হন এবং স্থানীয় সংস্কৃতিতে নিমগ্ন হন। কুটার ব্যস্ত রাস্তা থেকে উবুদ এর শান্ত ধানক্ষেত্র পর্যন্ত, বালি একটি অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দেয়।",
+      "seo_title": "বালির কুতায় ২০২৬ সালের সেরা ৮ আকর্ষণ — সম্পূর্ণ গাইড",
+      "seo_description": "বালির কুতার শীর্ষ ৮ আকর্ষণ, টিকিটের দাম, খোলার সময় ও Klook বুকিং লিঙ্কের জন্য এখনই আমাদের গাইড দেখুন!",
+      "page_intro": "বালি, 'দেবতাদের দ্বীপ', আপনাকে স্বপ্নের মতো অভিজ্ঞতার জন্য আমন্ত্রণ জানাচ্ছে। উলুওয়াতু মন্দির, উবুদ বানর বন এবং তানাহ লটের মতো আইকনিক স্থানগুলো আবিষ্কার করুন। লাইনে দাঁড়ানোর প্রয়োজন নেই, Klook-এর মাধ্যমে বুক করুন।",
       "items": [
         {
           "id": "uluwatu-temple",
@@ -1132,12 +1144,16 @@
           "best_time": "morning",
           "klook_query": "Besakih Temple tour"
         }
-      ]
+      ],
+      "faq_q1": "বালির শীর্ষ আকর্ষণগুলি কী কী?",
+      "faq_q2": "বালির আকর্ষণের জন্য কি টিকিটের প্রয়োজন?",
+      "faq_a1_suffix": " উলুওয়াতু মন্দির, উবুদ বানর বন এবং তানাহ লট এর মধ্যে অন্যতম।",
+      "faq_a2": "হ্যাঁ, বেশিরভাগ আকর্ষণের জন্য টিকিট প্রয়োজন। Klook-এর মাধ্যমে সহজেই আপনার টিকিট বুক করতে পারেন।"
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Бали 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Бали 2026 — Гид",
       "seo_description": "Исследуйте лучшие достопримечательности Бали. Найдите часы работы, цены на билеты и ссылки на бронирование для лучших достопримечательностей Бали.",
-      "page_intro": "Бали, часто называемый 'Островом Богов', является мечтой для путешественников, известной своими пышными пейзажами, потрясающими пляжами и богатым культурным наследием. Будь то яркая художественная сцена, традиционные храмы или захватывающие дух активные мероприятия, Бали предлагает что-то для каждого путешественника. Откройте для себя известные достопримечательности острова, наслаждайтесь мирового уровня кухней и погрузитесь в местную культуру. От оживленных улиц Куты до спокойных рисовых террас Убуда, Бали обещает незабываемое впечатление.",
+      "page_intro": "Откройте для себя захватывающий мир Куты на Бали, где вас ждут величественные храмы, такие как Улувату, и уникальные природные уголки, как Лес Обезьян в Убуде. Забудьте о длинных очередях – бронируйте через Klook и наслаждайтесь каждым моментом!",
       "items": [
         {
           "id": "uluwatu-temple",
@@ -1235,7 +1251,11 @@
           "best_time": "morning",
           "klook_query": "Besakih Temple tour"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Куте?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Куте?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей требуются билеты. Рекомендуем бронировать через Klook для удобства и экономии времени."
     }
   }
 }

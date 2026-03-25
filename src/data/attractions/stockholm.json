@@ -2,9 +2,9 @@
   "city_slug": "stockholm",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Stockholm 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Stockholm. Find opening hours, ticket prices and booking links for Stockholm's top landmarks.",
-      "page_intro": "Stockholm, the capital of Sweden, is a stunning city spread across 14 islands connected by over 50 bridges. Known for its rich history, vibrant culture, and beautiful architecture, Stockholm offers a blend of modern life and historical charm. From the historic Gamla Stan to the serene Djurgården, there is something for every traveler to explore and enjoy.",
+      "seo_title": "8 Must-See Attractions in Stockholm 2026 — Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for Stockholm's top attractions. Book your adventure with Klook today!",
+      "page_intro": "Discover the enchanting beauty of Stockholm, where history meets modernity across 14 picturesque islands. Explore iconic landmarks like the Vasa Museum and the charming streets of Gamla Stan. Experience the best of this vibrant city—skip the lines and book via Klook!",
       "items": [
         {
           "id": "gamla-stan",
@@ -102,12 +102,16 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Stockholm?",
+      "faq_q2": "Do I need tickets for attractions in Stockholm?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Stockholm require tickets for entry. You can conveniently purchase them through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年斯德哥爾摩最佳景點 — 票務、提示與完整指南",
-      "seo_description": "探索斯德哥爾摩最佳景點。查找開放時間、票價和斯德哥爾摩主要地標的預訂鏈接。",
-      "page_intro": "斯德哥爾摩是瑞典的首都，這座城市分布在14個島嶼上，通過50多座橋梁相連。以其豐富的歷史、生動的文化和美麗的建築而聞名，斯德哥爾摩提供了現代生活與歷史魅力的完美結合。從歷史悠久的舊城區到寧靜的Djurgården，這裡有每位旅客都可探索和享受的東西。",
+      "seo_title": "2026年斯德哥爾摩8大必看景點 — 完整指南",
+      "seo_description": "獲取斯德哥爾摩最佳景點的票務、開放時間與內部提示，立即透過Klook預訂，開啟你的冒險之旅！",
+      "page_intro": "斯德哥爾摩擁有令人驚嘆的景點，如古老的Gamla Stan和壯觀的瓦薩博物館，還有充滿自然美的Skansen。無論您是歷史愛好者還是文化探索者，這裡都能讓您陶醉其中。立即透過Klook預訂，跳過排隊，享受無憂的旅程！",
       "items": [
         {
           "id": "gamla-stan",
@@ -205,12 +209,16 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "斯德哥爾摩有哪些熱門景點？",
+      "faq_q2": "我需要購買斯德哥爾摩的景點門票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，大多數景點都需要購票。您可以透過Klook輕鬆購買門票，避免排隊的麻煩。"
     },
     "ja": {
-      "seo_title": "2026年ストックホルムのトップアトラクション — チケット、ヒント＆完全ガイド",
-      "seo_description": "ストックホルムの最高の観光スポットを探索しましょう。ストックホルムの主要な名所の営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "ストックホルムはスウェーデンの首都で、50以上の橋で結ばれた14の島に広がる美しい都市です。豊かな歴史、生き生きとした文化、美しい建築で知られるストックホルムは、現代生活と歴史的な魅力が融合した場所を提供します。歴史的なガムラスタンから静かなDjurgårdenまで、旅行者が探索し楽しむための何かがあります。",
+      "seo_title": "2026年ストックホルムの必見アトラクション8選 — 完全ガイド",
+      "seo_description": "ストックホルムの名所のチケット、営業時間、インサイダー情報をチェック！Klookで簡単予約を。今すぐ計画を立てよう！",
+      "page_intro": "ストックホルムの魅力的な観光地を探索しませんか？歴史あるガムラスタンや壮大なヴァーサ博物館、自然豊かなスカンセンなど、見どころが満載です。行列を避けて、Klookで簡単に予約しましょう！",
       "items": [
         {
           "id": "gamla-stan",
@@ -308,12 +316,16 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "ストックホルムの主な観光スポットは何ですか？",
+      "faq_q2": "ストックホルムの観光地にはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見の観光名所です。",
+      "faq_a2": "はい、多くの観光地には入場チケットが必要です。Klookを利用すれば、事前に簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 스톡홀름 최고의 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "스톡홀름의 최고의 명소를 탐험하세요. 스톡홀름의 주요 명소에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "스톡홀름은 스웨덴의 수도로, 50개 이상의 다리로 연결된 14개의 섬에 걸쳐 있는 아름다운 도시입니다. 풍부한 역사, 활기찬 문화, 아름다운 건축물로 유명한 스톡홀름은 현대 생활과 역사적 매력이 조화를 이루는 곳입니다. 역사적인 감라 스탄에서 고요한 Djurgården까지, 여행자가 탐험하고 즐길 수 있는 무언가가 있습니다.",
+      "seo_title": "2026년 스톡홀름 필수 명소 8곳 — 완벽 가이드",
+      "seo_description": "스톡홀름의 필수 명소 운영 시간, 티켓 가격, 예약 링크(Klook)까지! 지금 바로 탐험을 시작하세요!",
+      "page_intro": "스톡홀름은 매혹적인 역사와 현대적 매력이 어우러진 도시입니다. 감라 스탄의 고풍스러운 거리에서 바사 박물관의 독특한 전시까지, 여행자들에게 잊지 못할 경험을 제공합니다. 줄을 서지 않고 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "gamla-stan",
@@ -411,12 +423,16 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "스톡홀름의 주요 명소는 무엇인가요?",
+      "faq_q2": "스톡홀름의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 감라 스탄, 바사 박물관, 스카센이 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소는 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Attractions Principales à Stockholm 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Découvrez les meilleures attractions de Stockholm. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Stockholm.",
-      "page_intro": "Stockholm, la capitale de la Suède, est une ville magnifique répartie sur 14 îles reliées par plus de 50 ponts. Connue pour sa riche histoire, sa culture vibrante et sa belle architecture, Stockholm offre un mélange de vie moderne et de charme historique. De l'historique Gamla Stan au serein Djurgården, il y a quelque chose à explorer et à apprécier pour chaque voyageur.",
+      "seo_title": "Top 8 Attractions à Stockholm 2026 - Guide Incontournable",
+      "seo_description": "Découvrez les horaires, prix et astuces pour les 8 meilleures attractions de Stockholm. Réservez vos billets sur Klook et explorez la ville!",
+      "page_intro": "Découvrez Stockholm, une ville où l'histoire rencontre la modernité à chaque coin de rue. Explorez des joyaux comme le Vasa Museum et le charmant Gamla Stan, tout en profitant de la sérénité de Skansen. Évitez les files d'attente, réservez via Klook !",
       "items": [
         {
           "id": "gamla-stan",
@@ -514,12 +530,16 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Stockholm ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Stockholm ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les files d'attente. Vous pouvez facilement réserver vos billets via Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Estocolmo 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Estocolmo. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Estocolmo.",
-      "page_intro": "Estocolmo, la capital de Suecia, es una ciudad impresionante que se extiende por 14 islas conectadas por más de 50 puentes. Conocida por su rica historia, vibrante cultura y hermosa arquitectura, Estocolmo ofrece una mezcla de vida moderna y encanto histórico. Desde el histórico Gamla Stan hasta el sereno Djurgården, hay algo para que cada viajero explore y disfrute.",
+      "seo_title": "Top 8 Atracciones Imperdibles en Estocolmo 2026",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las mejores atracciones de Estocolmo. ¡Planifica tu visita hoy mismo!",
+      "page_intro": "¡Descubre Estocolmo, una joya escandinava llena de sorpresas! Desde la encantadora Gamla Stan hasta el fascinante Museo Vasa, cada rincón cuenta una historia. No te pierdas la oportunidad de vivir esta experiencia, reserva a través de Klook.",
       "items": [
         {
           "id": "gamla-stan",
@@ -617,10 +637,14 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuáles son las principales atracciones en Estocolmo?",
+      "faq_q2": "¿Necesito entradas para las atracciones en Estocolmo?",
+      "faq_a1_suffix": " son algunas de las atracciones que no te puedes perder.",
+      "faq_a2": "Sí, la mayoría de las atracciones requieren entradas. Puedes comprarlas fácilmente a través de Klook para evitar filas y asegurar tu visita."
     },
     "id": {
-      "seo_title": "Atraksi Teratas di Stockholm 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik di Stockholm 2026 - Panduan Lengkap",
       "seo_description": "Jelajahi atraksi terbaik di Stockholm. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama di Stockholm.",
       "page_intro": "Stockholm, ibu kota Swedia, adalah kota yang menakjubkan yang tersebar di 14 pulau yang terhubung oleh lebih dari 50 jembatan. Dikenal karena sejarah yang kaya, budaya yang hidup, dan arsitektur yang indah, Stockholm menawarkan perpaduan antara kehidupan modern dan pesona sejarah. Dari Gamla Stan yang bersejarah hingga Djurgården yang tenang, ada sesuatu untuk setiap pelancong untuk dijelajahi dan dinikmati.",
       "items": [
@@ -826,9 +850,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Estocolmo 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top Atrações em Estocolmo 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações de Estocolmo. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Estocolmo.",
-      "page_intro": "Estocolmo, a capital da Suécia, é uma cidade deslumbrante espalhada por 14 ilhas conectadas por mais de 50 pontes. Conhecida por sua rica história, cultura vibrante e bela arquitetura, Estocolmo oferece uma mistura de vida moderna e charme histórico. Desde o histórico Gamla Stan até o sereno Djurgården, há algo para cada viajante explorar e desfrutar.",
+      "page_intro": "Descubra Estocolmo, uma cidade mágica onde história e modernidade se encontram em cada esquina. Explore os encantos de Gamla Stan, a impressionante coleção do Museu Vasa e a natureza viva de Skansen. Não perca tempo nas filas, reserve sua experiência pela Klook!",
       "items": [
         {
           "id": "gamla-stan",
@@ -926,10 +950,14 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Estocolmo?",
+      "faq_q2": "Preciso de ingressos para as atrações em Estocolmo?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, é recomendável adquirir ingressos para as atrações. Compre facilmente pelo Klook e evite filas!"
     },
     "ar": {
-      "seo_title": "أهم المعالم السياحية في ستوكهولم 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل معالم ستوكهولم 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في ستوكهولم. اعثر على ساعات العمل، وأسعار التذاكر وروابط الحجز لأهم المعالم السياحية في ستوكهولم.",
       "page_intro": "ستوكهولم، عاصمة السويد، هي مدينة رائعة منتشرة عبر 14 جزيرة متصلة بأكثر من 50 جسرًا. معروفة بتاريخها الغني، وثقافتها النابضة بالحياة، وعمارتها الجميلة، تقدم ستوكهولم مزيجًا من الحياة الحديثة والسحر التاريخي. من غاملا ستان التاريخية إلى دجيرغاردن الهادئة، هناك شيء لكل مسافر لاستكشافه والاستمتاع به.",
       "items": [
@@ -1032,8 +1060,8 @@
       ]
     },
     "bn": {
-      "seo_title": "স্টকহোমের শীর্ষ আকর্ষণ ২০২৬ - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "স্টকহোমের সেরা আকর্ষণগুলি অন্বেষণ করুন। স্টকহোমের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "স্টকহোমের ৮টি শীর্ষ আকর্ষণ ২০২৬ - সম্পূর্ণ গাইড",
+      "seo_description": "স্টকহোমের সেরা আকর্ষণের টিকিট, খোলার সময় ও টিপস পান। Klook থেকে বুকিং করুন এবং আপনার ভ্রমণ পরিকল্পনা শুরু করুন!",
       "page_intro": "স্টকহোম, সুইডেনের রাজধানী, ১৪টি দ্বীপে বিস্তৃত একটি দৃষ্টিনন্দন শহর যা ৫০টিরও বেশি সেতুর মাধ্যমে সংযুক্ত। এর সমৃদ্ধ ইতিহাস, প্রাণবন্ত সংস্কৃতি এবং সুন্দর স্থাপত্যের জন্য পরিচিত, স্টকহোম আধুনিক জীবন এবং ঐতিহাসিক আকর্ষণের একটি মিশ্রণ প্রদান করে। ঐতিহাসিক গামলা স্ট্যান থেকে শুরু করে শান্ত ডিউর্গার্ডেন পর্যন্ত, প্রতিটি পর্যটকের জন্য কিছু না কিছু আবিষ্কার এবং উপভোগের জন্য রয়েছে।",
       "items": [
         {
@@ -1135,9 +1163,9 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Стокгольма 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Стокгольма 2026",
       "seo_description": "Изучите лучшие достопримечательности Стокгольма. Найдите часы работы, цены на билеты и ссылки для бронирования на основные достопримечательности Стокгольма.",
-      "page_intro": "Стокгольм, столица Швеции, — это удивительный город, расположенный на 14 островах, соединенных более чем 50 мостами. Известный своим богатым историческим наследием, яркой культурой и красивой архитектурой, Стокгольм предлагает сочетание современной жизни и исторического очарования. От исторического Гамла Стан до спокойного Дьюргарден, здесь есть что-то для каждого путешественника, чтобы исследовать и наслаждаться.",
+      "page_intro": "Откройте для себя волшебство Стокгольма, где исторические сокровища, такие как Гамла Стан и Васа Музей, соседствуют с живописными парками и современными галереями. Исследуйте уникальные достопримечательности и не упустите возможность забронировать экскурсии через Klook!",
       "items": [
         {
           "id": "gamla-stan",
@@ -1235,7 +1263,11 @@
           "best_time": "anytime",
           "klook_query": "Karlskirche tickets"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Стокгольме?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Стокгольме?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей требуются билеты. Рекомендуем приобрести их через Klook, чтобы избежать очередей и сэкономить время."
     }
   }
 }

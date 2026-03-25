@@ -2,9 +2,9 @@
   "city_slug": "las-vegas",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Las Vegas 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Las Vegas. Find opening hours, ticket prices and booking links for Las Vegas's top landmarks.",
-      "page_intro": "Las Vegas, known as the Entertainment Capital of the World, offers a dazzling array of attractions that promise unforgettable experiences. From iconic landmarks and luxurious resorts to vibrant nightlife and world-class dining, there's something for everyone. Whether you're visiting for the first time or returning to explore more, this guide will help you discover the best that Las Vegas has to offer.",
+      "seo_title": "8 Must-See Attractions in Las Vegas 2026 - Complete Guide",
+      "seo_description": "Discover top attractions with tickets, hours & insider tips. Book now on Klook for an unforgettable Las Vegas experience!",
+      "page_intro": "Dive into the electrifying allure of Las Vegas, where iconic landmarks like The Strip and the Bellagio Fountains await your discovery. Uncover hidden gems and vibrant experiences that make every visit unique. Skip the lines and book your adventure via Klook!",
       "items": [
         {
           "id": "the-strip",
@@ -90,12 +90,16 @@
           "best_time": "morning",
           "klook_query": "red-rock-canyon"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Las Vegas?",
+      "faq_q2": "Do I need tickets for attractions in Las Vegas?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions require tickets for entry. You can easily purchase them in advance through Klook for a hassle-free experience."
     },
     "zh": {
-      "seo_title": "2026年拉斯維加斯最佳景點 — 門票、提示及完整指南",
-      "seo_description": "探索拉斯維加斯最佳景點。查找開放時間、票價和拉斯維加斯主要地標的預訂連結。",
-      "page_intro": "拉斯維加斯，被譽為世界娛樂之都，提供一系列令人驚嘆的景點，保證讓您難忘的體驗。從標誌性地標和豪華度假村到充滿活力的夜生活和世界級餐飲，這裡應有盡有。無論您是第一次造訪還是回來探索更多，本指南將幫助您發現拉斯維加斯的最佳景點。",
+      "seo_title": "2026年拉斯維加斯8大必看景點 — 完整指南",
+      "seo_description": "獲取拉斯維加斯最佳景點的票價、開放時間及內部提示，並透過Klook輕鬆預訂，立即開始你的冒險！",
+      "page_intro": "拉斯維加斯，這座充滿活力的城市，擁有無數令人驚嘆的景點，從璀璨的拉斯維加斯大道到迷人的弗里蒙特街體驗，無一不令人心動。別忘了壯觀的貝拉吉奧噴泉，這裡的每一刻都值得珍藏。立即透過Klook預訂，輕鬆跳過排隊，盡情享受這些精彩的景點！",
       "items": [
         {
           "id": "the-strip",
@@ -181,12 +185,16 @@
           "best_time": "morning",
           "klook_query": "red-rock-canyon"
         }
-      ]
+      ],
+      "faq_q1": "拉斯維加斯的熱門景點有哪些？",
+      "faq_q2": "在拉斯維加斯的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必看的景點。",
+      "faq_a2": "是的，大多數景點需要購票。您可以透過Klook輕鬆購買門票，省去排隊的時間。"
     },
     "ja": {
-      "seo_title": "2026年ラスベガスのトップアトラクション - チケット、ヒント＆完全ガイド",
-      "seo_description": "ラスベガスの最高のアトラクションを探索しましょう。開館時間、料金、ラスベガスの主要ランドマークの予約リンクを見つけてください。",
-      "page_intro": "ラスベガスは、世界のエンターテイメントの中心地として知られており、忘れられない体験を約束する魅力的なアトラクションが揃っています。アイコニックなランドマークや豪華なリゾートから活気あるナイトライフ、世界クラスのダイニングまで、誰もが楽しめるものがあります。初めて訪れる方も、再度訪れてさらに探検したい方も、このガイドを参考にしてラスベガスの魅力を発見してください。",
+      "seo_title": "2026年ラスベガスの必見トップアトラクション8選 - 完全ガイド",
+      "seo_description": "ラスベガスのアトラクション情報をチェック！チケット、開館時間、インサイダーのヒントをKlookで予約して、楽しい旅を！",
+      "page_intro": "ラスベガスは、息をのむようなアトラクションが満載のエンターテイメントの楽園です。ストリップの煌びやかな景色や、フremontストリートの活気、ベルラージオの噴水など、訪れる価値のある名所が目白押しです。行列を避けてスムーズに楽しむためには、Klookでの予約がオススメです。",
       "items": [
         {
           "id": "the-strip",
@@ -272,12 +280,16 @@
           "best_time": "morning",
           "klook_query": "red-rock-canyon"
         }
-      ]
+      ],
+      "faq_q1": "ラスベガスのトップアトラクションは何ですか？",
+      "faq_q2": "ラスベガスのアトラクションにはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見のアトラクションです。",
+      "faq_a2": "はい、ほとんどのアトラクションにはチケットが必要です。Klookを利用すれば、簡単に事前予約ができます。"
     },
     "ko": {
-      "seo_title": "2026년 라스베가스 최고의 명소 - 티켓, 팁 및 완벽 가이드",
-      "seo_description": "라스베가스의 최고의 명소를 탐험하세요. 개장 시간, 티켓 가격 및 라스베가스의 주요 랜드마크에 대한 예약 링크를 찾아보세요.",
-      "page_intro": "라스베가스는 세계의 엔터테인먼트 수도로 알려져 있으며, 잊지 못할 경험을 약속하는 다양한 매력적인 명소를 제공합니다. 상징적인 랜드마크와 호화로운 리조트에서부터 활기찬 나이트라이프와 세계적 수준의 다이닝에 이르기까지, 모든 사람을 위한 무언가가 있습니다. 처음 방문하든, 더 많은 것을 탐험하기 위해 돌아오든 이 가이드는 라스베가스의 매력을 발견하는 데 도움을 줄 것입니다.",
+      "seo_title": "2026년 라스베가스 최고의 8개 명소 - 완벽 가이드",
+      "seo_description": "라스베가스의 티켓, 개장 시간, 인사이트 팁을 확인하고 Klook에서 예약하세요. 지금 최고의 명소를 탐험해보세요!",
+      "page_intro": "라스베가스의 매력은 끝이 없고, 이곳에서 잊지 못할 순간을 경험하세요! 상징적인 스트립과 벨라지오 분수, 프리몬트 스트리트의 생동감 넘치는 분위기까지, 모든 것이 여러분을 기다립니다. 줄 서지 않고 Klook을 통해 예약하고 편리하게 즐기세요.",
       "items": [
         {
           "id": "the-strip",
@@ -363,12 +375,16 @@
           "best_time": "morning",
           "klook_query": "red-rock-canyon"
         }
-      ]
+      ],
+      "faq_q1": "라스베가스의 주요 명소는 무엇인가요?",
+      "faq_q2": "라스베가스의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소에는 입장권이 필요합니다. Klook을 통해 미리 예약하면 더 편리하게 즐길 수 있습니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Las Vegas 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Découvrez les meilleures attractions de Las Vegas. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Las Vegas.",
-      "page_intro": "Las Vegas, connue comme la Capitale du Divertissement du Monde, offre une gamme éblouissante d'attractions qui promettent des expériences inoubliables. Des monuments emblématiques et des complexes hôteliers de luxe à une vie nocturne dynamique et une gastronomie de classe mondiale, il y en a pour tous les goûts. Que vous visitiez pour la première fois ou que vous reveniez pour explorer davantage, ce guide vous aidera à découvrir le meilleur que Las Vegas a à offrir.",
+      "seo_title": "8 Must-See Attractions à Las Vegas 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions de Las Vegas. Réservez facilement avec Klook et préparez votre visite!",
+      "page_intro": "Découvrez l'éblouissante magie de Las Vegas, où chaque coin de rue révèle des attractions fascinantes. Des célèbres fontaines du Bellagio aux lumières scintillantes de Fremont Street, chaque visiteur trouvera son bonheur. Évitez les files d'attente et réservez via Klook pour une expérience sans tracas !",
       "items": [
         {
           "id": "the-strip",
@@ -454,10 +470,14 @@
           "best_time": "morning",
           "klook_query": "red-rock-canyon"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Las Vegas ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Las Vegas ?",
+      "faq_a1_suffix": " font partie des incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets. Pensez à réserver vos entrées à l'avance sur Klook pour éviter les files d'attente."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Las Vegas 2026 — Entradas, Consejos y Guía Completa",
+      "seo_title": "Las Vegas 2026: Las 10 Mejores Atracciones y Consejos",
       "seo_description": "Explora las mejores atracciones de Las Vegas. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Las Vegas.",
       "page_intro": "Las Vegas, conocida como la Capital del Entretenimiento del Mundo, ofrece una deslumbrante variedad de atracciones que prometen experiencias inolvidables. Desde monumentos icónicos y lujosos resorts hasta una vida nocturna vibrante y una gastronomía de clase mundial, hay algo para todos. Ya sea que estés visitando por primera vez o regresando para explorar más, esta guía te ayudará a descubrir lo mejor que Las Vegas tiene para ofrecer.",
       "items": [
@@ -548,7 +568,7 @@
       ]
     },
     "id": {
-      "seo_title": "Top Atraksi di Las Vegas 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Top 10 Atraksi Las Vegas 2026 — Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Las Vegas. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Las Vegas.",
       "page_intro": "Las Vegas, yang dikenal sebagai Ibu Kota Hiburan Dunia, menawarkan beragam atraksi yang menjanjikan pengalaman tak terlupakan. Dari landmark ikonik dan resor mewah hingga kehidupan malam yang semarak dan bersantap kelas dunia, ada sesuatu untuk semua orang. Baik Anda mengunjungi untuk pertama kali atau kembali untuk menjelajahi lebih banyak, panduan ini akan membantu Anda menemukan yang terbaik yang ditawarkan Las Vegas.",
       "items": [
@@ -639,7 +659,7 @@
       ]
     },
     "hi": {
-      "seo_title": "लास वेगास में शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
+      "seo_title": "लास वेगास के शीर्ष 10 आकर्षण 2026 — पूर्ण गाइड",
       "seo_description": "लास वेगास के सबसे अच्छे आकर्षणों का अन्वेषण करें। लास वेगास के शीर्ष स्थलों के लिए उद्घाटन के घंटे, टिकट के मूल्य और बुकिंग लिंक खोजें।",
       "page_intro": "लास वेगास, जिसे दुनिया की मनोरंजन राजधानी के रूप में जाना जाता है, आकर्षणों की एक शानदार श्रृंखला प्रदान करता है जो अविस्मरणीय अनुभव का वादा करती है। प्रतीकात्मक स्थलों और शानदार रिसॉर्ट्स से लेकर जीवंत नाइटलाइफ़ और विश्व स्तरीय भोजन तक, यहाँ हर किसी के लिए कुछ न कुछ है। चाहे आप पहली बार आ रहे हों या और अधिक देखने के लिए वापस आ रहे हों, यह गाइड आपको लास वेगास की बेहतरीन चीज़ें खोजने में मदद करेगी।",
       "items": [
@@ -730,7 +750,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Las Vegas 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Las Vegas 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Las Vegas. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Las Vegas.",
       "page_intro": "Las Vegas, conhecida como a Capital do Entretenimento do Mundo, oferece uma deslumbrante variedade de atrações que prometem experiências inesquecíveis. Desde marcos icônicos e resorts luxuosos até vida noturna vibrante e gastronomia de classe mundial, há algo para todos. Se você está visitando pela primeira vez ou retornando para explorar mais, este guia ajudará você a descobrir o melhor que Las Vegas tem a oferecer.",
       "items": [
@@ -821,7 +841,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في لاس فيغاس 2026 — تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل 10 معالم في لاس فيغاس 2026 — دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في لاس فيغاس. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم لاس فيغاس.",
       "page_intro": "تُعرف لاس فيغاس بأنها عاصمة الترفيه في العالم، حيث تقدم مجموعة رائعة من المعالم السياحية التي تعد بتجارب لا تُنسى. من المعالم الشهيرة والمنتجعات الفاخرة إلى الحياة الليلية النابضة والمطاعم العالمية، هناك شيء للجميع. سواء كنت تزور للمرة الأولى أو تعود لاستكشاف المزيد، سيساعدك هذا الدليل في اكتشاف أفضل ما تقدمه لاس فيغاس.",
       "items": [
@@ -912,8 +932,8 @@
       ]
     },
     "bn": {
-      "seo_title": "লাস ভেগাসের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "লাস ভেগাসের সেরা আকর্ষণগুলি অন্বেষণ করুন। লাস ভেগাসের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "seo_title": "লাস ভেগাসের ৮টি সেরা আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "লাস ভেগাসের ৮টি শীর্ষ আকর্ষণ, টিকিটের দাম, খোলার সময় ও Klook বুকিং লিঙ্ক আবিষ্কার করুন। এখনই আপনার ভ্রমণ পরিকল্পনা শুরু করুন!",
       "page_intro": "লাস ভেগাস, যেটিকে বিশ্বের বিনোদনের রাজধানী বলা হয়, অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দিয়ে আকর্ষণের একটি চমকপ্রদ array প্রদান করে। প্রতীকী স্থাপনাগুলি এবং বিলাসবহুল রিসোর্ট থেকে শুরু করে জীবন্ত রাতের জীবন এবং বিশ্বমানের খাবারের দিকে, এখানে সবার জন্য কিছু না কিছু রয়েছে। আপনি প্রথমবারের জন্য আসছেন বা আরও অন্বেষণ করতে ফিরে আসছেন, এই গাইডটি আপনাকে লাস ভেগাসের সেরা জিনিসগুলি খুঁজে পেতে সাহায্য করবে।",
       "items": [
         {
@@ -1003,8 +1023,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Лас-Вегаса 2026 — Билеты, советы и полное руководство",
-      "seo_description": "Изучите лучшие достопримечательности Лас-Вегаса. Найдите часы работы, цены на билеты и ссылки для бронирования основных достопримечательностей Лас-Вегаса.",
+      "seo_title": "10 Лучших Достопримечательностей Лас-Вегаса 2026",
+      "seo_description": "Узнайте о билетах, часах работы и советах по 10must-see достопримечательностям Лас-Вегаса. Бронируйте через Klook и наслаждайтесь!",
       "page_intro": "Лас-Вегас, известный как столица развлечений мира, предлагает ослепительное разнообразие достопримечательностей, которые обещают незабываемые впечатления. От знаковых памятников и роскошных курортов до яркой ночной жизни и ресторанов мирового уровня — здесь есть что-то для каждого. Если вы впервые посещаете город или возвращаетесь, чтобы исследовать больше, этот гид поможет вам открыть для себя лучшее, что может предложить Лас-Вегас.",
       "items": [
         {

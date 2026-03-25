@@ -2,9 +2,9 @@
   "city_slug": "athens",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Athens 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Athens. Find opening hours, ticket prices and booking links for Athens's top landmarks.",
-      "page_intro": "Athens, the cradle of Western civilization, is a vibrant city steeped in history and culture. From its ancient ruins to its bustling neighborhoods, Athens offers a unique blend of old and new. Whether you're wandering through the ancient Agora or enjoying a meal in Plaka, there’s something for every traveler in this fascinating city.",
+      "seo_title": "8 Must-See Attractions in Athens 2026 - Complete Guide",
+      "seo_description": "Discover insider tips, ticket prices, and Klook booking links for Athens's top landmarks. Plan your adventure today!",
+      "page_intro": "Discover the magic of Athens, where ancient history meets vibrant culture! Explore iconic landmarks like the Acropolis and the Acropolis Museum, or stroll through the charming Plaka District. Skip the lines and book your experience via Klook!",
       "items": [
         {
           "id": "acropolis",
@@ -91,12 +91,16 @@
           "best_time": "evening",
           "klook_query": "Lycabettus Hill funicular tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Athens?",
+      "faq_q2": "Do I need tickets for attractions in Athens?",
+      "faq_a1_suffix": " The Acropolis of Athens, Acropolis Museum, and Plaka District",
+      "faq_a2": "Yes, most attractions in Athens require tickets. You can conveniently purchase them through Klook to avoid long queues."
     },
     "zh": {
-      "seo_title": "雅典熱門景點 2026 — 票務、提示與完整指南",
-      "seo_description": "探索雅典最好的景點。查找雅典主要地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "雅典，西方文明的搖籃，是一座充滿歷史和文化的活力城市。從古老的遺跡到繁華的社區，雅典提供了古老與新穎的獨特融合。無論是漫步於古雅典廣場還是在普拉卡享用美食，這座迷人的城市為每位旅客提供了獨特的體驗。",
+      "seo_title": "2026年雅典最佳景點 — 8大必看景點完整指南",
+      "seo_description": "獲取雅典熱門景點的票務、開放時間和內部提示，輕鬆透過Klook預訂，開始您的旅程！",
+      "page_intro": "探索雅典的無窮魅力，從壯麗的雅典衛城到迷人的普拉卡區，這座城市將古老的歷史與現代文化完美融合。無論您是在古雅典廣場漫遊，還是在當地餐廳品味美食，雅典都能為您帶來難忘的體驗。別忘了透過Klook預訂，輕鬆跳過排隊，享受您的旅程！",
       "items": [
         {
           "id": "acropolis",
@@ -182,12 +186,16 @@
           "best_time": "evening",
           "klook_query": "Lycabettus Hill funicular tickets"
         }
-      ]
+      ],
+      "faq_q1": "雅典有哪些必遊景點？",
+      "faq_q2": "在雅典的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必看的景點。",
+      "faq_a2": "是的，大多數景點都需要購票。您可以透過Klook輕鬆購票，避免排隊，節省時間！"
     },
     "ja": {
-      "seo_title": "アテネの人気観光スポット 2026 — チケット、ヒント＆完全ガイド",
-      "seo_description": "アテネの最高の観光スポットを探索しましょう。アテネの主要名所の開館時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "アテネは西洋文明の揺籃であり、歴史と文化に満ちた活気ある都市です。古代遺跡から賑やかな地区まで、アテネは古いものと新しいもののユニークな融合を提供します。古代アゴラを散策したり、プラカで食事を楽しんだりすることで、この魅力的な都市にはすべての旅行者に何かがあります。",
+      "seo_title": "2026年アテネの必見観光スポット8選 - 完全ガイド",
+      "seo_description": "アテネの名所のチケット、開館時間、インサイダー情報をチェック！Klook予約リンクもあり。今すぐ計画を始めましょう！",
+      "page_intro": "アテネの魅力は、アクロポリスやアクロポリス博物館、プラカ地区など、歴史的な名所と隠れた宝石が満載です。古代の遺跡を巡り、地元の美食を堪能しながら、アテネの魅力を存分に楽しんでください。行列を避けて、Klookで簡単に予約しましょう！",
       "items": [
         {
           "id": "acropolis",
@@ -273,12 +281,16 @@
           "best_time": "evening",
           "klook_query": "Lycabettus Hill funicular tickets"
         }
-      ]
+      ],
+      "faq_q1": "アテネのトップアトラクションは何ですか？",
+      "faq_q2": "アテネのアトラクションにはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見のアトラクションです。",
+      "faq_a2": "はい、アテネの多くのアトラクションには入場チケットが必要です。Klookを利用すれば、事前にスムーズにチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "아테네의 주요 관광 명소 2026 — 티켓, 팁 & 완벽 가이드",
-      "seo_description": "아테네의 최고의 관광 명소를 탐험하세요. 아테네의 주요 랜드마크에 대한 개방 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "아테네는 서양 문명의 요람으로, 역사와 문화가 가득한 활기찬 도시입니다. 고대 유적지부터 번화한 동네까지 아테네는 오래된 것과 새로운 것의 독특한 조화를 제공합니다. 고대 아고라를 거닐거나 플라카에서 식사를 즐기든 이 매혹적인 도시는 모든 여행자에게 무언가를 제공합니다.",
+      "seo_title": "2026 아테네의 8대 필수 관광 명소 — 완벽 가이드",
+      "seo_description": "아테네의 주요 관광지 개방 시간, 티켓 가격 및 Klook 예약 링크를 확인하세요. 지금 바로 여행을 계획해보세요!",
+      "page_intro": "아테네는 고대 유적과 현대 문화가 어우러진 매혹적인 도시입니다. 아크로폴리스와 아크로폴리스 박물관, 그리고 플라카 지구를 탐험하며 잊지 못할 경험을 만끽하세요. 긴 줄을 피하고 Klook를 통해 예약하세요.",
       "items": [
         {
           "id": "acropolis",
@@ -364,12 +376,16 @@
           "best_time": "evening",
           "klook_query": "Lycabettus Hill funicular tickets"
         }
-      ]
+      ],
+      "faq_q1": "아테네의 주요 관광지는 무엇인가요?",
+      "faq_q2": "아테네의 관광지에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 관광지에는 입장권이 필요합니다. Klook에서 미리 예약하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Principales attractions d'Athènes 2026 — Billets, conseils et guide complet",
-      "seo_description": "Explorez les meilleures attractions d'Athènes. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites d'Athènes.",
-      "page_intro": "Athènes, le berceau de la civilisation occidentale, est une ville dynamique riche en histoire et en culture. Des ruines anciennes à ses quartiers animés, Athènes offre un mélange unique de l'ancien et du nouveau. Que vous vous promeniez dans l'Agora antique ou que vous dégustiez un repas à Plaka, il y a quelque chose pour chaque voyageur dans cette ville fascinante.",
+      "seo_title": "Top 8 Attractions à Athènes 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions d'Athènes. Réservez vos billets sur Klook et explorez la ville !",
+      "page_intro": "Découvrez Athènes, une ville où l'histoire prend vie à chaque coin de rue ! Entre l'Acropole majestueuse et le musée éblouissant qui lui est dédié, sans oublier les ruelles pittoresques de Plaka, chaque visiteur trouvera son bonheur. Évitez les files d'attente et réservez votre expérience via Klook !",
       "items": [
         {
           "id": "acropolis",
@@ -455,11 +471,15 @@
           "best_time": "evening",
           "klook_query": "Lycabettus Hill funicular tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Athènes ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Athènes ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est conseillé d'acheter des billets à l'avance pour éviter les longues files d'attente. Vous pouvez les réserver facilement sur Klook."
     },
     "es": {
-      "seo_title": "Principales atracciones de Atenas 2026 — Boletos, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Atenas. Encuentra horarios de apertura, precios de boletos y enlaces de reserva para los principales lugares de interés de Atenas.",
+      "seo_title": "Top 8 Atracciones de Atenas 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las mejores atracciones de Atenas. ¡Planifica tu visita ahora y no te lo pierdas!",
       "page_intro": "Atenas, la cuna de la civilización occidental, es una ciudad vibrante llena de historia y cultura. Desde sus antiguas ruinas hasta sus bulliciosos vecindarios, Atenas ofrece una mezcla única de lo antiguo y lo nuevo. Ya sea que estés paseando por la antigua Ágora o disfrutando de una comida en Plaka, hay algo para cada viajero en esta fascinante ciudad.",
       "items": [
         {
@@ -549,7 +569,7 @@
       ]
     },
     "id": {
-      "seo_title": "Tempat Menarik Teratas di Athena 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Tempat Menarik Terbaik di Athena 2026",
       "seo_description": "Jelajahi tempat wisata terbaik di Athena. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas Athena.",
       "page_intro": "Athena, tempat lahir peradaban Barat, adalah kota yang hidup dengan sejarah dan budaya. Dari reruntuhan kuno hingga lingkungan yang ramai, Athena menawarkan perpaduan unik antara yang lama dan yang baru. Baik Anda sedang berjalan-jalan di Agora kuno atau menikmati makanan di Plaka, ada sesuatu untuk setiap pelancong di kota yang menarik ini.",
       "items": [
@@ -731,7 +751,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Atenas 2026 — Ingressos, Dicas & Guia Completo",
+      "seo_title": "Top 10 Atrações em Atenas 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Atenas. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Atenas.",
       "page_intro": "Atenas, o berço da civilização ocidental, é uma cidade vibrante repleta de história e cultura. Desde suas ruínas antigas até seus bairros movimentados, Atenas oferece uma mistura única de antigo e novo. Se você está passeando pela antiga Ágora ou desfrutando de uma refeição em Plaka, há algo para todos os viajantes nesta cidade fascinante.",
       "items": [
@@ -822,7 +842,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في أثينا 2026 - تذاكر، نصائح ودليل كامل",
+      "seo_title": "أفضل 10 معالم في أثينا 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في أثينا. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم السياحية في أثينا.",
       "page_intro": "أثينا، مهد الحضارة الغربية، مدينة نابضة بالحياة مليئة بالتاريخ والثقافة. من أنقاضها القديمة إلى أحيائها النابضة بالحياة، تقدم أثينا مزيجًا فريدًا من القديم والحديث. سواء كنت تتجول في أغورا القديمة أو تستمتع بوجبة في بلاكا، هناك شيء لكل مسافر في هذه المدينة الرائعة.",
       "items": [
@@ -1004,7 +1024,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей Афин 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Афин 2026",
       "seo_description": "Исследуйте лучшие достопримечательности Афин. Найдите часы работы, цены на билеты и ссылки для бронирования основных достопримечательностей Афин.",
       "page_intro": "Афины, колыбель западной цивилизации, являются ярким городом, пропитанным историей и культурой. От древних руин до шумных районов, Афины предлагают уникальное сочетание старого и нового. Независимо от того, гуляете ли вы по древней Агоре или наслаждаетесь обедом в Плаке, в этом увлекательном городе есть что-то для каждого путешественника.",
       "items": [

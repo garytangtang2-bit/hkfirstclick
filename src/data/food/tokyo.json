@@ -2,9 +2,9 @@
   "city_slug": "tokyo",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Tokyo 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Tokyo. From budget market eats to fine dining — with booking links.",
-      "page_intro": "Tokyo is a culinary powerhouse holding the most Michelin stars in the world, yet its casual dining and street food are equally spectacular. From sizzling yakitori in narrow alleyways to meticulously crafted sushi at dawn, the city offers an endless journey of flavors. Whether navigating the bustling stalls of Tsukiji or slurping rich tonkotsu ramen, Tokyo's food scene blends unwavering tradition with modern obsession.",
+      "seo_title": "Top 8 Must-Try Foods in Tokyo 2026 - Hidden Gems",
+      "seo_description": "Save time with real recommendations! Explore Tokyo's best eats and book your favorites on Klook. Plan your meal now!",
+      "page_intro": "Dive into Tokyo's vibrant food scene, where every corner tempts with local delights like fresh sushi and savory ramen. Explore curated picks to save time and savor the best of this culinary wonderland with Klook.",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -13,7 +13,7 @@
           "description": "Even though the wholesale market moved, Tsukiji's outer streets remain a bustling hub of fresh seafood and street eats. Wander through narrow lanes to find stalls grilling scallops, slicing fatty tuna, and serving sweet tamagoyaki. It is the ultimate destination for seafood lovers looking for a vibrant, authentic experience.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Fresh Sea Urchin (Uni) and Toro Sashimi",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -24,7 +24,7 @@
           "description": "This world-renowned ramen chain offers a unique solo-dining experience focused entirely on the bowl in front of you. Diners customize their pork bone broth, noodle texture, and garlic levels using a paper form. The resulting bowl is an umami-packed masterpiece enjoyed in blissful isolation.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Classic Tonkotsu Ramen",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -35,7 +35,7 @@
           "description": "Located in the Toyosu Market, this legendary sushi spot is famous for its massive pre-dawn queues and extraordinary omakase. The chefs serve incredibly fresh, melt-in-your-mouth nigiri, sourced directly from the market's daily catch. The intimate setting makes it a true bucket-list dining experience.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Omakase Sushi Course",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -46,7 +46,7 @@
           "description": "Affectionately known as 'Memory Lane,' this atmospheric alleyway in Shinjuku is packed with tiny, smoke-filled eateries and bars. It is the perfect place to experience post-work Tokyo, squeezing in with locals for charcoal-grilled skewers and cold beer. The nostalgic, Showa-era vibe is unmatched.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "Charcoal Grilled Yakitori Skewers",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -57,7 +57,7 @@
           "description": "A wildly popular eatery specializing in beef cutlets that are breaded, deep-fried for just 60 seconds, and served rare. Diners get a personal stone grill to cook each slice of the incredibly tender, marbled beef to their exact preference. Paired with freshly grated wasabi, it is a phenomenal meal.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "Beef Cutlet (Gyukatsu) Set",
           "klook_query": "Tokyo Food Tour"
         },
@@ -68,7 +68,7 @@
           "description": "A bustling, open-air street market in Ueno that evolved from a post-war black market into a vibrant shopping and dining destination. It is packed with vendors selling cheap, delicious street food like takoyaki and fresh fruit skewers. The energetic atmosphere is a stark contrast to Tokyo's usual quiet orderliness.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Takoyaki",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -79,7 +79,7 @@
           "description": "One of Tokyo's most prestigious and historic sushi restaurants, credited with inventing the gunkan-maki (battleship roll). Dining here is a masterclass in Edomae sushi, featuring impeccable service, elegant surroundings, and master chefs crafting perfect bites. It is a quintessential high-end Tokyo dining experience.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "Edomae Nigiri Omakase",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -94,12 +94,15 @@
           "must_try": "Strawberry Cheesecake Ice Cream Crepe",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Tokyo?",
+      "faq_q2": "Where can I find the best restaurants in Tokyo?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 東京必吃美食推薦 — 頂級餐廳與街頭小吃指南",
-      "seo_description": "探索東京最佳餐廳、街頭小吃與在地特色美食。從平價市場小吃到米其林高級餐飲，提供完整推薦與預訂連結。",
-      "page_intro": "東京是擁有全球最多米其林星級的餐飲重鎮，但其平價美食與街頭小吃同樣令人驚豔。從狹窄巷弄中滋滋作響的串燒，到清晨精心捏製的壽司，這座城市提供無盡的味覺之旅。無論是穿梭在築地市場的熱鬧攤位，還是獨自品嚐濃郁的豚骨拉麵，東京的飲食文化完美融合了對傳統的堅持與現代的狂熱。",
+      "seo_title": "2026 東京必吃美食：8大隱藏美味與餐廳推薦",
+      "seo_description": "節省時間，探索東京的真實美食推薦，透過Klook輕鬆預訂，立即計劃你的美食之旅！",
+      "page_intro": "東京的美食世界如同一場味覺盛宴，從新鮮的壽司到濃郁的拉麵，每一口都令人陶醉。無論是在築地市場的熱鬧攤位，還是享受獨特的豚骨拉麵，這裡的美食選擇絕對讓你流連忘返。透過Klook精選的餐廳推薦，節省時間，輕鬆享受東京的美味！",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -108,7 +111,7 @@
           "description": "儘管批發市場已經搬遷，築地場外市場的街道依然是新鮮海鮮和街頭小吃的繁華樞紐。漫步在狹窄的巷弄中，隨處可見烤扇貝、切片肥美鮪魚和香甜玉子燒的攤位。這是海鮮愛好者尋求充滿活力且道地體驗的終極目的地。",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "新鮮海膽和鮪魚刺身",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -119,7 +122,7 @@
           "description": "這家世界知名的拉麵連鎖店提供獨特的單人用餐體驗，讓您完全專注於眼前的這碗麵。顧客可以使用紙本點餐單客製化豚骨湯頭的濃度、麵條硬度及大蒜份量。這碗充滿鮮味的傑作，絕對能讓您在幸福的個人空間中盡情享受。",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "經典豚骨拉麵",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -130,7 +133,7 @@
           "description": "位於豐洲市場內，這家傳奇壽司店以破曉前的排隊人潮和非凡的無菜單料理 (Omakase) 聞名。師傅們使用市場每日新鮮捕獲的漁獲，端出入口即化的極品握壽司。溫馨的用餐環境使其成為一生必嚐的餐飲體驗。",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Omakase壽司套餐",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -141,7 +144,7 @@
           "description": "這條位於新宿、充滿氛圍的巷弄被親切地稱為「回憶小巷」，擠滿了微小且煙霧瀰漫的小吃店和酒吧。這裡是體驗東京下班後生活的絕佳去處，與當地人肩並肩地享用炭烤肉串和冰涼啤酒。充滿昭和時代的懷舊氛圍絕對無與倫比。",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "炭烤串燒",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -152,7 +155,7 @@
           "description": "一家極受歡迎的餐廳，專門供應僅油炸60秒即起鍋的酥脆炸牛排，內部保持鮮嫩的三分熟。每位顧客都有專屬的石烤爐，可以根據個人喜好將油花均勻的牛肉煎至完美的熟度。搭配現磨山葵，美味令人驚豔。",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "牛排炸豬排套餐",
           "klook_query": "Tokyo Food Tour"
         },
@@ -163,7 +166,7 @@
           "description": "位於上野熙來攘往的露天市場，從戰後的黑市發展成為充滿活力的購物與美食天堂。這裡擠滿了販售章魚燒和新鮮水果串等平價美味街頭小吃的攤販。充滿活力的熱鬧氣氛與東京平時的寧靜井然有序形成強烈對比。",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "章魚燒",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -174,7 +177,7 @@
           "description": "東京最負盛名且歷史悠久的壽司店之一，被公認為是軍艦捲的發明者。在這裡用餐是一場江戶前壽司的大師級體驗，擁有無可挑惕的服務、優雅的環境以及製作完美壽司的大師。這絕對是東京頂級餐飲的經典代表。",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "江戶前握壽司Omakase",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -189,12 +192,15 @@
           "must_try": "草莓起司蛋糕冰淇淋可麗餅",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "在東京最好吃的食物是什麼？",
+      "faq_q2": "在哪裡可以找到東京最好的餐廳？",
+      "faq_a2_suffix": "是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "2026年 東京の絶品グルメ — 人気レストラン＆屋台街ガイド",
-      "seo_description": "東京の最高級レストラン、屋台、郷土料理をご紹介。B級グルメから高級店まで、予約リンク付きでご案内します。",
-      "page_intro": "東京は世界で最も多くのミシュランの星を誇る美食の都ですが、B級グルメや屋台の食べ物も同じくらい素晴らしいものです。狭い路地でジュージューと音を立てる焼き鳥から、夜明けに丁寧に握られる寿司まで、この街は終わりのない味覚の旅を提供してくれます。築地の活気ある屋台を巡るにしても、濃厚な豚骨ラーメンをすするにしても、東京の食のシーンは揺るぎない伝統と現代のこだわりが融合しています。",
+      "seo_title": "2026年 東京の隠れた名店 — 8つの必食グルメ",
+      "seo_description": "時間を節約し、信頼できるおすすめをチェック。Klookで予約して、今すぐ地元の名物を楽しもう！",
+      "page_intro": "東京の食文化は、寿司やラーメンからB級グルメまで多彩で、訪れる人々を魅了します。築地の新鮮な海産物や、渋谷の一蘭の濃厚ラーメンは必食です。時間を節約し、厳選されたおすすめをKlookで予約しましょう。",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -203,7 +209,7 @@
           "description": "卸売市場が移転した後も、築地場外市場は新鮮な魚介類や食べ歩きの活気ある中心地であり続けています。狭い路地を歩けば、ホタテを焼いたり、脂の乗ったマグロを切ったり、甘い卵焼きを提供する屋台が見つかります。活気ある本格的な体験を求めるシーフード愛好家にとって究極の目的地です。",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "新鮮なウニとトロの刺身",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -214,7 +220,7 @@
           "description": "この世界的に有名なラーメンチェーンは、目の前の一杯に完全に集中できる独自の「味集中カウンター」を提供しています。客は注文用紙を使って、豚骨スープの濃さ、麺の硬さ、にんにくの量などをカスタマイズします。至福の孤独の中で楽しむ、旨味たっぷりの傑作です。",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "クラシック豚骨ラーメン",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -225,7 +231,7 @@
           "description": "豊洲市場に位置するこの伝説的な寿司店は、夜明け前の大行列と並外れたおまかせコースで有名です。職人たちは市場で毎日水揚げされる新鮮な魚介を使い、信じられないほど新鮮で口の中でとろける握りを提供します。こじんまりとした店内が、バケットリストに載せるべき真のダイニング体験を作り出しています。",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "おまかせ寿司コース",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -236,7 +242,7 @@
           "description": "新宿にある雰囲気たっぷりのこの路地は、煙が立ち込める小さな飲食店やバーが密集しています。仕事帰りの東京を体験するのに最適な場所で、地元の人々と肩を寄せ合いながら炭火焼きの串焼きと冷たいビールを楽しめます。昭和時代のノスタルジックな雰囲気は他では味わえません。",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "炭火焼き焼き鳥串",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -247,7 +253,7 @@
           "description": "パン粉をつけてわずか60秒揚げた、レアで提供される牛かつが大人気の飲食店。客は一人用の石盤を使って、信じられないほど柔らかく霜降りの牛肉の各スライスを好みの焼き加減で調理します。すりおろしたての本わさびと一緒に食べると、驚くほどの美味しさです。",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "牛カツセット",
           "klook_query": "Tokyo Food Tour"
         },
@@ -258,7 +264,7 @@
           "description": "戦後のヤミ市から活気に満ちたショッピングと食事の場へと発展した、上野の賑やかな露天市場。たこ焼きや新鮮なフルーツ串など、安くて美味しい屋台の食べ物を売る店がひしめき合っています。エネルギッシュな雰囲気は、普段の静かで整然とした東京とは対照的です。",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "たこ焼き",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -269,7 +275,7 @@
           "description": "軍艦巻を考案したことで知られる、東京で最も格式高く歴史ある寿司店の一つ。ここでの食事は、完璧なサービス、優雅な環境、そして完璧な一口を握る熟練の職人による江戸前寿司のマスタークラスです。東京の高級ダイニング体験の決定版です。",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "江戸前握りおまかせ",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -284,12 +290,15 @@
           "must_try": "ストロベリーチーズケーキアイスクリームクレープ",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "東京でおすすめの食べ物は何ですか？",
+      "faq_q2": "東京の最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションです。"
     },
     "ko": {
-      "seo_title": "2026 도쿄 최고 맛집 - 추천 레스토랑 및 야시장 가이드",
-      "seo_description": "도쿄의 최고 레스토랑, 길거리 음식, 현지 특선 요리를 만나보세요. 가성비 좋은 시장 음식부터 파인 다이닝까지, 예약 링크를 제공합니다.",
-      "page_intro": "도쿄는 세계에서 가장 많은 미슐랭 스타를 보유한 요리 강국이지만, 캐주얼한 식사와 길거리 음식 또한 놀라움을 선사합니다. 좁은 골목길에서 지글지글 익어가는 야키토리부터 새벽에 정성스럽게 빚은 초밥까지, 이 도시는 끝없는 풍미의 여행을 제공합니다. 츠키지의 북적이는 노점을 탐색하든 진한 돈코츠 라멘을 후루룩 넘기든, 도쿄의 음식 문화는 확고한 전통과 현대적인 열정이 조화를 이룹니다.",
+      "seo_title": "2026 도쿄 최고의 맛집 8곳 - 꼭 가봐야 할 레스토랑",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 도쿄의 숨겨진 맛집을 발견하고 식사를 계획해보세요!",
+      "page_intro": "도쿄의 음식 세계는 미각을 자극하는 끝없는 모험으로 가득합니다. 신선한 해산물로 만든 초밥과 진한 돈코츠 라멘은 이 도시의 자랑입니다. Klook에서 추천하는 맛집을 통해 시간을 절약하고 최고의 요리를 경험해 보세요.",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -298,7 +307,7 @@
           "description": "도매시장이 이전했음에도 불구하고, 츠키지 외곽 거리는 신선한 해산물과 길거리 음식의 번화한 중심지로 남아 있습니다. 좁은 골목길을 거닐며 가리비를 굽고, 기름진 참치를 썰고, 달콤한 다마고야키를 제공하는 노점들을 발견해 보세요. 활기차고 진정한 경험을 찾는 해산물 애호가들의 궁극적인 목적지입니다.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "신선한 성게 (우니)와 토로 사시미",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -309,7 +318,7 @@
           "description": "세계적으로 유명한 이 라멘 체인은 눈앞의 라멘 한 그릇에만 집중할 수 있는 독특한 1인 식사 경험을 제공합니다. 식사하는 사람들은 종이 주문서를 사용하여 돼지 뼈 국물의 진한 정도, 면의 익힘 정도, 마늘 양을 조절할 수 있습니다. 그 결과 완전한 고립 속에서 즐기는 감칠맛 넘치는 걸작이 탄생합니다.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "클래식 돈코츠 라멘",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -320,7 +329,7 @@
           "description": "토요스 시장에 위치한 이 전설적인 스시집은 동트기 전부터 늘어서는 엄청난 대기 줄과 특별한 오마카세로 유명합니다. 요리사들은 시장에서 당일 잡아 올린 믿을 수 없을 만큼 신선하여 입에서 살살 녹는 초밥을 제공합니다. 아늑한 분위기가 이곳을 버킷리스트에 올릴 만한 진정한 다이닝 경험으로 만들어 줍니다.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "오마카세 스시 코스",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -331,7 +340,7 @@
           "description": "'추억의 거리'라는 애칭으로 불리는 신주쿠의 이 분위기 있는 골목은 연기 자욱한 작은 식당과 바들로 가득합니다. 퇴근 후의 도쿄를 경험하기에 완벽한 곳으로, 현지인들과 어깨를 나란히 하고 숯불 꼬치구이와 시원한 맥주를 즐길 수 있습니다. 쇼와 시대의 향수를 불러일으키는 분위기는 타의 추종을 불허합니다.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "숯불 구이 야키토리 꼬치",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -342,7 +351,7 @@
           "description": "빵가루를 입혀 단 60초만 튀겨내어 레어로 제공되는 규카츠(소고기 커틀릿)를 전문으로 하는 엄청나게 인기 있는 식당입니다. 식사하는 사람들에게는 개인용 돌판이 제공되어 마블링이 환상적인 부드러운 소고기 조각을 각자의 취향에 맞게 정확히 구워 먹을 수 있습니다. 갓 갈아낸 와사비를 곁들이면 환상적인 식사가 완성됩니다.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "소고기 커틀릿 (규카츠) 세트",
           "klook_query": "Tokyo Food Tour"
         },
@@ -353,7 +362,7 @@
           "description": "전후 암시장에서 활기찬 쇼핑 및 식사 공간으로 발전한 우에노의 북적이는 야외 노점 시장입니다. 타코야키나 신선한 과일 꼬치와 같이 저렴하고 맛있는 길거리 음식을 파는 상인들로 가득합니다. 에너지가 넘치는 분위기는 평소 조용하고 질서 정연한 도쿄의 모습과 뚜렷한 대조를 이룹니다.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "타코야끼",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -364,7 +373,7 @@
           "description": "군칸마키(군함말이)를 발명한 것으로 알려진 도쿄에서 가장 권위 있고 역사적인 스시 레스토랑 중 하나입니다. 이곳에서의 식사는 흠잡을 데 없는 서비스, 우아한 환경, 완벽한 한 입을 빚어내는 장인 요리사들이 선보이는 에도마에 스시의 마스터클래스입니다. 최고급 도쿄 다이닝 경험의 정수입니다.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "에도마에 니기리 오마카세",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -379,12 +388,15 @@
           "must_try": "딸기 치즈케이크 아이스크림 크레페",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "도쿄에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "도쿄에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleurs Restaurants à Tokyo en 2026 — Guide de la Street Food",
-      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales de Tokyo. Des repas économiques aux restaurants étoilés — avec liens de réservation.",
-      "page_intro": "Tokyo est une puissance culinaire détenant le plus grand nombre d'étoiles Michelin au monde, mais ses repas décontractés et sa street food sont tout aussi spectaculaires. Des yakitoris grésillants dans des ruelles étroites aux sushis méticuleusement préparés à l'aube, la ville offre un voyage infini de saveurs. Que vous naviguiez dans les étals animés de Tsukiji ou que vous dégustiez de riches ramen tonkotsu, la scène culinaire de Tokyo allie tradition et obsession moderne.",
+      "seo_title": "Top 8 Restaurants à Tokyo en 2026 — Must-Try Food",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les spécialités locales. Planifiez votre repas maintenant!",
+      "page_intro": "Tokyo, véritable temple de la gastronomie, vous invite à savourer des délices allant des sushis frais aux ramen réconfortants. Explorez des spécialités locales comme le tonkotsu et le yakitori, tout en profitant de nos recommandations pour optimiser votre expérience culinaire.",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -393,7 +405,7 @@
           "description": "Même si le marché de gros a déménagé, les rues extérieures de Tsukiji restent un centre animé pour les fruits de mer frais et la cuisine de rue. Promenez-vous dans les ruelles étroites pour trouver des étals grillant des pétoncles, tranchant du thon gras et servant de doux tamagoyaki. C'est la destination ultime pour une expérience vibrante et authentique.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Urchin de mer frais (Uni) et sashimi de toro",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -404,7 +416,7 @@
           "description": "Cette chaîne de ramen de renommée mondiale offre une expérience de repas en solo unique. Les convives personnalisent leur bouillon d'os de porc, la texture des nouilles et la quantité d'ail à l'aide d'un formulaire papier. Le bol qui en résulte est un chef-d'œuvre riche en umami dégusté dans un isolement bienheureux.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Ramen tonkotsu classique",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -415,7 +427,7 @@
           "description": "Situé dans le marché de Toyosu, ce lieu de sushi légendaire est célèbre pour ses énormes files d'attente avant l'aube et son omakase extraordinaire. Les chefs servent des nigiri incroyablement frais et fondants. Le cadre intime en fait une véritable expérience culinaire à faire une fois dans sa vie.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Cours de sushi omakase",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -426,7 +438,7 @@
           "description": "Surnommée affectueusement 'Memory Lane', cette ruelle atmosphérique de Shinjuku regorge de petits restaurants et de bars enfumés. C'est l'endroit idéal pour découvrir le Tokyo de l'après-travail, en se serrant avec les habitants pour des brochettes grillées au charbon de bois et de la bière fraîche.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "Brochettes de yakitori grillées au charbon",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -437,7 +449,7 @@
           "description": "Un restaurant extrêmement populaire spécialisé dans les escalopes de bœuf panées, frites seulement 60 secondes et servies saignantes. Les convives disposent d'un gril en pierre personnel pour cuire chaque tranche de bœuf persillé à leur convenance. Associé à du wasabi fraîchement râpé, c'est un repas phénoménal.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "Set de cutlet de boeuf (Gyukatsu)",
           "klook_query": "Tokyo Food Tour"
         },
@@ -448,7 +460,7 @@
           "description": "Un marché de rue en plein air animé à Ueno qui a évolué d'un marché noir d'après-guerre à une destination de shopping et de restauration vibrante. Il regorge de vendeurs proposant des plats de rue bon marché et délicieux comme des takoyaki. L'atmosphère énergique contraste fortement avec le calme habituel de Tokyo.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Takoyaki",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -459,7 +471,7 @@
           "description": "L'un des restaurants de sushis les plus prestigieux et historiques de Tokyo, crédité de l'invention du gunkan-maki. Dîner ici est une masterclass de sushi Edomae, avec un service impeccable, un cadre élégant et des maîtres cuisiniers préparant des bouchées parfaites.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "Omakase nigiri Edomae",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -474,12 +486,15 @@
           "must_try": "Crêpe glacée au cheesecake à la fraise",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Tokyo ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Tokyo ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor Comida en Tokio 2026 — Guía de Restaurantes y Street Food",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales de Tokio. Desde puestos en mercados hasta alta cocina, con enlaces de reserva.",
-      "page_intro": "Tokio es una potencia culinaria que alberga la mayor cantidad de estrellas Michelin del mundo, pero su comida informal y callejera son igual de espectaculares. Desde yakitori humeantes en callejones estrechos hasta sushi elaborado al amanecer, la ciudad ofrece un viaje infinito de sabores. Ya sea en los puestos de Tsukiji o saboreando un rico ramen, Tokio fusiona tradición con innovación moderna.",
+      "seo_title": "Los 10 Mejores Restaurantes en Tokio 2026 — ¡Imperdibles!",
+      "seo_description": "Ahorra tiempo con recomendaciones reales de Tokio. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre la increíble escena gastronómica de Tokio! Desde el sushi fresco del Mercado Exterior de Tsukiji hasta el ramen reconfortante de Ichiran, cada bocado es una experiencia única. Ahorra tiempo con nuestras selecciones curadas y reserva con Klook.",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -488,7 +503,7 @@
           "description": "Aunque el mercado mayorista se mudó, las calles exteriores de Tsukiji siguen siendo un animado centro de mariscos frescos. Pasea por carriles estrechos para encontrar puestos que asan vieiras, cortan atún y sirven tamagoyaki dulce. Es el destino definitivo para los amantes del marisco.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Erizo de mar fresco (Uni) y sashimi de toro",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -499,7 +514,7 @@
           "description": "Esta cadena de ramen mundialmente conocida ofrece una experiencia única de comida en solitario. Los comensales personalizan su caldo de cerdo, la textura de los fideos y el nivel de ajo mediante un formulario de papel. El resultado es una obra maestra llena de umami.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Ramen tonkotsu clásico",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -510,7 +525,7 @@
           "description": "Situado en el Mercado de Toyosu, este legendario lugar es famoso por sus enormes colas antes del amanecer y su extraordinario omakase. Los chefs sirven nigiri increíblemente fresco que se deshace en la boca. Su entorno íntimo lo convierte en una experiencia única.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Curso de sushi omakase",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -521,7 +536,7 @@
           "description": "Conocido cariñosamente como 'Callejón de los Recuerdos', esta calle atmosférica de Shinjuku está repleta de pequeños bares llenos de humo. Es el lugar perfecto para experimentar el Tokio después del trabajo, compartiendo brochetas a la parrilla y cerveza fría con los lugareños.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "Brochetas de yakitori a la parrilla",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -532,7 +547,7 @@
           "description": "Un restaurante muy popular especializado en chuletas de ternera rebozadas, fritas solo 60 segundos y servidas casi crudas. Los comensales tienen una parrilla de piedra personal para cocinar cada rebanada a su gusto. Combinado con wasabi recién rallado, es una comida fenomenal.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "Set de corte de carne de res (Gyukatsu)",
           "klook_query": "Tokyo Food Tour"
         },
@@ -543,7 +558,7 @@
           "description": "Un animado mercado callejero al aire libre en Ueno que evolucionó desde un mercado negro de posguerra. Está lleno de vendedores que ofrecen comida callejera deliciosa y barata como takoyaki y brochetas de fruta fresca. Su ambiente enérgico contrasta con el orden habitual de Tokio.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Takoyaki",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -554,7 +569,7 @@
           "description": "Uno de los restaurantes de sushi más prestigiosos e históricos de Tokio, al que se atribuye la invención del gunkan-maki. Cenar aquí es una clase magistral de sushi Edomae, con un servicio impecable y chefs maestros elaborando bocados perfectos.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "Omakase de nigiri Edomae",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -569,12 +584,15 @@
           "must_try": "Crepe de helado de cheesecake de fresa",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Tokio?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Tokio?",
+      "faq_a2_suffix": " son algunas de las opciones de comida mejor valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Tokyo 2026 — Panduan Restoran & Jajanan Pasar",
+      "seo_title": "10 Makanan Terbaik di Tokyo 2026 — Panduan Jajanan",
       "seo_description": "Temukan restoran terbaik, jajanan pasar, dan makanan khas lokal di Tokyo. Dari makanan pasar yang terjangkau hingga fine dining — dengan tautan pemesanan.",
-      "page_intro": "Tokyo adalah pusat kuliner yang memegang bintang Michelin terbanyak di dunia, namun makanan kasual dan jajanan kakilimanya sama spektakulernya. Dari yakitori yang mendesis di gang sempit hingga sushi yang dibuat dengan cermat, kota ini menawarkan perjalanan rasa yang tak ada habisnya.",
+      "page_intro": "Rasakan keajaiban kuliner Tokyo, di mana sushi segar, ramen lezat, dan street food menggoda menanti Anda. Temukan pilihan terbaik dan hemat waktu dengan rekomendasi terkurasi dari Klook.",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -583,7 +601,7 @@
           "description": "Meski pasar grosir telah pindah, jalanan luar Tsukiji tetap menjadi pusat jajanan laut segar. Telusuri jalur sempit untuk menemukan kedai yang memanggang kerang, mengiris tuna berlemak, dan menyajikan tamagoyaki manis.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Uni dan Sashimi Toro",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -594,7 +612,7 @@
           "description": "Jaringan ramen terkenal di dunia ini menawarkan pengalaman makan sendirian yang berfokus sepenuhnya pada mangkuk di depan Anda. Pengunjung menyesuaikan kaldu, tekstur mi, dan tingkat bawang putih. Mangkuk yang dihasilkan adalah mahakarya kaya umami.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Ramen Tonkotsu Klasik",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -605,7 +623,7 @@
           "description": "Terletak di Pasar Toyosu, tempat sushi legendaris ini terkenal dengan antrean sebelum fajar dan omakase yang luar biasa. Koki menyajikan nigiri segar yang meleleh di mulut dari tangkapan harian pasar.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Kursus Sushi Omakase",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -616,7 +634,7 @@
           "description": "Dikenal sebagai 'Memory Lane', gang di Shinjuku ini dipenuhi kedai kecil yang berasap. Tempat yang tepat untuk merasakan kehidupan Tokyo setelah jam kerja, menikmati sate panggang dan bir dingin bersama penduduk lokal.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "Sate Yakitori Bakar Arang",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -627,7 +645,7 @@
           "description": "Restoran yang sangat populer dengan spesialisasi potongan daging sapi dilapisi tepung roti, digoreng hanya 60 detik. Pengunjung mendapatkan panggangan batu pribadi untuk memasak daging sapi sesuai selera. Dipadukan dengan wasabi parut segar, rasanya fenomenal.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "Set Gyukatsu",
           "klook_query": "Tokyo Food Tour"
         },
@@ -638,7 +656,7 @@
           "description": "Pasar jalanan terbuka yang ramai di Ueno yang berevolusi dari pasar gelap pascaperang. Dipenuhi dengan pedagang yang menjual jajanan murah dan lezat seperti takoyaki dan sate buah segar. Suasana energiknya sangat kontras dengan ketertiban Tokyo.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Takoyaki",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -649,7 +667,7 @@
           "description": "Salah satu restoran sushi paling bergengsi dan bersejarah di Tokyo, yang diakui sebagai penemu gunkan-maki. Bersantap di sini adalah kelas master sushi Edomae, dengan layanan sempurna dan koki ahli.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "Omakase Nigiri Edomae",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -664,11 +682,14 @@
           "must_try": "Crepe Es Krim Cheesecake Stroberi",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "Apa makanan terbaik yang bisa dicoba di Tokyo?",
+      "faq_q2": "Di mana saya bisa menemukan restoran terbaik di Tokyo?",
+      "faq_a2_suffix": " adalah pilihan tempat makan dengan rating tertinggi."
     },
     "hi": {
-      "seo_title": "टोक्यो में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "टोक्यो में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशिष्टताओं की खोज करें। बजट बाजार के खाने से लेकर बढ़िया भोजन तक - बुकिंग लिंक के साथ।",
+      "seo_title": "टोक्यो में 10 सर्वश्रेष्ठ भोजन 2026 - स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और टोक्यो के असली रेस्तरां खोजें। Klook से बुकिंग करें और अपने भोजन की योजना बनाएं!",
       "page_intro": "टोक्यो एक पाक महाशक्ति है, जो दुनिया में सबसे ज्यादा मिशेलिन सितारों को धारण करता है, फिर भी इसका आकस्मिक भोजन और स्ट्रीट फूड समान रूप से शानदार हैं। संकरी गलियों में याकिटोरी से लेकर भोर में तैयार सुशी तक, शहर स्वादों की एक अंतहीन यात्रा प्रदान करता है।",
       "items": [
         {
@@ -678,7 +699,7 @@
           "description": "भले ही थोक बाजार स्थानांतरित हो गया हो, त्सुकिजी की बाहरी सड़कें ताजे समुद्री भोजन का हलचल भरा केंद्र बनी हुई हैं। स्कैलप्स भूनने, फैटी टूना काटने और मीठे तमागयाकी परोसने वाले स्टालों को खोजने के लिए संकरी गलियों में घूमें।",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "ताजा समुद्री ऊरचिन (उनी) और टोरो साशिमी",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -689,7 +710,7 @@
           "description": "यह विश्व-प्रसिद्ध रामन श्रृंखला एक अनूठा भोजन अनुभव प्रदान करती है। डिनर एक पेपर फॉर्म का उपयोग करके अपने पोर्क बोन शोरबा, नूडल बनावट और लहसुन के स्तर को अनुकूलित करते हैं।",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "क्लासिक टोंकोट्सु रामेन",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -700,7 +721,7 @@
           "description": "टोयोसु मार्केट में स्थित, यह सुशी स्पॉट अपनी भोर से पहले की कतारों के लिए प्रसिद्ध है। शेफ बाजार की दैनिक पकड़ से सीधे ताजा, मुंह में पिघलने वाली निगिरी परोसते हैं।",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "ओमाकासे सुशी कोर्स",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -711,7 +732,7 @@
           "description": "शिंजुकु में यह गली छोटे, धुएं से भरे भोजनालयों और बारों से भरी है। चारकोल-ग्रिल्ड स्केवर्स और ठंडी बीयर के लिए स्थानीय लोगों के साथ निचोड़कर टोक्यो का अनुभव करने के लिए यह एक आदर्श स्थान है।",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "कोयले पर ग्रिल की गई याकिटोरी स्क्यूअर्स",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -722,7 +743,7 @@
           "description": "बीफ कटलेट में विशेषज्ञता वाला एक बेहद लोकप्रिय भोजनालय, जिसे केवल 60 सेकंड के लिए डीप फ्राई किया जाता है। डिनर को अपनी पसंद के अनुसार बीफ़ के प्रत्येक स्लाइस को पकाने के लिए एक व्यक्तिगत स्टोन ग्रिल मिलती है।",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "बीफ कटलेट (ग्युकाट्सु) सेट",
           "klook_query": "Tokyo Food Tour"
         },
@@ -733,7 +754,7 @@
           "description": "उएनो में एक हलचल भरा, खुला सड़क बाजार जो युद्ध के बाद के काले बाजार से एक जीवंत भोजन गंतव्य में विकसित हुआ। यह ताकोयाकी और ताजे फलों की कटार जैसे स्वादिष्ट स्ट्रीट फूड बेचने वाले विक्रेताओं से भरा है।",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "तकोयाकी",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -744,7 +765,7 @@
           "description": "टोक्यो के सबसे प्रतिष्ठित सुशी रेस्तरां में से एक, जिसे गनकन-माकी का आविष्कार करने का श्रेय दिया जाता है। यहाँ भोजन करना एडोमाई सुशी में एक मास्टरक्लास है।",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "एदोमै निगिरी ओमाकासे",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -762,7 +783,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida de Tóquio 2026 — Guia de Restaurantes e Street Food",
+      "seo_title": "Top Comida de Tóquio 2026 — Guia de Restaurantes",
       "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades em Tóquio. De refeições baratas no mercado a jantares sofisticados — com links de reserva.",
       "page_intro": "Tóquio é uma potência culinária com o maior número de estrelas Michelin do mundo, mas sua culinária casual e de rua são igualmente espetaculares. Do yakitori fumegante em becos estreitos ao sushi meticulosamente preparado de madrugada, a cidade oferece uma jornada sem fim de sabores.",
       "items": [
@@ -773,7 +794,7 @@
           "description": "Mesmo com a mudança do mercado atacadista, as ruas externas de Tsukiji continuam sendo um centro movimentado de frutos do mar frescos. Passeie por ruelas estreitas para encontrar barracas grelhando vieiras e servindo tamagoyaki doce.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Urchin Fresco (Uni) e Sashimi de Toro",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -784,7 +805,7 @@
           "description": "Esta rede de ramen mundialmente famosa oferece uma experiência única de refeição individual. Os clientes personalizam o caldo, a textura do macarrão e o alho usando um formulário. O resultado é uma obra-prima repleta de umami.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Ramen Tonkotsu Clássico",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -795,7 +816,7 @@
           "description": "Localizado no Mercado de Toyosu, este local lendário é famoso por suas enormes filas antes do amanhecer e seu extraordinário omakase. Os chefs servem nigiri incrivelmente fresco, vindo diretamente da pesca diária do mercado.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Curso de Sushi Omakase",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -806,7 +827,7 @@
           "description": "Conhecido carinhosamente como 'Beco das Memórias', esta viela atmosférica em Shinjuku é repleta de pequenos bares cheios de fumaça. É o lugar perfeito para vivenciar a Tóquio pós-trabalho, compartilhando espetinhos grelhados e cerveja gelada.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "Espetinhos de Yakitori Grelhados na Brasa",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -817,7 +838,7 @@
           "description": "Um restaurante extremamente popular especializado em costeletas de carne empanadas, fritas por apenas 60 segundos. Os clientes recebem uma churrasqueira de pedra pessoal para cozinhar cada fatia no ponto desejado. Combinado com wasabi recém-ralado, é uma refeição fenomenal.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "Conjunto de Corte de Carne (Gyukatsu)",
           "klook_query": "Tokyo Food Tour"
         },
@@ -828,7 +849,7 @@
           "description": "Um mercado de rua ao ar livre em Ueno que evoluiu de um mercado negro do pós-guerra para um destino vibrante de compras e alimentação. É repleto de vendedores de comida de rua deliciosa e barata, como takoyaki e espetinhos de frutas frescas.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Takoyaki",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -839,7 +860,7 @@
           "description": "Um dos restaurantes de sushi mais prestigiados e históricos de Tóquio, creditado por inventar o gunkan-maki. Jantar aqui é uma masterclass em sushi Edomae, com serviço impecável e master chefs criando mordidas perfeitas.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "Omakase de Nigiri Edomae",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -859,7 +880,7 @@
     "ar": {
       "seo_title": "أفضل طعام في طوكيو 2026 — دليل أفضل المطاعم وأكل الشوارع",
       "seo_description": "اكتشف أفضل المطاعم وأكل الشوارع والتخصصات المحلية في طوكيو. من أكل الأسواق الاقتصادية إلى الفاخر مع روابط الحجز.",
-      "page_intro": "تعد طوكيو قوة طهي تحمل أكبر عدد من نجوم ميشلان في العالم، ومع ذلك فإن أكلها غير الرسمي وأكل الشوارع مذهل بنفس القدر. من الياكيتوري المشتعل في الأزقة الضيقة إلى السوشي المصنوع بدقة عند الفجر، تقدم المدينة رحلة لا حصر لها من النكهات.",
+      "page_intro": "استعد لتجربة طوكيو، مدينة النكهات المدهشة! من السوشي الطازج في سوق تسوكيجي إلى رامين إيشيران في شibuya، ستكتشف أطباقاً لا تُنسى. احجز مع كلوك لتوفير الوقت واستمتع بأفضل الخيارات المختارة.",
       "items": [
         {
           "id": "tsukiji-outer-market",
@@ -868,7 +889,7 @@
           "description": "على الرغم من انتقال سوق الجملة، تظل شوارع تسوكيجي الخارجية مركزًا صاخبًا للمأكولات البحرية الطازجة. تجول في الممرات الضيقة للعثور على أكشاك تشوي المحار وتقدم تاماغوياكي الحلو.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "أوني وتورو ساشيمي",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -879,7 +900,7 @@
           "description": "تقدم سلسلة الرامين المشهورة عالميًا تجربة تناول طعام فريدة من نوعها. يخصص رواد المطعم مرق عظام الخنزير وقوام المعكرونة باستخدام نموذج ورقي. الوعاء الناتج هو تحفة غنية باليومامي.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "رامن تونكوتسو الكلاسيكي",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -890,7 +911,7 @@
           "description": "يقع في سوق تويوسو، يشتهر مكان السوشي الأسطوري هذا بطوابيره الضخمة قبل الفجر وأوماكاسي الاستثنائي. يقدم الطهاة نيغيري طازجًا يذوب في الفم، من صيد السوق اليومي.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "دورة سوشي أومكاس",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -901,7 +922,7 @@
           "description": "يُعرف بمودة باسم حارة الذكريات، هذا الزقاق في شينجوكو مليء بالمطاعم الصغيرة المليئة بالدخان. إنه المكان المثالي لتجربة طوكيو بعد العمل مع الأسياخ المشوية على الفحم.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "أسياخ ياكيتوري مشوية بالفحم",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -912,7 +933,7 @@
           "description": "مطعم شهير للغاية يتخصص في قطع لحم البقر المقلية لمدة 60 ثانية فقط. يحصل الزبائن على شواية حجرية شخصية لطهي كل شريحة من لحم البقر المرمري الطري وفقًا لتفضيلاتهم.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "مجموعة كوتلت لحم البقر (غيوكاتسو)",
           "klook_query": "Tokyo Food Tour"
         },
@@ -923,7 +944,7 @@
           "description": "سوق شوارع صاخب في الهواء الطلق في أوينو تطور من سوق سوداء بعد الحرب إلى وجهة تسوق وتناول طعام نابضة بالحياة. إنه مليء بالبائعين الذين يبيعون طعام الشوارع الرخيص واللذيذ مثل تاكوياكي.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "تاكويكي",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -934,7 +955,7 @@
           "description": "أحد أشهر مطاعم السوشي التاريخية والمرموقة في طوكيو. تناول الطعام هنا هو درس رئيسي في سوشي إيدوماي، ويتميز بخدمة لا تشوبها شائبة ومحيط أنيق.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "نيجيري إيدوماي أومكاس",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -949,7 +970,10 @@
           "must_try": "كريب آيس كريم تشيز كيك بالفراولة",
           "klook_query": "Harajuku Takeshita Tour"
         }
-      ]
+      ],
+      "faq_q1": "ما هو أفضل طعام يمكن تناوله في طوكيو؟",
+      "faq_q2": "أين يمكنني العثور على أفضل المطاعم في طوكيو؟",
+      "faq_a2_suffix": " من بين خيارات تناول الطعام الأعلى تقييمًا."
     },
     "bn": {
       "seo_title": "টোকিওর সেরা খাবার 2026 - রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
@@ -963,7 +987,7 @@
           "description": "যদিও পাইকারি বাজারটি স্থানান্তরিত হয়েছে, সুকিজির বাইরের রাস্তাগুলি তাজা সামুদ্রিক খাবার এবং রাস্তার খাবারের একটি ব্যস্ত কেন্দ্র হিসাবে রয়ে গেছে। স্ক্যালপ গ্রিলিং এবং মিষ্টি তামাগোয়াকি পরিবেশনকারী স্টলগুলি খুঁজে পেতে সরু গলিতে ঘুরে বেড়ান।",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "ফ্রেশ সি আর্চিন (ইউনি) এবং টোরো সাশিমি",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -974,7 +998,7 @@
           "description": "এই বিশ্ববিখ্যাত রামেন চেইন একটি অনন্য একক-ভোজনের অভিজ্ঞতা প্রদান করে। ডিনাররা একটি কাগজ ব্যবহার করে তাদের শুয়োরের মাংসের হাড়ের ঝোল, নুডল টেক্সচার এবং রসুনের স্তরগুলি কাস্টমাইজ করে।",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "ক্লাসিক টনকোটসু রামেন",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -985,7 +1009,7 @@
           "description": "টয়োসু মার্কেটে অবস্থিত, এই কিংবদন্তি সুশি স্পটটি তার ভোর-পূর্ব সারি এবং অসাধারণ ওমাকাসের জন্য বিখ্যাত। শেফরা বাজারের প্রতিদিনের মাছ থেকে অবিশ্বাস্যভাবে তাজা, মুখে গলে যাওয়া নিগিরি পরিবেশন করে।",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "ওমাকাসে সুশি কোর্স",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -996,7 +1020,7 @@
           "description": "স্নেহপূর্ণভাবে 'মেমরি লেন' নামে পরিচিত, শিনজুকুর এই গলিটি ছোট, ধোঁয়া ভর্তি ভোজনালয় এবং বারে পরিপূর্ণ। কাঠকয়লা-গ্রিলড স্ক্যুয়ার এবং কোল্ড বিয়ারের জন্য স্থানীয়দের সাথে চেপে কাজ-পরবর্তী টোকিওর অভিজ্ঞতা নেওয়ার এটি উপযুক্ত জায়গা।",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "চারকোল গ্রিলড ইয়াকিটোরি স্কিউয়ার",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -1007,7 +1031,7 @@
           "description": "একটি ব্যাপকভাবে জনপ্রিয় ভোজনালয় যা গরুর মাংসের কাটলেটগুলিতে বিশেষজ্ঞ যা ব্রেড করা হয়, মাত্র 60 সেকেন্ডের জন্য ডিপ-ফ্রাই করা হয়। ডিনাররা অবিশ্বাস্যভাবে নরম গরুর মাংসের প্রতিটি টুকরো তাদের সঠিক পছন্দ অনুযায়ী রান্না করার জন্য একটি ব্যক্তিগত পাথরের গ্রিল পায়।",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "বিফ কাটলেট (গিউকাটসু) সেট",
           "klook_query": "Tokyo Food Tour"
         },
@@ -1018,7 +1042,7 @@
           "description": "উয়েনোর একটি কোলাহলপূর্ণ উন্মুক্ত রাস্তার বাজার যা যুদ্ধোত্তর কালো বাজার থেকে একটি প্রাণবন্ত কেনাকাটা এবং খাবারের গন্তব্যে বিকশিত হয়েছিল। এটি তাকোয়াকি এবং তাজা ফলের মতো সস্তা, সুস্বাদু স্ট্রিট ফুড বিক্রি করে।",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "তাকোয়াকি",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -1029,7 +1053,7 @@
           "description": "টোকিওর অন্যতম মর্যাদাপূর্ণ এবং ঐতিহাসিক সুশি রেস্তোরাঁ, যাকে গুনকান-মাকি আবিষ্কারের কৃতিত্ব দেওয়া হয়। এখানে ডাইনিং হল এডোমে সুশির একটি মাস্টারক্লাস।",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "এডোমাই নিগিরি ওমাকাসে",
           "klook_query": "Ginza Kyubey Reservation"
         },
@@ -1058,7 +1082,7 @@
           "description": "Хотя оптовый рынок переехал, внешние улицы Цукидзи остаются шумным центром свежих морепродуктов и уличной еды. Прогуляйтесь по узким улочкам, чтобы найти прилавки, где жарят морские гребешки и подают сладкий тамагояки.",
           "image_keyword": "tsukiji outer market seafood street",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥500–1,000",
           "must_try": "Свежий морской еж (Уни) и Торо сашими",
           "klook_query": "Tsukiji Market food tour"
         },
@@ -1069,7 +1093,7 @@
           "description": "Эта всемирно известная сеть раменных предлагает уникальный опыт ужина в одиночестве. Посетители настраивают бульон, текстуру лапши и уровень чеснока с помощью бумажной формы. В результате получается шедевр.",
           "image_keyword": "ichiran tonkotsu ramen bowl",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥1,200–2,500",
           "must_try": "Классический тонкотсу рамен",
           "klook_query": "Ichiran Ramen Tokyo"
         },
@@ -1080,7 +1104,7 @@
           "description": "Расположенное на рынке Тоёсу, это легендарное место суши славится огромными предрассветными очередями и необыкновенным омакасе. Шеф-повара подают невероятно свежие, тающие во рту нигири из дневного улова.",
           "image_keyword": "sushi dai toyosu omakase",
           "star_rating": 4.7,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Омакесе суши курс",
           "klook_query": "Toyosu Market Sushi"
         },
@@ -1091,7 +1115,7 @@
           "description": "Ласково называемый 'Аллеей памяти', этот атмосферный переулок в Синдзюку заполнен крошечными, задымленными закусочными и барами. Это идеальное место, чтобы познакомиться с послерабочим Токио за шашлыками и холодным пивом.",
           "image_keyword": "omoide yokocho shinjuku yakitori alley",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "¥600–1,200",
           "must_try": "Шашлычки якитори на углях",
           "klook_query": "Shinjuku Izakaya Tour"
         },
@@ -1102,7 +1126,7 @@
           "description": "Дико популярная закусочная, специализирующаяся на говяжьих котлетах, которые обжариваются всего 60 секунд. Посетители получают персональный каменный гриль, чтобы приготовить каждый ломтик невероятно нежной говядины.",
           "image_keyword": "gyukatsu motomura beef cutlet",
           "star_rating": 4.8,
-          "price_range": "$$",
+          "price_range": "¥1,000–2,000",
           "must_try": "Набор гюкатсу (котлета из говядины)",
           "klook_query": "Tokyo Food Tour"
         },
@@ -1113,7 +1137,7 @@
           "description": "Шумный уличный рынок под открытым небом в Уэно, который превратился из послевоенного черного рынка в оживленное место для покупок и ресторанов. Он заполнен продавцами дешевой уличной еды, такой как такояки.",
           "image_keyword": "ameyoko market ueno street food",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Такояки",
           "klook_query": "Ueno Ameyoko Food"
         },
@@ -1124,7 +1148,7 @@
           "description": "Один из самых престижных и исторических суши-ресторанов Токио, которому приписывают изобретение гункан-маки. Ужин здесь — это мастер-класс по суши Эдомаэ с безупречным обслуживанием.",
           "image_keyword": "ginza kyubey sushi chef",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥500–1,000",
           "must_try": "Эдомай нигири омакесе",
           "klook_query": "Ginza Kyubey Reservation"
         },

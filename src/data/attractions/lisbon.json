@@ -2,9 +2,9 @@
   "city_slug": "lisbon",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Lisbon 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Lisbon. Find opening hours, ticket prices and booking links for Lisbon's top landmarks.",
-      "page_intro": "Lisbon, the vibrant capital of Portugal, is known for its rich history, stunning architecture, and lively culture. From historic neighborhoods to breathtaking viewpoints, the city offers a unique blend of old-world charm and modern flair. Visitors can enjoy its picturesque streets, delicious cuisine, and a variety of attractions that cater to all interests, making it a perfect destination for travelers seeking adventure and relaxation.",
+      "seo_title": "8 Must-See Attractions in Lisbon 2026 — Complete Guide",
+      "seo_description": "Discover ticket info, opening hours, and insider tips for Lisbon's top sites. Book your adventure with Klook today!",
+      "page_intro": "Discover the enchanting allure of Lisbon, where historic treasures like Belém Tower and Jerónimos Monastery await. Wander through the charming Alfama District and indulge in the city's vibrant culture. Skip the lines and book your adventures via Klook!",
       "items": [
         {
           "id": "belem-tower",
@@ -91,12 +91,16 @@
           "best_time": "anytime",
           "klook_query": "Mercado da Ribeira experience"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Lisbon?",
+      "faq_q2": "Do I need tickets for attractions in Lisbon?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions in Lisbon require tickets for entry. To make your visit seamless, consider booking your tickets through Klook."
     },
     "zh": {
-      "seo_title": "2026年里斯本最佳景点 — 门票、提示与完整指南",
-      "seo_description": "探索里斯本最佳景点。查找里斯本顶级地标的开放时间、票价和预订链接。",
-      "page_intro": "里斯本，葡萄牙充满活力的首都，以其丰富的历史、壮丽的建筑和生动的文化而闻名。从历史悠久的街区到令人叹为观止的观景点，这座城市提供了独特的古老魅力与现代风采的结合。游客可以享受如画的街道、美味的美食以及各种迎合不同兴趣的景点，使其成为寻求冒险与放松的旅行者的完美目的地。",
+      "seo_title": "2026年里斯本8大必看景点 — 完整指南",
+      "seo_description": "获取里斯本最佳景点的门票、开放时间和内部提示，立即通过Klook预订，开启您的旅行冒险！",
+      "page_intro": "探索里斯本的魅力，這座城市以貝倫塔、熱羅尼莫斯修道院和阿法瑪區等地標而聞名。無論您是尋找歷史的深度還是文化的享受，里斯本都能滿足您的需求。立即透過Klook預訂，輕鬆避開排隊！",
       "items": [
         {
           "id": "belem-tower",
@@ -182,12 +186,16 @@
           "best_time": "anytime",
           "klook_query": "Mercado da Ribeira experience"
         }
-      ]
+      ],
+      "faq_q1": "里斯本有哪些必訪景點？",
+      "faq_q2": "在里斯本的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必看的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您透過Klook提前預訂，以確保順利入場。"
     },
     "ja": {
-      "seo_title": "2026年リスボンのトップアトラクション — チケット、ヒント＆完全ガイド",
-      "seo_description": "リスボンの最高の観光名所を探索しましょう。リスボンの主要なランドマークの営業時間、チケット料金、予約リンクを見つけることができます。",
-      "page_intro": "リスボンはポルトガルの活気に満ちた首都で、豊かな歴史、素晴らしい建築、賑やかな文化で知られています。歴史的な地区から息をのむような展望スポットまで、古き良き魅力と現代的な風味が独特に融合した街です。訪問者は美しい通り、美味しい料理、そしてすべての興味に応じたさまざまなアトラクションを楽しむことができ、冒険とリラクゼーションを求める旅行者にとって完璧な目的地となっています。",
+      "seo_title": "2026年リスボンの必見アトラクション8選 — 完全ガイド",
+      "seo_description": "リスボンのチケット、営業時間、インサイダーヒントをチェック！Klookでの予約リンクもご利用ください。",
+      "page_intro": "リスボンの魅力的な観光スポットを探索しませんか？ベレンの塔やジェロニモス修道院、アルファマ地区など、歴史と文化が息づく名所が目白押しです。混雑を避けて、Klookでスムーズに予約しましょう！",
       "items": [
         {
           "id": "belem-tower",
@@ -273,12 +281,16 @@
           "best_time": "anytime",
           "klook_query": "Mercado da Ribeira experience"
         }
-      ]
+      ],
+      "faq_q1": "リスボンの主な観光スポットは何ですか？",
+      "faq_q2": "リスボンの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " ベレンの塔、ジェロニモス修道院、アルファマ地区などがあります。",
+      "faq_a2": "はい、リスボンの多くの観光名所にはチケットが必要です。Klookを利用すれば、事前に簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 리스본의 주요 명소 — 티켓, 팁 및 완벽한 가이드",
-      "seo_description": "리스본의 최고의 명소를 탐험하세요. 리스본의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "리스본은 포르투갈의 활기찬 수도로, 풍부한 역사, 멋진 건축물, 그리고 생동감 넘치는 문화로 유명합니다. 역사적인 동네부터 숨막히는 전망대까지, 이 도시는 구식 매력과 현대적 감각이 독특하게 어우러진 곳입니다. 방문객들은 그림 같은 거리, 맛있는 요리, 그리고 모든 관심사를 만족시키는 다양한 명소를 즐길 수 있어 모험과 휴식을 찾는 여행자에게 완벽한 목적지입니다.",
+      "seo_title": "2026년 리스본의 8대 필수 명소 — 완벽 가이드",
+      "seo_description": "티켓, 운영 시간, 인사이트 팁을 확인하고 Klook에서 예약하세요. 리스본의 숨겨진 보물을 발견해보세요!",
+      "page_intro": "리스본은 매력적인 명소들이 가득한 도시로, 벨렘탑과 제로니무스 수도원 같은 상징적인 랜드마크와 알파마 지구의 숨겨진 보물을 탐험할 수 있습니다. 긴 대기줄 없이 Klook을 통해 예약하고 특별한 여행을 즐기세요!",
       "items": [
         {
           "id": "belem-tower",
@@ -364,12 +376,16 @@
           "best_time": "anytime",
           "klook_query": "Mercado da Ribeira experience"
         }
-      ]
+      ],
+      "faq_q1": "리스본의 주요 명소는 무엇인가요?",
+      "faq_q2": "리스본의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 벨렘탑, 제로니무스 수도원, 알파마 지구가 필수 방문 명소입니다.",
+      "faq_a2": "네, 대부분의 명소에 입장권이 필요합니다. Klook을 통해 미리 예약하시면 편리합니다."
     },
     "fr": {
-      "seo_title": "Top Attractions à Lisbonne 2026 — Billets, Astuces & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de Lisbonne. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Lisbonne.",
-      "page_intro": "Lisbonne, la capitale vibrante du Portugal, est connue pour sa riche histoire, son architecture époustouflante et sa culture animée. Des quartiers historiques aux points de vue à couper le souffle, la ville offre un mélange unique de charme ancien et de modernité. Les visiteurs peuvent profiter de ses rues pittoresques, de sa délicieuse cuisine et d'une variété d'attractions qui répondent à tous les intérêts, ce qui en fait une destination parfaite pour les voyageurs à la recherche d'aventure et de détente.",
+      "seo_title": "8 Must-See Attractions à Lisbonne 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, prix et astuces pour visiter les incontournables de Lisbonne. Réservez vos billets sur Klook et explorez la ville!",
+      "page_intro": "Découvrez Lisbonne, une ville où l'histoire rencontre la modernité à chaque coin de rue. Ne manquez pas des joyaux comme la Tour de Belém et le Monastère des Hiéronymites. Évitez les files d'attente et réservez vos billets via Klook !",
       "items": [
         {
           "id": "belem-tower",
@@ -455,11 +471,15 @@
           "best_time": "anytime",
           "klook_query": "Mercado da Ribeira experience"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Lisbonne ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Lisbonne ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les files d'attente. Vous pouvez les réserver facilement via Klook."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Lisboa 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones de Lisboa. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Lisboa.",
+      "seo_title": "8 Atracciones Imperdibles en Lisboa 2026 — Guía Completa",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de Lisboa. Reserva tus entradas en Klook y empieza tu aventura hoy.",
       "page_intro": "Lisboa, la vibrante capital de Portugal, es conocida por su rica historia, impresionante arquitectura y cultura animada. Desde barrios históricos hasta miradores impresionantes, la ciudad ofrece una mezcla única de encanto antiguo y modernidad. Los visitantes pueden disfrutar de sus pintorescas calles, deliciosa gastronomía y una variedad de atracciones que satisfacen todos los intereses, convirtiéndola en un destino perfecto para los viajeros que buscan aventura y relajación.",
       "items": [
         {
@@ -549,7 +569,7 @@
       ]
     },
     "id": {
-      "seo_title": "Tempat Wisata Terbaik di Lisbon 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Tempat Wisata Terbaik di Lisbon 2026",
       "seo_description": "Jelajahi tempat wisata terbaik di Lisbon. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama di Lisbon.",
       "page_intro": "Lisbon, ibu kota Portugal yang bersemangat, dikenal karena sejarahnya yang kaya, arsitektur yang menakjubkan, dan budaya yang hidup. Dari lingkungan bersejarah hingga pemandangan yang menakjubkan, kota ini menawarkan perpaduan unik antara pesona dunia lama dan gaya modern. Para pengunjung dapat menikmati jalan-jalan indah, masakan yang lezat, dan berbagai atraksi yang memenuhi semua minat, menjadikannya tujuan yang sempurna bagi para pelancong yang mencari petualangan dan relaksasi.",
       "items": [
@@ -640,7 +660,7 @@
       ]
     },
     "hi": {
-      "seo_title": "लिस्बन में शीर्ष आकर्षण 2026 — टिकट, सुझाव और संपूर्ण मार्गदर्शिका",
+      "seo_title": "लिस्बन के शीर्ष आकर्षण 2026 — 10 बेहतरीन सुझाव",
       "seo_description": "लिस्बन के सर्वश्रेष्ठ आकर्षणों का अन्वेषण करें। लिस्बन के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
       "page_intro": "लिस्बन, पुर्तगाल की जीवंत राजधानी, अपने समृद्ध इतिहास, शानदार वास्तुकला और जीवंत संस्कृति के लिए जानी जाती है। ऐतिहासिक पड़ोस से लेकर अद्भुत दृश्य स्थलों तक, शहर पुरानी दुनिया के आकर्षण और आधुनिकता का अनोखा मिश्रण प्रस्तुत करता है। आगंतुकों को इसकी चित्रात्मक सड़कों, स्वादिष्ट व्यंजनों और सभी रुचियों के लिए आकर्षण का आनंद लेने की सुविधा मिलती है, जिससे यह साहसिकता और विश्राम की तलाश करने वाले यात्रियों के लिए एक आदर्श गंतव्य बन जाता है।",
       "items": [
@@ -731,7 +751,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Lisboa 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Lisboa 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Lisboa. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Lisboa.",
       "page_intro": "Lisboa, a vibrante capital de Portugal, é conhecida por sua rica história, arquitetura deslumbrante e cultura animada. Desde bairros históricos até mirantes de tirar o fôlego, a cidade oferece uma mistura única de charme antigo e modernidade. Os visitantes podem desfrutar de suas ruas pitorescas, deliciosa culinária e uma variedade de atrações que atendem a todos os interesses, tornando-a um destino perfeito para viajantes em busca de aventura e relaxamento.",
       "items": [
@@ -822,7 +842,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أهم المعالم في لشبونة 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_title": "أفضل معالم لشبونة 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في لشبونة. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في لشبونة.",
       "page_intro": "لشبونة، عاصمة البرتغال النابضة بالحياة، معروفة بتاريخها الغني، عمارتها المذهلة وثقافتها النابضة بالحياة. من الأحياء التاريخية إلى وجهات النظر الخلابة، تقدم المدينة مزيجًا فريدًا من سحر العالم القديم وحداثة العصر. يمكن للزوار الاستمتاع بشوارعها الخلابة، المأكولات اللذيذة ومجموعة متنوعة من المعالم السياحية التي تلبي جميع الاهتمامات، مما يجعلها وجهة مثالية للمسافرين الذين يبحثون عن مغامرة واسترخاء.",
       "items": [
@@ -1004,7 +1024,7 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Лиссабона 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Лиссабона 2026",
       "seo_description": "Изучите лучшие достопримечательности Лиссабона. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Лиссабона.",
       "page_intro": "Лиссабон, яркая столица Португалии, известен своей богатой историей, потрясающей архитектурой и яркой культурой. От исторических районов до захватывающих видов, город предлагает уникальное сочетание очарования старого мира и современного стиля. Посетители могут наслаждаться живописными улицами, вкусной кухней и множеством достопримечательностей, которые удовлетворят все интересы, что делает его идеальным местом для путешественников, ищущих приключения и расслабление.",
       "items": [

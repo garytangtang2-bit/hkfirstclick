@@ -2,9 +2,9 @@
   "city_slug": "singapore",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Singapore 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Singapore. Find opening hours, ticket prices and booking links for Singapore's top landmarks.",
-      "page_intro": "Singapore, a vibrant city-state in Southeast Asia, is a melting pot of cultures, offering a unique blend of modernity and tradition. Known for its stunning skyline, lush gardens, and rich history, Singapore offers something for everyone. From iconic landmarks like Marina Bay Sands to bustling markets and serene temples, this city is a destination that promises unforgettable experiences. Whether you're an art aficionado, a nature lover, or a foodie, Singapore's diverse attractions are sure to captivate you.",
+      "seo_title": "8 Must-See Attractions in Singapore 2026 - Complete Guide",
+      "seo_description": "Get tickets, opening hours, and insider tips for Singapore's top attractions. Book now with Klook for an unforgettable adventure!",
+      "page_intro": "Discover the allure of Singapore, where iconic landmarks like Marina Bay Sands and Gardens by the Bay meet hidden gems waiting to be explored. Experience a city that seamlessly blends modern marvels with rich tradition. Skip the lines and book via Klook for an unforgettable adventure!",
       "items": [
         {
           "id": "marina-bay-sands",
@@ -105,12 +105,16 @@
           "best_time": "evening",
           "klook_query": "singapore flyer ticket"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Singapore?",
+      "faq_q2": "Do I need tickets for attractions in Singapore?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Singapore require tickets for entry. You can easily purchase them through Klook for convenience and great deals."
     },
     "zh": {
-      "seo_title": "2026 新加坡熱門景點 — 門票、提示與完整指南",
-      "seo_description": "探索新加坡的最佳景點。查找新加坡頂級地標的開放時間、票價和預訂鏈接。",
-      "page_intro": "新加坡，東南亞的一個充滿活力的城市國家，是一個文化大熔爐，提供現代與傳統的獨特融合。以其令人驚嘆的天際線、綠意盎然的花園和豐富的歷史而聞名，新加坡為每個人提供了各種選擇。從標誌性的地標如濱海灣金沙到繁華的市場和寧靜的寺廟，這座城市承諾帶來難忘的體驗。無論您是藝術愛好者、自然愛好者或美食家，新加坡多樣的景點一定會吸引您。",
+      "seo_title": "2026 新加坡 8 大必看景點 — 完整指南與票務資訊",
+      "seo_description": "探索新加坡最佳景點，獲取票價、開放時間及內部提示，立即透過 Klook 預訂，開始您的冒險！",
+      "page_intro": "探索新加坡的無窮魅力，從濱海灣金沙的壯觀景色到花園城市的寧靜綠意，每一處都令人驚艷。無論您喜愛自然、藝術還是美食，這裡都有無數精彩選擇可供探索。立即透過Klook預訂，省去排隊時間，享受更多樂趣！",
       "items": [
         {
           "id": "marina-bay-sands",
@@ -208,12 +212,16 @@
           "best_time": "evening",
           "klook_query": "singapore flyer ticket"
         }
-      ]
+      ],
+      "faq_q1": "新加坡的熱門景點有哪些？",
+      "faq_q2": "我需要購買新加坡的景點門票嗎？",
+      "faq_a1_suffix": " 是必看的景點。",
+      "faq_a2": "是的，大多數景點都需要門票。您可以通過Klook輕鬆購票，享受快速入場的便利。"
     },
     "ja": {
-      "seo_title": "シンガポールのおすすめ観光スポット 2026 — チケット、ヒント＆完全ガイド",
-      "seo_description": "シンガポールの最高の観光スポットを探索しましょう。シンガポールの主要なランドマークの営業時間、チケット料金、予約リンクを見つけましょう。",
-      "page_intro": "シンガポールは、東南アジアの活気ある都市国家で、文化のるつぼとして、現代性と伝統のユニークな融合を提供しています。息をのむようなスカイライン、緑豊かな庭園、豊かな歴史で知られるシンガポールは、誰にでも何かを提供します。マリーナベイサンズのような象徴的なランドマークから、賑やかな市場や静かな寺院まで、この都市は忘れられない体験を約束します。アート愛好者、自然愛好者、美食家のどなたでも、シンガポールの多様な観光スポットはきっとあなたを魅了することでしょう。",
+      "seo_title": "シンガポールの2026年必見観光スポット8選 — 完全ガイド",
+      "seo_description": "シンガポールの観光スポットのチケット、営業時間、インサイダー情報をチェック！Klookで予約して冒険を始めましょう。",
+      "page_intro": "シンガポールの魅力的な観光スポットがあなたを待っています。マリーナベイサンズやガーデンズ・バイ・ザ・ベイ、シンガポール動物園など、息をのむような名所が満載です。行列をスキップして、Klookで簡単に予約しましょう。",
       "items": [
         {
           "id": "marina-bay-sands",
@@ -311,12 +319,16 @@
           "best_time": "evening",
           "klook_query": "singapore flyer ticket"
         }
-      ]
+      ],
+      "faq_q1": "シンガポールの主な観光スポットは何ですか？",
+      "faq_q2": "シンガポールの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見の観光名所です。",
+      "faq_a2": "はい、ほとんどの観光名所には入場チケットが必要です。Klookを利用すれば、スムーズにチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "싱가포르의 주요 명소 2026 — 티켓, 팁 & 완전 가이드",
-      "seo_description": "싱가포르의 최고의 명소를 탐험하세요. 싱가포르의 주요 랜드마크의 개장 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
-      "page_intro": "싱가포르는 동남아시아의 활기찬 도시 국가로, 현대성과 전통의 독특한 조화를 제공하는 문화의 용광로입니다. 놀라운 스카이라인, 푸르른 정원, 풍부한 역사로 유명한 싱가포르는 모든 사람에게 무언가를 제공합니다. 마리나 베이 샌즈와 같은 상징적인 랜드마크에서 분주한 시장과 고요한 사원까지, 이 도시는 잊을 수 없는 경험을 약속합니다. 예술 애호가, 자연 애호가, 미식가 모두 싱가포르의 다양한 명소에 매료될 것입니다.",
+      "seo_title": "2026년 싱가포르의 8대 필수 명소 완벽 가이드",
+      "seo_description": "티켓, 개장 시간, 내부 팁을 확인하고 Klook 예약 링크로 싱가포르의 명소를 쉽게 방문하세요. 지금 계획해보세요!",
+      "page_intro": "싱가포르는 매혹적인 명소들로 가득한 도시로, 마리나 베이 샌즈와 가든스 바이 더 베이 같은 아이코닉한 랜드마크가 있습니다. 숨겨진 보석들을 탐험하며 잊지 못할 순간을 만들어보세요. Klook을 통해 줄 서지 않고 예약하세요!",
       "items": [
         {
           "id": "marina-bay-sands",
@@ -414,12 +426,16 @@
           "best_time": "evening",
           "klook_query": "singapore flyer ticket"
         }
-      ]
+      ],
+      "faq_q1": "싱가포르의 주요 명소는 무엇인가요?",
+      "faq_q2": "싱가포르의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 가봐야 할 명소입니다.",
+      "faq_a2": "네, 대부분의 명소에 입장권이 필요합니다. Klook을 통해 미리 예약하면 편리합니다."
     },
     "fr": {
-      "seo_title": "Meilleures attractions à Singapour 2026 — Billets, conseils & guide complet",
+      "seo_title": "Top 10 attractions à Singapour 2026 — Guide complet",
       "seo_description": "Explorez les meilleures attractions de Singapour. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Singapour.",
-      "page_intro": "Singapour, une cité-état dynamique en Asie du Sud-Est, est un creuset de cultures, offrant un mélange unique de modernité et de tradition. Réputée pour son horizon impressionnant, ses jardins luxuriants et son histoire riche, Singapour offre quelque chose pour tout le monde. Des sites emblématiques comme Marina Bay Sands aux marchés animés et aux temples sereins, cette ville est une destination qui promet des expériences inoubliables. Que vous soyez un amateur d'art, un amoureux de la nature ou un fin gourmet, les attractions diversifiées de Singapour sauront vous captiver.",
+      "page_intro": "Découvrez Singapour, une métropole fascinante où l'innovation rencontre la tradition. Des joyaux emblématiques comme Marina Bay Sands et Gardens by the Bay aux trésors cachés, cette ville vous émerveillera à chaque coin de rue. Réservez avec Klook pour éviter les files d'attente et profiter pleinement de votre expérience !",
       "items": [
         {
           "id": "marina-bay-sands",
@@ -517,10 +533,14 @@
           "best_time": "evening",
           "klook_query": "singapore flyer ticket"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Singapour ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Singapour ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets d'entrée. Pensez à réserver vos billets à l'avance sur Klook pour un accès rapide et sans tracas."
     },
     "es": {
-      "seo_title": "Principales atracciones en Singapur 2026 — Boletos, consejos y guía completa",
+      "seo_title": "Las 10 mejores atracciones en Singapur 2026",
       "seo_description": "Explora las mejores atracciones en Singapur. Encuentra horarios de apertura, precios de boletos y enlaces de reserva para los principales lugares de interés de Singapur.",
       "page_intro": "Singapur, una vibrante ciudad-estado en el sudeste asiático, es un crisol de culturas que ofrece una mezcla única de modernidad y tradición. Conocida por su impresionante horizonte, exuberantes jardines e historia rica, Singapur ofrece algo para todos. Desde lugares emblemáticos como Marina Bay Sands hasta mercados bulliciosos y templos serenos, esta ciudad es un destino que promete experiencias inolvidables. Ya sea que seas un aficionado al arte, un amante de la naturaleza o un amante de la comida, las diversas atracciones de Singapur seguramente te cautivarán.",
       "items": [
@@ -623,7 +643,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Terbaik di Singapura 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik Singapura 2026 - Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Singapura. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas di Singapura.",
       "page_intro": "Singapura, sebuah kota-negara yang dinamis di Asia Tenggara, adalah tempat peleburan budaya yang menawarkan perpaduan unik antara modernitas dan tradisi. Dikenal karena langitnya yang menakjubkan, taman-taman hijau, dan sejarah yang kaya, Singapura menawarkan sesuatu untuk semua orang. Dari landmark ikonik seperti Marina Bay Sands hingga pasar yang ramai dan kuil yang tenang, kota ini adalah destinasi yang menjanjikan pengalaman tak terlupakan. Apakah Anda seorang pecinta seni, pecinta alam, atau pecinta makanan, atraksi beragam di Singapura pasti akan memikat Anda.",
       "items": [
@@ -829,7 +849,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Singapura 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Singapura 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Singapura. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Singapura.",
       "page_intro": "Singapura, uma vibrante cidade-estado no sudeste da Ásia, é um caldeirão de culturas, oferecendo uma mistura única de modernidade e tradição. Conhecida por seu deslumbrante horizonte, jardins exuberantes e rica história, Singapura oferece algo para todos. De marcos icônicos como Marina Bay Sands a mercados movimentados e templos serenos, esta cidade é um destino que promete experiências inesquecíveis. Quer você seja um aficionado por arte, amante da natureza ou um gourmet, as diversas atrações de Singapura certamente o cativarão.",
       "items": [
@@ -1035,8 +1055,8 @@
       ]
     },
     "bn": {
-      "seo_title": "সিঙ্গাপুরের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "সিঙ্গাপুরের সেরা আকর্ষণগুলি অন্বেষণ করুন। সিঙ্গাপুরের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "সিঙ্গাপুরের ৮টি সেরা আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "সিঙ্গাপুরের সেরা আকর্ষণগুলির টিকিট, খোলার সময় ও গোপন টিপস পান। Klook বুকিং লিঙ্কের মাধ্যমে আপনার ভ্রমণ শুরু করুন!",
       "page_intro": "সিঙ্গাপুর, দক্ষিণ-পূর্ব এশিয়ার একটি প্রাণবন্ত শহর-রাষ্ট্র, সংস্কৃতির একটি মিলনস্থল, যা আধুনিকতা এবং ঐতিহ্যের একটি অনন্য মিশ্রণ প্রদান করে। এর চমত্কার স্কাইলাইন, সবুজ উদ্যান এবং সমৃদ্ধ ইতিহাসের জন্য পরিচিত, সিঙ্গাপুর সবার জন্য কিছু না কিছু অফার করে। আইকনিক স্থানগুলি থেকে শুরু করে ব্যস্ত বাজার এবং শান্ত মন্দির পর্যন্ত, এই শহরটি একটি গন্তব্য যা অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দেয়। আপনি যদি শিল্পপ্রেমী, প্রকৃতি প্রেমী বা খাদ্যরসিক হন, সিঙ্গাপুরের বৈচিত্র্যময় আকর্ষণগুলি অবশ্যই আপনাকে মুগ্ধ করবে।",
       "items": [
         {
@@ -1138,8 +1158,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Сингапура 2026 — Билеты, советы и полный гид",
-      "seo_description": "Исследуйте лучшие достопримечательности Сингапура. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Сингапура.",
+      "seo_title": "Топ 8 достопримечательностей Сингапура 2026 — Полный гид",
+      "seo_description": "Узнайте о часах работы, ценах и советах по билетам на лучшие места Сингапура. Бронируйте через Klook и начните свое приключение!",
       "page_intro": "Сингапур, яркий город-государство в Юго-Восточной Азии, является плавильным котлом культур, предлагая уникальное сочетание современности и традиций. Известный своим потрясающим горизонтом, пышными садами и богатой историей, Сингапур предлагает что-то для каждого. От знаковых достопримечательностей, таких как Marina Bay Sands, до оживленных рынков и спокойных храмов, этот город является местом, обещающим незабываемые впечатления. Будь вы ценителем искусства, любителем природы или гурманом, разнообразные достопримечательности Сингапура наверняка вас очаруют.",
       "items": [
         {

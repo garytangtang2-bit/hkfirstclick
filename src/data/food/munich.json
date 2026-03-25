@@ -2,9 +2,9 @@
   "city_slug": "munich",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Munich 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Munich. From budget eats to fine dining — with booking links.",
-      "page_intro": "Munich's food culture is a delightful blend of traditional Bavarian cuisine and international influences. The city is renowned for its hearty dishes, vibrant beer gardens, and bustling markets. Whether you're indulging in a classic Weisswurst or savoring street food at a lively market, Munich offers a culinary experience that caters to every palate.",
+      "seo_title": "8 Best Must-Try Restaurants in Munich 2026",
+      "seo_description": "Save time with real recommendations for Munich's top eats. Book via Klook and discover local favorites. Plan your meal today!",
+      "page_intro": "Dive into Munich's vibrant food scene, where hearty Bavarian classics like pork knuckle and pretzels meet international flavors. Discover the city's must-try dishes with our curated picks for a delicious experience!",
       "items": [
         {
           "id": "haxnbauer",
@@ -13,7 +13,7 @@
           "description": "Famous for its crispy pork knuckle, Haxnbauer is a must-visit for anyone seeking authentic Bavarian fare. The cozy atmosphere, complete with wooden furnishings and traditional decor, makes it perfect for a hearty meal. Prices range from $$ to $$$, and don't miss their homemade sauerkraut on the side!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Crispy Pork Knuckle",
           "klook_query": "Haxnbauer Munich booking",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Viktualienmarkt is a bustling food market that offers a wide variety of local and international delicacies. Here, you can sample traditional Bavarian snacks like pretzels and sausages, alongside fresh produce and artisanal goods. The vibrant atmosphere and outdoor seating make it an ideal spot for a relaxed lunch. Price range varies from $ to $$.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Bavarian Pretzel",
           "klook_query": "Viktualienmarkt food tour Munich",
           "photo_url": "https://images.pexels.com/photos/30354582/pexels-photo-30354582.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "At Schwabenhaus, you can enjoy traditional Swabian dishes in a charming setting. Known for its homemade Maultaschen and Spätzle, this restaurant provides a cozy atmosphere with friendly service. The price range is moderate ($$), making it a great option for a filling meal.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Maultaschen",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -48,7 +48,7 @@
           "description": "Wurstmarkt is a vibrant night market that highlights Munich's love for sausages. Here, you can find a variety of grilled sausages served with sauerkraut and mustard. The lively atmosphere, complete with music and local vendors, makes it a fun evening out. Prices are very affordable ($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Grilled Sausages",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -59,7 +59,7 @@
           "description": "Bayerischer Hof is an upscale hotel that features an exquisite restaurant combining traditional and modern Bavarian cuisine. The elegant ambiance and attentive service make it perfect for a special occasion. Expect to pay in the $$$ range, and try their seasonal specialties for a true taste of Bavaria.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Seasonal Specialties",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -70,7 +70,7 @@
           "description": "The Munich Food Truck Festival showcases a variety of food trucks serving everything from gourmet burgers to vegan delights. The event features live music and a vibrant atmosphere, making it a fantastic outing for food lovers. Prices vary widely ($ to $$), making it accessible for all.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Gourmet Burgers",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -81,16 +81,19 @@
           "description": "Café Franziskaner is a charming café known for its delicious cakes and coffee. With a cozy ambiance and friendly staff, it’s perfect for a relaxing afternoon break. Prices are reasonable ($), and be sure to try their famous Black Forest cake paired with a cup of coffee.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Black Forest Cake",
           "klook_query": "Café Franziskaner Munich booking"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Munich?",
+      "faq_q2": "Where can I find the best restaurants in Munich?",
+      "faq_a2_suffix": " Haxnbauer, Viktualienmarkt, and Schwabenhaus are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "慕尼黑最佳美食 2026 — 顶级餐厅与街头美食指南",
-      "seo_description": "探索慕尼黑最好的餐厅、街头美食和当地特色。从预算美食到精致餐饮 — 还有预订链接。",
-      "page_intro": "慕尼黑的美食文化是传统巴伐利亚美食与国际风味的愉快融合。该市以丰盛的菜肴、充满活力的啤酒花园和热闹的市场而闻名。无论是享用经典的白香肠，还是在热闹的市场品尝街头美食，慕尼黑都提供了满足各种口味的美食体验。",
+      "seo_title": "慕尼黑2026年必試美食 — 8大最佳餐廳與隱藏美味",
+      "seo_description": "節省時間，獲得真實推薦！透過Klook預訂，立即計劃您的美食之旅，發掘當地美味！",
+      "page_intro": "慕尼黑的美食場景令人驚豔，傳統巴伐利亞美食與創新風味交融。無論是品嚐經典的白香腸還是啤酒花園的美味，這裡的美食體驗絕對不容錯過！透過我們精心挑選的推薦，輕鬆預訂，節省時間，盡情享受慕尼黑的美味。",
       "items": [
         {
           "id": "haxnbauer",
@@ -99,7 +102,7 @@
           "description": "Haxnbauer以其酥脆的猪膝而闻名，是寻求正宗巴伐利亚菜肴的必访之地。温馨的氛围，配有木制家具和传统装饰，使其成为享用丰盛餐点的完美场所。价格范围为$$到$$$，不要错过他们自制的酸菜！",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "脆皮豬腳",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -110,7 +113,7 @@
           "description": "维克图阿连市场是一个热闹的食品市场，提供各种当地和国际美食。在这里，您可以品尝到传统的巴伐利亚小吃，如椒盐卷饼和香肠，以及新鲜的农产品和手工制品。活跃的气氛和户外座位使其成为轻松午餐的理想场所。价格范围从$到$$不等。",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "巴伐利亞椒鹽卷餅",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -121,7 +124,7 @@
           "description": "在施瓦本屋，您可以在迷人的环境中享用传统的施瓦本菜肴。以自制的马尔塔香肠和意大利面而闻名，这家餐厅提供温馨的氛围和友好的服务。价格范围适中($$)，是享用丰盛餐点的绝佳选择。",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "馬爾特塔申",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -132,7 +135,7 @@
           "description": "香肠市场是一个充满活力的夜市，突显了慕尼黑对香肠的热爱。在这里，您可以找到各种烤香肠，配以酸菜和芥末。热闹的气氛，配有音乐和当地商贩，使其成为一个有趣的夜晚。价格非常实惠($)。",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "烤香腸",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -143,7 +146,7 @@
           "description": "巴伐利亚酒店是一家高档酒店，设有一家精致的餐厅，结合了传统和现代巴伐利亚美食。优雅的氛围和周到的服务使其非常适合特殊场合。预计价格在$$$范围内，尝试他们的季节性特色菜，真正体验巴伐利亚的味道。",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "季節特餐",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -154,7 +157,7 @@
           "description": "慕尼黑美食车节展示了各种美食车，提供从美味汉堡到素食美食的多样选择。该活动设有现场音乐和充满活力的氛围，是美食爱好者的绝佳出游选择。价格范围广泛($到$$)，适合所有人。",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "美味漢堡",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -165,16 +168,19 @@
           "description": "弗朗茨咖啡馆是一家迷人的咖啡馆，以美味的蛋糕和咖啡而闻名。温馨的环境和友好的员工使其成为放松的下午休息的完美之地。价格合理($)，一定要尝试他们著名的黑森林蛋糕，搭配一杯咖啡。",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "黑森林蛋糕",
           "klook_query": "Café Franziskaner Munich booking"
         }
-      ]
+      ],
+      "faq_q1": "慕尼黑最值得品嚐的美食是什麼？",
+      "faq_q2": "我在哪裡可以找到慕尼黑最好的餐廳？",
+      "faq_a2_suffix": " 是最受推崇的用餐選擇。"
     },
     "ja": {
-      "seo_title": "ミュンヘンのベストフード 2026 — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ミュンヘンの最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に合わせた食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "ミュンヘンの食文化は、伝統的なバイエルン料理と国際的な影響が見事に融合したものです。この街は、ボリューム満点の料理、活気あるビアガーデン、賑やかな市場で知られています。クラシックなヴァイスヴルストを楽しむもよし、賑やかな市場でストリートフードを味わうもよし、ミュンヘンはすべての味覚に応える料理体験を提供しています。",
+      "seo_title": "ミュンヘン2026年の必食8レストラン — ベストフードガイド",
+      "seo_description": "時間を節約し、実際のおすすめを見つけましょう。Klookで予約して、地元の名物を今すぐ計画しましょう！",
+      "page_intro": "ミュンヘンの食文化は、バイエルンの伝統料理と国際色豊かなフレーバーが融合した魅力的なシーンです。名物のハクス（豚足）や新鮮な市場のストリートフードを楽しみながら、時間を節約し、厳選されたレストランをKlookで予約しましょう。",
       "items": [
         {
           "id": "haxnbauer",
@@ -183,7 +189,7 @@
           "description": "ハクスンバウアは、クリスピーな豚足で有名で、正真正銘のバイエルン料理を求める人にとって必見のスポットです。木製の家具と伝統的な装飾で居心地の良い雰囲気があり、ボリューム満点の食事に最適です。価格は$$から$$$までの範囲で、自家製のザワークラウトをお忘れなく！",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "クリスピーポークナックル",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -194,7 +200,7 @@
           "description": "ビクトゥアリエンマーケットは、地元の特産品や国際的な美味しい料理が揃った賑やかなフードマーケットです。ここでは、プレッツェルやソーセージなどの伝統的なバイエルンのスナックや、新鮮な農産物、アーティザナル製品を味わえます。活気ある雰囲気と屋外の座席があり、リラックスしたランチに最適なスポットです。価格帯は$から$$までさまざまです。",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "バイエルンプレッツェル",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -205,7 +211,7 @@
           "description": "シュヴァーベンハウスでは、魅力的な環境で伝統的なシュヴァーベン料理を楽しむことができます。自家製のマウルタッシェやシュペッツレで知られ、このレストランは温かみのある雰囲気とフレンドリーなサービスを提供しています。価格帯は中程度($$)で、満腹になる食事にぴったりです。",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "マウルタッシェン",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -216,7 +222,7 @@
           "description": "ヴルストマーケットは、ミュンヘンのソーセージ愛を引き立てる活気あるナイトマーケットです。ここでは、ザワークラウトとマスタードを添えた様々なグリルソーセージを見つけることができます。音楽と地元のベンダーで溢れる賑やかな雰囲気は、楽しい夜の外出を演出します。価格は非常に手頃です($)。",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "グリルソーセージ",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -227,7 +233,7 @@
           "description": "バイエリッシャーホフは、高級ホテルで、伝統的なバイエルン料理と現代的な料理を組み合わせた絶品レストランを備えています。エレガントな雰囲気と細やかなサービスは、特別な機会に最適です。価格は$$$の範囲で、真のバイエルンの味を体験するために季節の特産品を試してみてください。",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "季節の特別料理",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -238,7 +244,7 @@
           "description": "ミュンヘンフードトラックフェスティバルでは、グルメバーガーからベジタリアンの喜びまで、さまざまなフードトラックが集まります。このイベントは、ライブ音楽と活気のある雰囲気を特徴としており、食べ物好きの方々にとって素晴らしい外出先です。価格は幅広く($から$$まで)、すべての人がアクセス可能です。",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "グルメバーガー",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -249,16 +255,19 @@
           "description": "カフェ・フランツィスカーナーは、美味しいケーキやコーヒーで知られる魅力的なカフェです。居心地の良い雰囲気とフレンドリーなスタッフが揃っており、リラックスした午後の休憩に最適です。価格は手頃で($)、有名な黒い森のケーキをコーヒーと一緒にぜひお試しください。",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "ブラックフォレストケーキ",
           "klook_query": "Café Franziskaner Munich booking"
         }
-      ]
+      ],
+      "faq_q1": "ミュンヘンでおすすめの料理は何ですか？",
+      "faq_q2": "ミュンヘンで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションです。"
     },
     "ko": {
-      "seo_title": "뮌헨 최고의 음식 2026 — 최고의 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "뮌헨의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산에 맞춘 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "뮌헨의 음식 문화는 전통 바이에른 요리와 국제적인 영향을 기분 좋게 혼합한 것입니다. 이 도시는 푸짐한 요리, 활기찬 맥주 정원 및 번화한 시장으로 유명합니다. 클래식한 바이스부르스트를 즐기든 활기찬 시장에서 스트리트 푸드를 맛보든, 뮌헨은 모든 입맛을 만족시키는 요리 경험을 제공합니다.",
+      "seo_title": "2026 뮌헨 최고의 8곳 — 꼭 먹어봐야 할 숨겨진 맛집",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 뮌헨의 로컬 맛집을 발견하고 식사를 계획해보세요!",
+      "page_intro": "뮌헨의 음식 문화는 전통적인 바이에른 요리와 세계 각국의 맛이 어우러지는 매력적인 곳입니다. 유명한 슈바인학세와 바이스부르스트를 비롯해, 활기찬 빅투알리엔마르크트에서 신선한 재료로 만든 요리들을 경험해 보세요. Klook을 통해 시간을 절약하고 엄선된 맛집을 쉽게 예약하세요!",
       "items": [
         {
           "id": "haxnbauer",
@@ -267,7 +276,7 @@
           "description": "하크스바우어는 바삭한 돼지 무릎으로 유명하며, 정통 바이에른 요리를 찾는 사람들에게 꼭 방문해야 할 곳입니다. 우드 가구와 전통 장식으로 아늑한 분위기를 갖춘 이곳은 푸짐한 식사에 완벽합니다. 가격은 $$에서 $$$ 사이이며, 사이드로 제공되는 그들의 홈메이드 사우어크라우트를 놓치지 마세요!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "바삭한 돼지족발",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -278,7 +287,7 @@
           "description": "빅투알리엔마르크트는 다양한 지역 및 국제 미식을 제공하는 번화한 음식 시장입니다. 여기에서 프레첼과 소시지 같은 전통 바이에른 간식과 신선한 농산물 및 수공예 제품을 샘플링할 수 있습니다. 활기찬 분위기와 야외 좌석은 편안한 점심을 즐기기에 이상적인 장소입니다. 가격 범위는 $에서 $$까지 다양합니다.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "바이에른 프레첼",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -289,7 +298,7 @@
           "description": "슈바벤하우스에서는 매력적인 환경에서 전통적인 슈바벤 요리를 즐길 수 있습니다. 자가제 마울타셴과 슈페츨레로 유명한 이 레스토랑은 아늑한 분위기와 친절한 서비스를 제공합니다. 가격 범위는 중간($$)으로, 푸짐한 식사에 좋은 선택입니다.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "마울타셴",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -300,7 +309,7 @@
           "description": "부르스트마르크트는 뮌헨의 소시지 사랑을 강조하는 활기찬 야시장입니다. 여기에서 사우어크라우트와 머스터드를 곁들인 다양한 구운 소시지를 찾을 수 있습니다. 음악과 지역 상인으로 가득한 활기찬 분위기는 즐거운 저녁 외출을 만듭니다. 가격은 매우 저렴합니다($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "구운 소시지",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -311,7 +320,7 @@
           "description": "바이에리셔호프는 전통과 현대의 바이에른 요리를 결합한 훌륭한 레스토랑을 갖춘 고급 호텔입니다. 우아한 분위기와 세심한 서비스는 특별한 행사에 완벽합니다. 가격은 $$$ 범위이며, 진정한 바이에른의 맛을 경험하기 위해 계절 특선 요리를 시도해 보세요.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "계절 특선",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -322,7 +331,7 @@
           "description": "뮌헨 푸드 트럭 페스티벌은 미식가를 위한 다양한 푸드 트럭을 선보이며, 고급 버거부터 비건 요리까지 다양합니다. 이 이벤트는 라이브 음악과 활기찬 분위기를 특징으로 하여 음식 애호가들에게 환상적인 외출을 제공합니다. 가격은 다양합니다($에서 $$까지), 모든 사람이 접근할 수 있습니다.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "고급 햄버거",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -333,16 +342,19 @@
           "description": "카페 프란츠이스카너는 맛있는 케이크와 커피로 유명한 매력적인 카페입니다. 아늑한 분위기와 친절한 직원들이 있어 편안한 오후 휴식을 취하기에 완벽합니다. 가격은 합리적입니다($), 그들의 유명한 블랙 포레스트 케이크를 커피와 함께 꼭 시도해 보세요.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "블랙 포레스트 케이크",
           "klook_query": "Café Franziskaner Munich booking"
         }
-      ]
+      ],
+      "faq_q1": "뮌헨에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "뮌헨에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 식사 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Munich 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Munich. Des repas à petit budget à la haute cuisine — avec des liens de réservation.",
-      "page_intro": "La culture alimentaire de Munich est un mélange délicieux de cuisine bavaroise traditionnelle et d'influences internationales. La ville est réputée pour ses plats copieux, ses jardins de bière animés et ses marchés animés. Que vous vous laissiez tenter par une Weisswurst classique ou que vous savouriez de la street food dans un marché animé, Munich offre une expérience culinaire qui satisfait tous les palais.",
+      "seo_title": "8 Meilleurs Restaurants à Munich 2026",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les pépites locales. Planifiez votre repas dès maintenant !",
+      "page_intro": "Découvrez la scène culinaire vibrante de Munich, où la Weisswurst et les bretzels côtoient des saveurs internationales. Profitez de nos sélections pour savourer le meilleur de la gastronomie munichoise sans perdre de temps.",
       "items": [
         {
           "id": "haxnbauer",
@@ -351,7 +363,7 @@
           "description": "Célèbre pour son jarret de porc croustillant, Haxnbauer est un incontournable pour quiconque recherche une cuisine bavaroise authentique. L'atmosphère chaleureuse, avec son mobilier en bois et sa décoration traditionnelle, en fait l'endroit parfait pour un repas copieux. Les prix varient de $$ à $$$, et ne manquez pas leur choucroute maison en accompagnement !",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Cuisse de porc croustillante",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -362,7 +374,7 @@
           "description": "Viktualienmarkt est un marché alimentaire animé qui propose une grande variété de délices locaux et internationaux. Ici, vous pouvez déguster des en-cas bavarois traditionnels tels que des bretzels et des saucisses, ainsi que des produits frais et des biens artisanaux. L'atmosphère vibrante et les sièges en plein air en font un endroit idéal pour un déjeuner détendu. La fourchette de prix varie de $ à $$.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Bretzel bavarois",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -373,7 +385,7 @@
           "description": "Au Schwabenhaus, vous pouvez déguster des plats traditionnels souabes dans un cadre charmant. Connu pour ses Maultaschen et Spätzle faits maison, ce restaurant offre une ambiance conviviale avec un service amical. La fourchette de prix est modérée ($$), ce qui en fait une excellente option pour un repas copieux.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Maultaschen",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -384,7 +396,7 @@
           "description": "Wurstmarkt est un marché nocturne animé qui met en avant l'amour de Munich pour les saucisses. Ici, vous pouvez trouver une variété de saucisses grillées servies avec de la choucroute et de la moutarde. L'atmosphère animée, accompagnée de musique et de vendeurs locaux, en fait une sortie amusante pour la soirée. Les prix sont très abordables ($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Saucisses grillées",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -395,7 +407,7 @@
           "description": "Bayerischer Hof est un hôtel haut de gamme qui propose un restaurant exquis alliant cuisine bavaroise traditionnelle et moderne. L'ambiance élégante et le service attentionné en font un cadre idéal pour une occasion spéciale. Attendez-vous à payer dans la fourchette de prix $$$, et essayez leurs spécialités saisonnières pour un véritable goût de la Bavière.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Spécialités de saison",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -406,7 +418,7 @@
           "description": "Le Festival des Food Trucks de Munich présente une variété de camions de nourriture proposant de tout, des hamburgers gastronomiques aux délices végétaliens. L'événement propose de la musique live et une atmosphère vibrante, ce qui en fait une sortie fantastique pour les amateurs de nourriture. Les prix varient largement ($ à $$), rendant l'événement accessible à tous.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Burgers gourmets",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -417,15 +429,18 @@
           "description": "Le Café Franziskaner est un café charmant connu pour ses délicieux gâteaux et son café. Avec une ambiance cosy et un personnel amical, c'est l'endroit parfait pour une pause après-midi relaxante. Les prix sont raisonnables ($), et assurez-vous d'essayer leur célèbre gâteau Forêt Noire accompagné d'une tasse de café.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Forêt-Noire",
           "klook_query": "Café Franziskaner Munich booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Munich ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Munich ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Múnich 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Múnich. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "seo_title": "Top 8 Restaurantes en Múnich 2026 — Sabores Únicos",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
       "page_intro": "La cultura culinaria de Múnich es una deliciosa mezcla de la cocina bávara tradicional y las influencias internacionales. La ciudad es conocida por sus platos abundantes, vibrantes cervecerías al aire libre y bulliciosos mercados. Ya sea que te deleites con una clásica Weisswurst o saborees comida callejera en un mercado animado, Múnich ofrece una experiencia culinaria que satisface todos los paladares.",
       "items": [
         {
@@ -435,7 +450,7 @@
           "description": "Famoso por su crujiente codillo de cerdo, Haxnbauer es una visita obligada para cualquiera que busque comida bávara auténtica. El ambiente acogedor, con muebles de madera y decoración tradicional, lo convierte en el lugar perfecto para una comida abundante. Los precios oscilan entre $$ y $$$, ¡y no te pierdas su chu sauerkraut casera como acompañamiento!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Codillo crujiente",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -446,7 +461,7 @@
           "description": "Viktualienmarkt es un bullicioso mercado de alimentos que ofrece una amplia variedad de delicias locales e internacionales. Aquí puedes degustar bocadillos tradicionales bávaros como pretzels y salchichas, junto con productos frescos y productos artesanales. La atmósfera vibrante y los asientos al aire libre lo convierten en un lugar ideal para un almuerzo relajado. El rango de precios varía de $ a $$.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Pretzel bávaro",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -457,7 +472,7 @@
           "description": "En Schwabenhaus, puedes disfrutar de platos tradicionales suabos en un ambiente encantador. Conocido por sus Maultaschen y Spätzle hechos en casa, este restaurante ofrece un ambiente acogedor con un servicio amable. El rango de precios es moderado ($$), lo que lo convierte en una excelente opción para una comida abundante.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Maultaschen",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -468,7 +483,7 @@
           "description": "Wurstmarkt es un vibrante mercado nocturno que destaca el amor de Múnich por las salchichas. Aquí puedes encontrar una variedad de salchichas a la parrilla servidas con chu sauerkraut y mostaza. La atmósfera animada, acompañada de música y vendedores locales, lo convierte en una salida divertida para la noche. Los precios son muy asequibles ($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Salchichas a la parrilla",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -479,7 +494,7 @@
           "description": "Bayerischer Hof es un hotel de lujo que cuenta con un exquisito restaurante que combina la cocina bávara tradicional y moderna. La atmósfera elegante y el servicio atento lo convierten en el lugar perfecto para una ocasión especial. Espera pagar en el rango de $$$, y prueba sus especialidades de temporada para un verdadero sabor de Baviera.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Especialidades de temporada",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -490,7 +505,7 @@
           "description": "El Festival de Food Trucks de Múnich presenta una variedad de camiones de comida que sirven desde hamburguesas gourmet hasta delicias veganas. El evento cuenta con música en vivo y una atmósfera vibrante, lo que lo convierte en una salida fantástica para los amantes de la comida. Los precios varían ampliamente ($ a $$), lo que lo hace accesible para todos.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Hamburguesas gourmet",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -501,16 +516,16 @@
           "description": "Café Franziskaner es un encantador café conocido por sus deliciosos pasteles y café. Con un ambiente acogedor y un personal amable, es perfecto para una pausa relajante por la tarde. Los precios son razonables ($), y asegúrate de probar su famoso pastel Selva Negra acompañado de una taza de café.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Tarta Selva Negra",
           "klook_query": "Café Franziskaner Munich booking"
         }
       ]
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Munich 2026 — Restoran Teratas & Panduan Makanan Jalanan",
-      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Munich. Dari makanan anggaran hingga santapan mewah — dengan tautan pemesanan.",
-      "page_intro": "Budaya makanan Munich adalah perpaduan yang menyenangkan antara masakan Bavaria tradisional dan pengaruh internasional. Kota ini terkenal dengan hidangan yang mengenyangkan, taman bir yang ramai, dan pasar yang ramai. Apakah Anda menikmati Weisswurst klasik atau mencicipi makanan jalanan di pasar yang meriah, Munich menawarkan pengalaman kuliner yang memenuhi setiap selera.",
+      "seo_title": "8 Restoran Terbaik di Munich 2026 — Hidden Gems",
+      "seo_description": "Hemat waktu dengan rekomendasi makanan terbaik di Munich. Pesan melalui Klook dan rencanakan santapan Anda sekarang!",
+      "page_intro": "Nikmati kelezatan kuliner Munich yang menggoda, dari pretzel renyah hingga Haxnbauer yang terkenal. Temukan hidangan khas Bavaria dan pengalaman tak terlupakan dengan rekomendasi terbaik dari kami.",
       "items": [
         {
           "id": "haxnbauer",
@@ -519,7 +534,7 @@
           "description": "Terkenal karena kaki babi yang renyah, Haxnbauer adalah tempat yang wajib dikunjungi bagi siapa pun yang mencari masakan Bavaria yang otentik. Suasana yang nyaman, lengkap dengan perabotan kayu dan dekorasi tradisional, membuatnya sempurna untuk makan yang mengenyangkan. Harga berkisar antara $$ hingga $$$, dan jangan lewatkan sauerkraut buatan rumah mereka sebagai pendamping!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Kaki Babi Krispi",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -530,7 +545,7 @@
           "description": "Viktualienmarkt adalah pasar makanan yang ramai yang menawarkan berbagai macam makanan lokal dan internasional. Di sini, Anda dapat mencicipi camilan tradisional Bavaria seperti pretzel dan sosis, bersama dengan produk segar dan barang-barang kerajinan. Suasana yang hidup dan tempat duduk di luar ruangan menjadikannya tempat yang ideal untuk makan siang santai. Rentang harga bervariasi dari $ hingga $$.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Pretzel Bavaria",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -541,7 +556,7 @@
           "description": "Di Schwabenhaus, Anda dapat menikmati hidangan tradisional Swabia dalam suasana yang menawan. Dikenal karena Maultaschen dan Spätzle buatan rumahnya, restoran ini menyediakan suasana yang nyaman dengan layanan yang ramah. Rentang harganya moderat ($$), menjadikannya pilihan yang bagus untuk makan yang mengenyangkan.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Maultaschen",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -552,7 +567,7 @@
           "description": "Wurstmarkt adalah pasar malam yang ramai yang menyoroti cinta Munich terhadap sosis. Di sini, Anda dapat menemukan berbagai sosis bakar yang disajikan dengan sauerkraut dan mustard. Suasana yang meriah, lengkap dengan musik dan pedagang lokal, menjadikannya malam yang menyenangkan. Harganya sangat terjangkau ($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Sosis Bakar",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -563,7 +578,7 @@
           "description": "Bayerischer Hof adalah hotel mewah yang menampilkan restoran yang sangat baik yang menggabungkan masakan Bavaria tradisional dan modern. Suasana yang elegan dan layanan yang perhatian membuatnya sempurna untuk acara spesial. Perkirakan untuk membayar dalam kisaran $$$, dan cobalah spesialisasi musiman mereka untuk merasakan sejati dari Bavaria.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Spesial Musiman",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -574,7 +589,7 @@
           "description": "Festival Food Truck Munich menampilkan berbagai truk makanan yang menyajikan segala sesuatu mulai dari burger gourmet hingga makanan vegan. Acara ini menampilkan musik live dan suasana yang meriah, menjadikannya outing fantastis bagi pecinta makanan. Harga bervariasi secara luas ($ hingga $$), membuatnya dapat diakses oleh semua orang.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Burger Gourmet",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -585,15 +600,18 @@
           "description": "Café Franziskaner adalah kafe yang menawan yang dikenal karena kue dan kopi yang lezat. Dengan suasana yang nyaman dan staf yang ramah, tempat ini sempurna untuk istirahat sore yang santai. Harganya terjangkau ($), dan pastikan untuk mencoba kue Hutan Hitam mereka yang terkenal dipadukan dengan secangkir kopi.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Kue Hutan Hitam",
           "klook_query": "Café Franziskaner Munich booking"
         }
-      ]
+      ],
+      "faq_q1": "Apa makanan terbaik yang harus dicoba di Munich?",
+      "faq_q2": "Di mana saya bisa menemukan restoran terbaik di Munich?",
+      "faq_a2_suffix": " adalah pilihan tempat makan terbaik."
     },
     "hi": {
-      "seo_title": "म्यूनिख में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "म्यूनिख में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "म्यूनिख के 8 सर्वश्रेष्ठ रेस्तरां 2026 - स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook से बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय विशेषताओं की खोज करें!",
       "page_intro": "म्यूनिख की खाद्य संस्कृति पारंपरिक बवेरियन व्यंजनों और अंतरराष्ट्रीय प्रभावों का एक सुखद मिश्रण है। शहर अपने भरपूर व्यंजनों, जीवंत बियर गार्डन और हलचल भरे बाजारों के लिए प्रसिद्ध है। चाहे आप क्लासिक वाइसवुर्स्ट का आनंद ले रहे हों या एक जीवंत बाजार में स्ट्रीट फूड का स्वाद ले रहे हों, म्यूनिख हर स्वाद के लिए एक पाक अनुभव प्रदान करता है।",
       "items": [
         {
@@ -603,7 +621,7 @@
           "description": "क्रिस्पी पोर्क नकल के लिए प्रसिद्ध, हैक्सनबॉयर एक ऐसा स्थान है जिसे वास्तविक बवेरियन भोजन की तलाश में किसी को भी अवश्य देखना चाहिए। लकड़ी के फर्नीचर और पारंपरिक सजावट से भरा आरामदायक वातावरण इसे एक भरपूर भोजन के लिए उपयुक्त बनाता है। कीमतें $$ से $$$ तक हैं, और उनके साइड में घर का बना सौकरक्राट जरूर आजमाएं!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "क्रिस्पी पोर्क नकल",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -614,7 +632,7 @@
           "description": "विक्टुवालियनमार्क्ट एक हलचल भरा खाद्य बाजार है जो स्थानीय और अंतरराष्ट्रीय व्यंजनों की एक विस्तृत विविधता प्रदान करता है। यहाँ, आप प्रेट्ज़ेल और सॉसेज जैसे पारंपरिक बवेरियन नाश्ते का नमूना ले सकते हैं, साथ ही ताजे उत्पाद और शिल्प सामान भी। जीवंत वातावरण और बाहरी बैठने की व्यवस्था इसे एक आरामदायक दोपहर के भोजन के लिए आदर्श स्थान बनाती है। कीमतें $ से $$ तक भिन्न होती हैं।",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "बावेरियन प्रेट्ज़ेल",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -625,7 +643,7 @@
           "description": "श्वाबेनहाउस में, आप एक आकर्षक सेटिंग में पारंपरिक स्वाबियन व्यंजनों का आनंद ले सकते हैं। अपने घर के बने मॉलटाशेन और स्पैट्ज़ले के लिए प्रसिद्ध, यह रेस्तरां एक आरामदायक वातावरण और मित्रवत सेवा प्रदान करता है। कीमतें मध्यम ($$) हैं, जो एक भरपूर भोजन के लिए इसे एक शानदार विकल्प बनाती हैं।",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "मॉल्टाशेन",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -636,7 +654,7 @@
           "description": "वुर्स्टमार्कट एक जीवंत रात का बाजार है जो म्यूनिख के सॉसेज के प्रति प्रेम को उजागर करता है। यहाँ, आप सॉकरक्राट और सरसों के साथ परोसे जाने वाले विभिन्न ग्रिल्ड सॉसेज पा सकते हैं। संगीत और स्थानीय विक्रेताओं के साथ जीवंत वातावरण इसे एक मजेदार शाम के लिए बनाता है। कीमतें बहुत सस्ती ($) हैं।",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "ग्रिल्ड सॉसेज",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -647,7 +665,7 @@
           "description": "बायरीशर होफ़ एक उच्च श्रेणी का होटल है जिसमें एक उत्कृष्ट रेस्तरां है जो पारंपरिक और आधुनिक बवेरियन व्यंजनों को मिलाता है। शानदार वातावरण और ध्यान देने वाली सेवा इसे विशेष अवसरों के लिए आदर्श बनाती है। $$$ की कीमतों की अपेक्षा करें, और बवेरिया के असली स्वाद के लिए उनके मौसमी विशेषताओं को आजमाएं।",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "मौसमी विशेषताएँ",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -658,7 +676,7 @@
           "description": "म्यूनिख फूड ट्रक महोत्सव विभिन्न खाद्य ट्रकों को प्रदर्शित करता है जो हर चीज़ परोसते हैं, जैसे गॉरमेट बर्गर से लेकर शाकाहारी व्यंजन तक। इस कार्यक्रम में जीवंत संगीत और एक जीवंत वातावरण है, जो खाद्य प्रेमियों के लिए एक शानदार आउटिंग बनाता है। कीमतें व्यापक रूप से भिन्न होती हैं ($ से $$), जो सभी के लिए इसे सुलभ बनाती हैं।",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "गौरमे बर्गर",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -669,15 +687,15 @@
           "description": "कैफे फ्रांज़िस्केनर एक आकर्षक कैफे है जो अपने स्वादिष्ट केक और कॉफी के लिए जाना जाता है। आरामदायक माहौल और मित्रवत स्टाफ के साथ, यह एक आरामदायक दोपहर की ब्रेक के लिए आदर्श है। कीमतें उचित ($) हैं, और उनके प्रसिद्ध ब्लैक फॉरेस्ट केक को कॉफी के साथ आजमाना न भूलें।",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "ब्लैक फॉरेस्ट केक",
           "klook_query": "Café Franziskaner Munich booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Munique 2026 — Principais Restaurantes e Guia de Street Food",
-      "seo_description": "Descubra os melhores restaurantes, street food e especialidades locais em Munique. Desde comidas econômicas até alta gastronomia — com links para reservas.",
+      "seo_title": "Top 8 Restaurantes em Munique 2026 — Delícias Imperdíveis",
+      "seo_description": "Economize tempo com recomendações reais de Klook. Descubra os favoritos locais e planeje sua refeição agora!",
       "page_intro": "A cultura alimentar de Munique é uma mistura deliciosa da culinária tradicional da Baviera com influências internacionais. A cidade é famosa por seus pratos substanciais, vibrantes jardins de cerveja e mercados movimentados. Seja você um apreciador da clássica Weisswurst ou saboreando street food em um mercado animado, Munique oferece uma experiência culinária que atende a todos os paladares.",
       "items": [
         {
@@ -687,7 +705,7 @@
           "description": "Famoso por seu joelho de porco crocante, Haxnbauer é uma visita obrigatória para quem busca a verdadeira comida bávara. O ambiente acolhedor, com móveis de madeira e decoração tradicional, torna-o perfeito para uma refeição substancial. Os preços variam de $$ a $$$, e não perca o chucrute caseiro como acompanhamento!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Joelho de Porco Crocante",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -698,7 +716,7 @@
           "description": "Viktualienmarkt é um mercado de alimentos movimentado que oferece uma ampla variedade de iguarias locais e internacionais. Aqui, você pode experimentar lanches tradicionais bávaros como pretzels e salsichas, juntamente com produtos frescos e produtos artesanais. A atmosfera vibrante e os assentos ao ar livre tornam-no um local ideal para um almoço relaxante. A faixa de preço varia de $ a $$.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Pretzel Bávaro",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -709,7 +727,7 @@
           "description": "No Schwabenhaus, você pode desfrutar de pratos tradicionais suábios em um ambiente encantador. Conhecido por seus Maultaschen e Spätzle caseiros, este restaurante oferece um ambiente acolhedor com um serviço amigável. A faixa de preço é moderada ($$), tornando-o uma ótima opção para uma refeição substancial.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Maultaschen",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -720,7 +738,7 @@
           "description": "Wurstmarkt é um mercado noturno vibrante que destaca o amor de Munique por salsichas. Aqui, você pode encontrar uma variedade de salsichas grelhadas servidas com chucrute e mostarda. A atmosfera animada, com música e vendedores locais, torna-o uma saída divertida à noite. Os preços são muito acessíveis ($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Salsichas Grelhadas",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -731,7 +749,7 @@
           "description": "Bayerischer Hof é um hotel de luxo que apresenta um restaurante requintado que combina a culinária bávara tradicional e moderna. O ambiente elegante e o serviço atencioso o tornam perfeito para uma ocasião especial. Espere pagar na faixa de $$$ e experimente as especialidades sazonais para um verdadeiro sabor da Baviera.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Especialidades Sazonais",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -742,7 +760,7 @@
           "description": "O Festival de Food Trucks de Munique apresenta uma variedade de food trucks servindo de tudo, desde hambúrgueres gourmet até delícias veganas. O evento conta com música ao vivo e uma atmosfera vibrante, tornando-o uma saída fantástica para os amantes da comida. Os preços variam amplamente ($ a $$), tornando-o acessível para todos.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Hambúrgueres Gourmet",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -753,15 +771,15 @@
           "description": "Café Franziskaner é um café encantador conhecido por seus bolos e café deliciosos. Com um ambiente acolhedor e uma equipe amigável, é perfeito para uma pausa relaxante à tarde. Os preços são razoáveis ($), e não deixe de experimentar o famoso bolo Floresta Negra acompanhado de uma xícara de café.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Bolo Floresta Negra",
           "klook_query": "Café Franziskaner Munich booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل الطعام في ميونيخ 2026 - أفضل المطاعم ودليل طعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في ميونيخ. من الأطباق الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "seo_title": "أفضل 8 مطاعم في ميونيخ 2026 - كنوز محلية يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطباق في ميونيخ. احجز عبر Klook وابدأ تخطيط وجبتك الآن!",
       "page_intro": "ثقافة الطعام في ميونيخ هي مزيج رائع من المأكولات البافارية التقليدية والتأثيرات الدولية. تشتهر المدينة بأطباقها القلبية وحدائق البيرة النابضة بالحياة والأسواق المزدحمة. سواء كنت تستمتع بوجبة فاخرة من الوايسورست أو تتذوق طعام الشارع في سوق حيوي، تقدم ميونيخ تجربة طهي تناسب جميع الأذواق.",
       "items": [
         {
@@ -771,7 +789,7 @@
           "description": "مشهور بكعكة لحم الخنزير المقرمشة، هاكسنباور هو وجهة يجب زيارتها لكل من يبحث عن الطعام البافاري الأصيل. جوه المريح، مع الأثاث الخشبي والديكور التقليدي، يجعله مثاليًا لوجبة غنية. تتراوح الأسعار من $$ إلى $$$، ولا تفوتوا مخلل الملفوف المصنوع في المنزل كطبق جانبي!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "أرجل الخنزير المقرمشة",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -782,7 +800,7 @@
           "description": "سوق فكتوالينماركت هو سوق طعام مزدحم يقدم مجموعة واسعة من الأطعمة المحلية والدولية. هنا، يمكنك تذوق الوجبات الخفيفة البافارية التقليدية مثل البريتزل والسجق، إلى جانب المنتجات الطازجة والسلع الحرفية. تجعل الأجواء النابضة والحضور الخارجي منه مكانًا مثاليًا لتناول الغداء بشكل مريح. تتراوح الأسعار من $ إلى $$.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "البرزل البافاري",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -793,7 +811,7 @@
           "description": "في شوابنهوس، يمكنك الاستمتاع بالأطباق التقليدية في جو ساحر. معروف بموالتاشن وسباتزلي المصنعتين في المنزل، يقدم هذا المطعم أجواءً مريحة مع خدمة ودية. تتراوح الأسعار من $$، مما يجعله خيارًا رائعًا لوجبة مشبعة.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "ماولتاشن",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -804,7 +822,7 @@
           "description": "سوق السجق هو سوق ليلي نابض يبرز حب ميونيخ للسجق. هنا، يمكنك العثور على مجموعة متنوعة من السجق المشوي تقدم مع مخلل الملفوف والخردل. تجعل الأجواء الحيوية، مع الموسيقى والبائعين المحليين، منه سهرة ممتعة. الأسعار معقولة جدًا ($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "النقانق المشوية",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -815,7 +833,7 @@
           "description": "بايريشير هوف هو فندق راقٍ يضم مطعمًا رائعًا يجمع بين المأكولات البافارية التقليدية والحديثة. يجعل الجو الأنيق والخدمة الودية المكان مثاليًا لمناسبة خاصة. توقع دفع أسعار في نطاق $$$، وجرب تخصصاتهم الموسمية لتجربة حقيقية من بافاريا.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "الأطباق الموسمية",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -826,7 +844,7 @@
           "description": "يعرض مهرجان شاحنات الطعام في ميونيخ مجموعة متنوعة من شاحنات الطعام التي تقدم كل شيء من البرغر الفاخر إلى الأطباق النباتية. يتضمن الحدث موسيقى حية وأجواء نابضة بالحياة، مما يجعله مخرجًا رائعًا لعشاق الطعام. تتراوح الأسعار على نطاق واسع ($ إلى $$)، مما يجعله متاحًا للجميع.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "برغر الذواقة",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -837,15 +855,15 @@
           "description": "كافيه فرانزيسكانر هو مقهى ساحر معروف بكعكه اللذيذة وقهوته. مع جو مريح وموظفين ودودين، هو المكان المثالي لأخذ استراحة مريحة بعد الظهر. الأسعار معقولة ($)، ولا تنس تجربة كعكة الغابة السوداء الشهيرة مع فنجان من القهوة.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "كيكة الغابة السوداء",
           "klook_query": "Café Franziskaner Munich booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "মিউনিখে সেরা খাবার 2026 - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবারের গাইড",
-      "seo_description": "মিউনিখে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার - বুকিং লিঙ্কসহ।",
+      "seo_title": "মিউনিখের ৮ সেরা খাবার ২০২৬ - অবশ্যই চেষ্টা করুন!",
+      "seo_description": "আপনার সময় বাঁচান এবং মিউনিখের স্থানীয় রেস্তোরাঁ আবিষ্কার করুন। Klook-এর মাধ্যমে বুকিং করুন। এখনই আপনার খাবারের পরিকল্পনা করুন!",
       "page_intro": "মিউনিখের খাবারের সংস্কৃতি ঐতিহ্যবাহী বাভারিয়ান রান্না এবং আন্তর্জাতিক প্রভাবগুলির একটি আনন্দদায়ক মিশ্রণ। এই শহরটি তার হৃদয়গ্রাহী খাবার, প্রাণবন্ত বিয়ার গার্ডেন এবং ব্যস্ত বাজারের জন্য বিখ্যাত। আপনি ক্লাসিক ওয়েইসওরস্ট উপভোগ করুক বা একটি প্রাণবন্ত বাজারে রাস্তার খাবারের স্বাদ গ্রহণ করুন, মিউনিখ প্রতিটি স্বাদের জন্য একটি প্যাক অভিজ্ঞতা প্রদান করে।",
       "items": [
         {
@@ -855,7 +873,7 @@
           "description": "ক্রিস্পি পোর্ট নকলের জন্য বিখ্যাত, হ্যাক্সনবাওয়ার হল একটি স্থান যা সত্যিকারের বাভারিয়ান খাবার খুঁজছেন সবার জন্য অবশ্যই দেখতে হবে। কাঠের আসবাবপত্র এবং ঐতিহ্যবাহী সাজসজ্জার সাথে আরামদায়ক পরিবেশ এটিকে একটি হৃদয়গ্রাহী খাবারের জন্য উপযুক্ত করে তোলে। দাম $$ থেকে $$$ এর মধ্যে, এবং তাদের বাড়িতে বানানো সোক্রাউট পাশের জন্য মিস করবেন না!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "ক্রিস্পি পোর্ক নাকল",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -866,7 +884,7 @@
           "description": "ভিকটুয়ালিয়েনমার্কেট একটি ব্যস্ত খাদ্য বাজার যা স্থানীয় এবং আন্তর্জাতিক রন্ধনসম্পর্কীয় বিভিন্নতা অফার করে। এখানে, আপনি প্রেটজেল এবং সসেজের মতো ঐতিহ্যবাহী বাভারিয়ান খাবারের স্বাদ গ্রহণ করতে পারেন, পাশাপাশি তাজা পণ্য এবং শিল্পজাত দ্রব্যও। প্রাণবন্ত পরিবেশ এবং বাইরের আসন এটি একটি আরামদায়ক দুপুরের খাবারের জন্য আদর্শ স্থান করে তোলে। দাম $ থেকে $$ এর মধ্যে পরিবর্তিত হয়।",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "বাভারিয়ান প্রেটজেল",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -877,7 +895,7 @@
           "description": "শ্বাবেনহাউসে, আপনি একটি আকর্ষণীয় পরিবেশে ঐতিহ্যবাহী স্বাবীয় খাবারের স্বাদ নিতে পারেন। বাড়িতে তৈরি মৌল্টাশেন এবং স্প্যাটজলে জন্য পরিচিত, এই রেস্তোরাঁটি একটি আরামদায়ক পরিবেশ এবং বন্ধুত্বপূর্ণ পরিষেবা প্রদান করে। দাম মাঝারি ($$), যা একটি পূর্ণ খাবারের জন্য এটি একটি দুর্দান্ত বিকল্প করে তোলে।",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "মাল্টাশেন",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -888,7 +906,7 @@
           "description": "ওয়ারস্টমার্কেট একটি প্রাণবন্ত রাতের বাজার যা মিউনিখের সসেজের প্রতি ভালোবাসা তুলে ধরে। এখানে, আপনি সোক্রাউট এবং মস্টার্ডের সাথে পরিবেশন করা বিভিন্ন গ্রিলড সসেজ পেতে পারেন। সঙ্গীত এবং স্থানীয় বিক্রেতাদের সাথে প্রাণবন্ত পরিবেশ এটিকে একটি মজার সন্ধ্যা তৈরি করে। দাম খুব সাশ্রয়ী ($)।",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "গ্রিলড সসেজ",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -899,7 +917,7 @@
           "description": "বায়েরিশার হফ হল একটি উচ্চমানের হোটেল যা একটি চমৎকার রেস্তোরাঁ নিয়ে গঠিত যা ঐতিহ্যবাহী এবং আধুনিক বাভারিয়ান রান্নাকে সংমিশ্রণ করে। মার্জিত পরিবেশ এবং মনোযোগী পরিষেবা এটি একটি বিশেষ উপলক্ষের জন্য নিখুঁত করে তোলে। $$$ রেঞ্জে দাম প্রত্যাশা করুন, এবং বাভারিয়ার একটি সত্যিকারের স্বাদের জন্য তাদের মৌসুমী বিশেষত্বগুলি চেষ্টা করুন।",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "সিজনাল স্পেশালটিজ",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -910,7 +928,7 @@
           "description": "মিউনিখ ফুড ট্রাক ফেস্টিভাল একাধিক ফুড ট্রাককে প্রদর্শন করে যা গরম বুর্গার থেকে শুরু করে শাকাহারী খাবার পরিবেশন করে। এই ইভেন্টে লাইভ সঙ্গীত এবং একটি প্রাণবন্ত পরিবেশ রয়েছে, যা খাদ্য প্রেমীদের জন্য একটি দুর্দান্ত অবকাশ তৈরি করে। দাম ব্যাপকভাবে পরিবর্তিত হয় ($ থেকে $$), যা সকলের জন্য এটি সহজলভ্য করে।",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "গুরমেট বার্গার",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -921,15 +939,15 @@
           "description": "ক্যাফে ফ্রাঞ্জিস্কানের একটি আকর্ষণীয় ক্যাফে যা তার সুস্বাদু কেক এবং কফির জন্য পরিচিত। একটি আরামদায়ক পরিবেশ এবং বন্ধুত্বপূর্ণ কর্মীদের সাথে, এটি একটি আরামদায়ক দুপুরের বিরতির জন্য আদর্শ। দাম যুক্তিসঙ্গত ($), এবং তাদের বিখ্যাত ব্ল্যাক ফরেস্ট কেকের সাথে একটি কাপ কফি চেষ্টা করতে ভুলবেন না।",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "ব্ল্যাক ফরেস্ট কেক",
           "klook_query": "Café Franziskaner Munich booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Мюнхене 2026 — Топ Ресторанов и Гид по Уличной Еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специальные блюда в Мюнхене. От бюджетной еды до изысканной кухни — со ссылками для бронирования.",
+      "seo_title": "8 Лучших Ресторанов Мюнхена 2026 — Обязательно Попробуйте",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Бронируйте через Klook и открывайте местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Кулинарная культура Мюнхена — это восхитительное сочетание традиционной баварской кухни и международных влияний. Город известен своими сытными блюдами, яркими пивными садами и оживленными рынками. Независимо от того, наслаждаетесь ли вы классическим Вайсвурстом или пробуете уличную еду на оживленном рынке, Мюнхен предлагает кулинарный опыт, который удовлетворит любой вкус.",
       "items": [
         {
@@ -939,7 +957,7 @@
           "description": "Известный своим хрустящим свиным коленом, Хаксенбауэр — это обязательное место для посещения для каждого, кто ищет настоящую баварскую кухню. Уютная обстановка с деревянной мебелью и традиционным декором делает его идеальным для сытной еды. Цены варьируются от $$ до $$$, не пропустите их домашнюю квашеную капусту на гарнир!",
           "image_keyword": "Haxnbauer restaurant Munich",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€20–40",
           "must_try": "Хрустящая свиная рулька",
           "klook_query": "Haxnbauer Munich booking"
         },
@@ -950,7 +968,7 @@
           "description": "Виктуалиенмаркт — это оживленный продуктовый рынок, предлагающий широкий ассортимент местных и международных деликатесов. Здесь вы можете попробовать традиционные баварские закуски, такие как крендели и колбасы, а также свежие продукты и ремесленные товары. Яркая атмосфера и возможность поесть на свежем воздухе делают это идеальным местом для расслабляющего обеда. Цены варьируются от $ до $$.",
           "image_keyword": "Viktualienmarkt Munich",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Баварский крендель",
           "klook_query": "Viktualienmarkt food tour Munich"
         },
@@ -961,7 +979,7 @@
           "description": "В Швабенхаус вы можете насладиться традиционными швабскими блюдами в очаровательной обстановке. Известный своими домашними Мaultaschen и Spätzle, этот ресторан предлагает уютную атмосферу с дружелюбным обслуживанием. Цены умеренные ($$), что делает его отличным вариантом для сытного обеда.",
           "image_keyword": "Schwabenhaus restaurant Munich",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "€15–30",
           "must_try": "Маульташен",
           "klook_query": "Schwabenhaus Munich booking"
         },
@@ -972,7 +990,7 @@
           "description": "Вурстмаркт — это яркий ночной рынок, который подчеркивает любовь Мюнхена к колбасам. Здесь вы можете найти различные жареные колбасы, подаваемые с квашеной капустой и горчицей. Живой атмосферы, в которой звучит музыка и работают местные продавцы, делает вечер веселым. Цены очень доступные ($).",
           "image_keyword": "Wurstmarkt Munich",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€3–5",
           "must_try": "Гриль-сосиски",
           "klook_query": "Wurstmarkt food tour Munich"
         },
@@ -983,7 +1001,7 @@
           "description": "Баварийский Хоф — это роскошный отель с изысканным рестораном, который сочетает традиционную и современную баварскую кухню. Элегантная обстановка и внимательное обслуживание делают его идеальным для особых случаев. Ожидайте заплатить в диапазоне $$$ и попробуйте их сезонные специальные блюда для истинного вкуса Баварии.",
           "image_keyword": "Bayerischer Hof restaurant Munich",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Сезонные специальные блюда",
           "klook_query": "Bayerischer Hof Munich booking"
         },
@@ -994,7 +1012,7 @@
           "description": "Фестиваль Фуд Траков в Мюнхене демонстрирует разнообразие фуд-траков, предлагающих все, от гурманских бургеров до веганских деликатесов. Мероприятие включает живую музыку и яркую атмосферу, что делает его отличным местом для любителей еды. Цены варьируются ($ до $$), что делает его доступным для всех.",
           "image_keyword": "Munich Food Truck Festival",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Гурман-бургеры",
           "klook_query": "Munich Food Truck Festival tickets"
         },
@@ -1005,7 +1023,7 @@
           "description": "Кафе Францисканер — это очаровательное кафе, известное своими вкусными тортами и кофе. С уютной атмосферой и дружелюбным персоналом, это идеальное место для расслабляющего послеполуденного перерыва. Цены разумные ($), и не забудьте попробовать их знаменитый торт «Черный лес» с чашечкой кофе.",
           "image_keyword": "Café Franziskaner Munich",
           "star_rating": 4.9,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Шварцвальдский торт",
           "klook_query": "Café Franziskaner Munich booking"
         }

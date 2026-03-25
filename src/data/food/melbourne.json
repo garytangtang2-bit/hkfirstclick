@@ -2,9 +2,9 @@
   "city_slug": "melbourne",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Melbourne 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Melbourne. From budget eats to fine dining — with booking links.",
-      "page_intro": "Melbourne's food culture is a vibrant tapestry of flavors, influenced by its multicultural population. From bustling laneways filled with street vendors to high-end dining experiences, the city's culinary scene offers something for every palate. Visitors can enjoy everything from authentic Italian pasta to delicious Asian street food, making Melbourne a true gastronomic paradise.",
+      "seo_title": "8 Best Must-Try Restaurants in Melbourne 2026",
+      "seo_description": "Save time with real recommendations! Discover local favorites like Lune and Attica. Book with Klook and plan your meal now!",
+      "page_intro": "Dive into Melbourne's culinary wonderland, where every bite tells a story! Savor iconic dishes like flaky croissants and vibrant dumplings. Discover the best spots with our curated picks, saving you time and enhancing your experience!",
       "items": [
         {
           "id": "lune-croissanterie",
@@ -13,7 +13,7 @@
           "description": "Lune Croissanterie is famed for its perfectly crafted croissants, renowned as some of the best in the world. Patrons flock here for the flaky, buttery pastries that are a labor of love, requiring 3 days to create. Try the classic plain croissant or indulge in the seasonal specials. Expect to spend around $5-$10 per pastry in a cozy, inviting atmosphere.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "Plain Croissant",
           "klook_query": "Lune Croissanterie booking",
           "photo_url": "https://images.pexels.com/photos/11093130/pexels-photo-11093130.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "The Chinatown Night Market is a vibrant hub of Asian street food, filled with stalls offering delicious snacks and meals. From steaming dumplings to fragrant bao buns, this market is a must-visit for food lovers. Prices are budget-friendly, with most items ranging from $5 to $15. The lively atmosphere makes it perfect for a fun evening out with friends.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Pork Buns",
           "klook_query": "Chinatown Night Market food tour",
           "photo_url": "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Attica is a highly acclaimed fine dining restaurant known for its innovative approach to Australian cuisine. Chef Ben Shewry creates a seasonal menu that celebrates local ingredients, offering dishes that are both artistic and delicious. Expect to spend around $200 per person for a tasting menu in an elegant yet relaxed setting.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "The 'Potato Cooked in the Fire'",
           "klook_query": "Attica dining reservation"
         },
@@ -48,7 +48,7 @@
           "description": "Queen Victoria Market is a bustling marketplace where you can find fresh produce, gourmet foods, and delicious street eats. Sample local specialties like meat pies, doughnuts, and more from the various stalls. Prices vary, but you can enjoy a meal for about $10-$20. The vibrant atmosphere is perfect for exploring and tasting Melbourne's local flavors.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Traditional Meat Pie",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -59,7 +59,7 @@
           "description": "Cumulus Inc. is a modern eatery known for its relaxed atmosphere and contemporary Australian cuisine. The menu features seasonal ingredients, with a focus on fresh produce and simple dishes that pack a punch. Expect to pay around $20-$40 for a meal. The open-plan design and bustling vibe make it a favorite among locals and visitors alike.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "Charred Octopus",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -70,7 +70,7 @@
           "description": "The food trucks at St Kilda Beach offer a diverse range of international cuisines, from gourmet burgers to vegan delights. This vibrant spot is perfect for grabbing a bite while enjoying the seaside view. Prices are affordable, typically around $10-$15 per dish. The lively atmosphere draws both locals and tourists, making it a great place to relax and enjoy good food.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Gourmet Burger",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -81,7 +81,7 @@
           "description": "d.O.C is a specialty coffee shop and café that serves up delicious, locally sourced dishes. Known for its vibrant brunch menu, it offers everything from fresh pastries to hearty breakfasts. Prices are reasonable, ranging from $15-$30 per person. The cozy, laid-back vibe is perfect for coffee lovers and brunch enthusiasts.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Avocado Toast",
           "klook_query": "d.O.C reservation"
         },
@@ -92,16 +92,19 @@
           "description": "The Cider House specializes in a wide selection of ciders and craft beers from Australia and beyond. It's a relaxed spot to unwind after a day of exploring. Pair your drink with a delicious charcuterie board for a perfect evening. Prices vary, with drinks ranging from $8 to $15. The cozy yet vibrant atmosphere makes it a favorite among locals and tourists alike.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Charcuterie Board",
           "klook_query": "The Cider House booking"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Melbourne?",
+      "faq_q2": "Where can I find the best restaurants in Melbourne?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "墨爾本最佳美食 2026 — 顶级餐厅与街头美食指南",
-      "seo_description": "探索墨爾本最佳餐厅、街头美食和当地特色美食。从预算餐饮到精致晚餐 — 还有预订链接。",
-      "page_intro": "墨爾本的美食文化是一幅充满活力的风味挂毯，受其多元文化人口的影响。从热闹的小巷到高档餐饮体验，这座城市的烹饪场景为每种味蕾提供了选择。游客可以享受到从正宗意大利面到美味亚洲街头美食的一切，使墨爾本成为真正的美食天堂。",
+      "seo_title": "墨爾本最佳美食 2026 — 8 大必試隱藏美味",
+      "seo_description": "節省時間，發現墨爾本的真實美食推薦，透過 Klook 預訂，立即計劃您的美好餐飲體驗！",
+      "page_intro": "墨爾本的美食場景如同一場味蕾的盛宴，融合了多種文化的獨特風味。無論是經典的法式可頌、熱鬧的中國城夜市，還是米其林星級的Attica餐廳，這裡的美食選擇讓人目不暇接。透過我們精心挑選的推薦，讓您輕鬆找到最美味的餐廳，節省時間，盡情享受美食之旅！",
       "items": [
         {
           "id": "lune-croissanterie",
@@ -110,7 +113,7 @@
           "description": "Lune Croissanterie 以其完美的可颂闻名，被誉为世界上最好的可颂之一。顾客们纷纷前来品尝这些酥脆、黄油味十足的糕点，这些糕点的制作需要三天的时间。尝试经典的普通可颂，或沉醉于季节特供的美味。预计每个糕点的消费约为 5-10 美元，气氛舒适宜人。",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "原味可頌",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -121,7 +124,7 @@
           "description": "唐人街夜市是一个充满活力的亚洲街头美食中心，摊位上提供美味的小吃和餐点。从蒸饺到香气四溢的包子，这个市场是美食爱好者的必访之地。价格亲民，大多数商品的价格在 5 到 15 美元之间。热闹的氛围非常适合与朋友一起度过愉快的夜晚。",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "豬肉包",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -132,7 +135,7 @@
           "description": "Attica 是一家备受赞誉的高档餐厅，以其创新的澳大利亚美食著称。主厨 Ben Shewry 创造了一个庆祝当地食材的季节性菜单，提供既艺术又美味的菜肴。预计每人消费约 200 美元，享用优雅又放松的环境中的品尝菜单。",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "火烤馬鈴薯",
           "klook_query": "Attica dining reservation"
         },
@@ -143,7 +146,7 @@
           "description": "维多利亚女王市场是一个繁忙的市场，您可以在这里找到新鲜的农产品、美食和美味的街头小吃。从各种摊位中品尝当地特色美食，如肉饼、甜甜圈等。价格各异，但您可以享受一顿约 10 到 20 美元的美餐。充满活力的氛围非常适合探索和品尝墨尔本的当地风味。",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "傳統肉餡餅",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -154,7 +157,7 @@
           "description": "Cumulus Inc. 是一家现代餐厅，以轻松的氛围和当代澳大利亚美食而闻名。菜单以季节性食材为特点，注重新鲜产品和简单却美味的菜肴。预计每餐消费约为 20 到 40 美元。开放式设计和繁忙的氛围使其成为当地人和游客的最爱。",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "炭烤章魚",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -165,7 +168,7 @@
           "description": "圣基尔达海滩的美食车提供多样的国际美食，从美味汉堡到素食美食。这个充满活力的地方非常适合一边享受海边景色一边品尝美食。价格实惠，通常每道菜约为 10 到 15 美元。热闹的氛围吸引了当地人和游客，使其成为放松和享受美食的好地方。",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "美味漢堡",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -176,7 +179,7 @@
           "description": "d.O.C 是一家特色咖啡店和咖啡馆，提供美味的本地食材菜肴。以丰富的早午餐菜单而闻名，提供从新鲜糕点到丰盛早餐的一切。价格合理，通常每人 15 到 30 美元。舒适悠闲的氛围非常适合咖啡爱好者和早午餐爱好者。",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "酪梨吐司",
           "klook_query": "d.O.C reservation"
         },
@@ -187,16 +190,19 @@
           "description": "苹果酒屋专注于提供来自澳大利亚及其他地区的多种苹果酒和手工啤酒。这里是一天探索后放松的好去处。搭配美味的冷盘拼盘，享受完美的夜晚。价格各异，饮品的价格在 8 到 15 美元之间。舒适而充满活力的氛围使其成为当地人和游客的最爱。",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "肉類拼盤",
           "klook_query": "The Cider House booking"
         }
-      ]
+      ],
+      "faq_q1": "在墨爾本最好的美食是什麼？",
+      "faq_q2": "我在哪裡可以找到墨爾本最好的餐廳？",
+      "faq_a2_suffix": " 是最受好評的用餐選擇。"
     },
     "ja": {
-      "seo_title": "メルボルンのベストフード2026 — トップレストラン＆ストリートフードガイド",
-      "seo_description": "メルボルンの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "メルボルンの食文化は多文化的な人口の影響を受けた豊かな風味のタペストリーです。賑やかな路地に並ぶ屋台から高級レストランまで、この街の料理シーンはあらゆる味覚に対応しています。訪問者は本格的なイタリアンパスタから美味しいアジアのストリートフードまで、メルボルンを真の美食の楽園にしています。",
+      "seo_title": "メルボルン2026年必食のトップ8レストラン",
+      "seo_description": "時間を節約し、リアルな推薦を手に入れましょう。Klookで予約して、地元の隠れた名店を今すぐ発見！",
+      "page_intro": "メルボルンの食シーンは、世界中の味が集まる美食の祭典です。サクサクのルーヌ・クロワッサンや、賑やかなチャイナタウンナイトマーケット、そして洗練されたアティカなど、地元の名物が目白押し。時間を節約し、厳選されたレストランをKlookで予約して、メルボルンの美味しさを堪能しましょう！",
       "items": [
         {
           "id": "lune-croissanterie",
@@ -205,7 +211,7 @@
           "description": "ルーヌ・クロワッサンリーは、世界で最高のクロワッサンの一つとして知られる完璧に作られたクロワッサンで有名です。顧客は、3日間かけて作られたフレーク状でバター風味のペストリーを求めて集まります。クラシックなプレーンクロワッサンを試すか、季節限定のスペシャルを楽しんでください。居心地の良い雰囲気の中で、1つのペストリーにつき約5〜10ドルを期待してください。",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "プレーンクロワッサン",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -216,7 +222,7 @@
           "description": "チャイナタウンナイトマーケットは、アジアのストリートフードの活気ある中心地で、おいしいスナックや食事を提供する屋台が並んでいます。蒸し餃子から香り高いバオまで、この市場は食べ物好きには必見です。価格は手頃で、大半のアイテムは5〜15ドルの範囲です。賑やかな雰囲気は、友達との楽しい夜出かけに最適です。",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "豚まん",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -227,7 +233,7 @@
           "description": "アティカは、オーストラリア料理に対する革新的なアプローチで知られる高評な高級レストランです。シェフのベン・シューリーは、地元の食材を祝う季節のメニューを作成し、芸術的で美味しい料理を提供します。エレガントでリラックスした雰囲気の中で、テイスティングメニューに対して1人あたり約200ドルを期待してください。",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "火で焼いたじゃがいも",
           "klook_query": "Attica dining reservation"
         },
@@ -238,7 +244,7 @@
           "description": "クイーン・ビクトリア・マーケットは、新鮮な農産物、グルメフード、美味しいストリートフードを見つけることができる賑やかな市場です。様々な屋台から、ミートパイ、ドーナツなどの地元の特産品を試食してみてください。価格は様々ですが、約10〜20ドルで食事を楽しむことができます。活気のある雰囲気は、メルボルンの地元の風味を探索し、味わうのに最適です。",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "伝統的なミートパイ",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -249,7 +255,7 @@
           "description": "キュムラス・インクは、リラックスした雰囲気と現代的なオーストラリア料理で知られるモダンな食堂です。メニューは季節の食材に焦点を当て、新鮮な産物とシンプルな料理に力を入れています。1食あたりおおよそ20〜40ドルを支払うことを期待してください。オープンプランのデザインと賑やかな雰囲気は、地元の人々と訪問者の両方に人気があります。",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "炭火焼きタコ",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -260,7 +266,7 @@
           "description": "セント・キルダ・ビーチのフードトラックは、グルメバーガーからベジタリアンの喜びまで、国際的な料理の多様な範囲を提供しています。この活気あるスポットは、海辺の景色を楽しみながら食事を楽しむのに最適です。価格は手頃で、通常1皿あたり10〜15ドルです。賑やかな雰囲気は、地元の人々と観光客の両方を引き寄せ、リラックスして美味しい食事を楽しむのに最適な場所です。",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "グルメバーガー",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -271,7 +277,7 @@
           "description": "d.O.Cは、地元の素材を使用した美味しい料理を提供するスペシャリティコーヒーショップ兼カフェです。豊かなブランチメニューで知られ、新鮮なペストリーからボリューム満点の朝食まで、様々な料理を提供しています。価格は合理的で、1人あたり15〜30ドルの範囲です。居心地の良いリラックスした雰囲気は、コーヒー愛好者やブランチ愛好者に最適です。",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "アボカドトースト",
           "klook_query": "d.O.C reservation"
         },
@@ -282,16 +288,19 @@
           "description": "ザ・サイダー・ハウスは、オーストラリアおよびその他の地域からの多種多様なサイダーとクラフトビールを専門としています。探索の一日を終えた後にリラックスできる場所です。おいしいシャルキュトリーボードと飲み物を組み合わせて、完璧な夜をお楽しみください。価格は様々で、飲み物は8〜15ドルの範囲です。居心地が良く活気のある雰囲気は、地元の人々と観光客の両方に人気があります。",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "シャルキュトリーボード",
           "klook_query": "The Cider House booking"
         }
-      ]
+      ],
+      "faq_q1": "メルボルンで食べるべきおすすめの料理は何ですか？",
+      "faq_q2": "メルボルンで最高のレストランはどこにありますか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "멜버른 최고의 음식 2026 — 최고의 레스토랑 및 스트리트 푸드 가이드",
-      "seo_description": "멜버른 최고의 레스토랑, 스트리트 푸드 및 지역 특산물을 발견하세요. 예산 친화적인 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "멜버른의 음식 문화는 다문화 인구의 영향을 받은 생동감 넘치는 풍미의 태피스트리입니다. 붐비는 골목길의 거리 음식 판매상에서 고급 레스토랑 경험에 이르기까지, 이 도시의 요리 장면은 모든 미각에 맞는 것을 제공합니다. 방문객들은 정통 이탈리안 파스타부터 맛있는 아시아 스트리트 푸드까지 즐길 수 있어 멜버른은 진정한 미식가의 천국입니다.",
+      "seo_title": "멜버른 2026 - 8 Must-Try 레스토랑 & 숨겨진 보석",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook 예약으로 멜버른의 로컬 인기 음식을 계획하세요. 지금 맛있는 음식을 발견해보세요!",
+      "page_intro": "멜버른의 음식 장면은 세계 각국의 풍미가 어우러진 미식의 천국입니다. 크루아상, 딤섬, 그리고 독창적인 호주 요리까지, 이 도시에서만 맛볼 수 있는 특별한 요리가 가득합니다. Klook의 추천으로 시간을 절약하고 최고의 맛을 경험하세요!",
       "items": [
         {
           "id": "lune-croissanterie",
@@ -300,7 +309,7 @@
           "description": "룬 크로와상 가게는 세계 최고의 크로와상 중 하나로 알려진 완벽하게 제작된 크로와상으로 유명합니다. 고객들은 3일에 걸쳐 만들어진 바삭하고 버터 맛이 나는 페이스트리를 맛보기 위해 이곳에 모입니다. 클래식한 플레인 크로와상을 시도하거나 계절 한정 스페셜을 즐겨보세요. 아늑하고 초대하는 분위기에서 페이스트리당 약 5~10달러를 지출할 것으로 예상됩니다.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "플레인 크루아상",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -311,7 +320,7 @@
           "description": "차이나타운 나이트 마켓은 맛있는 스낵과 식사를 제공하는 다양한 아시아 스트리트 푸드의 활기찬 중심지입니다. 김이 모락모락 나는 만두부터 향기로운 바오 번까지, 이 시장은 음식 애호가에게 필수 방문지입니다. 가격은 예산 친화적이며 대부분의 품목은 5~15달러 사이입니다. 활기찬 분위기는 친구들과 함께 즐거운 저녁 외출에 완벽합니다.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "돼지 만두",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -322,7 +331,7 @@
           "description": "아티카는 호주 요리에 대한 혁신적인 접근 방식으로 잘 알려진 고급 레스토랑입니다. 셰프 벤 셔리는 지역 재료를 축하하는 계절 메뉴를 만들어 예술적이고 맛있는 요리를 제공합니다. 우아하면서도 편안한 분위기에서 테이스팅 메뉴 당 약 200달러를 지출할 것으로 예상됩니다.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "불에 구운 감자",
           "klook_query": "Attica dining reservation"
         },
@@ -333,7 +342,7 @@
           "description": "퀸 빅토리아 마켓은 신선한 농산물, 미식가 음식 및 맛있는 스트리트 푸드를 찾을 수 있는 분주한 시장입니다. 다양한 노점에서 고기 파이, 도넛과 같은 지역 특산품을 샘플링하세요. 가격은 다양하지만 약 10~20달러에 식사를 즐길 수 있습니다. 활기찬 분위기는 멜버른의 지역 풍미를 탐험하고 맛보기에 완벽합니다.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "전통 고기 파이",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -344,7 +353,7 @@
           "description": "큐물루스 인크.는 편안한 분위기와 현대적인 호주 요리로 유명한 현대적인 식당입니다. 메뉴는 계절 재료를 특징으로 하며, 신선한 농산물과 강렬한 맛을 가진 간단한 요리에 중점을 둡니다. 식사당 약 20~40달러를 지불할 것으로 예상됩니다. 오픈 플랜 디자인과 분주한 분위기는 현지인과 방문객 모두에게 인기 있는 장소입니다.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "그을린 문어",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -355,7 +364,7 @@
           "description": "세인트 킬다 비치의 푸드 트럭은 고급 버거부터 비건 요리까지 다양한 국제 요리를 제공합니다. 이 활기찬 장소는 해변 경치를 즐기면서 한 입 베어물기 좋은 곳입니다. 가격은 저렴하며 일반적으로 요리당 약 10~15달러입니다. 활기찬 분위기는 현지인과 관광객 모두를 끌어들여 좋은 음식과 함께 편안히 즐길 수 있는 훌륭한 장소입니다.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "고급 버거",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -366,7 +375,7 @@
           "description": "d.O.C는 맛있는 현지 재료로 만든 요리를 제공하는 전문 커피숍 겸 카페입니다. 풍성한 브런치 메뉴로 유명하며 신선한 페이스트리부터 푸짐한 아침 식사까지 다양한 요리를 제공합니다. 가격은 합리적이며 1인당 15~30달러 사이입니다. 아늑하고 편안한 분위기는 커피 애호가와 브런치 애호가에게 완벽합니다.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "아보카도 토스트",
           "klook_query": "d.O.C reservation"
         },
@@ -377,16 +386,19 @@
           "description": "사이더 하우스는 호주 및 그 외 지역의 다양한 사이더와 수제 맥주를 전문으로 합니다. 탐험을 마친 후 편안히 쉴 수 있는 곳입니다. 맛있는 샤르퀴트리 보드와 함께 음료를 곁들여 완벽한 저녁을 즐기세요. 가격은 다양하며 음료는 8~15달러 사이입니다. 아늑하면서도 활기찬 분위기는 현지인과 관광객 모두에게 인기가 있습니다.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "샤퀴테리 보드",
           "klook_query": "The Cider House booking"
         }
-      ]
+      ],
+      "faq_q1": "멜버른에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "멜버른에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": " 는 최고의 식사 옵션 중 하나입니다."
     },
     "fr": {
-      "seo_title": "Meilleure nourriture à Melbourne 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Melbourne. Des repas à petit budget aux dîners raffinés — avec des liens de réservation.",
-      "page_intro": "La culture alimentaire de Melbourne est une tapisserie vibrante de saveurs, influencée par sa population multiculturelle. Des ruelles animées remplies de vendeurs ambulants aux expériences gastronomiques haut de gamme, la scène culinaire de la ville offre quelque chose pour chaque palais. Les visiteurs peuvent déguster tout, des pâtes italiennes authentiques à la délicieuse cuisine de rue asiatique, faisant de Melbourne un véritable paradis gastronomique.",
+      "seo_title": "8 Meilleurs Restaurants à Melbourne 2026 — Must-Try",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les trésors culinaires. Planifiez votre repas maintenant !",
+      "page_intro": "Découvrez la scène culinaire dynamique de Melbourne, où chaque plat raconte une histoire. Ne manquez pas les croissants de Lune Croissanterie et les saveurs authentiques de Chinatown. Gagnez du temps avec nos sélections incontournables et réservez facilement avec Klook.",
       "items": [
         {
           "id": "lune-croissanterie",
@@ -395,7 +407,7 @@
           "description": "Lune Croissanterie est célèbre pour ses croissants parfaitement élaborés, reconnus comme les meilleurs au monde. Les clients affluent ici pour déguster ces pâtisseries feuilletées et beurrées, qui nécessitent 3 jours de préparation. Essayez le croissant nature ou laissez-vous tenter par les spécialités de saison. Attendez-vous à dépenser environ 5 à 10 $ par pâtisserie dans une atmosphère chaleureuse et accueillante.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "Croissant Nature",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -406,7 +418,7 @@
           "description": "Le marché de nuit de Chinatown est un centre vibrant de street food asiatique, rempli de stands offrant de délicieuses collations et repas. Des raviolis vapeur aux bao buns parfumés, ce marché est un incontournable pour les amateurs de nourriture. Les prix sont abordables, la plupart des articles étant compris entre 5 et 15 $. L'atmosphère animée en fait un endroit parfait pour une soirée amusante entre amis.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Buns de Porc",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -417,7 +429,7 @@
           "description": "Attica est un restaurant gastronomique très acclamé, connu pour son approche novatrice de la cuisine australienne. Le chef Ben Shewry crée un menu saisonnier qui célèbre les ingrédients locaux, offrant des plats à la fois artistiques et délicieux. Attendez-vous à dépenser environ 200 $ par personne pour un menu de dégustation dans un cadre élégant mais détendu.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "La 'Pomme de Terre Cuite au Feu'",
           "klook_query": "Attica dining reservation"
         },
@@ -428,7 +440,7 @@
           "description": "Le marché de la Reine Victoria est un marché animé où vous trouverez des produits frais, des aliments gastronomiques et de délicieuses spécialités de rue. Goûtez aux spécialités locales telles que les tourtes à la viande, les beignets et plus encore dans les différents stands. Les prix varient, mais vous pouvez profiter d'un repas pour environ 10 à 20 $. L'atmosphère vibrante est parfaite pour explorer et goûter aux saveurs locales de Melbourne.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Tourte Traditionnelle",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -439,7 +451,7 @@
           "description": "Cumulus Inc. est un restaurant moderne connu pour son ambiance décontractée et sa cuisine australienne contemporaine. Le menu met en avant des ingrédients de saison, avec un accent sur les produits frais et des plats simples qui ont du punch. Attendez-vous à payer environ 20 à 40 $ pour un repas. Le design ouvert et l'ambiance animée en font un favori parmi les habitants et les visiteurs.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "Poulpe Grillé",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -450,7 +462,7 @@
           "description": "Les camions de nourriture de St Kilda Beach offrent une gamme diversifiée de cuisines internationales, des hamburgers gastronomiques aux délices végétaliens. Cet endroit vibrant est parfait pour prendre un en-cas tout en profitant de la vue sur la mer. Les prix sont abordables, généralement entre 10 et 15 $ par plat. L'atmosphère animée attire à la fois les locaux et les touristes, ce qui en fait un excellent endroit pour se détendre et déguster de bons plats.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Burger Gourmet",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -461,7 +473,7 @@
           "description": "d.O.C est un café et un café spécialisé qui propose de délicieux plats provenant de producteurs locaux. Réputé pour son menu de brunch vivant, il propose tout, des pâtisseries fraîches aux petits-déjeuners copieux. Les prix sont raisonnables, allant de 15 à 30 $ par personne. L'ambiance chaleureuse et décontractée est parfaite pour les amateurs de café et de brunch.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Toast à l'Avocat",
           "klook_query": "d.O.C reservation"
         },
@@ -472,16 +484,19 @@
           "description": "La Cidrerie se spécialise dans une large sélection de cidres et de bières artisanales d'Australie et d'ailleurs. C'est un endroit détendu pour se reposer après une journée d'exploration. Associez votre boisson à un délicieux plateau de charcuterie pour une soirée parfaite. Les prix varient, les boissons allant de 8 à 15 $. L'ambiance chaleureuse et dynamique en fait un favori parmi les habitants et les touristes.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Planche de Charcuterie",
           "klook_query": "The Cider House booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Melbourne ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Melbourne ?",
+      "faq_a2_suffix": " sont parmi les options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Melbourne 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Melbourne. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
-      "page_intro": "La cultura gastronómica de Melbourne es un vibrante tapiz de sabores, influenciada por su población multicultural. Desde bulliciosas callejuelas llenas de vendedores ambulantes hasta experiencias gastronómicas de alta gama, la escena culinaria de la ciudad ofrece algo para cada paladar. Los visitantes pueden disfrutar de todo, desde auténtica pasta italiana hasta deliciosa comida callejera asiática, haciendo de Melbourne un verdadero paraíso gastronómico.",
+      "seo_title": "8 Mejores Restaurantes en Melbourne 2026 - ¡Imperdibles!",
+      "seo_description": "Ahorra tiempo con recomendaciones auténticas. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre el festín culinario de Melbourne! Deléitate con croissants de Lune Croissanterie, saborea delicias en el Mercado Nocturno de Chinatown y disfruta de la innovación en Attica. Ahorra tiempo con nuestras selecciones curadas y reserva fácilmente con Klook.",
       "items": [
         {
           "id": "lune-croissanterie",
@@ -490,7 +505,7 @@
           "description": "Lune Croissanterie es famosa por sus croissants perfectamente elaborados, reconocidos como algunos de los mejores del mundo. Los clientes acuden aquí por los hojaldres crujientes y mantecosos que requieren 3 días de preparación. Prueba el croissant clásico o disfruta de las especiales de temporada. Espera gastar alrededor de 5 a 10 $ por cada hojaldre en un ambiente acogedor y acogedor.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "Croissant Simple",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -501,7 +516,7 @@
           "description": "El Mercado Nocturno de Chinatown es un vibrante centro de comida callejera asiática, lleno de puestos que ofrecen deliciosos bocadillos y comidas. Desde dumplings al vapor hasta bollos bao fragantes, este mercado es una visita obligada para los amantes de la comida. Los precios son amigables con el presupuesto, con la mayoría de los artículos que oscilan entre 5 y 15 $. La animada atmósfera lo convierte en un lugar perfecto para una divertida salida nocturna con amigos.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Bollos de Cerdo",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -512,7 +527,7 @@
           "description": "Attica es un restaurante de alta cocina muy aclamado, conocido por su enfoque innovador de la cocina australiana. El chef Ben Shewry crea un menú de temporada que celebra los ingredientes locales, ofreciendo platos que son tanto artísticos como deliciosos. Espera gastar alrededor de 200 $ por persona por un menú de degustación en un entorno elegante pero relajado.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "La 'Papa Cocida en el Fuego'",
           "klook_query": "Attica dining reservation"
         },
@@ -523,7 +538,7 @@
           "description": "El Mercado de la Reina Victoria es un mercado bullicioso donde puedes encontrar productos frescos, alimentos gourmet y deliciosas comidas callejeras. Prueba especialidades locales como empanadas de carne, donuts y más en los diferentes puestos. Los precios varían, pero puedes disfrutar de una comida por alrededor de 10 a 20 $. La atmósfera vibrante es perfecta para explorar y degustar los sabores locales de Melbourne.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Empanada Tradicional",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -534,7 +549,7 @@
           "description": "Cumulus Inc. es un restaurante moderno conocido por su ambiente relajado y su cocina australiana contemporánea. El menú presenta ingredientes de temporada, con un enfoque en productos frescos y platos simples que tienen mucho sabor. Espera pagar alrededor de 20 a 40 $ por una comida. El diseño de planta abierta y la vibrante atmósfera lo convierten en un favorito entre los locales y los visitantes.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "Pulpo a la Parrilla",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -545,7 +560,7 @@
           "description": "Los camiones de comida en St Kilda Beach ofrecen una amplia gama de cocinas internacionales, desde hamburguesas gourmet hasta delicias veganas. Este lugar vibrante es perfecto para picar algo mientras disfrutas de la vista al mar. Los precios son asequibles, generalmente alrededor de 10 a 15 $ por plato. La animada atmósfera atrae tanto a los locales como a los turistas, lo que lo convierte en un gran lugar para relajarse y disfrutar de buena comida.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Hamburguesa Gourmet",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -556,7 +571,7 @@
           "description": "d.O.C es una cafetería especializada que ofrece deliciosos platos de productos locales. Conocido por su vibrante menú de brunch, ofrece todo, desde pasteles frescos hasta abundantes desayunos. Los precios son razonables, entre 15 y 30 $ por persona. La atmósfera acogedora y relajada es perfecta para los amantes del café y los entusiastas del brunch.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Tostada de Aguacate",
           "klook_query": "d.O.C reservation"
         },
@@ -567,15 +582,18 @@
           "description": "La Casa de la Sidra se especializa en una amplia selección de sidras y cervezas artesanales de Australia y más allá. Es un lugar relajado para descansar después de un día de exploración. Combina tu bebida con una deliciosa tabla de charcutería para una noche perfecta. Los precios varían, con bebidas que oscilan entre 8 y 15 $. La atmósfera acogedora y vibrante lo convierte en un favorito entre los locales y los turistas.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Tabla de Charcutería",
           "klook_query": "The Cider House booking"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Melbourne?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Melbourne?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas mejor valoradas."
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Melbourne 2026 — Restoran Terbaik & Panduan Makanan Jalanan",
-      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Melbourne. Dari makanan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
+      "seo_title": "8 Restoran Terbaik di Melbourne 2026 - Must-Try",
+      "seo_description": "Hemat waktu dengan rekomendasi nyata. Pesan di Klook dan temukan favorit lokal. Rencanakan santapan Anda sekarang!",
       "page_intro": "Budaya makanan Melbourne adalah permadani rasa yang hidup, dipengaruhi oleh populasi multikulturalnya. Dari gang yang ramai dengan penjual makanan jalanan hingga pengalaman bersantap kelas atas, pemandangan kuliner kota ini menawarkan sesuatu untuk setiap selera. Pengunjung dapat menikmati segalanya mulai dari pasta Italia otentik hingga makanan jalanan Asia yang lezat, menjadikan Melbourne surga gastronomi yang sesungguhnya.",
       "items": [
         {
@@ -585,7 +603,7 @@
           "description": "Lune Croissanterie terkenal dengan croissantnya yang dibuat dengan sempurna, diakui sebagai salah satu yang terbaik di dunia. Pengunjung berbondong-bondong ke sini untuk menikmati pastry yang flaky dan buttery yang membutuhkan waktu 3 hari untuk dibuat. Cobalah croissant polos klasik atau nikmati spesial musiman. Harapkan untuk menghabiskan sekitar $5-$10 per pastry di suasana yang nyaman dan mengundang.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "Croissant Biasa",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -596,7 +614,7 @@
           "description": "Pasar Malam Chinatown adalah pusat makanan jalanan Asia yang penuh warna, dipenuhi dengan stan yang menawarkan camilan dan makanan yang lezat. Dari pangsit kukus hingga bao bun yang wangi, pasar ini adalah tempat yang wajib dikunjungi bagi para pecinta makanan. Harganya ramah anggaran, dengan sebagian besar barang berkisar antara $5 hingga $15. Suasana yang meriah membuatnya sempurna untuk malam yang menyenangkan bersama teman-teman.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Bakpao",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -607,7 +625,7 @@
           "description": "Attica adalah restoran fine dining yang sangat dihormati, dikenal karena pendekatan inovatifnya terhadap masakan Australia. Koki Ben Shewry menciptakan menu musiman yang merayakan bahan-bahan lokal, menawarkan hidangan yang artistik dan lezat. Harapkan untuk menghabiskan sekitar $200 per orang untuk menu mencicipi di lingkungan yang elegan namun santai.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "Kentang Bakar",
           "klook_query": "Attica dining reservation"
         },
@@ -618,7 +636,7 @@
           "description": "Pasar Ratu Victoria adalah pasar yang ramai di mana Anda dapat menemukan produk segar, makanan gourmet, dan makanan jalanan yang lezat. Cobalah spesial lokal seperti pai daging, donat, dan lainnya dari berbagai stan. Harga bervariasi, tetapi Anda dapat menikmati makanan seharga sekitar $10-$20. Suasana yang hidup sangat cocok untuk menjelajahi dan mencicipi cita rasa lokal Melbourne.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Pai Daging Tradisional",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -629,7 +647,7 @@
           "description": "Cumulus Inc. adalah restoran modern yang dikenal dengan suasana santai dan masakan Australia kontemporer. Menu ini menampilkan bahan musiman, dengan fokus pada produk segar dan hidangan sederhana yang memiliki rasa yang kuat. Harapkan untuk membayar sekitar $20-$40 untuk satu makanan. Desain terbuka dan suasana yang ramai menjadikannya favorit di kalangan penduduk lokal dan pengunjung.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "Gurita Bakar",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -640,7 +658,7 @@
           "description": "Truk makanan di Pantai St Kilda menawarkan berbagai masakan internasional, mulai dari burger gourmet hingga hidangan vegan. Tempat yang meriah ini sempurna untuk mengambil makanan sambil menikmati pemandangan tepi laut. Harganya terjangkau, biasanya sekitar $10-$15 per hidangan. Suasana yang hidup menarik baik penduduk lokal maupun turis, menjadikannya tempat yang bagus untuk bersantai dan menikmati makanan yang baik.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Burger Gourmet",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -651,7 +669,7 @@
           "description": "d.O.C adalah kedai kopi spesialis dan kafe yang menyajikan hidangan lezat dari bahan lokal. Dikenal karena menu brunch yang kaya, menawarkan segalanya mulai dari pastry segar hingga sarapan yang mengenyangkan. Harganya wajar, berkisar antara $15-$30 per orang. Suasana yang nyaman dan santai sangat cocok bagi pecinta kopi dan penggemar brunch.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Roti Avokad",
           "klook_query": "d.O.C reservation"
         },
@@ -662,15 +680,15 @@
           "description": "The Cider House berspesialisasi dalam berbagai pilihan cider dan bir kerajinan dari Australia dan luar negeri. Ini adalah tempat yang santai untuk bersantai setelah seharian menjelajahi. Pasangkan minuman Anda dengan papan charcuterie yang lezat untuk malam yang sempurna. Harga bervariasi, dengan minuman berkisar antara $8 hingga $15. Suasana yang nyaman namun hidup menjadikannya favorit di kalangan penduduk lokal dan turis.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Papan Charcuterie",
           "klook_query": "The Cider House booking"
         }
       ]
     },
     "hi": {
-      "seo_title": "मेलेबर्न में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "मेलेबर्न में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "मेलेबर्न में 10 सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ बुकिंग करें और अपने भोजन की योजना बनाएं। स्थानीय पसंदीदा खोजें!",
       "page_intro": "मेलेबर्न की खाद्य संस्कृति एक जीवंत स्वादों का ताना-बाना है, जो इसके बहु-जातीय जनसंख्या से प्रभावित है। सड़कों पर विक्रेताओं से भरे व्यस्त गलियों से लेकर उच्च अंत भोजन अनुभवों तक, शहर का पाक दृश्य हर स्वाद के लिए कुछ न कुछ पेश करता है। आगंतुक यहां प्रामाणिक इटालियन पास्ता से लेकर स्वादिष्ट एशियाई स्ट्रीट फूड तक सब कुछ का आनंद ले सकते हैं, जिससे मेलेबर्न वास्तव में एक गैस्ट्रोनोमिक स्वर्ग बन जाता है।",
       "items": [
         {
@@ -680,7 +698,7 @@
           "description": "लून क्रॉइसेंटरी अपने बेहतरीन क्रॉइसेंट्स के लिए प्रसिद्ध है, जिन्हें दुनिया में सबसे अच्छे में से एक माना जाता है। ग्राहक यहां परतदार, मक्खन वाले पेस्ट्री के लिए आते हैं, जिन्हें बनाने में 3 दिन लगते हैं। क्लासिक सादा क्रॉइसेंट आजमाएं या मौसमी विशेषताओं का आनंद लें। एक आरामदायक और आमंत्रित वातावरण में प्रति पेस्ट्री लगभग $5-$10 खर्च करने की उम्मीद करें।",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "सादा क्रोइसेंट",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -691,7 +709,7 @@
           "description": "चाइनाटाउन नाइट मार्केट एशियाई स्ट्रीट फूड का एक जीवंत केंद्र है, जिसमें स्वादिष्ट नाश्ते और भोजन के लिए स्टॉल भरे हुए हैं। भाप से भरे डंपलिंग से लेकर सुगंधित बाओ बन्स तक, यह मार्केट भोजन प्रेमियों के लिए एक अवश्य देखने योग्य स्थान है। कीमतें बजट के अनुकूल हैं, अधिकांश आइटम $5 से $15 के बीच हैं। जीवंत वातावरण इसे दोस्तों के साथ मजेदार शाम बिताने के लिए आदर्श बनाता है।",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "सूअर के बने बन्स",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -702,7 +720,7 @@
           "description": "एटिका एक अत्यधिक प्रशंसित फाइन डाइनिंग रेस्तरां है, जो ऑस्ट्रेलियाई भोजन के प्रति अपने नवोन्मेषी दृष्टिकोण के लिए जाना जाता है। शेफ बेन श्यूरी एक मौसमी मेनू बनाते हैं जो स्थानीय सामग्री का जश्न मनाता है, जो कलात्मक और स्वादिष्ट दोनों होती हैं। एक सुरुचिपूर्ण लेकिन आरामदायक सेटिंग में चखने के मेनू के लिए प्रति व्यक्ति लगभग $200 खर्च करने की उम्मीद करें।",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "आग में पका आलू",
           "klook_query": "Attica dining reservation"
         },
@@ -713,7 +731,7 @@
           "description": "क्वीन विक्टोरिया मार्केट एक व्यस्त बाजार है जहां आप ताजे उत्पाद, उच्च गुणवत्ता वाले खाद्य पदार्थ और स्वादिष्ट स्ट्रीट व्यंजन पा सकते हैं। विभिन्न स्टॉल से स्थानीय विशेषताओं जैसे मांस पाई, डोनट्स और अधिक का नमूना लें। कीमतें भिन्न होती हैं, लेकिन आप लगभग $10-$20 में एक भोजन का आनंद ले सकते हैं। जीवंत वातावरण खोजने और मेलेबर्न के स्थानीय स्वादों का स्वाद लेने के लिए आदर्श है।",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "पारंपरिक मीट पाई",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -724,7 +742,7 @@
           "description": "क्यूमुलस इंक। एक आधुनिक भोजनालय है जो अपने आरामदायक वातावरण और समकालीन ऑस्ट्रेलियाई भोजन के लिए जाना जाता है। मेनू में मौसमी सामग्री शामिल हैं, ताजे उत्पादों और सरल व्यंजनों पर ध्यान केंद्रित करते हुए। एक भोजन के लिए लगभग $20-$40 खर्च करने की उम्मीद करें। खुली योजना डिजाइन और हलचल भरा माहौल इसे स्थानीय लोगों और आगंतुकों के बीच पसंदीदा बनाता है।",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "झुलसा हुआ ऑक्टोपस",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -735,7 +753,7 @@
           "description": "सेंट किल्डा बीच पर फूड ट्रक्स विभिन्न अंतरराष्ट्रीय व्यंजनों की पेशकश करते हैं, जिसमें उच्च गुणवत्ता वाले बर्गर से लेकर शाकाहारी व्यंजन शामिल हैं। यह जीवंत स्थान समुद्र के दृश्य का आनंद लेते हुए नाश्ता लेने के लिए आदर्श है। कीमतें सस्ती होती हैं, आमतौर पर प्रति डिश लगभग $10-$15 होती हैं। जीवंत वातावरण स्थानीय लोगों और पर्यटकों दोनों को आकर्षित करता है, जिससे यह अच्छे भोजन का आनंद लेने और आराम करने के लिए एक शानदार स्थान बन जाता है।",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "गौरमे बर्गर",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -746,7 +764,7 @@
           "description": "d.O.C एक विशेष कॉफी शॉप और कैफे है जो स्वादिष्ट, स्थानीय रूप से स्रोत की गई व्यंजन परोसता है। अपने जीवंत ब्रंच मेनू के लिए जाना जाता है, यह ताजे पेस्ट्री से लेकर हार्दिक नाश्ते तक सब कुछ पेश करता है। कीमतें उचित हैं, प्रति व्यक्ति $15-$30 के बीच होती हैं। आरामदायक, लेट-बैक माहौल कॉफी प्रेमियों और ब्रंच उत्साही लोगों के लिए आदर्श है।",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "एवोकाडो टोस्ट",
           "klook_query": "d.O.C reservation"
         },
@@ -757,15 +775,15 @@
           "description": "द साइडर हाउस ऑस्ट्रेलिया और उससे आगे के विभिन्न प्रकार के साइडर और क्राफ्ट बियर में विशेषज्ञता रखता है। यह एक आरामदायक स्थान है जहां आप एक दिन की खोज के बाद आराम कर सकते हैं। अपने पेय को एक स्वादिष्ट चारक्यूरी बोर्ड के साथ मिलाएं। कीमतें भिन्न होती हैं, पेय $8 से $15 के बीच होते हैं। आरामदायक लेकिन जीवंत वातावरण इसे स्थानीय लोगों और पर्यटकों दोनों के बीच पसंदीदा बनाता है।",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "चारक्यूटरी बोर्ड",
           "klook_query": "The Cider House booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melbourne: Melhor Comida 2026 — Melhores Restaurantes & Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Melbourne. Desde opções econômicas até alta gastronomia — com links para reservas.",
+      "seo_title": "Melbourne 2026: 8 Melhores Restaurantes e Delícias",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "A cultura alimentar de Melbourne é um vibrante mosaico de sabores, influenciada por sua população multicultural. Desde ruas movimentadas repletas de vendedores ambulantes até experiências de alta gastronomia, a cena culinária da cidade oferece algo para todos os paladares. Os visitantes podem desfrutar de tudo, desde autêntica massa italiana até deliciosa comida de rua asiática, tornando Melbourne um verdadeiro paraíso gastronômico.",
       "items": [
         {
@@ -775,7 +793,7 @@
           "description": "A Lune Croissanterie é famosa por seus croissants perfeitamente elaborados, reconhecidos como alguns dos melhores do mundo. Os clientes vêm aqui em busca das pastelarias folhadas e amanteigadas, que levam 3 dias para serem feitas. Experimente o clássico croissant simples ou delicie-se com as ofertas sazonais. Espere gastar cerca de $5 a $10 por pastel em um ambiente acolhedor e convidativo.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "Croissant Simples",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -786,7 +804,7 @@
           "description": "O Mercado Noturno de Chinatown é um vibrante centro de comida de rua asiática, repleto de barracas que oferecem lanches e refeições deliciosas. Desde dumplings steaming até bao buns aromáticos, este mercado é uma visita obrigatória para os amantes da comida. Os preços são acessíveis, com a maioria dos itens variando de $5 a $15. A atmosfera animada o torna perfeito para uma noite divertida com amigos.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Pãezinhos de Porco",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -797,7 +815,7 @@
           "description": "Attica é um restaurante de alta gastronomia altamente aclamado, conhecido por sua abordagem inovadora à culinária australiana. O chef Ben Shewry cria um menu sazonal que celebra ingredientes locais, oferecendo pratos que são artísticos e deliciosos. Espere gastar cerca de $200 por pessoa para um menu de degustação em um ambiente elegante e relaxado.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "A 'Batata Cozida no Fogo'",
           "klook_query": "Attica dining reservation"
         },
@@ -808,7 +826,7 @@
           "description": "O Mercado da Rainha Vitória é um movimentado mercado onde você pode encontrar produtos frescos, alimentos gourmet e deliciosas comidas de rua. Experimente especialidades locais como tortas de carne, donuts e mais nos vários estandes. Os preços variam, mas você pode desfrutar de uma refeição por cerca de $10 a $20. A atmosfera vibrante é perfeita para explorar e saborear os sabores locais de Melbourne.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Empadão Tradicional",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -819,7 +837,7 @@
           "description": "Cumulus Inc. é um restaurante moderno conhecido por sua atmosfera descontraída e culinária australiana contemporânea. O menu apresenta ingredientes sazonais, com foco em produtos frescos e pratos simples que têm sabor marcante. Espere pagar cerca de $20 a $40 por refeição. O design em plano aberto e a vibração animada o tornam um favorito entre os locais e visitantes.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "Polvo Grelhado",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -830,7 +848,7 @@
           "description": "Os caminhões de comida na Praia St Kilda oferecem uma variedade de cozinhas internacionais, desde hambúrgueres gourmet até delícias veganas. Este local vibrante é perfeito para pegar uma mordida enquanto aprecia a vista do mar. Os preços são acessíveis, geralmente em torno de $10 a $15 por prato. A atmosfera animada atrai tanto locais quanto turistas, tornando-o um ótimo lugar para relaxar e desfrutar de boa comida.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Hambúrguer Gourmet",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -841,7 +859,7 @@
           "description": "d.O.C é uma cafeteria e café especializada que serve pratos deliciosos, de origem local. Conhecido por seu vibrante menu de brunch, oferece tudo, desde pastéis frescos até cafés da manhã robustos. Os preços são razoáveis, variando de $15 a $30 por pessoa. O ambiente aconchegante e descontraído é perfeito para amantes de café e entusiastas de brunch.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Torrada de Abacate",
           "klook_query": "d.O.C reservation"
         },
@@ -852,15 +870,15 @@
           "description": "A Casa da Sidra se especializa em uma ampla seleção de sidras e cervejas artesanais da Austrália e além. É um local relaxante para descontrair após um dia de exploração. Combine sua bebida com uma deliciosa tábua de frios para uma noite perfeita. Os preços variam, com bebidas custando entre $8 e $15. A atmosfera acolhedora e vibrante a torna uma favorita entre locais e turistas.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Tábua de Frios",
           "klook_query": "The Cider House booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في ملبورن 2026 - أفضل المطاعم ودليل طعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في ملبورن. من الأطعمة الاقتصادية إلى تناول الطعام الراقي - مع روابط للحجز.",
+      "seo_title": "أفضل 8 مطاعم في ملبورن 2026 - تجارب لا تُنسى",
+      "seo_description": "وفر الوقت مع توصيات حقيقية لأفضل المطاعم في ملبورن. احجز عبر Klook واستمتع بأطباق محلية مميزة. خطط لوجبتك الآن!",
       "page_intro": "ثقافة الطعام في ملبورن هي نسيج نابض من النكهات، تأثرت بالسكان المتعددين الثقافات. من الأزقة المزدحمة المليئة بالبائعين إلى تجارب تناول الطعام الراقية، تقدم مشهد الطهي في المدينة شيئًا لكل ذوق. يمكن للزوار الاستمتاع بكل شيء من المعكرونة الإيطالية الأصلية إلى طعام الشارع الآسيوي اللذيذ، مما يجعل ملبورن حقًا جنة للطعام.",
       "items": [
         {
@@ -870,7 +888,7 @@
           "description": "تشتهر لون كرواسونيري بكروساناتها المصنوعة بشكل مثالي، والتي تُعتبر من بين الأفضل في العالم. يتوافد الزبائن هنا من أجل المعجنات المتقشرة والمليئة بالزبدة، التي تتطلب 3 أيام لتحضيرها. جرب الكرواسون العادي الكلاسيكي أو استمتع بالعروض الموسمية. توقع أن تنفق حوالي 5 إلى 10 دولارات لكل معجنات في أجواء مريحة وجذابة.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "كرواسون عادي",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -881,7 +899,7 @@
           "description": "سوق الليل في الحي الصيني هو مركز نابض لطعام الشارع الآسيوي، مليء بالأكشاك التي تقدم وجبات خفيفة ووجبات لذيذة. من الزلابية البخارية إلى لفائف الباو العطرية، يعتبر هذا السوق وجهة يجب زيارتها لمحبي الطعام. الأسعار مناسبة للميزانية، حيث تتراوح معظم العناصر من 5 إلى 15 دولارًا. تجعل الأجواء الحيوية منه مكانًا مثاليًا لقضاء أمسية ممتعة مع الأصدقاء.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "خبز لحم الخنزير",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -892,7 +910,7 @@
           "description": "أتيكا هو مطعم راقٍ شهير معروف بنهجه المبتكر في المأكولات الأسترالية. يقوم الشيف بن شوري بإنشاء قائمة موسمية تحتفي بالمكونات المحلية، مما يقدم أطباقًا فنية ولذيذة. توقع أن تنفق حوالي 200 دولار للشخص الواحد للحصول على قائمة تذوق في بيئة أنيقة ومريحة.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "البطاطا المطبوخة في النار",
           "klook_query": "Attica dining reservation"
         },
@@ -903,7 +921,7 @@
           "description": "سوق الملكة فيكتوريا هو سوق مزدحم حيث يمكنك العثور على المنتجات الطازجة والأطعمة الفاخرة والأطعمة الشهية. تذوق التخصصات المحلية مثل فطائر اللحم، والكعك، والمزيد من الأكشاك المختلفة. تختلف الأسعار، ولكن يمكنك الاستمتاع بوجبة مقابل حوالي 10 إلى 20 دولارًا. الأجواء النابضة تجعلها مثالية لاستكشاف وتذوق نكهات ملبورن المحلية.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "فطيرة لحم تقليدية",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -914,7 +932,7 @@
           "description": "كومولوس إنك. هو مطعم حديث معروف بأجوائه المريحة ومأكولاته الأسترالية المعاصرة. تضم القائمة مكونات موسمية، مع التركيز على المنتجات الطازجة والأطباق البسيطة التي تحمل طعمًا مميزًا. توقع أن تدفع حوالي 20 إلى 40 دولارًا للوجبة. التصميم المفتوح والأجواء الصاخبة تجعله مفضلًا بين السكان المحليين والزوار على حد سواء.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "أخطبوط مشوي",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -925,7 +943,7 @@
           "description": "توفر شاحنات الطعام في شاطئ سانت كيلدا مجموعة متنوعة من المأكولات الدولية، من البرغر الفاخر إلى الأطباق النباتية. يعتبر هذا المكان النابض بالحياة مثاليًا لتناول وجبة أثناء الاستمتاع بإطلالة على البحر. الأسعار معقولة، عادة ما تكون حوالي 10 إلى 15 دولارًا لكل طبق. تجذب الأجواء الحافلة السكان المحليين والسياح، مما يجعلها مكانًا رائعًا للاسترخاء والاستمتاع بالطعام الجيد.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "برغر فاخر",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -936,7 +954,7 @@
           "description": "d.O.C هو مقهى متخصص وكافيتريا يقدم أطباقًا لذيذة، مصدرها محلي. يشتهر بقائمة الإفطار الحيوية، حيث يقدم كل شيء من المعجنات الطازجة إلى إفطار شهي. الأسعار معقولة، تتراوح من 15 إلى 30 دولارًا لكل شخص. الأجواء المريحة والمريحة مثالية لعشاق القهوة ومحبي الإفطار.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "توست الأفوكادو",
           "klook_query": "d.O.C reservation"
         },
@@ -947,15 +965,15 @@
           "description": "يختص منزل السايدر في مجموعة واسعة من السايدر والبيرة الحرفية من أستراليا وما وراءها. إنه مكان مريح للاسترخاء بعد يوم من الاستكشاف. قم بمطابقة مشروبك مع لوحة تشاركوتيري لليلة مثالية. تختلف الأسعار، حيث تتراوح المشروبات من 8 إلى 15 دولارًا. يجعل الجو الدافئ والحيوي منه مفضلًا بين السكان المحليين والسياح على حد سواء.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "لوحة اللحوم",
           "klook_query": "The Cider House booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "মেলবোর্নের সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবার গাইড",
-      "seo_description": "মেলবোর্নের সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত - বুকিং লিঙ্ক সহ।",
+      "seo_title": "মেলবোর্নের ১০ সেরা খাবার ২০২৬ - অবশ্যই চেষ্টা করুন",
+      "seo_description": "আপনার সময় বাঁচান এবং স্থানীয় প্রিয় খাবার আবিষ্কার করুন। Klook বুকিং নিয়ে এখনই আপনার খাবারের পরিকল্পনা করুন!",
       "page_intro": "মেলবোর্নের খাদ্য সংস্কৃতি একটি উজ্জ্বল স্বাদের তানা-বানা, যা এর বহুসাংস্কৃতিক জনসংখ্যার দ্বারা প্রভাবিত। রাস্তার বিক্রেতাদের ভরা ব্যস্ত গলির থেকে উচ্চমানের খাবারের অভিজ্ঞতা পর্যন্ত, শহরের রান্নার দৃশ্য প্রত্যেকের জন্য কিছু না কিছু প্রস্তাব করে। দর্শকরা প্রামাণিক ইতালিয়ান পাস্তা থেকে সুস্বাদু এশিয়ান রাস্তার খাবার পর্যন্ত সবকিছু উপভোগ করতে পারেন, যা মেলবোর্নকে সত্যিই একটি গ্যাস্ট্রোনমিক স্বর্গে পরিণত করে।",
       "items": [
         {
@@ -965,7 +983,7 @@
           "description": "লুন ক্রোইস্যান্টারি তার নিখুঁতভাবে তৈরি ক্রোইসেন্টের জন্য বিখ্যাত, যা বিশ্বের সেরা কিছু হিসেবে পরিচিত। এখানে ক্রেতারা আসেন খাস্তা, মাখনযুক্ত পেস্ট্রির জন্য, যা তৈরি করতে ৩ দিন সময় লাগে। ক্লাসিক প্লেইন ক্রোইসেন্টের স্বাদ নিন অথবা মৌসুমি বিশেষত্বে ভোগ করুন। একটি আরামদায়ক এবং আমন্ত্রণমূলক পরিবেশে প্রতি পেস্ট্রির জন্য প্রায় $5-$10 খরচ করতে হবে।",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "প্লেইন ক্রোয়াসঁ",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -976,7 +994,7 @@
           "description": "চায়নাটাউন নাইট মার্কেট এশিয়ান রাস্তার খাবারের একটি প্রাণবন্ত কেন্দ্র, যেখানে সুস্বাদু নাস্তা এবং খাবারের জন্য স্টল ভর্তি। স্টিমিং ডাম্পলিং থেকে শুরু করে সুগন্ধি বাও বানস, এই বাজারটি খাবারের প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান। দাম বাজেটের জন্য উপযুক্ত, বেশিরভাগ আইটেম $5 থেকে $15 এর মধ্যে। প্রাণবন্ত পরিবেশ এটিকে বন্ধুদের সাথে মজাদার সন্ধ্যা কাটানোর জন্য আদর্শ করে তোলে।",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "পোর্ক বান",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -987,7 +1005,7 @@
           "description": "অ্যাটিকা একটি অত্যন্ত প্রশংসিত ফাইন ডাইনিং রেস্তোরাঁ, যা অস্ট্রেলিয়ান খাবারের প্রতি তার উদ্ভাবনী দৃষ্টিভঙ্গির জন্য পরিচিত। শেফ বেন শিউরি একটি মৌসুমি মেনু তৈরি করেন যা স্থানীয় উপাদানগুলির উদযাপন করে, এমন ডিশ সরবরাহ করে যা শিল্পীসুলভ এবং সুস্বাদু। একটি মার্জিত কিন্তু স্বাচ্ছন্দ্যময় পরিবেশে স্বাদ গ্রহণের মেনুর জন্য প্রতি ব্যক্তির জন্য প্রায় $200 খরচ করতে হবে।",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "আগুনে রান্না করা আলু",
           "klook_query": "Attica dining reservation"
         },
@@ -998,7 +1016,7 @@
           "description": "কুইন ভিক্টোরিয়া মার্কেট একটি ব্যস্ত বাজার যেখানে আপনি তাজা পণ্য, গুরমেট খাবার এবং সুস্বাদু রাস্তার খাবার পাবেন। বিভিন্ন স্টল থেকে স্থানীয় বিশেষত্ব যেমন মাংসের পাই, ডোনাট এবং আরও অনেক কিছু চেষ্টা করুন। দাম ভিন্ন, তবে আপনি প্রায় $10-$20 এর জন্য একটি খাবার উপভোগ করতে পারেন। প্রাণবন্ত পরিবেশ অনুসন্ধান এবং মেলবোর্নের স্থানীয় স্বাদগুলির স্বাদ নেওয়ার জন্য আদর্শ।",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "প্রথাগত মাংসের পাই",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -1009,7 +1027,7 @@
           "description": "কিউমুলাস ইনক। একটি আধুনিক খাবারের জায়গা যা আরামদায়ক পরিবেশ এবং সমকালীন অস্ট্রেলিয়ান খাবারের জন্য পরিচিত। মেনুতে মৌসুমি উপাদান রয়েছে, তাজা পণ্যের উপর ফোকাস করে এবং শক্তিশালী স্বাদযুক্ত সহজ খাবারগুলি। একটি খাবারের জন্য প্রায় $20-$40 খরচ করতে হবে। খোলা পরিকল্পনার ডিজাইন এবং ব্যস্ত পরিবেশ এটিকে স্থানীয় এবং পর্যটকদের মধ্যে প্রিয় করে তোলে।",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "জ্বলে যাওয়া অক্টোপাস",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -1020,7 +1038,7 @@
           "description": "সেন্ট কিল্ডা বিচের ফুড ট্রাকগুলি আন্তর্জাতিক বিভিন্ন রান্না সরবরাহ করে, গুরমেট বুর্গার থেকে শুরু করে শাকাহারী খাবার। এই প্রাণবন্ত স্থানটি সমুদ্রের দৃশ্য উপভোগ করার সময় দ্রুত কিছু খাওয়ার জন্য আদর্শ। দাম সাশ্রয়ী, সাধারণত প্রতি ডিশে প্রায় $10-$15। প্রাণবন্ত পরিবেশ স্থানীয় এবং পর্যটকদের উভয়কেই আকর্ষণ করে, এটিকে ভালো খাবারের জন্য বিশ্রাম নেওয়ার এবং উপভোগ করার জন্য একটি দুর্দান্ত স্থান বানায়।",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "গৌরমেট বার্গার",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -1031,7 +1049,7 @@
           "description": "d.O.C একটি বিশেষ কফি শপ এবং ক্যাফে যা সুস্বাদু, স্থানীয়ভাবে উৎসর্গীকৃত খাবার পরিবেশন করে। এর প্রাণবন্ত ব্রাঞ্চ মেনুর জন্য পরিচিত, এটি তাজা পেস্ট্রি থেকে শুরু করে শক্তিশালী ব্রেকফাস্ট পর্যন্ত সবকিছু অফার করে। দাম যুক্তিসঙ্গত, প্রতি ব্যক্তির জন্য $15-$30 এর মধ্যে। আরামদায়ক, শিথিল পরিবেশ কফির প্রেমীদের এবং ব্রাঞ্চ উৎসাহীদের জন্য আদর্শ।",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "অ্যাভোকাডো টোস্ট",
           "klook_query": "d.O.C reservation"
         },
@@ -1042,15 +1060,15 @@
           "description": "দ্য সাইডার হাউস অস্ট্রেলিয়া এবং তার বাইরে বিভিন্ন সাইডার এবং ক্রাফট বিয়ারের মধ্যে বিশেষজ্ঞ। এটি একটি আরামদায়ক স্থান যেখানে আপনি একটি দিনের অনুসন্ধানের পরে বিশ্রাম নিতে পারেন। আপনার পানীয়ের সাথে একটি সুস্বাদু চারকিউটারি বোর্ড মেলান। দাম বিভিন্ন, পানীয় $8 থেকে $15 এর মধ্যে। আরামদায়ক কিন্তু প্রাণবন্ত পরিবেশ এটিকে স্থানীয় এবং পর্যটকদের মধ্যে জনপ্রিয় করে তোলে।",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "চারকুটারি বোর্ড",
           "klook_query": "The Cider House booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Мельбурне 2026 — Лучшие рестораны и гид по уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Мельбурне. От бюджетных блюд до ресторанов высокой кухни — с ссылками для бронирования.",
+      "seo_title": "10 Лучших ресторанов Мельбурна 2026 — Мастхэв",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Кулинарная культура Мельбурна — это яркий калейдоскоп вкусов, на который повлияла его многокультурное население. От шумных улочек, заполненных уличными торговцами, до высококлассных ресторанов, кулинарная сцена города предлагает что-то для каждого гурмана. Посетители могут наслаждаться всем, от аутентичной итальянской пасты до вкусной азиатской уличной еды, что делает Мельбурн настоящим гастрономическим раем.",
       "items": [
         {
@@ -1060,7 +1078,7 @@
           "description": "Lune Croissanterie известна своими идеально приготовленными круассанами, признанными одними из лучших в мире. Посетители стремятся сюда за слоеными, масляными выпечками, на которые уходит 3 дня на приготовление. Попробуйте классический простой круассан или насладитесь сезонными специальностями. Ожидайте потратить около 5-10 долларов за выпечку в уютной и гостеприимной атмосфере.",
           "image_keyword": "Lune Croissanterie croissants",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "A$5–8",
           "must_try": "Простой круассан",
           "klook_query": "Lune Croissanterie booking"
         },
@@ -1071,7 +1089,7 @@
           "description": "Ночной рынок Чайна-таун — это яркий центр азиатской уличной еды, заполненный стендами с вкусными закусками и блюдами. От паровых димсамов до ароматных бао, этот рынок — обязательное место для посещения любителям еды. Цены приемлемые, большинство товаров стоят от 5 до 15 долларов. Живописная атмосфера делает его идеальным для веселого вечера с друзьями.",
           "image_keyword": "Chinatown Night Market food",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Поросенок в тесте",
           "klook_query": "Chinatown Night Market food tour"
         },
@@ -1082,7 +1100,7 @@
           "description": "Attica — это высоко оцененный ресторан высокой кухни, известный своим инновационным подходом к австралийской кухне. Шеф-повар Бен Шьюри создает сезонное меню, которое отмечает местные ингредиенты, предлагая блюда, которые являются как художественными, так и вкусными. Ожидайте потратить около 200 долларов на человека за дегустационное меню в элегантной, но расслабляющей обстановке.",
           "image_keyword": "Attica restaurant",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "A$150–300",
           "must_try": "Картошка, запеченная в огне",
           "klook_query": "Attica dining reservation"
         },
@@ -1093,7 +1111,7 @@
           "description": "Рынок королевы Виктории — это оживленный рынок, где вы можете найти свежие продукты, деликатесы и вкусную уличную еду. Попробуйте местные специалитеты, такие как мясные пироги, пончики и многое другое из различных киосков. Цены варьируются, но вы можете насладиться обедом за 10-20 долларов. Живописная атмосфера идеально подходит для исследования и дегустации местных вкусов Мельбурна.",
           "image_keyword": "Queen Victoria Market food",
           "star_rating": 4.7,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Традиционный мясной пирог",
           "klook_query": "Queen Victoria Market food tour"
         },
@@ -1104,7 +1122,7 @@
           "description": "Cumulus Inc. — это современное заведение, известное своей расслабляющей атмосферой и современной австралийской кухней. В меню представлены сезонные ингредиенты, акцент на свежих продуктах и простых блюдах, которые имеют яркий вкус. Ожидайте заплатить около 20-40 долларов за обед. Открытая планировка и оживленная атмосфера делают его любимым местом среди местных жителей и туристов.",
           "image_keyword": "Cumulus Inc. restaurant",
           "star_rating": 4.5,
-          "price_range": "$$",
+          "price_range": "A$20–40",
           "must_try": "Обожженный осьминог",
           "klook_query": "Cumulus Inc. reservation"
         },
@@ -1115,7 +1133,7 @@
           "description": "Фуд-траки на пляже Сент-Килда предлагают разнообразие международной кухни, от гурманских бургеров до веганских лакомств. Это яркое место идеально подходит для быстрого перекуса на фоне морского пейзажа. Цены доступные, обычно около 10-15 долларов за блюдо. Оживленная атмосфера привлекает как местных жителей, так и туристов, что делает его отличным местом для отдыха и наслаждения вкусной едой.",
           "image_keyword": "St Kilda Beach Food Trucks",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "A$5–10",
           "must_try": "Гурман-бургер",
           "klook_query": "St Kilda Beach Food Trucks visit"
         },
@@ -1126,7 +1144,7 @@
           "description": "d.O.C — это специализированная кофейня и кафе, предлагающее вкусные блюда местного производства. Известное своим ярким меню завтраков, оно предлагает все, от свежей выпечки до сытных завтраков. Цены разумные, от 15 до 30 долларов на человека. Уютная, непринужденная атмосфера идеально подходит для любителей кофе и поклонников завтраков.",
           "image_keyword": "d.O.C cafe",
           "star_rating": 4.3,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Тост с авокадо",
           "klook_query": "d.O.C reservation"
         },
@@ -1137,7 +1155,7 @@
           "description": "Сидровый дом специализируется на широком ассортименте сидров и крафтового пива из Австралии и других стран. Это расслабляющее место, где можно отдохнуть после дня исследований. Сочетайте ваш напиток с вкусной тарелкой закусок для идеального вечера. Цены варьируются, напитки стоят от 8 до 15 долларов. Уютная и живая атмосфера делает его любимым местом как для местных жителей, так и для туристов.",
           "image_keyword": "The Cider House drinks",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "A$15–30",
           "must_try": "Доска с закусками",
           "klook_query": "The Cider House booking"
         }

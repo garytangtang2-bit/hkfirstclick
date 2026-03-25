@@ -2,9 +2,9 @@
   "city_slug": "melbourne",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in Melbourne 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in Melbourne. Find opening hours, ticket prices and booking links for Melbourne's top landmarks.",
-      "page_intro": "Melbourne, known for its vibrant culture and stunning architecture, is a premier travel destination in Australia. With a rich tapestry of history, art, and cuisine, visitors are drawn to its world-class attractions. From iconic landmarks to lush parks and bustling markets, there’s something for everyone in this dynamic city.",
+      "seo_title": "8 Must-See Attractions in Melbourne 2026 - Complete Guide",
+      "seo_description": "Discover Melbourne's top attractions with tickets, hours, and insider tips. Book your adventure now with Klook for an unforgettable experience!",
+      "page_intro": "Discover the allure of Melbourne, where vibrant culture meets stunning architecture at every turn. From the iconic Federation Square to the serene Royal Botanic Gardens, this city is brimming with attractions waiting to be explored. Skip the lines and book your experiences via Klook for a seamless adventure!",
       "items": [
         {
           "id": "federation-square",
@@ -102,12 +102,16 @@
           "best_time": "anytime",
           "klook_query": "Fitzroy District tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in Melbourne?",
+      "faq_q2": "Do I need tickets for attractions in Melbourne?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in Melbourne require tickets for entry. You can easily purchase them through Klook for convenience and great deals."
     },
     "zh": {
-      "seo_title": "墨爾本2026年熱門景點 — 票務、提示及完整指南",
-      "seo_description": "探索墨爾本最佳景點。查找墨爾本主要地標的開放時間、票價和預訂連結。",
-      "page_intro": "墨爾本以其充滿活力的文化和壯觀的建築而聞名，是澳大利亞的首選旅遊目的地。這裡擁有豐富的歷史、藝術和美食，吸引著遊客到訪其世界級的景點。從標誌性地標到郁郁蔥蔥的公園和繁忙的市場，這座充滿活力的城市為每個人提供了不同的體驗。",
+      "seo_title": "墨爾本2026年8大必看景點 — 完整指南",
+      "seo_description": "探索墨爾本的最佳景點，獲取票務、開放時間及內部提示，立即透過Klook預訂，開啟您的旅程！",
+      "page_intro": "探索墨爾本這座充滿活力的城市，您將發現獨特的文化魅力和壯觀的地標。從聯邦廣場到皇家植物園，再到墨爾本動物園，每一處都值得一遊。立即透過Klook預訂，輕鬆跳過排隊！",
       "items": [
         {
           "id": "federation-square",
@@ -205,12 +209,16 @@
           "best_time": "anytime",
           "klook_query": "Fitzroy District tickets"
         }
-      ]
+      ],
+      "faq_q1": "墨爾本的熱門景點有哪些？",
+      "faq_q2": "我需要購買墨爾本景點的門票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數景點都需要購票，建議您透過Klook提前購買，以便享受更方便的入場體驗。"
     },
     "ja": {
-      "seo_title": "メルボルンのトップアトラクション2026 — チケット、ヒント、完全ガイド",
-      "seo_description": "メルボルンの最高のアトラクションを探求してください。メルボルンの主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
-      "page_intro": "メルボルンはその活気ある文化と美しい建築で知られ、オーストラリアの主要な旅行先です。歴史、芸術、料理の豊かな織り交ぜから、訪問者は世界クラスのアトラクションに引き寄せられます。アイコニックなランドマークから緑豊かな公園、賑やかな市場まで、このダイナミックな都市には誰もが楽しめるものがあります。",
+      "seo_title": "メルボルンの必見アトラクション8選2026 — 完全ガイド",
+      "seo_description": "メルボルンのアトラクションのチケット、営業時間、インサイダー情報をチェック。Klookで簡単予約を！",
+      "page_intro": "メルボルンの魅力的なアトラクションに心を奪われてください。フェデレーションスクエアやロイヤルボタニックガーデンズ、メルボルン動物園などのアイコニックな名所が待っています。行列を避けて、Klookで簡単に予約しましょう。",
       "items": [
         {
           "id": "federation-square",
@@ -308,12 +316,16 @@
           "best_time": "anytime",
           "klook_query": "Fitzroy District tickets"
         }
-      ]
+      ],
+      "faq_q1": "メルボルンの人気アトラクションは何ですか？",
+      "faq_q2": "メルボルンのアトラクションにはチケットが必要ですか？",
+      "faq_a1_suffix": "は必見のアトラクションです。",
+      "faq_a2": "はい、多くのアトラクションにはチケットが必要です。Klookを利用すれば、簡単に事前にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "멜버른 최고의 명소 2026 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "멜버른 최고의 명소를 탐험하세요. 멜버른 주요 랜드마크의 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "멜버른은 활기찬 문화와 아름다운 건축물로 유명한 호주 최고의 여행지입니다. 풍부한 역사, 예술 및 요리의 직조로 인해 방문객들은 세계적 수준의 명소에 끌립니다. 상징적인 랜드마크에서 울창한 공원, 분주한 시장에 이르기까지 이 역동적인 도시에는 모두를 위한 무언가가 있습니다.",
+      "seo_title": "멜버른 2026: 꼭 가봐야 할 8대 명소 완벽 가이드",
+      "seo_description": "멜버른의 8대 명소 운영 시간, 티켓 가격, 예약 링크(Klook)를 확인하고 여행을 계획하세요!",
+      "page_intro": "멜버른의 매력은 끝이 없습니다! 페더레이션 스퀘어, 로열 보타닉 가든, 멜버른 동물원과 같은 상징적인 명소부터 숨겨진 보석까지, 이 도시는 모든 여행자에게 특별한 경험을 선사합니다. 긴 줄을 피하고 Klook을 통해 미리 예약하세요!",
       "items": [
         {
           "id": "federation-square",
@@ -411,12 +423,16 @@
           "best_time": "anytime",
           "klook_query": "Fitzroy District tickets"
         }
-      ]
+      ],
+      "faq_q1": "멜버른의 주요 명소는 무엇인가요?",
+      "faq_q2": "멜버른의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "네, 멜버른의 대부분의 명소는 입장권이 필요합니다. Klook을 통해 간편하게 미리 구매하실 수 있습니다."
     },
     "fr": {
-      "seo_title": "Attractions Principales à Melbourne 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de Melbourne. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Melbourne.",
-      "page_intro": "Melbourne, connue pour sa culture vibrante et son architecture époustouflante, est une destination de voyage de premier choix en Australie. Avec une riche mosaïque d'histoire, d'art et de cuisine, les visiteurs sont attirés par ses attractions de classe mondiale. Des monuments emblématiques aux parcs luxuriants et aux marchés animés, il y en a pour tous les goûts dans cette ville dynamique.",
+      "seo_title": "8 Meilleures Attractions à Melbourne 2026",
+      "seo_description": "Découvrez les horaires, prix et conseils pour les meilleures attractions de Melbourne. Réservez vos billets sur Klook et explorez la ville!",
+      "page_intro": "Découvrez Melbourne, une ville où l'art et la nature s'entrelacent à travers des lieux emblématiques comme Federation Square et les jardins botaniques royaux. Que vous soyez amateur de culture ou de faune, réservez vos billets via Klook pour une expérience inoubliable.",
       "items": [
         {
           "id": "federation-square",
@@ -514,10 +530,14 @@
           "best_time": "anytime",
           "klook_query": "Fitzroy District tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Melbourne ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Melbourne ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé de réserver des billets à l'avance pour éviter les files d'attente. Utilisez Klook pour des options pratiques et des réductions."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Melbourne 2026 — Boletos, Consejos y Guía Completa",
+      "seo_title": "Las 10 Mejores Atracciones en Melbourne 2026",
       "seo_description": "Explora las mejores atracciones en Melbourne. Encuentra horarios de apertura, precios de boletos y enlaces de reserva para los principales monumentos de Melbourne.",
       "page_intro": "Melbourne, conocida por su vibrante cultura y su impresionante arquitectura, es un destino de viaje de primer nivel en Australia. Con un rico tapiz de historia, arte y cocina, los visitantes se sienten atraídos por sus atracciones de clase mundial. Desde monumentos icónicos hasta parques frondosos y mercados bulliciosos, hay algo para todos en esta ciudad dinámica.",
       "items": [
@@ -620,7 +640,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Terbaik di Melbourne 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "Top 10 Atraksi Melbourne 2026 — Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di Melbourne. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Melbourne.",
       "page_intro": "Melbourne, yang dikenal dengan budaya yang bersemangat dan arsitektur yang menakjubkan, adalah tujuan wisata utama di Australia. Dengan kekayaan sejarah, seni, dan masakan, pengunjung tertarik ke atraksi kelas dunia. Dari landmark ikonik hingga taman yang rimbun dan pasar yang ramai, ada sesuatu untuk semua orang di kota dinamis ini.",
       "items": [
@@ -826,9 +846,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Melbourne 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Melbourne 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações em Melbourne. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Melbourne.",
-      "page_intro": "Melbourne, conhecida por sua cultura vibrante e arquitetura impressionante, é um destino de viagem de primeira linha na Austrália. Com uma rica tapeçaria de história, arte e culinária, os visitantes são atraídos por suas atrações de classe mundial. Desde marcos icônicos até parques exuberantes e mercados movimentados, há algo para todos nesta cidade dinâmica.",
+      "page_intro": "Descubra as maravilhas de Melbourne, onde cada esquina revela uma nova atração fascinante! Entre os marcos icônicos como a Federation Square e os tranquilos Royal Botanic Gardens, você encontrará experiências inesquecíveis. Evite filas e garanta sua entrada com a Klook.",
       "items": [
         {
           "id": "federation-square",
@@ -926,10 +946,14 @@
           "best_time": "anytime",
           "klook_query": "Fitzroy District tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Melbourne?",
+      "faq_q2": "Preciso de ingressos para as atrações em Melbourne?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, é necessário adquirir ingressos para as principais atrações. Você pode comprar seus ingressos com facilidade pela Klook para evitar filas."
     },
     "ar": {
-      "seo_title": "أفضل المعالم السياحية في ملبورن 2026 - التذاكر والنصائح والدليل الشامل",
+      "seo_title": "أفضل 10 معالم في ملبورن 2026 - دليل شامل",
       "seo_description": "استكشف أفضل المعالم السياحية في ملبورن. ابحث عن مواعيد العمل وأسعار التذاكر وروابط الحجز لأهم معالم ملبورن.",
       "page_intro": "تُعرف ملبورن بثقافتها النابضة بالحياة وهندستها المعمارية الرائعة، وهي وجهة سفر رائدة في أستراليا. مع نسيج غني من التاريخ والفن والمأكولات، يجذب الزوار إلى معالمها السياحية من الدرجة العالمية. من المعالم الشهيرة إلى الحدائق المورقة والأسواق النابضة بالحياة، هناك شيء للجميع في هذه المدينة الديناميكية.",
       "items": [
@@ -1032,8 +1056,8 @@
       ]
     },
     "bn": {
-      "seo_title": "মেলবোর্নের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "মেলবোর্নের সেরা আকর্ষণগুলি অনুসন্ধান করুন। মেলবোর্নের শীর্ষ দর্শনীয় স্থানগুলোর জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজে পান।",
+      "seo_title": "মেলবোর্নের ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "মেলবোর্নের সেরা ৮টি আকর্ষণের টিকিট, খোলার সময় ও টিপস খুঁজুন। Klook বুকিং লিঙ্কে ক্লিক করুন এবং আপনার যাত্রা পরিকল্পনা শুরু করুন!",
       "page_intro": "মেলবোর্ন, যা তার প্রাণবন্ত সংস্কৃতি এবং চমৎকার স্থাপত্যের জন্য পরিচিত, অস্ট্রেলিয়ার একটি শীর্ষ ভ্রমণ গন্তব্য। ইতিহাস, শিল্প এবং রন্ধনকলার একটি সমৃদ্ধ বুনন দিয়ে, দর্শকরা এর বিশ্বমানের আকর্ষণের প্রতি আকৃষ্ট হন। আইকনিক স্থান থেকে শুরু করে সবুজ উদ্যান এবং ব্যস্ত বাজার পর্যন্ত, এই গতিশীল শহরে সবার জন্য কিছু না কিছু রয়েছে।",
       "items": [
         {
@@ -1135,8 +1159,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Главные достопримечательности Мельбурна 2026 — Билеты, Советы и Полное Руководство",
-      "seo_description": "Изучите лучшие достопримечательности Мельбурна. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Мельбурна.",
+      "seo_title": "10 Главных Достопримечательностей Мельбурна 2026",
+      "seo_description": "Откройте для себя лучшие места Мельбурна! Узнайте часы работы, цены на билеты и бронируйте через Klook. Начните своё путешествие сейчас!",
       "page_intro": "Мельбурн, известный своей яркой культурой и потрясающей архитектурой, является одним из основных туристических направлений Австралии. С богатым переплетением истории, искусства и кулинарии, посетителей привлекают его мировые достопримечательности. От знаковых памятников до зеленых парков и оживленных рынков — в этом динамичном городе найдется что-то для каждого.",
       "items": [
         {

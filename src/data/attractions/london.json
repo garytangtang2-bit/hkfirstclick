@@ -2,9 +2,9 @@
   "city_slug": "london",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in London 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in London. Find opening hours, ticket prices and booking links for London's top landmarks.",
-      "page_intro": "London, the vibrant capital of England, is a city that seamlessly blends rich history with modern culture. From iconic landmarks to world-class museums, there's something for everyone. Whether you're strolling through its charming streets or exploring its diverse neighborhoods, London promises unforgettable experiences. Discover the city's top attractions and make the most of your visit with our comprehensive guide.",
+      "seo_title": "8 Must-See Attractions in London 2026 - Complete Guide",
+      "seo_description": "Discover tickets, opening hours, and insider tips for London's top sights. Book your adventure with Klook today!",
+      "page_intro": "Uncover the magic of London, where historic treasures like the Tower of London and St. Paul's Cathedral await your discovery. With iconic landmarks and hidden gems around every corner, your adventure is just beginning. Skip the lines and book your tickets via Klook for a seamless experience!",
       "items": [
         {
           "id": "tower-of-london",
@@ -104,12 +104,16 @@
           "best_time": "evening",
           "klook_query": "Covent Garden tour"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in London?",
+      "faq_q2": "Do I need tickets for attractions in London?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, most attractions in London require tickets for entry. You can easily purchase them in advance through Klook to save time."
     },
     "zh": {
-      "seo_title": "倫敦2026年熱門景點 — 門票、提示和完整指南",
-      "seo_description": "探索倫敦的最佳景點。查找開放時間、門票價格和倫敦頂級地標的預訂連結。",
-      "page_intro": "倫敦，這個充滿活力的英國首都，是一座無縫融合豐富歷史與現代文化的城市。從標誌性地標到世界級博物館，總有適合每個人的東西。無論是漫步在其迷人的街道上，還是探索其多樣化的社區，倫敦都承諾帶來難忘的經歷。通過我們的綜合指南，發現城市的頂級景點並充分利用您的訪問。",
+      "seo_title": "倫敦2026年8大必看景點 — 完整指南與門票",
+      "seo_description": "發現倫敦的最佳景點，獲取門票、開放時間及內幕提示，立即透過Klook預訂，開啟您的倫敦之旅！",
+      "page_intro": "倫敦，這座充滿魅力的城市，擁有壯麗的歷史地標和現代藝術的獨特融合。從塔樓到博物館，無論是知名景點還是隱藏的寶藏，總有令您驚喜的發現。透過Klook預訂，輕鬆避開排隊，享受倫敦的精彩旅程！",
       "items": [
         {
           "id": "tower-of-london",
@@ -207,12 +211,16 @@
           "best_time": "evening",
           "klook_query": "Covent Garden tour"
         }
-      ]
+      ],
+      "faq_q1": "倫敦的熱門景點有哪些？",
+      "faq_q2": "在倫敦的景點需要購票嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "大多數倫敦的景點都需要購票，建議您透過Klook提前預訂，確保順利入場。"
     },
     "ja": {
-      "seo_title": "ロンドンのトップアトラクション2026 — チケット、ヒント＆完全ガイド",
-      "seo_description": "ロンドンの最高の観光地を探索してください。ロンドンのトップランドマークの開館時間、チケット価格、予約リンクを見つけましょう。",
-      "page_intro": "イギリスの活気ある首都ロンドンは、豊かな歴史と現代文化をシームレスに融合させた都市です。象徴的なランドマークから世界級の博物館まで、誰にでも何かを提供しています。魅力的なストリートを歩いたり、多様な地域を探索したりする中で、ロンドンは忘れられない経験を約束します。私たちの包括的なガイドで市内のトップアトラクションを発見し、訪問を最大限に活用してください。",
+      "seo_title": "ロンドンの2026年必見アトラクション8選 — 完全ガイド",
+      "seo_description": "ロンドンの観光地のチケット、開館時間、ヒントをチェック。Klookで簡単予約して、素晴らしい旅を始めましょう！",
+      "page_intro": "ロンドンの魅力は、壮大な歴史と現代文化が交差する場所にあります。タワー・オブ・ロンドンやブリティッシュ・ミュージアム、セント・ポール大聖堂などの象徴的なランドマークを訪れ、隠れた宝物を見つけてみましょう。行列をスキップして、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "tower-of-london",
@@ -310,12 +318,16 @@
           "best_time": "evening",
           "klook_query": "Covent Garden tour"
         }
-      ]
+      ],
+      "faq_q1": "ロンドンのおすすめ観光スポットは何ですか？",
+      "faq_q2": "ロンドンの観光名所にはチケットが必要ですか？",
+      "faq_a1_suffix": " は必見の観光名所です。",
+      "faq_a2": "はい、ほとんどの観光名所には入場チケットが必要です。Klookを利用すれば、簡単にチケットを購入できます。"
     },
     "ko": {
-      "seo_title": "런던 최고의 명소 2026 — 티켓, 팁 & 완벽 가이드",
-      "seo_description": "런던 최고의 명소를 탐험하세요. 런던의 주요 랜드마크의 개장 시간, 티켓 가격 및 예약 링크를 찾으세요.",
-      "page_intro": "영국의 활기찬 수도 런던은 풍부한 역사와 현대 문화를 완벽하게 결합한 도시입니다. 상징적인 랜드마크에서 세계적인 수준의 박물관까지, 누구나 즐길 수 있는 것이 있습니다. 매력적인 거리에서 산책하거나 다양한 지역을 탐험하는 동안 런던은 잊을 수 없는 경험을 약속합니다. 우리의 포괄적인 가이드를 통해 도시의 최고의 명소를 발견하고 방문을 최대한 활용하세요.",
+      "seo_title": "런던 2026: 8 Must-See 명소 완벽 가이드",
+      "seo_description": "런던의 주요 명소 개장 시간, 티켓 가격, Klook 예약 링크를 확인하고 여행을 계획하세요. 지금 바로 탐험해보세요!",
+      "page_intro": "런던은 역사와 현대가 어우러진 매력적인 도시로, 타워 브리지와 대영박물관 같은 상징적인 명소가 가득합니다. 숨겨진 보석들을 발견하며 특별한 순간을 만끽하세요. 줄 서는 번거로움 없이 Klook을 통해 간편하게 예약하세요!",
       "items": [
         {
           "id": "tower-of-london",
@@ -413,12 +425,16 @@
           "best_time": "evening",
           "klook_query": "Covent Garden tour"
         }
-      ]
+      ],
+      "faq_q1": "런던의 주요 명소는 무엇인가요?",
+      "faq_q2": "런던의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": " 타워 런던, 대영박물관, 세인트 폴 대성당 등이 꼭 방문해야 할 명소입니다.",
+      "faq_a2": "대부분의 명소는 사전 예약이 필요합니다. Klook을 통해 미리 티켓을 구매하면 더욱 편리하게 방문할 수 있습니다."
     },
     "fr": {
-      "seo_title": "Principales Attractions à Londres 2026 — Billets, Conseils & Guide Complet",
-      "seo_description": "Explorez les meilleures attractions de Londres. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Londres.",
-      "page_intro": "Londres, la vibrante capitale de l'Angleterre, est une ville qui allie harmonieusement riche histoire et culture moderne. Des monuments emblématiques aux musées de classe mondiale, il y a quelque chose pour tout le monde. Que vous vous promeniez dans ses charmantes rues ou que vous exploriez ses quartiers diversifiés, Londres promet des expériences inoubliables. Découvrez les principales attractions de la ville et profitez au maximum de votre visite avec notre guide complet.",
+      "seo_title": "Top 8 Attractions à Londres 2026 — Guide Complet",
+      "seo_description": "Découvrez les horaires, les tarifs et les astuces pour visiter les meilleures attractions de Londres. Réservez vos billets sur Klook dès maintenant!",
+      "page_intro": "Plongez dans l'histoire fascinante de Londres, où chaque coin de rue révèle des trésors cachés et des monuments emblématiques. Des joyaux comme la Tour de Londres et le British Museum vous attendent. Évitez les files d'attente et réservez avec Klook pour une expérience inoubliable !",
       "items": [
         {
           "id": "tower-of-london",
@@ -516,11 +532,15 @@
           "best_time": "evening",
           "klook_query": "Covent Garden tour"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à Londres ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à Londres ?",
+      "faq_a1_suffix": " sont parmi les attractions incontournables.",
+      "faq_a2": "Oui, il est recommandé d'acheter des billets à l'avance pour éviter les longues files d'attente. Utilisez Klook pour des réservations faciles et rapides."
     },
     "es": {
-      "seo_title": "Principales Atracciones en Londres 2026 — Entradas, Consejos & Guía Completa",
-      "seo_description": "Explora las mejores atracciones en Londres. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Londres.",
+      "seo_title": "Top 8 Atracciones en Londres 2026 - ¡Imperdibles!",
+      "seo_description": "Descubre horarios, precios y enlaces de Klook para las mejores atracciones de Londres. ¡Planifica tu visita ahora y no te las pierdas!",
       "page_intro": "Londres, la vibrante capital de Inglaterra, es una ciudad que combina a la perfección su rica historia con la cultura moderna. Desde monumentos icónicos hasta museos de clase mundial, hay algo para todos. Ya sea paseando por sus encantadoras calles o explorando sus diversos barrios, Londres promete experiencias inolvidables. Descubre las principales atracciones de la ciudad y aprovecha al máximo tu visita con nuestra guía completa.",
       "items": [
         {
@@ -622,7 +642,7 @@
       ]
     },
     "id": {
-      "seo_title": "Atraksi Teratas di London 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_title": "10 Atraksi Terbaik di London 2026 — Tiket & Tips",
       "seo_description": "Jelajahi atraksi terbaik di London. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama London.",
       "page_intro": "London, ibu kota Inggris yang dinamis, adalah kota yang dengan mulus memadukan sejarah yang kaya dengan budaya modern. Dari landmark ikonik hingga museum kelas dunia, ada sesuatu untuk semua orang. Baik Anda berjalan-jalan di jalan-jalan menawannya atau menjelajahi lingkungan yang beragam, London menjanjikan pengalaman yang tak terlupakan. Temukan atraksi teratas di kota ini dan manfaatkan kunjungan Anda dengan panduan komprehensif kami.",
       "items": [
@@ -828,9 +848,9 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em Londres 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em Londres 2026 — Guia Completo",
       "seo_description": "Explore as melhores atrações de Londres. Encontre horários de funcionamento, preços de ingressos e links de reservas para os principais marcos de Londres.",
-      "page_intro": "Londres, a vibrante capital da Inglaterra, é uma cidade que mistura perfeitamente uma rica história com a cultura moderna. De marcos icônicos a museus de classe mundial, há algo para todos. Quer esteja passeando pelas suas charmosas ruas ou explorando os seus diversos bairros, Londres promete experiências inesquecíveis. Descubra as principais atrações da cidade e aproveite ao máximo a sua visita com o nosso guia abrangente.",
+      "page_intro": "Descubra Londres, uma metrópole repleta de maravilhas históricas e culturais! Desde a majestosa Torre de Londres até o fascinante Museu Britânico, cada esquina revela um novo encanto. Aproveite ao máximo sua visita com nosso guia e reserve facilmente via Klook.",
       "items": [
         {
           "id": "tower-of-london",
@@ -928,7 +948,11 @@
           "best_time": "evening",
           "klook_query": "Covent Garden tour"
         }
-      ]
+      ],
+      "faq_q1": "Quais são as principais atrações em Londres?",
+      "faq_q2": "Preciso de ingressos para as atrações em Londres?",
+      "faq_a1_suffix": " são algumas das atrações imperdíveis.",
+      "faq_a2": "Sim, a maioria das atrações requer ingresso. Compre seus ingressos com antecedência no Klook para evitar filas e garantir sua entrada."
     },
     "ar": {
       "seo_title": "أفضل المعالم في لندن 2026 — تذاكر، نصائح ودليل كامل",
@@ -1034,8 +1058,8 @@
       ]
     },
     "bn": {
-      "seo_title": "লন্ডনের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
-      "seo_description": "লন্ডনের সেরা আকর্ষণগুলি অন্বেষণ করুন। লন্ডনের শীর্ষ স্থাপনাগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "seo_title": "লন্ডনের ৮টি শীর্ষ আকর্ষণ ২০২৬ — সম্পূর্ণ গাইড",
+      "seo_description": "লন্ডনের সেরা ৮টি আকর্ষণের টিকিট, খোলার সময় ও গোপন টিপস খুঁজুন। Klook বুকিং লিঙ্কে ক্লিক করুন এবং আপনার ভ্রমণ পরিকল্পনা শুরু করুন!",
       "page_intro": "লন্ডন, ইংল্যান্ডের প্রাণবন্ত রাজধানী, এমন একটি শহর যা সমৃদ্ধ ইতিহাসকে আধুনিক সংস্কৃতির সাথে সহজেই মিশে যায়। আইকনিক স্থাপনাগুলি থেকে শুরু করে বিশ্বমানের জাদুঘর পর্যন্ত, এখানে সবার জন্য কিছু না কিছু রয়েছে। আপনি যখন এর আকর্ষণীয় রাস্তাগুলি দিয়ে ঘুরছেন বা এর বৈচিত্র্যময় পাড়া অন্বেষণ করছেন, লন্ডন অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দেয়। আমাদের বিস্তৃত গাইডের সাথে শহরের শীর্ষ আকর্ষণগুলি আবিষ্কার করুন এবং আপনার ভ্রমণকে আরও উপভোগ্য করুন।",
       "items": [
         {
@@ -1137,8 +1161,8 @@
       ]
     },
     "ru": {
-      "seo_title": "Лучшие достопримечательности Лондона 2026 — Билеты, советы и полный гид",
-      "seo_description": "Исследуйте лучшие достопримечательности Лондона. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Лондона.",
+      "seo_title": "10 Лучших достопримечательностей Лондона 2026 — Полный гид",
+      "seo_description": "Откройте для себя 10 лучших достопримечательностей Лондона! Узнайте о билетах, часах работы и получите советы. Бронируйте на Klook!",
       "page_intro": "Лондон, оживленная столица Англии, это город, который безупречно сочетает богатую историю с современной культурой. От знаковых достопримечательностей до музеев мирового уровня, здесь найдется что-то для каждого. Независимо от того, гуляете ли вы по его очаровательным улицам или исследуете его разнообразные районы, Лондон обещает незабываемые впечатления. Откройте для себя главные достопримечательности города и максимально используйте ваше посещение с нашим полным гидом.",
       "items": [
         {

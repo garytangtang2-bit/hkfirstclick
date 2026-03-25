@@ -2,9 +2,9 @@
   "city_slug": "brussels",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Brussels 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Brussels. From budget eats to fine dining — with booking links.",
-      "page_intro": "Brussels is a culinary delight, blending rich history and modern influences in its food scene. With a variety of eateries ranging from gourmet restaurants to charming cafes and vibrant street food markets, the city offers a unique taste of Belgian culture. Explore the local specialties, indulge in delectable chocolates, and savor the world-renowned waffles as you navigate through the city's flavors.",
+      "seo_title": "8 Best Must-Try Restaurants in Brussels 2026",
+      "seo_description": "Save time with real recommendations! Book via Klook and discover local favorites. Plan your meal now and enjoy Brussels' culinary gems!",
+      "page_intro": "Dive into Brussels' vibrant food scene, where local specialties like moules-frites and decadent chocolates await. Discover curated picks to savor the best of Belgian cuisine effortlessly!",
       "items": [
         {
           "id": "chez-ryan",
@@ -13,7 +13,7 @@
           "description": "Located in the heart of Brussels, Chez Ryan is a cozy spot known for its exceptional moules-frites (mussels and fries). With an inviting atmosphere, it's a favorite among locals and tourists alike. Expect to pay around $25-40 per person. The mussels are sourced fresh from local waters, and the fries are perfectly crispy. Don't miss their homemade mayonnaise!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Moules-frites",
           "klook_query": "Chez Ryan Brussels",
           "photo_url": "https://images.pexels.com/photos/17289019/pexels-photo-17289019.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "Fritland is a bustling street food spot famous for its Belgian fries. This eatery serves up crispy fries with a variety of delicious sauces. The casual atmosphere makes it a great place to grab a quick bite. Prices are budget-friendly, typically around $5-10. Be sure to try the Andalouse sauce, a local favorite!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Belgian Fries with Andalouse Sauce",
           "klook_query": "Fritland Brussels",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Restaurant Samouraï offers a unique fusion of Belgian and Asian cuisine, creating a delightful dining experience. The restaurant's atmosphere is elegant yet relaxed, perfect for a special night out. Expect to spend around $40-70 per person. Their signature dish, the Asian-style carbonnade flamande, is a must-try!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Asian-style Carbonnade Flamande",
           "klook_query": "Restaurant Samouraï Brussels",
           "photo_url": "https://images.pexels.com/photos/210547/pexels-photo-210547.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -49,7 +49,7 @@
           "description": "Brussels Market is a vibrant night market featuring a variety of local food stalls. From sweet treats to savory bites, you'll find something for everyone. The atmosphere is lively, filled with music and laughter. Prices vary, but you can enjoy delicious dishes for around $10-20. Be sure to sample the Belgian waffles and artisanal cheeses!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Belgian Waffles",
           "klook_query": "Brussels Night Market",
           "photo_url": "https://images.pexels.com/photos/2587789/pexels-photo-2587789.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -61,7 +61,7 @@
           "description": "La Friture is a charming café known for its delightful selection of Belgian pastries and coffee. The cozy ambiance makes it an ideal spot for brunch or an afternoon treat. Prices are reasonable, ranging from $8-15. Their speculoos cookies are a local specialty that you simply cannot miss!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Speculoos Cookies",
           "klook_query": "La Friture Brussels",
           "photo_url": "https://images.pexels.com/photos/15366521/pexels-photo-15366521.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -73,7 +73,7 @@
           "description": "Le Pain Quotidien is a beloved café chain that originated in Belgium, known for its organic bread and communal dining style. The warm, rustic atmosphere invites you to relax and enjoy your meal. Expect to spend around $10-20. Their avocado toast is a popular choice among health-conscious diners!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Avocado Toast",
           "klook_query": "Le Pain Quotidien Brussels",
           "photo_url": "https://images.pexels.com/photos/10562146/pexels-photo-10562146.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -85,7 +85,7 @@
           "description": "La Fabrique en Chantier is a trendy restaurant that showcases modern Belgian cuisine. Its contemporary design and artistic ambiance create a unique dining experience. Expect to pay about $30-50 per person. The chef's tasting menu is highly recommended for a full taste of their innovative dishes.",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Chef's Tasting Menu",
           "klook_query": "La Fabrique en Chantier Brussels",
           "photo_url": "https://images.pexels.com/photos/17764598/pexels-photo-17764598.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -97,17 +97,20 @@
           "description": "Chocolatier Pierre Marcolini is not just a shop but an experience for chocolate lovers. This renowned chocolatier offers exquisite handcrafted chocolates and pralines. Prices vary, but you can find treats starting from $5. Their signature dark chocolate truffles are a must-try and perfect for souvenirs.",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Dark Chocolate Truffles",
           "klook_query": "Pierre Marcolini Brussels",
           "photo_url": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Brussels?",
+      "faq_q2": "Where can I find the best restaurants in Brussels?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "布魯塞爾最佳美食 2026 — 頂級餐廳與街頭美食指南",
-      "seo_description": "探索布魯塞爾最好的餐廳、街頭美食和當地特色。從預算餐飲到高級餐廳 — 附有預訂鏈接。",
-      "page_intro": "布魯塞爾是一個美食天堂，將豐富的歷史與現代影響融入其美食場景中。這座城市擁有從高級餐廳到迷人咖啡館及充滿活力的街頭美食市場的多樣餐飲選擇，提供了獨特的比利時文化體驗。探索當地特色，品嚐美味的巧克力，享受世界著名的華夫餅，讓你在城市的風味中徜徉。",
+      "seo_title": "布魯塞爾最佳美食 2026 — 8大必試餐廳與隱藏美味",
+      "seo_description": "節省時間，探索布魯塞爾的真實推薦，透過Klook預訂，立即計劃你的美食之旅，發現當地最愛！",
+      "page_intro": "布魯塞爾的美食場景如同一場味蕾的盛宴，從經典的比利時華夫餅到香濃的巧克力，無不令人垂涎。無論是高檔餐廳還是街頭小吃，這裡的每一道菜都融入了豐富的文化底蘊，讓你在美食中感受城市的獨特魅力。透過我們精心挑選的餐廳指南，節省你的時間，盡情享受布魯塞爾的美味！",
       "items": [
         {
           "id": "chez-ryan",
@@ -116,7 +119,7 @@
           "description": "位於布魯塞爾市中心的Chez Ryan是一個舒適的地方，以其卓越的青口薯條（貽貝與薯條）而聞名。這裡的氛圍宜人，是當地居民和遊客的最愛。每人預計花費約$25-40。貽貝來自當地新鮮水域，薯條外脆內嫩。別忘了嘗嘗他們自製的美乃滋！",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "貽貝薯條",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -127,7 +130,7 @@
           "description": "Fritland是一個熱鬧的街頭美食場所，以比利時薯條而聞名。這家餐廳提供各種美味醬汁的香脆薯條。隨意的氛圍使這裡成為快速用餐的理想地點。價格實惠，通常在$5-10左右。一定要試試安達魯西亞醬，這是當地的最愛！",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "比利時薯條配安達魯斯醬",
           "klook_query": "Fritland Brussels"
         },
@@ -138,7 +141,7 @@
           "description": "Restaurant Samouraï提供比利時和亞洲美食的獨特融合，創造出愉悅的用餐體驗。餐廳的氛圍優雅而輕鬆，非常適合特別的晚餐。每人預計花費約$40-70。他們的招牌菜亞洲風格的碳煮火腿是必試之選！",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "亞洲風味炖牛肉",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -149,7 +152,7 @@
           "description": "布魯塞爾市場是一個充滿活力的夜市，擁有各種當地食品攤位。從甜點到鹹食，您會找到適合每個人的美食。氛圍熱鬧，充滿音樂和笑聲。價格各異，但您可以以約$10-20享用美味佳餚。一定要品嚐比利時華夫餅和手工奶酪！",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "比利時鬆餅",
           "klook_query": "Brussels Night Market"
         },
@@ -160,7 +163,7 @@
           "description": "La Friture是一家迷人的咖啡館，以其精緻的比利時糕點和咖啡而聞名。舒適的氛圍使這裡成為早午餐或下午茶的理想之地。價格合理，範圍在$8-15之間。他們的speculoos餅乾是當地特色，您絕對不能錯過！",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "斯比庫斯餅乾",
           "klook_query": "La Friture Brussels"
         },
@@ -171,7 +174,7 @@
           "description": "Le Pain Quotidien是一個受人喜愛的咖啡館連鎖店，起源於比利時，以其有機麵包和共享用餐風格而聞名。溫暖而鄉村風格的氛圍使您可以放鬆心情，享用美食。預計花費約$10-20。他們的酪梨吐司在注重健康的食客中非常受歡迎！",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "酪梨吐司",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -182,7 +185,7 @@
           "description": "La Fabrique en Chantier是一家時尚的餐廳，展示現代比利時美食。其現代設計和藝術氛圍創造出獨特的用餐體驗。預計每人花費約$30-50。廚師的品嚐菜單是全方位體驗其創新菜餚的強烈推薦！",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "主廚品嚐菜單",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -193,16 +196,19 @@
           "description": "Chocolatier Pierre Marcolini不僅是一家商店，而是巧克力愛好者的體驗。這位著名的巧克力師提供精緻的手工巧克力和巧克力糖果。價格各異，但您可以找到從$5起的美味。其招牌黑巧克力松露是必試之選，非常適合作為紀念品。",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "黑巧克力松露",
           "klook_query": "Pierre Marcolini Brussels"
         }
-      ]
+      ],
+      "faq_q1": "在布魯塞爾最好吃的食物是什麼？",
+      "faq_q2": "我可以在哪裡找到布魯塞爾最好的餐廳？",
+      "faq_a2_suffix": "是評價最高的用餐選擇。"
     },
     "ja": {
-      "seo_title": "ブリュッセルのベストフード 2026 — トップレストラン＆ストリートフードガイド",
-      "seo_description": "ブリュッセルの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "ブリュッセルは美食の喜びであり、豊かな歴史と現代の影響が融合した食文化を提供しています。高級レストランから魅力的なカフェ、活気あるストリートフード市場まで、多様な飲食店が揃い、比利時文化のユニークな味わいを提供しています。地元の特産品を探求し、美味しいチョコレートを味わい、世界的に有名なワッフルを楽しみながら、都市の風味を満喫してください。",
+      "seo_title": "ブリュッセル2026年の必食8レストラン — トップガイド",
+      "seo_description": "時間を節約し、本当におすすめのレストランを見つけましょう。Klookで予約して、地元の名物を今すぐ計画しましょう！",
+      "page_intro": "ブリュッセルは、美食の宝庫であり、ベルギーの伝統的な味わいが楽しめる場所です。絶品のワッフルやチョコレート、地元のフリッツを味わいながら、食の冒険をお楽しみください。Klookで厳選されたレストランを予約して、時間を節約しましょう。",
       "items": [
         {
           "id": "chez-ryan",
@@ -211,7 +217,7 @@
           "description": "ブリュッセルの中心部に位置するChez Ryanは、卓越したムール貝とフライドポテト（ムール貝とフライドポテト）で知られる居心地の良いスポットです。居心地の良い雰囲気があり、地元の人々や観光客に人気です。1人当たり約$25-40の費用がかかります。ムール貝は地元の新鮮な水から調達され、フライドポテトは完璧にカリカリです。自家製のマヨネーズもお見逃しなく！",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "ムール貝とフリッツ",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -222,7 +228,7 @@
           "description": "Fritlandは、比利時のフライドポテトで有名な賑やかなストリートフードスポットです。この飲食店では、さまざまな美味しいソースとともにカリカリのフライドポテトを提供しています。カジュアルな雰囲気で、さっと食事をとるのに最適な場所です。価格は手頃で、通常$5-10程度です。地元の人気のアンデュルーズソースをぜひお試しください！",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "アンダルーズソースのベルギー風フライ",
           "klook_query": "Fritland Brussels"
         },
@@ -233,7 +239,7 @@
           "description": "Restaurant Samouraïは、比利時料理とアジア料理のユニークな融合を提供し、素晴らしいダイニング体験を創出しています。レストランの雰囲気はエレガントでありながらリラックスでき、特別な夜にぴったりです。1人当たり約$40-70の費用がかかります。彼らのシグネチャー料理であるアジア風カーボナード・フラムンダは必見です！",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "アジア風カーボナード・フラマン",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -244,7 +250,7 @@
           "description": "ブリュッセル市場は、さまざまな地元のフードスタンドが並ぶ活気あるナイトマーケットです。甘いおやつから塩味のバイトまで、誰でも楽しめるものが見つかります。雰囲気は賑やかで、音楽と笑いで満ちています。価格は様々ですが、約$10-20で美味しい料理を楽しむことができます。比利時のワッフルや手作りのチーズをぜひお試しください！",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "ベルギーワッフル",
           "klook_query": "Brussels Night Market"
         },
@@ -255,7 +261,7 @@
           "description": "La Fritureは、比利時のペストリーとコーヒーの魅力的なセレクションで知られる魅力的なカフェです。居心地の良い雰囲気があり、ブランチや午後のスイーツに最適な場所です。価格は手頃で、$8-15の範囲です。彼らのスペキュロスクッキーは地元の特産品で、絶対に見逃せません！",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "スペキュロスクッキー",
           "klook_query": "La Friture Brussels"
         },
@@ -266,7 +272,7 @@
           "description": "Le Pain Quotidienは、ベルギーで生まれた愛されるカフェチェーンで、オーガニックなパンと共同食スタイルで知られています。温かく素朴な雰囲気が、リラックスして食事を楽しむことを促します。約$10-20を予想してください。彼らのアボカドトーストは、健康志向のダイナーの間で人気の選択肢です！",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "アボカドトースト",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -277,7 +283,7 @@
           "description": "La Fabrique en Chantierは、現代の比利時料理を展示するトレンディなレストランです。現代的なデザインとアーティスティックな雰囲気が、ユニークなダイニング体験を生み出します。1人当たり約$30-50の費用がかかります。シェフのテイスティングメニューは、彼らの革新的な料理をフルに味わうために強くお勧めです。",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "シェフのテイスティングメニュー",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -288,16 +294,19 @@
           "description": "Chocolatier Pierre Marcoliniは、チョコレート愛好家のための体験であり、単なるショップではありません。この著名なショコラティエは、絶妙な手作りチョコレートとプラリネを提供しています。価格は様々ですが、$5から始まるお菓子を見つけることができます。彼らのシグネチャーのダークチョコレートトリュフは必見で、お土産にも最適です。",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "ダークチョコレートトリュフ",
           "klook_query": "Pierre Marcolini Brussels"
         }
-      ]
+      ],
+      "faq_q1": "ブリュッセルで食べるべき料理は何ですか？",
+      "faq_q2": "ブリュッセルで最高のレストランはどこですか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "브뤼셀 최고의 음식 2026 — 최고의 레스토랑 & 스트리트 푸드 가이드",
-      "seo_description": "브뤼셀에서 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 친화적인 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "브뤼셀은 풍부한 역사와 현대적 영향을 결합한 미식의 즐거움입니다. 고급 레스토랑부터 매력적인 카페, 활기찬 스트리트 푸드 시장까지 다양한 식당이 있어 벨기에 문화를 독특하게 맛볼 수 있습니다. 지역 특산품을 탐험하고, 맛있는 초콜릿에 빠져들고, 세계적으로 유명한 와플을 음미하며 도시의 맛을 즐겨보세요.",
+      "seo_title": "브뤼셀 최고의 숨겨진 맛집 2026 — 꼭 먹어봐야 할 8곳",
+      "seo_description": "시간을 절약하고 진정한 추천을 받아보세요. Klook 예약으로 현지 인기 맛집을 계획해보세요. 지금 맛집을 발견해보세요!",
+      "page_intro": "브뤼셀의 미식 세계는 맛의 향연으로 가득 차 있습니다. 유명한 벨기에 와플과 초콜릿, 그리고 매력적인 스트리트 푸드를 즐기며 이 도시의 독특한 맛을 만끽하세요. Klook에서 추천하는 레스토랑으로 시간을 절약하고 최고의 미식을 경험해보세요.",
       "items": [
         {
           "id": "chez-ryan",
@@ -306,7 +315,7 @@
           "description": "브뤼셀 중심부에 위치한 Chez Ryan은 탁월한 무르무르(홍합)와 프리트(감자튀김)로 유명한 아늑한 장소입니다. 아늑한 분위기로 지역 주민과 관광객 모두에게 인기가 많습니다. 1인당 약 $25-40의 비용이 예상됩니다. 무르무르는 지역 수역에서 신선하게 조달되며, 프리트는 완벽하게 바삭합니다. 그들의 수제 마요네즈도 놓치지 마세요!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "홍합과 감자튀김",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -317,7 +326,7 @@
           "description": "Fritland는 벨기에 프라이로 유명한 번화한 스트리트 푸드 장소입니다. 이 식당은 다양한 맛있는 소스와 함께 바삭한 프라이를 제공합니다. 캐주얼한 분위기로 빠르게 식사하기 좋은 장소입니다. 가격은 예산 친화적이며 일반적으로 $5-10입니다. 꼭 앤달루스 소스를 시도해 보세요. 지역 주민들이 좋아하는 소스입니다!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "안달루스 소스를 곁들인 벨기에 감자튀김",
           "klook_query": "Fritland Brussels"
         },
@@ -328,7 +337,7 @@
           "description": "Restaurant Samouraï는 벨기에와 아시아 요리의 독특한 융합을 제공하여 즐거운 식사 경험을 선사합니다. 레스토랑의 분위기는 우아하면서도 편안하여 특별한 저녁 외출에 적합합니다. 1인당 약 $40-70의 비용이 예상됩니다. 그들의 시그니처 요리인 아시아 스타일의 카르보나드 플라망드는 반드시 맛봐야 할 요리입니다!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "아시아 스타일의 카르보나드 플라망드",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -339,7 +348,7 @@
           "description": "브뤼셀 마켓은 다양한 지역 음식 스탠드가 있는 활기찬 야시장입니다. 달콤한 간식부터 짭짤한 간식까지 모두를 위한 무언가를 찾을 수 있습니다. 분위기는 활기차고 음악과 웃음으로 가득 차 있습니다. 가격은 다양하지만 약 $10-20의 비용으로 맛있는 요리를 즐길 수 있습니다. 벨기에 와플과 장인 치즈를 꼭 맛보세요!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "벨기에 와플",
           "klook_query": "Brussels Night Market"
         },
@@ -350,7 +359,7 @@
           "description": "La Friture는 매력적인 카페로, 맛있는 벨기에 페이스트리와 커피로 유명합니다. 아늑한 분위기로 브런치나 오후 간식에 적합한 장소입니다. 가격은 합리적이며 $8-15 사이입니다. 그들의 스페큘로스 쿠키는 지역 특산품으로, 절대 놓쳐서는 안 되는 맛입니다!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "스페큘로스 쿠키",
           "klook_query": "La Friture Brussels"
         },
@@ -361,7 +370,7 @@
           "description": "Le Pain Quotidien은 벨기에에서 시작된 사랑받는 카페 체인으로, 유기농 빵과 공동 식사 스타일로 유명합니다. 따뜻하고 소박한 분위기가 식사를 즐기고 편안하게 쉴 수 있도록 초대합니다. 약 $10-20의 비용이 예상됩니다. 그들의 아보카도 토스트는 건강을 생각하는 식사자들 사이에서 인기 있는 선택입니다!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "아보카도 토스트",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -372,7 +381,7 @@
           "description": "La Fabrique en Chantier는 현대 벨기에 요리를 선보이는 트렌디한 레스토랑입니다. 현대적인 디자인과 예술적인 분위기가 독특한 식사 경험을 창출합니다. 1인당 약 $30-50의 비용이 예상됩니다. 셰프의 테이스팅 메뉴는 그들의 혁신적인 요리를 완전히 맛볼 수 있는 강력 추천 메뉴입니다.",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "셰프의 테이스팅 메뉴",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -383,16 +392,19 @@
           "description": "Chocolatier Pierre Marcolini는 단순한 상점이 아니라 초콜릿 애호가를 위한 경험입니다. 이 유명한 초콜릿 장인은 정교한 수제 초콜릿과 프랄린을 제공합니다. 가격은 다양하지만 $5부터 시작하는 간식을 찾을 수 있습니다. 그들의 시그니처 다크 초콜릿 트러플은 반드시 맛봐야 하며, 기념품으로도 완벽합니다.",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "다크 초콜릿 트러플",
           "klook_query": "Pierre Marcolini Brussels"
         }
-      ]
+      ],
+      "faq_q1": "브뤼셀에서 꼭 먹어야 할 음식은 무엇인가요?",
+      "faq_q2": "브뤼셀에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평점을 받은 식사 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure cuisine à Bruxelles 2026 — Meilleurs restaurants & guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Bruxelles. Des plats à petit budget à la gastronomie — avec des liens de réservation.",
-      "page_intro": "Bruxelles est un délice culinaire, mélangeant une riche histoire et des influences modernes dans sa scène gastronomique. Avec une variété de lieux de restauration allant des restaurants gastronomiques aux charmants cafés et marchés de street food vibrants, la ville offre un goût unique de la culture belge. Explorez les spécialités locales, régalez-vous de délicieux chocolats et savourez les célèbres gaufres du monde entier tout en naviguant à travers les saveurs de la ville.",
+      "seo_title": "Top 8 Restaurants à Bruxelles 2026 — Incontournables",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez sur Klook et découvrez les spécialités locales. Planifiez votre repas maintenant!",
+      "page_intro": "Bruxelles est un véritable festin pour les sens, où les traditions culinaires se mêlent à des influences contemporaines. Ne manquez pas de déguster les moules-frites, les pralines et les gaufres belges tout en découvrant les meilleures adresses de la ville. Gagnez du temps avec nos recommandations soigneusement sélectionnées et réservez facilement via Klook.",
       "items": [
         {
           "id": "chez-ryan",
@@ -401,7 +413,7 @@
           "description": "Situé au cœur de Bruxelles, Chez Ryan est un endroit chaleureux connu pour ses moules-frites exceptionnelles. Avec une atmosphère accueillante, c'est un endroit prisé des habitants et des touristes. Attendez-vous à débourser environ 25 à 40 $ par personne. Les moules proviennent des eaux locales, et les frites sont parfaitement croustillantes. Ne manquez pas leur mayonnaise maison !",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Moules-frites",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -412,7 +424,7 @@
           "description": "Fritland est un lieu de street food animé célèbre pour ses frites belges. Ce restaurant propose des frites croustillantes avec une variété de sauces délicieuses. L'atmosphère décontractée en fait un excellent endroit pour prendre un repas rapide. Les prix sont abordables, généralement autour de 5 à 10 $. Assurez-vous d'essayer la sauce andalouse, un favori local !",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Frites belges avec sauce Andalouse",
           "klook_query": "Fritland Brussels"
         },
@@ -423,7 +435,7 @@
           "description": "Le Restaurant Samouraï propose une fusion unique de cuisine belge et asiatique, créant une expérience culinaire délicieuse. L'atmosphère du restaurant est élégante mais détendue, parfaite pour une soirée spéciale. Attendez-vous à dépenser environ 40 à 70 $ par personne. Leur plat signature, le carbonnade flamande à l'asiatique, est un incontournable !",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonnade flamande à l'asiatique",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -434,7 +446,7 @@
           "description": "Le Marché de Bruxelles est un marché nocturne vibrant avec une variété de stands de nourriture locaux. Des douceurs sucrées aux bouchées salées, vous trouverez quelque chose pour tout le monde. L'atmosphère est vivante, remplie de musique et de rires. Les prix varient, mais vous pouvez déguster de délicieux plats pour environ 10 à 20 $. Assurez-vous de goûter les gaufres belges et les fromages artisanaux !",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Gaufres belges",
           "klook_query": "Brussels Night Market"
         },
@@ -445,7 +457,7 @@
           "description": "La Friture est un café charmant connu pour sa délicieuse sélection de pâtisseries belges et de café. L'ambiance chaleureuse en fait un endroit idéal pour bruncher ou pour une collation l'après-midi. Les prix sont raisonnables, allant de 8 à 15 $. Leurs biscuits spéculoos sont une spécialité locale que vous ne pouvez pas manquer !",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Biscuits Speculoos",
           "klook_query": "La Friture Brussels"
         },
@@ -456,7 +468,7 @@
           "description": "Le Pain Quotidien est une chaîne de cafés bien-aimée qui a vu le jour en Belgique, connue pour son pain biologique et son style de repas convivial. L'atmosphère chaleureuse et rustique vous invite à vous détendre et à profiter de votre repas. Attendez-vous à dépenser environ 10 à 20 $. Leur toast à l'avocat est un choix populaire parmi les convives soucieux de leur santé !",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Toast à l'avocat",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -467,7 +479,7 @@
           "description": "La Fabrique en Chantier est un restaurant tendance qui met en avant la cuisine belge moderne. Son design contemporain et son ambiance artistique créent une expérience culinaire unique. Attendez-vous à payer environ 30 à 50 $ par personne. Le menu dégustation du chef est fortement recommandé pour une pleine expérience de ses plats innovants.",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Menu dégustation du chef",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -478,15 +490,18 @@
           "description": "Chocolatier Pierre Marcolini n'est pas seulement une boutique, mais une expérience pour les amateurs de chocolat. Ce chocolatier renommé propose des chocolats et des pralines exquis faits à la main. Les prix varient, mais vous pouvez trouver des douceurs à partir de 5 $. Leurs truffes au chocolat noir sont un incontournable et parfaites pour des souvenirs.",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Truffes au chocolat noir",
           "klook_query": "Pierre Marcolini Brussels"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Bruxelles ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Bruxelles ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "Mejor comida en Bruselas 2026 — Mejores restaurantes y guía de comida callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Bruselas. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "seo_title": "8 Mejores Restaurantes en Bruselas 2026",
+      "seo_description": "Ahorra tiempo con recomendaciones reales de Klook. Descubre los favoritos locales y planifica tu comida ahora.",
       "page_intro": "Bruselas es una delicia culinaria, que mezcla una rica historia con influencias modernas en su escena gastronómica. Con una variedad de restaurantes que van desde restaurantes gourmet hasta encantadoras cafeterías y vibrantes mercados de comida callejera, la ciudad ofrece un sabor único de la cultura belga. Explora las especialidades locales, disfruta de deliciosos chocolates y saborea los famosos gofres mientras navegas por los sabores de la ciudad.",
       "items": [
         {
@@ -496,7 +511,7 @@
           "description": "Ubicado en el corazón de Bruselas, Chez Ryan es un lugar acogedor conocido por sus excepcionales mejillones y papas fritas. Con un ambiente acogedor, es un favorito entre los locales y turistas. Se espera que pagues alrededor de $25-40 por persona. Los mejillones se obtienen frescos de aguas locales, y las papas fritas son perfectamente crujientes. ¡No te pierdas su mayonesa casera!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Moules-frites",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -507,7 +522,7 @@
           "description": "Fritland es un bullicioso lugar de comida callejera famoso por sus papas fritas belgas. Este establecimiento sirve papas fritas crujientes con una variedad de salsas deliciosas. La atmósfera casual lo convierte en un gran lugar para comer algo rápido. Los precios son amigables con el presupuesto, generalmente alrededor de $5-10. ¡Asegúrate de probar la salsa andaluza, un favorito local!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Papas fritas belgas con salsa Andalouse",
           "klook_query": "Fritland Brussels"
         },
@@ -518,7 +533,7 @@
           "description": "El Restaurant Samouraï ofrece una fusión única de cocina belga y asiática, creando una experiencia culinaria deliciosa. La atmósfera del restaurante es elegante pero relajada, perfecta para una noche especial. Se espera que gastes alrededor de $40-70 por persona. ¡Su plato insignia, la carbonnade flamande al estilo asiático, es un imprescindible!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonnade flamande al estilo asiático",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -529,7 +544,7 @@
           "description": "El Mercado de Bruselas es un vibrante mercado nocturno con una variedad de puestos de comida local. Desde dulces hasta bocados salados, encontrarás algo para todos. La atmósfera es animada, llena de música y risas. Los precios varían, pero puedes disfrutar de deliciosos platos por alrededor de $10-20. ¡Asegúrate de probar los gofres belgas y los quesos artesanales!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Gofres belgas",
           "klook_query": "Brussels Night Market"
         },
@@ -540,7 +555,7 @@
           "description": "La Friture es una encantadora cafetería conocida por su deliciosa selección de pasteles belgas y café. La acogedora atmósfera lo convierte en un lugar ideal para un brunch o un refrigerio por la tarde. Los precios son razonables, oscilando entre $8-15. ¡Sus galletas speculoos son una especialidad local que no puedes perderte!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Galletas Speculoos",
           "klook_query": "La Friture Brussels"
         },
@@ -551,7 +566,7 @@
           "description": "Le Pain Quotidien es una querida cadena de cafeterías que se originó en Bélgica, conocida por su pan orgánico y su estilo de comedor comunitario. La cálida y rústica atmósfera te invita a relajarte y disfrutar de tu comida. Se espera que gastes alrededor de $10-20. ¡Su tostada de aguacate es una opción popular entre los comensales preocupados por la salud!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Tostada de aguacate",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -562,7 +577,7 @@
           "description": "La Fabrique en Chantier es un restaurante moderno que exhibe la cocina belga contemporánea. Su diseño contemporáneo y su ambiente artístico crean una experiencia culinaria única. Se espera que pagues alrededor de $30-50 por persona. ¡El menú de degustación del chef es muy recomendable para una experiencia completa de sus platos innovadores!",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Menú de degustación del chef",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -573,15 +588,15 @@
           "description": "Chocolatier Pierre Marcolini no es solo una tienda, sino una experiencia para los amantes del chocolate. Este renombrado chocolatero ofrece exquisitos chocolates y pralinés artesanales. Los precios varían, pero puedes encontrar golosinas a partir de $5. ¡Sus trufas de chocolate oscuro son un imprescindible y perfectas como souvenirs!",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Trufas de chocolate negro",
           "klook_query": "Pierre Marcolini Brussels"
         }
       ]
     },
     "id": {
-      "seo_title": "Makanan Terbaik di Brussels 2026 — Restoran Terbaik & Panduan Makanan Jalanan",
-      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Brussels. Dari makanan dengan anggaran hingga santapan mewah — dengan tautan pemesanan.",
+      "seo_title": "8 Restoran Terbaik di Brussels 2026 yang Wajib Dicoba",
+      "seo_description": "Hemat waktu dengan rekomendasi asli. Pesan melalui Klook dan rencanakan santapan Anda sekarang. Temukan favorit lokal di Brussels!",
       "page_intro": "Brussels adalah surga kuliner, menggabungkan sejarah yang kaya dengan pengaruh modern dalam dunia makanan. Dengan berbagai tempat makan mulai dari restoran gourmet hingga kafe yang menawan dan pasar makanan jalanan yang hidup, kota ini menawarkan cita rasa unik budaya Belgia. Jelajahi spesialisasi lokal, nikmati cokelat lezat, dan cicipi waffle yang terkenal di dunia saat Anda menjelajahi cita rasa kota ini.",
       "items": [
         {
@@ -591,7 +606,7 @@
           "description": "Terletak di jantung Brussels, Chez Ryan adalah tempat yang nyaman dikenal dengan moules-frites (kerang dan kentang goreng) yang luar biasa. Dengan suasana yang mengundang, tempat ini menjadi favorit di kalangan penduduk lokal dan turis. Harapkan untuk membayar sekitar $25-40 per orang. Kerang diperoleh segar dari perairan lokal, dan kentang gorengnya renyah sempurna. Jangan lewatkan mayones buatan rumah mereka!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Moules-frites",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -602,7 +617,7 @@
           "description": "Fritland adalah tempat makanan jalanan yang ramai terkenal dengan kentang goreng Belgia. Tempat makan ini menyajikan kentang goreng renyah dengan berbagai saus yang lezat. Suasana kasual menjadikannya tempat yang bagus untuk makan cepat. Harganya ramah anggaran, biasanya sekitar $5-10. Pastikan untuk mencoba saus Andalouse, favorit lokal!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Kentang Belgia dengan Saus Andalouse",
           "klook_query": "Fritland Brussels"
         },
@@ -613,7 +628,7 @@
           "description": "Restaurant Samouraï menawarkan perpaduan unik antara masakan Belgia dan Asia, menciptakan pengalaman bersantap yang menyenangkan. Suasana restoran yang elegan namun santai sangat cocok untuk malam spesial. Harapkan untuk menghabiskan sekitar $40-70 per orang. Hidangan khas mereka, carbonnade flamande gaya Asia, adalah yang wajib dicoba!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonnade Flamande Gaya Asia",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -624,7 +639,7 @@
           "description": "Pasar Brussels adalah pasar malam yang hidup dengan berbagai kios makanan lokal. Dari makanan manis hingga makanan gurih, Anda akan menemukan sesuatu untuk semua orang. Suasananya hidup, dipenuhi musik dan tawa. Harga bervariasi, tetapi Anda dapat menikmati hidangan lezat dengan harga sekitar $10-20. Pastikan untuk mencicipi waffle Belgia dan keju artisan!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Wafel Belgia",
           "klook_query": "Brussels Night Market"
         },
@@ -635,7 +650,7 @@
           "description": "La Friture adalah kafe menawan yang dikenal dengan pilihan kue dan kopi Belgia yang lezat. Suasana yang nyaman menjadikannya tempat ideal untuk brunch atau camilan sore. Harganya terjangkau, berkisar antara $8-15. Kue speculoos mereka adalah spesialisasi lokal yang tidak boleh Anda lewatkan!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Kue Speculoos",
           "klook_query": "La Friture Brussels"
         },
@@ -646,7 +661,7 @@
           "description": "Le Pain Quotidien adalah jaringan kafe yang dicintai yang berasal dari Belgia, dikenal dengan roti organiknya dan gaya makan bersama. Suasana hangat dan pedesaan mengundang Anda untuk bersantai dan menikmati makanan Anda. Harapkan untuk menghabiskan sekitar $10-20. Roti panggang alpukat mereka adalah pilihan populer di kalangan pengunjung yang peduli kesehatan!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Roti Alpukat",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -657,7 +672,7 @@
           "description": "La Fabrique en Chantier adalah restoran trendi yang menampilkan masakan Belgia modern. Desain kontemporernya dan suasana artistik menciptakan pengalaman bersantap yang unik. Harapkan untuk membayar sekitar $30-50 per orang. Menu pencicipan koki sangat dianjurkan untuk merasakan sepenuhnya hidangan inovatif mereka.",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Menu Cicip Chef",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -668,16 +683,16 @@
           "description": "Chocolatier Pierre Marcolini bukan hanya toko tetapi juga pengalaman bagi para pecinta cokelat. Chocolatier terkenal ini menawarkan cokelat dan praline buatan tangan yang luar biasa. Harga bervariasi, tetapi Anda dapat menemukan camilan mulai dari $5. Truffle cokelat hitam mereka adalah yang wajib dicoba dan sempurna sebagai oleh-oleh.",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Truffle Cokelat Hitam",
           "klook_query": "Pierre Marcolini Brussels"
         }
       ]
     },
     "hi": {
-      "seo_title": "ब्रसेल्स का सबसे अच्छा खाना 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "ब्रसेल्स में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
-      "page_intro": "ब्रसेल्स एक खाद्य आनंद है, जो अपने खाद्य दृश्य में समृद्ध इतिहास और आधुनिक प्रभावों को मिलाता है। यहाँ विभिन्न प्रकार के खाने की जगहें हैं, जो महंगे रेस्तरां से लेकर आकर्षक कैफे और जीवंत स्ट्रीट फूड मार्केट्स तक हैं, जो बेल्जियन संस्कृति का अनूठा स्वाद प्रदान करती हैं। स्थानीय विशेषताओं का अन्वेषण करें, स्वादिष्ट चॉकलेट का आनंद लें, और विश्व प्रसिद्ध वाफल का स्वाद लें जब आप शहर के स्वादों के माध्यम से चलते हैं।",
+      "seo_title": "ब्रसेल्स के 10 सर्वश्रेष्ठ रेस्तरां 2026 - स्थानीय पसंदीदा",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ बुकिंग करें और अपने खाने की योजना बनाएं। स्थानीय विशेषताओं का आनंद लें!",
+      "page_intro": "ब्रसेल्स का खाद्य दृश्य एक अद्वितीय अनुभव है, जहाँ आपको स्वादिष्ट वाफल, बेल्जियन चॉकलेट और स्थानीय बीयर का आनंद लेने का मौका मिलेगा। अपने समय की बचत करें और हमारे चुने हुए रेस्तरां की मदद से इस शहर के लजीज़ व्यंजनों की खोज करें।",
       "items": [
         {
           "id": "chez-ryan",
@@ -686,7 +701,7 @@
           "description": "ब्रसेल्स के दिल में स्थित, Chez Ryan एक आरामदायक स्थान है जो अपने असाधारण मौलेस-फ्राइट्स (मस्सेल्स और फ्राई) के लिए जाना जाता है। एक आमंत्रित वातावरण के साथ, यह स्थानीय लोगों और पर्यटकों के बीच लोकप्रिय है। प्रति व्यक्ति लगभग $25-40 का खर्च आएगा। मस्सेल्स स्थानीय जल से ताजा प्राप्त की जाती हैं, और फ्राई पूरी तरह से कुरकुरी होती हैं। उनकी घरेलू मेयोनेज़ को न चूकें!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "मौलेस-फ्रिट्स",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -697,7 +712,7 @@
           "description": "Fritland एक व्यस्त स्ट्रीट फूड स्थान है जो अपने बेल्जियन फ्राई के लिए प्रसिद्ध है। यह खाने की जगह कुरकुरी फ्राई को विभिन्न स्वादिष्ट सॉस के साथ परोसती है। आकस्मिक वातावरण इसे त्वरित नाश्ता लेने के लिए एक शानदार जगह बनाता है। कीमतें बजट के अनुकूल हैं, आमतौर पर लगभग $5-10। एंडालूस सॉस को जरूर आजमाएं, जो एक स्थानीय पसंदीदा है!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "बेल्जियन फ्राइज़ विद अंडालौज़ सॉस",
           "klook_query": "Fritland Brussels"
         },
@@ -708,7 +723,7 @@
           "description": "Restaurant Samouraï बेल्जियन और एशियाई व्यंजनों का एक अद्वितीय मिश्रण पेश करता है, जो एक सुखद भोजन अनुभव बनाता है। रेस्तरां का वातावरण सुरुचिपूर्ण लेकिन आरामदायक है, विशेष रात के लिए आदर्श। प्रति व्यक्ति लगभग $40-70 खर्च करने की अपेक्षा करें। उनका सिग्नेचर डिश, एशियाई शैली का कार्बोनाडे फ्लामांड, कोशिश करने के लिए अनिवार्य है!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "एशियाई-शैली कार्बोनेड फ्लामांड",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -719,7 +734,7 @@
           "description": "Brussels Market एक जीवंत रात का बाजार है जिसमें विभिन्न स्थानीय खाद्य स्टाल हैं। मीठे व्यंजनों से लेकर नमकीन बाइट्स तक, आपको हर किसी के लिए कुछ न कुछ मिलेगा। वातावरण जीवंत है, जिसमें संगीत और हंसी बसी हुई है। कीमतें भिन्न होती हैं, लेकिन आप लगभग $10-20 में स्वादिष्ट व्यंजनों का आनंद ले सकते हैं। बेल्जियन वाफल और कारीगर चीज़ों का स्वाद लेना न भूलें!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "बेल्जियन वाफल्स",
           "klook_query": "Brussels Night Market"
         },
@@ -730,7 +745,7 @@
           "description": "La Friture एक आकर्षक कैफे है जो बेल्जियन पेस्ट्री और कॉफी के लिए जाना जाता है। आरामदायक वातावरण इसे ब्रंच या अपराह्न के स्नैक के लिए आदर्श बनाता है। कीमतें उचित हैं, लगभग $8-15। उनकी स्पेकुलोस कुकीज़ एक स्थानीय विशेषता हैं जिन्हें आप बिल्कुल नहीं छोड़ सकते!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "स्पेकुलोज़ कुकीज़",
           "klook_query": "La Friture Brussels"
         },
@@ -741,7 +756,7 @@
           "description": "Le Pain Quotidien एक प्रिय कैफे श्रृंखला है जो बेल्जियम में शुरू हुई, अपने जैविक ब्रेड और सामूहिक भोजन शैली के लिए जानी जाती है। गर्म, देहाती वातावरण आपको आराम करने और अपने भोजन का आनंद लेने के लिए आमंत्रित करता है। लगभग $10-20 खर्च करने की अपेक्षा करें। उनका एवोकाडो टोस्ट स्वास्थ्य के प्रति जागरूक खाने वालों के बीच लोकप्रिय विकल्प है!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "एवोकाडो टोस्ट",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -752,7 +767,7 @@
           "description": "La Fabrique en Chantier एक ट्रेंडी रेस्तरां है जो आधुनिक बेल्जियन व्यंजनों का प्रदर्शन करता है। इसका समकालीन डिज़ाइन और कलात्मक वातावरण एक अद्वितीय भोजन अनुभव बनाते हैं। प्रति व्यक्ति लगभग $30-50 का खर्च आएगा। शेफ का टेस्टिंग मेनू उनकी अभिनव व्यंजनों का पूरा स्वाद लेने के लिए अत्यधिक अनुशंसित है।",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "शेफ का टेस्टिंग मेन्यू",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -763,15 +778,18 @@
           "description": "Chocolatier Pierre Marcolini सिर्फ एक दुकान नहीं है बल्कि चॉकलेट प्रेमियों के लिए एक अनुभव है। यह प्रसिद्ध चॉकलेट निर्माता उत्कृष्ट हस्तनिर्मित चॉकलेट और प्रालिन प्रदान करता है। कीमतें भिन्न होती हैं, लेकिन आप $5 से शुरू होने वाले ट्रीट पा सकते हैं। उनके सिग्नेचर डार्क चॉकलेट ट्रफल्स एक कोशिश करने के लिए अनिवार्य हैं और उपहार के लिए आदर्श हैं।",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "डार्क चॉकलेट ट्रफल्स",
           "klook_query": "Pierre Marcolini Brussels"
         }
-      ]
+      ],
+      "faq_q1": "ब्रसेल्स में खाने के लिए सबसे अच्छा क्या है?",
+      "faq_q2": "ब्रसेल्स में सबसे अच्छे रेस्तरां कहाँ मिल सकते हैं?",
+      "faq_a2_suffix": " सबसे अधिक रेटिंग वाले भोजनालयों में से हैं।"
     },
     "pt": {
-      "seo_title": "Melhor Comida em Bruxelas 2026 — Melhores Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Bruxelas. De refeições econômicas a alta gastronomia — com links de reserva.",
+      "seo_title": "Os 10 Melhores Restaurantes em Bruxelas 2026 — Must-Try",
+      "seo_description": "Economize tempo com recomendações reais. Reserve no Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "Bruxelas é um deleite culinário, misturando rica história e influências modernas em sua cena gastronômica. Com uma variedade de restaurantes que vão de restaurantes gourmet a cafés charmosos e vibrantes mercados de comida de rua, a cidade oferece um gosto único da cultura belga. Explore as especialidades locais, delicie-se com chocolates deliciosos e saboreie os famosos waffles enquanto navega pelos sabores da cidade.",
       "items": [
         {
@@ -781,7 +799,7 @@
           "description": "Localizado no coração de Bruxelas, Chez Ryan é um local aconchegante conhecido por seus excepcionais moules-frites (mexilhões e batatas fritas). Com uma atmosfera acolhedora, é um favorito entre os locais e turistas. Espere pagar cerca de $25-40 por pessoa. Os mexilhões são frescos das águas locais, e as batatas fritas estão perfeitamente crocantes. Não perca a maionese caseira!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Moules-frites",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -792,7 +810,7 @@
           "description": "Fritland é um movimentado local de comida de rua famoso por suas batatas fritas belgas. Este estabelecimento serve batatas fritas crocantes com uma variedade de molhos deliciosos. A atmosfera casual torna um ótimo lugar para pegar um lanche rápido. Os preços são acessíveis, geralmente em torno de $5-10. Não deixe de experimentar o molho Andalouse, um favorito local!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Batatas Fritas Belgas com Molho Andalouse",
           "klook_query": "Fritland Brussels"
         },
@@ -803,7 +821,7 @@
           "description": "O Restaurant Samouraï oferece uma fusão única de cozinha belga e asiática, criando uma experiência gastronômica deliciosa. A atmosfera do restaurante é elegante, mas descontraída, perfeita para uma noite especial. Espere gastar cerca de $40-70 por pessoa. O prato assinatura, o carbonnade flamande ao estilo asiático, é imperdível!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Carbonnade Flamande à Moda Asiática",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -814,7 +832,7 @@
           "description": "O Mercado de Bruxelas é um vibrante mercado noturno com uma variedade de barracas de comida local. Desde doces até pratos salgados, você encontrará algo para todos. A atmosfera é animada, cheia de música e risadas. Os preços variam, mas você pode desfrutar de pratos deliciosos por cerca de $10-20. Não deixe de experimentar os waffles belgas e queijos artesanais!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Waffles Belgas",
           "klook_query": "Brussels Night Market"
         },
@@ -825,7 +843,7 @@
           "description": "La Friture é um charmoso café conhecido por sua deliciosa seleção de doces belgas e café. O ambiente aconchegante torna-o um local ideal para brunch ou um lanche à tarde. Os preços são razoáveis, variando de $8-15. Os biscoitos speculoos são uma especialidade local que você simplesmente não pode perder!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Biscoitos Speculoos",
           "klook_query": "La Friture Brussels"
         },
@@ -836,7 +854,7 @@
           "description": "Le Pain Quotidien é uma amada cadeia de cafés que se originou na Bélgica, conhecida por seu pão orgânico e estilo de refeição comunitário. A atmosfera rústica e acolhedora convida você a relaxar e desfrutar de sua refeição. Espere gastar cerca de $10-20. O pão com abacate é uma escolha popular entre os comensais conscientes da saúde!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Torrada de Abacate",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -847,7 +865,7 @@
           "description": "La Fabrique en Chantier é um restaurante moderno que apresenta a culinária belga contemporânea. Seu design contemporâneo e ambiente artístico criam uma experiência gastronômica única. Espere pagar cerca de $30-50 por pessoa. O menu de degustação do chef é altamente recomendado para uma completa experiência dos seus pratos inovadores.",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Menu de Degustação do Chef",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -858,15 +876,15 @@
           "description": "Chocolatier Pierre Marcolini não é apenas uma loja, mas uma experiência para os amantes de chocolate. Este renomado chocolatier oferece chocolates e pralinas artesanais requintadas. Os preços variam, mas você pode encontrar delícias a partir de $5. Seus trufas de chocolate amargo são imperdíveis e perfeitas como lembranças.",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Trufas de Chocolate Amargo",
           "klook_query": "Pierre Marcolini Brussels"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في بروكسل 2026 - أفضل المطاعم ودليل الطعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم، طعام الشارع، والتخصصات المحلية في بروكسل. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في بروكسل 2026 - كنوز محلية يجب تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في بروكسل. احجز عبر Klook واستمتع بتجربة طعام فريدة. خطط لوجبتك الآن!",
       "page_intro": "بروكسل هي متعة طهي، تمزج بين التاريخ الغني والتأثيرات الحديثة في مشهدها الغذائي. مع مجموعة متنوعة من أماكن الطعام التي تتراوح بين المطاعم الراقية إلى المقاهي الساحرة وأسواق الطعام الشارع النابضة بالحياة، تقدم المدينة طعماً فريداً من الثقافة البلجيكية. استكشف التخصصات المحلية، واستمتع بالشوكولاتة اللذيذة، وتذوق الوافل الشهير أثناء تجولك في نكهات المدينة.",
       "items": [
         {
@@ -876,7 +894,7 @@
           "description": "يقع Chez Ryan في قلب بروكسل، وهو مكان دافئ معروف بموسله الفريتي (بلح البحر والبطاطا المقلية) الاستثنائية. مع جو دعوة، فهو مفضل بين السكان المحليين والسياح على حد سواء. توقع أن تدفع حوالي 25-40 دولارًا للشخص. يتم الحصول على بلح البحر من المياه المحلية، والبطاطا المقلية مقرمشة تمامًا. لا تفوت المايونيز محلي الصنع!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "مولو-فريت",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -887,7 +905,7 @@
           "description": "Fritland هو مكان مزدحم لطعام الشارع مشهور بالبطاطا المقلية البلجيكية. يقدم هذا المطعم بطاطا مقلية مقرمشة مع مجموعة متنوعة من الصلصات اللذيذة. تجعل الأجواء غير الرسمية منه مكانًا رائعًا لتناول وجبة سريعة. الأسعار معقولة، عادة ما تكون حوالي 5-10 دولارات. تأكد من تجربة صلصة الأندلوس، وهي مفضلة محلية!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "بطاطا بلجيكية مع صلصة أندالوز",
           "klook_query": "Fritland Brussels"
         },
@@ -898,7 +916,7 @@
           "description": "يقدم مطعم Samouraï مزيجًا فريدًا من المأكولات البلجيكية والآسيوية، مما يخلق تجربة تناول طعام لذيذة. جو المطعم أنيق ولكنه مريح، مثالي لليلة خاصة. توقع أن تنفق حوالي 40-70 دولارًا للشخص. الطبق المميز، الكاربوناد الفلمنكي على الطريقة الآسيوية، هو تجربة لا بد منها!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "كاربوناد فلاماند على الطريقة الآسيوية",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -909,7 +927,7 @@
           "description": "سوق بروكسل هو سوق ليلي نابض بالحياة يضم مجموعة متنوعة من الأكشاك الغذائية المحلية. من الحلويات إلى اللقيمات المالحة، ستجد شيئًا للجميع. الأجواء حيوية، مليئة بالموسيقى والضحك. تختلف الأسعار، لكن يمكنك الاستمتاع بأطباق لذيذة بحوالي 10-20 دولارًا. تأكد من تذوق الوافل البلجيكي والأجبان الحرفية!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "وافل بلجيكي",
           "klook_query": "Brussels Night Market"
         },
@@ -920,7 +938,7 @@
           "description": "La Friture هو مقهى ساحر معروف بتشكيلة لذيذة من المعجنات البلجيكية والقهوة. الأجواء المريحة تجعله مكانًا مثاليًا لتناول الإفطار أو وجبة خفيفة بعد الظهر. الأسعار معقولة، تتراوح بين 8-15 دولارًا. تعتبر كعكات سبكولوس من التخصصات المحلية التي لا يمكنك تفويتها!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "بسكويت سبيكولوس",
           "klook_query": "La Friture Brussels"
         },
@@ -931,7 +949,7 @@
           "description": "Le Pain Quotidien هو سلسلة مقاهي محبوبة نشأت في بلجيكا، معروفة بخبزها العضوي وأسلوب تناول الطعام الجماعي. الجو الدافئ والريفي يدعوك للاسترخاء والاستمتاع بوجبتك. توقع أن تنفق حوالي 10-20 دولارًا. خبز الأفوكادو هو خيار شائع بين الرواد الواعين للصحة!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "توست الأفوكادو",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -942,7 +960,7 @@
           "description": "La Fabrique en Chantier هو مطعم عصري يعرض المأكولات البلجيكية الحديثة. تصميمه المعاصر وأجواءه الفنية تخلق تجربة طعام فريدة. توقع أن تدفع حوالي 30-50 دولارًا للشخص. قائمة تذوق الشيف موصى بها بشدة لتجربة كاملة لأطباقهم المبتكرة.",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "قائمة تذوق الشيف",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -953,15 +971,15 @@
           "description": "Chocolatier Pierre Marcolini ليس مجرد متجر، بل هو تجربة لعشاق الشوكولاتة. يقدم هذا الشوكولاتير الشهير شوكولاتة وحلويات مصنوعة يدويًا رائعة. تختلف الأسعار، لكن يمكنك العثور على الحلويات بدءًا من 5 دولارات. تعتبر كرات الشوكولاتة الداكنة المميزة لديهم تجربة لا بد منها ومثالية كهدايا تذكارية.",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "كرات الشوكولاتة الداكنة",
           "klook_query": "Pierre Marcolini Brussels"
         }
       ]
     },
     "bn": {
-      "seo_title": "ব্রাসেলসে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবার গাইড",
-      "seo_description": "ব্রাসেলসে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "seo_title": "ব্রাসেলসে ২০২৬ সালের সেরা ৮ খাবার ও রেস্তোরাঁ",
+      "seo_description": "সময় সাশ্রয় করুন এবং সত্যিকার সুপারিশ আবিষ্কার করুন। Klook বুকিং লিঙ্কের মাধ্যমে আপনার খাবার পরিকল্পনা করুন।",
       "page_intro": "ব্রাসেলস একটি রন্ধনপ্রণালী আনন্দ, যা এর খাবারের দৃশ্যে সমৃদ্ধ ইতিহাস এবং আধুনিক প্রভাবগুলিকে মিশ্রিত করে। গুরমেট রেস্তোরাঁ থেকে শুরু করে আকর্ষণীয় ক্যাফে এবং প্রাণবন্ত রাস্তার খাবারের বাজার পর্যন্ত বিভিন্ন ধরনের খাবারের স্থান রয়েছে, শহরটি বেলজিয়ান সংস্কৃতির একটি অনন্য স্বাদ প্রদান করে। স্থানীয় বিশেষত্বগুলি অন্বেষণ করুন, সুস্বাদু চকলেট উপভোগ করুন, এবং শহরের স্বাদগুলির মধ্যে দিয়ে চলার সময় বিশ্ববিখ্যাত ওয়াফল উপভোগ করুন।",
       "items": [
         {
@@ -971,7 +989,7 @@
           "description": "ব্রাসেলসের কেন্দ্রে অবস্থিত, Chez Ryan একটি আরামদায়ক স্থান যা এর অসাধারণ মৌলস-ফ্রাইটস (মাসেল এবং ফ্রাই) এর জন্য পরিচিত। একটি আমন্ত্রণমূলক পরিবেশের সাথে, এটি স্থানীয় এবং পর্যটকদের মধ্যে জনপ্রিয়। প্রত্যেকের জন্য প্রায় $25-40 খরচ হবে। মাসেলগুলি স্থানীয় জল থেকে তাজা সংগ্রহ করা হয় এবং ফ্রাইগুলি পুরোপুরি ক্রিস্পি। তাদের বাড়িতে তৈরি মায়োনেজ মিস করবেন না!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "মৌলস-ফ্রিট",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -982,7 +1000,7 @@
           "description": "Fritland একটি ব্যস্ত রাস্তার খাবারের স্থান যা তার বেলজিয়ান ফ্রাইয়ের জন্য বিখ্যাত। এই খাবারের স্থানটি বিভিন্ন সুস্বাদু সস দিয়ে ক্রিস্পি ফ্রাই পরিবেশন করে। আকস্মিক পরিবেশ এটিকে দ্রুত নাস্তার জন্য একটি দুর্দান্ত জায়গা করে তোলে। দাম বাজেট-বন্ধুত্বপূর্ণ, সাধারণত প্রায় $5-10। অ্যান্ডালাউস সস চেষ্টা করতে ভুলবেন না, যা স্থানীয় একটি প্রিয়!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "বেলজিয়ান ফ্রাইস উইথ অ্যান্ডালুজ সস",
           "klook_query": "Fritland Brussels"
         },
@@ -993,7 +1011,7 @@
           "description": "Restaurant Samouraï বেলজিয়ান এবং এশিয়ান রন্ধনশিল্পের একটি অনন্য মিশ্রণ অফার করে, যা একটি আনন্দদায়ক খাদ্য অভিজ্ঞতা তৈরি করে। রেস্তোরাঁর পরিবেশটি মার্জিত কিন্তু আরামদায়ক, বিশেষ রাতের জন্য উপযুক্ত। প্রত্যেকের জন্য প্রায় $40-70 খরচ করার প্রত্যাশা করুন। তাদের স্বাক্ষরিত খাবার, এশিয়ান-শৈলীর কার্বোনাডে ফ্ল্যামান্ড, একটি অবশ্যই চেষ্টা করতে হবে!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "এশিয়ান-স্টাইল কার্বনাড ফ্লামান্ড",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -1004,7 +1022,7 @@
           "description": "ব্রাসেলস মার্কেট একটি প্রাণবন্ত রাতের বাজার যা স্থানীয় খাবারের বিভিন্ন স্টল বৈশিষ্ট্যযুক্ত। মিষ্টি থেকে শুরু করে নোনতা রসনা, আপনি সবার জন্য কিছু না কিছু পাবেন। পরিবেশটি প্রাণবন্ত, সঙ্গীত এবং হাসির সাথে পূর্ণ। দাম বিভিন্ন হয়, তবে আপনি প্রায় $10-20 এ সুস্বাদু খাবার উপভোগ করতে পারেন। বেলজিয়ান ওয়াফল এবং কারিগরী পনিরের স্বাদ নিতে ভুলবেন না!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "বেলজিয়ান ওয়াফেলস",
           "klook_query": "Brussels Night Market"
         },
@@ -1015,7 +1033,7 @@
           "description": "La Friture একটি আকর্ষণীয় ক্যাফে যা বেলজিয়ান পেস্ট্রি এবং কফির জন্য পরিচিত। আরামদায়ক পরিবেশ এটিকে ব্রাঞ্চ বা বিকেলের জন্য একটি আদর্শ স্থান করে তোলে। দাম যুক্তিসঙ্গত, $8-15 এর মধ্যে। তাদের স্পেকুলোস কুকিজ একটি স্থানীয় বিশেষত্ব যা আপনি মিস করতে পারেন না!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "স্পেকুলোস কুকিজ",
           "klook_query": "La Friture Brussels"
         },
@@ -1026,7 +1044,7 @@
           "description": "Le Pain Quotidien হল একটি প্রিয় ক্যাফে চেইন যা বেলজিয়ামে শুরু হয়েছিল, এর জৈবিক রুটি এবং সম্মিলিত খাবারের শৈলীর জন্য পরিচিত। উষ্ণ, গ্রামীণ পরিবেশ আপনাকে আরাম করতে এবং আপনার খাবারের স্বাদ নিতে আমন্ত্রণ জানায়। প্রত্যেকের জন্য প্রায় $10-20 খরচ করার প্রত্যাশা করুন। তাদের অ্যাভোকাডো টোস্ট স্বাস্থ্য সচেতন অতিথিদের মধ্যে একটি জনপ্রিয় পছন্দ!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "অ্যাভোকাডো টোস্ট",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -1037,7 +1055,7 @@
           "description": "La Fabrique en Chantier একটি আধুনিক রেস্তোরাঁ যা আধুনিক বেলজিয়ান রন্ধনশিল্প প্রদর্শন করে। এর সমসাময়িক ডিজাইন এবং শিল্পী পরিবেশ একটি অনন্য খাদ্য অভিজ্ঞতা তৈরি করে। প্রত্যেকের জন্য প্রায় $30-50 খরচ হবে। শেফের টেস্টিং মেনু তাদের উদ্ভাবনী খাবারের পূর্ণ স্বাদ নেওয়ার জন্য অত্যন্ত সুপারিশ করা হয়।",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "শেফের টেস্টিং মেনু",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -1048,15 +1066,15 @@
           "description": "Chocolatier Pierre Marcolini শুধু একটি দোকান নয়, বরং চকলেট প্রেমীদের জন্য একটি অভিজ্ঞতা। এই বিশিষ্ট চকলেটিয়ার দুর্দান্ত হস্তনির্মিত চকলেট এবং প্রালাইনস অফার করে। দাম ভিন্ন হয়, তবে আপনি $5 থেকে শুরু করে মিষ্টি উপভোগ করতে পারেন। তাদের স্বাক্ষরিত ডার্ক চকলেট ট্রাফলগুলি অবশ্যই চেষ্টা করতে হবে এবং উপহার হিসাবে উপযুক্ত।",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "ডার্ক চকলেট ট্রাফলস",
           "klook_query": "Pierre Marcolini Brussels"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Брюсселе 2026 - Топ-рестораны и гид по уличной еде",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты Брюсселя. От недорогих блюд до ресторанов высокой кухни — с ссылками на бронирование.",
+      "seo_title": "Топ-10 ресторанов Брюсселя 2026 - Лучшие блюда",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Брюссель — это кулинарное наслаждение, сочетающее в себе богатую историю и современные влияния в своей гастрономической сцене. С разнообразием заведений — от гурманских ресторанов до очаровательных кафе и ярких рынков уличной еды, город предлагает уникальный вкус бельгийской культуры. Исследуйте местные специалитеты, насладитесь изысканным шоколадом и попробуйте всемирно известные вафли, прогуливаясь по вкусам города.",
       "items": [
         {
@@ -1066,7 +1084,7 @@
           "description": "Расположенный в центре Брюсселя, Chez Ryan — это уютное место, известное своими исключительными moules-frites (мидии с картофелем фри). С приветливой атмосферой, это любимое место местных жителей и туристов. Ожидайте заплатить около $25-40 с человека. Мидии свежие, привезенные из местных вод, а картошка фри идеально хрустящая. Не пропустите их домашний майонез!",
           "image_keyword": "moules frites Brussels",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "€25–50",
           "must_try": "Мидии с картофелем фри",
           "klook_query": "Chez Ryan Brussels"
         },
@@ -1077,7 +1095,7 @@
           "description": "Fritland — это шумное место уличной еды, знаменитое своими бельгийскими картофелем фри. Это заведение предлагает хрустящий картофель фри с различными вкусными соусами. Непринужденная атмосфера делает его отличным местом для быстрого перекуса. Цены доступные, обычно около $5-10. Обязательно попробуйте соус Андалуз, который является местным фаворитом!",
           "image_keyword": "Belgian fries Fritland",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Бельгийский картофель фри с соусом Андалуз",
           "klook_query": "Fritland Brussels"
         },
@@ -1088,7 +1106,7 @@
           "description": "Restaurant Samouraï предлагает уникальное сочетание бельгийской и азиатской кухни, создавая восхитительный кулинарный опыт. Атмосфера ресторана элегантная, но непринужденная, что идеально подходит для особого вечера. Ожидайте потратить около $40-70 с человека. Их фирменное блюдо, карбоннад фламанд по-азиатски, обязательно к дегустации!",
           "image_keyword": "Restaurant Samouraï Brussels",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Азиатская карбонада фламандская",
           "klook_query": "Restaurant Samouraï Brussels"
         },
@@ -1099,7 +1117,7 @@
           "description": "Брюссельский рынок — это яркий ночной рынок с разнообразными местными продовольственными палатками. От сладостей до соленых закусок, здесь найдется что-то на любой вкус. Атмосфера живая, полная музыки и смеха. Цены варьируются, но вы можете насладиться вкусными блюдами за около $10-20. Обязательно попробуйте бельгийские вафли и ремесленные сыры!",
           "image_keyword": "Brussels Night Market",
           "star_rating": 4.6,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Бельгийские вафли",
           "klook_query": "Brussels Night Market"
         },
@@ -1110,7 +1128,7 @@
           "description": "La Friture — это очаровательное кафе, известное своим восхитительным ассортиментом бельгийских кондитерских изделий и кофе. Уютная атмосфера делает его идеальным местом для бранча или полдника. Цены разумные, в диапазоне от $8-15. Их печенье спекулос — это местная специалитет, которую вы не можете пропустить!",
           "image_keyword": "La Friture Brussels",
           "star_rating": 4.4,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Песочные печенья спекулос",
           "klook_query": "La Friture Brussels"
         },
@@ -1121,7 +1139,7 @@
           "description": "Le Pain Quotidien — это любимая сеть кафе, которая возникла в Бельгии, известная своим органическим хлебом и общим стилем питания. Уютная, деревенская атмосфера приглашает вас расслабиться и насладиться едой. Ожидайте потратить около $10-20. Их тост с авокадо является популярным выбором среди тех, кто следит за здоровьем!",
           "image_keyword": "Le Pain Quotidien Brussels",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "€5–10",
           "must_try": "Тост с авокадо",
           "klook_query": "Le Pain Quotidien Brussels"
         },
@@ -1132,7 +1150,7 @@
           "description": "La Fabrique en Chantier — это модный ресторан, представляющий современную бельгийскую кухню. Его современный дизайн и художественная атмосфера создают уникальный кулинарный опыт. Ожидайте заплатить около $30-50 с человека. Дегустационное меню шеф-повара настоятельно рекомендуется для полного знакомства с их инновационными блюдами.",
           "image_keyword": "La Fabrique en Chantier Brussels",
           "star_rating": 4.9,
-          "price_range": "$$$",
+          "price_range": "€50–100",
           "must_try": "Дегустационное меню шеф-повара",
           "klook_query": "La Fabrique en Chantier Brussels"
         },
@@ -1143,7 +1161,7 @@
           "description": "Chocolatier Pierre Marcolini — это не просто магазин, а опыт для любителей шоколада. Этот известный шоколатье предлагает изысканные ручные шоколадки и пралине. Цены варьируются, но вы можете найти сладости начиная с $5. Их фирменные трюфели из темного шоколада — это обязательно к пробе и идеально подходят в качестве сувениров.",
           "image_keyword": "Pierre Marcolini chocolates",
           "star_rating": 4.8,
-          "price_range": "$",
+          "price_range": "€3–6",
           "must_try": "Трюфели из темного шоколада",
           "klook_query": "Pierre Marcolini Brussels"
         }

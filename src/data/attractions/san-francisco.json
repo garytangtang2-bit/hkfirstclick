@@ -2,9 +2,9 @@
   "city_slug": "san-francisco",
   "translations": {
     "en": {
-      "seo_title": "Top Attractions in San Francisco 2026 — Tickets, Tips & Complete Guide",
-      "seo_description": "Explore the best attractions in San Francisco. Find opening hours, ticket prices and booking links for San Francisco's top landmarks.",
-      "page_intro": "San Francisco, known for its iconic Golden Gate Bridge and vibrant cultural scene, is a must-visit destination. From historic landmarks to stunning parks and engaging museums, this city offers a diverse range of attractions for every traveler. Experience the blend of natural beauty and urban excitement that makes San Francisco unique.",
+      "seo_title": "Top 8 Must-See San Francisco Attractions 2026",
+      "seo_description": "Discover tickets, opening hours, and insider tips for San Francisco's best attractions. Book your adventure with Klook today!",
+      "page_intro": "Discover the magic of San Francisco, where the stunning Golden Gate Bridge and historic Alcatraz Island await. With lush parks and vibrant neighborhoods, this city promises unforgettable experiences for every traveler. Skip the lines and book via Klook!",
       "items": [
         {
           "id": "golden-gate-bridge",
@@ -90,12 +90,16 @@
           "best_time": "afternoon",
           "klook_query": "exploratorium tickets"
         }
-      ]
+      ],
+      "faq_q1": "What are the top attractions in San Francisco?",
+      "faq_q2": "Do I need tickets for attractions in San Francisco?",
+      "faq_a1_suffix": " are among the must-see attractions.",
+      "faq_a2": "Yes, many attractions require tickets for entry. It's recommended to book in advance through Klook for convenience."
     },
     "zh": {
-      "seo_title": "2026年舊金山最佳景點 — 門票、提示及完整指南",
-      "seo_description": "探索舊金山最佳景點。了解開放時間、門票價格及舊金山主要地標的預訂連結。",
-      "page_intro": "舊金山以其標誌性的金門大橋和充滿活力的文化景觀而聞名，是一個必訪的目的地。從歷史地標到壯觀的公園和引人入勝的博物館，這座城市為每位旅客提供多樣化的景點。體驗自然之美與城市激情的融合，使舊金山獨一無二。",
+      "seo_title": "2026年舊金山8大必看景點 — 完整指南",
+      "seo_description": "獲取舊金山最佳景點的門票、開放時間及內部提示，並透過Klook輕鬆預訂。立即計劃您的旅程！",
+      "page_intro": "探索舊金山的魅力，從壯觀的金門大橋到神秘的阿爾卡特拉斯島，每一處都讓人驚艷。無論是歷史遺跡還是自然美景，這座城市擁有無數值得一探的景點。立即透過Klook預訂，輕鬆避開排隊人潮！",
       "items": [
         {
           "id": "golden-gate-bridge",
@@ -181,12 +185,16 @@
           "best_time": "afternoon",
           "klook_query": "exploratorium tickets"
         }
-      ]
+      ],
+      "faq_q1": "舊金山有哪些熱門景點？",
+      "faq_q2": "我需要購票才能進入舊金山的景點嗎？",
+      "faq_a1_suffix": " 是必訪的景點。",
+      "faq_a2": "是的，大多數景點都需要購票。您可以透過Klook輕鬆購買門票，省去排隊的時間。"
     },
     "ja": {
-      "seo_title": "2026年サンフランシスコのトップアトラクション — チケット、ヒント、完全ガイド",
-      "seo_description": "サンフランシスコのベストアトラクションを探索します。オープン時間、チケット価格、サンフランシスコの主要ランドマークの予約リンクを見つけます。",
-      "page_intro": "サンフランシスコは、その象徴的なゴールデンゲートブリッジと活気のある文化シーンで知られ、訪れる価値のある目的地です。歴史的なランドマークから美しい公園、魅力的な博物館まで、この街はすべての旅行者に多様なアトラクションを提供します。サンフランシスコのユニークさを生み出す自然の美しさと都市の魅力のブレンドを体験してください。",
+      "seo_title": "2026年サンフランシスコの必見アトラクション8選 — 完全ガイド",
+      "seo_description": "チケット、オープン時間、インサイダーのヒントを確認。Klookでの予約リンクもあり！今すぐサンフランシスコを探検しよう。",
+      "page_intro": "サンフランシスコは、息をのむようなゴールデンゲートブリッジや歴史的なアルカトラズ島など、魅力的なアトラクションが揃った都市です。美しい公園やユニークな文化体験が満載で、訪れる人々に忘れられない思い出を提供します。混雑を避け、Klookでスムーズに予約しましょう。",
       "items": [
         {
           "id": "golden-gate-bridge",
@@ -272,12 +280,16 @@
           "best_time": "afternoon",
           "klook_query": "exploratorium tickets"
         }
-      ]
+      ],
+      "faq_q1": "サンフランシスコの人気の観光スポットは何ですか？",
+      "faq_q2": "サンフランシスコの観光スポットには入場券が必要ですか？",
+      "faq_a1_suffix": " は必見の観光名所です。",
+      "faq_a2": "はい、ほとんどのアトラクションには入場券が必要です。Klookを利用すれば、事前にチケットを簡単に購入できます。"
     },
     "ko": {
-      "seo_title": "2026년 샌프란시스코 최고의 명소 — 티켓, 팁 및 완벽 가이드",
-      "seo_description": "샌프란시스코 최고의 명소를 탐험하세요. 운영 시간, 티켓 가격 및 샌프란시스코의 주요 랜드마크 예약 링크를 찾으세요.",
-      "page_intro": "샌프란시스코는 상징적인 금문교와 활기찬 문화 현장으로 유명한 필수 방문지입니다. 역사적인 랜드마크부터 아름다운 공원과 매력적인 박물관까지, 이 도시는 모든 여행자에게 다양한 명소를 제공합니다. 샌프란시스코의 독특함을 만들어내는 자연의 아름다움과 도시의 매력을 경험하세요.",
+      "seo_title": "2026년 샌프란시스코 8대 명소 — 완벽 가이드",
+      "seo_description": "운영 시간, 티켓 가격, 인사이더 팁을 확인하고 Klook에서 샌프란시스코 명소를 예약하세요. 지금 탐험해보세요!",
+      "page_intro": "샌프란시스코는 금문교와 알카트라즈 섬 같은 상징적인 명소들로 가득한 도시입니다. 숨겨진 보석과 함께 다양한 문화적 경험을 제공하는 이곳에서 특별한 순간을 만끽하세요. 줄을 서지 않고 Klook를 통해 예약하세요!",
       "items": [
         {
           "id": "golden-gate-bridge",
@@ -363,12 +375,16 @@
           "best_time": "afternoon",
           "klook_query": "exploratorium tickets"
         }
-      ]
+      ],
+      "faq_q1": "샌프란시스코의 주요 명소는 무엇인가요?",
+      "faq_q2": "샌프란시스코의 명소에 입장권이 필요한가요?",
+      "faq_a1_suffix": "는 반드시 방문해야 할 명소입니다.",
+      "faq_a2": "대부분의 명소는 입장권이 필요합니다. Klook를 통해 미리 예약하시면 편리합니다."
     },
     "fr": {
-      "seo_title": "Attractions incontournables à San Francisco 2026 — Billets, conseils et guide complet",
-      "seo_description": "Découvrez les meilleures attractions de San Francisco. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de San Francisco.",
-      "page_intro": "San Francisco, connue pour son emblématique Golden Gate Bridge et sa scène culturelle vibrante, est une destination incontournable. Des monuments historiques aux parcs magnifiques et aux musées captivants, cette ville offre une variété d'attractions pour chaque voyageur. Découvrez le mélange de beauté naturelle et d'excitation urbaine qui rend San Francisco unique.",
+      "seo_title": "Top 8 Attractions à San Francisco 2026 — Guide Complet",
+      "seo_description": "Accédez aux horaires, prix et conseils pour les meilleures attractions de San Francisco. Réservez facilement avec Klook et explorez maintenant!",
+      "page_intro": "San Francisco, un véritable bijou californien, vous invite à explorer ses trésors emblématiques comme le Golden Gate Bridge et Alcatraz. Entre paysages à couper le souffle et culture vibrante, la ville promet une expérience inoubliable. Évitez les files d'attente et réservez via Klook !",
       "items": [
         {
           "id": "golden-gate-bridge",
@@ -454,11 +470,15 @@
           "best_time": "afternoon",
           "klook_query": "exploratorium tickets"
         }
-      ]
+      ],
+      "faq_q1": "Quelles sont les principales attractions à San Francisco ?",
+      "faq_q2": "Ai-je besoin de billets pour les attractions à San Francisco ?",
+      "faq_a1_suffix": " font partie des incontournables à visiter.",
+      "faq_a2": "Oui, la plupart des attractions nécessitent des billets. Pensez à réserver vos entrées à l'avance sur Klook pour un accès facilité."
     },
     "es": {
-      "seo_title": "Principales Atracciones en San Francisco 2026 — Entradas, Consejos y Guía Completa",
-      "seo_description": "Explora las mejores atracciones en San Francisco. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de San Francisco.",
+      "seo_title": "Top 8 Atracciones Imperdibles en San Francisco 2026",
+      "seo_description": "Descubre horarios, precios y consejos para las mejores atracciones de San Francisco. Reserva tus entradas en Klook y empieza tu aventura.",
       "page_intro": "San Francisco, conocida por su icónico Puente Golden Gate y su vibrante escena cultural, es un destino que no te puedes perder. Desde monumentos históricos hasta parques impresionantes y museos cautivadores, esta ciudad ofrece una variedad de atracciones para cada viajero. Experimenta la mezcla de belleza natural y emoción urbana que hace que San Francisco sea única.",
       "items": [
         {
@@ -548,7 +568,7 @@
       ]
     },
     "id": {
-      "seo_title": "Top Attractions in San Francisco 2026 — Tickets, Tips & Complete Guide",
+      "seo_title": "Atraksi Terbaik San Francisco 2026 - Panduan Lengkap",
       "seo_description": "Explore the best attractions in San Francisco. Find opening hours, ticket prices and booking links for San Francisco's top landmarks.",
       "page_intro": "San Francisco, known for its iconic Golden Gate Bridge and vibrant cultural scene, is a must-visit destination. From historic landmarks to stunning parks and engaging museums, this city offers a diverse range of attractions for every traveler. Experience the blend of natural beauty and urban excitement that makes San Francisco unique.",
       "items": [
@@ -639,7 +659,7 @@
       ]
     },
     "hi": {
-      "seo_title": "सैन फ्रांसिस्को के शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण गाइड",
+      "seo_title": "सैन फ्रांसिस्को के शीर्ष 10 आकर्षण 2026 - गाइड",
       "seo_description": "सैन फ्रांसिस्को के सर्वश्रेष्ठ आकर्षणों की खोज करें। सैन फ्रांसिस्को के शीर्ष स्थलों के लिए खोलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
       "page_intro": "सैन फ्रांसिस्को, जो अपने प्रतिष्ठित गोल्डन गेट ब्रिज और जीवंत सांस्कृतिक दृश्य के लिए जाना जाता है, एक अवश्य देखने योग्य गंतव्य है। ऐतिहासिक स्थलों से लेकर शानदार पार्कों और आकर्षक संग्रहालयों तक, यह शहर हर यात्री के लिए आकर्षण की एक विविध श्रृंखला प्रदान करता है। प्राकृतिक सुंदरता और शहरी उत्साह का मिश्रण अनुभव करें जो सैन फ्रांसिस्को को अद्वितीय बनाता है।",
       "items": [
@@ -730,7 +750,7 @@
       ]
     },
     "pt": {
-      "seo_title": "Principais Atrações em San Francisco 2026 - Ingressos, Dicas e Guia Completo",
+      "seo_title": "Top 10 Atrações em San Francisco 2026 - Guia Completo",
       "seo_description": "Explore as melhores atrações em San Francisco. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de San Francisco.",
       "page_intro": "San Francisco, conhecida por sua icônica Ponte Golden Gate e cena cultural vibrante, é um destino imperdível. Desde marcos históricos até parques deslumbrantes e museus envolventes, esta cidade oferece uma variedade diversificada de atrações para todos os viajantes. Experimente a mistura de beleza natural e emoção urbana que torna San Francisco única.",
       "items": [
@@ -821,7 +841,7 @@
       ]
     },
     "ar": {
-      "seo_title": "أفضل المعالم في سان فرانسيسكو 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_title": "أفضل 10 معالم في سان فرانسيسكو 2026",
       "seo_description": "استكشف أفضل المعالم السياحية في سان فرانسيسكو. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم سان فرانسيسكو.",
       "page_intro": "تُعرف سان فرانسيسكو بجسرها الذهبي الشهير ومشهدها الثقافي النابض بالحياة، وهي وجهة لا بد من زيارتها. من المعالم التاريخية إلى الحدائق الرائعة والمتاحف الجذابة، تقدم هذه المدينة مجموعة متنوعة من المعالم السياحية لكل مسافر. عِش تجربة مزيج من الجمال الطبيعي والإثارة الحضرية التي تجعل سان فرانسيسكو فريدة من نوعها.",
       "items": [
@@ -912,7 +932,7 @@
       ]
     },
     "bn": {
-      "seo_title": "সান ফ্রান্সিসকোর শীর্ষ আকর্ষণ 2026 - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_title": "সান ফ্রান্সিসকোর সেরা ২০২৬ আকর্ষণ - টিপস ও টিকিট",
       "seo_description": "সান ফ্রান্সিসকোর সেরা আকর্ষণগুলি অন্বেষণ করুন। সান ফ্রান্সিসকোর শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
       "page_intro": "সান ফ্রান্সিসকো, যার আইকনিক গোল্ডেন গেট ব্রিজ এবং প্রাণবন্ত সাংস্কৃতিক দৃশ্যের জন্য পরিচিত, একটি অবশ্যম্ভাবী গন্তব্য। ঐতিহাসিক স্থানগুলি থেকে শুরু করে চমৎকার পার্ক এবং আকর্ষক জাদুঘর পর্যন্ত, এই শহরটি প্রতিটি ভ্রমণকারীর জন্য আকর্ষণের একটি বৈচিত্র্যময় পরিসর প্রদান করে। সান ফ্রান্সিসকোকে অনন্য করে তোলে এমন প্রাকৃতিক সৌন্দর্য এবং শহুরে উত্তেজনার মিশ্রণ অনুভব করুন।",
       "items": [
@@ -1003,9 +1023,9 @@
       ]
     },
     "ru": {
-      "seo_title": "Топ достопримечательностей Сан-Франциско 2026 — Билеты, советы и полный гид",
+      "seo_title": "Топ 10 достопримечательностей Сан-Франциско 2026",
       "seo_description": "Изучите лучшие достопримечательности Сан-Франциско. Узнайте часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Сан-Франциско.",
-      "page_intro": "Сан-Франциско, известный своим знаковым мостом Золотые Ворота и яркой культурной сценой, является обязательным местом для посещения. От исторических памятников до потрясающих парков и увлекательных музеев, этот город предлагает разнообразные достопримечательности для каждого путешественника. Испытайте сочетание природной красоты и городской жизни, которое делает Сан-Франциско уникальным.",
+      "page_intro": "Сан-Франциско – это город, где каждый уголок полон удивительных открытий. От величественного моста Золотые Ворота до таинственного острова Алькатрас, здесь есть что-то для каждого. Не упустите возможность забронировать свои приключения через Klook!",
       "items": [
         {
           "id": "golden-gate-bridge",
@@ -1091,7 +1111,11 @@
           "best_time": "afternoon",
           "klook_query": "exploratorium tickets"
         }
-      ]
+      ],
+      "faq_q1": "Какие главные достопримечательности в Сан-Франциско?",
+      "faq_q2": "Нужны ли билеты для посещения достопримечательностей в Сан-Франциско?",
+      "faq_a1_suffix": " являются обязательными для посещения.",
+      "faq_a2": "Да, для большинства достопримечательностей требуются билеты. Вы можете легко приобрести их через Klook."
     }
   }
 }

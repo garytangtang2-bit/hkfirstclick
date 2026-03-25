@@ -2,9 +2,9 @@
   "city_slug": "hakone",
   "translations": {
     "en": {
-      "seo_title": "Best Food in Hakone 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Hakone. From budget eats to fine dining — with booking links.",
-      "page_intro": "Hakone is not only famous for its hot springs and stunning views of Mount Fuji but also for its rich culinary scene. The food culture here is a delightful blend of traditional Japanese cuisine and innovative dining experiences. Visitors can enjoy everything from local specialties like black eggs to exquisite kaiseki meals, showcasing the freshest seasonal ingredients.",
+      "seo_title": "8 Best Must-Try Restaurants in Hakone 2026 – Local Gems",
+      "seo_description": "Save time with real recommendations for Hakone's top eats. Book via Klook and discover local favorites. Plan your meal today!",
+      "page_intro": "Dive into Hakone's vibrant food scene, where traditional flavors meet innovative culinary artistry. Don't miss local delights like black eggs and kaiseki meals crafted with seasonal ingredients. Discover the best spots effortlessly with our curated picks!",
       "items": [
         {
           "id": "hakone-yumoto-ryokan",
@@ -13,7 +13,7 @@
           "description": "Located in the heart of Hakone, Yumoto Chaya is renowned for its traditional kaiseki meals, where each dish is a work of art. The serene atmosphere is perfect for a leisurely lunch or dinner, with a focus on seasonal ingredients. Expect to pay around $$ for a full meal, and don't miss their beautifully presented sashimi.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Kaiseki Course",
           "klook_query": "Yumoto Chaya booking",
           "photo_url": "https://images.pexels.com/photos/26419303/pexels-photo-26419303.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -25,7 +25,7 @@
           "description": "This popular street food stall serves up delicious sweet potato snacks, a local favorite in Hakone. The sweet potatoes are roasted to perfection, offering a delightful contrast of crispy skin and soft, sweet flesh. Prices are budget-friendly, around $, making it a perfect snack while exploring the area.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "Roasted Sweet Potato",
           "klook_query": "Hakone Sweet Potato food tour",
           "photo_url": "https://images.pexels.com/photos/13059602/pexels-photo-13059602.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -37,7 +37,7 @@
           "description": "Gongendo is famous for its delicious soba noodles, made fresh daily. The cozy setting and friendly service make it a great spot for a casual meal. Expect to spend around $$ for a bowl of their signature soba, which pairs perfectly with tempura. It's a must-visit for noodle lovers!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Tempura Soba",
           "klook_query": "Gongendo booking",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -49,7 +49,7 @@
           "description": "Nestled in a tranquil setting, Jinjiro is a charming cafe known for its homemade desserts and matcha drinks. The ambiance is cozy and inviting, perfect for relaxing after a day of sightseeing. Prices are moderate at $$, and their matcha cake is a must-try for dessert lovers.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "Matcha Cake",
           "klook_query": "Jinjiro cafe booking",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -61,7 +61,7 @@
           "description": "The Ashinoko Lake area features a vibrant night market where you can find various street food vendors. Enjoy local specialties such as taiyaki and yakitori while taking in the beautiful lake views. Prices are very affordable, around $, making it a great spot for a casual evening meal.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Taiyaki",
           "klook_query": "Ashinoko Lake night market tour",
           "photo_url": "https://images.pexels.com/photos/33313974/pexels-photo-33313974.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -73,7 +73,7 @@
           "description": "Ichinoyu is a traditional ryokan that offers a unique dining experience with its on-site restaurant. Guests can enjoy a multi-course kaiseki meal prepared with local ingredients. The elegant atmosphere enhances the dining experience, with prices around $$$ for a full course meal. Be sure to try their seasonal fish dishes.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Seasonal Sashimi",
           "klook_query": "Ichinoyu booking",
           "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
@@ -85,7 +85,7 @@
           "description": "Owakudani is famous for its black eggs, boiled in the hot springs and said to extend your lifespan. The unique flavor and distinctive appearance make them a must-try when visiting Hakone. They are sold at various stalls for around $, making it an affordable snack to enjoy while exploring the volcanic area.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Black Eggs",
           "klook_query": "Owakudani food tour",
           "photo_url": "https://images.pexels.com/photos/4110226/pexels-photo-4110226.jpeg?auto=compress&cs=tinysrgb&h=350"
@@ -97,17 +97,20 @@
           "description": "Yudofu Restaurant specializes in the delicate art of tofu cooking, offering a serene dining experience with a focus on simple yet delicious dishes. The atmosphere is peaceful, and the price range is $$, perfect for a healthy meal. Try their signature yudofu, served with dipping sauces for an authentic taste.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Yudofu",
           "klook_query": "Yudofu Restaurant booking",
           "photo_url": "https://images.pexels.com/photos/3603453/pexels-photo-3603453.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
-      ]
+      ],
+      "faq_q1": "What is the best food to eat in Hakone?",
+      "faq_q2": "Where can I find the best restaurants in Hakone?",
+      "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 年箱根最佳美食 — 顶级餐厅与街头美食指南",
-      "seo_description": "探索箱根最佳餐厅、街头美食和当地特色。从经济实惠的美食到高档餐饮 — 包含预订链接。",
-      "page_intro": "箱根不仅以温泉和富士山的壮丽景色而闻名，还以其丰富的美食文化而著称。这里的饮食文化是传统日本料理与创新餐饮体验的绝妙结合。游客可以享用从黑蛋等当地特色到精致的怀石料理，展示最新鲜的时令食材。",
+      "seo_title": "2026 年箱根 8 大必試美食與隱藏餐廳",
+      "seo_description": "節省時間，探索箱根的美食寶藏，透過 Klook 預訂，立即計劃您的美食之旅！",
+      "page_intro": "箱根的美食世界令人垂涎欲滴，融合了传统与创新的风味。當地特色如黑蛋和精緻的懷石料理，讓每一口都充滿驚喜。透過 Klook 精選的餐廳推薦，讓您輕鬆享受這場味蕾盛宴！",
       "items": [
         {
           "id": "hakone-yumoto-ryokan",
@@ -116,7 +119,7 @@
           "description": "位于箱根心脏地带，汤本茶屋以其传统的怀石料理而闻名，每道菜都是一件艺术品。宁静的氛围非常适合悠闲的午餐或晚餐，注重时令食材。完整餐点大约需要 $$，不要错过他们精美呈现的生鱼片。",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "懷石料理",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -127,7 +130,7 @@
           "description": "这个受欢迎的街头小吃摊提供美味的红薯小吃，是箱根当地的最爱。红薯烤得恰到好处，外皮酥脆，内里柔软甜美。价格实惠，大约 $，是探索该地区时的完美小吃。",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "烤地瓜",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -138,7 +141,7 @@
           "description": "権現堂以其美味的荞麦面而闻名，每天新鲜制作。温馨的环境和友好的服务使其成为休闲用餐的好去处。享用一碗他们招牌的荞麦面大约需要 $$，与天妇罗搭配非常完美。对于面条爱好者来说，这里是必访之地！",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "天婦羅蕎麥麵",
           "klook_query": "Gongendo booking"
         },
@@ -149,7 +152,7 @@
           "description": "神次郎坐落在宁静的环境中，是一家迷人的咖啡馆，以自制甜点和抹茶饮品而闻名。氛围温馨宜人，非常适合在一天的观光后放松心情。价格适中，大约 $$，他们的抹茶蛋糕是甜点爱好者必试之品。",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "抹茶蛋糕",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -160,7 +163,7 @@
           "description": "芦之湖地区有一个热闹的夜市，你可以找到各种街头美食摊位。享受当地特色，如鲷鱼烧和烤串，同时欣赏美丽的湖景。价格非常实惠，大约 $，是享用休闲晚餐的好地方。",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "鯛魚燒",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -171,7 +174,7 @@
           "description": "一之汤是一家传统旅馆，提供独特的用餐体验，拥有现场餐厅。客人可以享用用当地食材准备的多道菜怀石料理。优雅的氛围提升了用餐体验，完整套餐的价格大约为 $$$。一定要尝试他们的时令鱼菜肴。",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "季節生魚片",
           "klook_query": "Ichinoyu booking"
         },
@@ -182,7 +185,7 @@
           "description": "大涌谷因其黑蛋而闻名，这些蛋在温泉中煮制，传说可以延年益寿。独特的风味和独特的外观使它们成为访问箱根时必试的美食。它们在各个摊位出售，价格约为 $，是探索火山地区时享用的实惠小吃。",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "黑蛋",
           "klook_query": "Owakudani food tour"
         },
@@ -193,16 +196,19 @@
           "description": "湯豆腐餐厅专注于豆腐烹饪的精致艺术，提供以简单而美味的菜肴为主的宁静用餐体验。氛围宁静，价格区间为 $$，非常适合健康餐。尝试他们的招牌湯豆腐，配以酱汁，体验地道的风味。",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "湯豆腐",
           "klook_query": "Yudofu Restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "在箱根最值得品嚐的美食是什麼？",
+      "faq_q2": "在哪裡可以找到箱根最好的餐廳？",
+      "faq_a2_suffix": " 是評價最高的用餐選擇之一。"
     },
     "ja": {
-      "seo_title": "2026年箱根のベストフード — トップレストラン＆ストリートフードガイド",
-      "seo_description": "箱根の最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算にやさしい食事から高級ダイニングまで — 予約リンク付き。",
-      "page_intro": "箱根は温泉や富士山の素晴らしい景色で有名なだけでなく、豊かな食文化でも知られています。ここでは、伝統的な日本料理と革新的なダイニング体験が絶妙に融合しています。地元の特産品である黒卵から新鮮な季節の食材をふんだんに使った絶品の懐石料理まで、様々な料理を楽しむことができます。",
+      "seo_title": "2026年箱根の必食レストラン8選 — 隠れた名店ガイド",
+      "seo_description": "時間を節約し、箱根の隠れた名店を発見。Klookで予約して、地元の特産品を楽しむ計画を立てましょう！",
+      "page_intro": "箱根の美食シーンは、温泉の癒しと富士山の絶景をさらに引き立てます。名物の黒卵や新鮮な季節の食材を使った料理が揃い、心に残る食体験を提供します。時間を節約し、厳選されたレストランをKlookで予約しましょう。",
       "items": [
         {
           "id": "hakone-yumoto-ryokan",
@@ -211,7 +217,7 @@
           "description": "箱根の中心に位置する湯本茶屋は、各料理が芸術作品である伝統的な懐石料理で有名です。穏やかな雰囲気は、季節の食材に焦点を当てたゆったりとしたランチやディナーに最適です。フルミールには約 $$ の料金がかかり、美しく盛り付けられた刺身をお見逃しなく。",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "懐石料理",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -222,7 +228,7 @@
           "description": "この人気のストリートフードスタンドでは、美味しいスイートポテトスナックを提供しており、箱根の地元の人々に愛されています。スイートポテトは完璧に焼き上げられ、カリカリの皮と柔らかく甘い内側が絶妙にコントラストしています。価格は手頃で約 $ ですので、エリアを探索しながらのスナックに最適です。",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "焼き芋",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -233,7 +239,7 @@
           "description": "権現堂は、毎日新鮮に作られる美味しい蕎麦で有名です。居心地の良い雰囲気とフレンドリーなサービスがカジュアルな食事に最適なスポットです。彼らの名物の蕎麦を一杯楽しむのに約 $$ の費用がかかり、天ぷらとの相性も抜群です。ヌードル愛好者には必訪の場所です！",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "天ぷらそば",
           "klook_query": "Gongendo booking"
         },
@@ -244,7 +250,7 @@
           "description": "静かな環境にある神次郎は、自家製デザートと抹茶飲料で知られる魅力的なカフェです。観光の後にリラックスするのに最適な、居心地の良い招待的な雰囲気です。価格は適度で約 $$ で、抹茶ケーキはデザート好きには必見です。",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "抹茶ケーキ",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -255,7 +261,7 @@
           "description": "芦ノ湖エリアには様々なストリートフードの屋台が並ぶ活気あるナイトマーケットがあります。美しい湖の景色を楽しみながら、たい焼きや焼き鳥などの地元特産品を味わいましょう。価格は非常に手頃で約 $ で、カジュアルな夕食に最適なスポットです。",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "たい焼き",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -266,7 +272,7 @@
           "description": "一之湯は、現地の食材を使用した独特のダイニング体験を提供する伝統的な旅館です。客は多コースの懐石料理を楽しむことができます。エレガントな雰囲気がダイニング体験を引き立て、フルコースの価格は約 $$$ です。季節の魚料理をぜひお試しください。",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "季節の刺身",
           "klook_query": "Ichinoyu booking"
         },
@@ -277,7 +283,7 @@
           "description": "大涌谷は、温泉で茹でられた黒卵で有名で、寿命を延ばすと言われています。独特の風味と特徴的な外観は、箱根を訪れる際にぜひ試してほしい一品です。さまざまな屋台で約 $ で販売されており、火山地域を探索しながら楽しむことができる手頃なスナックです。",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "黒たまご",
           "klook_query": "Owakudani food tour"
         },
@@ -288,16 +294,19 @@
           "description": "湯豆腐レストランは、豆腐料理の繊細な技術に特化しており、シンプルで美味しい料理に焦点を当てた穏やかなダイニング体験を提供します。静かな雰囲気で、価格帯は $$ で、健康的な食事に最適です。ディッピングソースとともに提供される彼らの名物湯豆腐をぜひお試しください。",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "湯豆腐",
           "klook_query": "Yudofu Restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "箱根でおすすめの料理は何ですか？",
+      "faq_q2": "箱根で最高のレストランはどこですか？",
+      "faq_a2_suffix": "は、評価の高いダイニングオプションの一部です。"
     },
     "ko": {
-      "seo_title": "2026년 하코네 최고의 음식 — 최고 레스토랑 및 길거리 음식 가이드",
-      "seo_description": "하코네 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 저렴한 식사부터 고급 다이닝까지 — 예약 링크 포함.",
-      "page_intro": "하코네는 온천과 후지산의 멋진 경치로 유명할 뿐만 아니라 풍부한 음식 문화로도 잘 알려져 있습니다. 이곳의 음식 문화는 전통 일본 요리와 혁신적인 다이닝 경험이 절묘하게 조화를 이루고 있습니다. 방문객들은 검은 계란과 같은 지역 특산물부터 신선한 제철 재료를 최대한 활용한 정교한 가이세키 요리까지 다양한 음식을 즐길 수 있습니다.",
+      "seo_title": "2026년 하코네의 8가지 필수 맛집 — 숨겨진 보석들",
+      "seo_description": "시간을 절약하고 진짜 추천을 받아보세요. Klook으로 하코네의 현지 맛집을 지금 계획해보세요!",
+      "page_intro": "하코네의 음식 문화는 입맛을 사로잡는 맛의 향연입니다! 이곳에서는 검은 계란과 가이세키 요리 같은 지역 특산물들을 맛볼 수 있습니다. Klook에서 추천하는 맛집으로 시간을 절약하세요!",
       "items": [
         {
           "id": "hakone-yumoto-ryokan",
@@ -306,7 +315,7 @@
           "description": "하코네 중심부에 위치한 유모토 차야는 각 요리가 예술 작품인 전통 가이세키 요리로 유명합니다. 계절 재료에 중점을 둔 느긋한 점심이나 저녁에 적합한 고요한 분위기를 제공합니다. 전체 식사는 약 $$의 비용이 들며, 아름답게 제공되는 사시미를 놓치지 마세요.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "가이세키 코스",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -317,7 +326,7 @@
           "description": "이 인기 있는 길거리 음식 가판대에서는 하코네의 지역 주민들이 사랑하는 맛있는 고구마 스낵을 제공합니다. 고구마는 완벽하게 구워져 바삭한 껍질과 부드럽고 달콤한 속이 절묘하게 대조를 이룹니다. 가격은 저렴하여 약 $로 이 지역을 탐험하는 동안 완벽한 간식입니다.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "구운 고구마",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -328,7 +337,7 @@
           "description": "곤겐도는 매일 신선하게 만드는 맛있는 소바로 유명합니다. 아늑한 환경과 친절한 서비스로 캐주얼한 식사에 적합한 장소입니다. 그들의 시그니처 소바 한 그릇을 즐기려면 약 $$의 비용이 들며, 튀김과 완벽하게 어울립니다. 면 요리 애호가에게 꼭 방문해야 할 곳입니다!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "튀김 소바",
           "klook_query": "Gongendo booking"
         },
@@ -339,7 +348,7 @@
           "description": "조용한 환경에 자리 잡은 진지로는 수제 디저트와 말차 음료로 유명한 매력적인 카페입니다. 관광 후 휴식을 취하기에 완벽한 아늑하고 초대하는 분위기를 제공합니다. 가격은 적당하여 약 $$이며, 그들의 말차 케이크는 디저트 애호가라면 꼭 시도해봐야 할 메뉴입니다.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "말차 케이크",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -350,7 +359,7 @@
           "description": "아시노코 호수 지역에는 다양한 길거리 음식 판매자가 있는 활기찬 야시장이 있습니다. 아름다운 호수 전망을 감상하면서 타이야키와 야키토리와 같은 지역 특산물을 즐기세요. 가격은 매우 저렴하여 약 $로 캐주얼한 저녁 식사에 적합한 장소입니다.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "타이야끼",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -361,7 +370,7 @@
           "description": "이치노유는 현지 재료로 준비된 독특한 다이닝 경험을 제공하는 전통 료칸입니다. 손님들은 다양한 코스의 가이세키 요리를 즐길 수 있습니다. 우아한 분위기가 다이닝 경험을 더욱 향상시키며, 풀 코스의 가격은 약 $$$입니다. 제철 생선 요리를 꼭 시도해보세요.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "계절 사시미",
           "klook_query": "Ichinoyu booking"
         },
@@ -372,7 +381,7 @@
           "description": "오와쿠다니는 온천에서 삶은 검은 계란으로 유명하며, 수명을 늘린다고 전해집니다. 독특한 맛과 독특한 외관은 하코네를 방문할 때 꼭 시도해야 할 음식입니다. 다양한 판매대에서 약 $에 판매되며, 화산 지역을 탐험하는 동안 즐길 수 있는 합리적인 간식입니다.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "흑계란",
           "klook_query": "Owakudani food tour"
         },
@@ -383,16 +392,19 @@
           "description": "유두푸 레스토랑은 두부 요리의 섬세한 예술에 특화되어 있으며, 간단하면서도 맛있는 요리에 중점을 둔 고요한 다이닝 경험을 제공합니다. 분위기가 평화롭고 가격대는 $$로 건강한 식사에 적합합니다. 그들의 시그니처 유두푸를 소스와 함께 제공하니 진정한 맛을 경험해보세요.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "유두부",
           "klook_query": "Yudofu Restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "하코네에서 가장 맛있는 음식은 무엇인가요?",
+      "faq_q2": "하코네에서 최고의 레스토랑은 어디에 있나요?",
+      "faq_a2_suffix": "는 최고의 평가를 받은 다이닝 옵션입니다."
     },
     "fr": {
-      "seo_title": "Meilleure cuisine à Hakone 2026 — Meilleurs restaurants et guide de street food",
-      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales à Hakone. Des repas à petit budget à la gastronomie fine — avec des liens de réservation.",
-      "page_intro": "Hakone est non seulement célèbre pour ses sources chaudes et ses vues imprenables sur le mont Fuji, mais aussi pour sa riche scène culinaire. La culture alimentaire ici est un mélange délicieux de cuisine japonaise traditionnelle et d'expériences culinaires innovantes. Les visiteurs peuvent déguster des spécialités locales comme les œufs noirs et des repas kaiseki exquis, mettant en valeur les ingrédients de saison les plus frais.",
+      "seo_title": "8 Meilleures Adresses à Hakone 2026 - Incontournables",
+      "seo_description": "Gagnez du temps avec nos recommandations authentiques. Réservez via Klook et découvrez les spécialités locales. Planifiez votre repas maintenant!",
+      "page_intro": "Découvrez la scène culinaire vibrante de Hakone, où la tradition rencontre l'innovation. Ne manquez pas les œufs noirs et les repas kaiseki raffinés. Gagnez du temps avec nos sélections soigneusement choisies et réservez facilement via Klook.",
       "items": [
         {
           "id": "hakone-yumoto-ryokan",
@@ -401,7 +413,7 @@
           "description": "Situé au cœur de Hakone, Yumoto Chaya est renommé pour ses repas kaiseki traditionnels, où chaque plat est une œuvre d'art. L'atmosphère sereine est parfaite pour un déjeuner ou un dîner paisible, axé sur les ingrédients de saison. Comptez environ $$ pour un repas complet, et ne manquez pas leur sashimi magnifiquement présenté.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Cours de Kaiseki",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -412,7 +424,7 @@
           "description": "Ce stand de street food populaire propose de délicieuses collations à base de patate douce, un favori local à Hakone. Les patates douces sont rôties à la perfection, offrant un contraste délicieux entre la peau croustillante et la chair douce et sucrée. Les prix sont abordables, autour de $, ce qui en fait un en-cas parfait lors de l'exploration de la région.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "Patate douce rôtie",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -423,7 +435,7 @@
           "description": "Gongendo est célèbre pour ses délicieuses nouilles soba, faites fraîches chaque jour. L'ambiance chaleureuse et le service amical en font un excellent endroit pour un repas décontracté. Attendez-vous à dépenser environ $$ pour un bol de leur soba signature, qui se marie parfaitement avec des tempuras. C'est un incontournable pour les amateurs de nouilles !",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Soba tempura",
           "klook_query": "Gongendo booking"
         },
@@ -434,7 +446,7 @@
           "description": "Niché dans un cadre tranquille, Jinjiro est un charmant café connu pour ses desserts faits maison et ses boissons au matcha. L'ambiance est chaleureuse et accueillante, parfaite pour se détendre après une journée de visites. Les prix sont modérés à $$, et leur gâteau au matcha est un incontournable pour les amateurs de desserts.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "Gâteau au matcha",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -445,7 +457,7 @@
           "description": "La région du lac Ashinoko dispose d'un marché de nuit animé où vous pouvez trouver divers vendeurs de street food. Profitez des spécialités locales comme le taiyaki et le yakitori tout en admirant les belles vues sur le lac. Les prix sont très abordables, autour de $, ce qui en fait un excellent endroit pour un repas décontracté le soir.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Taiyaki",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -456,7 +468,7 @@
           "description": "Ichinoyu est un ryokan traditionnel qui offre une expérience culinaire unique avec son restaurant sur place. Les clients peuvent déguster un repas kaiseki multi-plat préparé avec des ingrédients locaux. L'atmosphère élégante améliore l'expérience culinaire, avec des prix autour de $$$ pour un repas complet. Assurez-vous d'essayer leurs plats de poisson de saison.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Sashimi de saison",
           "klook_query": "Ichinoyu booking"
         },
@@ -467,7 +479,7 @@
           "description": "Owakudani est célèbre pour ses œufs noirs, cuits dans les sources chaudes et réputés pour prolonger votre espérance de vie. La saveur unique et l'apparence distinctive en font un incontournable lors de votre visite à Hakone. Ils sont vendus à divers stands pour environ $, ce qui en fait une collation abordable à déguster tout en explorant la région volcanique.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Œufs noirs",
           "klook_query": "Owakudani food tour"
         },
@@ -478,16 +490,19 @@
           "description": "Le restaurant Yudofu se spécialise dans l'art délicat de la cuisine du tofu, offrant une expérience culinaire sereine axée sur des plats simples mais délicieux. L'atmosphère est paisible, et la fourchette de prix est de $$, parfaite pour un repas sain. Essayez leur yudofu signature, servi avec des sauces pour un goût authentique.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Yudofu",
           "klook_query": "Yudofu Restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "Quel est le meilleur plat à déguster à Hakone ?",
+      "faq_q2": "Où puis-je trouver les meilleurs restaurants à Hakone ?",
+      "faq_a2_suffix": " font partie des options de restauration les mieux notées."
     },
     "es": {
-      "seo_title": "La Mejor Comida en Hakone 2026 — Guía de Restaurantes y Comida Callejera",
-      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Hakone. Desde comidas económicas hasta cenas elegantes — con enlaces para reservar.",
-      "page_intro": "Hakone no solo es famosa por sus aguas termales y sus impresionantes vistas del monte Fuji, sino también por su rica escena culinaria. La cultura gastronómica aquí es una deliciosa mezcla de cocina japonesa tradicional y experiencias de comedor innovadoras. Los visitantes pueden disfrutar de todo, desde especialidades locales como los huevos negros hasta exquisitos platos de kaiseki, que destacan los ingredientes de temporada más frescos.",
+      "seo_title": "Top 8 Restaurantes en Hakone 2026 — ¡Imperdibles!",
+      "seo_description": "Ahorra tiempo con nuestras recomendaciones reales. Reserva en Klook y descubre los favoritos locales. ¡Planifica tu comida ahora!",
+      "page_intro": "¡Descubre la vibrante escena gastronómica de Hakone! Deléitate con delicias locales como los huevos negros y saborea la sofisticación del kaiseki. Ahorra tiempo con nuestras recomendaciones seleccionadas y reserva a través de Klook.",
       "items": [
         {
           "id": "hakone-yumoto-ryokan",
@@ -496,7 +511,7 @@
           "description": "Ubicado en el corazón de Hakone, Yumoto Chaya es conocido por sus tradicionales platos de kaiseki, donde cada platillo es una obra de arte. La atmósfera serena es perfecta para un almuerzo o cena tranquila, con un enfoque en ingredientes de temporada. Espera pagar alrededor de $$ por una comida completa, y no te pierdas su sashimi bellamente presentado.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Curso Kaiseki",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -507,7 +522,7 @@
           "description": "Este popular puesto de comida callejera sirve deliciosas bocadillos de batata, un favorito local en Hakone. Las batatas se asan a la perfección, ofreciendo un delicioso contraste entre la piel crujiente y la carne suave y dulce. Los precios son muy asequibles, alrededor de $, lo que lo convierte en un bocadillo perfecto mientras exploras la zona.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "Batata Asada",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -518,7 +533,7 @@
           "description": "Gongendo es famoso por sus deliciosos fideos soba, hechos frescos todos los días. El ambiente acogedor y el servicio amable lo convierten en un excelente lugar para una comida casual. Espera gastar alrededor de $$ por un tazón de su soba insignia, que combina perfectamente con tempura. ¡Es una visita obligada para los amantes de los fideos!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Soba Tempura",
           "klook_query": "Gongendo booking"
         },
@@ -529,7 +544,7 @@
           "description": "Ubicado en un entorno tranquilo, Jinjiro es una encantadora cafetería conocida por sus postres caseros y bebidas de matcha. La atmósfera es acogedora e invitante, perfecta para relajarse después de un día de turismo. Los precios son moderados, alrededor de $$, y su pastel de matcha es un plato imprescindible para los amantes de los postres.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "Pastel de Matcha",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -540,7 +555,7 @@
           "description": "El área del lago Ashinoko cuenta con un mercado nocturno vibrante donde puedes encontrar varios vendedores de comida callejera. Disfruta de especialidades locales como taiyaki y yakitori mientras admiras las hermosas vistas del lago. Los precios son muy asequibles, alrededor de $, lo que lo convierte en un gran lugar para una cena casual por la noche.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Taiyaki",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -551,7 +566,7 @@
           "description": "Ichinoyu es un ryokan tradicional que ofrece una experiencia gastronómica única con su restaurante en el lugar. Los huéspedes pueden disfrutar de una comida kaiseki de múltiples platos preparada con ingredientes locales. La atmósfera elegante mejora la experiencia gastronómica, con precios alrededor de $$$ para una comida completa. Asegúrate de probar sus platos de pescado de temporada.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Sashimi de Temporada",
           "klook_query": "Ichinoyu booking"
         },
@@ -562,7 +577,7 @@
           "description": "Owakudani es famoso por sus huevos negros, hervidos en aguas termales y se dice que alargan la vida. El sabor único y la apariencia distintiva los convierten en una prueba obligada al visitar Hakone. Se venden en varios puestos por alrededor de $, lo que los convierte en un bocadillo asequible para disfrutar mientras exploras la zona volcánica.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Huevos Negros",
           "klook_query": "Owakudani food tour"
         },
@@ -573,15 +588,18 @@
           "description": "El restaurante Yudofu se especializa en el delicado arte de cocinar tofu, ofreciendo una experiencia gastronómica serena centrada en platos simples pero deliciosos. La atmósfera es pacífica, y el rango de precios es $$, perfecto para una comida saludable. Prueba su yudofu insignia, servido con salsas para un sabor auténtico.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Yudofu",
           "klook_query": "Yudofu Restaurant booking"
         }
-      ]
+      ],
+      "faq_q1": "¿Cuál es la mejor comida para probar en Hakone?",
+      "faq_q2": "¿Dónde puedo encontrar los mejores restaurantes en Hakone?",
+      "faq_a2_suffix": " son algunas de las opciones gastronómicas mejor valoradas."
     },
     "id": {
-      "seo_title": "Best Food in Hakone 2026 — Top Restaurants & Street Food Guide",
-      "seo_description": "Discover the best restaurants, street food and local specialties in Hakone. From budget eats to fine dining — with booking links.",
+      "seo_title": "8 Restoran Terbaik di Hakone 2026 — Hidden Gems",
+      "seo_description": "Hemat waktu dengan rekomendasi terbaik! Temukan hidangan lokal di Hakone dan pesan melalui Klook. Rencanakan santapan Anda sekarang!",
       "page_intro": "Hakone is not only famous for its hot springs and stunning views of Mount Fuji but also for its rich culinary scene. The food culture here is a delightful blend of traditional Japanese cuisine and innovative dining experiences. Visitors can enjoy everything from local specialties like black eggs to exquisite kaiseki meals, showcasing the freshest seasonal ingredients.",
       "items": [
         {
@@ -591,7 +609,7 @@
           "description": "Located in the heart of Hakone, Yumoto Chaya is renowned for its traditional kaiseki meals, where each dish is a work of art. The serene atmosphere is perfect for a leisurely lunch or dinner, with a focus on seasonal ingredients. Expect to pay around $$ for a full meal, and don't miss their beautifully presented sashimi.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Kaiseki Course",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -602,7 +620,7 @@
           "description": "This popular street food stall serves up delicious sweet potato snacks, a local favorite in Hakone. The sweet potatoes are roasted to perfection, offering a delightful contrast of crispy skin and soft, sweet flesh. Prices are budget-friendly, around $, making it a perfect snack while exploring the area.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "Ubi Manis Panggang",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -613,7 +631,7 @@
           "description": "Gongendo is famous for its delicious soba noodles, made fresh daily. The cozy setting and friendly service make it a great spot for a casual meal. Expect to spend around $$ for a bowl of their signature soba, which pairs perfectly with tempura. It's a must-visit for noodle lovers!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Tempura Soba",
           "klook_query": "Gongendo booking"
         },
@@ -624,7 +642,7 @@
           "description": "Nestled in a tranquil setting, Jinjiro is a charming cafe known for its homemade desserts and matcha drinks. The ambiance is cozy and inviting, perfect for relaxing after a day of sightseeing. Prices are moderate at $$, and their matcha cake is a must-try for dessert lovers.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "Kue Matcha",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -635,7 +653,7 @@
           "description": "The Ashinoko Lake area features a vibrant night market where you can find various street food vendors. Enjoy local specialties such as taiyaki and yakitori while taking in the beautiful lake views. Prices are very affordable, around $, making it a great spot for a casual evening meal.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Taiyaki",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -646,7 +664,7 @@
           "description": "Ichinoyu is a traditional ryokan that offers a unique dining experience with its on-site restaurant. Guests can enjoy a multi-course kaiseki meal prepared with local ingredients. The elegant atmosphere enhances the dining experience, with prices around $$$ for a full course meal. Be sure to try their seasonal fish dishes.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Sashimi Musiman",
           "klook_query": "Ichinoyu booking"
         },
@@ -657,7 +675,7 @@
           "description": "Owakudani is famous for its black eggs, boiled in the hot springs and said to extend your lifespan. The unique flavor and distinctive appearance make them a must-try when visiting Hakone. They are sold at various stalls for around $, making it an affordable snack to enjoy while exploring the volcanic area.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Telur Hitam",
           "klook_query": "Owakudani food tour"
         },
@@ -668,15 +686,15 @@
           "description": "Yudofu Restaurant specializes in the delicate art of tofu cooking, offering a serene dining experience with a focus on simple yet delicious dishes. The atmosphere is peaceful, and the price range is $$, perfect for a healthy meal. Try their signature yudofu, served with dipping sauces for an authentic taste.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Yudofu",
           "klook_query": "Yudofu Restaurant booking"
         }
       ]
     },
     "hi": {
-      "seo_title": "हकोने में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
-      "seo_description": "हकोने में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "seo_title": "हकोने के 10 सर्वश्रेष्ठ भोजन 2026 - टॉप विकल्प",
+      "seo_description": "समय बचाएं और असली सिफारिशें पाएं। Klook के साथ बुकिंग करें। अपने खाने की योजना अभी बनाएं!",
       "page_intro": "हकोने केवल अपने गर्म झरनों और माउंट फूजी के शानदार दृश्यों के लिए प्रसिद्ध नहीं है, बल्कि इसके समृद्ध पाक दृश्य के लिए भी। यहाँ का खाद्य संस्कृति पारंपरिक जापानी व्यंजनों और नवोन्मेषी भोजन अनुभवों का एक अद्भुत मिश्रण है। आगंतुक स्थानीय विशेषताओं जैसे काले अंडों से लेकर उत्कृष्ट काइसेकी भोजन का आनंद ले सकते हैं, जो ताजगी से भरे मौसमी सामग्रियों को प्रदर्शित करते हैं।",
       "items": [
         {
@@ -686,7 +704,7 @@
           "description": "हकोने के दिल में स्थित, यूमोटो चाया अपने पारंपरिक काइसेकी भोजन के लिए प्रसिद्ध है, जहाँ प्रत्येक व्यंजन कला का एक कार्य है। शांत वातावरण आरामदायक दोपहर या रात के खाने के लिए आदर्श है, जिसमें मौसमी सामग्रियों पर ध्यान केंद्रित किया गया है। एक पूर्ण भोजन के लिए लगभग $$ का खर्च होगा, और उनके सुंदर ढंग से प्रस्तुत साशिमी को न चूकें।",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "काइसेकी कोर्स",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -697,7 +715,7 @@
           "description": "यह लोकप्रिय स्ट्रीट फूड स्टॉल स्वादिष्ट मीठे आलू के नाश्ते परोसता है, जो हकोने में स्थानीय पसंदीदा है। मीठे आलू को पूरी तरह से भुना जाता है, जो कुरकुरी त्वचा और नरम, मीठे मांस का सुखद विपरीत प्रस्तुत करता है। कीमतें बजट के अनुकूल हैं, लगभग $, जो क्षेत्र का अन्वेषण करते समय एक आदर्श नाश्ता बनाते हैं।",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "भुनी हुई शकरकंद",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -708,7 +726,7 @@
           "description": "गोंगेन्दो अपने स्वादिष्ट सोबा नूडल्स के लिए प्रसिद्ध है, जिसे हर दिन ताजा बनाया जाता है। आरामदायक सेटिंग और दोस्ताना सेवा इसे एक आकस्मिक भोजन के लिए महान स्थान बनाती है। उनके विशेष सोबा के एक कटोरे के लिए लगभग $$ खर्च करने की उम्मीद करें, जो टेम्पुरा के साथ पूरी तरह से मेल खाता है। नूडल प्रेमियों के लिए यह एक अवश्य देखने योग्य स्थान है!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "टेम्पुरा सोबा",
           "klook_query": "Gongendo booking"
         },
@@ -719,7 +737,7 @@
           "description": "एक शांत सेटिंग में स्थित, जिंजीरो एक आकर्षक कैफे है जो अपने घर के बने मिठाइयों और माचा पेय के लिए जाना जाता है। वातावरण आरामदायक और आमंत्रित है,Sightseeing के एक दिन के बाद आराम करने के लिए आदर्श। कीमतें $$ पर मध्यम हैं, और उनके माचा केक को मिठाई प्रेमियों के लिए अवश्य-चखें।",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "मैच चा केक",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -730,7 +748,7 @@
           "description": "आशीनोको झील क्षेत्र में एक जीवंत रात का बाजार है जहाँ आप विभिन्न स्ट्रीट फूड विक्रेताओं को पा सकते हैं। खूबसूरत झील के दृश्यों का आनंद लेते हुए स्थानीय विशेषताओं जैसे ताइयाकी और याकिटोरी का आनंद लें। कीमतें बहुत किफायती हैं, लगभग $, जो एक आकस्मिक शाम के भोजन के लिए एक महान स्थान बनाती हैं।",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "ताइयाकी",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -741,7 +759,7 @@
           "description": "इचिनोयू एक पारंपरिक र्योकेन है जो अपने ऑन-साइट रेस्तरां के साथ एक अनूठा भोजन अनुभव प्रदान करता है। मेहमान स्थानीय सामग्रियों के साथ तैयार किए गए बहु-कोर्स काइसेकी भोजन का आनंद ले सकते हैं। शानदार वातावरण भोजन अनुभव को बढ़ाता है, पूर्ण कोर्स भोजन के लिए कीमतें लगभग $$$ हैं। उनके मौसमी मछली के व्यंजनों को अवश्य चखें।",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "मौसमी साशिमी",
           "klook_query": "Ichinoyu booking"
         },
@@ -752,7 +770,7 @@
           "description": "ओवाकुदानी अपने काले अंडों के लिए प्रसिद्ध है, जो गर्म झरनों में उबाले जाते हैं और कहा जाता है कि ये आपकी जीवनकाल बढ़ाते हैं। अद्वितीय स्वाद और विशिष्ट रूप उन्हें हकोने की यात्रा के दौरान अवश्य-चखने योग्य बनाते हैं। इन्हें विभिन्न स्टालों पर लगभग $ में बेचा जाता है, जो ज्वालामुखीय क्षेत्र का अन्वेषण करते समय एक किफायती नाश्ता है।",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "काले अंडे",
           "klook_query": "Owakudani food tour"
         },
@@ -763,15 +781,15 @@
           "description": "युदोफू रेस्तरां टोफू पकाने की नाजुक कला में माहिर है, सरल लेकिन स्वादिष्ट व्यंजनों पर ध्यान केंद्रित करते हुए एक शांत भोजन अनुभव प्रदान करता है। वातावरण शांत है, और कीमतें $$ हैं, जो एक स्वस्थ भोजन के लिए आदर्श हैं। उनके विशेष युदोफू को चखें, जिसे डिपिंग सॉस के साथ परोसा जाता है, एक प्रामाणिक स्वाद के लिए।",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "युदोफु",
           "klook_query": "Yudofu Restaurant booking"
         }
       ]
     },
     "pt": {
-      "seo_title": "Melhor Comida em Hakone 2026 - Melhores Restaurantes e Guia de Comida de Rua",
-      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Hakone. De refeições econômicas a alta gastronomia - com links de reserva.",
+      "seo_title": "Top 8 Restaurantes em Hakone 2026 - Melhores Delícias",
+      "seo_description": "Economize tempo com recomendações reais. Reserve com Klook e descubra os favoritos locais. Planeje sua refeição agora!",
       "page_intro": "Hakone é famosa não apenas por suas fontes termais e vistas deslumbrantes do Monte Fuji, mas também por sua rica cena culinária. A cultura alimentar aqui é uma mistura deliciosa de culinária japonesa tradicional e experiências gastronômicas inovadoras. Os visitantes podem desfrutar de tudo, desde especialidades locais como ovos pretos até refeições kaiseki requintadas, que apresentam os ingredientes sazonais mais frescos.",
       "items": [
         {
@@ -781,7 +799,7 @@
           "description": "Localizado no coração de Hakone, Yumoto Chaya é renomado por suas refeições tradicionais kaiseki, onde cada prato é uma obra de arte. A atmosfera serena é perfeita para um almoço ou jantar tranquilo, com foco em ingredientes sazonais. Espere pagar cerca de $$ por uma refeição completa, e não perca seu sashimi lindamente apresentado.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Curso Kaiseki",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -792,7 +810,7 @@
           "description": "Este popular quiosque de comida de rua serve deliciosos lanches de batata doce, um favorito local em Hakone. As batatas doces são assadas à perfeição, oferecendo um contraste delicioso entre a pele crocante e a polpa macia e doce. Os preços são acessíveis, cerca de $, tornando-se um lanche perfeito enquanto explora a área.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "Batata Doce Assada",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -803,7 +821,7 @@
           "description": "Gongendo é famoso por seus deliciosos noodles soba, feitos frescos diariamente. O ambiente aconchegante e o serviço amigável tornam-no um ótimo local para uma refeição casual. Espere gastar cerca de $$ por uma tigela de seu soba especial, que combina perfeitamente com tempura. É uma visita obrigatória para os amantes de noodles!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Soba Tempura",
           "klook_query": "Gongendo booking"
         },
@@ -814,7 +832,7 @@
           "description": "Aninhado em um ambiente tranquilo, Jinjiro é um encantador café conhecido por suas sobremesas caseiras e bebidas de matcha. A atmosfera é aconchegante e convidativa, perfeita para relaxar após um dia de passeios turísticos. Os preços são moderados em $$, e o bolo de matcha deles é imperdível para os amantes de sobremesas.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "Bolo de Matcha",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -825,7 +843,7 @@
           "description": "A área do Lago Ashinoko apresenta um vibrante mercado noturno onde você pode encontrar vários vendedores de comida de rua. Desfrute de especialidades locais como taiyaki e yakitori enquanto aprecia as belas vistas do lago. Os preços são muito acessíveis, cerca de $, tornando-o um ótimo local para uma refeição casual à noite.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Taiyaki",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -836,7 +854,7 @@
           "description": "Ichinoyu é um ryokan tradicional que oferece uma experiência de jantar única com seu restaurante no local. Os hóspedes podem desfrutar de uma refeição kaiseki de vários pratos preparada com ingredientes locais. A atmosfera elegante aumenta a experiência gastronômica, com preços em torno de $$$ para uma refeição completa. Não deixe de experimentar os pratos de peixe sazonal.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Sashimi da Estação",
           "klook_query": "Ichinoyu booking"
         },
@@ -847,7 +865,7 @@
           "description": "Owakudani é famoso por seus ovos pretos, cozidos nas fontes termais e que dizem estender sua vida. O sabor único e a aparência distinta fazem deles uma experiência obrigatória ao visitar Hakone. Eles são vendidos em várias barracas por cerca de $, tornando-se um lanche acessível para aproveitar enquanto explora a área vulcânica.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Ovos Pretos",
           "klook_query": "Owakudani food tour"
         },
@@ -858,15 +876,15 @@
           "description": "O Restaurante Yudofu se especializa na delicada arte de cozinhar tofu, oferecendo uma experiência gastronômica serena com foco em pratos simples, mas deliciosos. O ambiente é pacífico, e a faixa de preço é $$, perfeita para uma refeição saudável. Experimente seu yudofu especial, servido com molhos para mergulhar, para um sabor autêntico.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Yudofu",
           "klook_query": "Yudofu Restaurant booking"
         }
       ]
     },
     "ar": {
-      "seo_title": "أفضل طعام في هاكونه 2026 - دليل أفضل المطاعم وطعام الشارع",
-      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في هاكونه. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "seo_title": "أفضل 8 مطاعم في هاكونه 2026 - كنوز محلية لا بد من تجربتها",
+      "seo_description": "وفر وقتك مع توصيات حقيقية لأفضل الأطعمة في هاكونه. احجز عبر Klook واستمتع بتجربة طعام لا تُنسى. خطط لوجبتك الآن!",
       "page_intro": "تشتهر هاكونه ليس فقط ينابيعها الساخنة وإطلالاتها الرائعة على جبل فوجي، ولكن أيضًا بمشهدها الطهي الغني. ثقافة الطعام هنا هي مزيج رائع من المأكولات اليابانية التقليدية وتجارب تناول الطعام المبتكرة. يمكن للزوار الاستمتاع بكل شيء بدءًا من التخصصات المحلية مثل البيض الأسود إلى وجبات كايسكي الفاخرة، التي تعرض المكونات الموسمية الطازجة.",
       "items": [
         {
@@ -876,7 +894,7 @@
           "description": "يقع في قلب هاكونه، ويوموتو تشايا مشهور بوجبات الكايسكي التقليدية، حيث كل طبق هو عمل فني. الجو الهادئ مثالي لتناول الغداء أو العشاء على مهل، مع التركيز على المكونات الموسمية. توقع دفع حوالي $$ لوجبة كاملة، ولا تفوت ساشيمي المقدمة بشكل جميل.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "دورة كايسكي",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -887,7 +905,7 @@
           "description": "يقدم هذا الكشك الشعبي لطعام الشارع وجبات خفيفة لذيذة من البطاطا الحلوة، وهي مفضلة محلية في هاكونه. يتم تحميص البطاطا الحلوة إلى الكمال، مما يوفر تباينًا لذيذًا بين الجلد المقرمش واللحم الناعم والحلو. الأسعار مناسبة للميزانية، حوالي $، مما يجعلها وجبة خفيفة مثالية أثناء استكشاف المنطقة.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "بطاطا حلوة مشوية",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -898,7 +916,7 @@
           "description": "يشتهر جونغيندو بمكرونة السوبا اللذيذة، التي تُصنع طازجة يوميًا. تجعل الأجواء المريحة والخدمة الودودة منه مكانًا رائعًا لتناول وجبة غير رسمية. توقع إنفاق حوالي $$ على وعاء من السوبا الخاص بهم، والذي يتناسب تمامًا مع التمبورا. إنه مكان لابد من زيارته لعشاق المعكرونة!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "سوبا تمبورا",
           "klook_query": "Gongendo booking"
         },
@@ -909,7 +927,7 @@
           "description": "يتميز جينجيرو بمقهى ساحر معروف بحلوياته المنزلية ومشروبات الماتشا. الجو مريح وجذاب، مما يجعله مثاليًا للاسترخاء بعد يوم من مشاهدة المعالم السياحية. الأسعار معتدلة عند $$، وكعكة الماتشا الخاصة بهم يجب تجربتها لعشاق الحلويات.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "كيك ماتشا",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -920,7 +938,7 @@
           "description": "تتميز منطقة بحيرة آشي بسوق ليلي نابض حيث يمكنك العثور على العديد من بائعي طعام الشارع. استمتع بالتخصصات المحلية مثل تاياكي ويكيتوري أثناء الاستمتاع بإطلالات البحيرة الجميلة. الأسعار معقولة جدًا، حوالي $، مما يجعلها مكانًا رائعًا لتناول وجبة غير رسمية في المساء.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "تاياكي",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -931,7 +949,7 @@
           "description": "يعد ايشينوي ريوكان تقليدي يقدم تجربة طعام فريدة مع مطعمه في الموقع. يمكن للضيوف الاستمتاع بوجبة كايسكي متعددة الأطباق معدة بمكونات محلية. تعزز الأجواء الأنيقة تجربة تناول الطعام، بأسعار حوالي $$$ لوجبة كاملة. تأكد من تجربة أطباق السمك الموسمية الخاصة بهم.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "ساشيمي موسمي",
           "klook_query": "Ichinoyu booking"
         },
@@ -942,7 +960,7 @@
           "description": "يشتهر أواكوداني ببيضه الأسود، الذي يُغلى في الينابيع الساخنة ويقال إنه يطيل العمر. تجعل النكهة الفريدة والمظهر المتميز منه تجربة يجب تجربتها عند زيارة هاكونه. يتم بيعها في عدة أكشاك بحوالي $، مما يجعلها وجبة خفيفة معقولة أثناء استكشاف المنطقة البركانية.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "بيض أسود",
           "klook_query": "Owakudani food tour"
         },
@@ -953,15 +971,15 @@
           "description": "يتخصص مطعم يودوفو في فن طهي التوفو الرقيق، مقدماً تجربة طعام هادئة تركز على أطباق بسيطة ولكن لذيذة. الجو هادئ، ونطاق الأسعار هو $$، مما يجعله مثاليًا لوجبة صحية. جرب يودوفو الخاص بهم، المقدم مع صلصات غمس، للحصول على نكهة أصيلة.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "يوتوofu",
           "klook_query": "Yudofu Restaurant booking"
         }
       ]
     },
     "bn": {
-      "seo_title": "হাকোনে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
-      "seo_description": "হাকোনের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে ফাইন ডাইনিং পর্যন্ত - বুকিং লিঙ্ক সহ।",
+      "seo_title": "হাকোনে ২০২৬ - ৮টি সেরা খাবার ও রেস্তোরাঁর গাইড",
+      "seo_description": "আপনার সময় বাঁচান, স্থানীয় প্রিয় খাবার আবিষ্কার করুন। Klook-এ বুকিং করুন এবং এখনই আপনার খাবারের পরিকল্পনা করুন!",
       "page_intro": "হাকোন শুধুমাত্র তার গরম প্রস্রবণ এবং মাউন্ট ফুজির অসাধারণ দৃশ্যের জন্য বিখ্যাত নয়, বরং এর সমৃদ্ধ রন্ধনপ্রণালী দৃশ্যের জন্যও। এখানে খাবারের সংস্কৃতি হল ঐতিহ্যবাহী জাপানি রন্ধনপ্রণালী এবং উদ্ভাবনী খাবারের অভিজ্ঞতার একটি মনোরম মিশ্রণ। দর্শকরা স্থানীয় বিশেষত্বগুলি যেমন কালো ডিম থেকে শুরু করে সর্বোচ্চ স্তরের কাইসেকি মেলগুলিও উপভোগ করতে পারেন, যা তাজা মৌসুমী উপাদানগুলি প্রদর্শন করে।",
       "items": [
         {
@@ -971,7 +989,7 @@
           "description": "হাকোনের হৃদয়ে অবস্থিত, ইউমোটো চায়া তার ঐতিহ্যবাহী কাইসেকি খাবারের জন্য বিখ্যাত, যেখানে প্রতিটি খাবার একটি শিল্পকর্ম। শান্ত পরিবেশটি একটি আরামদায়ক দুপুরের বা রাতের খাবারের জন্য আদর্শ, মৌসুমী উপাদানের উপর মনোনিবেশ করে। একটি পূর্ণ খাবারের জন্য প্রায় $$ খরচ করার আশা করুন, এবং তাদের সুন্দরভাবে উপস্থাপিত সাশিমি মিস করবেন না।",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "কাইসেকি কোর্স",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -982,7 +1000,7 @@
           "description": "এই জনপ্রিয় স্ট্রিট ফুড স্টল সুস্বাদু মিষ্টি আলুর স্ন্যাকস পরিবেশন করে, যা হাকোনের একটি স্থানীয় প্রিয়। মিষ্টি আলুগুলি নিখুঁতভাবে ভাজা হয়, যা খাস্তা ত্বক এবং নরম, মিষ্টি মাংসের মধ্যে একটি আনন্দদায়ক বিপরীত উপস্থাপন করে। দাম বাজেটের জন্য বন্ধুত্বপূর্ণ, প্রায় $, যা এলাকাটি অন্বেষণ করার সময় একটি আদর্শ নাস্তা তৈরি করে।",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "ভাজা মিষ্টি আলু",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -993,7 +1011,7 @@
           "description": "গঙ্গেন্দো তার সুস্বাদু সোবা নুডলসের জন্য বিখ্যাত, যা প্রতিদিন তাজা তৈরি করা হয়। আরামদায়ক অবস্থান এবং বন্ধুত্বপূর্ণ পরিষেবা এটিকে একটি অপ্রাতিষ্ঠানিক খাবারের জন্য দুর্দান্ত স্থান করে তোলে। তাদের স্বাক্ষর সোবা এক বাটির জন্য প্রায় $$ খরচ করার আশা করুন, যা টেম্পুরার সাথে পুরোপুরি মিলে যায়। এটি নুডল প্রেমীদের জন্য একটি আবশ্যক দর্শন!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "টেম্পুরা সোব",
           "klook_query": "Gongendo booking"
         },
@@ -1004,7 +1022,7 @@
           "description": "একটি শান্ত পরিবেশে অবস্থিত, জিনজিরো একটি আকর্ষণীয় ক্যাফে যা তার হোমমেড ডেজার্ট এবং ম্যাচা পানীয়ের জন্য পরিচিত। পরিবেশটি আরামদায়ক এবং আমন্ত্রণমূলক, Sightseeing এর একটি দিনের পরে বিশ্রাম নেওয়ার জন্য আদর্শ। দাম $$ এ মাঝারি, এবং তাদের ম্যাচা কেকটি ডেজার্ট প্রেমীদের জন্য একটি আবশ্যক চেষ্টা।",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "ম্যাচা কেক",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -1015,7 +1033,7 @@
           "description": "আশিনোকো লেক অঞ্চলে একটি প্রাণবন্ত রাতের বাজার রয়েছে যেখানে আপনি বিভিন্ন স্ট্রিট ফুড বিক্রেতাকে খুঁজে পেতে পারেন। সুন্দর হ্রদ দৃশ্য উপভোগ করতে করতে স্থানীয় বিশেষত্বগুলি যেমন তায়াকি এবং ইয়াকিতোরি উপভোগ করুন। দাম খুবই সাশ্রয়ী, প্রায় $, যা একটি অপ্রাতিষ্ঠানিক সন্ধ্যার খাবারের জন্য একটি দুর্দান্ত স্থান তৈরি করে।",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "তাইয়াকি",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -1026,7 +1044,7 @@
           "description": "ইচিনোয় একটি ঐতিহ্যবাহী রিওকান যা তার অন-সাইট রেস্তোরাঁর সাথে একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে। অতিথিরা স্থানীয় উপাদানগুলির সাথে প্রস্তুত করা একটি বহু-কোর্স কাইসেকি খাবারের আনন্দ নিতে পারেন। মার্জিত পরিবেশ খাদ্য অভিজ্ঞতাকে বাড়িয়ে তোলে, পূর্ণ কোর্সের খাবারের জন্য দাম প্রায় $$$। তাদের মৌসুমী মাছের খাবারগুলি অবশ্যই চেষ্টা করুন।",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "মৌসুমি সাশিমি",
           "klook_query": "Ichinoyu booking"
         },
@@ -1037,7 +1055,7 @@
           "description": "ওয়াকুদানি তার কালো ডিমের জন্য বিখ্যাত, যা গরম প্রস্রবণে সিদ্ধ করা হয় এবং যা আপনার আয়ু বাড়াতে বলা হয়। অনন্য স্বাদ এবং স্বতন্ত্র চেহারা তাদের হাকোনে ভ্রমণের সময় অবশ্যই চেষ্টা করতে হবে। এগুলি বিভিন্ন স্টলে প্রায় $ এ বিক্রি হয়, যা জ্বালামুখীয় অঞ্চলে অন্বেষণ করার সময় একটি সাশ্রয়ী নাস্তা।",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "কালো ডিম",
           "klook_query": "Owakudani food tour"
         },
@@ -1048,15 +1066,15 @@
           "description": "ইউদোফু রেস্তোরাঁ টোফু রান্নার নাজুক শিল্পে বিশেষজ্ঞ, সহজ কিন্তু সুস্বাদু খাবারের উপর মনোযোগ দিয়ে একটি শান্ত খাবারের অভিজ্ঞতা প্রদান করে। পরিবেশটি শান্ত, এবং দাম $$, এটি একটি স্বাস্থ্যকর খাবারের জন্য আদর্শ। তাদের স্বাক্ষর ইউদোফু চেষ্টা করুন, যা ডিপিং সসের সাথে পরিবেশন করা হয়, একটি প্রামাণিক স্বাদের জন্য।",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "ইউডোফু",
           "klook_query": "Yudofu Restaurant booking"
         }
       ]
     },
     "ru": {
-      "seo_title": "Лучшие блюда в Хаконе 2026 — Топ ресторанов и уличной еды",
-      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Хаконе. От бюджетной еды до изысканной кухни — с ссылками для бронирования.",
+      "seo_title": "10 Лучших ресторанов Хаконе 2026 — Обязательно попробуйте",
+      "seo_description": "Сэкономьте время с реальными рекомендациями. Забронируйте через Klook и откройте для себя местные фавориты. Планируйте свой обед сейчас!",
       "page_intro": "Хаконе знаменито не только своими горячими источниками и потрясающими видами на гору Фудзи, но и своей богатой кулинарной сценой. Кулинарная культура здесь — это восхитительное сочетание традиционной японской кухни и инновационных кулинарных впечатлений. Посетители могут наслаждаться всем, от местных специалитетов, таких как черные яйца, до изысканных кэйсэки, демонстрирующих самые свежие сезонные ингредиенты.",
       "items": [
         {
@@ -1066,7 +1084,7 @@
           "description": "Находясь в сердце Хаконе, Юмото Чая славится своими традиционными блюдами кэйсэки, где каждое блюдо является произведением искусства. Спокойная атмосфера идеально подходит для неспешного обеда или ужина, с акцентом на сезонные ингредиенты. Ожидайте заплатить около $$ за полноценный обед, и не пропустите их красиво оформленный сашими.",
           "image_keyword": "Yumoto Chaya kaiseki",
           "star_rating": 4.7,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Кайсэки",
           "klook_query": "Yumoto Chaya booking"
         },
@@ -1077,7 +1095,7 @@
           "description": "Этот популярный киоск уличной еды предлагает вкусные закуски из сладкого картофеля, которые являются местным фаворитом в Хаконе. Сладкий картофель запекается до совершенства, предлагая восхитительное сочетание хрустящей корки и мягкой, сладкой мякоти. Цены доступные, около $, что делает его идеальной закуской во время изучения района.",
           "image_keyword": "Hakone sweet potato street food",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–500",
           "must_try": "Запечённый сладкий картофель",
           "klook_query": "Hakone Sweet Potato food tour"
         },
@@ -1088,7 +1106,7 @@
           "description": "Гонгэндō славится своими вкусными соба-лапшой, которая готовится свежей каждый день. Уютная обстановка и дружелюбное обслуживание делают это отличным местом для непринужденной трапезы. Ожидайте потратить около $$ на порцию их фирменной собы, которая идеально сочетается с темпурой. Это обязательное место для любителей лапши!",
           "image_keyword": "Gongendo soba restaurant",
           "star_rating": 4.6,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Темпура соба",
           "klook_query": "Gongendo booking"
         },
@@ -1099,7 +1117,7 @@
           "description": "Уютный кафе Дзиндзи́ро славится своими домашними десертами и напитками матча. Атмосфера уютная и приветливая, идеально подходит для отдыха после дня осмотра достопримечательностей. Цены умеренные — около $$, а их торт матча обязательно стоит попробовать для любителей десертов.",
           "image_keyword": "Jinjiro matcha cafe",
           "star_rating": 4.4,
-          "price_range": "$$",
+          "price_range": "¥1,500–2,500",
           "must_try": "Матча торт",
           "klook_query": "Jinjiro cafe booking"
         },
@@ -1110,7 +1128,7 @@
           "description": "В районе озера Ашиноко расположен яркий ночной рынок, где можно найти различных продавцов уличной еды. Наслаждайтесь местными деликатесами, такими как тайяки и якидори, любуясь прекрасными видами на озеро. Цены очень доступные, около $, что делает это отличным местом для непринужденного ужина.",
           "image_keyword": "Ashinoko Lake night market",
           "star_rating": 4.3,
-          "price_range": "$",
+          "price_range": "¥400–800",
           "must_try": "Тайяки",
           "klook_query": "Ashinoko Lake night market tour"
         },
@@ -1121,7 +1139,7 @@
           "description": "Ичинобу — это традиционный рёкан, предлагающий уникальный опыт ужина с рестораном на месте. Гости могут наслаждаться многоуровневым обедом кэйсэки, приготовленным из местных ингредиентов. Элегантная атмосфера усиливает кулинарный опыт, цены около $$$ за полный курс. Обязательно попробуйте их сезонные рыбные блюда.",
           "image_keyword": "Ichinoyu kaiseki restaurant",
           "star_rating": 4.8,
-          "price_range": "$$$",
+          "price_range": "¥3,000–5,000",
           "must_try": "Сезонное сашими",
           "klook_query": "Ichinoyu booking"
         },
@@ -1132,7 +1150,7 @@
           "description": "Овакудани славится своими черными яйцами, вареными в горячих источниках, о которых говорят, что они продлевают жизнь. Уникальный вкус и характерный внешний вид делают их обязательным для пробы во время посещения Хаконе. Их продают на различных киосках за около $, что делает их доступной закуской для изучения вулканической местности.",
           "image_keyword": "Owakudani black eggs",
           "star_rating": 4.5,
-          "price_range": "$",
+          "price_range": "¥300–600",
           "must_try": "Чёрные яйца",
           "klook_query": "Owakudani food tour"
         },
@@ -1143,7 +1161,7 @@
           "description": "Ресторан Юдофу специализируется на тонком искусстве приготовления тофу, предлагая спокойный обед с акцентом на простые, но вкусные блюда. Атмосфера спокойная, а ценовой диапазон $$ идеально подходит для здоровой пищи. Обязательно попробуйте их фирменный юдофу, подаваемый с соусами для макания, для аутентичного вкуса.",
           "image_keyword": "Yudofu Restaurant tofu",
           "star_rating": 4.2,
-          "price_range": "$$",
+          "price_range": "¥2,000–3,500",
           "must_try": "Юдзуфу",
           "klook_query": "Yudofu Restaurant booking"
         }
