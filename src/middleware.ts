@@ -38,6 +38,8 @@ const BYPASS_PREFIXES = [
     '/privacy',
     '/share',
     '/flights',
+    '/food',
+    '/attractions',
 ];
 
 function getPreferredLocale(request: NextRequest): string {
