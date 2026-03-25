@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
-import { Map, Search, X, Navigation, MapPin, Sparkles } from "lucide-react";
+import { Map, Search, X, Navigation, MapPin, Sparkles, ChevronLeft, ChevronRight } from "lucide-react";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { useEffect, useState, useRef, useCallback } from "react";
@@ -69,6 +69,13 @@ function MapContent() {
     const [allCities, setAllCities] = useState<any[]>([]);
     const flyToCityRef = useRef<((city: any) => void) | null>(null);
     const searchInputRef = useRef<HTMLInputElement>(null);
+    const scrollContainerRef = useRef<HTMLDivElement>(null);
+
+    const scrollCards = (direction: 'left' | 'right') => {
+        if (scrollContainerRef.current) {
+            scrollContainerRef.current.scrollBy({ left: direction === 'left' ? -260 : 260, behavior: 'smooth' });
+        }
+    };
 
     const supabase = createClient();
 
@@ -169,9 +176,9 @@ function MapContent() {
             {/* 🔒 Map Access Gate for non-Pro users */}
             {(!userTier || userTier === "TRIAL" || userTier === "Casual") && (
                 <div className="absolute inset-0 z-[600] backdrop-blur-md bg-black/60 flex items-center justify-center">
-                    <div className="bg-[#161616] border border-[#EEDC00]/30 rounded-3xl p-8 md:p-12 max-w-md mx-4 text-center shadow-[0_0_60px_rgba(238,220,0,0.15)]">
+                    <div className="bg-[#161616] border border-[#EEDC00]/30 border-t border-[#EEDC00]/40 rounded-3xl p-8 md:p-12 max-w-md mx-4 text-center shadow-[0_10px_40px_rgba(0,0,0,0.8)]">
                         <div className="text-5xl mb-4">🗺️</div>
-                        <div className="inline-block px-3 py-1 bg-[#EEDC00]/10 text-[#EEDC00] rounded-full text-xs font-bold mb-4 uppercase tracking-wider border border-[#EEDC00]/20">
+                        <div className="inline-block px-3 py-1 bg-[#EEDC00]/20 text-[#EEDC00] rounded-full text-xs font-bold mb-4 uppercase tracking-wider border border-[#EEDC00]/30 shadow-sm">
                             {t.map_premium_badge || "Premium Feature"}
                         </div>
                         <h2 className="text-2xl font-black text-white mb-3">
@@ -188,7 +195,7 @@ function MapContent() {
             )}
 
             {/* Floating Control Panel (Top Left) */}
-            <div className="absolute top-20 md:top-4 left-4 z-[400] w-[calc(100%-32px)] md:w-[320px] left-control-panel rounded-2xl p-5 shadow-2xl pointer-events-auto flex flex-col gap-4">
+            <div className="absolute top-[140px] md:top-4 left-4 z-[400] w-[calc(100%-32px)] md:w-[320px] left-control-panel rounded-2xl p-5 shadow-2xl pointer-events-auto flex flex-col gap-4">
                 <div className="hidden md:block">
                     <h1 className="text-xl font-extrabold text-[#F8F9FA] flex items-center gap-2 heading-premium mb-1">
                         <Map size={24} className="text-[#EEDC00]" />
@@ -223,7 +230,10 @@ function MapContent() {
             </div>
 
             {/* 🔍 1. Floating Search Box with Live Dropdown */}
-            <div className="absolute top-4 left-1/2 -translate-x-1/2 z-[400] w-[90%] md:w-[440px]">
+            {showSearchDropdown && (
+                <div className="fixed inset-0 z-[390]" onClick={() => setShowSearchDropdown(false)} />
+            )}
+            <div className="absolute top-20 md:top-4 left-1/2 -translate-x-1/2 md:left-auto md:right-4 md:translate-x-0 z-[400] w-[calc(100%-32px)] md:w-[360px]">
                 <div className="bg-[#161616]/90 backdrop-blur-md rounded-2xl shadow-2xl border border-white/10 p-2 flex items-center pr-4 premium-glass-card">
                     <div className="bg-[#0A0A0A] text-[#EEDC00] p-2.5 rounded-xl mr-3 border border-white/5">
                         <Search size={20} />
@@ -286,8 +296,16 @@ function MapContent() {
 
             {/* 🗺️ 2. Contextual Idea Cards (Horizontal Scroll at Bottom) */}
             {visibleCities.length > 0 && !selectedCity && (
-                <div className="absolute bottom-6 left-0 right-0 z-[400] px-4 md:px-8">
-                    <div className="flex gap-3 overflow-x-auto pb-4 pt-2 snap-x snap-mandatory scrollbar-hide" style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
+                <div className="absolute bottom-6 left-0 right-0 z-[400] px-4 md:px-8 group/slider">
+                    {/* Left Scroll Button */}
+                    <button onClick={() => scrollCards('left')} className="hidden md:flex absolute left-2 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/80 backdrop-blur-md text-white p-2 rounded-full border border-white/10 opacity-0 group-hover/slider:opacity-100 transition-opacity transform cursor-pointer">
+                        <ChevronLeft size={20} />
+                    </button>
+                    {/* Right Scroll Button */}
+                    <button onClick={() => scrollCards('right')} className="hidden md:flex absolute right-2 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/80 backdrop-blur-md text-white p-2 rounded-full border border-white/10 opacity-0 group-hover/slider:opacity-100 transition-opacity transform cursor-pointer">
+                        <ChevronRight size={20} />
+                    </button>
+                    <div ref={scrollContainerRef} className="flex gap-3 overflow-x-auto pb-4 pt-2 snap-x snap-mandatory scrollbar-hide" style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}>
                         {visibleCities.map((city, idx) => (
                             <div
                                 key={idx}

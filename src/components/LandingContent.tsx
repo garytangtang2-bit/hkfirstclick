@@ -42,16 +42,16 @@ export function LandingContent({ t, user, navigateTo }: any) {
                         {t.landing_subtitle}
                     </div>
                     <h1
-                        className="text-5xl md:text-7xl font-bold text-white mb-6 drop-shadow-2xl leading-snug py-4 heading-premium"
+                        className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-4 md:mb-6 drop-shadow-2xl leading-tight md:leading-snug py-2 md:py-4 heading-premium px-2"
                         dangerouslySetInnerHTML={{ __html: t.landing_title }}
                     />
-                    <p className="text-lg md:text-xl text-gray-300 mb-10 max-w-2xl leading-relaxed drop-shadow-md text-muted-premium">
+                    <p className="text-base md:text-xl text-gray-300 mb-8 md:mb-10 max-w-2xl leading-relaxed drop-shadow-md text-muted-premium px-4 md:px-0">
                         {t.landing_desc}
                     </p>
                     <div className="flex flex-col sm:flex-row items-center gap-4 w-full justify-center">
                         <YellowButton
                             onClick={() => navigateTo("/workspace-check")}
-                            className="w-full sm:w-auto px-10 py-4 text-lg flex items-center justify-center gap-3 premium-btn shadow-[0_0_30px_rgba(238,220,0,0.3)] hover:shadow-[0_0_50px_rgba(238,220,0,0.5)] transition-all duration-300 transform hover:-translate-y-1"
+                            className="w-full sm:w-auto px-8 py-3.5 md:px-10 md:py-4 text-base md:text-lg flex items-center justify-center gap-3 premium-btn shadow-[0_0_30px_rgba(238,220,0,0.3)] hover:shadow-[0_0_50px_rgba(238,220,0,0.5)] transition-all duration-300 transform hover:-translate-y-1"
                         >
                             {t.btn_start_studio} <ArrowRight size={20} />
                         </YellowButton>
@@ -62,15 +62,15 @@ export function LandingContent({ t, user, navigateTo }: any) {
                 </div>
             </section>
 
-            <section className="px-6 md:px-12 max-w-7xl mx-auto py-32">
-                <div className="mb-16 text-center md:text-left">
+            <section className="px-6 md:px-12 max-w-7xl mx-auto py-20 md:py-32">
+                <div className="mb-12 md:mb-16 text-center md:text-left">
                     <h2
-                        className="text-4xl md:text-5xl font-bold mb-6 leading-tight heading-premium"
+                        className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6 leading-tight heading-premium"
                         dangerouslySetInnerHTML={{ __html: t.how_title }}
                     ></h2>
-                    <p className="text-muted-premium max-w-xl text-lg mx-auto md:mx-0">{t.how_desc}</p>
+                    <p className="text-muted-premium max-w-xl text-base md:text-lg mx-auto md:mx-0">{t.how_desc}</p>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
                     {[
                         {
                             title: t.step1_title,
@@ -111,10 +111,10 @@ export function LandingContent({ t, user, navigateTo }: any) {
                 </div>
             </section>
 
-            <section className="px-6 md:px-12 max-w-4xl mx-auto py-32 border-t border-white/5">
-                <div className="text-center mb-16">
-                    <h2 className="text-4xl md:text-5xl font-bold heading-premium mb-4">{t.faq_title}</h2>
-                    <div className="w-24 h-1 bg-[#00D2FF] mx-auto rounded-full opacity-50"></div>
+            <section className="px-6 md:px-12 max-w-4xl mx-auto py-20 md:py-32 border-t border-white/5">
+                <div className="text-center mb-12 md:mb-16">
+                    <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold heading-premium mb-4">{t.faq_title}</h2>
+                    <div className="w-16 md:w-24 h-1 bg-[#00D2FF] mx-auto rounded-full opacity-50"></div>
                 </div>
                 <div className="flex flex-col gap-4">
                     {faqList.map((item, i) => (
