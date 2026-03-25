@@ -331,7 +331,7 @@ function WorkspaceContent() {
                         {/* Promotional / Affiliate Block */}
                         {!itinerary && (
                             <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
-                                <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-[#EEDC00]/10 to-transparent rounded-full blur-2xl -mr-16 -mt-16 pointer-events-none group-hover:from-[#EEDC00]/20 transition-all"></div>
+                                <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-[#EEDC00]/10 to-transparent rounded-full blur-2xl -mr-16 -mt-16 pointer-events-none group-hover:from-[#EEDC00]/20 transition-colors"></div>
                                 <h3 className="text-white font-bold text-lg mb-3 flex items-center gap-2">
                                     <Luggage size={18} className="text-[#EEDC00]" /> 還沒有訂機票跟飯店嗎？
                                 </h3>
@@ -343,7 +343,7 @@ function WorkspaceContent() {
                                         href="https://kiwi.tpo.mx/KwEXKMTT?erid=2VtzquYMmhE"
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="flex-1 bg-white hover:bg-gray-100 text-black font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
+                                        className="flex-1 bg-white hover:bg-gray-100 text-black font-bold py-3 px-4 rounded-xl text-sm transition-colors text-center"
                                     >
                                         搜尋最便宜機票
                                     </a>
@@ -351,7 +351,7 @@ function WorkspaceContent() {
                                         href="https://klook.tpo.mx/CUx1vPPs?erid=2Vtzqw6jKWc"
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="flex-1 bg-[#FF5A5F] hover:bg-[#FF4A4F] text-white font-bold py-3 px-4 rounded-xl text-sm transition-all text-center"
+                                        className="flex-1 bg-[#FF5A5F] hover:bg-[#FF4A4F] text-white font-bold py-3 px-4 rounded-xl text-sm transition-colors text-center"
                                     >
                                         找尋 Klook 推薦住宿
                                     </a>
@@ -403,7 +403,7 @@ function WorkspaceContent() {
                                                         type="date"
                                                         value={dates.start}
                                                         onChange={(e) => setDates({ ...dates, start: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
                                                     <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.start ? 'text-white' : 'text-gray-400'}`}>
                                                         <span>{formatDateString(dates.start) || t.date_ph}</span>
@@ -423,7 +423,7 @@ function WorkspaceContent() {
                                                         value={dates.end}
                                                         min={dates.start} // Ensure end date cannot be before start date
                                                         onChange={(e) => setDates({ ...dates, end: e.target.value })}
-                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                        className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
                                                     />
                                                     <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.end ? 'text-white' : 'text-gray-400'}`}>
                                                         <span>{formatDateString(dates.end) || t.date_ph}</span>
@@ -442,7 +442,7 @@ function WorkspaceContent() {
                                                         <select
                                                             value={parseTime(flightTimes.arrival).h}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${e.target.value}:${parseTime(flightTimes.arrival).m}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 appearance-none cursor-pointer text-center"
                                                         >
                                                             {hourOptions.map(h => <option key={`arr-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
                                                         </select>
@@ -454,7 +454,7 @@ function WorkspaceContent() {
                                                         <select
                                                             value={parseTime(flightTimes.arrival).m}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, arrival: `${parseTime(flightTimes.arrival).h}:${e.target.value}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 appearance-none cursor-pointer text-center"
                                                         >
                                                             {minuteOptions.map(m => <option key={`arr-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
                                                         </select>
@@ -473,7 +473,7 @@ function WorkspaceContent() {
                                                         <select
                                                             value={parseTime(flightTimes.departure).h}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${e.target.value}:${parseTime(flightTimes.departure).m}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 appearance-none cursor-pointer text-center"
                                                         >
                                                             {hourOptions.map(h => <option key={`dep-h-${h}`} value={h} className="bg-[#161616]">{h}</option>)}
                                                         </select>
@@ -485,7 +485,7 @@ function WorkspaceContent() {
                                                         <select
                                                             value={parseTime(flightTimes.departure).m}
                                                             onChange={(e) => setFlightTimes({ ...flightTimes, departure: `${parseTime(flightTimes.departure).h}:${e.target.value}` })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all appearance-none cursor-pointer text-center"
+                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-4 pr-8 py-3 text-white font-medium focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 appearance-none cursor-pointer text-center"
                                                         >
                                                             {minuteOptions.map(m => <option key={`dep-m-${m}`} value={m} className="bg-[#161616]">{m}</option>)}
                                                         </select>
@@ -510,7 +510,7 @@ function WorkspaceContent() {
                                                     value={hotelInfo}
                                                     onChange={(e) => setHotelInfo(e.target.value)}
                                                     placeholder={t.input_hotel_ph || "e.g., APA Hotel Shinjuku..."}
-                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 text-ellipsis overflow-hidden whitespace-nowrap"
+                                                    className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 text-ellipsis overflow-hidden whitespace-nowrap"
                                                 />
                                             </div>
                                         </div>
@@ -539,7 +539,7 @@ function WorkspaceContent() {
                                                     <div className="text-xs text-gray-500 mt-0.5">減少步行距離與爬坡景點</div>
                                                 </div>
                                                 <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
-                                                    <input type="checkbox" checked={hasElders} onChange={(e) => setHasElders(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
+                                                    <input type="checkbox" checked={hasElders} onChange={(e) => setHasElders(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-colors z-10" />
                                                     <div className={`toggle-label block overflow-hidden h-6 rounded-full cursor-pointer transition-colors ${hasElders ? 'bg-[#EEDC00]' : 'bg-gray-600'}`}></div>
                                                 </div>
                                             </label>
@@ -550,7 +550,7 @@ function WorkspaceContent() {
                                                     <div className="text-xs text-gray-500 mt-0.5">優先安排平緩友善的動線</div>
                                                 </div>
                                                 <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
-                                                    <input type="checkbox" checked={accessibility} onChange={(e) => setAccessibility(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-all z-10" />
+                                                    <input type="checkbox" checked={accessibility} onChange={(e) => setAccessibility(e.target.checked)} className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-4 border-[#0E0E0E] appearance-none cursor-pointer scale-110 checked:border-[#EEDC00] checked:right-0 right-6 transition-colors z-10" />
                                                     <div className={`toggle-label block overflow-hidden h-6 rounded-full cursor-pointer transition-colors ${accessibility ? 'bg-[#EEDC00]' : 'bg-gray-600'}`}></div>
                                                 </div>
                                             </label>
@@ -570,7 +570,7 @@ function WorkspaceContent() {
                                                     <button
                                                         key={tag}
                                                         onClick={() => setDietaryTags(prev => prev.includes(tag) ? prev.filter(t => t !== tag) : [...prev, tag])}
-                                                        className={`px-3 py-1.5 rounded-full border text-xs font-bold transition-all flex items-center gap-1.5 ${dietaryTags.includes(tag)
+                                                        className={`px-3 py-1.5 rounded-full border text-xs font-bold transition-colors flex items-center gap-1.5 ${dietaryTags.includes(tag)
                                                             ? "bg-red-500/20 border-red-500 text-red-400"
                                                             : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
                                                             }`}
@@ -610,7 +610,7 @@ function WorkspaceContent() {
                                                     <button
                                                         key={s.id}
                                                         onClick={() => setStyle(s.id)}
-                                                        className={`p-3 rounded-xl border text-xs font-bold transition-all ${style === s.id
+                                                        className={`p-3 rounded-xl border text-xs font-bold transition-colors ${style === s.id
                                                             ? "bg-[#EEDC00]/10 border-[#EEDC00] text-[#EEDC00]"
                                                             : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
                                                             }`}
@@ -631,7 +631,7 @@ function WorkspaceContent() {
                                                     <button
                                                         key={t_pref.id}
                                                         onClick={() => setTransportation(t_pref.id)}
-                                                        className={`p-3 rounded-xl border text-xs font-bold transition-all ${transportation === t_pref.id
+                                                        className={`p-3 rounded-xl border text-xs font-bold transition-colors ${transportation === t_pref.id
                                                             ? "bg-[#EEDC00]/10 border-[#EEDC00] text-[#EEDC00]"
                                                             : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
                                                             }`}
@@ -649,7 +649,7 @@ function WorkspaceContent() {
                                                     <button
                                                         key={p.id}
                                                         onClick={() => togglePurpose(p.id)}
-                                                        className={`px-3 py-1.5 rounded-full border text-xs font-bold transition-all flex items-center gap-1.5 ${purposes.includes(p.id)
+                                                        className={`px-3 py-1.5 rounded-full border text-xs font-bold transition-colors flex items-center gap-1.5 ${purposes.includes(p.id)
                                                             ? "bg-[#EEDC00] border-[#EEDC00] text-black"
                                                             : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
                                                             }`}
@@ -782,7 +782,7 @@ function WorkspaceContent() {
                                                 alert("發生錯誤 / An error occurred.");
                                             }
                                         }}
-                                        className="bg-[#2A2A35] hover:bg-[#3A3A45] text-white border border-white/10 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all"
+                                        className="bg-[#2A2A35] hover:bg-[#3A3A45] text-white border border-white/10 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"
                                     >
                                         <Download size={16} />
                                         {t.ws_save_pdf || "Save as PDF (1 點)"}
@@ -805,7 +805,7 @@ function WorkspaceContent() {
                                                 alert(t.share_copied || "連結已複製 / Link copied!");
                                             }
                                         }}
-                                        className="bg-[#EEDC00]/10 hover:bg-[#EEDC00] text-[#EEDC00] hover:text-black border border-[#EEDC00]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-all"
+                                        className="bg-[#EEDC00]/10 hover:bg-[#EEDC00] text-[#EEDC00] hover:text-black border border-[#EEDC00]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"
                                     >
                                         <Globe2 size={16} />
                                         {t.share_btn || "分享"}

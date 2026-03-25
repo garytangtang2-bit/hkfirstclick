@@ -91,7 +91,7 @@ function ContactContent() {
                                 onChange={(e) => setName(e.target.value)}
                                 required
                                 placeholder={t.contact_placeholder_name}
-                                className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 text-white placeholder-gray-600 focus:outline-none focus:border-[#EEDC00]/50 focus:bg-white/8 transition-all"
+                                className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 text-white placeholder-gray-600 focus:outline-none focus:border-[#EEDC00]/50 focus:bg-white/8 transition-colors duration-150"
                             />
                         </div>
 
@@ -105,7 +105,7 @@ function ContactContent() {
                                 onChange={(e) => setEmail(e.target.value)}
                                 required
                                 placeholder={t.contact_placeholder_email}
-                                className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 text-white placeholder-gray-600 focus:outline-none focus:border-[#EEDC00]/50 focus:bg-white/8 transition-all"
+                                className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 text-white placeholder-gray-600 focus:outline-none focus:border-[#EEDC00]/50 focus:bg-white/8 transition-colors duration-150"
                             />
                         </div>
 
@@ -119,7 +119,7 @@ function ContactContent() {
                                 required
                                 rows={6}
                                 placeholder={t.contact_placeholder_message}
-                                className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 text-white placeholder-gray-600 focus:outline-none focus:border-[#EEDC00]/50 focus:bg-white/8 transition-all resize-none"
+                                className="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-4 text-white placeholder-gray-600 focus:outline-none focus:border-[#EEDC00]/50 focus:bg-white/8 transition-colors duration-150 resize-none"
                             />
                         </div>
 
@@ -133,7 +133,7 @@ function ContactContent() {
                         <button
                             type="submit"
                             disabled={status === "loading"}
-                            className="w-full bg-[#EEDC00] text-black py-4 rounded-2xl font-black uppercase tracking-widest hover:bg-yellow-300 transition-all hover:scale-[1.02] active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-3"
+                            className="w-full bg-[#EEDC00] text-black py-4 rounded-2xl font-black uppercase tracking-widest hover:bg-yellow-300 [transition:transform_200ms_ease,background-color_200ms_ease] hover:scale-[1.02] active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-3"
                         >
                             {status === "loading" ? (
                                 <>

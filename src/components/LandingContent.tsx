@@ -51,7 +51,7 @@ export function LandingContent({ t, user, navigateTo }: any) {
                     <div className="flex flex-col sm:flex-row items-center gap-4 w-full justify-center">
                         <YellowButton
                             onClick={() => navigateTo("/workspace-check")}
-                            className="w-full sm:w-auto px-8 py-3.5 md:px-10 md:py-4 text-base md:text-lg flex items-center justify-center gap-3 premium-btn shadow-[0_0_30px_rgba(238,220,0,0.3)] hover:shadow-[0_0_50px_rgba(238,220,0,0.5)] transition-all duration-300 transform hover:-translate-y-1"
+                            className="w-full sm:w-auto px-8 py-3.5 md:px-10 md:py-4 text-base md:text-lg flex items-center justify-center gap-3 premium-btn shadow-[0_0_30px_rgba(238,220,0,0.3)] hover:shadow-[0_0_50px_rgba(238,220,0,0.5)] [transition:transform_300ms_ease,box-shadow_300ms_ease,background-color_300ms_ease] hover:-translate-y-1"
                         >
                             {t.btn_start_studio} <ArrowRight size={20} />
                         </YellowButton>

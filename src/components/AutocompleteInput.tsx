@@ -181,7 +181,7 @@ export default function AutocompleteInput({ value, onChange, placeholder, icon, 
                     }}
                     onFocus={() => setIsOpen(true)}
                     placeholder={placeholder}
-                    className={`w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 ${icon ? 'pl-11 pr-4' : 'px-4'}`}
+                    className={`w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 ${icon ? 'pl-11 pr-4' : 'px-4'}`}
                 />
                 {isLoading && isOpen && (
                     <div className="absolute right-4 top-1/2 -translate-y-1/2 z-10">

@@ -27,7 +27,7 @@ function PrivacyContent() {
 
                 <div className="space-y-12">
                     {/* Information Collection */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <Database size={28} />
@@ -47,7 +47,7 @@ function PrivacyContent() {
                     </section>
 
                     {/* Data Usage */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <UserCheck size={28} />
@@ -67,7 +67,7 @@ function PrivacyContent() {
                     </section>
 
                     {/* Data Protection */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <Shield size={28} />
@@ -82,7 +82,7 @@ function PrivacyContent() {
                     </section>
 
                     {/* Contact Us */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <Mail size={28} />

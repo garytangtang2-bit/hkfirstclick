@@ -38,10 +38,10 @@ export function Footer({ t }: { t: any }) {
                 </div>
 
                 <div className="flex gap-4">
-                    <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] cursor-pointer transition-all">
+                    <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] cursor-pointer transition-colors">
                         <i className="fab fa-facebook-f text-xs"></i>
                     </div>
-                    <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] cursor-pointer transition-all">
+                    <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center border border-white/10 text-gray-400 hover:text-[#EEDC00] cursor-pointer transition-colors">
                         <i className="fab fa-instagram text-xs"></i>
                     </div>
                 </div>

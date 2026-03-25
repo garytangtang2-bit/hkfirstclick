@@ -32,7 +32,7 @@ function AboutContent() {
                 {/* Story */}
                 <div className="space-y-12">
 
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <MapPin size={28} />
@@ -52,7 +52,7 @@ function AboutContent() {
                         </div>
                     </section>
 
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <Zap size={28} />
@@ -72,7 +72,7 @@ function AboutContent() {
                         </div>
                     </section>
 
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <Heart size={28} />
@@ -103,12 +103,12 @@ function AboutContent() {
                     </p>
                     <div className="flex flex-col sm:flex-row justify-center gap-4">
                         <Link href="/login">
-                            <button className="bg-[#EEDC00] text-black px-8 py-4 rounded-xl font-black hover:bg-yellow-300 transition-all hover:scale-105 active:scale-95 text-sm uppercase tracking-widest">
+                            <button className="bg-[#EEDC00] text-black px-8 py-4 rounded-xl font-black hover:bg-yellow-300 [transition:transform_200ms_ease,background-color_200ms_ease] hover:scale-105 active:scale-95 text-sm uppercase tracking-widest">
                                 Start Free Trial
                             </button>
                         </Link>
                         <Link href="/catalog/en">
-                            <button className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold hover:bg-white/20 transition-all hover:scale-105 active:scale-95 text-sm uppercase tracking-widest">
+                            <button className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold hover:bg-white/20 [transition:transform_200ms_ease,background-color_200ms_ease] hover:scale-105 active:scale-95 text-sm uppercase tracking-widest">
                                 Browse Destinations
                             </button>
                         </Link>

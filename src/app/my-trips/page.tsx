@@ -62,7 +62,7 @@ function MyTripsContent() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     {trips.map((trip) => (
                         <Link href={`/workspace?id=${trip.id}`} key={trip.id} className="block group">
-                            <div className="bg-[#1E1E1E] border border-white/10 group-hover:border-[#EEDC00]/50 rounded-3xl p-6 transition-all duration-300 transform group-hover:-translate-y-2 h-full flex flex-col shadow-2xl premium-glass-card">
+                            <div className="bg-[#1E1E1E] border border-white/10 group-hover:border-[#EEDC00]/50 rounded-3xl p-6 transition-[transform,border-color] duration-300 group-hover:-translate-y-2 h-full flex flex-col shadow-2xl premium-glass-card">
                                 <div className="flex justify-between items-start mb-4">
                                     <div className="bg-white/5 p-3 rounded-2xl group-hover:bg-[#EEDC00]/10 transition-colors">
                                         <MapPin className="text-[#EEDC00]" size={24} />

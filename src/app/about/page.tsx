@@ -90,12 +90,12 @@ function AboutContent() {
                 {/* CTA */}
                 <div className="pt-6 flex flex-col sm:flex-row gap-4">
                     <Link href="/workspace">
-                        <button className="bg-[#EEDC00] text-black px-8 py-4 rounded-xl font-black hover:bg-yellow-300 transition-all text-sm uppercase tracking-widest">
+                        <button className="bg-[#EEDC00] text-black px-8 py-4 rounded-xl font-black hover:bg-yellow-300 transition-colors text-sm uppercase tracking-widest">
                             立即生成行程
                         </button>
                     </Link>
                     <Link href="/contact">
-                        <button className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold hover:bg-white/20 transition-all text-sm uppercase tracking-widest">
+                        <button className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold hover:bg-white/20 transition-colors text-sm uppercase tracking-widest">
                             聯絡我們
                         </button>
                     </Link>

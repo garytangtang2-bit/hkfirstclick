@@ -304,7 +304,7 @@ function MapContent() {
                                 onClick={() => setSelectedCity(city)}
                                 onMouseEnter={() => setHoveredCityName(city.City)}
                                 onMouseLeave={() => setHoveredCityName(null)}
-                                className={`snap-center shrink-0 w-[240px] bg-[#161616]/90 backdrop-blur-md p-4 rounded-2xl shadow-2xl border cursor-pointer transition-all duration-200 group premium-glass-card active:scale-95 ${hoveredCityName === city.City ? "border-[#EEDC00] -translate-y-2 shadow-[0_4px_20px_rgba(238,220,0,0.25)]" : "border-white/10 hover:-translate-y-1 hover:border-[#EEDC00]/50 hover:shadow-[0_4px_16px_rgba(238,220,0,0.15)]"}`}
+                                className={`snap-center shrink-0 w-[240px] bg-[#161616]/90 backdrop-blur-md p-4 rounded-2xl shadow-2xl border cursor-pointer transition-[transform,box-shadow,border-color] duration-200 will-change-transform group premium-glass-card active:scale-95 ${hoveredCityName === city.City ? "border-[#EEDC00] -translate-y-2 shadow-[0_4px_20px_rgba(238,220,0,0.25)]" : "border-white/10 hover:-translate-y-1 hover:border-[#EEDC00]/50 hover:shadow-[0_4px_16px_rgba(238,220,0,0.15)]"}`}
                             >
                                 <h3 className="font-bold text-white truncate mb-1 flex items-center gap-1.5">
                                     <MapPin size={14} className="text-[#EEDC00]" />
@@ -362,11 +362,11 @@ function MapContent() {
 
                                 {/* Spot & Food Highlight Cards */}
                                 <div className="flex-1 w-full grid grid-cols-1 sm:grid-cols-2 gap-4">
-                                    <Link href={`/food/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-yellow-400/10 hover:border-yellow-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(238,220,0,0.2)] active:scale-95 transition-all duration-200 shadow-xl block cursor-pointer">
+                                    <Link href={`/food/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-yellow-400/10 hover:border-yellow-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(238,220,0,0.2)] active:scale-95 transition-[transform,box-shadow,border-color,background-color] duration-200 will-change-transform shadow-xl block cursor-pointer">
                                         <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest flex items-center gap-1.5"><UtensilsCrossed size={11} />{t.map_must_try_food || "Must Try Food"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'top_food', language, selectedCity.Top_Food)}</div>
                                     </Link>
-                                    <Link href={`/attractions/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-purple-400/10 hover:border-purple-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(168,85,247,0.2)] active:scale-95 transition-all duration-200 shadow-xl block cursor-pointer">
+                                    <Link href={`/attractions/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-purple-400/10 hover:border-purple-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(168,85,247,0.2)] active:scale-95 transition-[transform,box-shadow,border-color,background-color] duration-200 will-change-transform shadow-xl block cursor-pointer">
                                         <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest flex items-center gap-1.5"><Landmark size={11} />{t.map_top_spot || "Top Spot"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'must_visit_spot', language, selectedCity.Must_Visit_Spot)}</div>
                                     </Link>
@@ -375,12 +375,12 @@ function MapContent() {
                                 {/* Action Buttons */}
                                 <div className="w-full md:w-[320px] flex flex-col gap-3 shrink-0">
                                     <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
-                                        <button className="w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-extrabold hover:bg-[#ffe800] transition-transform hover:scale-[1.02] active:scale-95 flex justify-center items-center gap-2 shadow-[0_10px_30px_rgba(238,220,0,0.3)]">
+                                        <button className="w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-extrabold hover:bg-[#ffe800] transition-[transform,background-color] hover:scale-[1.02] active:scale-95 flex justify-center items-center gap-2 shadow-[0_10px_30px_rgba(238,220,0,0.3)]">
                                             <Sparkles size={18} /> {t.map_actions_generate || "1-Click Generate"} <span className="text-black/60 font-semibold text-xs ml-1 bg-black/10 px-2 py-0.5 rounded-full">{t.map_actions_cost || "(5 pts)"}</span>
                                         </button>
                                     </Link>
                                     <Link href={`/catalog/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="w-full">
-                                        <button className="w-full bg-white/10 backdrop-blur-md text-white border border-white/20 px-6 py-4 rounded-xl font-bold hover:bg-white/20 transition-transform hover:scale-[1.02] active:scale-95 flex justify-center items-center gap-2 shadow-xl">
+                                        <button className="w-full bg-white/10 backdrop-blur-md text-white border border-white/20 px-6 py-4 rounded-xl font-bold hover:bg-white/20 transition-[transform,background-color] hover:scale-[1.02] active:scale-95 flex justify-center items-center gap-2 shadow-xl">
                                             <Navigation size={18} /> {t.map_actions_modify || "View Inspiration Catalog"}
                                         </button>
                                     </Link>

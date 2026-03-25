@@ -342,11 +342,11 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
                                 const highlight = dayNum === 2 ? basicMustVisit : (dayNum === 3 ? basicTopFood : (dayNum === 1 ? basicDescription : basicCityName));
 
                                 return (
-                                    <div key={dayNum} className="group relative bg-[#161616]/40 hover:bg-[#161616]/80 border border-white/5 hover:border-purple-500/30 rounded-[2rem] p-8 transition-all duration-300 shadow-xl overflow-hidden">
+                                    <div key={dayNum} className="group relative bg-[#161616]/40 hover:bg-[#161616]/80 border border-white/5 hover:border-purple-500/30 rounded-[2rem] p-8 transition-colors duration-300 shadow-xl overflow-hidden">
                                         <div className="absolute top-0 right-0 w-32 h-32 bg-purple-500/5 rounded-full blur-3xl -mr-16 -mt-16 group-hover:bg-purple-500/10 transition-colors" />
                                         <div className="flex gap-6">
                                             <div className="flex-shrink-0">
-                                                <div className="w-16 h-16 rounded-2xl bg-purple-500/10 border border-purple-500/20 flex flex-col items-center justify-center text-purple-400 group-hover:bg-purple-600 group-hover:text-white transition-all duration-300 shadow-lg">
+                                                <div className="w-16 h-16 rounded-2xl bg-purple-500/10 border border-purple-500/20 flex flex-col items-center justify-center text-purple-400 group-hover:bg-purple-600 group-hover:text-white transition-colors duration-300 shadow-lg">
                                                     <span className="text-[10px] font-black uppercase tracking-tighter opacity-70">DAY</span>
                                                     <span className="text-2xl font-black">{dayNum}</span>
                                                 </div>
@@ -417,7 +417,7 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
                         </p>
                         <div className="flex flex-col sm:flex-row justify-center gap-6 w-full max-w-lg mx-auto">
                             <Link href={`/workspace?dest=${encodeURIComponent(cityId)}`} className="flex-1">
-                                <button className="w-full bg-purple-600 text-white px-8 py-5 rounded-2xl font-black text-lg hover:bg-purple-500 transition-all hover:scale-105 active:scale-95 flex justify-center items-center gap-3 shadow-[0_15px_40px_rgba(168,85,247,0.4)]">
+                                <button className="w-full bg-purple-600 text-white px-8 py-5 rounded-2xl font-black text-lg hover:bg-purple-500 [transition:transform_200ms_ease,background-color_200ms_ease] hover:scale-105 active:scale-95 flex justify-center items-center gap-3 shadow-[0_15px_40px_rgba(168,85,247,0.4)]">
                                     <Sparkles size={22} /> 
                                     {t.map_actions_generate || "1-Click Generate"}
                                 </button>
@@ -459,12 +459,12 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
                                         className="absolute inset-0 bg-cover bg-center group-hover:scale-110 transition-transform duration-700"
                                         style={{ backgroundImage: `url('${destPhoto}')` }}
                                     />
-                                    <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent group-hover:via-black/40 transition-all" />
+                                    <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent group-hover:via-black/40 transition-colors" />
                                     <div className="absolute inset-x-0 bottom-0 p-6 md:p-8">
                                         <h4 className="text-white text-xl md:text-2xl font-black tracking-tight group-hover:text-purple-300 transition-colors">
                                             {destName}
                                         </h4>
-                                        <div className="mt-2 flex items-center gap-2 text-purple-400 font-bold text-xs uppercase tracking-widest opacity-0 group-hover:opacity-100 transition-all translate-y-2 group-hover:translate-y-0">
+                                        <div className="mt-2 flex items-center gap-2 text-purple-400 font-bold text-xs uppercase tracking-widest opacity-0 group-hover:opacity-100 transition-[opacity,transform] translate-y-2 group-hover:translate-y-0">
                                             <span>{t.cat_view_plan || "View Plan"}</span>
                                             <ChevronRight size={14} />
                                         </div>
@@ -489,21 +489,21 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
             <aside className="hidden xl:flex flex-col gap-4 w-[220px] shrink-0 sticky top-24 self-start">
                 {/* Klook Activities */}
                 <a href={klookCity} target="_blank" rel="noopener noreferrer"
-                    className="block bg-[#161616] border border-white/10 rounded-2xl p-5 hover:border-yellow-500/40 transition-all group text-center">
+                    className="block bg-[#161616] border border-white/10 rounded-2xl p-5 hover:border-yellow-500/40 transition-colors group text-center">
                     <div className="text-white font-bold text-sm mb-1">{t.aff_activities || 'Activities & Tickets'}</div>
                     <div className="text-gray-400 text-xs mb-3">{cityName}</div>
                     <div className="bg-[#EEDC00] group-hover:bg-[#ffe800] text-black text-xs font-bold py-2 px-3 rounded-xl transition-colors">{t.aff_book || 'Book on Klook'}</div>
                 </a>
                 {/* Hotels */}
                 <a href={klookHotelUrl} target="_blank" rel="noopener noreferrer"
-                    className="block bg-[#161616] border border-white/10 rounded-2xl p-5 hover:border-red-500/40 transition-all group text-center">
+                    className="block bg-[#161616] border border-white/10 rounded-2xl p-5 hover:border-red-500/40 transition-colors group text-center">
                     <div className="text-white font-bold text-sm mb-1">{t.aff_hotels || 'Hotels'}</div>
                     <div className="text-gray-400 text-xs mb-3">{t.aff_hotels_desc || 'Best-price guarantee on every stay'}</div>
                     <div className="bg-[#FF5A5F] group-hover:bg-[#FF4A4F] text-white text-xs font-bold py-2 px-3 rounded-xl transition-colors">{t.aff_book || 'Book on Klook'}</div>
                 </a>
                 {/* SIM Card */}
                 <a href={klookSimUrl} target="_blank" rel="noopener noreferrer"
-                    className="block bg-[#161616] border border-white/10 rounded-2xl p-5 hover:border-green-500/40 transition-all group text-center">
+                    className="block bg-[#161616] border border-white/10 rounded-2xl p-5 hover:border-green-500/40 transition-colors group text-center">
                     <div className="text-white font-bold text-sm mb-1">{t.aff_sim || 'Travel SIM Card'}</div>
                     <div className="text-gray-400 text-xs mb-3">{t.aff_sim_desc || 'Stay connected from day one'}</div>
                     <div className="bg-green-600 group-hover:bg-green-500 text-white text-xs font-bold py-2 px-3 rounded-xl transition-colors">{t.aff_search || 'Search Now'}</div>

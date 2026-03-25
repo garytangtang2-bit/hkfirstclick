@@ -276,7 +276,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
             href={`https://www.klook.com/search/?query=${encodeURIComponent(cityName + " attractions tickets")}`}
             target="_blank"
             rel="noopener noreferrer sponsored"
-            className="inline-flex items-center gap-2 bg-yellow-400 hover:bg-yellow-300 text-black font-bold text-sm px-5 py-3 rounded-full shadow-lg shadow-yellow-400/30 transition-all hover:scale-105 active:scale-95"
+            className="inline-flex items-center gap-2 bg-yellow-400 hover:bg-yellow-300 text-black font-bold text-sm px-5 py-3 rounded-full shadow-lg shadow-yellow-400/30 [transition:transform_200ms_ease,background-color_200ms_ease] hover:scale-105 active:scale-95"
           >
             {BOOK_ALL_KLOOK_LABEL[activeLang] ?? BOOK_ALL_KLOOK_LABEL["en"]}
             <ExternalLink size={13} />
@@ -329,7 +329,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
       {/* Attractions Items */}
       <div className="flex flex-col gap-6">
         {items.map((item) => (
-          <div key={item.id} className="bg-[#161616] border border-white/10 rounded-2xl overflow-hidden flex flex-col md:flex-row hover:border-purple-500/30 transition-all">
+          <div key={item.id} className="bg-[#161616] border border-white/10 rounded-2xl overflow-hidden flex flex-col md:flex-row hover:border-purple-500/30 transition-colors">
             <div className="relative w-full md:w-56 h-48 md:h-auto shrink-0 bg-gray-800">
               <ImageWithSkeleton
                 src={item.photo_url || DEFAULT_ATTR_IMG}
@@ -464,7 +464,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
           {relatedCities.map((slug) => (
             <a key={slug} href={`/attractions/${activeLang}/${slug}`}
-              className="bg-[#161616] border border-white/10 rounded-xl px-4 py-3 text-center hover:border-purple-500/40 hover:bg-purple-500/5 transition-all">
+              className="bg-[#161616] border border-white/10 rounded-xl px-4 py-3 text-center hover:border-purple-500/40 hover:bg-purple-500/5 transition-colors">
               <div className="text-sm font-bold text-white">{formatCityName(slug)}</div>
               <div className="text-xs text-gray-500 mt-0.5 flex items-center justify-center gap-1">
                 <Landmark size={10} />

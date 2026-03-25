@@ -58,7 +58,7 @@ function CatalogGrid({ initialLang, langCode }: CatalogLangPageProps) {
             placeholder="Search destinations..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full bg-[#161616]/80 backdrop-blur-md text-white border border-white/10 rounded-full py-5 pl-16 pr-6 focus:outline-none focus:ring-2 focus:ring-purple-500/50 focus:border-purple-500/50 transition-all shadow-lg text-lg placeholder:text-gray-500"
+            className="w-full bg-[#161616]/80 backdrop-blur-md text-white border border-white/10 rounded-full py-5 pl-16 pr-6 focus:outline-none focus:ring-2 focus:ring-purple-500/50 focus:border-purple-500/50 transition-colors duration-150 shadow-lg text-lg placeholder:text-gray-500"
           />
         </div>
       </div>
@@ -69,7 +69,7 @@ function CatalogGrid({ initialLang, langCode }: CatalogLangPageProps) {
           <Link
             href={`/catalog/${langCode}/${getCitySlug(cityId)}`}
             key={idx}
-            className="group relative h-64 md:h-72 rounded-3xl overflow-hidden block border border-white/5 hover:border-purple-500/50 transition-all duration-300 transform hover:-translate-y-2 shadow-lg hover:shadow-[0_10px_40px_rgba(168,85,247,0.2)]"
+            className="group relative h-64 md:h-72 rounded-3xl overflow-hidden block border border-white/5 hover:border-purple-500/50 transition-[transform,box-shadow,border-color] duration-300 will-change-transform hover:-translate-y-2 shadow-lg hover:shadow-[0_10px_40px_rgba(168,85,247,0.2)]"
           >
             <div
               className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"

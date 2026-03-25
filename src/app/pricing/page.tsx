@@ -178,7 +178,7 @@ function PricingContent() {
                     return (
                         <div
                             key={i}
-                            className={`bg-[#1E1E1E] rounded-3xl p-8 flex flex-col transition-all duration-300 premium-glass-card ${plan.isPopular
+                            className={`bg-[#1E1E1E] rounded-3xl p-8 flex flex-col transition-[transform,box-shadow,border-color] duration-300 premium-glass-card ${plan.isPopular
                                 ? "border-2 border-[#EEDC00] shadow-[0_0_30px_rgba(238,220,0,0.2)] transform md:-translate-y-4"
                                 : "border border-white/10 hover:border-white/20 shadow-2xl"
                                 }`}
@@ -273,7 +273,7 @@ function PricingContent() {
                                 <button
                                     disabled={!!profile}
                                     onClick={() => !profile && navigateTo("/login")}
-                                    className={`w-full py-4 rounded-xl font-bold uppercase tracking-wider text-sm transition-all duration-300 ${profile
+                                    className={`w-full py-4 rounded-xl font-bold uppercase tracking-wider text-sm [transition:background-color_300ms_ease,color_300ms_ease,box-shadow_300ms_ease] ${profile
                                         ? "text-gray-500 bg-white/5 border border-white/10 cursor-default"
                                         : "text-[#EEDC00] bg-[#EEDC00]/10 border border-[#EEDC00]/30 hover:bg-[#EEDC00] hover:text-black shadow-[0_0_15px_rgba(238,220,0,0.1)] hover:shadow-[0_0_25px_rgba(238,220,0,0.3)]"
                                         }`}

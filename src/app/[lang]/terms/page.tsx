@@ -30,7 +30,7 @@ function TermsContent() {
                 <div className="space-y-12">
 
                     {/* Free Trial */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <FileText size={28} />
@@ -53,7 +53,7 @@ function TermsContent() {
                     </section>
 
                     {/* Pricing & Credits */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <CreditCard size={28} />
@@ -96,7 +96,7 @@ function TermsContent() {
                     </section>
 
                     {/* Refund Policy */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <RefreshCw size={28} />
@@ -114,7 +114,7 @@ function TermsContent() {
                     </section>
 
                     {/* Acceptable Use */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <AlertCircle size={28} />
@@ -134,7 +134,7 @@ function TermsContent() {
                     </section>
 
                     {/* Contact */}
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">
                             <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
                                 <Mail size={28} />
