@@ -302,11 +302,12 @@ function MapContent() {
                                 onClick={() => setSelectedCity(city)}
                                 onMouseEnter={() => setHoveredCityName(city.City)}
                                 onMouseLeave={() => setHoveredCityName(null)}
-                                className={`snap-center shrink-0 w-[240px] bg-[#161616]/90 backdrop-blur-md p-4 rounded-2xl shadow-2xl border cursor-pointer transition-all group premium-glass-card ${hoveredCityName === city.City ? "border-[#EEDC00] -translate-y-2" : "border-white/10 hover:-translate-y-1"}`}
+                                className={`snap-center shrink-0 w-[240px] bg-[#161616]/90 backdrop-blur-md p-4 rounded-2xl shadow-2xl border cursor-pointer transition-all duration-200 group premium-glass-card active:scale-95 ${hoveredCityName === city.City ? "border-[#EEDC00] -translate-y-2 shadow-[0_4px_20px_rgba(238,220,0,0.25)]" : "border-white/10 hover:-translate-y-1 hover:border-[#EEDC00]/50 hover:shadow-[0_4px_16px_rgba(238,220,0,0.15)]"}`}
                             >
                                 <h3 className="font-bold text-white truncate mb-1 flex items-center gap-1.5">
                                     <MapPin size={14} className="text-[#EEDC00]" />
                                     {getTranslatedCityName(city.City, language)}
+                                    <span className="ml-auto text-[#EEDC00]/0 group-hover:text-[#EEDC00]/80 transition-colors text-xs">→</span>
                                 </h3>
                                 <p className="text-xs text-[#A0A0A0] truncate">{getTranslatedData(city.City, 'description', language, city.Vibe)}</p>
                             </div>
