@@ -109,9 +109,9 @@
       "faq_a2": "Yes, many attractions require tickets for entry. You can easily purchase them through Klook for a seamless experience."
     },
     "zh": {
-      "seo_title": "2026年巴厘島庫塔區8大必看景點 - 完整指南",
-      "seo_description": "獲取巴厘島庫塔區最佳景點的門票、開放時間和內部提示，立即透過Klook預訂，開始您的冒險！",
-      "page_intro": "發現巴厘島的魅力，這裡擁有壯觀的烏魯瓦圖寺、迷人的烏布猴森林和壯麗的塔納洛特。無論您是文化愛好者還是冒險家，這裡都能滿足您的需求。立即透過Klook預訂，省去排隊的煩惱！",
+      "seo_title": "2026年巴釐島庫塔區8大必看景點 - 完整指南",
+      "seo_description": "獲取巴釐島庫塔區最佳景點的門票、開放時間和內部提示，立即透過Klook預訂，開始您的冒險！",
+      "page_intro": "發現巴釐島的魅力，這裡擁有壯觀的烏魯瓦圖寺、迷人的烏布猴森林和壯麗的塔納洛特。無論您是文化愛好者還是冒險家，這裡都能滿足您的需求。立即透過Klook預訂，省去排隊的煩惱！",
       "items": [
         {
           "id": "uluwatu-temple",
@@ -129,7 +129,7 @@
           "id": "ubud-monkey-forest",
           "name": "烏布猴林",
           "type": "park",
-          "description": "烏布猴林是一個巴厘長尾獼猴的庇護所和自然棲息地。漫步在寧靜的森林中，這裡有古老的寺廟和超過700隻猴子。計劃1-2小時的參觀，記得保管好您的物品，因為好奇的猴子可能會很淘氣。",
+          "description": "烏布猴林是一個巴釐長尾獼猴的庇護所和自然棲息地。漫步在寧靜的森林中，這裡有古老的寺廟和超過700隻猴子。計劃1-2小時的參觀，記得保管好您的物品，因為好奇的猴子可能會很淘氣。",
           "image_keyword": "Ubud Monkey Forest monkeys",
           "star_rating": 4.5,
           "needs_ticket": true,
@@ -141,7 +141,7 @@
           "id": "tanah-lot",
           "name": "塔納洛特",
           "type": "landmark",
-          "description": "塔納洛特是巴厘島最具標誌性的海上寺廟之一，以其獨特的離岸位置和如畫的日落背景而聞名。探索周圍地區，這裡提供文化表演、商店和餐飲選擇。允許1-2小時來充分享受這個地標。",
+          "description": "塔納洛特是巴釐島最具標誌性的海上寺廟之一，以其獨特的離岸位置和如畫的日落背景而聞名。探索周圍地區，這裡提供文化表演、商店和餐飲選擇。允許1-2小時來充分享受這個地標。",
           "image_keyword": "Tanah Lot temple",
           "star_rating": 4.6,
           "needs_ticket": true,
@@ -151,9 +151,9 @@
         },
         {
           "id": "bali-safari-and-marine-park",
-          "name": "巴厘野生動物園和海洋公園",
+          "name": "巴釐野生動物園和海洋公園",
           "type": "park",
-          "description": "巴厘野生動物園和海洋公園提供刺激的野生動物體驗，擁有超過100個物種。享受野生動物園騎行、動物表演和水上樂園。安排3-4小時與家人或朋友一起度過充滿樂趣的一天。提前預定門票以獲得最佳體驗。",
+          "description": "巴釐野生動物園和海洋公園提供刺激的野生動物體驗，擁有超過100個物種。享受野生動物園騎行、動物表演和水上樂園。安排3-4小時與家人或朋友一起度過充滿樂趣的一天。提前預定門票以獲得最佳體驗。",
           "image_keyword": "Bali Safari and Marine Park animals",
           "star_rating": 4.4,
           "needs_ticket": true,
@@ -165,7 +165,7 @@
           "id": "seminyak",
           "name": "塞米亞克",
           "type": "district",
-          "description": "塞米亞克是一個時尚的地區，以其高檔的海灘度假村、充滿活力的夜生活和時髦的精品店而聞名。花一個下午探索其時尚的街道，在高級餐廳用餐，並在海灘俱樂部放鬆。對於那些希望體驗巴厘島現代一面的遊客來說，這是一個完美的地方。",
+          "description": "塞米亞克是一個時尚的地區，以其高檔的海灘度假村、充滿活力的夜生活和時髦的精品店而聞名。花一個下午探索其時尚的街道，在高階餐廳用餐，並在海灘俱樂部放鬆。對於那些希望體驗巴釐島現代一面的遊客來說，這是一個完美的地方。",
           "image_keyword": "Seminyak district",
           "star_rating": 4.3,
           "needs_ticket": false,
@@ -177,7 +177,7 @@
           "id": "ubud-art-market",
           "name": "烏布藝術市場",
           "type": "market",
-          "description": "烏布藝術市場是當地工匠出售獨特工藝品、紡織品和紀念品的活躍中心。沉浸在忙碌的氛圍中，購買反映巴厘島藝術遺產的手工製品。計劃花一兩個小時瀏覽和討價還價。",
+          "description": "烏布藝術市場是當地工匠出售獨特工藝品、紡織品和紀念品的活躍中心。沉浸在忙碌的氛圍中，購買反映巴釐島藝術遺產的手工製品。計劃花一兩個小時瀏覽和討價還價。",
           "image_keyword": "Ubud Art Market stalls",
           "star_rating": 4.4,
           "needs_ticket": false,
@@ -187,9 +187,9 @@
         },
         {
           "id": "bali-museum",
-          "name": "巴厘博物館",
+          "name": "巴釐博物館",
           "type": "museum",
-          "description": "位於登巴薩的巴厘博物館提供了對島嶼豐富歷史和文化的瞥見。博物館的展品涵蓋巴厘藝術、歷史和民族學。安排1-2小時探索這些收藏品，了解巴厘島的過去。",
+          "description": "位於登巴薩的巴釐博物館提供了對島嶼豐富歷史和文化的瞥見。博物館的展品涵蓋巴釐藝術、歷史和民族學。安排1-2小時探索這些收藏品，瞭解巴釐島的過去。",
           "image_keyword": "Bali Museum exhibits",
           "star_rating": 4.3,
           "needs_ticket": true,
@@ -201,7 +201,7 @@
           "id": "besakih-temple",
           "name": "貝薩基寺",
           "type": "temple",
-          "description": "貝薩基寺，被稱為“母廟”，是巴厘島最大和最神聖的寺廟群。位於阿貢山的山坡上，由超過80座單獨的寺廟組成。花2-3小時探索這個廣闊的寺廟群，感受精神氛圍。",
+          "description": "貝薩基寺，被稱為“母廟”，是巴釐島最大和最神聖的寺廟群。位於阿貢山的山坡上，由超過80座單獨的寺廟組成。花2-3小時探索這個廣闊的寺廟群，感受精神氛圍。",
           "image_keyword": "Besakih Temple complex",
           "star_rating": 4.5,
           "needs_ticket": true,
@@ -210,8 +210,8 @@
           "klook_query": "Besakih Temple tour"
         }
       ],
-      "faq_q1": "巴厘島的熱門景點有哪些？",
-      "faq_q2": "在巴厘島的景點需要購票嗎？",
+      "faq_q1": "巴釐島的熱門景點有哪些？",
+      "faq_q2": "在巴釐島的景點需要購票嗎？",
       "faq_a1_suffix": " 是必遊的景點。",
       "faq_a2": "大多數景點都需要購票，建議您透過Klook提前購票，以便輕鬆入場，避免排隊。"
     },

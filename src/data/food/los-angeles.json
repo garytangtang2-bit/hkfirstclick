@@ -102,15 +102,15 @@
       "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年洛杉矶8大必吃美食 - 頂級餐廳與隐藏美味",
-      "seo_description": "省時找到洛杉矶的真實美食推荐，透過Klook预订，立即规划您的美食之旅，發現當地最愛！",
-      "page_intro": "洛杉矶的美食場景如同其文化般多元，融合了各地風味與创新菜式。從熱销的墨西哥塔可到高档的日式料理，滿足每位食客的味蕾。無论您是美食愛好者還是初次探索，這裡都有值得您一試的美味，助您節省時間，輕鬆预订！",
+      "seo_title": "2026年洛杉磯8大必吃美食 - 頂級餐廳與隱藏美味",
+      "seo_description": "省時找到洛杉磯的真實美食推薦，透過Klook預訂，立即規劃您的美食之旅，發現當地最愛！",
+      "page_intro": "洛杉磯的美食場景如同其文化般多元，融合了各地風味與創新菜式。從熱銷的墨西哥塔可到高檔的日式料理，滿足每位食客的味蕾。無論您是美食愛好者還是初次探索，這裡都有值得您一試的美味，助您節省時間，輕鬆預訂！",
       "items": [
         {
           "id": "grand-central-market",
           "name": "中央市場",
           "type": "street_food",
-          "description": "中央市場是洛杉矶市中心的一處歷史悠久的美食大廳，提供各種美食。品嚐Eggslut的著名蛋三明治或享受Tacos Tumbras a Tomas的正宗塔可。熱鬧的氛圍和多樣的選擇使其成為美食愛好者必去之地。每餐预計花費約10-20美元。",
+          "description": "中央市場是洛杉磯市中心的一處歷史悠久的美食大廳，提供各種美食。品嚐Eggslut的著名蛋三明治或享受Tacos Tumbras a Tomas的正宗塔可。熱鬧的氛圍和多樣的選擇使其成為美食愛好者必去之地。每餐預計花費約10-20美元。",
           "image_keyword": "Grand Central Market Los Angeles",
           "star_rating": 4.6,
           "price_range": "$5–10",
@@ -119,9 +119,9 @@
         },
         {
           "id": "koreatown-night-market",
-          "name": "韩國城夜市",
+          "name": "韓國城夜市",
           "type": "night_market",
-          "description": "體驗充滿活力的韩國城夜市，這是美食、文化和娱樂的美妙結合。在這裡，您可以享用各種韩國街头美食，包括辣炒年糕和脆皮紫菜包饭。熱鬧的氛圍和色彩缤纷的摊位使其成為夜間探索的完美地點。每餐一般價格在5到15美元之間。",
+          "description": "體驗充滿活力的韓國城夜市，這是美食、文化和娛樂的美妙結合。在這裡，您可以享用各種韓國街頭美食，包括辣炒年糕和脆皮紫菜包飯。熱鬧的氛圍和色彩繽紛的攤位使其成為夜間探索的完美地點。每餐一般價格在5到15美元之間。",
           "image_keyword": "Koreatown Night Market",
           "star_rating": 4.5,
           "price_range": "$5–15",
@@ -130,9 +130,9 @@
         },
         {
           "id": "nobu-los-angeles",
-          "name": "洛杉矶Nobu",
+          "name": "洛杉磯Nobu",
           "type": "restaurant",
-          "description": "洛杉矶Nobu因其傳統日本料理與秘鲁風味的融合而聞名，提供难忘的用餐體驗。黑鳕鱼味噌和黄尾椒的招牌菜是必試之選。高档的氛圍非常適合特殊場合。每人预計花費約50-100美元。",
+          "description": "洛杉磯Nobu因其傳統日本料理與秘魯風味的融合而聞名，提供難忘的用餐體驗。黑鱈魚味噌和黃尾椒的招牌菜是必試之選。高檔的氛圍非常適合特殊場合。每人預計花費約50-100美元。",
           "image_keyword": "Nobu Los Angeles",
           "star_rating": 4.7,
           "price_range": "$100–300",
@@ -143,7 +143,7 @@
           "id": "bestia",
           "name": "Bestia",
           "type": "restaurant",
-          "description": "Bestia是一家位于藝術區的時尚意大利餐廳，以自制肉類拼盤和木烤比萨而聞名。熱鬧的環境和创意鸡尾酒增添了用餐體驗。强烈建议提前预订，價格范圍通常為每人30-80美元。",
+          "description": "Bestia是一家位於藝術區的時尚義大利餐廳，以自制肉類拼盤和木烤比薩而聞名。熱鬧的環境和創意雞尾酒增添了用餐體驗。強烈建議提前預訂，價格範圍通常為每人30-80美元。",
           "image_keyword": "Bestia Los Angeles",
           "star_rating": 4.8,
           "price_range": "$50–150",
@@ -154,7 +154,7 @@
           "id": "guelaguetza",
           "name": "Guelaguetza",
           "type": "restaurant",
-          "description": "Guelaguetza因其正宗的瓦哈卡美食而受到赞譽。餐廳以其摩爾酱和塔柳達而聞名，提供真正的墨西哥風味。温暖宜人的氛圍，非常適合家庭聚会。每餐预計花費約15-30美元。",
+          "description": "Guelaguetza因其正宗的瓦哈卡美食而受到贊譽。餐廳以其摩爾醬和塔柳達而聞名，提供真正的墨西哥風味。溫暖宜人的氛圍，非常適閤家庭聚會。每餐預計花費約15-30美元。",
           "image_keyword": "Guelaguetza Los Angeles",
           "star_rating": 4.6,
           "price_range": "$20–40",
@@ -163,9 +163,9 @@
         },
         {
           "id": "food-truck-taco",
-          "name": "Kogi BBQ车",
+          "name": "Kogi BBQ車",
           "type": "street_food",
-          "description": "Kogi BBQ车通過其韩墨融合的塔可彻底改變了洛杉矶的食品车場景。配有辣酱的肋骨塔可是人气之選。隨意的氛圍和不断變化的位置使其成為快速用餐的有趣停留點。每個塔可预計花費約5-10美元。",
+          "description": "Kogi BBQ車透過其韓墨融合的塔可徹底改變了洛杉磯的食品車場景。配有辣醬的肋骨塔可是人氣之選。隨意的氛圍和不斷變化的位置使其成為快速用餐的有趣停留點。每個塔可預計花費約5-10美元。",
           "image_keyword": "Kogi BBQ Truck Los Angeles",
           "star_rating": 4.5,
           "price_range": "$5–10",
@@ -176,7 +176,7 @@
           "id": "cafe-lalo",
           "name": "Cafe Lalo",
           "type": "cafe",
-          "description": "一家以美味糕點和活泼氛圍而聞名的迷人咖啡館。Cafe Lalo提供各種咖啡飲品和早午餐项目，是悠閒下午的完美去處。早午餐项目的價格范圍通常在10-20美元之間。",
+          "description": "一家以美味糕點和活潑氛圍而聞名的迷人咖啡館。Cafe Lalo提供各種咖啡飲品和早午餐專案，是悠閒下午的完美去處。早午餐專案的價格範圍通常在10-20美元之間。",
           "image_keyword": "Cafe Lalo Los Angeles",
           "star_rating": 4.4,
           "price_range": "$5–15",
@@ -187,7 +187,7 @@
           "id": "smorgasburg-la",
           "name": "Smorgasburg LA",
           "type": "street_food",
-          "description": "Smorgasburg LA是一個多元化的每周日市場，拥有各種美食摊位。從美味的甜甜圈到手工比萨，總有適合每個人的選擇。熱鬧的氛圍和户外環境使其成為享受輕鬆周末的完美場所。價格差异很大，通常在5到20美元之間。",
+          "description": "Smorgasburg LA是一個多元化的每週日市場，擁有各種美食攤位。從美味的甜甜圈到手工比薩，總有適合每個人的選擇。熱鬧的氛圍和戶外環境使其成為享受輕鬆週末的完美場所。價格差異很大，通常在5到20美元之間。",
           "image_keyword": "Smorgasburg LA",
           "star_rating": 4.6,
           "price_range": "$",
@@ -195,8 +195,8 @@
           "klook_query": "Smorgasburg LA food tour"
         }
       ],
-      "faq_q1": "在洛杉矶最好吃的食物是什麼？",
-      "faq_q2": "我在哪裡可以找到洛杉矶最好的餐廳？",
+      "faq_q1": "在洛杉磯最好吃的食物是什麼？",
+      "faq_q2": "我在哪裡可以找到洛杉磯最好的餐廳？",
       "faq_a2_suffix": " 是頂級餐飲選擇之一。"
     },
     "ja": {
