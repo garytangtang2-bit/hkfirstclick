@@ -101,10 +101,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       alternates: {
         canonical: canonicalUrl,
         languages: {
-          ...Object.fromEntries(
-            SUPPORTED_LANG_CODES.map(l => [l, `https://www.hkfirstclick.com/catalog/${l}`])
-          ),
-          'x-default': 'https://www.hkfirstclick.com/catalog/en',
+          "en": "https://www.hkfirstclick.com/catalog/en",
+          "zh-TW": "https://www.hkfirstclick.com/catalog/zh",
+          "ja": "https://www.hkfirstclick.com/catalog/ja",
+          "ko": "https://www.hkfirstclick.com/catalog/ko",
+          "fr": "https://www.hkfirstclick.com/catalog/fr",
+          "es": "https://www.hkfirstclick.com/catalog/es",
+          "id": "https://www.hkfirstclick.com/catalog/id",
+          "hi": "https://www.hkfirstclick.com/catalog/hi",
+          "pt-BR": "https://www.hkfirstclick.com/catalog/pt",
+          "ar": "https://www.hkfirstclick.com/catalog/ar",
+          "bn": "https://www.hkfirstclick.com/catalog/bn",
+          "ru": "https://www.hkfirstclick.com/catalog/ru",
+          "x-default": "https://www.hkfirstclick.com/catalog/en",
         },
       },
       openGraph: {
@@ -146,9 +155,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       canonical: canonicalUrl,
       languages: {
-        ...Object.fromEntries(
-          SUPPORTED_LANG_CODES.map(l => [l, `https://www.hkfirstclick.com/catalog/${l}/${destination}`])
-        ),
+        "en": `https://www.hkfirstclick.com/catalog/en/${destination}`,
+        "zh-TW": `https://www.hkfirstclick.com/catalog/zh/${destination}`,
+        "ja": `https://www.hkfirstclick.com/catalog/ja/${destination}`,
+        "ko": `https://www.hkfirstclick.com/catalog/ko/${destination}`,
+        "fr": `https://www.hkfirstclick.com/catalog/fr/${destination}`,
+        "es": `https://www.hkfirstclick.com/catalog/es/${destination}`,
+        "id": `https://www.hkfirstclick.com/catalog/id/${destination}`,
+        "hi": `https://www.hkfirstclick.com/catalog/hi/${destination}`,
+        "pt-BR": `https://www.hkfirstclick.com/catalog/pt/${destination}`,
+        "ar": `https://www.hkfirstclick.com/catalog/ar/${destination}`,
+        "bn": `https://www.hkfirstclick.com/catalog/bn/${destination}`,
+        "ru": `https://www.hkfirstclick.com/catalog/ru/${destination}`,
         "x-default": `https://www.hkfirstclick.com/catalog/en/${destination}`,
       },
     },
@@ -164,12 +182,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
         height: 630,
         alt: title,
       }],
+      publishedTime: "2026-01-01T00:00:00Z",
+      modifiedTime: new Date().toISOString().split("T")[0] + "T00:00:00Z",
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
       images: [`https://www.hkfirstclick.com/api/og?destination=${destination}&lang=${lang}`],
+    },
+    other: {
+      "article:published_time": "2026-01-01T00:00:00Z",
+      "article:modified_time": new Date().toISOString().split("T")[0] + "T00:00:00Z",
     },
   };
 }

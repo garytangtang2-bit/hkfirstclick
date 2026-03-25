@@ -1,7 +1,6 @@
 "use client";
 
 import GlobalLayout from "@/components/GlobalLayout";
-import { MapPin, Zap, Heart } from "lucide-react";
 import Link from "next/link";
 
 export default function AboutPage() {
@@ -14,130 +13,98 @@ export default function AboutPage() {
 
 function AboutContent() {
     return (
-        <div className="min-h-screen bg-[#0A0F1E] text-white py-20 px-6">
-            <div className="max-w-3xl mx-auto">
+        <div className="min-h-screen bg-[#0A0F1E] text-white">
 
-                {/* Hero */}
-                <div className="text-center mb-20">
-                    <div className="inline-block bg-purple-500/20 text-purple-300 px-4 py-1.5 rounded-full text-xs font-bold mb-6 tracking-widest uppercase border border-purple-500/30">
-                        Our Story / 我們的故事
+            {/* Hero */}
+            <div className="relative w-full h-[50vh] md:h-[60vh] overflow-hidden flex items-end">
+                <div
+                    className="absolute inset-0 bg-cover bg-center"
+                    style={{ backgroundImage: "url('https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=1600&q=80')" }}
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-[#0A0F1E] via-[#0A0F1E]/60 to-transparent" />
+                <div className="relative z-10 px-6 md:px-16 pb-14 max-w-4xl">
+                    <div className="inline-block bg-[#EEDC00]/20 text-[#EEDC00] px-3 py-1 rounded-full text-xs font-bold mb-4 tracking-widest uppercase border border-[#EEDC00]/30">
+                        關於我們
                     </div>
-                    <h1 className="text-4xl md:text-6xl font-black text-white mb-6 leading-tight">
-                        Built by a traveler,<br />
-                        <span className="text-[#EEDC00]">for travelers who hate planning.</span>
+                    <h1 className="text-3xl md:text-5xl font-black text-white leading-tight">
+                        讓規劃行程<br />不再是一件麻煩事
                     </h1>
-                    <div className="w-24 h-1 bg-[#EEDC00] mx-auto rounded-full opacity-70"></div>
-                </div>
-
-                {/* Story */}
-                <div className="space-y-12">
-
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
-                        <div className="flex items-center gap-4 mb-6">
-                            <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
-                                <MapPin size={28} />
-                            </div>
-                            <h2 className="text-2xl font-bold">The Problem / 痛點</h2>
-                        </div>
-                        <div className="text-gray-300 leading-relaxed space-y-4 text-lg">
-                            <p>
-                                I love traveling. I hate planning trips.
-                            </p>
-                            <p>
-                                Every time I wanted to go somewhere new, I'd spend hours — sometimes days — jumping between Google Maps, travel blogs, YouTube videos, and forum threads. Copying hotel addresses. Cross-referencing opening hours. Trying to figure out if two attractions were even close to each other.
-                            </p>
-                            <p className="text-gray-400">
-                                我喜歡旅行，但我很討厭規劃行程。每次出發前，都要花好幾個小時在不同網頁之間跳來跳去——查景點、查交通、查住宿、排路線。明明是為了放鬆出發，卻先把自己搞得筋疲力盡。
-                            </p>
-                        </div>
-                    </section>
-
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
-                        <div className="flex items-center gap-4 mb-6">
-                            <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
-                                <Zap size={28} />
-                            </div>
-                            <h2 className="text-2xl font-bold">The Solution / 解決方案</h2>
-                        </div>
-                        <div className="text-gray-300 leading-relaxed space-y-4 text-lg">
-                            <p>
-                                So I built HKfirstclick — a tool that does the heavy lifting for you.
-                            </p>
-                            <p>
-                                You tell it where you're going and when you land. It figures out the rest: which neighborhoods to hit, in what order, at what time, with real transit tips built in. No more tab-switching. No more second-guessing.
-                            </p>
-                            <p className="text-gray-400">
-                                所以我做了 HKfirstclick。你只需要告訴它目的地和到達時間，它會幫你把剩下的全部搞定——哪些景點值得去、怎麼排順序、搭什麼交通、幾點出發。從此不用再在一堆網頁之間浪費時間。
-                            </p>
-                        </div>
-                    </section>
-
-                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-all">
-                        <div className="flex items-center gap-4 mb-6">
-                            <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
-                                <Heart size={28} />
-                            </div>
-                            <h2 className="text-2xl font-bold">Our Belief / 我們相信</h2>
-                        </div>
-                        <div className="text-gray-300 leading-relaxed space-y-4 text-lg">
-                            <p>
-                                Good travel planning shouldn't require expertise. It shouldn't take a weekend. And it definitely shouldn't feel like a second job.
-                            </p>
-                            <p>
-                                Every traveler deserves a great itinerary — whether it's your first solo trip or your fiftieth.
-                            </p>
-                            <p className="text-gray-400">
-                                好的行程規劃不應該需要專業知識，不應該花掉你整個週末，更不應該讓你在出發前就感到精疲力竭。無論是第一次獨自旅行，還是第五十次出走，每個旅人都值得擁有一份好行程。
-                            </p>
-                        </div>
-                    </section>
-
-                </div>
-
-                {/* CTA */}
-                <div className="mt-20 text-center">
-                    <p className="text-gray-400 mb-8 text-lg">
-                        Try it yourself — your first itinerary is on us.
-                        <br />
-                        <span className="text-gray-500 text-base">免費試用，無需信用卡。</span>
-                    </p>
-                    <div className="flex flex-col sm:flex-row justify-center gap-4">
-                        <Link href="/login">
-                            <button className="bg-[#EEDC00] text-black px-8 py-4 rounded-xl font-black hover:bg-yellow-300 transition-all hover:scale-105 active:scale-95 text-sm uppercase tracking-widest">
-                                Start Free Trial
-                            </button>
-                        </Link>
-                        <Link href="/catalog/en">
-                            <button className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold hover:bg-white/20 transition-all hover:scale-105 active:scale-95 text-sm uppercase tracking-widest">
-                                Browse Destinations
-                            </button>
-                        </Link>
-                    </div>
-                </div>
-
-                <div className="mt-20 text-center text-gray-500 text-sm">
-                    <p>© {new Date().getFullYear()} HKfirstclick. Made in Hong Kong 🇭🇰</p>
                 </div>
             </div>
-            <LayoutAnimations />
-        </div>
-    );
-}
 
-function LayoutAnimations() {
-    return (
-        <script dangerouslySetInnerHTML={{
-            __html: `
-                if (typeof gsap !== 'undefined') {
-                    gsap.from(".premium-glass-card", {
-                        y: 30,
-                        opacity: 0,
-                        duration: 0.8,
-                        stagger: 0.2,
-                        ease: "power3.out"
-                    });
-                }
-            `
-        }} />
+            {/* Content */}
+            <div className="max-w-3xl mx-auto px-6 md:px-8 py-16 space-y-14">
+
+                {/* Origin story */}
+                <section className="space-y-5">
+                    <h2 className="text-xl font-bold text-[#EEDC00]">為什麼會有這個網站</h2>
+                    <div className="text-gray-300 leading-relaxed space-y-4 text-base md:text-lg">
+                        <p>
+                            旅行應該是開心的事，但規劃行程通常不是。
+                        </p>
+                        <p>
+                            訂機票之後，才是最頭痛的開始——哪些景點值得去？順序怎麼排？幾點出發比較合理？附近有什麼好吃的？交通要怎麼走？光是把這些問題搞清楚，就已經花掉大半個週末。
+                        </p>
+                        <p>
+                            HKfirstclick 就是為了解決這個問題而建立的。我們希望讓規劃行程這件事，變得快一點、簡單一點。
+                        </p>
+                    </div>
+                </section>
+
+                <div className="border-t border-white/10" />
+
+                {/* What it does */}
+                <section className="space-y-5">
+                    <h2 className="text-xl font-bold text-[#EEDC00]">怎麼用</h2>
+                    <div className="text-gray-300 leading-relaxed space-y-4 text-base md:text-lg">
+                        <p>
+                            你只需要填入出發地、目的地、日期，以及你這次旅行的主要目的——想輕鬆還是想玩得充實、喜歡文化還是美食——剩下的交給我們。
+                        </p>
+                        <p>
+                            系統會根據你填的資料，生成一份每日行程，包括景點安排、時間規劃和交通建議，讓你有一個可以直接參考的出發點。
+                        </p>
+                        <p className="text-gray-400">
+                            目前支援超過 50 個熱門城市、12 種語言，持續增加中。
+                        </p>
+                    </div>
+                </section>
+
+                <div className="border-t border-white/10" />
+
+                {/* Who */}
+                <section className="space-y-5">
+                    <h2 className="text-xl font-bold text-[#EEDC00]">我們是誰</h2>
+                    <div className="text-gray-300 leading-relaxed space-y-4 text-base md:text-lg">
+                        <p>
+                            HKfirstclick 是一個香港獨立開發項目，由一個對旅行和技術都有興趣的人做出來的。
+                        </p>
+                        <p>
+                            沒有大團隊，沒有投資方。就是覺得這個工具應該存在，所以把它做出來了。
+                        </p>
+                        <p className="text-gray-400">
+                            如果你有任何建議、反饋，或者只是想說說你的旅行體驗，我們很樂意聽。
+                        </p>
+                    </div>
+                </section>
+
+                {/* CTA */}
+                <div className="pt-6 flex flex-col sm:flex-row gap-4">
+                    <Link href="/workspace">
+                        <button className="bg-[#EEDC00] text-black px-8 py-4 rounded-xl font-black hover:bg-yellow-300 transition-all text-sm uppercase tracking-widest">
+                            立即生成行程
+                        </button>
+                    </Link>
+                    <Link href="/contact">
+                        <button className="bg-white/10 text-white border border-white/20 px-8 py-4 rounded-xl font-bold hover:bg-white/20 transition-all text-sm uppercase tracking-widest">
+                            聯絡我們
+                        </button>
+                    </Link>
+                </div>
+
+                <div className="pt-8 text-gray-600 text-sm">
+                    <p>© {new Date().getFullYear()} HKfirstclick. Made in Hong Kong</p>
+                </div>
+            </div>
+        </div>
     );
 }

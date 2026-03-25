@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
-import { Map, Search, X, Navigation, MapPin, Sparkles, ChevronLeft, ChevronRight } from "lucide-react";
+import { Map, Search, X, Navigation, MapPin, Sparkles, ChevronLeft, ChevronRight, UtensilsCrossed, Landmark } from "lucide-react";
 import Link from "next/link";
 import dynamic from "next/dynamic";
 import { useEffect, useState, useRef, useCallback } from "react";
@@ -167,7 +167,7 @@ function MapContent() {
             {(!userTier || userTier === "TRIAL" || userTier === "Casual") && (
                 <div className="absolute inset-0 z-[600] backdrop-blur-md bg-black/60 flex items-center justify-center">
                     <div className="bg-[#161616] border border-[#EEDC00]/30 border-t border-[#EEDC00]/40 rounded-3xl p-8 md:p-12 max-w-md mx-4 text-center shadow-[0_10px_40px_rgba(0,0,0,0.8)]">
-                        <div className="text-5xl mb-4">🗺️</div>
+                        <div className="mb-4 flex justify-center"><Map size={48} className="text-[#EEDC00]" /></div>
                         <div className="inline-block px-3 py-1 bg-[#EEDC00]/20 text-[#EEDC00] rounded-full text-xs font-bold mb-4 uppercase tracking-wider border border-[#EEDC00]/30 shadow-sm">
                             {t.map_premium_badge || "Premium Feature"}
                         </div>
@@ -178,7 +178,7 @@ function MapContent() {
                             {t.map_desc || "Unlock the interactive AI Travel Map with a Journey Pass or above. Explore 1,000+ cities with translations and personalized itinerary suggestions."}
                         </p>
                         <Link href="/pricing" className="block w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-bold hover:bg-[#ffe800] transition-colors shadow-[0_0_20px_rgba(238,220,0,0.3)]">
-                            ✨ {t.map_upgrade_cta || t.btn_upgrade || "Upgrade to Unlock"}
+                            <span className="flex items-center justify-center gap-2"><Sparkles size={15} /> {t.map_upgrade_cta || t.btn_upgrade || "Upgrade to Unlock"}</span>
                         </Link>
                     </div>
                 </div>
@@ -361,11 +361,11 @@ function MapContent() {
                                 {/* Spot & Food Highlight Cards */}
                                 <div className="flex-1 w-full grid grid-cols-1 sm:grid-cols-2 gap-4">
                                     <Link href={`/food/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-yellow-400/10 hover:border-yellow-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(238,220,0,0.2)] active:scale-95 transition-all duration-200 shadow-xl block cursor-pointer">
-                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest">{t.map_must_try_food || "🍜 Must Try Food"}</div>
+                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest flex items-center gap-1.5"><UtensilsCrossed size={11} />{t.map_must_try_food || "Must Try Food"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'top_food', language, selectedCity.Top_Food)}</div>
                                     </Link>
                                     <Link href={`/attractions/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-purple-400/10 hover:border-purple-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(168,85,247,0.2)] active:scale-95 transition-all duration-200 shadow-xl block cursor-pointer">
-                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest">{t.map_top_spot || "🏛️ Top Spot"}</div>
+                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest flex items-center gap-1.5"><Landmark size={11} />{t.map_top_spot || "Top Spot"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'must_visit_spot', language, selectedCity.Must_Visit_Spot)}</div>
                                     </Link>
                                 </div>

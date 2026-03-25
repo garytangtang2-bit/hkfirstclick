@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { Sparkles } from "lucide-react";
 
 export function Footer({ t }: { t: any }) {
     return (
@@ -14,7 +15,7 @@ export function Footer({ t }: { t: any }) {
                         {t.footer_copyright?.replace("{year}", new Date().getFullYear().toString()) || `© ${new Date().getFullYear()} All rights reserved.`}
                     </p>
                     <p className="text-purple-400 text-xs font-semibold">
-                        ✨ {t.footer_free_trial || "Free trial included — no credit card needed"}
+                        <span className="flex items-center gap-1.5"><Sparkles size={12} />{t.footer_free_trial || "Free trial included — no credit card needed"}</span>
                     </p>
                 </div>
 

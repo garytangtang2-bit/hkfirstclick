@@ -155,16 +155,20 @@ export default function MapComponent({ userTier, selectedRegion, hoveredCityName
         mapInstance.current.addLayer(clusterGroup);
         markersClusterRef.current = clusterGroup;
 
-        // Update visible cities on map move
+        // Update visible cities on map move (debounced)
+        let moveTimer: ReturnType<typeof setTimeout>;
         const handleMoveEnd = () => {
-            if (!mapInstance.current) return;
-            try {
-                const bounds = mapInstance.current.getBounds();
-                const visible = allCitiesRef.current.filter((city: any) =>
-                    bounds.contains([city.Latitude, city.Longitude])
-                );
-                onVisibleCitiesChange(visible.slice(0, 15));
-            } catch (e) { }
+            clearTimeout(moveTimer);
+            moveTimer = setTimeout(() => {
+                if (!mapInstance.current) return;
+                try {
+                    const bounds = mapInstance.current.getBounds();
+                    const visible = allCitiesRef.current.filter((city: any) =>
+                        bounds.contains([city.Latitude, city.Longitude])
+                    );
+                    onVisibleCitiesChange(visible.slice(0, 15));
+                } catch (e) { }
+            }, 200);
         };
 
         mapInstance.current.off('moveend', handleMoveEnd);
@@ -173,22 +177,26 @@ export default function MapComponent({ userTier, selectedRegion, hoveredCityName
 
     }, [mapLoaded, dataLoaded, selectedRegion, language]);
 
-    // Separate effect for hover state changes - just updates icons without rebuilding everything
+    // Hover state: only update the 2 affected markers (previous + current)
+    const prevHoveredRef = useRef<string | null>(null);
     useEffect(() => {
         if (!mapLoaded || !markersClusterRef.current || !window.L) return;
         const L = window.L;
+        const prev = prevHoveredRef.current;
+        prevHoveredRef.current = hoveredCityName;
 
         markersClusterRef.current.eachLayer((marker: any) => {
             const city = marker.cityData;
             if (!city) return;
+            // Only update markers that changed state
+            if (city.City !== prev && city.City !== hoveredCityName) return;
             const isActive = hoveredCityName === city.City;
-            const pureGlowIcon = L.divIcon({
+            marker.setIcon(L.divIcon({
                 className: 'clear-leaflet-bg',
                 html: `<div class="pure-glow-dot ${isActive ? 'active-glow-dot' : ''}"></div>`,
                 iconSize: [40, 40],
                 iconAnchor: [20, 20]
-            });
-            marker.setIcon(pureGlowIcon);
+            }));
         });
     }, [hoveredCityName, mapLoaded]);
 

@@ -4,7 +4,7 @@ import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useRef, useEffect } from "react";
 
-import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon } from "lucide-react";
+import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
 
@@ -142,12 +142,12 @@ function WorkspaceContent() {
     }, [activeDayIndex, itinerary]);
 
     const SP_PURPOSES = [
-        { id: "sightseeing", label: t.purp_sight, icon: "📸" },
-        { id: "shopping", label: t.purp_shop, icon: "🛍️" },
-        { id: "food", label: t.purp_food, icon: "🍜" },
-        { id: "relax", label: t.purp_relax, icon: "💆" },
-        { id: "nature", label: t.purp_nature, icon: "🏔️" },
-        { id: "history", label: t.purp_hist, icon: "🏛️" },
+        { id: "sightseeing", label: t.purp_sight },
+        { id: "shopping", label: t.purp_shop },
+        { id: "food", label: t.purp_food },
+        { id: "relax", label: t.purp_relax },
+        { id: "nature", label: t.purp_nature },
+        { id: "history", label: t.purp_hist },
     ];
 
     const getPromptLanguage = (lang: string) => {
@@ -654,7 +654,13 @@ function WorkspaceContent() {
                                                             : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30"
                                                             }`}
                                                     >
-                                                        <span>{p.icon}</span> {p.label}
+                                                        {p.id === "sightseeing" && <Camera size={12} />}
+                                                        {p.id === "shopping" && <ShoppingBag size={12} />}
+                                                        {p.id === "food" && <UtensilsCrossed size={12} />}
+                                                        {p.id === "relax" && <Waves size={12} />}
+                                                        {p.id === "nature" && <TreePine size={12} />}
+                                                        {p.id === "history" && <Landmark size={12} />}
+                                                        {p.label}
                                                     </button>
                                                 ))}
                                             </div>

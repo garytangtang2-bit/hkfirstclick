@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
-import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Coins } from "lucide-react";
+import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Coins, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
 import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
@@ -111,6 +111,7 @@ function WorkspaceContent() {
     const [activeDayIndex, setActiveDayIndex] = useState(-1);
     const [wizardStep, setWizardStep] = useState(1); // 1, 2, or 3
     const [error, setError] = useState("");
+    const [showFieldErrors, setShowFieldErrors] = useState(false);
     const [itinerary, setItinerary] = useState<any>(null);
     const [itineraryId, setItineraryId] = useState<string | null>(null);
     const [chatMessage, setChatMessage] = useState("");
@@ -165,12 +166,12 @@ function WorkspaceContent() {
     }, [activeDayIndex, itinerary]);
 
     const SP_PURPOSES = [
-        { id: "sightseeing", label: t.purp_sight, icon: "📸" },
-        { id: "shopping", label: t.purp_shop, icon: "🛍️" },
-        { id: "food", label: t.purp_food, icon: "🍜" },
-        { id: "relax", label: t.purp_relax, icon: "💆" },
-        { id: "nature", label: t.purp_nature, icon: "🏔️" },
-        { id: "history", label: t.purp_hist, icon: "🏛️" },
+        { id: "sightseeing", label: t.purp_sight, icon: "Camera" },
+        { id: "shopping", label: t.purp_shop, icon: "ShoppingBag" },
+        { id: "food", label: t.purp_food, icon: "UtensilsCrossed" },
+        { id: "relax", label: t.purp_relax, icon: "Waves" },
+        { id: "nature", label: t.purp_nature, icon: "TreePine" },
+        { id: "history", label: t.purp_hist, icon: "Landmark" },
     ];
 
     const getPromptLanguage = (lang: string) => {
@@ -181,6 +182,14 @@ function WorkspaceContent() {
     useEffect(() => {
         const queryParams = new URLSearchParams(window.location.search);
         const id = queryParams.get("id");
+        const destParam = queryParams.get("dest");
+        const mustVisitParam = queryParams.get("mustVisit");
+
+        // Pre-fill destination from food/attractions/catalog page
+        if (destParam) setDestination(destParam);
+        // Pre-fill must-visit spots from food/attractions page
+        if (mustVisitParam) setMustVisit(mustVisitParam);
+
         if (id) {
             const fetchItinerary = async () => {
                 setLoading(true);
@@ -424,7 +433,10 @@ function WorkspaceContent() {
                                             <div>
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                     <Globe2 size={14} /> {t.input_origin}
+                                                    <span className="text-red-500">*</span>
+                                                    {showFieldErrors && !origin && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                 </label>
+                                                <div className={showFieldErrors && !origin ? "ring-2 ring-red-500/60 rounded-xl" : ""}>
                                                 <AutocompleteInput
                                                     value={origin}
                                                     onChange={setOrigin}
@@ -433,12 +445,16 @@ function WorkspaceContent() {
                                                     popularLabel={t.ws_popular_airports}
                                                     customLocationLabel={t.ws_custom_location}
                                                 />
+                                                </div>
                                             </div>
 
                                             <div>
                                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                     <MapPin size={14} /> {t.input_dest}
+                                                    <span className="text-red-500">*</span>
+                                                    {showFieldErrors && !destination && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                 </label>
+                                                <div className={showFieldErrors && !destination ? "ring-2 ring-red-500/60 rounded-xl" : ""}>
                                                 <AutocompleteInput
                                                     value={destination}
                                                     onChange={setDestination}
@@ -447,12 +463,15 @@ function WorkspaceContent() {
                                                     popularLabel={t.ws_popular_airports}
                                                     customLocationLabel={t.ws_custom_location}
                                                 />
+                                                </div>
                                             </div>
 
                                             <div className="grid grid-cols-2 gap-4">
                                                 <div>
                                                     <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                         <Calendar size={14} /> {t.date_start}
+                                                        <span className="text-red-500">*</span>
+                                                        {showFieldErrors && !dates.start && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                     </label>
                                                     <div className="relative group">
                                                         <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors text-muted-premium">
@@ -462,7 +481,7 @@ function WorkspaceContent() {
                                                             type="date"
                                                             value={dates.start}
                                                             onChange={(e) => setDates({ ...dates, start: e.target.value })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}
                                                         />
                                                         <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.start ? 'text-white' : 'text-gray-400'}`}>
                                                             <span>{formatDateString(dates.start) || t.date_ph}</span>
@@ -472,6 +491,8 @@ function WorkspaceContent() {
                                                 <div>
                                                     <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-2 text-muted-premium">
                                                         <Calendar size={14} /> {t.date_end}
+                                                        <span className="text-red-500">*</span>
+                                                        {showFieldErrors && !dates.end && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                     </label>
                                                     <div className="relative group">
                                                         <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors text-muted-premium">
@@ -480,9 +501,9 @@ function WorkspaceContent() {
                                                         <input
                                                             type="date"
                                                             value={dates.end}
-                                                            min={dates.start} // Ensure end date cannot be before start date
+                                                            min={dates.start}
                                                             onChange={(e) => setDates({ ...dates, end: e.target.value })}
-                                                            className="w-full bg-[#0E0E0E] min-h-[50px] border border-white/10 rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent"
+                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-all relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}
                                                         />
                                                         <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.end ? 'text-white' : 'text-gray-400'}`}>
                                                             <span>{formatDateString(dates.end) || t.date_ph}</span>
@@ -675,7 +696,13 @@ function WorkspaceContent() {
                                                                 : "bg-[#0E0E0E] border-white/10 text-gray-400 hover:border-white/30 hover:text-white"
                                                                 }`}
                                                         >
-                                                            <span>{p.icon}</span> {p.label}
+                                                            {p.id === "sightseeing" && <Camera size={14} />}
+                                            {p.id === "shopping" && <ShoppingBag size={14} />}
+                                            {p.id === "food" && <UtensilsCrossed size={14} />}
+                                            {p.id === "relax" && <Waves size={14} />}
+                                            {p.id === "nature" && <TreePine size={14} />}
+                                            {p.id === "history" && <Landmark size={14} />}
+                                            {p.label}
                                                         </button>
                                                     ))}
                                                 </div>
@@ -746,9 +773,11 @@ function WorkspaceContent() {
                                             <button
                                                 onClick={() => {
                                                     if (wizardStep === 1 && (!origin || !destination || !dates.start || !dates.end)) {
-                                                        setError(t.err_empty || "Please fill in all core location and date fields.");
+                                                        setShowFieldErrors(true);
+                                                        setError(t.err_empty || "Please fill in all required fields.");
                                                         return;
                                                     }
+                                                    setShowFieldErrors(false);
                                                     setError("");
                                                     setWizardStep(wizardStep + 1);
                                                 }}

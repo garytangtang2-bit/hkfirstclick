@@ -78,18 +78,20 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
     // Prioritize selected language, then original Chinese richData (no English fallback)
     const currentLangCode = langCode || LANG_NAME_TO_CODE[language] || 'en';
     const translatedRich = richData?.translations?.[currentLangCode] || null;
-    const activeRich = translatedRich || richData;
+    // Only use translatedRich if it has daily_itinerary (full content), otherwise fall back to root
+    const activeRich = (translatedRich?.daily_itinerary ? translatedRich : null) || richData;
 
     // Rich data overrides - ensure we use localized name/title if possible
     const cityName = basicCityName;
     
-    // Logic: If we have a translation, use its title. 
-    // Otherwise, generate a Chinese title: "[City Name] [Days]日完美行程攻略"
-    const heroTitle = (translatedRich && activeRich?.seo_meta?.title) 
-        ? activeRich.seo_meta.title 
-        : (language === "繁體中文" || language === "TW")
-            ? `${cityName} ${getRecommendedDays(cityId)}日完美行程攻略`
-            : (t.guide_title_dynamic ? t.guide_title_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : `${getRecommendedDays(cityId)} ${t.landing_days || "Days Itinerary"}`).replace('{cityName}', cityName);
+    // Logic: prefer translatedRich.seo_meta.title, then activeRich.seo_meta.title, then generated title
+    const heroTitle = (translatedRich?.seo_meta?.title)
+        ? translatedRich.seo_meta.title
+        : (activeRich?.seo_meta?.title && activeRich !== richData)
+            ? activeRich.seo_meta.title
+            : (language === "繁體中文" || language === "TW")
+                ? `${cityName} ${getRecommendedDays(cityId)}日完美行程攻略`
+                : (t.guide_title_dynamic ? t.guide_title_dynamic.replace('{days}', getRecommendedDays(cityId).toString()) : `${getRecommendedDays(cityId)} ${t.landing_days || "Days Itinerary"}`).replace('{cityName}', cityName);
 
     const heroIntro = activeRich?.hero_section?.hook_intro || basicDescription;
     
@@ -132,66 +134,71 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
     const klookSimUrl = klookBase + encodeURIComponent(`https://www.klook.com/${klookLang}/search/result/?query=${encodeURIComponent(cityName + ' SIM card')}&sort=most_relevant&tab_key=0&start=1`);
 
     return (
-        <div className="min-h-screen bg-[radial-gradient(ellipse_at_top,_#0f172a_0%,_#0a0a0a_60%)] pb-24 text-white">
-            {/* Two-column layout: article | sidebar */}
-            <div className="max-w-[1120px] mx-auto px-4 pt-20 md:pt-24 flex gap-8 items-start">
+        <div className="min-h-screen bg-[#0a0a0a] pb-24 text-white">
 
-            {/* Main Article Container */}
-            <div className="flex-1 min-w-0 px-5 sm:px-8">
-                
-                {/* 1. Article Header (No Overlap) */}
-                <header className="mb-12">
+            {/* FULL-WIDTH HERO IMAGE with text overlay */}
+            <div className="relative w-full h-[60vh] md:h-[70vh] overflow-hidden">
+                <img
+                    src={heroPhotoUrl}
+                    alt={cityName}
+                    className="absolute inset-0 w-full h-full object-cover"
+                />
+                {/* Dark gradients for readability */}
+                <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0a] via-[#0a0a0a]/50 to-black/30" />
+                <div className="absolute inset-0 bg-gradient-to-r from-black/40 to-transparent" />
+
+                {/* Text overlaid on photo */}
+                <div className="absolute inset-0 flex flex-col justify-end px-6 md:px-12 pb-10 md:pb-16 max-w-[1120px] mx-auto left-0 right-0">
                     {/* Tags */}
-                    <div className="flex items-center gap-4 text-purple-400 mb-6 font-bold text-sm tracking-widest uppercase">
-                        <div className="flex items-center gap-1.5 bg-purple-500/10 px-3 py-1.5 rounded-full border border-purple-500/20">
-                            <MapPin size={16} /> <span>{cityName}</span>
+                    <div className="flex items-center gap-3 mb-4">
+                        <div className="flex items-center gap-1.5 bg-purple-500/20 backdrop-blur-sm px-3 py-1.5 rounded-full border border-purple-500/30 text-purple-300 text-xs font-bold uppercase tracking-widest">
+                            <MapPin size={13} /> <span>{cityName}</span>
                         </div>
-                        <div className="flex items-center gap-1.5">
-                            <Footprints size={16} /> <span>{t.guide_tag || "旅遊指南"}</span>
+                        <div className="flex items-center gap-1.5 text-white/60 text-xs font-bold uppercase tracking-widest">
+                            <Footprints size={13} /> <span>{t.guide_tag || "旅遊指南"}</span>
                         </div>
                     </div>
 
                     {/* Big Title */}
-                    <h1 className="text-2xl md:text-3xl lg:text-4xl font-black leading-[1.2] tracking-tight mb-8">
+                    <h1 className="text-3xl md:text-5xl lg:text-6xl font-black leading-[1.15] tracking-tight mb-5 text-white drop-shadow-2xl">
                         {heroTitle}
                     </h1>
 
                     {/* Meta Info */}
-                    <div className="flex flex-wrap items-center gap-x-8 gap-y-4 text-gray-500 text-sm font-medium mb-10 pb-6 border-b border-white/10">
+                    <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-white/60 text-sm font-medium">
                         <div className="flex items-center gap-2">
-                            <Clock size={16} />
+                            <Clock size={14} />
                             <span>{t.cat_publish_date || "發布日期"}: {new Date().toLocaleDateString(
-                                    (() => {
-                                        const localeMap: Record<string, string> = {
-                                            'en': 'en-US', 'zh': 'zh-TW', 'ja': 'ja-JP', 'ko': 'ko-KR',
-                                            'fr': 'fr-FR', 'es': 'es-ES', 'id': 'id-ID', 'hi': 'hi-IN',
-                                            'pt': 'pt-BR', 'ar': 'ar-SA', 'bn': 'bn-BD', 'ru': 'ru-RU'
-                                        };
-                                        return localeMap[currentLangCode] || 'en-US';
-                                    })(),
-                                    { year: 'numeric', month: 'short', day: 'numeric' }
-                                )}</span>
+                                (() => {
+                                    const localeMap: Record<string, string> = {
+                                        'en': 'en-US', 'zh': 'zh-TW', 'ja': 'ja-JP', 'ko': 'ko-KR',
+                                        'fr': 'fr-FR', 'es': 'es-ES', 'id': 'id-ID', 'hi': 'hi-IN',
+                                        'pt': 'pt-BR', 'ar': 'ar-SA', 'bn': 'bn-BD', 'ru': 'ru-RU'
+                                    };
+                                    return localeMap[currentLangCode] || 'en-US';
+                                })(),
+                                { year: 'numeric', month: 'short', day: 'numeric' }
+                            )}</span>
                         </div>
                         <div className="flex items-center gap-2">
-                            <div className="w-5 h-5 rounded-full bg-gradient-to-tr from-purple-600 to-indigo-500 flex items-center justify-center text-[10px] text-white font-bold">HK</div>
-                            <span className="text-gray-300">HKfirstclick AI</span>
+                            <div className="w-4 h-4 rounded-full bg-gradient-to-tr from-purple-600 to-indigo-500 flex items-center justify-center text-[8px] text-white font-bold">HK</div>
+                            <span>HKfirstclick AI</span>
                         </div>
                     </div>
+                </div>
+            </div>
 
+            {/* Two-column layout: article | sidebar */}
+            <div className="max-w-[1120px] mx-auto px-4 pt-12 flex gap-8 items-start">
+
+            {/* Main Article Container */}
+            <div className="flex-1 min-w-0 px-5 sm:px-8">
+
+                <header className="mb-12">
                     {/* Intro Text */}
-                    <p className="text-lg md:text-xl text-gray-300 leading-relaxed font-medium mb-12 opacity-90">
+                    <p className="text-lg md:text-xl text-gray-300 leading-relaxed font-medium mb-0 opacity-90">
                         {heroIntro}
                     </p>
-
-                    {/* Hero Image (Below Text, No Overlap) */}
-                    <div className="w-full aspect-[16/9] md:aspect-[21/9] rounded-2xl overflow-hidden shadow-2xl relative mb-16">
-                        <img src={heroPhotoUrl} alt={cityName} className="w-full h-full object-cover cinematic-img" />
-                        <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-[#0A0A0A]/80 to-transparent" />
-                        <div className="absolute bottom-4 right-6 flex items-center gap-2 text-white/80 text-xs font-bold bg-black/40 px-3 py-1.5 rounded-full backdrop-blur-md">
-                            <Sparkles size={14} className="text-yellow-400" />
-                            {cityName}
-                        </div>
-                    </div>
                 </header>
 
                 {/* Call to Action - Workspace Generation (Integrated into flow) */}
