@@ -247,6 +247,7 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
   const { language, setLanguage } = useAppContext();
   const [showSearch, setShowSearch] = useState(false);
   const [showSticky, setShowSticky] = useState(false);
+  const [photoUrls, setPhotoUrls] = useState<Record<string, string>>({});
 
   useEffect(() => {
     if (initialLang && initialLang !== language) setLanguage(initialLang);
@@ -257,6 +258,22 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  // Fetch photos for all items using english items' image_keyword
+  useEffect(() => {
+    const enItems = foodData.translations["en"]?.items ?? [];
+    enItems.forEach((item: any) => {
+      if (!item.image_keyword) return;
+      fetch(`/api/activity-photo?keyword=${encodeURIComponent(item.image_keyword)}&city=${encodeURIComponent(citySlug)}`)
+        .then(r => r.json())
+        .then(data => {
+          if (data.url) {
+            setPhotoUrls(prev => ({ ...prev, [item.id]: data.url }));
+          }
+        })
+        .catch(() => {});
+    });
+  }, [citySlug, foodData]);
 
   const activeLang = LANG_NAME_TO_CODE[language] ?? langCode;
   const translation = foodData.translations[activeLang] ?? foodData.translations["en"];
@@ -331,7 +348,7 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
           <div key={item.id} className="bg-[#161616] border border-white/10 rounded-2xl overflow-hidden flex flex-col md:flex-row hover:border-yellow-500/30 transition-colors">
             <div className="relative w-full md:w-56 h-48 md:h-auto shrink-0 bg-gray-800">
               <ImageWithSkeleton
-                src={item.photo_url || DEFAULT_FOOD_IMG}
+                src={photoUrls[item.id] || item.photo_url || DEFAULT_FOOD_IMG}
                 alt={`${item.name} - ${getTypeLabel(item.type, "en")} in ${cityName}`}
               />
               <div className="absolute top-3 left-3 bg-black/70 backdrop-blur-sm text-yellow-400 text-xs font-bold px-2 py-1 rounded-full">
