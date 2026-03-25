@@ -352,14 +352,14 @@ function MapContent() {
 
                                 {/* Spot & Food Highlight Cards */}
                                 <div className="flex-1 w-full grid grid-cols-1 sm:grid-cols-2 gap-4">
-                                    <div className="bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-white/10 transition-colors shadow-xl">
+                                    <Link href={`/food/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-white/10 hover:border-yellow-400/40 transition-colors shadow-xl block">
                                         <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest">{t.map_must_try_food || "🍜 Must Try Food"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'top_food', language, selectedCity.Top_Food)}</div>
-                                    </div>
-                                    <div className="bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-white/10 transition-colors shadow-xl">
+                                    </Link>
+                                    <Link href={`/attractions/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-white/10 hover:border-purple-400/40 transition-colors shadow-xl block">
                                         <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest">{t.map_top_spot || "🏛️ Top Spot"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'must_visit_spot', language, selectedCity.Must_Visit_Spot)}</div>
-                                    </div>
+                                    </Link>
                                 </div>
 
                                 {/* Action Buttons */}
