@@ -94,14 +94,71 @@ export default async function AttractionsSlugPage({ params }: Props) {
     if (!attractionsData) notFound();
 
     const langName = LANG_CODE_TO_NAME[lang];
+    const translation = attractionsData.translations?.[lang] ?? attractionsData.translations?.["en"];
+    const items = translation?.items ?? [];
+
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.hkfirstclick.com" },
+            { "@type": "ListItem", "position": 2, "name": translation?.seo_title ?? citySlug, "item": `https://www.hkfirstclick.com/attractions/${lang}/${citySlug}` },
+          ],
+        },
+        {
+          "@type": "ItemList",
+          "name": translation?.seo_title ?? `Top Attractions in ${citySlug}`,
+          "description": translation?.seo_description ?? "",
+          "url": `https://www.hkfirstclick.com/attractions/${lang}/${citySlug}`,
+          "numberOfItems": items.length,
+          "itemListElement": items.map((item: any, i: number) => ({
+            "@type": "ListItem",
+            "position": i + 1,
+            "name": item.name,
+            "item": {
+              "@type": "TouristAttraction",
+              "name": item.name,
+              "description": item.description,
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": item.star_rating,
+                "bestRating": 5,
+                "ratingCount": 100,
+              },
+              ...(item.needs_ticket && { "isAccessibleForFree": false }),
+            },
+          })),
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": `What are the top attractions in ${citySlug}?`,
+              "acceptedAnswer": { "@type": "Answer", "text": items.slice(0, 3).map((i: any) => i.name).join(", ") + " are among the must-see attractions." },
+            },
+            {
+              "@type": "Question",
+              "name": `Do I need tickets for attractions in ${citySlug}?`,
+              "acceptedAnswer": { "@type": "Answer", "text": `Some attractions in ${citySlug} require advance tickets. You can book tickets via Klook for the best prices.` },
+            },
+          ],
+        },
+      ],
+    };
 
     return (
-      <AttractionsClientPage
-        citySlug={citySlug}
-        attractionsData={attractionsData}
-        initialLang={langName}
-        langCode={lang}
-      />
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        <AttractionsClientPage
+          citySlug={citySlug}
+          attractionsData={attractionsData}
+          initialLang={langName}
+          langCode={lang}
+        />
+      </>
     );
   }
 

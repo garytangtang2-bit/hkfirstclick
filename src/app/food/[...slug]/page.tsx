@@ -94,14 +94,72 @@ export default async function FoodSlugPage({ params }: Props) {
     if (!foodData) notFound();
 
     const langName = LANG_CODE_TO_NAME[lang];
+    const translation = foodData.translations?.[lang] ?? foodData.translations?.["en"];
+    const items = translation?.items ?? [];
+
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.hkfirstclick.com" },
+            { "@type": "ListItem", "position": 2, "name": translation?.seo_title ?? citySlug, "item": `https://www.hkfirstclick.com/food/${lang}/${citySlug}` },
+          ],
+        },
+        {
+          "@type": "ItemList",
+          "name": translation?.seo_title ?? `Best Food in ${citySlug}`,
+          "description": translation?.seo_description ?? "",
+          "url": `https://www.hkfirstclick.com/food/${lang}/${citySlug}`,
+          "numberOfItems": items.length,
+          "itemListElement": items.map((item: any, i: number) => ({
+            "@type": "ListItem",
+            "position": i + 1,
+            "name": item.name,
+            "item": {
+              "@type": "FoodEstablishment",
+              "name": item.name,
+              "description": item.description,
+              "servesCuisine": item.type,
+              "priceRange": item.price_range,
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": item.star_rating,
+                "bestRating": 5,
+                "ratingCount": 100,
+              },
+            },
+          })),
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": `What is the best food to eat in ${citySlug}?`,
+              "acceptedAnswer": { "@type": "Answer", "text": translation?.page_intro ?? "" },
+            },
+            {
+              "@type": "Question",
+              "name": `Where can I find the best restaurants in ${citySlug}?`,
+              "acceptedAnswer": { "@type": "Answer", "text": items.slice(0, 3).map((i: any) => i.name).join(", ") + " are among the top-rated dining options." },
+            },
+          ],
+        },
+      ],
+    };
 
     return (
-      <FoodClientPage
-        citySlug={citySlug}
-        foodData={foodData}
-        initialLang={langName}
-        langCode={lang}
-      />
+      <>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        <FoodClientPage
+          citySlug={citySlug}
+          foodData={foodData}
+          initialLang={langName}
+          langCode={lang}
+        />
+      </>
     );
   }
 

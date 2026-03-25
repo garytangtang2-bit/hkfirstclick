@@ -61,5 +61,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   })
 
+  // Food pages — 54 cities × 12 languages
+  LOCALES.forEach(locale => {
+    CITY_SLUGS.forEach(city => {
+      entries.push({
+        url: `${BASE_URL}/food/${locale}/${city}`,
+        lastModified: NOW,
+        changeFrequency: 'monthly',
+        priority: 0.85,
+      })
+    })
+  })
+
+  // Attractions pages — 54 cities × 12 languages
+  LOCALES.forEach(locale => {
+    CITY_SLUGS.forEach(city => {
+      entries.push({
+        url: `${BASE_URL}/attractions/${locale}/${city}`,
+        lastModified: NOW,
+        changeFrequency: 'monthly',
+        priority: 0.85,
+      })
+    })
+  })
+
   return entries
 }
