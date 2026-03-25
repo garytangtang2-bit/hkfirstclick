@@ -45,7 +45,11 @@ export default function MapComponent({ userTier, selectedRegion, hoveredCityName
     }, []);
 
     useEffect(() => {
-        if (typeof window !== "undefined" && window.L && !mapInstance.current && mapRef.current) {
+        let pollInterval: ReturnType<typeof setInterval>;
+
+        const initMap = () => {
+            if (typeof window === "undefined" || !window.L || mapInstance.current || !mapRef.current) return false;
+
             mapInstance.current = window.L.map(mapRef.current, {
                 zoomControl: false,
                 maxZoom: 18
@@ -62,7 +66,6 @@ export default function MapComponent({ userTier, selectedRegion, hoveredCityName
 
             setMapLoaded(true);
 
-            // Register flyToCity function so page.tsx search can command the map
             if (flyToCityRef) {
                 flyToCityRef.current = (city: any) => {
                     if (mapInstance.current && city.Latitude && city.Longitude) {
@@ -73,9 +76,18 @@ export default function MapComponent({ userTier, selectedRegion, hoveredCityName
                     }
                 };
             }
+            return true;
+        };
+
+        // Try immediately, then poll every 100ms until Leaflet is ready
+        if (!initMap()) {
+            pollInterval = setInterval(() => {
+                if (initMap()) clearInterval(pollInterval);
+            }, 100);
         }
 
         return () => {
+            clearInterval(pollInterval);
             if (mapInstance.current) {
                 mapInstance.current.remove();
                 mapInstance.current = null;
