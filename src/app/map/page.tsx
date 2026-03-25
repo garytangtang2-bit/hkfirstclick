@@ -47,6 +47,7 @@ export default function MapPage() {
 function MapContent() {
     const { t, language } = useAppContext();
     const [userTier, setUserTier] = useState<string | null>(null);
+    const [tierLoaded, setTierLoaded] = useState(false);
     const [selectedRegion, setSelectedRegion] = useState<string>("All");
 
     const regionTranslationKeys: Record<string, string> = {
@@ -92,6 +93,7 @@ function MapContent() {
                     setUserTier(profile.tier);
                 }
             }
+            setTierLoaded(true);
         };
         fetchUserTier();
     }, [supabase]);
@@ -152,7 +154,7 @@ function MapContent() {
         <div className="h-[calc(100vh-64px)] w-full relative overflow-hidden bg-[#0A0A0A]">
 
             {/* The Actual Map Component (Full Screen Background) */}
-            <div className={`absolute inset-0 z-[100] ${(!userTier || userTier === "TRIAL" || userTier === "Casual") ? "pointer-events-none" : ""}`}>
+            <div className={`absolute inset-0 z-[100] ${(tierLoaded && (!userTier || userTier === "TRIAL" || userTier === "Casual")) ? "pointer-events-none" : ""}`}>
                 <MapComponent
                     userTier={userTier}
                     selectedRegion={selectedRegion}
@@ -164,7 +166,7 @@ function MapContent() {
             </div>
 
             {/* 🔒 Map Access Gate for non-Pro users */}
-            {(!userTier || userTier === "TRIAL" || userTier === "Casual") && (
+            {tierLoaded && (!userTier || userTier === "TRIAL" || userTier === "Casual") && (
                 <div className="absolute inset-0 z-[600] backdrop-blur-md bg-black/60 flex items-center justify-center">
                     <div className="bg-[#161616] border border-[#EEDC00]/30 border-t border-[#EEDC00]/40 rounded-3xl p-8 md:p-12 max-w-md mx-4 text-center shadow-[0_10px_40px_rgba(0,0,0,0.8)]">
                         <div className="mb-4 flex justify-center"><Map size={48} className="text-[#EEDC00]" /></div>
