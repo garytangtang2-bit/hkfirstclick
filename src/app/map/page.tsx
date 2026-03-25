@@ -366,7 +366,7 @@ function MapContent() {
                                 <div className="w-full md:w-[320px] flex flex-col gap-3 shrink-0">
                                     <Link href={`/workspace?dest=${encodeURIComponent(selectedCity.City)}`} className="w-full">
                                         <button className="w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-extrabold hover:bg-[#ffe800] transition-transform hover:scale-[1.02] active:scale-95 flex justify-center items-center gap-2 shadow-[0_10px_30px_rgba(238,220,0,0.3)]">
-                                            <Sparkles size={18} /> ✨ {t.map_actions_generate || "1-Click Generate"} <span className="text-black/60 font-semibold text-xs ml-1 bg-black/10 px-2 py-0.5 rounded-full">{t.map_actions_cost || "(5 pts)"}</span>
+                                            <Sparkles size={18} /> {t.map_actions_generate || "1-Click Generate"} <span className="text-black/60 font-semibold text-xs ml-1 bg-black/10 px-2 py-0.5 rounded-full">{t.map_actions_cost || "(5 pts)"}</span>
                                         </button>
                                     </Link>
                                     <Link href={`/catalog/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="w-full">
