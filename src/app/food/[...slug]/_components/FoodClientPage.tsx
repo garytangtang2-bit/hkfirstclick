@@ -51,6 +51,18 @@ const TYPE_LABELS: Record<string, Record<string, string>> = {
   market: { en: "Market", zh: "市場", ja: "市場", ko: "시장", fr: "Marché", es: "Mercado", id: "Pasar", hi: "बाज़ार", pt: "Mercado", ar: "سوق", bn: "বাজার", ru: "Рынок" },
 };
 
+const MUST_TRY_LABEL: Record<string, string> = {
+  en: "Must try", zh: "必點", ja: "必食", ko: "必須 먹어봐야 할", fr: "À ne pas manquer", es: "Imprescindible", id: "Wajib coba", hi: "जरूर खाएं", pt: "Imperdível", ar: "يجب تجربته", bn: "অবশ্যই চেষ্টা করুন", ru: "Обязательно попробуйте",
+};
+
+const BOOK_KLOOK_LABEL: Record<string, string> = {
+  en: "Book on Klook", zh: "在 Klook 預訂", ja: "Klookで予約", ko: "Klook에서 예약", fr: "Réserver sur Klook", es: "Reservar en Klook", id: "Pesan di Klook", hi: "Klook पर बुक करें", pt: "Reservar no Klook", ar: "احجز على Klook", bn: "Klook-এ বুক করুন", ru: "Забронировать на Klook",
+};
+
+const MUST_TRY_FOOD_LABEL: Record<string, string> = {
+  en: "Must Try Food", zh: "必嚐美食", ja: "必食グルメ", ko: "필수 음식", fr: "À goûter absolument", es: "Comida imprescindible", id: "Makanan wajib coba", hi: "जरूर चखें", pt: "Comida imperdível", ar: "طعام لا يُفوَّت", bn: "অবশ্যই খাবার", ru: "Обязательно попробуйте",
+};
+
 function getTypeLabel(type: string, langCode: string) {
   return TYPE_LABELS[type]?.[langCode] ?? type;
 }
@@ -74,7 +86,7 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
       <div className="mb-12 text-center">
         <div className="flex items-center justify-center gap-2 text-yellow-400 mb-3">
           <Utensils size={20} />
-          <span className="text-sm font-bold uppercase tracking-widest">Must Try Food</span>
+          <span className="text-sm font-bold uppercase tracking-widest">{MUST_TRY_FOOD_LABEL[activeLang] ?? MUST_TRY_FOOD_LABEL["en"]}</span>
         </div>
         <h1 className="text-3xl md:text-5xl font-black text-white mb-4 heading-premium">
           {translation?.seo_title ?? `Best Food in ${citySlug}`}
@@ -116,7 +128,7 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
                 </div>
                 <p className="text-gray-400 text-sm leading-relaxed mb-3">{item.description}</p>
                 <div className="flex items-center gap-2 text-sm">
-                  <span className="text-gray-500">Must try:</span>
+                  <span className="text-gray-500">{MUST_TRY_LABEL[activeLang] ?? MUST_TRY_LABEL["en"]}:</span>
                   <span className="text-yellow-300 font-semibold">{item.must_try}</span>
                 </div>
               </div>
@@ -127,7 +139,7 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
                 rel="noopener noreferrer sponsored"
                 className="mt-4 inline-flex items-center gap-2 bg-yellow-400 hover:bg-yellow-300 text-black font-bold text-sm px-4 py-2 rounded-full transition-colors w-fit"
               >
-                Book on Klook
+                {BOOK_KLOOK_LABEL[activeLang] ?? BOOK_KLOOK_LABEL["en"]}
                 <ExternalLink size={13} />
               </a>
             </div>

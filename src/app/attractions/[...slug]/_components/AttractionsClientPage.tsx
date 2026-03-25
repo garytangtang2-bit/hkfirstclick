@@ -37,6 +37,14 @@ interface Props {
   langCode: string;
 }
 
+const BOOK_KLOOK_LABEL: Record<string, string> = {
+  en: "Book on Klook", zh: "在 Klook 預訂", ja: "Klookで予約", ko: "Klook에서 예약", fr: "Réserver sur Klook", es: "Reservar en Klook", id: "Pesan di Klook", hi: "Klook पर बुक करें", pt: "Reservar no Klook", ar: "احجز على Klook", bn: "Klook-এ বুক করুন", ru: "Забронировать на Klook",
+};
+
+const TOP_ATTRACTIONS_LABEL: Record<string, string> = {
+  en: "Top Attractions", zh: "熱門景點", ja: "人気観光スポット", ko: "인기 명소", fr: "Principaux sites", es: "Principales atracciones", id: "Atraksi utama", hi: "शीर्ष आकर्षण", pt: "Principais atrações", ar: "أبرز المعالم", bn: "শীর্ষ আকর্ষণ", ru: "Главные достопримечательности",
+};
+
 const TYPE_LABELS: Record<string, Record<string, string>> = {
   landmark: { en: "Landmark", zh: "地標", ja: "ランドマーク", ko: "랜드마크", fr: "Monument", es: "Monumento", id: "Landmark", hi: "स्थलचिह्न", pt: "Ponto Turístico", ar: "معلم", bn: "ল্যান্ডমার্ক", ru: "Достопримечательность" },
   museum: { en: "Museum", zh: "博物館", ja: "博物館", ko: "박물관", fr: "Musée", es: "Museo", id: "Museum", hi: "संग्रहालय", pt: "Museu", ar: "متحف", bn: "জাদুঘর", ru: "Музей" },
@@ -74,7 +82,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
       <div className="mb-12 text-center">
         <div className="flex items-center justify-center gap-2 text-purple-400 mb-3">
           <Landmark size={20} />
-          <span className="text-sm font-bold uppercase tracking-widest">Top Attractions</span>
+          <span className="text-sm font-bold uppercase tracking-widest">{TOP_ATTRACTIONS_LABEL[activeLang] ?? TOP_ATTRACTIONS_LABEL["en"]}</span>
         </div>
         <h1 className="text-3xl md:text-5xl font-black text-white mb-4 heading-premium">
           {translation?.seo_title ?? `Top Attractions in ${citySlug}`}
@@ -142,7 +150,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
                 rel="noopener noreferrer sponsored"
                 className="mt-4 inline-flex items-center gap-2 bg-yellow-400 hover:bg-yellow-300 text-black font-bold text-sm px-4 py-2 rounded-full transition-colors w-fit"
               >
-                Book on Klook
+                {BOOK_KLOOK_LABEL[activeLang] ?? BOOK_KLOOK_LABEL["en"]}
                 <ExternalLink size={13} />
               </a>
             </div>
