@@ -11,6 +11,7 @@ import {
 import FoodClientPage from "./_components/FoodClientPage";
 
 export const dynamicParams = true;
+export const revalidate = 0;
 
 type Props = {
   params: Promise<{ slug: string[] }>;

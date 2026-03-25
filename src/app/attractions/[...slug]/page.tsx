@@ -11,6 +11,7 @@ import {
 import AttractionsClientPage from "./_components/AttractionsClientPage";
 
 export const dynamicParams = true;
+export const revalidate = 0;
 
 type Props = {
   params: Promise<{ slug: string[] }>;
