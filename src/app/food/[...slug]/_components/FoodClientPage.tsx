@@ -170,15 +170,154 @@ const CITY_KO_NAMES: Record<string, string> = {
   "venice": "베네치아", "vienna": "빈", "zurich": "취리히",
 };
 
+const CITY_FR_NAMES: Record<string, string> = {
+  "amsterdam": "Amsterdam", "athens": "Athènes", "auckland": "Auckland", "bali-kuta": "Bali Kuta",
+  "bangkok": "Bangkok", "barcelona": "Barcelone", "berlin": "Berlin", "brussels": "Bruxelles",
+  "buenos-aires": "Buenos Aires", "cairo": "Le Caire", "cape-town": "Le Cap", "chicago": "Chicago",
+  "copenhagen": "Copenhague", "dubai": "Dubaï", "edinburgh": "Édimbourg", "florence": "Florence",
+  "fukuoka": "Fukuoka", "hakone": "Hakone", "ho-chi-minh-city": "Hô-Chi-Minh-Ville", "hong-kong": "Hong Kong",
+  "hongkong": "Hong Kong", "kuala-lumpur": "Kuala Lumpur", "kyoto": "Kyoto", "las-vegas": "Las Vegas",
+  "lisbon": "Lisbonne", "london": "Londres", "los-angeles": "Los Angeles", "madrid": "Madrid",
+  "marrakesh": "Marrakech", "melbourne": "Melbourne", "miami": "Miami", "munich": "Munich",
+  "new-york": "New York", "nice": "Nice", "okinawa": "Okinawa", "osaka": "Osaka",
+  "paris": "Paris", "prague": "Prague", "reykjavik": "Reykjavik", "rio-de-janeiro": "Rio de Janeiro",
+  "rome": "Rome", "san-francisco": "San Francisco", "santorini": "Santorin", "sapporo": "Sapporo",
+  "seattle": "Seattle", "seoul": "Séoul", "singapore": "Singapour", "stockholm": "Stockholm",
+  "sydney": "Sydney", "taipei": "Taipei", "tokyo": "Tokyo", "toronto": "Toronto",
+  "venice": "Venise", "vienna": "Vienne", "zurich": "Zurich",
+};
+
+const CITY_ES_NAMES: Record<string, string> = {
+  "amsterdam": "Ámsterdam", "athens": "Atenas", "auckland": "Auckland", "bali-kuta": "Bali Kuta",
+  "bangkok": "Bangkok", "barcelona": "Barcelona", "berlin": "Berlín", "brussels": "Bruselas",
+  "buenos-aires": "Buenos Aires", "cairo": "El Cairo", "cape-town": "Ciudad del Cabo", "chicago": "Chicago",
+  "copenhagen": "Copenhague", "dubai": "Dubái", "edinburgh": "Edimburgo", "florence": "Florencia",
+  "fukuoka": "Fukuoka", "hakone": "Hakone", "ho-chi-minh-city": "Ciudad Ho Chi Minh", "hong-kong": "Hong Kong",
+  "hongkong": "Hong Kong", "kuala-lumpur": "Kuala Lumpur", "kyoto": "Kioto", "las-vegas": "Las Vegas",
+  "lisbon": "Lisboa", "london": "Londres", "los-angeles": "Los Ángeles", "madrid": "Madrid",
+  "marrakesh": "Marrakech", "melbourne": "Melbourne", "miami": "Miami", "munich": "Múnich",
+  "new-york": "Nueva York", "nice": "Niza", "okinawa": "Okinawa", "osaka": "Osaka",
+  "paris": "París", "prague": "Praga", "reykjavik": "Reikiavik", "rio-de-janeiro": "Río de Janeiro",
+  "rome": "Roma", "san-francisco": "San Francisco", "santorini": "Santorini", "sapporo": "Sapporo",
+  "seattle": "Seattle", "seoul": "Seúl", "singapore": "Singapur", "stockholm": "Estocolmo",
+  "sydney": "Sídney", "taipei": "Taipéi", "tokyo": "Tokio", "toronto": "Toronto",
+  "venice": "Venecia", "vienna": "Viena", "zurich": "Zúrich",
+};
+
+const CITY_ID_NAMES: Record<string, string> = {
+  "amsterdam": "Amsterdam", "athens": "Athena", "auckland": "Auckland", "bali-kuta": "Bali Kuta",
+  "bangkok": "Bangkok", "barcelona": "Barcelona", "berlin": "Berlin", "brussels": "Brussel",
+  "buenos-aires": "Buenos Aires", "cairo": "Kairo", "cape-town": "Kota Cape Town", "chicago": "Chicago",
+  "copenhagen": "Kopenhagen", "dubai": "Dubai", "edinburgh": "Edinburgh", "florence": "Florence",
+  "fukuoka": "Fukuoka", "hakone": "Hakone", "ho-chi-minh-city": "Kota Ho Chi Minh", "hong-kong": "Hong Kong",
+  "hongkong": "Hong Kong", "kuala-lumpur": "Kuala Lumpur", "kyoto": "Kyoto", "las-vegas": "Las Vegas",
+  "lisbon": "Lisbon", "london": "London", "los-angeles": "Los Angeles", "madrid": "Madrid",
+  "marrakesh": "Marrakesh", "melbourne": "Melbourne", "miami": "Miami", "munich": "Munich",
+  "new-york": "New York", "nice": "Nice", "okinawa": "Okinawa", "osaka": "Osaka",
+  "paris": "Paris", "prague": "Praha", "reykjavik": "Reykjavik", "rio-de-janeiro": "Rio de Janeiro",
+  "rome": "Roma", "san-francisco": "San Francisco", "santorini": "Santorini", "sapporo": "Sapporo",
+  "seattle": "Seattle", "seoul": "Seoul", "singapore": "Singapura", "stockholm": "Stockholm",
+  "sydney": "Sydney", "taipei": "Taipei", "tokyo": "Tokyo", "toronto": "Toronto",
+  "venice": "Venesia", "vienna": "Wina", "zurich": "Zurich",
+};
+
+const CITY_HI_NAMES: Record<string, string> = {
+  "amsterdam": "एम्स्टर्डम", "athens": "एथेंस", "auckland": "ऑकलैंड", "bali-kuta": "बाली कुटा",
+  "bangkok": "बैंकॉक", "barcelona": "बार्सिलोना", "berlin": "बर्लिन", "brussels": "ब्रुसेल्स",
+  "buenos-aires": "ब्यूनस आयर्स", "cairo": "काहिरा", "cape-town": "केप टाउन", "chicago": "शिकागो",
+  "copenhagen": "कोपेनहेगन", "dubai": "दुबई", "edinburgh": "एडिनबर्ग", "florence": "फ्लोरेंस",
+  "fukuoka": "फुकुओका", "hakone": "हाकोने", "ho-chi-minh-city": "हो ची मिन्ह सिटी", "hong-kong": "हांगकांग",
+  "hongkong": "हांगकांग", "kuala-lumpur": "कुआलालंपुर", "kyoto": "क्योटो", "las-vegas": "लास वेगास",
+  "lisbon": "लिस्बन", "london": "लंदन", "los-angeles": "लॉस एंजेलिस", "madrid": "मैड्रिड",
+  "marrakesh": "माराकेश", "melbourne": "मेलबर्न", "miami": "मियामी", "munich": "म्यूनिख",
+  "new-york": "न्यूयॉर्क", "nice": "नीस", "okinawa": "ओकिनावा", "osaka": "ओसाका",
+  "paris": "पेरिस", "prague": "प्राग", "reykjavik": "रेक्याविक", "rio-de-janeiro": "रियो डी जनेरो",
+  "rome": "रोम", "san-francisco": "सैन फ्रांसिस्को", "santorini": "सेंटोरिनी", "sapporo": "सापोरो",
+  "seattle": "सिएटल", "seoul": "सियोल", "singapore": "सिंगापुर", "stockholm": "स्टॉकहोम",
+  "sydney": "सिडनी", "taipei": "ताइपे", "tokyo": "टोक्यो", "toronto": "टोरंटो",
+  "venice": "वेनिस", "vienna": "वियना", "zurich": "ज़्यूरिख",
+};
+
+const CITY_PT_NAMES: Record<string, string> = {
+  "amsterdam": "Amsterdã", "athens": "Atenas", "auckland": "Auckland", "bali-kuta": "Bali Kuta",
+  "bangkok": "Bangcoc", "barcelona": "Barcelona", "berlin": "Berlim", "brussels": "Bruxelas",
+  "buenos-aires": "Buenos Aires", "cairo": "Cairo", "cape-town": "Cidade do Cabo", "chicago": "Chicago",
+  "copenhagen": "Copenhague", "dubai": "Dubai", "edinburgh": "Edimburgo", "florence": "Florença",
+  "fukuoka": "Fukuoka", "hakone": "Hakone", "ho-chi-minh-city": "Cidade de Ho Chi Minh", "hong-kong": "Hong Kong",
+  "hongkong": "Hong Kong", "kuala-lumpur": "Kuala Lumpur", "kyoto": "Quioto", "las-vegas": "Las Vegas",
+  "lisbon": "Lisboa", "london": "Londres", "los-angeles": "Los Angeles", "madrid": "Madrid",
+  "marrakesh": "Marraquexe", "melbourne": "Melbourne", "miami": "Miami", "munich": "Munique",
+  "new-york": "Nova York", "nice": "Nice", "okinawa": "Okinawa", "osaka": "Osaka",
+  "paris": "Paris", "prague": "Praga", "reykjavik": "Reykjavík", "rio-de-janeiro": "Rio de Janeiro",
+  "rome": "Roma", "san-francisco": "São Francisco", "santorini": "Santorini", "sapporo": "Sapporo",
+  "seattle": "Seattle", "seoul": "Seul", "singapore": "Singapura", "stockholm": "Estocolmo",
+  "sydney": "Sydney", "taipei": "Taipé", "tokyo": "Tóquio", "toronto": "Toronto",
+  "venice": "Veneza", "vienna": "Viena", "zurich": "Zurique",
+};
+
+const CITY_AR_NAMES: Record<string, string> = {
+  "amsterdam": "أمستردام", "athens": "أثينا", "auckland": "أوكلاند", "bali-kuta": "بالي كوتا",
+  "bangkok": "بانكوك", "barcelona": "برشلونة", "berlin": "برلين", "brussels": "بروكسل",
+  "buenos-aires": "بوينس آيرس", "cairo": "القاهرة", "cape-town": "كيب تاون", "chicago": "شيكاغو",
+  "copenhagen": "كوبنهاغن", "dubai": "دبي", "edinburgh": "إدنبرة", "florence": "فلورنسا",
+  "fukuoka": "فوكوكا", "hakone": "هاكوني", "ho-chi-minh-city": "مدينة هو تشي مينه", "hong-kong": "هونغ كونغ",
+  "hongkong": "هونغ كونغ", "kuala-lumpur": "كوالالمبور", "kyoto": "كيوتو", "las-vegas": "لاس فيغاس",
+  "lisbon": "لشبونة", "london": "لندن", "los-angeles": "لوس أنجلوس", "madrid": "مدريد",
+  "marrakesh": "مراكش", "melbourne": "ملبورن", "miami": "ميامي", "munich": "ميونخ",
+  "new-york": "نيويورك", "nice": "نيس", "okinawa": "أوكيناوا", "osaka": "أوساكا",
+  "paris": "باريس", "prague": "براغ", "reykjavik": "ريكيافيك", "rio-de-janeiro": "ريو دي جانيرو",
+  "rome": "روما", "san-francisco": "سان فرانسيسكو", "santorini": "سانتوريني", "sapporo": "سابورو",
+  "seattle": "سياتل", "seoul": "سيول", "singapore": "سنغافورة", "stockholm": "ستوكهولم",
+  "sydney": "سيدني", "taipei": "تايبيه", "tokyo": "طوكيو", "toronto": "تورنتو",
+  "venice": "البندقية", "vienna": "فيينا", "zurich": "زيورخ",
+};
+
+const CITY_BN_NAMES: Record<string, string> = {
+  "amsterdam": "আমস্টারডাম", "athens": "এথেন্স", "auckland": "অকল্যান্ড", "bali-kuta": "বালি কুটা",
+  "bangkok": "ব্যাংকক", "barcelona": "বার্সেলোনা", "berlin": "বার্লিন", "brussels": "ব্রাসেলস",
+  "buenos-aires": "বুয়েনোস আইরেস", "cairo": "কায়রো", "cape-town": "কেপ টাউন", "chicago": "শিকাগো",
+  "copenhagen": "কোপেনহেগেন", "dubai": "দুবাই", "edinburgh": "এডিনবার্গ", "florence": "ফ্লোরেন্স",
+  "fukuoka": "ফুকুওকা", "hakone": "হাকোনে", "ho-chi-minh-city": "হো চি মিন সিটি", "hong-kong": "হংকং",
+  "hongkong": "হংকং", "kuala-lumpur": "কুয়ালালামপুর", "kyoto": "কিয়োটো", "las-vegas": "লাস ভেগাস",
+  "lisbon": "লিসবন", "london": "লন্ডন", "los-angeles": "লস অ্যাঞ্জেলেস", "madrid": "মাদ্রিদ",
+  "marrakesh": "মারাকেশ", "melbourne": "মেলবোর্ন", "miami": "মায়ামি", "munich": "মিউনিখ",
+  "new-york": "নিউ ইয়র্ক", "nice": "নিস", "okinawa": "ওকিনাওয়া", "osaka": "ওসাকা",
+  "paris": "প্যারিস", "prague": "প্রাগ", "reykjavik": "রেইকিয়াভিক", "rio-de-janeiro": "রিও ডি জেনেইরো",
+  "rome": "রোম", "san-francisco": "সান ফ্রান্সিসকো", "santorini": "সান্তোরিনি", "sapporo": "সাপ্পোরো",
+  "seattle": "সিয়াটেল", "seoul": "সিউল", "singapore": "সিঙ্গাপুর", "stockholm": "স্টকহোম",
+  "sydney": "সিডনি", "taipei": "তাইপেই", "tokyo": "টোকিও", "toronto": "টরন্টো",
+  "venice": "ভেনিস", "vienna": "ভিয়েনা", "zurich": "জুরিখ",
+};
+
+const CITY_RU_NAMES: Record<string, string> = {
+  "amsterdam": "Амстердам", "athens": "Афины", "auckland": "Окленд", "bali-kuta": "Бали Кута",
+  "bangkok": "Бангкок", "barcelona": "Барселона", "berlin": "Берлин", "brussels": "Брюссель",
+  "buenos-aires": "Буэнос-Айрес", "cairo": "Каир", "cape-town": "Кейптаун", "chicago": "Чикаго",
+  "copenhagen": "Копенгаген", "dubai": "Дубай", "edinburgh": "Эдинбург", "florence": "Флоренция",
+  "fukuoka": "Фукуока", "hakone": "Хаконэ", "ho-chi-minh-city": "Хошимин", "hong-kong": "Гонконг",
+  "hongkong": "Гонконг", "kuala-lumpur": "Куала-Лумпур", "kyoto": "Киото", "las-vegas": "Лас-Вегас",
+  "lisbon": "Лиссабон", "london": "Лондон", "los-angeles": "Лос-Анджелес", "madrid": "Мадрид",
+  "marrakesh": "Марракеш", "melbourne": "Мельбурн", "miami": "Майами", "munich": "Мюнхен",
+  "new-york": "Нью-Йорк", "nice": "Ницца", "okinawa": "Окинава", "osaka": "Осака",
+  "paris": "Париж", "prague": "Прага", "reykjavik": "Рейкьявик", "rio-de-janeiro": "Рио-де-Жанейро",
+  "rome": "Рим", "san-francisco": "Сан-Франциско", "santorini": "Санторини", "sapporo": "Саппоро",
+  "seattle": "Сиэтл", "seoul": "Сеул", "singapore": "Сингапур", "stockholm": "Стокгольм",
+  "sydney": "Сидней", "taipei": "Тайбэй", "tokyo": "Токио", "toronto": "Торонто",
+  "venice": "Венеция", "vienna": "Вена", "zurich": "Цюрих",
+};
+
 function formatCityName(slug: string): string {
   return slug.split("-").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
 }
 
 function getLocalizedCityName(slug: string, langCode: string): string {
-  if (langCode === "zh") return CITY_ZH_NAMES[slug] ?? formatCityName(slug);
-  if (langCode === "ja") return CITY_JA_NAMES[slug] ?? formatCityName(slug);
-  if (langCode === "ko") return CITY_KO_NAMES[slug] ?? formatCityName(slug);
-  return formatCityName(slug);
+  const maps: Record<string, Record<string, string>> = {
+    zh: CITY_ZH_NAMES, ja: CITY_JA_NAMES, ko: CITY_KO_NAMES,
+    fr: CITY_FR_NAMES, es: CITY_ES_NAMES, id: CITY_ID_NAMES,
+    hi: CITY_HI_NAMES, pt: CITY_PT_NAMES, ar: CITY_AR_NAMES,
+    bn: CITY_BN_NAMES, ru: CITY_RU_NAMES,
+  };
+  return maps[langCode]?.[slug] ?? formatCityName(slug);
 }
 
 function getTypeLabel(type: string, langCode: string) {
