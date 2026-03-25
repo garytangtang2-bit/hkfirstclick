@@ -102,15 +102,15 @@
       "faq_a2_suffix": " Marius Crustaceos, Pavuna Market, and Confeitaria Colombo are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026年里约热内卢8大必試美食與隱藏珍寶",
-      "seo_description": "節省時間，發現里约热内卢的真實美食推薦，透過Klook預訂，立即計劃您的美食之旅！",
-      "page_intro": "在里约热内卢，食物不仅是一种滋味，更是一种文化体验。这里的巴西烤肉、海鲜美食和甜点如Confeitaria Colombo的传统糕点，令人垂涎欲滴。通过我们的精选推荐，轻松找到当地美食，尽情享受这一场味觉盛宴。",
+      "seo_title": "2026年裡約熱內卢8大必試美食與隱藏珍寶",
+      "seo_description": "節省時間，發現裡約熱內卢的真實美食推薦，透過Klook預訂，立即計劃您的美食之旅！",
+      "page_intro": "在裡約熱內卢，食物不仅是一種滋味，更是一種文化體驗。這裡的巴西烤肉、海鮮美食和甜點如Confeitaria Colombo的傳統糕點，令人垂涎欲滴。通過我們的精選推荐，輕鬆找到當地美食，尽情享受這一場味觉盛宴。",
       "items": [
         {
           "id": "marius-crustaceos",
           "name": "Marius Crustaceos",
           "type": "restaurant",
-          "description": "Marius Crustaceos是一种独特的用餐体验，以海鲜自助餐和充满活力的氛围而闻名。客人可以享受到各种新鲜海鲜菜肴，包括螃蟹、虾和鱼，所有菜肴都煮至完美。餐厅的装饰华丽，氛围热闹，非常适合休闲和特殊场合。期待支付大约$$以享用丰盛的餐点。",
+          "description": "Marius Crustaceos是一種獨特的用餐體驗，以海鮮自助餐和充滿活力的氛圍而聞名。客人可以享受到各種新鮮海鮮菜肴，包括螃蟹、虾和鱼，所有菜肴都煮至完美。餐廳的装饰華麗，氛圍熱鬧，非常適合休閒和特殊場合。期待支付大約$$以享用豐盛的餐點。",
           "image_keyword": "Marius Crustaceos restaurant",
           "star_rating": 4.7,
           "price_range": "R$150–300",
@@ -119,9 +119,9 @@
         },
         {
           "id": "pavuna-market",
-          "name": "Pavuna市场",
+          "name": "Pavuna市場",
           "type": "street_food",
-          "description": "Pavuna市场是一个热闹的街头食品摊贩中心，提供各种当地美食。在这里，您可以品尝到著名的pastéis、美味的coxinhas和清爽的açaí碗。市场展示了里约的活力文化，当地人聚集在一起享受实惠而美味的美食。价格非常经济，通常在$左右。",
+          "description": "Pavuna市場是一個熱鬧的街头食品摊贩中心，提供各種當地美食。在這裡，您可以品嚐到著名的pastéis、美味的coxinhas和清爽的açaí碗。市場展示了裡約的活力文化，當地人聚集在一起享受實惠而美味的美食。價格非常經濟，通常在$左右。",
           "image_keyword": "Pavuna Market street food",
           "star_rating": 4.5,
           "price_range": "R$5–10",
@@ -132,18 +132,18 @@
           "id": "confeitaria-colombo",
           "name": "Confeitaria Colombo",
           "type": "cafe",
-          "description": "Confeitaria Colombo是里约的一家标志性咖啡馆，以其令人惊叹的建筑和传统巴西糕点而闻名。这家历史悠久的咖啡馆非常适合在迷人的氛围中享用甜点或简餐。一定要尝试他们著名的brigadeiros和美味的queijo minas。价格适中，通常在$$左右。",
+          "description": "Confeitaria Colombo是裡約的一家標志性咖啡館，以其令人惊叹的建筑和傳統巴西糕點而聞名。這家歷史悠久的咖啡館非常適合在迷人的氛圍中享用甜點或简餐。一定要嚐試他們著名的brigadeiros和美味的queijo minas。價格適中，通常在$$左右。",
           "image_keyword": "Confeitaria Colombo cafe",
           "star_rating": 4.8,
           "price_range": "R$20–40",
-          "must_try": "布里加迪羅",
+          "must_try": "布裡加迪羅",
           "klook_query": "Confeitaria Colombo booking"
         },
         {
           "id": "feira-de-sao-cristovao",
           "name": "Feira de São Cristóvão",
           "type": "night_market",
-          "description": "Feira de São Cristóvão是一个热闹的夜市，通过各种食品摊位和音乐庆祝巴西东北文化。在这里，您可以体验当地菜肴，如acarajé和forró音乐，同时享受节日气氛。是一个深入当地文化并尝试实惠正宗美食的好地方。期待花费大约$。",
+          "description": "Feira de São Cristóvão是一個熱鬧的夜市，通過各種食品摊位和音樂庆祝巴西東北文化。在這裡，您可以體驗當地菜肴，如acarajé和forró音樂，同時享受節日气氛。是一個深入當地文化并嚐試實惠正宗美食的好地方。期待花費大約$。",
           "image_keyword": "Feira de São Cristóvão night market",
           "star_rating": 4.6,
           "price_range": "R$5–10",
@@ -154,7 +154,7 @@
           "id": "oro-restaurant",
           "name": "Oro",
           "type": "restaurant",
-          "description": "Oro是一家米其林星级餐厅，提供现代巴西美食，注重当地食材。品尝菜单是一场美食之旅，突显了该地区的风味，菜肴既富有创意又美味。优雅的环境和周到的服务使其成为特殊场合的理想场所。价格偏高，约为$$$。",
+          "description": "Oro是一家米其林星級餐廳，提供現代巴西美食，注重當地食材。品嚐菜單是一場美食之旅，突显了該地區的風味，菜肴既富有创意又美味。優雅的環境和周到的服務使其成為特殊場合的理想場所。價格偏高，約為$$$。",
           "image_keyword": "Oro restaurant",
           "star_rating": 4.9,
           "price_range": "R$300–600",
@@ -165,7 +165,7 @@
           "id": "mercado-da-riqueza",
           "name": "Mercado da Riqueza",
           "type": "street_food",
-          "description": "Mercado da Riqueza是一个充满活力的街头美食市场，展示了巴西街头美食的多样风味。从肉串到热带水果，这个市场是美食爱好者的天堂。热闹的氛围和各种食品选择使其成为当地人和游客必访的地方。价格非常合理，通常在$左右。",
+          "description": "Mercado da Riqueza是一個充滿活力的街头美食市場，展示了巴西街头美食的多樣風味。從肉串到熱帶水果，這個市場是美食愛好者的天堂。熱鬧的氛圍和各種食品選擇使其成為當地人和遊客必访的地方。價格非常合理，通常在$左右。",
           "image_keyword": "Mercado da Riqueza street food",
           "star_rating": 4.4,
           "price_range": "R$5–10",
@@ -176,7 +176,7 @@
           "id": "botequim-da-familia",
           "name": "Botequim da Família",
           "type": "bar",
-          "description": "Botequim da Família是一个舒适的酒吧，提供轻松的氛围，享用传统巴西饮品和小吃。这里是品尝caipirinhas的完美地方，同时尝试他们著名的bolinho de bacalhau。友好的员工和本地氛围使其成为在一天的探索后放松的好去处。价格经济，通常在$左右。",
+          "description": "Botequim da Família是一個舒適的酒吧，提供輕鬆的氛圍，享用傳統巴西飲品和小吃。這裡是品嚐caipirinhas的完美地方，同時嚐試他們著名的bolinho de bacalhau。友好的员工和本地氛圍使其成為在一天的探索後放鬆的好去處。價格經濟，通常在$左右。",
           "image_keyword": "Botequim da Família bar",
           "star_rating": 4.3,
           "price_range": "R$10–20",
@@ -187,7 +187,7 @@
           "id": "bar-do-mineiro",
           "name": "Bar do Mineiro",
           "type": "restaurant",
-          "description": "Bar do Mineiro是一家备受喜爱的餐厅，以其正宗的巴西舒适食品而闻名。餐厅专注于feijoada和pão de queijo等菜肴，提供轻松的用餐环境。温暖友好的氛围非常适合与朋友共享丰盛的餐点。期待支付大约$$以获得令人满意的用餐体验。",
+          "description": "Bar do Mineiro是一家备受喜愛的餐廳，以其正宗的巴西舒適食品而聞名。餐廳專注于feijoada和pão de queijo等菜肴，提供輕鬆的用餐環境。温暖友好的氛圍非常適合與朋友共享豐盛的餐點。期待支付大約$$以获得令人滿意的用餐體驗。",
           "image_keyword": "Bar do Mineiro restaurant",
           "star_rating": 4.5,
           "price_range": "R$20–40",
@@ -195,9 +195,9 @@
           "klook_query": "Bar do Mineiro booking"
         }
       ],
-      "faq_q1": "在里约热内卢最好吃的食物是什么？",
-      "faq_q2": "我在哪里可以找到里约热内卢最好的餐厅？",
-      "faq_a2_suffix": " 是顶级餐饮选择之一。"
+      "faq_q1": "在裡約熱內卢最好吃的食物是什麼？",
+      "faq_q2": "我在哪裡可以找到裡約熱內卢最好的餐廳？",
+      "faq_a2_suffix": " 是頂級餐飲選擇之一。"
     },
     "ja": {
       "seo_title": "2026年リオデジャネイロの必食トップ8レストラン",

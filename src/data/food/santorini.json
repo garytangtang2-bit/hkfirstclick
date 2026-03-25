@@ -100,15 +100,15 @@
       "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "2026 年聖托里尼 8 大必試餐廳與隱藏美食",
-      "seo_description": "節省時間，探索聖托里尼的當地美食與餐廳推薦，透過 Klook 預訂，立即規劃您的美食之旅！",
-      "page_intro": "聖托里尼的美食世界令人驚豔，這裡的海鮮和當地葡萄酒完美交融，特別是 fava 和 tomatokeftedes 等獨特美味。透過我們精心挑選的餐廳，讓您輕鬆享受這些美食體驗！",
+      "seo_title": "2026 年聖托裡尼 8 大必試餐廳與隱藏美食",
+      "seo_description": "節省時間，探索聖托裡尼的當地美食與餐廳推薦，透過 Klook 預訂，立即規劃您的美食之旅！",
+      "page_intro": "聖托裡尼的美食世界令人驚豔，這裡的海鮮和當地葡萄酒完美交融，特別是 fava 和 tomatokeftedes 等獨特美味。透過我們精心挑選的餐廳，讓您輕鬆享受這些美食體驗！",
       "items": [
         {
           "id": "katerina-taverna",
-          "name": "卡特里娜酒館",
+          "name": "卡特裡娜酒館",
           "type": "restaurant",
-          "description": "卡特里娜酒館是位於 Oia 的迷人餐廳，提供壯觀的日落景觀。以新鮮海鮮和傳統希臘菜而聞名，顧客對烤章魚和 fava 醬讚不絕口。氛圍溫暖宜人，是浪漫晚餐的完美場所。價格範圍為 $$ 到 $$$。",
+          "description": "卡特裡娜酒館是位於 Oia 的迷人餐廳，提供壯觀的日落景觀。以新鮮海鮮和傳統希臘菜而聞名，顧客對烤章魚和 fava 醬讚不絕口。氛圍溫暖宜人，是浪漫晚餐的完美場所。價格範圍為 $$ 到 $$$。",
           "image_keyword": "katerina taverna santorini",
           "star_rating": 4.6,
           "price_range": "€20–40",
@@ -161,9 +161,9 @@
         },
         {
           "id": "santorini-night-market",
-          "name": "聖托里尼夜市",
+          "name": "聖托裡尼夜市",
           "type": "night_market",
-          "description": "聖托里尼夜市是一個充滿活力的聚集地，擁有各種食品攤位，提供當地美食。這是一個品嚐街頭美食最愛如 gyros 和 souvlaki 的好地方，同時享受熱鬧的氛圍。價格實惠，通常約為 $。",
+          "description": "聖托裡尼夜市是一個充滿活力的聚集地，擁有各種食品攤位，提供當地美食。這是一個品嚐街頭美食最愛如 gyros 和 souvlaki 的好地方，同時享受熱鬧的氛圍。價格實惠，通常約為 $。",
           "image_keyword": "santorini night market food",
           "star_rating": 4.4,
           "price_range": "€3–5",
@@ -174,7 +174,7 @@
           "id": "tomatokeftedes",
           "name": "Tomatokeftedes",
           "type": "street_food",
-          "description": "Tomatokeftedes 是傳統的聖托里尼番茄餡餅，是食客必試的美味。這些美味的小吃由當地曬乾的番茄和香草製成，讓您品嚐到島上獨特的農產品。您可以在島上各種食品攤位找到它們，通常價格為 $。",
+          "description": "Tomatokeftedes 是傳統的聖托裡尼番茄餡餅，是食客必試的美味。這些美味的小吃由當地曬乾的番茄和香草製成，讓您品嚐到島上獨特的農產品。您可以在島上各種食品攤位找到它們，通常價格為 $。",
           "image_keyword": "tomatokeftedes santorini",
           "star_rating": 4.5,
           "price_range": "€3–5",
@@ -193,8 +193,8 @@
           "klook_query": "Pyrgos Village Cafe Santorini"
         }
       ],
-      "faq_q1": "在聖托里尼，最好吃的食物是什麼？",
-      "faq_q2": "我可以在哪裡找到聖托里尼最好的餐廳？",
+      "faq_q1": "在聖托裡尼，最好吃的食物是什麼？",
+      "faq_q2": "我可以在哪裡找到聖托裡尼最好的餐廳？",
       "faq_a2_suffix": " 是評價最高的用餐選擇。"
     },
     "ja": {

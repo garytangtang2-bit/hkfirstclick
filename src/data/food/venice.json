@@ -89,15 +89,15 @@
       "faq_a2_suffix": " are among the top-rated dining options."
     },
     "zh": {
-      "seo_title": "威尼斯最佳美食 2026 — 8家必试餐厅与隐藏美味",
-      "seo_description": "节省时间，获取真实推荐，尽享威尼斯美食。通过Klook预订，立即规划您的美食之旅！",
-      "page_intro": "在威尼斯，食物不仅是滋味的享受，更是文化的传承。新鲜的海鲜、传统的意大利面和当地农产品交织成独特的美食盛宴。通过我们的精心推荐，您将轻松找到最具威尼斯风情的餐厅，尽情享受这座城市的美味！",
+      "seo_title": "威尼斯最佳美食 2026 — 8家必試餐廳與隐藏美味",
+      "seo_description": "節省時間，获取真實推荐，尽享威尼斯美食。通過Klook预订，立即规划您的美食之旅！",
+      "page_intro": "在威尼斯，食物不仅是滋味的享受，更是文化的傳承。新鮮的海鮮、傳統的意大利面和當地农產品交織成獨特的美食盛宴。通過我們的精心推荐，您将輕鬆找到最具威尼斯風情的餐廳，尽情享受這座城市的美味！",
       "items": [
         {
           "id": "osteria-alle-tende",
           "name": "Osteria Alle Tende",
           "type": "restaurant",
-          "description": "这家温馨的餐厅以其正宗的威尼斯菜肴和热情友好的氛围而闻名。 尝试海鲜意大利调味饭或当天的新鲜捕获，搭配一杯当地葡萄酒。 价格合理，是当地人和游客的最爱。 尤其在高峰季节，建议提前预订。",
+          "description": "這家温馨的餐廳以其正宗的威尼斯菜肴和熱情友好的氛圍而聞名。 嚐試海鮮意大利調味饭或當天的新鮮捕获，搭配一杯當地葡萄酒。 價格合理，是當地人和遊客的最愛。 尤其在高峰季節，建议提前预订。",
           "image_keyword": "Osteria Alle Tende",
           "star_rating": 4.5,
           "price_range": "€20–40",
@@ -108,7 +108,7 @@
           "id": "trattoria-da-ponte",
           "name": "Trattoria Da Ponte",
           "type": "restaurant",
-          "description": "Trattoria Da Ponte 是一家家族经营的餐厅，以自制意大利面和丰盛的酱汁而闻名。 气氛温馨，适合悠闲的用餐。 一定要点当地最爱——肉酱宽面条。 价格适中，服务友好。",
+          "description": "Trattoria Da Ponte 是一家家族經營的餐廳，以自制意大利面和豐盛的酱汁而聞名。 气氛温馨，適合悠閒的用餐。 一定要點當地最愛——肉酱宽面条。 價格適中，服務友好。",
           "image_keyword": "Trattoria Da Ponte",
           "star_rating": 4.6,
           "price_range": "€20–40",
@@ -119,7 +119,7 @@
           "id": "mercato-di-rialto",
           "name": "Mercato di Rialto",
           "type": "street_food",
-          "description": "里亚尔托市场是街头美食爱好者的必访之地。 在这里，您可以品尝新鲜海鲜、本地奶酪和时令水果。 热闹的气氛和生动的摊位使其成为一个令人兴奋的探索之地。 不要错过尝试小吃——cicchetti，它们与一杯葡萄酒完美搭配。 价格各异，但街头美食通常价格实惠。",
+          "description": "裡亚爾托市場是街头美食愛好者的必访之地。 在這裡，您可以品嚐新鮮海鮮、本地奶酪和時令水果。 熱鬧的气氛和生動的摊位使其成為一個令人兴奋的探索之地。 不要錯過嚐試小吃——cicchetti，它們與一杯葡萄酒完美搭配。 價格各异，但街头美食通常價格實惠。",
           "image_keyword": "Mercato di Rialto",
           "star_rating": 4.3,
           "price_range": "€5–10",
@@ -130,7 +130,7 @@
           "id": "pasticceria-da-carlo",
           "name": "Pasticceria Da Carlo",
           "type": "cafe",
-          "description": "这家迷人的糕点店提供各种传统的威尼斯甜点和糕点。 气氛迷人，非常适合咖啡休息。 他们的提拉米苏和zaleti（玉米饼干）是必试之作。 价格相当合理，非常适合来这里小吃。",
+          "description": "這家迷人的糕點店提供各種傳統的威尼斯甜點和糕點。 气氛迷人，非常適合咖啡休息。 他們的提拉米苏和zaleti（玉米饼干）是必試之作。 價格相當合理，非常適合來這裡小吃。",
           "image_keyword": "Pasticceria Da Carlo",
           "star_rating": 4.7,
           "price_range": "€3–6",
@@ -141,7 +141,7 @@
           "id": "antiche-carampane",
           "name": "Antiche Carampane",
           "type": "restaurant",
-          "description": "Antiche Carampane以其传统的威尼斯美食而闻名，位于远离游客小径的地方。 气氛乡村而温馨，非常适合浪漫晚餐。 意大利面配蛤蜊尤其受到赞誉。 价格略贵，但值得每一分钱的体验。",
+          "description": "Antiche Carampane以其傳統的威尼斯美食而聞名，位于遠离遊客小径的地方。 气氛乡村而温馨，非常適合浪漫晚餐。 意大利面配蛤蜊尤其受到赞譽。 價格略貴，但值得每一分錢的體驗。",
           "image_keyword": "Antiche Carampane",
           "star_rating": 4.8,
           "price_range": "€50–100",
@@ -152,7 +152,7 @@
           "id": "sestieri-venezia",
           "name": "Sestieri di Venezia",
           "type": "night_market",
-          "description": "Sestieri di Venezia 提供丰富的夜生活体验，各种食品摊位提供当地美食。 这是在热闹的环境中尝试多种菜肴的完美场所。 在品尝arancini和其他当地小吃的同时享受气氛。 价格实惠，是深夜美食的好去处。",
+          "description": "Sestieri di Venezia 提供豐富的夜生活體驗，各種食品摊位提供當地美食。 這是在熱鬧的環境中嚐試多種菜肴的完美場所。 在品嚐arancini和其他當地小吃的同時享受气氛。 價格實惠，是深夜美食的好去處。",
           "image_keyword": "Sestieri di Venezia",
           "star_rating": 4.2,
           "price_range": "€5–10",
@@ -163,7 +163,7 @@
           "id": "gelateria-nuova-melodia",
           "name": "Gelateria Nuova Melodia",
           "type": "cafe",
-          "description": "Gelateria Nuova Melodia因其用新鲜当地食材制作的手工冰淇淋而闻名。 各种口味将让您的味蕾愉悦。 迷人的店铺提供舒适的氛围，让您享受甜点。 价格具有竞争力，是您在威尼斯探索时的美味享受。",
+          "description": "Gelateria Nuova Melodia因其用新鮮當地食材制作的手工冰淇淋而聞名。 各種口味将讓您的味蕾愉悦。 迷人的店铺提供舒適的氛圍，讓您享受甜點。 價格具有竞争力，是您在威尼斯探索時的美味享受。",
           "image_keyword": "Gelateria Nuova Melodia",
           "star_rating": 4.9,
           "price_range": "€3–6",
@@ -171,9 +171,9 @@
           "klook_query": "Gelateria Nuova Melodia visit"
         }
       ],
-      "faq_q1": "威尼斯最好吃的食物是什么？",
-      "faq_q2": "我在哪里可以找到威尼斯最好的餐厅？",
-      "faq_a2_suffix": " 是备受好评的用餐选择。"
+      "faq_q1": "威尼斯最好吃的食物是什麼？",
+      "faq_q2": "我在哪裡可以找到威尼斯最好的餐廳？",
+      "faq_a2_suffix": " 是备受好评的用餐選擇。"
     },
     "ja": {
       "seo_title": "ヴェネツィアの2026年必食レストラン8選 — トップガイド",

@@ -99,15 +99,15 @@
       "faq_a2": "Yes, most attractions in Rio require tickets for entry. It's best to book your tickets in advance through Klook to ensure a smooth experience."
     },
     "zh": {
-      "seo_title": "2026年里约热内卢8大必看景点 — 完整指南",
-      "seo_description": "获取里约热内卢顶级景点的门票、开放时间和内部提示，立即通过Klook预订，开启您的旅行冒险！",
-      "page_intro": "探索里约热内卢的魅力，感受基督救世主和糖面包山的壮观景致。无论是迷人的植物园还是热情的海滩，里约都为您提供难忘的体验。立即通过Klook预订，畅享无忧旅行！",
+      "seo_title": "2026年裡約熱內卢8大必看景點 — 完整指南",
+      "seo_description": "获取裡約熱內卢頂級景點的门票、開放時間和內部提示，立即通過Klook预订，開启您的旅行冒险！",
+      "page_intro": "探索裡約熱內卢的魅力，感受基督救世主和糖面包山的壯觀景致。無论是迷人的植物園還是熱情的海灘，裡約都為您提供难忘的體驗。立即通過Klook预订，畅享無忧旅行！",
       "items": [
         {
           "id": "christ-the-redeemer",
           "name": "基督救世主",
           "type": "landmark",
-          "description": "作为新世界七大奇迹之一，基督救世主矗立在科尔科瓦多山顶，为城市提供全景视野。游客可以乘坐小火车穿越蒂茹卡森林抵达这一标志性雕像。最佳访问时间是清晨，以避免人群。不要忘记带上相机，拍摄美丽的照片！",
+          "description": "作為新世界七大奇迹之一，基督救世主矗立在科爾科瓦多山頂，為城市提供全景视野。遊客可以乘坐小火车穿越蒂茹卡森林抵達這一標志性雕像。最佳访問時間是清晨，以避免人群。不要忘记帶上相机，拍摄美麗的照片！",
           "image_keyword": "Christ the Redeemer statue",
           "star_rating": 4.8,
           "needs_ticket": true,
@@ -119,7 +119,7 @@
           "id": "sugarloaf-mountain",
           "name": "糖面包山",
           "type": "landmark",
-          "description": "糖面包山因其壮观的景色和风景优美的缆车而闻名。山高396米，提供了对里约海岸线的独特视角。计划在这里待几个小时，尤其是在日落时享受神奇的体验。这里是拍照和欣赏风景的完美地点。",
+          "description": "糖面包山因其壯觀的景色和風景優美的缆车而聞名。山高396米，提供了對裡約海岸線的獨特视角。計划在這裡待几個小時，尤其是在日落時享受神奇的體驗。這裡是拍照和欣赏風景的完美地點。",
           "image_keyword": "Sugarloaf Mountain",
           "star_rating": 4.7,
           "needs_ticket": true,
@@ -129,9 +129,9 @@
         },
         {
           "id": "botanical-garden",
-          "name": "里约热内卢植物园",
+          "name": "裡約熱內卢植物園",
           "type": "park",
-          "description": "里约热内卢植物园是城市中的一片郁郁葱葱的绿洲，栖息着成千上万的植物种类。这里非常适合平静的散步、教育访问和享受自然。计划花至少两个小时探索其风景优美的小径和独特的植物群。是野餐和摄影的好地方。",
+          "description": "裡約熱內卢植物園是城市中的一片郁郁葱葱的绿洲，栖息著成千上萬的植物種類。這裡非常適合平靜的散步、教育访問和享受自然。計划花至少两個小時探索其風景優美的小径和獨特的植物群。是野餐和摄影的好地方。",
           "image_keyword": "Rio de Janeiro Botanical Garden",
           "star_rating": 4.6,
           "needs_ticket": true,
@@ -141,9 +141,9 @@
         },
         {
           "id": "museu-do-amanha",
-          "name": "明日博物馆",
+          "name": "明日博物館",
           "type": "museum",
-          "description": "明日博物馆是位于里约海滨地区的未来主义科学博物馆。它通过互动展览关注可持续性和我们星球的未来。在这里待几个小时，充分欣赏其创新设计和发人深省的展示。不要错过美丽的建筑和周围的公园。",
+          "description": "明日博物館是位于裡約海滨地區的未來主义科学博物館。它通過互動展覽關注可持续性和我們星球的未來。在這裡待几個小時，充分欣赏其创新設計和發人深省的展示。不要錯過美麗的建筑和周圍的公園。",
           "image_keyword": "Museum of Tomorrow",
           "star_rating": 4.9,
           "needs_ticket": true,
@@ -153,9 +153,9 @@
         },
         {
           "id": "imperial-palace",
-          "name": "巴西国家博物馆",
+          "name": "巴西國家博物館",
           "type": "museum",
-          "description": "巴西国家博物馆位于一座前皇家宫殿内，展示了国家丰富的历史和文化遗产。尽管在2018年遭遇火灾，但恢复工作正在进行中。计划参观以查看其令人印象深刻的建筑并了解巴西遗产。提前查看特展信息。",
+          "description": "巴西國家博物館位于一座前皇家宮殿內，展示了國家豐富的歷史和文化遗產。尽管在2018年遭遇火灾，但恢复工作正在進行中。計划参觀以查看其令人印象深刻的建筑并了解巴西遗產。提前查看特展信息。",
           "image_keyword": "National Museum of Brazil",
           "star_rating": 4.5,
           "needs_ticket": true,
@@ -165,9 +165,9 @@
         },
         {
           "id": "santa-teresa",
-          "name": "圣特雷莎区",
+          "name": "圣特雷莎區",
           "type": "district",
-          "description": "圣特雷莎是一个迷人的社区，以狭窄的街道、殖民风格的房屋和充满活力的艺术氛围而闻名。在享受城市壮观景色的同时，探索当地商店、咖啡馆和艺术工作室。这里是体验当地文化和街头艺术的好地方。计划花几个小时漫步和拍照。",
+          "description": "圣特雷莎是一個迷人的社區，以狭窄的街道、殖民風格的房屋和充滿活力的藝術氛圍而聞名。在享受城市壯觀景色的同時，探索當地商店、咖啡館和藝術工作室。這裡是體驗當地文化和街头藝術的好地方。計划花几個小時漫步和拍照。",
           "image_keyword": "Santa Teresa District",
           "star_rating": 4.4,
           "needs_ticket": false,
@@ -177,9 +177,9 @@
         },
         {
           "id": "copacabana-beach",
-          "name": "科帕卡巴纳海滩",
+          "name": "科帕卡巴纳海灘",
           "type": "market",
-          "description": "科帕卡巴纳海滩是世界上最著名的海滩之一，拥有热闹的氛围和美丽的海浪。享受日光浴、海滩运动和当地小吃摊。这里非常适合放松和乐趣的一整天。早早到达以找到一个好位置，享受充满活力的海滩文化。",
+          "description": "科帕卡巴纳海灘是世界上最著名的海灘之一，拥有熱鬧的氛圍和美麗的海浪。享受日光浴、海灘運動和當地小吃摊。這裡非常適合放鬆和樂趣的一整天。早早到達以找到一個好位置，享受充滿活力的海灘文化。",
           "image_keyword": "Copacabana Beach",
           "star_rating": 4.8,
           "needs_ticket": false,
@@ -188,10 +188,10 @@
           "klook_query": "Copacabana Beach activities"
         }
       ],
-      "faq_q1": "里约热内卢的热门景点有哪些？",
-      "faq_q2": "我需要购买里约热内卢景点的门票吗？",
-      "faq_a1_suffix": " 是必游的景点。",
-      "faq_a2": "大多数景点都需要购票，您可以通过Klook轻松预订，避免排队。"
+      "faq_q1": "裡約熱內卢的熱门景點有哪些？",
+      "faq_q2": "我需要購買裡約熱內卢景點的门票吗？",
+      "faq_a1_suffix": " 是必遊的景點。",
+      "faq_a2": "大多数景點都需要購票，您可以通過Klook輕鬆预订，避免排队。"
     },
     "ja": {
       "seo_title": "2026年リオデジャネイロの必見観光名所8選 — 完全ガイド",
