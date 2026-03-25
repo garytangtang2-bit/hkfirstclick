@@ -38,10 +38,10 @@ interface Props {
   langCode: string;
 }
 
-const UNSPLASH_ACCESS_KEY = process.env.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY;
-
-function getUnsplashUrl(keyword: string) {
-  return `https://images.unsplash.com/search/photos?query=${encodeURIComponent(keyword)}&w=400&fit=crop`;
+function getUnsplashUrl(name: string, mustTry: string) {
+  // Try restaurant name first, fall back to must_try dish name
+  const keyword = encodeURIComponent(`${name} ${mustTry} food`);
+  return `https://source.unsplash.com/400x300/?${keyword}`;
 }
 
 const TYPE_LABELS: Record<string, Record<string, string>> = {
@@ -103,7 +103,7 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
             {/* Image */}
             <div className="relative w-full md:w-56 h-48 md:h-auto shrink-0 bg-gray-800">
               <img
-                src={`https://images.unsplash.com/search/photos?query=${encodeURIComponent(item.image_keyword)}&w=400&fit=crop`}
+                src={getUnsplashUrl(item.name, item.must_try)}
                 alt={item.name}
                 className="w-full h-full object-cover"
                 onError={(e) => {

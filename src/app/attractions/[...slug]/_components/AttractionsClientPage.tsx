@@ -99,7 +99,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
             {/* Image */}
             <div className="relative w-full md:w-56 h-48 md:h-auto shrink-0 bg-gray-800">
               <img
-                src={`https://images.unsplash.com/search/photos?query=${encodeURIComponent(item.image_keyword)}&w=400&fit=crop`}
+                src={`https://source.unsplash.com/400x300/?${encodeURIComponent(item.name + ' ' + item.image_keyword)}`}
                 alt={item.name}
                 className="w-full h-full object-cover"
                 onError={(e) => {
