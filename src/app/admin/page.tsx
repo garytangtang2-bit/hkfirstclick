@@ -6,12 +6,13 @@ import { createClient as createServerClient } from "@/utils/supabase/server";
 
 // We use the service role key to bypass RLS and count ALL profiles for the admin.
 // In a real app, you would add an admin check (e.g., checking if the logged-in user's email is yours)
-const supabaseAdmin = createClient(
+const getSupabaseAdmin = () => createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.SUPABASE_SERVICE_ROLE_KEY!
 );
 
 export default async function AdminDashboard() {
+    const supabaseAdmin = getSupabaseAdmin();
     // 1. Basic security check (Optional but recommended)
     // Ensure only the admin can view this page.
     const supabaseAuth = await createServerClient();

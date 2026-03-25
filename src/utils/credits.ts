@@ -1,12 +1,13 @@
 import { createClient } from "@supabase/supabase-js";
 
 // Use service role key to bypass RLS and update credits securely
-const supabaseAdmin = createClient(
+const getSupabaseAdmin = () => createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.SUPABASE_SERVICE_ROLE_KEY!
 );
 
 export async function getUserCredits(userId: string) {
+    const supabaseAdmin = getSupabaseAdmin();
     const { data: profile, error } = await supabaseAdmin
         .from("profiles")
         .select("tier, credits, trial_credits, premium_credits, premium_expires_at, topup_credits, topup_expires_at")
@@ -60,6 +61,7 @@ export async function getUserCredits(userId: string) {
  * Subtracts points prioritizing the bucket that expires closest to now.
  */
 export async function deductCredits(userId: string, amount: number) {
+    const supabaseAdmin = getSupabaseAdmin();
     const result = await getUserCredits(userId);
 
     // 1. Check if user has enough active credits

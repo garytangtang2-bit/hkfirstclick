@@ -1,9 +1,9 @@
-﻿import { NextResponse } from "next/server";
+import { NextResponse } from "next/server";
 import { createClient } from "@supabase/supabase-js";
 import { getUserCredits, deductCredits } from "@/utils/credits";
 
 // Use service role key to bypass RLS and update credits securely
-const supabaseAdmin = createClient(
+const getSupabaseAdmin = () => createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.SUPABASE_SERVICE_ROLE_KEY!
 );
@@ -113,6 +113,7 @@ async function fetchLiveFlightData(originIata: string, destIata: string, departD
 }
 
 export async function POST(req: Request) {
+    const supabaseAdmin = getSupabaseAdmin();
     try {
         // Use Vercel's real IP (not spoofable x-forwarded-for)
         const ip = req.headers.get("x-real-ip") || req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";

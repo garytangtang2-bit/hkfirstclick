@@ -3,7 +3,7 @@ import { createClient } from "@supabase/supabase-js";
 import { getUserCredits, deductCredits } from "@/utils/credits";
 
 // Use service role key to bypass RLS and update credits securely
-const supabaseAdmin = createClient(
+const getSupabaseAdmin = () => createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.SUPABASE_SERVICE_ROLE_KEY!
 );
@@ -28,6 +28,7 @@ function isRateLimited(ip: string): boolean {
 }
 
 export async function POST(req: Request) {
+    const supabaseAdmin = getSupabaseAdmin();
     try {
         // Use Vercel's real IP (not spoofable x-forwarded-for)
         const ip = req.headers.get("x-real-ip") || req.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
