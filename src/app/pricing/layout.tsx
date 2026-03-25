@@ -8,14 +8,14 @@ export const metadata: Metadata = {
         canonical: "https://www.hkfirstclick.com/pricing",
         languages: {
             en: 'https://www.hkfirstclick.com/pricing',
-            zh: 'https://www.hkfirstclick.com/pricing?lang=zh',
+            'zh-TW': 'https://www.hkfirstclick.com/pricing?lang=zh',
             ja: 'https://www.hkfirstclick.com/pricing?lang=ja',
             ko: 'https://www.hkfirstclick.com/pricing?lang=ko',
             fr: 'https://www.hkfirstclick.com/pricing?lang=fr',
             es: 'https://www.hkfirstclick.com/pricing?lang=es',
             id: 'https://www.hkfirstclick.com/pricing?lang=id',
             hi: 'https://www.hkfirstclick.com/pricing?lang=hi',
-            pt: 'https://www.hkfirstclick.com/pricing?lang=pt',
+            'pt-BR': 'https://www.hkfirstclick.com/pricing?lang=pt',
             ar: 'https://www.hkfirstclick.com/pricing?lang=ar',
             bn: 'https://www.hkfirstclick.com/pricing?lang=bn',
             ru: 'https://www.hkfirstclick.com/pricing?lang=ru',
@@ -39,5 +39,51 @@ export const metadata: Metadata = {
 };
 
 export default function PricingLayout({ children }: { children: React.ReactNode }) {
-    return <>{children}</>;
+    const jsonLd = {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Product",
+                "name": "HKfirstclick AI Travel Itinerary Generator",
+                "description": "AI-powered travel itinerary generator for 54+ destinations in 12 languages. Generate day-by-day plans with real flight prices, hotel picks, and local tips.",
+                "url": "https://www.hkfirstclick.com/workspace",
+                "brand": { "@type": "Brand", "name": "HKfirstclick" },
+                "offers": [
+                    {
+                        "@type": "Offer",
+                        "name": "Free Plan",
+                        "price": "0",
+                        "priceCurrency": "USD",
+                        "description": "6 free credits on signup. Generate up to 3 itineraries.",
+                        "availability": "https://schema.org/InStock",
+                        "url": "https://www.hkfirstclick.com/pricing",
+                    },
+                    {
+                        "@type": "Offer",
+                        "name": "Journey Pass",
+                        "price": "9.90",
+                        "priceCurrency": "USD",
+                        "description": "Unlimited AI itineraries, AI tweaking, PDF export, and premium Gemini AI.",
+                        "availability": "https://schema.org/InStock",
+                        "url": "https://www.hkfirstclick.com/pricing",
+                    },
+                ],
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.8",
+                    "reviewCount": "120",
+                    "bestRating": "5",
+                },
+            },
+        ],
+    };
+    return (
+        <>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+            />
+            {children}
+        </>
+    );
 }

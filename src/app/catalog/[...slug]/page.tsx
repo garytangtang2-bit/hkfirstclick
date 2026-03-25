@@ -390,8 +390,22 @@ export default async function CatalogSlugPage({ params }: Props) {
   notFound();
 }
 
-// Skip static generation - catalog pages render dynamically
-// This is necessary because AppContext hooks can't be called during SSG
+// Pre-generate top city pages for faster Core Web Vitals
 export function generateStaticParams() {
-  return [];
+  const topCities = [
+    "tokyo", "paris", "london", "new-york", "barcelona", "rome", "bangkok",
+    "bali-kuta", "dubai", "singapore", "kyoto", "amsterdam",
+    "hongkong", "seoul", "los-angeles", "sydney", "berlin", "prague", "vienna", "florence",
+  ];
+  const langs = ["en", "zh", "ja", "ko", "fr", "es", "id", "hi", "pt", "ar", "bn", "ru"];
+  const params: { slug: string[] }[] = [];
+  for (const lang of langs) {
+    params.push({ slug: [lang] });
+  }
+  for (const city of topCities) {
+    for (const lang of langs) {
+      params.push({ slug: [lang, city] });
+    }
+  }
+  return params;
 }
