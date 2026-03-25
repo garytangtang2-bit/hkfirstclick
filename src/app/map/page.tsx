@@ -307,7 +307,6 @@ function MapContent() {
                                 <h3 className="font-bold text-white truncate mb-1 flex items-center gap-1.5">
                                     <MapPin size={14} className="text-[#EEDC00]" />
                                     {getTranslatedCityName(city.City, language)}
-                                    <span className="ml-auto text-[#EEDC00]/0 group-hover:text-[#EEDC00]/80 transition-colors text-xs">→</span>
                                 </h3>
                                 <p className="text-xs text-[#A0A0A0] truncate">{getTranslatedData(city.City, 'description', language, city.Vibe)}</p>
                             </div>
@@ -362,11 +361,11 @@ function MapContent() {
                                 {/* Spot & Food Highlight Cards */}
                                 <div className="flex-1 w-full grid grid-cols-1 sm:grid-cols-2 gap-4">
                                     <Link href={`/food/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-yellow-400/10 hover:border-yellow-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(238,220,0,0.2)] active:scale-95 transition-all duration-200 shadow-xl block cursor-pointer">
-                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest flex items-center gap-1">{t.map_must_try_food || "🍜 Must Try Food"}<span className="ml-auto text-yellow-400/50 group-hover/card:text-yellow-400 transition-colors">→</span></div>
+                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest">{t.map_must_try_food || "🍜 Must Try Food"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'top_food', language, selectedCity.Top_Food)}</div>
                                     </Link>
                                     <Link href={`/attractions/${LANG_NAME_TO_CODE[language] || 'en'}/${getCitySlug(selectedCity.City)}`} className="group/card bg-white/5 backdrop-blur-md p-5 rounded-2xl border border-white/10 hover:bg-purple-400/10 hover:border-purple-400/60 hover:-translate-y-1 hover:shadow-[0_4px_20px_rgba(168,85,247,0.2)] active:scale-95 transition-all duration-200 shadow-xl block cursor-pointer">
-                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest flex items-center gap-1">{t.map_top_spot || "🏛️ Top Spot"}<span className="ml-auto text-purple-400/50 group-hover/card:text-purple-400 transition-colors">→</span></div>
+                                        <div className="text-xs text-[#EEDC00]/80 font-bold mb-1.5 uppercase tracking-widest">{t.map_top_spot || "🏛️ Top Spot"}</div>
                                         <div className="text-white text-base font-bold drop-shadow-md">{getTranslatedData(selectedCity.City, 'must_visit_spot', language, selectedCity.Must_Visit_Spot)}</div>
                                     </Link>
                                 </div>
