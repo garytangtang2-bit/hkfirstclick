@@ -1,0 +1,1145 @@
+{
+  "city_slug": "taipei",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Taipei 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Taipei. From budget eats to fine dining — with booking links.",
+      "page_intro": "Taipei is a food lover's paradise, blending traditional Taiwanese flavors with modern culinary trends. The bustling night markets, cozy cafes, and high-end restaurants offer a unique taste of the city. Whether you're craving street snacks or fine dining, Taipei's diverse food scene has something to satisfy every palate.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "Din Tai Fung",
+          "type": "restaurant",
+          "description": "Renowned for its xiaolongbao (soup dumplings), Din Tai Fung is a must-visit for any foodie. The restaurant offers a sleek atmosphere with an open kitchen where you can watch the chefs at work. Prices range from $$ to $$$, making it a great choice for both casual and special occasions.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Shilin Night Market",
+          "type": "night_market",
+          "description": "One of the largest and most famous night markets in Taipei, Shilin Night Market is a vibrant hub for street food lovers. Indulge in local specialties such as stinky tofu and fried chicken steak while exploring various shops. The lively atmosphere and diverse offerings make it a must-visit for an authentic night market experience.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "Yong Kang Beef Noodle",
+          "type": "restaurant",
+          "description": "Famous for its tender beef noodle soup, Yong Kang Beef Noodle offers a comforting dining experience. The rich broth and perfectly cooked noodles will warm your heart. Prices are reasonable, typically around $$, making it a great stop for a satisfying meal.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "Tamsui Old Street",
+          "type": "street_food",
+          "description": "Tamsui Old Street is famous for its charming waterfront and delicious street food. Sample local snacks like A-gei (fried tofu stuffed with noodles) and fish balls while enjoying the scenic views. The vibrant atmosphere and variety of food options make it a perfect evening stroll destination.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "Liuhe Night Market",
+          "type": "night_market",
+          "description": "Famous for its unique dishes, Liuhe Night Market is a culinary hotspot. Try the signature snail rice noodles and grilled seafood while wandering through the lively stalls. The bustling atmosphere and affordable prices make it a great place to experience local flavors.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "Sushi Express",
+          "type": "restaurant",
+          "description": "For sushi lovers, Sushi Express offers a conveyor belt dining experience with a wide variety of fresh sushi. The casual atmosphere and affordable prices make it a favorite among locals and tourists alike. Dishes are priced at $, making it an excellent choice for a quick meal.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "Yonghe Soy Milk King",
+          "type": "cafe",
+          "description": "A beloved spot for traditional Taiwanese breakfast, Yonghe Soy Milk King serves delicious soy milk, scallion pancakes, and egg crepes. The casual atmosphere is perfect for an early morning meal, and prices are very affordable, typically around $. It's an essential stop for a true taste of Taiwanese breakfast culture.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "Keelung Night Market",
+          "type": "night_market",
+          "description": "Keelung Night Market is famous for its seafood and local delicacies. Try the famous bawan (meatball) and various fried seafood dishes while enjoying the vibrant atmosphere. Prices range from $ to $$, making it a great place to sample a variety of Taiwanese street foods.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "台北最佳美食 2026 — 頂級餐廳及街頭美食指南",
+      "seo_description": "探索台北最好的餐廳、街頭美食和當地特色。從平價美食到高級餐飲 — 附訂位連結。",
+      "page_intro": "台北是美食愛好者的天堂，融合了傳統台灣風味和現代烹飪趨勢。熱鬧的夜市、舒適的咖啡館和高端餐廳提供了獨特的城市風味。無論是渴望街頭小吃還是高級餐飲，台北多樣的美食場景都有東西能滿足每一種味蕾。",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "鼎泰豐",
+          "type": "restaurant",
+          "description": "鼎泰豐以其小籠包而聞名，是每位美食家必訪之地。餐廳提供時尚的氛圍和開放式廚房，您可以觀賞廚師的工作。價格範圍從$$到$$$，無論是休閒聚餐或特別場合都是不錯的選擇。",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "士林夜市",
+          "type": "night_market",
+          "description": "士林夜市是台北最大且最著名的夜市之一，是街頭美食愛好者的熱鬧中心。在探索各種商店的同時，品嚐臭豆腐和炸雞排等當地特色。熱鬧的氛圍和多樣的選擇使其成為體驗正宗夜市的必訪之地。",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "永康牛肉麵",
+          "type": "restaurant",
+          "description": "永康牛肉麵以其嫩滑的牛肉麵而聞名，提供舒適的用餐體驗。濃郁的高湯和完美煮熟的麵條會讓您倍感溫暖。價格合理，通常約為$$，是滿足您用餐需求的好去處。",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "淡水老街",
+          "type": "street_food",
+          "description": "淡水老街以其迷人的海濱和美味的街頭美食而著稱。在享受美景的同時，品嚐如阿給（炸豆腐塞麵條）和魚丸等當地小吃。熱鬧的氛圍和多樣的美食選擇使其成為完美的晚間散步目的地。",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "六合夜市",
+          "type": "night_market",
+          "description": "六合夜市以其獨特的美食而聞名，是一個美食熱點。在熱鬧的攤位中，嘗試招牌螺絲粉和烤海鮮。繁忙的氛圍和實惠的價格使其成為體驗當地風味的好地方。",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "壽司快餐",
+          "type": "restaurant",
+          "description": "對於壽司愛好者來說，壽司快餐提供了一個傳送帶用餐體驗，擁有各種新鮮的壽司。休閒的氛圍和實惠的價格使其成為當地人和遊客的最愛。菜品價格為$，是快速用餐的絕佳選擇。",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "永和豆漿大王",
+          "type": "cafe",
+          "description": "永和豆漿大王是享用傳統台灣早餐的熱門地點，提供美味的豆漿、蔥油餅和蛋餅。休閒的氛圍非常適合清晨用餐，價格非常實惠，通常約為$。這是體驗台灣早餐文化的必訪之地。",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "基隆夜市",
+          "type": "night_market",
+          "description": "基隆夜市以其海鮮和當地美食而聞名。在享受熱鬧氛圍的同時，嘗試著名的八卦（肉圓）和各種炸海鮮。價格範圍從$到$$，是品嚐各種台灣街頭美食的好地方。",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "台北のベストフード 2026 — トップレストランと屋台グルメガイド",
+      "seo_description": "台北の最高のレストラン、屋台グルメ、地元の特産品を発見。予算に応じた食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "台北は食の愛好家の天国であり、伝統的な台湾の味と現代的な料理のトレンドが融合しています。にぎやかな夜市、居心地の良いカフェ、高級レストランは、街のユニークな味を提供します。ストリートスナックから高級ダイニングまで、台北の多様なフードシーンは、あらゆる味覚を満たす何かを提供しています。",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "鼎泰豐",
+          "type": "restaurant",
+          "description": "鼎泰豐は小籠包（スープ入り餃子）で有名で、食通には必見のレストランです。レストランはスタイリッシュな雰囲気で、オープンキッチンがあり、シェフの仕事を観察できます。価格は$$から$$$で、カジュアルな食事や特別な occasion にも最適です。",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "士林夜市",
+          "type": "night_market",
+          "description": "士林夜市は台北最大かつ最も有名な夜市の一つで、屋台グルメ愛好家のための活気ある中心地です。臭豆腐やフライドチキンステーキなどの地元の特産品を楽しみながら、さまざまな店舗を探索してください。活気ある雰囲気と多様な提供物は、正真正銘の夜市体験のための必見スポットです。",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "永康牛肉麺",
+          "type": "restaurant",
+          "description": "柔らかい牛肉麺スープで有名な永康牛肉麺は、快適な食事体験を提供します。濃厚なスープと完璧に調理された麺が心を温めてくれます。価格はお手頃で、通常は$$程度で、満足のいく食事に最適な場所です。",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "淡水老街",
+          "type": "street_food",
+          "description": "淡水老街は魅力的な海岸と美味しい屋台グルメで有名です。景色を楽しみながら、阿給（フライド豆腐に麺を詰めたもの）や魚団子などの地元のスナックを試してみてください。活気ある雰囲気と多様な食の選択肢は、完璧な夕方の散歩先です。",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "六合夜市",
+          "type": "night_market",
+          "description": "六合夜市はユニークな料理で有名で、料理のホットスポットです。賑やかな屋台を歩きながら、名物の巻貝のライスヌードルや焼きシーフードを試してみてください。賑やかな雰囲気と手頃な価格は、地元の味を楽しむのに最適な場所です。",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "寿司エクスプレス",
+          "type": "restaurant",
+          "description": "寿司好きには、寿司エクスプレスが新鮮な寿司のさまざまな種類を提供する回転寿司の体験を提供します。カジュアルな雰囲気と手頃な価格は、地元の人々や観光客に人気です。料理の価格は$で、迅速な食事に最適な選択肢です。",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "永和豆漿大王",
+          "type": "cafe",
+          "description": "伝統的な台湾の朝食を楽しむための人気スポットである永和豆漿大王は、美味しい豆乳、葱油餅、卵クレープを提供しています。カジュアルな雰囲気は早朝の食事にぴったりで、価格は非常に手頃で通常は$程度です。これは、台湾の朝食文化を真に味わうための必訪スポットです。",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "基隆夜市",
+          "type": "night_market",
+          "description": "基隆夜市はシーフードと地元の美味しい料理で有名です。賑やかな雰囲気の中で、名物のバーワン（肉団子）やさまざまな揚げ海鮮料理を試してみてください。価格は$から$$までの範囲で、さまざまな台湾の屋台料理を味わうのに最適な場所です。",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "타이베이 최고의 음식 2026 — 인기 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "타이베이의 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 저렴한 음식부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "타이베이는 전통 대만의 맛과 현대 요리 트렌드가 어우러진 음식 애호가의 천국입니다. 분주한 야시장, 아늑한 카페 및 고급 레스토랑은 도시의 독특한 맛을 제공합니다. 거리 간식부터 고급 다이닝까지, 타이베이의 다양한 음식 장면은 모든 입맛을 만족시킬 무언가가 있습니다.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "딘타이펑",
+          "type": "restaurant",
+          "description": "딘타이펑은 소룡포(국물 만두)로 유명하며, 모든 미식가가 꼭 방문해야 할 곳입니다. 레스토랑은 세련된 분위기를 제공하며, 오픈 주방에서 요리사가 일하는 모습을 볼 수 있습니다. 가격대는 $$에서 $$$까지로, 캐주얼한 자리나 특별한 자리 모두에 적합합니다.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "스린 야시장",
+          "type": "night_market",
+          "description": "스린 야시장은 타이베이에서 가장 크고 유명한 야시장 중 하나로, 길거리 음식 애호가를 위한 활기찬 중심지입니다. 다양한 상점을 탐험하면서 취두부 및 튀긴 치킨 스테이크와 같은 지역 특산품을 즐기세요. 활기찬 분위기와 다양한 제공물은 진정한 야시장 경험을 위한 필수 방문지입니다.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "용강牛肉면",
+          "type": "restaurant",
+          "description": "부드러운 소고기 국수로 유명한 용강牛肉면은 편안한 식사 경험을 제공합니다. 진한 육수와 완벽하게 조리된 면이 마음을 따뜻하게 해줍니다. 가격이 합리적이며, 보통 $$ 정도로 만족스러운 식사에 적합한 장소입니다.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "담수 구시가지",
+          "type": "street_food",
+          "description": "담수 구시가는 매력적인 해안과 맛있는 길거리 음식으로 유명합니다. 경치 좋은 전망을 감상하며 아게이(튀긴 두부에 면을 채운 것)와 어묵볼 등의 지역 간식을 맛보세요. 활기찬 분위기와 다양한 음식 옵션은 완벽한 저녁 산책 장소입니다.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "류허 야시장",
+          "type": "night_market",
+          "description": "류허 야시장은 독특한 요리로 유명하며, 미식의 핫스팟입니다. 활기찬 노점에서 시그니처 달팽이 쌀국수와 그릴 해산물을 맛보세요. 분주한 분위기와 저렴한 가격은 현지의 맛을 경험하기에 좋은 장소입니다.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "스시 익스프레스",
+          "type": "restaurant",
+          "description": "스시 애호가를 위해 스시 익스프레스는 다양한 신선한 스시로 구성된 회전 초밥 식사를 제공합니다. 캐주얼한 분위기와 저렴한 가격은 현지인과 관광객 모두에게 인기가 많습니다. 요리 가격은 $로, 빠른 식사를 위한 훌륭한 선택입니다.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "용허 두유왕",
+          "type": "cafe",
+          "description": "전통 대만 아침 식사를 위한 사랑받는 장소인 용허 두유왕은 맛있는 두유, 파전 및 계란 팬케이크를 제공합니다. 캐주얼한 분위기는 이른 아침 식사에 적합하며, 가격은 매우 저렴하여 보통 $ 정도입니다. 진정한 대만 아침 식사 문화를 체험하기 위한 필수 방문지입니다.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "기룡 야시장",
+          "type": "night_market",
+          "description": "기룡 야시장은 해산물과 지역 진미로 유명합니다. 활기찬 분위기에서 유명한 바완(미트볼)과 다양한 튀긴 해산물 요리를 맛보세요. 가격대는 $에서 $$까지로, 다양한 대만 길거리 음식을 시도하기에 좋은 장소입니다.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures Nourritures à Taipei 2026 — Meilleurs Restaurants & Guide de Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales à Taipei. Des plats économiques aux restaurants raffinés — avec des liens de réservation.",
+      "page_intro": "Taipei est un paradis pour les amateurs de nourriture, mêlant saveurs taïwanaises traditionnelles et tendances culinaires modernes. Les marchés nocturnes animés, les cafés confortables et les restaurants haut de gamme offrent un goût unique de la ville. Que vous ayez envie de snacks de rue ou de gastronomie, la scène culinaire diversifiée de Taipei a quelque chose pour satisfaire tous les palais.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "Din Tai Fung",
+          "type": "restaurant",
+          "description": "Célèbre pour ses xiaolongbao (dumplings de soupe), Din Tai Fung est un incontournable pour tout amateur de gastronomie. Le restaurant offre une atmosphère élégante avec une cuisine ouverte où vous pouvez observer les chefs à l'œuvre. Les prix varient de $$ à $$$, ce qui en fait un excellent choix pour des occasions décontractées ou spéciales.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Marché de nuit de Shilin",
+          "type": "night_market",
+          "description": "L'un des plus grands et des plus célèbres marchés de nuit à Taipei, le marché de nuit de Shilin est un centre vibrant pour les amateurs de street food. Régalez-vous de spécialités locales telles que le tofu puant et le steak de poulet frit tout en explorant divers magasins. L'atmosphère animée et la diversité des offres en font un incontournable pour une expérience authentique de marché nocturne.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "Yong Kang Beef Noodle",
+          "type": "restaurant",
+          "description": "Célèbre pour sa soupe de nouilles de boeuf tendre, Yong Kang Beef Noodle offre une expérience culinaire réconfortante. Le bouillon riche et les nouilles parfaitement cuites réchaufferont votre cœur. Les prix sont raisonnables, généralement autour de $$, ce qui en fait un excellent arrêt pour un repas satisfaisant.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "Rue ancienne de Tamsui",
+          "type": "street_food",
+          "description": "La rue ancienne de Tamsui est célèbre pour son charmant front de mer et sa délicieuse street food. Dégustez des collations locales comme l'A-gei (tofu frit farci de nouilles) et les boulettes de poisson tout en admirant les vues pittoresques. L'atmosphère animée et la variété des options alimentaires en font une destination parfaite pour une promenade en soirée.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "Marché de nuit de Liuhe",
+          "type": "night_market",
+          "description": "Célèbre pour ses plats uniques, le marché de nuit de Liuhe est un hotspot culinaire. Essayez les nouilles de riz aux escargots et les fruits de mer grillés tout en flânant dans les stands animés. L'atmosphère animée et les prix abordables en font un excellent endroit pour découvrir les saveurs locales.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "Sushi Express",
+          "type": "restaurant",
+          "description": "Pour les amateurs de sushi, Sushi Express propose une expérience de restauration sur tapis roulant avec une large variété de sushis frais. L'atmosphère décontractée et les prix abordables en font un favori parmi les habitants et les touristes. Les plats sont à $ et constituent un excellent choix pour un repas rapide.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "Yonghe Soy Milk King",
+          "type": "cafe",
+          "description": "Un endroit prisé pour le petit-déjeuner taïwanais traditionnel, Yonghe Soy Milk King sert du lait de soja délicieux, des crêpes aux oignons et des crêpes aux œufs. L'atmosphère décontractée est parfaite pour un repas matinal, et les prix sont très abordables, généralement autour de $. C'est un arrêt essentiel pour goûter à la véritable culture du petit-déjeuner taïwanais.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "Marché de nuit de Keelung",
+          "type": "night_market",
+          "description": "Le marché de nuit de Keelung est célèbre pour ses fruits de mer et ses spécialités locales. Essayez le célèbre bawan (boulette de viande) et divers plats de fruits de mer frits tout en profitant de l'atmosphère animée. Les prix varient de $ à $$, ce qui en fait un endroit idéal pour déguster une variété de street food taïwanaise.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "La Mejor Comida en Taipei 2026 — Mejores Restaurantes y Guía de Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Taipei. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
+      "page_intro": "Taipei es un paraíso para los amantes de la comida, combinando sabores taiwaneses tradicionales con tendencias culinarias modernas. Los bulliciosos mercados nocturnos, acogedores cafés y restaurantes de alta gama ofrecen un sabor único de la ciudad. Ya sea que anheles bocadillos callejeros o una cena elegante, la diversa escena gastronómica de Taipei tiene algo para satisfacer todos los paladares.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "Din Tai Fung",
+          "type": "restaurant",
+          "description": "Reconocido por sus xiaolongbao (dumplings de sopa), Din Tai Fung es una visita obligada para cualquier amante de la comida. El restaurante ofrece una atmósfera elegante con una cocina abierta donde puedes observar a los chefs en acción. Los precios van desde $$ a $$$, lo que lo convierte en una excelente opción tanto para ocasiones casuales como especiales.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Mercado Nocturno de Shilin",
+          "type": "night_market",
+          "description": "Uno de los mercados nocturnos más grandes y famosos de Taipei, el Mercado Nocturno de Shilin es un vibrante centro para los amantes de la comida callejera. Deléitate con especialidades locales como el tofu apestoso y el pollo frito mientras exploras varias tiendas. La animada atmósfera y la diversidad de ofertas lo convierten en una visita obligada para una experiencia auténtica de mercado nocturno.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "Yong Kang Beef Noodle",
+          "type": "restaurant",
+          "description": "Famoso por su sopa de fideos de ternera tierna, Yong Kang Beef Noodle ofrece una experiencia gastronómica reconfortante. El rico caldo y los fideos perfectamente cocidos calentarán tu corazón. Los precios son razonables, típicamente alrededor de $$, lo que lo convierte en una excelente parada para una comida satisfactoria.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "Calle Vieja de Tamsui",
+          "type": "street_food",
+          "description": "La Calle Vieja de Tamsui es famosa por su encantador paseo marítimo y deliciosa comida callejera. Prueba bocadillos locales como A-gei (tofu frito relleno de fideos) y bolitas de pescado mientras disfrutas de las vistas escénicas. La animada atmósfera y la variedad de opciones gastronómicas la convierten en un destino perfecto para un paseo nocturno.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "Mercado Nocturno de Liuhe",
+          "type": "night_market",
+          "description": "Famoso por sus platos únicos, el Mercado Nocturno de Liuhe es un hotspot culinario. Prueba los fideos de arroz con caracol y mariscos a la parrilla mientras paseas por los animados puestos. La atmósfera bulliciosa y los precios asequibles lo convierten en un gran lugar para experimentar sabores locales.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "Sushi Express",
+          "type": "restaurant",
+          "description": "Para los amantes del sushi, Sushi Express ofrece una experiencia de cena en cinta transportadora con una amplia variedad de sushi fresco. La atmósfera casual y los precios asequibles lo convierten en un favorito tanto entre los locales como entre los turistas. Los platos están a $ y son una excelente opción para una comida rápida.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "Yonghe Soy Milk King",
+          "type": "cafe",
+          "description": "Un lugar querido para el desayuno taiwanés tradicional, Yonghe Soy Milk King sirve delicioso leche de soya, panqueques de cebollino y crepas de huevo. La atmósfera casual es perfecta para una comida matutina, y los precios son muy asequibles, típicamente alrededor de $. Es una parada esencial para un verdadero sabor de la cultura del desayuno taiwanés.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "Mercado Nocturno de Keelung",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Keelung es famoso por sus mariscos y delicias locales. Prueba el famoso bawan (albóndiga) y varios platos de mariscos fritos mientras disfrutas de la animada atmósfera. Los precios oscilan entre $ y $$, lo que lo convierte en un gran lugar para degustar una variedad de comidas callejeras taiwanesas.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Taipei 2026 — Restoran Teratas & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Taipei. Dari makanan hemat hingga fine dining — dengan tautan pemesanan.",
+      "page_intro": "Taipei adalah surga bagi pecinta makanan, menggabungkan cita rasa Taiwan tradisional dengan tren kuliner modern. Pasar malam yang ramai, kafe yang nyaman, dan restoran mewah menawarkan rasa unik dari kota ini. Apakah Anda menginginkan camilan jalanan atau makan malam yang mewah, beragam adegan makanan Taipei memiliki sesuatu untuk memuaskan setiap selera.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "Din Tai Fung",
+          "type": "restaurant",
+          "description": "Dikenal karena xiaolongbao (dumpling sup), Din Tai Fung adalah tempat yang wajib dikunjungi bagi setiap pecinta makanan. Restoran ini menawarkan suasana yang elegan dengan dapur terbuka di mana Anda dapat melihat para koki bekerja. Harga berkisar dari $$ hingga $$$, menjadikannya pilihan yang bagus untuk acara santai maupun khusus.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Pasar Malam Shilin",
+          "type": "night_market",
+          "description": "Salah satu pasar malam terbesar dan terpopuler di Taipei, Pasar Malam Shilin adalah pusat yang ramai bagi para pecinta makanan jalanan. Nikmati spesialisasi lokal seperti tahu bau dan steak ayam goreng sambil menjelajahi berbagai toko. Suasana yang hidup dan beragam penawaran menjadikannya tempat yang wajib dikunjungi untuk pengalaman pasar malam yang otentik.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "Yong Kang Beef Noodle",
+          "type": "restaurant",
+          "description": "Terkenal karena sup mi daging sapi yang empuk, Yong Kang Beef Noodle menawarkan pengalaman bersantap yang menenangkan. Kaldu kaya dan mi yang dimasak dengan sempurna akan menghangatkan hati Anda. Harganya terjangkau, biasanya sekitar $$, menjadikannya tempat yang bagus untuk berhenti untuk makan yang memuaskan.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "Jalan Tua Tamsui",
+          "type": "street_food",
+          "description": "Jalan Tua Tamsui terkenal dengan tepi lautnya yang menawan dan makanan jalanannya yang lezat. Cobalah camilan lokal seperti A-gei (tahu goreng isi mie) dan bola ikan sambil menikmati pemandangan yang indah. Suasana yang meriah dan berbagai pilihan makanan menjadikannya tujuan sempurna untuk berjalan-jalan di malam hari.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "Pasar Malam Liuhe",
+          "type": "night_market",
+          "description": "Terkenal karena hidangan uniknya, Pasar Malam Liuhe adalah hotspot kuliner. Cobalah mi nasi siput dan makanan laut panggang sambil menjelajahi stan yang ramai. Suasana yang ramai dan harga yang terjangkau menjadikannya tempat yang bagus untuk merasakan cita rasa lokal.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "Sushi Express",
+          "type": "restaurant",
+          "description": "Bagi pecinta sushi, Sushi Express menawarkan pengalaman bersantap dengan jalur konveyor dengan berbagai sushi segar. Suasana santai dan harga terjangkau menjadikannya favorit di kalangan penduduk lokal dan wisatawan. Hidangan dihargai sekitar $, menjadikannya pilihan yang sangat baik untuk makan cepat.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "Yonghe Soy Milk King",
+          "type": "cafe",
+          "description": "Tempat yang dicintai untuk sarapan tradisional Taiwan, Yonghe Soy Milk King menyajikan susu kedelai yang lezat, pancake daun bawang, dan crepe telur. Suasana santai sangat cocok untuk makan pagi, dan harganya sangat terjangkau, biasanya sekitar $. Ini adalah pemberhentian penting untuk merasakan budaya sarapan Taiwan yang sebenarnya.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "Pasar Malam Keelung",
+          "type": "night_market",
+          "description": "Pasar Malam Keelung terkenal dengan makanan laut dan makanan lokalnya. Cobalah bawan (bakso) yang terkenal dan berbagai hidangan seafood goreng sambil menikmati suasana yang ramai. Harga berkisar antara $ hingga $$, menjadikannya tempat yang bagus untuk mencicipi berbagai makanan jalanan Taiwan.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "ताइपेई में सबसे अच्छा भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "ताइपेई में सबसे अच्छे रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "ताइपेई खाद्य प्रेमियों का स्वर्ग है, पारंपरिक ताइवान के स्वादों को आधुनिक पाक प्रवृत्तियों के साथ मिलाता है। हलचल भरे रात के बाजार, आरामदायक कैफे और उच्च श्रेणी के रेस्तरां शहर का अनूठा स्वाद प्रदान करते हैं। चाहे आप स्ट्रीट स्नैक्स की लालसा कर रहे हों या फाइन डाइनिंग की, ताइपेई का विविध खाद्य दृश्य हर स्वाद को संतुष्ट करने के लिए कुछ न कुछ है।",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "डिन ताइ फंग",
+          "type": "restaurant",
+          "description": "xiaolongbao (सूप डंपलिंग) के लिए प्रसिद्ध, डिन ताइ फंग किसी भी खाद्य प्रेमी के लिए एक जरूरी स्थान है। रेस्तरां एक सुगठित वातावरण प्रदान करता है जिसमें एक खुला किचन है जहाँ आप रसोइयों को काम करते हुए देख सकते हैं। कीमतें $$ से $$$ तक हैं, जो इसे आकस्मिक और विशेष अवसरों दोनों के लिए एक शानदार विकल्प बनाती हैं।",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "शिलिन नाइट मार्केट",
+          "type": "night_market",
+          "description": "ताइपेई के सबसे बड़े और सबसे प्रसिद्ध रात के बाजारों में से एक, शिलिन नाइट मार्केट स्ट्रीट फूड प्रेमियों के लिए एक जीवंत केंद्र है। स्थानीय विशेषताओं जैसे कि स्टींकी टोफू और तले हुए चिकन स्टेक का आनंद लें जबकि विभिन्न दुकानों की खोज करें। जीवंत वातावरण और विविधता इसे एक प्रामाणिक रात के बाजार के अनुभव के लिए एक जरूरी स्थान बनाती है।",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "योंग कांग बीफ नूडल",
+          "type": "restaurant",
+          "description": "Tender beef noodle soup के लिए प्रसिद्ध, योंग कांग बीफ नूडल एक आरामदायक भोजन अनुभव प्रदान करता है। समृद्ध शोरबा और सही ढंग से पके नूडल आपके दिल को गर्म करेंगे। कीमतें उचित हैं, सामान्यतः $$ के आसपास, जो इसे एक संतोषजनक भोजन के लिए एक शानदार जगह बनाती है।",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "ताम्सुई ओल्ड स्ट्रीट",
+          "type": "street_food",
+          "description": "ताम्सुई ओल्ड स्ट्रीट अपने आकर्षक वाटरफ्रंट और स्वादिष्ट स्ट्रीट फूड के लिए प्रसिद्ध है। स्थानीय स्नैक्स जैसे A-gei (तले हुए टोफू में नूडल भरे हुए) और मछली की गेंदों का स्वाद लें जबकि दृश्य का आनंद लें। जीवंत वातावरण और खाद्य विकल्पों की विविधता इसे एक आदर्श शाम की सैर के लिए बनाती है।",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "लिउहे नाइट मार्केट",
+          "type": "night_market",
+          "description": "अपने अद्वितीय व्यंजनों के लिए प्रसिद्ध, लिउहे नाइट मार्केट एक पाक केंद्र है। हस्ताक्षर स्नेल चावल नूडल्स और ग्रिल्ड सीफूड का प्रयास करें जबकि जीवंत स्टालों के बीच घूमते हैं। हलचल भरा वातावरण और किफायती कीमतें इसे स्थानीय स्वादों का अनुभव करने के लिए एक शानदार जगह बनाते हैं।",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "सुशी एक्सप्रेस",
+          "type": "restaurant",
+          "description": "सुशी प्रेमियों के लिए, सुशी एक्सप्रेस ताजा सुशी की विस्तृत विविधता के साथ एक कन्वेयर बेल्ट भोजन अनुभव प्रदान करता है। आकस्मिक वातावरण और किफायती कीमतें इसे स्थानीय लोगों और पर्यटकों के बीच लोकप्रिय बनाती हैं। व्यंजन $ की कीमत पर हैं, जो इसे एक त्वरित भोजन के लिए एक उत्कृष्ट विकल्प बनाता है।",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "योंगहे सोया मिल्क किंग",
+          "type": "cafe",
+          "description": "पारंपरिक ताइवान के नाश्ते के लिए एक प्रिय स्थान, योंगहे सोया मिल्क किंग स्वादिष्ट सोया मिल्क, हरी प्याज की पैनकेक और अंडे के क्रेप्स परोसता है। आकस्मिक वातावरण सुबह के भोजन के लिए एकदम सही है, और कीमतें बहुत किफायती हैं, सामान्यतः $ के आसपास। यह ताइवान के नाश्ता संस्कृति का सही स्वाद पाने के लिए एक आवश्यक स्थान है।",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "कीलुंग नाइट मार्केट",
+          "type": "night_market",
+          "description": "कीलुंग नाइट मार्केट अपने समुद्री खाद्य और स्थानीय व्यंजनों के लिए प्रसिद्ध है। प्रसिद्ध बवान (मांसबॉल) और विभिन्न तले हुए समुद्री खाद्य व्यंजनों का स्वाद लें जबकि जीवंत वातावरण का आनंद लें। कीमतें $ से $$ के बीच होती हैं, जो इसे ताइवान के विभिन्न स्ट्रीट फूड का स्वाद चखने के लिए एक शानदार जगह बनाती हैं।",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Taipei 2026 — Melhores Restaurantes & Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Taipei. Desde refeições econômicas até alta gastronomia — com links de reserva.",
+      "page_intro": "Taipei é um paraíso para os amantes da comida, misturando sabores tradicionais de Taiwan com tendências culinárias modernas. Os movimentados mercados noturnos, cafés aconchegantes e restaurantes sofisticados oferecem um sabor único da cidade. Seja você fã de petiscos de rua ou de alta gastronomia, a cena gastronômica diversificada de Taipei tem algo para satisfazer todos os paladares.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "Din Tai Fung",
+          "type": "restaurant",
+          "description": "Renomado por seus xiaolongbao (dumplings de sopa), o Din Tai Fung é uma visita obrigatória para qualquer amante da gastronomia. O restaurante oferece uma atmosfera elegante com uma cozinha aberta onde você pode assistir os chefs em ação. Os preços variam de $$ a $$$, tornando-o uma ótima escolha tanto para ocasiões casuais quanto especiais.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Mercado Noturno Shilin",
+          "type": "night_market",
+          "description": "Um dos maiores e mais famosos mercados noturnos de Taipei, o Mercado Noturno Shilin é um vibrante centro para amantes da comida de rua. Delicie-se com especialidades locais, como tofu fedido e bife de frango frito, enquanto explora várias lojas. A atmosfera animada e a diversidade de ofertas tornam-no uma visita obrigatória para uma experiência autêntica de mercado noturno.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "Yong Kang Beef Noodle",
+          "type": "restaurant",
+          "description": "Famoso por sua sopa de macarrão com carne bovina macia, o Yong Kang Beef Noodle oferece uma experiência gastronômica reconfortante. O caldo rico e os macarrões perfeitamente cozidos aquecerão seu coração. Os preços são razoáveis, tipicamente em torno de $$, tornando-o uma ótima parada para uma refeição satisfatória.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "Rua Antiga de Tamsui",
+          "type": "street_food",
+          "description": "A Rua Antiga de Tamsui é famosa por sua encantadora orla e deliciosa comida de rua. Experimente lanches locais como A-gei (tofu frito recheado com macarrão) e bolinhos de peixe enquanto aprecia as vistas cênicas. A atmosfera vibrante e a variedade de opções alimentares tornam-na um destino perfeito para um passeio noturno.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "Mercado Noturno Liuhe",
+          "type": "night_market",
+          "description": "Famoso por seus pratos únicos, o Mercado Noturno Liuhe é um ponto gastronômico. Experimente os famosos macarrões de arroz com caracol e frutos do mar grelhados enquanto passeia pelas barracas animadas. A atmosfera agitada e os preços acessíveis fazem dele um ótimo lugar para experimentar os sabores locais.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "Sushi Express",
+          "type": "restaurant",
+          "description": "Para os amantes de sushi, o Sushi Express oferece uma experiência de jantar em esteira com uma ampla variedade de sushis frescos. A atmosfera casual e os preços acessíveis fazem dele um favorito entre os locais e turistas. Os pratos têm preços a partir de $, tornando-o uma excelente escolha para uma refeição rápida.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "Rei do Leite de Soja Yonghe",
+          "type": "cafe",
+          "description": "Um local amado para o café da manhã tradicional de Taiwan, o Rei do Leite de Soja Yonghe serve delicioso leite de soja, panquecas de cebola verde e crepes de ovo. A atmosfera casual é perfeita para uma refeição matinal, e os preços são muito acessíveis, tipicamente em torno de $. É uma parada essencial para um verdadeiro gosto da cultura do café da manhã de Taiwan.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "Mercado Noturno de Keelung",
+          "type": "night_market",
+          "description": "O Mercado Noturno de Keelung é famoso por seus frutos do mar e iguarias locais. Experimente o famoso bawan (bolinho de carne) e vários pratos de frutos do mar fritos enquanto aproveita a atmosfera vibrante. Os preços variam de $ a $$, tornando-o um ótimo lugar para experimentar uma variedade de comidas de rua de Taiwan.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في تايبيه 2026 - أفضل المطاعم ودليل طعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في تايبيه. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "تايبيه هي جنة لعشاق الطعام، حيث ت融合 النكهات التايوانية التقليدية مع الاتجاهات الطهي الحديثة. تقدم الأسواق الليلية المزدحمة والمقاهي المريحة والمطاعم الراقية طعمًا فريدًا للمدينة. سواء كنت ترغب في وجبات خفيفة من الشارع أو تناول الطعام الفاخر، فإن مشهد الطعام المتنوع في تايبيه لديه شيء لإرضاء كل الأذواق.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "دين تاي فنج",
+          "type": "restaurant",
+          "description": "يشتهر دين تاي فنج بكرات الحساء (شياولونغباو)، وهو مكان يجب زيارته لأي محب للطعام. يقدم المطعم جوًا أنيقًا مع مطبخ مفتوح حيث يمكنك مشاهدة الطهاة أثناء العمل. تتراوح الأسعار من $$ إلى $$$، مما يجعله خيارًا رائعًا للمناسبات العادية والخاصة على حد سواء.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "سوق شي لين الليلي",
+          "type": "night_market",
+          "description": "يعد سوق شي لين الليلي أحد أكبر الأسواق الليلية والأكثر شهرة في تايبيه، وهو مركز نابض لمحبي طعام الشارع. استمتع بالتخصصات المحلية مثل التوفو المتعفن وشرائح الدجاج المقلية أثناء استكشاف المتاجر المختلفة. تجعل الأجواء الحيوية والتنوع في العروض منه وجهة لا بد من زيارتها لتجربة السوق الليلي الأصيلة.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "نودلز لحم البقر يونغ كانغ",
+          "type": "restaurant",
+          "description": "يشتهر نودلز لحم البقر يونغ كانغ بحساء نودلز لحم البقر الطري، ويقدم تجربة طعام مريحة. ستدفئك المرق الغني والنودلز المطبوخة بشكل مثالي. الأسعار معقولة، وعادة ما تكون حوالي $$، مما يجعلها محطة رائعة لوجبة مُرضية.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "شارع تامسوي القديم",
+          "type": "street_food",
+          "description": "يشتهر شارع تامسوي القديم بكورنيشه الساحر وطعام الشارع اللذيذ. تذوق الوجبات الخفيفة المحلية مثل أجي (التوفو المقلي المحشي بالنودلز) وكريات السمك بينما تستمتع بالمناظر الخلابة. تجعل الأجواء النابضة والحيوية وتنوع خيارات الطعام منه وجهة مثالية للنزهة المسائية.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "سوق ليوهي الليلي",
+          "type": "night_market",
+          "description": "يشتهر سوق ليوهي الليلي بأطباقه الفريدة، وهو وجهة طهي شهيرة. جرب نودلز الأرز بالحلزون والمأكولات البحرية المشوية أثناء تجولك عبر الأكشاك الحيوية. تجعل الأجواء المزدحمة والأسعار المعقولة منه مكانًا رائعًا لتجربة النكهات المحلية.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "سوشي إكسبرس",
+          "type": "restaurant",
+          "description": "عشاق السوشي، يقدم سوشي إكسبرس تجربة تناول الطعام على حزام متحرك مع مجموعة واسعة من السوشي الطازج. تجعل الأجواء غير الرسمية والأسعار المعقولة منه مفضلًا بين السكان المحليين والسياح على حد سواء. تتراوح أسعار الأطباق من $، مما يجعله خيارًا ممتازًا لوجبة سريعة.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "ملك حليب الصويا يونغ هي",
+          "type": "cafe",
+          "description": "مكان محبوب لتناول الإفطار التايواني التقليدي، يقدم ملك حليب الصويا يونغ هي حليب الصويا اللذيذ، والفطائر الخضراء، وكريب البيض. الأجواء غير الرسمية مثالية لوجبة صباحية، والأسعار معقولة جدًا، وعادة ما تكون حوالي $. إنها محطة أساسية لتجربة حقيقية لثقافة الإفطار التايواني.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "سوق كيلونغ الليلي",
+          "type": "night_market",
+          "description": "يشتهر سوق كيلونغ الليلي بالمأكولات البحرية والأطباق المحلية. جرب الباوان الشهير (كرات اللحم) ومجموعة متنوعة من أطباق المأكولات البحرية المقلية أثناء الاستمتاع بالأجواء النابضة. تتراوح الأسعار من $ إلى $$، مما يجعله مكانًا رائعًا لتجربة مجموعة متنوعة من الأطعمة التايوانية.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "তাইপেইয়ের সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ ও রাস্তার খাবার গাইড",
+      "seo_description": "তাইপেইয়ের সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেট খাওয়া থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত — বুকিং লিঙ্ক সহ।",
+      "page_intro": "তাইপেই খাদ্য প্রেমীদের জন্য একটি স্বর্গ, যেখানে ঐতিহ্যবাহী তাইওয়ানি স্বাদগুলি আধুনিক রন্ধনপ্রণালী প্রবণতার সাথে মিশে যায়। ব্যস্ত রাতের বাজার, আরামদায়ক ক্যাফে এবং উচ্চমানের রেস্তোরাঁ শহরের একটি অনন্য স্বাদ প্রদান করে। আপনি যদি রাস্তার স্ন্যাক্সের জন্য প্রয়োজনীয় হন বা ফাইন ডাইনিংয়ের জন্য, তাইপেইয়ের বৈচিত্র্যময় খাবারের দৃশ্যে প্রত্যেকটি স্বাদের জন্য কিছু আছে।",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "ডিন তাই ফুং",
+          "type": "restaurant",
+          "description": "xiaolongbao (সুপ ডাম্পলিং) এর জন্য পরিচিত, ডিন তাই ফুং যেকোন খাদ্যপ্রেমীর জন্য একটি অবশ্যই পরিদর্শন করা উচিত। রেস্তোঁটাটি একটি মার্জিত পরিবেশ প্রদান করে যেখানে আপনি রান্নাঘরে শেফদের কাজ করতে দেখতে পারবেন। দাম $$ থেকে $$$ এর মধ্যে, এটি উভয়ই আড্ডা এবং বিশেষ অনুষ্ঠানের জন্য চমৎকার একটি বিকল্প।",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "শিলিন নাইট মার্কেট",
+          "type": "night_market",
+          "description": "তাইপেইয়ের সবচেয়ে বড় এবং সবচেয়ে বিখ্যাত রাতের বাজারগুলির মধ্যে একটি, শিলিন নাইট মার্কেট রাস্তার খাবারের প্রেমীদের জন্য একটি উজ্জ্বল কেন্দ্র। স্থানীয় বিশেষত্ব যেমন স্টিঙ্কি টোফু এবং ফ্রায়েড চিকেন স্টেক উপভোগ করুন বিভিন্ন দোকান ঘুরে। প্রাণবন্ত পরিবেশ এবং বৈচিত্র্য এটিকে একান্ত রাতের বাজারের অভিজ্ঞতা জন্য একটি অবশ্যই পরিদর্শন করা উচিত।",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "যোং কাং বিফ নুডল",
+          "type": "restaurant",
+          "description": "নরম গরুর মাংসের নুডল স্যুপের জন্য বিখ্যাত, যোং কাং বিফ নুডল একটি আরামদায়ক খাবারের অভিজ্ঞতা প্রদান করে। সমৃদ্ধ ব্রথ এবং নিখুঁতভাবে রান্না করা নুডল আপনার হৃদয়কে উষ্ণ করবে। দাম সাধ্যের মধ্যে, সাধারণত $$ এর আশেপাশে, এটি একটি সন্তোষজনক খাবারের জন্য একটি চমৎকার স্টপ।",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "তামসুই পুরানো রাস্তা",
+          "type": "street_food",
+          "description": "তামসুই পুরানো রাস্তা তার আকর্ষণীয় জলসীমা এবং সুস্বাদু রাস্তার খাবারের জন্য পরিচিত। দৃষ্টিনন্দন দৃশ্যের সাথে A-gei (তলানো টোফু যেটির মধ্যে নুডল ভর্তি) এবং মাছের বলের মতো স্থানীয় স্ন্যাকসের স্বাদ নিন। প্রাণবন্ত পরিবেশ এবং খাদ্য বিকল্পের বৈচিত্র্য এটিকে একটি নিখুঁত সন্ধ্যায় হাঁটার স্থান করে তোলে।",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "লিউহে নাইট মার্কেট",
+          "type": "night_market",
+          "description": "এর অনন্য ডিশগুলির জন্য পরিচিত, লিউহে নাইট মার্কেট একটি রন্ধনপ্রণালী কেন্দ্র। জনপ্রিয় শামুকের ভাতের নুডল এবং গ্রিলড সি-ফুড চেষ্টা করুন যখন আপনি প্রাণবন্ত স্টলে ঘুরে বেড়াচ্ছেন। ব্যস্ত পরিবেশ এবং সাশ্রয়ী মূল্যের দাম এটি স্থানীয় স্বাদগুলির অভিজ্ঞতা করার জন্য একটি দুর্দান্ত জায়গা করে।",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "সুশি এক্সপ্রেস",
+          "type": "restaurant",
+          "description": "সুশি প্রেমীদের জন্য, সুশি এক্সপ্রেস একটি কনভেয়র বেল্ট ডাইনিং অভিজ্ঞতা অফার করে যা তাজা সুশির বিস্তৃত বৈচিত্র্য নিয়ে আসে। স্বাচ্ছন্দ্যময় পরিবেশ এবং সাশ্রয়ী মূল্য স্থানীয় এবং পর্যটকদের মধ্যে এটি জনপ্রিয় করে তুলেছে। ডিশগুলি $ মূল্যে, যা এটিকে একটি দ্রুত খাবারের জন্য চমৎকার একটি বিকল্প করে।",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "যোংহে সয়া দুধ রাজা",
+          "type": "cafe",
+          "description": "পार tradicionais তাইওয়ানি খাবারের জন্য একটি প্রিয় স্থান, যোংহে সয়া দুধ রাজা সুস্বাদু সয়া দুধ, স্ক্যালিয়ন প্যানকেক এবং ডিমের ক্রেপ পরিবেশন করে। স্বাচ্ছন্দ্যময় পরিবেশ সকালে খাবারের জন্য নিখুঁত এবং দাম খুব সাশ্রয়ী, সাধারণত $ এর আশেপাশে। এটি তাইওয়ানি খাবারের সংস্কৃতির সত্যিকারের স্বাদ পেতে একটি অপরিহার্য স্থান।",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "কিলুং নাইট মার্কেট",
+          "type": "night_market",
+          "description": "কিলুং নাইট মার্কেট সামুদ্রিক খাবার এবং স্থানীয় বিশেষত্বের জন্য পরিচিত। বিখ্যাত বাওয়ান (মাংসের বল) এবং বিভিন্ন তলানো সামুদ্রিক খাবারের পদ্য চেষ্টা করুন যখন আপনি প্রাণবন্ত পরিবেশ উপভোগ করছেন। দাম $ থেকে $$ এর মধ্যে, এটি তাইওয়ানের বিভিন্ন রাস্তার খাবারের স্বাদ নেওয়ার জন্য একটি দুর্দান্ত স্থান।",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Тайбэе 2026 — Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Тайбэе. От бюджетной еды до высокой кухни — со ссылками для бронирования.",
+      "page_intro": "Тайбэй — это рай для любителей еды, где традиционные тайваньские вкусы сочетаются с современными кулинарными тенденциями. Оживленные ночные рынки, уютные кафе и высококлассные рестораны предлагают уникальный вкус города. Независимо от того, хотите ли вы перекусить на улице или пообедать в шикарном ресторане, разнообразная кулинарная культура Тайбэя имеет что-то на любой вкус.",
+      "items": [
+        {
+          "id": "din-tai-fung",
+          "name": "Дин Тай Фунг",
+          "type": "restaurant",
+          "description": "Известный своими сяолунбао (пельменями с супом), Дин Тай Фунг является обязательным для посещения для любого гурмана. Ресторан предлагает стильную атмосферу с открытой кухней, где вы можете наблюдать за работой поваров. Цены варьируются от $$ до $$$, что делает его отличным выбором как для повседневных, так и для особых случаев.",
+          "image_keyword": "din tai fung dumplings",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Xiaolongbao",
+          "klook_query": "din tai fung reservation"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Ночной рынок Шилинь",
+          "type": "night_market",
+          "description": "Один из крупнейших и самых известных ночных рынков в Тайбэе, Ночной рынок Шилинь является ярким центром для любителей уличной еды. Наслаждайтесь местными блюдами, такими как вонючий тофу и жареная куриная грудинка, исследуя различные магазины. Живописная атмосфера и разнообразие предложений делают его обязательным местом для посещения для аутентичного опыта ночного рынка.",
+          "image_keyword": "shilin night market food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Stinky Tofu",
+          "klook_query": "shilin night market food tour"
+        },
+        {
+          "id": "beef-noodle-soup",
+          "name": "Говяжьи лапша Юнканг",
+          "type": "restaurant",
+          "description": "Известный своим нежным супом с говяжьей лапшой, Говяжьи лапша Юнканг предлагает комфортный обеденный опыт. Богатый бульон и идеально приготовленная лапша согреют ваше сердце. Цены разумные, обычно около $$, что делает его отличной остановкой для сытного обеда.",
+          "image_keyword": "yong kang beef noodle",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "yong kang beef noodle booking"
+        },
+        {
+          "id": "tamsui-old-street",
+          "name": "Старая улица Таньшуй",
+          "type": "street_food",
+          "description": "Старая улица Таньшуй известна своим очаровательным набережным и вкусной уличной едой. Попробуйте местные закуски, такие как A-gei (жареный тофу с лапшой) и рыболовные шарики, наслаждаясь живописными видами. Живое окружение и разнообразие блюд делают его идеальным местом для вечерних прогулок.",
+          "image_keyword": "tamsui old street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "A-gei",
+          "klook_query": "tamsui old street food tour"
+        },
+        {
+          "id": "luosifen",
+          "name": "Ночной рынок Лиюхе",
+          "type": "night_market",
+          "description": "Известный своими уникальными блюдами, Ночной рынок Лиюхе является кулинарным хитом. Попробуйте фирменные лапшу с улитками и гриль из морепродуктов, прогуливаясь по оживленным киоскам. Оживленная атмосфера и доступные цены делают его отличным местом для знакомства с местными вкусами.",
+          "image_keyword": "liuhe night market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Snail Rice Noodles",
+          "klook_query": "liuhe night market food tour"
+        },
+        {
+          "id": "raw-fish-salad",
+          "name": "Суши Экспресс",
+          "type": "restaurant",
+          "description": "Для любителей суши Суши Экспресс предлагает опыт обеда на конвейере с широким выбором свежих суши. Непринужденная атмосфера и доступные цены делают его любимым местом как для местных жителей, так и для туристов. Блюда стоят $, что делает его отличным выбором для быстрого питания.",
+          "image_keyword": "sushi express taipei",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Salmon Sashimi",
+          "klook_query": "sushi express booking"
+        },
+        {
+          "id": "taiwanese-breakfast",
+          "name": "Король соевого молока Юнхэ",
+          "type": "cafe",
+          "description": "Любимое место для традиционного тайваньского завтрака, Король соевого молока Юнхэ предлагает вкусное соевое молоко, лепешки с зеленым луком и яичные блины. Непринужденная атмосфера идеально подходит для утреннего приема пищи, а цены очень доступные, обычно около $. Это обязательная остановка для истинного вкуса тайваньской культуры завтрака.",
+          "image_keyword": "yonghe soy milk king",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Soy Milk and Scallion Pancake",
+          "klook_query": "yonghe soy milk king breakfast"
+        },
+        {
+          "id": "bawan",
+          "name": "Ночной рынок Килунг",
+          "type": "night_market",
+          "description": "Ночной рынок Килунг известен своими морепродуктами и местными деликатесами. Попробуйте знаменитый баван (мясные шарики) и различные блюда из жареных морепродуктов, наслаждаясь живой атмосферой. Цены варьируются от $ до $$, что делает его отличным местом для знакомства с разнообразием уличной еды Тайваня.",
+          "image_keyword": "keelung night market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Bawan",
+          "klook_query": "keelung night market food tour"
+        }
+      ]
+    }
+  }
+}
