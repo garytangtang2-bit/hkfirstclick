@@ -127,8 +127,66 @@ const NEARBY_CITIES: Record<string, string[]> = {
 
 const ALL_CITY_SLUGS = ["amsterdam","athens","auckland","bali-kuta","bangkok","barcelona","berlin","brussels","buenos-aires","cairo","cape-town","chicago","copenhagen","dubai","edinburgh","florence","fukuoka","hakone","ho-chi-minh-city","hong-kong","hongkong","kuala-lumpur","kyoto","las-vegas","lisbon","london","los-angeles","madrid","marrakesh","melbourne","miami","munich","new-york","nice","okinawa","osaka","paris","prague","reykjavik","rio-de-janeiro","rome","san-francisco","santorini","sapporo","seattle","seoul","singapore","stockholm","sydney","taipei","tokyo","toronto","venice","vienna","zurich"];
 
+const CITY_ZH_NAMES: Record<string, string> = {
+  "amsterdam": "阿姆斯特丹", "athens": "雅典", "auckland": "奧克蘭", "bali-kuta": "峇里島庫塔",
+  "bangkok": "曼谷", "barcelona": "巴塞隆納", "berlin": "柏林", "brussels": "布魯塞爾",
+  "buenos-aires": "布宜諾斯艾利斯", "cairo": "開羅", "cape-town": "開普敦", "chicago": "芝加哥",
+  "copenhagen": "哥本哈根", "dubai": "杜拜", "edinburgh": "愛丁堡", "florence": "佛羅倫斯",
+  "fukuoka": "福岡", "hakone": "箱根", "ho-chi-minh-city": "胡志明市", "hong-kong": "香港",
+  "hongkong": "香港", "kuala-lumpur": "吉隆坡", "kyoto": "京都", "las-vegas": "拉斯維加斯",
+  "lisbon": "里斯本", "london": "倫敦", "los-angeles": "洛杉磯", "madrid": "馬德里",
+  "marrakesh": "馬拉喀什", "melbourne": "墨爾本", "miami": "邁阿密", "munich": "慕尼黑",
+  "new-york": "紐約", "nice": "尼斯", "okinawa": "沖繩", "osaka": "大阪",
+  "paris": "巴黎", "prague": "布拉格", "reykjavik": "雷克雅維克", "rio-de-janeiro": "里約熱內盧",
+  "rome": "羅馬", "san-francisco": "舊金山", "santorini": "聖托里尼", "sapporo": "札幌",
+  "seattle": "西雅圖", "seoul": "首爾", "singapore": "新加坡", "stockholm": "斯德哥爾摩",
+  "sydney": "雪梨", "taipei": "台北", "tokyo": "東京", "toronto": "多倫多",
+  "venice": "威尼斯", "vienna": "維也納", "zurich": "蘇黎世",
+};
+
+const CITY_JA_NAMES: Record<string, string> = {
+  "amsterdam": "アムステルダム", "athens": "アテネ", "auckland": "オークランド", "bali-kuta": "バリ島クタ",
+  "bangkok": "バンコク", "barcelona": "バルセロナ", "berlin": "ベルリン", "brussels": "ブリュッセル",
+  "buenos-aires": "ブエノスアイレス", "cairo": "カイロ", "cape-town": "ケープタウン", "chicago": "シカゴ",
+  "copenhagen": "コペンハーゲン", "dubai": "ドバイ", "edinburgh": "エディンバラ", "florence": "フィレンツェ",
+  "fukuoka": "福岡", "hakone": "箱根", "ho-chi-minh-city": "ホーチミン市", "hong-kong": "香港",
+  "hongkong": "香港", "kuala-lumpur": "クアラルンプール", "kyoto": "京都", "las-vegas": "ラスベガス",
+  "lisbon": "リスボン", "london": "ロンドン", "los-angeles": "ロサンゼルス", "madrid": "マドリード",
+  "marrakesh": "マラケシュ", "melbourne": "メルボルン", "miami": "マイアミ", "munich": "ミュンヘン",
+  "new-york": "ニューヨーク", "nice": "ニース", "okinawa": "沖縄", "osaka": "大阪",
+  "paris": "パリ", "prague": "プラハ", "reykjavik": "レイキャビク", "rio-de-janeiro": "リオデジャネイロ",
+  "rome": "ローマ", "san-francisco": "サンフランシスコ", "santorini": "サントリーニ", "sapporo": "札幌",
+  "seattle": "シアトル", "seoul": "ソウル", "singapore": "シンガポール", "stockholm": "ストックホルム",
+  "sydney": "シドニー", "taipei": "台北", "tokyo": "東京", "toronto": "トロント",
+  "venice": "ヴェネツィア", "vienna": "ウィーン", "zurich": "チューリッヒ",
+};
+
+const CITY_KO_NAMES: Record<string, string> = {
+  "amsterdam": "암스테르담", "athens": "아테네", "auckland": "오클랜드", "bali-kuta": "발리 쿠타",
+  "bangkok": "방콕", "barcelona": "바르셀로나", "berlin": "베를린", "brussels": "브뤼셀",
+  "buenos-aires": "부에노스아이레스", "cairo": "카이로", "cape-town": "케이프타운", "chicago": "시카고",
+  "copenhagen": "코펜하겐", "dubai": "두바이", "edinburgh": "에든버러", "florence": "피렌체",
+  "fukuoka": "후쿠오카", "hakone": "하코네", "ho-chi-minh-city": "호치민시", "hong-kong": "홍콩",
+  "hongkong": "홍콩", "kuala-lumpur": "쿠알라룸푸르", "kyoto": "교토", "las-vegas": "라스베이거스",
+  "lisbon": "리스본", "london": "런던", "los-angeles": "로스앤젤레스", "madrid": "마드리드",
+  "marrakesh": "마라케시", "melbourne": "멜버른", "miami": "마이애미", "munich": "뮌헨",
+  "new-york": "뉴욕", "nice": "니스", "okinawa": "오키나와", "osaka": "오사카",
+  "paris": "파리", "prague": "프라하", "reykjavik": "레이캬비크", "rio-de-janeiro": "리우데자네이루",
+  "rome": "로마", "san-francisco": "샌프란시스코", "santorini": "산토리니", "sapporo": "삿포로",
+  "seattle": "시애틀", "seoul": "서울", "singapore": "싱가포르", "stockholm": "스톡홀름",
+  "sydney": "시드니", "taipei": "타이베이", "tokyo": "도쿄", "toronto": "토론토",
+  "venice": "베네치아", "vienna": "빈", "zurich": "취리히",
+};
+
 function formatCityName(slug: string): string {
   return slug.split("-").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+}
+
+function getLocalizedCityName(slug: string, langCode: string): string {
+  if (langCode === "zh") return CITY_ZH_NAMES[slug] ?? formatCityName(slug);
+  if (langCode === "ja") return CITY_JA_NAMES[slug] ?? formatCityName(slug);
+  if (langCode === "ko") return CITY_KO_NAMES[slug] ?? formatCityName(slug);
+  return formatCityName(slug);
 }
 
 function getRelatedCities(citySlug: string, allSlugs: string[]): string[] {
@@ -236,7 +294,7 @@ function CitySearchBox({ activeLang, onClose }: { activeLang: string; onClose: (
         {filtered.map(slug => (
           <a key={slug} href={`/attractions/${activeLang}/${slug}`}
             className="text-xs text-gray-300 hover:text-white hover:bg-white/5 px-2 py-1.5 rounded-lg transition-colors truncate">
-            {formatCityName(slug)}
+            {getLocalizedCityName(slug, activeLang)}
           </a>
         ))}
       </div>
@@ -260,12 +318,17 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
-  // Fetch photos for all items using english items' image_keyword
+  // Fetch photos for items that don't already have photo_url
   useEffect(() => {
     const enItems = attractionsData.translations["en"]?.items ?? [];
     enItems.forEach((item: any) => {
+      if (item.photo_url) {
+        setPhotoUrls(prev => ({ ...prev, [item.id]: item.photo_url }));
+        return;
+      }
       if (!item.image_keyword) return;
-      fetch(`/api/activity-photo?keyword=${encodeURIComponent(item.image_keyword)}&city=${encodeURIComponent(citySlug)}`)
+      const cityName = formatCityName(citySlug);
+      fetch(`/api/activity-photo?keyword=${encodeURIComponent(cityName + " " + item.image_keyword)}&city=${encodeURIComponent(citySlug)}`)
         .then(r => r.json())
         .then(data => {
           if (data.url) {
@@ -279,7 +342,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
   const activeLang = LANG_NAME_TO_CODE[language] ?? langCode;
   const translation = attractionsData.translations[activeLang] ?? attractionsData.translations["en"];
   const items = translation?.items ?? [];
-  const cityName = formatCityName(citySlug);
+  const cityName = getLocalizedCityName(citySlug, activeLang);
   const relatedCities = getRelatedCities(citySlug, ALL_CITY_SLUGS);
   const pageUrl = typeof window !== "undefined" ? window.location.href : `https://www.hkfirstclick.com/attractions/${activeLang}/${citySlug}`;
 
@@ -401,7 +464,8 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
       {/* Generate Itinerary CTA */}
       {(() => {
         const mustVisitList = items.map(i => i.name).filter(Boolean).join(", ");
-        const workspaceUrl = `/workspace?dest=${encodeURIComponent(cityName)}&mustVisit=${encodeURIComponent(mustVisitList)}`;
+        const enCityName = formatCityName(citySlug);
+        const workspaceUrl = `/workspace?dest=${encodeURIComponent(enCityName)}&mustVisit=${encodeURIComponent(mustVisitList)}`;
         const GENERATE_LABEL: Record<string, string> = {
           en: "Generate AI Itinerary", zh: "一鍵生成 AI 行程", ja: "AIで旅程を作成", ko: "AI 일정 생성",
           fr: "Générer un itinéraire IA", es: "Generar itinerario IA", id: "Buat Itinerary AI",
@@ -427,7 +491,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
             <div>
               <div className="flex items-center gap-2 text-[#EEDC00] mb-1">
                 <Sparkles size={16} />
-                <span className="text-sm font-bold uppercase tracking-widest">AI Itinerary</span>
+                <span className="text-sm font-bold uppercase tracking-widest">{activeLang === "zh" ? "AI 行程" : activeLang === "ja" ? "AI旅程" : activeLang === "ko" ? "AI 일정" : "AI Itinerary"}</span>
               </div>
               <p className="text-white font-bold text-lg">{GENERATE_DESC[activeLang] ?? GENERATE_DESC["en"]}</p>
             </div>
@@ -482,7 +546,7 @@ function AttractionsContent({ citySlug, attractionsData, initialLang, langCode }
           {relatedCities.map((slug) => (
             <a key={slug} href={`/attractions/${activeLang}/${slug}`}
               className="bg-[#161616] border border-white/10 rounded-xl px-4 py-3 text-center hover:border-purple-500/40 hover:bg-purple-500/5 transition-colors">
-              <div className="text-sm font-bold text-white">{formatCityName(slug)}</div>
+              <div className="text-sm font-bold text-white">{getLocalizedCityName(slug, activeLang)}</div>
               <div className="text-xs text-gray-500 mt-0.5 flex items-center justify-center gap-1">
                 <Landmark size={10} />
                 <span>{TOP_ATTRACTIONS_LABEL[activeLang] ?? TOP_ATTRACTIONS_LABEL["en"]}</span>

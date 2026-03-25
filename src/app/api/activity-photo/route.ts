@@ -36,33 +36,13 @@ export async function GET(request: NextRequest) {
         return NextResponse.json({ url: null }, { status: 400 });
     }
 
-    // Tier 1: Wikipedia
-    try {
-        const wikiRes = await fetch(
-            `https://en.wikipedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(keyword)}&gsrlimit=1&prop=pageimages&pithumbsize=600&format=json&origin=*`,
-            { next: { revalidate: 86400 } }
-        );
-        if (wikiRes.ok) {
-            const data = await wikiRes.json();
-            const pages = data.query?.pages;
-            const pageId = Object.keys(pages || {})[0];
-            let url: string | null = pages?.[pageId]?.thumbnail?.source || null;
+    // Always combine city + keyword for more accurate results
+    const query = city ? `${city} ${keyword}` : keyword;
 
-            if (url) {
-                const lower = url.toLowerCase();
-                const isBad = BAD_IMAGE_PATTERNS.some(p => lower.includes(p));
-                if (!isBad) {
-                    return NextResponse.json({ url }, { headers: { "Cache-Control": "public, max-age=86400" } });
-                }
-            }
-        }
-    } catch { /* fall through */ }
-
-    // Tier 2: Unsplash
+    // Tier 1: Unsplash
     try {
-        const query = city ? `${city} ${keyword}` : keyword;
         const unsplashRes = await fetch(
-            `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&orientation=landscape&per_page=1`,
+            `https://api.unsplash.com/search/photos?query=${encodeURIComponent(query)}&orientation=landscape&per_page=3`,
             {
                 headers: { "Authorization": `Client-ID ${UNSPLASH_ACCESS_KEY}` },
                 next: { revalidate: 86400 },
@@ -79,9 +59,8 @@ export async function GET(request: NextRequest) {
         }
     } catch { /* fall through */ }
 
-    // Tier 3: Pexels
+    // Tier 2: Pexels
     try {
-        const query = city ? `${city} ${keyword}` : keyword;
         const pexelsRes = await fetch(
             `https://api.pexels.com/v1/search?query=${encodeURIComponent(query)}&per_page=1`,
             {
