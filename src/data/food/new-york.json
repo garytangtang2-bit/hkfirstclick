@@ -15,7 +15,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Pastrami Sandwich",
-          "klook_query": "Katz's Delicatessen booking"
+          "klook_query": "Katz's Delicatessen booking",
+          "photo_url": "https://images.pexels.com/photos/13667126/pexels-photo-13667126.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "smorgasburg",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Ramen Burger",
-          "klook_query": "Smorgasburg food market booking"
+          "klook_query": "Smorgasburg food market booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "peter-luger-steak-house",

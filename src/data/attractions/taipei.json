@@ -16,7 +16,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx $20",
           "best_time": "afternoon",
-          "klook_query": "Taipei 101 observatory ticket"
+          "klook_query": "Taipei 101 observatory ticket",
+          "photo_url": "https://images.pexels.com/photos/7655107/pexels-photo-7655107.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "national-palace-museum",
@@ -76,7 +77,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "anytime",
-          "klook_query": "Yangmingshan National Park tour"
+          "klook_query": "Yangmingshan National Park tour",
+          "photo_url": "https://images.pexels.com/photos/6560968/pexels-photo-6560968.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "ximending",

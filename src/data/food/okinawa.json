@@ -15,7 +15,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Okinawa soba",
-          "klook_query": "Shuri Castle food tour"
+          "klook_query": "Shuri Castle food tour",
+          "photo_url": "https://images.pexels.com/photos/19469039/pexels-photo-19469039.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "makishi-public-market",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Taco rice",
-          "klook_query": "Makishi Market food experience"
+          "klook_query": "Makishi Market food experience",
+          "photo_url": "https://images.pexels.com/photos/757432/pexels-photo-757432.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "yakiniku-sanchoku",
@@ -37,7 +39,8 @@
           "star_rating": 4.8,
           "price_range": "$$",
           "must_try": "Okinawa beef",
-          "klook_query": "Yakiniku Sanchoku reservation"
+          "klook_query": "Yakiniku Sanchoku reservation",
+          "photo_url": "https://images.pexels.com/photos/268976/pexels-photo-268976.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "uraniwa",
@@ -81,7 +84,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Seafood curry",
-          "klook_query": "Churaumi Aquarium Cafe reservation"
+          "klook_query": "Churaumi Aquarium Cafe reservation",
+          "photo_url": "https://images.pexels.com/photos/9809033/pexels-photo-9809033.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "kokusai-dori",

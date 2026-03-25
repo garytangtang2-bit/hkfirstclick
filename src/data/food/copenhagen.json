@@ -15,7 +15,8 @@
           "star_rating": 4.8,
           "price_range": "$$$$",
           "must_try": "Seafood and foraged vegetables",
-          "klook_query": "Noma restaurant booking"
+          "klook_query": "Noma restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/10533148/pexels-photo-10533148.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "torvehallerne",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Smørrebrød",
-          "klook_query": "Torvehallerne food market tour"
+          "klook_query": "Torvehallerne food market tour",
+          "photo_url": "https://images.pexels.com/photos/316080/pexels-photo-316080.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "geranium",
@@ -37,7 +39,8 @@
           "star_rating": 4.9,
           "price_range": "$$$$",
           "must_try": "Seasonal tasting menu",
-          "klook_query": "Geranium restaurant booking"
+          "klook_query": "Geranium restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/53347/pelargonium-bloom-flower-floral-53347.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "streetfoodcopenhagen",
@@ -48,7 +51,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Tacos and gourmet burgers",
-          "klook_query": "Copenhagen Street Food Reffen tour"
+          "klook_query": "Copenhagen Street Food Reffen tour",
+          "photo_url": "https://images.pexels.com/photos/17590890/pexels-photo-17590890.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-pantry",
@@ -59,7 +63,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Danish pastry",
-          "klook_query": "The Pantry cafe booking"
+          "klook_query": "The Pantry cafe booking",
+          "photo_url": "https://images.pexels.com/photos/8580727/pexels-photo-8580727.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "smorrebrod",
@@ -70,7 +75,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Herring smørrebrød",
-          "klook_query": "Restaurant Schønnemann booking"
+          "klook_query": "Restaurant Schønnemann booking",
+          "photo_url": "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "copenhagen-night-market",
@@ -81,7 +87,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Street tacos and grilled meats",
-          "klook_query": "Copenhagen Night Market tour"
+          "klook_query": "Copenhagen Night Market tour",
+          "photo_url": "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "copenhagen-brewery",
@@ -92,7 +99,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Mikkeller craft beers",
-          "klook_query": "Mikkeller Bar booking"
+          "klook_query": "Mikkeller Bar booking",
+          "photo_url": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

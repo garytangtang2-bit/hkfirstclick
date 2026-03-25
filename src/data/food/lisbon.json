@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Bacalhau à Brás",
-          "klook_query": "Time Out Market Lisbon"
+          "klook_query": "Time Out Market Lisbon",
+          "photo_url": "https://images.pexels.com/photos/28208277/pexels-photo-28208277.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "casa-patio",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Migas com Carne de Porco",
-          "klook_query": "Casa do Alentejo restaurant booking"
+          "klook_query": "Casa do Alentejo restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/740587/pexels-photo-740587.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "mercado-da-boa-hora",
@@ -37,7 +39,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Bifana",
-          "klook_query": "Mercado da Ribeira street food"
+          "klook_query": "Mercado da Ribeira street food",
+          "photo_url": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "pasteis-de-belem",

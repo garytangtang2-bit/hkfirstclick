@@ -16,7 +16,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx $35",
           "best_time": "anytime",
-          "klook_query": "Space Needle tickets"
+          "klook_query": "Space Needle tickets",
+          "photo_url": "https://images.pexels.com/photos/5906866/pexels-photo-5906866.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "pike-place-market",

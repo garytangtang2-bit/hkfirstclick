@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Grilled seafood",
-          "klook_query": "Ben Thanh Market food tour"
+          "klook_query": "Ben Thanh Market food tour",
+          "photo_url": "https://images.pexels.com/photos/24503816/pexels-photo-24503816.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "bep-me-in",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Bun cha",
-          "klook_query": "Bep Me In restaurant booking"
+          "klook_query": "Bep Me In restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/139321/pexels-photo-139321.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "ngon-villa",
@@ -37,7 +39,8 @@
           "star_rating": 4.8,
           "price_range": "$$",
           "must_try": "Vietnamese spring rolls",
-          "klook_query": "Ngon Villa Saigon dinner"
+          "klook_query": "Ngon Villa Saigon dinner",
+          "photo_url": "https://images.pexels.com/photos/1488291/pexels-photo-1488291.png?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "pho-hoa",
@@ -48,7 +51,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Pho bo",
-          "klook_query": "Pho Hoa Pasteur booking"
+          "klook_query": "Pho Hoa Pasteur booking",
+          "photo_url": "https://images.pexels.com/photos/2532442/pexels-photo-2532442.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "banh-xeo-46a",
@@ -59,7 +63,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Banh xeo",
-          "klook_query": "Banh Xeo 46A food tour"
+          "klook_query": "Banh Xeo 46A food tour",
+          "photo_url": "https://images.pexels.com/photos/6394515/pexels-photo-6394515.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cuc-gach-quan",
@@ -70,7 +75,8 @@
           "star_rating": 4.9,
           "price_range": "$$$",
           "must_try": "Caramelized pork",
-          "klook_query": "Cuc Gach Quan reservation"
+          "klook_query": "Cuc Gach Quan reservation",
+          "photo_url": "https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "saigon-square",
@@ -81,7 +87,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Vietnamese snacks",
-          "klook_query": "Saigon Square food tour"
+          "klook_query": "Saigon Square food tour",
+          "photo_url": "https://images.pexels.com/photos/5010372/pexels-photo-5010372.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "l'usine",
@@ -92,7 +99,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Vietnamese iced coffee",
-          "klook_query": "L'Usine cafe reservation"
+          "klook_query": "L'Usine cafe reservation",
+          "photo_url": "https://images.pexels.com/photos/12445905/pexels-photo-12445905.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

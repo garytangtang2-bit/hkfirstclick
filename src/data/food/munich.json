@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Crispy Pork Knuckle",
-          "klook_query": "Haxnbauer Munich booking"
+          "klook_query": "Haxnbauer Munich booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "viktualienmarkt",
@@ -26,7 +27,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Bavarian Pretzel",
-          "klook_query": "Viktualienmarkt food tour Munich"
+          "klook_query": "Viktualienmarkt food tour Munich",
+          "photo_url": "https://images.pexels.com/photos/30354582/pexels-photo-30354582.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "schwabenhaus",

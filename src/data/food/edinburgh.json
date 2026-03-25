@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Haggis, neeps, and tatties",
-          "klook_query": "The Kitchen Edinburgh booking"
+          "klook_query": "The Kitchen Edinburgh booking",
+          "photo_url": "https://images.pexels.com/photos/279648/pexels-photo-279648.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "mama-shelter",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Mac & Cheese",
-          "klook_query": "Mama Shelter Edinburgh booking"
+          "klook_query": "Mama Shelter Edinburgh booking",
+          "photo_url": "https://images.pexels.com/photos/9328009/pexels-photo-9328009.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "edinburgh-night-market",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Gourmet burgers",
-          "klook_query": "Edinburgh Night Market food tour"
+          "klook_query": "Edinburgh Night Market food tour",
+          "photo_url": "https://images.pexels.com/photos/5985850/pexels-photo-5985850.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-botanic-gardens-cafe",
@@ -48,7 +51,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Seasonal soup",
-          "klook_query": "Botanic Gardens Cafe booking"
+          "klook_query": "Botanic Gardens Cafe booking",
+          "photo_url": "https://images.pexels.com/photos/974400/pexels-photo-974400.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "street-food-scene",
@@ -59,7 +63,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Haggis roll",
-          "klook_query": "Edinburgh Street Food tour"
+          "klook_query": "Edinburgh Street Food tour",
+          "photo_url": "https://images.pexels.com/photos/14905335/pexels-photo-14905335.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-whiski-rooms",
@@ -70,7 +75,8 @@
           "star_rating": 4.9,
           "price_range": "$$",
           "must_try": "Whisky flight",
-          "klook_query": "The Whiski Rooms booking"
+          "klook_query": "The Whiski Rooms booking",
+          "photo_url": "https://images.pexels.com/photos/372959/pexels-photo-372959.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-braid-bar",
@@ -81,7 +87,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Craft cocktails",
-          "klook_query": "The Braid Bar booking"
+          "klook_query": "The Braid Bar booking",
+          "photo_url": "https://images.pexels.com/photos/2880796/pexels-photo-2880796.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-edinburgh-vegetarian",
@@ -92,7 +99,8 @@
           "star_rating": 4.8,
           "price_range": "$$",
           "must_try": "Vegetarian haggis",
-          "klook_query": "The Edinburgh Vegetarian booking"
+          "klook_query": "The Edinburgh Vegetarian booking",
+          "photo_url": "https://images.pexels.com/photos/161863/edinburgh-carlton-hill-landscape-scotland-161863.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

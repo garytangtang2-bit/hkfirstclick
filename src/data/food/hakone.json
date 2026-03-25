@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Kaiseki Course",
-          "klook_query": "Yumoto Chaya booking"
+          "klook_query": "Yumoto Chaya booking",
+          "photo_url": "https://images.pexels.com/photos/26419303/pexels-photo-26419303.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "hakone-sweet-potato",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Roasted Sweet Potato",
-          "klook_query": "Hakone Sweet Potato food tour"
+          "klook_query": "Hakone Sweet Potato food tour",
+          "photo_url": "https://images.pexels.com/photos/13059602/pexels-photo-13059602.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "hakone-gongendo",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Tempura Soba",
-          "klook_query": "Gongendo booking"
+          "klook_query": "Gongendo booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "hakone-jinjiro",
@@ -48,7 +51,8 @@
           "star_rating": 4.4,
           "price_range": "$$",
           "must_try": "Matcha Cake",
-          "klook_query": "Jinjiro cafe booking"
+          "klook_query": "Jinjiro cafe booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "hakone-ashinoko",
@@ -59,7 +63,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Taiyaki",
-          "klook_query": "Ashinoko Lake night market tour"
+          "klook_query": "Ashinoko Lake night market tour",
+          "photo_url": "https://images.pexels.com/photos/33313974/pexels-photo-33313974.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "hakone-ichinoyu",
@@ -70,7 +75,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Seasonal Sashimi",
-          "klook_query": "Ichinoyu booking"
+          "klook_query": "Ichinoyu booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "hakone-black-egg",
@@ -81,7 +87,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Black Eggs",
-          "klook_query": "Owakudani food tour"
+          "klook_query": "Owakudani food tour",
+          "photo_url": "https://images.pexels.com/photos/4110226/pexels-photo-4110226.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "hakone-yudofu",
@@ -92,7 +99,8 @@
           "star_rating": 4.2,
           "price_range": "$$",
           "must_try": "Yudofu",
-          "klook_query": "Yudofu Restaurant booking"
+          "klook_query": "Yudofu Restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/3603453/pexels-photo-3603453.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Grilled Scallops and Kobe Beef Skewers",
-          "klook_query": "Kuromon Market food tour"
+          "klook_query": "Kuromon Market food tour",
+          "photo_url": "https://images.pexels.com/photos/96379/pexels-photo-96379.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "mizuno-okonomiyaki",
@@ -26,7 +27,8 @@
           "star_rating": 4.4,
           "price_range": "$$",
           "must_try": "Yamaimoyaki (Yam Okonomiyaki)",
-          "klook_query": "Osaka Okonomiyaki experience"
+          "klook_query": "Osaka Okonomiyaki experience",
+          "photo_url": "https://images.pexels.com/photos/20899958/pexels-photo-20899958.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "kushikatsu-daruma-shinsekai",

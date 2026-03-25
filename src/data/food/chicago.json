@@ -15,7 +15,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Italian beef sandwich",
-          "klook_query": "Portillo's restaurant booking"
+          "klook_query": "Portillo's restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/31373915/pexels-photo-31373915.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "al's-beef",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Italian beef sandwich",
-          "klook_query": "Al's Beef restaurant booking"
+          "klook_query": "Al's Beef restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-pizza-lounge",
@@ -37,7 +39,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Deep-dish pizza",
-          "klook_query": "The Pizza Lounge booking"
+          "klook_query": "The Pizza Lounge booking",
+          "photo_url": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "chicago-food-market",
@@ -48,7 +51,8 @@
           "star_rating": 4.4,
           "price_range": "$$",
           "must_try": "Gourmet tacos",
-          "klook_query": "Chicago Food Market tour booking"
+          "klook_query": "Chicago Food Market tour booking",
+          "photo_url": "https://images.pexels.com/photos/868110/pexels-photo-868110.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "maxwell-street-market",
@@ -59,7 +63,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Tacos",
-          "klook_query": "Maxwell Street Market tour booking"
+          "klook_query": "Maxwell Street Market tour booking",
+          "photo_url": "https://images.pexels.com/photos/618491/pexels-photo-618491.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "chicago-style-pizza-festival",
@@ -70,7 +75,8 @@
           "star_rating": 4.8,
           "price_range": "$$",
           "must_try": "Variety of pizzas",
-          "klook_query": "Chicago Style Pizza Festival tickets"
+          "klook_query": "Chicago Style Pizza Festival tickets",
+          "photo_url": "https://images.pexels.com/photos/1837755/pexels-photo-1837755.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "garrett-popcorn",
@@ -81,7 +87,8 @@
           "star_rating": 4.9,
           "price_range": "$",
           "must_try": "Chicago Mix popcorn",
-          "klook_query": "Garrett Popcorn booking"
+          "klook_query": "Garrett Popcorn booking",
+          "photo_url": "https://images.pexels.com/photos/10324993/pexels-photo-10324993.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-brown-line",
@@ -92,7 +99,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Local craft beers",
-          "klook_query": "The Brown Line bar booking"
+          "klook_query": "The Brown Line bar booking",
+          "photo_url": "https://images.pexels.com/photos/38537/woodland-road-falling-leaf-natural-38537.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

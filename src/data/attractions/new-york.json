@@ -16,7 +16,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx $23.50",
           "best_time": "morning",
-          "klook_query": "Statue of Liberty ticket"
+          "klook_query": "Statue of Liberty ticket",
+          "photo_url": "https://images.pexels.com/photos/356844/pexels-photo-356844.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "central-park",

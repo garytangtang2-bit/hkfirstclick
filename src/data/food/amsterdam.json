@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$$",
           "must_try": "Dutch seafood platter",
-          "klook_query": "Rijks Amsterdam reservation"
+          "klook_query": "Rijks Amsterdam reservation",
+          "photo_url": "https://images.pexels.com/photos/31066046/pexels-photo-31066046.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "foodhallen-amsterdam",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Vietnamese spring rolls",
-          "klook_query": "Foodhallen Amsterdam food tour"
+          "klook_query": "Foodhallen Amsterdam food tour",
+          "photo_url": "https://images.pexels.com/photos/1579739/pexels-photo-1579739.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cafe-de-klos",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Pork ribs",
-          "klook_query": "Café de Klos reservation"
+          "klook_query": "Café de Klos reservation",
+          "photo_url": "https://images.pexels.com/photos/2956952/pexels-photo-2956952.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "stroopwafel-stall",
@@ -48,7 +51,8 @@
           "star_rating": 4.8,
           "price_range": "$",
           "must_try": "Classic stroopwafel",
-          "klook_query": "Amsterdam stroopwafel tasting"
+          "klook_query": "Amsterdam stroopwafel tasting",
+          "photo_url": "https://images.pexels.com/photos/17019910/pexels-photo-17019910.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "de-kaaskamer",
@@ -59,7 +63,8 @@
           "star_rating": 4.9,
           "price_range": "$$",
           "must_try": "Aged Gouda",
-          "klook_query": "Amsterdam cheese tasting tour"
+          "klook_query": "Amsterdam cheese tasting tour",
+          "photo_url": "https://images.pexels.com/photos/2317972/pexels-photo-2317972.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "vleminckx-fries",
@@ -70,7 +75,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Fries with mayonnaise",
-          "klook_query": "Amsterdam fries experience"
+          "klook_query": "Amsterdam fries experience",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "wynand-fockink",
@@ -81,7 +87,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Jenever tasting",
-          "klook_query": "Wynand Fockink tasting session"
+          "klook_query": "Wynand Fockink tasting session",
+          "photo_url": "https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "restaurant-de-kas",
@@ -92,7 +99,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Seasonal vegetable menu",
-          "klook_query": "Restaurant De Kas reservation"
+          "klook_query": "Restaurant De Kas reservation",
+          "photo_url": "https://images.pexels.com/photos/7772194/pexels-photo-7772194.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

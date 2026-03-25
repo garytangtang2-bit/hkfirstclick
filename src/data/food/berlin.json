@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Vegetable Kebap",
-          "klook_query": "Mustafa's Gemüse Kebap"
+          "klook_query": "Mustafa's Gemüse Kebap",
+          "photo_url": "https://images.pexels.com/photos/29269831/pexels-photo-29269831.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "markthalle-neun",
@@ -26,7 +27,8 @@
           "star_rating": 4.8,
           "price_range": "$$",
           "must_try": "Street Food Variety",
-          "klook_query": "Markthalle Neun food tour"
+          "klook_query": "Markthalle Neun food tour",
+          "photo_url": "https://images.pexels.com/photos/3294472/pexels-photo-3294472.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "curry-36",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Currywurst",
-          "klook_query": "Curry 36"
+          "klook_query": "Curry 36",
+          "photo_url": "https://images.pexels.com/photos/5619/plate-white-fish-chilli.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "restaurant-tresor",
@@ -48,7 +51,8 @@
           "star_rating": 4.5,
           "price_range": "$$$",
           "must_try": "Seasonal Tasting Menu",
-          "klook_query": "Restaurant Tresor reservation"
+          "klook_query": "Restaurant Tresor reservation",
+          "photo_url": "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "zollhaus",
@@ -59,7 +63,8 @@
           "star_rating": 4.4,
           "price_range": "$$$",
           "must_try": "Schnitzel",
-          "klook_query": "Zollhaus reservation"
+          "klook_query": "Zollhaus reservation",
+          "photo_url": "https://images.pexels.com/photos/164414/pexels-photo-164414.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "kaisergrill",
@@ -70,7 +75,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Berliner Pfannkuchen",
-          "klook_query": "Kaiser Grill"
+          "klook_query": "Kaiser Grill",
+          "photo_url": "https://images.pexels.com/photos/533325/pexels-photo-533325.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "neni-berlin",
@@ -81,7 +87,8 @@
           "star_rating": 4.9,
           "price_range": "$$$",
           "must_try": "Hummus Platter",
-          "klook_query": "Neni Berlin reservation"
+          "klook_query": "Neni Berlin reservation",
+          "photo_url": "https://images.pexels.com/photos/109630/pexels-photo-109630.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

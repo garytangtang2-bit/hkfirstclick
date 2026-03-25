@@ -16,7 +16,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx $23 for SkyPark",
           "best_time": "evening",
-          "klook_query": "marina bay sands skypark"
+          "klook_query": "marina bay sands skypark",
+          "photo_url": "https://images.pexels.com/photos/1842332/pexels-photo-1842332.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "gardens-by-the-bay",
@@ -28,7 +29,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx $20",
           "best_time": "afternoon",
-          "klook_query": "gardens by the bay"
+          "klook_query": "gardens by the bay",
+          "photo_url": "https://images.pexels.com/photos/3939421/pexels-photo-3939421.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "singapore-zoo",
@@ -64,7 +66,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "afternoon",
-          "klook_query": "little india singapore tour"
+          "klook_query": "little india singapore tour",
+          "photo_url": "https://images.pexels.com/photos/11770219/pexels-photo-11770219.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "national-gallery-singapore",

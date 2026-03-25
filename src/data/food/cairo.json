@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Koshari",
-          "klook_query": "El Tahrir restaurant booking"
+          "klook_query": "El Tahrir restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "felfela",
@@ -26,7 +27,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Falafel",
-          "klook_query": "Felfela restaurant booking"
+          "klook_query": "Felfela restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "maadi-street-food",
@@ -37,7 +39,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Ta'ameya",
-          "klook_query": "Maadi Street Food Market tour"
+          "klook_query": "Maadi Street Food Market tour",
+          "photo_url": "https://images.pexels.com/photos/618491/pexels-photo-618491.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "ahmed-helmy",
@@ -48,7 +51,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Grilled Kebabs",
-          "klook_query": "Ahmed Helmy Night Market tour"
+          "klook_query": "Ahmed Helmy Night Market tour",
+          "photo_url": "https://images.pexels.com/photos/713520/pexels-photo-713520.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "abou-el-sid",
@@ -59,7 +63,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Lamb Tagine",
-          "klook_query": "Abou El Sid restaurant booking"
+          "klook_query": "Abou El Sid restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/346735/pexels-photo-346735.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cairo-food-festival",
@@ -70,7 +75,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Various Local Dishes",
-          "klook_query": "Cairo Food Festival tickets"
+          "klook_query": "Cairo Food Festival tickets",
+          "photo_url": "https://images.pexels.com/photos/5609738/pexels-photo-5609738.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "sheraton-cairo",
@@ -81,7 +87,8 @@
           "star_rating": 4.2,
           "price_range": "$$",
           "must_try": "Basbousa",
-          "klook_query": "Sheraton Cairo cafe booking"
+          "klook_query": "Sheraton Cairo cafe booking",
+          "photo_url": "https://images.pexels.com/photos/1008454/pexels-photo-1008454.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "el-hosn",
@@ -92,7 +99,8 @@
           "star_rating": 4.5,
           "price_range": "$$$",
           "must_try": "Signature Cocktails",
-          "klook_query": "El Hosn bar booking"
+          "klook_query": "El Hosn bar booking",
+          "photo_url": "https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

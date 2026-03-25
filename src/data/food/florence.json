@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Pici Cacio e Pepe",
-          "klook_query": "Trattoria Da Gino booking"
+          "klook_query": "Trattoria Da Gino booking",
+          "photo_url": "https://images.pexels.com/photos/1545399/pexels-photo-1545399.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "mercato-central-florence",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Lampredotto Sandwich",
-          "klook_query": "Mercato Centrale food tour"
+          "klook_query": "Mercato Centrale food tour",
+          "photo_url": "https://images.pexels.com/photos/1035258/pexels-photo-1035258.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "osteria-vini-e-vecchi-tempi",
@@ -37,7 +39,8 @@
           "star_rating": 4.8,
           "price_range": "$$",
           "must_try": "Wild Boar Ragu",
-          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "gelateria-venchi",
@@ -48,7 +51,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Dark Chocolate Gelato",
-          "klook_query": "Gelateria Venchi experience"
+          "klook_query": "Gelateria Venchi experience",
+          "photo_url": "https://images.pexels.com/photos/36408380/pexels-photo-36408380.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "pizzeria-gino-sorbetteria",
@@ -59,7 +63,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Margherita Pizza",
-          "klook_query": "Pizzeria Gino Sorbetteria booking"
+          "klook_query": "Pizzeria Gino Sorbetteria booking",
+          "photo_url": "https://images.pexels.com/photos/2067401/pexels-photo-2067401.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "ristorante-sasso",
@@ -70,7 +75,8 @@
           "star_rating": 4.9,
           "price_range": "$$$",
           "must_try": "Tagliatelle with Truffles",
-          "klook_query": "Ristorante Sasso reservation"
+          "klook_query": "Ristorante Sasso reservation",
+          "photo_url": "https://images.pexels.com/photos/221059/pexels-photo-221059.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "mercato-di-san-lorenzo",
@@ -81,7 +87,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Porchetta Sandwich",
-          "klook_query": "Mercato di San Lorenzo food tour"
+          "klook_query": "Mercato di San Lorenzo food tour",
+          "photo_url": "https://images.pexels.com/photos/14939162/pexels-photo-14939162.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "trattoria-zafferano",
@@ -92,7 +99,8 @@
           "star_rating": 4.4,
           "price_range": "$$",
           "must_try": "Handmade Gnocchi",
-          "klook_query": "Trattoria Zafferano booking"
+          "klook_query": "Trattoria Zafferano booking",
+          "photo_url": "https://images.pexels.com/photos/4819658/pexels-photo-4819658.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

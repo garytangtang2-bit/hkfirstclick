@@ -15,7 +15,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Svíčková",
-          "klook_query": "Lokal Prague restaurant booking"
+          "klook_query": "Lokal Prague restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/32772143/pexels-photo-32772143.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "kampa_park",
@@ -26,7 +27,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Duck Breast",
-          "klook_query": "Kampa Park Prague restaurant booking"
+          "klook_query": "Kampa Park Prague restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/14658340/pexels-photo-14658340.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "vytopna",

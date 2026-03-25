@@ -15,7 +15,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Bife de chorizo",
-          "klook_query": "Don Julio reservation"
+          "klook_query": "Don Julio reservation",
+          "photo_url": "https://images.pexels.com/photos/19714328/pexels-photo-19714328.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "la-pertiga",
@@ -26,7 +27,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Milanesa a la napolitana",
-          "klook_query": "La Perla booking"
+          "klook_query": "La Perla booking",
+          "photo_url": "https://images.pexels.com/photos/784139/pexels-photo-784139.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "street-food-bolivar",
@@ -37,7 +39,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Choripán",
-          "klook_query": "Bolivar Street Market food tour"
+          "klook_query": "Bolivar Street Market food tour",
+          "photo_url": "https://images.pexels.com/photos/10972171/pexels-photo-10972171.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "food-truck-la-venida",
@@ -48,7 +51,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Gourmet burger",
-          "klook_query": "La Avenida Food Truck Park experience"
+          "klook_query": "La Avenida Food Truck Park experience",
+          "photo_url": "https://images.pexels.com/photos/13572440/pexels-photo-13572440.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "el-queso",
@@ -59,7 +63,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Provoleta",
-          "klook_query": "El Queso cheese tasting"
+          "klook_query": "El Queso cheese tasting",
+          "photo_url": "https://images.pexels.com/photos/1200358/pexels-photo-1200358.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cafe-ricci",
@@ -70,7 +75,8 @@
           "star_rating": 4.9,
           "price_range": "$",
           "must_try": "Medialuna",
-          "klook_query": "Café Tortoni visit"
+          "klook_query": "Café Tortoni visit",
+          "photo_url": "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "el-mercado",
@@ -81,7 +87,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Empanadas",
-          "klook_query": "Mercado de San Telmo tour"
+          "klook_query": "Mercado de San Telmo tour",
+          "photo_url": "https://images.pexels.com/photos/32441028/pexels-photo-32441028.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "el-sabor",
@@ -92,7 +99,8 @@
           "star_rating": 4.2,
           "price_range": "$$",
           "must_try": "Fugazzeta",
-          "klook_query": "El Sabor reservation"
+          "klook_query": "El Sabor reservation",
+          "photo_url": "https://images.pexels.com/photos/760895/pexels-photo-760895.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

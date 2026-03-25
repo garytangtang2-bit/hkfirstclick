@@ -15,7 +15,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Pork Belly",
-          "klook_query": "The Test Kitchen Cape Town"
+          "klook_query": "The Test Kitchen Cape Town",
+          "photo_url": "https://images.pexels.com/photos/16442901/pexels-photo-16442901.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "beyond-restaurant",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Bobotie",
-          "klook_query": "Beyond Restaurant Cape Town"
+          "klook_query": "Beyond Restaurant Cape Town",
+          "photo_url": "https://images.pexels.com/photos/17505904/pexels-photo-17505904.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "food-lovers-market",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Biltong",
-          "klook_query": "Food Lovers Market Cape Town"
+          "klook_query": "Food Lovers Market Cape Town",
+          "photo_url": "https://images.pexels.com/photos/868110/pexels-photo-868110.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "neighbourgoods-market",
@@ -48,7 +51,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Gourmet Hot Dog",
-          "klook_query": "Neighbourgoods Market Cape Town"
+          "klook_query": "Neighbourgoods Market Cape Town",
+          "photo_url": "https://images.pexels.com/photos/868110/pexels-photo-868110.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "la-colombe",
@@ -59,7 +63,8 @@
           "star_rating": 4.9,
           "price_range": "$$$",
           "must_try": "Duck with Beetroot",
-          "klook_query": "La Colombe Cape Town"
+          "klook_query": "La Colombe Cape Town",
+          "photo_url": "https://images.pexels.com/photos/29847626/pexels-photo-29847626.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cape-town-street-food",
@@ -70,7 +75,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Bunny Chow",
-          "klook_query": "Cape Town Street Food Tour"
+          "klook_query": "Cape Town Street Food Tour",
+          "photo_url": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "the-hungry-harbour",
@@ -81,7 +87,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Seafood Platter",
-          "klook_query": "The Hungry Harbour Cape Town"
+          "klook_query": "The Hungry Harbour Cape Town",
+          "photo_url": "https://images.pexels.com/photos/1680173/pexels-photo-1680173.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

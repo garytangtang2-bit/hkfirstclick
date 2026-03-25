@@ -15,7 +15,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Turbot with Caviar",
-          "klook_query": "Le Meurice restaurant booking"
+          "klook_query": "Le Meurice restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/340779/pexels-photo-340779.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "l-as-du-fallafel",
@@ -26,7 +27,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Falafel Sandwich",
-          "klook_query": "L'As du Fallafel food tour"
+          "klook_query": "L'As du Fallafel food tour",
+          "photo_url": "https://images.pexels.com/photos/287229/pexels-photo-287229.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "angelina-paris",
@@ -37,7 +39,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Hot Chocolate",
-          "klook_query": "Angelina Paris cafe booking"
+          "klook_query": "Angelina Paris cafe booking",
+          "photo_url": "https://images.pexels.com/photos/371126/pexels-photo-371126.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "bouillon-pigalle",

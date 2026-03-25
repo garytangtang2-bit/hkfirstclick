@@ -15,7 +15,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Babi Guling",
-          "klook_query": "Babi Guling Ibu Oka tour"
+          "klook_query": "Babi Guling Ibu Oka tour",
+          "photo_url": "https://images.pexels.com/photos/161709/newborn-baby-feet-basket-161709.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "la-luce",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$$$",
           "must_try": "Grilled Snapper",
-          "klook_query": "La Lucciola Bali dining"
+          "klook_query": "La Lucciola Bali dining",
+          "photo_url": "https://images.pexels.com/photos/36753/flower-purple-lical-blosso.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "ubud-night-market",
@@ -37,7 +39,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Satay",
-          "klook_query": "Ubud Night Market food tour"
+          "klook_query": "Ubud Night Market food tour",
+          "photo_url": "https://images.pexels.com/photos/2240361/pexels-photo-2240361.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "locavore",
@@ -48,7 +51,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Tasting Menu",
-          "klook_query": "Locavore Ubud dining experience"
+          "klook_query": "Locavore Ubud dining experience",
+          "photo_url": "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "semenyih-bali",
@@ -59,7 +63,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Nasi Goreng",
-          "klook_query": "Seminyak street food tour"
+          "klook_query": "Seminyak street food tour",
+          "photo_url": "https://images.pexels.com/photos/36184005/pexels-photo-36184005.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "bali-food-festival",
@@ -70,7 +75,8 @@
           "star_rating": 4.2,
           "price_range": "$$",
           "must_try": "Mixed Satay",
-          "klook_query": "Bali Food Festival tickets"
+          "klook_query": "Bali Food Festival tickets",
+          "photo_url": "https://images.pexels.com/photos/35203048/pexels-photo-35203048.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "naughty-nuris-bali",
@@ -81,7 +87,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "BBQ Ribs",
-          "klook_query": "Naughty Nuri's dining Bali"
+          "klook_query": "Naughty Nuri's dining Bali",
+          "photo_url": "https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "warung-nasi-ayam-kedewatan",
@@ -92,7 +99,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Nasi Ayam",
-          "klook_query": "Nasi Ayam Kedewatan meal"
+          "klook_query": "Nasi Ayam Kedewatan meal",
+          "photo_url": "https://images.pexels.com/photos/31844316/pexels-photo-31844316.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

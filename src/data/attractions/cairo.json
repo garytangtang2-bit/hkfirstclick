@@ -64,7 +64,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx $8",
           "best_time": "morning",
-          "klook_query": "Saladin Citadel tickets"
+          "klook_query": "Saladin Citadel tickets",
+          "photo_url": "https://images.pexels.com/photos/34183256/pexels-photo-34183256.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "coptic-cairo",

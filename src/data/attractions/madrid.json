@@ -40,7 +40,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "anytime",
-          "klook_query": "Retiro Park Madrid"
+          "klook_query": "Retiro Park Madrid",
+          "photo_url": "https://images.pexels.com/photos/9510767/pexels-photo-9510767.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "gran-via",
@@ -52,7 +53,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "evening",
-          "klook_query": "Gran Vía Madrid"
+          "klook_query": "Gran Vía Madrid",
+          "photo_url": "https://images.pexels.com/photos/24949832/pexels-photo-24949832.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "plaza-mayor",
@@ -100,7 +102,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "morning",
-          "klook_query": "El Rastro Market Madrid"
+          "klook_query": "El Rastro Market Madrid",
+          "photo_url": "https://images.pexels.com/photos/21560259/pexels-photo-21560259.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

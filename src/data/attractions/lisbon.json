@@ -28,7 +28,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx €10",
           "best_time": "morning",
-          "klook_query": "Jeronimos Monastery tickets"
+          "klook_query": "Jeronimos Monastery tickets",
+          "photo_url": "https://images.pexels.com/photos/20147032/pexels-photo-20147032.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "alfama-district",

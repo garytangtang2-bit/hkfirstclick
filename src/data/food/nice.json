@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$$$",
           "must_try": "Truffle Risotto",
-          "klook_query": "Le Chantecler reservation"
+          "klook_query": "Le Chantecler reservation",
+          "photo_url": "https://images.pexels.com/photos/3566120/pexels-photo-3566120.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cafe-de-colettes",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Tarte Tropézienne",
-          "klook_query": "Café de Colletes visit"
+          "klook_query": "Café de Colletes visit",
+          "photo_url": "https://images.pexels.com/photos/2956952/pexels-photo-2956952.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "marché-sainte-rose",
@@ -48,7 +50,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Margherita Pizza",
-          "klook_query": "La Pizzeria reservation"
+          "klook_query": "La Pizzeria reservation",
+          "photo_url": "https://images.pexels.com/photos/6605191/pexels-photo-6605191.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "la-boulangerie",

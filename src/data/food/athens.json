@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Souvlaki",
-          "klook_query": "Kostas restaurant Athens"
+          "klook_query": "Kostas restaurant Athens",
+          "photo_url": "https://images.pexels.com/photos/733200/pexels-photo-733200.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "street-food-psiri",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Koulouri",
-          "klook_query": "Psiri Street Food Market tour"
+          "klook_query": "Psiri Street Food Market tour",
+          "photo_url": "https://images.pexels.com/photos/618491/pexels-photo-618491.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "local-specialty-monos",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Cured meats platter",
-          "klook_query": "Ta Karamanlidika Tou Fani booking"
+          "klook_query": "Ta Karamanlidika Tou Fani booking",
+          "photo_url": "https://images.pexels.com/photos/7415261/pexels-photo-7415261.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "street-food-monastiraki",
@@ -48,7 +51,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Gyros",
-          "klook_query": "Monastiraki Flea Market food tour"
+          "klook_query": "Monastiraki Flea Market food tour",
+          "photo_url": "https://images.pexels.com/photos/5792807/pexels-photo-5792807.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "restaurant-kuzina",
@@ -59,7 +63,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Moussaka",
-          "klook_query": "Kuzina restaurant booking"
+          "klook_query": "Kuzina restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "local-specialty-vari",
@@ -70,7 +75,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Fresh seafood",
-          "klook_query": "Varvakios Agora market tour"
+          "klook_query": "Varvakios Agora market tour",
+          "photo_url": "https://images.pexels.com/photos/25033569/pexels-photo-25033569.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cafe-lokali",
@@ -81,7 +87,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Avocado toast",
-          "klook_query": "Lokali cafe booking"
+          "klook_query": "Lokali cafe booking",
+          "photo_url": "https://images.pexels.com/photos/1742370/pexels-photo-1742370.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "bar-barley",
@@ -92,7 +99,8 @@
           "star_rating": 4.9,
           "price_range": "$$",
           "must_try": "Craft beer flight",
-          "klook_query": "Barley Cargo booking"
+          "klook_query": "Barley Cargo booking",
+          "photo_url": "https://images.pexels.com/photos/533346/pexels-photo-533346.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

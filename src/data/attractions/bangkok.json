@@ -40,7 +40,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "morning",
-          "klook_query": "chatuchak market tour"
+          "klook_query": "chatuchak market tour",
+          "photo_url": "https://images.pexels.com/photos/35324198/pexels-photo-35324198.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "jim-thompson-house",
@@ -64,7 +65,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "afternoon",
-          "klook_query": "mbk center bangkok tour"
+          "klook_query": "mbk center bangkok tour",
+          "photo_url": "https://images.pexels.com/photos/12153461/pexels-photo-12153461.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "lumphini-park",

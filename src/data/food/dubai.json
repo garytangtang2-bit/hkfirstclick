@@ -15,7 +15,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Lamb Ouzi",
-          "klook_query": "Al Maha Desert Resort dining"
+          "klook_query": "Al Maha Desert Resort dining",
+          "photo_url": "https://images.pexels.com/photos/8484836/pexels-photo-8484836.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "karama-street-food",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Shawarma",
-          "klook_query": "Karama Market food tour"
+          "klook_query": "Karama Market food tour",
+          "photo_url": "https://images.pexels.com/photos/868110/pexels-photo-868110.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "zaroob",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Manakish",
-          "klook_query": "Zaroob restaurant booking"
+          "klook_query": "Zaroob restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "smoky-jerk",
@@ -48,7 +51,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Jerk Chicken",
-          "klook_query": "Smoky Jerk food truck"
+          "klook_query": "Smoky Jerk food truck",
+          "photo_url": "https://images.pexels.com/photos/949131/pexels-photo-949131.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "al-reef",
@@ -59,7 +63,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Khameer Bread",
-          "klook_query": "Al Reef Bakery visit"
+          "klook_query": "Al Reef Bakery visit",
+          "photo_url": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "atmosphere",
@@ -70,7 +75,8 @@
           "star_rating": 4.9,
           "price_range": "$$$",
           "must_try": "Beef Tenderloin",
-          "klook_query": "At.mosphere reservation"
+          "klook_query": "At.mosphere reservation",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "souk-al-bahar",
@@ -81,7 +87,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Arabic Mezze",
-          "klook_query": "Souk Al Bahar food options"
+          "klook_query": "Souk Al Bahar food options",
+          "photo_url": "https://images.pexels.com/photos/337932/pexels-photo-337932.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "al-hallab",
@@ -92,7 +99,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Mixed Grill Platter",
-          "klook_query": "Al Hallab restaurant booking"
+          "klook_query": "Al Hallab restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/415752/pexels-photo-415752.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Duck Parfait",
-          "klook_query": "Restaurant Hubert booking"
+          "klook_query": "Restaurant Hubert booking",
+          "photo_url": "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "sydney-bondi-beach-cafe",
@@ -70,7 +71,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Pork Dumplings",
-          "klook_query": "Chinatown Night Market booking"
+          "klook_query": "Chinatown Night Market booking",
+          "photo_url": "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "sydney-local-specialty-restaurant",

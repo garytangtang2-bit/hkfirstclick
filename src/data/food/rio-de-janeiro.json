@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Seafood Buffet",
-          "klook_query": "Marius Crustaceos booking"
+          "klook_query": "Marius Crustaceos booking",
+          "photo_url": "https://images.pexels.com/photos/34182532/pexels-photo-34182532.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "pavuna-market",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Pastéis",
-          "klook_query": "Pavuna Market food tour"
+          "klook_query": "Pavuna Market food tour",
+          "photo_url": "https://images.pexels.com/photos/618491/pexels-photo-618491.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "confeitaria-colombo",

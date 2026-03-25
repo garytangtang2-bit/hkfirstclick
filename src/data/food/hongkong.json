@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Baked BBQ Pork Buns",
-          "klook_query": "Tim Ho Wan Hong Kong voucher"
+          "klook_query": "Tim Ho Wan Hong Kong voucher",
+          "photo_url": "https://images.pexels.com/photos/14260829/pexels-photo-14260829.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "temple-street-night-market",
@@ -26,7 +27,8 @@
           "star_rating": 4.4,
           "price_range": "$$",
           "must_try": "Claypot Rice and Spicy Crab",
-          "klook_query": "Temple Street Night Market tour"
+          "klook_query": "Temple Street Night Market tour",
+          "photo_url": "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "kau-kee-restaurant",
@@ -37,7 +39,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Curry Beef Brisket Noodles",
-          "klook_query": "Central Hong Kong food guide"
+          "klook_query": "Central Hong Kong food guide",
+          "photo_url": "https://images.pexels.com/photos/3603453/pexels-photo-3603453.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "lan-fong-yuen-central",
@@ -59,7 +62,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Roast Goose with Rice",
-          "klook_query": "Yat Lok Roast Goose"
+          "klook_query": "Yat Lok Roast Goose",
+          "photo_url": "https://images.pexels.com/photos/11792972/pexels-photo-11792972.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "australian-dairy-company",
@@ -70,7 +74,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Scrambled Eggs on Thick Toast",
-          "klook_query": "Kowloon food tour"
+          "klook_query": "Kowloon food tour",
+          "photo_url": "https://images.pexels.com/photos/3735192/pexels-photo-3735192.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "maks-noodle-central",
@@ -81,7 +86,8 @@
           "star_rating": 4.2,
           "price_range": "$$",
           "must_try": "Shrimp Wonton Noodles",
-          "klook_query": "Hong Kong Michelin food"
+          "klook_query": "Hong Kong Michelin food",
+          "photo_url": "https://images.pexels.com/photos/1395319/pexels-photo-1395319.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "tai-cheong-bakery",

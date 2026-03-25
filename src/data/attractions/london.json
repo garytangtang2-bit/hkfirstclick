@@ -28,7 +28,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "afternoon",
-          "klook_query": "British Museum guided tour"
+          "klook_query": "British Museum guided tour",
+          "photo_url": "https://images.pexels.com/photos/135018/pexels-photo-135018.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "st-pauls-cathedral",
@@ -64,7 +65,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "afternoon",
-          "klook_query": "Camden Market walking tour"
+          "klook_query": "Camden Market walking tour",
+          "photo_url": "https://images.pexels.com/photos/19121495/pexels-photo-19121495.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "natural-history-museum",

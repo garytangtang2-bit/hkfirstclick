@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Baked BBQ Pork Buns",
-          "klook_query": "Tim Ho Wan Hong Kong"
+          "klook_query": "Tim Ho Wan Hong Kong",
+          "photo_url": "https://images.pexels.com/photos/14260829/pexels-photo-14260829.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "yat-lok-roast-goose",
@@ -26,7 +27,8 @@
           "star_rating": 4.4,
           "price_range": "$$",
           "must_try": "Roast Goose with Rice or Lai Fun",
-          "klook_query": "Yat Lok Roast Goose"
+          "klook_query": "Yat Lok Roast Goose",
+          "photo_url": "https://images.pexels.com/photos/11792972/pexels-photo-11792972.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "temple-street-night-market",
@@ -37,7 +39,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Claypot Rice and Chili Crab",
-          "klook_query": "Temple Street Night Market Tour"
+          "klook_query": "Temple Street Night Market Tour",
+          "photo_url": "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "kau-kee-beef-brisket",
@@ -48,7 +51,8 @@
           "star_rating": 4.2,
           "price_range": "$",
           "must_try": "Curry Beef Brisket E-fu Noodles",
-          "klook_query": "Central Hong Kong Food Tour"
+          "klook_query": "Central Hong Kong Food Tour",
+          "photo_url": "https://images.pexels.com/photos/10929789/pexels-photo-10929789.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "australian-dairy-company",
@@ -59,7 +63,8 @@
           "star_rating": 4.1,
           "price_range": "$",
           "must_try": "Scrambled Eggs on Thick Toast",
-          "klook_query": "Hong Kong Cha Chaan Teng Tour"
+          "klook_query": "Hong Kong Cha Chaan Teng Tour",
+          "photo_url": "https://images.pexels.com/photos/3735192/pexels-photo-3735192.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "lin-heung-tea-house",
@@ -70,7 +75,8 @@
           "star_rating": 4,
           "price_range": "$$",
           "must_try": "Har Gow and Siu Mai from the Pushcarts",
-          "klook_query": "Traditional Dim Sum Tour Hong Kong"
+          "klook_query": "Traditional Dim Sum Tour Hong Kong",
+          "photo_url": "https://images.pexels.com/photos/13400410/pexels-photo-13400410.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "tai-cheong-bakery",
@@ -81,7 +87,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Freshly Baked Egg Tarts",
-          "klook_query": "Soho Hong Kong Food Tour"
+          "klook_query": "Soho Hong Kong Food Tour",
+          "photo_url": "https://images.pexels.com/photos/7911509/pexels-photo-7911509.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "mak-s-noodle",
@@ -92,7 +99,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Wonton Noodle Soup",
-          "klook_query": "Mak's Noodle Hong Kong"
+          "klook_query": "Mak's Noodle Hong Kong",
+          "photo_url": "https://images.pexels.com/photos/1395319/pexels-photo-1395319.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

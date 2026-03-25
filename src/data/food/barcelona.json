@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Jamon Iberico",
-          "klook_query": "La Boqueria market tour"
+          "klook_query": "La Boqueria market tour",
+          "photo_url": "https://images.pexels.com/photos/2031994/pexels-photo-2031994.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "tickets-barcelona",
@@ -26,7 +27,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Olives from El Bulli",
-          "klook_query": "Tickets restaurant booking"
+          "klook_query": "Tickets restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/7135019/pexels-photo-7135019.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "el-quim-de-la-boqueria",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$$",
           "must_try": "Huevos con Chipirones",
-          "klook_query": "El Quim de la Boqueria dining"
+          "klook_query": "El Quim de la Boqueria dining",
+          "photo_url": "https://images.pexels.com/photos/17606596/pexels-photo-17606596.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "canete-barcelona",
@@ -48,7 +51,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Paella",
-          "klook_query": "Bar Cañete reservation"
+          "klook_query": "Bar Cañete reservation",
+          "photo_url": "https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "quimet-y-quimet",
@@ -59,7 +63,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Salmon with Yogurt and Truffle Honey",
-          "klook_query": "Quimet y Quimet bar tour"
+          "klook_query": "Quimet y Quimet bar tour",
+          "photo_url": "https://images.pexels.com/photos/1022923/pexels-photo-1022923.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "cal-pep-barcelona",
@@ -70,7 +75,8 @@
           "star_rating": 4.4,
           "price_range": "$$",
           "must_try": "Fried Calamari",
-          "klook_query": "Cal Pep dining experience"
+          "klook_query": "Cal Pep dining experience",
+          "photo_url": "https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "palo-alto-market",
@@ -81,7 +87,8 @@
           "star_rating": 4.3,
           "price_range": "$",
           "must_try": "Artisan food stalls",
-          "klook_query": "Palo Alto Market tour"
+          "klook_query": "Palo Alto Market tour",
+          "photo_url": "https://images.pexels.com/photos/1251848/pexels-photo-1251848.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "casa-gispert",
@@ -92,7 +99,8 @@
           "star_rating": 4.9,
           "price_range": "$$",
           "must_try": "Roasted Almonds",
-          "klook_query": "Casa Gispert tour"
+          "klook_query": "Casa Gispert tour",
+          "photo_url": "https://images.pexels.com/photos/248913/pexels-photo-248913.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

@@ -38,11 +38,7 @@ interface Props {
   langCode: string;
 }
 
-function getUnsplashUrl(name: string, mustTry: string) {
-  // Try restaurant name first, fall back to must_try dish name
-  const keyword = encodeURIComponent(`${name} ${mustTry} food`);
-  return `https://source.unsplash.com/400x300/?${keyword}`;
-}
+const DEFAULT_FOOD_IMG = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&fit=crop";
 
 const TYPE_LABELS: Record<string, Record<string, string>> = {
   restaurant: { en: "Restaurant", zh: "餐廳", ja: "レストラン", ko: "레스토랑", fr: "Restaurant", es: "Restaurante", id: "Restoran", hi: "रेस्तरां", pt: "Restaurante", ar: "مطعم", bn: "রেস্তোরাঁ", ru: "Ресторан" },
@@ -103,11 +99,11 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
             {/* Image */}
             <div className="relative w-full md:w-56 h-48 md:h-auto shrink-0 bg-gray-800">
               <img
-                src={getUnsplashUrl(item.name, item.must_try)}
+                src={item.photo_url || DEFAULT_FOOD_IMG}
                 alt={item.name}
                 className="w-full h-full object-cover"
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&fit=crop";
+                  (e.target as HTMLImageElement).src = DEFAULT_FOOD_IMG;
                 }}
               />
               <div className="absolute top-3 left-3 bg-black/70 backdrop-blur-sm text-yellow-400 text-xs font-bold px-2 py-1 rounded-full">

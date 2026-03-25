@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Fresh seafood platter",
-          "klook_query": "Ferry Building food tour"
+          "klook_query": "Ferry Building food tour",
+          "photo_url": "https://images.pexels.com/photos/5977099/pexels-photo-5977099.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "lauraine",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Lamb shoulder",
-          "klook_query": "Cibo restaurant booking"
+          "klook_query": "Cibo restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/7415261/pexels-photo-7415261.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "bustling_market",
@@ -37,7 +39,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Korean BBQ",
-          "klook_query": "Auckland Night Markets experience"
+          "klook_query": "Auckland Night Markets experience",
+          "photo_url": "https://images.pexels.com/photos/2240361/pexels-photo-2240361.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "dine_at_eden",
@@ -48,7 +51,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Tasting menu",
-          "klook_query": "The Grove fine dining booking"
+          "klook_query": "The Grove fine dining booking",
+          "photo_url": "https://images.pexels.com/photos/38136/pexels-photo-38136.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "local_specialty",
@@ -59,7 +63,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Fish and chips",
-          "klook_query": "Auckland Fish Market tour"
+          "klook_query": "Auckland Fish Market tour",
+          "photo_url": "https://images.pexels.com/photos/229789/pexels-photo-229789.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "sweet_delights",
@@ -70,7 +75,8 @@
           "star_rating": 4.9,
           "price_range": "$",
           "must_try": "Feijoa gelato",
-          "klook_query": "Giapo gelato shop visit"
+          "klook_query": "Giapo gelato shop visit",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "vibrant_market",
@@ -81,7 +87,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Croissants",
-          "klook_query": "La Cigale Market food tour"
+          "klook_query": "La Cigale Market food tour",
+          "photo_url": "https://images.pexels.com/photos/2031992/pexels-photo-2031992.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "fusion_flavors",
@@ -92,7 +99,8 @@
           "star_rating": 4.7,
           "price_range": "$$$",
           "must_try": "Omakase",
-          "klook_query": "Kazuya restaurant booking"
+          "klook_query": "Kazuya restaurant booking",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

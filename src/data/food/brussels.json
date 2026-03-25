@@ -15,7 +15,8 @@
           "star_rating": 4.7,
           "price_range": "$$",
           "must_try": "Moules-frites",
-          "klook_query": "Chez Ryan Brussels"
+          "klook_query": "Chez Ryan Brussels",
+          "photo_url": "https://images.pexels.com/photos/17289019/pexels-photo-17289019.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "fritland",
@@ -26,7 +27,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Belgian Fries with Andalouse Sauce",
-          "klook_query": "Fritland Brussels"
+          "klook_query": "Fritland Brussels",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "restaurant-samourai",
@@ -37,7 +39,8 @@
           "star_rating": 4.8,
           "price_range": "$$$",
           "must_try": "Asian-style Carbonnade Flamande",
-          "klook_query": "Restaurant Samouraï Brussels"
+          "klook_query": "Restaurant Samouraï Brussels",
+          "photo_url": "https://images.pexels.com/photos/210547/pexels-photo-210547.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "brussels-market",
@@ -48,7 +51,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Belgian Waffles",
-          "klook_query": "Brussels Night Market"
+          "klook_query": "Brussels Night Market",
+          "photo_url": "https://images.pexels.com/photos/2587789/pexels-photo-2587789.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "la-friture",
@@ -59,7 +63,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Speculoos Cookies",
-          "klook_query": "La Friture Brussels"
+          "klook_query": "La Friture Brussels",
+          "photo_url": "https://images.pexels.com/photos/15366521/pexels-photo-15366521.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "le-pain-quotidien",
@@ -70,7 +75,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Avocado Toast",
-          "klook_query": "Le Pain Quotidien Brussels"
+          "klook_query": "Le Pain Quotidien Brussels",
+          "photo_url": "https://images.pexels.com/photos/10562146/pexels-photo-10562146.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "la-fabrique-en-chantier",
@@ -81,7 +87,8 @@
           "star_rating": 4.9,
           "price_range": "$$$",
           "must_try": "Chef's Tasting Menu",
-          "klook_query": "La Fabrique en Chantier Brussels"
+          "klook_query": "La Fabrique en Chantier Brussels",
+          "photo_url": "https://images.pexels.com/photos/17764598/pexels-photo-17764598.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "chocolatier-pierre-marcolini",
@@ -92,7 +99,8 @@
           "star_rating": 4.8,
           "price_range": "$",
           "must_try": "Dark Chocolate Truffles",
-          "klook_query": "Pierre Marcolini Brussels"
+          "klook_query": "Pierre Marcolini Brussels",
+          "photo_url": "https://images.pexels.com/photos/45202/brownie-dessert-cake-sweet-45202.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

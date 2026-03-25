@@ -15,7 +15,8 @@
           "star_rating": 4.6,
           "price_range": "$$$",
           "must_try": "Crab Omelette (Kai Jeaw Poo)",
-          "klook_query": "Jay Fai Bangkok reservation"
+          "klook_query": "Jay Fai Bangkok reservation",
+          "photo_url": "https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "yaowarat-chinatown-street-food",
@@ -26,7 +27,8 @@
           "star_rating": 4.7,
           "price_range": "$",
           "must_try": "Grilled Seafood and Peppery Guay Jub",
-          "klook_query": "Bangkok Chinatown Food Tour"
+          "klook_query": "Bangkok Chinatown Food Tour",
+          "photo_url": "https://images.pexels.com/photos/17185383/pexels-photo-17185383.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "jodd-fairs-night-market",
@@ -37,7 +39,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
-          "klook_query": "Jodd Fairs Night Market Bangkok"
+          "klook_query": "Jodd Fairs Night Market Bangkok",
+          "photo_url": "https://images.pexels.com/photos/1472334/pexels-photo-1472334.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "thipsamai-pad-thai",
@@ -48,7 +51,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Superb Pad Thai wrapped in Egg",
-          "klook_query": "Thipsamai Pad Thai Bangkok"
+          "klook_query": "Thipsamai Pad Thai Bangkok",
+          "photo_url": "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "wattana-panich-beef-broth",
@@ -59,7 +63,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Beef Noodle Soup",
-          "klook_query": "Bangkok local food tour"
+          "klook_query": "Bangkok local food tour",
+          "photo_url": "https://images.pexels.com/photos/1534057/pexels-photo-1534057.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "chatuchak-weekend-market",
@@ -70,7 +75,8 @@
           "star_rating": 4.4,
           "price_range": "$",
           "must_try": "Coconut Ice Cream and Moo Ping",
-          "klook_query": "Chatuchak Weekend Market"
+          "klook_query": "Chatuchak Weekend Market",
+          "photo_url": "https://images.pexels.com/photos/35324198/pexels-photo-35324198.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "som-tum-der-silom",
@@ -81,7 +87,8 @@
           "star_rating": 4.5,
           "price_range": "$$",
           "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
-          "klook_query": "Bangkok Michelin food guide"
+          "klook_query": "Bangkok Michelin food guide",
+          "photo_url": "https://images.pexels.com/photos/30580208/pexels-photo-30580208.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "mae-varee-mango-sticky-rice",
@@ -92,7 +99,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
-          "klook_query": "Thong Lo food guide"
+          "klook_query": "Thong Lo food guide",
+          "photo_url": "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

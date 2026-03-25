@@ -16,7 +16,8 @@
           "needs_ticket": true,
           "ticket_price_hint": "approx $30",
           "best_time": "morning",
-          "klook_query": "Christ the Redeemer tickets"
+          "klook_query": "Christ the Redeemer tickets",
+          "photo_url": "https://images.pexels.com/photos/11170876/pexels-photo-11170876.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "sugarloaf-mountain",
@@ -88,7 +89,8 @@
           "needs_ticket": false,
           "ticket_price_hint": "Free",
           "best_time": "anytime",
-          "klook_query": "Copacabana Beach activities"
+          "klook_query": "Copacabana Beach activities",
+          "photo_url": "https://images.pexels.com/photos/720300/pexels-photo-720300.jpeg?auto=compress&cs=tinysrgb&h=350"
         }
       ]
     },

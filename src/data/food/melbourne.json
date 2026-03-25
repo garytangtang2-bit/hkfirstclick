@@ -15,7 +15,8 @@
           "star_rating": 4.8,
           "price_range": "$",
           "must_try": "Plain Croissant",
-          "klook_query": "Lune Croissanterie booking"
+          "klook_query": "Lune Croissanterie booking",
+          "photo_url": "https://images.pexels.com/photos/11093130/pexels-photo-11093130.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "chinatown-night-market",
@@ -26,7 +27,8 @@
           "star_rating": 4.6,
           "price_range": "$",
           "must_try": "Pork Buns",
-          "klook_query": "Chinatown Night Market food tour"
+          "klook_query": "Chinatown Night Market food tour",
+          "photo_url": "https://images.pexels.com/photos/2481626/pexels-photo-2481626.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "attica",

@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$$$",
           "must_try": "Lobster Ravioli",
-          "klook_query": "Casa Casuarina restaurant Miami"
+          "klook_query": "Casa Casuarina restaurant Miami",
+          "photo_url": "https://images.pexels.com/photos/18279391/pexels-photo-18279391.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "versace-restaurant",
@@ -26,7 +27,8 @@
           "star_rating": 4.3,
           "price_range": "$$",
           "must_try": "Ropa Vieja",
-          "klook_query": "Yuca restaurant Miami"
+          "klook_query": "Yuca restaurant Miami",
+          "photo_url": "https://images.pexels.com/photos/2847648/pexels-photo-2847648.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "la-patacon",

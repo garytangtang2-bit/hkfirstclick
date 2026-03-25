@@ -15,7 +15,8 @@
           "star_rating": 4.5,
           "price_range": "$",
           "must_try": "Tako Tamago (Octopus with Quail Egg)",
-          "klook_query": "Nishiki Market Food Tour"
+          "klook_query": "Nishiki Market Food Tour",
+          "photo_url": "https://images.pexels.com/photos/4358936/pexels-photo-4358936.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "pontocho-alley",
@@ -26,7 +27,8 @@
           "star_rating": 4.6,
           "price_range": "$$$",
           "must_try": "Kyoto-style Kaiseki or Yakitori",
-          "klook_query": "Pontocho Dining Experience"
+          "klook_query": "Pontocho Dining Experience",
+          "photo_url": "https://images.pexels.com/photos/30491451/pexels-photo-30491451.jpeg?auto=compress&cs=tinysrgb&h=350"
         },
         {
           "id": "fushimi-inari-street-food",
