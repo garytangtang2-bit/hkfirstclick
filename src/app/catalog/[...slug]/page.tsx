@@ -31,6 +31,27 @@ function pickLang(acceptLanguage: string, supported: string[]): string | null {
   return null;
 }
 
+// Get city coordinates helper
+const getCityCoordinates = (cityId: string) => {
+  try {
+    const fs = require("fs");
+    const path = require("path");
+    const filePath = path.join(process.cwd(), "public", "global_cities_1000.csv");
+    if (fs.existsSync(filePath)) {
+      const content = fs.readFileSync(filePath, "utf-8");
+      const lines = content.split('\n');
+      for (const line of lines) {
+        if (!line.trim() || line.startsWith('City')) continue;
+        const [cityCsvName, latStr, lngStr] = line.split(',');
+        if (cityCsvName === cityId) {
+          return { lat: parseFloat(latStr), lng: parseFloat(lngStr) };
+        }
+      }
+    }
+  } catch (e) {}
+  return null;
+};
+
 // Get rich data helper
 const getRichItinerary = (slug: string) => {
   try {
@@ -245,6 +266,7 @@ export default async function CatalogSlugPage({ params }: Props) {
     const buildJsonLd = () => {
       if (!richData) return null;
 
+      const coords = getCityCoordinates(cityId);
       const title = activeTranslation?.seo_meta?.title ?? richData.seo_meta?.title;
       const description = activeTranslation?.seo_meta?.description ?? richData.seo_meta?.description;
       const intro = activeTranslation?.hero_section?.hook_intro ?? richData.hero_section?.hook_intro;
@@ -313,6 +335,13 @@ export default async function CatalogSlugPage({ params }: Props) {
             "description": description ?? intro,
             "url": `https://www.hkfirstclick.com/catalog/${lang}/${destination}`,
             "touristType": "independent traveler",
+            ...(coords ? {
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": coords.lat,
+                "longitude": coords.lng
+              }
+            } : {}),
             "includesAttraction": allActivities.map(a => ({
               "@type": "TouristAttraction",
               "name": a.name,

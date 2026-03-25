@@ -149,6 +149,10 @@ export default async function FoodSlugPage({ params }: Props) {
                 "ratingValue": item.star_rating,
                 "bestRating": 5,
                 "ratingCount": Math.round(item.star_rating * 180 + 50),
+                "author": {
+                  "@type": "Organization",
+                  "name": "HKfirstclick"
+                }
               },
             },
           })),

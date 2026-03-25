@@ -45,19 +45,17 @@ export default function MapComponent({ userTier, selectedRegion, hoveredCityName
     }, []);
 
     useEffect(() => {
-        let pollInterval: ReturnType<typeof setInterval>;
-
+        let isMounted = true;
         const initMap = () => {
-            if (typeof window === "undefined" || !window.L || mapInstance.current || !mapRef.current) return false;
+            if (!isMounted) return;
+            if (mapInstance.current || !mapRef.current || !window.L) return;
 
             mapInstance.current = window.L.map(mapRef.current, {
                 zoomControl: false,
                 maxZoom: 18
             }).setView([20, 0], 2);
 
-            window.L.control.zoom({
-                position: 'bottomright'
-            }).addTo(mapInstance.current);
+            window.L.control.zoom({ position: 'bottomright' }).addTo(mapInstance.current);
 
             window.L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png', {
                 maxZoom: 18,
@@ -70,24 +68,46 @@ export default function MapComponent({ userTier, selectedRegion, hoveredCityName
                 flyToCityRef.current = (city: any) => {
                     if (mapInstance.current && city.Latitude && city.Longitude) {
                         mapInstance.current.flyTo([city.Latitude, city.Longitude], 10, {
-                            animate: true,
-                            duration: 1.5
+                            animate: true, duration: 1.5
                         });
                     }
                 };
             }
-            return true;
         };
 
-        // Try immediately, then poll every 100ms until Leaflet is ready
-        if (!initMap()) {
-            pollInterval = setInterval(() => {
-                if (initMap()) clearInterval(pollInterval);
-            }, 100);
-        }
+        const loadScript = (src: string) => {
+            return new Promise<void>((resolve) => {
+                if (document.querySelector(`script[src="${src}"]`)) { 
+                    const check = setInterval(() => {
+                        if (src.includes('markercluster') ? (window.L && window.L.markerClusterGroup) : window.L) {
+                            clearInterval(check);
+                            resolve();
+                        }
+                    }, 50);
+                    return; 
+                }
+                const s = document.createElement('script');
+                s.src = src;
+                s.async = true;
+                s.onload = () => resolve();
+                document.head.appendChild(s);
+            });
+        };
+
+        const setupMap = async () => {
+            if (!window.L) {
+                await loadScript('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js');
+            }
+            if (!window.L || !window.L.markerClusterGroup) {
+                await loadScript('https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js');
+            }
+            initMap();
+        };
+        
+        setupMap();
 
         return () => {
-            clearInterval(pollInterval);
+            isMounted = false;
             if (mapInstance.current) {
                 mapInstance.current.remove();
                 mapInstance.current = null;

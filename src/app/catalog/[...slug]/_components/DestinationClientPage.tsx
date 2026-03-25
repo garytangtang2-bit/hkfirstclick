@@ -196,9 +196,32 @@ function DestinationContent({ cityId, richData, initialLang, langCode }: Props) 
 
                 <header className="mb-12">
                     {/* Intro Text */}
-                    <p className="text-lg md:text-xl text-gray-300 leading-relaxed font-medium mb-0 opacity-90">
+                    <p className="text-lg md:text-xl text-gray-300 leading-relaxed font-medium mb-6 opacity-90">
                         {heroIntro}
                     </p>
+
+                    {/* Quick Summary — AI citation-friendly fact block */}
+                    {activeRich?.daily_itinerary && (() => {
+                        const days = activeRich.daily_itinerary.length;
+                        const topSpots = activeRich.daily_itinerary
+                            .flatMap((d: any) => d.activities?.slice(0, 1).map((a: any) => a.spot_name) ?? [])
+                            .slice(0, 5)
+                            .filter(Boolean);
+                        return (
+                            <div className="bg-white/5 border border-white/10 rounded-2xl px-6 py-5 text-sm text-gray-300 leading-relaxed space-y-2" itemScope itemType="https://schema.org/Article">
+                                <p className="text-xs font-bold uppercase tracking-widest text-yellow-400 mb-3">Quick Summary</p>
+                                <p><span className="text-white font-semibold">{t.cat_days_label || "Duration"}:</span> {days} {days === 1 ? "day" : "days"}</p>
+                                {topSpots.length > 0 && (
+                                    <p><span className="text-white font-semibold">{t.cat_highlights_label || "Highlights"}:</span> {topSpots.join(" · ")}</p>
+                                )}
+                                <p><span className="text-white font-semibold">{t.cat_best_for_label || "Best for"}:</span> {t.cat_best_for_value || "First-time visitors, independent travelers"}</p>
+                                <p className="text-gray-400 italic mb-4 text-[13px] border-l-2 border-purple-500/50 pl-3">
+                                    <strong className="text-purple-400">AI Summary:</strong> A comprehensive {days}-day travel itinerary for {activeRich.seo_meta?.title?.split(' ')[0] || cityName} covering {topSpots.join(", ")}. Includes daily schedules, practical tips, and recommendations tailored for independent travelers.
+                                </p>
+                                <p><span className="text-white font-semibold">{t.cat_languages_label || "Available in"}:</span> {t.cat_languages_value || "12 languages"}</p>
+                            </div>
+                        );
+                    })()}
                 </header>
 
                 {/* Call to Action - Workspace Generation (Integrated into flow) */}

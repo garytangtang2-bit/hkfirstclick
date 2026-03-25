@@ -147,6 +147,10 @@ export default async function AttractionsSlugPage({ params }: Props) {
                 "ratingValue": item.star_rating,
                 "bestRating": 5,
                 "ratingCount": Math.round(item.star_rating * 200 + 80),
+                "author": {
+                  "@type": "Organization",
+                  "name": "HKfirstclick"
+                }
               },
               ...(item.needs_ticket && { "isAccessibleForFree": false }),
             },
