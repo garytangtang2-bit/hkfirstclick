@@ -1,0 +1,1097 @@
+{
+  "city_slug": "athens",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Athens 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Athens. Find opening hours, ticket prices and booking links for Athens's top landmarks.",
+      "page_intro": "Athens, the cradle of Western civilization, is a vibrant city steeped in history and culture. From its ancient ruins to its bustling neighborhoods, Athens offers a unique blend of old and new. Whether you're wandering through the ancient Agora or enjoying a meal in Plaka, there’s something for every traveler in this fascinating city.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "Acropolis of Athens",
+          "type": "landmark",
+          "description": "The Acropolis is an ancient citadel located on a rocky outcrop above the city of Athens. It's home to several iconic structures, including the Parthenon, a testament to classical architecture. Visitors should allocate at least 2-3 hours to explore the site and enjoy breathtaking views of the city. Early morning visits are recommended to avoid crowds.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "Acropolis Museum",
+          "type": "museum",
+          "description": "The Acropolis Museum showcases artifacts from the Acropolis archaeological site, offering insights into ancient Greek history. With its modern architecture and well-curated exhibits, the museum is a must-visit. Plan for around 2 hours to fully appreciate the collections. Visiting in the afternoon allows for a quieter experience.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "Plaka District",
+          "type": "district",
+          "description": "Plaka is one of the oldest neighborhoods in Athens, known for its charming streets and vibrant atmosphere. Visitors can stroll through narrow alleys, enjoy local cuisine, and shop for souvenirs. It's a great place to spend a leisurely afternoon, with plenty of cafes and restaurants to explore.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "Temple of Olympian Zeus",
+          "type": "temple",
+          "description": "The Temple of Olympian Zeus, also known as the Olympieion, is one of the largest temples in ancient Greece. Although only a few columns remain, the site provides a glimpse into the grandeur of ancient architecture. A visit takes about 1-2 hours, and it’s best to go in the morning to avoid the heat.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "National Archaeological Museum",
+          "type": "museum",
+          "description": "This museum houses one of the most significant collections of ancient Greek artifacts in the world. From sculptures to pottery, each piece tells a story of Greece's rich history. Plan to spend at least 2-3 hours to fully explore the extensive exhibits. The museum is less crowded in the late afternoon.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "Monastiraki Flea Market",
+          "type": "market",
+          "description": "Monastiraki Flea Market is a vibrant marketplace filled with a variety of goods, from antiques to handmade crafts. It's a great place to experience local culture and find unique souvenirs. Visiting on a Sunday offers the chance to explore a larger selection of vendors, making it a fun outing.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "Lycabettus Hill",
+          "type": "viewpoint",
+          "description": "Lycabettus Hill is the highest point in Athens, offering stunning panoramic views of the city and the Acropolis. A hike to the top takes about 30-45 minutes, or visitors can opt for a funicular ride. Sunset is the best time to visit, providing a breathtaking backdrop for photos.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "雅典熱門景點 2026 — 票務、提示與完整指南",
+      "seo_description": "探索雅典最好的景點。查找雅典主要地標的開放時間、票價和預訂鏈接。",
+      "page_intro": "雅典，西方文明的搖籃，是一座充滿歷史和文化的活力城市。從古老的遺跡到繁華的社區，雅典提供了古老與新穎的獨特融合。無論是漫步於古雅典廣場還是在普拉卡享用美食，這座迷人的城市為每位旅客提供了獨特的體驗。",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "雅典衛城",
+          "type": "landmark",
+          "description": "雅典衛城是一個位於城市上方岩石突出的古代城堡。它擁有幾個標誌性建築，包括帕台農神廟，這是古典建築的見證。遊客應至少安排2-3小時來探索該地點並欣賞城市的壯麗景色。建議早晨造訪以避免人潮。",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "衛城博物館",
+          "type": "museum",
+          "description": "衛城博物館展示了來自衛城考古遺址的文物，提供對古希臘歷史的深入了解。憑藉其現代建築和精心策劃的展品，這座博物館是必訪之地。計劃花大約2小時充分欣賞收藏品。下午造訪可享受更安靜的體驗。",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "普拉卡區",
+          "type": "district",
+          "description": "普拉卡是雅典最古老的社區之一，以其迷人的街道和充滿活力的氛圍而聞名。遊客可以在狹窄的小巷中漫步，品嚐當地美食，並購買紀念品。這裡是度過悠閒午後的好地方，有很多咖啡館和餐廳可供探索。",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "奧林匹克宙斯神廟",
+          "type": "temple",
+          "description": "奧林匹克宙斯神廟，也稱為奧林匹翁，是古希臘最大的神廟之一。雖然只剩下幾根柱子，但該地點提供了對古代建築壯麗的瞥見。參觀約需1-2小時，最好早晨前往以避開炎熱。",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "國立考古博物館",
+          "type": "museum",
+          "description": "這座博物館擁有世界上最重要的古希臘文物收藏之一。從雕塑到陶器，每一件作品都講述著希臘豐富歷史的故事。計劃至少花2-3小時充分探索廣泛的展品。博物館在傍晚較不擁擠。",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "莫納斯提拉基跳蚤市場",
+          "type": "market",
+          "description": "莫納斯提拉基跳蚤市場是一個充滿活力的市場，裡面擁有各種商品，從古董到手工藝品。這裡是體驗當地文化和尋找獨特紀念品的好地方。星期天造訪可享受更大的供應商選擇，使其成為一次有趣的外出。",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "利卡維托斯山",
+          "type": "viewpoint",
+          "description": "利卡維托斯山是雅典的最高點，提供壯觀的城市和衛城全景。徒步到達山頂約需30-45分鐘，或遊客可以選擇乘坐纜車。在日落時分前往是最佳時機，為拍照提供壯觀的背景。",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "アテネの人気観光スポット 2026 — チケット、ヒント＆完全ガイド",
+      "seo_description": "アテネの最高の観光スポットを探索しましょう。アテネの主要名所の開館時間、チケット価格、予約リンクを見つけてください。",
+      "page_intro": "アテネは西洋文明の揺籃であり、歴史と文化に満ちた活気ある都市です。古代遺跡から賑やかな地区まで、アテネは古いものと新しいもののユニークな融合を提供します。古代アゴラを散策したり、プラカで食事を楽しんだりすることで、この魅力的な都市にはすべての旅行者に何かがあります。",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "アテネのアクロポリス",
+          "type": "landmark",
+          "description": "アクロポリスは、アテネの上にある岩の突起に位置する古代の要塞です。古典的な建築の証であるパルテノン神殿など、いくつかのアイコニックな構造物があります。訪問者は、サイトを探索し、街の息を呑むような景色を楽しむために少なくとも2-3時間を割り当てるべきです。混雑を避けるために早朝の訪問が推奨されます。",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "アクロポリス博物館",
+          "type": "museum",
+          "description": "アクロポリス博物館は、アクロポリス考古学遺跡からの遺物を展示しており、古代ギリシャの歴史に関する洞察を提供しています。現代的な建築と良くキュレーションされた展示により、この博物館は訪れるべき必見の場所です。コレクションを十分に楽しむために約2時間を計画してください。午後の訪問は静かな体験を提供します。",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "プラカ地区",
+          "type": "district",
+          "description": "プラカはアテネで最も古い地区の一つで、魅力的な通りと活気あふれる雰囲気で知られています。訪問者は狭い路地を散策し、地元の料理を楽しみ、土産物を買うことができます。たくさんのカフェやレストランがあるので、のんびりとした午後を過ごすのに最適な場所です。",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "オリンピアのゼウス神殿",
+          "type": "temple",
+          "description": "オリンピアのゼウス神殿は、古代ギリシャで最も大きな神殿の一つです。残っているのは数本の柱だけですが、その場所は古代建築の壮大さを垣間見ることができます。訪問には約1-2時間かかり、暑さを避けるために朝に行くのがベストです。",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "国立考古学博物館",
+          "type": "museum",
+          "description": "この博物館は、世界で最も重要な古代ギリシャの遺物コレクションの一つを所蔵しています。彫刻から陶器まで、各作品はギリシャの豊かな歴史の物語を語っています。広範な展示を十分に探索するために、少なくとも2-3時間を計画してください。博物館は午後遅くは人が少ないです。",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "モナスティラキのフリーマーケット",
+          "type": "market",
+          "description": "モナスティラキのフリーマーケットは、アンティークから手作りの工芸品まで、さまざまな商品が揃う活気あるマーケットです。地元の文化を体験し、ユニークな土産を見つけるのに最適な場所です。日曜日に訪れると、より多くの出店者を探索できるチャンスがあり、楽しい外出になります。",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "リカベトスの丘",
+          "type": "viewpoint",
+          "description": "リカベトスの丘はアテネで最も高い地点で、都市とアクロポリスの素晴らしいパノラマビューを提供します。頂上までのハイキングは約30-45分かかりますが、遊園地の乗り物を選ぶこともできます。夕日が最も美しい時期で、写真のための息を呑むような背景を提供します。",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "아테네의 주요 관광 명소 2026 — 티켓, 팁 & 완벽 가이드",
+      "seo_description": "아테네의 최고의 관광 명소를 탐험하세요. 아테네의 주요 랜드마크에 대한 개방 시간, 티켓 가격 및 예약 링크를 찾으세요.",
+      "page_intro": "아테네는 서양 문명의 요람으로, 역사와 문화가 가득한 활기찬 도시입니다. 고대 유적지부터 번화한 동네까지 아테네는 오래된 것과 새로운 것의 독특한 조화를 제공합니다. 고대 아고라를 거닐거나 플라카에서 식사를 즐기든 이 매혹적인 도시는 모든 여행자에게 무언가를 제공합니다.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "아테네 아크로폴리스",
+          "type": "landmark",
+          "description": "아크로폴리스는 아테네 위의 바위 돌출부에 위치한 고대 요새입니다. 고전 건축의 증거인 파르테논 신전 등 몇 가지 상징적인 구조물이 있습니다. 방문객들은 이곳을 탐험하고 도시의 숨막히는 경관을 즐기기 위해 최소 2-3시간을 할애해야 합니다. 혼잡을 피하기 위해 아침 일찍 방문하는 것이 좋습니다.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "아크로폴리스 박물관",
+          "type": "museum",
+          "description": "아크로폴리스 박물관은 아크로폴리스 고고학 유적지에서 출토된 유물을 전시하여 고대 그리스 역사에 대한 통찰력을 제공합니다. 현대적인 건축과 잘 기획된 전시로 이 박물관은 꼭 방문해야 할 곳입니다. 컬렉션을 충분히 감상하려면 약 2시간을 계획하세요. 오후에 방문하면 더 조용한 경험을 할 수 있습니다.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "플라카 지구",
+          "type": "district",
+          "description": "플라카는 아테네에서 가장 오래된 동네 중 하나로, 매력적인 거리와 활기찬 분위기로 유명합니다. 방문객들은 좁은 골목을 거닐고, 현지 요리를 즐기며, 기념품을 쇼핑할 수 있습니다. 이곳은 여유로운 오후를 보내기에 좋은 곳으로, 많은 카페와 레스토랑이 있습니다.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "올림피아 제우스 신전",
+          "type": "temple",
+          "description": "올림피아 제우스 신전은 고대 그리스에서 가장 큰 신전 중 하나입니다. 몇 개의 기둥만 남아 있지만, 이곳은 고대 건축의 웅장함을 엿볼 수 있습니다. 방문에는 약 1-2시간이 걸리며, 더위를 피하기 위해 아침에 가는 것이 가장 좋습니다.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "국립 고고학 박물관",
+          "type": "museum",
+          "description": "이 박물관은 세계에서 가장 중요한 고대 그리스 유물 컬렉션 중 하나를 소장하고 있습니다. 조각품에서 도자기까지 각 작품은 그리스의 풍부한 역사의 이야기를 들려줍니다. 광범위한 전시를 충분히 탐험하려면 최소 2-3시간을 계획하세요. 박물관은 늦은 오후에 덜 붐빕니다.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "모나스티라키 벼룩시장",
+          "type": "market",
+          "description": "모나스티라키 벼룩시장은 골동품부터 수제 공예품까지 다양한 상품으로 가득한 활기찬 시장입니다. 여기에서 현지 문화를 경험하고 독특한 기념품을 찾기에 좋은 장소입니다. 일요일에 방문하면 더 많은 판매자들을 탐방할 수 있는 기회가 있어 즐거운 나들이가 됩니다.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "리카베투스 언덕",
+          "type": "viewpoint",
+          "description": "리카베투스 언덕은 아테네에서 가장 높은 지점으로 도시와 아크로폴리스의 멋진 파노라마 뷰를 제공합니다. 정상까지의 하이킹은 약 30-45분이 소요되며, 방문객들은 케이블카를 이용할 수도 있습니다. 일몰이 가장 좋은 방문 시기로, 사진 촬영을 위한 숨막히는 배경을 제공합니다.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Principales attractions d'Athènes 2026 — Billets, conseils et guide complet",
+      "seo_description": "Explorez les meilleures attractions d'Athènes. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites d'Athènes.",
+      "page_intro": "Athènes, le berceau de la civilisation occidentale, est une ville dynamique riche en histoire et en culture. Des ruines anciennes à ses quartiers animés, Athènes offre un mélange unique de l'ancien et du nouveau. Que vous vous promeniez dans l'Agora antique ou que vous dégustiez un repas à Plaka, il y a quelque chose pour chaque voyageur dans cette ville fascinante.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "Acropole d'Athènes",
+          "type": "landmark",
+          "description": "L'Acropole est une citadelle ancienne située sur un rocher surplombant la ville d'Athènes. Elle abrite plusieurs structures emblématiques, dont le Parthénon, un témoignage de l'architecture classique. Les visiteurs devraient prévoir au moins 2-3 heures pour explorer le site et profiter des vues imprenables sur la ville. Les visites tôt le matin sont recommandées pour éviter les foules.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "Musée de l'Acropole",
+          "type": "museum",
+          "description": "Le musée de l'Acropole expose des artefacts du site archéologique de l'Acropole, offrant un aperçu de l'histoire de la Grèce antique. Avec son architecture moderne et ses expositions bien organisées, le musée est un incontournable. Prévoyez environ 2 heures pour apprécier pleinement les collections. Visiter dans l'après-midi permet de profiter d'une expérience plus calme.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "Quartier de Plaka",
+          "type": "district",
+          "description": "Plaka est l'un des plus anciens quartiers d'Athènes, connu pour ses rues charmantes et son ambiance vibrante. Les visiteurs peuvent flâner dans les ruelles étroites, déguster la cuisine locale et faire du shopping pour des souvenirs. C'est un excellent endroit pour passer un après-midi tranquille, avec de nombreux cafés et restaurants à explorer.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "Temple de l'Olympien Zeus",
+          "type": "temple",
+          "description": "Le temple de l'Olympien Zeus, également connu sous le nom d'Olympéion, est l'un des plus grands temples de la Grèce antique. Bien qu'il ne reste que quelques colonnes, le site offre un aperçu de la grandeur de l'architecture antique. Une visite prend environ 1-2 heures, et il est préférable d'y aller le matin pour éviter la chaleur.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "Musée archéologique national",
+          "type": "museum",
+          "description": "Ce musée abrite l'une des collections les plus significatives d'artefacts de la Grèce antique au monde. Des sculptures aux poteries, chaque pièce raconte une histoire de la riche histoire de la Grèce. Prévoyez de passer au moins 2-3 heures à explorer les vastes expositions. Le musée est moins fréquenté en fin d'après-midi.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "Marché aux puces de Monastiraki",
+          "type": "market",
+          "description": "Le marché aux puces de Monastiraki est un marché vibrant rempli d'une variété de biens, des antiquités aux objets artisanaux. C'est un excellent endroit pour vivre la culture locale et trouver des souvenirs uniques. Une visite le dimanche offre la chance d'explorer une plus grande sélection de vendeurs, ce qui en fait une sortie amusante.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "Mont Lycabette",
+          "type": "viewpoint",
+          "description": "Le mont Lycabette est le point le plus élevé d'Athènes, offrant une vue panoramique imprenable sur la ville et l'Acropole. Une randonnée jusqu'au sommet prend environ 30-45 minutes, ou les visiteurs peuvent opter pour un funiculaire. Le coucher de soleil est le meilleur moment pour visiter, offrant un arrière-plan à couper le souffle pour les photos.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales atracciones de Atenas 2026 — Boletos, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones de Atenas. Encuentra horarios de apertura, precios de boletos y enlaces de reserva para los principales lugares de interés de Atenas.",
+      "page_intro": "Atenas, la cuna de la civilización occidental, es una ciudad vibrante llena de historia y cultura. Desde sus antiguas ruinas hasta sus bulliciosos vecindarios, Atenas ofrece una mezcla única de lo antiguo y lo nuevo. Ya sea que estés paseando por la antigua Ágora o disfrutando de una comida en Plaka, hay algo para cada viajero en esta fascinante ciudad.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "Acrópolis de Atenas",
+          "type": "landmark",
+          "description": "La Acrópolis es una antigua ciudadela ubicada en un afloramiento rocoso sobre la ciudad de Atenas. Alberga varias estructuras icónicas, incluido el Partenón, un testimonio de la arquitectura clásica. Los visitantes deben asignar al menos 2-3 horas para explorar el sitio y disfrutar de impresionantes vistas de la ciudad. Se recomiendan visitas a primera hora de la mañana para evitar multitudes.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "Museo de la Acrópolis",
+          "type": "museum",
+          "description": "El Museo de la Acrópolis exhibe artefactos del sitio arqueológico de la Acrópolis, ofreciendo información sobre la historia de la antigua Grecia. Con su arquitectura moderna y exposiciones bien organizadas, el museo es una visita obligada. Planifica alrededor de 2 horas para apreciar completamente las colecciones. Visitar por la tarde permite una experiencia más tranquila.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "Barrio de Plaka",
+          "type": "district",
+          "description": "Plaka es uno de los barrios más antiguos de Atenas, conocido por sus encantadoras calles y su vibrante atmósfera. Los visitantes pueden pasear por callejones estrechos, disfrutar de la cocina local y comprar recuerdos. Es un excelente lugar para pasar una tarde tranquila, con muchos cafés y restaurantes por explorar.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "Templo de Zeus Olímpico",
+          "type": "temple",
+          "description": "El Templo de Zeus Olímpico, también conocido como el Olimpeion, es uno de los templos más grandes de la antigua Grecia. Aunque solo quedan algunas columnas, el sitio ofrece un vistazo a la grandeza de la arquitectura antigua. Una visita toma aproximadamente 1-2 horas, y es mejor ir por la mañana para evitar el calor.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "Museo Arqueológico Nacional",
+          "type": "museum",
+          "description": "Este museo alberga una de las colecciones más significativas de artefactos de la antigua Grecia en el mundo. Desde esculturas hasta cerámicas, cada pieza cuenta una historia de la rica historia de Grecia. Planea pasar al menos 2-3 horas explorando las amplias exposiciones. El museo está menos concurrido a última hora de la tarde.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "Mercado de Pulgas de Monastiraki",
+          "type": "market",
+          "description": "El Mercado de Pulgas de Monastiraki es un mercado vibrante lleno de una variedad de bienes, desde antigüedades hasta artesanías. Es un excelente lugar para experimentar la cultura local y encontrar recuerdos únicos. Visitar un domingo ofrece la oportunidad de explorar una mayor selección de vendedores, lo que lo convierte en una salida divertida.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "Monte Licabeto",
+          "type": "viewpoint",
+          "description": "El Monte Licabeto es el punto más alto de Atenas, ofreciendo impresionantes vistas panorámicas de la ciudad y la Acrópolis. Una caminata hasta la cima toma aproximadamente 30-45 minutos, o los visitantes pueden optar por un funicular. La puesta de sol es el mejor momento para visitar, proporcionando un fondo impresionante para fotos.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Tempat Menarik Teratas di Athena 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_description": "Jelajahi tempat wisata terbaik di Athena. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas Athena.",
+      "page_intro": "Athena, tempat lahir peradaban Barat, adalah kota yang hidup dengan sejarah dan budaya. Dari reruntuhan kuno hingga lingkungan yang ramai, Athena menawarkan perpaduan unik antara yang lama dan yang baru. Baik Anda sedang berjalan-jalan di Agora kuno atau menikmati makanan di Plaka, ada sesuatu untuk setiap pelancong di kota yang menarik ini.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "Akropolis Athena",
+          "type": "landmark",
+          "description": "Akropolis adalah sebuah benteng kuno yang terletak di atas batu karang di atas kota Athena. Ini adalah rumah bagi beberapa bangunan ikonik, termasuk Parthenon, sebuah bukti arsitektur klasik. Pengunjung harus mengalokasikan setidaknya 2-3 jam untuk menjelajahi situs ini dan menikmati pemandangan kota yang menakjubkan. Kunjungan pagi disarankan untuk menghindari keramaian.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "Museum Akropolis",
+          "type": "museum",
+          "description": "Museum Akropolis menampilkan artefak dari situs arkeologi Akropolis, memberikan wawasan tentang sejarah Yunani kuno. Dengan arsitektur modern dan pameran yang terkurasi dengan baik, museum ini adalah tempat yang harus dikunjungi. Rencanakan sekitar 2 jam untuk sepenuhnya menghargai koleksi. Mengunjungi pada sore hari memungkinkan pengalaman yang lebih tenang.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "Distrik Plaka",
+          "type": "district",
+          "description": "Plaka adalah salah satu lingkungan tertua di Athena, terkenal dengan jalan-jalan yang menawan dan suasana yang hidup. Pengunjung dapat berjalan-jalan melalui gang-gang sempit, menikmati masakan lokal, dan berbelanja suvenir. Ini adalah tempat yang bagus untuk menghabiskan sore yang santai, dengan banyak kafe dan restoran untuk dijelajahi.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "Kuil Zeus Olimpiade",
+          "type": "temple",
+          "description": "Kuil Zeus Olimpiade, juga dikenal sebagai Olimpeion, adalah salah satu kuil terbesar di Yunani kuno. Meskipun hanya beberapa kolom yang tersisa, situs ini memberikan gambaran tentang kemegahan arsitektur kuno. Kunjungan memakan waktu sekitar 1-2 jam, dan sebaiknya pergi di pagi hari untuk menghindari panas.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "Museum Arkeologi Nasional",
+          "type": "museum",
+          "description": "Museum ini menyimpan salah satu koleksi artefak Yunani kuno yang paling signifikan di dunia. Dari patung hingga tembikar, setiap benda menceritakan kisah sejarah kaya Yunani. Rencanakan untuk menghabiskan setidaknya 2-3 jam untuk sepenuhnya menjelajahi pameran yang luas. Museum ini kurang ramai pada sore hari.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "Pasar Antik Monastiraki",
+          "type": "market",
+          "description": "Pasar Antik Monastiraki adalah pasar yang ramai yang dipenuhi dengan berbagai barang, dari barang antik hingga kerajinan tangan. Ini adalah tempat yang bagus untuk merasakan budaya lokal dan menemukan suvenir yang unik. Mengunjungi pada hari Minggu memberikan kesempatan untuk menjelajahi lebih banyak penjual, menjadikannya outing yang menyenangkan.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "Bukit Likabettus",
+          "type": "viewpoint",
+          "description": "Bukit Likabettus adalah titik tertinggi di Athena, menawarkan pemandangan panorama yang menakjubkan dari kota dan Akropolis. Pendakian ke puncak memakan waktu sekitar 30-45 menit, atau pengunjung dapat memilih untuk naik kereta gantung. Saat matahari terbenam adalah waktu terbaik untuk mengunjungi, memberikan latar belakang yang menakjubkan untuk foto.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "एथेंस में शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण गाइड",
+      "seo_description": "एथेंस के सबसे अच्छे आकर्षणों का अन्वेषण करें। एथेंस के शीर्ष स्थलों के लिए उद्घाटन के घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "एथेंस, पश्चिमी सभ्यता का cradle, एक जीवंत शहर है जो इतिहास और संस्कृति में समृद्ध है। इसके प्राचीन खंडहरों से लेकर इसके हलचल भरे पड़ोस तक, एथेंस पुरानी और नई का अनूठा मिश्रण प्रदान करता है। चाहे आप प्राचीन अगोरा के माध्यम से घूम रहे हों या प्लाका में भोजन का आनंद ले रहे हों, इस आकर्षक शहर में हर यात्री के लिए कुछ न कुछ है।",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "एथेंस का एक्रोपोलिस",
+          "type": "landmark",
+          "description": "एक्रोपोलिस एक प्राचीन किला है जो एथेंस शहर के ऊपर एक चट्टानी चोटी पर स्थित है। यह कई प्रतिष्ठित संरचनाओं का घर है, जिसमें पार्थेनन भी शामिल है, जो शास्त्रीय वास्तुकला का प्रमाण है। आगंतुकों को साइट का अन्वेषण करने और शहर के अद्भुत दृश्य का आनंद लेने के लिए कम से कम 2-3 घंटे आवंटित करना चाहिए। भीड़ से बचने के लिए सुबह जल्दी की यात्रा की सिफारिश की जाती है।",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "एक्रोपोलिस संग्रहालय",
+          "type": "museum",
+          "description": "एक्रोपोलिस संग्रहालय प्राचीन ग्रीक इतिहास में अंतर्दृष्टि प्रदान करते हुए, एक्रोपोलिस पुरातात्विक स्थल से कलाकृतियों का प्रदर्शन करता है। इसकी आधुनिक वास्तुकला और अच्छी तरह से संकलित प्रदर्शनियों के साथ, यह संग्रहालय एक अवश्य देखने योग्य स्थान है। संग्रहणाओं को पूरी तरह से सराहने के लिए लगभग 2 घंटे की योजना बनाएं। दोपहर में यात्रा करना एक शांत अनुभव के लिए अनुमति देता है।",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "प्लाका जिला",
+          "type": "district",
+          "description": "प्लाका एथेंस के सबसे पुराने पड़ोस में से एक है, जो अपने आकर्षक सड़कों और जीवंत वातावरण के लिए जाना जाता है। आगंतुक संकीर्ण गलियों में घूम सकते हैं, स्थानीय व्यंजनों का आनंद ले सकते हैं, और उपहार खरीद सकते हैं। यह एक आरामदायक दोपहर बिताने के लिए एक शानदार स्थान है, जहाँ अन्वेषण के लिए बहुत सारे कैफे और रेस्तरां हैं।",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "ओलंपियन ज़ीउस का मंदिर",
+          "type": "temple",
+          "description": "ओलंपियन ज़ीउस का मंदिर, जिसे ओलंपियन भी कहा जाता है, प्राचीन ग्रीस के सबसे बड़े मंदिरों में से एक है। हालाँकि केवल कुछ स्तंभ ही बचे हैं, यह स्थल प्राचीन वास्तुकला की भव्यता की झलक प्रदान करता है। एक यात्रा में लगभग 1-2 घंटे लगते हैं, और गर्मी से बचने के लिए सुबह जाना सबसे अच्छा है।",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "राष्ट्रीय पुरातात्विक संग्रहालय",
+          "type": "museum",
+          "description": "यह संग्रहालय दुनिया में प्राचीन ग्रीक कलाकृतियों का सबसे महत्वपूर्ण संग्रह रखता है। मूर्तियों से लेकर बर्तन तक, प्रत्येक टुकड़ा ग्रीस के समृद्ध इतिहास की कहानी बताता है। व्यापक प्रदर्शनों का पूरी तरह से अन्वेषण करने के लिए कम से कम 2-3 घंटे बिताने की योजना बनाएं। संग्रहालय देर दोपहर में कम भीड़ वाला होता है।",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "मोनास्टिराकी फ्ली मार्केट",
+          "type": "market",
+          "description": "मोनास्टिराकी फ्ली मार्केट एक जीवंत बाजार है जिसमें प्राचीन वस्त्रों से लेकर हस्तनिर्मित शिल्प तक का एक विविधता है। यह स्थानीय संस्कृति का अनुभव करने और अद्वितीय उपहार खोजने के लिए एक शानदार स्थान है। रविवार को यात्रा करने से अधिक विक्रेताओं के चयन का अन्वेषण करने का मौका मिलता है, जिससे यह एक मजेदार आउटिंग बनता है।",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "लायकबेट्स हिल",
+          "type": "viewpoint",
+          "description": "लायकबेट्स हिल एथेंस का सबसे ऊँचा बिंदु है, जो शहर और एक्रोपोलिस के आश्चर्यजनक पैनोरमिक दृश्यों की पेशकश करता है। शीर्ष पर चढ़ाई करने में लगभग 30-45 मिनट लगते हैं, या आगंतुक एक फुंकुलर की सवारी चुन सकते हैं। सूर्यास्त यात्रा करने का सबसे अच्छा समय है, जो फोटोज के लिए एक अद्भुत पृष्ठभूमि प्रदान करता है।",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Atenas 2026 — Ingressos, Dicas & Guia Completo",
+      "seo_description": "Explore as melhores atrações em Atenas. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Atenas.",
+      "page_intro": "Atenas, o berço da civilização ocidental, é uma cidade vibrante repleta de história e cultura. Desde suas ruínas antigas até seus bairros movimentados, Atenas oferece uma mistura única de antigo e novo. Se você está passeando pela antiga Ágora ou desfrutando de uma refeição em Plaka, há algo para todos os viajantes nesta cidade fascinante.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "Acrópole de Atenas",
+          "type": "landmark",
+          "description": "A Acrópole é uma cidadela antiga localizada em uma elevação rochosa acima da cidade de Atenas. É lar de várias estruturas icônicas, incluindo o Partenon, um testemunho da arquitetura clássica. Os visitantes devem reservar pelo menos 2-3 horas para explorar o local e desfrutar de vistas deslumbrantes da cidade. Visitas pela manhã são recomendadas para evitar multidões.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "Museu da Acrópole",
+          "type": "museum",
+          "description": "O Museu da Acrópole exibe artefatos do sítio arqueológico da Acrópole, oferecendo insights sobre a história da Grécia antiga. Com sua arquitetura moderna e exposições bem organizadas, o museu é uma visita obrigatória. Planeje passar cerca de 2 horas para apreciar completamente as coleções. Visitar à tarde permite uma experiência mais tranquila.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "Distrito de Plaka",
+          "type": "district",
+          "description": "Plaka é um dos bairros mais antigos de Atenas, conhecido por suas ruas charmosas e atmosfera vibrante. Os visitantes podem passear por becos estreitos, desfrutar da culinária local e comprar souvenirs. É um ótimo lugar para passar uma tarde descontraída, com muitos cafés e restaurantes para explorar.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "Templo de Zeus Olímpico",
+          "type": "temple",
+          "description": "O Templo de Zeus Olímpico, também conhecido como Olímpia, é um dos maiores templos da Grécia antiga. Embora apenas algumas colunas permaneçam, o local oferece um vislumbre da grandiosidade da arquitetura antiga. Uma visita leva cerca de 1-2 horas, e é melhor ir de manhã para evitar o calor.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "Museu Arqueológico Nacional",
+          "type": "museum",
+          "description": "Este museu abriga uma das coleções mais significativas de artefatos da Grécia antiga do mundo. De esculturas a cerâmicas, cada peça conta uma história da rica história da Grécia. Planeje passar pelo menos 2-3 horas para explorar completamente as extensas exposições. O museu é menos lotado no final da tarde.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "Mercado de Pulgas de Monastiraki",
+          "type": "market",
+          "description": "O Mercado de Pulgas de Monastiraki é um mercado vibrante repleto de uma variedade de produtos, de antiguidades a artesanato feito à mão. É um ótimo lugar para experimentar a cultura local e encontrar souvenirs únicos. Visitar aos domingos oferece a chance de explorar uma seleção maior de vendedores, tornando-se uma saída divertida.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "Monte Licabeto",
+          "type": "viewpoint",
+          "description": "O Monte Licabeto é o ponto mais alto de Atenas, oferecendo vistas panorâmicas deslumbrantes da cidade e da Acrópole. Uma caminhada até o topo leva cerca de 30-45 minutos, ou os visitantes podem optar por um passeio de funicular. O pôr do sol é o melhor momento para visitar, proporcionando um cenário deslumbrante para fotos.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في أثينا 2026 - تذاكر، نصائح ودليل كامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في أثينا. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم السياحية في أثينا.",
+      "page_intro": "أثينا، مهد الحضارة الغربية، مدينة نابضة بالحياة مليئة بالتاريخ والثقافة. من أنقاضها القديمة إلى أحيائها النابضة بالحياة، تقدم أثينا مزيجًا فريدًا من القديم والحديث. سواء كنت تتجول في أغورا القديمة أو تستمتع بوجبة في بلاكا، هناك شيء لكل مسافر في هذه المدينة الرائعة.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "أكروبوليس أثينا",
+          "type": "landmark",
+          "description": "الأكروبوليس هو قلعة قديمة تقع على صخرة مرتفعة فوق مدينة أثينا. وهي موطن لعدة هياكل أيقونية، بما في ذلك البارثينون، شهادة على العمارة الكلاسيكية. يجب على الزوار تخصيص ساعتين إلى ثلاث ساعات لاستكشاف الموقع والاستمتاع بإطلالات رائعة على المدينة. يُوصى بالزيارات في الصباح لتجنب الحشود.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "متحف الأكروبوليس",
+          "type": "museum",
+          "description": "يعرض متحف الأكروبوليس القطع الأثرية من موقع الأكروبوليس الأثري، مما يوفر رؤى في تاريخ اليونان القديمة. مع هندسته المعمارية الحديثة ومعارضه المنسقة جيدًا، يعد المتحف وجهة لا بد من زيارتها. خطط لقضاء حوالي ساعتين للاستمتاع تمامًا بالمجموعات. زيارة بعد الظهر تتيح تجربة أكثر هدوءًا.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "منطقة بلاكا",
+          "type": "district",
+          "description": "بلاكا هي واحدة من أقدم الأحياء في أثينا، معروفة بشوارعها الساحرة وأجوائها الحيوية. يمكن للزوار التجول في الأزقة الضيقة، والاستمتاع بالمأكولات المحلية، والتسوق للهدايا التذكارية. إنها مكان رائع لقضاء فترة ما بعد الظهر بشكل مريح، مع العديد من المقاهي والمطاعم للاستكشاف.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "معبد زيوس الأولمبي",
+          "type": "temple",
+          "description": "معبد زيوس الأولمبي، المعروف أيضًا باسم الأوليمبيون، هو واحد من أكبر المعابد في اليونان القديمة. على الرغم من بقاء عدد قليل من الأعمدة، يوفر الموقع لمحة عن عظمة العمارة القديمة. تستغرق الزيارة حوالي ساعة إلى ساعتين، ومن الأفضل الذهاب في الصباح لتجنب الحرارة.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "المتحف الأثري الوطني",
+          "type": "museum",
+          "description": "يضم هذا المتحف واحدة من أكثر المجموعات أهمية من القطع الأثرية اليونانية القديمة في العالم. من التماثيل إلى الفخار، كل قطعة تحكي قصة تاريخ اليونان الغني. خطط لقضاء ساعتين إلى ثلاث ساعات لاستكشاف المعروضات الشاملة. المتحف أقل ازدحامًا في أواخر بعد الظهر.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "سوق موناستيراكي للخردة",
+          "type": "market",
+          "description": "سوق موناستيراكي للخردة هو سوق نابض مليء بمجموعة متنوعة من السلع، من التحف إلى الحرف اليدوية. إنه مكان رائع لتجربة الثقافة المحلية والعثور على هدايا تذكارية فريدة. توفر الزيارة يوم الأحد فرصة لاستكشاف مجموعة أكبر من البائعين، مما يجعلها نزهة ممتعة.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "تل ليكابيتوس",
+          "type": "viewpoint",
+          "description": "تل ليكابيتوس هو أعلى نقطة في أثينا، ويقدم إطلالات بانورامية مذهلة على المدينة والأكروبوليس. تستغرق رحلة المشي إلى القمة حوالي 30-45 دقيقة، أو يمكن للزوار اختيار ركوب التلفريك. غروب الشمس هو أفضل وقت للزيارة، مما يوفر خلفية رائعة للصور.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "এথেন্সের শীর্ষ আকর্ষণ 2026 — টিকেট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "এথেন্সের সেরা আকর্ষণগুলি অন্বেষণ করুন। এথেন্সের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "page_intro": "এথেন্স, পশ্চিমা সভ্যতার cradle, একটি প্রাণবন্ত শহর যা ইতিহাস এবং সংস্কৃতিতে সমৃদ্ধ। এর প্রাচীন ধ্বংসাবশেষ থেকে শুরু করে এর ব্যস্ত প্রতিবেশী এলাকার মধ্যে, এথেন্স পুরানো এবং নতুনের একটি অনন্য মিশ্রণ প্রদান করে। আপনি প্রাচীন আগোরা ঘুরে বেড়াচ্ছেন বা প্লাকায় খাবারের স্বাদ নিচ্ছেন, এই আকর্ষণীয় শহরে প্রতিটি ভ্রমণকারীর জন্য কিছু না কিছু রয়েছে।",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "এথেন্সের এক্রোপোলিস",
+          "type": "landmark",
+          "description": "এক্রোপোলিস একটি প্রাচীন দুর্গ যা এথেন্স শহরের উপরে একটি পাথুরে উঁচুতে অবস্থিত। এটি বেশ কয়েকটি প্রতীকী কাঠামোর আবাস, যার মধ্যে পার্থেনন রয়েছে, যা শাস্ত্রীয় স্থাপত্যের একটি নিদর্শন। দর্শকদের স্থানটি অন্বেষণ করতে এবং শহরের বিস্ময়কর দৃশ্য উপভোগ করতে কমপক্ষে 2-3 ঘণ্টা বরাদ্দ করা উচিত। ভিড় এড়াতে সকালে যাওয়ার সুপারিশ করা হয়।",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "এক্রোপোলিস যাদুঘর",
+          "type": "museum",
+          "description": "এক্রোপোলিস যাদুঘর প্রাচীন গ্রীক ইতিহাসের অন্তর্দৃষ্টি প্রদান করে, এক্রোপোলিস প্রত্নতাত্ত্বিক স্থান থেকে কালাকৃতি প্রদর্শন করে। এর আধুনিক স্থাপত্য এবং ভালভাবে সংগঠিত প্রদর্শনীর সাথে, এটি একটি অবশ্যই দেখার স্থান। সংগ্রহগুলি সম্পূর্ণরূপে মূল্যায়ন করতে প্রায় 2 ঘণ্টার পরিকল্পনা করুন। দুপুরে ভ্রমণ করা একটি শান্ত অভিজ্ঞতার জন্য অনুমতি দেয়।",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "প্লাকা জেলা",
+          "type": "district",
+          "description": "প্লাকা এথেন্সের সবচেয়ে পুরনো পাড়া, যার জন্য এটি আকর্ষণীয় রাস্তাঘাট এবং প্রাণবন্ত পরিবেশের জন্য পরিচিত। দর্শকরা সরু গলিগুলোতে হাঁটতে পারেন, স্থানীয় খাবারের স্বাদ নিতে পারেন এবং উপহার কিনতে পারেন। এটি একটি অবসর সময় কাটানোর জন্য একটি দুর্দান্ত স্থান, যেখানে অন্বেষণের জন্য প্রচুর ক্যাফে এবং রেস্তোরাঁ রয়েছে।",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "ওলিম্পিয়ান জিউসের মন্দির",
+          "type": "temple",
+          "description": "ওলিম্পিয়ান জিউসের মন্দির, যা অলিম্পিয়ন হিসাবেও পরিচিত, প্রাচীন গ্রীসে সবচেয়ে বড় মন্দিরগুলির মধ্যে একটি। যদিও মাত্র কয়েকটি স্তম্ভ অবশিষ্ট রয়েছে, স্থানটি প্রাচীন স্থাপত্যের মহিমার একটি ঝলক প্রদান করে। একটি সফরে প্রায় 1-2 ঘণ্টা সময় লাগে, এবং গরম থেকে কাবু না হতে সকালে যাওয়া সবচেয়ে ভাল।",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "জাতীয় প্রত্নতাত্ত্বিক যাদুঘর",
+          "type": "museum",
+          "description": "এই যাদুঘর বিশ্বের প্রাচীন গ্রীক কালাকৃতির সবচেয়ে গুরুত্বপূর্ণ সংগ্রহগুলির একটিকে ধারণ করে। মূর্তি থেকে শুরু করে মাটির পাত্র, প্রতিটি টুকরো গ্রীসের সমৃদ্ধ ইতিহাসের একটি গল্প বলে। বিস্তৃত প্রদর্শনগুলি সম্পূর্ণরূপে অন্বেষণ করতে অন্তত 2-3 ঘণ্টা সময় ব্যয় করার পরিকল্পনা করুন। যাদুঘরটি দেরী বিকালে কম ভিড় থাকে।",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "মোনাস্টিরাকি ফ্লি মার্কেট",
+          "type": "market",
+          "description": "মোনাস্টিরাকি ফ্লি মার্কেট একটি প্রাণবন্ত বাজার যা প্রাচীন জিনিসপত্র থেকে শুরু করে হাতে তৈরি শिल্প পর্যন্ত বিভিন্ন পণ্যে পূর্ণ। এটি স্থানীয় সংস্কৃতি অনুভব করতে এবং অনন্য উপহার খুঁজে পেতে একটি দুর্দান্ত স্থান। রবিবারে ভ্রমণ করা বড় বিক্রেতাদের নির্বাচন অন্বেষণের সুযোগ দেয়, এটিকে একটি মজার আউটিং করে তোলে।",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "লাইকাবেটাস হিল",
+          "type": "viewpoint",
+          "description": "লাইকাবেটাস হিল এথেন্সের সবচেয়ে উঁচু স্থান, যা শহর এবং এক্রোপোলিসের মনোমুগ্ধকর প্যানোরামিক দৃশ্য নিয়ে আসে। শীর্ষে উঠতে প্রায় 30-45 মিনিট সময় লাগে, অথবা দর্শকরা একটি ফানিকুলার রাইডের জন্য অপশন বেছে নিতে পারেন। সূর্যাস্ত ভ্রমণের জন্য সবচেয়ে ভাল সময়, যা ছবির জন্য একটি চমৎকার পটভূমি প্রদান করে।",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Топ достопримечательностей Афин 2026 — Билеты, советы и полный гид",
+      "seo_description": "Исследуйте лучшие достопримечательности Афин. Найдите часы работы, цены на билеты и ссылки для бронирования основных достопримечательностей Афин.",
+      "page_intro": "Афины, колыбель западной цивилизации, являются ярким городом, пропитанным историей и культурой. От древних руин до шумных районов, Афины предлагают уникальное сочетание старого и нового. Независимо от того, гуляете ли вы по древней Агоре или наслаждаетесь обедом в Плаке, в этом увлекательном городе есть что-то для каждого путешественника.",
+      "items": [
+        {
+          "id": "acropolis",
+          "name": "Акрополь Афин",
+          "type": "landmark",
+          "description": "Акрополь — это древняя цитадель, расположенная на скалистом утесе над городом Афины. Здесь находятся несколько знаковых сооружений, включая Парфенон, который является свидетельством классической архитектуры. Посетителям рекомендуется выделить не менее 2-3 часов для изучения этого места и наслаждения захватывающими видами на город. Рекомендуется посещение рано утром, чтобы избежать толп.",
+          "image_keyword": "Acropolis of Athens",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "morning",
+          "klook_query": "Acropolis tickets"
+        },
+        {
+          "id": "acropolis_museum",
+          "name": "Музей Акрополя",
+          "type": "museum",
+          "description": "Музей Акрополя демонстрирует артефакты с археологического сайта Акрополя, предлагая взглянуть на историю древней Греции. С современной архитектурой и хорошо организованными выставками этот музей обязательно стоит посетить. Запланируйте около 2 часов, чтобы полностью оценить коллекции. Посещение во второй половине дня позволяет насладиться более спокойной атмосферой.",
+          "image_keyword": "Acropolis Museum",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10",
+          "best_time": "afternoon",
+          "klook_query": "Acropolis Museum tickets"
+        },
+        {
+          "id": "plaka_district",
+          "name": "Район Плака",
+          "type": "district",
+          "description": "Плака — один из старейших районов Афин, известный своими очаровательными улицами и яркой атмосферой. Посетители могут прогуляться по узким улочкам, насладиться местной кухней и купить сувениры. Это отличное место, чтобы провести время в спокойной обстановке, с множеством кафе и ресторанов для исследования.",
+          "image_keyword": "Plaka District",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Plaka District tour"
+        },
+        {
+          "id": "temple_of_olympian_zeus",
+          "name": "Храм Зевса Олимпийского",
+          "type": "temple",
+          "description": "Храм Зевса Олимпийского, также известный как Олимпийон, является одним из крупнейших храмов древней Греции. Хотя осталось всего несколько колонн, это место дает представление о величии древней архитектуры. Посещение занимает около 1-2 часов, и лучше приходить утром, чтобы избежать жары.",
+          "image_keyword": "Temple of Olympian Zeus",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €6",
+          "best_time": "morning",
+          "klook_query": "Temple of Olympian Zeus tickets"
+        },
+        {
+          "id": "national_archaeological_museum",
+          "name": "Национальный археологический музей",
+          "type": "museum",
+          "description": "Этот музей хранит одну из самых значительных коллекций древнегреческих артефактов в мире. От скульптур до керамики, каждый экспонат рассказывает историю богатой истории Греции. Запланируйте провести не менее 2-3 часов, чтобы полностью изучить обширные выставки. В музее меньше людей в поздний послеобеденный час.",
+          "image_keyword": "National Archaeological Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "afternoon",
+          "klook_query": "National Archaeological Museum tickets"
+        },
+        {
+          "id": "monastiraki_flea_market",
+          "name": "Блошиный рынок Монастираки",
+          "type": "market",
+          "description": "Блошиный рынок Монастираки — это яркий рынок, наполненный разнообразными товарами, от антиквариата до изделий ручной работы. Это отличное место, чтобы познакомиться с местной культурой и найти уникальные сувениры. Посещение в воскресенье дает возможность исследовать более широкий выбор продавцов, что делает его веселым выездом.",
+          "image_keyword": "Monastiraki Flea Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Monastiraki Flea Market tour"
+        },
+        {
+          "id": "lycabettus_hill",
+          "name": "Холм Ликавитос",
+          "type": "viewpoint",
+          "description": "Холм Ликавитос — это самая высокая точка Афин, предлагающая потрясающие панорамные виды на город и Акрополь. Подъем на вершину занимает около 30-45 минут, или посетители могут выбрать поездку на фуникулере. Закат — лучшее время для посещения, обеспечивая захватывающий фон для фотографий.",
+          "image_keyword": "Lycabettus Hill",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €10 for funicular",
+          "best_time": "evening",
+          "klook_query": "Lycabettus Hill funicular tickets"
+        }
+      ]
+    }
+  }
+}

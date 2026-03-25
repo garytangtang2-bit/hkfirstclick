@@ -1,0 +1,1013 @@
+{
+  "city_slug": "nice",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Nice 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Nice. From budget eats to fine dining — with booking links.",
+      "page_intro": "Nice is a culinary haven blending French and Mediterranean influences. Its vibrant food scene ranges from charming street markets to upscale dining establishments. Indulge in local specialties like Socca and Salade Niçoise while savoring the stunning coastal views.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "Le Chantecler",
+          "type": "restaurant",
+          "description": "Le Chantecler, located in the iconic Negresco Hotel, offers a fine dining experience with a focus on seasonal and regional ingredients. The elegant atmosphere is perfect for a special occasion. Be sure to try their signature dish, the truffle risotto. Prices range from $$$ to $$$$.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "Café de Colletes",
+          "type": "cafe",
+          "description": "Café de Colletes is a charming café known for its delightful pastries and coffee. The cozy atmosphere makes it a perfect spot for a relaxing break. Don't miss their famous Tarte Tropézienne, a sweet brioche filled with cream. Prices are budget-friendly, around $.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "Marché Sainte-Rosalie",
+          "type": "night_market",
+          "description": "Marché Sainte-Rosalie is a vibrant night market where locals gather to enjoy a variety of street food. Sample fresh seafood, grilled meats, and local cheeses while soaking up the lively atmosphere. Prices range from $ to $$, making it a great spot for budget travelers.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "La Pizzeria",
+          "type": "restaurant",
+          "description": "La Pizzeria is renowned for its authentic Italian pizzas made from fresh, high-quality ingredients. The casual atmosphere and friendly staff make it a favorite among locals. Try their Margherita Pizza for a classic taste. Prices range from $$ to $$$.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "La Boulangerie",
+          "type": "cafe",
+          "description": "La Boulangerie is a traditional bakery offering a wide range of freshly baked goods. The atmosphere is warm and inviting, making it a perfect place to enjoy a pastry with a cup of coffee. Try their Pain au Chocolat for a delightful treat. Prices are around $.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "Cours Saleya Market",
+          "type": "street_food",
+          "description": "Cours Saleya Market is a must-visit for food lovers. This vibrant market features fresh produce, flowers, and local delicacies. Sample the famous Salade Niçoise or grab a bite of Socca from one of the street vendors. Prices are budget-friendly, ranging from $ to $$.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "Bistro de la Cuisine",
+          "type": "restaurant",
+          "description": "Bistro de la Cuisine offers a cozy dining experience with a menu featuring traditional French cuisine. The rustic decor adds to the charm, making it a great place for a casual meal. Be sure to try their Beef Bourguignon. Prices range from $$ to $$$.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "尼斯最佳美食 2026 — 顶级餐厅与街头美食指南",
+      "seo_description": "探索尼斯最好的餐厅、街头美食和当地特色。从预算餐饮到高档餐厅 — 包括预订链接。",
+      "page_intro": "尼斯是一个融合法国和地中海影响的美食天堂。其充满活力的美食场景从迷人的街市到高档餐厅应有尽有。在享受壮观的海岸景色时，尽情品尝当地特色菜肴，如Socca和Salade Niçoise。",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "Le Chantecler",
+          "type": "restaurant",
+          "description": "Le Chantecler位于标志性的Negresco酒店内，提供注重季节性和地方食材的高档用餐体验。优雅的氛围非常适合特殊场合。一定要尝试他们的招牌菜，松露意大利调味饭。价格范围为 $$$ 至 $$$$。",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "Café de Colletes",
+          "type": "cafe",
+          "description": "Café de Colletes是一家迷人的咖啡馆，以其美味的糕点和咖啡而闻名。舒适的氛围使其成为放松休息的完美地点。不要错过他们著名的Tarte Tropézienne，一种装满奶油的甜面包。价格亲民，约为 $。",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "Marché Sainte-Rosalie",
+          "type": "night_market",
+          "description": "Marché Sainte-Rosalie是一个充满活力的夜市，当地人聚集在这里享受各种街头美食。在热闹的氛围中品尝新鲜的海鲜、烤肉和当地奶酪。价格范围为 $ 至 $$，非常适合预算旅行者。",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "La Pizzeria",
+          "type": "restaurant",
+          "description": "La Pizzeria以其用新鲜高质量食材制作的正宗意大利披萨而闻名。休闲的氛围和友好的工作人员使其成为当地人的最爱。尝试他们的玛格丽塔披萨，体验经典口味。价格范围为 $$ 至 $$$。",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "La Boulangerie",
+          "type": "cafe",
+          "description": "La Boulangerie是一家传统面包店，提供各种新鲜出炉的美食。温暖而宜人的氛围使其成为享用糕点和咖啡的完美场所。尝试他们的Pain au Chocolat作为美味的款待。价格约为 $。",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "Cours Saleya Market",
+          "type": "street_food",
+          "description": "Cours Saleya Market是美食爱好者不可错过的地方。这个充满活力的市场提供新鲜的农产品、花卉和地方美食。品尝著名的Salade Niçoise或从街头小贩那里购买Socca。价格亲民，范围为 $ 至 $$。",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "Bistro de la Cuisine",
+          "type": "restaurant",
+          "description": "Bistro de la Cuisine提供温馨的用餐体验，菜单以传统法餐为主。乡村风格的装饰增添了魅力，使其成为享用休闲餐的好地方。一定要尝试他们的牛肉布根地。价格范围为 $$ 至 $$$。",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "ニースのベストフード 2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "ニースの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に応じた食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "ニースは、フランスと地中海の影響を融合させた料理の楽園です。その活気ある食文化は、魅力的なストリートマーケットから高級レストランまで多岐にわたります。美しい海岸の景色を楽しみながら、SoccaやSalade Niçoiseのような地元の特産品を堪能してください。",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "ル・シャントクレール",
+          "type": "restaurant",
+          "description": "ル・シャントクレールは、象徴的なネグレスコホテルに位置し、季節ごとの地域の食材に重点を置いた高級ダイニング体験を提供しています。エレガントな雰囲気は特別な occasion にぴったりです。トリュフリゾットなどのシグネチャーディッシュをお試しください。価格は $$$ から $$$$ の範囲です。",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "カフェ・ド・コレット",
+          "type": "cafe",
+          "description": "カフェ・ド・コレットは、魅力的なカフェで、美味しいペストリーとコーヒーで知られています。居心地の良い雰囲気は、リラックスした休憩に最適なスポットです。クリームが詰まったスイートブリオッシュのTarte Tropézienneをお見逃しなく。価格はお手頃で、約 $ です。",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "マルシェ・サントロザリー",
+          "type": "night_market",
+          "description": "マルシェ・サントロザリーは、地元の人々がさまざまなストリートフードを楽しむ活気あるナイトマーケットです。新鮮な海産物、グリル肉、地元のチーズを味わいながら、賑やかな雰囲気を楽しんでください。価格は $ から $$ の範囲で、予算旅行者に最適なスポットです。",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "ラ・ピッツェリア",
+          "type": "restaurant",
+          "description": "ラ・ピッツェリアは、新鮮で高品質な食材から作られた本格的なイタリアンピザで知られています。カジュアルな雰囲気とフレンドリーなスタッフが地元の人々に人気です。クラシックな味を楽しむために、マルゲリータピザを試してみてください。価格は $$ から $$$ の範囲です。",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "ラ・ブーランジェリー",
+          "type": "cafe",
+          "description": "ラ・ブーランジェリーは、さまざまな新鮮な焼きたてのパンを提供する伝統的なベーカリーです。温かく迎え入れてくれる雰囲気は、コーヒーと一緒にペストリーを楽しむのに最適な場所です。Pain au Chocolatを試して、素敵な treats を楽しんでください。価格は約 $ です。",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "クール・サレヤ市場",
+          "type": "street_food",
+          "description": "クール・サレヤ市場は、食べ物愛好家必見のスポットです。この活気ある市場では、新鮮な農産物、花、地元の珍味が揃っています。著名なSalade Niçoiseを味わったり、ストリートベンダーからSoccaを食べたりしてください。価格はお手頃で、$ から $$ の範囲です。",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "ビストロ・ド・ラ・キュイジーヌ",
+          "type": "restaurant",
+          "description": "ビストロ・ド・ラ・キュイジーヌは、伝統的なフランス料理を提供する居心地の良いダイニング体験を提供します。素朴な装飾が魅力を加え、カジュアルな食事に最適な場所となります。ビーフ・ブルギニョンをぜひお試しください。価格は $$ から $$$ の範囲です。",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "니스 최고의 음식 2026 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "니스의 최고의 레스토랑, 스트리트 푸드 및 현지 특산물을 발견하세요. 예산에 맞는 식사부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "니스는 프랑스와 지중해의 영향을 혼합한 요리의 천국입니다. 매력적인 거리 시장부터 고급 레스토랑까지 다양한 음식 문화가 있습니다. 아름다운 해안 풍경을 감상하면서 Socca와 Salade Niçoise와 같은 현지 특산물을 즐겨보세요.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "르 샹틀레르",
+          "type": "restaurant",
+          "description": "르 샹틀레르는 상징적인 네그레스코 호텔에 위치해 있으며, 계절 및 지역 재료에 중점을 둔 고급 다이닝 경험을 제공합니다. 우아한 분위기는 특별한 경우에 적합합니다. 그들의 시그니처 요리인 트러플 리조또를 꼭 시도해 보세요. 가격은 $$$에서 $$$$입니다.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "카페 드 콜렛",
+          "type": "cafe",
+          "description": "카페 드 콜렛은 맛있는 페이스트리와 커피로 유명한 매력적인 카페입니다. 아늑한 분위기는 편안한 휴식을 취하기에 완벽한 장소입니다. 크림이 가득한 달콤한 브리오슈인 Tarte Tropézienne을 놓치지 마세요. 가격은 약 $로 예산 친화적입니다.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "마르쉐 생로살리",
+          "type": "night_market",
+          "description": "마르쉐 생로살리는 현지 사람들이 다양한 스트리트 푸드를 즐기기 위해 모이는 활기찬 야시장이에요. 활기찬 분위기를 느끼며 신선한 해산물, 구운 고기 및 현지 치즈를 샘플링해 보세요. 가격은 $에서 $$의 범위로 예산 여행자에게 좋습니다.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "라 피제리아",
+          "type": "restaurant",
+          "description": "라 피제리아는 신선하고 고품질 재료로 만든 정통 이탈리아 피자로 유명합니다. 캐주얼한 분위기와 친절한 직원들이 있어 현지인들에게 인기가 많습니다. 클래식한 맛을 위해 마르게리타 피자를 시도해 보세요. 가격은 $$에서 $$$입니다.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "라 블랑제리",
+          "type": "cafe",
+          "description": "라 블랑제리는 다양한 신선하게 구운 제품을 제공하는 전통적인 제과점입니다. 따뜻하고 초대하는 분위기는 커피와 함께 페이스트리를 즐기기에 완벽한 장소입니다. 맛있는 간식으로 Pain au Chocolat을 드셔보세요. 가격은 약 $입니다.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "쿠르 살레야 시장",
+          "type": "street_food",
+          "description": "쿠르 살레야 시장은 음식 애호가라면 꼭 방문해야 할 곳입니다. 이 활기찬 시장은 신선한 농산물, 꽃 및 지역 별미를 제공합니다. 유명한 Salade Niçoise를 샘플링하거나 거리 상인에게서 Socca를 사 드세요. 가격은 $에서 $$의 범위로 예산 친화적입니다.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "비스트로 드 라 키친",
+          "type": "restaurant",
+          "description": "비스트로 드 라 키친은 전통 프랑스 요리가 포함된 아늑한 다이닝 경험을 제공합니다. 소박한 장식이 매력을 더해주어 캐주얼한 식사에 적합한 장소입니다. 비프 부르기뇽을 꼭 드셔보세요. 가격은 $$에서 $$$입니다.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Nice 2026 — Meilleurs restaurants & guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Nice. Des repas à petit budget à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "Nice est un paradis culinaire alliant influences françaises et méditerranéennes. Sa scène gastronomique dynamique va des charmants marchés de rue aux établissements de restauration haut de gamme. Régalez-vous avec des spécialités locales comme la Socca et la Salade Niçoise tout en savourant les superbes vues côtières.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "Le Chantecler",
+          "type": "restaurant",
+          "description": "Le Chantecler, situé dans l'emblématique hôtel Negresco, offre une expérience de restauration haut de gamme axée sur des ingrédients de saison et régionaux. L'atmosphère élégante est parfaite pour une occasion spéciale. N'oubliez pas d'essayer leur plat signature, le risotto aux truffes. Les prix varient de $$$ à $$$$.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "Café de Colletes",
+          "type": "cafe",
+          "description": "Le Café de Colletes est un charmant café connu pour ses délicieuses pâtisseries et son café. L'atmosphère chaleureuse en fait un endroit parfait pour une pause relaxante. Ne manquez pas leur célèbre Tarte Tropézienne, une brioche sucrée remplie de crème. Les prix sont abordables, autour de $.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "Marché Sainte-Rosalie",
+          "type": "night_market",
+          "description": "Le Marché Sainte-Rosalie est un marché nocturne animé où les habitants se réunissent pour déguster une variété de street food. Goûtez des fruits de mer frais, des viandes grillées et des fromages locaux tout en profitant de l'atmosphère animée. Les prix varient de $ à $$, ce qui en fait un excellent endroit pour les voyageurs à petit budget.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "La Pizzeria",
+          "type": "restaurant",
+          "description": "La Pizzeria est réputée pour ses pizzas italiennes authentiques préparées avec des ingrédients frais et de haute qualité. L'atmosphère décontractée et le personnel amical en font un lieu prisé des habitants. Essayez leur pizza Margherita pour un goût classique. Les prix varient de $$ à $$$.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "La Boulangerie",
+          "type": "cafe",
+          "description": "La Boulangerie est une boulangerie traditionnelle offrant une large gamme de produits fraîchement cuits. L'atmosphère chaleureuse et accueillante en fait un endroit parfait pour déguster une pâtisserie avec une tasse de café. Essayez leur Pain au Chocolat pour une délicieuse friandise. Les prix sont d'environ $.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "Cours Saleya Market",
+          "type": "street_food",
+          "description": "Le Cours Saleya Market est un incontournable pour les amateurs de gastronomie. Ce marché dynamique propose des produits frais, des fleurs et des spécialités locales. Goûtez la célèbre Salade Niçoise ou dégustez une Socca chez l'un des vendeurs de rue. Les prix sont abordables, allant de $ à $$.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "Bistro de la Cuisine",
+          "type": "restaurant",
+          "description": "Le Bistro de la Cuisine offre une expérience de restauration conviviale avec un menu mettant en avant la cuisine française traditionnelle. La décoration rustique ajoute au charme, en faisant un endroit idéal pour un repas décontracté. N'oubliez pas d'essayer leur Boeuf Bourguignon. Les prix varient de $$ à $$$.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Niza 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Niza. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Niza es un paraíso culinario que mezcla influencias francesas y mediterráneas. Su vibrante escena gastronómica abarca desde encantadores mercados callejeros hasta establecimientos de alta cocina. Deléitate con especialidades locales como Socca y Salade Niçoise mientras disfrutas de las impresionantes vistas costeras.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "Le Chantecler",
+          "type": "restaurant",
+          "description": "Le Chantecler, ubicado en el icónico hotel Negresco, ofrece una experiencia de alta cocina centrada en ingredientes de temporada y regionales. La atmósfera elegante es perfecta para una ocasión especial. Asegúrate de probar su plato insignia, el risotto de trufa. Los precios oscilan entre $$$ y $$$$.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "Café de Colletes",
+          "type": "cafe",
+          "description": "Café de Colletes es un encantador café conocido por sus deliciosos pasteles y café. La atmósfera acogedora lo convierte en un lugar perfecto para un descanso relajante. No te pierdas su famosa Tarte Tropézienne, un brioche dulce relleno de crema. Los precios son económicos, alrededor de $.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "Marché Sainte-Rosalie",
+          "type": "night_market",
+          "description": "Marché Sainte-Rosalie es un animado mercado nocturno donde los lugareños se reúnen para disfrutar de una variedad de comida callejera. Prueba mariscos frescos, carnes a la parrilla y quesos locales mientras disfrutas de la animada atmósfera. Los precios oscilan entre $ y $$, lo que lo convierte en un gran lugar para viajeros con presupuesto.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "La Pizzería",
+          "type": "restaurant",
+          "description": "La Pizzería es famosa por sus auténticas pizzas italianas elaboradas con ingredientes frescos y de alta calidad. La atmósfera casual y el personal amable la convierten en un lugar favorito entre los lugareños. Prueba su pizza Margherita para un sabor clásico. Los precios oscilan entre $$ y $$$.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "La Panadería",
+          "type": "cafe",
+          "description": "La Panadería es una panadería tradicional que ofrece una amplia gama de productos recién horneados. La atmósfera cálida y acogedora la convierte en un lugar perfecto para disfrutar de un pastelito con una taza de café. Prueba su Pain au Chocolat para un delicioso capricho. Los precios son de alrededor de $.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "Mercado de Cours Saleya",
+          "type": "street_food",
+          "description": "El Mercado de Cours Saleya es una visita obligada para los amantes de la comida. Este vibrante mercado cuenta con productos frescos, flores y delicadezas locales. Prueba la famosa Salade Niçoise o disfruta de una Socca de uno de los vendedores callejeros. Los precios son económicos, que oscilan entre $ y $$.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "Bistró de la Cocina",
+          "type": "restaurant",
+          "description": "Bistró de la Cocina ofrece una experiencia gastronómica acogedora con un menú que presenta la cocina francesa tradicional. La decoración rústica añade al encanto, lo que lo convierte en un gran lugar para una comida informal. Asegúrate de probar su Beef Bourguignon. Los precios oscilan entre $$ y $$$.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Nice 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Nice. From budget eats to fine dining — with booking links.",
+      "page_intro": "Nice is a culinary haven blending French and Mediterranean influences. Its vibrant food scene ranges from charming street markets to upscale dining establishments. Indulge in local specialties like Socca and Salade Niçoise while savoring the stunning coastal views.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "Le Chantecler",
+          "type": "restaurant",
+          "description": "Le Chantecler, located in the iconic Negresco Hotel, offers a fine dining experience with a focus on seasonal and regional ingredients. The elegant atmosphere is perfect for a special occasion. Be sure to try their signature dish, the truffle risotto. Prices range from $$$ to $$$$.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "Café de Colletes",
+          "type": "cafe",
+          "description": "Café de Colletes is a charming café known for its delightful pastries and coffee. The cozy atmosphere makes it a perfect spot for a relaxing break. Don't miss their famous Tarte Tropézienne, a sweet brioche filled with cream. Prices are budget-friendly, around $.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "Marché Sainte-Rosalie",
+          "type": "night_market",
+          "description": "Marché Sainte-Rosalie is a vibrant night market where locals gather to enjoy a variety of street food. Sample fresh seafood, grilled meats, and local cheeses while soaking up the lively atmosphere. Prices range from $ to $$, making it a great spot for budget travelers.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "La Pizzeria",
+          "type": "restaurant",
+          "description": "La Pizzeria is renowned for its authentic Italian pizzas made from fresh, high-quality ingredients. The casual atmosphere and friendly staff make it a favorite among locals. Try their Margherita Pizza for a classic taste. Prices range from $$ to $$$.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "La Boulangerie",
+          "type": "cafe",
+          "description": "La Boulangerie is a traditional bakery offering a wide range of freshly baked goods. The atmosphere is warm and inviting, making it a perfect place to enjoy a pastry with a cup of coffee. Try their Pain au Chocolat for a delightful treat. Prices are around $.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "Cours Saleya Market",
+          "type": "street_food",
+          "description": "Cours Saleya Market is a must-visit for food lovers. This vibrant market features fresh produce, flowers, and local delicacies. Sample the famous Salade Niçoise or grab a bite of Socca from one of the street vendors. Prices are budget-friendly, ranging from $ to $$.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "Bistro de la Cuisine",
+          "type": "restaurant",
+          "description": "Bistro de la Cuisine offers a cozy dining experience with a menu featuring traditional French cuisine. The rustic decor adds to the charm, making it a great place for a casual meal. Be sure to try their Beef Bourguignon. Prices range from $$ to $$$.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "नीस में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फ़ूड गाइड",
+      "seo_description": "नीस में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फ़ूड और स्थानीय विशेषताओं की खोज करें। बजट से लेकर उच्च वर्ग के भोजन तक - बुकिंग लिंक के साथ।",
+      "page_intro": "नीस एक पाक स्वर्ग है जो फ्रेंच और भूमध्यसागरीय प्रभावों को मिलाता है। इसका जीवंत खाद्य दृश्य आकर्षक स्ट्रीट मार्केट से लेकर उच्च श्रेणी के खाने की जगहों तक फैला हुआ है। स्थानीय विशेषताओं जैसे सोका और सलाद निसोइज़ का आनंद लें और शानदार तटीय दृश्यों का आनंद लें।",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "ले चांटेक्लेर",
+          "type": "restaurant",
+          "description": "ले चांटेक्लेर, प्रतिष्ठित नेग्रेस्को होटल में स्थित, मौसमी और क्षेत्रीय सामग्री पर ध्यान केंद्रित करते हुए एक उच्च श्रेणी के भोजन का अनुभव प्रदान करता है। शानदार माहौल विशेष अवसर के लिए एकदम सही है। उनके विशेष व्यंजन, ट्रफल रिसोट्टो को अवश्य आजमाएं। कीमतें $$$ से $$$$ तक हैं।",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "कैफे डे कोलेट्स",
+          "type": "cafe",
+          "description": "कैफे डे कोलेट्स एक आकर्षक कैफे है जो अपने सुखद पेस्ट्री और कॉफी के लिए जाना जाता है। आरामदायक माहौल इसे आराम करने के लिए एक बेहतरीन स्थान बनाता है। उनके प्रसिद्ध टार्ट ट्रोपेज़ियन को न चूकें, जो क्रीम से भरी मीठी ब्रीयोच है। कीमतें बजट के अनुकूल हैं, लगभग $।",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "मार्चे सेंट-रोसालिया",
+          "type": "night_market",
+          "description": "मार्चे सेंट-रोसालिया एक जीवंत रात का बाजार है जहां स्थानीय लोग विभिन्न स्ट्रीट फ़ूड का आनंद लेने के लिए इकट्ठा होते हैं। ताजा समुद्री भोजन, ग्रिल्ड मीट और स्थानीय चीज़ों का नमूना लें जबकि जीवंत माहौल का आनंद लें। कीमतें $ से $$ तक हैं, जो बजट यात्रा करने वालों के लिए एक बेहतरीन स्थान बनाता है।",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "ला पिज़्ज़ेरिया",
+          "type": "restaurant",
+          "description": "ला पिज़्ज़ेरिया अपने ताज़ा, उच्च गुणवत्ता वाली सामग्री से बनी प्रामाणिक इटालियन पिज़्ज़ा के लिए प्रसिद्ध है। अनौपचारिक माहौल और मित्रवत कर्मचारी इसे स्थानीय लोगों के बीच पसंदीदा बनाते हैं। क्लासिक स्वाद के लिए उनकी मार्गेरिटा पिज़्ज़ा को आजमाएं। कीमतें $$ से $$$ तक हैं।",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "ला बौलेंगर",
+          "type": "cafe",
+          "description": "ला बौलेंगर एक पारंपरिक बेकरी है जो ताजे बेक किए गए सामान की विस्तृत श्रृंखला पेश करती है। माहौल गर्म और आमंत्रित है, जो इसे एक कप कॉफी के साथ पेस्ट्री का आनंद लेने के लिए एकदम सही जगह बनाता है। उनके पेन ऑ चॉकलेट को एक सुखद अनुभव के लिए आजमाएं। कीमतें लगभग $ हैं।",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "कोर्स सालेया मार्केट",
+          "type": "street_food",
+          "description": "कोर्स सालेया मार्केट खाद्य प्रेमियों के लिए एक अवश्य देखना चाहिए। यह जीवंत बाजार ताजे उत्पाद, फूल और स्थानीय विशेषताओं की विशेषता रखता है। प्रसिद्ध सलाद निसोइज़ का नमूना लें या स्ट्रीट विक्रेताओं में से किसी से सोका का एक टुकड़ा लें। कीमतें बजट के अनुकूल हैं, $ से $$ तक।",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "बिस्टरो डे ला क्यूज़ीन",
+          "type": "restaurant",
+          "description": "बिस्टरो डे ला क्यूज़ीन एक आरामदायक खाने का अनुभव प्रदान करता है जिसमें पारंपरिक फ्रेंच भोजन का मेनू है। देहाती सजावट आकर्षण को बढ़ाती है, जिससे यह एक साधारण भोजन के लिए एक बेहतरीन स्थान बनता है। उनके बीफ बर्गुइग्नन को अवश्य आजमाएं। कीमतें $$ से $$$ तक हैं।",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Nice 2026 - Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Nice. Desde refeições econômicas até alta gastronomia - com links de reserva.",
+      "page_intro": "Nice é um paraíso culinário que mistura influências francesas e mediterrâneas. Sua vibrante cena gastronômica vai de encantadores mercados de rua a estabelecimentos de alta gastronomia. Delicie-se com especialidades locais como Socca e Salade Niçoise enquanto aprecia as deslumbrantes vistas costeiras.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "Le Chantecler",
+          "type": "restaurant",
+          "description": "Le Chantecler, localizado no icônico Hotel Negresco, oferece uma experiência gastronômica requintada com foco em ingredientes sazonais e regionais. A atmosfera elegante é perfeita para uma ocasião especial. Não deixe de experimentar o prato assinado deles, o risoto de trufas. Os preços variam de $$$ a $$$$.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "Café de Colletes",
+          "type": "cafe",
+          "description": "Café de Colletes é um café encantador conhecido por seus deliciosos doces e café. A atmosfera aconchegante o torna um local perfeito para uma pausa relaxante. Não perca a famosa Tarte Tropézienne, um brioche doce recheado com creme. Os preços são acessíveis, em torno de $.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "Marché Sainte-Rosalie",
+          "type": "night_market",
+          "description": "Marché Sainte-Rosalie é um vibrante mercado noturno onde os locais se reúnem para desfrutar de uma variedade de comida de rua. Experimente frutos do mar frescos, carnes grelhadas e queijos locais enquanto absorve a atmosfera animada. Os preços variam de $ a $$, tornando-o um ótimo lugar para viajantes com orçamento limitado.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "La Pizzeria",
+          "type": "restaurant",
+          "description": "La Pizzeria é famosa por suas autênticas pizzas italianas feitas com ingredientes frescos e de alta qualidade. A atmosfera casual e a equipe amigável fazem dela uma favorita entre os locais. Experimente a Pizza Margherita para um sabor clássico. Os preços variam de $$ a $$$.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "La Boulangerie",
+          "type": "cafe",
+          "description": "La Boulangerie é uma padaria tradicional que oferece uma ampla gama de produtos recém-assados. A atmosfera é calorosa e convidativa, tornando-o um lugar perfeito para desfrutar de um doce com uma xícara de café. Experimente o Pain au Chocolat para uma deliciosa iguaria. Os preços estão em torno de $.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "Cours Saleya Market",
+          "type": "street_food",
+          "description": "Cours Saleya Market é uma visita obrigatória para os amantes da comida. Este mercado vibrante apresenta produtos frescos, flores e delícias locais. Experimente a famosa Salade Niçoise ou pegue um pedaço de Socca de um dos vendedores de rua. Os preços são acessíveis, variando de $ a $$.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "Bistro de la Cuisine",
+          "type": "restaurant",
+          "description": "Bistro de la Cuisine oferece uma experiência de jantar aconchegante com um menu que apresenta a culinária francesa tradicional. A decoração rústica acrescenta ao charme, tornando-o um ótimo lugar para uma refeição casual. Não deixe de experimentar o Beef Bourguignon. Os preços variam de $$ a $$$.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في نيس 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والتخصصات المحلية في نيس. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "page_intro": "تعتبر نيس جنة للطهي تمزج بين التأثيرات الفرنسية والمتوسطية. تتنوع مشهد الطعام النابض بالحياة من الأسواق الشارعية الساحرة إلى المؤسسات الراقية. انغمس في التخصصات المحلية مثل Socca و Salade Niçoise بينما تستمتع بالإطلالات الساحلية الخلابة.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "لو شانتكلير",
+          "type": "restaurant",
+          "description": "لو شانتكلير، الواقع في فندق نيجريسكو الأيقوني، يقدم تجربة طعام راقية مع التركيز على المكونات الموسمية والمحلية. الجو الأنيق مثالي لمناسبة خاصة. تأكد من تجربة طبقهم المميز، ريزوتو الكمأ. تتراوح الأسعار من $$$ إلى $$$$.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "كافيه دي كوليتس",
+          "type": "cafe",
+          "description": "كافيه دي كوليتس هو مقهى ساحر معروف بمعجناته اللذيذة وقهوته. يجعل الجو المريح منه مكانًا مثاليًا لاستراحة مريحة. لا تفوت تارت تروبيزيان الشهيرة، وهي بريوش حلو محشو بالكريمة. الأسعار مناسبة للميزانية، حوالي $.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "مارشي سانت روزالي",
+          "type": "night_market",
+          "description": "مارشي سانت روزالي هو سوق ليلي نابض حيث يجتمع السكان المحليون للاستمتاع بمجموعة متنوعة من الطعام الشارعي. تذوق المأكولات البحرية الطازجة واللحوم المشوية والأجبان المحلية أثناء الاستمتاع بالأجواء الحيوية. تتراوح الأسعار من $ إلى $$، مما يجعله مكانًا رائعًا للمسافرين ذوي الميزانية المحدودة.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "لا بيتزا",
+          "type": "restaurant",
+          "description": "لا بيتزا مشهورة ببيتزاها الإيطالية الأصيلة المصنوعة من مكونات طازجة وعالية الجودة. يجعل الجو غير الرسمي والموظفون الودودون منها مفضلة بين السكان المحليين. جرب بيتزا مارغريتا لتجربة طعم كلاسيكية. تتراوح الأسعار من $$ إلى $$$.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "لا بولانجيري",
+          "type": "cafe",
+          "description": "لا بولانجيري هي مخبز تقليدي يقدم مجموعة واسعة من المنتجات المخبوزة حديثًا. الجو دافئ وترحيبي، مما يجعلها مكانًا مثاليًا للاستمتاع بمعجنات مع فنجان من القهوة. جرب Pain au Chocolat كعلاج لذيذ. الأسعار حوالي $.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "سوق كور ساليا",
+          "type": "street_food",
+          "description": "سوق كور ساليا يجب زيارته لعشاق الطعام. يتميز هذا السوق النابض بالحياة بالمنتجات الطازجة والزهور والتخصصات المحلية. تذوق السلطة نيسواز الشهيرة أو احصل على قطعة من Socca من أحد البائعين في الشارع. الأسعار مناسبة للميزانية، تتراوح من $ إلى $$.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "بيسترو دي لا كوزين",
+          "type": "restaurant",
+          "description": "يقدم بيسترو دي لا كوزين تجربة طعام مريحة مع قائمة تميز المأكولات الفرنسية التقليدية. تضيف الزخرفة الريفية إلى الجاذبية، مما يجعلها مكانًا رائعًا لوجبة غير رسمية. تأكد من تجربة لحم البقر بورغينيون. تتراوح الأسعار من $$ إلى $$$.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "নিসে সেরা খাদ্য 2026 - শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
+      "seo_description": "নিসে সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার - বুকিং লিংক সহ।",
+      "page_intro": "নিস একটি রন্ধনসম্পর্কীয় স্বর্গ যা ফরাসি এবং ভূমধ্যসাগরীয় প্রভাবগুলি মিশ্রিত করে। এর প্রাণবন্ত খাদ্য দৃশ্য আকর্ষণীয় স্ট্রিট মার্কেট থেকে শুরু করে উচ্চমানের ডাইনিং প্রতিষ্ঠানে বিস্তৃত। স্থানীয় বিশেষত্ব যেমন সোকার এবং সালাদ নিসোইজের স্বাদ গ্রহণ করুন এবং চমৎকার উপকূলীয় দৃশ্যগুলি উপভোগ করুন।",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "লে শঁতেক্লের",
+          "type": "restaurant",
+          "description": "লে শঁতেক্লের, আইকনিক নেগ্রেস্কো হোটেলে অবস্থিত, মৌসুমি এবং আঞ্চলিক উপাদানের উপর ফোকাস সহ একটি উচ্চমানের খাবারের অভিজ্ঞতা প্রদান করে। অভিজাত পরিবেশ বিশেষ অনুষ্ঠানের জন্য একেবারে সঠিক। তাদের স্বাক্ষরিত ডিশ, ট্রাফল রিসোট্টো চেষ্টা করতে ভুলবেন না। দাম $$$ থেকে $$$$ পর্যন্ত।",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "ক্যাফে ডে কোলেটস",
+          "type": "cafe",
+          "description": "ক্যাফে ডে কোলেটস একটি আকর্ষণীয় ক্যাফে যা তার আনন্দময় পেস্ট্রি এবং কফির জন্য পরিচিত। আরামদায়ক পরিবেশ এটিকে একটি আরামদায়ক বিরতির জন্য উপযুক্ত স্থান করে তোলে। তাদের বিখ্যাত টার্ট ট্রোপেজিয়ান মিস করবেন না, যা ক্রিম দিয়ে পূর্ণ একটি মিষ্টি ব্রিওচ। দাম বাজেট-বান্ধব, প্রায় $।",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "মার্চে সেন্ট-রোজালি",
+          "type": "night_market",
+          "description": "মার্চে সেন্ট-রোজালি একটি প্রাণবন্ত রাতের বাজার যেখানে স্থানীয়রা বিভিন্ন স্ট্রিট ফুড উপভোগ করতে জড়ো হয়। তাজা সামুদ্রিক খাবার, গ্রিল করা মাংস এবং স্থানীয় পনিরের স্বাদ গ্রহণ করুন যখন উজ্জ্বল পরিবেশ উপভোগ করুন। দাম $ থেকে $$ পর্যন্ত, বাজেট ভ্রমণকারীদের জন্য এটি একটি দুর্দান্ত স্থান।",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "লা পিজ্জেরিয়া",
+          "type": "restaurant",
+          "description": "লা পিজ্জেরিয়া তার তাজা, উচ্চমানের উপাদান দিয়ে তৈরি প্রামাণিক ইতালীয় পিজ্জার জন্য বিখ্যাত। স্বাচ্ছন্দ্যময় পরিবেশ এবং বন্ধুত্বপূর্ণ কর্মীরা এটিকে স্থানীয়দের মধ্যে জনপ্রিয় করে তোলে। ক্লাসিক স্বাদের জন্য তাদের মারgherita পিজ্জা চেষ্টা করুন। দাম $$ থেকে $$$ পর্যন্ত।",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "লা বোল্যাঞ্জারি",
+          "type": "cafe",
+          "description": "লা বোল্যাঞ্জারি একটি ঐতিহ্যবাহী বেকারি যা তাজা বেকড পণ্যের বিস্তৃত পরিসর প্রদান করে। পরিবেশ উষ্ণ এবং আমন্ত্রণমূলক, যা এটিকে একটি কাপ কফির সাথে পেস্ট্রি উপভোগ করার জন্য একেবারে সঠিক স্থান করে তোলে। তাদের পেন অঁ চকোলেট চেষ্টা করুন একটি সুস্বাদু অভিজ্ঞতার জন্য। দাম প্রায় $।",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "কৌর্স স্যালেয়া মার্কেট",
+          "type": "street_food",
+          "description": "কৌর্স স্যালেয়া মার্কেট খাদ্য প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান। এই প্রাণবন্ত বাজারে তাজা উৎপাদন, ফুল এবং স্থানীয় বিশেষত্ব রয়েছে। বিখ্যাত সালাদ নিসোইজের স্বাদ গ্রহণ করুন অথবা রাস্তার বিক্রেতাদের মধ্যে থেকে সোকারের একটি টুকরো সংগ্রহ করুন। দাম বাজেট-বান্ধব, $ থেকে $$ পর্যন্ত।",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "বিস্ট্রো দে লা কুইজিন",
+          "type": "restaurant",
+          "description": "বিস্ট্রো দে লা কুইজিন একটি আরামদায়ক ডাইনিং অভিজ্ঞতা প্রদান করে যার মেনুতে ঐতিহ্যবাহী ফরাসি রান্না রয়েছে। দেহাতি সজ্জা আকর্ষণকে বাড়িয়ে তোলে, এটি একটি অনানুষ্ঠানিক খাবারের জন্য দুর্দান্ত স্থান। তাদের বিফ বুর্গিনিয়ন চেষ্টা করতে ভুলবেন না। দাম $$ থেকে $$$ পর্যন্ত।",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Ницце 2026 - Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Ницце. От бюджетных блюд до изысканной кухни - с ссылками для бронирования.",
+      "page_intro": "Ницца - кулинарный рай, сочетающий французские и средиземноморские влияния. Ее яркая гастрономическая сцена варьируется от очаровательных уличных рынков до ресторанов высокого класса. Наслаждайтесь местными деликатесами, такими как Socca и Salade Niçoise, любуясь потрясающими прибрежными видами.",
+      "items": [
+        {
+          "id": "le-chantecler",
+          "name": "Ле Шантеклер",
+          "type": "restaurant",
+          "description": "Ле Шантеклер, расположенный в знаковом отеле Негреско, предлагает утонченный гастрономический опыт с акцентом на сезонные и региональные ингредиенты. Элегантная атмосфера идеально подходит для особых случаев. Обязательно попробуйте их фирменное блюдо - ризотто с трюфелями. Цены варьируются от $$$ до $$$$.",
+          "image_keyword": "Le Chantecler restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Le Chantecler reservation"
+        },
+        {
+          "id": "cafe-de-colettes",
+          "name": "Кафе де Коллет",
+          "type": "cafe",
+          "description": "Кафе де Коллет - очаровательное кафе, известное своими восхитительными пирожными и кофе. Уютная атмосфера делает его идеальным местом для расслабляющего перерыва. Не пропустите их знаменитый Тарт Тропезьен, сладкий бриошь с кремом. Цены доступны, около $.",
+          "image_keyword": "Café de Colletes",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tarte Tropézienne",
+          "klook_query": "Café de Colletes visit"
+        },
+        {
+          "id": "marché-sainte-rose",
+          "name": "Марше Сент-Розали",
+          "type": "night_market",
+          "description": "Марше Сент-Розали - это яркий ночной рынок, где местные жители собираются, чтобы насладиться разнообразной уличной едой. Попробуйте свежие морепродукты, жареное мясо и местные сыры, наслаждаясь живой атмосферой. Цены варьируются от $ до $$, что делает его отличным местом для бюджетных туристов.",
+          "image_keyword": "Marché Sainte-Rosalie market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Socca",
+          "klook_query": "Marché Sainte-Rosalie food tour"
+        },
+        {
+          "id": "la-pizzeria",
+          "name": "Ла Пиццерия",
+          "type": "restaurant",
+          "description": "Ла Пиццерия знаменита своими аутентичными итальянскими пиццами, приготовленными из свежих, качественных ингредиентов. Непринужденная обстановка и дружелюбный персонал делают ее популярной среди местных жителей. Попробуйте их Пиццу Маргарита для классического вкуса. Цены варьируются от $$ до $$$.",
+          "image_keyword": "La Pizzeria Nice",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "La Pizzeria reservation"
+        },
+        {
+          "id": "la-boulangerie",
+          "name": "Ла Буланжери",
+          "type": "cafe",
+          "description": "Ла Буланжери - это традиционная пекарня, предлагающая широкий ассортимент свежевыпеченных изделий. Атмосфера теплая и приветливая, что делает ее идеальным местом для наслаждения сладостями с чашкой кофе. Обязательно попробуйте их Pain au Chocolat для приятного угощения. Цены около $.",
+          "image_keyword": "La Boulangerie pastries",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pain au Chocolat",
+          "klook_query": "La Boulangerie visit"
+        },
+        {
+          "id": "cours-saleya-market",
+          "name": "Курс Салейя",
+          "type": "street_food",
+          "description": "Курс Салейя - это обязательное место для любителей еды. Этот яркий рынок предлагает свежие продукты, цветы и местные деликатесы. Попробуйте знаменитый салат Нисуаз или купите кусочек Socca у одного из уличных продавцов. Цены доступны, варьируются от $ до $$.",
+          "image_keyword": "Cours Saleya Market",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Salade Niçoise",
+          "klook_query": "Cours Saleya Market food tour"
+        },
+        {
+          "id": "bistro-de-la-cuisine",
+          "name": "Бистро де Ла Кюизин",
+          "type": "restaurant",
+          "description": "Бистро де Ла Кюизин предлагает уютную атмосферу с меню, представляющим традиционную французскую кухню. Деревенский декор добавляет шарма, делая это отличным местом для непринужденной еды. Обязательно попробуйте их говядину по-бургундски. Цены варьируются от $$ до $$$.",
+          "image_keyword": "Bistro de la Cuisine",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Beef Bourguignon",
+          "klook_query": "Bistro de la Cuisine reservation"
+        }
+      ]
+    }
+  }
+}

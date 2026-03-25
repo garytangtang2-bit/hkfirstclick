@@ -1,0 +1,1097 @@
+{
+  "city_slug": "hakone",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Hakone 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Hakone. Find opening hours, ticket prices and booking links for Hakone's top landmarks.",
+      "page_intro": "Hakone is a stunning destination located just an hour from Tokyo, famous for its natural beauty, hot springs, and views of Mount Fuji. This picturesque area offers a blend of cultural experiences, from traditional temples to modern art museums. Visitors can enjoy scenic lake views, lush mountains, and rejuvenating onsen, making it a perfect getaway for relaxation and exploration.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "Hakone Open-Air Museum",
+          "type": "museum",
+          "description": "The Hakone Open-Air Museum is a unique blend of art and nature, featuring over 100 sculptures set against the stunning backdrop of the Hakone mountains. Visitors can explore various installations, including works by Picasso and Henry Moore, as well as hot spring foot baths. Plan to spend at least 2-3 hours to fully enjoy the exhibits and beautiful gardens.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "Hakone Shrine",
+          "type": "temple",
+          "description": "Nestled in the forest by Lake Ashi, Hakone Shrine is a serene spot known for its iconic torii gate that stands in the water. The shrine offers a peaceful atmosphere for visitors to admire the beautiful nature surrounding it. It's recommended to visit in the morning to enjoy the tranquility and take stunning photographs without the crowds.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "Owakudani Valley",
+          "type": "landmark",
+          "description": "Owakudani Valley is a volcanic area known for its hot springs and stunning views of Mount Fuji. Visitors can enjoy the unique experience of tasting black eggs boiled in the sulfuric hot springs, which are said to prolong life. The area is accessible via the Hakone Ropeway, and it’s best to allocate 1-2 hours for exploration, especially if you want to hike around.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "PolA Museum of Art",
+          "type": "museum",
+          "description": "The PolA Museum of Art is an architectural marvel that houses a stunning collection of Western and Japanese art. Surrounded by lush greenery, the museum features works by renowned artists such as Monet and Renoir. Visitors should plan for at least 2 hours to appreciate the art and design of the building itself, along with the tranquil gardens.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "Hakone Gyokuren",
+          "type": "temple",
+          "description": "Hakone Gyokuren is a lesser-known temple offering a tranquil escape amidst nature. The temple is famous for its picturesque gardens and seasonal flowers, making it a peaceful spot for reflection. Visitors can enjoy a leisurely stroll through the grounds and take in the calming atmosphere. A visit can take around an hour, especially during cherry blossom season.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "Hakone Yumoto",
+          "type": "district",
+          "description": "Hakone Yumoto is a vibrant district known for its hot springs and traditional ryokan inns. This area serves as a gateway to Hakone's attractions, offering various shops, cafes, and street food options. Visitors should set aside a couple of hours to explore local delicacies and enjoy a relaxing soak in one of the many onsen facilities available.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "Lake Ashi",
+          "type": "landmark",
+          "description": "Lake Ashi offers breathtaking views of Mount Fuji and is a popular spot for sightseeing cruises. Visitors can take a boat ride across the lake or enjoy hiking trails along its shores. The area is famous for its beautiful scenery, especially during autumn. Plan for at least an hour for a boat trip or longer if you choose to hike.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年箱根最佳景點——票務、提示及完整指南",
+      "seo_description": "探索箱根最佳景點。查找箱根主要地標的開放時間、票價和預訂鏈接。",
+      "page_intro": "箱根是一個美麗的目的地，距離東京僅一小時車程，以其自然美景、溫泉和富士山的壯觀景色而聞名。這個如畫的地區提供了文化體驗的融合，從傳統寺廟到現代藝術博物館。遊客可以享受湖泊的美景、郁郁蔥蔥的山脈和恢復活力的溫泉，成為一個完美的放鬆和探索的逃逸之地。",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "箱根露天美術館",
+          "type": "museum",
+          "description": "箱根露天美術館是藝術與自然的獨特融合，擁有超過100件雕塑，背景是壯觀的箱根山脈。遊客可以探索各種裝置，包括畢卡索和亨利·摩爾的作品，以及溫泉足浴。計劃至少花2-3小時來充分欣賞展覽和美麗的花園。",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "箱根神社",
+          "type": "temple",
+          "description": "箱根神社坐落在蘆之湖旁的森林中，是一個寧靜的地方，以標誌性的鳥居門而聞名，鳥居半浸在水中。神社為遊客提供了一個平靜的氛圍，可以欣賞周圍美麗的自然景觀。建議早上訪問，以享受寧靜並拍攝壯觀的照片而不會遇到人群。",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "大涌谷",
+          "type": "landmark",
+          "description": "大涌谷是一個以溫泉和壯觀的富士山景色而聞名的火山區。遊客可以享受品嚐在硫磺溫泉中煮熟的黑雞蛋的獨特體驗，據說這能延年益壽。該地區可通過箱根纜車到達，建議分配1-2小時進行探索，特別是如果您想在周圍徒步旅行。",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "波拉藝術館",
+          "type": "museum",
+          "description": "波拉藝術館是一個建築奇蹟，擁有壯觀的西方和日本藝術收藏。博物館被郁郁蔥蔥的綠色環繞，展出著名藝術家如莫奈和雷諾瓦的作品。遊客應該計劃至少花2小時欣賞藝術和建築本身的設計，以及寧靜的花園。",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "箱根玉蓮寺",
+          "type": "temple",
+          "description": "箱根玉蓮寺是一個較不為人知的寺廟，提供了一個寧靜的自然逃避之所。該寺廟以其如畫的花園和季節性花卉而聞名，使其成為反思的平靜地點。遊客可以在場地內悠閒漫步，欣賞平靜的氛圍。尤其是在櫻花季節，參觀大約需要一小時。",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "箱根湯本",
+          "type": "district",
+          "description": "箱根湯本是一個充滿活力的地區，以其溫泉和傳統的旅館而聞名。這個地區是通往箱根景點的門戶，提供各種商店、咖啡館和街頭美食選擇。遊客應該留出幾個小時來探索當地美食，並在眾多可用的溫泉設施中享受放鬆的浸泡。",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "蘆之湖",
+          "type": "landmark",
+          "description": "蘆之湖提供壯觀的富士山景色，是觀光遊船的熱門地點。遊客可以乘船遊覽湖泊，或沿著湖岸享受徒步旅行。該地區以其美麗的風景而聞名，特別是在秋季。計劃至少留一小時進行船遊，或者如果選擇徒步旅行則需更長時間。",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年箱根のトップ観光地 - チケット、ヒント、完全ガイド",
+      "seo_description": "箱根の最高の観光地を探索してください。箱根の主要な名所の営業時間、チケット価格、予約リンクを見つけることができます。",
+      "page_intro": "箱根は東京からわずか1時間の距離にある美しい目的地で、自然の美しさ、温泉、富士山の眺めで有名です。この絵のようなエリアは、伝統的な寺院から現代美術館まで、文化体験の融合を提供します。訪問者は、湖の美しい眺め、緑に囲まれた山々、リフレッシュできる温泉を楽しむことができ、リラクゼーションと探索に最適な場所です。",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "箱根彫刻の森美術館",
+          "type": "museum",
+          "description": "箱根彫刻の森美術館は、芸術と自然のユニークな融合で、箱根山脈の美しい背景に100以上の彫刻を展示しています。訪問者は、ピカソやヘンリー・ムーアの作品を含むさまざまなインスタレーションや、温泉の足湯を探索することができます。展示や美しい庭園を十分に楽しむために、少なくとも2〜3時間を計画してください。",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "箱根神社",
+          "type": "temple",
+          "description": "箱根神社は芦ノ湖の森の中に静かに佇む場所で、水の中に立つ象徴的な鳥居で知られています。神社は、美しい自然に囲まれた穏やかな雰囲気を訪問者に提供します。静けさを楽しみ、混雑を避けて素晴らしい写真を撮るために、朝の訪問をお勧めします。",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "大涌谷",
+          "type": "landmark",
+          "description": "大涌谷は、温泉と富士山の素晴らしい眺めで知られる火山地域です。訪問者は、寿命を延ばすと言われている硫黄温泉で茹でた黒い卵を味わうユニークな体験を楽しむことができます。このエリアは箱根ロープウェイでアクセス可能で、特に周辺をハイキングしたい場合は、探索に1〜2時間を確保するのが最適です。",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "ポーラ美術館",
+          "type": "museum",
+          "description": "ポーラ美術館は、素晴らしい西洋と日本のアートコレクションを収蔵した建築の驚異です。緑に囲まれた美術館には、モネやルノワールなどの著名なアーティストの作品が展示されています。訪問者は、アートと建物自体のデザインを評価し、静かな庭園を楽しむために、少なくとも2時間を計画するべきです。",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "箱根玉蓮寺",
+          "type": "temple",
+          "description": "箱根玉蓮寺は、自然の中での静かな逃避所を提供するあまり知られていない寺院です。この寺院は、絵のような庭園と季節の花々で有名で、穏やかな反省の場所です。訪問者は、敷地内をゆっくり散歩し、穏やかな雰囲気を楽しむことができます。特に桜の季節には、訪問に約1時間かかります。",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "箱根湯本",
+          "type": "district",
+          "description": "箱根湯本は、温泉と伝統的な旅館で知られる活気ある地区です。この地域は、箱根の観光地への入り口として、さまざまなショップ、カフェ、ストリートフードの選択肢を提供します。訪問者は、地元の美味しい料理を探索し、利用可能な多くの温泉施設の1つでリラックスした浸かりを楽しむために、数時間を確保するべきです。",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "芦ノ湖",
+          "type": "landmark",
+          "description": "芦ノ湖は富士山の息を呑むような眺めを提供し、観光クルーズの人気スポットです。訪問者は湖を横断するボートに乗ったり、湖岸を沿ってハイキングすることができます。このエリアは、美しい風景で有名で、特に秋に訪れると素晴らしいです。ボートの旅行には少なくとも1時間を計画し、ハイキングを選ぶ場合はそれ以上の時間を確保してください。",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 하코네 최고의 관광 명소 - 티켓, 팁 및 완벽 가이드",
+      "seo_description": "하코네의 최고의 관광 명소를 탐험하세요. 하코네의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾을 수 있습니다.",
+      "page_intro": "하코네는 도쿄에서 단 1시간 거리에 있는 아름다운 목적지로, 자연의 아름다움, 온천, 후지산의 경치로 유명합니다. 이 그림 같은 지역은 전통 사원에서 현대 미술관까지 문화적 경험이 혼합되어 있습니다. 방문객들은 경치 좋은 호수 경치, 울창한 산, 재충전할 수 있는 온천을 즐길 수 있어 완벽한 휴식과 탐험의 getaway입니다.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "하코네 야외 미술관",
+          "type": "museum",
+          "description": "하코네 야외 미술관은 예술과 자연의 독특한 조화로, 하코네 산맥의 아름다운 배경 속에 100개 이상의 조각상을 전시하고 있습니다. 방문객들은 피카소와 헨리 무어의 작품을 포함한 다양한 설치 작품과 온천 족욕을 탐험할 수 있습니다. 전시물과 아름다운 정원을 충분히 즐기기 위해 최소 2-3시간을 계획하세요.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "하코네 신사",
+          "type": "temple",
+          "description": "하코네 신사는 아시 호수 옆 숲 속에 자리 잡고 있는 평화로운 장소로, 물속에 서 있는 상징적인 도리이가 유명합니다. 신사는 방문객들이 아름다운 자연을 감상할 수 있는 평화로운 분위기를 제공합니다. 혼잡하지 않은 멋진 사진을 담기 위해 아침에 방문하는 것이 좋습니다.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "오와쿠다니 계곡",
+          "type": "landmark",
+          "description": "오와쿠다니 계곡은 온천과 후지산의 멋진 경치로 유명한 화산 지역입니다. 방문객들은 삶을 연장한다고 알려진 유황 온천에서 삶은 검은 계란을 맛볼 수 있는 독특한 경험을 즐길 수 있습니다. 이 지역은 하코네 로프웨이를 통해 접근할 수 있으며, 특히 주변을 하이킹하고 싶다면 탐험에 1-2시간을 할애하는 것이 가장 좋습니다.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "폴라 미술관",
+          "type": "museum",
+          "description": "폴라 미술관은 놀라운 서양 및 일본 미술 컬렉션을 소장하고 있는 건축의 경이로움입니다. 울창한 녹지로 둘러싸인 미술관은 모네와 르누아르와 같은 유명한 예술가의 작품을 전시하고 있습니다. 방문객들은 예술과 건물 자체의 디자인을 감상하고 평화로운 정원을 즐기기 위해 최소 2시간을 계획해야 합니다.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "하코네 교쿠렌",
+          "type": "temple",
+          "description": "하코네 교쿠렌은 자연 속에서 조용한 피난처를 제공하는 잘 알려지지 않은 사원입니다. 이 사원은 그림 같은 정원과 계절 꽃으로 유명하며, 반성의 평화로운 장소가 됩니다. 방문객들은 부지 내에서 한가롭게 산책하며 편안한 분위기를 즐길 수 있습니다. 특히 벚꽃 시즌에는 방문에 약 1시간이 소요됩니다.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "하코네 유모토",
+          "type": "district",
+          "description": "하코네 유모토는 온천과 전통 료칸으로 유명한 활기찬 지역입니다. 이 지역은 하코네의 관광 명소로 가는 관문 역할을 하며, 다양한 상점, 카페 및 길거리 음식 옵션을 제공합니다. 방문객들은 지역의 미식 탐방과 여러 온천 시설 중 하나에서 편안하게 몸을 담글 수 있도록 몇 시간을 확보해야 합니다.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "아시 호수",
+          "type": "landmark",
+          "description": "아시 호수는 후지산의 숨 막히는 경치를 제공하며, 관광 크루즈의 인기 장소입니다. 방문객들은 호수를 가로지르는 보트에 탑승하거나 호숫가를 따라 하이킹을 즐길 수 있습니다. 이 지역은 특히 가을에 아름다운 풍경으로 유명합니다. 보트 여행에는 최소 1시간을 계획하고, 하이킹을 선택할 경우 더 많은 시간을 할애하세요.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Attractions principales à Hakone 2026 - Billets, conseils et guide complet",
+      "seo_description": "Explorez les meilleures attractions de Hakone. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Hakone.",
+      "page_intro": "Hakone est une destination magnifique située à seulement une heure de Tokyo, célèbre pour sa beauté naturelle, ses sources chaudes et ses vues sur le mont Fuji. Cette région pittoresque offre un mélange d'expériences culturelles, allant des temples traditionnels aux musées d'art modernes. Les visiteurs peuvent profiter de vues panoramiques sur le lac, des montagnes verdoyantes et des onsen régénérants, ce qui en fait une escapade parfaite pour se détendre et explorer.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "Musée en plein air de Hakone",
+          "type": "museum",
+          "description": "Le Musée en plein air de Hakone est un mélange unique d'art et de nature, présentant plus de 100 sculptures contre la magnifique toile de fond des montagnes de Hakone. Les visiteurs peuvent explorer diverses installations, y compris des œuvres de Picasso et Henry Moore, ainsi que des bains de pieds en source chaude. Prévoyez au moins 2 à 3 heures pour profiter pleinement des expositions et des jardins magnifiques.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "Sanctuaire de Hakone",
+          "type": "temple",
+          "description": "Niché dans la forêt au bord du lac Ashi, le Sanctuaire de Hakone est un endroit serein connu pour sa porte torii emblématique qui se dresse dans l'eau. Le sanctuaire offre une atmosphère paisible pour que les visiteurs admirent la belle nature qui l'entoure. Il est recommandé de visiter le matin pour profiter de la tranquillité et prendre des photos époustouflantes sans la foule.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "Vallée d'Owakudani",
+          "type": "landmark",
+          "description": "La Vallée d'Owakudani est une zone volcanique connue pour ses sources chaudes et ses vues imprenables sur le mont Fuji. Les visiteurs peuvent profiter de l'expérience unique de déguster des œufs noirs cuits dans les sources chaudes soufrées, qui, dit-on, prolongent la vie. La région est accessible par le téléphérique de Hakone, et il est préférable de prévoir 1 à 2 heures pour l'exploration, surtout si vous souhaitez faire de la randonnée.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "Musée PolA d'art",
+          "type": "museum",
+          "description": "Le Musée PolA d'art est une merveille architecturale qui abrite une collection étonnante d'art occidental et japonais. Entouré de verdure luxuriante, le musée présente des œuvres d'artistes renommés tels que Monet et Renoir. Les visiteurs devraient prévoir au moins 2 heures pour apprécier l'art et le design du bâtiment lui-même, ainsi que les jardins tranquilles.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "Hakone Gyokuren",
+          "type": "temple",
+          "description": "Hakone Gyokuren est un temple moins connu qui offre une échappatoire tranquille au milieu de la nature. Le temple est célèbre pour ses jardins pittoresques et ses fleurs de saison, en faisant un endroit paisible pour la réflexion. Les visiteurs peuvent profiter d'une promenade tranquille dans les jardins et apprécier l'atmosphère apaisante. Une visite peut durer environ une heure, surtout pendant la saison des cerisiers en fleurs.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "Hakone Yumoto",
+          "type": "district",
+          "description": "Hakone Yumoto est un quartier dynamique connu pour ses sources chaudes et ses ryokan traditionnels. Cette zone sert de porte d'entrée aux attractions de Hakone, offrant divers magasins, cafés et options de street food. Les visiteurs devraient prévoir quelques heures pour explorer les délicieuses spécialités locales et profiter d'un bain relaxant dans l'une des nombreuses installations d'onsen disponibles.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "Lac Ashi",
+          "type": "landmark",
+          "description": "Le Lac Ashi offre des vues à couper le souffle sur le mont Fuji et est un endroit prisé pour des croisières touristiques. Les visiteurs peuvent faire une promenade en bateau à travers le lac ou profiter de sentiers de randonnée le long de ses rives. La région est célèbre pour ses paysages magnifiques, surtout en automne. Prévoyez au moins une heure pour une excursion en bateau, ou plus longtemps si vous choisissez de randonner.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales atracciones en Hakone 2026 - Entradas, consejos y guía completa",
+      "seo_description": "Explora las mejores atracciones en Hakone. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Hakone.",
+      "page_intro": "Hakone es un destino impresionante ubicado a solo una hora de Tokio, famoso por su belleza natural, aguas termales y vistas al monte Fuji. Esta pintoresca área ofrece una mezcla de experiencias culturales, desde templos tradicionales hasta museos de arte moderno. Los visitantes pueden disfrutar de vistas escénicas del lago, montañas exuberantes y onsen rejuvenecedores, lo que la convierte en una escapada perfecta para relajarse y explorar.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "Museo al aire libre de Hakone",
+          "type": "museum",
+          "description": "El Museo al aire libre de Hakone es una combinación única de arte y naturaleza, con más de 100 esculturas en un impresionante fondo de las montañas de Hakone. Los visitantes pueden explorar varias instalaciones, incluidas obras de Picasso y Henry Moore, así como baños de pies en aguas termales. Planifica pasar al menos 2-3 horas para disfrutar plenamente de las exposiciones y los hermosos jardines.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "Santuario de Hakone",
+          "type": "temple",
+          "description": "Ubicado en el bosque junto al lago Ashi, el Santuario de Hakone es un lugar sereno conocido por su icónica puerta torii que se encuentra en el agua. El santuario ofrece una atmósfera pacífica para que los visitantes admiren la hermosa naturaleza que lo rodea. Se recomienda visitar por la mañana para disfrutar de la tranquilidad y tomar fotografías impresionantes sin las multitudes.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "Valle de Owakudani",
+          "type": "landmark",
+          "description": "El Valle de Owakudani es un área volcánica conocida por sus aguas termales y sus impresionantes vistas del monte Fuji. Los visitantes pueden disfrutar de la experiencia única de degustar huevos negros hervidos en aguas termales sulfurosas, que se dice que prolongan la vida. El área es accesible a través del teleférico de Hakone, y es mejor dedicar de 1 a 2 horas para explorar, especialmente si deseas hacer senderismo por los alrededores.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "Museo de arte PolA",
+          "type": "museum",
+          "description": "El Museo de arte PolA es una maravilla arquitectónica que alberga una impresionante colección de arte occidental y japonés. Rodeado de exuberante vegetación, el museo presenta obras de artistas reconocidos como Monet y Renoir. Los visitantes deberían planear al menos 2 horas para apreciar el arte y el diseño del edificio en sí, así como los tranquilos jardines.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "Hakone Gyokuren",
+          "type": "temple",
+          "description": "Hakone Gyokuren es un templo menos conocido que ofrece un escape tranquilo en medio de la naturaleza. El templo es famoso por sus jardines pintorescos y flores de temporada, lo que lo convierte en un lugar pacífico para la reflexión. Los visitantes pueden disfrutar de un paseo tranquilo por los terrenos y apreciar la atmósfera relajante. Una visita puede llevar alrededor de una hora, especialmente durante la temporada de flores de cerezo.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "Hakone Yumoto",
+          "type": "district",
+          "description": "Hakone Yumoto es un distrito vibrante conocido por sus aguas termales y posadas tradicionales ryokan. Esta área sirve como puerta de entrada a las atracciones de Hakone, ofreciendo diversas tiendas, cafeterías y opciones de comida callejera. Los visitantes deberían reservar un par de horas para explorar las delicias locales y disfrutar de un relajante baño en una de las muchas instalaciones de onsen disponibles.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "Lago Ashi",
+          "type": "landmark",
+          "description": "El Lago Ashi ofrece vistas impresionantes del monte Fuji y es un lugar popular para cruceros turísticos. Los visitantes pueden dar un paseo en barco por el lago o disfrutar de senderos para caminar a lo largo de sus orillas. La zona es famosa por su hermosa escenografía, especialmente en otoño. Planifica al menos una hora para un viaje en barco o más tiempo si decides hacer senderismo.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Top Attractions in Hakone 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Hakone. Find opening hours, ticket prices and booking links for Hakone's top landmarks.",
+      "page_intro": "Hakone is a stunning destination located just an hour from Tokyo, famous for its natural beauty, hot springs, and views of Mount Fuji. This picturesque area offers a blend of cultural experiences, from traditional temples to modern art museums. Visitors can enjoy scenic lake views, lush mountains, and rejuvenating onsen, making it a perfect getaway for relaxation and exploration.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "Hakone Open-Air Museum",
+          "type": "museum",
+          "description": "The Hakone Open-Air Museum is a unique blend of art and nature, featuring over 100 sculptures set against the stunning backdrop of the Hakone mountains. Visitors can explore various installations, including works by Picasso and Henry Moore, as well as hot spring foot baths. Plan to spend at least 2-3 hours to fully enjoy the exhibits and beautiful gardens.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "Hakone Shrine",
+          "type": "temple",
+          "description": "Nestled in the forest by Lake Ashi, Hakone Shrine is a serene spot known for its iconic torii gate that stands in the water. The shrine offers a peaceful atmosphere for visitors to admire the beautiful nature surrounding it. It's recommended to visit in the morning to enjoy the tranquility and take stunning photographs without the crowds.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "Owakudani Valley",
+          "type": "landmark",
+          "description": "Owakudani Valley is a volcanic area known for its hot springs and stunning views of Mount Fuji. Visitors can enjoy the unique experience of tasting black eggs boiled in the sulfuric hot springs, which are said to prolong life. The area is accessible via the Hakone Ropeway, and it’s best to allocate 1-2 hours for exploration, especially if you want to hike around.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "PolA Museum of Art",
+          "type": "museum",
+          "description": "The PolA Museum of Art is an architectural marvel that houses a stunning collection of Western and Japanese art. Surrounded by lush greenery, the museum features works by renowned artists such as Monet and Renoir. Visitors should plan for at least 2 hours to appreciate the art and design of the building itself, along with the tranquil gardens.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "Hakone Gyokuren",
+          "type": "temple",
+          "description": "Hakone Gyokuren is a lesser-known temple offering a tranquil escape amidst nature. The temple is famous for its picturesque gardens and seasonal flowers, making it a peaceful spot for reflection. Visitors can enjoy a leisurely stroll through the grounds and take in the calming atmosphere. A visit can take around an hour, especially during cherry blossom season.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "Hakone Yumoto",
+          "type": "district",
+          "description": "Hakone Yumoto is a vibrant district known for its hot springs and traditional ryokan inns. This area serves as a gateway to Hakone's attractions, offering various shops, cafes, and street food options. Visitors should set aside a couple of hours to explore local delicacies and enjoy a relaxing soak in one of the many onsen facilities available.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "Lake Ashi",
+          "type": "landmark",
+          "description": "Lake Ashi offers breathtaking views of Mount Fuji and is a popular spot for sightseeing cruises. Visitors can take a boat ride across the lake or enjoy hiking trails along its shores. The area is famous for its beautiful scenery, especially during autumn. Plan for at least an hour for a boat trip or longer if you choose to hike.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "हकोने में शीर्ष आकर्षण 2026 - टिकट, टिप्स और पूर्ण गाइड",
+      "seo_description": "हकोने के बेहतरीन आकर्षणों का अन्वेषण करें। हकोने के शीर्ष स्थलों के लिए उद्घाटन घंटों, टिकट की कीमतों और बुकिंग लिंक को खोजें।",
+      "page_intro": "हकोने एक अद्भुत गंतव्य है जो टोक्यो से केवल एक घंटे की दूरी पर स्थित है, जो अपनी प्राकृतिक सुंदरता, गर्म झरनों और फूजी पर्वत के दृश्य के लिए प्रसिद्ध है। यह खूबसूरत क्षेत्र सांस्कृतिक अनुभवों का मिश्रण प्रदान करता है, पारंपरिक मंदिरों से लेकर आधुनिक कला संग्रहालयों तक। आगंतुक मनोहारी झील के दृश्य, हरे-भरे पहाड़ों, और पुनर्जीवित करने वाले ओन्सेन का आनंद ले सकते हैं, जो इसे विश्राम और अन्वेषण के लिए एक आदर्श स्थान बनाता है।",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "हकोने ओपन-एयर म्यूजियम",
+          "type": "museum",
+          "description": "हकोने ओपन-एयर म्यूजियम कला और प्रकृति का एक अनूठा मिश्रण है, जिसमें हकोने पहाड़ों की शानदार पृष्ठभूमि के खिलाफ 100 से अधिक मूर्तियाँ हैं। आगंतुक विभिन्न स्थापना का अन्वेषण कर सकते हैं, जिसमें पिकासो और हेनरी मूर के काम शामिल हैं, साथ ही गर्म झरनों के फुट बाथ भी हैं। प्रदर्शनों और सुंदर बागों का पूरी तरह से आनंद लेने के लिए कम से कम 2-3 घंटे बिताने की योजना बनाएं।",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "हकोने श्राइन",
+          "type": "temple",
+          "description": "लेक आशी के किनारे जंगल में स्थित, हकोने श्राइन एक शांत स्थान है जो अपने प्रतिष्ठित तोरी गेट के लिए जाना जाता है जो पानी में खड़ा है। श्राइन आगंतुकों को इसके चारों ओर की सुंदर प्रकृति की प्रशंसा करने के लिए एक शांत वातावरण प्रदान करता है। भीड़ से बचने के लिए सुबह में जाने की सिफारिश की जाती है।",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "ओवाकुदानी घाटी",
+          "type": "landmark",
+          "description": "ओवाकुदानी घाटी एक ज्वालामुखीय क्षेत्र है जो अपने गर्म झरनों और फूजी पर्वत के शानदार दृश्यों के लिए जाना जाता है। आगंतुकों को सल्फ्यूरिक गर्म झरनों में उबले हुए काले अंडों का स्वाद लेने का अनूठा अनुभव मिल सकता है, जिन्हें जीवन बढ़ाने वाला माना जाता है। यह क्षेत्र हकोने रोपवे के माध्यम से पहुंचा जा सकता है, और अन्वेषण के लिए 1-2 घंटे आवंटित करना सबसे अच्छा है, खासकर यदि आप चारों ओर हाइक करना चाहते हैं।",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "पोलए कला संग्रहालय",
+          "type": "museum",
+          "description": "पोलए कला संग्रहालय एक वास्तुशिल्प चमत्कार है जो पश्चिमी और जापानी कला का एक शानदार संग्रह रखता है। हरे-भरे वातावरण में स्थित, संग्रहालय में मोनेट और रेनॉयर जैसे प्रसिद्ध कलाकारों के काम शामिल हैं। आगंतुकों को कला और भवन की डिजाइन की सराहना करने के लिए कम से कम 2 घंटे की योजना बनानी चाहिए, साथ ही शांत बागों का भी।",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "हकोने ग्योक्रेन",
+          "type": "temple",
+          "description": "हकोने ग्योक्रेन एक कम ज्ञात मंदिर है जो प्रकृति के बीच एक शांतिपूर्ण पलायन प्रदान करता है। मंदिर अपने चित्रमय बागों और मौसमी फूलों के लिए प्रसिद्ध है, जो इसे विचार के लिए एक शांत स्थान बनाता है। आगंतुक मैदान के चारों ओर आराम से टहल सकते हैं और शांत वातावरण का आनंद ले सकते हैं। चेरी ब्लॉसम सीजन के दौरान यहाँ एक घंटे का दौरा करना अपेक्षित है।",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "हकोने यूमोटो",
+          "type": "district",
+          "description": "हकोने यूमोटो एक जीवंत जिला है जो अपने गर्म झरनों और पारंपरिक र्योकेन इन के लिए जाना जाता है। यह क्षेत्र हकोने के आकर्षणों का एक द्वार के रूप में कार्य करता है, जिसमें विभिन्न दुकानों, कैफे और स्ट्रीट फूड के विकल्प होते हैं। आगंतुकों को स्थानीय व्यंजनों का अन्वेषण करने और उपलब्ध कई ओन्सेन सुविधाओं में से एक में आराम करने के लिए कुछ घंटे निर्धारित करने चाहिए।",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "लेक आशी",
+          "type": "landmark",
+          "description": "लेक आशी फूजी पर्वत के शानदार दृश्य पेश करता है और sightseeing क्रूज के लिए एक लोकप्रिय स्थान है। आगंतुक झील के पार नाव की सवारी कर सकते हैं या इसके किनारों पर हाइकिंग ट्रेल्स का आनंद ले सकते हैं। यह क्षेत्र अपनी सुंदरता के लिए प्रसिद्ध है, विशेषकर पतझड़ के दौरान। नाव यात्रा के लिए कम से कम एक घंटे की योजना बनाएं या यदि आप हाइक करने का विकल्प चुनते हैं तो और अधिक।",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Hakone 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Hakone. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Hakone.",
+      "page_intro": "Hakone é um destino deslumbrante localizado a apenas uma hora de Tóquio, famoso por sua beleza natural, fontes termais e vistas do Monte Fuji. Esta área pitoresca oferece uma mistura de experiências culturais, desde templos tradicionais até museus de arte moderna. Os visitantes podem desfrutar de vistas cênicas do lago, montanhas exuberantes e onsen revitalizantes, tornando-o uma escapada perfeita para relaxamento e exploração.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "Museu ao Ar Livre de Hakone",
+          "type": "museum",
+          "description": "O Museu ao Ar Livre de Hakone é uma mistura única de arte e natureza, apresentando mais de 100 esculturas contra o impressionante cenário das montanhas de Hakone. Os visitantes podem explorar várias instalações, incluindo obras de Picasso e Henry Moore, além de banhos de pés em fontes termais. Planeje passar pelo menos 2-3 horas para aproveitar totalmente as exposições e os belos jardins.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "Santuário de Hakone",
+          "type": "temple",
+          "description": "Aninhado na floresta à beira do Lago Ashi, o Santuário de Hakone é um local sereno conhecido por seu icônico portão torii que se ergue sobre as águas. O santuário oferece uma atmosfera tranquila para os visitantes admirarem a bela natureza ao seu redor. Recomenda-se visitar pela manhã para aproveitar a tranquilidade e tirar fotos deslumbrantes sem as multidões.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "Vale Owakudani",
+          "type": "landmark",
+          "description": "O Vale Owakudani é uma área vulcânica conhecida por suas fontes termais e vistas deslumbrantes do Monte Fuji. Os visitantes podem desfrutar da experiência única de saborear ovos pretos cozidos nas fontes termais sulfurosas, que dizem prolongar a vida. A área é acessível pelo Teleférico de Hakone, e é melhor reservar de 1 a 2 horas para exploração, especialmente se você quiser fazer trilhas.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "Museu de Arte PolA",
+          "type": "museum",
+          "description": "O Museu de Arte PolA é uma maravilha arquitetônica que abriga uma coleção impressionante de arte ocidental e japonesa. Cercado por vegetação exuberante, o museu apresenta obras de artistas renomados como Monet e Renoir. Os visitantes devem planejar pelo menos 2 horas para apreciar a arte e o design do edifício, além dos tranquilos jardins.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "Hakone Gyokuren",
+          "type": "temple",
+          "description": "Hakone Gyokuren é um templo menos conhecido que oferece uma fuga tranquila em meio à natureza. O templo é famoso por seus jardins pitorescos e flores sazonais, tornando-se um local pacífico para reflexão. Os visitantes podem desfrutar de um passeio relaxante pelos terrenos e absorver a atmosfera calmante. Uma visita pode levar cerca de uma hora, especialmente durante a temporada das cerejeiras.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "Hakone Yumoto",
+          "type": "district",
+          "description": "Hakone Yumoto é um distrito vibrante conhecido por suas fontes termais e tradicionais inns ryokan. Esta área serve como uma porta de entrada para as atrações de Hakone, oferecendo várias lojas, cafés e opções de comida de rua. Os visitantes devem reservar algumas horas para explorar as iguarias locais e desfrutar de um relaxante mergulho em uma das muitas instalações de onsen disponíveis.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "Lago Ashi",
+          "type": "landmark",
+          "description": "O Lago Ashi oferece vistas deslumbrantes do Monte Fuji e é um local popular para passeios turísticos de barco. Os visitantes podem fazer um passeio de barco pelo lago ou desfrutar de trilhas para caminhadas ao longo de suas margens. A área é famosa por sua bela paisagem, especialmente durante o outono. Planeje pelo menos uma hora para uma viagem de barco ou mais se você optar por fazer trilhas.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في هاكون 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_description": "اكتشف أفضل المعالم السياحية في هاكون. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم في هاكون.",
+      "page_intro": "هاكون وجهة رائعة تقع على بُعد ساعة واحدة فقط من طوكيو، مشهورة بجمالها الطبيعي وينابيعها الساخنة وإطلالاتها على جبل فوجي. تقدم هذه المنطقة الخلابة مزيجًا من التجارب الثقافية، من المعابد التقليدية إلى المتاحف الفنية الحديثة. يمكن للزوار الاستمتاع بإطلالات خلابة على البحيرة، والجبال الخضراء، والينابيع الحرارية الم rejuvenating، مما يجعلها ملاذًا مثاليًا للاسترخاء والاستكشاف.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "متحف هاكون في الهواء الطلق",
+          "type": "museum",
+          "description": "متحف هاكون في الهواء الطلق هو مزيج فريد من الفن والطبيعة، ويضم أكثر من 100 تمثال في خلفية رائعة من جبال هاكون. يمكن للزوار استكشاف مجموعة متنوعة من التركيبات، بما في ذلك أعمال بيكاسو وهنري مور، بالإضافة إلى حمامات قدم في الينابيع الساخنة. يُنصح بتخصيص ساعتين إلى ثلاث ساعات للاستمتاع الكامل بالمعروضات والحدائق الجميلة.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "مزار هاكون",
+          "type": "temple",
+          "description": "يقع مزار هاكون في غابة على ضفاف بحيرة آشي، وهو مكان هادئ معروف ببوابته الشهيرة التي تقع في المياه. يوفر المزار أجواءً هادئة للزوار للاستمتاع بالطبيعة الجميلة المحيطة به. يُنصح بزيارته في الصباح للاستمتاع بالهدوء والتقاط صور رائعة بدون الحشود.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "وادي أوواكوداني",
+          "type": "landmark",
+          "description": "وادي أوواكوداني هو منطقة بركانية معروفة بينابيعها الساخنة وإطلالاتها الرائعة على جبل فوجي. يمكن للزوار الاستمتاع بتجربة فريدة من نوعها من تذوق البيض الأسود المطبوخ في الينابيع الكبريتية، والتي يُقال إنها تطيل العمر. المنطقة متاحة عبر التلفريك هاكون، ومن الأفضل تخصيص من ساعة إلى ساعتين للاستكشاف، خاصة إذا كنت ترغب في المشي.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "متحف بولA للفنون",
+          "type": "museum",
+          "description": "متحف بولA للفنون هو معلم معماري يضم مجموعة رائعة من الفن الغربي والياباني. محاط بالطبيعة الخضراء، يضم المتحف أعمالًا لفنانين مشهورين مثل مونيه ورينوار. يجب على الزوار التخطيط لقضاء ساعتين على الأقل لتقدير الفن وتصميم المبنى نفسه، إلى جانب الحدائق الهادئة.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "هاكون جيوكورن",
+          "type": "temple",
+          "description": "هاكون جيوكورن هو معبد أقل شهرة يقدم ملاذًا هادئًا وسط الطبيعة. يشتهر المعبد بحدائقه الخلابة وزهوره الموسمية، مما يجعله مكانًا هادئًا للتأمل. يمكن للزوار الاستمتاع بنزهة مريحة في الأراضي واستنشاق الأجواء المهدئة. قد تستغرق الزيارة حوالي ساعة، خاصة خلال موسم زهور الكرز.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "هاكون يوماتو",
+          "type": "district",
+          "description": "هاكون يوماتو هو حي نابض بالحياة يعرف بينابيعها الساخنة ونزل الريوكان التقليدية. يعد هذا المنطقة بوابة لمناطق الجذب في هاكون، حيث تقدم مجموعة متنوعة من المتاجر والمقاهي وخيارات الطعام الشارعي. يجب على الزوار تخصيص بضع ساعات لاستكشاف الأطباق المحلية والاستمتاع بحمام مريح في واحدة من العديد من مرافق الينابيع الساخنة المتاحة.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "بحيرة آشي",
+          "type": "landmark",
+          "description": "تقدم بحيرة آشي إطلالات خلابة على جبل فوجي وهي مكان شهير لرحلات القوارب السياحية. يمكن للزوار القيام برحلة بالقارب عبر البحيرة أو الاستمتاع بمسارات المشي على ضفافها. تشتهر المنطقة بجمالها، خاصة خلال فصل الخريف. خطط لقضاء ساعة على الأقل لرحلة بالقارب أو أكثر إذا اخترت السير.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "হাকোনের শীর্ষ আকর্ষণ 2026 — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "হাকোনের সেরা আকর্ষণগুলি অন্বেষণ করুন। হাকোনের শীর্ষ দর্শনীয় স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "page_intro": "হাকোন একটি চমৎকার গন্তব্য যা টোকিও থেকে মাত্র এক ঘণ্টার দূরত্বে অবস্থিত, যা এর প্রাকৃতিক সৌন্দর্য, গরম পানির ঝর্ণা এবং ফুজি পর্বতের দৃশ্যের জন্য বিখ্যাত। এই মনোরম অঞ্চলটি সাংস্কৃতিক অভিজ্ঞতার একটি মিশ্রণ প্রদান করে, ঐতিহ্যবাহী মন্দির থেকে আধুনিক শিল্প জাদুঘর পর্যন্ত। দর্শনার্থীরা মনোরম হ্রদ দৃশ্য, সবুজ পাহাড় এবং পুনরুজ্জীবক অনসেনের আনন্দ উপভোগ করতে পারেন, যা এটিকে বিশ্রাম এবং অনুসন্ধানের জন্য একটি আদর্শ স্থান করে তোলে।",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "হাকোনে ওপেন-এয়ার মিউজিয়াম",
+          "type": "museum",
+          "description": "হাকোনে ওপেন-এয়ার মিউজিয়াম হল শিল্প এবং প্রকৃতির একটি অনন্য মিশ্রণ, যেখানে হাকোনের পর্বতের চমৎকার পটভূমির বিরুদ্ধে 100টিরও বেশি ভাস্কর্য রয়েছে। দর্শনার্থীরা বিভিন্ন ইনস্টলেশন অন্বেষণ করতে পারেন, পিকাসো এবং হেনরি মুরের কাজ সহ, পাশাপাশি গরম পানির পায়ের স্নানও রয়েছে। প্রদর্শনী এবং সুন্দর বাগানের পুরোপুরি উপভোগ করতে অন্তত 2-3 ঘন্টা ব্যয় করার পরিকল্পনা করুন।",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "হাকোনে মন্দির",
+          "type": "temple",
+          "description": "আশি হ্রদের পাশে বনভূমির মধ্যে অবস্থিত, হাকোনে মন্দির একটি শান্ত স্থানে পরিচিত যা তার আইকনিক টোরি গেটের জন্য পরিচিত, যা পানির মধ্যে দাঁড়িয়ে আছে। মন্দিরটি দর্শকদের চারপাশের সুন্দর প্রকৃতির প্রশংসা করার জন্য একটি শান্ত পরিবেশ প্রদান করে। ভিড় এড়াতে সকাল বেলা যাওয়ার সুপারিশ করা হয়।",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "ওয়াকুদানি ভ্যালি",
+          "type": "landmark",
+          "description": "ওয়াকুদানি ভ্যালি একটি আগ্নেয়গিরির এলাকা যা গরম পানির ঝর্ণা এবং ফুজি পর্বতের চমৎকার দৃশ্যের জন্য পরিচিত। দর্শনার্থীরা সালফিউরিক গরম ঝর্ণায় সিদ্ধ করা কালো ডিমের স্বাদ নেওয়ার অনন্য অভিজ্ঞতা উপভোগ করতে পারেন, যা দীর্ঘায়িত জীবনের জন্য বলা হয়। এলাকা হাকোনের রোপওয়ে দ্বারা অ্যাক্সেসযোগ্য, এবং বিশেষ করে হাঁটার জন্য 1-2 ঘন্টা বরাদ্দ করা সবচেয়ে ভালো।",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "পোলএ আর্ট মিউজিয়াম",
+          "type": "museum",
+          "description": "পোলএ আর্ট মিউজিয়াম একটি স্থাপত্য বিস্ময় যা পশ্চিমা এবং জাপানি শিল্পের একটি চমৎকার সংগ্রহ ধারণ করে। সবুজ প্রকৃতির মধ্যে অবস্থিত, জাদুঘরটি মনেট এবং রেনোয়ার সহ বিখ্যাত শিল্পীদের কাজ প্রদর্শন করে। দর্শকদের শিল্প এবং ভবনের নকশার প্রশংসা করার জন্য অন্তত 2 ঘণ্টার পরিকল্পনা করা উচিত, পাশাপাশি শান্ত বাগানগুলিও।",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "হাকোনে গিয়োকুরেন",
+          "type": "temple",
+          "description": "হাকোনে গিয়োকুরেন একটি কম পরিচিত মন্দির যা প্রকৃতির মধ্যে একটি শান্ত পালানোর স্থান প্রদান করে। মন্দিরটি এর চিত্রশিল্পী বাগান এবং মৌসুমি ফুলের জন্য বিখ্যাত, যা এটি চিন্তনের জন্য একটি শান্ত স্থান করে তোলে। দর্শনার্থীরা এলাকা ঘুরে দেখার মাধ্যমে একটি আরামদায়ক হাঁটার উপভোগ করতে পারেন এবং শান্ত পরিবেশের স্বাদ নিতে পারেন। চেরি ব্লসম মৌসুমে এখানে একটি ঘণ্টার মতো সময় লাগতে পারে।",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "হাকোনে ইয়ুমটো",
+          "type": "district",
+          "description": "হাকোনে ইয়ুমটো একটি প্রাণবন্ত জেলা যা গরম পানির ঝর্ণা এবং ঐতিহ্যবাহী রিওকান ইনগুলির জন্য পরিচিত। এই এলাকা হাকোনের আকর্ষণের জন্য একটি প্রবেশদ্বার হিসেবে কাজ করে, যেখানে বিভিন্ন দোকান, ক্যাফে এবং রাস্তার খাবারের বিকল্প রয়েছে। দর্শকদের স্থানীয় delicacies অন্বেষণ করতে এবং উপলব্ধ অনেক অনসেন সুবিধায় একটি বিশ্রাম নেওয়ার জন্য কয়েক ঘণ্টা বরাদ্দ করা উচিত।",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "আশি হ্রদ",
+          "type": "landmark",
+          "description": "আশি হ্রদ ফুজি পর্বতের চমৎকার দৃশ্য উপস্থাপন করে এবং দর্শনীয় ক্রুজের জন্য একটি জনপ্রিয় স্থান। দর্শনার্থীরা হ্রদে নৌকা ভ্রমণ করতে পারেন অথবা এর তীরে হাইকিং ট্রেইল উপভোগ করতে পারেন। এলাকা তার সুন্দর দৃশ্যের জন্য বিখ্যাত, বিশেষ করে শরৎকালে। নৌকা ভ্রমণের জন্য অন্তত এক ঘণ্টার পরিকল্পনা করুন বা যদি আপনি হাঁটার সিদ্ধান্ত নেন তবে আরও বেশি।",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие достопримечательности Хаконе 2026 — Билеты, советы и полное руководство",
+      "seo_description": "Изучите лучшие достопримечательности Хаконе. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Хаконе.",
+      "page_intro": "Хаконе — это потрясающее место, расположенное всего в часе от Токио, известное своей природной красотой, горячими источниками и видами на гору Фудзи. Этот живописный район предлагает смесь культурных впечатлений, от традиционных храмов до современных художественных музеев. Посетители могут наслаждаться живописными видами на озеро, зелеными горами и восстанавливающими онсэнами, что делает его идеальным местом для отдыха и исследования.",
+      "items": [
+        {
+          "id": "hakone-open-air-museum",
+          "name": "Музей под открытым небом Хаконе",
+          "type": "museum",
+          "description": "Музей под открытым небом Хаконе — это уникальное сочетание искусства и природы, в котором представлены более 100 скульптур на фоне потрясающих гор Хаконе. Посетители могут исследовать различные инсталляции, включая работы Пикассо и Генри Мура, а также купели для ног с горячими источниками. Запланируйте провести не менее 2-3 часов, чтобы полностью насладиться экспозициями и красивыми садами.",
+          "image_keyword": "Hakone Open-Air Museum",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,600",
+          "best_time": "anytime",
+          "klook_query": "Hakone Open-Air Museum tickets"
+        },
+        {
+          "id": "hakone-shrine",
+          "name": "Святилище Хаконе",
+          "type": "temple",
+          "description": "Уединенное в лесу у озера Ашии, святилище Хаконе — это спокойное место, известное своим культовым тории, который стоит в воде. Святилище предлагает мирную атмосферу для посетителей, чтобы насладиться прекрасной природой вокруг. Рекомендуется посетить его утром, чтобы насладиться спокойствием и сделать потрясающие фотографии без толпы.",
+          "image_keyword": "Hakone Shrine",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hakone Shrine visit"
+        },
+        {
+          "id": "owakudani-valley",
+          "name": "Долина Овакудани",
+          "type": "landmark",
+          "description": "Долина Овакудани — это вулканическая область, известная своими горячими источниками и потрясающими видами на гору Фудзи. Посетители могут насладиться уникальным опытом дегустации черных яиц, сваренных в сернистых горячих источниках, которые, как говорят, продлевают жизнь. В эту область можно добраться на канатной дороге Хаконе, и лучше выделить 1-2 часа на исследование, особенно если вы хотите походить по окрестностям.",
+          "image_keyword": "Owakudani Valley",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,500",
+          "best_time": "afternoon",
+          "klook_query": "Owakudani Valley tickets"
+        },
+        {
+          "id": "polA-museum",
+          "name": "Музей искусств ПолА",
+          "type": "museum",
+          "description": "Музей искусств ПолА — это архитектурное чудо, в котором представлена впечатляющая коллекция западного и японского искусства. Окруженный зелеными насаждениями, музей включает работы таких известных художников, как Моне и Ренуар. Посетителям следует запланировать не менее 2 часов, чтобы оценить искусство и дизайн самого здания, а также спокойные сады.",
+          "image_keyword": "PolA Museum of Art",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,800",
+          "best_time": "anytime",
+          "klook_query": "PolA Museum of Art tickets"
+        },
+        {
+          "id": "hakone-gyokuren",
+          "name": "Хаконе Гёкурен",
+          "type": "temple",
+          "description": "Хаконе Гёкурен — это менее известный храм, предлагающий спокойное место для отдыха на природе. Храм славится своими живописными садами и сезонными цветами, что делает его спокойным местом для размышлений. Посетители могут насладиться неспешной прогулкой по территории и насладиться успокаивающей атмосферой. Визит может занять около часа, особенно в сезон цветения вишни.",
+          "image_keyword": "Hakone Gyokuren",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Gyokuren visit"
+        },
+        {
+          "id": "hakone-yumoto",
+          "name": "Хаконе Юмото",
+          "type": "district",
+          "description": "Хаконе Юмото — это оживленный район, известный своими горячими источниками и традиционными рёканами. Этот район служит воротами к достопримечательностям Хаконе, предлагая различные магазины, кафе и уличную еду. Посетителям следует выделить несколько часов для знакомства с местными деликатесами и насладиться расслабляющей купелью в одном из многих доступных онсэнов.",
+          "image_keyword": "Hakone Yumoto",
+          "star_rating": 4.3,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Hakone Yumoto experience"
+        },
+        {
+          "id": "lake-ashi",
+          "name": "Озеро Ашии",
+          "type": "landmark",
+          "description": "Озеро Ашии предлагает потрясающие виды на гору Фудзи и является популярным местом для экскурсионных круизов. Посетители могут прокатиться на лодке по озеру или насладиться пешеходными тропами вдоль его берегов. Эта область знаменита своей красивой природой, особенно осенью. Запланируйте как минимум час на поездку на лодке или больше, если вы решите прогуляться.",
+          "image_keyword": "Lake Ashi",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx ¥1,000",
+          "best_time": "afternoon",
+          "klook_query": "Lake Ashi boat tickets"
+        }
+      ]
+    }
+  }
+}

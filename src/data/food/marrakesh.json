@@ -1,0 +1,1145 @@
+{
+  "city_slug": "marrakesh",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Marrakesh 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Marrakesh. From budget eats to fine dining — with booking links.",
+      "page_intro": "Marrakesh is a vibrant city known for its rich food culture, blending traditional Moroccan flavors with a modern twist. Visitors can indulge in aromatic tagines, freshly baked bread, and sweet pastries, reflecting the region's diverse culinary heritage. Whether you're exploring bustling souks or dining in elegant riads, the food scene in Marrakesh promises to be a delightful adventure.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "Djemaa el-Fna",
+          "type": "night_market",
+          "description": "Djemaa el-Fna is the heart of Marrakesh, transforming into a lively night market filled with food stalls and street performers. Here, you can savor local dishes like grilled meats, spicy harira, and sweet pastries. The atmosphere is electric, with the sounds of musicians and storytellers surrounding you. It's a must-visit for anyone looking to experience authentic Moroccan street food.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "Le Tanjia",
+          "type": "restaurant",
+          "description": "Le Tanjia offers a charming dining experience with traditional Moroccan decor and a menu focused on local specialties. Their signature dish, Tanjia, is a slow-cooked lamb stew that melts in your mouth. The ambiance is cozy, making it perfect for a romantic dinner or a gathering with friends. Prices are reasonable, allowing you to enjoy a lavish meal without breaking the bank.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "Café de France",
+          "type": "cafe",
+          "description": "Café de France is an iconic spot located on the bustling Djemaa el-Fna square, perfect for people-watching. Enjoy a refreshing mint tea or a delicious Moroccan breakfast while soaking in the vibrant atmosphere. The café offers a variety of pastries and light meals, making it a great place to relax after exploring the market. Prices are quite affordable, catering to all budgets.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "Al Fassia",
+          "type": "restaurant",
+          "description": "Al Fassia is renowned for its authentic Moroccan cuisine, especially its incredible tagines. The restaurant is run by women and is famous for its warm hospitality and traditional recipes. The atmosphere is elegant, ideal for enjoying a leisurely meal. Prices are on the higher side, reflecting the quality of food and service you will receive.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "Marrakech Street Food Tour",
+          "type": "street_food",
+          "description": "Experience the best of Marrakesh's street food with a guided tour that takes you through bustling markets and hidden gems. Sample delicious items like kebabs, pastries, and traditional Moroccan salads. The knowledgeable guides provide insights into local culture and culinary traditions, making it a fun and informative experience. Prices vary depending on the tour length and inclusions.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "La Mamounia",
+          "type": "restaurant",
+          "description": "La Mamounia is a luxurious hotel restaurant offering a fine dining experience with a Moroccan twist. The ambiance is opulent, featuring beautiful gardens and elegant decor. Signature dishes include exquisite tagines and couscous. While it’s on the pricier side, the experience is unforgettable, making it perfect for special occasions or a romantic evening.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "Souq Derb Zaouia",
+          "type": "street_food",
+          "description": "Souq Derb Zaouia is a hidden gem for street food enthusiasts, offering a variety of local delicacies at affordable prices. You can find traditional dishes like pastilla, grilled sardines, and various Moroccan salads. The lively atmosphere and local vibe make it a great spot to experience the authentic flavors of Marrakesh. It's a budget-friendly option for delicious street eats.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "Couscous and Tagine",
+          "type": "local_specialty",
+          "description": "Couscous and Tagine are staples of Moroccan cuisine, and you can find numerous vendors specializing in these dishes throughout Marrakesh. They are typically served with a variety of vegetables and meats, creating a hearty and flavorful meal. Prices are generally low, making it accessible for anyone looking to sample traditional Moroccan fare on a budget.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年馬拉喀什最佳美食—頂級餐廳及街頭美食指南",
+      "seo_description": "探索馬拉喀什最好的餐廳、街頭美食和當地特色。從經濟實惠的美食到高級餐飲—附有預訂鏈接。",
+      "page_intro": "馬拉喀什是一座充滿活力的城市，以其豐富的飲食文化而聞名，將傳統摩洛哥風味與現代風格相融合。遊客可以品嚐到芳香的塔吉鍋、新鮮出爐的麵包和甜美的糕點，反映該地區多樣的烹飪傳承。無論您是在繁忙的市場中探索，還是在優雅的庭院中用餐，馬拉喀什的美食場景都將為您帶來愉快的冒險。",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "德吉馬廣場",
+          "type": "night_market",
+          "description": "德吉馬廣場是馬拉喀什的心臟，變成一個熱鬧的夜市，充滿了食品攤位和街頭表演者。在這裡，您可以品嚐到當地菜餚，如烤肉、辛辣的哈里拉湯和甜點。周圍環繞著音樂家和講故事者，氣氛電力十足。對於任何想要體驗正宗摩洛哥街頭美食的人來說，這裡是必訪之地。",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "塔恩吉亞",
+          "type": "restaurant",
+          "description": "塔恩吉亞提供迷人的用餐體驗，擁有傳統摩洛哥裝飾和專注於當地特色的菜單。他們的招牌菜塔恩吉亞是一道慢燉的羊肉燉菜，入口即化。氛圍舒適，非常適合浪漫晚餐或與朋友聚會。價格合理，讓您可以盡享奢華的美食而不會破產。",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "法國咖啡館",
+          "type": "cafe",
+          "description": "法國咖啡館是一個位於熱鬧的德吉馬廣場的標誌性場所，非常適合觀察人群。享用一杯清新的薄荷茶或美味的摩洛哥早餐，同時沉浸在充滿活力的氛圍中。咖啡館提供各種糕點和輕食，是探索市場後放鬆的好地方。價格相當實惠，適合所有預算。",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "阿爾法西亞",
+          "type": "restaurant",
+          "description": "阿爾法西亞以其正宗的摩洛哥美食而聞名，特別是其驚人的塔吉鍋。這家餐廳由女性經營，以其熱情好客和傳統食譜而著稱。氛圍高雅，適合悠閒用餐。價格較高，反映出您將獲得的食品和服務質量。",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "馬拉喀什街頭美食之旅",
+          "type": "street_food",
+          "description": "通過導遊帶領的旅程，體驗馬拉喀什街頭美食的精華，帶您穿越繁忙的市場和隱藏的瑰寶。品嚐美味的食物，如烤肉、糕點和傳統摩洛哥沙拉。知識淵博的導遊提供有關當地文化和烹飪傳統的見解，使之成為一個有趣而富有信息的體驗。價格因旅程長度和包含內容而異。",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "拉馬蒙尼亞",
+          "type": "restaurant",
+          "description": "拉馬蒙尼亞是一家豪華酒店餐廳，提供摩洛哥風味的高級用餐體驗。氛圍奢華，擁有美麗的花園和優雅的裝飾。招牌菜包括精美的塔吉鍋和古斯古斯。雖然價格較高，但體驗難以忘懷，非常適合特殊場合或浪漫的夜晚。",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "德爾布扎維亞市場",
+          "type": "street_food",
+          "description": "德爾布扎維亞市場是街頭美食愛好者的隱藏寶石，提供各種當地美食，價格實惠。您可以找到傳統菜餚，如巴斯提拉、烤沙丁魚和各種摩洛哥沙拉。熱鬧的氣氛和當地氛圍使這裡成為體驗馬拉喀什正宗風味的好地方。對於美味的街頭美食來說，這是一個經濟實惠的選擇。",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "古斯古斯和塔吉鍋",
+          "type": "local_specialty",
+          "description": "古斯古斯和塔吉鍋是摩洛哥菜的主食，您可以在馬拉喀什的許多攤販中找到專門製作這些菜餚的。它們通常配有各種蔬菜和肉類，創造出豐盛而美味的餐點。價格通常較低，讓任何人都能在預算內品嚐傳統摩洛哥美食。",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年マラケシュのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "マラケシュの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "マラケシュは、その豊かな食文化で知られる活気のある都市で、伝統的なモロッコの風味と現代的なひねりが融合しています。訪れる人々は、香ばしいタジン、新鮮に焼き上げられたパン、甘いペストリーを楽しむことができ、この地域の多様な料理の遺産を反映しています。賑やかなスークを探索する場合でも、エレガントなリアドで食事をする場合でも、マラケシュの食のシーンは素晴らしい冒険を約束します。",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "ジャマ・エル・フナ広場",
+          "type": "night_market",
+          "description": "ジャマ・エル・フナ広場はマラケシュの中心地であり、食べ物の屋台やストリートパフォーマーで満ちた活気ある夜市に変わります。ここでは、グリルした肉、スパイシーなハリラ、甘いペストリーなどの地元料理を味わうことができます。音楽家や語り手の音が周囲に響く中、雰囲気は電気的です。本格的なモロッコのストリートフードを体験したい人には必見の場所です。",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "ル・タンジア",
+          "type": "restaurant",
+          "description": "ル・タンジアは、伝統的なモロッコの装飾と地元の特産品に焦点を当てたメニューで魅力的なダイニング体験を提供します。彼らの名物料理であるタンジアは、口の中でとろけるような低温調理のラム肉シチューです。雰囲気は居心地が良く、ロマンチックなディナーや友人との集まりに最適です。価格は手頃で、破産することなく贅沢な食事を楽しむことができます。",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "カフェ・ド・フランス",
+          "type": "cafe",
+          "description": "カフェ・ド・フランスは、賑やかなジャマ・エル・フナ広場にあるアイコニックなスポットで、人間観察に最適です。活気ある雰囲気を楽しみながら、さわやかなミントティーやおいしいモロッコの朝食をお楽しみください。カフェではさまざまなペストリーや軽食が提供されており、市場を探索した後にリラックスするのに最適な場所です。価格はかなり手頃で、すべての予算に対応しています。",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "アル・ファシア",
+          "type": "restaurant",
+          "description": "アル・ファシアは、その本格的なモロッコ料理、特に素晴らしいタジンで有名です。このレストランは女性によって運営されており、温かいおもてなしと伝統的なレシピで有名です。雰囲気はエレガントで、ゆったりとした食事を楽しむのに理想的です。価格は高めですが、提供される食べ物とサービスの質を反映しています。",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "マラケシュストリートフードツアー",
+          "type": "street_food",
+          "description": "ガイド付きツアーでマラケシュのストリートフードのベストを体験し、賑やかな市場や隠れた宝石を巡ります。ケバブ、ペストリー、伝統的なモロッコのサラダなどの美味しい料理を試食できます。知識豊富なガイドが地元の文化や料理の伝統についての洞察を提供し、楽しく有益な体験を提供します。価格はツアーの長さや内容によって異なります。",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "ラ・マムーニア",
+          "type": "restaurant",
+          "description": "ラ・マムーニアは、モロッコ風の高級ダイニング体験を提供する豪華なホテルレストランです。雰囲気は豪華で、美しい庭園やエレガントな装飾が特徴です。名物料理には、絶品のタジンやクスクスがあります。価格は高めですが、体験は忘れられないものになり、特別な occasion やロマンチックな夜に最適です。",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "スーク・ダーブ・ザウィア",
+          "type": "street_food",
+          "description": "スーク・ダーブ・ザウィアは、ストリートフード愛好者の隠れた宝石で、手頃な価格でさまざまな地元の delicacies を提供しています。バスティラ、グリルサーディン、さまざまなモロッコのサラダなどの伝統料理を見つけることができます。賑やかな雰囲気と地元の雰囲気があり、マラケシュの本物の風味を体験するのに最適なスポットです。美味しいストリートフードに対して予算に優しいオプションです。",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "クスクスとタジン",
+          "type": "local_specialty",
+          "description": "クスクスとタジンはモロッコ料理の主食で、マラケシュ全体にこれらの料理を専門とする多くのベンダーがいます。通常、さまざまな野菜や肉と一緒に提供され、ボリューム満点で風味豊かな食事を作ります。価格は一般的に低く、予算内で伝統的なモロッコ料理を試してみたい人にアクセス可能です。",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 마라케시 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "마라케시에서 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 친화적인 음식부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "마라케시는 전통적인 모로코 맛과 현대적인 변화를 혼합한 풍부한 음식 문화로 유명한 활기찬 도시입니다. 방문객들은 향긋한 타진, 갓 구운 빵, 그리고 지역의 다양한 요리 유산을 반영하는 달콤한 페이스트리를 즐길 수 있습니다. 북적이는 수크를 탐험하든 우아한 리야드에서 식사를 하든, 마라케시의 음식 장면은 즐거운 모험을 약속합니다.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "제마 엘 프나",
+          "type": "night_market",
+          "description": "제마 엘 프나는 마라케시의 중심지로, 음식 노점과 거리 공연자로 가득한 활기찬 야시장이 됩니다. 여기에서 구운 고기, 매운 하리라, 달콤한 페이스트리와 같은 지역 요리를 맛볼 수 있습니다. 음악가와 이야기꾼의 소리가 주위를 감싸고 있는 전기 같은 분위기입니다. 진정한 모로코 스트리트 푸드를 경험하고자 하는 분들에게 반드시 방문해야 할 곳입니다.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "르 탄지아",
+          "type": "restaurant",
+          "description": "르 탄지아는 전통적인 모로코 장식과 지역 특산품에 중점을 둔 메뉴로 매력적인 다이닝 경험을 제공합니다. 그들의 시그니처 요리인 탄지아는 입에서 녹는 저온 조리 양고기 스튜입니다. 분위기는 아늑하여 로맨틱한 저녁이나 친구들과의 모임에 완벽합니다. 가격은 합리적이어서 파산하지 않고도 호화로운 식사를 즐길 수 있습니다.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "카페 드 프랑스",
+          "type": "cafe",
+          "description": "카페 드 프랑스는 북적이는 제마 엘 프나 광장에 위치한 상징적인 장소로, 사람들을 관찰하기에 완벽합니다. 활기찬 분위기 속에서 상쾌한 민트차나 맛있는 모로코 아침을 즐겨보세요. 카페는 다양한 페이스트리와 가벼운 식사를 제공하여 시장 탐험 후 휴식을 취하기에 좋은 곳입니다. 가격은 상당히 저렴하여 모든 예산에 맞출 수 있습니다.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "알 파시아",
+          "type": "restaurant",
+          "description": "알 파시아는 그 놀라운 타진으로 특히 유명한 정통 모로코 요리로 잘 알려져 있습니다. 이 레스토랑은 여성들이 운영하며, 따뜻한 환대와 전통 레시피로 유명합니다. 분위기는 우아하여 여유로운 식사를 즐기기에 이상적입니다. 가격은 다소 높지만, 제공되는 음식과 서비스의 질을 반영합니다.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "마라케시 스트리트 푸드 투어",
+          "type": "street_food",
+          "description": "가이드 투어를 통해 마라케시의 스트리트 푸드의 최고를 경험하세요. 번화한 시장과 숨겨진 보석을 탐험하며, 케밥, 페이스트리 및 전통 모로코 샐러드와 같은 맛있는 음식을 샘플링할 수 있습니다. 지식이 풍부한 가이드가 지역 문화와 요리 전통에 대한 통찰력을 제공하여 재미있고 유익한 경험을 선사합니다. 가격은 투어의 길이와 포함된 내용에 따라 다릅니다.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "라 마무니아",
+          "type": "restaurant",
+          "description": "라 마무니아는 모로코풍의 고급 다이닝 경험을 제공하는 고급 호텔 레스토랑입니다. 분위기는 호화로우며 아름다운 정원과 우아한 장식이 특징입니다. 시그니처 요리에는 절묘한 타진과 쿠스쿠스가 포함되어 있습니다. 가격은 다소 비싸지만, 경험은 잊을 수 없는 것이며 특별한 행사나 로맨틱한 저녁에 적합합니다.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "스ーク 데르브 자우이아",
+          "type": "street_food",
+          "description": "스ーク 데르브 자우이아는 스트리트 푸드 애호가를 위한 숨겨진 보석으로, 저렴한 가격에 다양한 지역 진미를 제공합니다. 바스틸라, 구운 정어리 및 다양한 모로코 샐러드와 같은 전통 요리를 찾을 수 있습니다. 활기찬 분위기와 지역의 느낌이 있어 마라케시의 진정한 맛을 경험하는 데 좋은 장소입니다. 맛있는 스트리트 푸드를 위한 예산 친화적인 선택입니다.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "쿠스쿠스와 타진",
+          "type": "local_specialty",
+          "description": "쿠스쿠스와 타진은 모로코 요리의 주식이며, 마라케시 전역에 이러한 요리를 전문으로 하는 많은 상인이 있습니다. 일반적으로 다양한 채소와 고기와 함께 제공되어 푸짐하고 풍미가 가득한 식사를 만듭니다. 가격은 일반적으로 저렴하여 전통적인 모로코 음식을 예산 내에서 맛보고 싶은 모든 사람에게 접근 가능하게 합니다.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Marrakech 2026 — Meilleurs restaurants & guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Marrakech. Des repas à petit budget à la gastronomie — avec des liens de réservation.",
+      "page_intro": "Marrakech est une ville vibrante connue pour sa riche culture culinaire, mêlant saveurs marocaines traditionnelles et touche moderne. Les visiteurs peuvent se régaler de tajines aromatiques, de pain fraîchement cuit et de pâtisseries sucrées, reflétant l'héritage culinaire diversifié de la région. Que vous exploriez des souks animés ou dîniez dans des riads élégants, la scène gastronomique de Marrakech promet d'être une aventure délicieuse.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "Djemaa el-Fna",
+          "type": "night_market",
+          "description": "Djemaa el-Fna est le cœur de Marrakech, se transformant en un marché nocturne animé rempli de stands de nourriture et de performers de rue. Ici, vous pouvez savourer des plats locaux comme des viandes grillées, de la harira épicée et des pâtisseries sucrées. L'atmosphère est électrique, avec les sons des musiciens et des conteurs vous entourant. C'est un incontournable pour quiconque souhaitant découvrir la cuisine de rue marocaine authentique.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "Le Tanjia",
+          "type": "restaurant",
+          "description": "Le Tanjia offre une expérience culinaire charmante avec une décoration marocaine traditionnelle et un menu axé sur les spécialités locales. Leur plat signature, le Tanjia, est un ragoût d'agneau cuit lentement qui fond dans la bouche. L'ambiance est chaleureuse, idéale pour un dîner romantique ou un rassemblement entre amis. Les prix sont raisonnables, vous permettant de profiter d'un repas somptueux sans vous ruiner.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "Café de France",
+          "type": "cafe",
+          "description": "Le Café de France est un endroit emblématique situé sur la place animée de Djemaa el-Fna, parfait pour observer les gens. Profitez d'un thé à la menthe rafraîchissant ou d'un délicieux petit-déjeuner marocain tout en vous imprégnant de l'atmosphère vibrante. Le café propose une variété de pâtisseries et de plats légers, ce qui en fait un excellent endroit pour se détendre après avoir exploré le marché. Les prix sont assez abordables, s'adaptant à tous les budgets.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "Al Fassia",
+          "type": "restaurant",
+          "description": "Al Fassia est réputé pour sa cuisine marocaine authentique, en particulier ses incroyables tajines. Le restaurant est dirigé par des femmes et est célèbre pour son hospitalité chaleureuse et ses recettes traditionnelles. L'atmosphère est élégante, idéale pour savourer un repas tranquille. Les prix sont plus élevés, reflétant la qualité de la nourriture et du service que vous recevrez.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "Visite des Street Food de Marrakech",
+          "type": "street_food",
+          "description": "Découvrez le meilleur de la street food de Marrakech avec une visite guidée qui vous emmène à travers des marchés animés et des trésors cachés. Dégustez des plats délicieux tels que des kebabs, des pâtisseries et des salades marocaines traditionnelles. Les guides expérimentés fournissent des informations sur la culture locale et les traditions culinaires, rendant l'expérience amusante et instructive. Les prix varient en fonction de la durée de la visite et des inclusions.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "La Mamounia",
+          "type": "restaurant",
+          "description": "La Mamounia est un restaurant d'hôtel de luxe offrant une expérience de restauration haut de gamme avec une touche marocaine. L'ambiance est opulente, avec de magnifiques jardins et une décoration élégante. Les plats signature incluent des tajines exquis et du couscous. Bien qu'il soit plus cher, l'expérience est inoubliable, ce qui le rend parfait pour des occasions spéciales ou une soirée romantique.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "Souq Derb Zaouia",
+          "type": "street_food",
+          "description": "Le Souq Derb Zaouia est un trésor caché pour les amateurs de street food, offrant une variété de délices locaux à des prix abordables. Vous pouvez trouver des plats traditionnels comme la pastilla, les sardines grillées et diverses salades marocaines. L'atmosphère animée et le style local en font un excellent endroit pour découvrir les saveurs authentiques de Marrakech. C'est une option économique pour des repas de rue délicieux.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "Couscous et Tagine",
+          "type": "local_specialty",
+          "description": "Le couscous et le tagine sont des plats de base de la cuisine marocaine, et vous pouvez trouver de nombreux vendeurs spécialisés dans ces plats à travers Marrakech. Ils sont généralement servis avec une variété de légumes et de viandes, créant un repas copieux et savoureux. Les prix sont généralement bas, ce qui les rend accessibles à quiconque souhaitant goûter à la cuisine marocaine traditionnelle avec un budget limité.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Marrakech 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Marrakech. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Marrakech es una ciudad vibrante conocida por su rica cultura gastronómica, que mezcla sabores tradicionales marroquíes con un toque moderno. Los visitantes pueden disfrutar de tajines aromáticos, pan recién horneado y pasteles dulces, que reflejan la diversa herencia culinaria de la región. Ya sea que esté explorando bulliciosos zocos o cenando en elegantes riads, la escena gastronómica de Marrakech promete ser una aventura deliciosa.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "Djemaa el-Fna",
+          "type": "night_market",
+          "description": "Djemaa el-Fna es el corazón de Marrakech, transformándose en un animado mercado nocturno lleno de puestos de comida y artistas callejeros. Aquí, puedes saborear platos locales como carnes asadas, harira picante y pasteles dulces. La atmósfera es eléctrica, con los sonidos de músicos y narradores que te rodean. Es una visita obligada para cualquiera que busque experimentar la auténtica comida callejera marroquí.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "Le Tanjia",
+          "type": "restaurant",
+          "description": "Le Tanjia ofrece una experiencia gastronómica encantadora con decoración marroquí tradicional y un menú centrado en especialidades locales. Su plato estrella, el Tanjia, es un guiso de cordero cocido a fuego lento que se derrite en la boca. El ambiente es acogedor, lo que lo hace perfecto para una cena romántica o una reunión con amigos. Los precios son razonables, lo que te permite disfrutar de una comida lujosa sin arruinarte.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "Café de France",
+          "type": "cafe",
+          "description": "Café de France es un lugar icónico ubicado en la bulliciosa plaza Djemaa el-Fna, perfecto para observar a la gente. Disfruta de un refrescante té de menta o un delicioso desayuno marroquí mientras absorbes la vibrante atmósfera. El café ofrece una variedad de pasteles y comidas ligeras, lo que lo convierte en un excelente lugar para relajarse después de explorar el mercado. Los precios son bastante asequibles, adaptándose a todos los presupuestos.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "Al Fassia",
+          "type": "restaurant",
+          "description": "Al Fassia es conocida por su auténtica cocina marroquí, especialmente por sus increíbles tajines. El restaurante es dirigido por mujeres y es famoso por su cálida hospitalidad y recetas tradicionales. La atmósfera es elegante, ideal para disfrutar de una comida tranquila. Los precios son más altos, reflejando la calidad de la comida y el servicio que recibirás.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "Tour de comida callejera de Marrakech",
+          "type": "street_food",
+          "description": "Experimenta lo mejor de la comida callejera de Marrakech con un tour guiado que te lleva a través de mercados bulliciosos y joyas escondidas. Prueba deliciosos platillos como kebabs, pasteles y ensaladas marroquíes tradicionales. Los guías conocedores brindan información sobre la cultura local y las tradiciones culinarias, lo que hace que la experiencia sea divertida e informativa. Los precios varían según la duración del tour y las inclusiones.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "La Mamounia",
+          "type": "restaurant",
+          "description": "La Mamounia es un restaurante de hotel de lujo que ofrece una experiencia gastronómica de alta gama con un toque marroquí. La atmósfera es opulenta, con hermosos jardines y decoración elegante. Los platos estrella incluyen tajines exquisitos y cuscús. Si bien es más caro, la experiencia es inolvidable, lo que lo convierte en el lugar perfecto para ocasiones especiales o una noche romántica.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "Souq Derb Zaouia",
+          "type": "street_food",
+          "description": "Souq Derb Zaouia es una joya escondida para los amantes de la comida callejera, que ofrece una variedad de delicias locales a precios asequibles. Puedes encontrar platos tradicionales como pastilla, sardinas a la parrilla y diversas ensaladas marroquíes. La atmósfera animada y el ambiente local lo convierten en un excelente lugar para descubrir los sabores auténticos de Marrakech. Es una opción económica para disfrutar de deliciosa comida callejera.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "Cuscús y Tajín",
+          "type": "local_specialty",
+          "description": "El cuscús y el tajín son alimentos básicos de la cocina marroquí, y puedes encontrar numerosos vendedores especializados en estos platos en toda Marrakech. Generalmente se sirven con una variedad de verduras y carnes, creando una comida abundante y sabrosa. Los precios son generalmente bajos, lo que lo hace accesible para cualquiera que quiera probar la comida marroquí tradicional con un presupuesto.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Marrakesh 2026 — Restoran Terbaik & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran, makanan jalanan, dan spesial lokal terbaik di Marrakesh. Dari makanan dengan anggaran hingga makanan mewah — dengan tautan pemesanan.",
+      "page_intro": "Marrakesh adalah kota yang semarak yang dikenal dengan budaya makanan yang kaya, memadukan cita rasa Maroko tradisional dengan sentuhan modern. Para pengunjung dapat menikmati tajin aromatik, roti yang baru dipanggang, dan kue manis yang mencerminkan warisan kuliner daerah yang beragam. Apakah Anda menjelajahi souk yang ramai atau makan di riad yang elegan, suasana kuliner di Marrakesh menjanjikan petualangan yang menyenangkan.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "Djemaa el-Fna",
+          "type": "night_market",
+          "description": "Djemaa el-Fna adalah jantung Marrakesh, berubah menjadi pasar malam yang hidup penuh dengan stan makanan dan penghibur jalanan. Di sini, Anda dapat menikmati hidangan lokal seperti daging panggang, harira pedas, dan kue manis. Suasananya sangat hidup, dikelilingi oleh suara musisi dan pendongeng. Ini adalah tempat yang wajib dikunjungi bagi siapa saja yang ingin merasakan makanan jalanan Maroko yang otentik.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "Le Tanjia",
+          "type": "restaurant",
+          "description": "Le Tanjia menawarkan pengalaman bersantap yang menawan dengan dekorasi Maroko tradisional dan menu yang berfokus pada spesial lokal. Hidangan khas mereka, Tanjia, adalah semur daging domba yang dimasak perlahan hingga meleleh di mulut. Suasananya nyaman, menjadikannya sempurna untuk makan malam romantis atau berkumpul dengan teman. Harganya terjangkau, memungkinkan Anda menikmati hidangan mewah tanpa menguras kantong.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "Café de France",
+          "type": "cafe",
+          "description": "Café de France adalah tempat ikonik yang terletak di alun-alun Djemaa el-Fna yang ramai, sempurna untuk mengamati orang. Nikmati teh mint yang menyegarkan atau sarapan Maroko yang lezat sambil menyerap suasana yang hidup. Kafe ini menawarkan berbagai kue dan makanan ringan, menjadikannya tempat yang baik untuk bersantai setelah menjelajahi pasar. Harganya cukup terjangkau, memenuhi berbagai anggaran.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "Al Fassia",
+          "type": "restaurant",
+          "description": "Al Fassia terkenal dengan masakan Maroko yang otentik, terutama tajin yang luar biasa. Restoran ini dijalankan oleh perempuan dan terkenal dengan keramahan yang hangat dan resep tradisional. Suasana di sini elegan, ideal untuk menikmati makan yang santai. Harganya lebih tinggi, mencerminkan kualitas makanan dan layanan yang akan Anda terima.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "Tur Makanan Jalanan Marrakesh",
+          "type": "street_food",
+          "description": "Rasakan yang terbaik dari makanan jalanan Marrakesh dengan tur berpemandu yang membawa Anda melalui pasar yang ramai dan permata tersembunyi. Cicipi hidangan lezat seperti kebab, kue, dan salad Maroko tradisional. Pemandu yang berpengetahuan memberikan wawasan tentang budaya lokal dan tradisi kuliner, menjadikannya pengalaman yang menyenangkan dan informatif. Harganya bervariasi tergantung pada durasi tur dan inklusinya.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "La Mamounia",
+          "type": "restaurant",
+          "description": "La Mamounia adalah restoran hotel mewah yang menawarkan pengalaman bersantap yang mewah dengan sentuhan Maroko. Suasana di sini megah, dengan kebun yang indah dan dekorasi yang elegan. Hidangan khasnya termasuk tajin yang sangat baik dan couscous. Meskipun harganya lebih tinggi, pengalaman ini tak terlupakan, menjadikannya sempurna untuk acara khusus atau malam romantis.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "Souq Derb Zaouia",
+          "type": "street_food",
+          "description": "Souq Derb Zaouia adalah permata tersembunyi bagi penggemar makanan jalanan, menawarkan berbagai delicacies lokal dengan harga terjangkau. Anda dapat menemukan hidangan tradisional seperti pastilla, sarden panggang, dan berbagai salad Maroko. Suasana yang hidup dan nuansa lokal membuatnya menjadi tempat yang baik untuk merasakan cita rasa otentik Marrakesh. Ini adalah pilihan yang ramah anggaran untuk makanan jalanan yang lezat.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "Couscous dan Tagine",
+          "type": "local_specialty",
+          "description": "Couscous dan Tagine adalah makanan pokok dalam masakan Maroko, dan Anda dapat menemukan banyak penjual yang mengkhususkan diri dalam hidangan ini di seluruh Marrakesh. Mereka biasanya disajikan dengan berbagai sayuran dan daging, menciptakan hidangan yang melimpah dan penuh rasa. Harganya umumnya rendah, membuatnya dapat diakses oleh siapa saja yang ingin mencoba makanan Maroko tradisional dengan anggaran.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "मैराकेश में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "मैराकेश के सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट से लेकर उच्च श्रेणी के भोजन तक - बुकिंग लिंक के साथ।",
+      "page_intro": "मैराकेश एक जीवंत शहर है जो अपनी समृद्ध खाद्य संस्कृति के लिए जाना जाता है, जो पारंपरिक मोरक्को के स्वादों को आधुनिक मोड़ के साथ जोड़ता है। आगंतुक सुगंधित तजिन, ताज़ा बेक्ड ब्रेड और मीठे पेस्ट्री का आनंद ले सकते हैं, जो क्षेत्र की विविध पाक विरासत को दर्शाता है। चाहे आप हलचल भरे सूक की खोज कर रहे हों या भव्य रियाद में भोजन कर रहे हों, मैराकेश का खाद्य दृश्य एक सुखद यात्रा का वादा करता है।",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "जेमा एल-फना",
+          "type": "night_market",
+          "description": "जेमा एल-फना मैराकेश का दिल है, जो खाद्य स्टालों और स्ट्रीट प्रदर्शनकारियों से भरे जीवंत रात के बाजार में बदल जाता है। यहाँ, आप ग्रिल्ड मीट, मसालेदार हरिरा और मीठे पेस्ट्री जैसे स्थानीय व्यंजनों का आनंद ले सकते हैं। वातावरण विद्युत है, जहाँ संगीतकारों और कहानीकारों की आवाज़ें आपके चारों ओर होती हैं। यह किसी भी व्यक्ति के लिए एक अवश्य देखने योग्य स्थान है जो प्रामाणिक मोरक्को के स्ट्रीट फूड का अनुभव करना चाहता है।",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "ले तंजिया",
+          "type": "restaurant",
+          "description": "ले तंजिया एक आकर्षक भोजन अनुभव प्रदान करता है जिसमें पारंपरिक मोरक्को की सजावट और स्थानीय विशेषताओं पर केंद्रित मेनू है। उनका सिग्नेचर डिश, तंजिया, एक धीमी पकी हुई मेमने की स्टू है जो आपके मुँह में पिघल जाती है। वातावरण आरामदायक है, जो रोमांटिक डिनर या दोस्तों के साथ मिलनसार के लिए परफेक्ट है। कीमतें उचित हैं, जिससे आप बिना बैंक तोड़े एक शानदार भोजन का आनंद ले सकते हैं।",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "कैफे डे फ्रांस",
+          "type": "cafe",
+          "description": "कैफे डे फ्रांस एक प्रतिष्ठित स्थान है जो हलचल भरे जेमा एल-फना चौक पर स्थित है, लोगों को देखने के लिए परफेक्ट है। ताज़गी भरी पुदीने की चाय या स्वादिष्ट मोरक्को के नाश्ते का आनंद लें जबकि जीवंत वातावरण में डूब जाएं। कैफे में विभिन्न पेस्ट्री और हल्के भोजन की पेशकश है, जिससे यह बाजार की खोज के बाद आराम करने के लिए एक शानदार स्थान बनता है। कीमतें काफी सस्ती हैं, जो सभी बजट के लिए उपयुक्त हैं।",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "अल फसिया",
+          "type": "restaurant",
+          "description": "अल फसिया अपने प्रामाणिक मोरक्को के व्यंजनों के लिए प्रसिद्ध है, खासकर इसकी अविश्वसनीय तजिन के लिए। यह रेस्तरां महिलाओं द्वारा संचालित है और इसके गर्म आतिथ्य और पारंपरिक व्यंजनों के लिए प्रसिद्ध है। वातावरण भव्य है, जो आराम से भोजन का आनंद लेने के लिए आदर्श है। कीमतें उच्चतर हैं, जो आपको मिलने वाले भोजन और सेवा की गुणवत्ता को दर्शाती हैं।",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "मैराकेश स्ट्रीट फूड टूर",
+          "type": "street_food",
+          "description": "मैराकेश के स्ट्रीट फूड का सर्वश्रेष्ठ अनुभव करें एक मार्गदर्शित टूर के साथ जो आपको हलचल भरे बाजारों और छिपे हुए रत्नों के माध्यम से ले जाता है। स्वादिष्ट आइटम जैसे कबाब, पेस्ट्री और पारंपरिक मोरक्को के सलाद का स्वाद लें। जानकार गाइड स्थानीय संस्कृति और पाक परंपराओं पर अंतर्दृष्टि प्रदान करते हैं, जिससे यह एक मजेदार और जानकारीपूर्ण अनुभव बनता है। कीमतें टूर की लंबाई और समावेश पर निर्भर करती हैं।",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "ला मामोनिया",
+          "type": "restaurant",
+          "description": "ला मामोनिया एक आलिशान होटल रेस्तरां है जो मोरक्को के ट्विस्ट के साथ एक उच्च श्रेणी का भोजन अनुभव प्रदान करता है। वातावरण भव्य है, जिसमें सुंदर बाग और सुरुचिपूर्ण सजावट है। सिग्नेचर डिश में अद्भुत तजिन और कूसकूस शामिल हैं। जबकि यह उच्च कीमत पर है, अनुभव अविस्मरणीय है, जो विशेष अवसरों या रोमांटिक शाम के लिए परफेक्ट बनाता है।",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "सूक़ डर्ब ज़ाविया",
+          "type": "street_food",
+          "description": "सूक़ डर्ब ज़ाविया स्ट्रीट फूड प्रेमियों के लिए एक छिपा हुआ रत्न है, जो सस्ती कीमतों पर स्थानीय delicacies की एक विविधता प्रदान करता है। आप पारंपरिक व्यंजन जैसे पास्तिला, ग्रिल्ड सार्डिन और विभिन्न मोरक्को के सलाद पा सकते हैं। जीवंत वातावरण और स्थानीय वाइब इसे मैराकेश के प्रामाणिक स्वादों का अनुभव करने के लिए एक शानदार स्थान बनाता है। यह स्वादिष्ट स्ट्रीट खाने के लिए एक बजट-अनुकूल विकल्प है।",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "कूसकूस और तजिन",
+          "type": "local_specialty",
+          "description": "कूसकूस और तजिन मोरक्को के व्यंजनों के मुख्य आधार हैं, और आप मैराकेश में इन व्यंजनों में विशेषज्ञता रखने वाले कई विक्रेताओं को पा सकते हैं। इन्हें आमतौर पर विभिन्न सब्जियों और मांस के साथ परोसा जाता है, जिससे एक भरपूर और स्वादिष्ट भोजन बनता है। कीमतें आमतौर पर कम होती हैं, जिससे यह किसी के लिए भी पारंपरिक मोरक्को के व्यंजनों का स्वाद लेने के लिए सुलभ बनाता है।",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas em Marrakesh 2026 — Principais Restaurantes & Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Marrakesh. Desde refeições econômicas até alta gastronomia — com links de reserva.",
+      "page_intro": "Marrakesh é uma cidade vibrante, conhecida por sua rica cultura alimentar, que mistura sabores tradicionais marroquinos com um toque moderno. Os visitantes podem se deliciar com tagines aromáticos, pães frescos e doces, refletindo a diversa herança culinária da região. Seja explorando os souks movimentados ou jantando em elegantes riads, a cena gastronômica de Marrakesh promete ser uma aventura deliciosa.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "Djemaa el-Fna",
+          "type": "night_market",
+          "description": "Djemaa el-Fna é o coração de Marrakesh, transformando-se em um mercado noturno animado, repleto de barracas de comida e artistas de rua. Aqui, você pode saborear pratos locais como carnes grelhadas, harira picante e doces. A atmosfera é elétrica, com os sons de músicos e contadores de histórias ao seu redor. É uma visita obrigatória para quem deseja experimentar a autêntica comida de rua marroquina.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "Le Tanjia",
+          "type": "restaurant",
+          "description": "Le Tanjia oferece uma experiência de jantar encantadora com decoração tradicional marroquina e um menu focado em especialidades locais. Seu prato assinatura, Tanjia, é um ensopado de cordeiro cozido lentamente que derrete na boca. O ambiente é aconchegante, perfeito para um jantar romântico ou um encontro com amigos. Os preços são razoáveis, permitindo que você desfrute de uma refeição luxuosa sem estourar o orçamento.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "Café de France",
+          "type": "cafe",
+          "description": "Café de France é um local icônico localizado na movimentada praça Djemaa el-Fna, perfeito para observar pessoas. Aproveite um refrescante chá de hortelã ou um delicioso café da manhã marroquino enquanto absorve a atmosfera vibrante. O café oferece uma variedade de doces e refeições leves, tornando-o um ótimo lugar para relaxar após explorar o mercado. Os preços são bastante acessíveis, atendendo a todos os orçamentos.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "Al Fassia",
+          "type": "restaurant",
+          "description": "Al Fassia é famosa por sua autêntica culinária marroquina, especialmente por seus incríveis tagines. O restaurante é administrado por mulheres e é conhecido por sua hospitalidade calorosa e receitas tradicionais. A atmosfera é elegante, ideal para desfrutar de uma refeição tranquila. Os preços são mais altos, refletindo a qualidade da comida e do serviço que você receberá.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "Marrakech Street Food Tour",
+          "type": "street_food",
+          "description": "Experimente o melhor da comida de rua de Marrakesh com um passeio guiado que o leva por mercados movimentados e joias escondidas. Prove itens deliciosos como kebabs, doces e saladas tradicionais marroquinas. Os guias experientes oferecem insights sobre a cultura local e tradições culinárias, tornando a experiência divertida e informativa. Os preços variam dependendo da duração do passeio e das inclusões.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "La Mamounia",
+          "type": "restaurant",
+          "description": "La Mamounia é um restaurante de hotel luxuoso que oferece uma experiência gastronômica requintada com um toque marroquino. O ambiente é opulento, com belos jardins e decoração elegante. Os pratos assinatura incluem tagines requintados e cuscuz. Embora esteja na faixa de preço mais alta, a experiência é inesquecível, tornando-o perfeito para ocasiões especiais ou uma noite romântica.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "Souq Derb Zaouia",
+          "type": "street_food",
+          "description": "Souq Derb Zaouia é uma joia escondida para entusiastas da comida de rua, oferecendo uma variedade de delícias locais a preços acessíveis. Você pode encontrar pratos tradicionais como pastilla, sardinhas grelhadas e várias saladas marroquinas. A atmosfera animada e o clima local tornam este um ótimo lugar para experimentar os sabores autênticos de Marrakesh. É uma opção econômica para deliciosas comidas de rua.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "Cuscuz e Tagine",
+          "type": "local_specialty",
+          "description": "Cuscuz e Tagine são os pratos básicos da culinária marroquina, e você pode encontrar vários vendedores especializados nesses pratos em Marrakesh. Eles são geralmente servidos com uma variedade de vegetais e carnes, criando uma refeição farta e saborosa. Os preços são geralmente baixos, tornando-os acessíveis para quem deseja experimentar a culinária marroquina tradicional com orçamento.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في مراكش 2026 - دليل أفضل المطاعم وطعام الشوارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشوارع والتخصصات المحلية في مراكش. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "مراكش مدينة نابضة بالحياة معروفة بثقافتها الغذائية الغنية، حيث تمتزج النكهات المغربية التقليدية مع لمسة عصرية. يمكن للزوار الاستمتاع بطاجين معطر، وخبز مخبوز حديثًا، وحلويات حلوة، تعكس التراث الطهوي المتنوع في المنطقة. سواء كنت تستكشف الأسواق الصاخبة أو تتناول الطعام في رياض أنيقة، يعد مشهد الطعام في مراكش بمثابة مغامرة ممتعة.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "جامع الفنا",
+          "type": "night_market",
+          "description": "جامع الفنا هو قلب مراكش، ويتحول إلى سوق ليلي حيوي مليء بأكشاك الطعام وفناني الشوارع. هنا، يمكنك تذوق الأطباق المحلية مثل اللحوم المشوية، والحريصا الحارة، والحلويات. الأجواء كهربائية، مع أصوات الموسيقيين ورواة القصص من حولك. إنه مكان يجب زيارته لأي شخص يتطلع إلى تجربة طعام الشوارع المغربي الأصيل.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "لي تانجي",
+          "type": "restaurant",
+          "description": "يقدم لي تانجي تجربة طعام ساحرة مع ديكور مغربي تقليدي وقائمة تركز على التخصصات المحلية. طبقهم المميز، تانجيا، هو طاجين لحم الضأن المطبوخ ببطء والذي يذوب في فمك. الأجواء مريحة، مما يجعله مثاليًا لعشاء رومانسي أو تجمع مع الأصدقاء. الأسعار معقولة، مما يسمح لك بالاستمتاع بوجبة فاخرة دون كسر البنك.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "مقهى فرنسا",
+          "type": "cafe",
+          "description": "مقهى فرنسا هو مكان أيقوني يقع في ساحة جامع الفنا المزدحمة، وهو مثالي لمشاهدة الناس. استمتع بشاي النعناع المنعش أو فطور مغربي لذيذ بينما تستمتع بالأجواء النابضة بالحياة. يقدم المقهى مجموعة متنوعة من الحلويات والوجبات الخفيفة، مما يجعله مكانًا رائعًا للاسترخاء بعد استكشاف السوق. الأسعار معقولة جدًا، مما يجعلها تناسب جميع الميزانيات.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "الفاسية",
+          "type": "restaurant",
+          "description": "الفاسية مشهورة بمأكولاتها المغربية الأصيلة، وخاصة طاجينها الرائع. المطعم تديره النساء ويشتهر بضيافته الدافئة ووصفاته التقليدية. الأجواء أنيقة، مما يجعلها مثالية لتناول وجبة مريحة. الأسعار في الجانب الأعلى، تعكس جودة الطعام والخدمة التي ستتلقاها.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "جولة طعام الشارع في مراكش",
+          "type": "street_food",
+          "description": "اختبر أفضل ما في طعام الشارع في مراكش مع جولة إرشادية تأخذك عبر الأسواق المزدحمة والكنوز المخفية. تذوق أطباق لذيذة مثل الكباب، والحلويات، والسلطات المغربية التقليدية. يقدم المرشدون المطلعون رؤى حول الثقافة المحلية والتقاليد الطهو، مما يجعلها تجربة ممتعة ومفيدة. تختلف الأسعار حسب طول الجولة وما تتضمنه.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "لا مامونية",
+          "type": "restaurant",
+          "description": "لا مامونية هو مطعم فندقي فاخر يقدم تجربة تناول طعام راقية مع لمسة مغربية. الأجواء فاخرة، مع حدائق جميلة وزخارف أنيقة. تشمل الأطباق المميزة طاجين رائع وكوسكوس. على الرغم من أنه في النطاق السعري الأعلى، إلا أن التجربة لا تُنسى، مما يجعله مثاليًا للمناسبات الخاصة أو أمسية رومانسية.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "سوق درب زاويا",
+          "type": "street_food",
+          "description": "سوق درب زاويا هو جوهرة مخفية لعشاق طعام الشارع، حيث يقدم مجموعة متنوعة من الأطباق المحلية بأسعار معقولة. يمكنك العثور على أطباق تقليدية مثل البسطيلة، والسردين المشوي، ومختلف السلطات المغربية. الأجواء النابضة بالحياة والأجواء المحلية تجعل منه مكانًا رائعًا لتجربة النكهات الأصيلة لمراكش. إنه خيار مناسب للميزانية لتناول طعام الشارع اللذيذ.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "كسكس وطاجين",
+          "type": "local_specialty",
+          "description": "الكسكس والطاجين من الأطباق الأساسية في المطبخ المغربي، ويمكنك العثور على العديد من البائعين المتخصصين في هذه الأطباق في مراكش. عادة ما يتم تقديمها مع مجموعة من الخضار واللحوم، مما يخلق وجبة غنية ومليئة بالنكهات. الأسعار عادة ما تكون منخفضة، مما يجعلها متاحة لأي شخص يتطلع إلى تجربة المأكولات المغربية التقليدية بميزانية.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ম্যারাকেশে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তায় খাবারের গাইড",
+      "seo_description": "ম্যারাকেশের সেরা রেস্তোরাঁ, রাস্তায় খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চ-রেস্তোরাঁ পর্যন্ত - বুকিং লিঙ্ক সহ।",
+      "page_intro": "ম্যারাকেশ একটি প্রাণবন্ত শহর যা তার সমৃদ্ধ খাবারের সংস্কৃতির জন্য পরিচিত, যা ঐতিহ্যবাহী মরক্কোর স্বাদকে আধুনিক মোড়ের সাথে মিশিয়ে। দর্শকরা সুগন্ধি তাজিন, তাজা রুটি এবং মিষ্টি পেস্ট্রি উপভোগ করতে পারেন, যা অঞ্চলের বৈচিত্র্যময় রন্ধনসম্পর্কীয় ঐতিহ্যকে প্রতিফলিত করে। আপনি যখন গতিশীল সুকগুলি অন্বেষণ করছেন বা সুন্দর রিয়াদে খাবার খাচ্ছেন, তখন ম্যারাকেশের খাবার দৃশ্য একটি আনন্দদায়ক অভিযানের প্রতিশ্রুতি দেয়।",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "জেমা এল-ফনা",
+          "type": "night_market",
+          "description": "জেমা এল-ফনা ম্যারাকেশের হৃদয়, যা খাবারের স্টল এবং সড়ক শিল্পীদের সঙ্গে একটি উজ্জ্বল রাতের বাজারে পরিণত হয়। এখানে, আপনি গ্রিলড মাংস, মশলাদার হারিরা, এবং মিষ্টি পেস্ট্রি মতো স্থানীয় খাবারের স্বাদ নিতে পারেন। পরিবেশ বৈদ্যুতিক, সঙ্গীতশিল্পী এবং গল্পকারদের আওয়াজ আপনাকে ঘিরে রাখে। এটি তাদের জন্য একটি অবশ্যই-দেখা স্থান যারা প্রচলিত মরক্কোর রাস্তায় খাবার অভিজ্ঞতা করতে চান।",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "লে তাঞ্জিয়া",
+          "type": "restaurant",
+          "description": "লে তাঞ্জিয়া একটি মনোমুগ্ধকর খাদ্য অভিজ্ঞতা প্রদান করে যা ঐতিহ্যবাহী মরক্কোর সাজসজ্জা এবং স্থানীয় বিশেষত্বের উপর কেন্দ্রিত মেনু। তাদের সিগনেচার ডিশ, তাঞ্জিয়া, একটি ধীরে রান্না করা মেষের স্ট্যু যা আপনার মুখে গলে যায়। পরিবেশ আরামদায়ক, যা এটি একটি রোমান্টিক রাতের খাবার বা বন্ধুদের সাথে একটি সমাবেশের জন্য উপযুক্ত। দামও সন্তোষজনক, যা আপনাকে ব্যাংক ভেঙে ছাড়া একটি বিলাসবহুল খাবারের স্বাদ নিতে দেয়।",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "ক্যাফে দে ফ্রান্স",
+          "type": "cafe",
+          "description": "ক্যাফে দে ফ্রান্স একটি আইকনিক স্থান যা ব্যস্ত জেমা এল-ফনা স্কয়ারের মধ্যে অবস্থিত, যা লোকজনকে দেখার জন্য উপযুক্ত। একটি সতেজ পুদিনা চা বা একটি সুস্বাদু মরক্কো প্রাতঃরাশের স্বাদ নিন যখন আপনি উজ্জ্বল পরিবেশের মধ্যে ডুব দেন। ক্যাফে বিভিন্ন পেস্ট্রি এবং হালকা খাবারের প্রস্তাব দেয়, যা বাজার আবিষ্কারের পরে বিশ্রাম নেওয়ার জন্য একটি দুর্দান্ত জায়গা তৈরি করে। দামগুলি যথেষ্ট সাশ্রয়ী, যা সব বাজেটের জন্য উপযুক্ত।",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "আল ফাসিয়া",
+          "type": "restaurant",
+          "description": "আল ফাসিয়া তার প্রামাণিক মরক্কোর খাবারের জন্য পরিচিত, বিশেষ করে এর অবিশ্বাস্য তাজিনের জন্য। রেস্তোরাঁটি মহিলাদের দ্বারা পরিচালিত হয় এবং এর উষ্ণ আতিথেয়তা এবং ঐতিহ্যবাহী রেসিপির জন্য বিখ্যাত। পরিবেশ এলিগেন্ট, ধীরস্থিরভাবে খাবার উপভোগ করার জন্য আদর্শ। দামগুলি উচ্চতর দিকের, যা আপনি যে খাবার এবং পরিষেবা পাবেন তার মান প্রমাণ করে।",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "ম্যারাকেশ স্ট্রিট ফুড ট্যুর",
+          "type": "street_food",
+          "description": "একটি গাইডেড ট্যুরের মাধ্যমে ম্যারাকেশের রাস্তায় খাবারের সেরা অভিজ্ঞতা নিন, যা আপনাকে ব্যস্ত বাজার এবং গোপন রত্নগুলির মধ্য দিয়ে নিয়ে যায়। কাবাব, পেস্ট্রি, এবং ঐতিহ্যবাহী মরক্কো সালাদের মতো সুস্বাদু আইটেমগুলি চেষ্টা করুন। অভিজ্ঞ গাইডগুলি স্থানীয় সংস্কৃতি এবং রন্ধনসম্পর্কীয় ঐতিহ্যের উপর অন্তর্দৃষ্টি প্রদান করে, যা এটিকে একটি মজার এবং তথ্যবহুল অভিজ্ঞতা তৈরি করে। দামগুলি ট্যুরের দৈর্ঘ্য এবং অন্তর্ভুক্তির উপর নির্ভর করে।",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "লা মামুনিয়া",
+          "type": "restaurant",
+          "description": "লা মামুনিয়া একটি বিলাসবহুল হোটেল রেস্টুরেন্ট যা মরক্কোর মোড় সহ একটি উচ্চমানের খাবারের অভিজ্ঞতা প্রদান করে। পরিবেশ রাজকীয়, সুন্দর বাগান এবং এলিগ্যান্ট সাজসজ্জা সহ। সিগনেচার ডিশগুলির মধ্যে রয়েছে চমৎকার তাজিন এবং কুসকুস। যদিও এটি দামি, অভিজ্ঞতা অবিস্মরণীয়, বিশেষ অনুষ্ঠানের জন্য বা একটি রোমান্টিক সন্ধ্যার জন্য এটি আদর্শ।",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "সুক ডেরব জাওয়া",
+          "type": "street_food",
+          "description": "সুক ডেরব জাওয়া রাস্তায় খাবারের প্রেমীদের জন্য একটি গোপন রত্ন, যা সাশ্রয়ী দামগুলিতে স্থানীয় delicacies এর বিভিন্নতা প্রদান করে। আপনি ঐতিহ্যবাহী খাবার যেমন পাস্তিলা, গ্রিলড সার্ডিন এবং বিভিন্ন মরক্কো সালাদ খুঁজে পেতে পারেন। প্রাণবন্ত পরিবেশ এবং স্থানীয় আবহ এটি ম্যারাকেশের প্রামাণিক স্বাদের অভিজ্ঞতার জন্য একটি দুর্দান্ত স্থান করে তোলে। এটি সুস্বাদু রাস্তায় খাবারের জন্য একটি বাজেট-বান্ধব বিকল্প।",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "কুসকুস এবং তাজিন",
+          "type": "local_specialty",
+          "description": "কুসকুস এবং তাজিন মরক্কোর রান্নার প্রধান স্ট্যাপল এবং আপনি ম্যারাকেশে এই খাবারের বিশেষজ্ঞ বিভিন্ন বিক্রেতাদের খুঁজে পাবেন। এগুলি সাধারণত বিভিন্ন সবজি এবং মাংসের সঙ্গে পরিবেশন করা হয়, যা একটি সমৃদ্ধ এবং সুস্বাদু খাবার তৈরি করে। দাম সাধারণত কম থাকে, যা এটি সাশ্রয়ী করে তোলে যে কেউ ঐতিহ্যবাহী মরক্কোর খাবার স্বাদ নিতে চান।",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Марракеше 2026 — Топ-рестораны и уличная еда",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Марракеше. От бюджетной еды до изысканной — с ссылками для бронирования.",
+      "page_intro": "Марракеш — это яркий город, известный своей богатой кулинарной культурой, сочетающей традиционные марокканские вкусы с современными акцентами. Посетители могут насладиться ароматными тажинами, свежим хлебом и сладкой выпечкой, отражающими разнообразное кулинарное наследие региона. Независимо от того, исследуете ли вы шумные рынки или обедаете в элегантных риадах, кулинарная сцена Марракеша обещает быть увлекательным приключением.",
+      "items": [
+        {
+          "id": "djemaa-el-fna",
+          "name": "Джемаа эль-Фна",
+          "type": "night_market",
+          "description": "Джемаа эль-Фна — это сердце Марракеша, превращающееся в оживленный ночной рынок, заполненный торговыми палатками и уличными артистами. Здесь вы можете попробовать местные блюда, такие как жареное мясо, острый хариру и сладости. Атмосфера электрическая, звуки музыкантов и рассказчиков окружают вас. Это обязательное место для посещения для всех, кто хочет попробовать аутентичную марокканскую уличную еду.",
+          "image_keyword": "Djemaa el-Fna night market",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Meats",
+          "klook_query": "Djemaa el-Fna food tour"
+        },
+        {
+          "id": "le-tanjia",
+          "name": "Ле Танджия",
+          "type": "restaurant",
+          "description": "Ле Танджия предлагает очаровательный опыт ужина с традиционным марокканским декором и меню, сосредоточенным на местных особых блюдах. Их фирменное блюдо, Танджия, — это томленое мясо ягненка, которое тает во рту. Атмосфера уютная, идеально подходит для романтического ужина или встречи с друзьями. Цены разумные, позволяя вам наслаждаться роскошным ужином, не разоряясь.",
+          "image_keyword": "Le Tanjia restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Tanjia",
+          "klook_query": "Le Tanjia restaurant booking"
+        },
+        {
+          "id": "cafe-de-france",
+          "name": "Кафе де Франс",
+          "type": "cafe",
+          "description": "Кафе де Франс — это знаковое место, расположенное на оживленной площади Джемаа эль-Фна, идеально подходящее для наблюдения за людьми. Наслаждайтесь освежающим мятным чаем или вкусным марокканским завтраком, погружаясь в яркую атмосферу. Кафе предлагает разнообразные сладости и легкие блюда, что делает его отличным местом для отдыха после изучения рынка. Цены довольно доступные, что подходит для любого бюджета.",
+          "image_keyword": "Café de France",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Mint Tea",
+          "klook_query": "Café de France reservation"
+        },
+        {
+          "id": "al-fassia",
+          "name": "Аль Фассия",
+          "type": "restaurant",
+          "description": "Аль Фассия известна своей аутентичной марокканской кухней, особенно своими удивительными тажинами. Ресторан управляется женщинами и славится своим теплым гостеприимством и традиционными рецептами. Атмосфера элегантная, идеально подходит для неспешной трапезы. Цены выше среднего, что отражает качество еды и обслуживания, которое вы получите.",
+          "image_keyword": "Al Fassia restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Al Fassia dining experience"
+        },
+        {
+          "id": "marrakech-street-food-tour",
+          "name": "Тур по уличной еде Марракеша",
+          "type": "street_food",
+          "description": "Испытайте лучшее из уличной еды Марракеша с помощью экскурсии, которая проведет вас по оживленным рынкам и скрытым жемчужинам. Попробуйте вкусные блюда, такие как кебабы, сладости и традиционные марокканские салаты. Знающие гиды предоставляют информацию о местной культуре и кулинарных традициях, что делает это увлекательным и познавательным опытом. Цены варьируются в зависимости от продолжительности экскурсии и включенных услуг.",
+          "image_keyword": "Marrakech street food",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Kebabs",
+          "klook_query": "Marrakech street food tour booking"
+        },
+        {
+          "id": "la-mamounia",
+          "name": "Ла Мамунья",
+          "type": "restaurant",
+          "description": "Ла Мамунья — это роскошный ресторан в отеле, предлагающий изысканный ужин с марокканским акцентом. Атмосфера роскошная, с красивыми садами и элегантным декором. Фирменные блюда включают изысканные тажины и кускус. Хотя это более дорогой вариант, опыт остается незабываемым, что делает его идеальным для особых случаев или романтического вечера.",
+          "image_keyword": "La Mamounia restaurant",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Couscous",
+          "klook_query": "La Mamounia dinner reservation"
+        },
+        {
+          "id": "souq-derb-zaouia",
+          "name": "Сук Дерб Заувия",
+          "type": "street_food",
+          "description": "Сук Дерб Заувия — это скрытая жемчужина для любителей уличной еды, предлагающая разнообразие местных деликатесов по доступным ценам. Вы можете найти традиционные блюда, такие как пастилла, жареная сардина и различные марокканские салаты. Живописная атмосфера и местный колорит делают это отличным местом для знакомства с подлинными вкусами Марракеша. Это экономичный вариант для вкусной уличной еды.",
+          "image_keyword": "Souq Derb Zaouia",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Pastilla",
+          "klook_query": "Souq Derb Zaouia food tour"
+        },
+        {
+          "id": "couscous-and-tagine",
+          "name": "Кускус и Тажин",
+          "type": "local_specialty",
+          "description": "Кускус и Тажин являются основными блюдами марокканской кухни, и вы можете найти множество продавцов, специализирующихся на этих блюдах в Марракеше. Их обычно подают с разнообразными овощами и мясом, создавая сытное и ароматное блюдо. Цены, как правило, низкие, что делает их доступными для всех, кто хочет попробовать традиционную марокканскую кухню с ограниченным бюджетом.",
+          "image_keyword": "Couscous and Tagine",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Couscous",
+          "klook_query": "Couscous and Tagine experience"
+        }
+      ]
+    }
+  }
+}

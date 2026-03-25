@@ -1,0 +1,1145 @@
+{
+  "city_slug": "los-angeles",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Los Angeles 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Los Angeles. From budget eats to fine dining — with booking links.",
+      "page_intro": "Los Angeles boasts a vibrant and diverse food scene that reflects its multicultural population. From food trucks serving mouthwatering tacos to high-end restaurants offering innovative dishes, the city's culinary landscape is a feast for the senses. Whether you're a local or a visitor, there's always something new to taste and explore in L.A.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "Grand Central Market",
+          "type": "street_food",
+          "description": "A historic food hall in downtown Los Angeles, Grand Central Market offers a variety of culinary delights. Sample the famous egg sandwich from Eggslut or savor authentic tacos from Tacos Tumbras a Tomas. With a bustling atmosphere and diverse options, it’s a must-visit for food lovers. Expect to spend around $10-$20 per meal.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "Koreatown Night Market",
+          "type": "night_market",
+          "description": "Experience the vibrant Koreatown Night Market, a delightful blend of food, culture, and entertainment. Here, you can enjoy a variety of Korean street foods, including spicy tteokbokki and crispy kimbap. The lively atmosphere and colorful stalls make it a perfect spot for night exploration. Meals generally range from $5 to $15.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "Nobu Los Angeles",
+          "type": "restaurant",
+          "description": "Renowned for its fusion of traditional Japanese cuisine and Peruvian flavors, Nobu Los Angeles delivers an unforgettable dining experience. Signature dishes like Black Cod Miso and Yellowtail Jalapeño are must-tries. The upscale atmosphere is perfect for special occasions. Expect to pay around $50-$100 per person.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Bestia",
+          "type": "restaurant",
+          "description": "Bestia is a trendy Italian restaurant located in the Arts District, famous for its house-made charcuterie and wood-fired pizzas. The bustling environment and creative cocktails add to the dining experience. Reservations are highly recommended, and the price range is typically $30-$80 per person.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Guelaguetza",
+          "type": "restaurant",
+          "description": "Guelaguetza is celebrated for its authentic Oaxacan cuisine. The restaurant is famous for its mole and tlayudas, offering a true taste of Mexico. The ambiance is warm and inviting, perfect for family gatherings. Expect to spend around $15-$30 per meal.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Kogi BBQ Truck",
+          "type": "street_food",
+          "description": "Kogi BBQ Truck revolutionized the food truck scene in L.A. with its Korean-Mexican fusion tacos. The short rib taco topped with spicy salsa is a crowd favorite. The casual vibe and ever-changing locations make it a fun stop for a quick bite. Expect to spend around $5-$10 per taco.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Cafe Lalo",
+          "type": "cafe",
+          "description": "A charming cafe known for its delicious pastries and vibrant atmosphere. Cafe Lalo serves a variety of coffee drinks and brunch items, making it a perfect spot for a leisurely afternoon. The price range is generally $10-$20 for brunch items.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Smorgasburg LA",
+          "type": "street_food",
+          "description": "Smorgasburg LA is an eclectic weekly Sunday market featuring a diverse array of food vendors. From gourmet donuts to artisanal pizza, there's something for everyone. The lively atmosphere and outdoor setting make it a perfect place to enjoy a relaxing weekend. Prices vary widely, typically from $5 to $20.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年洛杉矶最佳美食 - 顶级餐厅与街头美食指南",
+      "seo_description": "发现洛杉矶最佳餐厅、街头美食和地方特色。从经济实惠的美食到高档餐饮 - 提供预订链接。",
+      "page_intro": "洛杉矶拥有充满活力和多样化的美食场景，反映了其多元文化的人口。从提供美味塔可的食品车到提供创新菜肴的高档餐厅，这座城市的烹饪景观令人垂涎欲滴。无论您是当地人还是游客，洛杉矶总有新的美食等着您去尝试和探索。",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "中央市场",
+          "type": "street_food",
+          "description": "中央市场是洛杉矶市中心的一处历史悠久的美食大厅，提供各种美食。品尝Eggslut的著名蛋三明治或享受Tacos Tumbras a Tomas的正宗塔可。热闹的氛围和多样的选择使其成为美食爱好者必去之地。每餐预计花费约10-20美元。",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "韩国城夜市",
+          "type": "night_market",
+          "description": "体验充满活力的韩国城夜市，这是美食、文化和娱乐的美妙结合。在这里，您可以享用各种韩国街头美食，包括辣炒年糕和脆皮紫菜包饭。热闹的氛围和色彩缤纷的摊位使其成为夜间探索的完美地点。每餐一般价格在5到15美元之间。",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "洛杉矶Nobu",
+          "type": "restaurant",
+          "description": "洛杉矶Nobu因其传统日本料理与秘鲁风味的融合而闻名，提供难忘的用餐体验。黑鳕鱼味噌和黄尾椒的招牌菜是必试之选。高档的氛围非常适合特殊场合。每人预计花费约50-100美元。",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Bestia",
+          "type": "restaurant",
+          "description": "Bestia是一家位于艺术区的时尚意大利餐厅，以自制肉类拼盘和木烤比萨而闻名。热闹的环境和创意鸡尾酒增添了用餐体验。强烈建议提前预订，价格范围通常为每人30-80美元。",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Guelaguetza",
+          "type": "restaurant",
+          "description": "Guelaguetza因其正宗的瓦哈卡美食而受到赞誉。餐厅以其摩尔酱和塔柳达而闻名，提供真正的墨西哥风味。温暖宜人的氛围，非常适合家庭聚会。每餐预计花费约15-30美元。",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Kogi BBQ车",
+          "type": "street_food",
+          "description": "Kogi BBQ车通过其韩墨融合的塔可彻底改变了洛杉矶的食品车场景。配有辣酱的肋骨塔可是人气之选。随意的氛围和不断变化的位置使其成为快速用餐的有趣停留点。每个塔可预计花费约5-10美元。",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Cafe Lalo",
+          "type": "cafe",
+          "description": "一家以美味糕点和活泼氛围而闻名的迷人咖啡馆。Cafe Lalo提供各种咖啡饮品和早午餐项目，是悠闲下午的完美去处。早午餐项目的价格范围通常在10-20美元之间。",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Smorgasburg LA",
+          "type": "street_food",
+          "description": "Smorgasburg LA是一个多元化的每周日市场，拥有各种美食摊位。从美味的甜甜圈到手工比萨，总有适合每个人的选择。热闹的氛围和户外环境使其成为享受轻松周末的完美场所。价格差异很大，通常在5到20美元之间。",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "ロサンゼルスのベストフード2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "ロサンゼルスの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "ロサンゼルスは、その多文化的な人口を反映した活気に満ちた多様な食文化を誇っています。美味しいタコスを提供するフードトラックから、革新的な料理を提供する高級レストランまで、この都市の料理の風景は感覚の饗宴です。地元の人でも観光客でも、L.A.にはいつでも新しい味を試し、探索するものがあります。",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "グランドセントラルマーケット",
+          "type": "street_food",
+          "description": "ロサンゼルスのダウンタウンにある歴史的なフードホールで、グランドセントラルマーケットは多様な料理の喜びを提供しています。Eggslutの有名なエッグサンドイッチを試したり、Tacos Tumbras a Tomasの本格的なタコスを味わったりできます。賑やかな雰囲気と多様な選択肢があり、食べ物好きには必見のスポットです。食事は1回あたり約10〜20ドルを見込んでください。",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "コリアタウンナイトマーケット",
+          "type": "night_market",
+          "description": "活気あるコリアタウンナイトマーケットを体験してください。ここでは、スパイシーなトッポッキやクリスピーピンデトッカなど、さまざまな韓国のストリートフードを楽しむことができます。賑やかな雰囲気とカラフルな屋台が、夜の探索にぴったりのスポットを提供します。食事は一般的に5〜15ドルの範囲です。",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "Nobuロサンゼルス",
+          "type": "restaurant",
+          "description": "伝統的な日本料理とペルーの風味を融合させたことで知られるNobuロサンゼルスは、忘れられないダイニング体験を提供します。ブラックコッドミソやハマチのハラペーニョなどの看板料理は必ず試してください。高級な雰囲気は特別な occasions に最適です。1人あたり約50〜100ドルを見込んでください。",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Bestia",
+          "type": "restaurant",
+          "description": "Bestiaはアーツディストリクトに位置するトレンディなイタリアンレストランで、自家製のシャルキュトリーや薪焼きピザで有名です。賑やかな環境と創造的なカクテルが食事体験を引き立てます。予約は強く推奨され、価格帯は通常1人あたり30〜80ドルです。",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Guelaguetza",
+          "type": "restaurant",
+          "description": "Guelaguetzaは本格的なオアハカ料理で有名です。このレストランはモーレやトラユダで知られ、メキシコの真の味わいを提供します。温かく居心地の良い雰囲気は、家族の集まりに最適です。食事は1回あたり約15〜30ドルを見込んでください。",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Kogi BBQトラック",
+          "type": "street_food",
+          "description": "Kogi BBQトラックは、韓国とメキシコのフュージョンタコスでL.A.のフードトラックシーンを革命的に変えました。スパイシーなサルサをトッピングしたショートリブタコは人気の一品です。カジュアルな雰囲気と常に変化する場所が、さっと食事を取るのに楽しいスポットを提供します。タコは1個あたり約5〜10ドルを見込んでください。",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Cafe Lalo",
+          "type": "cafe",
+          "description": "美味しいペストリーと活気ある雰囲気で知られる魅力的なカフェです。Cafe Laloはさまざまなコーヒー飲料とブランチアイテムを提供しており、のんびりとした午後にぴったりのスポットです。ブランチアイテムの価格帯は通常10〜20ドルです。",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Smorgasburg LA",
+          "type": "street_food",
+          "description": "Smorgasburg LAは、さまざまなフードベンダーが集まるエクレクティックな週末市場です。グルメドーナツからアーティザンピザまで、誰にでも何かがあります。活気ある雰囲気と屋外の設定が、リラックスした週末を楽しむのに最適な場所を提供します。価格は幅広く、通常5〜20ドルです。",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 로스앤젤레스 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "로스앤젤레스의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 저렴한 식사부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "로스앤젤레스는 다문화 인구를 반영한 생기 넘치고 다양한 음식 문화를 자랑합니다. 군침 도는 타코를 제공하는 푸드 트럭부터 혁신적인 요리를 제공하는 고급 레스토랑까지, 이 도시의 요리 풍경은 감각의 향연입니다. 로컬이든 방문객이든 L.A.에는 항상 새로운 맛을 시도하고 탐험할 것이 있습니다.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "그랜드 센트럴 마켓",
+          "type": "street_food",
+          "description": "로스앤젤레스 다운타운에 있는 역사적인 푸드 홀인 그랜드 센트럴 마켓은 다양한 요리의 즐거움을 제공합니다. Eggslut의 유명한 에그 샌드위치를 시도하거나 Tacos Tumbras a Tomas의 정통 타코를 맛보세요. 분주한 분위기와 다양한 선택지가 있어 식도락가에게 꼭 방문해야 할 곳입니다. 식사 비용은 약 10-20달러입니다.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "코리아타운 야시장",
+          "type": "night_market",
+          "description": "활기찬 코리아타운 야시장을 경험해 보세요. 여기에서 매운 떡볶이와 바삭한 김밥 등 다양한 한국 스트리트 푸드를 즐길 수 있습니다. 생동감 넘치는 분위기와 다채로운 노점상이 밤 탐험에 완벽한 장소를 제공합니다. 식사는 일반적으로 5달러에서 15달러 사이입니다.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "노부 로스앤젤레스",
+          "type": "restaurant",
+          "description": "전통 일본 요리와 페루 풍미의 융합으로 유명한 노부 로스앤젤레스는 잊을 수 없는 다이닝 경험을 제공합니다. 블랙 코드 미소와 옐로우테일 할라피뇨와 같은 시그니처 요리는 꼭 시도해야 합니다. 고급스러운 분위기는 특별한 날에 적합합니다. 1인당 약 50-100달러를 지불할 것으로 예상됩니다.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "베스티아",
+          "type": "restaurant",
+          "description": "베스티아는 아트 디스트릭트에 위치한 트렌디한 이탈리안 레스토랑으로, 자가제 샤퀴테리와 나무 화덕 피자로 유명합니다. 분주한 환경과 창의적인 칵테일이 다이닝 경험을 더합니다. 예약을 적극 권장하며, 가격 범위는 일반적으로 1인당 30-80달러입니다.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "겔라겟자",
+          "type": "restaurant",
+          "description": "겔라겟자는 정통 오악사카 요리로 유명합니다. 이 레스토랑은 몰레와 트라유다로 유명하며, 진정한 멕시코의 맛을 제공합니다. 따뜻하고 아늑한 분위기는 가족 모임에 완벽합니다. 식사는 일반적으로 15-30달러입니다.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "코기 BBQ 트럭",
+          "type": "street_food",
+          "description": "코기 BBQ 트럭은 한국과 멕시코 퓨전 타코로 L.A.의 푸드 트럭 장면을 혁신했습니다. 매운 살사를 얹은 소갈비 타코는 인기 있는 메뉴입니다. 캐주얼한 분위기와 끊임없이 변화하는 위치로 빠르게 식사하기에 재미있는 장소입니다. 타코는 개당 약 5-10달러가 예상됩니다.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "카페 라로",
+          "type": "cafe",
+          "description": "맛있는 페이스트리와 활기찬 분위기로 알려진 매력적인 카페입니다. 카페 라로는 다양한 커피 음료와 브런치 아이템을 제공하여 여유로운 오후에 완벽한 장소입니다. 브런치 아이템의 가격대는 일반적으로 10-20달러입니다.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "스모가스버그 LA",
+          "type": "street_food",
+          "description": "스모가스버그 LA는 다양한 음식 판매자들이 모인 에클레틱한 주말 시장입니다. 고급 도넛부터 장인 피자까지, 모든 사람에게 맞는 무언가가 있습니다. 생동감 넘치는 분위기와 야외 환경이 여유로운 주말을 즐기기에 완벽한 장소를 제공합니다. 가격은 다양하게 책정되며 일반적으로 5-20달러입니다.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Los Angeles 2026 — Meilleurs Restaurants & Guide de Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales de Los Angeles. Des repas à petit budget à la gastronomie — avec des liens de réservation.",
+      "page_intro": "Los Angeles possède une scène culinaire vibrante et diversifiée qui reflète sa population multiculturelle. Des camions de nourriture servant des tacos succulents aux restaurants haut de gamme proposant des plats innovants, le paysage culinaire de la ville est un festin pour les sens. Que vous soyez un résident ou un visiteur, il y a toujours quelque chose de nouveau à goûter et à explorer à L.A.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "Grand Central Market",
+          "type": "street_food",
+          "description": "Un hall de nourriture historique dans le centre de Los Angeles, le Grand Central Market propose une variété de délices culinaires. Goûtez le célèbre sandwich aux œufs d'Eggslut ou savourez des tacos authentiques de Tacos Tumbras a Tomas. Avec une atmosphère animée et des options diversifiées, c’est un incontournable pour les amateurs de bonne nourriture. Attendez-vous à dépenser environ 10 à 20 dollars par repas.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "Marché de Nuit de Koreatown",
+          "type": "night_market",
+          "description": "Découvrez le vibrant Marché de Nuit de Koreatown, un mélange délicieux de nourriture, de culture et de divertissement. Ici, vous pouvez déguster une variété de plats de rue coréens, y compris des tteokbokki épicés et des kimbap croustillants. L’atmosphère animée et les stands colorés en font un endroit parfait pour l'exploration nocturne. Les repas varient généralement de 5 à 15 dollars.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "Nobu Los Angeles",
+          "type": "restaurant",
+          "description": "Renommé pour sa fusion de la cuisine japonaise traditionnelle et des saveurs péruviennes, Nobu Los Angeles offre une expérience culinaire inoubliable. Des plats emblématiques comme le Black Cod Miso et le Yellowtail Jalapeño sont des incontournables. L'atmosphère haut de gamme est parfaite pour des occasions spéciales. Attendez-vous à payer environ 50 à 100 dollars par personne.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Bestia",
+          "type": "restaurant",
+          "description": "Bestia est un restaurant italien tendance situé dans l'Art District, célèbre pour sa charcuterie maison et ses pizzas au feu de bois. L'environnement animé et les cocktails créatifs ajoutent à l'expérience culinaire. Les réservations sont fortement recommandées, et la fourchette de prix est généralement de 30 à 80 dollars par personne.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Guelaguetza",
+          "type": "restaurant",
+          "description": "Guelaguetza est célèbre pour sa cuisine oaxaquénienne authentique. Le restaurant est réputé pour son mole et ses tlayudas, offrant un véritable goût du Mexique. L'ambiance est chaleureuse et accueillante, parfaite pour les réunions de famille. Attendez-vous à dépenser environ 15 à 30 dollars par repas.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Kogi BBQ Truck",
+          "type": "street_food",
+          "description": "Kogi BBQ Truck a révolutionné la scène des food trucks à L.A. avec ses tacos fusion coréens-mexicains. Le taco de côtes courtes avec salsa épicée est un favori du public. L'ambiance décontractée et les emplacements en constante évolution en font un arrêt amusant pour une bouchée rapide. Attendez-vous à dépenser environ 5 à 10 dollars par taco.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Café Lalo",
+          "type": "cafe",
+          "description": "Un café charmant connu pour ses délicieuses pâtisseries et son atmosphère vibrante. Le Café Lalo sert une variété de boissons au café et d'articles de brunch, ce qui en fait un endroit parfait pour un après-midi tranquille. La fourchette de prix est généralement de 10 à 20 dollars pour les articles de brunch.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Smorgasburg LA",
+          "type": "street_food",
+          "description": "Smorgasburg LA est un marché hebdomadaire éclectique qui se tient tous les dimanches et propose une variété de vendeurs alimentaires. Des donuts gourmets à la pizza artisanale, il y en a pour tous les goûts. L'atmosphère animée et le cadre en plein air en font un endroit parfait pour profiter d'un week-end relaxant. Les prix varient considérablement, généralement de 5 à 20 dollars.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Los Ángeles 2026 — Mejores Restaurantes y Guía de Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Los Ángeles. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Los Ángeles cuenta con una vibrante y diversa escena gastronómica que refleja su población multicultural. Desde camiones de comida que sirven tacos deliciosos hasta restaurantes de alta gama que ofrecen platos innovadores, el paisaje culinario de la ciudad es un festín para los sentidos. Ya seas local o visitante, siempre hay algo nuevo que probar y explorar en L.A.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "Mercado Central",
+          "type": "street_food",
+          "description": "Un histórico mercado de comida en el centro de Los Ángeles, el Mercado Central ofrece una variedad de delicias culinarias. Prueba el famoso sándwich de huevo de Eggslut o saborea tacos auténticos de Tacos Tumbras a Tomas. Con una atmósfera animada y opciones diversas, es una visita obligada para los amantes de la comida. Se espera que gastes alrededor de $10 a $20 por comida.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "Mercado Nocturno de Koreatown",
+          "type": "night_market",
+          "description": "Experimenta el vibrante Mercado Nocturno de Koreatown, una deliciosa mezcla de comida, cultura y entretenimiento. Aquí, puedes disfrutar de una variedad de comidas callejeras coreanas, incluyendo tteokbokki picante y kimbap crujiente. La animada atmósfera y los coloridos puestos hacen de este un lugar perfecto para explorar por la noche. Las comidas generalmente oscilan entre $5 y $15.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "Nobu Los Ángeles",
+          "type": "restaurant",
+          "description": "Reconocido por su fusión de cocina japonesa tradicional y sabores peruanos, Nobu Los Ángeles ofrece una experiencia culinaria inolvidable. Platos emblemáticos como el Black Cod Miso y el Yellowtail Jalapeño son imprescindibles. La atmósfera elegante es perfecta para ocasiones especiales. Se espera que pagues alrededor de $50 a $100 por persona.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Bestia",
+          "type": "restaurant",
+          "description": "Bestia es un restaurante italiano de moda ubicado en el Arts District, famoso por su charcutería casera y pizzas al horno de leña. El ambiente animado y los cócteles creativos añaden a la experiencia gastronómica. Las reservas son muy recomendadas, y el rango de precios es típicamente de $30 a $80 por persona.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Guelaguetza",
+          "type": "restaurant",
+          "description": "Guelaguetza es famosa por su auténtica cocina oaxaqueña. El restaurante es conocido por su mole y tlayudas, ofreciendo un verdadero sabor de México. La atmósfera es cálida y acogedora, perfecta para reuniones familiares. Se espera que gastes alrededor de $15 a $30 por comida.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Kogi BBQ Truck",
+          "type": "street_food",
+          "description": "Kogi BBQ Truck revolucionó la escena de los camiones de comida en L.A. con sus tacos fusión coreano-mexicanos. El taco de costilla corta con salsa picante es un favorito del público. La vibra casual y las ubicaciones en constante cambio hacen de este un lugar divertido para un bocado rápido. Se espera que gastes alrededor de $5 a $10 por taco.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Café Lalo",
+          "type": "cafe",
+          "description": "Un encantador café conocido por sus deliciosos pasteles y su vibrante atmósfera. El Café Lalo ofrece una variedad de bebidas de café y artículos de brunch, lo que lo convierte en un lugar perfecto para una tarde relajada. El rango de precios generalmente es de $10 a $20 para los artículos de brunch.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Smorgasburg LA",
+          "type": "street_food",
+          "description": "Smorgasburg LA es un mercado dominical ecléctico que presenta una variedad de vendedores de comida. Desde donuts gourmet hasta pizza artesanal, hay algo para todos. La atmósfera animada y el entorno al aire libre lo convierten en un lugar perfecto para disfrutar de un fin de semana relajante. Los precios varían ampliamente, típicamente de $5 a $20.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Los Angeles 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Los Angeles. From budget eats to fine dining — with booking links.",
+      "page_intro": "Los Angeles boasts a vibrant and diverse food scene that reflects its multicultural population. From food trucks serving mouthwatering tacos to high-end restaurants offering innovative dishes, the city's culinary landscape is a feast for the senses. Whether you're a local or a visitor, there's always something new to taste and explore in L.A.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "Grand Central Market",
+          "type": "street_food",
+          "description": "A historic food hall in downtown Los Angeles, Grand Central Market offers a variety of culinary delights. Sample the famous egg sandwich from Eggslut or savor authentic tacos from Tacos Tumbras a Tomas. With a bustling atmosphere and diverse options, it’s a must-visit for food lovers. Expect to spend around $10-$20 per meal.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "Koreatown Night Market",
+          "type": "night_market",
+          "description": "Experience the vibrant Koreatown Night Market, a delightful blend of food, culture, and entertainment. Here, you can enjoy a variety of Korean street foods, including spicy tteokbokki and crispy kimbap. The lively atmosphere and colorful stalls make it a perfect spot for night exploration. Meals generally range from $5 to $15.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "Nobu Los Angeles",
+          "type": "restaurant",
+          "description": "Renowned for its fusion of traditional Japanese cuisine and Peruvian flavors, Nobu Los Angeles delivers an unforgettable dining experience. Signature dishes like Black Cod Miso and Yellowtail Jalapeño are must-tries. The upscale atmosphere is perfect for special occasions. Expect to pay around $50-$100 per person.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Bestia",
+          "type": "restaurant",
+          "description": "Bestia is a trendy Italian restaurant located in the Arts District, famous for its house-made charcuterie and wood-fired pizzas. The bustling environment and creative cocktails add to the dining experience. Reservations are highly recommended, and the price range is typically $30-$80 per person.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Guelaguetza",
+          "type": "restaurant",
+          "description": "Guelaguetza is celebrated for its authentic Oaxacan cuisine. The restaurant is famous for its mole and tlayudas, offering a true taste of Mexico. The ambiance is warm and inviting, perfect for family gatherings. Expect to spend around $15-$30 per meal.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Kogi BBQ Truck",
+          "type": "street_food",
+          "description": "Kogi BBQ Truck revolutionized the food truck scene in L.A. with its Korean-Mexican fusion tacos. The short rib taco topped with spicy salsa is a crowd favorite. The casual vibe and ever-changing locations make it a fun stop for a quick bite. Expect to spend around $5-$10 per taco.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Cafe Lalo",
+          "type": "cafe",
+          "description": "A charming cafe known for its delicious pastries and vibrant atmosphere. Cafe Lalo serves a variety of coffee drinks and brunch items, making it a perfect spot for a leisurely afternoon. The price range is generally $10-$20 for brunch items.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Smorgasburg LA",
+          "type": "street_food",
+          "description": "Smorgasburg LA is an eclectic weekly Sunday market featuring a diverse array of food vendors. From gourmet donuts to artisanal pizza, there's something for everyone. The lively atmosphere and outdoor setting make it a perfect place to enjoy a relaxing weekend. Prices vary widely, typically from $5 to $20.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "लॉस एंजेलेस में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "लॉस एंजेलेस के सर्वोत्तम रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट भोजन से लेकर उच्च श्रेणी के भोजन तक - बुकिंग लिंक के साथ।",
+      "page_intro": "लॉस एंजेलेस एक जीवंत और विविध खाद्य दृश्य का दावा करता है जो इसके बहुसांस्कृतिक जनसंख्या को दर्शाता है। खाने की गाड़ियों से लेकर उच्च श्रेणी के रेस्तरां तक, शहर का पाक परिदृश्य इंद्रियों के लिए एक दावत है। चाहे आप स्थानीय हों या आगंतुक, L.A. में हमेशा कुछ नया चखने और खोजने के लिए है।",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "ग्रांड सेंट्रल मार्केट",
+          "type": "street_food",
+          "description": "लॉस एंजेलेस के डाउनटाउन में एक ऐतिहासिक खाद्य हॉल, ग्रांड सेंट्रल मार्केट विभिन्न पाक आनंद प्रदान करता है। एगस्लट से प्रसिद्ध अंडे का सैंडविच चखें या टाकोस टुम्ब्रास ए टोमस से प्रामाणिक टैको का आनंद लें। व्यस्त वातावरण और विविध विकल्पों के साथ, यह खाद्य प्रेमियों के लिए एक आवश्यक जगह है। प्रत्येक भोजन पर लगभग $10-$20 खर्च करने की उम्मीद करें।",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "कोरियाटाउन नाइट मार्केट",
+          "type": "night_market",
+          "description": "उत्साही कोरियाटाउन नाइट मार्केट का अनुभव करें, जो भोजन, संस्कृति और मनोरंजन का एक सुखद मिश्रण है। यहाँ, आप मसालेदार ट्टेकबोक्की और कुरकुरे किम्बाप सहित विभिन्न कोरियाई स्ट्रीट फूड का आनंद ले सकते हैं। जीवंत माहौल और रंगीन स्टॉल इसे रात के अन्वेषण के लिए एक आदर्श स्थान बनाते हैं। भोजन आमतौर पर $5 से $15 के बीच होता है।",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "नोबु लॉस एंजेलेस",
+          "type": "restaurant",
+          "description": "पारंपरिक जापानी भोजन और पेरुवियन स्वादों के मिश्रण के लिए प्रसिद्ध, नोबु लॉस एंजेलेस एक अविस्मरणीय भोजन अनुभव प्रदान करता है। ब्लैक कोड मिसो और येलो टेल जलापेनो जैसे सिग्नेचर व्यंजन आवश्यक हैं। उच्च श्रेणी का माहौल विशेष अवसरों के लिए सही है। प्रति व्यक्ति लगभग $50-$100 खर्च करने की उम्मीद करें।",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "बेस्टिया",
+          "type": "restaurant",
+          "description": "बेस्टिया एक ट्रेंडी इतालवी रेस्तरां है जो आर्ट्स डिस्ट्रिक्ट में स्थित है, जो अपने घर में बने चारक्यूटरी और लकड़ी से भुने पिज्जा के लिए प्रसिद्ध है। व्यस्त वातावरण और रचनात्मक कॉकटेल भोजन अनुभव को बढ़ाते हैं। आरक्षण की अत्यधिक सिफारिश की जाती है, और कीमत की सीमा सामान्यतः प्रति व्यक्ति $30-$80 होती है।",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "गुएलागेट्ज़ा",
+          "type": "restaurant",
+          "description": "गुएलागेट्ज़ा अपनी प्रामाणिक ओक्साकन व्यंजनों के लिए प्रसिद्ध है। यह रेस्तरां अपने मोले और ट्लायुदास के लिए प्रसिद्ध है, जो मेक्सिको का सच्चा स्वाद प्रदान करता है। वातावरण गर्म और आमंत्रित है, जो पारिवारिक समारोहों के लिए सही है। प्रति भोजन लगभग $15-$30 खर्च करने की उम्मीद करें।",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "कोगी बीबीक्यू ट्रक",
+          "type": "street_food",
+          "description": "कोगी बीबीक्यू ट्रक ने लॉस एंजेलेस में खाद्य ट्रक दृश्य को अपने कोरियाई-मेक्सिकन फ्यूजन टैको के साथ क्रांतिकारी बना दिया। मसालेदार सालसा से सजाए गए शॉर्ट रिब टैको एक भीड़ पसंदीदा है। आकस्मिक माहौल और लगातार बदलती स्थान इसे त्वरित नाश्ते के लिए एक मजेदार ठिकाना बनाते हैं। प्रति टैको लगभग $5-$10 खर्च करने की उम्मीद करें।",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "कैफे लालो",
+          "type": "cafe",
+          "description": "एक आकर्षक कैफे जो अपने स्वादिष्ट पेस्ट्री और जीवंत वातावरण के लिए जाना जाता है। कैफे लालो विभिन्न प्रकार के कॉफी पेय और ब्रंच आइटम परोसता है, जो एक आरामदायक दोपहर के लिए एक आदर्श स्थान बनाता है। ब्रंच आइटम के लिए कीमत की सीमा सामान्यतः $10-$20 होती है।",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "स्मोर्गसबर्ग एलए",
+          "type": "street_food",
+          "description": "स्मोर्गसबर्ग एलए एक विविध खाद्य विक्रेताओं की संगीनी रविवार बाजार है। गॉरमेट डोनट्स से लेकर आर्टिज़नल पिज्जा तक, यहाँ सभी के लिए कुछ है। जीवंत माहौल और बाहरी सेटिंग इसे एक आरामदायक सप्ताहांत का आनंद लेने के लिए एक आदर्श स्थान बनाती है। कीमतें आमतौर पर $5 से $20 के बीच भिन्न होती हैं।",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Los Angeles 2026 - Principais Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Los Angeles. Desde refeições econômicas a jantares requintados - com links de reserva.",
+      "page_intro": "Los Angeles possui uma cena gastronômica vibrante e diversificada que reflete sua população multicultural. Desde caminhões de comida servindo tacos de dar água na boca até restaurantes de alto nível oferecendo pratos inovadores, a paisagem culinária da cidade é um banquete para os sentidos. Seja você um local ou um visitante, sempre há algo novo para degustar e explorar em L.A.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "Grand Central Market",
+          "type": "street_food",
+          "description": "Um mercado de comida histórico no centro de Los Angeles, o Grand Central Market oferece uma variedade de delícias culinárias. Experimente o famoso sanduíche de ovo do Eggslut ou saboreie tacos autênticos do Tacos Tumbras a Tomas. Com uma atmosfera agitada e opções diversas, é uma visita obrigatória para amantes da comida. Espere gastar cerca de $10-$20 por refeição.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "Koreatown Night Market",
+          "type": "night_market",
+          "description": "Experimente o vibrante Koreatown Night Market, uma mistura deliciosa de comida, cultura e entretenimento. Aqui, você pode saborear uma variedade de comidas de rua coreanas, incluindo tteokbokki picante e kimbap crocante. A atmosfera animada e as barracas coloridas fazem deste um local perfeito para exploração noturna. As refeições geralmente variam de $5 a $15.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "Nobu Los Angeles",
+          "type": "restaurant",
+          "description": "Renomado por sua fusão de culinária japonesa tradicional e sabores peruanos, o Nobu Los Angeles oferece uma experiência gastronômica inesquecível. Pratos assinatura como Black Cod Miso e Yellowtail Jalapeño são imperdíveis. A atmosfera sofisticada é perfeita para ocasiões especiais. Espere pagar cerca de $50-$100 por pessoa.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Bestia",
+          "type": "restaurant",
+          "description": "Bestia é um restaurante italiano descolado localizado no Arts District, famoso por sua charcutaria caseira e pizzas assadas em forno a lenha. O ambiente agitado e os coquetéis criativos acrescentam à experiência gastronômica. Reservas são altamente recomendadas, e a faixa de preço é tipicamente de $30 a $80 por pessoa.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Guelaguetza",
+          "type": "restaurant",
+          "description": "Guelaguetza é celebrada por sua culinária autêntica oaxaqueña. O restaurante é famoso por seu mole e tlayudas, oferecendo um verdadeiro sabor do México. O ambiente é acolhedor e convidativo, perfeito para encontros familiares. Espere gastar cerca de $15-$30 por refeição.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Kogi BBQ Truck",
+          "type": "street_food",
+          "description": "O Kogi BBQ Truck revolucionou a cena dos caminhões de comida em L.A. com seus tacos de fusão coreano-mexicana. O taco de costela curto coberto com salsa picante é um favorito do público. A atmosfera casual e as localizações em constante mudança tornam-no uma parada divertida para um lanche rápido. Espere gastar cerca de $5-$10 por taco.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Cafe Lalo",
+          "type": "cafe",
+          "description": "Um charmoso café conhecido por suas deliciosas sobremesas e atmosfera vibrante. O Cafe Lalo serve uma variedade de bebidas de café e itens de brunch, tornando-o um local perfeito para uma tarde descontraída. A faixa de preço é geralmente de $10-$20 para itens de brunch.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Smorgasburg LA",
+          "type": "street_food",
+          "description": "Smorgasburg LA é um mercado dominical semanal eclético com uma variedade diversificada de vendedores de comida. Desde donuts gourmet até pizza artesanal, há algo para todos. A atmosfera animada e o ambiente ao ar livre tornam-no um lugar perfeito para desfrutar de um final de semana relaxante. Os preços variam amplamente, geralmente de $5 a $20.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في لوس أنجلوس 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والتخصصات المحلية في لوس أنجلوس. من الوجبات الاقتصادية إلى العشاء الفاخر - مع روابط للحجز.",
+      "page_intro": "تفتخر لوس أنجلوس بمشهد غذائي نابض بالحياة ومتنوع يعكس سكانها متعدد الثقافات. من شاحنات الطعام التي تقدم التاكو الشهي إلى المطاعم الراقية التي تقدم أطباق مبتكرة، فإن المشهد الطهوي للمدينة هو وليمة للحواس. سواء كنت من السكان المحليين أو زائرًا، هناك دائمًا شيء جديد لتذوقه واستكشافه في ل.أ.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "جراند سنترال ماركت",
+          "type": "street_food",
+          "description": "قاعة طعام تاريخية في وسط مدينة لوس أنجلوس، تقدم جراند سنترال ماركت مجموعة متنوعة من المأكولات. جرب شطيرة البيض الشهيرة من Eggslut أو استمتع بالتاكو الأصلي من Tacos Tumbras a Tomas. مع أجواء نابضة بالحياة وخيارات متنوعة، إنها وجهة لا بد من زيارتها لعشاق الطعام. توقع أن تنفق حوالي 10-20 دولارًا لكل وجبة.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "سوق كورية تاون الليلي",
+          "type": "night_market",
+          "description": "تجربة سوق كورية تاون الليلي النابض بالحياة، وهو مزيج رائع من الطعام والثقافة والترفيه. هنا، يمكنك الاستمتاع بمجموعة متنوعة من الأطعمة الكورية الشارعية، بما في ذلك التوك بوكki الحار وكيمباب المقرمش. يجعل الجو النابض بالحياة والأكشاك الملونة من هذا المكان مثاليًا للاستكشاف الليلي. تتراوح الوجبات عادة من 5 إلى 15 دولارًا.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "نوبو لوس أنجلوس",
+          "type": "restaurant",
+          "description": "يشتهر نوبو لوس أنجلوس بمزيجه من المأكولات اليابانية التقليدية والنكهات البيروفية، حيث يقدم تجربة طعام لا تُنسى. الأطباق المميزة مثل سمك القد الأسود ميسو وسمك الذيل الأصفر مع الفلفل الحار هي من الضروريات. الجو الراقي مثالي للمناسبات الخاصة. توقع أن تدفع حوالي 50-100 دولار للشخص الواحد.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "بيستيا",
+          "type": "restaurant",
+          "description": "بيستيا هو مطعم إيطالي عصري يقع في منطقة الفنون، مشهور بلحومه المصنعة محليًا والبيتزا المطبوخة على الحطب. يضيف الجو النابض والحيوية والكوكتيلات الإبداعية إلى تجربة تناول الطعام. يُنصح بشدة بالحجز، ويتراوح سعر الوجبة عادة من 30 إلى 80 دولارًا للشخص الواحد.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "غويلاغيتزا",
+          "type": "restaurant",
+          "description": "تحتفل غويلاغيتزا بمأكولاتها الأصلية من ولاية أواكساكا. يشتهر المطعم بمواله وتلايوداس، حيث يقدم طعمًا حقيقيًا للمكسيك. الجو دافئ ومرحّب، مما يجعله مثاليًا للتجمعات العائلية. توقع أن تنفق حوالي 15-30 دولارًا لكل وجبة.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "شاحنة كوجي باربكيو",
+          "type": "street_food",
+          "description": "ثورة شاحنة كوجي باربكيو في مشهد شاحنات الطعام في لوس أنجلوس مع تاكو الفيوجن الكوري المكسيكي. يعتبر تاكو اللحم القصير مع الصلصة الحارة من المفضلات لدى الجمهور. تجعل الأجواء غير الرسمية والمواقع المتغيرة باستمرار من هذه المحطة مكانًا ممتعًا لتناول وجبة خفيفة سريعة. توقع أن تنفق حوالي 5-10 دولارات لكل تاكو.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "كافيه لالو",
+          "type": "cafe",
+          "description": "مقهى ساحر معروف بمعجناته اللذيذة وأجوائه النابضة بالحياة. يقدم كافيه لالو مجموعة متنوعة من مشروبات القهوة وأطباق الغداء، مما يجعله مكانًا مثاليًا لجلسة بعد الظهر. يتراوح سعر أطباق الغداء عادة بين 10 و20 دولارًا.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "سمورغسبرغ ل.أ.",
+          "type": "street_food",
+          "description": "سمورغسبرغ ل.أ. هو سوق أسبوعي متنوع يضم مجموعة متنوعة من بائعي الطعام. من الدوناتات الفاخرة إلى البيتزا الحرفية، هناك شيء للجميع. تجعل الأجواء النابضة والإعداد الخارجي منه مكانًا مثاليًا للاستمتاع بعطلة نهاية أسبوع مريحة. تتفاوت الأسعار على نطاق واسع، عادةً من 5 إلى 20 دولارًا.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "লস অ্যাঞ্জেলেসে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবারের গাইড",
+      "seo_description": "লস অ্যাঞ্জেলেসের সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "page_intro": "লস অ্যাঞ্জেলেস একটি প্রাণবন্ত এবং বৈচিত্র্যময় খাবারের দৃশ্যের দাবি করে যা এর বহুসাংস্কৃতিক জনসংখ্যাকে প্রতিফলিত করে। মুখরোচক টাকো পরিবেশন করা খাবারের ট্রাক থেকে শুরু করে উদ্ভাবনী খাবার পরিবেশনকারী উচ্চমানের রেস্তোরাঁ পর্যন্ত, শহরের রন্ধনসম্পর্কীয় দৃশ্য একটি ইন্দ্রিয়ের জন্য এক উৎসব। আপনি স্থানীয় বা দর্শক হোন, L.A.-তে সর্বদা কিছু নতুন স্বাদ গ্রহণ এবং অনুসন্ধানের জন্য কিছু আছে।",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "গ্র্যান্ড সেন্ট্রাল মার্কেট",
+          "type": "street_food",
+          "description": "লস অ্যাঞ্জেলেসের ডাউনটাউনে একটি ঐতিহাসিক খাবারের হল, গ্র্যান্ড সেন্ট্রাল মার্কেট বিভিন্ন রন্ধনসম্পর্কীয় আনন্দ প্রদান করে। Eggslut থেকে জনপ্রিয় ডিমের স্যান্ডউইচ স্বাদ নিন অথবা Tacos Tumbras a Tomas থেকে প্রামাণিক টাকোর স্বাদ নিন। একটি ব্যস্ত পরিবেশ এবং বিভিন্ন বিকল্পের সঙ্গে, এটি খাবারের প্রেমীদের জন্য একটি অবশ্যই দেখার জায়গা। প্রত্যেকটি খাবারের জন্য প্রায় $10-$20 খরচ করার আশা রাখুন।",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "কোরিয়াটাউন নাইট মার্কেট",
+          "type": "night_market",
+          "description": "রঙিন খাবার, সংস্কৃতি এবং বিনোদনের একটি মিষ্টি মিশ্রণ, প্রাণবন্ত কোরিয়াটাউন নাইট মার্কেটের অভিজ্ঞতা নিন। এখানে, আপনি মশলাদার ট্টেকবোক্কি এবং ক্রিস্পি কিম্বাপ সহ বিভিন্ন কোরিয়ান স্ট্রিট ফুড উপভোগ করতে পারেন। প্রাণবন্ত পরিবেশ এবং রঙিন দোকানগুলি এটিকে রাতের অনুসন্ধানের জন্য একটি নিখুঁত স্থান করে তোলে। খাবার সাধারণত $5 থেকে $15 এর মধ্যে হয়ে থাকে।",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "নোবু লস অ্যাঞ্জেলেস",
+          "type": "restaurant",
+          "description": "পারম্পরিক জাপানি রন্ধনপ্রণালী এবং পেরুভিয়ান স্বাদের সংমিশ্রণের জন্য বিখ্যাত, নোবু লস অ্যাঞ্জেলেস একটি অবিস্মরণীয় খাবারের অভিজ্ঞতা প্রদান করে। ব্ল্যাক কড মিসো এবং ইয়েলোটেইল জলাপেনো এর মতো স্বাক্ষর খাবারগুলি অবশ্যই চেষ্টা করতে হবে। উচ্চমানের পরিবেশ বিশেষ অনুষ্ঠানের জন্য উপযুক্ত। প্রত্যেকের জন্য প্রায় $50-$100 খরচ করার আশা করুন।",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "বেস্টিয়া",
+          "type": "restaurant",
+          "description": "বেস্টিয়া একটি ট্রেন্ডি ইতালীয় রেস্তোরাঁ যা আর্টস ডিস্ট্রিক্টে অবস্থিত, যা বাড়িতে তৈরি চারকিউটারি এবং কাঠের আগুনে তৈরি পিজ্জার জন্য বিখ্যাত। ব্যস্ত পরিবেশ এবং সৃজনশীল ককটেল খাবারের অভিজ্ঞতা বাড়িয়ে তোলে। রিজার্ভেশন অত্যন্ত সুপারিশ করা হয়, এবং মূল্য পরিসীমা সাধারণত প্রতি ব্যক্তির জন্য $30-$80।",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "গুয়েলাগেতজা",
+          "type": "restaurant",
+          "description": "গুয়েলাগেতজা তার প্রামাণিক ওয়াক্সাকান রান্নার জন্য পরিচিত। রেস্তোরাঁটি তার মোলে এবং ট্লায়ুদাসের জন্য বিখ্যাত, যা মেক্সিকোর সত্যিকারের স্বাদ দেয়। পরিবেশ উষ্ণ এবং আমন্ত্রণমূলক, পরিবারিক সভার জন্য উপযুক্ত। প্রত্যেকটি খাবারের জন্য প্রায় $15-$30 খরচ করার আশা করুন।",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "কোগি বারবিকিউ ট্রাক",
+          "type": "street_food",
+          "description": "কোগি বারবিকিউ ট্রাক লস অ্যাঞ্জেলেসে খাবারের ট্রাক দৃশ্যকে তার কোরিয়ান-মেক্সিকান ফিউশন টাকোর সাথে বিপ্লবিত করেছে। মশলাদার স্যালসা দিয়ে টপ করা শর্ট রিব টাকো একটি ভিড়ের প্রিয়। স্বাচ্ছন্দ্যপূর্ণ পরিবেশ এবং ক্রমবর্ধমান স্থানগুলি এটিকে দ্রুত স্ন্যাকের জন্য একটি মজার স্টপ করে তোলে। প্রত্যেকটি টাকোর জন্য প্রায় $5-$10 খরচ করার আশা করুন।",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "ক্যাফে লালো",
+          "type": "cafe",
+          "description": "একটি মিষ্টি ক্যাফে যা তার সুস্বাদু পেস্ট্রি এবং প্রাণবন্ত পরিবেশের জন্য পরিচিত। ক্যাফে লালো বিভিন্ন ধরনের কফি পানীয় এবং ব্রঞ্চ আইটেম পরিবেশন করে, যা একটি আরামদায়ক দুপুরের জন্য একটি নিখুঁত স্থান। ব্রঞ্চ আইটেমের জন্য মূল্য পরিসীমা সাধারণত $10-$20।",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "স্মোর্গাসবার্গ এলএ",
+          "type": "street_food",
+          "description": "স্মোর্গাসবার্গ এলএ একটি বৈচিত্র্যময় খাদ্য বিক্রেতাদের সাথে একটি ইক্লেকটিক সাপ্তাহিক রবিবারের বাজার। গৌরমেট ডোনাট থেকে শুরু করে আর্টিজানাল পিজ্জা পর্যন্ত, সবার জন্য কিছু আছে। প্রাণবন্ত পরিবেশ এবং বাইরের সেটিং এটিকে একটি আরামদায়ক সপ্তাহান্তে উপভোগের জন্য একটি নিখুঁত স্থান করে তোলে। দাম সাধারণত $5 থেকে $20 এর মধ্যে পরিবর্তিত হয়।",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Лос-Анджелесе 2026 — Лучшие рестораны и гид по уличной пище",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Лос-Анджелесе. От бюджетных блюд до изысканных ужинов — с ссылками на бронирование.",
+      "page_intro": "Лос-Анджелес славится яркой и разнообразной гастрономической сценой, отражающей его многокультурное население. От фуршетов с восхитительными тако до высококлассных ресторанов, предлагающих инновационные блюда, кулинарный ландшафт города — это пиршество для чувств. Будь вы местным жителем или туристом, в Л.А. всегда есть что-то новое, что можно попробовать и исследовать.",
+      "items": [
+        {
+          "id": "grand-central-market",
+          "name": "Гранд Сентрал Маркет",
+          "type": "street_food",
+          "description": "Исторический рынок еды в центре Лос-Анджелеса, Гранд Сентрал Маркет предлагает разнообразные кулинарные удовольствия. Попробуйте знаменитый яичный сэндвич от Eggslut или насладитесь аутентичными тако от Tacos Tumbras a Tomas. С оживленной атмосферой и разнообразными вариантами, это обязательное место для любителей еды. Ожидайте потратить около $10-$20 за прием пищи.",
+          "image_keyword": "Grand Central Market Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Eggslut's Fairfax Sandwich",
+          "klook_query": "Grand Central Market food tour"
+        },
+        {
+          "id": "koreatown-night-market",
+          "name": "Ночной рынок Корейского района",
+          "type": "night_market",
+          "description": "Откройте для себя яркий Ночной рынок Корейского района, восхитительное сочетание еды, культуры и развлечений. Здесь вы можете насладиться разнообразием корейской уличной еды, включая острые ттокпокки и хрустящий кимпап. Живописная атмосфера и красочные палатки делают это идеальным местом для ночных исследований. Приемы пищи обычно стоят от $5 до $15.",
+          "image_keyword": "Koreatown Night Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tteokbokki",
+          "klook_query": "Koreatown Night Market food experience"
+        },
+        {
+          "id": "nobu-los-angeles",
+          "name": "Нобу Лос-Анджелес",
+          "type": "restaurant",
+          "description": "Знаменитый своим сочетанием традиционной японской кухни и перуанских вкусов, Нобу Лос-Анджелес предлагает незабываемый кулинарный опыт. Фирменные блюда, такие как черная треска мисо и желтохвост с халапеньо, обязательны к пробе. Высококлассная атмосфера идеально подходит для особых случаев. Ожидайте заплатить около $50-$100 с человека.",
+          "image_keyword": "Nobu Los Angeles",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Black Cod Miso",
+          "klook_query": "Nobu Los Angeles reservation"
+        },
+        {
+          "id": "bestia",
+          "name": "Бестия",
+          "type": "restaurant",
+          "description": "Бестия — это модный итальянский ресторан, расположенный в Арт-Дистрикте, знаменитый своим домашним мясным ассорти и пиццей на дровах. Оживленная обстановка и креативные коктейли добавляют кулинарному опыту. Рекомендуется заранее забронировать столик, а диапазон цен обычно составляет от $30 до $80 с человека.",
+          "image_keyword": "Bestia Los Angeles",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bone Marrow Pizzette",
+          "klook_query": "Bestia restaurant booking"
+        },
+        {
+          "id": "guelaguetza",
+          "name": "Гуэлагетца",
+          "type": "restaurant",
+          "description": "Гуэлагетца славится своей аутентичной уахаканской кухней. Ресторан знаменит своим моле и тлайудас, предлагая настоящий вкус Мексики. Атмосфера теплая и уютная, идеально подходящая для семейных встреч. Ожидайте потратить около $15-$30 за прием пищи.",
+          "image_keyword": "Guelaguetza Los Angeles",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Mole Negro",
+          "klook_query": "Guelaguetza reservation"
+        },
+        {
+          "id": "food-truck-taco",
+          "name": "Коги BBQ Трак",
+          "type": "street_food",
+          "description": "Коги BBQ Трак произвел революцию в сфере уличной еды в Лос-Анджелесе своими такосами в корейско-мексиканском стиле. Тако с короткой ребрышкой, покрытое острым соусом, — любимое у публики. Непринужденная обстановка и постоянно меняющиеся локации делают его отличным местом для быстрого перекуса. Ожидайте потратить около $5-$10 за тако.",
+          "image_keyword": "Kogi BBQ Truck Los Angeles",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Short Rib Taco",
+          "klook_query": "Kogi BBQ food truck schedule"
+        },
+        {
+          "id": "cafe-lalo",
+          "name": "Кафе Лало",
+          "type": "cafe",
+          "description": "Очаровательное кафе, известное своими вкусными пирожными и живой атмосферой. Кафе Лало предлагает разнообразие кофейных напитков и блюд на завтрак, что делает его идеальным местом для неспешного послеобеденного отдыха. Ценовой диапазон обычно составляет от $10 до $20 за блюда на завтрак.",
+          "image_keyword": "Cafe Lalo Los Angeles",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Croissant",
+          "klook_query": "Cafe Lalo booking"
+        },
+        {
+          "id": "smorgasburg-la",
+          "name": "Сморгасбург Л.А.",
+          "type": "street_food",
+          "description": "Сморгасбург Л.А. — это эклектичный воскресный рынок с разнообразными продавцами еды. От гурманских пончиков до ремесленной пиццы — здесь есть что-то для каждого. Оживленная атмосфера и открытая обстановка делают его идеальным местом для расслабляющего уикенда. Цены варьируются, обычно от $5 до $20.",
+          "image_keyword": "Smorgasburg LA",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Donuts",
+          "klook_query": "Smorgasburg LA food tour"
+        }
+      ]
+    }
+  }
+}

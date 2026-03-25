@@ -1,0 +1,1097 @@
+{
+  "city_slug": "los-angeles",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Los Angeles 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Los Angeles. Find opening hours, ticket prices and booking links for Los Angeles's top landmarks.",
+      "page_intro": "Los Angeles, the City of Angels, is a vibrant metropolis known for its entertainment industry, stunning beaches, and diverse culture. From Hollywood's glitz to the artistic vibes of Downtown, there's something for every traveler. Explore world-class attractions, indulge in culinary delights, and soak up the sun in this iconic Californian city.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "Hollywood Sign",
+          "type": "landmark",
+          "description": "The Hollywood Sign is an iconic symbol of the entertainment industry and offers breathtaking views of Los Angeles. Visitors can hike the nearby trails for the best photo opportunities. It's recommended to spend about 1-2 hours here, preferably in the morning or late afternoon to avoid the heat. Bring water and wear comfortable shoes.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "Griffith Observatory",
+          "type": "landmark",
+          "description": "The Griffith Observatory is a must-visit for stunning views of the city and the cosmos. Explore interactive exhibits, gaze through telescopes, and enjoy the beautiful surrounding park. Allocate about 2-3 hours for your visit. It's best to go in the afternoon or evening to catch the sunset and city lights.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "The Getty Center",
+          "type": "museum",
+          "description": "The Getty Center is renowned for its impressive art collection, stunning architecture, and beautiful gardens. Spend a few hours exploring the galleries and taking in the panoramic views of Los Angeles. Admission is free, but parking requires a fee. It's best to visit during the afternoon to fully appreciate the art and gardens.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "Hollywood Boulevard",
+          "type": "district",
+          "description": "Hollywood Boulevard is famous for the Walk of Fame, where stars commemorate celebrities from the entertainment industry. Stroll along the street, visit the TCL Chinese Theatre, and enjoy street performances. Plan for about 2-3 hours to soak in the vibrant atmosphere. It's an anytime destination, but evenings are particularly lively.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "Los Angeles County Museum of Art (LACMA)",
+          "type": "museum",
+          "description": "LACMA is the largest art museum in the west, featuring a vast collection of art across various periods and cultures. The iconic Urban Light installation makes for a perfect photo spot. Allocate about 3-4 hours for a thorough visit. It's best enjoyed in the afternoon to fully explore the exhibits.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "The Church of the Good Shepherd",
+          "type": "temple",
+          "description": "This charming church is nestled in the heart of Pasadena and offers a serene atmosphere for reflection and peace. The beautiful architecture and gardens are perfect for a quiet visit. Spend about 1 hour here, and it's best to go in the morning for a peaceful experience.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "Little Tokyo",
+          "type": "district",
+          "description": "Little Tokyo is a vibrant neighborhood showcasing Japanese culture, cuisine, and shops. Enjoy authentic sushi, visit art galleries, and shop for unique souvenirs. It's a great place to spend 2-3 hours exploring. Anytime is good to visit, but evenings are particularly lively with events and food options.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年洛杉矶顶级景点 — 门票、提示及完整指南",
+      "seo_description": "探索洛杉矶最佳景点。查找洛杉矶顶级地标的开放时间、票价和预订链接。",
+      "page_intro": "洛杉矶，天使之城，是一个充满活力的大都市，以其娱乐产业、壮丽海滩和多元文化而闻名。从好莱坞的华丽到市中心的艺术氛围，这里有适合每位旅行者的东西。探索世界级的景点，沉醉于美食的享受，并在这个标志性的加州城市中沐浴阳光。",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "好莱坞标志",
+          "type": "landmark",
+          "description": "好莱坞标志是娱乐产业的标志性象征，提供洛杉矶的壮丽景色。游客可以徒步走附近的小径，以获得最佳拍照机会。建议在这里停留约1-2小时，最好是在早晨或傍晚，以避免炎热。带上水，穿上舒适的鞋子。",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "格里菲斯天文台",
+          "type": "landmark",
+          "description": "格里菲斯天文台是欣赏城市和宇宙壮丽景色的必游之地。探索互动展览，透过望远镜观星，享受美丽的周围公园。为您的访问分配约2-3小时。最好在下午或黄昏时分去，欣赏日落和城市灯光。",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "盖蒂中心",
+          "type": "museum",
+          "description": "盖蒂中心以其令人印象深刻的艺术收藏、壮观的建筑和美丽的花园而闻名。花几个小时探索画廊，欣赏洛杉矶的全景。入场免费，但停车需要收费。最好在下午访问，以充分欣赏艺术和花园。",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "好莱坞大道",
+          "type": "district",
+          "description": "好莱坞大道因星光大道而闻名，那里纪念娱乐产业的名人。沿街漫步，参观TCL中国剧院，享受街头表演。计划停留约2-3小时，感受充满活力的氛围。任何时候都是一个理想的目的地，但晚上尤其热闹。",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "洛杉矶县艺术博物馆（LACMA）",
+          "type": "museum",
+          "description": "LACMA是西部最大的艺术博物馆，展出各个时期和文化的丰富艺术收藏。标志性的城市灯光装置是完美的拍照地点。为全面参观分配约3-4小时。下午去参观是最佳选择，以充分探索展览。",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "好牧人教堂",
+          "type": "temple",
+          "description": "这座迷人的教堂坐落在帕萨迪纳的中心，提供一个宁静的反思与平和的氛围。美丽的建筑和花园非常适合安静的访问。建议在这里停留约1小时，最好在早晨前往，以获得宁静的体验。",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "小东京",
+          "type": "district",
+          "description": "小东京是一个充满活力的社区，展示日本文化、美食和商店。享受正宗的寿司，参观艺术画廊，购买独特的纪念品。这里是探索的好地方，建议停留2-3小时。任何时候都适合访问，但晚上尤其热闹，有活动和美食选择。",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年ロサンゼルスのトップアトラクション — チケット、ヒント & 完全ガイド",
+      "seo_description": "ロサンゼルスの最高のアトラクションを探索してください。ロサンゼルスの主要なランドマークの営業時間、チケット価格、予約リンクを見つけることができます。",
+      "page_intro": "ロサンゼルス、天使の街は、エンターテインメント産業、美しいビーチ、多様な文化で知られる活気のある大都市です。ハリウッドの華やかさからダウンタウンのアーティスティックな雰囲気まで、旅行者にとって何かがあります。世界クラスのアトラクションを探索し、料理の楽しみを満喫し、この象徴的なカリフォルニアの都市で日光を浴びてください。",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "ハリウッドサイン",
+          "type": "landmark",
+          "description": "ハリウッドサインはエンターテインメント産業の象徴的なシンボルであり、ロサンゼルスの息をのむような景色を提供します。訪問者は近くのトレイルをハイキングして、最高の写真撮影の機会を得ることができます。ここでの滞在は約1-2時間をお勧めします。特に朝または夕方に行くと、暑さを避けられます。水を持参し、快適な靴を履いてください。",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "グリフィス天文台",
+          "type": "landmark",
+          "description": "グリフィス天文台は、都市と宇宙の素晴らしい景色を楽しむための必見の場所です。インタラクティブな展示を探索し、望遠鏡で星を眺め、美しい周囲の公園を楽しんでください。訪問には約2-3時間を割り当ててください。夕日や都市の灯りを楽しむために、午後または夕方に行くのが最適です。",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "ゲティセンター",
+          "type": "museum",
+          "description": "ゲティセンターは、その印象的なアートコレクション、壮大な建築、美しい庭園で有名です。数時間をかけてギャラリーを探索し、ロサンゼルスのパノラマビューを楽しんでください。入場は無料ですが、駐車場は有料です。アートと庭園を十分に楽しむために、午後に訪れるのが最適です。",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "ハリウッド大通り",
+          "type": "district",
+          "description": "ハリウッド大通りは、エンターテインメント業界の有名人を称える星型の通りで有名です。通りを散策し、TCL中国劇場を訪れ、ストリートパフォーマンスを楽しんでください。活気のある雰囲気を味わうために、約2-3時間を計画してください。いつでも訪れるのに適した場所ですが、特に夕方は活気があります。",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "ロサンゼルス郡美術館（LACMA）",
+          "type": "museum",
+          "description": "LACMAは西部最大の美術館で、さまざまな時代と文化の広範なアートコレクションを展示しています。アイコニックなアーバンライトのインスタレーションは、完璧な写真スポットです。徹底的に訪問するために、約3-4時間を割り当ててください。展示を十分に探るために、午後に訪れるのが最適です。",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "グッドシェパード教会",
+          "type": "temple",
+          "description": "この魅力的な教会はパサデナの中心にあり、反省と平和のための穏やかな雰囲気を提供します。美しい建築と庭園は静かな訪問に最適です。ここで約1時間を過ごすことをお勧めします。静かな体験を得るために、朝に訪れるのが最適です。",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "リトル東京",
+          "type": "district",
+          "description": "リトル東京は、日本の文化、料理、ショップを展示する活気のある地域です。本格的な寿司を楽しんだり、アートギャラリーを訪れたり、ユニークなお土産を購入したりしてください。探索するのに最適な場所で、2-3時間を過ごすのが良いでしょう。いつでも訪れるのに適していますが、特に夕方はイベントや食べ物の選択肢が豊富で活気があります。",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 로스앤젤레스 최고의 명소 — 티켓, 팁 및 완벽 가이드",
+      "seo_description": "로스앤젤레스의 최고의 명소를 탐험하세요. 로스앤젤레스의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾을 수 있습니다.",
+      "page_intro": "로스앤젤레스, 천사의 도시, 는 엔터테인먼트 산업, 멋진 해변 및 다양한 문화로 유명한 활기찬 대도시입니다. 할리우드의 화려함에서 다운타운의 예술적인 분위기까지, 모든 여행자를 위한 무언가가 있습니다. 세계적인 명소를 탐험하고, 미식의 기쁨을 만끽하며, 이 상징적인 캘리포니아 도시에서 태양을 만끽하세요.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "할리우드 사인",
+          "type": "landmark",
+          "description": "할리우드 사인은 엔터테인먼트 산업의 상징적인 기호로, 로스앤젤레스의 숨막히는 전망을 제공합니다. 방문객들은 근처의 트레일을 하이킹하여 최고의 사진 촬영 기회를 얻을 수 있습니다. 여기에 약 1-2시간을 보내는 것이 좋으며, 아침이나 늦은 오후에 가서 더위를 피하는 것이 좋습니다. 물을 가져오고 편안한 신발을 착용하세요.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "그리피스 천문대",
+          "type": "landmark",
+          "description": "그리피스 천문대는 도시와 우주의 멋진 전망을 제공하는 꼭 가봐야 할 장소입니다. 인터랙티브 전시를 탐험하고, 망원경을 통해 별을 바라보며, 아름다운 주변 공원을 즐기세요. 방문에는 약 2-3시간을 할당하세요. 일몰과 도시의 불빛을 감상하기 위해 오후나 저녁에 가는 것이 가장 좋습니다.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "게티 센터",
+          "type": "museum",
+          "description": "게티 센터는 인상적인 예술 컬렉션, 멋진 건축물 및 아름다운 정원으로 유명합니다. 몇 시간 동안 갤러리를 탐험하고 로스앤젤레스의 파노라마 전망을 즐기세요. 입장은 무료이지만 주차는 유료입니다. 예술과 정원을 충분히 감상하기 위해 오후에 방문하는 것이 가장 좋습니다.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "할리우드 대로",
+          "type": "district",
+          "description": "할리우드 대로는 엔터테인먼트 산업의 유명인을 기념하는 별의 거리로 유명합니다. 거리를 따라 산책하고, TCL 중국 극장을 방문하고, 거리 공연을 즐기세요. 활기찬 분위기를 느끼기 위해 약 2-3시간을 계획하세요. 언제든지 방문하기 좋은 장소지만, 저녁에는 특히 활기차고 즐거운 분위기를 느낄 수 있습니다.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "로스앤젤레스 카운티 미술관 (LACMA)",
+          "type": "museum",
+          "description": "LACMA는 서부에서 가장 큰 미술관으로, 다양한 시대와 문화의 방대한 예술 컬렉션을 자랑합니다. 상징적인 도시 조명 설치는 완벽한 사진 촬영 장소입니다. 철저한 방문을 위해 약 3-4시간을 할당하세요. 전시를 충분히 탐색하기 위해 오후에 방문하는 것이 가장 좋습니다.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "선한 목자 교회",
+          "type": "temple",
+          "description": "이 매력적인 교회는 파사데나의 중심에 자리 잡고 있으며, 반성과 평화를 위한 고요한 분위기를 제공합니다. 아름다운 건축물과 정원은 조용한 방문에 적합합니다. 여기에서 약 1시간을 보내는 것이 좋으며, 평화로운 경험을 위해 아침에 가는 것이 가장 좋습니다.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "리틀 도쿄",
+          "type": "district",
+          "description": "리틀 도쿄는 일본 문화, 요리 및 상점을 선보이는 활기찬 동네입니다. 정통 스시를 즐기고, 미술 갤러리를 방문하고, 독특한 기념품을 쇼핑하세요. 탐험하기 좋은 장소로, 2-3시간을 보내는 것이 좋습니다. 언제든지 방문하기 좋은 곳이지만, 저녁에는 특히 활기차고 이벤트와 음식 옵션이 풍부합니다.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures attractions à Los Angeles 2026 — Billets, conseils et guide complet",
+      "seo_description": "Découvrez les meilleures attractions de Los Angeles. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Los Angeles.",
+      "page_intro": "Los Angeles, la ville des anges, est une métropole vibrante connue pour son industrie du divertissement, ses plages magnifiques et sa culture diversifiée. Du glamour d'Hollywood aux vibrations artistiques du centre-ville, il y a quelque chose pour chaque voyageur. Explorez des attractions de classe mondiale, régalez-vous de délices culinaires et profitez du soleil dans cette ville emblématique de Californie.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "Panneau Hollywood",
+          "type": "landmark",
+          "description": "Le panneau Hollywood est un symbole emblématique de l'industrie du divertissement et offre une vue imprenable sur Los Angeles. Les visiteurs peuvent randonner sur les sentiers voisins pour les meilleures opportunités photo. Il est recommandé de passer environ 1-2 heures ici, de préférence le matin ou en fin d'après-midi pour éviter la chaleur. Apportez de l'eau et portez des chaussures confortables.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "Observatoire Griffith",
+          "type": "landmark",
+          "description": "L'Observatoire Griffith est un incontournable pour ses vues magnifiques sur la ville et le cosmos. Explorez des expositions interactives, regardez à travers des télescopes et profitez du parc environnant. Prévoyez environ 2-3 heures pour votre visite. Il est préférable d'y aller l'après-midi ou le soir pour admirer le coucher de soleil et les lumières de la ville.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "Centre Getty",
+          "type": "museum",
+          "description": "Le Centre Getty est réputé pour sa collection d'art impressionnante, son architecture époustouflante et ses magnifiques jardins. Passez quelques heures à explorer les galeries et à admirer les vues panoramiques sur Los Angeles. L'entrée est gratuite, mais le stationnement est payant. Il est préférable de visiter l'après-midi pour apprécier pleinement l'art et les jardins.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "Boulevard Hollywood",
+          "type": "district",
+          "description": "Le Boulevard Hollywood est célèbre pour le Walk of Fame, où les étoiles rendent hommage aux célébrités de l'industrie du divertissement. Promenez-vous dans la rue, visitez le TCL Chinese Theatre et profitez des performances de rue. Prévoyez environ 2-3 heures pour vous imprégner de l'atmosphère vibrante. C'est une destination à tout moment, mais les soirées sont particulièrement animées.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "Musée d'art du comté de Los Angeles (LACMA)",
+          "type": "museum",
+          "description": "Le LACMA est le plus grand musée d'art de l'ouest, présentant une vaste collection d'art à travers différentes périodes et cultures. L'installation emblématique Urban Light en fait un endroit idéal pour les photos. Prévoyez environ 3-4 heures pour une visite approfondie. Il est préférable d'en profiter l'après-midi pour explorer pleinement les expositions.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "L'Église du Bon Pasteur",
+          "type": "temple",
+          "description": "Cette charmante église est nichée au cœur de Pasadena et offre une atmosphère sereine pour la réflexion et la paix. La belle architecture et les jardins sont parfaits pour une visite tranquille. Passez environ 1 heure ici, et il est préférable d'y aller le matin pour une expérience paisible.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "Petit Tokyo",
+          "type": "district",
+          "description": "Petit Tokyo est un quartier vibrant qui met en valeur la culture, la cuisine et les boutiques japonaises. Profitez de sushis authentiques, visitez des galeries d'art et achetez des souvenirs uniques. C'est un endroit idéal pour passer 2-3 heures à explorer. Tout moment est bon pour visiter, mais les soirées sont particulièrement animées avec des événements et des options de nourriture.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en Los Ángeles 2026 — Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones en Los Ángeles. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Los Ángeles.",
+      "page_intro": "Los Ángeles, la Ciudad de los Ángeles, es una metrópoli vibrante conocida por su industria del entretenimiento, sus impresionantes playas y su cultura diversa. Desde el glamour de Hollywood hasta las vibraciones artísticas del centro, hay algo para cada viajero. Explora atracciones de clase mundial, disfruta de delicias culinarias y disfruta del sol en esta icónica ciudad californiana.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "Cartel de Hollywood",
+          "type": "landmark",
+          "description": "El Cartel de Hollywood es un símbolo icónico de la industria del entretenimiento y ofrece impresionantes vistas de Los Ángeles. Los visitantes pueden hacer senderismo por los senderos cercanos para las mejores oportunidades fotográficas. Se recomienda pasar alrededor de 1-2 horas aquí, preferiblemente por la mañana o a última hora de la tarde para evitar el calor. Lleva agua y usa zapatos cómodos.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "Observatorio Griffith",
+          "type": "landmark",
+          "description": "El Observatorio Griffith es una visita obligada para disfrutar de vistas impresionantes de la ciudad y del cosmos. Explora exposiciones interactivas, observa a través de telescopios y disfruta del hermoso parque circundante. Dedica alrededor de 2-3 horas a tu visita. Es mejor ir por la tarde o por la noche para ver la puesta de sol y las luces de la ciudad.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "Centro Getty",
+          "type": "museum",
+          "description": "El Centro Getty es famoso por su impresionante colección de arte, su sorprendente arquitectura y sus hermosos jardines. Pasa unas horas explorando las galerías y disfrutando de las vistas panorámicas de Los Ángeles. La entrada es gratuita, pero el estacionamiento requiere una tarifa. Es mejor visitar por la tarde para apreciar plenamente el arte y los jardines.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "Boulevard de Hollywood",
+          "type": "district",
+          "description": "El Boulevard de Hollywood es famoso por el Paseo de la Fama, donde las estrellas rinden homenaje a las celebridades de la industria del entretenimiento. Pasea por la calle, visita el TCL Chinese Theatre y disfruta de las actuaciones en la calle. Planifica pasar alrededor de 2-3 horas disfrutando de la vibrante atmósfera. Es un destino para cualquier momento, pero las noches son especialmente animadas.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "Museo de Arte del Condado de Los Ángeles (LACMA)",
+          "type": "museum",
+          "description": "LACMA es el museo de arte más grande del oeste, con una vasta colección de arte a través de diversas épocas y culturas. La icónica instalación Urban Light es un lugar perfecto para fotos. Dedica alrededor de 3-4 horas para una visita completa. Es mejor disfrutarlo por la tarde para explorar plenamente las exposiciones.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "La Iglesia del Buen Pastor",
+          "type": "temple",
+          "description": "Esta encantadora iglesia está situada en el corazón de Pasadena y ofrece una atmósfera serena para la reflexión y la paz. La hermosa arquitectura y los jardines son perfectos para una visita tranquila. Pasa alrededor de 1 hora aquí, y es mejor ir por la mañana para una experiencia pacífica.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "Pequeño Tokio",
+          "type": "district",
+          "description": "Pequeño Tokio es un barrio vibrante que muestra la cultura, la cocina y las tiendas japonesas. Disfruta de sushi auténtico, visita galerías de arte y compra recuerdos únicos. Es un gran lugar para pasar de 2 a 3 horas explorando. Cualquier momento es bueno para visitar, pero las noches son especialmente animadas con eventos y opciones de comida.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Top Attractions in Los Angeles 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Los Angeles. Find opening hours, ticket prices and booking links for Los Angeles's top landmarks.",
+      "page_intro": "Los Angeles, the City of Angels, is a vibrant metropolis known for its entertainment industry, stunning beaches, and diverse culture. From Hollywood's glitz to the artistic vibes of Downtown, there's something for every traveler. Explore world-class attractions, indulge in culinary delights, and soak up the sun in this iconic Californian city.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "Hollywood Sign",
+          "type": "landmark",
+          "description": "The Hollywood Sign is an iconic symbol of the entertainment industry and offers breathtaking views of Los Angeles. Visitors can hike the nearby trails for the best photo opportunities. It's recommended to spend about 1-2 hours here, preferably in the morning or late afternoon to avoid the heat. Bring water and wear comfortable shoes.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "Griffith Observatory",
+          "type": "landmark",
+          "description": "The Griffith Observatory is a must-visit for stunning views of the city and the cosmos. Explore interactive exhibits, gaze through telescopes, and enjoy the beautiful surrounding park. Allocate about 2-3 hours for your visit. It's best to go in the afternoon or evening to catch the sunset and city lights.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "The Getty Center",
+          "type": "museum",
+          "description": "The Getty Center is renowned for its impressive art collection, stunning architecture, and beautiful gardens. Spend a few hours exploring the galleries and taking in the panoramic views of Los Angeles. Admission is free, but parking requires a fee. It's best to visit during the afternoon to fully appreciate the art and gardens.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "Hollywood Boulevard",
+          "type": "district",
+          "description": "Hollywood Boulevard is famous for the Walk of Fame, where stars commemorate celebrities from the entertainment industry. Stroll along the street, visit the TCL Chinese Theatre, and enjoy street performances. Plan for about 2-3 hours to soak in the vibrant atmosphere. It's an anytime destination, but evenings are particularly lively.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "Los Angeles County Museum of Art (LACMA)",
+          "type": "museum",
+          "description": "LACMA is the largest art museum in the west, featuring a vast collection of art across various periods and cultures. The iconic Urban Light installation makes for a perfect photo spot. Allocate about 3-4 hours for a thorough visit. It's best enjoyed in the afternoon to fully explore the exhibits.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "The Church of the Good Shepherd",
+          "type": "temple",
+          "description": "This charming church is nestled in the heart of Pasadena and offers a serene atmosphere for reflection and peace. The beautiful architecture and gardens are perfect for a quiet visit. Spend about 1 hour here, and it's best to go in the morning for a peaceful experience.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "Little Tokyo",
+          "type": "district",
+          "description": "Little Tokyo is a vibrant neighborhood showcasing Japanese culture, cuisine, and shops. Enjoy authentic sushi, visit art galleries, and shop for unique souvenirs. It's a great place to spend 2-3 hours exploring. Anytime is good to visit, but evenings are particularly lively with events and food options.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "लॉस एंजेलेस में शीर्ष आकर्षण 2026 — टिकट, सुझाव और पूर्ण गाइड",
+      "seo_description": "लॉस एंजेलेस के सर्वश्रेष्ठ आकर्षणों का अन्वेषण करें। लॉस एंजेलेस के शीर्ष स्थलों के लिए खोलने के घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "लॉस एंजेलेस, एंजेल्स का शहर, मनोरंजन उद्योग, शानदार समुद्र तटों और विविध संस्कृति के लिए जाना जाने वाला एक जीवंत महानगर है। हॉलीवुड की चमक से लेकर डाउनटाउन की कलात्मकता तक, हर यात्री के लिए कुछ न कुछ है। विश्व स्तरीय आकर्षणों का अन्वेषण करें, पाक कला का आनंद लें, और इस प्रतिष्ठित कैलिफ़ोर्नियाई शहर में धूप का आनंद लें।",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "हॉलीवुड साइन",
+          "type": "landmark",
+          "description": "हॉलीवुड साइन मनोरंजन उद्योग का एक प्रतिष्ठित प्रतीक है और लॉस एंजेलेस के अद्भुत दृश्य प्रस्तुत करता है। आगंतुकों के लिए सर्वोत्तम फोटो अवसरों के लिए पास के ट्रेल्स पर चढ़ाई करना संभव है। यहां लगभग 1-2 घंटे बिताने की सिफारिश की जाती है, preferably सुबह या देर दोपहर में गर्मी से बचने के लिए। पानी लाना और आरामदायक जूते पहनना बेहतर है।",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "ग्रिफ़िथ ऑब्जर्वेटरी",
+          "type": "landmark",
+          "description": "ग्रिफ़िथ ऑब्जर्वेटरी शहर और ब्रह्मांड के अद्भुत दृश्यों के लिए एक अवश्य देखने योग्य स्थान है। इंटरएक्टिव प्रदर्शनों का अन्वेषण करें, दूरबीन से देखें, और सुंदर आसपास के पार्क का आनंद लें। आपकी यात्रा के लिए लगभग 2-3 घंटे का समय निर्धारित करें। सूर्यास्त और शहर की रोशनी देखने के लिए दोपहर या शाम में जाना सबसे अच्छा है।",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "गेटी सेंटर",
+          "type": "museum",
+          "description": "गेटी सेंटर अपनी प्रभावशाली कला संग्रह, शानदार वास्तुकला और सुंदर बागों के लिए प्रसिद्ध है। गैलरी का अन्वेषण करने और लॉस एंजेलेस के पैनोरमिक दृश्यों का आनंद लेने के लिए कुछ घंटे बिताएं। प्रवेश मुफ्त है, लेकिन पार्किंग के लिए शुल्क की आवश्यकता होती है। कला और बागों की पूरी सराहना करने के लिए दोपहर में जाना सबसे अच्छा है।",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "हॉलीवुड बुलेवार्ड",
+          "type": "district",
+          "description": "हॉलीवुड बुलेवार्ड वॉक ऑफ फेम के लिए प्रसिद्ध है, जहाँ सितारे मनोरंजन उद्योग के प्रसिद्ध व्यक्तियों को श्रद्धांजलि देते हैं। सड़क पर टहलें, TCL चाइनीज थियेटर का दौरा करें, और सड़क पर प्रदर्शन का आनंद लें। जीवंत वातावरण को आत्मसात करने के लिए लगभग 2-3 घंटे की योजना बनाएं। यह किसी भी समय का गंतव्य है, लेकिन शाम के समय विशेष रूप से जीवंत होता है।",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "लॉस एंजेलेस काउंटी संग्रहालय (LACMA)",
+          "type": "museum",
+          "description": "LACMA पश्चिम का सबसे बड़ा कला संग्रहालय है, जो विभिन्न समय और संस्कृतियों के कला का विशाल संग्रह प्रस्तुत करता है। प्रतिष्ठित अर्बन लाइट स्थापना एक आदर्श फोटो स्थान है। एक संपूर्ण यात्रा के लिए लगभग 3-4 घंटे का समय निर्धारित करें। प्रदर्शनों का पूरी तरह से अन्वेषण करने के लिए इसे दोपहर में सबसे अच्छा आनंद लें।",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "गुड शेफर्ड का चर्च",
+          "type": "temple",
+          "description": "यह आकर्षक चर्च पासाडेना के दिल में स्थित है और विचार और शांति के लिए एक शांत वातावरण प्रदान करता है। सुंदर वास्तुकला और बाग़ एक शांत दौरे के लिए आदर्श हैं। यहां लगभग 1 घंटा बिताएं, और सुबह में जाना सबसे अच्छा है ताकि शांति का अनुभव किया जा सके।",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "लिटिल टोक्यो",
+          "type": "district",
+          "description": "लिटिल टोक्यो एक जीवंत पड़ोस है जो जापानी संस्कृति, व्यंजन और दुकानों को प्रदर्शित करता है। प्रामाणिक सुशी का आनंद लें, कला गैलरी का दौरा करें, और अनोखे स्मृति चिन्हों की खरीदारी करें। अन्वेषण के लिए 2-3 घंटे बिताने के लिए यह एक शानदार स्थान है। किसी भी समय आने के लिए अच्छा है, लेकिन शाम के समय कार्यक्रमों और खाद्य विकल्पों के साथ विशेष रूप से जीवंत होता है।",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Los Angeles 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Los Angeles. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Los Angeles.",
+      "page_intro": "Los Angeles, a Cidade dos Anjos, é uma metrópole vibrante conhecida por sua indústria de entretenimento, praias deslumbrantes e cultura diversificada. Desde o brilho de Hollywood até as vibrações artísticas do centro, há algo para cada viajante. Explore atrações de classe mundial, delicie-se com iguarias culinárias e aproveite o sol nesta icônica cidade californiana.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "Letreiro de Hollywood",
+          "type": "landmark",
+          "description": "O Letreiro de Hollywood é um símbolo icônico da indústria do entretenimento e oferece vistas deslumbrantes de Los Angeles. Os visitantes podem trilhar as trilhas próximas para as melhores oportunidades de fotos. Recomenda-se passar cerca de 1-2 horas aqui, preferencialmente pela manhã ou no final da tarde para evitar o calor. Traga água e use sapatos confortáveis.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "Observatório Griffith",
+          "type": "landmark",
+          "description": "O Observatório Griffith é uma visita obrigatória para vistas deslumbrantes da cidade e do cosmos. Explore exposições interativas, observe através de telescópios e desfrute do belo parque ao redor. Reserve cerca de 2-3 horas para sua visita. É melhor ir à tarde ou à noite para ver o pôr do sol e as luzes da cidade.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "Centro Getty",
+          "type": "museum",
+          "description": "O Centro Getty é renomado por sua impressionante coleção de arte, arquitetura deslumbrante e belos jardins. Passe algumas horas explorando as galerias e apreciando as vistas panorâmicas de Los Angeles. A entrada é gratuita, mas o estacionamento tem taxa. É melhor visitar à tarde para apreciar completamente a arte e os jardins.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "Boulevard de Hollywood",
+          "type": "district",
+          "description": "O Boulevard de Hollywood é famoso pela Calçada da Fama, onde estrelas homenageiam celebridades da indústria do entretenimento. Passeie pela rua, visite o TCL Chinese Theatre e aproveite as performances de rua. Planeje cerca de 2-3 horas para absorver a atmosfera vibrante. É um destino para qualquer hora, mas as noites são particularmente animadas.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "Museu de Arte do Condado de Los Angeles (LACMA)",
+          "type": "museum",
+          "description": "O LACMA é o maior museu de arte do oeste, apresentando uma vasta coleção de arte de várias épocas e culturas. A icônica instalação Urban Light é um ótimo local para fotos. Reserve cerca de 3-4 horas para uma visita completa. É melhor aproveitar à tarde para explorar totalmente as exposições.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "Igreja do Bom Pastor",
+          "type": "temple",
+          "description": "Esta encantadora igreja está situada no coração de Pasadena e oferece uma atmosfera serena para reflexão e paz. A bela arquitetura e os jardins são perfeitos para uma visita tranquila. Passe cerca de 1 hora aqui, e é melhor ir pela manhã para uma experiência pacífica.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "Pequeno Tóquio",
+          "type": "district",
+          "description": "Pequeno Tóquio é um bairro vibrante que exibe a cultura, culinária e lojas japonesas. Desfrute de sushi autêntico, visite galerias de arte e compre souvenirs únicos. É um ótimo lugar para passar 2-3 horas explorando. Qualquer hora é boa para visitar, mas as noites são particularmente animadas com eventos e opções de comida.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في لوس أنجلوس 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في لوس أنجلوس. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم المعالم في لوس أنجلوس.",
+      "page_intro": "لوس أنجلوس، مدينة الملائكة، هي مدينة نابضة بالحياة معروفة بصناعة الترفيه والشواطئ الجميلة وثقافتها المتنوعة. من بريق هوليوود إلى الأجواء الفنية في وسط المدينة، هناك شيء لكل مسافر. استكشف المعالم السياحية العالمية، واستمتع بالأطباق الشهية، واستمتع بأشعة الشمس في هذه المدينة الكاليفورنية الشهيرة.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "علامة هوليوود",
+          "type": "landmark",
+          "description": "علامة هوليوود هي رمز أيقوني لصناعة الترفيه وتقدم مناظر خلابة لمدينة لوس أنجلوس. يمكن للزوار السير في المسارات القريبة للحصول على أفضل فرص التصوير. يُوصى بقضاء حوالي 1-2 ساعة هنا، ويفضل أن يكون ذلك في الصباح أو في وقت متأخر من بعد الظهر لتجنب الحرارة. احضر الماء وارتدِ أحذية مريحة.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "مرصد غريفيث",
+          "type": "landmark",
+          "description": "مرصد غريفيث هو مكان يجب زيارته للاستمتاع بإطلالات رائعة على المدينة والكون. استكشف المعارض التفاعلية، وتطلع من خلال التلسكوبات، واستمتع بالحديقة الجميلة المحيطة. خصص حوالي 2-3 ساعات لزيارتك. من الأفضل الذهاب في فترة بعد الظهر أو المساء لمشاهدة غروب الشمس وأضواء المدينة.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "مركز غيتي",
+          "type": "museum",
+          "description": "مركز غيتي مشهور بمجموعته الفنية الرائعة، والهندسة المعمارية المذهلة، وحدائقه الجميلة. اقضِ بضع ساعات في استكشاف المعارض والاستمتاع بالإطلالات البانورامية على لوس أنجلوس. الدخول مجاني، لكن يحتاج مواقف السيارات إلى رسوم. من الأفضل الزيارة في فترة بعد الظهر للاستمتاع الكامل بالفنون والحدائق.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "بوليفارد هوليوود",
+          "type": "district",
+          "description": "بوليفارد هوليوود مشهور بممشى الشهرة، حيث تكرم النجوم المشاهير من صناعة الترفيه. تجول في الشارع، وزر مسرح TCL الصيني، واستمتع بالعروض في الشارع. خطط لقضاء حوالي 2-3 ساعات للاستمتاع بالأجواء النابضة بالحياة. إنه وجهة في أي وقت، لكن الأمسيات تكون حيوية بشكل خاص.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "متحف مقاطعة لوس أنجلوس للفنون (LACMA)",
+          "type": "museum",
+          "description": "يعد LACMA أكبر متحف فنون في الغرب، حيث يضم مجموعة واسعة من الفنون عبر عصور وثقافات مختلفة. التركيب الأيقوني للضوء الحضري هو مكان رائع للتصوير. خصص حوالي 3-4 ساعات لزيارة شاملة. من الأفضل الاستمتاع به في فترة بعد الظهر لاستكشاف المعارض بالكامل.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "كنيسة الراعي الصالح",
+          "type": "temple",
+          "description": "توجد هذه الكنيسة الساحرة في قلب باسادينا وتوفر أجواء هادئة للتفكير والسلام. الهندسة المعمارية الجميلة والحدائق مثالية لزيارة هادئة. اقضِ حوالي ساعة هنا، ومن الأفضل الذهاب في الصباح لتجربة هادئة.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "طوكيو الصغيرة",
+          "type": "district",
+          "description": "طوكيو الصغيرة هي حي نابض يعرض الثقافة اليابانية والمأكولات والمحلات التجارية. استمتع بالسوشي الأصيل، وزر المعارض الفنية، وتسوق لشراء هدايا تذكارية فريدة. إنه مكان رائع لقضاء 2-3 ساعات في الاستكشاف. أي وقت مناسب للزيارة، لكن الأمسيات تكون حيوية بشكل خاص مع الأحداث وخيارات الطعام.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "লস অ্যাঞ্জেলেসের সেরা আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "লস অ্যাঞ্জেলেসের সেরা আকর্ষণগুলি অন্বেষণ করুন। লস অ্যাঞ্জেলেসের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "page_intro": "লস অ্যাঞ্জেলেস, অ্যাঞ্জেলদের শহর, একটি প্রাণবন্ত মহানগরী যা তার বিনোদন শিল্প, চমত্কার সৈকত এবং বৈচিত্র্যময় সংস্কৃতির জন্য পরিচিত। হলিউডের ঝলমলে আলো থেকে ডাউনটাউনের শিল্পী ভাইবস পর্যন্ত, প্রতিটি ভ্রমণকারীর জন্য কিছু না কিছু রয়েছে। বিশ্বমানের আকর্ষণগুলি অন্বেষণ করুন, রন্ধনশিল্পের আনন্দ উপভোগ করুন এবং এই আইকনিক ক্যালিফোর্নিয়া শহরে রোদে স্নান করুন।",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "হলিউড সাইন",
+          "type": "landmark",
+          "description": "হলিউড সাইন বিনোদন শিল্পের একটি আইকনিক প্রতীক এবং লস অ্যাঞ্জেলেসের দর্শনীয় দৃশ্য উপস্থাপন করে। দর্শকরা সেরা ছবির সুযোগের জন্য কাছের পায়ে চলার ট্রেইলে হাঁটতে পারেন। এখানে প্রায় ১-২ ঘণ্টা কাটানোর পরামর্শ দেওয়া হয়, preferably সকাল বা বিকেলের দিকে গরম থেকে বাঁচতে। জল আনুন এবং আরামদায়ক জুতো পরুন।",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "গ্রিফিথ অবজারভেটরি",
+          "type": "landmark",
+          "description": "গ্রিফিথ অবজারভেটরি শহর এবং মহাবিশ্বের চমত্কার দৃশ্যের জন্য একটি অবশ্যই দেখতে হবে। ইন্টারঅ্যাকটিভ প্রদর্শনগুলি অন্বেষণ করুন, টেলিস্কোপের মাধ্যমে দেখুন এবং চারপাশের সুন্দর পার্ক উপভোগ করুন। আপনার পরিদর্শনের জন্য প্রায় ২-৩ ঘণ্টা বরাদ্দ করুন। সূর্যাস্ত এবং শহরের আলো দেখতে বিকাল বা সন্ধ্যায় যাওয়া সবচেয়ে ভালো।",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "গেটি সেন্টার",
+          "type": "museum",
+          "description": "গেটি সেন্টার তার চিত্তাকর্ষক শিল্প সংগ্রহ, চমত্কার স্থাপত্য এবং সুন্দর বাগানের জন্য পরিচিত। গ্যালারিগুলি অন্বেষণ করতে এবং লস অ্যাঞ্জেলেসের প্যানোরামিক দৃশ্য উপভোগ করতে কয়েক ঘণ্টা সময় ব্যয় করুন। প্রবেশ বিনামূল্যে, তবে পার্কিংয়ের জন্য ফি প্রয়োজন। শিল্প এবং বাগান সম্পূর্ণরূপে উপভোগ করার জন্য বিকালে যাওয়া সবচেয়ে ভালো।",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "হলিউড বুলেভার্ড",
+          "type": "district",
+          "description": "হলিউড বুলেভার্ড ওয়াক অফ ফেমের জন্য বিখ্যাত, যেখানে তারকারা বিনোদন শিল্পের সেলিব্রিটিদের স্মরণ করেন। রাস্তার পাশে হাঁটুন, TCL চাইনিজ থিয়েটার পরিদর্শন করুন এবং রাস্তার পারফরম্যান্স উপভোগ করুন। প্রাণবন্ত পরিবেশে মগ্ন হতে প্রায় ২-৩ ঘণ্টা পরিকল্পনা করুন। এটি যে কোনও সময়ের গন্তব্য, তবে সন্ধ্যার সময় বিশেষভাবে প্রাণবন্ত।",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "লস অ্যাঞ্জেলেস কাউন্টি আর্ট মিউজিয়াম (LACMA)",
+          "type": "museum",
+          "description": "LACMA পশ্চিমের বৃহত্তম আর্ট মিউজিয়াম, বিভিন্ন সময়কাল এবং সংস্কৃতির শিল্পের বিশাল সংগ্রহ নিয়ে গঠিত। আইকনিক আরবান লাইট ইনস্টলেশন একটি নিখুঁত ছবি তোলার স্থান। একটি সম্পূর্ণ পরিদর্শনের জন্য প্রায় ৩-৪ ঘণ্টা সময় বরাদ্দ করুন। প্রদর্শনগুলি পুরোপুরি অন্বেষণ করার জন্য বিকালে এটি উপভোগ করা সবচেয়ে ভালো।",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "গুড শেপার্ডের গির্জা",
+          "type": "temple",
+          "description": "এই আকর্ষণীয় গির্জাটি প্যাসাডেনার কেন্দ্রে অবস্থিত এবং প্রতিফলন এবং শান্তির জন্য একটি শান্ত পরিবেশ প্রদান করে। সুন্দর স্থাপত্য এবং বাগান একটি শান্ত পরিদর্শনের জন্য আদর্শ। এখানে প্রায় ১ ঘণ্টা কাটান, এবং শান্ত অভিজ্ঞতার জন্য সকালে যাওয়া সবচেয়ে ভালো।",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "লিটল টোকিও",
+          "type": "district",
+          "description": "লিটল টোকিও একটি প্রাণবন্ত প্রতিবেশী যা জাপানি সংস্কৃতি, রান্না এবং দোকানগুলি প্রদর্শন করে। প্রামাণিক সুশির স্বাদ নিন, আর্ট গ্যালারিতে যান এবং অনন্য স্মারকপত্র কিনুন। এটি অন্বেষণের জন্য ২-৩ ঘণ্টা কাটানোর জন্য একটি দুর্দান্ত স্থান। যে কোন সময় যেতে ভাল, তবে সন্ধ্যার সময় ইভেন্ট এবং খাবারের বিকল্পগুলির সাথে বিশেষভাবে প্রাণবন্ত হয়।",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Топ достопримечательностей в Лос-Анджелесе 2026 — Билеты, советы и полное руководство",
+      "seo_description": "Исследуйте лучшие достопримечательности Лос-Анджелеса. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Лос-Анджелеса.",
+      "page_intro": "Лос-Анджелес, город ангелов, — это яркий мегаполис, известный своей индустрией развлечений, великолепными пляжами и разнообразной культурой. От блеска Голливуда до художественной атмосферы Центра, здесь есть что-то для каждого путешественника. Исследуйте мировые достопримечательности, наслаждайтесь кулинарными изысками и впитывайте солнечные лучи в этом знаменитом калифорнийском городе.",
+      "items": [
+        {
+          "id": "hollywood-sign",
+          "name": "Знак Голливуда",
+          "type": "landmark",
+          "description": "Знак Голливуда — это знаковый символ индустрии развлечений, предлагающий захватывающие виды на Лос-Анджелес. Посетители могут подняться по близлежащим тропам, чтобы сделать лучшие фотографии. Рекомендуется проводить здесь около 1-2 часов, предпочтительно утром или поздно днем, чтобы избежать жары. Возьмите воду и наденьте удобную обувь.",
+          "image_keyword": "Hollywood Sign",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Hollywood Sign hike"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "Обсерватория Гриффита",
+          "type": "landmark",
+          "description": "Обсерватория Гриффита — это обязательное место для посещения, чтобы насладиться великолепными видами на город и космос. Исследуйте интерактивные экспозиции, смотрите в телескопы и наслаждайтесь прекрасным окружающим парком. Выделите около 2-3 часов на свой визит. Лучше всего приходить после обеда или вечером, чтобы увидеть закат и огни города.",
+          "image_keyword": "Griffith Observatory",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Griffith Observatory tickets"
+        },
+        {
+          "id": "the-getty-center",
+          "name": "Центр Гетти",
+          "type": "museum",
+          "description": "Центр Гетти знаменит своей впечатляющей коллекцией искусства, великолепной архитектурой и красивыми садами. Проведите несколько часов, исследуя галереи и наслаждаясь панорамными видами на Лос-Анджелес. Вход бесплатный, но за парковку взимается плата. Лучше всего посещать во второй половине дня, чтобы в полной мере оценить искусство и сады.",
+          "image_keyword": "The Getty Center",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "Free (parking fee applies)",
+          "best_time": "afternoon",
+          "klook_query": "The Getty Center tickets"
+        },
+        {
+          "id": "hollywood-boulevard",
+          "name": "Бульвар Голливуда",
+          "type": "district",
+          "description": "Бульвар Голливуда знаменит Аллеей славы, где звезды увековечивают знаменитостей индустрии развлечений. Прогуляйтесь по улице, посетите TCL Chinese Theatre и насладитесь уличными выступлениями. Запланируйте около 2-3 часов, чтобы насладиться живой атмосферой. Это место подходит для посещения в любое время, но вечера особенно оживленные.",
+          "image_keyword": "Hollywood Boulevard",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Hollywood Boulevard experiences"
+        },
+        {
+          "id": "lacma",
+          "name": "Музей искусств округа Лос-Анджелес (LACMA)",
+          "type": "museum",
+          "description": "LACMA — это крупнейший художественный музей на западе, представляющий обширную коллекцию искусства разных эпох и культур. Знаковая установка Urban Light — отличное место для фотографий. Запланируйте около 3-4 часов для всестороннего посещения. Лучше всего наслаждаться им во второй половине дня, чтобы полностью исследовать выставки.",
+          "image_keyword": "LACMA",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$25",
+          "best_time": "afternoon",
+          "klook_query": "LACMA tickets"
+        },
+        {
+          "id": "the-church-of-the-good-shepherd",
+          "name": "Церковь Доброе Пастырь",
+          "type": "temple",
+          "description": "Эта очаровательная церковь расположена в сердце Пасадены и предлагает спокойную атмосферу для размышлений и умиротворения. Прекрасная архитектура и сады идеально подходят для тихого визита. Проведите здесь около 1 часа, и лучше всего приходить утром для спокойного опыта.",
+          "image_keyword": "The Church of the Good Shepherd",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "The Church of the Good Shepherd visit"
+        },
+        {
+          "id": "la-little-tokyo",
+          "name": "Маленький Токио",
+          "type": "district",
+          "description": "Маленький Токио — это яркий район, демонстрирующий японскую культуру, кухню и магазины. Наслаждайтесь аутентичным суши, посещайте художественные галереи и покупайте уникальные сувениры. Это отличное место, чтобы провести 2-3 часа, исследуя. В любое время хорошо посещать, но вечера особенно насыщены событиями и предложениями еды.",
+          "image_keyword": "Little Tokyo",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Little Tokyo experiences"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "city_slug": "zurich",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Zurich 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Zurich. From budget eats to fine dining — with booking links.",
+      "page_intro": "Zurich boasts a rich culinary scene that reflects its cultural diversity and high-quality ingredients. From traditional Swiss fare to international cuisine, there's something for every palate. Explore bustling markets, elegant restaurants, and cozy cafes that showcase the best of Zurich's gastronomy.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "Restaurant Spark",
+          "type": "restaurant",
+          "description": "Restaurant Spark is known for its innovative Swiss cuisine with a modern twist. The atmosphere is vibrant and chic, making it perfect for a night out. Be sure to try their signature beef tartare, which is a crowd favorite. Prices are moderate, making it accessible for a special occasion.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "Zurich West Street Food Market",
+          "type": "street_food",
+          "description": "Zurich West Street Food Market is a bustling hub of culinary delights featuring diverse food stalls. Here you can sample everything from Swiss cheese to international street eats. The vibrant atmosphere and laid-back vibe make it a perfect spot for casual dining. Prices vary, with many options under $10.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "Café Sprüngli",
+          "type": "cafe",
+          "description": "Café Sprüngli is a historic café famous for its luxurious chocolates and delicious pastries. The ambiance is charming and elegant, making it an ideal spot for afternoon tea. Don't miss their signature Luxemburgerli macarons, which are a must-try. Prices are on the higher side but worth every bite.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "Restaurant Zoe",
+          "type": "restaurant",
+          "description": "Restaurant Zoe offers a modern dining experience with a focus on seasonal ingredients. The stylish interior and attentive service make it a great choice for fine dining. Their signature dish, the truffle risotto, is highly recommended. Expect to pay moderate to high prices for a memorable meal.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "Oberland Street Food Festival",
+          "type": "street_food",
+          "description": "The Oberland Street Food Festival showcases a variety of local and international dishes in a lively outdoor setting. It's perfect for trying different tastes in one place, from bratwurst to exotic curry. Prices are very reasonable, with many dishes under $15. Enjoy the vibrant atmosphere with live music.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "Restaurant Feldschlösschen",
+          "type": "restaurant",
+          "description": "Restaurant Feldschlösschen offers a cozy ambiance and serves hearty Swiss dishes. It's particularly known for its fondue and rösti, which are traditional favorites. The restaurant is perfect for families and friends looking for a comfortable dining experience. Prices are moderate, making it a great value.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "Bahnhof Night Market",
+          "type": "night_market",
+          "description": "Bahnhof Night Market is a vibrant space filled with food stalls and local vendors. It offers a mix of traditional Swiss snacks and international cuisines. The energetic atmosphere is perfect for a casual evening with friends. Prices are affordable, with many options under $10.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "Raclette Stand at Helvetia",
+          "type": "street_food",
+          "description": "The Raclette Stand at Helvetia serves one of the most beloved Swiss dishes, raclette cheese melted to perfection. Enjoy it with potatoes and pickles for an authentic experience. The stand is popular among locals and visitors alike, with prices starting around $12. A must-try when in Zurich!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年蘇黎世最佳美食 — 頂級餐廳與街頭美食指南",
+      "seo_description": "探索蘇黎世最佳餐廳、街頭美食和當地特色。從經濟實惠的美食到高檔餐飲 — 這裡都有預訂連結。",
+      "page_intro": "蘇黎世擁有豐富的烹飪場景，反映其文化多樣性和高品質的食材。從傳統瑞士美食到國際料理，總有適合每種口味的選擇。探索熱鬧的市場、優雅的餐廳和舒適的咖啡館，展示蘇黎世美食的最佳風采。",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "Restaurant Spark",
+          "type": "restaurant",
+          "description": "Restaurant Spark以其創新的瑞士料理而聞名，帶有現代風格。氛圍活潑而時尚，非常適合外出用餐。一定要試試他們的招牌生牛肉塔塔，這是眾人皆愛的美食。價格適中，非常適合特別的場合。",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "蘇黎世西區街頭美食市場",
+          "type": "street_food",
+          "description": "蘇黎世西區街頭美食市場是一個充滿美食的熱鬧中心，擁有多樣的食物攤位。在這裡，你可以品嚐從瑞士奶酪到國際街頭小吃的各種美食。熱鬧的氛圍和輕鬆的氛圍使其成為休閒用餐的理想地點。價格各異，很多選擇在10美元以下。",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "Café Sprüngli",
+          "type": "cafe",
+          "description": "Café Sprüngli是一家歷史悠久的咖啡館，以其奢華的巧克力和美味的糕點而聞名。環境迷人而優雅，是享用下午茶的理想場所。不要錯過他們的招牌Luxemburgerli馬卡龍，這是必試之選。價格偏高，但每一口都值得。",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "Restaurant Zoe",
+          "type": "restaurant",
+          "description": "Restaurant Zoe提供現代用餐體驗，專注於季節性食材。時尚的內部裝潢和周到的服務使其成為高檔餐飲的絕佳選擇。他們的招牌菜松露燉飯非常推薦。期待為一次難忘的用餐支付中高價位。",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "奧伯蘭街頭美食節",
+          "type": "street_food",
+          "description": "奧伯蘭街頭美食節在熱鬧的戶外環境中展示各種當地和國際菜肴。這裡非常適合在同一個地方品嚐不同的口味，從香腸到異國咖哩。價格非常合理，許多菜品在15美元以下。享受充滿活力的氛圍以及現場音樂。",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "Restaurant Feldschlösschen",
+          "type": "restaurant",
+          "description": "Restaurant Feldschlösschen提供舒適的氛圍，供應豐盛的瑞士菜。尤其以其奶酪火鍋和土豆餅而聞名，這些都是傳統的最愛。這家餐廳非常適合家庭和朋友，尋找舒適的用餐體驗。價格適中，性價比高。",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "Bahnhof夜市",
+          "type": "night_market",
+          "description": "Bahnhof夜市是一個充滿活力的空間，擁有各種食物攤位和當地商販。這裡提供傳統瑞士小吃和國際美食的混合。充滿活力的氛圍非常適合與朋友輕鬆度過夜晚。價格實惠，很多選擇在10美元以下。",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "Helvetia的瑞士乳酪架",
+          "type": "street_food",
+          "description": "Helvetia的瑞士乳酪架提供最受喜愛的瑞士菜之一，即完美融化的瑞士乳酪。搭配土豆和醃菜享用，體驗最正宗的風味。這個攤位在當地人和遊客中都很受歡迎，價格約從12美元起。來蘇黎世時絕對是必試之選！",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年チューリッヒのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "チューリッヒの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "チューリッヒは、その文化的多様性と高品質な食材を反映した豊かな料理シーンを誇っています。伝統的なスイス料理から国際的な料理まで、すべての味覚に合うものがあります。賑やかな市場、エlegantなレストラン、居心地の良いカフェを探索して、チューリッヒの美食の素晴らしさを体験してください。",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "レストラン スパーク",
+          "type": "restaurant",
+          "description": "レストラン スパークは、現代的なひねりを加えた革新的なスイス料理で知られています。活気に満ちたシックな雰囲気で、外出にぴったりです。彼らのシグネチャーであるビーフタルタルは、特におすすめです。価格は中程度で、特別な機会にアクセスしやすいです。",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "チューリッヒ西街ストリートフード市場",
+          "type": "street_food",
+          "description": "チューリッヒ西街ストリートフード市場は、多様なフードスタンドが並ぶ美食のハブです。ここでは、スイスのチーズから国際的なストリートフードまで、さまざまな料理を試すことができます。賑やかな雰囲気とリラックスした雰囲気が、カジュアルな食事に最適な場所です。価格はさまざまで、多くの選択肢が10ドル未満です。",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "カフェ シュプリュングリ",
+          "type": "cafe",
+          "description": "カフェ シュプリュングリは、豪華なチョコレートと美味しいペストリーで有名な歴史的なカフェです。魅力的でエlegantな雰囲気は、アフタヌーンティーに最適です。彼らのシグネチャーであるリュクセンブルガーリマカロンは、ぜひ試してみてください。価格は高めですが、一口ごとに価値があります。",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "レストラン ゾーイ",
+          "type": "restaurant",
+          "description": "レストラン ゾーイは、季節の食材に焦点を当てた現代的なダイニング体験を提供します。スタイリッシュな内装と気配りのあるサービスが、高級ダイニングに最適な選択肢となっています。彼らのシグネチャー料理であるトリュフリゾットは特におすすめです。記憶に残る食事のために、中高価格帯を期待してください。",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "オーバーランド ストリートフードフェスティバル",
+          "type": "street_food",
+          "description": "オーバーランドストリートフードフェスティバルは、活気ある屋外環境で多様な地元および国際的な料理を展示しています。一つの場所でさまざまな味を試すのに最適で、ブラートヴルストからエキゾチックなカレーまで豊富に揃っています。価格は非常にリーズナブルで、多くの料理が15ドル未満です。ライブ音楽とともに活気ある雰囲気を楽しんでください。",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "レストラン フェルドシュロッシェン",
+          "type": "restaurant",
+          "description": "レストラン フェルドシュロッシェンは、居心地の良い雰囲気を提供し、ボリューム満点のスイス料理を提供しています。特にフォンデュとロスティが有名で、伝統的な人気メニューです。家族や友人と一緒にくつろげる食事体験に最適です。価格は中程度で、コストパフォーマンスが高いです。",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "バーンホフナイトマーケット",
+          "type": "night_market",
+          "description": "バーンホフナイトマーケットは、食べ物の屋台や地元のベンダーでいっぱいの活気ある空間です。伝統的なスイスのスナックと国際的な料理のミックスを提供しています。エネルギッシュな雰囲気は、友人とカジュアルな夜を過ごすのに最適です。価格は手頃で、多くの選択肢が10ドル未満です。",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "ヘルヴェティアのラクレットスタンド",
+          "type": "street_food",
+          "description": "ヘルヴェティアのラクレットスタンドでは、完璧に溶けたスイスのラクレットチーズを提供しています。本格的な体験のために、ジャガイモやピクルスと一緒に楽しんでください。このスタンドは地元の人々や観光客に人気があり、価格は約12ドルから始まります。チューリッヒに来たら必ず試してほしい一品です！",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 취리히 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "취리히 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 친화적인 음식부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "취리히는 문화적 다양성과 고품질 재료를 반영하는 풍부한 요리 장면을 자랑합니다. 전통 스위스 요리부터 국제 요리까지 모든 입맛에 맞는 것이 있습니다. 분주한 시장, 우아한 레스토랑, 아늑한 카페를 탐험하여 취리히의 미식을 경험해 보세요.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "레스토랑 스파크",
+          "type": "restaurant",
+          "description": "레스토랑 스파크는 현대적인 변화를 준 혁신적인 스위스 요리로 유명합니다. 활기차고 세련된 분위기로 외출하기에 적합합니다. 그들의 시그니처 소고기 타르타르를 꼭 드셔보세요. 가격은 적당하여 특별한 날에 접근하기 쉽습니다.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "취리히 웨스트 스트리트 푸드 마켓",
+          "type": "street_food",
+          "description": "취리히 웨스트 스트리트 푸드 마켓은 다양한 음식 스탠드가 있는 미식의 허브입니다. 여기에서는 스위스 치즈부터 국제적인 스트리트 푸드까지 다양한 음식을 시도할 수 있습니다. 활기찬 분위기와 여유로운 느낌이 캐주얼한 식사에 적합한 장소입니다. 가격은 다양하며 많은 선택이 10달러 이하입니다.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "카페 슈프룽리",
+          "type": "cafe",
+          "description": "카페 슈프룽리는 고급 초콜릿과 맛있는 페이스트리로 유명한 역사적인 카페입니다. 매력적이고 우아한 분위기는 오후 차를 즐기기에 최적입니다. 그들의 시그니처인 룩셈부르거리 마카롱을 놓치지 마세요. 가격은 다소 비쌉니다만, 한 입 한 입이 가치가 있습니다.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "레스토랑 조에",
+          "type": "restaurant",
+          "description": "레스토랑 조에는 계절 재료에 중점을 둔 현대적인 다이닝 경험을 제공합니다. 세련된 인테리어와 세심한 서비스는 고급 다이닝에 적합한 선택입니다. 그들의 시그니처 요리인 트뤼프 리조또를 강력히 추천합니다. 기억에 남는 식사를 위해 중간에서 높은 가격대를 기대하세요.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "오버랜드 스트리트 푸드 페스티벌",
+          "type": "street_food",
+          "description": "오버랜드 스트리트 푸드 페스티벌은 활기찬 야외 환경에서 다양한 지역 및 국제 요리를 선보입니다. 소시지부터 이국적인 카레까지 한 곳에서 다양한 맛을 시도하기에 완벽합니다. 가격은 매우 합리적이며 많은 요리가 15달러 이하입니다. 라이브 음악과 함께 활기찬 분위기를 즐기세요.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "레스토랑 펠트슐로셴",
+          "type": "restaurant",
+          "description": "레스토랑 펠트슐로셴은 아늑한 분위기를 제공하며 푸짐한 스위스 요리를 제공합니다. 특히 전통적인 인기 메뉴인 퐁듀와 뢰스티로 유명합니다. 가족과 친구들이 편안한 식사 경험을 찾기에 적합한 레스토랑입니다. 가격은 적당하여 가성비가 좋습니다.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "반호프 나이트 마켓",
+          "type": "night_market",
+          "description": "반호프 나이트 마켓은 음식 스탠드와 지역 판매자로 가득 찬 활기찬 공간입니다. 전통 스위스 간식과 국제 요리의 혼합을 제공합니다. 에너제틱한 분위기는 친구와 함께 캐주얼한 저녁을 즐기기에 완벽합니다. 가격은 저렴하고 많은 선택이 10달러 이하입니다.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "헬베티아의 라클렛 스탠드",
+          "type": "street_food",
+          "description": "헬베티아의 라클렛 스탠드는 완벽하게 녹인 스위스 라클렛 치즈를 제공합니다. 진정한 경험을 위해 감자와 피클과 함께 즐기세요. 이 스탠드는 현지인과 관광객 모두에게 인기가 있으며, 가격은 약 12달러부터 시작합니다. 취리히에 있다면 꼭 시도해야 할 메뉴입니다!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures spécialités culinaires à Zurich 2026 — Meilleurs restaurants et guide des street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street foods et spécialités locales à Zurich. Des plats à petit budget aux repas gastronomiques — avec des liens de réservation.",
+      "page_intro": "Zurich possède une scène culinaire riche qui reflète sa diversité culturelle et la qualité de ses ingrédients. Des plats suisses traditionnels à la cuisine internationale, il y en a pour tous les goûts. Explorez des marchés animés, des restaurants élégants et des cafés confortables qui mettent en avant le meilleur de la gastronomie zurichoise.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "Restaurant Spark",
+          "type": "restaurant",
+          "description": "Le Restaurant Spark est connu pour sa cuisine suisse innovante avec une touche moderne. L'atmosphère est vibrante et chic, ce qui en fait un endroit parfait pour une sortie. Assurez-vous d'essayer leur tartare de bœuf signature, qui est un favori du public. Les prix sont modérés, ce qui le rend accessible pour une occasion spéciale.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "Marché de Street Food de Zurich West",
+          "type": "street_food",
+          "description": "Le Marché de Street Food de Zurich West est un centre animé de délices culinaires proposant des stands de nourriture diversifiés. Vous pouvez y goûter tout, du fromage suisse aux plats de rue internationaux. L'atmosphère vibrante et l'ambiance décontractée en font un endroit idéal pour un repas décontracté. Les prix varient, avec de nombreuses options à moins de 10 $.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "Café Sprüngli",
+          "type": "cafe",
+          "description": "Le Café Sprüngli est un café historique célèbre pour ses chocolats luxueux et ses délicieuses pâtisseries. L'ambiance est charmante et élégante, ce qui en fait un endroit idéal pour le thé de l'après-midi. Ne manquez pas leurs macarons Luxemburgerli, qui sont un incontournable. Les prix sont élevés mais valent chaque bouchée.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "Restaurant Zoe",
+          "type": "restaurant",
+          "description": "Le Restaurant Zoe offre une expérience culinaire moderne axée sur des ingrédients de saison. L'intérieur élégant et le service attentionné en font un excellent choix pour un repas gastronomique. Leur plat signature, le risotto aux truffes, est fortement recommandé. Attendez-vous à payer des prix modérés à élevés pour un repas mémorable.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "Festival de Street Food d'Oberland",
+          "type": "street_food",
+          "description": "Le Festival de Street Food d'Oberland présente une variété de plats locaux et internationaux dans un cadre extérieur animé. C'est parfait pour essayer différentes saveurs au même endroit, des bratwursts aux currys exotiques. Les prix sont très raisonnables, avec de nombreux plats à moins de 15 $. Profitez de l'atmosphère vibrante avec de la musique live.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "Restaurant Feldschlösschen",
+          "type": "restaurant",
+          "description": "Le Restaurant Feldschlösschen offre une ambiance chaleureuse et sert de copieux plats suisses. Il est particulièrement connu pour sa fondue et sa rösti, qui sont des favoris traditionnels. Le restaurant est parfait pour les familles et les amis à la recherche d'une expérience de repas confortable. Les prix sont modérés, ce qui en fait un excellent rapport qualité-prix.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "Marché de Nuit de Bahnhof",
+          "type": "night_market",
+          "description": "Le Marché de Nuit de Bahnhof est un espace vibrant rempli de stands de nourriture et de vendeurs locaux. Il propose un mélange de collations suisses traditionnelles et de cuisines internationales. L'atmosphère énergique est parfaite pour une soirée décontractée entre amis. Les prix sont abordables, avec de nombreuses options à moins de 10 $.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "Stand de Raclette à Helvetia",
+          "type": "street_food",
+          "description": "Le Stand de Raclette à Helvetia sert l'un des plats suisses les plus appréciés, le fromage raclette fondu à la perfection. Dégustez-le avec des pommes de terre et des cornichons pour une expérience authentique. Le stand est populaire parmi les locaux et les visiteurs, avec des prix à partir d'environ 12 $. Un incontournable lors de votre passage à Zurich !",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Zúrich 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Zúrich. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
+      "page_intro": "Zúrich cuenta con una rica escena culinaria que refleja su diversidad cultural y ingredientes de alta calidad. Desde la cocina suiza tradicional hasta la cocina internacional, hay algo para todos los paladares. Explora mercados bulliciosos, elegantes restaurantes y acogedoras cafeterías que muestran lo mejor de la gastronomía de Zúrich.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "Restaurante Spark",
+          "type": "restaurant",
+          "description": "El Restaurante Spark es conocido por su innovadora cocina suiza con un toque moderno. La atmósfera es vibrante y elegante, lo que lo convierte en un lugar perfecto para salir por la noche. Asegúrate de probar su tartar de ternera, que es el favorito de la multitud. Los precios son moderados, lo que lo hace accesible para una ocasión especial.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "Mercado de Comida Callejera de Zúrich Oeste",
+          "type": "street_food",
+          "description": "El Mercado de Comida Callejera de Zúrich Oeste es un centro bullicioso de delicias culinarias con diversos puestos de comida. Aquí puedes probar desde queso suizo hasta comidas callejeras internacionales. La atmósfera vibrante y el ambiente relajado lo convierten en un lugar perfecto para cenar de forma casual. Los precios varían, con muchas opciones por debajo de $10.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "Café Sprüngli",
+          "type": "cafe",
+          "description": "El Café Sprüngli es un café histórico famoso por sus chocolates lujosos y deliciosos pasteles. El ambiente es encantador y elegante, lo que lo convierte en un lugar ideal para el té de la tarde. No te pierdas sus macarons Luxemburgerli, que son imprescindibles. Los precios son un poco altos, pero vale la pena cada bocado.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "Restaurante Zoe",
+          "type": "restaurant",
+          "description": "El Restaurante Zoe ofrece una experiencia culinaria moderna con un enfoque en ingredientes de temporada. El interior elegante y el servicio atento lo convierten en una excelente opción para la alta cocina. Su plato insignia, el risotto de trufa, es muy recomendado. Espera pagar precios moderados a altos por una comida memorable.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "Festival de Comida Callejera de Oberland",
+          "type": "street_food",
+          "description": "El Festival de Comida Callejera de Oberland presenta una variedad de platos locales e internacionales en un animado entorno al aire libre. Es perfecto para probar diferentes sabores en un solo lugar, desde bratwurst hasta curry exótico. Los precios son muy razonables, con muchos platos por debajo de $15. Disfruta de la atmósfera vibrante con música en vivo.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "Restaurante Feldschlösschen",
+          "type": "restaurant",
+          "description": "El Restaurante Feldschlösschen ofrece un ambiente acogedor y sirve abundantes platos suizos. Es especialmente conocido por su fondue y rösti, que son favoritos tradicionales. El restaurante es perfecto para familias y amigos que buscan una experiencia gastronómica cómoda. Los precios son moderados, lo que lo convierte en una gran relación calidad-precio.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "Mercado Nocturno de Bahnhof",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Bahnhof es un espacio vibrante lleno de puestos de comida y vendedores locales. Ofrece una mezcla de bocadillos suizos tradicionales y cocinas internacionales. La atmósfera energética es perfecta para una velada casual con amigos. Los precios son asequibles, con muchas opciones por debajo de $10.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "Stand de Raclette en Helvetia",
+          "type": "street_food",
+          "description": "El Stand de Raclette en Helvetia sirve uno de los platos suizos más queridos, el queso raclette derretido a la perfección. Disfrútalo con patatas y encurtidos para una experiencia auténtica. El puesto es popular entre los locales y los visitantes, con precios a partir de alrededor de $12. ¡Un imprescindible cuando estés en Zúrich!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Zurich 2026 — Restoran Terbaik & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Zurich. Dari makanan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
+      "page_intro": "Zurich memiliki scene kuliner yang kaya yang mencerminkan keragaman budaya dan bahan berkualitas tinggi. Dari masakan Swiss tradisional hingga masakan internasional, ada sesuatu untuk setiap selera. Jelajahi pasar yang ramai, restoran yang elegan, dan kafe yang nyaman yang menampilkan yang terbaik dari gastronomi Zurich.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "Restaurant Spark",
+          "type": "restaurant",
+          "description": "Restaurant Spark dikenal dengan masakan Swiss inovatifnya dengan sentuhan modern. Suasananya hidup dan chic, menjadikannya sempurna untuk malam keluar. Pastikan untuk mencoba tartare daging sapi khas mereka, yang sangat disukai oleh pengunjung. Harganya moderat, sehingga dapat diakses untuk acara spesial.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "Pasar Makanan Jalanan Zurich Barat",
+          "type": "street_food",
+          "description": "Pasar Makanan Jalanan Zurich Barat adalah pusat yang ramai dengan berbagai kios makanan. Di sini Anda dapat mencicipi segalanya mulai dari keju Swiss hingga makanan jalanan internasional. Suasana yang hidup dan santai menjadikannya tempat yang sempurna untuk bersantap santai. Harga bervariasi, dengan banyak pilihan di bawah $10.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "Café Sprüngli",
+          "type": "cafe",
+          "description": "Café Sprüngli adalah kafe bersejarah yang terkenal dengan cokelat mewah dan kue lezatnya. Suasana yang menawan dan elegan menjadikannya tempat yang ideal untuk minum teh sore. Jangan lewatkan macarons Luxemburgerli khas mereka, yang wajib dicoba. Harganya sedikit tinggi tetapi sepadan dengan setiap gigitan.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "Restaurant Zoe",
+          "type": "restaurant",
+          "description": "Restaurant Zoe menawarkan pengalaman bersantap modern dengan fokus pada bahan musiman. Interior yang bergaya dan pelayanan yang perhatian menjadikannya pilihan yang bagus untuk bersantap mewah. Hidangan khas mereka, risotto truffle, sangat dianjurkan. Harapkan untuk membayar harga moderat hingga tinggi untuk makanan yang tak terlupakan.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "Festival Makanan Jalanan Oberland",
+          "type": "street_food",
+          "description": "Festival Makanan Jalanan Oberland menampilkan berbagai hidangan lokal dan internasional dalam suasana luar ruangan yang ramai. Ini sempurna untuk mencoba berbagai rasa di satu tempat, mulai dari bratwurst hingga kari eksotis. Harganya sangat wajar, dengan banyak hidangan di bawah $15. Nikmati suasana yang hidup dengan musik langsung.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "Restaurant Feldschlösschen",
+          "type": "restaurant",
+          "description": "Restaurant Feldschlösschen menawarkan suasana yang nyaman dan menyajikan hidangan Swiss yang mengenyangkan. Ini terkenal dengan fondue dan rösti, yang merupakan favorit tradisional. Restoran ini sempurna untuk keluarga dan teman yang mencari pengalaman bersantap yang nyaman. Harganya moderat, menjadikannya nilai yang baik.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "Pasar Malam Bahnhof",
+          "type": "night_market",
+          "description": "Pasar Malam Bahnhof adalah ruang yang hidup yang dipenuhi dengan kios makanan dan penjual lokal. Ini menawarkan campuran camilan Swiss tradisional dan masakan internasional. Suasana yang energik sangat cocok untuk malam santai dengan teman-teman. Harganya terjangkau, dengan banyak pilihan di bawah $10.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "Stan Raclette di Helvetia",
+          "type": "street_food",
+          "description": "Stan Raclette di Helvetia menyajikan salah satu hidangan Swiss yang paling dicintai, yaitu keju raclette yang meleleh dengan sempurna. Nikmati dengan kentang dan acar untuk pengalaman yang otentik. Stan ini populer di kalangan penduduk lokal dan pengunjung, dengan harga mulai sekitar $12. Wajib coba saat berada di Zurich!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "ज़ुरिच में बेहतरीन खाद्य 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "ज़ुरिच में बेहतरीन रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "ज़ुरिच की खाद्य संस्कृति इसकी सांस्कृतिक विविधता और उच्च गुणवत्ता वाली सामग्रियों को दर्शाती है। पारंपरिक स्विस व्यंजनों से लेकर अंतरराष्ट्रीय व्यंजनों तक, हर स्वाद के लिए कुछ न कुछ है। जीवंत बाजारों, शानदार रेस्तरां और आरामदायक कैफे की खोज करें जो ज़ुरिच की गैस्ट्रोनॉमी का सर्वश्रेष्ठ प्रदर्शित करते हैं।",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "रेस्तरां स्पार्क",
+          "type": "restaurant",
+          "description": "रेस्तरां स्पार्क अपने अभिनव स्विस व्यंजनों के लिए जाना जाता है जिसमें आधुनिक ट्विस्ट होता है। वातावरण जीवंत और ठाठदार है, जो एक रात बाहर जाने के लिए इसे आदर्श बनाता है। उनके विशेष बीफ टारटारे को अवश्य आजमाएं, जो कि भीड़ में प्रसिद्ध है। कीमतें मध्यम हैं, जो इसे विशेष अवसर के लिए सुलभ बनाती हैं।",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "ज़ुरिच वेस्ट स्ट्रीट फूड मार्केट",
+          "type": "street_food",
+          "description": "ज़ुरिच वेस्ट स्ट्रीट फूड मार्केट खाद्य स्टालों का एक हलचल भरा केंद्र है। यहाँ आप स्विस पनीर से लेकर अंतरराष्ट्रीय स्ट्रीट खाने तक सब कुछ चख सकते हैं। जीवंत वातावरण और आरामदायक वाइब इसे आकस्मिक भोजन के लिए एक आदर्श स्थान बनाता है। कीमतें भिन्न होती हैं, जिसमें कई विकल्प $10 के नीचे हैं।",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "कैफे स्प्रुंगली",
+          "type": "cafe",
+          "description": "कैफे स्प्रुंगली एक ऐतिहासिक कैफे है जो अपने भव्य चॉकलेट और स्वादिष्ट पेस्ट्री के लिए प्रसिद्ध है। वातावरण आकर्षक और सुरुचिपूर्ण है, जो दोपहर की चाय के लिए एक आदर्श स्थान बनाता है। उनके विशेष लक्सेमबर्गरली मैकरों को न चूकें, जो अवश्य आजमाने योग्य हैं। कीमतें ऊँची हैं लेकिन हर बाइट के लायक हैं।",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "रेस्तरां ज़ोई",
+          "type": "restaurant",
+          "description": "रेस्तरां ज़ोई मौसमी सामग्रियों पर केंद्रित आधुनिक भोजन अनुभव प्रदान करता है। स्टाइलिश इंटीरियर्स और सतर्क सेवा इसे फाइन डाइनिंग के लिए एक बेहतरीन विकल्प बनाती हैं। उनका विशेष व्यंजन, ट्रफल रिसोट्टो, अत्यधिक अनुशंसित है। एक यादगार भोजन के लिए मध्यम से उच्च कीमतों की उम्मीद करें।",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "ओबरलैंड स्ट्रीट फूड फेस्टिवल",
+          "type": "street_food",
+          "description": "ओबरलैंड स्ट्रीट फूड फेस्टिवल एक जीवंत बाहरी सेटिंग में स्थानीय और अंतरराष्ट्रीय व्यंजनों की विविधता का प्रदर्शन करता है। यह एक जगह पर विभिन्न स्वादों को आजमाने के लिए आदर्श है, ब्राटवुर्स्ट से लेकर विदेशी करी तक। कीमतें बहुत उचित हैं, जिसमें कई व्यंजन $15 के नीचे हैं। जीवंत वातावरण का आनंद लें जिसमें लाइव संगीत है।",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "रेस्तरां फेल्डश्लॉस्सेन",
+          "type": "restaurant",
+          "description": "रेस्तरां फेल्डश्लॉस्सेन एक आरामदायक वातावरण प्रदान करता है और हार्दिक स्विस व्यंजन परोसता है। यह विशेष रूप से अपने फोंड्यू और रोस्टि के लिए जाना जाता है, जो पारंपरिक पसंदीदा हैं। यह रेस्तरां परिवारों और दोस्तों के लिए एक आरामदायक भोजन अनुभव की तलाश में आदर्श है। कीमतें मध्यम हैं, जो इसे एक बेहतरीन मूल्य बनाती हैं।",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "बाहnhof नाइट मार्केट",
+          "type": "night_market",
+          "description": "बाहnhof नाइट मार्केट खाद्य स्टालों और स्थानीय विक्रेताओं से भरा एक जीवंत स्थान है। यह पारंपरिक स्विस स्नैक्स और अंतरराष्ट्रीय व्यंजनों का मिश्रण प्रदान करता है। ऊर्जा भरा वातावरण दोस्तों के साथ आकस्मिक शाम के लिए आदर्श है। कीमतें सस्ती हैं, जिसमें कई विकल्प $10 के नीचे हैं।",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "हेल्वेटिया में रैकलेट स्टैंड",
+          "type": "street_food",
+          "description": "हेल्वेटिया में रैकलेट स्टैंड स्विस व्यंजनों में से एक, रैकलेट पनीर, को पूरी तरह से पिघलाने के लिए परोसता है। एक प्रामाणिक अनुभव के लिए इसे आलू और अचार के साथ आनंद लें। यह स्टैंड स्थानीय निवासियों और आगंतुकों के बीच लोकप्रिय है, जिसमें कीमतें लगभग $12 से शुरू होती हैं। ज़ुरिच में होने पर अवश्य आजमाएं!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Zurique 2026 — Principais Restaurantes & Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Zurique. Desde refeições econômicas até alta gastronomia — com links de reserva.",
+      "page_intro": "Zurique possui uma rica cena culinária que reflete sua diversidade cultural e ingredientes de alta qualidade. Desde pratos suíços tradicionais até culinária internacional, há algo para todos os paladares. Explore mercados movimentados, restaurantes elegantes e cafés aconchegantes que mostram o melhor da gastronomia de Zurique.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "Restaurante Spark",
+          "type": "restaurant",
+          "description": "O Restaurante Spark é conhecido por sua cozinha suíça inovadora com um toque moderno. A atmosfera é vibrante e chique, tornando-o perfeito para uma noite fora. Não deixe de experimentar o seu famoso tartare de carne, que é o favorito da multidão. Os preços são moderados, tornando-o acessível para uma ocasião especial.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "Mercado de Comida de Rua Zurich West",
+          "type": "street_food",
+          "description": "O Mercado de Comida de Rua Zurich West é um centro movimentado de delícias culinárias com diversas barracas de comida. Aqui você pode experimentar desde queijo suíço até comidas de rua internacionais. A atmosfera vibrante e o clima descontraído fazem dele um local perfeito para refeições casuais. Os preços variam, com muitas opções abaixo de $10.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "Café Sprüngli",
+          "type": "cafe",
+          "description": "O Café Sprüngli é um café histórico famoso por seus chocolates luxuosos e deliciosas pâtisseries. O ambiente é charmoso e elegante, tornando-o um local ideal para um chá da tarde. Não perca os seus macarons Luxemburgerli, que são imperdíveis. Os preços são mais altos, mas valem cada mordida.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "Restaurante Zoe",
+          "type": "restaurant",
+          "description": "O Restaurante Zoe oferece uma experiência de jantar moderna com foco em ingredientes sazonais. O interior estiloso e o serviço atencioso fazem dele uma ótima escolha para jantares sofisticados. O prato especial deles, o risoto de trufa, é altamente recomendado. Espere pagar preços moderados a altos por uma refeição memorável.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "Festival de Comida de Rua Oberland",
+          "type": "street_food",
+          "description": "O Festival de Comida de Rua Oberland apresenta uma variedade de pratos locais e internacionais em um ambiente externo animado. É perfeito para experimentar diferentes sabores em um só lugar, desde bratwurst até curry exótico. Os preços são muito razoáveis, com muitos pratos abaixo de $15. Aproveite a atmosfera vibrante com música ao vivo.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "Restaurante Feldschlösschen",
+          "type": "restaurant",
+          "description": "O Restaurante Feldschlösschen oferece um ambiente aconchegante e serve pratos suíços robustos. É particularmente conhecido por seu fondue e rösti, que são favoritos tradicionais. O restaurante é perfeito para famílias e amigos que buscam uma experiência de jantar confortável. Os preços são moderados, tornando-o uma ótima opção.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "Mercado Noturno Bahnhof",
+          "type": "night_market",
+          "description": "O Mercado Noturno Bahnhof é um espaço vibrante cheio de barracas de comida e vendedores locais. Oferece uma mistura de lanches suíços tradicionais e culinárias internacionais. A atmosfera energética é perfeita para uma noite casual com amigos. Os preços são acessíveis, com muitas opções abaixo de $10.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "Barraca de Raclette na Helvetia",
+          "type": "street_food",
+          "description": "A Barraca de Raclette na Helvetia serve um dos pratos suíços mais amados, queijo raclette derretido na perfeição. Desfrute com batatas e picles para uma experiência autêntica. A barraca é popular entre os locais e visitantes, com preços a partir de cerca de $12. Imperdível quando em Zurique!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في زيورخ 2026 — أفضل المطاعم ودليل طعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم، وطعام الشارع، والتخصصات المحلية في زيورخ. من المأكولات الاقتصادية إلى تناول الطعام الفاخر — مع روابط الحجز.",
+      "page_intro": "تفتخر زيورخ بمشهد طهوي غني يعكس تنوعها الثقافي ومكوناتها عالية الجودة. من المأكولات السويسرية التقليدية إلى المأكولات العالمية، هناك شيء يناسب كل الأذواق. استكشف الأسواق المزدحمة، والمطاعم الأنيقة، والمقاهي المريحة التي تعرض أفضل ما في فن الطهي في زيورخ.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "مطعم سبارك",
+          "type": "restaurant",
+          "description": "مطعم سبارك معروف بمأكولاته السويسرية المبتكرة مع لمسة عصرية. الأجواء حيوية وأنيقة، مما يجعله مثالياً لقضاء ليلة خارج المنزل. تأكد من تجربة تارتار اللحم المميز لديهم، والذي يحظى بشعبية كبيرة. الأسعار معتدلة، مما يجعله متاحًا لمناسبة خاصة.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "سوق طعام الشارع في زيورخ ويست",
+          "type": "street_food",
+          "description": "سوق طعام الشارع في زيورخ ويست هو مركز مزدحم للمتع الطهو التي تضم أكشاك طعام متنوعة. يمكنك هنا تجربة كل شيء من الجبن السويسري إلى الأطعمة العالمية. تجعل الأجواء النابضة بالحياة والجو غير الرسمي منه مكانًا مثاليًا لتناول الطعام غير الرسمي. الأسعار متغيرة، مع العديد من الخيارات تحت 10 دولارات.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "مقهى سبروينغلي",
+          "type": "cafe",
+          "description": "مقهى سبروينغلي هو مقهى تاريخي مشهور بشوكولاته الفاخرة والمعجنات اللذيذة. الأجواء ساحرة وأنيقة، مما يجعله مكانًا مثاليًا لتناول الشاي بعد الظهر. لا تفوت تجربة ماكارون لوكسمبورغيرلي المميز لديهم، والتي يجب تجربتها. الأسعار مرتفعة نسبيًا لكنها تستحق كل قضمة.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "مطعم زوي",
+          "type": "restaurant",
+          "description": "يقدم مطعم زوي تجربة تناول طعام حديثة مع التركيز على المكونات الموسمية. الديكور الأنيق والخدمة اليقظة تجعل منه خيارًا رائعًا لتناول الطعام الفاخر. الطبق المميز لديهم، ريزوتو الكمأة، موصى به بشدة. توقع دفع أسعار معتدلة إلى مرتفعة لتجربة طعام لا تُنسى.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "مهرجان طعام الشارع في أوبيرلاند",
+          "type": "street_food",
+          "description": "يقدم مهرجان طعام الشارع في أوبيرلاند مجموعة متنوعة من الأطباق المحلية والدولية في أجواء خارجية حيوية. إنه مثالي لتجربة نكهات مختلفة في مكان واحد، من براتورست إلى الكاري الغريب. الأسعار معقولة جدًا، حيث أن العديد من الأطباق أقل من 15 دولارًا. استمتع بالأجواء النابضة بالحياة مع الموسيقى الحية.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "مطعم فلدشلوشن",
+          "type": "restaurant",
+          "description": "يقدم مطعم فلدشلوشن أجواء مريحة ويقدم أطباق سويسرية شهية. يشتهر بشكل خاص بفوندو وروستي، وهما من الأطباق التقليدية المفضلة. المطعم مثالي للعائلات والأصدقاء الذين يبحثون عن تجربة طعام مريحة. الأسعار معتدلة، مما يجعله خيارًا رائعًا.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "سوق الليل في باهنهوف",
+          "type": "night_market",
+          "description": "سوق الليل في باهنهوف هو مكان نابض بالحياة مليء بأكشاك الطعام والبائعين المحليين. يقدم مزيجاً من الوجبات الخفيفة السويسرية التقليدية والمأكولات الدولية. الأجواء النشيطة مثالية لقضاء أمسية غير رسمية مع الأصدقاء. الأسعار معقولة، مع العديد من الخيارات تحت 10 دولارات.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "عربة ركلت في هيلفتي",
+          "type": "street_food",
+          "description": "تقدم عربة ركلت في هيلفتي واحدة من أكثر الأطباق السويسرية المحبوبة، جبنة الركلت المذابة بشكل مثالي. استمتع بها مع البطاطا والمخللات لتجربة أصيلة. العربة شائعة بين السكان المحليين والزوار على حد سواء، مع أسعار تبدأ من حوالي 12 دولارًا. يجب تجربتها عند زيارة زيورخ!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "জুরিখে সেরা খাবার ২০২৬ — শীর্ষ রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "জুরিখে সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "page_intro": "জুরিখের খাদ্যদ্রব্যের দৃশ্য তার সাংস্কৃতিক বৈচিত্র্য এবং উচ্চমানের উপাদানগুলিকে প্রতিফলিত করে। ঐতিহ্যবাহী সুইস খাবার থেকে আন্তর্জাতিক রান্না পর্যন্ত, প্রতিটি স্বাদের জন্য কিছু না কিছু রয়েছে। জীবন্ত বাজার, দৃষ্টিনন্দন রেস্টুরেন্ট এবং আরামদায়ক ক্যাফে অন্বেষণ করুন যা জুরিখের গ্যাস্ট্রোনমির সেরা প্রদর্শন করে।",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "রেস্টুরেন্ট স্পার্ক",
+          "type": "restaurant",
+          "description": "রেস্টুরেন্ট স্পার্ক তার আধুনিক মোড় সহ উদ্ভাবনী সুইস রান্নার জন্য পরিচিত। পরিবেশ প্রাণবন্ত এবং শৈলীর, যা রাতের জন্য এটি আদর্শ করে তোলে। তাদের জনপ্রিয় বিফ টারটার অবশ্যই চেষ্টা করুন, যা ভিড়ের মধ্যে জনপ্রিয়। দাম মধ্যম, যা এটিকে একটি বিশেষ অনুষ্ঠানের জন্য প্রবেশযোগ্য করে তোলে।",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "জুরিখ ওয়েস্ট স্ট্রিট ফুড মার্কেট",
+          "type": "street_food",
+          "description": "জুরিখ ওয়েস্ট স্ট্রিট ফুড মার্কেট হল খাদ্যদ্রব্যের একটি ব্যস্ত কেন্দ্র যা বিভিন্ন খাদ্য স্টল নিয়ে গঠিত। এখানে আপনি সুইস পনির থেকে শুরু করে আন্তর্জাতিক স্ট্রিট খাবার সবকিছু স্বাদ নিতে পারেন। প্রাণবন্ত পরিবেশ এবং শান্ত মেজাজ এটিকে অপ্রয়োজনীয় খাবারের জন্য একটি আদর্শ স্থান করে তোলে। দাম পরিবর্তিত হয়, অনেক বিকল্প $10 এর নিচে।",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "ক্যাফে স্প্রুংলি",
+          "type": "cafe",
+          "description": "ক্যাফে স্প্রুংলি একটি ঐতিহাসিক ক্যাফে যা তার বিলাসবহুল চকোলেট এবং সুস্বাদু পেস্ট্রি জন্য পরিচিত। পরিবেশ আকর্ষণীয় এবং মার্জিত, যা এটি বিকেলের চায়ের জন্য একটি আদর্শ স্থান করে তোলে। তাদের স্বাক্ষর লুক্সেমবার্গারলি ম্যাকারন মিস করবেন না, যা অবশ্যই চেষ্টা করা উচিত। দাম উচ্চপদস্থ কিন্তু প্রতিটি কামড়ের জন্য মূল্যবান।",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "রেস্টুরেন্ট জো",
+          "type": "restaurant",
+          "description": "রেস্টুরেন্ট জো মৌসুমি উপাদানের উপর জোর দিয়ে আধুনিক খাবারের অভিজ্ঞতা সরবরাহ করে। স্টাইলিশ অভ্যন্তরীণ এবং মনোযোগী পরিষেবা এটিকে ফাইন ডাইনিংয়ের জন্য একটি দুর্দান্ত পছন্দ করে তোলে। তাদের স্বাক্ষর ডিশ, ট্রাফল রিজোটো, অত্যন্ত সুপারিশ করা হয়। একটি স্মরণীয় খাবারের জন্য মধ্যম থেকে উচ্চ মূল্য দিতে প্রত্যাশা করুন।",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "ওবারল্যান্ড স্ট্রিট ফুড ফেস্টিভ্যাল",
+          "type": "street_food",
+          "description": "ওবারল্যান্ড স্ট্রিট ফুড ফেস্টিভ্যাল একটি প্রাণবন্ত বাইরের পরিবেশে স্থানীয় এবং আন্তর্জাতিক পদগুলির বৈচিত্র্য প্রদর্শন করে। এটি একটি জায়গায় বিভিন্ন স্বাদ চেষ্টা করার জন্য আদর্শ, ব্রাটওরস্ট থেকে শুরু করে বিদেশী কারি পর্যন্ত। দাম খুব যুক্তিসঙ্গত, অনেক খাবার $15 এর নিচে। লাইভ সংগীতের সাথে প্রাণবন্ত পরিবেশ উপভোগ করুন।",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "রেস্টুরেন্ট ফেল্ডশ্লসেন",
+          "type": "restaurant",
+          "description": "রেস্টুরেন্ট ফেল্ডশ্লসেন একটি আরামদায়ক পরিবেশ প্রদান করে এবং সুস্বাদু সুইস খাবার পরিবেশন করে। এটি বিশেষ করে তার ফোঁন্ডু এবং রোস্টির জন্য পরিচিত, যা ঐতিহ্যবাহী পছন্দ। এই রেস্টুরেন্টটি পরিবারের এবং বন্ধুদের জন্য একটি আরামদায়ক খাবারের অভিজ্ঞতার জন্য আদর্শ। দাম মধ্যম, যা এটিকে একটি দুর্দান্ত মূল্য করে তোলে।",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "বাহনফ নাইট মার্কেট",
+          "type": "night_market",
+          "description": "বাহনফ নাইট মার্কেট একটি প্রাণবন্ত স্থান যা খাদ্য স্টল এবং স্থানীয় বিক্রেতাদের পূর্ণ। এটি ঐতিহ্যবাহী সুইস স্ন্যাক এবং আন্তর্জাতিক রান্নার একটি মিশ্রণ প্রদান করে। শক্তিশালী পরিবেশটি বন্ধুদের সাথে একটি অনানুষ্ঠানিক সন্ধ্যার জন্য আদর্শ। দাম সাশ্রয়ী, অনেক বিকল্প $10 এর নিচে।",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "হেলভেটিয়াতে র্যাকলেট স্ট্যান্ড",
+          "type": "street_food",
+          "description": "হেলভেটিয়াতে র্যাকলেট স্ট্যান্ড একটি জনপ্রিয় সুইস খাবার, নিখুঁতভাবে গলিত রাকলেট পনির পরিবেশন করে। এটি একটি প্রামাণিক অভিজ্ঞতার জন্য আলু এবং পিকলসের সাথে উপভোগ করুন। স্ট্যান্ডটি স্থানীয় এবং দর্শকদের মধ্যে জনপ্রিয়, দাম প্রায় $12 থেকে শুরু হয়। জুরিখে থাকাকালীন অবশ্যই চেষ্টা করা উচিত!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Цюрихе 2026 — Топ-рестораны и Гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Цюрихе. От бюджетных угощений до изысканной кухни — с ссылками для бронирования.",
+      "page_intro": "Цюрих может похвастаться богатой кулинарной сценой, отражающей его культурное разнообразие и высококачественные ингредиенты. От традиционных швейцарских блюд до международной кухни — здесь есть что-то на любой вкус. Исследуйте шумные рынки, элегантные рестораны и уютные кафе, которые демонстрируют лучшее из гастрономии Цюриха.",
+      "items": [
+        {
+          "id": "restaurant-spark",
+          "name": "Ресторан Spark",
+          "type": "restaurant",
+          "description": "Ресторан Spark известен своей инновационной швейцарской кухней с современным оттенком. Атмосфера яркая и стильная, что делает его идеальным для вечернего выхода. Обязательно попробуйте их фирменный тартар из говядины, который пользуется популярностью. Цены умеренные, что делает его доступным для особого случая.",
+          "image_keyword": "Restaurant Spark Zurich",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Beef Tartare",
+          "klook_query": "Restaurant Spark Zurich booking"
+        },
+        {
+          "id": "street-food-zurich-west",
+          "name": "Уличный рынок еды Цюрих-Запад",
+          "type": "street_food",
+          "description": "Уличный рынок еды Цюрих-Запад — это шумный центр кулинарных удовольствий с разнообразными палатками. Здесь вы можете попробовать все, от швейцарского сыра до международной уличной еды. Яркая атмосфера и непринужденная обстановка делают его идеальным местом для неформального ужина. Цены варьируются, множество вариантов стоят менее 10 долларов.",
+          "image_keyword": "Zurich West Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Swiss Cheese Fondue",
+          "klook_query": "Zurich West Street Food Market booking"
+        },
+        {
+          "id": "cafe-sprungli",
+          "name": "Кафе Sprüngli",
+          "type": "cafe",
+          "description": "Кафе Sprüngli — это историческое кафе, известное своими роскошными шоколадными изделиями и вкусными кондитерскими изделиями. Атмосфера очаровательная и элегантная, что делает его идеальным местом для послеобеденного чая. Не пропустите их фирменные макароны Luxemburgerli, которые стоит попробовать. Цены выше среднего, но каждая кусочка стоит того.",
+          "image_keyword": "Café Sprüngli Zurich",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Luxemburgerli Macarons",
+          "klook_query": "Café Sprüngli Zurich booking"
+        },
+        {
+          "id": "restaurant-zoe",
+          "name": "Ресторан Zoe",
+          "type": "restaurant",
+          "description": "Ресторан Zoe предлагает современный опыт ужина с акцентом на сезонные ингредиенты. Стильный интерьер и внимательное обслуживание делают его отличным выбором для изысканного ужина. Их фирменное блюдо, ризотто с трюфелем, настоятельно рекомендуется. Ожидайте умеренные и высокие цены за незабываемую трапезу.",
+          "image_keyword": "Restaurant Zoe Zurich",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Truffle Risotto",
+          "klook_query": "Restaurant Zoe Zurich booking"
+        },
+        {
+          "id": "street-food-oberland",
+          "name": "Фестиваль уличной еды Оберланд",
+          "type": "street_food",
+          "description": "Фестиваль уличной еды Оберланд демонстрирует разнообразие местных и международных блюд в оживленной уличной обстановке. Это идеальное место для того, чтобы попробовать разные вкусы в одном месте, от братверста до экзотического карри. Цены очень разумные, многие блюда стоят менее 15 долларов. Наслаждайтесь живой атмосферой с живой музыкой.",
+          "image_keyword": "Oberland Street Food Festival",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bratwurst",
+          "klook_query": "Oberland Street Food Festival booking"
+        },
+        {
+          "id": "restaurant-feldschlösschen",
+          "name": "Ресторан Feldschlösschen",
+          "type": "restaurant",
+          "description": "Ресторан Feldschlösschen предлагает уютную атмосферу и подает сытные швейцарские блюда. Он особенно известен своим фондю и рёсти, которые являются традиционными любимцами. Ресторан идеально подходит для семей и друзей, ищущих комфортный обеденный опыт. Цены умеренные, что делает его отличным вариантом.",
+          "image_keyword": "Restaurant Feldschlösschen Zurich",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Swiss Fondue",
+          "klook_query": "Restaurant Feldschlösschen Zurich booking"
+        },
+        {
+          "id": "night-market-bahnhof",
+          "name": "Ночной рынок Bahnhof",
+          "type": "night_market",
+          "description": "Ночной рынок Bahnhof — это яркое место с палатками и местными продавцами. Здесь предлагается смесь традиционных швейцарских закусок и международной кухни. Энергичная атмосфера делает его идеальным для неформального вечера с друзьями. Цены доступные, множество вариантов стоят менее 10 долларов.",
+          "image_keyword": "Bahnhof Night Market Zurich",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Zürcher Geschnetzeltes",
+          "klook_query": "Bahnhof Night Market booking"
+        },
+        {
+          "id": "local-specialty-raclette",
+          "name": "Стенд Раклет в Хельветии",
+          "type": "street_food",
+          "description": "Стенд Раклет в Хельветии предлагает одно из самых любимых швейцарских блюд — идеально расплавленный сыр раклет. Наслаждайтесь им с картошкой и маринованными огурцами для подлинного опыта. Стенд популярен как среди местных жителей, так и туристов, цены начинаются от 12 долларов. Обязательно попробуйте, когда будете в Цюрихе!",
+          "image_keyword": "Raclette Stand Helvetia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Raclette Cheese",
+          "klook_query": "Raclette Stand Helvetia booking"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "city_slug": "fukuoka",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Fukuoka 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Fukuoka. From budget eats to fine dining — with booking links.",
+      "page_intro": "Fukuoka is a vibrant city known for its delicious culinary offerings, blending traditional Japanese flavors with modern twists. The city boasts a rich food culture, highlighted by its unique street food scene and renowned restaurants. Visitors can enjoy everything from savory ramen to sweet treats, making Fukuoka a must-visit destination for food lovers.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "Yatai Food Stalls",
+          "type": "street_food",
+          "description": "Experience the bustling atmosphere of Fukuoka's famous Yatai food stalls, which offer a variety of local dishes in a casual outdoor setting. Popular items include tonkotsu ramen and yakitori, perfect for a late-night snack. Prices are budget-friendly, making it a great option for all travelers. The lively ambiance and delicious food make it a must-visit.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "Ichiran Ramen",
+          "type": "restaurant",
+          "description": "Ichiran Ramen is an iconic chain that specializes in tonkotsu ramen. Diners can enjoy a unique experience with individual booths for a more personal meal. The rich pork broth and customizable spice levels make it a favorite among both locals and tourists. Expect to pay around $10-15 for a satisfying bowl of ramen.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "Nishijin Market",
+          "type": "night_market",
+          "description": "Nishijin Market is a lively spot where you can sample a variety of local specialties and fresh seafood. Stalls offer everything from grilled fish to sweet mochi, creating an immersive culinary experience. The prices vary but remain reasonable, making it a great place to try multiple dishes. The vibrant atmosphere enhances the enjoyment of this food adventure.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "Hakata Gyoza",
+          "type": "restaurant",
+          "description": "Hakata Gyoza is renowned for its delicious pan-fried dumplings, served crispy and filled with juicy pork. The cozy, casual setting is perfect for enjoying these popular local bites. Prices are very reasonable, typically under $10 for a plate. Don't miss the chance to dip them in tangy sauce for an unforgettable flavor.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "Tenjin Night Market",
+          "type": "night_market",
+          "description": "The Tenjin Night Market is a vibrant hub for food lovers, offering a variety of street food from skewers to sweet desserts. The lively atmosphere and numerous stalls make it a perfect place to explore local flavors. Prices are wallet-friendly, allowing you to sample different dishes without breaking the bank. Enjoy the festive vibe while tasting delicious treats.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "Motsunabe Yamanaka",
+          "type": "restaurant",
+          "description": "Motsunabe Yamanaka specializes in the local hot pot dish, motsunabe, made with beef or pork tripe and served with a variety of vegetables. The cozy atmosphere and communal dining experience make it an enjoyable outing. Prices range from $20-30 per person, making it a great choice for a hearty meal with friends.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "Sushiro",
+          "type": "restaurant",
+          "description": "Sushiro offers an affordable yet delightful sushi experience. With a diverse menu including nigiri and rolls, this conveyor belt sushi restaurant is perfect for casual dining. Prices are very reasonable, typically around $2-5 per plate, making it a great place to try various sushi types without spending much.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "Marukatsu",
+          "type": "restaurant",
+          "description": "Marukatsu is famous for its hearty Hakata-style tonkatsu, characterized by its crispy coating and tender pork. The inviting atmosphere and friendly staff create a warm dining experience. Prices are reasonable, typically around $15-20 for a meal, making it a great option for a satisfying lunch or dinner.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "福岡最佳美食 2026 - 顶级餐厅与街头美食指南",
+      "seo_description": "探索福岡最佳餐厅、街头美食和当地特色。从经济实惠的美食到高档餐饮 - 包括预订链接。",
+      "page_intro": "福岡是一座充满活力的城市，以其美味的美食而闻名，融合了传统日本风味与现代创意。城市拥有丰富的饮食文化，特别是独特的街头美食场景和著名餐厅。游客可以享受到从咸味拉面到甜点的各种美食，使福岡成为美食爱好者必游的目的地。",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "屋台美食摊位",
+          "type": "street_food",
+          "description": "体验福岡著名屋台美食摊位的热闹氛围，这里提供各种当地菜肴，环境轻松舒适。受欢迎的菜品包括豚骨拉面和烤串，非常适合夜宵。价格亲民，是所有旅行者的绝佳选择。热闹的氛围和美味的食物使其成为必去之地。",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "一蘭拉麵",
+          "type": "restaurant",
+          "description": "一蘭拉麵是一家专注于豚骨拉面的标志性连锁店。食客可以在独立的座位中享受更为私密的用餐体验。浓郁的猪骨汤和可调节的香料水平使其成为当地人和游客的最爱。预计每碗拉面的价格在10-15美元左右。",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "西新市场",
+          "type": "night_market",
+          "description": "西新市场是一个热闹的地方，您可以品尝各种当地特色和新鲜海鲜。摊位提供从烤鱼到甜米团的各种美食，创造身临其境的美食体验。价格各异但仍在合理范围内，使其成为尝试多道菜品的绝佳场所。活力四射的氛围增强了这次美食冒险的乐趣。",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "博多餃子",
+          "type": "restaurant",
+          "description": "博多餃子以其美味的煎饺而闻名，外脆内嫩，填满多汁的猪肉。舒适的休闲环境非常适合享用这些受欢迎的当地小吃。价格非常合理，通常每盘在10美元以下。不要错过将它们浸入酸辣酱中的机会，以获得难忘的风味。",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "天神夜市",
+          "type": "night_market",
+          "description": "天神夜市是美食爱好者的热闹中心，提供各种街头小吃，从串烧到甜点。热闹的氛围和众多摊位使其成为探索当地风味的完美场所。价格亲民，让您可以在不破产的情况下尝试不同的菜肴。享受节日气氛的同时品尝美味的美食。",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "もつ鍋やまなか",
+          "type": "restaurant",
+          "description": "もつ鍋やまなか专注于当地火锅菜肴もつ鍋，使用牛或猪肚，并配以多种蔬菜。舒适的氛围和共享用餐体验使其成为愉快的外出选择。价格在每人20-30美元之间，是与朋友共享丰盛餐点的绝佳选择。",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "スシロー",
+          "type": "restaurant",
+          "description": "スシロー提供经济实惠而愉快的寿司体验。菜单丰富，包括握寿司和卷寿司，这家回转寿司餐厅非常适合休闲用餐。价格非常合理，通常每盘在2-5美元之间，是尝试多种寿司的绝佳场所。",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "まるかつ",
+          "type": "restaurant",
+          "description": "まるかつ以其丰盛的博多风味炸猪排而闻名，特征是外脆内嫩。温馨的氛围和友好的员工营造出温暖的用餐体验。价格合理，通常每餐在15-20美元之间，是享用满意午餐或晚餐的绝佳选择。",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "福岡のベストフード 2026 - トップレストラン＆ストリートフードガイド",
+      "seo_description": "福岡のベストレストラン、ストリートフード、地元の特産品を発見してください。予算に応じた食事から高級ダイニングまで - 予約リンク付き。",
+      "page_intro": "福岡は、その美味しい料理で知られる活気ある都市で、伝統的な日本の味と現代的なひねりが融合しています。この街は、ユニークなストリートフードシーンと有名なレストランによって強調される豊かな食文化を誇っています。訪れる人々は、塩味のラーメンから甘いお菓子まで、さまざまな料理を楽しむことができ、福岡は食べ物好きには必見の目的地です。",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "屋台フードスタンド",
+          "type": "street_food",
+          "description": "福岡の有名な屋台フードスタンドの賑やかな雰囲気を体験してください。ここでは、カジュアルな屋外環境でさまざまな地元料理を提供しています。人気メニューには、豚骨ラーメンや焼き鳥があり、夜食にぴったりです。価格は予算に優しく、すべての旅行者にとって素晴らしい選択です。活気ある雰囲気と美味しい料理は、必見の場所です。",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "一蘭ラーメン",
+          "type": "restaurant",
+          "description": "一蘭ラーメンは、豚骨ラーメンを専門とするアイコニックなチェーンです。食事をより個人的な体験にするための個別ブースがあり、ユニークな体験を楽しむことができます。濃厚な豚骨スープとカスタマイズ可能なスパイスレベルは、地元の人々や観光客に人気です。満足のいくラーメン一杯につき、約10～15ドルを期待してください。",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "西新市場",
+          "type": "night_market",
+          "description": "西新市場は活気のあるスポットで、さまざまな地元の特産品や新鮮な海産物を試すことができます。出店では、焼き魚から甘い餅まで、没入型の料理体験を創出します。価格はさまざまですが、リーズナブルな範囲内で、複数の料理を楽しむのに最適な場所です。活気ある雰囲気がこの食の冒険をさらに楽しませてくれます。",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "博多餃子",
+          "type": "restaurant",
+          "description": "博多餃子は、その美味しい焼き餃子で知られ、カリッとした皮とジューシーな豚肉が詰まっています。居心地の良いカジュアルな雰囲気は、これらの人気の地元の一品を楽しむのにぴったりです。価格は非常にリーズナブルで、通常は1皿10ドル未満です。忘れられない風味のために、ピリ辛ソースに浸して食べるチャンスをお見逃しなく。",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "天神ナイトマーケット",
+          "type": "night_market",
+          "description": "天神ナイトマーケットは、食べ物好きのための活気あるハブで、串焼きからデザートまでさまざまなストリートフードを提供しています。賑やかな雰囲気と多数の出店があり、地元の風味を探求するのに最適な場所です。価格は財布に優しく、予算を気にせずにさまざまな料理を試すことができます。美味しいお菓子を味わいながら、祝祭の雰囲気を楽しんでください。",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "もつ鍋やまなか",
+          "type": "restaurant",
+          "description": "もつ鍋やまなかは、牛または豚の内臓を使用した地元の鍋料理、もつ鍋を専門としています。居心地の良い雰囲気とコミュニティダイニング体験が楽しめる楽しい外出先です。価格は1人あたり20〜30ドルの範囲で、友人と共に満足のいく食事を楽しむのに最適な選択肢です。",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "スシロー",
+          "type": "restaurant",
+          "description": "スシローは、手頃な価格でありながら素晴らしい寿司体験を提供します。握り寿司や巻き寿司を含む多様なメニューを取り揃えたこの回転寿司レストランは、カジュアルな食事に最適です。価格は非常にリーズナブルで、通常は1皿2〜5ドル程度で、あまりお金を使わずにさまざまな寿司を試すのに最適な場所です。",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "まるかつ",
+          "type": "restaurant",
+          "description": "まるかつは、サクサクの衣と柔らかい豚肉が特徴のボリューム満点な博多スタイルのとんかつで有名です。招待的な雰囲気とフレンドリーなスタッフが温かい食事体験を提供します。価格はリーズナブルで、通常は1食あたり15〜20ドル程度で、満足のいくランチやディナーに最適な選択肢です。",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "후쿠오카 최고의 음식 2026 - 최고의 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "후쿠오카의 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 예산에 맞는 식사부터 고급 식사까지 - 예약 링크 포함.",
+      "page_intro": "후쿠오카는 맛있는 요리로 유명한 활기찬 도시로, 전통 일본의 맛과 현대적인 변주가 어우러져 있습니다. 이 도시는 독특한 길거리 음식 장면과 유명한 레스토랑으로 강조되는 풍부한 음식 문화를 자랑합니다. 방문객들은 짭짤한 라멘부터 달콤한 간식까지 다양한 음식을 즐길 수 있어 후쿠오카는 음식 애호가들이 반드시 방문해야 할 목적지입니다.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "야타이 음식 가판대",
+          "type": "street_food",
+          "description": "후쿠오카의 유명한 야타이 음식 가판대의 분주한 분위기를 경험해 보세요. 여기서는 캐주얼한 야외 환경에서 다양한 지역 요리를 제공합니다. 인기 메뉴로는 돈코츠 라멘과 야키토리가 있으며, 늦은 밤 간식으로 적합합니다. 가격이 저렴하여 모든 여행자에게 좋은 선택입니다. 활기찬 분위기와 맛있는 음식이 있어 반드시 방문해야 할 곳입니다.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "이치란 라멘",
+          "type": "restaurant",
+          "description": "이치란 라멘은 돈코츠 라멘을 전문으로 하는 상징적인 체인입니다. 식사하는 동안 개인 부스를 이용할 수 있어 더 개인적인 경험을 느낄 수 있습니다. 진한 돼지고기 육수와 맞춤형 매운맛 수준이 있어 현지인과 관광객 모두에게 사랑받고 있습니다. 만족스러운 라멘 한 그릇에 약 10-15달러를 예상하세요.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "니시진 시장",
+          "type": "night_market",
+          "description": "니시진 시장은 다양한 지역 특산품과 신선한 해산물을 샘플링할 수 있는 활기찬 장소입니다. 가판대에서는 구운 생선부터 달콤한 모찌까지 다양한 요리를 제공하여 몰입형 요리 경험을 창출합니다. 가격은 다양하지만 여전히 합리적이어서 여러 가지 요리를 시도하기에 좋은 장소입니다. 활기찬 분위기가 이 음식 모험의 즐거움을 더해줍니다.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "하카타 교자",
+          "type": "restaurant",
+          "description": "하카타 교자는 바삭하게 구워진 만두로 유명하며, 육즙이 가득한 돼지고기로 채워져 있습니다. 아늑하고 캐주얼한 분위기는 이러한 인기 있는 지역 음식을 즐기기에 완벽합니다. 가격은 매우 합리적이며, 일반적으로 한 접시당 10달러 미만입니다. 잊을 수 없는 맛을 위해 톡 쏘는 소스에 담가 먹는 기회를 놓치지 마세요.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "텐진 야시장",
+          "type": "night_market",
+          "description": "텐진 야시장은 음식 애호가들을 위한 활기찬 중심지로, 꼬치구이부터 달콤한 디저트까지 다양한 길거리 음식을 제공합니다. 활기찬 분위기와 수많은 가판대가 있어 지역의 맛을 탐험하기에 완벽한 장소입니다. 가격이 저렴하여 예산을 걱정하지 않고 다양한 요리를 시도할 수 있습니다. 맛있는 간식을 맛보는 동안 축제 분위기를 즐기세요.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "모츠나베 야마나카",
+          "type": "restaurant",
+          "description": "모츠나베 야마나카는 소고기 또는 돼지고기 내장을 사용한 지역 핫팟 요리인 모츠나베를 전문으로 합니다. 아늑한 분위기와 공동 식사 경험이 즐거운 외출이 됩니다. 가격은 1인당 20-30달러로 친구와 함께 푸짐한 식사를 즐기기에 좋은 선택입니다.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "스시로",
+          "type": "restaurant",
+          "description": "스시로는 저렴하면서도 매력적인 스시 경험을 제공합니다. 다양한 메뉴에는 니기리와 롤이 포함되어 있으며, 이 회전 초밥 레스토랑은 캐주얼한 식사에 적합합니다. 가격은 매우 합리적이며, 일반적으로 접시당 2-5달러로 다양한 스시를 큰 지출 없이 시도할 수 있는 훌륭한 장소입니다.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "마루카츠",
+          "type": "restaurant",
+          "description": "마루카츠는 바삭한 튀김옷과 부드러운 돼지고기가 특징인 푸짐한 하카타 스타일 돈카츠로 유명합니다. 아늑한 분위기와 친절한 직원들이 따뜻한 식사 경험을 제공합니다. 가격은 합리적이며, 일반적으로 식사당 15-20달러로 만족스러운 점심이나 저녁식사에 좋은 선택입니다.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures nourritures à Fukuoka 2026 - Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Fukuoka. Des repas à petit budget à la haute cuisine - avec des liens de réservation.",
+      "page_intro": "Fukuoka est une ville dynamique connue pour ses délicieuses offres culinaires, mêlant saveurs japonaises traditionnelles et touches modernes. La ville possède une riche culture alimentaire, mise en valeur par sa scène de street food unique et ses restaurants renommés. Les visiteurs peuvent profiter de tout, des ramen savoureux aux douceurs sucrées, faisant de Fukuoka une destination incontournable pour les amateurs de bonne cuisine.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "Stands de nourriture Yatai",
+          "type": "street_food",
+          "description": "Découvrez l'atmosphère animée des célèbres stands de nourriture Yatai de Fukuoka, qui proposent une variété de plats locaux dans un cadre décontracté en plein air. Les plats populaires incluent le ramen tonkotsu et le yakitori, parfaits pour une collation tardive. Les prix sont abordables, ce qui en fait une excellente option pour tous les voyageurs. L'ambiance animée et la délicieuse nourriture en font un lieu incontournable.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "Ichiran Ramen",
+          "type": "restaurant",
+          "description": "Ichiran Ramen est une chaîne emblématique spécialisée dans le ramen tonkotsu. Les convives peuvent profiter d'une expérience unique avec des cabines individuelles pour un repas plus personnel. Le bouillon de porc riche et les niveaux d'épices personnalisables en font un favori parmi les locaux et les touristes. Attendez-vous à payer environ 10-15 $ pour un bol de ramen satisfaisant.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "Marché Nishijin",
+          "type": "night_market",
+          "description": "Le marché Nishijin est un endroit animé où vous pouvez déguster une variété de spécialités locales et de fruits de mer frais. Les stands proposent tout, du poisson grillé aux mochi sucrés, créant une expérience culinaire immersive. Les prix varient mais restent raisonnables, ce qui en fait un excellent endroit pour essayer plusieurs plats. L'atmosphère vibrante renforce le plaisir de cette aventure culinaire.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "Gyoza de Hakata",
+          "type": "restaurant",
+          "description": "Le Gyoza de Hakata est renommé pour ses délicieux raviolis frits, servis croustillants et garnis de porc juteux. L'atmosphère chaleureuse et décontractée est parfaite pour déguster ces bouchées locales populaires. Les prix sont très raisonnables, généralement inférieurs à 10 $ par assiette. Ne manquez pas l'occasion de les plonger dans une sauce aigre pour une saveur inoubliable.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "Marché nocturne de Tenjin",
+          "type": "night_market",
+          "description": "Le marché nocturne de Tenjin est un centre vibrant pour les amateurs de nourriture, offrant une variété de street food allant des brochettes aux desserts sucrés. L'atmosphère animée et les nombreux stands en font un endroit idéal pour explorer les saveurs locales. Les prix sont abordables, vous permettant de goûter différents plats sans vous ruiner. Profitez de l'ambiance festive tout en savourant de délicieuses friandises.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "Motsunabe Yamanaka",
+          "type": "restaurant",
+          "description": "Motsunabe Yamanaka est spécialisé dans le plat local de fondue, le motsunabe, préparé avec des tripes de bœuf ou de porc et servi avec une variété de légumes. L'atmosphère conviviale et l'expérience de repas en commun en font une sortie agréable. Les prix varient de 20 à 30 $ par personne, ce qui en fait un excellent choix pour un repas copieux entre amis.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "Sushiro",
+          "type": "restaurant",
+          "description": "Sushiro offre une expérience de sushi abordable mais délicieuse. Avec un menu diversifié incluant nigiri et rouleaux, ce restaurant de sushi à tapis roulant est parfait pour un repas décontracté. Les prix sont très raisonnables, généralement autour de 2 à 5 $ par assiette, ce qui en fait un excellent endroit pour essayer divers types de sushi sans débourser beaucoup.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "Marukatsu",
+          "type": "restaurant",
+          "description": "Marukatsu est célèbre pour son tonkatsu de style Hakata copieux, caractérisé par sa croûte croustillante et son porc tendre. L'atmosphère accueillante et le personnel amical créent une expérience de restauration chaleureuse. Les prix sont raisonnables, généralement autour de 15 à 20 $ pour un repas, ce qui en fait une excellente option pour un déjeuner ou un dîner satisfaisant.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Fukuoka 2026 - Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Fukuoka. Desde comidas económicas hasta alta cocina - con enlaces de reserva.",
+      "page_intro": "Fukuoka es una ciudad vibrante conocida por sus deliciosas ofertas culinarias, que combinan sabores tradicionales japoneses con giros modernos. La ciudad cuenta con una rica cultura gastronómica, destacada por su única escena de comida callejera y sus renombrados restaurantes. Los visitantes pueden disfrutar de todo, desde ramen salados hasta dulces, haciendo de Fukuoka un destino imperdible para los amantes de la comida.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "Puestos de comida Yatai",
+          "type": "street_food",
+          "description": "Experimenta la bulliciosa atmósfera de los famosos puestos de comida Yatai de Fukuoka, que ofrecen una variedad de platos locales en un ambiente casual al aire libre. Los platos populares incluyen ramen tonkotsu y yakitori, perfectos para un bocadillo nocturno. Los precios son asequibles, lo que lo convierte en una excelente opción para todos los viajeros. La animada atmósfera y la deliciosa comida hacen de este un lugar que no te puedes perder.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "Ichiran Ramen",
+          "type": "restaurant",
+          "description": "Ichiran Ramen es una cadena icónica que se especializa en ramen tonkotsu. Los comensales pueden disfrutar de una experiencia única con cabinas individuales para una comida más personal. El rico caldo de cerdo y los niveles de especias personalizables lo convierten en un favorito entre los locales y los turistas. Espere pagar alrededor de 10-15 dólares por un tazón de ramen satisfactorio.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "Mercado Nishijin",
+          "type": "night_market",
+          "description": "El Mercado Nishijin es un lugar animado donde puedes probar una variedad de especialidades locales y mariscos frescos. Los puestos ofrecen todo, desde pescado a la parrilla hasta mochi dulce, creando una experiencia culinaria inmersiva. Los precios varían, pero siguen siendo razonables, lo que lo convierte en un excelente lugar para probar varios platos. La vibrante atmósfera realza el disfrute de esta aventura gastronómica.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "Gyoza de Hakata",
+          "type": "restaurant",
+          "description": "El Gyoza de Hakata es conocido por sus deliciosos dumplings fritos, servidos crujientes y rellenos de cerdo jugoso. El ambiente acogedor y casual es perfecto para disfrutar de estos populares bocados locales. Los precios son muy razonables, generalmente por debajo de 10 dólares por plato. No te pierdas la oportunidad de sumergirlos en una salsa ácida para un sabor inolvidable.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "Mercado Nocturno de Tenjin",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Tenjin es un centro vibrante para los amantes de la comida, que ofrece una variedad de comida callejera, desde brochetas hasta postres dulces. La animada atmósfera y los numerosos puestos hacen de este un lugar perfecto para explorar sabores locales. Los precios son amigables con tu cartera, permitiéndote probar diferentes platos sin arruinarte. Disfruta del ambiente festivo mientras saboreas deliciosas delicias.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "Motsunabe Yamanaka",
+          "type": "restaurant",
+          "description": "Motsunabe Yamanaka se especializa en el plato local de hot pot, el motsunabe, preparado con tripas de res o cerdo y servido con una variedad de verduras. La atmósfera acogedora y la experiencia de comer en comunidad hacen que sea una salida agradable. Los precios oscilan entre 20 y 30 dólares por persona, lo que lo convierte en una excelente opción para una comida abundante con amigos.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "Sushiro",
+          "type": "restaurant",
+          "description": "Sushiro ofrece una experiencia de sushi asequible y deliciosa. Con un menú diverso que incluye nigiri y rolls, este restaurante de sushi de cinta transportadora es perfecto para una comida casual. Los precios son muy razonables, generalmente alrededor de 2 a 5 dólares por plato, lo que lo convierte en un excelente lugar para probar varios tipos de sushi sin gastar mucho.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "Marukatsu",
+          "type": "restaurant",
+          "description": "Marukatsu es famoso por su abundante tonkatsu al estilo Hakata, caracterizado por su empanizado crujiente y cerdo tierno. El ambiente acogedor y el personal amable crean una experiencia de comida cálida. Los precios son razonables, generalmente alrededor de 15 a 20 dólares por comida, lo que lo convierte en una excelente opción para un almuerzo o cena satisfactoria.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Fukuoka 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Fukuoka. From budget eats to fine dining — with booking links.",
+      "page_intro": "Fukuoka is a vibrant city known for its delicious culinary offerings, blending traditional Japanese flavors with modern twists. The city boasts a rich food culture, highlighted by its unique street food scene and renowned restaurants. Visitors can enjoy everything from savory ramen to sweet treats, making Fukuoka a must-visit destination for food lovers.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "Yatai Food Stalls",
+          "type": "street_food",
+          "description": "Experience the bustling atmosphere of Fukuoka's famous Yatai food stalls, which offer a variety of local dishes in a casual outdoor setting. Popular items include tonkotsu ramen and yakitori, perfect for a late-night snack. Prices are budget-friendly, making it a great option for all travelers. The lively ambiance and delicious food make it a must-visit.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "Ichiran Ramen",
+          "type": "restaurant",
+          "description": "Ichiran Ramen is an iconic chain that specializes in tonkotsu ramen. Diners can enjoy a unique experience with individual booths for a more personal meal. The rich pork broth and customizable spice levels make it a favorite among both locals and tourists. Expect to pay around $10-15 for a satisfying bowl of ramen.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "Nishijin Market",
+          "type": "night_market",
+          "description": "Nishijin Market is a lively spot where you can sample a variety of local specialties and fresh seafood. Stalls offer everything from grilled fish to sweet mochi, creating an immersive culinary experience. The prices vary but remain reasonable, making it a great place to try multiple dishes. The vibrant atmosphere enhances the enjoyment of this food adventure.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "Hakata Gyoza",
+          "type": "restaurant",
+          "description": "Hakata Gyoza is renowned for its delicious pan-fried dumplings, served crispy and filled with juicy pork. The cozy, casual setting is perfect for enjoying these popular local bites. Prices are very reasonable, typically under $10 for a plate. Don't miss the chance to dip them in tangy sauce for an unforgettable flavor.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "Tenjin Night Market",
+          "type": "night_market",
+          "description": "The Tenjin Night Market is a vibrant hub for food lovers, offering a variety of street food from skewers to sweet desserts. The lively atmosphere and numerous stalls make it a perfect place to explore local flavors. Prices are wallet-friendly, allowing you to sample different dishes without breaking the bank. Enjoy the festive vibe while tasting delicious treats.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "Motsunabe Yamanaka",
+          "type": "restaurant",
+          "description": "Motsunabe Yamanaka specializes in the local hot pot dish, motsunabe, made with beef or pork tripe and served with a variety of vegetables. The cozy atmosphere and communal dining experience make it an enjoyable outing. Prices range from $20-30 per person, making it a great choice for a hearty meal with friends.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "Sushiro",
+          "type": "restaurant",
+          "description": "Sushiro offers an affordable yet delightful sushi experience. With a diverse menu including nigiri and rolls, this conveyor belt sushi restaurant is perfect for casual dining. Prices are very reasonable, typically around $2-5 per plate, making it a great place to try various sushi types without spending much.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "Marukatsu",
+          "type": "restaurant",
+          "description": "Marukatsu is famous for its hearty Hakata-style tonkatsu, characterized by its crispy coating and tender pork. The inviting atmosphere and friendly staff create a warm dining experience. Prices are reasonable, typically around $15-20 for a meal, making it a great option for a satisfying lunch or dinner.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "फुकुओका में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "फुकुओका के सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "फुकुओका एक जीवंत शहर है जो अपने स्वादिष्ट पाक प्रसाद के लिए जाना जाता है, पारंपरिक जापानी स्वादों को आधुनिक ट्विस्ट के साथ मिलाता है। शहर में एक समृद्ध खाद्य संस्कृति है, जो इसके अद्वितीय स्ट्रीट फूड दृश्य और प्रसिद्ध रेस्तरां द्वारा उजागर होती है। आगंतुक स्वादिष्ट रामेन से लेकर मीठे व्यंजनों का आनंद ले सकते हैं, जिससे फुकुओका खाद्य प्रेमियों के लिए एक अवश्य देखने योग्य स्थान बन जाता है।",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "याताई फूड स्टॉल",
+          "type": "street_food",
+          "description": "फुकुओका के प्रसिद्ध याताई फूड स्टॉल का हलचल भरा माहौल अनुभव करें, जो एक कैज़ुअल बाहरी सेटिंग में स्थानीय व्यंजनों की एक विस्तृत श्रृंखला पेश करते हैं। लोकप्रिय आइटम में टोंकोट्सु रामेन और याकिटोरी शामिल हैं, जो देर रात के स्नैक के लिए आदर्श हैं। कीमतें बजट के अनुकूल हैं, जिससे यह सभी यात्रियों के लिए एक बेहतरीन विकल्प बन जाता है। जीवंत माहौल और स्वादिष्ट भोजन इसे अवश्य देखने योग्य बनाते हैं।",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "इचिरन रामेन",
+          "type": "restaurant",
+          "description": "इचिरन रामेन एक प्रतिष्ठित श्रृंखला है जो टोंकोट्सु रामेन में विशेषज्ञता रखती है। डाइनर्स व्यक्तिगत भोजन के लिए व्यक्तिगत बूथ का अद्वितीय अनुभव ले सकते हैं। समृद्ध सूअर का मांस शोरबा और अनुकूलन योग्य मसाले के स्तर इसे स्थानीय लोगों और पर्यटकों दोनों के बीच एक पसंदीदा बनाते हैं। एक संतोषजनक रामेन के लिए लगभग $10-15 का भुगतान करने की अपेक्षा करें।",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "निशिजिन मार्केट",
+          "type": "night_market",
+          "description": "निशिजिन मार्केट एक जीवंत स्थान है जहाँ आप स्थानीय विशेषताओं और ताजे समुद्री भोजन का स्वाद ले सकते हैं। स्टॉल पर ग्रिल्ड मछली से लेकर मीठे मोची तक सब कुछ उपलब्ध है, जिससे एक संपूर्ण पाक अनुभव बनता है। कीमतें भिन्न होती हैं लेकिन सामान्यत: उचित रहती हैं, जिससे यह कई व्यंजन आजमाने के लिए एक बेहतरीन जगह बन जाती है। जीवंत माहौल इस खाद्य साहसिकता का आनंद बढ़ाता है।",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "हाकाटा ग्योज़ा",
+          "type": "restaurant",
+          "description": "हाकाटा ग्योज़ा अपने स्वादिष्ट पैन-फ्राइड डम्पलिंग के लिए प्रसिद्ध है, जो कुरकुरी और रसदार सूअर के मांस से भरी होती है। आरामदायक, कैज़ुअल सेटिंग इन लोकप्रिय स्थानीय बाइट्स का आनंद लेने के लिए आदर्श है। कीमतें बहुत उचित हैं, आमतौर पर $10 के तहत एक प्लेट के लिए। एक अविस्मरणीय स्वाद के लिए उन्हें तीखी सॉस में डुबाना न भूलें।",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "टेनजिन नाइट मार्केट",
+          "type": "night_market",
+          "description": "टेनजिन नाइट मार्केट खाद्य प्रेमियों के लिए एक जीवंत केंद्र है, जो स्क्यूवर्स से लेकर मीठे डेज़र्ट तक विभिन्न स्ट्रीट फूड पेश करता है। जीवंत माहौल और कई स्टॉल इसे स्थानीय स्वादों की खोज के लिए एक बेहतरीन स्थान बनाते हैं। कीमतें वॉलेट-फ्रेंडली हैं, जिससे आप बिना ज्यादा खर्च किए विभिन्न व्यंजनों का स्वाद ले सकते हैं। स्वादिष्ट व्यंजनों का आनंद लेते हुए उत्सव का माहौल का आनंद लें।",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "मोत्त्सुनाबे यामानाका",
+          "type": "restaurant",
+          "description": "मोत्त्सुनाबे यामानाका स्थानीय हॉट पॉट व्यंजन, मोत्त्सुनाबे में विशेषज्ञता रखता है, जो बीफ या पोर्क ट्रिप से बना होता है और विभिन्न सब्जियों के साथ परोसा जाता है। आरामदायक माहौल और सामूहिक भोजन का अनुभव इसे एक सुखद आउटिंग बनाता है। कीमतें प्रति व्यक्ति $20-30 के बीच होती हैं, जिससे यह दोस्तों के साथ एक भरपेट भोजन के लिए एक बेहतरीन विकल्प बनता है।",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "सुशीरो",
+          "type": "restaurant",
+          "description": "सुशीरो एक किफायती लेकिन आनंददायक सुशी अनुभव प्रदान करता है। निहिरी और रोल सहित विविध मेन्यू के साथ, यह कन्वेयर बेल्ट सुशी रेस्तरां आकस्मिक भोजन के लिए आदर्श है। कीमतें बहुत उचित हैं, आमतौर पर $2-5 प्रति प्लेट के आसपास, जिससे यह विभिन्न प्रकार की सुशी आजमाने के लिए एक बेहतरीन स्थान बनता है।",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "मारुकात्सु",
+          "type": "restaurant",
+          "description": "मारुकात्सु अपने हार्दिक हाकाटा-शैली के टोंकात्सु के लिए प्रसिद्ध है, जो इसके कुरकुरी कोटिंग और नरम सूअर के मांस की विशेषता है। आमंत्रित वातावरण और मित्रवत स्टाफ एक गर्म भोजन अनुभव बनाते हैं। कीमतें उचित हैं, आमतौर पर एक भोजन के लिए $15-20 के आसपास, जिससे यह संतोषजनक दोपहर के भोजन या रात के खाने के लिए एक बेहतरीन विकल्प बन जाता है।",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas em Fukuoka 2026 - Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Fukuoka. Desde refeições em conta até alta gastronomia - com links de reserva.",
+      "page_intro": "Fukuoka é uma cidade vibrante conhecida por suas deliciosas ofertas culinárias, misturando sabores japoneses tradicionais com toques modernos. A cidade possui uma rica cultura alimentar, destacada por sua cena única de comida de rua e restaurantes renomados. Os visitantes podem desfrutar de tudo, desde ramen salgados a doces, tornando Fukuoka um destino imperdível para os amantes da gastronomia.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "Bancas de Comida Yatai",
+          "type": "street_food",
+          "description": "Experimente a atmosfera movimentada das famosas bancas de comida Yatai de Fukuoka, que oferecem uma variedade de pratos locais em um ambiente ao ar livre casual. Itens populares incluem ramen tonkotsu e yakitori, perfeitos para um lanche à noite. Os preços são acessíveis, tornando-se uma ótima opção para todos os viajantes. O ambiente animado e a comida deliciosa fazem deste um lugar imperdível.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "Ichiran Ramen",
+          "type": "restaurant",
+          "description": "Ichiran Ramen é uma cadeia icônica especializada em ramen tonkotsu. Os clientes podem desfrutar de uma experiência única com cabines individuais para uma refeição mais pessoal. O rico caldo de porco e os níveis de especiarias personalizáveis o tornam um favorito entre os locais e turistas. Espere pagar cerca de $10-15 por uma tigela satisfatória de ramen.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "Mercado Nishijin",
+          "type": "night_market",
+          "description": "O Mercado Nishijin é um local animado onde você pode experimentar uma variedade de especialidades locais e frutos do mar frescos. As barracas oferecem tudo, desde peixe grelhado até mochi doce, criando uma experiência culinária imersiva. Os preços variam, mas permanecem razoáveis, tornando-se um ótimo lugar para experimentar vários pratos. A atmosfera vibrante aumenta o prazer desta aventura gastronômica.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "Hakata Gyoza",
+          "type": "restaurant",
+          "description": "Hakata Gyoza é famosa por seus deliciosos bolinhos fritos, servidos crocantes e recheados com carne suína suculenta. O ambiente acolhedor e casual é perfeito para desfrutar dessas mordidas locais populares. Os preços são muito razoáveis, tipicamente abaixo de $10 por prato. Não perca a chance de mergulhá-los em um molho picante para um sabor inesquecível.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "Mercado Noturno Tenjin",
+          "type": "night_market",
+          "description": "O Mercado Noturno Tenjin é um centro vibrante para os amantes da comida, oferecendo uma variedade de comida de rua, desde espetos até doces. A atmosfera animada e as inúmeras barracas tornam este um ótimo lugar para explorar sabores locais. Os preços são acessíveis, permitindo que você experimente diferentes pratos sem estourar o orçamento. Aproveite o clima festivo enquanto saboreia iguarias deliciosas.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "Motsunabe Yamanaka",
+          "type": "restaurant",
+          "description": "Motsunabe Yamanaka é especializada no prato local de hot pot, motsunabe, feito com tripas de carne bovina ou suína e servido com uma variedade de legumes. O ambiente acolhedor e a experiência de refeição em grupo tornam-no um passeio agradável. Os preços variam de $20 a $30 por pessoa, tornando-se uma ótima escolha para uma refeição farta com amigos.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "Sushiro",
+          "type": "restaurant",
+          "description": "Sushiro oferece uma experiência de sushi acessível, mas deliciosa. Com um menu diversificado que inclui nigiri e rolls, este restaurante de sushi em esteira é perfeito para refeições casuais. Os preços são muito razoáveis, geralmente em torno de $2-5 por prato, tornando-se um ótimo lugar para experimentar vários tipos de sushi sem gastar muito.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "Marukatsu",
+          "type": "restaurant",
+          "description": "Marukatsu é famosa por seu tonkatsu estilo Hakata, caracterizado por sua crosta crocante e carne suína macia. O ambiente acolhedor e a equipe amigável criam uma experiência gastronômica calorosa. Os preços são razoáveis, geralmente em torno de $15-20 por refeição, tornando-se uma ótima opção para um almoço ou jantar satisfatório.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الطعام في فوكوكا 2026 - أفضل المطاعم ودليل الطعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في فوكوكا. من الوجبات ذات الميزانية المحدودة إلى تناول الطعام الراقي - مع روابط الحجز.",
+      "page_intro": "فوكوكا مدينة نابضة بالحياة معروفة بعروضها الطهو اللذيذة، حيث تمزج النكهات اليابانية التقليدية مع لمسات حديثة. تتمتع المدينة بثقافة غذائية غنية، تبرزها مشهد الطعام الشارع الفريد والمطاعم الشهيرة. يمكن للزوار الاستمتاع بكل شيء من الرامن المالح إلى الحلويات، مما يجعل فوكوكا وجهة يجب زيارتها لمحبي الطعام.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "أكشاك طعام ياتاى",
+          "type": "street_food",
+          "description": "اختبر الأجواء المزدحمة لأكشاك طعام ياتاى الشهيرة في فوكوكا، التي تقدم مجموعة متنوعة من الأطباق المحلية في بيئة غير رسمية في الهواء الطلق. تشمل العناصر الشهيرة رامن تونكوستو و ياكيتوري، وهو مثالي كوجبة خفيفة في وقت متأخر من الليل. الأسعار مناسبة للميزانية، مما يجعلها خيارًا رائعًا لجميع المسافرين. إن الأجواء الحية والطعام اللذيذ يجعلها مكانًا يجب زيارته.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "رامن إيشيران",
+          "type": "restaurant",
+          "description": "رامن إيشيران هو سلسلة أيقونية تتخصص في رامن تونكوستو. يمكن للرواد الاستمتاع بتجربة فريدة مع أكشاك فردية لتناول وجبة أكثر خصوصية. يجعل المرق الغني من لحم الخنزير ومستويات التوابل القابلة للتخصيص منه مفضلًا بين المحليين والسياح. توقع أن تدفع حوالي 10-15 دولارًا مقابل وعاء مرضٍ من الرامن.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "سوق نيشيجين",
+          "type": "night_market",
+          "description": "سوق نيشيجين هو مكان نابض حيث يمكنك تذوق مجموعة متنوعة من التخصصات المحلية والمأكولات البحرية الطازجة. تقدم الأكشاك كل شيء من السمك المشوي إلى موتشي الحلو، مما يخلق تجربة طهي غامرة. تختلف الأسعار لكنها تبقى معقولة، مما يجعلها مكانًا رائعًا لتجربة أطباق متعددة. تعزز الأجواء النابضة بالحياة من متعة هذه المغامرة الغذائية.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "هكاتا جيوزا",
+          "type": "restaurant",
+          "description": "تشتهر هكاتا جيوزا بفضل زلابيتها المقلية اللذيذة، المقدمة مقرمشة ومليئة بلحم الخنزير العصير. البيئة المريحة غير الرسمية مثالية للاستمتاع بهذه اللقيمات المحلية الشهيرة. الأسعار معقولة جدًا، عادة أقل من 10 دولارات للطبق. لا تفوت فرصة غمسها في صلصة حامضة للحصول على نكهة لا تُنسى.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "سوق تينجين الليلي",
+          "type": "night_market",
+          "description": "يعتبر سوق تينجين الليلي مركزًا نابضًا لعشاق الطعام، حيث يقدم مجموعة متنوعة من طعام الشارع، من الأسياخ إلى الحلويات. تجعل الأجواء الحية والأكشاك العديدة من هذا مكانًا رائعًا لاستكشاف النكهات المحلية. الأسعار مناسبة للميزانية، مما يتيح لك تجربة أطباق مختلفة دون كسر البنك. استمتع بالأجواء الاحتفالية أثناء تذوق الأطباق اللذيذة.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "موتسونابي ياماناكا",
+          "type": "restaurant",
+          "description": "تخصص موتسونابي ياماناكا في طبق الحساء الساخن المحلي، موتسونابي، المصنوع من كرش لحم البقر أو لحم الخنزير ويقدم مع مجموعة متنوعة من الخضار. تجعل الأجواء المريحة وتجربة تناول الطعام الجماعي منه رحلة ممتعة. تتراوح الأسعار من 20 إلى 30 دولارًا للشخص، مما يجعلها خيارًا رائعًا لوجبة مشبعة مع الأصدقاء.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "سوشيرو",
+          "type": "restaurant",
+          "description": "يقدم سوشيرو تجربة سوشي ميسورة التكلفة ولكنها لذيذة. مع قائمة متنوعة تشمل نيجيري ولفائف، يعد هذا المطعم سوشي الذي يعتمد على سير الناقل مثاليًا لتناول الطعام غير الرسمي. الأسعار معقولة جدًا، عادة حوالي 2-5 دولارات لكل طبق، مما يجعله مكانًا رائعًا لتجربة أنواع مختلفة من السوشي دون إنفاق الكثير.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "ماروكاتسو",
+          "type": "restaurant",
+          "description": "تشتهر ماروكاتسو بلحم الخنزير المقلي على طراز هكاتا، والذي يتميز بقشرته المقرمشة ولحمه الطري. يخلق الجو الدافئ والموظفون الودودون تجربة تناول طعام دافئة. الأسعار معقولة، عادة حوالي 15-20 دولارًا للوجبة، مما يجعلها خيارًا رائعًا لتناول غداء أو عشاء مرضٍ.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ফুকুয়োকাতে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ ও রাস্তার খাবারের গাইড",
+      "seo_description": "ফুকুয়োকাতে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "page_intro": "ফুকুয়োকা একটি প্রাণবন্ত শহর যা এর সুস্বাদু রন্ধনপ্রণালী অফারগুলির জন্য পরিচিত, ঐতিহ্যবাহী জাপানি স্বাদকে আধুনিক মোড়ের সাথে মিশিয়ে। শহরটি একটি সমৃদ্ধ খাদ্য সংস্কৃতি নিয়ে গর্বিত, যা এর অনন্য রাস্তার খাবারের দৃশ্য এবং সুপরিচিত রেস্তোরাঁ দ্বারা প্রকাশিত। দর্শক savory ramen থেকে মিষ্টান্ন পর্যন্ত সবকিছু উপভোগ করতে পারেন, ফুকুয়োকাকে খাদ্যপ্রেমীদের জন্য একটি বাধ্যতামূলক গন্তব্যে পরিণত করে।",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "যাতাই ফুড স্টল",
+          "type": "street_food",
+          "description": "ফুকুয়োকার বিখ্যাত যাতাই ফুড স্টলের ব্যস্ত পরিবেশের অভিজ্ঞতা নিন, যা একটি অনানুষ্ঠানিক বাইরের সেটিংয়ে স্থানীয় খাবারের বিভিন্ন প্রকার অফার করে। জনপ্রিয় আইটেমগুলির মধ্যে টনকোটসু রামেন এবং ইয়াকিটোরি অন্তর্ভুক্ত রয়েছে, যা রাতে স্ন্যাক্সের জন্য নিখুঁত। দাম বাজেট-বান্ধব, যা এটি সকল ভ্রমণকারীদের জন্য একটি দুর্দান্ত বিকল্প করে তোলে। প্রাণবন্ত পরিবেশ এবং সুস্বাদু খাবার এটিকে একটি অতি অবশ্যই পরিদর্শনযোগ্য করে তোলে।",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "ইচিরান রামেন",
+          "type": "restaurant",
+          "description": "ইচিরান রামেন একটি আইকনিক চেইন যা টনকোটসু রামেনের বিশেষজ্ঞ। ডাইনাররা একটি ব্যক্তিগত খাবারের জন্য পৃথক বুথে অনন্য অভিজ্ঞতা উপভোগ করতে পারেন। সমৃদ্ধ শূকরের মাংসের ব্রোথ এবং কাস্টমাইজযোগ্য মশলার স্তর এটিকে স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয় করে তোলে। সন্তোষজনক একটি বোলের জন্য প্রায় $10-15 দিতে আশা করুন।",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "নিশিজিন মার্কেট",
+          "type": "night_market",
+          "description": "নিশিজিন মার্কেট একটি প্রাণবন্ত স্থান যেখানে আপনি স্থানীয় বিশেষত্ব এবং তাজা সামুদ্রিক খাবারের বিভিন্ন ধরনের স্বাদ নিতে পারেন। স্টলগুলি গ্রিল করা মাছ থেকে শুরু করে মিষ্টি মোচি পর্যন্ত সবকিছু অফার করে, যা একটি ইমারসিভ রন্ধনপ্রণালী অভিজ্ঞতা তৈরি করে। দাম ভিন্ন হয় তবে সাধারণত যুক্তিসঙ্গত থাকে, যা এটি একাধিক খাবার চেষ্টা করার জন্য একটি দুর্দান্ত জায়গা করে তোলে। প্রাণবন্ত পরিবেশ এই খাদ্য অভিযানের আনন্দ বাড়িয়ে দেয়।",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "হাকাতা গ্যোজা",
+          "type": "restaurant",
+          "description": "হাকাতা গ্যোজা তার সুস্বাদু প্যান-ফ্রাইড ডাম্পলিং এর জন্য বিখ্যাত, যা ক্রিস্পি এবং রসালো শূকরের মাংস দিয়ে ভরা হয়। আরামদায়ক, অস্বাভাবিক পরিবেশ এই জনপ্রিয় স্থানীয় খাবারগুলি উপভোগ করার জন্য নিখুঁত। দাম খুব যুক্তিসঙ্গত, সাধারণত একটি প্লেটের জন্য $10 এর নিচে। একটি অবিস্মরণীয় স্বাদের জন্য তাদের ট্যাংজি সসে ডুবাতে ভুলবেন না।",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "টেনজিন নাইট মার্কেট",
+          "type": "night_market",
+          "description": "টেনজিন নাইট মার্কেট খাদ্য প্রেমীদের জন্য একটি প্রাণবন্ত কেন্দ্র, যা বিভিন্ন স্ট্রিট ফুড অফার করে, স্কিউয়ার থেকে মিষ্টি ডেজার্ট পর্যন্ত। প্রাণবন্ত পরিবেশ এবং অসংখ্য স্টল এটি স্থানীয় স্বাদগুলি অন্বেষণে একটি নিখুঁত স্থান করে তোলে। দাম ওয়ালেট-বান্ধব, আপনাকে ব্যাংক ভাঙা ছাড়াই বিভিন্ন খাবার চেষ্টা করতে দেয়। সুস্বাদু খাবার খাওয়ার সময় উত্সবের পরিবেশ উপভোগ করুন।",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "মোত্তসুনাবে ইয়ামানাকা",
+          "type": "restaurant",
+          "description": "মোত্তসুনাবে ইয়ামানাকা স্থানীয় হট পট ডিশ, মোত্তসুনাবে বিশেষজ্ঞ, যা গরুর বা শূকরের অন্ত্র দিয়ে তৈরি এবং বিভিন্ন শাকসবজির সাথে পরিবেশন করা হয়। আরামদায়ক পরিবেশ এবং সমবায় খাবারের অভিজ্ঞতা এটিকে একটি আনন্দজনক ভ্রমণ করে তোলে। মূল্য প্রতি ব্যক্তির জন্য $20-30 এর মধ্যে থাকে, যা এটি বন্ধুদের সাথে একটি পরিপূর্ণ খাবারের জন্য একটি দুর্দান্ত পছন্দ তৈরি করে।",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "সুশিরো",
+          "type": "restaurant",
+          "description": "সুশিরো একটি সাশ্রয়ী কিন্তু আনন্দদায়ক সুশির অভিজ্ঞতা প্রদান করে। নিগিরি এবং রোল সহ একটি বৈচিত্র্যময় মেনু সহ, এই কনভেয়র বেল্ট সুশি রেস্তোরাঁটি ক্যাজুয়াল ডাইনিংয়ের জন্য নিখুঁত। দাম খুব যুক্তিসঙ্গত, সাধারণত প্রতি প্লেট $2-5 এর চারপাশে, যা এটি বিভিন্ন ধরনের সুশি চেষ্টা করার জন্য একটি দুর্দান্ত স্থান করে তোলে।",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "মারুকাতসু",
+          "type": "restaurant",
+          "description": "মারুকাতসু এর হার্দি হাকাতা-শৈলীর টনকাতসুর জন্য বিখ্যাত, যা এর ক্রিস্পি কোটিং এবং নরম শূকরের মাংস দ্বারা চিহ্নিত। আমন্ত্রিত পরিবেশ এবং বন্ধুত্বপূর্ণ কর্মীরা একটি উষ্ণ খাবারের অভিজ্ঞতা তৈরি করে। দাম যুক্তিসঙ্গত, সাধারণত $15-20 এর মধ্যে একটি খাবারের জন্য, যা এটি একটি সন্তোষজনক দুপুরের খাবার বা রাতের খাবারের জন্য একটি দুর্দান্ত বিকল্প করে তোলে।",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда во Фукуоке 2026 - Топ-рестораны и гид по уличной еде",
+      "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных специалитетах во Фукуоке. От бюджетной еды до элитных ресторанов - с ссылками на бронирование.",
+      "page_intro": "Фукуока - это яркий город, известный своими вкусными кулинарными предложениями, сочетающими традиционные японские вкусы с современными акцентами. Город гордится богатой кулинарной культурой, подчеркиваемой уникальной уличной едой и знаменитыми ресторанами. Посетители могут наслаждаться всем, от пикантного рамена до сладких угощений, что делает Фукуоку обязательным местом для посещения для любителей еды.",
+      "items": [
+        {
+          "id": "yatai-food-stalls",
+          "name": "Лотки уличной еды Ятаи",
+          "type": "street_food",
+          "description": "Погрузитесь в атмосферу шумных лотков уличной еды Ятаи во Фукуоке, которые предлагают разнообразные местные блюда в непринужденной уличной обстановке. Популярные блюда включают рамен тонкоцу и якитори, идеально подходящие для позднего перекуса. Цены доступны, что делает это отличным вариантом для всех путешественников. Живой антураж и вкусная еда делают это место обязательным для посещения.",
+          "image_keyword": "fukuoka yatai food stalls",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tonkotsu Ramen",
+          "klook_query": "fukuoka yatai food stalls tour"
+        },
+        {
+          "id": "ichiran-ramen",
+          "name": "Рамен Ичирана",
+          "type": "restaurant",
+          "description": "Рамен Ичирана - это культовая сеть, специализирующаяся на рамене тонкоцу. Посетители могут насладиться уникальным опытом, находясь в индивидуальных кабинках для более личной трапезы. Богатый свиной бульон и настраиваемые уровни остроты делают его фаворитом как среди местных жителей, так и среди туристов. Ожидайте заплатить около $10-15 за удовлетворительную порцию рамена.",
+          "image_keyword": "ichiran ramen fukuoka",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic Tonkotsu Ramen",
+          "klook_query": "ichiran ramen fukuoka booking"
+        },
+        {
+          "id": "nishijin-market",
+          "name": "Рынок Нишидзин",
+          "type": "night_market",
+          "description": "Рынок Нишидзин - это оживленное место, где вы можете попробовать разнообразные местные деликатесы и свежие морепродукты. Лотки предлагают все, от жареной рыбы до сладкого моти, создавая захватывающий кулинарный опыт. Цены варьируются, но остаются разумными, что делает это отличным местом для пробования нескольких блюд. Яркая атмосфера усиливает удовольствие от этого гастрономического приключения.",
+          "image_keyword": "nishijin market fukuoka",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Mackerel",
+          "klook_query": "nishijin market food tour"
+        },
+        {
+          "id": "hakata-gyoza",
+          "name": "Гёдза Хакаты",
+          "type": "restaurant",
+          "description": "Гёдза Хакаты известна своими вкусными жареными пельменями, подаваемыми хрустящими и наполненными сочной свининой. Уютная, непринужденная обстановка идеально подходит для наслаждения этими популярными местными закусками. Цены очень разумные, обычно ниже $10 за порцию. Не упустите возможность окунуть их в кислый соус для незабываемого вкуса.",
+          "image_keyword": "hakata gyoza fukuoka",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pan-Fried Gyoza",
+          "klook_query": "hakata gyoza fukuoka booking"
+        },
+        {
+          "id": "tenjin-night-market",
+          "name": "Ночной рынок Тенжин",
+          "type": "night_market",
+          "description": "Ночной рынок Тенжин - это яркий центр для любителей еды, предлагающий разнообразные уличные блюда, от шашлыков до сладких десертов. Живое окружение и множество лотков делают это отличным местом для исследования местных вкусов. Цены доступны, позволяя вам попробовать различные блюда, не разорившись. Наслаждайтесь праздничной атмосферой, пробуя вкусные угощения.",
+          "image_keyword": "tenjin night market fukuoka",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Kushiyaki (Grilled Skewers)",
+          "klook_query": "tenjin night market food tour"
+        },
+        {
+          "id": "motsunabe",
+          "name": "Мотсунабе Яманака",
+          "type": "restaurant",
+          "description": "Мотсунабе Яманака специализируется на местном блюде в кастрюле, мотсунабе, приготовленном из говяжьих или свиных потрохов и подаваемом с различными овощами. Уютная обстановка и общая трапеза делают это приятным выходом. Цены варьируются от $20 до $30 с человека, что делает это отличным выбором для сытного обеда с друзьями.",
+          "image_keyword": "motsunabe yamanaka fukuoka",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Motsunabe Hot Pot",
+          "klook_query": "motsunabe yamanaka booking"
+        },
+        {
+          "id": "sushiro",
+          "name": "Суширо",
+          "type": "restaurant",
+          "description": "Суширо предлагает доступный, но восхитительный опыт суши. С разнообразным меню, включая нигири и роллы, этот ресторан суши с конвейерной лентой идеально подходит для неформального обеда. Цены очень разумные, обычно около $2-5 за порцию, что делает его отличным местом для пробования различных видов суши без больших расходов.",
+          "image_keyword": "sushiro fukuoka",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tuna Nigiri",
+          "klook_query": "sushiro fukuoka booking"
+        },
+        {
+          "id": "marukatsu",
+          "name": "Марукатсу",
+          "type": "restaurant",
+          "description": "Марукатсу славится своим сытным тонкацу в стиле Хакаты, отличающимся хрустящей корочкой и нежной свининой. Уютная обстановка и дружелюбный персонал создают теплую атмосферу для ужина. Цены разумные, обычно около $15-20 за прием пищи, что делает его отличным вариантом для сытного обеда или ужина.",
+          "image_keyword": "marukatsu fukuoka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hakata Tonkatsu",
+          "klook_query": "marukatsu fukuoka booking"
+        }
+      ]
+    }
+  }
+}

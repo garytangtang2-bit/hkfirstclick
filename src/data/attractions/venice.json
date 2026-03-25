@@ -1,0 +1,1097 @@
+{
+  "city_slug": "venice",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Venice 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Venice. Find opening hours, ticket prices and booking links for Venice's top landmarks.",
+      "page_intro": "Venice, known for its stunning canals and rich history, is a unique destination that captivates visitors from around the world. With its iconic gondolas, beautiful architecture, and vibrant culture, the city offers an unforgettable experience. Explore its charming neighborhoods, indulge in delicious cuisine, and immerse yourself in the art and history that define this magical place.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "St. Mark's Basilica",
+          "type": "temple",
+          "description": "An architectural marvel, St. Mark's Basilica is famous for its stunning mosaics and intricate design. Visitors can explore its opulent interior and the iconic Pala d'Oro. It is recommended to visit early in the morning to avoid crowds, and a visit typically takes about an hour. Don't forget to admire the view from the terrace!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "Doge's Palace",
+          "type": "landmark",
+          "description": "Doge's Palace is a stunning Gothic building that served as the residence of the Doge of Venice. Visitors can explore its lavish rooms, impressive artwork, and the famous Bridge of Sighs. Allocate at least two hours to fully appreciate the history and architecture. Guided tours are available for a deeper insight into its past.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "Rialto Bridge",
+          "type": "landmark",
+          "description": "The Rialto Bridge is one of Venice's most iconic landmarks, offering stunning views of the Grand Canal. It's a great spot for photos and to experience the bustling market atmosphere nearby. A quick visit is sufficient to enjoy the sights, but linger a while to soak in the lively ambiance.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "Gallerie dell'Accademia",
+          "type": "museum",
+          "description": "The Gallerie dell'Accademia houses the most extensive collection of Venetian painting, featuring works by masters such as Titian and Tintoretto. Plan to spend at least an hour exploring the beautiful galleries. Audio guides are available to enhance your experience and understanding of the masterpieces.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "Peggy Guggenheim Collection",
+          "type": "museum",
+          "description": "This modern art museum is set in the former home of art collector Peggy Guggenheim. It features works by famous artists like Picasso and Pollock. A visit here typically lasts around two hours, and the beautiful garden is perfect for a peaceful stroll. Be sure to check out the temporary exhibitions as well.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "Burano Island",
+          "type": "district",
+          "description": "Known for its brightly colored houses and lace-making tradition, Burano Island is a picturesque getaway from the main city. Take a vaporetto to reach this charming island, where you can stroll through the colorful streets and enjoy local seafood. A half-day trip is ideal for exploring and capturing stunning photographs.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Rialto Market",
+          "type": "market",
+          "description": "The Rialto Market is a vibrant hub of local produce, seafood, and Venetian specialties. It's the perfect place to experience the culinary culture of Venice. Visiting in the morning is best to see the market in full swing. Allow an hour to wander and sample some delicious treats from the vendors.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "威尼斯2026年最佳景点 — 门票、贴士和完整指南",
+      "seo_description": "探索威尼斯最佳景点。查找开门时间、票价和威尼斯顶级地标的预订链接。",
+      "page_intro": "威尼斯以其迷人的运河和丰富的历史而闻名，是一个独特的目的地，吸引着来自世界各地的游客。凭借其标志性的贡多拉、美丽的建筑和充满活力的文化，这座城市提供了难忘的体验。探索其迷人的街区，尽情享受美味的美食，沉浸在定义这个神奇地方的艺术和历史中。",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "圣马可大教堂",
+          "type": "temple",
+          "description": "圣马可大教堂是一座建筑奇迹，以其华丽的马赛克和精致的设计而闻名。游客可以探索其奢华的内部和标志性的金祭坛。建议早上早些时候前往，以避开人群，参观通常需要大约一个小时。别忘了欣赏露台上的美景！",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "总督宫",
+          "type": "landmark",
+          "description": "总督宫是一座令人惊叹的哥特式建筑，曾是威尼斯总督的住所。游客可以探索其华丽的房间、令人印象深刻的艺术作品和著名的叹息桥。建议至少留出两个小时来充分欣赏历史和建筑。提供导游服务，以更深入地了解其过去。",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "里亚托桥",
+          "type": "landmark",
+          "description": "里亚托桥是威尼斯最具标志性的地标之一，提供对大运河的壮丽景色。这里是拍照和体验附近热闹市场气氛的绝佳地点。快速游览就足够享受美景，但可以停留一会儿，沉浸在热闹的氛围中。",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "学院美术馆",
+          "type": "museum",
+          "description": "学院美术馆收藏了最广泛的威尼斯绘画作品，展出包括提香和丁托列托等大师的作品。计划至少花一个小时来探索美丽的画廊。音频导览可增强您的体验和对杰作的理解。",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "佩吉·古根海姆收藏馆",
+          "type": "museum",
+          "description": "这座现代艺术博物馆位于艺术收藏家佩吉·古根海姆的故居，展出毕加索和波洛克等著名艺术家的作品。这里的参观通常持续约两个小时，优美的花园非常适合悠闲散步。一定要查看临时展览。",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "布拉诺岛",
+          "type": "district",
+          "description": "布拉诺岛以其鲜艳的房屋和制蕾丝传统而闻名，是一个远离主城的如画小岛。乘坐水上巴士前往这个迷人的岛屿，在五彩缤纷的街道上漫步，享用当地海鲜。半日游是探索和拍摄美丽照片的理想选择。",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "里亚托市场",
+          "type": "market",
+          "description": "里亚托市场是一个充满活力的本地农产品、海鲜和威尼斯特色食品的中心。这里是体验威尼斯烹饪文化的完美场所。建议早上前往，以便看到市场的繁忙景象。留出一个小时在摊位间游荡，并品尝一些美味的零食。",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年のヴェネツィアのトップアトラクション — チケット、ヒント & 完全ガイド",
+      "seo_description": "ヴェネツィアの最高のアトラクションを探索し、営業時間、チケット価格、ヴェネツィアの主要ランドマークの予約リンクを見つけましょう。",
+      "page_intro": "美しい運河と豊かな歴史で知られるヴェネツィアは、世界中から訪れる旅行者を魅了するユニークな目的地です。アイコニックなゴンドラ、美しい建築、活気ある文化を持つこの都市は、忘れられない体験を提供します。魅力的な近隣を探索し、美味しい料理を楽しみ、この魔法の場所を定義する芸術と歴史に浸りましょう。",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "サン・マルコ大聖堂",
+          "type": "temple",
+          "description": "サン・マルコ大聖堂は、驚くべきモザイクと精巧なデザインで有名な建築の驚異です。訪問者はその豪華な内部とアイコニックなパラ・ドーロを探索できます。混雑を避けるために朝早く訪れることをお勧めします。通常の訪問は約1時間かかります。テラスからの景色もお忘れなく！",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "ドゥカーレ宮殿",
+          "type": "landmark",
+          "description": "ドゥカーレ宮殿は、ヴェネツィアのドゥカを住まわせていた美しいゴシック様式の建物です。訪問者はその豪華な部屋、印象的なアートワーク、そして有名なため息の橋を探索できます。歴史と建築を十分に理解するために、少なくとも2時間を確保してください。深い洞察を得るためのガイドツアーも利用可能です。",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "リアルト橋",
+          "type": "landmark",
+          "description": "リアルト橋はヴェネツィアの最も象徴的なランドマークの一つであり、グランドカナルの驚くべき景色を提供します。写真撮影や近くの賑やかな市場の雰囲気を体験するのに最適なスポットです。観光するのに短時間で十分ですが、活気ある雰囲気を楽しむために少し滞在してください。",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "アカデミア美術館",
+          "type": "museum",
+          "description": "アカデミア美術館は、ティツィアーノやティントレットなどの巨匠の作品を特集した最も広範なヴェネツィア絵画のコレクションを収蔵しています。美しいギャラリーを探索するために、少なくとも1時間を計画してください。オーディオガイドがあり、傑作の理解と体験を向上させることができます。",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "ペギー・グッゲンハイム・コレクション",
+          "type": "museum",
+          "description": "この現代美術館は、アートコレクターのペギー・グッゲンハイムの元の家に位置しています。ピカソやポロックなどの有名なアーティストの作品が展示されています。ここでの訪問は通常約2時間続き、美しい庭園は静かな散歩に最適です。臨時の展覧会もぜひチェックしてください。",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "ブラーノ島",
+          "type": "district",
+          "description": "ブラーノ島は、その鮮やかな色の家々とレース作りの伝統で知られ、主な都市からの絵のような逃避行です。この魅力的な島に到着するにはヴァポレットを利用し、カラフルな通りを散策し、地元のシーフードを楽しんでください。探索と素晴らしい写真を撮るためには、半日旅行が理想的です。",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "リアルト市場",
+          "type": "market",
+          "description": "リアルト市場は地元の農産物、シーフード、ヴェネツィアの特産品の活気ある中心地です。ヴェネツィアの料理文化を体験するのに最適な場所です。市場が盛況な時間に訪れるために、朝に行くのがベストです。美味しいおやつを試食しながら、1時間を散策することをお勧めします。",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 베네치아의 주요 명소 — 티켓, 팁 & 완벽 가이드",
+      "seo_description": "베네치아의 최고의 명소를 탐험하세요. 개장 시간, 티켓 가격 및 베네치아 주요 랜드마크의 예약 링크를 찾으세요.",
+      "page_intro": "아름다운 운하와 풍부한 역사로 유명한 베네치아는 전 세계에서 방문객들을 매료시키는 독특한 여행지입니다. 상징적인 곤돌라, 아름다운 건축물, 그리고 활기찬 문화가 어우러진 이 도시는 잊을 수 없는 경험을 제공합니다. 매력적인 동네를 탐험하고 맛있는 요리를 즐기며 이 마법 같은 곳을 정의하는 예술과 역사에 몰두해 보세요.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "산 마르코 대성당",
+          "type": "temple",
+          "description": "산 마르코 대성당은 놀라운 모자이크와 복잡한 디자인으로 유명한 건축의 경이로움입니다. 방문객들은 그 화려한 내부와 아이코닉한 파라 도로를 탐험할 수 있습니다. 혼잡을 피하기 위해 아침 일찍 방문하는 것이 좋으며, 일반적으로 방문에는 약 1시간이 소요됩니다. 테라스에서의 전망도 잊지 마세요!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "도제의 궁전",
+          "type": "landmark",
+          "description": "도제의 궁전은 베네치아 도제를 위한 거주지로 사용된 아름다운 고딕 건물입니다. 방문객들은 화려한 방들, 인상적인 예술작품, 그리고 유명한 탄식의 다리를 탐험할 수 있습니다. 역사와 건축을 충분히 감상하기 위해서는 최소 2시간을 할애해야 합니다. 깊이 있는 통찰을 위해 가이드 투어도 이용할 수 있습니다.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "리알토 다리",
+          "type": "landmark",
+          "description": "리알토 다리는 베네치아의 가장 상징적인 랜드마크 중 하나로, 그랜드 카날의 멋진 전망을 제공합니다. 사진 촬영과 근처의 분주한 시장 분위기를 경험하기에 좋은 장소입니다. 짧은 방문으로도 경치를 즐길 수 있지만, 활기찬 분위기를 만끽하기 위해 잠시 머무르는 것이 좋습니다.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "아카데미아 미술관",
+          "type": "museum",
+          "description": "아카데미아 미술관은 티치아노와 틴토레토와 같은 거장들의 작품을 특징으로 한 가장 방대한 베네치아 회화 컬렉션을 소장하고 있습니다. 아름다운 갤러리를 탐험하는 데 최소 1시간을 계획하세요. 오디오 가이드를 이용하면 작품에 대한 이해와 경험이 향상됩니다.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "페기 구겐하임 컬렉션",
+          "type": "museum",
+          "description": "이 현대 미술관은 예술 수집가 페기 구겐하임의 옛 집에 위치해 있습니다. 피카소와 폴록과 같은 유명한 예술가들의 작품이 전시되어 있습니다. 여기에서의 방문은 일반적으로 약 2시간 정도 소요되며, 아름다운 정원은 평화로운 산책에 적합합니다. 임시 전시도 꼭 확인하세요.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "부라노 섬",
+          "type": "district",
+          "description": "부라노 섬은 화려한 색의 집과 레이스 제작 전통으로 유명하며, 주요 도시에서 멀리 떨어진 그림 같은 휴양지입니다. 이 매력적인 섬에 도달하려면 수상 버스를 이용하고, 다채로운 거리를 산책하며 현지 해산물을 즐겨보세요. 탐험하고 멋진 사진을 촬영하기 위해 반일 여행이 이상적입니다.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "리알토 시장",
+          "type": "market",
+          "description": "리알토 시장은 지역 농산물, 해산물 및 베네치아 특산품의 활기찬 중심지입니다. 베네치아의 요리 문화를 경험하기에 완벽한 장소입니다. 아침에 방문하면 시장의 활기찬 모습을 제대로 볼 수 있습니다. 상인들로부터 맛있는 간식을 시식하며 1시간 정도 돌아다닐 여유를 가지세요.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Top Attractions à Venise 2026 — Billets, Conseils & Guide Complet",
+      "seo_description": "Explorez les meilleures attractions de Venise. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Venise.",
+      "page_intro": "Venise, connue pour ses canaux époustouflants et sa riche histoire, est une destination unique qui captive les visiteurs du monde entier. Avec ses gondoles emblématiques, son architecture magnifique et sa culture vibrante, la ville offre une expérience inoubliable. Explorez ses quartiers charmants, savourez une cuisine délicieuse et plongez-vous dans l'art et l'histoire qui définissent cet endroit magique.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "Basilique Saint-Marc",
+          "type": "temple",
+          "description": "Un chef-d'œuvre architectural, la Basilique Saint-Marc est célèbre pour ses mosaïques époustouflantes et son design complexe. Les visiteurs peuvent explorer son intérieur opulent et le célèbre Pala d'Oro. Il est recommandé de visiter tôt le matin pour éviter les foules, et une visite prend généralement environ une heure. N'oubliez pas d'admirer la vue depuis la terrasse !",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "Palais des Doges",
+          "type": "landmark",
+          "description": "Le Palais des Doges est un magnifique bâtiment gothique qui a servi de résidence au Doge de Venise. Les visiteurs peuvent explorer ses salles luxueuses, ses œuvres d'art impressionnantes et le célèbre Pont des Soupirs. Prévoyez au moins deux heures pour apprécier pleinement l'histoire et l'architecture. Des visites guidées sont disponibles pour une meilleure compréhension de son passé.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "Pont du Rialto",
+          "type": "landmark",
+          "description": "Le Pont du Rialto est l'un des monuments les plus emblématiques de Venise, offrant des vues imprenables sur le Grand Canal. C'est un excellent endroit pour prendre des photos et vivre l'ambiance animée du marché à proximité. Une visite rapide suffit pour apprécier les sites, mais restez un moment pour vous imprégner de l'ambiance vivante.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "Galerie de l'Accademia",
+          "type": "museum",
+          "description": "La Galerie de l'Accademia abrite la collection la plus vaste de peintures vénitiennes, présentant des œuvres de maîtres tels que Titien et Tintoret. Prévoyez au moins une heure pour explorer les belles galeries. Des guides audio sont disponibles pour enrichir votre expérience et votre compréhension des chefs-d'œuvre.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "Collection Peggy Guggenheim",
+          "type": "museum",
+          "description": "Ce musée d'art moderne est situé dans l'ancienne maison de la collectionneuse d'art Peggy Guggenheim. Il présente des œuvres d'artistes célèbres comme Picasso et Pollock. Une visite ici dure généralement environ deux heures, et le beau jardin est parfait pour une promenade paisible. N'oubliez pas de consulter les expositions temporaires également.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "Île de Burano",
+          "type": "district",
+          "description": "Connue pour ses maisons colorées et sa tradition de dentelle, l'île de Burano est une escapade pittoresque loin de la ville principale. Prenez un vaporetto pour rejoindre cette charmante île, où vous pourrez flâner dans les rues colorées et déguster des fruits de mer locaux. Une excursion d'une demi-journée est idéale pour explorer et capturer des photographies époustouflantes.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Marché de Rialto",
+          "type": "market",
+          "description": "Le Marché de Rialto est un hub vibrant de produits locaux, de fruits de mer et de spécialités vénitiennes. C'est l'endroit parfait pour découvrir la culture culinaire de Venise. Il est préférable de visiter le matin pour voir le marché en pleine effervescence. Accordez une heure pour flâner et déguster de délicieuses friandises proposées par les vendeurs.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en Venecia 2026 — Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones de Venecia. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Venecia.",
+      "page_intro": "Venecia, conocida por sus impresionantes canales y su rica historia, es un destino único que cautiva a visitantes de todo el mundo. Con sus icónicas góndolas, hermosa arquitectura y vibrante cultura, la ciudad ofrece una experiencia inolvidable. Explora sus encantadores vecindarios, disfruta de la deliciosa gastronomía y sumérgete en el arte y la historia que definen este lugar mágico.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "Basílica de San Marcos",
+          "type": "temple",
+          "description": "Una maravilla arquitectónica, la Basílica de San Marcos es famosa por sus impresionantes mosaicos y su diseño intrincado. Los visitantes pueden explorar su opulento interior y el icónico Pala d'Oro. Se recomienda visitar temprano en la mañana para evitar multitudes, y una visita suele durar alrededor de una hora. ¡No olvides admirar la vista desde la terraza!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "Palacio Ducal",
+          "type": "landmark",
+          "description": "El Palacio Ducal es un impresionante edificio gótico que sirvió como residencia del Dux de Venecia. Los visitantes pueden explorar sus lujosas habitaciones, impresionantes obras de arte y el famoso Puente de los Suspiros. Dedica al menos dos horas para apreciar completamente la historia y la arquitectura. Se ofrecen visitas guiadas para una comprensión más profunda de su pasado.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "Puente de Rialto",
+          "type": "landmark",
+          "description": "El Puente de Rialto es uno de los monumentos más emblemáticos de Venecia, ofreciendo impresionantes vistas del Gran Canal. Es un excelente lugar para fotos y para experimentar la animada atmósfera del mercado cercano. Una visita rápida es suficiente para disfrutar de los paisajes, pero quédate un rato para empaparte del ambiente animado.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "Galería de la Academia",
+          "type": "museum",
+          "description": "La Galería de la Academia alberga la colección más extensa de pintura veneciana, con obras de maestros como Tiziano y Tintoretto. Planea pasar al menos una hora explorando las hermosas galerías. Se encuentran disponibles guías de audio para mejorar tu experiencia y comprensión de las obras maestras.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "Colección Peggy Guggenheim",
+          "type": "museum",
+          "description": "Este museo de arte moderno se encuentra en la antigua casa de la coleccionista de arte Peggy Guggenheim. Presenta obras de artistas famosos como Picasso y Pollock. Una visita aquí suele durar alrededor de dos horas, y el hermoso jardín es perfecto para un paseo tranquilo. Asegúrate de revisar también las exposiciones temporales.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "Isla de Burano",
+          "type": "district",
+          "description": "Conocida por sus casas de colores brillantes y su tradición de encaje, la Isla de Burano es una escapada pintoresca de la ciudad principal. Toma un vaporetto para llegar a esta encantadora isla, donde puedes pasear por las coloridas calles y disfrutar de mariscos locales. Una excursión de medio día es ideal para explorar y capturar fotografías impresionantes.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercado de Rialto",
+          "type": "market",
+          "description": "El Mercado de Rialto es un vibrante centro de productos locales, mariscos y especialidades venecianas. Es el lugar perfecto para experimentar la cultura culinaria de Venecia. Visitar por la mañana es lo mejor para ver el mercado en plena actividad. Dedica una hora para pasear y probar algunas deliciosas golosinas de los vendedores.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Top Attractions in Venice 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Venice. Find opening hours, ticket prices and booking links for Venice's top landmarks.",
+      "page_intro": "Venice, known for its stunning canals and rich history, is a unique destination that captivates visitors from around the world. With its iconic gondolas, beautiful architecture, and vibrant culture, the city offers an unforgettable experience. Explore its charming neighborhoods, indulge in delicious cuisine, and immerse yourself in the art and history that define this magical place.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "St. Mark's Basilica",
+          "type": "temple",
+          "description": "An architectural marvel, St. Mark's Basilica is famous for its stunning mosaics and intricate design. Visitors can explore its opulent interior and the iconic Pala d'Oro. It is recommended to visit early in the morning to avoid crowds, and a visit typically takes about an hour. Don't forget to admire the view from the terrace!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "Doge's Palace",
+          "type": "landmark",
+          "description": "Doge's Palace is a stunning Gothic building that served as the residence of the Doge of Venice. Visitors can explore its lavish rooms, impressive artwork, and the famous Bridge of Sighs. Allocate at least two hours to fully appreciate the history and architecture. Guided tours are available for a deeper insight into its past.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "Rialto Bridge",
+          "type": "landmark",
+          "description": "The Rialto Bridge is one of Venice's most iconic landmarks, offering stunning views of the Grand Canal. It's a great spot for photos and to experience the bustling market atmosphere nearby. A quick visit is sufficient to enjoy the sights, but linger a while to soak in the lively ambiance.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "Gallerie dell'Accademia",
+          "type": "museum",
+          "description": "The Gallerie dell'Accademia houses the most extensive collection of Venetian painting, featuring works by masters such as Titian and Tintoretto. Plan to spend at least an hour exploring the beautiful galleries. Audio guides are available to enhance your experience and understanding of the masterpieces.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "Peggy Guggenheim Collection",
+          "type": "museum",
+          "description": "This modern art museum is set in the former home of art collector Peggy Guggenheim. It features works by famous artists like Picasso and Pollock. A visit here typically lasts around two hours, and the beautiful garden is perfect for a peaceful stroll. Be sure to check out the temporary exhibitions as well.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "Burano Island",
+          "type": "district",
+          "description": "Known for its brightly colored houses and lace-making tradition, Burano Island is a picturesque getaway from the main city. Take a vaporetto to reach this charming island, where you can stroll through the colorful streets and enjoy local seafood. A half-day trip is ideal for exploring and capturing stunning photographs.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Rialto Market",
+          "type": "market",
+          "description": "The Rialto Market is a vibrant hub of local produce, seafood, and Venetian specialties. It's the perfect place to experience the culinary culture of Venice. Visiting in the morning is best to see the market in full swing. Allow an hour to wander and sample some delicious treats from the vendors.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "वेनिस में शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
+      "seo_description": "वेनिस के सबसे अच्छे आकर्षणों का अन्वेषण करें। वेनिस के शीर्ष स्थलों के लिए खुलने के घंटे, टिकट की कीमतें और बुकिंग लिंक ढूंढें।",
+      "page_intro": "वेनिस, जो अपनी शानदार नहरों और समृद्ध इतिहास के लिए जाना जाता है, एक अनोखा गंतव्य है जो दुनिया भर के आगंतुकों को आकर्षित करता है। इसके प्रतीकात्मक गोंडोलास, सुंदर वास्तुकला और जीवंत संस्कृति के साथ, यह शहर एक अविस्मरणीय अनुभव प्रदान करता है। इसके आकर्षक पड़ोस का अन्वेषण करें, स्वादिष्ट व्यंजनों का आनंद लें, और इस जादुई स्थान को परिभाषित करने वाली कला और इतिहास में खुद को डुबो दें।",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "सेंट मार्क की बेसिलिका",
+          "type": "temple",
+          "description": "एक वास्तुशिल्प चमत्कार, सेंट मार्क की बेसिलिका अपने शानदार मोज़ाइक और जटिल डिज़ाइन के लिए प्रसिद्ध है। आगंतुक इसके भव्य आंतरिक भाग और प्रसिद्ध पाला ड'ओरो का अन्वेषण कर सकते हैं। भीड़ से बचने के लिए सुबह जल्दी जाने की सिफारिश की जाती है, और एक यात्रा में आमतौर पर लगभग एक घंटा लगता है। छत से दृश्य का आनंद लेना न भूलें!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "डोज़ का महल",
+          "type": "landmark",
+          "description": "डोज़ का महल एक शानदार गोथिक भवन है जो वेनिस के डोज़ का निवास स्थान था। आगंतुक इसके भव्य कमरों, प्रभावशाली कलाकृतियों और प्रसिद्ध सिग्स का पुल का अन्वेषण कर सकते हैं। इसके इतिहास और वास्तुकला की पूरी सराहना करने के लिए कम से कम दो घंटे का समय रखें। इसके अतीत की गहरी समझ के लिए मार्गदर्शित टूर उपलब्ध हैं।",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "रियाल्टो पुल",
+          "type": "landmark",
+          "description": "रियाल्टो पुल वेनिस के सबसे प्रतीकात्मक स्थलों में से एक है, जो ग्रैंड कैनाल के शानदार दृश्य पेश करता है। यह फोटोज के लिए एक शानदार जगह है और नजदीक के बाजार के माहौल का अनुभव करने के लिए। दृश्यों का आनंद लेने के लिए एक त्वरित दौरा पर्याप्त है, लेकिन जीवंत माहौल में थोड़ी देर रुकें।",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "गैलरी डेल्ल'एकेडेमिया",
+          "type": "museum",
+          "description": "गैलरी डेल्ल'एकेडेमिया में वेनिस चित्रकला का सबसे विस्तृत संग्रह है, जिसमें टिशियन और टिंटोरेट्टो जैसे मास्टरों के कार्य शामिल हैं। सुंदर गैलरियों की खोज करने के लिए कम से कम एक घंटा बिताने की योजना बनाएं। आपकी अनुभव और कृतियों की समझ को बढ़ाने के लिए ऑडियो गाइड उपलब्ध हैं।",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "पेगी गुगेनहाइम संग्रह",
+          "type": "museum",
+          "description": "यह आधुनिक कला संग्रहालय कला संग्राहक पेगी गुगेनहाइम के पूर्व निवास में स्थित है। इसमें पिकासो और पोलॉक जैसे प्रसिद्ध कलाकारों के कार्य शामिल हैं। यहां की यात्रा आमतौर पर लगभग दो घंटे की होती है, और सुंदर बगीचा शांति से टहलने के लिए आदर्श है। अस्थायी प्रदर्शनियों को देखना न भूलें।",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "बुरानो द्वीप",
+          "type": "district",
+          "description": "अपने रंग-बिरंगे घरों और लेस बनाने की परंपरा के लिए जाना जाने वाला, बुरानो द्वीप मुख्य शहर से एक चित्रात्मक getaway है। इस आकर्षक द्वीप पर पहुँचने के लिए एक वपोरटो लें, जहाँ आप रंगीन सड़कों पर टहल सकते हैं और स्थानीय समुद्री भोजन का आनंद ले सकते हैं। अन्वेषण और शानदार तस्वीरें कैद करने के लिए आधे दिन की यात्रा आदर्श है।",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "रियाल्टो मार्केट",
+          "type": "market",
+          "description": "रियाल्टो मार्केट स्थानीय उत्पादों, समुद्री भोजन और वेनिस की विशेषताओं का एक जीवंत हब है। यह वेनिस की पाक संस्कृति का अनुभव करने के लिए एकदम सही स्थान है। सुबह में दौरा करना सबसे अच्छा है ताकि आप बाजार को पूरी तरह से देख सकें। विक्रेताओं से कुछ स्वादिष्ट व्यंजनों का स्वाद लेने और घूमने के लिए एक घंटा निर्धारित करें।",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Veneza 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Veneza. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Veneza.",
+      "page_intro": "Veneza, conhecida por seus deslumbrantes canais e rica história, é um destino único que cativa visitantes de todo o mundo. Com seus icônicos gôndolas, bela arquitetura e cultura vibrante, a cidade oferece uma experiência inesquecível. Explore seus encantadores bairros, delicie-se com a deliciosa culinária e mergulhe na arte e na história que definem este lugar mágico.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "Basílica de São Marcos",
+          "type": "temple",
+          "description": "Uma maravilha arquitetônica, a Basílica de São Marcos é famosa por seus deslumbrantes mosaicos e design intrincado. Os visitantes podem explorar seu interior opulento e o icônico Pala d'Oro. É recomendado visitar cedo pela manhã para evitar multidões, e uma visita normalmente leva cerca de uma hora. Não se esqueça de admirar a vista do terraço!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "Palácio do Doge",
+          "type": "landmark",
+          "description": "O Palácio do Doge é um deslumbrante edifício gótico que serviu como residência do Doge de Veneza. Os visitantes podem explorar seus luxuosos quartos, impressionantes obras de arte e a famosa Ponte dos Suspiros. Reserve pelo menos duas horas para apreciar completamente a história e a arquitetura. Visitas guiadas estão disponíveis para um entendimento mais profundo de seu passado.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "Ponte de Rialto",
+          "type": "landmark",
+          "description": "A Ponte de Rialto é um dos marcos mais icônicos de Veneza, oferecendo vistas deslumbrantes do Grande Canal. É um ótimo lugar para fotos e para vivenciar a atmosfera movimentada do mercado nas proximidades. Uma visita rápida é suficiente para desfrutar das vistas, mas fique um pouco mais para absorver a atmosfera animada.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "Gallerie dell'Accademia",
+          "type": "museum",
+          "description": "As Gallerie dell'Accademia abrigam a coleção mais extensa de pintura veneziana, apresentando obras de mestres como Titian e Tintoretto. Planeje passar pelo menos uma hora explorando as belas galerias. Guias de áudio estão disponíveis para aprimorar sua experiência e compreensão das obras-primas.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "Coleção Peggy Guggenheim",
+          "type": "museum",
+          "description": "Este museu de arte moderna está situado na antiga casa da colecionadora de arte Peggy Guggenheim. Apresenta obras de artistas famosos como Picasso e Pollock. Uma visita aqui normalmente dura cerca de duas horas, e o lindo jardim é perfeito para um passeio tranquilo. Não se esqueça de conferir as exposições temporárias também.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "Ilha de Burano",
+          "type": "district",
+          "description": "Conhecida por suas casas coloridas e tradição de fabricação de renda, a Ilha de Burano é um refúgio pitoresco da cidade principal. Pegue um vaporetto para chegar a esta encantadora ilha, onde você pode passear pelas ruas coloridas e aproveitar os frutos do mar locais. Uma viagem de meio dia é ideal para explorar e capturar fotos deslumbrantes.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercado de Rialto",
+          "type": "market",
+          "description": "O Mercado de Rialto é um vibrante centro de produtos locais, frutos do mar e especialidades venezianas. É o lugar perfeito para experimentar a cultura culinária de Veneza. Visitar pela manhã é melhor para ver o mercado em plena atividade. Reserve uma hora para passear e experimentar algumas delícias dos vendedores.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في فينيسيا 2026 — التذاكر، النصائح والدليل الكامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في فينيسيا. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم فينيسيا.",
+      "page_intro": "فينيسيا، المعروفة بقنواتها الرائعة وتاريخها الغني، هي وجهة فريدة تأسر الزوار من جميع أنحاء العالم. مع قوارب الجندول الشهيرة، والهندسة المعمارية الجميلة، والثقافة النابضة بالحياة، تقدم المدينة تجربة لا تُنسى. استكشف أحيائها الساحرة، استمتع بالمأكولات اللذيذة واغمر نفسك في الفن والتاريخ الذي يحدد هذا المكان السحري.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "كنيسة سان ماركو",
+          "type": "temple",
+          "description": "تحفة معمارية، تعتبر كنيسة سان ماركو مشهورة بالفسيفساء الرائعة وتصميمها المعقد. يمكن للزوار استكشاف داخلها الفخم وPala d'Oro الأيقونية. يُوصى بالزيارة في وقت مبكر من الصباح لتجنب الحشود، وتستغرق الزيارة عادة حوالي ساعة. لا تنسَ الاستمتاع بالإطلالة من الشرفة!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "قصر الدوق",
+          "type": "landmark",
+          "description": "قصر الدوق هو مبنى قوطي رائع كان بمثابة إقامة لدوق فينيسيا. يمكن للزوار استكشاف غرفه الفاخرة، والأعمال الفنية الرائعة، وجسر الأنين الشهير. خصص ساعتين على الأقل لتقدير التاريخ والهندسة المعمارية بشكل كامل. تتوفر جولات إرشادية للحصول على فهم أعمق لماضيه.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "جسر ريالتو",
+          "type": "landmark",
+          "description": "جسر ريالتو هو واحد من أبرز المعالم في فينيسيا، ويقدم مناظر رائعة لقناة غراند. إنه مكان رائع لالتقاط الصور ولتجربة أجواء السوق النابضة بالحياة القريبة. زيارة سريعة تكفي للاستمتاع بالمشاهد، ولكن ابقَ قليلاً لتستمتع بالأجواء الحيوية.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "غاليريا ديل أكاديميا",
+          "type": "museum",
+          "description": "تحتوي غاليريا ديل أكاديميا على أكبر مجموعة من اللوحات الفينيسية، وتتميز بأعمال لأساتذة مثل تيتيان وتينتوريتو. خطط لقضاء ساعة على الأقل في استكشاف المعارض الجميلة. تتوفر أدلة صوتية لتعزيز تجربتك وفهمك للأعمال الفنية.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "مجموعة بيغي غوغنهايم",
+          "type": "museum",
+          "description": "يعد هذا المتحف للفن الحديث موجودًا في منزل جامع الفنون السابق بيغي غوغنهايم. ويضم أعمالًا لفنانين مشهورين مثل بيكاسو وبولك. عادة ما تستغرق الزيارة هنا حوالي ساعتين، والحديقة الجميلة مثالية لنزهة هادئة. تأكد من الاطلاع على المعارض المؤقتة أيضًا.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "جزيرة بورا",
+          "type": "district",
+          "description": "تشتهر جزيرة بورا بمنازلها الملونة وتقاليد صناعة الدانتيل، وهي وجهة رائعة بعيدًا عن المدينة الرئيسية. استقل قارب فابوريتو للوصول إلى هذه الجزيرة الساحرة، حيث يمكنك التجول في الشوارع الملونة والاستمتاع بالمأكولات البحرية المحلية. رحلة نصف يوم مثالية للاستكشاف والتقاط صور رائعة.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "سوق ريالتو",
+          "type": "market",
+          "description": "سوق ريالتو هو مركز نابض للمنتجات المحلية، والمأكولات البحرية، والتخصصات الفينيسية. إنه المكان المثالي لتجربة الثقافة الطهو في فينيسيا. يُفضل الزيارة في الصباح لرؤية السوق في ذروته. خصص ساعة للتجول وتذوق بعض الأطباق اللذيذة من البائعين.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ভেনিসের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "ভেনিসের সেরা আকর্ষণগুলি আবিষ্কার করুন। ভেনিসের শীর্ষ স্মৃতিসৌধগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "page_intro": "ভেনিস, যার চমৎকার খাল এবং সমৃদ্ধ ইতিহাসের জন্য পরিচিত, এটি একটি অনন্য গন্তব্য যা বিশ্বের বিভিন্ন স্থান থেকে দর্শকদের আকর্ষণ করে। এর আইকনিক গন্ডোলাস, সুন্দর স্থাপত্য এবং প্রাণবন্ত সংস্কৃতির সাথে, শহরটি একটি অবিস্মরণীয় অভিজ্ঞতা প্রদান করে। এর আকর্ষণীয় প্রতিবেশী অঞ্চলগুলি অন্বেষণ করুন, সুস্বাদু খাবারে প্রবেশ করুন এবং এই জাদুকরী স্থানটি সংজ্ঞায়িত করা শিল্প এবং ইতিহাসে নিজেকে ডুবিয়ে দিন।",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "সেন্ট মার্কের বাসিলিকা",
+          "type": "temple",
+          "description": "একটি স্থাপত্য বিস্ময়, সেন্ট মার্কের বাসিলিকা এর চমৎকার মোজাইক এবং জটিল ডিজাইনের জন্য বিখ্যাত। দর্শকরা এর উজ্জ্বল অভ্যন্তর এবং আইকনিক পালা ড'অরো অন্বেষণ করতে পারেন। ভিড় এড়াতে সকালে আগে যাওয়ার জন্য পরামর্শ দেওয়া হয়, এবং একটি দর্শন সাধারণত এক ঘণ্টার কাছাকাছি সময় নেয়। ছাদ থেকে দৃশ্যটি উপভোগ করতে ভুলবেন না!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "ডোজের প্রাসাদ",
+          "type": "landmark",
+          "description": "ডোজের প্রাসাদ একটি চমত্কার গোথিক ভবন যা ভেনিসের ডোজের বাসস্থান হিসাবে কাজ করেছিল। দর্শকরা এর বিলাসবহুল ঘর, চিত্তাকর্ষক শিল্পকর্ম এবং বিখ্যাত সিগসের ব্রিজটি অন্বেষণ করতে পারেন। ইতিহাস এবং স্থাপত্যের পুরোপুরি প্রশংসা করার জন্য অন্তত দুটি ঘণ্টা বরাদ্দ করুন। এর অতীতের গভীরতর বোঝার জন্য গাইডেড টুর উপলব্ধ।",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "রিয়াল্টো ব্রিজ",
+          "type": "landmark",
+          "description": "রিয়াল্টো ব্রিজ ভেনিসের সবচেয়ে আইকনিক স্থাপনাগুলির মধ্যে একটি, যা গ্র্যান্ড ক্যানালের অসাধারণ দৃশ্য উপস্থাপন করে। এটি ছবির জন্য একটি দুর্দান্ত স্থান এবং নিকটবর্তী বাজারের ব্যস্ত পরিবেশ অনুভব করার জন্য। দৃশ্যগুলি উপভোগ করার জন্য একটি দ্রুত সফর যথেষ্ট, তবে প্রাণবন্ত পরিবেশে কিছুক্ষণ সময় কাটাতে ভুলবেন না।",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "গ্যালারী ডেল্ল'অ্যাকাডেমিয়া",
+          "type": "museum",
+          "description": "গ্যালারী ডেল্ল'অ্যাকাডেমিয়া হল ভেনিসের চিত্রকলার সবচেয়ে বিস্তৃত সংগ্রহ, যেখানে টিশিয়ান এবং টিন্টোরেট্টো-এর মতো মাস্টারদের কাজ রয়েছে। সুন্দর গ্যালারিগুলি অন্বেষণ করতে অন্তত এক ঘন্টা ব্যয় করার পরিকল্পনা করুন। আপনার অভিজ্ঞতা এবং মাস্টারপিসগুলির বোঝাপড়া বাড়ানোর জন্য অডিও গাইড উপলব্ধ।",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "পেগি গুগেনহেইম সংগ্রহ",
+          "type": "museum",
+          "description": "এই আধুনিক শিল্পের জাদুঘরটি শিল্প সংগ্রাহক পেগি গুগেনহেইমের প্রাক্তন বাড়িতে অবস্থিত। এতে পিকাসো এবং পোলক-এর মতো বিখ্যাত শিল্পীদের কাজ রয়েছে। এখানে একটি সফর সাধারণত প্রায় দুই ঘন্টা সময় নেয়, এবং সুন্দর উদ্যানটি শান্তিপূর্ণ পদচারণার জন্য উপযুক্ত। অস্থায়ী প্রদর্শনীগুলি দেখার জন্য নিশ্চিত হন।",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "বুরানো দ্বীপ",
+          "type": "district",
+          "description": "এর উজ্জ্বল রঙের বাড়ি এবং লেস তৈরির ঐতিহ্যের জন্য পরিচিত, বুরানো দ্বীপ মূল শহর থেকে একটি চিত্রণীয় অবকাশ। এই আকর্ষণীয় দ্বীপে পৌঁছানোর জন্য একটি ভাপোরেটো নিন, যেখানে আপনি রঙিন রাস্তায় হাঁটতে পারেন এবং স্থানীয় সামুদ্রিক খাবারের স্বাদ নিতে পারেন। অন্বেষণ এবং চমত্কার ছবি তোলার জন্য আধা দিনের সফর আদর্শ।",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "রিয়াল্টো মার্কেট",
+          "type": "market",
+          "description": "রিয়াল্টো মার্কেট স্থানীয় পণ্য, সামুদ্রিক খাবার এবং ভেনিসের বিশেষত্বগুলির একটি প্রাণবন্ত কেন্দ্র। এটি ভেনিসের খাদ্য সংস্কৃতি অভিজ্ঞতা করার জন্য একটি নিখুঁত স্থান। সকালে দেখা করা সবচেয়ে ভাল যাতে আপনি বাজারটিকে সম্পূর্ণরূপে দেখতে পারেন। বিক্রেতাদের কাছ থেকে কিছু সুস্বাদু খাবারের স্বাদ নেওয়ার এবং ঘুরে বেড়ানোর জন্য একটি ঘণ্টা বরাদ্দ করুন।",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Главные достопримечательности Венеции 2026 — Билеты, советы и полный гид",
+      "seo_description": "Исследуйте лучшие достопримечательности Венеции. Найдите часы работы, цены на билеты и ссылки на бронирование для главных достопримечательностей Венеции.",
+      "page_intro": "Венеция, известная своими потрясающими каналами и богатой историей, является уникальным местом, которое привлекает посетителей со всего мира. С ее знаковыми гондолами, красивой архитектурой и яркой культурой город предлагает незабываемые впечатления. Исследуйте очаровательные районы, наслаждайтесь вкусной кухней и погружайтесь в искусство и историю, которые определяют это волшебное место.",
+      "items": [
+        {
+          "id": "st-marks-basilica",
+          "name": "Базилика Святого Марка",
+          "type": "temple",
+          "description": "Архитектурное чудо, базилика Святого Марка известна своими потрясающими мозаиками и сложным дизайном. Посетители могут исследовать ее роскошный интерьер и знаменитую Пала д'Оро. Рекомендуется приходить рано утром, чтобы избежать толп, а сам визит обычно занимает около часа. Не забудьте полюбоваться видом с террасы!",
+          "image_keyword": "St. Mark's Basilica",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "morning",
+          "klook_query": "St. Mark's Basilica tickets"
+        },
+        {
+          "id": "doges-palace",
+          "name": "Дворец дожей",
+          "type": "landmark",
+          "description": "Дворец дожей — это потрясающее готическое здание, которое служило резиденцией дожа Венеции. Посетители могут исследовать его роскошные комнаты, впечатляющие произведения искусства и знаменитый Мост вздохов. Выделите как минимум два часа, чтобы полностью оценить историю и архитектуру. Доступны экскурсии с гидом для более глубокого понимания его прошлого.",
+          "image_keyword": "Doge's Palace",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €25",
+          "best_time": "afternoon",
+          "klook_query": "Doge's Palace tickets"
+        },
+        {
+          "id": "rialto-bridge",
+          "name": "Мост Риальто",
+          "type": "landmark",
+          "description": "Мост Риальто — одна из самых знаковых достопримечательностей Венеции, предлагающая потрясающие виды на Гранд-канал. Это отличное место для фотографий и для того, чтобы ощутить атмосферу оживленного рынка неподалеку. Быстрый визит будет достаточен, чтобы насладиться видами, но задержитесь немного, чтобы впитать живую атмосферу.",
+          "image_keyword": "Rialto Bridge",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Rialto Bridge"
+        },
+        {
+          "id": "accademia-gallery",
+          "name": "Галерея Академии",
+          "type": "museum",
+          "description": "Галерея Академии хранит самую обширную коллекцию венецианской живописи, включая работы таких мастеров, как Тициан иTintoretto. Планируйте провести как минимум час, исследуя красивые галереи. Доступны аудиогиды для улучшения вашего опыта и понимания шедевров.",
+          "image_keyword": "Accademia Gallery",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "morning",
+          "klook_query": "Accademia Gallery tickets"
+        },
+        {
+          "id": "peggy-guggenheim-collection",
+          "name": "Коллекция Пегги Гуггенхайм",
+          "type": "museum",
+          "description": "Этот музей современного искусства расположен в бывшем доме коллекционера искусства Пегги Гуггенхайм. Здесь представлены работы таких известных художников, как Пикассо и Поллок. Посещение здесь обычно занимает около двух часов, а красивый сад идеально подходит для спокойной прогулки. Не забудьте также проверить временные выставки.",
+          "image_keyword": "Peggy Guggenheim Collection",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "afternoon",
+          "klook_query": "Peggy Guggenheim Collection tickets"
+        },
+        {
+          "id": "burano-island",
+          "name": "Остров Бурано",
+          "type": "district",
+          "description": "Известный своими ярко раскрашенными домами и традицией кружевоплетения, остров Бурано является живописным укрытием от главного города. Садитесь на вапоретто, чтобы добраться до этого очаровательного острова, где вы можете прогуляться по цветным улицам и насладиться местными морепродуктами. Полудневная поездка идеально подходит для изучения и захвата потрясающих фотографий.",
+          "image_keyword": "Burano Island",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Burano Island"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Рынок Риальто",
+          "type": "market",
+          "description": "Рынок Риальто — это оживленный центр местных продуктов, морепродуктов и венецианских деликатесов. Это идеальное место для того, чтобы узнать кулинарную культуру Венеции. Лучше всего посещать утром, чтобы увидеть рынок во всей красе. Выделите час, чтобы прогуляться и попробовать некоторые вкусные угощения от продавцов.",
+          "image_keyword": "Rialto Market",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Rialto Market"
+        }
+      ]
+    }
+  }
+}

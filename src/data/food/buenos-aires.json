@@ -1,0 +1,1145 @@
+{
+  "city_slug": "buenos-aires",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Buenos Aires 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Buenos Aires. From budget eats to fine dining — with booking links.",
+      "page_intro": "Buenos Aires is a food lover's paradise, blending rich culinary traditions with vibrant street food culture. From mouthwatering steaks and empanadas to delicious milanesa, the city's diverse cuisine reflects its European influences and local ingredients. Whether you're dining in upscale restaurants or sampling street food, Buenos Aires offers a unique gastronomic experience that captures the spirit of Argentina.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julio is a renowned steakhouse famous for its perfectly grilled Argentine beef. The ambiance is warm and inviting, making it a favorite among locals and tourists alike. Be sure to try their signature ribeye or the famous bife de chorizo. Prices range from $$ to $$$, depending on your selection.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perla is celebrated for its traditional Argentine pizza, offering a unique twist on the classic dish. Located in the heart of the city, this family-run establishment serves up delicious, cheesy slices that locals swear by. Expect a cozy atmosphere and prices around $ to $$.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Bolivar Street Market",
+          "type": "street_food",
+          "description": "Bolivar Street Market is a bustling hub that showcases the best of Buenos Aires' street food scene. Here, you can indulge in a variety of local delights, such as choripán (sausage sandwich) and empanadas, all while enjoying the vibrant atmosphere. Prices are budget-friendly, typically around $.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "La Avenida Food Truck Park",
+          "type": "night_market",
+          "description": "La Avenida Food Truck Park offers a diverse range of street food options from various vendors. You can find everything from tacos to gourmet burgers, all in a lively outdoor setting. It's perfect for a casual night out, with prices varying from $ to $$.",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Queso is a must-visit for cheese lovers, specializing in fresh, artisanal cheeses and local delicacies. You can sample a variety of cheeses paired with traditional accompaniments. The laid-back vibe and affordable prices make it a favorite among visitors.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "Café Tortoni is a historic café known for its charming ambiance and rich coffee culture. Enjoy a classic Argentine coffee paired with a delicious medialuna (croissant) while soaking in the artistic atmosphere. Prices are reasonable, typically around $.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "Mercado de San Telmo is a vibrant market filled with food stalls offering a variety of local specialties, from fresh produce to artisanal products. It's a great place to explore the culinary diversity of Buenos Aires. Prices vary, with many affordable options.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Sabor is famous for its homemade pasta and traditional Argentine dishes, providing an authentic dining experience. The cozy ambiance and friendly service make it a perfect spot for families and gatherings. Expect prices around $$.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "布宜诺斯艾利斯最佳美食 2026 — 顶级餐厅和街头美食指南",
+      "seo_description": "发现布宜诺斯艾利斯最好的餐厅、街头美食和当地特色。从经济实惠的餐点到精致的用餐 — 以及预订链接。",
+      "page_intro": "布宜诺斯艾利斯是美食爱好者的天堂，融合了丰富的烹饪传统与充满活力的街头美食文化。从令人垂涎的牛排和馅饼到美味的米兰尼斯，这座城市多样的美食反映了其欧洲影响和当地食材。无论是在高档餐厅用餐还是品尝街头美食，布宜诺斯艾利斯都提供了独特的美食体验，捕捉了阿根廷的精神。",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julio 是一家著名的牛排馆，以其完美烤制的阿根廷牛肉而闻名。这里的氛围温馨宜人，是当地人和游客的最爱。一定要尝试他们的招牌肋眼牛排或著名的香肠牛排。价格范围从 $$ 到 $$$，具体取决于您的选择。",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perla 以其传统的阿根廷比萨而闻名，提供经典菜肴的独特改良。位于市中心，这家家族经营的餐厅提供美味的奶酪比萨片，深受当地人喜爱。期待温馨的氛围，价格大约在 $ 到 $$ 之间。",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Bolivar Street Market",
+          "type": "street_food",
+          "description": "Bolivar Street Market 是一个热闹的中心，展示了布宜诺斯艾利斯街头美食的最佳选择。在这里，您可以享受各种当地美食，如香肠三明治和馅饼，同时享受充满活力的氛围。价格实惠，通常在 $ 左右。",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "La Avenida Food Truck Park",
+          "type": "night_market",
+          "description": "La Avenida Food Truck Park 提供来自各个摊贩的多样街头美食选择。您可以找到从塔可到美食汉堡的各种美食，所有这些都在一个热闹的户外环境中。它非常适合休闲的夜晚，价格从 $ 到 $$ 不等。",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Queso 是奶酪爱好者的必访之地，专注于新鲜的手工奶酪和当地美食。您可以品尝各种奶酪，并搭配传统配料。轻松的氛围和实惠的价格使其成为游客的最爱。",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "Café Tortoni 是一家历史悠久的咖啡馆，以其迷人的氛围和浓厚的咖啡文化而闻名。在享受经典的阿根廷咖啡时，搭配美味的 medialuna（羊角面包），沉浸在艺术氛围中。价格合理，通常在 $ 左右。",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "Mercado de San Telmo 是一个充满活力的市场，里面有许多食品摊位，提供各种当地特色，从新鲜农产品到手工艺品。这里是探索布宜诺斯艾利斯烹饪多样性的好地方。价格各异，许多选择都很实惠。",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Sabor 以其自制意大利面和传统阿根廷菜肴而闻名，提供真实的用餐体验。温馨的氛围和友好的服务使其成为家庭和聚会的理想场所。预计价格在 $$ 左右。",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "ブエノスアイレスのベストフード 2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "ブエノスアイレスの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "ブエノスアイレスは食の愛好家の楽園であり、豊かな料理の伝統と活気あるストリートフード文化が融合しています。口の中でとろけるステーキやエンパナーダ、美味しいミラネッサまで、この街の多様な料理は、ヨーロッパの影響と地元の食材を反映しています。高級レストランでの食事でも、ストリートフードを試しても、ブエノスアイレスはアルゼンチンの精神を捉えたユニークな美食体験を提供します。",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julioは、完璧に焼かれたアルゼンチンビーフで有名な名高いステーキハウスです。温かく招待する雰囲気があり、地元の人々や観光客に人気です。ぜひ、彼らのシグネチャーリブアイや有名なビーフ・デ・チョリソをお試しください。価格は選択に応じて$$から$$$です。",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perlaは、伝統的なアルゼンチンピザで知られ、クラシックな料理にユニークなひねりを提供しています。市の中心部に位置するこの家族経営の店では、地元の人々が愛してやまない、美味しくてチーズたっぷりのスライスを提供しています。居心地の良い雰囲気を期待し、価格は$から$$の範囲です。",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Bolivar Street Market",
+          "type": "street_food",
+          "description": "Bolivar Street Marketは、ブエノスアイレスのストリートフードシーンの最高を展示する賑やかなハブです。ここでは、チョリパン（ソーセージサンドイッチ）やエンパナーダなど、地元の美味しい料理を楽しむことができ、活気ある雰囲気を楽しむことができます。価格は予算に優しく、通常は$程度です。",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "La Avenida Food Truck Park",
+          "type": "night_market",
+          "description": "La Avenida Food Truck Parkは、さまざまなベンダーからの多様なストリートフードオプションを提供しています。タコスからグルメバーガーまで、すべてが賑やかな屋外の設定で見つかります。カジュアルな夜にぴったりで、価格は$から$$まで様々です。",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Quesoは、フレッシュで職人製のチーズと地元の珍味を専門とする、チーズ好きには必見のスポットです。伝統的な付け合わせと一緒にさまざまなチーズを試すことができます。リラックスした雰囲気と手頃な価格で、訪問者に人気です。",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "Café Tortoniは、魅力的な雰囲気と豊かなコーヒー文化で知られる歴史あるカフェです。クラシックなアルゼンチンコーヒーを、美味しいメディアルナ（クロワッサン）と一緒に楽しみながら、芸術的な雰囲気に浸ってください。価格は手頃で、通常は$程度です。",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "Mercado de San Telmoは、地元の特産品を提供する食品スタンドで賑わう活気ある市場です。新鮮な農産物から職人製品まで、ブエノスアイレスの料理の多様性を探求するのに最適な場所です。価格はさまざまで、多くの手頃な選択肢があります。",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Saborは、自家製のパスタと伝統的なアルゼンチン料理で有名で、authenticなダイニング体験を提供します。居心地の良い雰囲気とフレンドリーなサービスで、家族や集まりに最適なスポットです。価格は$$程度です。",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "부에노스아이레스 최고의 음식 2026 — 최고의 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "부에노스아이레스의 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 저렴한 음식부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "부에노스아이레스는 풍부한 요리 전통과 활기찬 길거리 음식 문화가 어우러진 음식 애호가의 천국입니다. 군침 도는 스테이크와 엠파나다부터 맛있는 밀라네사까지, 이 도시의 다양한 요리는 유럽의 영향을 반영하고 지역 재료를 활용합니다. 고급 레스토랑에서 식사를 하든 길거리 음식을 시식하든, 부에노스아이레스는 아르헨티나의 정신을 담은 독특한 미식 경험을 제공합니다.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julio는 완벽하게 구운 아르헨티나 소고기로 유명한 유명한 스테이크 하우스입니다. 아늑하고 초대하는 분위기로, 지역 주민과 관광객 모두에게 사랑받고 있습니다. 그들의 시그니처 리브아이 또는 유명한 비프 데 초리소를 꼭 시도해 보세요. 가격은 선택에 따라 $$에서 $$$까지 다양합니다.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perla는 전통 아르헨티나 피자로 유명하며, 클래식 요리에 독특한 변화를 제공합니다. 시내 중심부에 위치한 이 가족 운영의 식당은 지역 주민들이 사랑하는 맛있고 치즈가 가득한 슬라이스를 제공합니다. 아늑한 분위기를 기대하며, 가격은 대략 $에서 $$ 사이입니다.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Bolivar Street Market",
+          "type": "street_food",
+          "description": "Bolivar Street Market은 부에노스아이레스의 길거리 음식 장면의 최고를 보여주는 분주한 허브입니다. 여기에서는 초리판(소시지 샌드위치)과 엠파나다와 같은 다양한 지역 요리를 즐길 수 있으며, 활기찬 분위기를 만끽할 수 있습니다. 가격이 저렴하며 보통 $ 정도입니다.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "La Avenida Food Truck Park",
+          "type": "night_market",
+          "description": "La Avenida Food Truck Park는 다양한 공급업체의 다양한 길거리 음식 옵션을 제공합니다. 타코부터 고급 햄버거까지 모든 것을 활기찬 야외 환경에서 찾을 수 있습니다. 캐주얼한 저녁에 적합하며 가격은 $에서 $$까지 다양합니다.",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Queso는 신선하고 장인 치즈와 지역 별미를 전문으로 하며, 치즈 애호가에게 꼭 방문해야 할 곳입니다. 전통적인 반찬과 함께 다양한 치즈를 시식할 수 있습니다. 여유로운 분위기와 합리적인 가격으로 방문객들에게 인기가 많습니다.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "Café Tortoni는 매력적인 분위기와 풍부한 커피 문화로 유명한 역사적인 카페입니다. 클래식한 아르헨티나 커피를 맛있고 바삭한 메디알루나(크루아상)와 함께 즐기며 예술적인 분위기에 흠뻑 빠져보세요. 가격은 합리적이며 보통 $ 정도입니다.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "Mercado de San Telmo는 신선한 농산물부터 장인 제품까지 다양한 지역 특산품을 제공하는 식품 가판대로 가득한 활기찬 시장입니다. 부에노스아이레스의 요리 다양성을 탐험하기에 좋은 장소입니다. 가격은 다양하며 많은 저렴한 옵션이 있습니다.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Sabor는 수제 파스타와 전통 아르헨티나 요리로 유명하며, 진정한 다이닝 경험을 제공합니다. 아늑한 분위기와 친절한 서비스로 가족 및 모임에 완벽한 장소입니다. 가격은 $$ 정도입니다.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures nourritures à Buenos Aires 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Buenos Aires. Des plats économiques à la gastronomie fine — avec des liens de réservation.",
+      "page_intro": "Buenos Aires est un paradis pour les amateurs de gastronomie, mêlant riches traditions culinaires et culture de la street food dynamique. Des steaks juteux et empanadas aux délicieuses milanesa, la cuisine diversifiée de la ville reflète ses influences européennes et ses ingrédients locaux. Que vous dîniez dans des restaurants haut de gamme ou que vous goûtiez à la street food, Buenos Aires offre une expérience gastronomique unique qui capture l'esprit de l'Argentine.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julio est une célèbre steakhouse réputée pour son bœuf argentin parfaitement grillé. L'ambiance est chaleureuse et accueillante, ce qui en fait un favori parmi les locaux et les touristes. Assurez-vous d'essayer leur ribeye signature ou le fameux bife de chorizo. Les prix varient de $$ à $$$, selon votre sélection.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perla est célébrée pour sa pizza argentine traditionnelle, offrant une touche unique au plat classique. Située au cœur de la ville, cette entreprise familiale propose de délicieuses parts de pizza au fromage que les locaux jurent par. Attendez-vous à une atmosphère conviviale et à des prix autour de $ à $$.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Bolivar Street Market",
+          "type": "street_food",
+          "description": "Bolivar Street Market est un carrefour animé qui met en valeur le meilleur de la scène street food de Buenos Aires. Ici, vous pouvez vous adonner à une variété de délices locaux, tels que le choripán (sandwich de saucisse) et les empanadas, tout en profitant de l'atmosphère vibrante. Les prix sont abordables, généralement autour de $.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "La Avenida Food Truck Park",
+          "type": "night_market",
+          "description": "La Avenida Food Truck Park propose une gamme variée d'options de street food provenant de différents vendeurs. Vous pouvez trouver de tout, des tacos aux hamburgers gastronomiques, le tout dans un cadre de plein air animé. C'est parfait pour une soirée décontractée, avec des prix variant de $ à $$. ",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Queso est un incontournable pour les amateurs de fromage, spécialisé dans les fromages artisanaux frais et les délicatesses locales. Vous pouvez déguster une variété de fromages accompagnés d'accompagnements traditionnels. L'ambiance décontractée et les prix abordables en font un favori parmi les visiteurs.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "Café Tortoni est un café historique connu pour son ambiance charmante et sa riche culture du café. Profitez d'un café argentin classique accompagné d'une délicieuse medialuna (croissant) tout en vous imprégnant de l'atmosphère artistique. Les prix sont raisonnables, généralement autour de $.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "Mercado de San Telmo est un marché vibrant rempli de stands alimentaires proposant une variété de spécialités locales, des produits frais aux produits artisanaux. C'est un endroit idéal pour explorer la diversité culinaire de Buenos Aires. Les prix varient, avec de nombreuses options abordables.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Sabor est célèbre pour ses pâtes maison et ses plats argentins traditionnels, offrant une expérience culinaire authentique. L'ambiance chaleureuse et le service amical en font un endroit parfait pour les familles et les rassemblements. Attendez-vous à des prix autour de $$.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Buenos Aires 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Buenos Aires. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Buenos Aires es un paraíso para los amantes de la comida, que combina ricas tradiciones culinarias con una vibrante cultura de comida callejera. Desde jugosas parrillas y empanadas hasta deliciosas milanesas, la diversa cocina de la ciudad refleja sus influencias europeas y ingredientes locales. Ya sea que cene en restaurantes de alta gama o pruebe la comida callejera, Buenos Aires ofrece una experiencia gastronómica única que captura el espíritu de Argentina.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julio es una famosa parrilla conocida por su carne argentina perfectamente asada. El ambiente es cálido y acogedor, lo que la convierte en un favorito entre los locales y los turistas. Asegúrate de probar su ribeye o el famoso bife de chorizo. Los precios oscilan entre $$ y $$$, dependiendo de tu selección.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perla es famosa por su pizza argentina tradicional, ofreciendo un giro único en el plato clásico. Ubicado en el corazón de la ciudad, este establecimiento familiar sirve deliciosas porciones de pizza con queso que los locales adoran. Espera un ambiente acogedor y precios alrededor de $ a $$.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Bolivar Street Market",
+          "type": "street_food",
+          "description": "Bolivar Street Market es un bullicioso centro que exhibe lo mejor de la escena de comida callejera de Buenos Aires. Aquí, puedes disfrutar de una variedad de delicias locales, como choripán (sándwich de salchicha) y empanadas, todo mientras disfrutas de la vibrante atmósfera. Los precios son amigables con el presupuesto, típicamente alrededor de $.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "La Avenida Food Truck Park",
+          "type": "night_market",
+          "description": "La Avenida Food Truck Park ofrece una diversa gama de opciones de comida callejera de varios vendedores. Puedes encontrar de todo, desde tacos hasta hamburguesas gourmet, todo en un ambiente al aire libre animado. Es perfecto para una noche casual, con precios que varían de $ a $$.",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Queso es una visita obligada para los amantes del queso, especializado en quesos artesanales frescos y delicias locales. Puedes degustar una variedad de quesos acompañados de guarniciones tradicionales. La vibra relajada y los precios asequibles lo convierten en un favorito entre los visitantes.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "Café Tortoni es un café histórico conocido por su encantador ambiente y rica cultura del café. Disfruta de un café argentino clásico acompañado de una deliciosa medialuna (croissant) mientras te sumerges en la atmósfera artística. Los precios son razonables, típicamente alrededor de $.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "Mercado de San Telmo es un vibrante mercado lleno de puestos de comida que ofrecen una variedad de especialidades locales, desde productos frescos hasta productos artesanales. Es un gran lugar para explorar la diversidad culinaria de Buenos Aires. Los precios varían, con muchas opciones asequibles.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Sabor es famoso por su pasta casera y platos argentinos tradicionales, brindando una experiencia gastronómica auténtica. El ambiente acogedor y el servicio amable lo convierten en un lugar perfecto para familias y reuniones. Espera precios alrededor de $$.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Buenos Aires 2026 — Restoran Teratas & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran, makanan jalanan, dan spesial lokal terbaik di Buenos Aires. Dari makanan dengan anggaran hingga makan malam yang mewah — dengan tautan pemesanan.",
+      "page_intro": "Buenos Aires adalah surga bagi para pecinta makanan, menggabungkan tradisi kuliner yang kaya dengan budaya makanan jalanan yang hidup. Dari steak yang menggugah selera dan empanada hingga milanesa yang lezat, masakan beragam kota ini mencerminkan pengaruh Eropa dan bahan lokalnya. Baik Anda makan di restoran mewah atau mencicipi makanan jalanan, Buenos Aires menawarkan pengalaman gastronomi unik yang menangkap semangat Argentina.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julio adalah steakhouse terkenal yang terkenal dengan daging sapi Argentina yang dipanggang dengan sempurna. Suasana hangat dan mengundang menjadikannya favorit di kalangan penduduk lokal dan wisatawan. Pastikan untuk mencoba ribeye khas mereka atau bife de chorizo yang terkenal. Harga berkisar antara $$ hingga $$$, tergantung pilihan Anda.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perla terkenal dengan pizza Argentina tradisionalnya, menawarkan sentuhan unik pada hidangan klasik. Terletak di jantung kota, restoran keluarga ini menyajikan potongan pizza keju yang lezat yang sangat disukai oleh penduduk lokal. Harapkan suasana yang nyaman dan harga sekitar $ hingga $$.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Bolivar Street Market",
+          "type": "street_food",
+          "description": "Bolivar Street Market adalah pusat yang ramai yang menampilkan yang terbaik dari makanan jalanan Buenos Aires. Di sini, Anda dapat menikmati berbagai kelezatan lokal, seperti choripán (sandwich sosis) dan empanadas, sambil menikmati suasana yang hidup. Harganya ramah anggaran, biasanya sekitar $.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "La Avenida Food Truck Park",
+          "type": "night_market",
+          "description": "La Avenida Food Truck Park menawarkan berbagai pilihan makanan jalanan dari berbagai vendor. Anda dapat menemukan segalanya, dari taco hingga burger gourmet, semuanya dalam suasana luar ruangan yang ramai. Ini sempurna untuk malam santai, dengan harga bervariasi dari $ hingga $$.",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Queso adalah tempat yang wajib dikunjungi bagi pecinta keju, yang mengkhususkan diri dalam keju artisan segar dan kelezatan lokal. Anda dapat mencicipi berbagai keju yang dipadukan dengan pelengkap tradisional. Suasana santai dan harga yang terjangkau menjadikannya favorit di kalangan pengunjung.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "Café Tortoni adalah kafe bersejarah yang dikenal dengan suasana yang menawan dan budaya kopi yang kaya. Nikmati kopi Argentina klasik yang disajikan dengan medialuna (croissant) yang lezat sambil menikmati suasana artistik. Harganya terjangkau, biasanya sekitar $.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "Mercado de San Telmo adalah pasar yang ramai yang dipenuhi dengan stan makanan yang menawarkan berbagai spesial lokal, mulai dari produk segar hingga produk artisan. Ini adalah tempat yang bagus untuk menjelajahi keragaman kuliner Buenos Aires. Harga bervariasi, dengan banyak pilihan yang terjangkau.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Sabor terkenal dengan pasta buatan sendiri dan hidangan Argentina tradisional, memberikan pengalaman bersantap yang otentik. Suasana yang nyaman dan layanan yang ramah menjadikannya tempat yang sempurna untuk keluarga dan pertemuan. Harapkan harga sekitar $$.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "ब्यूनस आयर्स में बेहतरीन भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "ब्यूनस आयर्स में बेहतरीन रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "ब्यूनस आयर्स भोजन प्रेमियों का स्वर्ग है, जो समृद्ध पाक परंपराओं को जीवंत स्ट्रीट फूड संस्कृति के साथ जोड़ता है। मुंह में पानी लाने वाले स्टेक और एम्पानाडास से लेकर स्वादिष्ट मिलानेसा तक, शहर का विविध व्यंजन इसके यूरोपीय प्रभावों और स्थानीय सामग्रियों को दर्शाता है। चाहे आप उच्च श्रेणी के रेस्तरां में भोजन कर रहे हों या स्ट्रीट फूड का स्वाद ले रहे हों, ब्यूनस आयर्स एक अनूठा पाक अनुभव प्रदान करता है जो अर्जेंटीना की आत्मा को पकड़ता है।",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "डॉन जूलियो",
+          "type": "restaurant",
+          "description": "डॉन जूलियो एक प्रसिद्ध स्टेकहाउस है जो अपने सही से ग्रिल किए गए अर्जेंटीनी गोमांस के लिए प्रसिद्ध है। वातावरण गर्म और आमंत्रिक है, जो इसे स्थानीय लोगों और पर्यटकों के बीच पसंदीदा बनाता है। उनकी विशेष रिबेई या प्रसिद्ध बिफे डे चोरिज़ो का अवश्य प्रयास करें। कीमतें आपके चयन के आधार पर $$ से $$$ तक होती हैं।",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "ला पर्ला",
+          "type": "restaurant",
+          "description": "ला पर्ला अपने पारंपरिक अर्जेंटीनी पिज्जा के लिए प्रसिद्ध है, जो इस क्लासिक व्यंजन पर एक अनोखा ट्विस्ट देती है। शहर के दिल में स्थित, यह पारिवारिक स्वामित्व वाला प्रतिष्ठान स्वादिष्ट, चीसी स्लाइस परोसता है जिसे स्थानीय लोग पसंद करते हैं। आरामदायक वातावरण और कीमतें $ से $$ के आसपास होती हैं।",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "बोलिवर स्ट्रीट मार्केट",
+          "type": "street_food",
+          "description": "बोलिवर स्ट्रीट मार्केट एक हलचल भरा हब है जो ब्यूनस आयर्स के स्ट्रीट फूड दृश्य की बेहतरीन चीज़ें प्रदर्शित करता है। यहां, आप स्थानीय व्यंजनों का आनंद ले सकते हैं, जैसे कि चोरिपान (सॉसेज सैंडविच) और एम्पानाडास, सभी जीवंत वातावरण में। कीमतें बजट के अनुकूल हैं, आमतौर पर $ के आसपास।",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "ला एवेनिडा फूड ट्रक पार्क",
+          "type": "night_market",
+          "description": "ला एवेनिडा फूड ट्रक पार्क विभिन्न विक्रेताओं से स्ट्रीट फूड के विकल्पों की एक विविध श्रृंखला प्रदान करता है। आप यहां टाकोस से लेकर गोरमेट बर्गर तक सब कुछ पा सकते हैं, सभी एक जीवंत बाहरी सेटिंग में। यह एक आकस्मिक रात के लिए आदर्श है, कीमतें $ से $$ तक भिन्न होती हैं।",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "एल क्यूसो",
+          "type": "street_food",
+          "description": "एल क्यूसो पनीर प्रेमियों के लिए एक अवश्य देखने योग्य स्थान है, जो ताजे, शिल्प पनीर और स्थानीय व्यंजनों में विशेषता रखता है। आप पारंपरिक संगतों के साथ विभिन्न प्रकार के पनीर का स्वाद ले सकते हैं। आरामदायक माहौल और किफायती कीमतें इसे आगंतुकों के बीच पसंदीदा बनाती हैं।",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "कैफे टॉर्टोनी",
+          "type": "cafe",
+          "description": "कैफे टॉर्टोनी एक ऐतिहासिक कैफे है जो अपने आकर्षक वातावरण और समृद्ध कॉफी संस्कृति के लिए जाना जाता है। एक स्वादिष्ट मीडियालुना (क्रॉसेंट) के साथ एक क्लासिक अर्जेंटीनी कॉफी का आनंद लें जबकि कलात्मक वातावरण में डूबे रहें। कीमतें उचित हैं, आमतौर पर $ के आसपास।",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "मार्केडो डे सैन टेलमो",
+          "type": "food_market",
+          "description": "मार्केडो डे सैन टेलमो एक जीवंत बाजार है जिसमें खाद्य स्टॉल हैं जो ताजे उत्पादों से लेकर शिल्प उत्पादों तक विभिन्न स्थानीय विशेषताओं की पेशकश करते हैं। यह ब्यूनस आयर्स की पाक विविधता का पता लगाने के लिए एक शानदार स्थान है। कीमतें भिन्न होती हैं, जिसमें कई सस्ती विकल्प होते हैं।",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "एल साबोर",
+          "type": "restaurant",
+          "description": "एल साबोर अपने घरेलू पास्ता और पारंपरिक अर्जेंटीनी व्यंजनों के लिए प्रसिद्ध है, जो एक प्रामाणिक भोजन अनुभव प्रदान करता है। आरामदायक वातावरण और मैत्रीपूर्ण सेवा इसे परिवारों और gatherings के लिए एक आदर्श स्थान बनाती है। कीमतें $$ के आसपास होती हैं।",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Buenos Aires 2026 - Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Buenos Aires. Desde refeições econômicas até jantares requintados - com links de reserva.",
+      "page_intro": "Buenos Aires é um paraíso para os amantes da comida, combinando ricas tradições culinárias com uma vibrante cultura de comida de rua. De steaks suculentos e empanadas a deliciosas milanesas, a culinária diversificada da cidade reflete suas influências europeias e ingredientes locais. Quer você esteja jantando em restaurantes sofisticados ou experimentando comida de rua, Buenos Aires oferece uma experiência gastronômica única que captura o espírito da Argentina.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Don Julio",
+          "type": "restaurant",
+          "description": "Don Julio é uma famosa churrascaria famosa por sua carne argentina perfeitamente grelhada. O ambiente é acolhedor e convidativo, tornando-o um favorito entre os locais e turistas. Não deixe de experimentar o ribeye assinado ou o famoso bife de chorizo. Os preços variam de $$ a $$$, dependendo da sua escolha.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "La Perla",
+          "type": "restaurant",
+          "description": "La Perla é celebrada por sua pizza argentina tradicional, oferecendo uma reinterpretação única do prato clássico. Localizado no coração da cidade, este estabelecimento familiar serve deliciosas fatias de queijo que os locais juram. Espere uma atmosfera aconchegante e preços em torno de $ a $$.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Mercado de Rua Bolivar",
+          "type": "street_food",
+          "description": "O Mercado de Rua Bolivar é um centro movimentado que apresenta o melhor da cena de comida de rua de Buenos Aires. Aqui, você pode se deliciar com uma variedade de iguarias locais, como choripán (sanduíche de linguiça) e empanadas, tudo enquanto desfruta do ambiente vibrante. Os preços são acessíveis, geralmente em torno de $.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "Parque de Food Trucks La Avenida",
+          "type": "night_market",
+          "description": "O Parque de Food Trucks La Avenida oferece uma variedade diversificada de opções de comida de rua de vários vendedores. Você pode encontrar tudo, desde tacos a hambúrgueres gourmet, tudo em um ambiente animado ao ar livre. É perfeito para uma noite casual, com preços variando de $ a $$.",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "El Queso",
+          "type": "street_food",
+          "description": "El Queso é uma visita obrigatória para os amantes de queijo, especializado em queijos artesanais frescos e iguarias locais. Você pode experimentar uma variedade de queijos acompanhados de acompanhamentos tradicionais. O clima descontraído e os preços acessíveis o tornam um favorito entre os visitantes.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Café Tortoni",
+          "type": "cafe",
+          "description": "O Café Tortoni é um café histórico conhecido por seu ambiente encantador e rica cultura de café. Desfrute de um café argentino clássico acompanhado de uma deliciosa medialuna (croissant) enquanto absorve a atmosfera artística. Os preços são razoáveis, geralmente em torno de $.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Mercado de San Telmo",
+          "type": "food_market",
+          "description": "O Mercado de San Telmo é um mercado vibrante cheio de barracas de comida que oferecem uma variedade de especialidades locais, desde produtos frescos até produtos artesanais. É um ótimo lugar para explorar a diversidade culinária de Buenos Aires. Os preços variam, com muitas opções acessíveis.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "El Sabor",
+          "type": "restaurant",
+          "description": "El Sabor é famoso por sua massa caseira e pratos tradicionais argentinos, proporcionando uma experiência de jantar autêntica. O ambiente acolhedor e o atendimento amigável fazem dele um local perfeito para famílias e encontros. Espere preços em torno de $$.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في بوينس آيرس 2026 - أفضل المطاعم ودليل طعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في بوينس آيرس. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "بوينس آيرس هو جنة لعشاق الطعام، حيث يدمج بين التقاليد الطهي الغنية وثقافة طعام الشارع النابضة بالحياة. من شرائح اللحم اللذيذة والإمباناداس إلى ميلانيزا اللذيذة، تعكس المأكولات المتنوعة في المدينة تأثيراتها الأوروبية والمكونات المحلية. سواء كنت تتناول الطعام في المطاعم الراقية أو تتذوق طعام الشارع، تقدم بوينس آيرس تجربة غذائية فريدة تلتقط روح الأرجنتين.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "دون خوليو",
+          "type": "restaurant",
+          "description": "دون خوليو هو مطعم مشاوي مشهور معروف بلحمه الأرجنتيني المشوي بشكل مثالي. الجو دافئ وجذاب، مما يجعله مفضلًا بين السكان المحليين والسياح على حد سواء. تأكد من تجربة ضلع الخاص أو بيف دي تشوريسو الشهير. تتراوح الأسعار من $$ إلى $$$، اعتمادًا على اختيارك.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "لا بيرلا",
+          "type": "restaurant",
+          "description": "تشتهر لا بيرلا ببيتزا الأرجنتينية التقليدية، حيث تقدم لمسة فريدة على الطبق الكلاسيكي. تقع في قلب المدينة، يقدم هذا المطعم العائلي شرائح لذيذة مليئة بالجبن يقسم عليها السكان المحليون. توقع جوًا مريحًا وأسعارًا تتراوح من $ إلى $$.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "سوق بوليفار للشارع",
+          "type": "street_food",
+          "description": "سوق بوليفار للشارع هو مركز مزدحم يعرض أفضل ما في مشهد طعام الشارع في بوينس آيرس. هنا، يمكنك الاستمتاع بمجموعة متنوعة من الأطباق المحلية، مثل تشوريبان (ساندويتش النقانق) والإمباناداس، كل ذلك أثناء الاستمتاع بالجو النابض بالحياة. الأسعار مناسبة للميزانية، وعادة ما تكون حوالي $.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "حديقة شاحنات الطعام لا أفينيدا",
+          "type": "night_market",
+          "description": "تقدم حديقة شاحنات الطعام لا أفينيدا مجموعة متنوعة من خيارات طعام الشارع من بائعين مختلفين. يمكنك العثور على كل شيء من التاكو إلى البرغر الفاخر، كل ذلك في بيئة خارجية حيوية. إنه مثالي لليلة غير رسمية، مع أسعار تتراوح من $ إلى $$.",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "الجبن",
+          "type": "street_food",
+          "description": "الجبن هو مكان يجب زيارته لمحبي الجبن، حيث يتخصص في الأجبان المحلية والحرفية الطازجة. يمكنك تذوق مجموعة متنوعة من الأجبان مع المرافق التقليدية. تجعل الأجواء غير الرسمية والأسعار المعقولة منه مفضلًا بين الزوار.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "كافيه تورتوني",
+          "type": "cafe",
+          "description": "كافيه تورتوني هو مقهى تاريخي معروف بجوّه الساحر وثقافة القهوة الغنية. استمتع بفنجان قهوة أرجنتيني كلاسيكي مع ميديالونا لذيذة (كرواسون) بينما تستمتع بالأجواء الفنية. الأسعار معقولة، عادة حوالي $.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "سوق سان تيلمو",
+          "type": "food_market",
+          "description": "سوق سان تيلمو هو سوق نابض بالحياة مليء بأكشاك الطعام التي تقدم مجموعة متنوعة من التخصصات المحلية، من المنتجات الطازجة إلى المنتجات الحرفية. إنه مكان رائع لاستكشاف التنوع الغذائي في بوينس آيرس. تتفاوت الأسعار، مع العديد من الخيارات المعقولة.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "الطعم",
+          "type": "restaurant",
+          "description": "الطعم مشهور بمكروناته محلية الصنع والأطباق الأرجنتينية التقليدية، مما يوفر تجربة تناول طعام أصيلة. يجعل الجو المريح والخدمة الودية منه مكانًا مثاليًا للعائلات والتجمعات. توقع أسعارًا حوالي $$.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "বুয়েনাস আয়ার্সের সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তায় খাবার গাইড",
+      "seo_description": "বুয়েনাস আয়ার্সে সেরা রেস্তোরাঁ, রাস্তায় খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেট খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "page_intro": "বুয়েনাস আয়ার্স হল খাবার প্রেমীদের জন্য একটি স্বর্গ, যা সমৃদ্ধ খাদ্যপ্রণালী এবং প্রাণবন্ত রাস্তার খাবারের সংস্কৃতি মিশ্রিত করে। মুখরোচক স্টেক এবং এম্পানাডাস থেকে শুরু করে সুস্বাদু মিলানেসা, শহরের বৈচিত্র্যময় রন্ধনপ্রণালী এর ইউরোপীয় প্রভাব এবং স্থানীয় উপাদানগুলি প্রতিফলিত করে। আপনি উচ্চমানের রেস্তোরাঁয় খাবার খাচ্ছেন বা রাস্তায় খাবারের স্বাদ নিচ্ছেন, বুয়েনাস আয়ার্স একটি অনন্য গ্যাস্ট্রোনমিক অভিজ্ঞতা প্রদান করে যা আর্জেন্টিনার আত্মাকে ধারণ করে।",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "ডন জুলিও",
+          "type": "restaurant",
+          "description": "ডন জুলিও একটি বিখ্যাত স্টেকহাউস যা তার সঠিকভাবে গ্রিল করা আর্জেন্টিনার মাংসের জন্য পরিচিত। পরিবেশ উষ্ণ এবং আমন্ত্রণমূলক, যা এটিকে স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয় করে তোলে। তাদের স্বাক্ষর রিবেই বা বিখ্যাত বি-ফে ডে চোরিজো চেষ্টা করতে ভুলবেন না। দাম $$ থেকে $$$ পর্যন্ত হয়, আপনার নির্বাচনের উপর নির্ভর করে।",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "লা পেরলা",
+          "type": "restaurant",
+          "description": "লা পেরলা তার ঐতিহ্যগত আর্জেন্টাইন পিজ্জার জন্য পরিচিত, যা ক্লাসিক খাবারের একটি অনন্য মোড় দেয়। শহরের কেন্দ্রস্থলে অবস্থিত, এই পারিবারিক পরিচালিত প্রতিষ্ঠানটি সুস্বাদু, চীজযুক্ত স্লাইস পরিবেশন করে যা স্থানীয়রা শপথ করে। একটি আরামদায়ক পরিবেশ এবং $ থেকে $$ এর মধ্যে দাম প্রত্যাশা করুন।",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "বোলিভার স্ট্রিট মার্কেট",
+          "type": "street_food",
+          "description": "বোলিভার স্ট্রিট মার্কেট একটি ব্যস্ত কেন্দ্র যা বুয়েনাস আয়ার্সের রাস্তায় খাবারের দৃশ্যের সেরা উপস্থাপন করে। এখানে, আপনি স্থানীয় আনন্দগুলো উপভোগ করতে পারেন, যেমন চোরিপান (সসেজ স্যান্ডউইচ) এবং এম্পানাডাস, সবকিছুই প্রাণবন্ত পরিবেশে। দাম বাজেটের জন্য বন্ধুত্বপূর্ণ, সাধারণত $ এর কাছাকাছি।",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "লা এভেনিদা ফুড ট্রাক পার্ক",
+          "type": "night_market",
+          "description": "লা এভেনিদা ফুড ট্রাক পার্ক বিভিন্ন বিক্রেতাদের কাছ থেকে রাস্তায় খাবারের বিকল্পগুলির একটি বৈচিত্র্যময় পরিসর অফার করে। আপনি টাকোস থেকে গরম বুর্গার পর্যন্ত সবকিছু খুঁজে পেতে পারেন, সবকিছু একটি প্রাণবন্ত বহিরঙ্গন পরিবেশে। এটি একটি স্বাভাবিক রাতের জন্য উপযুক্ত, দাম $ থেকে $$ এর মধ্যে পরিবর্তিত হয়।",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "এল কুয়েসো",
+          "type": "street_food",
+          "description": "এল কুয়েসো পনির প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান, তাজা, শিল্পকলা পনির এবং স্থানীয় খাদ্যদ্রব্যে বিশেষজ্ঞ। আপনি ঐতিহ্যবাহী সহায়ক উপাদানের সাথে বিভিন্ন পনিরের স্বাদ নিতে পারেন। শিথিল পরিবেশ এবং সাশ্রয়ী দাম এটিকে দর্শকদের মধ্যে একটি প্রিয় করে তোলে।",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "ক্যাফে টর্টোনি",
+          "type": "cafe",
+          "description": "ক্যাফে টর্টোনি একটি ঐতিহাসিক ক্যাফে যা তার আকর্ষণীয় পরিবেশ এবং সমৃদ্ধ কফি সংস্কৃতির জন্য পরিচিত। একটি সুস্বাদু মিডিয়ালুনা (ক্রসেন্ট) দিয়ে একটি ক্লাসিক আর্জেন্টাইন কফির স্বাদ নিন যখন শিল্পী পরিবেশে ডুবে থাকবেন। দাম যুক্তিসঙ্গত, সাধারণত $ এর কাছাকাছি।",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "মার্কেডো ডে সান টেলমো",
+          "type": "food_market",
+          "description": "মার্কেডো ডে সান টেলমো একটি প্রাণবন্ত বাজার যা খাদ্য স্টলগুলিতে স্থানীয় বিশেষত্বের বিভিন্নতা অফার করে, তাজা পণ্য থেকে শুরু করে শিল্পকর্ম পর্যন্ত। এটি বুয়েনাস আয়ার্সের খাদ্য বৈচিত্র্য অন্বেষণের জন্য একটি দুর্দান্ত স্থান। দাম পরিবর্তিত হয়, অনেক সাশ্রয়ী মূল্যের বিকল্প সহ।",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "এল সাবর",
+          "type": "restaurant",
+          "description": "এল সাবর তার বাড়িতে তৈরি পাস্তা এবং ঐতিহ্যগত আর্জেন্টাইন খাবারের জন্য বিখ্যাত, একটি প্রকৃত খাবারের অভিজ্ঞতা প্রদান করে। আরামদায়ক পরিবেশ এবং বন্ধুত্বপূর্ণ পরিষেবা এটিকে পরিবারের এবং সমাবেশের জন্য একটি আদর্শ স্থান করে তোলে। দাম $ $ এর কাছাকাছি থাকে।",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Буэнос-Айресе 2026 - Топ-рестораны и путеводитель по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Буэнос-Айресе. От бюджетной еды до изысканных ужинов — со ссылками для бронирования.",
+      "page_intro": "Буэнос-Айрес — это рай для любителей еды, сочетающий богатые кулинарные традиции с яркой культурой уличной еды. От сочных стейков и эмпанадас до вкусной миланесы, разнообразная кухня города отражает его европейские влияния и местные ингредиенты. Будь то ужин в дорогих ресторанах или дегустация уличной еды, Буэнос-Айрес предлагает уникальный гастрономический опыт, который передаёт дух Аргентины.",
+      "items": [
+        {
+          "id": "don-tropezio",
+          "name": "Дон Хулио",
+          "type": "restaurant",
+          "description": "Дон Хулио — знаменитая мясная лавка, известная своим идеально приготовленным аргентинским мясом. Атмосфера тёплая и уютная, что делает это место любимым как среди местных жителей, так и среди туристов. Обязательно попробуйте их фирменный рибай или знаменитый бифе-де-чоризо. Цены варьируются от $$ до $$$, в зависимости от вашего выбора.",
+          "image_keyword": "Don Julio steakhouse",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Bife de chorizo",
+          "klook_query": "Don Julio reservation"
+        },
+        {
+          "id": "la-pertiga",
+          "name": "Ла Перла",
+          "type": "restaurant",
+          "description": "Ла Перла известна своей традиционной аргентинской пиццей, предлагая уникальный взгляд на классическое блюдо. Находясь в самом сердце города, это семейное заведение предлагает вкусные сырные кусочки, которые местные жители обожают. Ожидайте уютную атмосферу и цены от $ до $$.",
+          "image_keyword": "La Perla pizza",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Milanesa a la napolitana",
+          "klook_query": "La Perla booking"
+        },
+        {
+          "id": "street-food-bolivar",
+          "name": "Уличный рынок Боливара",
+          "type": "street_food",
+          "description": "Уличный рынок Боливара — это шумный центр, демонстрирующий лучшее уличной еды Буэнос-Айреса. Здесь вы можете насладиться разнообразием местных деликатесов, таких как чорипан (бутерброд с колбасой) и эмпанадас, наслаждаясь яркой атмосферой. Цены доступны, обычно около $.",
+          "image_keyword": "Bolivar Street Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Choripán",
+          "klook_query": "Bolivar Street Market food tour"
+        },
+        {
+          "id": "food-truck-la-venida",
+          "name": "Парк фудтраков Ла Авенидa",
+          "type": "night_market",
+          "description": "Парк фудтраков Ла Авенидa предлагает разнообразные варианты уличной еды от различных продавцов. Вы можете найти всё, от тако до гурманских бургеров, в живой открытой обстановке. Это идеально подходит для непринужденного вечера, цены варьируются от $ до $$.",
+          "image_keyword": "La Avenida Food Truck Park",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet burger",
+          "klook_query": "La Avenida Food Truck Park experience"
+        },
+        {
+          "id": "el-queso",
+          "name": "Эль Кесо",
+          "type": "street_food",
+          "description": "Эль Кесо — обязательное место для любителей сыра, специализирующееся на свежих, ремесленных сырах и местных деликатесах. Вы можете попробовать различные сыры в сочетании с традиционными дополнениями. Небольшая атмосфера и приемлемые цены делают его любимым среди посетителей.",
+          "image_keyword": "El Queso cheese stand",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Provoleta",
+          "klook_query": "El Queso cheese tasting"
+        },
+        {
+          "id": "cafe-ricci",
+          "name": "Кафе Тортони",
+          "type": "cafe",
+          "description": "Кафе Тортони — это историческое кафе, известное своей очаровательной атмосферой и богатой кофейной культурой. Наслаждайтесь классическим аргентинским кофе в сочетании с вкусной медийалуной (круассаном), погружаясь в художественную атмосферу. Цены разумные, обычно около $.",
+          "image_keyword": "Café Tortoni",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Medialuna",
+          "klook_query": "Café Tortoni visit"
+        },
+        {
+          "id": "el-mercado",
+          "name": "Рынок Сан-Тельмо",
+          "type": "food_market",
+          "description": "Рынок Сан-Тельмо — это яркий рынок с продовольственными лавками, предлагающий разнообразие местных деликатесов, от свежих продуктов до ремесленных изделий. Это отличное место для изучения кулинарного разнообразия Буэнос-Айреса. Цены различаются, многие доступные варианты.",
+          "image_keyword": "Mercado de San Telmo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Empanadas",
+          "klook_query": "Mercado de San Telmo tour"
+        },
+        {
+          "id": "el-sabor",
+          "name": "Эль Сабор",
+          "type": "restaurant",
+          "description": "Эль Сабор известен своей домашней пастой и традиционными аргентинскими блюдами, предлагая аутентичный опыт ужина. Уютная атмосфера и дружелюбное обслуживание делают его идеальным местом для семей и встреч. Ожидайте цены около $$.",
+          "image_keyword": "El Sabor restaurant",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Fugazzeta",
+          "klook_query": "El Sabor reservation"
+        }
+      ]
+    }
+  }
+}

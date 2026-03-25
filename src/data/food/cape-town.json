@@ -1,0 +1,1013 @@
+{
+  "city_slug": "cape-town",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Cape Town 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Cape Town. From budget eats to fine dining — with booking links.",
+      "page_intro": "Cape Town is a vibrant melting pot of cultures, which is beautifully reflected in its diverse food scene. From fine dining establishments showcasing local ingredients to bustling markets filled with street food vendors, the city offers something for every palate. Indulge in mouthwatering dishes that blend traditional flavors with contemporary twists, making your culinary adventure unforgettable.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "The Test Kitchen",
+          "type": "restaurant",
+          "description": "Renowned for its innovative approach to South African cuisine, The Test Kitchen offers a unique dining experience. The tasting menu features dishes crafted with seasonal ingredients, showcasing local flavors in unexpected ways. The atmosphere is chic and contemporary, making it perfect for a special occasion. Expect to spend around $$$ for a memorable meal.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "Beyond Restaurant",
+          "type": "restaurant",
+          "description": "Located in the heart of the city, Beyond Restaurant offers a delightful fusion of traditional and modern South African dishes. The warm ambiance and attentive service make it a favorite among locals and tourists alike. For a truly authentic experience, try their bobotie, a traditional spiced meat dish. Prices are reasonable at $$.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "Food Lovers Market",
+          "type": "street_food",
+          "description": "A bustling food market that offers a variety of local and international street food options. From fresh produce to gourmet street eats, Food Lovers Market is a paradise for foodies. Sample local favorites like biltong and boerewors rolls while enjoying the lively atmosphere. Prices vary, making it perfect for budget-friendly eats.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "Neighbourgoods Market",
+          "type": "night_market",
+          "description": "Every Saturday, the Neighbourgoods Market comes alive with local vendors offering a diverse range of food options. From artisanal pastries to gourmet street food, there’s something to satisfy every craving. The vibrant atmosphere and live music create a festive environment. Expect to spend around $ for a casual meal.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "La Colombe",
+          "type": "restaurant",
+          "description": "La Colombe is a multi-award-winning restaurant known for its exquisite fine dining experience. The seasonal tasting menu features beautifully plated dishes that highlight local ingredients with French influences. The elegant setting and exceptional service make it ideal for a romantic evening out. Expect to pay $$$ for this culinary journey.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "Cape Town Street Food",
+          "type": "street_food",
+          "description": "Experience the vibrant street food scene of Cape Town with a variety of delectable options. From bunny chow to koeksisters, the flavors are as diverse as the city itself. Street vendors can be found throughout the city, offering delicious and affordable meals. Prices range from $ to $$, perfect for a quick bite.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "The Hungry Harbour",
+          "type": "cafe",
+          "description": "Nestled by the waterfront, The Hungry Harbour is a charming café known for its fresh seafood and local dishes. With a relaxed atmosphere and stunning views, it’s the perfect spot for brunch or a casual lunch. Don’t miss their seafood platter, a delightful array of the freshest catches. Prices are moderate at $$.",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "開普敦最佳美食 2026 — 頂級餐廳及街頭美食指南",
+      "seo_description": "探索開普敦最好的餐廳、街頭美食和當地特色。從平價美食到高級餐飲 — 含訂位連結。",
+      "page_intro": "開普敦是一個充滿活力的文化熔爐，這在其多元的美食場景中得到了美麗的體現。從展示當地食材的高級餐廳到充滿街頭美食攤位的熱鬧市場，這座城市為每種口味提供了一些東西。沉醉於令人垂涎的菜餚，這些菜餚將傳統風味與當代創意相結合，使您的美食之旅難以忘懷。",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "試驗廚房",
+          "type": "restaurant",
+          "description": "以其對南非料理的創新方法而聞名，試驗廚房提供獨特的用餐體驗。品嚐菜單包括用季節性食材製作的菜餚，以意想不到的方式展示當地風味。氛圍時尚而現代，非常適合特殊場合。期待花費約 $$$ 來享受難忘的一餐。",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "超越餐廳",
+          "type": "restaurant",
+          "description": "位於城市中心的超越餐廳提供傳統與現代南非菜餚的美妙融合。溫馨的氛圍和周到的服務使其成為當地人和遊客的最愛。想要真正的正宗體驗，請嘗試他們的波博提（bobotie），這是一道傳統的香料肉菜。價格合理，約為 $$。",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "美食愛好者市場",
+          "type": "street_food",
+          "description": "一個熱鬧的食品市場，提供各種當地和國際街頭美食選擇。從新鮮農產品到美味的街頭小吃，美食愛好者市場是美食家的天堂。在享受熱鬧的氛圍時，品嚐當地的心頭好如乾肉（biltong）和南非香腸卷（boerewors rolls）。價格各異，非常適合預算友好的餐點。",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "鄰里好市集",
+          "type": "night_market",
+          "description": "每週六，鄰里好市集充滿活力，當地攤販提供各種各樣的食品選擇。從手工糕點到美味的街頭食物，這裡有滿足每種食慾的東西。充滿活力的氛圍和現場音樂創造了一種節日的環境。期待花費約 $ 享用輕鬆的餐點。",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "拉科隆布",
+          "type": "restaurant",
+          "description": "拉科隆布是一家多次獲獎的餐廳，以其精緻的高級用餐體驗而聞名。季節性品嚐菜單包括美麗擺盤的菜餚，突顯當地食材和法國風味。優雅的環境和卓越的服務使其成為浪漫約會的理想之地。期待為這次美食之旅支付 $$$。",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "開普敦街頭美食",
+          "type": "street_food",
+          "description": "體驗開普敦充滿活力的街頭美食場景，提供各種美味的選擇。從兔子包（bunny chow）到甜點（koeksisters），其風味與城市本身一樣多樣化。街頭攤販遍布整座城市，提供美味且價格實惠的餐點。價格範圍從 $ 到 $$，非常適合快速享用。",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "饑餓港口",
+          "type": "cafe",
+          "description": "坐落於海濱，饑餓港口是一家迷人的咖啡廳，以新鮮的海鮮和當地菜餚而聞名。輕鬆的氛圍和壯觀的景色，使其成為早午餐或輕鬆午餐的完美場所。不要錯過他們的海鮮拼盤，這是一道由最新鮮捕獲的海產組成的美味盛宴。價格適中，約為 $$。",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "ケープタウンのベストフード 2026 — トップレストランとストリートフードガイド",
+      "seo_description": "ケープタウンの最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい料理から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "ケープタウンは文化の活気あるメルティングポットであり、その多様な食文化に美しく反映されています。地元の食材を使用した高級レストランから、ストリートフードの屋台がひしめく賑やかな市場まで、街はすべての味覚に合う何かを提供します。伝統的な風味と現代的なひねりを融合させた口をうならせる料理に没頭し、あなたの料理の冒険を忘れられないものにしましょう。",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "ザ・テストキッチン",
+          "type": "restaurant",
+          "description": "南アフリカ料理への革新的なアプローチで知られるザ・テストキッチンは、ユニークなダイニング体験を提供します。テイスティングメニューには、季節の食材を使った料理が盛り込まれ、地元の風味が予想外の形で表現されています。シックで現代的な雰囲気が漂い、特別な occasion にぴったりです。記憶に残る食事に約 $$$ を期待してください。",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "ビヨンドレストラン",
+          "type": "restaurant",
+          "description": "市の中心に位置するビヨンドレストランは、伝統的な南アフリカ料理と現代的な料理の素晴らしい融合を提供します。温かい雰囲気と気配りの行き届いたサービスで、地元の人々や観光客に人気です。本当に本格的な体験をしたいなら、伝統的なスパイス肉料理「ボボティ」（bobotie）をお試しください。価格は合理的で、約 $$ です。",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "フードラバーズマーケット",
+          "type": "street_food",
+          "description": "地元および国際的なストリートフードの選択肢を提供する賑やかなフードマーケットです。新鮮な農産物からグルメなストリートフードまで、フードラバーズマーケットは食通の楽園です。活気ある雰囲気の中で、ビルトンやボーアウォースロールなどの地元の名物を味わいましょう。価格はさまざまで、予算に優しい食事に最適です。",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "ネイバーフッドグッズマーケット",
+          "type": "night_market",
+          "description": "毎週土曜日、ネイバーフッドグッズマーケットは地元のベンダーが多様な食の選択肢を提供し、活気に満ちています。アーティザナルペイストリーからグルメなストリートフードまで、すべての欲求を満たすものがあります。活気ある雰囲気とライブ音楽が楽しい環境を作り出します。カジュアルな食事には約 $ を期待してください。",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "ラ・コロンブ",
+          "type": "restaurant",
+          "description": "ラ・コロンブは、洗練された高級ダイニング体験で知られる受賞歴のあるレストランです。季節ごとのテイスティングメニューには、地元の食材をフランスの影響で美しく盛り付けた料理が含まれています。エレガントな設定と優れたサービスがあり、ロマンチックな夜に最適です。この料理の旅には約 $$$ を支払うことを期待してください。",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "ケープタウンストリートフード",
+          "type": "street_food",
+          "description": "ケープタウンの活気あるストリートフードシーンを体験し、多様な美味しい選択肢を楽しんでください。バニーチャウからクークスィスターズまで、風味は街そのものと同じくらい多様です。ストリートベンダーは市内各地に点在し、美味しくて手頃な食事を提供しています。価格は $ から $$ までで、手軽な食事に最適です。",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "ザ・ハングリー・ハーバー",
+          "type": "cafe",
+          "description": "ウォーターフロントに位置するザ・ハングリー・ハーバーは、新鮮なシーフードと地元料理で知られる魅力的なカフェです。リラックスした雰囲気と美しい景色があり、ブランチやカジュアルなランチに最適なスポットです。新鮮な魚介類の盛り合わせをお見逃しなく。価格は中程度で、約 $$ です。",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026 케이프타운 최고의 음식 — 최고의 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "케이프타운에서 최고의 레스토랑, 길거리 음식 및 지역 특산물을 발견하세요. 저렴한 음식부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "케이프타운은 다양한 문화가 어우러진 활기찬 도시로, 그 다채로운 음식 문화가 아름답게 반영되어 있습니다. 지역 재료를 선보이는 고급 레스토랑부터 길거리 음식 판매자가 가득한 분주한 시장까지, 도시에서는 모든 입맛에 맞는 무언가를 제공합니다. 전통적인 맛과 현대적인 변형이 어우러진 군침 도는 요리를 즐기며 잊을 수 없는 미식 여행을 만들어 보세요.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "테스트 키친",
+          "type": "restaurant",
+          "description": "남아프리카 요리에 대한 혁신적인 접근 방식으로 유명한 테스트 키친은 독특한 다이닝 경험을 제공합니다. 테이스팅 메뉴는 제철 재료로 만든 요리를 특징으로 하며, 예상치 못한 방식으로 지역의 맛을 강조합니다. 세련되고 현대적인 분위기로 특별한 날에 안성맞춤입니다. 기억에 남는 식사를 위해 약 $$$의 비용을 예상하세요.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "비욘드 레스토랑",
+          "type": "restaurant",
+          "description": "도시 중심부에 위치한 비욘드 레스토랑은 전통과 현대의 남아프리카 요리를 훌륭하게 융합한 곳입니다. 따뜻한 분위기와 세심한 서비스로 현지인과 관광객 모두에게 인기가 많습니다. 진정한 정통 경험을 원하신다면 그들의 전통 향신료 고기 요리인 보보티(bobotie)를 꼭 드셔보세요. 가격은 합리적이며 약 $$입니다.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "푸드 러버스 마켓",
+          "type": "street_food",
+          "description": "다양한 지역 및 국제 길거리 음식 옵션을 제공하는 활기찬 음식 시장입니다. 신선한 농산물부터 미식가 길거리 음식까지 푸드 러버스 마켓은 미식가의 천국입니다. 활기찬 분위기 속에서 비르통(biltong) 및 부에르보르스 롤(boerewors rolls)과 같은 지역 인기 음식을 맛보세요. 가격은 다양하여 예산 친화적인 식사에 적합합니다.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "이웃 상점 시장",
+          "type": "night_market",
+          "description": "매주 토요일, 이웃 상점 시장은 지역 상인들이 다양한 음식 옵션을 제공하며 활기를 띱니다. 장인의 페이스트리부터 미식가 길거리 음식까지 모든 욕구를 충족시킬 무언가가 있습니다. 활기찬 분위기와 라이브 음악이 축제 같은 환경을 만듭니다. 캐주얼한 식사를 위해 약 $를 예상하세요.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "라 콜롬브",
+          "type": "restaurant",
+          "description": "라 콜롬브는 정교한 고급 다이닝 경험으로 유명한 다수의 수상 경력이 있는 레스토랑입니다. 계절별 테이스팅 메뉴에는 프랑스의 영향을 받은 아름답게 플레이팅된 지역 재료가 포함되어 있습니다. 우아한 환경과 뛰어난 서비스로 로맨틱한 저녁에 이상적입니다. 이 미식 여행을 위해 약 $$$를 지불할 것으로 예상하세요.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "케이프타운 길거리 음식",
+          "type": "street_food",
+          "description": "케이프타운의 활기찬 길거리 음식 장면을 경험하고 다양한 맛있는 옵션을 즐겨보세요. 바니 차우(bunny chow)부터 쿡시스터(koeksisters)까지, 맛은 도시 자체만큼 다양합니다. 길거리 상인들은 도시 전역에 퍼져 있어 맛있고 저렴한 식사를 제공합니다. 가격은 $에서 $$까지 다양하여 간편한 식사에 적합합니다.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "더 헝리 하버",
+          "type": "cafe",
+          "description": "워터프론트에 위치한 더 헝리 하버는 신선한 해산물과 지역 요리로 유명한 매력적인 카페입니다. 편안한 분위기와 멋진 경관이 있어 브런치나 캐주얼한 점심에 완벽한 장소입니다. 가장 신선한 해산물로 구성된 해산물 플래터를 놓치지 마세요. 가격은 중간 정도로 약 $$입니다.",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures nourritures à Cape Town 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Cape Town. Des repas à petit budget à la gastronomie — avec des liens de réservation.",
+      "page_intro": "Cape Town est un carrefour vibrant de cultures, qui se reflète magnifiquement dans sa scène gastronomique diversifiée. Des établissements de haute cuisine mettant en valeur des ingrédients locaux aux marchés animés remplis de vendeurs de street food, la ville offre quelque chose pour tous les palais. Laissez-vous séduire par des plats succulents qui allient saveurs traditionnelles et touches contemporaines, rendant votre aventure culinaire inoubliable.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "The Test Kitchen",
+          "type": "restaurant",
+          "description": "Célèbre pour son approche innovante de la cuisine sud-africaine, The Test Kitchen offre une expérience culinaire unique. Le menu de dégustation propose des plats élaborés avec des ingrédients de saison, mettant en valeur les saveurs locales de manière inattendue. L'ambiance est chic et contemporaine, parfaite pour une occasion spéciale. Attendez-vous à dépenser environ $$$ pour un repas mémorable.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "Beyond Restaurant",
+          "type": "restaurant",
+          "description": "Situé au cœur de la ville, Beyond Restaurant propose une délicieuse fusion de plats sud-africains traditionnels et modernes. L'ambiance chaleureuse et le service attentif en font un favori parmi les habitants et les touristes. Pour une expérience vraiment authentique, essayez leur bobotie, un plat de viande épicé traditionnel. Les prix sont raisonnables, environ $$.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "Food Lovers Market",
+          "type": "street_food",
+          "description": "Un marché alimentaire animé qui propose une variété d'options de street food locales et internationales. Des produits frais aux plats de rue gastronomiques, le Food Lovers Market est un paradis pour les gourmets. Dégustez des spécialités locales comme le biltong et les rouleaux de boerewors tout en profitant de l'atmosphère animée. Les prix varient, ce qui le rend parfait pour des repas à petit budget.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "Neighbourgoods Market",
+          "type": "night_market",
+          "description": "Chaque samedi, le Neighbourgoods Market s'anime avec des vendeurs locaux offrant une large gamme d'options alimentaires. Des pâtisseries artisanales à la street food gastronomique, il y en a pour tous les goûts. L'atmosphère vibrante et la musique en direct créent un environnement festif. Attendez-vous à dépenser environ $ pour un repas décontracté.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "La Colombe",
+          "type": "restaurant",
+          "description": "La Colombe est un restaurant primé connu pour son expérience gastronomique raffinée. Le menu de dégustation saisonnier présente des plats joliment dressés qui mettent en valeur des ingrédients locaux avec des influences françaises. Le cadre élégant et le service exceptionnel en font un lieu idéal pour une soirée romantique. Attendez-vous à payer $$$ pour ce voyage culinaire.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "Cape Town Street Food",
+          "type": "street_food",
+          "description": "Découvrez la scène animée de la street food à Cape Town avec une variété d'options délicieuses. Du bunny chow aux koeksisters, les saveurs sont aussi diverses que la ville elle-même. Des vendeurs de rue peuvent être trouvés dans toute la ville, offrant des repas délicieux et abordables. Les prix varient de $ à $$, parfaits pour un repas rapide.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "The Hungry Harbour",
+          "type": "cafe",
+          "description": "Niché au bord de l'eau, The Hungry Harbour est un café charmant connu pour ses fruits de mer frais et ses plats locaux. Avec une atmosphère décontractée et une vue imprenable, c'est l'endroit idéal pour un brunch ou un déjeuner décontracté. Ne manquez pas leur plateau de fruits de mer, un assortiment délicieux des prises les plus fraîches. Les prix sont modérés, environ $$.",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "La mejor comida en Ciudad del Cabo 2026 — Guía de los mejores restaurantes y comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Ciudad del Cabo. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Ciudad del Cabo es un vibrante crisol de culturas, que se refleja maravillosamente en su diversa escena gastronómica. Desde restaurantes de alta cocina que destacan los ingredientes locales hasta mercados bulliciosos llenos de vendedores de comida callejera, la ciudad ofrece algo para todos los paladares. Déjate seducir por platos deliciosos que combinan sabores tradicionales con giros contemporáneos, haciendo de tu aventura culinaria algo inolvidable.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "The Test Kitchen",
+          "type": "restaurant",
+          "description": "Renombrado por su enfoque innovador de la cocina sudafricana, The Test Kitchen ofrece una experiencia gastronómica única. El menú de degustación presenta platos elaborados con ingredientes de temporada, mostrando sabores locales de maneras inesperadas. La atmósfera es elegante y contemporánea, perfecta para una ocasión especial. Espera gastar alrededor de $$$ para una comida memorable.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "Beyond Restaurant",
+          "type": "restaurant",
+          "description": "Ubicado en el corazón de la ciudad, Beyond Restaurant ofrece una deliciosa fusión de platos sudafricanos tradicionales y modernos. La cálida atmósfera y el servicio atento lo convierten en un favorito entre los locales y los turistas. Para una experiencia verdaderamente auténtica, prueba su bobotie, un plato de carne especiada tradicional. Los precios son razonables, alrededor de $$.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "Food Lovers Market",
+          "type": "street_food",
+          "description": "Un bullicioso mercado de alimentos que ofrece una variedad de opciones de comida callejera locales e internacionales. Desde productos frescos hasta delicias gourmet, Food Lovers Market es un paraíso para los amantes de la comida. Prueba favoritos locales como biltong y boerewors rolls mientras disfrutas de la animada atmósfera. Los precios varían, lo que lo hace perfecto para comidas económicas.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "Neighbourgoods Market",
+          "type": "night_market",
+          "description": "Cada sábado, el Neighbourgoods Market cobra vida con vendedores locales que ofrecen una amplia gama de opciones de alimentos. Desde repostería artesanal hasta comida callejera gourmet, hay algo para satisfacer cada antojo. La atmósfera vibrante y la música en vivo crean un ambiente festivo. Espera gastar alrededor de $ en una comida casual.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "La Colombe",
+          "type": "restaurant",
+          "description": "La Colombe es un restaurante galardonado conocido por su experiencia de alta cocina. El menú de degustación de temporada presenta platos bellamente presentados que destacan ingredientes locales con influencias francesas. El entorno elegante y el servicio excepcional lo convierten en el lugar ideal para una noche romántica. Espera pagar $$$ por este viaje culinario.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "Comida Callejera de Ciudad del Cabo",
+          "type": "street_food",
+          "description": "Experimenta la vibrante escena de comida callejera de Ciudad del Cabo con una variedad de opciones deliciosas. Desde bunny chow hasta koeksisters, los sabores son tan diversos como la ciudad misma. Los vendedores callejeros se pueden encontrar en toda la ciudad, ofreciendo comidas deliciosas y asequibles. Los precios oscilan entre $ y $$, perfectos para un bocado rápido.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "The Hungry Harbour",
+          "type": "cafe",
+          "description": "Ubicado junto al agua, The Hungry Harbour es un encantador café conocido por sus mariscos frescos y platos locales. Con una atmósfera relajada y vistas impresionantes, es el lugar perfecto para un brunch o un almuerzo casual. No te pierdas su plato de mariscos, una deliciosa variedad de las capturas más frescas. Los precios son moderados, alrededor de $$.",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Cape Town 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Cape Town. From budget eats to fine dining — with booking links.",
+      "page_intro": "Cape Town is a vibrant melting pot of cultures, which is beautifully reflected in its diverse food scene. From fine dining establishments showcasing local ingredients to bustling markets filled with street food vendors, the city offers something for every palate. Indulge in mouthwatering dishes that blend traditional flavors with contemporary twists, making your culinary adventure unforgettable.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "The Test Kitchen",
+          "type": "restaurant",
+          "description": "Renowned for its innovative approach to South African cuisine, The Test Kitchen offers a unique dining experience. The tasting menu features dishes crafted with seasonal ingredients, showcasing local flavors in unexpected ways. The atmosphere is chic and contemporary, making it perfect for a special occasion. Expect to spend around $$$ for a memorable meal.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "Beyond Restaurant",
+          "type": "restaurant",
+          "description": "Located in the heart of the city, Beyond Restaurant offers a delightful fusion of traditional and modern South African dishes. The warm ambiance and attentive service make it a favorite among locals and tourists alike. For a truly authentic experience, try their bobotie, a traditional spiced meat dish. Prices are reasonable at $$.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "Food Lovers Market",
+          "type": "street_food",
+          "description": "A bustling food market that offers a variety of local and international street food options. From fresh produce to gourmet street eats, Food Lovers Market is a paradise for foodies. Sample local favorites like biltong and boerewors rolls while enjoying the lively atmosphere. Prices vary, making it perfect for budget-friendly eats.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "Neighbourgoods Market",
+          "type": "night_market",
+          "description": "Every Saturday, the Neighbourgoods Market comes alive with local vendors offering a diverse range of food options. From artisanal pastries to gourmet street food, there’s something to satisfy every craving. The vibrant atmosphere and live music create a festive environment. Expect to spend around $ for a casual meal.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "La Colombe",
+          "type": "restaurant",
+          "description": "La Colombe is a multi-award-winning restaurant known for its exquisite fine dining experience. The seasonal tasting menu features beautifully plated dishes that highlight local ingredients with French influences. The elegant setting and exceptional service make it ideal for a romantic evening out. Expect to pay $$$ for this culinary journey.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "Cape Town Street Food",
+          "type": "street_food",
+          "description": "Experience the vibrant street food scene of Cape Town with a variety of delectable options. From bunny chow to koeksisters, the flavors are as diverse as the city itself. Street vendors can be found throughout the city, offering delicious and affordable meals. Prices range from $ to $$, perfect for a quick bite.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "The Hungry Harbour",
+          "type": "cafe",
+          "description": "Nestled by the waterfront, The Hungry Harbour is a charming café known for its fresh seafood and local dishes. With a relaxed atmosphere and stunning views, it’s the perfect spot for brunch or a casual lunch. Don’t miss their seafood platter, a delightful array of the freshest catches. Prices are moderate at $$.",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "केप टाउन में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "केप टाउन में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का अन्वेषण करें। बजट खाने से लेकर उच्च श्रेणी के भोजन तक - बुकिंग लिंक के साथ।",
+      "page_intro": "केप टाउन एक जीवंत सांस्कृतिक मिश्रण है, जो अपने विविध खाद्य दृश्य में खूबसूरती से परिलक्षित होता है। स्थानीय सामग्री को प्रदर्शित करने वाले उच्च श्रेणी के भोजनालयों से लेकर व्यस्त बाजारों तक, जहां स्ट्रीट फूड विक्रेता हैं, शहर हर स्वाद के लिए कुछ न कुछ पेश करता है। पारंपरिक स्वादों को समकालीन मोड़ के साथ मिश्रित करते हुए, स्वादिष्ट व्यंजनों का आनंद लें, जो आपकी पाक यात्रा को अविस्मरणीय बना देंगे।",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "द टेस्ट किचन",
+          "type": "restaurant",
+          "description": "दक्षिण अफ्रीकी व्यंजनों के प्रति अपने नवोन्मेषी दृष्टिकोण के लिए प्रसिद्ध, द टेस्ट किचन एक अनोखा खाने का अनुभव प्रदान करता है। चखने के मेनू में मौसमी सामग्री से बने व्यंजन शामिल हैं, जो स्थानीय स्वादों को अप्रत्याशित तरीकों से प्रदर्शित करते हैं। वातावरण ठाठ और समकालीन है, जो इसे विशेष अवसर के लिए आदर्श बनाता है। एक यादगार भोजन के लिए लगभग $$$ खर्च करने की उम्मीद करें।",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "बीयॉन्ड रेस्तरां",
+          "type": "restaurant",
+          "description": "शहर के दिल में स्थित, बीयॉन्ड रेस्तरां पारंपरिक और आधुनिक दक्षिण अफ्रीकी व्यंजनों का सुखद मिश्रण पेश करता है। गर्म वातावरण और सतर्क सेवा इसे स्थानीय लोगों और पर्यटकों के बीच पसंदीदा बनाती है। एक सच्चे प्रामाणिक अनुभव के लिए, उनके बोटे को आजमाएं, एक पारंपरिक मसालेदार मांस व्यंजन। कीमतें $$ पर उचित हैं।",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "फूड लवर्स मार्केट",
+          "type": "street_food",
+          "description": "एक हलचल वाला खाद्य बाजार जो स्थानीय और अंतरराष्ट्रीय स्ट्रीट फूड विकल्पों की विविधता प्रदान करता है। ताजे उत्पादों से लेकर उच्च श्रेणी के सड़क के खाने तक, फूड लवर्स मार्केट खाद्य प्रेमियों के लिए एक स्वर्ग है। जीवंत वातावरण का आनंद लेते हुए बॉल्टोंग और बोरवर्स रोल जैसे स्थानीय पसंदीदा का स्वाद लें। कीमतें भिन्न होती हैं, जो इसे बजट के अनुकूल खाने के लिए आदर्श बनाती हैं।",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "नेबरगुड्स मार्केट",
+          "type": "night_market",
+          "description": "हर शनिवार, नेबरगुड्स मार्केट जीवंत हो जाता है, जिसमें स्थानीय विक्रेता विविध खाद्य विकल्पों की पेशकश करते हैं। शिल्प पेस्ट्री से लेकर उच्च श्रेणी के स्ट्रीट फूड तक, हर क्रेविंग को संतुष्ट करने के लिए कुछ न कुछ है। जीवंत वातावरण और जीवित संगीत एक उत्सव का माहौल बनाते हैं। एक आकस्मिक भोजन के लिए लगभग $ खर्च करने की उम्मीद करें।",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "ला कोलम्ब",
+          "type": "restaurant",
+          "description": "ला कोलम्ब एक बहु-पुरस्कार विजेता रेस्तरां है जो अपने शानदार उच्च श्रेणी के भोजन के अनुभव के लिए जाना जाता है। मौसमी चखने का मेनू खूबसूरती से प्लेटेड व्यंजनों को प्रस्तुत करता है जो स्थानीय सामग्री को फ्रेंच प्रभावों के साथ उजागर करता है। सज्जित सेटिंग और असाधारण सेवा इसे रोमांटिक शाम के लिए आदर्श बनाती है। इस पाक यात्रा के लिए $$$ खर्च करने की अपेक्षा करें।",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "केप टाउन स्ट्रीट फूड",
+          "type": "street_food",
+          "description": "केप टाउन के जीवंत स्ट्रीट फूड दृश्य का अनुभव करें, जिसमें कई स्वादिष्ट विकल्प हैं। बनी चाउ से लेकर कोक्सिस्टर तक, स्वाद शहर की विविधता के रूप में विविध हैं। स्ट्रीट विक्रेता पूरे शहर में मिलते हैं, जो स्वादिष्ट और सस्ते भोजन की पेशकश करते हैं। कीमतें $ से $$ तक हैं, जो एक त्वरित नाश्ते के लिए आदर्श हैं।",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "द हंग्री हार्बर",
+          "type": "cafe",
+          "description": "जल辺 पर स्थित, द हंग्री हार्बर एक आकर्षक कैफे है जो अपने ताजे समुद्री भोजन और स्थानीय व्यंजनों के लिए जाना जाता है। आरामदायक वातावरण और शानदार दृश्य इसे बंच या आकस्मिक दोपहर के भोजन के लिए आदर्श स्थान बनाते हैं। उनके समुद्री भोजन प्लेटर का अनुभव न चूकें, जो ताजे कैच का एक सुखद मिश्रण है। कीमतें $$ पर मध्यम हैं।",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas na Cidade do Cabo 2026 — Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais na Cidade do Cabo. Desde refeições econômicas até refeições requintadas — com links de reserva.",
+      "page_intro": "A Cidade do Cabo é um vibrante caldeirão de culturas, refletido de forma bela em sua cena gastronômica diversificada. De estabelecimentos de alta gastronomia que exibem ingredientes locais a mercados movimentados repletos de vendedores de comida de rua, a cidade oferece algo para cada paladar. Delicie-se com pratos de dar água na boca que misturam sabores tradicionais com toques contemporâneos, tornando sua aventura culinária inesquecível.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "The Test Kitchen",
+          "type": "restaurant",
+          "description": "Reconhecido por sua abordagem inovadora à culinária sul-africana, o The Test Kitchen oferece uma experiência de jantar única. O menu de degustação apresenta pratos elaborados com ingredientes sazonais, destacando sabores locais de maneiras inesperadas. A atmosfera é chique e contemporânea, tornando-o perfeito para uma ocasião especial. Espere gastar cerca de $$$ por uma refeição memorável.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "Beyond Restaurant",
+          "type": "restaurant",
+          "description": "Localizado no coração da cidade, o Beyond Restaurant oferece uma deliciosa fusão de pratos tradicionais e modernos da África do Sul. O ambiente acolhedor e o atendimento atencioso fazem dele um favorito entre os locais e turistas. Para uma experiência verdadeiramente autêntica, experimente o seu bobotie, um prato tradicional de carne temperada. Os preços são razoáveis a $$.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "Food Lovers Market",
+          "type": "street_food",
+          "description": "Um mercado de comida movimentado que oferece uma variedade de opções de comida de rua local e internacional. De produtos frescos a iguarias de rua gourmet, o Food Lovers Market é um paraíso para os amantes da gastronomia. Experimente favoritos locais como biltong e rolinhos de boerewors enquanto desfruta da atmosfera animada. Os preços variam, tornando-o perfeito para refeições econômicas.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "Neighbourgoods Market",
+          "type": "night_market",
+          "description": "Todo sábado, o Neighbourgoods Market ganha vida com vendedores locais oferecendo uma ampla gama de opções de alimentos. De pastéis artesanais a comida de rua gourmet, há algo para satisfazer cada desejo. A atmosfera vibrante e a música ao vivo criam um ambiente festivo. Espere gastar cerca de $ por uma refeição casual.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "La Colombe",
+          "type": "restaurant",
+          "description": "La Colombe é um restaurante multi-premiado conhecido por sua requintada experiência de alta gastronomia. O menu de degustação sazonal apresenta pratos belamente apresentados que destacam ingredientes locais com influências francesas. O ambiente elegante e o serviço excepcional o tornam ideal para uma noite romântica. Espere pagar $$$ por esta jornada culinária.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "Cape Town Street Food",
+          "type": "street_food",
+          "description": "Experimente a vibrante cena da comida de rua da Cidade do Cabo com uma variedade de opções deliciosas. De bunny chow a koeksisters, os sabores são tão diversos quanto a própria cidade. Vendedores de rua podem ser encontrados por toda a cidade, oferecendo refeições deliciosas e acessíveis. Os preços variam de $ a $$, perfeito para um lanche rápido.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "The Hungry Harbour",
+          "type": "cafe",
+          "description": "Situado à beira-mar, o The Hungry Harbour é um café charmoso conhecido por seus frutos do mar frescos e pratos locais. Com uma atmosfera relaxante e vistas deslumbrantes, é o lugar perfeito para um brunch ou um almoço casual. Não perca o seu prato de frutos do mar, uma deliciosa variedade das capturas mais frescas. Os preços são moderados a $$.",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في كيب تاون 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في كيب تاون. من الأطعمة ذات الميزانية المحدودة إلى تناول الطعام الراقي - مع روابط الحجز.",
+      "page_intro": "كيب تاون هي بوتقة ثقافات نابضة بالحياة، تنعكس بشكل جميل في مشهدها الغذائي المتنوع. من المؤسسات الفاخرة التي تعرض المكونات المحلية إلى الأسواق المزدحمة المليئة ببائعي طعام الشارع، تقدم المدينة شيئًا لكل ذوق. استمتع بالأطباق الشهية التي تمزج النكهات التقليدية مع اللمسات المعاصرة، مما يجعل مغامرتك في الطهي لا تُنسى.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "المطبخ التجريبي",
+          "type": "restaurant",
+          "description": "معروف بنهجه المبتكر في المطبخ الجنوب أفريقي، يقدم المطبخ التجريبي تجربة تناول طعام فريدة. يقدم قائمة التذوق أطباقًا مصنوعة من مكونات موسمية، مما يبرز النكهات المحلية بطرق غير متوقعة. الأجواء أنيقة وعصرية، مما يجعلها مثالية للمناسبات الخاصة. توقع إنفاق حوالي $$$ لوجبة لا تُنسى.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "مطعم بيوند",
+          "type": "restaurant",
+          "description": "يقع في قلب المدينة، يقدم مطعم بيوند مزيجًا رائعًا من الأطباق التقليدية والحديثة من جنوب أفريقيا. تجعل الأجواء الدافئة والخدمة اليقظة منه مفضلًا بين السكان المحليين والسياح. للحصول على تجربة أصيلة حقًا، جرب البوبوتي، وهو طبق لحم متبل تقليدي. الأسعار معقولة عند $$.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "سوق عشاق الطعام",
+          "type": "street_food",
+          "description": "سوق طعام مزدحم يقدم مجموعة متنوعة من خيارات طعام الشارع المحلية والدولية. من المنتجات الطازجة إلى الأطعمة الشارعية الفاخرة، يعد سوق عشاق الطعام جنة لعشاق الطعام. تذوق المفضلات المحلية مثل البيلتونغ ولفائف البوريفورز بينما تستمتع بأجواء نابضة بالحياة. تتفاوت الأسعار، مما يجعله مثاليًا لتناول الطعام بميزانية محدودة.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "سوق الجيران",
+          "type": "night_market",
+          "description": "كل يوم سبت، يصبح سوق الجيران حيًا مع بائعين محليين يقدمون مجموعة متنوعة من خيارات الطعام. من المعجنات الحرفية إلى طعام الشارع الفاخر، هناك شيء يرضي كل شغف. تخلق الأجواء النابضة بالحياة والموسيقى الحية بيئة احتفالية. توقع إنفاق حوالي $ لوجبة غير رسمية.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "لا كولومب",
+          "type": "restaurant",
+          "description": "لا كولومب هو مطعم حائز على جوائز متعددة معروف بتجربة تناول الطعام الراقية. يقدم قائمة التذوق الموسمية أطباقًا مقدمة بشكل جميل تبرز المكونات المحلية مع لمسات فرنسية. يجعل الإعداد الأنيق والخدمة الاستثنائية المكان مثاليًا لقضاء ليلة رومانسية. توقع دفع $$$ لهذه الرحلة الطهي.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "طعام الشارع في كيب تاون",
+          "type": "street_food",
+          "description": "اختبر مشهد طعام الشارع النابض في كيب تاون مع مجموعة متنوعة من الخيارات اللذيذة. من باني تشاو إلى كوكسيستر، النكهات متنوعة مثل المدينة نفسها. يمكن العثور على بائعي الشارع في جميع أنحاء المدينة، يقدمون وجبات لذيذة وبأسعار معقولة. تتراوح الأسعار من $ إلى $$، مما يجعلها مثالية لقضاء وجبة سريعة.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "الميناء الجائع",
+          "type": "cafe",
+          "description": "يقع بجوار واجهة الماء، يُعرف الميناء الجائع بأنه مقهى ساحر معروف بمأكولاته البحرية الطازجة والأطباق المحلية. مع أجواء مريحة وإطلالات مذهلة، إنه المكان المثالي لتناول الغداء أو غداء غير رسمي. لا تفوت طبق المأكولات البحرية الخاص بهم، وهو مجموعة رائعة من أحدث الصيد. الأسعار معتدلة عند $$. ",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "কেপটাউনে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "কেপটাউনের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার - বুকিং লিঙ্কসহ।",
+      "page_intro": "কেপটাউন একটি প্রাণবন্ত সংস্কৃতির মিশ্রণ, যা এর বৈচিত্র্যময় খাদ্য দৃশ্যে সুন্দরভাবে প্রতিফলিত হয়। স্থানীয় উপাদানগুলি প্রদর্শনকারী উচ্চমানের প্রতিষ্ঠান থেকে শুরু করে ব্যস্ত বাজারে স্ট্রিট ফুড বিক্রেতাদের সাথে, শহরটি প্রতিটি স্বাদের জন্য কিছু না কিছু অফার করে। ঐতিহ্যবাহী স্বাদ এবং সমসাময়িক মোড়ের সংমিশ্রণে মুখরোচক খাবারের স্বাদ নিন, যা আপনার রন্ধনপ্রবাহকে অবিস্মরণীয় করে তুলবে।",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "দ্য টেস্ট কিচেন",
+          "type": "restaurant",
+          "description": "দক্ষিণ আফ্রিকার রন্ধনপ্রণালীর প্রতি তার উদ্ভাবনী দৃষ্টিভঙ্গির জন্য পরিচিত, দ্য টেস্ট কিচেন একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে। স্বাদের মেনুতে মৌসুমি উপাদান দিয়ে তৈরি বিভিন্ন খাবার রয়েছে, যা অপ্রত্যাশিত উপায়ে স্থানীয় স্বাদকে তুলে ধরে। পরিবেশটি শালীন এবং আধুনিক, যা বিশেষ উপলক্ষের জন্য এটি উপযুক্ত করে তোলে। একটি স্মরণীয় খাবারের জন্য প্রায় $$$ ব্যয় করার আশা করুন।",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "বিয়ন্ড রেস্তোরাঁ",
+          "type": "restaurant",
+          "description": "শহরের কেন্দ্রে অবস্থিত, বিয়ন্ড রেস্তোরাঁ ঐতিহ্যবাহী এবং আধুনিক দক্ষিণ আফ্রিকান খাবারের একটি আনন্দময় মিশ্রণ উপস্থাপন করে। উষ্ণ আবহাওয়া এবং যত্নশীল পরিষেবা এটিকে স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয় করে তোলে। একটি সত্যিকারের অরিজিনাল অভিজ্ঞতার জন্য, তাদের ববোটি চেষ্টা করুন, একটি ঐতিহ্যবাহী মশলাদার মাংসের খাবার। দামগুলি $$ এ যুক্তিসঙ্গত।",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "ফুড লাভার্স মার্কেট",
+          "type": "street_food",
+          "description": "একটি ব্যস্ত খাদ্য বাজার যা স্থানীয় এবং আন্তর্জাতিক স্ট্রিট ফুড বিকল্পের একটি বৈচিত্র্য প্রদান করে। তাজা উৎপাদন থেকে শুরু করে গৌরবময় স্ট্রিট খাবার, ফুড লাভার্স মার্কেট খাদ্যপ্রেমীদের জন্য একটি স্বর্গ। প্রাণবন্ত আবহাওয়া উপভোগ করার সময় স্থানীয় প্রিয় যেমন বেল্টং এবং বোরেভর্স রোলের স্বাদ নিন। দাম ভিন্ন, যা এটি বাজেট-বান্ধব খাবারের জন্য উপযুক্ত করে।",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "নেইবারগুডস মার্কেট",
+          "type": "night_market",
+          "description": "প্রতি শনিবার, নেইবারগুডস মার্কেট স্থানীয় বিক্রেতাদের সাথে জীবন্ত হয়ে ওঠে যারা খাবারের বিকল্পের একটি বিস্তৃত পরিসর প্রদান করে। শিল্প পেস্ট্রি থেকে শুরু করে গৌরবময় স্ট্রিট ফুড, এখানে প্রতিটি ক্রেভিং মেটানোর জন্য কিছু না কিছু রয়েছে। প্রাণবন্ত পরিবেশ এবং জীবন্ত সঙ্গীত একটি উৎসবের পরিবেশ তৈরি করে। একটি নির্জন খাবারের জন্য প্রায় $ ব্যয় করার আশা করুন।",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "লা কলম্ব",
+          "type": "restaurant",
+          "description": "লা কলম্ব হল একটি বহু-পুরস্কার বিজয়ী রেস্তোরাঁ যা এর চমৎকার উচ্চমানের খাবারের অভিজ্ঞতার জন্য পরিচিত। মৌসুমি স্বাদের মেনুতে সুন্দরভাবে প্লেট করা খাবার রয়েছে যা ফরাসি প্রভাবের সাথে স্থানীয় উপাদানকে হাইলাইট করে। ঐশ্বরিক পরিবেশ এবং অসাধারণ পরিষেবা এটিকে একটি রোমান্টিক সন্ধ্যার জন্য আদর্শ করে তোলে। এই রন্ধনপ্রবাহের জন্য আপনি $$$ ব্যয় করার আশা করতে পারেন।",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "কেপ টাউন স্ট্রিট ফুড",
+          "type": "street_food",
+          "description": "কেপটাউনের প্রাণবন্ত স্ট্রিট ফুড দৃশ্যের অভিজ্ঞতা নিন বিভিন্ন সুস্বাদু অপশনের সাথে। বানী চাউ থেকে শুরু করে কোএক্সিস্টারস পর্যন্ত, স্বাদগুলি শহরের মতোই বৈচিত্র্যময়। শহরের চারপাশে স্ট্রিট বিক্রেতাদের পাওয়া যায়, যারা সুস্বাদু এবং সস্তা খাবার সরবরাহ করে। দাম $ থেকে $$ পর্যন্ত, দ্রুত নাশতার জন্য উপযুক্ত।",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "থে হাঙ্গরি হার্বার",
+          "type": "cafe",
+          "description": "জলসীমার পাশে অবস্থিত, দ্য হাঙ্গরি হার্বার একটি মনোরম ক্যাফে যা তার তাজা সামুদ্রিক খাবার এবং স্থানীয় খাবারের জন্য পরিচিত। একটি স্বচ্ছন্দ পরিবেশ এবং চমৎকার দৃশ্যের সাথে, এটি ব্রাঞ্চ বা একটি অস্বাভাবিক লাঞ্চের জন্য উপযুক্ত স্থান। তাদের সামুদ্রিক খাবারের প্লেটটি মিস করবেন না, যা সবচেয়ে তাজা মাছের একটি আনন্দদায়ক বৈচিত্র্য। দামগুলি $$ এ মডারেট।",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Кейптауне 2026 — Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Кейптауне. От бюджетных блюд до изысканной кухни — ссылки для бронирования.",
+      "page_intro": "Кейптаун — это яркий плавильный котел культур, что прекрасно отражается в его разнообразной кулинарной сцене. От ресторанов высокой кухни, представляющих местные ингредиенты, до бурлящих рынков с уличными торговцами, город предлагает что-то на любой вкус. Наслаждайтесь восхитительными блюдами, которые объединяют традиционные вкусы с современными поворотами, делая ваше кулинарное приключение незабываемым.",
+      "items": [
+        {
+          "id": "the-test-kitchen",
+          "name": "The Test Kitchen",
+          "type": "restaurant",
+          "description": "Известный своим инновационным подходом к южноафриканской кухне, The Test Kitchen предлагает уникальный опыт ужина. Дегустационное меню включает блюда, приготовленные из сезонных ингредиентов, демонстрируя местные вкусы неожиданными способами. Атмосфера стильная и современная, что делает ее идеальной для особых случаев. Ожидайте потратить около $$$ за незабываемый ужин.",
+          "image_keyword": "The Test Kitchen Cape Town",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pork Belly",
+          "klook_query": "The Test Kitchen Cape Town"
+        },
+        {
+          "id": "beyond-restaurant",
+          "name": "Beyond Restaurant",
+          "type": "restaurant",
+          "description": "Расположенный в самом сердце города, Beyond Restaurant предлагает восхитительное сочетание традиционных и современных южноафриканских блюд. Уютная атмосфера и внимательное обслуживание делают его любимым как среди местных жителей, так и среди туристов. Для истинного аутентичного опыта попробуйте их боботи, традиционное пряное мясное блюдо. Цены разумные — около $$.",
+          "image_keyword": "Beyond Restaurant Cape Town",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bobotie",
+          "klook_query": "Beyond Restaurant Cape Town"
+        },
+        {
+          "id": "food-lovers-market",
+          "name": "Food Lovers Market",
+          "type": "street_food",
+          "description": "Шумный продуктовый рынок, предлагающий разнообразие местных и международных вариантов уличной еды. От свежих продуктов до гастрономического уличного питания, Food Lovers Market — это рай для гурманов. Попробуйте местные фавориты, такие как бильтонг и роллы с буреворсом, наслаждаясь живой атмосферой. Цены варьируются, что делает его идеальным для бюджетных закусок.",
+          "image_keyword": "Food Lovers Market Cape Town",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Biltong",
+          "klook_query": "Food Lovers Market Cape Town"
+        },
+        {
+          "id": "neighbourgoods-market",
+          "name": "Neighbourgoods Market",
+          "type": "night_market",
+          "description": "Каждую субботу рынок Neighbourgoods оживает с местными продавцами, предлагающими разнообразие гастрономических вариантов. От ремесленных пирожных до гастрономической уличной еды, здесь есть что-то на любой вкус. Яркая атмосфера и живая музыка создают праздник. Ожидайте потратить около $ за непринужденный обед.",
+          "image_keyword": "Neighbourgoods Market Cape Town",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Gourmet Hot Dog",
+          "klook_query": "Neighbourgoods Market Cape Town"
+        },
+        {
+          "id": "la-colombe",
+          "name": "La Colombe",
+          "type": "restaurant",
+          "description": "La Colombe — это многоразовый лауреат премий, известный своим изысканным ужином. Сезонное дегустационное меню включает в себя красиво оформленные блюда, которые подчеркивают местные ингредиенты с французскими влияниями. Элегантная обстановка и исключительное обслуживание делают его идеальным для романтического вечера. Ожидайте потратить $$$ за это кулинарное путешествие.",
+          "image_keyword": "La Colombe Cape Town",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Duck with Beetroot",
+          "klook_query": "La Colombe Cape Town"
+        },
+        {
+          "id": "cape-town-street-food",
+          "name": "Cape Town Street Food",
+          "type": "street_food",
+          "description": "Откройте для себя яркую уличную еду Кейптауна с разнообразием вкусных вариантов. От бани чау до кокси, вкусы так же разнообразны, как и сам город. Уличные торговцы разбросаны по всему городу, предлагая вкусные и доступные блюда. Цены варьируются от $ до $$, что делает их идеальными для быстрого перекуса.",
+          "image_keyword": "Cape Town Street Food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Bunny Chow",
+          "klook_query": "Cape Town Street Food Tour"
+        },
+        {
+          "id": "the-hungry-harbour",
+          "name": "The Hungry Harbour",
+          "type": "cafe",
+          "description": "Расположенный у воды, The Hungry Harbour — это очаровательное кафе, известное своим свежим морепродуктом и местными блюдами. С расслабляющей атмосферой и потрясающим видом, это идеальное место для бранча или непринужденного обеда. Не пропустите их морепродуктовую тарелку, восхитительное разнообразие самых свежих уловов. Цены умеренные — около $$.",
+          "image_keyword": "The Hungry Harbour Cape Town",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "The Hungry Harbour Cape Town"
+        }
+      ]
+    }
+  }
+}

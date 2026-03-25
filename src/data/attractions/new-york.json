@@ -1,0 +1,1097 @@
+{
+  "city_slug": "new-york",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in New York 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in New York. Find opening hours, ticket prices and booking links for New York's top landmarks.",
+      "page_intro": "New York City, often referred to as the Big Apple, is a vibrant metropolis known for its iconic skyline, rich history, and diverse culture. From the bustling streets of Manhattan to the serene beauty of Central Park, NYC offers a plethora of attractions that cater to every type of traveler. Whether you're an art enthusiast, a foodie, or a history buff, New York has something unforgettable waiting for you.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "Statue of Liberty",
+          "type": "landmark",
+          "description": "A symbol of freedom and democracy, the Statue of Liberty is a must-see attraction in New York. Take a ferry to Liberty Island to explore the statue and enjoy stunning views of the Manhattan skyline. Be sure to book your tickets in advance, especially if you want to access the pedestal or crown. Plan for a visit of about 2-3 hours.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "Central Park",
+          "type": "park",
+          "description": "Central Park is an urban oasis in the heart of Manhattan, perfect for a leisurely stroll or a picnic. With its sprawling lawns, serene lakes, and beautiful walking paths, it's an ideal escape from the city's hustle and bustle. You can spend hours exploring the park's many attractions, including the Bethesda Terrace and the Bow Bridge. Entry is free, but consider guided tours for deeper insights.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "The Metropolitan Museum of Art",
+          "type": "museum",
+          "description": "Home to an extensive collection of art from around the world, The Metropolitan Museum of Art is a cultural gem. Visitors can explore over 5,000 years of art, including works from ancient Egypt to modern American pieces. Allocate at least 3-4 hours for your visit and consider booking tickets online to skip the line. The museum often hosts special exhibitions, so check ahead for current events.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "Brooklyn Bridge",
+          "type": "landmark",
+          "description": "Connecting Manhattan and Brooklyn, the Brooklyn Bridge is not just a vital transportation route but also an architectural marvel. Walking across the 1.1-mile span offers breathtaking views of the skyline and the East River. It's best to visit during sunrise or sunset for stunning photo opportunities. The walk typically takes about 30-45 minutes.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "9/11 Memorial and Museum",
+          "type": "museum",
+          "description": "The 9/11 Memorial and Museum honors the victims of the September 11 attacks and provides a poignant look at that fateful day. Visitors can explore exhibits detailing the events and their aftermath. Plan to spend around 2 hours here and consider booking tickets in advance to avoid long waits. The atmosphere is solemn, encouraging reflection and remembrance.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "Chinatown is a vibrant neighborhood rich in culture and culinary delights. Explore the bustling streets filled with shops, restaurants, and markets offering authentic Asian cuisine. Don't miss the chance to try dim sum or shop for unique souvenirs. It's a lively area that can be enjoyed at any time, so take your time to soak in the sights and flavors.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "The High Line",
+          "type": "park",
+          "description": "The High Line is an elevated linear park built on a former railway line, offering a unique perspective of NYC. Visitors can enjoy beautifully landscaped gardens, art installations, and views of the Hudson River. It's an excellent spot for a leisurely stroll and a great way to experience the city from above. The park is free to enter and is best visited in the morning or early evening.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026 年紐約最佳景點 — 票務、提示及完整指南",
+      "seo_description": "探索紐約最佳景點。查找開放時間、票價和紐約頂級地標的預訂鏈接。",
+      "page_intro": "紐約市，常被稱為大蘋果，是一個充滿活力的大都市，以其標誌性的天際線、豐富的歷史和多元的文化而聞名。從繁忙的曼哈頓街道到中央公園的寧靜美景，紐約提供了豐富的景點，滿足各類旅客的需求。無論你是藝術愛好者、美食家還是歷史迷，紐約都有難忘的體驗在等待著你。",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "自由女神像",
+          "type": "landmark",
+          "description": "自由女神像是自由和民主的象徵，是紐約必看的景點。搭乘渡輪前往自由島，探索雕像並欣賞曼哈頓天際線的壯麗景色。務必提前預訂門票，特別是如果你想進入基座或皇冠。計劃約 2-3 小時的參觀時間。",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "中央公園",
+          "type": "park",
+          "description": "中央公園是曼哈頓心臟地帶的城市綠洲，非常適合悠閒散步或野餐。這裡擁有廣闊的草坪、寧靜的湖泊和美麗的步道，是逃離城市喧囂的理想場所。你可以花幾個小時探索公園內的眾多景點，包括貝塞斯達露台和拱橋。入園免費，但考慮參加導覽以獲得更深入的見解。",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "大都會藝術博物館",
+          "type": "museum",
+          "description": "大都會藝術博物館擁有來自世界各地的豐富藝術收藏，是一個文化瑰寶。遊客可以探索超過 5000 年的藝術，包括古埃及到現代美國作品。建議至少留出 3-4 小時參觀，並考慮在線預訂門票以跳過排隊。博物館經常舉辦特別展覽，因此請提前查看當前活動。",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "布魯克林大橋",
+          "type": "landmark",
+          "description": "布魯克林大橋連接曼哈頓和布魯克林，不僅是一條重要的交通路線，也是建築奇蹟。步行穿越 1.1 英里的橋面，可以欣賞到天際線和東河的壯觀景色。最佳參觀時間是在日出或日落時，以獲得驚人的拍照機會。步行通常需要約 30-45 分鐘。",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "911 紀念館與博物館",
+          "type": "museum",
+          "description": "911 紀念館與博物館紀念九一一事件的受害者，並提供對那個悲慘日子的深刻回顧。遊客可以探索詳述事件及其後果的展覽。計劃在此停留約 2 小時，並考慮提前預訂門票以避免長時間等候。這裡的氛圍莊重，鼓勵反思和紀念。",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "唐人街",
+          "type": "district",
+          "description": "唐人街是一個充滿活力的社區，擁有豐富的文化和美食。探索熱鬧的街道，這裡有商店、餐廳和市場，提供正宗的亞洲美食。千萬不要錯過品嚐點心或購買獨特的紀念品的機會。這是一個隨時都可以享受的熱鬧區域，所以慢慢享受這裡的景色和風味。",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "高線公園",
+          "type": "park",
+          "description": "高線公園是一個建在舊鐵路線上的高架線性公園，提供了紐約市的獨特視角。遊客可以欣賞到美麗的景觀花園、藝術裝置和哈德遜河的景色。這是一個悠閒散步的絕佳地點，並且是一種從高處體驗城市的好方式。公園免費入園，最佳參觀時間是在早晨或傍晚。",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年ニューヨークのトップアトラクション - チケット、ヒント、完全ガイド",
+      "seo_description": "ニューヨークの最高のアトラクションを探索しましょう。営業時間、チケット価格、ニューヨークの主要ランドマークの予約リンクを見つけてください。",
+      "page_intro": "ニューヨーク市、通称ビッグアップルは、アイコニックなスカイライン、豊かな歴史、多様な文化で知られる活気ある大都市です。マンハッタンの賑やかな通りからセントラルパークの静かな美しさまで、NYCはあらゆるタイプの旅行者に対応する多くのアトラクションを提供しています。アート愛好家、グルメ、歴史家のいずれであっても、ニューヨークには忘れられない体験が待っています。",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "自由の女神",
+          "type": "landmark",
+          "description": "自由の女神は自由と民主主義の象徴であり、ニューヨークの必見のアトラクションです。リバティ島へのフェリーに乗って、像を探索し、マンハッタンのスカイラインの素晴らしい景色を楽しんでください。特に基壇や冠にアクセスしたい場合は、事前にチケットを予約することを忘れないでください。訪問には約2〜3時間を計画してください。",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "セントラルパーク",
+          "type": "park",
+          "description": "セントラルパークはマンハッタンの中心にある都市のオアシスで、ゆったりと散歩したりピクニックをしたりするのに最適です。広大な芝生、静かな湖、美しい散歩道があり、都市の喧騒から逃れる理想的な場所です。ベセスダテラスやボウブリッジなど、公園内の数多くのアトラクションを探索するのに数時間を費やすことができます。入場は無料ですが、より深い理解を得るためにガイドツアーを検討してください。",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "メトロポリタン美術館",
+          "type": "museum",
+          "description": "メトロポリタン美術館は、世界中の豊富なアートコレクションを誇る文化的な宝石です。訪問者は、古代エジプトから現代アメリカの作品まで、5000年以上のアートを探索できます。訪問には少なくとも3〜4時間を確保し、オンラインでチケットを予約して行列をスキップすることを検討してください。美術館は特別展を頻繁に開催しているため、現在のイベントを事前に確認してください。",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "ブルックリンブリッジ",
+          "type": "landmark",
+          "description": "マンハッタンとブルックリンを結ぶブルックリンブリッジは、重要な交通路であるだけでなく、建築の驚異でもあります。1.1マイルの橋を歩くと、スカイラインとイーストリバーの素晴らしい景色が楽しめます。特に朝日や夕日が昇る時間は素晴らしい写真の機会があります。散歩には通常約30〜45分かかります。",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "9/11メモリアルと博物館",
+          "type": "museum",
+          "description": "9/11メモリアルと博物館は、9月11日の攻撃の犠牲者を追悼し、その運命の日を深く掘り下げています。訪問者は、出来事とその後の影響を詳細に説明した展示を探検できます。ここで約2時間を過ごす計画を立て、長い待ち時間を避けるために事前にチケットを予約することを検討してください。雰囲気は厳粛で、反省と記憶を促します。",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "チャイナタウン",
+          "type": "district",
+          "description": "チャイナタウンは文化と料理の喜びが豊かな活気ある地域です。店舗、レストラン、市場が立ち並ぶ賑やかな通りを探索し、本格的なアジア料理を楽しんでください。点心を試したり、ユニークな土産を買ったりする機会をお見逃しなく。いつでも楽しめる活気あるエリアで、景色や風味をじっくり味わってください。",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "ハイライン",
+          "type": "park",
+          "description": "ハイラインは旧鉄道線に作られた高架リニアパークで、NYCのユニークな視点を提供します。訪問者は、手入れの行き届いた庭園、アートインスタレーション、ハドソン川の景色を楽しむことができます。ゆったりと散歩するのに最適なスポットであり、上から都市を体験する素晴らしい方法です。公園は無料で入場でき、朝や夕方に訪れるのがベストです。",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 뉴욕 최고의 관광지 - 티켓, 팁 및 완벽 가이드",
+      "seo_description": "뉴욕 최고의 관광지를 탐험하세요. 운영 시간, 티켓 가격 및 뉴욕의 주요 랜드마크 예약 링크를 찾으세요.",
+      "page_intro": "뉴욕시는 종종 빅 애플이라고 불리며, 상징적인 스카이라인, 풍부한 역사 및 다양한 문화로 잘 알려진 활기찬 대도시입니다. 맨해튼의 분주한 거리에서 센트럴 파크의 고요한 아름다움까지, NYC는 모든 유형의 여행자를 위한 다양한 관광지를 제공합니다. 예술 애호가, 미식가 또는 역사 애호가라면 뉴욕에는 잊을 수 없는 경험이 기다리고 있습니다.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "자유의 여신상",
+          "type": "landmark",
+          "description": "자유의 여신상은 자유와 민주주의의 상징으로, 뉴욕의 필수 관광지입니다. 리버티 섬으로 가는 페리를 타고 동상을 탐험하고 맨해튼 스카이라인의 멋진 경치를 감상하세요. 특히 받침대나 왕관에 접근하고 싶다면 미리 티켓을 예약하세요. 약 2-3시간의 방문을 계획하세요.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "센트럴 파크",
+          "type": "park",
+          "description": "센트럴 파크는 맨해튼 중심부에 위치한 도시의 오아시스로, 여유롭게 산책하거나 소풍을 즐기기에 완벽합니다. 광활한 잔디밭, 고요한 호수, 아름다운 산책로가 있어 도시의 분주함에서 벗어날 수 있는 이상적인 장소입니다. 베데스다 테라스와 보우 다리 등 공원 내 여러 관광지를 탐험하는 데 몇 시간을 보낼 수 있습니다. 입장료는 무료지만, 더 깊이 있는 통찰력을 위해 가이드 투어를 고려해 보세요.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "메트로폴리탄 미술관",
+          "type": "museum",
+          "description": "메트로폴리탄 미술관은 전 세계의 방대한 예술 컬렉션을 소장하고 있는 문화적 보석입니다. 방문객들은 고대 이집트에서 현대 미국 작품까지 5,000년 이상의 예술을 탐험할 수 있습니다. 방문에는 최소 3-4시간을 할애하고, 줄을 피하기 위해 온라인으로 티켓을 예약하는 것을 고려하세요. 미술관은 자주 특별 전시를 개최하므로 현재 이벤트를 미리 확인하세요.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "브루클린 다리",
+          "type": "landmark",
+          "description": "맨해튼과 브루클린을 연결하는 브루클린 다리는 중요한 교통로일 뿐만 아니라 건축의 경이로움이기도 합니다. 1.1마일 길이의 다리를 걸으면 스카이라인과 이스트 리버의 멋진 경치를 감상할 수 있습니다. 특히 일출이나 일몰 시간에 방문하면 멋진 사진 기회를 얻을 수 있습니다. 걷는 데 보통 약 30-45분이 소요됩니다.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "9/11 기념관 및 박물관",
+          "type": "museum",
+          "description": "9/11 기념관 및 박물관은 9월 11일 공격의 희생자들을 기리며 그 운명적인 날을 깊이 있게 살펴봅니다. 방문객들은 사건 및 사건의 여파를 자세히 설명하는 전시를 탐험할 수 있습니다. 여기에서 약 2시간을 보낼 계획을 세우고 긴 대기를 피하기 위해 미리 티켓을 예약하는 것을 고려하세요. 분위기는 엄숙하며, 반성과 기억을 촉구합니다.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "차이나타운",
+          "type": "district",
+          "description": "차이나타운은 문화와 미식의 기쁨이 풍부한 활기찬 지역입니다. 상점, 레스토랑, 시장이 가득한 분주한 거리를 탐험하며 정통 아시아 요리를 즐기세요. 딤섬을 시도하거나 독특한 기념품을 쇼핑할 기회를 놓치지 마세요. 언제든지 즐길 수 있는 활기 넘치는 지역이므로, 경치와 맛을 천천히 음미하세요.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "하이라인",
+          "type": "park",
+          "description": "하이라인은 이전 철도 노선 위에 지어진 고가 선형 공원으로, NYC의 독특한 전망을 제공합니다. 방문객들은 아름답게 조경된 정원, 예술 설치물 및 하드슨 강의 경치를 즐길 수 있습니다. 여유롭게 산책하기에 좋은 장소이며, 위에서 도시를 경험하는 훌륭한 방법입니다. 공원은 무료로 입장할 수 있으며, 아침이나 저녁에 방문하는 것이 가장 좋습니다.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Attractions Principales à New York 2026 — Billets, Conseils & Guide Complet",
+      "seo_description": "Explorez les meilleures attractions de New York. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation des principaux monuments de New York.",
+      "page_intro": "La ville de New York, souvent appelée la Grande Pomme, est une métropole vibrante connue pour son horizon emblématique, sa riche histoire et sa culture diversifiée. Des rues animées de Manhattan à la beauté sereine de Central Park, NYC offre une pléthore d'attractions qui répondent à tous les types de voyageurs. Que vous soyez passionné d'art, gourmet ou amateur d'histoire, New York a quelque chose d'inoubliable qui vous attend.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "Statue de la Liberté",
+          "type": "landmark",
+          "description": "Symbole de liberté et de démocratie, la Statue de la Liberté est une attraction incontournable à New York. Prenez un ferry pour Liberty Island pour explorer la statue et profiter de vues imprenables sur l'horizon de Manhattan. Assurez-vous de réserver vos billets à l'avance, surtout si vous souhaitez accéder au piédestal ou à la couronne. Prévoyez environ 2 à 3 heures pour votre visite.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "Central Park",
+          "type": "park",
+          "description": "Central Park est une oasis urbaine au cœur de Manhattan, parfaite pour une promenade tranquille ou un pique-nique. Avec ses vastes pelouses, ses lacs sereins et ses magnifiques sentiers, c'est une échappatoire idéale à l'agitation de la ville. Vous pouvez passer des heures à explorer les nombreuses attractions du parc, y compris la terrasse Bethesda et le pont Bow. L'entrée est gratuite, mais envisagez des visites guidées pour des informations plus approfondies.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "Le Metropolitan Museum of Art",
+          "type": "museum",
+          "description": "Abritant une vaste collection d'œuvres d'art du monde entier, le Metropolitan Museum of Art est un joyau culturel. Les visiteurs peuvent explorer plus de 5 000 ans d'art, y compris des œuvres de l'Égypte ancienne aux pièces modernes américaines. Prévoyez au moins 3 à 4 heures pour votre visite et envisagez de réserver des billets en ligne pour éviter la file d'attente. Le musée accueille souvent des expositions spéciales, donc vérifiez à l'avance les événements en cours.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "Pont de Brooklyn",
+          "type": "landmark",
+          "description": "Connectant Manhattan et Brooklyn, le pont de Brooklyn n'est pas seulement une voie de transport essentielle, mais aussi une merveille architecturale. Marcher sur les 1,1 mile de long offre des vues à couper le souffle sur l'horizon et l'East River. Il est recommandé de visiter au lever ou au coucher du soleil pour des opportunités photographiques incroyables. La marche prend généralement environ 30 à 45 minutes.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "Mémorial et Musée du 11 septembre",
+          "type": "museum",
+          "description": "Le Mémorial et Musée du 11 septembre rend hommage aux victimes des attentats du 11 septembre et offre un regard poignant sur ce jour fatidique. Les visiteurs peuvent explorer des expositions détaillant les événements et leurs conséquences. Prévoyez environ 2 heures ici et envisagez de réserver des billets à l'avance pour éviter de longues attentes. L'atmosphère est solennelle, encourageant la réflexion et le souvenir.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "Chinatown est un quartier vibrant riche en culture et en délices culinaires. Explorez les rues animées remplies de magasins, de restaurants et de marchés proposant une cuisine asiatique authentique. Ne manquez pas l'occasion de déguster des dim sum ou d'acheter des souvenirs uniques. C'est un endroit animé qui peut être apprécié à tout moment, alors prenez le temps de savourer les sights et les saveurs.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "The High Line",
+          "type": "park",
+          "description": "The High Line est un parc linéaire surélevé construit sur une ancienne voie ferrée, offrant une perspective unique de NYC. Les visiteurs peuvent profiter de jardins paysagers magnifiques, d'installations artistiques et de vues sur la rivière Hudson. C'est un excellent endroit pour une promenade tranquille et un excellent moyen de découvrir la ville d'en haut. L'entrée du parc est gratuite et il est préférable de le visiter le matin ou en début de soirée.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en Nueva York 2026 — Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones de Nueva York. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales lugares de interés de Nueva York.",
+      "page_intro": "La ciudad de Nueva York, a menudo llamada la Gran Manzana, es una metrópoli vibrante conocida por su icónico horizonte, su rica historia y su diversa cultura. Desde las bulliciosas calles de Manhattan hasta la serena belleza de Central Park, NYC ofrece una plétora de atracciones que satisfacen a todo tipo de viajeros. Ya seas un entusiasta del arte, un amante de la comida o un aficionado a la historia, Nueva York tiene algo inolvidable esperándote.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "Estatua de la Libertad",
+          "type": "landmark",
+          "description": "Un símbolo de libertad y democracia, la Estatua de la Libertad es una atracción imperdible en Nueva York. Toma un ferry a Liberty Island para explorar la estatua y disfrutar de impresionantes vistas del horizonte de Manhattan. Asegúrate de reservar tus entradas con anticipación, especialmente si deseas acceder al pedestal o a la corona. Planifica una visita de aproximadamente 2 a 3 horas.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "Central Park",
+          "type": "park",
+          "description": "Central Park es un oasis urbano en el corazón de Manhattan, perfecto para un paseo tranquilo o un picnic. Con sus amplios céspedes, lagos serenos y hermosos senderos, es una escapatoria ideal del bullicio de la ciudad. Puedes pasar horas explorando las muchas atracciones del parque, incluyendo la terraza Bethesda y el puente Bow. La entrada es gratuita, pero considera las visitas guiadas para obtener información más profunda.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "El Museo Metropolitano de Arte",
+          "type": "museum",
+          "description": "Hogar de una extensa colección de arte de todo el mundo, el Museo Metropolitano de Arte es una joya cultural. Los visitantes pueden explorar más de 5,000 años de arte, incluyendo obras del antiguo Egipto a piezas modernas americanas. Dedica al menos 3 a 4 horas para tu visita y considera reservar entradas en línea para evitar la fila. El museo a menudo alberga exposiciones especiales, así que revisa con anticipación los eventos actuales.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "Puente de Brooklyn",
+          "type": "landmark",
+          "description": "Conectando Manhattan y Brooklyn, el Puente de Brooklyn no solo es una ruta de transporte vital, sino también una maravilla arquitectónica. Caminar a través de los 1.1 millas ofrece vistas impresionantes del horizonte y del East River. Es mejor visitarlo durante el amanecer o el atardecer para obtener increíbles oportunidades fotográficas. La caminata suele tomar entre 30 y 45 minutos.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "Memorial y Museo del 11 de Septiembre",
+          "type": "museum",
+          "description": "El Memorial y Museo del 11 de Septiembre rinde homenaje a las víctimas de los ataques del 11 de septiembre y ofrece una mirada conmovedora a ese día fatídico. Los visitantes pueden explorar exposiciones que detallan los eventos y sus consecuencias. Planifica pasar alrededor de 2 horas aquí y considera reservar entradas con anticipación para evitar largas esperas. La atmósfera es solemne, fomentando la reflexión y el recuerdo.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "Chinatown es un vecindario vibrante rico en cultura y delicias culinarias. Explora las bulliciosas calles llenas de tiendas, restaurantes y mercados que ofrecen auténtica cocina asiática. No te pierdas la oportunidad de probar dim sum o comprar souvenirs únicos. Es una zona animada que se puede disfrutar en cualquier momento, así que tómate tu tiempo para absorber los paisajes y sabores.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "The High Line",
+          "type": "park",
+          "description": "The High Line es un parque lineal elevado construido sobre una antigua línea ferroviaria, que ofrece una perspectiva única de NYC. Los visitantes pueden disfrutar de hermosos jardines paisajísticos, instalaciones artísticas y vistas del río Hudson. Es un excelente lugar para un paseo tranquilo y una gran manera de experimentar la ciudad desde arriba. La entrada al parque es gratuita y es mejor visitarlo por la mañana o al atardecer.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Atraksi Teratas di New York 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_description": "Jelajahi atraksi terbaik di New York. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark teratas di New York.",
+      "page_intro": "Kota New York, sering disebut sebagai Big Apple, adalah metropolis yang ramai dikenal dengan garis langitnya yang ikonik, sejarah yang kaya, dan budaya yang beragam. Dari jalan-jalan ramai Manhattan hingga keindahan tenang Central Park, NYC menawarkan banyak atraksi yang cocok untuk setiap jenis pelancong. Apakah Anda seorang penggemar seni, pecinta kuliner, atau penggemar sejarah, New York memiliki sesuatu yang tak terlupakan menunggu Anda.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "Patung Liberty",
+          "type": "landmark",
+          "description": "Sebagai simbol kebebasan dan demokrasi, Patung Liberty adalah atraksi yang wajib dikunjungi di New York. Naik feri ke Liberty Island untuk menjelajahi patung dan menikmati pemandangan menakjubkan dari garis langit Manhattan. Pastikan untuk memesan tiket Anda terlebih dahulu, terutama jika Anda ingin mengakses pedestal atau mahkota. Rencanakan kunjungan sekitar 2-3 jam.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "Central Park",
+          "type": "park",
+          "description": "Central Park adalah oase perkotaan di jantung Manhattan, sempurna untuk berjalan-jalan santai atau piknik. Dengan lapangan luas, danau tenang, dan jalur pejalan kaki yang indah, ini adalah tempat pelarian yang ideal dari hiruk-pikuk kota. Anda dapat menghabiskan berjam-jam menjelajahi banyak atraksi di taman, termasuk Bethesda Terrace dan Bow Bridge. Masuk gratis, tetapi pertimbangkan tur berpemandu untuk wawasan yang lebih dalam.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "Museum Seni Metropolitan",
+          "type": "museum",
+          "description": "Menjadi rumah bagi koleksi seni yang luas dari seluruh dunia, Museum Seni Metropolitan adalah permata budaya. Pengunjung dapat menjelajahi lebih dari 5.000 tahun seni, termasuk karya dari Mesir kuno hingga karya modern Amerika. Sisihkan setidaknya 3-4 jam untuk kunjungan Anda dan pertimbangkan untuk memesan tiket secara online agar tidak mengantri. Museum ini sering mengadakan pameran khusus, jadi periksa sebelumnya untuk acara terkini.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "Jembatan Brooklyn",
+          "type": "landmark",
+          "description": "Menghubungkan Manhattan dan Brooklyn, Jembatan Brooklyn bukan hanya rute transportasi yang penting tetapi juga keajaiban arsitektur. Berjalan melintasi jembatan sepanjang 1,1 mil memberikan pemandangan menakjubkan dari garis langit dan East River. Sebaiknya kunjungi saat matahari terbit atau terbenam untuk mendapatkan peluang foto yang menakjubkan. Jalan kaki biasanya memakan waktu sekitar 30-45 menit.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "Memorial dan Museum 9/11",
+          "type": "museum",
+          "description": "Memorial dan Museum 9/11 menghormati para korban serangan 11 September dan memberikan pandangan mendalam tentang hari yang memilukan itu. Pengunjung dapat menjelajahi pameran yang merinci peristiwa dan dampaknya. Rencanakan untuk menghabiskan sekitar 2 jam di sini dan pertimbangkan untuk memesan tiket terlebih dahulu untuk menghindari antrian panjang. Suasana di sini khidmat, mendorong refleksi dan pengingat.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "Chinatown adalah lingkungan yang hidup kaya akan budaya dan kelezatan kuliner. Jelajahi jalan-jalan yang ramai dipenuhi dengan toko-toko, restoran, dan pasar yang menawarkan masakan Asia otentik. Jangan lewatkan kesempatan untuk mencoba dim sum atau berbelanja untuk suvenir unik. Ini adalah area yang hidup yang dapat dinikmati kapan saja, jadi luangkan waktu untuk menyerap pemandangan dan rasa.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "The High Line",
+          "type": "park",
+          "description": "The High Line adalah taman linier yang ditinggikan dibangun di atas jalur kereta api yang sebelumnya, menawarkan perspektif unik dari NYC. Pengunjung dapat menikmati kebun yang indah, instalasi seni, dan pemandangan Sungai Hudson. Ini adalah tempat yang baik untuk berjalan santai dan cara yang bagus untuk merasakan kota dari atas. Taman ini gratis untuk masuk dan sebaiknya dikunjungi di pagi atau sore hari.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "न्यू यॉर्क में शीर्ष आकर्षण 2026 - टिकट, टिप्स और पूर्ण गाइड",
+      "seo_description": "न्यू यॉर्क के सर्वोत्तम आकर्षणों का अन्वेषण करें। न्यू यॉर्क के शीर्ष स्थलों के लिए खुलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "न्यू यॉर्क सिटी, जिसे अक्सर बिग एप्पल के नाम से जाना जाता है, एक जीवंत महानगर है जो अपनी आइकोनिक स्काईलाइन, समृद्ध इतिहास और विविध संस्कृति के लिए जाना जाता है। मैनहट्टन की हलचल भरी सड़कों से लेकर सेंट्रल पार्क की शांत सुंदरता तक, NYC हर प्रकार के यात्री के लिए आकर्षणों का खजाना पेश करता है। चाहे आप कला प्रेमी हों, फूडी हों या इतिहास प्रेमी, न्यू यॉर्क में आपके लिए कुछ अविस्मरणीय इंतज़ार कर रहा है।",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "स्वतंत्रता की प्रतिमा",
+          "type": "landmark",
+          "description": "स्वतंत्रता और लोकतंत्र का प्रतीक, स्वतंत्रता की प्रतिमा न्यू यॉर्क में एक अवश्य देखने योग्य आकर्षण है। प्रतिमा का अन्वेषण करने और मैनहट्टन की स्काईलाइन के शानदार दृश्य का आनंद लेने के लिए लिबर्टी आइलैंड के लिए फेरी लें। सुनिश्चित करें कि आप अपनी टिकटें पहले से बुक करें, खासकर यदि आप आधार या मुकुट तक पहुंचना चाहते हैं। यहाँ जाने की योजना लगभग 2-3 घंटे की बनाएं।",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "सेंट्रल पार्क",
+          "type": "park",
+          "description": "सेंट्रल पार्क मैनहट्टन के दिल में एक शहरी ओएसिस है, जो आरामदायक सैर या पिकनिक के लिए बिल्कुल सही है। विस्तृत लॉन, शांत झीलों और सुंदर चलने के रास्तों के साथ, यह शहर की हलचल से बचने का एक आदर्श स्थान है। आप पार्क के कई आकर्षणों का अन्वेषण करने में घंटे बिता सकते हैं, जिनमें बथेस्डा टेरेस और बो ब्रिज शामिल हैं। प्रवेश निःशुल्क है, लेकिन गाइडेड टूर के लिए विचार करें ताकि आप गहराई से जान सकें।",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "मेट्रोपॉलिटन म्यूज़ियम ऑफ़ आर्ट",
+          "type": "museum",
+          "description": "दुनिया भर की कला का एक विस्तृत संग्रहालय, मेट्रोपॉलिटन म्यूज़ियम ऑफ़ आर्ट एक सांस्कृतिक रत्न है। आगंतुक 5,000 वर्षों से अधिक की कला का अन्वेषण कर सकते हैं, जिसमें प्राचीन मिस्र से आधुनिक अमेरिकी कलाकृतियाँ शामिल हैं। आपकी यात्रा के लिए कम से कम 3-4 घंटे निर्धारित करें और लाइन को छोड़ने के लिए ऑनलाइन टिकट बुक करने पर विचार करें। संग्रहालय अक्सर विशेष प्रदर्शनियों का आयोजन करता है, इसलिए वर्तमान घटनाओं के लिए पहले से जांचें।",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "ब्रुकलिन ब्रिज",
+          "type": "landmark",
+          "description": "मैनहट्टन और ब्रुकलिन को जोड़ने वाला ब्रुकलिन ब्रिज केवल एक महत्वपूर्ण परिवहन मार्ग नहीं है बल्कि एक वास्तुशिल्प चमत्कार भी है। 1.1-मील के विस्तार पर चलने से स्काईलाइन और ईस्ट नदी के शानदार दृश्य मिलते हैं। शानदार फ़ोटो के लिए सुबह या सूर्यास्त के समय का दौरा करना सबसे अच्छा है। यह चलना आमतौर पर लगभग 30-45 मिनट लेता है।",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "9/11 स्मारक और संग्रहालय",
+          "type": "museum",
+          "description": "9/11 स्मारक और संग्रहालय सितंबर 11 के हमलों के शिकारों को सम्मानित करता है और उस दुखद दिन पर एक भावनात्मक झलक प्रदान करता है। आगंतुक घटनाओं और उनके परिणामों का विवरण देने वाली प्रदर्शनियों का अन्वेषण कर सकते हैं। यहाँ लगभग 2 घंटे बिताने की योजना बनाएं और लंबे इंतज़ार से बचने के लिए पहले से टिकट बुक करने पर विचार करें। वातावरण गंभीर है, जो विचार और स्मृति को प्रोत्साहित करता है।",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "चाइना टाउन",
+          "type": "district",
+          "description": "चाइना टाउन एक जीवंत पड़ोस है जो संस्कृति और पाक विशेषताओं से भरपूर है। दुकानों, रेस्तरां और बाजारों से भरी हलचल भरी सड़कों का अन्वेषण करें जो प्रामाणिक एशियाई व्यंजन पेश करते हैं। डिम सम आज़माने या अनोखे स्मृति चिन्ह खरीदने का मौका न चूकें। यह एक जीवंत क्षेत्र है जिसे किसी भी समय का आनंद लिया जा सकता है, इसलिए दृश्यों और स्वादों का आनंद लेने के लिए अपना समय लें।",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "द हाई लाइन",
+          "type": "park",
+          "description": "द हाई लाइन पूर्व रेलवे लाइन पर बनी एक ऊंची लीनियर पार्क है, जो NYC का एक अनूठा दृश्य प्रदान करती है। आगंतुक खूबसूरती से लैंडस्केप किए गए बागों, कला प्रतिष्ठानों और हडसन नदी के दृश्य का आनंद ले सकते हैं। यह आरामदायक सैर के लिए एक उत्कृष्ट स्थान है और शहर का अनुभव करने का एक शानदार तरीका है। पार्क में प्रवेश निःशुल्क है और सुबह या शाम को जाने के लिए सबसे अच्छा है।",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Nova York 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Nova York. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Nova York.",
+      "page_intro": "A cidade de Nova York, frequentemente chamada de Big Apple, é uma metrópole vibrante conhecida por seu icônico horizonte, rica história e cultura diversificada. Desde as movimentadas ruas de Manhattan até a beleza serena do Central Park, NYC oferece uma infinidade de atrações que atendem a todos os tipos de viajantes. Se você é um entusiasta da arte, um amante da gastronomia ou um fã de história, Nova York tem algo inesquecível esperando por você.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "Estátua da Liberdade",
+          "type": "landmark",
+          "description": "Um símbolo de liberdade e democracia, a Estátua da Liberdade é uma atração imperdível em Nova York. Pegue um ferry para a Ilha da Liberdade para explorar a estátua e desfrutar de vistas deslumbrantes do horizonte de Manhattan. Certifique-se de reservar seus ingressos com antecedência, especialmente se quiser acessar o pedestal ou a coroa. Planeje uma visita de cerca de 2-3 horas.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "Central Park",
+          "type": "park",
+          "description": "O Central Park é um oásis urbano no coração de Manhattan, perfeito para um passeio relaxante ou um piquenique. Com seus vastos gramados, lagos serenos e belos caminhos para caminhadas, é uma fuga ideal da agitação da cidade. Você pode passar horas explorando as muitas atrações do parque, incluindo o Bethesda Terrace e a Bow Bridge. A entrada é gratuita, mas considere fazer passeios guiados para obter informações mais profundas.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "Museu Metropolitano de Arte",
+          "type": "museum",
+          "description": "Lar de uma extensa coleção de arte de todo o mundo, o Museu Metropolitano de Arte é uma joia cultural. Os visitantes podem explorar mais de 5.000 anos de arte, incluindo obras do Egito Antigo a peças modernas americanas. Reserve pelo menos 3-4 horas para sua visita e considere comprar ingressos online para evitar filas. O museu frequentemente abriga exposições especiais, então verifique antecipadamente os eventos atuais.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "Ponte do Brooklyn",
+          "type": "landmark",
+          "description": "Conectando Manhattan e Brooklyn, a Ponte do Brooklyn não é apenas uma rota de transporte vital, mas também uma maravilha arquitetônica. Caminhar pela extensão de 1,1 milha oferece vistas deslumbrantes do horizonte e do East River. É melhor visitar durante o nascer ou o pôr do sol para oportunidades fotográficas impressionantes. A caminhada geralmente leva cerca de 30-45 minutos.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "Memorial e Museu do 11 de Setembro",
+          "type": "museum",
+          "description": "O Memorial e Museu do 11 de Setembro homenageia as vítimas dos ataques de 11 de setembro e oferece um olhar comovente sobre aquele dia fatídico. Os visitantes podem explorar exposições detalhando os eventos e suas consequências. Planeje passar cerca de 2 horas aqui e considere reservar ingressos com antecedência para evitar longas esperas. A atmosfera é solene, incentivando a reflexão e a lembrança.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "Chinatown é um bairro vibrante rico em cultura e delícias culinárias. Explore as ruas movimentadas repletas de lojas, restaurantes e mercados que oferecem autêntica culinária asiática. Não perca a oportunidade de experimentar dim sum ou comprar souvenirs únicos. É uma área animada que pode ser desfrutada a qualquer momento, então leve seu tempo para absorver as vistas e os sabores.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "The High Line",
+          "type": "park",
+          "description": "The High Line é um parque linear elevado construído sobre uma antiga linha ferroviária, oferecendo uma perspectiva única de NYC. Os visitantes podem desfrutar de jardins lindamente paisagísticos, instalações de arte e vistas do rio Hudson. É um excelente local para uma caminhada relaxante e uma ótima maneira de vivenciar a cidade de cima. O parque é gratuito para entrar e é melhor visitado de manhã ou no início da noite.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في نيويورك 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في نيويورك. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم نيويورك.",
+      "page_intro": "مدينة نيويورك، التي تُعرف غالبًا باسم التفاحة الكبيرة، هي مدينة نابضة بالحياة معروفة بأفقها الشهير وتاريخها الغني وثقافتها المتنوعة. من شوارع مانهاتن الصاخبة إلى جمال سنترال بارك الهادئ، تقدم NYC مجموعة واسعة من المعالم السياحية التي تلبي جميع أنواع المسافرين. سواء كنت من عشاق الفن أو محبي الطعام أو من عشاق التاريخ، فإن نيويورك لديها شيء لا يُنسى ينتظرك.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "تمثال الحرية",
+          "type": "landmark",
+          "description": "رمز للحرية والديمقراطية، يُعتبر تمثال الحرية من المعالم السياحية التي يجب رؤيتها في نيويورك. استقل عبارة إلى جزيرة الحرية لاستكشاف التمثال والاستمتاع بإطلالات رائعة على أفق مانهاتن. تأكد من حجز تذاكرك مسبقًا، خاصة إذا كنت ترغب في الوصول إلى القاعدة أو التاج. خطط لزيارة تستغرق حوالي 2-3 ساعات.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "سنترال بارك",
+          "type": "park",
+          "description": "سنترال بارك هو واحة حضرية في قلب مانهاتن، مثالي لنزهة مريحة أو نزهة. مع مساحاته الواسعة من العشب والبحيرات الهادئة ومسارات المشي الجميلة، يُعتبر ملاذًا مثاليًا من صخب المدينة. يمكنك قضاء ساعات في استكشاف العديد من معالم الحديقة، بما في ذلك تراس بيثيسدا وجسر بو. الدخول مجاني، لكن ضع في اعتبارك القيام بجولات مع مرشدين للحصول على معلومات أعمق.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "المتحف المتروبوليتان للفنون",
+          "type": "museum",
+          "description": "يعد المتحف المتروبوليتان للفنون جوهرة ثقافية، حيث يضم مجموعة واسعة من الفنون من جميع أنحاء العالم. يمكن للزوار استكشاف أكثر من 5000 عام من الفن، بما في ذلك أعمال من مصر القديمة إلى قطع أمريكية حديثة. خصص على الأقل 3-4 ساعات لزيارتك واعتبر شراء التذاكر عبر الإنترنت لتجنب الانتظار. غالبًا ما يستضيف المتحف معارض خاصة، لذا تحقق مسبقًا من الأحداث الحالية.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "جسر بروكلين",
+          "type": "landmark",
+          "description": "يربط جسر بروكلين بين مانهاتن وبروكلين، وهو ليس مجرد طريق نقل حيوي بل هو أيضاً معجزة معمارية. المشي عبر امتداد 1.1 ميل يوفر إطلالات خلابة على الأفق ونهر إيست. من الأفضل زيارته عند شروق الشمس أو غروبها للحصول على فرص تصوير رائعة. عادة ما تستغرق الجولة حوالي 30-45 دقيقة.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "نصب 9/11 التذكاري والمتحف",
+          "type": "museum",
+          "description": "يكرم نصب 9/11 التذكاري والمتحف ضحايا هجمات 11 سبتمبر ويقدم نظرة مؤثرة على ذلك اليوم المشؤوم. يمكن للزوار استكشاف المعارض التي تعرض الأحداث وما تلاها. خطط لقضاء حوالي ساعتين هنا واعتبر حجز التذاكر مسبقًا لتجنب الانتظار الطويل. الجو جاد، مما يشجع على التأمل والذكرى.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "تشاينا تاون",
+          "type": "district",
+          "description": "تشاينا تاون هو حي نابض بالحياة غني بالثقافة والمأكولات الشهية. استكشف الشوارع المزدحمة المليئة بالمتاجر والمطاعم والأسواق التي تقدم المأكولات الآسيوية الأصيلة. لا تفوت الفرصة لتجربة الديم سوم أو التسوق للحصول على تذكارات فريدة. إنها منطقة حيوية يمكن الاستمتاع بها في أي وقت، لذا خذ وقتك للاستمتاع بالمشاهد والنكهات.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "ذا هاي لاين",
+          "type": "park",
+          "description": "ذا هاي لاين هو حديقة خطية مرتفعة تم بناؤها على خط سكة حديد سابق، تقدم منظورًا فريدًا لمدينة نيويورك. يمكن للزوار الاستمتاع بالحدائق المنسقة بشكل جميل، والتركيبات الفنية، وإطلالات على نهر هدسون. إنها مكان ممتاز لنزهة مريحة وطريقة رائعة لتجربة المدينة من الأعلى. الدخول إلى الحديقة مجاني ومن الأفضل زيارتها في الصباح أو في وقت مبكر من المساء.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "নিউইয়র্কের শীর্ষ আকর্ষণ 2026 — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "নিউইয়র্কের সেরা আকর্ষণগুলি অন্বেষণ করুন। নিউইয়র্কের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "page_intro": "নিউইয়র্ক সিটি, যা প্রায়শই বিগ অ্যাপল নামে পরিচিত, একটি প্রাণবন্ত মহানগরী যা এর আইকনিক স্কাইলাইন, সমৃদ্ধ ইতিহাস এবং বৈচিত্র্যময় সংস্কৃতির জন্য পরিচিত। ম্যানহাটনের ব্যস্ত রাস্তা থেকে সেন্ট্রাল পার্কের শান্ত সৌন্দর্য পর্যন্ত, NYC প্রতিটি ধরনের ভ্রমণকারীর জন্য আকর্ষণের একটি বিপুল পরিমাণ অফার করে। আপনি যদি একজন শিল্প প্রেমী, খাবারের শৌখিন বা ইতিহাস প্রেমী হন, নিউইয়র্কে আপনার জন্য কিছু অবিস্মরণীয় অপেক্ষা করছে।",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "স্বাধীনতার প্রতিমূর্তি",
+          "type": "landmark",
+          "description": "স্বাধীনতা এবং গণতন্ত্রের একটি প্রতীক, নিউইয়র্কে স্বাধীনতার প্রতিমূর্তি একটি অবশ্যই দেখা উচিত আকর্ষণ। প্রতিমূর্তিটি অন্বেষণ করতে এবং ম্যানহাটনের স্কাইলাইনের মনোমুগ্ধকর দৃশ্য উপভোগ করতে লিবার্টি আইল্যান্ডে একটি ফেরি নিন। নিশ্চিত করুন যে আপনি আগে থেকেই আপনার টিকিট বুক করেছেন, বিশেষ করে যদি আপনি ভিত্তি বা মুকুটে প্রবেশ করতে চান। প্রায় 2-3 ঘণ্টার জন্য একটি সফরের পরিকল্পনা করুন।",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "সেন্ট্রাল পার্ক",
+          "type": "park",
+          "description": "সেন্ট্রাল পার্ক হল ম্যানহাটনের কেন্দ্রে একটি শহুরে ওয়াসিস, যা একটি আরামদায়ক হাঁটার বা পিকনিকের জন্য নিখুঁত। প্রশস্ত ঘাস, শান্ত হ্রদ এবং সুন্দর হাঁটার পথের সঙ্গে, এটি শহরের ব্যস্ততার থেকে পালানোর জন্য একটি আদর্শ স্থান। আপনি বথেসদা টেরেস এবং বো ব্রিজ সহ পার্কের অনেক আকর্ষণ অন্বেষণে ঘণ্টা কাটাতে পারেন। প্রবেশ বিনামূল্যে, তবে গভীরতর তথ্যের জন্য গাইডেড ট্যুরের জন্য বিবেচনা করুন।",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "মেট্রোপলিটন আর্ট মিউজিয়াম",
+          "type": "museum",
+          "description": "বিশ্বজুড়ে শিল্পের একটি বিস্তৃত সংগ্রহ রয়েছে, মেট্রোপলিটন আর্ট মিউজিয়াম একটি সাংস্কৃতিক রত্ন। দর্শকরা 5,000 বছরেরও বেশি সময়ের শিল্প অন্বেষণ করতে পারেন, যার মধ্যে প্রাচীন মিশর থেকে আধুনিক আমেরিকান টুকরো রয়েছে। আপনার সফরের জন্য কমপক্ষে 3-4 ঘণ্টা বরাদ্দ করুন এবং লাইনে না দাঁড়ানোর জন্য অনলাইনে টিকিট বুক করার বিষয়ে চিন্তা করুন। মিউজিয়াম প্রায়ই বিশেষ প্রদর্শনীর আয়োজন করে, তাই বর্তমান ইভেন্টগুলির জন্য আগে থেকে চেক করুন।",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "ব্রুকলিন ব্রিজ",
+          "type": "landmark",
+          "description": "ম্যানহাটন এবং ব্রুকলিনকে সংযুক্তকারী ব্রুকলিন ব্রিজ শুধুমাত্র একটি গুরুত্বপূর্ণ পরিবহন রুট নয় বরং একটি স্থাপত্য বিস্ময়ও। 1.1-মাইলের এই প্রসার ধরে হাঁটা আপনাকে স্কাইলাইন এবং ইস্ট নদীর মনোমুগ্ধকর দৃশ্য উপহার দেয়। দুর্দান্ত ফটোর জন্য সূর্যোদয় বা সূর্যাস্তের সময় পরিদর্শন করা সেরা। হাঁটার জন্য সাধারণত 30-45 মিনিট সময় লাগে।",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "9/11 স্মৃতিসৌধ এবং জাদুঘর",
+          "type": "museum",
+          "description": "9/11 স্মৃতিসৌধ এবং জাদুঘর 11 সেপ্টেম্বর হামলার শিকারদের সম্মান জানায় এবং সেই দুঃখজনক দিনের একটি আবেগময় দৃষ্টিভঙ্গি প্রদান করে। দর্শকরা ঘটনাগুলি এবং তাদের পরিণতির বিবরণ দেওয়া প্রদর্শনীগুলি অন্বেষণ করতে পারেন। এখানে প্রায় 2 ঘণ্টা সময় কাটানোর পরিকল্পনা করুন এবং দীর্ঘ অপেক্ষা এড়াতে আগে থেকে টিকিট বুক করার বিষয়ে চিন্তা করুন। পরিবেশ গম্ভীর, যা চিন্তা ও স্মৃতিকে উৎসাহিত করে।",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "চায়না টাউন",
+          "type": "district",
+          "description": "চায়না টাউন একটি প্রাণবন্ত প্রতিবেশী যা সংস্কৃতি এবং খাদ্য রত্নে পূর্ণ। দোকান, রেস্তোরাঁ এবং বাজারে ভরা ব্যস্ত রাস্তা অন্বেষণ করুন যা প্রমাণিত এশিয়ান খাবার সরবরাহ করে। ডিম সম চেষ্টা করার বা অনন্য স্মারক কেনার সুযোগ হাতছাড়া করবেন না। এটি একটি প্রাণবন্ত এলাকা যা যেকোনো সময় উপভোগ করা যায়, তাই দৃশ্য এবং স্বাদে মগ্ন হতে আপনার সময় নিন।",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "দ্য হাই লাইন",
+          "type": "park",
+          "description": "দ্য হাই লাইন হল একটি উঁচু লিনিয়ার পার্ক যা প্রাক্তন রেলপথের উপর নির্মিত, NYC-এর একটি অনন্য দৃষ্টিভঙ্গি প্রদান করে। দর্শকরা সুন্দরভাবে ল্যান্ডস্কেপ করা বাগান, শিল্প ইনস্টলেশন এবং হাডসন নদীর দৃশ্য উপভোগ করতে পারেন। এটি একটি আরামদায়ক হাঁটার জন্য একটি চমৎকার স্থান এবং শহরের উপরে শহরকে অন্বেষণ করার একটি দুর্দান্ত উপায়। পার্কে প্রবেশ বিনামূল্যে এবং সকাল বা সন্ধ্যায় যাওয়ার জন্য সবচেয়ে ভাল।",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Топ достопримечательностей Нью-Йорка 2026 — Билеты, Советы и Полное Руководство",
+      "seo_description": "Изучите лучшие достопримечательности Нью-Йорка. Найдите часы работы, цены на билеты и ссылки для бронирования на основные достопримечательности Нью-Йорка.",
+      "page_intro": "Нью-Йорк, часто называемый Большим Яблоком, — это яркий мегаполис, известный своим знаковым горизонтом, богатой историей и разнообразной культурой. От шумных улиц Манхэттена до спокойной красоты Центрального парка, NYC предлагает множество достопримечательностей, которые подойдут каждому типу путешественника. Если вы любите искусство, гастрономию или историю, в Нью-Йорке вас ждет нечто незабываемое.",
+      "items": [
+        {
+          "id": "statue-of-liberty",
+          "name": "Статуя Свободы",
+          "type": "landmark",
+          "description": "Символ свободы и демократии, Статуя Свободы — это обязательная достопримечательность Нью-Йорка. Садитесь на паром до острова Свободы, чтобы исследовать статую и насладиться потрясающими видами на небоскребы Манхэттена. Не забудьте заранее забронировать билеты, особенно если вы хотите попасть на постамент или в корону. Планируйте визит на 2-3 часа.",
+          "image_keyword": "Statue of Liberty view",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23.50",
+          "best_time": "morning",
+          "klook_query": "Statue of Liberty ticket"
+        },
+        {
+          "id": "central-park",
+          "name": "Центральный Парк",
+          "type": "park",
+          "description": "Центральный Парк — это городской оазис в сердце Манхэттена, идеальный для спокойной прогулки или пикника. С обширными лужайками, тихими озерами и красивыми пешеходными дорожками, это идеальное место для отдыха от суеты города. Вы можете провести часы, исследуя многочисленные достопримечательности парка, включая террасу Бетесда и мост Бо. Вход бесплатный, но подумайте о проведении экскурсии с гидом для более глубокого понимания.",
+          "image_keyword": "Central Park scenery",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Central Park tour"
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": "Метрополитен-музей искусства",
+          "type": "museum",
+          "description": "Метрополитен-музей искусства — это культурная жемчужина, в которой находится обширная коллекция искусства со всего мира. Посетители могут исследовать более 5000 лет искусства, включая произведения от древнего Египта до современных американских произведений. Выделите как минимум 3-4 часа на визит и подумайте о покупке билетов онлайн, чтобы избежать очередей. Музей часто проводит специальные выставки, поэтому заранее проверьте текущие события.",
+          "image_keyword": "Metropolitan Museum of Art interior",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "afternoon",
+          "klook_query": "Metropolitan Museum ticket"
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": "Бруклинский мост",
+          "type": "landmark",
+          "description": "Соединяющий Манхэттен и Бруклин, Бруклинский мост — это не только важный транспортный маршрут, но и архитектурное чудо. Прогулка по протяженности 1,1 мили предлагает захватывающие виды на небоскребы и Восточную реку. Лучше всего посещать его на рассвете или закате для потрясающих фото. Прогулка обычно занимает около 30-45 минут.",
+          "image_keyword": "Brooklyn Bridge view",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Brooklyn Bridge walking tour"
+        },
+        {
+          "id": "9-11-memorial-and-museum",
+          "name": "Мемориал и музей 9/11",
+          "type": "museum",
+          "description": "Мемориал и музей 9/11 почти чтит жертв атак 11 сентября и предлагает трогательный взгляд на тот роковой день. Посетители могут исследовать выставки, подробно рассказывающие о событиях и их последствиях. Планируйте провести здесь около 2 часов и подумайте о предварительном бронировании билетов, чтобы избежать долгого ожидания. Атмосфера серьезная, что способствует размышлениям и памяти.",
+          "image_keyword": "9/11 Memorial",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $26",
+          "best_time": "anytime",
+          "klook_query": "9/11 Memorial Museum ticket"
+        },
+        {
+          "id": "chinatown",
+          "name": "Чайна-таун",
+          "type": "district",
+          "description": "Чайна-таун — это оживленный район, богатый культурой и кулинарными изысками. Исследуйте шумные улицы, заполненные магазинами, ресторанами и рынками, предлагающими аутентичную азиатскую кухню. Не упустите возможность попробовать дим сам или купить уникальные сувениры. Это оживленная зона, которую можно наслаждаться в любое время, поэтому не спешите, чтобы насладиться видами и вкусами.",
+          "image_keyword": "Chinatown NYC",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Chinatown food tour"
+        },
+        {
+          "id": "the-high-line",
+          "name": "Хай Лайн",
+          "type": "park",
+          "description": "Хай Лайн — это приподнятый линейный парк, построенный на бывшей железнодорожной линии, предлагающий уникальный взгляд на NYC. Посетители могут наслаждаться красиво оформленными садами, художественными инсталляциями и видами на реку Гудзон. Это отличное место для спокойной прогулки и великолепный способ увидеть город с высоты. Вход в парк бесплатный, и лучше всего его посещать утром или в ранний вечер.",
+          "image_keyword": "High Line park",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "High Line walking tour"
+        }
+      ]
+    }
+  }
+}

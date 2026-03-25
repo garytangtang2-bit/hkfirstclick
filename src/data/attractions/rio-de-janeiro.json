@@ -1,0 +1,1097 @@
+{
+  "city_slug": "rio-de-janeiro",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Rio de Janeiro 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Rio de Janeiro. Find opening hours, ticket prices and booking links for Rio de Janeiro's top landmarks.",
+      "page_intro": "Rio de Janeiro, known for its breathtaking landscapes and vibrant culture, is a must-visit destination in Brazil. With iconic landmarks like Christ the Redeemer and Sugarloaf Mountain, the city offers a unique blend of natural beauty and urban energy. Whether you're lounging on Copacabana Beach or exploring the historic neighborhoods, Rio promises unforgettable experiences for every traveler.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "Christ the Redeemer",
+          "type": "landmark",
+          "description": "One of the New Seven Wonders of the World, Christ the Redeemer stands atop Corcovado Mountain, offering panoramic views of the city. Visitors can take a cog train through the Tijuca Forest to reach this iconic statue. The best time to visit is early morning to avoid crowds. Don't forget your camera for stunning photos!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "Sugarloaf Mountain",
+          "type": "landmark",
+          "description": "Sugarloaf Mountain is famous for its breathtaking views and scenic cable car rides. Standing 396 meters high, it offers a unique perspective of Rio's coastline. Plan to spend a couple of hours here, especially during sunset for a magical experience. It's a perfect spot for photography and enjoying the landscape.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "Rio de Janeiro Botanical Garden",
+          "type": "park",
+          "description": "The Rio de Janeiro Botanical Garden is a lush oasis in the city, home to thousands of plant species. It's perfect for a peaceful stroll, educational visits, and enjoying nature. Plan to spend at least two hours exploring its scenic paths and unique flora. A great spot for picnics and photography.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "Museum of Tomorrow",
+          "type": "museum",
+          "description": "The Museum of Tomorrow is a futuristic science museum located in the waterfront area of Rio. It focuses on sustainability and the future of our planet through interactive exhibits. Spend a few hours here to fully appreciate its innovative design and thought-provoking displays. Don't miss the beautiful architecture and surrounding park.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "National Museum of Brazil",
+          "type": "museum",
+          "description": "The National Museum of Brazil, housed in a former royal palace, showcases the country's rich history and cultural heritage. Although it suffered a fire in 2018, restoration efforts are ongoing. Plan a visit to see its impressive architecture and learn about Brazilian heritage. Check ahead for special exhibits.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "Santa Teresa District",
+          "type": "district",
+          "description": "Santa Teresa is a charming neighborhood known for its narrow streets, colonial-style houses, and vibrant arts scene. Explore local shops, cafes, and art studios while enjoying stunning views of the city. It's a great area to experience local culture and street art. Plan to spend a few hours wandering and taking photos.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "Copacabana Beach",
+          "type": "market",
+          "description": "Copacabana Beach is one of the most famous beaches in the world, boasting a lively atmosphere and beautiful waves. Enjoy sunbathing, beach sports, and local food vendors. It's ideal for a full day of relaxation and fun. Arrive early to find a good spot and enjoy the vibrant beach culture.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年里约热内卢的顶级景点 — 门票、提示与完整指南",
+      "seo_description": "探索里约热内卢最好的景点。查找里约热内卢顶级地标的开放时间、票价和预订链接。",
+      "page_intro": "里约热内卢以其壮丽的风景和充满活力的文化而闻名，是巴西一个必游的目的地。拥有基督救世主和糖面包山等标志性地标，这座城市提供了自然美和城市活力的独特融合。无论是在科帕卡巴纳海滩放松，还是探索历史悠久的社区，里约承诺为每位旅行者提供难忘的体验。",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "基督救世主",
+          "type": "landmark",
+          "description": "作为新世界七大奇迹之一，基督救世主矗立在科尔科瓦多山顶，为城市提供全景视野。游客可以乘坐小火车穿越蒂茹卡森林抵达这一标志性雕像。最佳访问时间是清晨，以避免人群。不要忘记带上相机，拍摄美丽的照片！",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "糖面包山",
+          "type": "landmark",
+          "description": "糖面包山因其壮观的景色和风景优美的缆车而闻名。山高396米，提供了对里约海岸线的独特视角。计划在这里待几个小时，尤其是在日落时享受神奇的体验。这里是拍照和欣赏风景的完美地点。",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "里约热内卢植物园",
+          "type": "park",
+          "description": "里约热内卢植物园是城市中的一片郁郁葱葱的绿洲，栖息着成千上万的植物种类。这里非常适合平静的散步、教育访问和享受自然。计划花至少两个小时探索其风景优美的小径和独特的植物群。是野餐和摄影的好地方。",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "明日博物馆",
+          "type": "museum",
+          "description": "明日博物馆是位于里约海滨地区的未来主义科学博物馆。它通过互动展览关注可持续性和我们星球的未来。在这里待几个小时，充分欣赏其创新设计和发人深省的展示。不要错过美丽的建筑和周围的公园。",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "巴西国家博物馆",
+          "type": "museum",
+          "description": "巴西国家博物馆位于一座前皇家宫殿内，展示了国家丰富的历史和文化遗产。尽管在2018年遭遇火灾，但恢复工作正在进行中。计划参观以查看其令人印象深刻的建筑并了解巴西遗产。提前查看特展信息。",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "圣特雷莎区",
+          "type": "district",
+          "description": "圣特雷莎是一个迷人的社区，以狭窄的街道、殖民风格的房屋和充满活力的艺术氛围而闻名。在享受城市壮观景色的同时，探索当地商店、咖啡馆和艺术工作室。这里是体验当地文化和街头艺术的好地方。计划花几个小时漫步和拍照。",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "科帕卡巴纳海滩",
+          "type": "market",
+          "description": "科帕卡巴纳海滩是世界上最著名的海滩之一，拥有热闹的氛围和美丽的海浪。享受日光浴、海滩运动和当地小吃摊。这里非常适合放松和乐趣的一整天。早早到达以找到一个好位置，享受充满活力的海滩文化。",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年リオデジャネイロのトップ観光名所 — チケット、ヒント＆完全ガイド",
+      "seo_description": "リオデジャネイロの最高の観光名所を探索しましょう。リオデジャネイロの主要ランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
+      "page_intro": "リオデジャネイロは、その息をのむような風景と活気ある文化で知られており、ブラジルの必見の目的地です。キリスト像やシュガーローフ山などのアイコニックなランドマークを持つこの都市は、自然の美しさと都市のエネルギーのユニークな融合を提供します。コパカバーナビーチでリラックスするにせよ、歴史的な地区を探索するにせよ、リオはすべての旅行者に忘れられない体験を約束します。",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "キリスト像",
+          "type": "landmark",
+          "description": "新世界の七不思議の一つであるキリスト像は、コルコバード山の頂上に立ち、街のパノラマビューを提供します。訪問者は、ティジュカの森を通る歯車列車に乗ってこのアイコニックな像に到達できます。群衆を避けるために、早朝に訪れることをお勧めします。素晴らしい写真を撮るためにカメラをお忘れなく！",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "シュガーローフ山",
+          "type": "landmark",
+          "description": "シュガーローフ山は、その息をのむような景色と美しいロープウェイで有名です。396メートルの高さを誇り、リオの海岸線を独自の視点で見ることができます。特に夕日が沈む時間帯には、数時間をここで過ごす計画を立てましょう。写真撮影や景色を楽しむのに最適なスポットです。",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "リオデジャネイロ植物園",
+          "type": "park",
+          "description": "リオデジャネイロ植物園は、都市の中の緑豊かなオアシスで、数千種の植物が生息しています。平和な散歩、教育的な訪問、自然を楽しむのに最適です。風光明媚な小道やユニークな植物を探索するために、少なくとも2時間を計画してください。ピクニックや写真撮影にぴったりの場所です。",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "明日博物館",
+          "type": "museum",
+          "description": "明日博物館は、リオのウォーターフロントエリアにある未来的な科学博物館です。インタラクティブな展示を通じて、持続可能性と私たちの惑星の未来に焦点を当てています。その革新的なデザインや考えさせられる展示を十分に堪能するために、数時間をここで過ごしましょう。美しい建築と周辺の公園をお見逃しなく。",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "ブラジル国立博物館",
+          "type": "museum",
+          "description": "ブラジル国立博物館は、元王宮に housed されており、国の豊かな歴史と文化遺産を展示しています。2018年に火災に見舞われましたが、修復作業が進行中です。印象的な建築を見たり、ブラジルの遺産について学んだりするために訪問を計画してください。特別展示については事前に確認してください。",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "サンタテレーザ地区",
+          "type": "district",
+          "description": "サンタテレーザは、狭い通りやコロニアルスタイルの家々、活気あるアートシーンで知られる魅力的な地区です。地元の店、カフェ、アートスタジオを探索しながら、街の素晴らしい景色を楽しんでください。地元の文化やストリートアートを体験するのに最適なエリアです。数時間かけて歩き回り、写真を撮る計画を立てましょう。",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "コパカバーナビーチ",
+          "type": "market",
+          "description": "コパカバーナビーチは、世界で最も有名なビーチの一つで、賑やかな雰囲気と美しい波を誇ります。日光浴、ビーチスポーツ、地元の食べ物の屋台を楽しんでください。リラックスと楽しみのための理想的な一日です。良い場所を見つけて、活気あるビーチ文化を楽しむために早めに到着してください。",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 리우데자네이루의 주요 명소 — 티켓, 팁 및 완벽 가이드",
+      "seo_description": "리우데자네이루의 최고의 명소를 탐험해 보세요. 리우데자네이루의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾아보세요.",
+      "page_intro": "리우데자네이루는 숨막히는 풍경과 활기찬 문화로 유명한 브라질의 필수 방문지입니다. 그리스도 구세주와 슈가로프 산과 같은 상징적인 명소가 있는 이 도시는 자연의 아름다움과 도시의 에너지가 독특하게 어우러져 있습니다. 코파카바나 해변에서 휴식을 취하든 역사적인 동네를 탐험하든, 리우는 모든 여행자에게 잊을 수 없는 경험을 약속합니다.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "그리스도 구세주",
+          "type": "landmark",
+          "description": "신세계 7대 불가사의 중 하나인 그리스도 구세주는 코르코바두 산 정상에 서서 도시의 전경을 제공합니다. 방문객들은 티주카 숲을 통과하는 기차를 타고 이 상징적인 조각상에 도달할 수 있습니다. 군중을 피하기 위해 이른 아침에 방문하는 것이 가장 좋습니다. 멋진 사진을 찍기 위해 카메라를 잊지 마세요!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "슈가로프 산",
+          "type": "landmark",
+          "description": "슈가로프 산은 숨막히는 전망과 아름다운 케이블카로 유명합니다. 396m 높이에 서 있으며 리우의 해안선을 독특한 시각으로 제공합니다. 특히 일몰 시간에 마법 같은 경험을 위해 여기에서 몇 시간을 보내는 것을 계획하세요. 사진 촬영과 경치를 즐기기에 완벽한 장소입니다.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "리우데자네이루 식물원",
+          "type": "park",
+          "description": "리우데자네이루 식물원은 도시의 푸르른 오아시스로, 수천 종의 식물이 자생하고 있습니다. 평화로운 산책, 교육 방문, 자연을 즐기기에 적합합니다. 경치 좋은 길과 독특한 식물을 탐험하기 위해 최소 두 시간을 계획하세요. 피크닉과 사진 촬영에 좋은 장소입니다.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "내일의 박물관",
+          "type": "museum",
+          "description": "내일의 박물관은 리우의 해안 지역에 위치한 미래 지향적인 과학 박물관입니다. 인터랙티브한 전시를 통해 지속 가능성과 지구의 미래에 초점을 맞추고 있습니다. 혁신적인 디자인과 생각을 자극하는 전시를 충분히 감상하기 위해 몇 시간을 보내세요. 아름다운 건축물과 주변 공원을 놓치지 마세요.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "브라질 국립 박물관",
+          "type": "museum",
+          "description": "브라질 국립 박물관은 이전 왕궁에 자리 잡고 있으며, 국가의 풍부한 역사와 문화 유산을 전시합니다. 2018년에 화재로 피해를 입었지만 복원 작업이 진행 중입니다. 인상적인 건축물을 보고 브라질 유산에 대해 배우기 위해 방문 계획을 세우세요. 특별 전시를 위해 미리 확인하세요.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "산타 테레사 지구",
+          "type": "district",
+          "description": "산타 테레사는 좁은 거리, 식민지 스타일의 집들, 활기찬 예술 현장으로 유명한 매력적인 동네입니다. 지역 상점, 카페, 미술 스튜디오를 탐험하며 도시의 멋진 전망을 즐기세요. 지역 문화와 거리 예술을 경험하기에 좋은 지역입니다. 몇 시간을 거닐며 사진을 찍는 계획을 세우세요.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "코파카바나 해변",
+          "type": "market",
+          "description": "코파카바나 해변은 세계에서 가장 유명한 해변 중 하나로, 활기찬 분위기와 아름다운 파도를 자랑합니다. 일광욕, 해변 스포츠 및 지역 음식 판매자를 즐기세요. 휴식과 재미를 위한 완벽한 하루입니다. 좋은 장소를 찾고 활기찬 해변 문화를 즐기기 위해 일찍 도착하세요.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Principales attractions à Rio de Janeiro 2026 — Billets, conseils et guide complet",
+      "seo_description": "Découvrez les meilleures attractions de Rio de Janeiro. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Rio de Janeiro.",
+      "page_intro": "Rio de Janeiro, connue pour ses paysages à couper le souffle et sa culture vibrante, est une destination incontournable au Brésil. Avec des monuments emblématiques tels que le Christ Rédempteur et le Pain de Sucre, la ville offre un mélange unique de beauté naturelle et d'énergie urbaine. Que vous soyez allongé sur la plage de Copacabana ou en train d'explorer les quartiers historiques, Rio promet des expériences inoubliables pour chaque voyageur.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "Christ Rédempteur",
+          "type": "landmark",
+          "description": "L'une des sept nouvelles merveilles du monde, le Christ Rédempteur se dresse au sommet du mont Corcovado, offrant une vue panoramique sur la ville. Les visiteurs peuvent prendre un train à crémaillère à travers la forêt de Tijuca pour atteindre cette statue emblématique. Le meilleur moment pour visiter est le matin tôt pour éviter la foule. N'oubliez pas votre appareil photo pour des photos époustouflantes !",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "Pain de Sucre",
+          "type": "landmark",
+          "description": "Le Pain de Sucre est célèbre pour ses vues à couper le souffle et ses balades en téléphérique pittoresques. S'élevant à 396 mètres, il offre une perspective unique sur la côte de Rio. Prévoyez de passer quelques heures ici, surtout au coucher du soleil pour une expérience magique. C'est un endroit parfait pour la photographie et pour profiter du paysage.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "Jardin botanique de Rio de Janeiro",
+          "type": "park",
+          "description": "Le jardin botanique de Rio de Janeiro est une oasis luxuriante dans la ville, abritant des milliers d'espèces de plantes. C'est parfait pour une promenade paisible, des visites éducatives et profiter de la nature. Prévoyez de passer au moins deux heures à explorer ses sentiers pittoresques et sa flore unique. Un excellent endroit pour les pique-niques et la photographie.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "Musée de Demain",
+          "type": "museum",
+          "description": "Le musée de demain est un musée scientifique futuriste situé dans la zone riveraine de Rio. Il se concentre sur la durabilité et l'avenir de notre planète à travers des expositions interactives. Passez quelques heures ici pour apprécier pleinement son design innovant et ses expositions qui font réfléchir. Ne manquez pas l'architecture magnifique et le parc environnant.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "Musée national du Brésil",
+          "type": "museum",
+          "description": "Le musée national du Brésil, situé dans un ancien palais royal, présente la riche histoire et le patrimoine culturel du pays. Bien qu'il ait subi un incendie en 2018, des efforts de restauration sont en cours. Prévoyez une visite pour voir son architecture impressionnante et en apprendre davantage sur le patrimoine brésilien. Vérifiez à l'avance pour des expositions spéciales.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "Quartier de Santa Teresa",
+          "type": "district",
+          "description": "Santa Teresa est un quartier charmant connu pour ses rues étroites, ses maisons de style colonial et sa scène artistique vibrante. Explorez les magasins locaux, les cafés et les ateliers d'art tout en profitant de vues imprenables sur la ville. C'est un excellent endroit pour découvrir la culture locale et l'art de rue. Prévoyez de passer quelques heures à flâner et à prendre des photos.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "Plage de Copacabana",
+          "type": "market",
+          "description": "La plage de Copacabana est l'une des plages les plus célèbres au monde, offrant une atmosphère animée et de belles vagues. Profitez de bains de soleil, de sports de plage et de vendeurs de nourriture locaux. C'est idéal pour une journée complète de détente et de plaisir. Arrivez tôt pour trouver un bon emplacement et profiter de la culture de plage animée.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales atracciones en Río de Janeiro 2026 — Entradas, consejos y guía completa",
+      "seo_description": "Descubre las mejores atracciones en Río de Janeiro. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Río de Janeiro.",
+      "page_intro": "Río de Janeiro, conocida por sus paisajes impresionantes y su vibrante cultura, es un destino imperdible en Brasil. Con monumentos icónicos como el Cristo Redentor y el Pan de Azúcar, la ciudad ofrece una mezcla única de belleza natural y energía urbana. Ya sea que estés descansando en la playa de Copacabana o explorando los barrios históricos, Río promete experiencias inolvidables para cada viajero.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "Cristo Redentor",
+          "type": "landmark",
+          "description": "Una de las Nuevas Siete Maravillas del Mundo, el Cristo Redentor se alza en la cima del monte Corcovado, ofreciendo vistas panorámicas de la ciudad. Los visitantes pueden tomar un tren de cremallera a través del bosque de Tijuca para llegar a esta icónica estatua. El mejor momento para visitar es temprano por la mañana para evitar multitudes. ¡No olvides tu cámara para fotos impresionantes!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "Pan de Azúcar",
+          "type": "landmark",
+          "description": "El Pan de Azúcar es famoso por sus impresionantes vistas y sus paseos en teleférico pintorescos. Con 396 metros de altura, ofrece una perspectiva única de la costa de Río. Planea pasar un par de horas aquí, especialmente durante el atardecer para una experiencia mágica. Es un lugar perfecto para la fotografía y para disfrutar del paisaje.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "Jardín Botánico de Río de Janeiro",
+          "type": "park",
+          "description": "El Jardín Botánico de Río de Janeiro es un oasis exuberante en la ciudad, hogar de miles de especies de plantas. Es perfecto para un paseo tranquilo, visitas educativas y disfrutar de la naturaleza. Planea pasar al menos dos horas explorando sus pintorescos caminos y su flora única. Un excelente lugar para picnics y fotografía.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "Museo del Mañana",
+          "type": "museum",
+          "description": "El Museo del Mañana es un museo de ciencia futurista ubicado en la zona costera de Río. Se enfoca en la sostenibilidad y el futuro de nuestro planeta a través de exhibiciones interactivas. Pasa unas horas aquí para apreciar completamente su diseño innovador y sus exposiciones que invitan a la reflexión. No te pierdas la hermosa arquitectura y el parque circundante.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "Museo Nacional de Brasil",
+          "type": "museum",
+          "description": "El Museo Nacional de Brasil, ubicado en un antiguo palacio real, muestra la rica historia y el patrimonio cultural del país. Aunque sufrió un incendio en 2018, se están llevando a cabo esfuerzos de restauración. Planea una visita para ver su impresionante arquitectura y aprender sobre el patrimonio brasileño. Verifica con antelación si hay exposiciones especiales.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "Barrio de Santa Teresa",
+          "type": "district",
+          "description": "Santa Teresa es un encantador barrio conocido por sus calles estrechas, casas de estilo colonial y vibrante escena artística. Explora las tiendas locales, cafés y estudios de arte mientras disfrutas de impresionantes vistas de la ciudad. Es un gran lugar para experimentar la cultura local y el arte callejero. Planea pasar unas horas paseando y tomando fotos.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "Playa de Copacabana",
+          "type": "market",
+          "description": "La playa de Copacabana es una de las playas más famosas del mundo, con una atmósfera animada y hermosas olas. Disfruta de tomar el sol, deportes en la playa y vendedores de comida locales. Es ideal para un día completo de relajación y diversión. Llega temprano para encontrar un buen lugar y disfrutar de la vibrante cultura de la playa.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Atraksi Teratas di Rio de Janeiro 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_description": "Jelajahi atraksi terbaik di Rio de Janeiro. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama di Rio de Janeiro.",
+      "page_intro": "Rio de Janeiro, dikenal karena pemandangan yang menakjubkan dan budaya yang hidup, adalah tujuan yang wajib dikunjungi di Brasil. Dengan landmark ikonik seperti Christ the Redeemer dan Sugarloaf Mountain, kota ini menawarkan perpaduan unik antara keindahan alam dan energi perkotaan. Baik Anda bersantai di Pantai Copacabana atau menjelajahi lingkungan bersejarah, Rio menjanjikan pengalaman tak terlupakan bagi setiap pelancong.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "Christ the Redeemer",
+          "type": "landmark",
+          "description": "Salah satu dari Tujuh Keajaiban Dunia Baru, Christ the Redeemer berdiri di puncak Gunung Corcovado, menawarkan pemandangan panorama kota. Pengunjung dapat naik kereta gigi melalui Hutan Tijuca untuk mencapai patung ikonik ini. Waktu terbaik untuk mengunjungi adalah pagi hari untuk menghindari keramaian. Jangan lupa kamera Anda untuk foto-foto menakjubkan!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "Sugarloaf Mountain",
+          "type": "landmark",
+          "description": "Sugarloaf Mountain terkenal dengan pemandangan yang menakjubkan dan perjalanan kereta gantung yang indah. Berdiri setinggi 396 meter, ia menawarkan perspektif unik dari garis pantai Rio. Rencanakan untuk menghabiskan beberapa jam di sini, terutama saat matahari terbenam untuk pengalaman yang magis. Ini adalah tempat yang sempurna untuk fotografi dan menikmati pemandangan.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "Kebun Botani Rio de Janeiro",
+          "type": "park",
+          "description": "Kebun Botani Rio de Janeiro adalah oase subur di kota, rumah bagi ribuan spesies tanaman. Ini sempurna untuk berjalan santai, kunjungan edukatif, dan menikmati alam. Rencanakan untuk menghabiskan setidaknya dua jam menjelajahi jalur pemandangan dan flora uniknya. Tempat yang bagus untuk piknik dan fotografi.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "Museum Masa Depan",
+          "type": "museum",
+          "description": "Museum Masa Depan adalah museum sains futuristik yang terletak di daerah tepi laut Rio. Ini berfokus pada keberlanjutan dan masa depan planet kita melalui pameran interaktif. Luangkan beberapa jam di sini untuk sepenuhnya menghargai desain inovatif dan tampilan yang memprovokasi pemikiran. Jangan lewatkan arsitektur yang indah dan taman di sekitarnya.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "Museum Nasional Brasil",
+          "type": "museum",
+          "description": "Museum Nasional Brasil, yang terletak di bekas istana kerajaan, memamerkan sejarah dan warisan budaya yang kaya di negara ini. Meskipun mengalami kebakaran pada tahun 2018, upaya restorasi sedang berlangsung. Rencanakan kunjungan untuk melihat arsitektur yang mengesankan dan belajar tentang warisan Brasil. Periksa sebelumnya untuk pameran khusus.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "Distrik Santa Teresa",
+          "type": "district",
+          "description": "Santa Teresa adalah lingkungan yang menawan yang dikenal dengan jalan-jalan sempit, rumah bergaya kolonial, dan suasana seni yang hidup. Jelajahi toko-toko lokal, kafe, dan studio seni sambil menikmati pemandangan kota yang menakjubkan. Ini adalah area yang bagus untuk merasakan budaya lokal dan seni jalanan. Rencanakan untuk menghabiskan beberapa jam berjalan-jalan dan mengambil foto.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "Pantai Copacabana",
+          "type": "market",
+          "description": "Pantai Copacabana adalah salah satu pantai terpopuler di dunia, dengan suasana yang ramai dan ombak yang indah. Nikmati berjemur, olahraga pantai, dan penjual makanan lokal. Ini ideal untuk sehari penuh relaksasi dan kesenangan. Datang lebih awal untuk menemukan tempat yang baik dan menikmati budaya pantai yang hidup.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "रियो डी जनेरियो के शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
+      "seo_description": "रियो डी जनेरियो के सबसे अच्छे आकर्षणों का अन्वेषण करें। रियो डी जनेरियो के शीर्ष स्थलों के लिए खुलने के घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "रियो डी जनेरियो, अपने अद्भुत दृश्यों और जीवंत संस्कृति के लिए जाना जाता है, ब्राजील में अवश्य देखने योग्य स्थान है। क्राइस्ट द रिडीमर और शुगरलोफ माउंटेन जैसे प्रतीकात्मक स्थलों के साथ, यह शहर प्राकृतिक सौंदर्य और शहरी ऊर्जा का अनूठा मिश्रण प्रदान करता है। चाहे आप कोपाकबाना बीच पर आराम कर रहे हों या ऐतिहासिक पड़ोस का अन्वेषण कर रहे हों, रियो हर यात्री के लिए अविस्मरणीय अनुभव का वादा करता है।",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "क्राइस्ट द रिडीमर",
+          "type": "landmark",
+          "description": "नई सात आश्चर्यों में से एक, क्राइस्ट द रिडीमर कोरकोवाडो पर्वत के शीर्ष पर स्थित है, जो शहर के पैनोरमिक दृश्य प्रदान करता है। आगंतुक इस प्रतीकात्मक प्रतिमा तक पहुँचने के लिए तिजुका वन के माध्यम से एक कोग ट्रेन ले सकते हैं। भीड़ से बचने के लिए सुबह जल्दी यात्रा करना सबसे अच्छा समय है। शानदार तस्वीरों के लिए अपना कैमरा लाना न भूलें!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "शुगरलोफ माउंटेन",
+          "type": "landmark",
+          "description": "शुगरलोफ माउंटेन अपने अद्भुत दृश्यों और सुरम्य केबल कार राइड के लिए प्रसिद्ध है। 396 मीटर ऊँचा, यह रियो के तटरेखा का एक अनूठा दृष्टिकोण प्रदान करता है। यहाँ कुछ घंटे बिताने की योजना बनाएं, विशेष रूप से सूर्यास्त के समय जादुई अनुभव के लिए। यह फोटोग्राफी और परिदृश्य का आनंद लेने के लिए एकदम सही स्थान है।",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "रियो डी जनेरियो बोटैनिकल गार्डन",
+          "type": "park",
+          "description": "रियो डी जनेरियो बोटैनिकल गार्डन शहर में एक हरी ओएसिस है, जिसमें हजारों पौधों की प्रजातियाँ हैं। यह शांत सैर, शैक्षिक दौरे, और प्रकृति का आनंद लेने के लिए एकदम सही है। इसके सुरम्य रास्तों और अनोखी वनस्पति का अन्वेषण करने के लिए कम से कम दो घंटे बिताने की योजना बनाएं। पिकनिक और फोटोग्राफी के लिए एक बढ़िया स्थान।",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "म्यूजियम ऑफ टुमारो",
+          "type": "museum",
+          "description": "म्यूजियम ऑफ टुमारो रियो के waterfront क्षेत्र में स्थित एक भविष्यवादी विज्ञान संग्रहालय है। यह इंटरएक्टिव प्रदर्शनों के माध्यम से स्थिरता और हमारे ग्रह के भविष्य पर केंद्रित है। इसके अभिनव डिज़ाइन और विचारों को प्रेरित करने वाले प्रदर्शनों की पूरी तरह से सराहना करने के लिए यहाँ कुछ घंटे बिताएँ। सुंदर वास्तुकला और आस-पास के पार्क को न चूकें।",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "राष्ट्रीय संग्रहालय ब्राजील",
+          "type": "museum",
+          "description": "राष्ट्रीय संग्रहालय ब्राजील, एक पूर्व शाही महल में स्थित है, जो देश के समृद्ध इतिहास और सांस्कृतिक विरासत को प्रदर्शित करता है। हालांकि 2018 में इसे आग का सामना करना पड़ा, लेकिन पुनर्स्थापना के प्रयास चल रहे हैं। इसके प्रभावशाली वास्तुकला को देखने और ब्राजील की विरासत के बारे में जानने के लिए एक यात्रा की योजना बनाएं। विशेष प्रदर्शनों के लिए पहले से चेक करें।",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "सांता टेरेसा जिला",
+          "type": "district",
+          "description": "सांता टेरेसा एक आकर्षक पड़ोस है जो अपनी संकीर्ण गलियों, उपनिवेश शैली के घरों और जीवंत कला दृश्य के लिए जाना जाता है। स्थानीय दुकानों, कैफे और कला स्टूडियो का अन्वेषण करें जबकि शहर के अद्भुत दृश्यों का आनंद लें। यह स्थानीय संस्कृति और सड़क कला का अनुभव करने के लिए एक बेहतरीन क्षेत्र है। घूमने और तस्वीरें लेने के लिए कुछ घंटे बिताने की योजना बनाएं।",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "कोपाकबाना बीच",
+          "type": "market",
+          "description": "कोपाकबाना बीच दुनिया के सबसे प्रसिद्ध समुद्र तटों में से एक है, जिसमें एक जीवंत वातावरण और सुंदर लहरें हैं। धूप सेंकने, समुद्र तट के खेल और स्थानीय खाद्य विक्रेताओं का आनंद लें। यह विश्राम और मज़े के लिए पूरे दिन का आदर्श स्थान है। एक अच्छा स्थान खोजने और जीवंत समुद्र तट संस्कृति का आनंद लेने के लिए जल्दी पहुँचें।",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações no Rio de Janeiro 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações do Rio de Janeiro. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos do Rio de Janeiro.",
+      "page_intro": "O Rio de Janeiro, conhecido por suas paisagens deslumbrantes e cultura vibrante, é um destino imperdível no Brasil. Com marcos icônicos como o Cristo Redentor e o Pão de Açúcar, a cidade oferece uma mistura única de beleza natural e energia urbana. Seja relaxando na Praia de Copacabana ou explorando os bairros históricos, o Rio promete experiências inesquecíveis para cada viajante.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "Cristo Redentor",
+          "type": "landmark",
+          "description": "Uma das Novas Sete Maravilhas do Mundo, o Cristo Redentor está situado no topo do Morro do Corcovado, oferecendo vistas panorâmicas da cidade. Os visitantes podem pegar um trem de cremalheira pela Floresta da Tijuca para chegar a esta estátua icônica. O melhor momento para visitar é de manhã cedo para evitar multidões. Não se esqueça da sua câmera para fotos deslumbrantes!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "Pão de Açúcar",
+          "type": "landmark",
+          "description": "O Pão de Açúcar é famoso por suas vistas deslumbrantes e passeios de teleférico cênicos. Com 396 metros de altura, oferece uma perspectiva única da costa do Rio. Planeje passar algumas horas aqui, especialmente durante o pôr do sol para uma experiência mágica. É um lugar perfeito para fotografia e desfrutar da paisagem.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "Jardim Botânico do Rio de Janeiro",
+          "type": "park",
+          "description": "O Jardim Botânico do Rio de Janeiro é um oásis exuberante na cidade, abriga milhares de espécies de plantas. É perfeito para um passeio tranquilo, visitas educativas e para desfrutar da natureza. Planeje passar pelo menos duas horas explorando seus caminhos cênicos e flora única. Um ótimo lugar para piqueniques e fotografia.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "Museu do Amanhã",
+          "type": "museum",
+          "description": "O Museu do Amanhã é um museu de ciência futurista localizado na área à beira-mar do Rio. Ele se concentra na sustentabilidade e no futuro do nosso planeta por meio de exposições interativas. Passe algumas horas aqui para apreciar totalmente seu design inovador e exibições que fazem refletir. Não perca a bela arquitetura e o parque ao redor.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "Museu Nacional do Brasil",
+          "type": "museum",
+          "description": "O Museu Nacional do Brasil, situado em um antigo palácio real, exibe a rica história e patrimônio cultural do país. Embora tenha sofrido um incêndio em 2018, os esforços de restauração estão em andamento. Planeje uma visita para ver sua impressionante arquitetura e aprender sobre o patrimônio brasileiro. Verifique com antecedência as exposições especiais.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "Bairro Santa Teresa",
+          "type": "district",
+          "description": "Santa Teresa é um bairro encantador conhecido por suas ruas estreitas, casas de estilo colonial e cena artística vibrante. Explore lojas locais, cafés e estúdios de arte enquanto desfruta de vistas deslumbrantes da cidade. É uma ótima área para vivenciar a cultura local e a arte de rua. Planeje passar algumas horas passeando e tirando fotos.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "Praia de Copacabana",
+          "type": "market",
+          "description": "A Praia de Copacabana é uma das praias mais famosas do mundo, com uma atmosfera animada e belas ondas. Aproveite para tomar sol, praticar esportes de praia e experimentar os vendedores de comida locais. É ideal para um dia inteiro de relaxamento e diversão. Chegue cedo para encontrar um bom lugar e desfrutar da vibrante cultura da praia.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في ريو دي جانيرو 2026 - التذاكر والنصائح والدليل الشامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في ريو دي جانيرو. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم ريو دي جانيرو.",
+      "page_intro": "تُعرف ريو دي جانيرو بمناظرها الطبيعية الخلابة وثقافتها النابضة بالحياة، وهي وجهة لا بد من زيارتها في البرازيل. مع معالمها الشهيرة مثل المسيح الفادي وجبل السكر، تقدم المدينة مزيجًا فريدًا من الجمال الطبيعي والطاقة الحضرية. سواء كنت تتنزه على شاطئ كوباكابانا أو تستكشف الأحياء التاريخية، تعد ريو بتجارب لا تُنسى لكل مسافر.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "المسيح الفادي",
+          "type": "landmark",
+          "description": "أحد عجائب العالم السبع الجديدة، يقع المسيح الفادي على قمة جبل كوركوفادو، مما يوفر إطلالات بانورامية على المدينة. يمكن للزوار ركوب قطار cog من خلال غابة تيجوك إلى هذه التمثال الأيقوني. أفضل وقت للزيارة هو في الصباح الباكر لتجنب الحشود. لا تنسَ كاميرتك لالتقاط صور مذهلة!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "جبل السكر",
+          "type": "landmark",
+          "description": "يشتهر جبل السكر بإطلالاته الخلابة وركوب التلفريك ذات المناظر الخلابة. بارتفاع 396 مترًا، يوفر منظورًا فريدًا لساحل ريو. خطط لقضاء بضع ساعات هنا، خاصة خلال غروب الشمس لتجربة سحرية. إنه مكان مثالي للتصوير الفوتوغرافي والاستمتاع بالمناظر الطبيعية.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "حديقة ريو دي جانيرو النباتية",
+          "type": "park",
+          "description": "تعتبر حديقة ريو دي جانيرو النباتية واحة خضراء في المدينة، وتضم آلاف الأنواع من النباتات. إنها مثالية لنزهة هادئة، وزيارات تعليمية، والاستمتاع بالطبيعة. خطط لقضاء ساعتين على الأقل لاستكشاف مساراتها ذات المناظر الخلابة ونباتاتها الفريدة. مكان رائع للنزهات والتصوير الفوتوغرافي.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "متحف الغد",
+          "type": "museum",
+          "description": "متحف الغد هو متحف علمي مستقبلي يقع في منطقة الواجهة البحرية في ريو. يركز على الاستدامة ومستقبل كوكبنا من خلال المعارض التفاعلية. اقضِ بضع ساعات هنا لتقدير تصميمه المبتكر وعروضه التي تحفز التفكير. لا تفوت العمارة الجميلة والحديقة المحيطة بها.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "المتحف الوطني للبرازيل",
+          "type": "museum",
+          "description": "المتحف الوطني للبرازيل، الذي يقع في قصر ملكي سابق، يعرض التاريخ الغني والتراث الثقافي للبلاد. على الرغم من أنه تعرض لحريق في عام 2018، إلا أن جهود الترميم جارية. خطط لزيارة لرؤية عمارتها المدهشة وتعلم المزيد عن التراث البرازيلي. تحقق مسبقًا للاطلاع على المعارض الخاصة.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "حي سانتا تيريزا",
+          "type": "district",
+          "description": "سانتا تيريزا حي ساحر معروف بشوارعه الضيقة، ومنازله ذات الطراز الاستعماري، ومشهد الفنون النابض بالحياة. استكشف المتاجر المحلية والمقاهي واستوديوهات الفنون بينما تستمتع بإطلالات مذهلة على المدينة. إنه مكان رائع لتجربة الثقافة المحلية وفن الشارع. خطط لقضاء بضع ساعات في التجول والتصوير.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "شاطئ كوباكابانا",
+          "type": "market",
+          "description": "يعتبر شاطئ كوباكابانا أحد أشهر الشواطئ في العالم، حيث يتميز بأجوائه النابضة بالحياة وأمواجه الجميلة. استمتع بالتشمس، وممارسة الرياضات الشاطئية، وتجربة بائعي الطعام المحليين. إنه مثالي ليوم كامل من الاسترخاء والمتعة. احضر مبكرًا للعثور على مكان جيد والاستمتاع بثقافة الشاطئ النابضة بالحياة.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "রিও ডি জেনিরোর শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং পূর্ণ নির্দেশিকা",
+      "seo_description": "রিও ডি জেনিরোর সেরা আকর্ষণগুলি অন্বেষণ করুন। রিও ডি জেনিরোর শীর্ষ দর্শনীয় স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক সন্ধান করুন।",
+      "page_intro": "রিও ডি জেনিরো, যার অসাধারণ প্রাকৃতিক দৃশ্য এবং প্রাণবন্ত সংস্কৃতির জন্য পরিচিত, ব্রাজিলে একটি অবশ্যই দেখার স্থান। খ্রিস্ট দ্য রিডিমার এবং সুগারলোফ মাউন্টেনের মতো আইকনিক স্থানগুলি নিয়ে, শহরটি প্রাকৃতিক সৌন্দর্য এবং শহুরে শক্তির একটি অনন্য সংমিশ্রণ প্রদান করে। আপনি কোপাকাবানা বিচে বিশ্রাম নিচ্ছেন বা ঐতিহাসিক পাড়াগুলি অন্বেষণ করছেন, রিও প্রতিটি ভ্রমণকারীর জন্য অবিস্মরণীয় অভিজ্ঞতার আশ্বাস দেয়।",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "খ্রিস্ট দ্য রিডিমার",
+          "type": "landmark",
+          "description": "নতুন সাতটি আশ্চর্যের মধ্যে একটি, খ্রিস্ট দ্য রিডিমার করকোভাডো পাহাড়ের শীর্ষে দাঁড়িয়ে রয়েছে, শহরের প্যানোরামিক দৃশ্য উপস্থাপন করে। দর্শকরা এই আইকনিক মূর্তিতে পৌঁছানোর জন্য তিজুকা বন দিয়ে একটি কোগ ট্রেন নিতে পারেন। ভিড় এড়ানোর জন্য সকালে যাওয়া সবচেয়ে ভালো সময়। চমৎকার ছবির জন্য আপনার ক্যামেরা আনতে ভুলবেন না!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "সুগারলোফ মাউন্টেন",
+          "type": "landmark",
+          "description": "সুগারলোফ মাউন্টেন তার অসাধারণ দৃশ্য এবং চিত্রকল্পের জন্য বিখ্যাত। ৩৯৬ মিটার উচ্চতায়, এটি রিওর উপকূলরেখার একটি অনন্য দৃষ্টিভঙ্গি প্রদান করে। এখানে কিছু ঘণ্টা কাটানোর পরিকল্পনা করুন, বিশেষ করে সূর্যাস্তের সময় একটি জাদুকরী অভিজ্ঞতার জন্য। এটি ফটোগ্রাফি এবং প্রাকৃতিক দৃশ্য উপভোগের জন্য একটি চমৎকার স্থান।",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "রিও ডি জেনিরো বোটানিক্যাল গার্ডেন",
+          "type": "park",
+          "description": "রিও ডি জেনিরো বোটানিক্যাল গার্ডেন শহরের একটি সবুজ ওএসিস, যেখানে হাজার হাজার উদ্ভিদ প্রজাতি রয়েছে। এটি শান্ত হাঁটার জন্য, শিক্ষা সফরের জন্য এবং প্রকৃতির সৌন্দর্য উপভোগের জন্য আদর্শ। এর চিত্রকল্প পথ এবং অনন্য উদ্ভিদজগতের অনুসন্ধানের জন্য অন্তত দুই ঘণ্টা ব্যয় করার পরিকল্পনা করুন। পিকনিক এবং ফটোগ্রাফির জন্য একটি দুর্দান্ত স্থান।",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "মিউজিয়াম অফ টুমরো",
+          "type": "museum",
+          "description": "মিউজিয়াম অফ টুমরো রিওর সমুদ্রতীরবর্তী অঞ্চলে অবস্থিত একটি ভবিষ্যতবাদী বিজ্ঞান জাদুঘর। এটি ইন্টারেক্টিভ প্রদর্শনীর মাধ্যমে স্থায়িত্ব এবং আমাদের গ্রহের ভবিষ্যতের উপর কেন্দ্রীভূত। এর উদ্ভাবনী ডিজাইন এবং চিন্তাশীল প্রদর্শনগুলি পুরোপুরি প্রশংসা করতে এখানে কয়েক ঘন্টা কাটান। সুন্দর স্থাপত্য এবং আশেপাশের পার্ক মিস করবেন না।",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "জাতীয় জাদুঘর ব্রাজিল",
+          "type": "museum",
+          "description": "জাতীয় জাদুঘর ব্রাজিল, একটি প্রাক্তন রাজার প্রাসাদে অবস্থিত, দেশের সমৃদ্ধ ইতিহাস এবং সাংস্কৃতিক ঐতিহ্য প্রদর্শন করে। যদিও এটি ২০১৮ সালে অগ্নিকাণ্ডে ক্ষতিগ্রস্ত হয়েছিল, পুনরুদ্ধারের প্রচেষ্টা চলছে। এর প্রভাবশালী স্থাপত্য দেখতে এবং ব্রাজিলের ঐতিহ্যের সম্পর্কে জানার জন্য একটি ভ্রমণের পরিকল্পনা করুন। বিশেষ প্রদর্শনীর জন্য আগে থেকেই চেক করুন।",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "সান্তা তেরেসা জেলা",
+          "type": "district",
+          "description": "সান্তা তেরেসা একটি মনোমুগ্ধকর পাড়ার জন্য পরিচিত যেখানে সরু রাস্তা, উপনিবেশ স্থায়ী বাড়িগুলি এবং প্রাণবন্ত শিল্প দৃশ্য রয়েছে। স্থানীয় দোকান, ক্যাফে এবং শিল্প স্টুডিওগুলি অন্বেষণ করুন এবং শহরের অসাধারণ দৃশ্যগুলি উপভোগ করুন। এটি স্থানীয় সংস্কৃতি এবং সড়ক শিল্প উপভোগ করার জন্য একটি দুর্দান্ত এলাকা। ঘুরতে এবং ছবি তুলতে কয়েক ঘন্টা কাটানোর পরিকল্পনা করুন।",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "কোপাকাবানা বিচ",
+          "type": "market",
+          "description": "কোপাকাবানা বিচ বিশ্বের সবচেয়ে বিখ্যাত সৈকতগুলির মধ্যে একটি, যেখানে একটি প্রাণবন্ত পরিবেশ এবং সুন্দর ঢেউ রয়েছে। সূর্যের আলোতে বসে থাকা, সৈকতের খেলাধুলা এবং স্থানীয় খাবারের বিক্রেতাদের সাথে সময় কাটান। এটি বিশ্রাম এবং বিনোদনের জন্য একটি সম্পূর্ণ দিনের জন্য আদর্শ। একটি ভালো জায়গা খুঁজে পেতে এবং প্রাণবন্ত সৈকতের সংস্কৃতি উপভোগ করতে দ্রুত আসুন।",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Топ достопримечательностей Рио-де-Жанейро 2026 — Билеты, Советы и Полное Руководство",
+      "seo_description": "Изучите лучшие достопримечательности Рио-де-Жанейро. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Рио-де-Жанейро.",
+      "page_intro": "Рио-де-Жанейро, известный своими захватывающими пейзажами и яркой культурой, является обязательным для посещения местом в Бразилии. С такими знаковыми достопримечательностями, как Христос-Искупитель и гора Sugarloaf, город предлагает уникальное сочетание природной красоты и городской энергии. Независимо от того, отдыхаете ли вы на пляже Копакабана или исследуете исторические районы, Рио обещает незабываемые впечатления для каждого путешественника.",
+      "items": [
+        {
+          "id": "christ-the-redeemer",
+          "name": "Христос-Искупитель",
+          "type": "landmark",
+          "description": "Одна из Новых семи чудес света, Христос-Искупитель стоит на вершине горы Корковадо и предлагает панорамные виды на город. Посетители могут доехать на когг-трейне через лес Тижука, чтобы добраться до этой знаковой статуи. Лучшее время для посещения — рано утром, чтобы избежать толп. Не забудьте свою камеру для потрясающих фотографий!",
+          "image_keyword": "Christ the Redeemer statue",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $30",
+          "best_time": "morning",
+          "klook_query": "Christ the Redeemer tickets"
+        },
+        {
+          "id": "sugarloaf-mountain",
+          "name": "Гора Сахар",
+          "type": "landmark",
+          "description": "Гора Сахар известна своими потрясающими видами и живописными поездками на канатной дороге. Высотой 396 метров, она предлагает уникальную перспективу на побережье Рио. Запланируйте провести здесь несколько часов, особенно на закате, чтобы получить волшебные впечатления. Это идеальное место для фотографии и наслаждения природой.",
+          "image_keyword": "Sugarloaf Mountain",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25",
+          "best_time": "evening",
+          "klook_query": "Sugarloaf Mountain tickets"
+        },
+        {
+          "id": "botanical-garden",
+          "name": "Ботанический сад Рио-де-Жанейро",
+          "type": "park",
+          "description": "Ботанический сад Рио-де-Жанейро — это зелёный оазис в городе, где обитают тысячи видов растений. Это идеально подходит для спокойной прогулки, образовательных визитов и наслаждения природой. Запланируйте провести не менее двух часов, исследуя его живописные тропы и уникальную флору. Отличное место для пикников и фотографии.",
+          "image_keyword": "Rio de Janeiro Botanical Garden",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "anytime",
+          "klook_query": "Botanical Garden tickets"
+        },
+        {
+          "id": "museu-do-amanha",
+          "name": "Музей Завтрашнего Дня",
+          "type": "museum",
+          "description": "Музей Завтрашнего Дня — это футуристический научный музей, расположенный в прибрежной зоне Рио. Он сосредоточен на устойчивом развитии и будущем нашей планеты через интерактивные выставки. Проведите здесь несколько часов, чтобы полностью оценить его инновационный дизайн и заставляющие задуматься экспозиции. Не пропустите прекрасную архитектуру и окружающий парк.",
+          "image_keyword": "Museum of Tomorrow",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $15",
+          "best_time": "afternoon",
+          "klook_query": "Museum of Tomorrow tickets"
+        },
+        {
+          "id": "imperial-palace",
+          "name": "Национальный музей Бразилии",
+          "type": "museum",
+          "description": "Национальный музей Бразилии, расположенный в бывшем королевском дворце, демонстрирует богатую историю и культурное наследие страны. Хотя в 2018 году он пострадал от пожара, работы по восстановлению продолжаются. Запланируйте визит, чтобы увидеть его впечатляющую архитектуру и узнать о бразильском наследии. Проверьте заранее специальные выставки.",
+          "image_keyword": "National Museum of Brazil",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $10",
+          "best_time": "morning",
+          "klook_query": "National Museum of Brazil tickets"
+        },
+        {
+          "id": "santa-teresa",
+          "name": "Район Санта-Тереза",
+          "type": "district",
+          "description": "Санта-Тереза — очаровательный район, известный своими узкими улочками, домами в колониальном стиле и яркой арт-сценой. Исследуйте местные магазины, кафе и художественные студии, наслаждаясь потрясающими видами на город. Это отличное место, чтобы окунуться в местную культуру и уличное искусство. Запланируйте провести несколько часов, бродя и фотографируя.",
+          "image_keyword": "Santa Teresa District",
+          "star_rating": 4.4,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Santa Teresa tours"
+        },
+        {
+          "id": "copacabana-beach",
+          "name": "Пляж Копакабана",
+          "type": "market",
+          "description": "Пляж Копакабана — один из самых известных пляжей в мире, славящийся живой атмосферой и красивыми волнами. Наслаждайтесь солнечными ваннами, пляжными видами спорта и местными продавцами еды. Это идеальное место для целого дня отдыха и веселья. Приходите пораньше, чтобы найти хорошее место и насладиться яркой пляжной культурой.",
+          "image_keyword": "Copacabana Beach",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Copacabana Beach activities"
+        }
+      ]
+    }
+  }
+}

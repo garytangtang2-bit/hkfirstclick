@@ -1,0 +1,1097 @@
+{
+  "city_slug": "prague",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Prague 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Prague. Find opening hours, ticket prices and booking links for Prague's top landmarks.",
+      "page_intro": "Prague, the capital of the Czech Republic, is a city that seamlessly blends history, culture, and stunning architecture. With its charming cobblestone streets, majestic castles, and vibrant neighborhoods, it captivates visitors from around the globe. Whether you're exploring the iconic Charles Bridge or savoring local cuisine in the historic Old Town, Prague offers an unforgettable experience for every traveler.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "Charles Bridge",
+          "type": "landmark",
+          "description": "The Charles Bridge is a stunning historic bridge that connects the Old Town and Lesser Town. Adorned with 30 statues, this iconic structure offers breathtaking views of the Vltava River and the Prague Castle. It's best to visit in the early morning to avoid crowds and enjoy a peaceful stroll while taking in the scenic beauty.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "Prague Castle",
+          "type": "landmark",
+          "description": "Prague Castle is one of the largest ancient castles in the world and a UNESCO World Heritage site. Inside, you can explore the stunning St. Vitus Cathedral, the Old Royal Palace, and beautiful gardens. Plan to spend at least a few hours here, as the castle complex is vast and offers rich history and spectacular views.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "Old Town Square",
+          "type": "district",
+          "description": "The Old Town Square is the historical heart of Prague, surrounded by stunning Gothic and Baroque architecture. Notable sites include the Astronomical Clock and Týn Church. It's a vibrant area filled with street performers, cafes, and shops. Take your time to enjoy the atmosphere and perhaps indulge in some traditional Czech food.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "National Gallery Prague",
+          "type": "museum",
+          "description": "The National Gallery in Prague houses an extensive collection of Czech and international art. From medieval to contemporary works, this museum offers a deep dive into the art history of the region. Allocate at least a couple of hours to explore its diverse exhibitions and enjoy the beautiful architecture of the building itself.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "St. Vitus Cathedral",
+          "type": "temple",
+          "description": "Located within Prague Castle, St. Vitus Cathedral is a masterpiece of Gothic architecture. Its stunning stained glass windows and intricate details make it a must-see. Visitors often spend around an hour here to fully appreciate its beauty and spiritual significance. Climb to the top for panoramic views of the city.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "Vyšehrad",
+          "type": "park",
+          "description": "Vyšehrad is a historic fort that offers not only a glimpse into Prague's past but also stunning views of the city skyline. The park surrounding the fortress is perfect for a leisurely stroll or a picnic. You can explore the beautiful gardens, the Basilica of St. Peter and St. Paul, and the Vyšehrad Cemetery. Plan for a couple of hours to soak in the serene atmosphere.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "Karlovy Lázně",
+          "type": "market",
+          "description": "Karlovy Lázně is a historic building that now serves as one of Prague's most popular nightclubs. With several floors, each offering different music styles, it's a great place to experience the local nightlife. While entrance fees apply, you can also enjoy casual visits to the cafes and bars within. It's best to visit in the evening for a lively atmosphere.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年布拉格最佳景點 — 票務、建議與完整指南",
+      "seo_description": "探索布拉格最佳景點。查找開放時間、票價和布拉格主要地標的預訂鏈接。",
+      "page_intro": "布拉格，捷克共和國的首都，是一座歷史、文化和壯麗建築完美融合的城市。這裡有迷人的鵝卵石街道、雄偉的城堡和充滿活力的社區，吸引著來自全球的遊客。無論你是在探索標誌性的查理大橋，還是在歷史悠久的舊城區品嚐當地美食，布拉格都為每位旅行者提供難忘的體驗。",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "查理大橋",
+          "type": "landmark",
+          "description": "查理大橋是一座壯觀的歷史橋樑，連接舊城區和小城區。這座標誌性建築裝飾著30座雕像，提供壯麗的伏爾塔瓦河和布拉格城堡的景觀。最好在清晨訪問，以避開人群並享受悠閒的散步，同時欣賞迷人的風景。",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "布拉格城堡",
+          "type": "landmark",
+          "description": "布拉格城堡是世界上最大的古代城堡之一，也是聯合國教科文組織的世界遺產。裡面，你可以探索壯觀的聖維特大教堂、舊皇家宮殿和美麗的花園。計劃在這裡花至少幾個小時，因為城堡複合體非常龐大，提供豐富的歷史和壯觀的景觀。",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "舊城廣場",
+          "type": "district",
+          "description": "舊城廣場是布拉格的歷史中心，周圍環繞著壯麗的哥特式和巴洛克建築。著名景點包括天文鐘和提恩教堂。這是一個充滿活力的區域，充滿了街頭表演者、咖啡館和商店。花時間享受這裡的氛圍，也許還可以品嚐一些傳統的捷克美食。",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "布拉格國家美術館",
+          "type": "museum",
+          "description": "布拉格國家美術館擁有大量捷克和國際藝術作品的收藏。從中世紀到當代作品，這座博物館深入探索該地區的藝術歷史。預留至少幾個小時來探索其多樣的展覽，並欣賞建築本身的美麗。",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "聖維特大教堂",
+          "type": "temple",
+          "description": "聖維特大教堂位於布拉格城堡內，是哥特式建築的傑作。其壯觀的彩色玻璃窗和精緻的細節使其成為必看之地。遊客通常在這裡花大約一小時來充分欣賞其美麗和精神意義。爬到頂部可俯瞰城市的全景。",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "維謝赫拉德",
+          "type": "park",
+          "description": "維謝赫拉德是一座歷史悠久的堡壘，不僅提供了布拉格過去的瞥見，還能欣賞到壯觀的城市天際線。圍繞堡壘的公園非常適合悠閒散步或野餐。你可以探索美麗的花園、聖彼得和聖保羅大教堂以及維謝赫拉德公墓。計劃花幾個小時來沉浸在寧靜的氛圍中。",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "卡爾洛維溫泉",
+          "type": "market",
+          "description": "卡爾洛維溫泉是一座歷史建築，現在是布拉格最受歡迎的夜總會之一。這裡有幾層樓，每層提供不同的音樂風格，是體驗當地夜生活的好地方。雖然需要付入場費，但你也可以隨意造訪內部的咖啡館和酒吧。最好在晚上來訪，享受熱鬧的氛圍。",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "プラハのトップアトラクション2026 — チケット、ヒント＆完全ガイド",
+      "seo_description": "プラハの最高のアトラクションを探索しましょう。プラハの主要なランドマークの開館時間、チケット料金、予約リンクを見つけてください。",
+      "page_intro": "プラハはチェコ共和国の首都であり、歴史、文化、見事な建築が見事に融合した都市です。魅力的な石畳の道、壮大な城、活気に満ちた街並みが、世界中の訪問者を魅了します。象徴的なカレル橋を探索したり、歴史的な旧市街で地元の料理を楽しんだりすることで、プラハはすべての旅行者に忘れられない体験を提供します。",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "カレル橋",
+          "type": "landmark",
+          "description": "カレル橋は、旧市街と小さな町をつなぐ美しい歴史的な橋です。30体の像で飾られたこの象徴的な構造物は、ヴルタヴァ川とプラハ城の息をのむような景色を提供します。混雑を避け、風光明媚な美しさを楽しみながら、静かな散歩をするために早朝に訪れるのがベストです。",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "プラハ城",
+          "type": "landmark",
+          "description": "プラハ城は世界最大の古代城の一つであり、ユネスコの世界遺産です。中には美しい聖ヴィート大聖堂、旧王宮、素晴らしい庭園を探索できます。城の複合体は広大で、豊かな歴史と壮観な景色を提供しているので、少なくとも数時間をここで過ごすことを計画してください。",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "旧市街広場",
+          "type": "district",
+          "description": "旧市街広場はプラハの歴史的中心であり、見事なゴシックおよびバロック建築に囲まれています。著名な観光名所には天文時計とティーン教会があります。ストリートパフォーマー、カフェ、ショップで賑わう活気あるエリアです。雰囲気を楽しむ時間を取り、伝統的なチェコ料理を味わってみてはいかがでしょうか。",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "プラハ国立美術館",
+          "type": "museum",
+          "description": "プラハ国立美術館には、チェコと国際的なアートの広範なコレクションがあります。中世から現代作品まで、この博物館は地域の芸術史に深くダイブします。多様な展示を探索し、建物自体の美しい建築を楽しむために、少なくとも数時間を割り当ててください。",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "聖ヴィート大聖堂",
+          "type": "temple",
+          "description": "プラハ城内にある聖ヴィート大聖堂は、ゴシック建築の傑作です。美しいステンドグラスの窓と精巧なディテールは必見です。訪問者はその美しさと精神的な意義を十分に理解するために、ここで約1時間を過ごすことが多いです。市のパノラマビューを楽しむために、頂上まで登ってください。",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "ヴィシェラド",
+          "type": "park",
+          "description": "ヴィシェラドは歴史的な要塞であり、プラハの過去を垣間見るだけでなく、都市のスカイラインの素晴らしい景色も提供します。要塞を囲む公園は、ゆったりとした散歩やピクニックに最適です。美しい庭園、聖ペトルと聖パウロのバシリカ、ヴィシェラド墓地を探索できます。穏やかな雰囲気を楽しむために数時間を計画してください。",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "カルロヴィ・ラズニェ",
+          "type": "market",
+          "description": "カルロヴィ・ラズニェは歴史的な建物で、現在はプラハで最も人気のあるナイトクラブの一つとして機能しています。異なる音楽スタイルを提供する数層のフロアがあり、地元のナイトライフを体験するのに最適な場所です。入場料はかかりますが、内部のカフェやバーを気軽に訪れることもできます。活気に満ちた雰囲気を楽しむために、夕方に訪れるのがベストです。",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 프라하 최고의 명소 — 티켓, 팁 및 완벽한 가이드",
+      "seo_description": "프라하 최고의 명소를 탐험하세요. 프라하의 주요 랜드마크에 대한 개장 시간, 티켓 가격 및 예약 링크를 찾으세요.",
+      "page_intro": "프라하는 체코 공화국의 수도로, 역사, 문화 및 멋진 건축물이 완벽하게 어우러진 도시입니다. 매력적인 자갈길, 웅장한 성, 활기찬 동네가 전 세계 방문객들을 매료시킵니다. 상징적인 카를 다리 탐험이나 역사적인 구시가지에서 현지 요리를 맛보는 등, 프라하는 모든 여행자에게 잊을 수 없는 경험을 제공합니다.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "카를 다리",
+          "type": "landmark",
+          "description": "카를 다리는 구시가지와 소도시를 연결하는 아름다운 역사적 다리입니다. 30개의 조각상으로 장식된 이 상징적인 구조물은 블타바 강과 프라하 성의 숨막히는 경관을 제공합니다. 혼잡함을 피하고 경치 좋은 아름다움을 감상하며 평화로운 산책을 즐기기 위해 이른 아침에 방문하는 것이 좋습니다.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "프라하 성",
+          "type": "landmark",
+          "description": "프라하 성은 세계 최대의 고대 성 중 하나로, 유네스코 세계 문화 유산입니다. 내부에서는 멋진 성 비타 대성당, 구 왕궁 및 아름다운 정원을 탐방할 수 있습니다. 성 단지는 광대하고 풍부한 역사와 장관을 제공하므로 최소 몇 시간을 할애하여 방문하는 것이 좋습니다.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "구시가지 광장",
+          "type": "district",
+          "description": "구시가지 광장은 프라하의 역사적 중심지로, 멋진 고딕 및 바로크 건축물로 둘러싸여 있습니다. 유명한 관광 명소로는 천문 시계와 틴 교회가 있습니다. 거리 공연자, 카페 및 상점으로 가득한 활기찬 지역입니다. 이곳의 분위기를 즐기고 전통 체코 음식을 맛보는 시간을 가져보세요.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "프라하 국립 미술관",
+          "type": "museum",
+          "description": "프라하 국립 미술관은 체코 및 국제 미술의 방대한 컬렉션을 소장하고 있습니다. 중세부터 현대 작품까지, 이 박물관은 지역의 미술사를 깊이 탐구합니다. 다양한 전시회를 탐험하고 건물 자체의 아름다운 건축을 즐기기 위해 최소 몇 시간을 할애하세요.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "성 비타 대성당",
+          "type": "temple",
+          "description": "프라하 성 내에 위치한 성 비타 대성당은 고딕 건축의 걸작입니다. 그 멋진 스테인드글라스 창과 복잡한 세부 사항은 꼭 방문해야 할 명소입니다. 방문객들은 그 아름다움과 영적 의미를 충분히 감상하기 위해 대개 여기에서 약 1시간을 보냅니다. 도시의 전경을 감상하기 위해 꼭대기로 올라가세요.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "비셰흐라드",
+          "type": "park",
+          "description": "비셰흐라드는 역사적인 요새로, 프라하의 과거를 엿볼 수 있을 뿐만 아니라 도시의 스카이라인에 대한 멋진 전망도 제공합니다. 요새를 둘러싼 공원은 여유롭게 산책하거나 소풍을 즐기기에 완벽합니다. 아름다운 정원, 성 베드로와 성 바울 대성당, 비셰흐라드 묘지를 탐방할 수 있습니다. 평화로운 분위기를 즐기기 위해 몇 시간을 계획하세요.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "칼로비 라즈네",
+          "type": "market",
+          "description": "칼로비 라즈네는 역사적인 건물로 현재 프라하에서 가장 인기 있는 나이트클럽 중 하나로 사용되고 있습니다. 다양한 음악 스타일을 제공하는 여러 층이 있어 지역의 밤문화를 경험하기에 좋은 장소입니다. 입장료가 부과되지만 내부의 카페와 바도 편안하게 방문할 수 있습니다. 활기찬 분위기를 즐기기 위해 저녁에 방문하는 것이 좋습니다.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Top Attractions à Prague 2026 — Billets, Conseils & Guide Complet",
+      "seo_description": "Découvrez les meilleures attractions à Prague. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Prague.",
+      "page_intro": "Prague, la capitale de la République tchèque, est une ville qui mêle harmonieusement histoire, culture et architecture époustouflante. Avec ses charmantes rues pavées, ses majestueux châteaux et ses quartiers vibrants, elle captive les visiteurs du monde entier. Que vous exploriez le célèbre pont Charles ou que vous savouriez la cuisine locale dans la vieille ville historique, Prague offre une expérience inoubliable à chaque voyageur.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "Pont Charles",
+          "type": "landmark",
+          "description": "Le pont Charles est un magnifique pont historique qui relie la vieille ville et la petite ville. Orné de 30 statues, cette structure emblématique offre des vues à couper le souffle sur la rivière Vltava et le château de Prague. Il est préférable de le visiter tôt le matin pour éviter la foule et profiter d'une promenade paisible tout en admirant la beauté scénique.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "Château de Prague",
+          "type": "landmark",
+          "description": "Le château de Prague est l'un des plus grands châteaux anciens du monde et un site du patrimoine mondial de l'UNESCO. À l'intérieur, vous pouvez explorer la magnifique cathédrale Saint-Vit, l'Ancien Palais Royal et de beaux jardins. Prévoyez de passer au moins quelques heures ici, car le complexe du château est vaste et offre une riche histoire et des vues spectaculaires.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "Place de la Vieille Ville",
+          "type": "district",
+          "description": "La place de la Vieille Ville est le cœur historique de Prague, entourée de superbes bâtiments gothiques et baroques. Les sites notables incluent l'Horloge Astronomique et l'Église de Notre-Dame-de-Týn. C'est une zone vibrante remplie de performers de rue, de cafés et de boutiques. Prenez le temps de profiter de l'atmosphère et peut-être de vous adonner à quelques plats traditionnels tchèques.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "Galerie Nationale de Prague",
+          "type": "museum",
+          "description": "La Galerie Nationale de Prague abrite une vaste collection d'art tchèque et international. Des œuvres médiévales aux contemporaines, ce musée offre une plongée dans l'histoire de l'art de la région. Prévoyez au moins quelques heures pour explorer ses diverses expositions et apprécier la belle architecture du bâtiment lui-même.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "Cathédrale Saint-Vit",
+          "type": "temple",
+          "description": "Située dans le château de Prague, la cathédrale Saint-Vit est un chef-d'œuvre de l'architecture gothique. Ses magnifiques vitraux et ses détails complexes en font un incontournable. Les visiteurs passent souvent environ une heure ici pour apprécier pleinement sa beauté et son importance spirituelle. Montez au sommet pour une vue panoramique de la ville.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "Vyšehrad",
+          "type": "park",
+          "description": "Vyšehrad est une forteresse historique qui offre non seulement un aperçu du passé de Prague, mais aussi des vues imprenables sur la ligne d'horizon de la ville. Le parc entourant la forteresse est parfait pour une promenade tranquille ou un pique-nique. Vous pouvez explorer les magnifiques jardins, la basilique Saint-Pierre-et-Saint-Paul, et le cimetière de Vyšehrad. Prévoyez quelques heures pour profiter de l'atmosphère sereine.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "Karlovy Lázně",
+          "type": "market",
+          "description": "Karlovy Lázně est un bâtiment historique qui sert désormais de l'un des clubs de nuit les plus populaires de Prague. Avec plusieurs étages, chacun offrant différents styles de musique, c'est un excellent endroit pour vivre la vie nocturne locale. Bien que des frais d'entrée s'appliquent, vous pouvez également profiter de visites décontractées dans les cafés et bars à l'intérieur. Il est préférable de visiter le soir pour une ambiance animée.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en Praga 2026 — Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones de Praga. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Praga.",
+      "page_intro": "Praga, la capital de la República Checa, es una ciudad que mezcla a la perfección historia, cultura y arquitectura impresionante. Con sus encantadoras calles adoquinadas, majestuosos castillos y vibrantes vecindarios, cautiva a los visitantes de todo el mundo. Ya sea que estés explorando el icónico Puente de Carlos o saboreando la cocina local en el histórico casco antiguo, Praga ofrece una experiencia inolvidable para cada viajero.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "Puente de Carlos",
+          "type": "landmark",
+          "description": "El Puente de Carlos es un impresionante puente histórico que conecta el casco antiguo y la ciudad menor. Adornado con 30 estatuas, esta icónica estructura ofrece impresionantes vistas del río Vltava y del Castillo de Praga. Es mejor visitarlo temprano en la mañana para evitar multitudes y disfrutar de un tranquilo paseo mientras se contempla la belleza escénica.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "Castillo de Praga",
+          "type": "landmark",
+          "description": "El Castillo de Praga es uno de los castillos antiguos más grandes del mundo y un sitio del Patrimonio Mundial de la UNESCO. En su interior, puedes explorar la impresionante Catedral de San Vito, el Antiguo Palacio Real y hermosos jardines. Planea pasar al menos unas horas aquí, ya que el complejo del castillo es vasto y ofrece una rica historia y vistas espectaculares.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "Plaza de la Ciudad Vieja",
+          "type": "district",
+          "description": "La Plaza de la Ciudad Vieja es el corazón histórico de Praga, rodeada de impresionantes edificaciones góticas y barrocas. Los sitios notables incluyen el Reloj Astronómico y la Iglesia de Nuestra Señora de Týn. Es una zona vibrante llena de artistas callejeros, cafeterías y tiendas. Tómate tu tiempo para disfrutar del ambiente y quizás deleitarte con algo de comida tradicional checa.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "Galería Nacional de Praga",
+          "type": "museum",
+          "description": "La Galería Nacional de Praga alberga una extensa colección de arte checo e internacional. Desde obras medievales hasta contemporáneas, este museo ofrece una profunda inmersión en la historia del arte de la región. Dedica al menos un par de horas para explorar sus diversas exposiciones y disfrutar de la hermosa arquitectura del edificio en sí.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "Catedral de San Vito",
+          "type": "temple",
+          "description": "Ubicada dentro del Castillo de Praga, la Catedral de San Vito es una obra maestra de la arquitectura gótica. Sus impresionantes vitrales y sus intrincados detalles la convierten en un lugar de visita obligada. Los visitantes suelen pasar alrededor de una hora aquí para apreciar plenamente su belleza y significado espiritual. Sube a la cima para disfrutar de vistas panorámicas de la ciudad.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "Vyšehrad",
+          "type": "park",
+          "description": "Vyšehrad es una fortaleza histórica que ofrece no solo un vistazo al pasado de Praga, sino también impresionantes vistas del horizonte de la ciudad. El parque que rodea la fortaleza es perfecto para un paseo tranquilo o un picnic. Puedes explorar los hermosos jardines, la Basílica de San Pedro y San Pablo, y el Cementerio de Vyšehrad. Planea un par de horas para empaparte de la atmósfera serena.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "Karlovy Lázně",
+          "type": "market",
+          "description": "Karlovy Lázně es un edificio histórico que ahora sirve como uno de los clubes nocturnos más populares de Praga. Con varios pisos, cada uno ofreciendo diferentes estilos de música, es un excelente lugar para experimentar la vida nocturna local. Aunque se aplican tarifas de entrada, también puedes disfrutar de visitas informales a los cafés y bares dentro. Es mejor visitarlo por la noche para una atmósfera animada.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Atraksi Teratas di Praha 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_description": "Jelajahi atraksi terbaik di Praha. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Praha.",
+      "page_intro": "Praha, ibukota Republik Ceko, adalah kota yang menggabungkan sejarah, budaya, dan arsitektur yang menakjubkan. Dengan jalan-jalan berbatu yang menawan, kastil yang megah, dan lingkungan yang hidup, ia memikat pengunjung dari seluruh dunia. Apakah Anda menjelajahi Jembatan Charles yang ikonik atau menikmati masakan lokal di Kota Tua yang bersejarah, Praha menawarkan pengalaman tak terlupakan bagi setiap pelancong.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "Jembatan Charles",
+          "type": "landmark",
+          "description": "Jembatan Charles adalah jembatan bersejarah yang menakjubkan yang menghubungkan Kota Tua dan Kota Kecil. Dihiasi dengan 30 patung, struktur ikonik ini menawarkan pemandangan yang menakjubkan dari Sungai Vltava dan Kastil Praha. Sebaiknya kunjungi di pagi hari untuk menghindari keramaian dan menikmati jalan-jalan yang tenang sambil menikmati keindahan pemandangan.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "Kastil Praha",
+          "type": "landmark",
+          "description": "Kastil Praha adalah salah satu kastil kuno terbesar di dunia dan situs Warisan Dunia UNESCO. Di dalamnya, Anda dapat menjelajahi Katedral St. Vitus yang menakjubkan, Istana Kerajaan Lama, dan taman-taman yang indah. Rencanakan untuk menghabiskan setidaknya beberapa jam di sini, karena kompleks kastil ini sangat luas dan menawarkan sejarah yang kaya serta pemandangan yang spektakuler.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "Alun-Alun Kota Tua",
+          "type": "district",
+          "description": "Alun-Alun Kota Tua adalah pusat sejarah Praha, dikelilingi oleh arsitektur Gotik dan Barok yang menakjubkan. Tempat-tempat yang terkenal termasuk Jam Astronomi dan Gereja Týn. Ini adalah daerah yang hidup dipenuhi dengan penghibur jalanan, kafe, dan toko. Luangkan waktu Anda untuk menikmati suasana dan mungkin menikmati beberapa makanan tradisional Ceko.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "Galeri Nasional Praha",
+          "type": "museum",
+          "description": "Galeri Nasional di Praha menampung koleksi seni Ceko dan internasional yang luas. Dari karya-karya abad pertengahan hingga kontemporer, museum ini menawarkan penelusuran mendalam ke dalam sejarah seni di daerah tersebut. Alokasikan setidaknya beberapa jam untuk menjelajahi pameran yang beragam dan menikmati arsitektur indah dari bangunan itu sendiri.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "Katedral St. Vitus",
+          "type": "temple",
+          "description": "Terletak di dalam Kastil Praha, Katedral St. Vitus adalah mahakarya arsitektur Gotik. Jendela kaca patri yang menakjubkan dan detail rumitnya menjadikannya tempat yang wajib dikunjungi. Pengunjung sering menghabiskan sekitar satu jam di sini untuk sepenuhnya menghargai keindahan dan makna spiritualnya. Naik ke puncak untuk pemandangan kota yang panoramik.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "Vyšehrad",
+          "type": "park",
+          "description": "Vyšehrad adalah sebuah benteng bersejarah yang tidak hanya menawarkan sekilas tentang masa lalu Praha tetapi juga pemandangan menakjubkan dari cakrawala kota. Taman yang mengelilingi benteng sangat cocok untuk berjalan-jalan santai atau piknik. Anda dapat menjelajahi taman yang indah, Basilika St. Peter dan St. Paul, serta Pemakaman Vyšehrad. Rencanakan beberapa jam untuk meresapi suasana yang tenang.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "Karlovy Lázně",
+          "type": "market",
+          "description": "Karlovy Lázně adalah bangunan bersejarah yang kini berfungsi sebagai salah satu klub malam paling populer di Praha. Dengan beberapa lantai, masing-masing menawarkan gaya musik yang berbeda, ini adalah tempat yang bagus untuk merasakan kehidupan malam lokal. Meskipun ada biaya masuk, Anda juga dapat menikmati kunjungan santai ke kafe dan bar di dalam. Sebaiknya kunjungi pada malam hari untuk suasana yang meriah.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "प्राग में शीर्ष आकर्षण 2026 — टिकट, सुझाव और पूर्ण गाइड",
+      "seo_description": "प्राग के सर्वश्रेष्ठ आकर्षणों का अन्वेषण करें। प्राग के शीर्ष स्थलों के लिए उद्घाटन घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "प्राग, चेक गणराज्य की राजधानी, एक ऐसा शहर है जो इतिहास, संस्कृति और अद्भुत वास्तुकला को सहजता से मिलाता है। इसकी आकर्षक कंकरीली सड़कों, भव्य महल और जीवंत पड़ोस के साथ, यह दुनिया भर के आगंतुकों को आकर्षित करता है। चाहे आप प्रसिद्ध चार्ल्स ब्रिज का अन्वेषण कर रहे हों या ऐतिहासिक ओल्ड टाउन में स्थानीय व्यंजन का आनंद ले रहे हों, प्राग हर यात्री के लिए एक अविस्मरणीय अनुभव प्रदान करता है।",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "चार्ल्स ब्रिज",
+          "type": "landmark",
+          "description": "चार्ल्स ब्रिज एक अद्भुत ऐतिहासिक पुल है जो ओल्ड टाउन और लेसर टाउन को जोड़ता है। 30 मूर्तियों से सजित, यह प्रतीकात्मक संरचना वल्टावा नदी और प्राग कैसल के शानदार दृश्य प्रस्तुत करती है। भीड़ से बचने और दृश्य सौंदर्य का आनंद लेने के लिए सुबह जल्दी जाना सबसे अच्छा है।",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "प्राग कैसल",
+          "type": "landmark",
+          "description": "प्राग कैसल दुनिया के सबसे बड़े प्राचीन महलों में से एक है और एक यूनेस्को विश्व धरोहर स्थल है। अंदर, आप अद्भुत सेंट विटस कैथेड्रल, ओल्ड रॉयल पैलेस और सुंदर बागों का अन्वेषण कर सकते हैं। यहाँ कम से कम कुछ घंटे बिताने की योजना बनाएं, क्योंकि महल परिसर विशाल है और इसमें समृद्ध इतिहास और शानदार दृश्य हैं।",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "ओल्ड टाउन स्क्वायर",
+          "type": "district",
+          "description": "ओल्ड टाउन स्क्वायर प्राग का ऐतिहासिक दिल है, जो शानदार गोथिक और बारोक वास्तुकला से घिरा हुआ है। उल्लेखनीय स्थलों में खगोलशास्त्रीय घड़ी और टीन चर्च शामिल हैं। यह एक जीवंत क्षेत्र है जो सड़क कलाकारों, कैफे और दुकानों से भरा हुआ है। वातावरण का आनंद लेने और शायद कुछ पारंपरिक चेक भोजन का आनंद लेने के लिए अपना समय बिताएं।",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "नेशनल गैलरी प्राग",
+          "type": "museum",
+          "description": "नेशनल गैलरी प्राग में चेक और अंतरराष्ट्रीय कला का एक व्यापक संग्रह है। मध्यकालीन से समकालीन कार्यों तक, यह संग्रहालय क्षेत्र की कला इतिहास में गहराई से गोताखोरी करता है। इसके विविध प्रदर्शनियों का अन्वेषण करने और भवन की सुंदर वास्तुकला का आनंद लेने के लिए कम से कम कुछ घंटे आवंटित करें।",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "सेंट विटस कैथेड्रल",
+          "type": "temple",
+          "description": "प्राग कैसल के अंदर स्थित, सेंट विटस कैथेड्रल गोथिक वास्तुकला का एक उत्कृष्ट उदाहरण है। इसकी अद्भुत रंगीन कांच की खिड़कियाँ और जटिल विवरण इसे देखना अनिवार्य बनाते हैं। आगंतुक अक्सर इसकी सुंदरता और आध्यात्मिक महत्व को पूरी तरह से समझने के लिए यहाँ लगभग एक घंटा बिताते हैं। शहर के पैनोरमिक दृश्य के लिए शीर्ष पर चढ़ें।",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "वायसेह्राद",
+          "type": "park",
+          "description": "वायसेह्राद एक ऐतिहासिक किला है जो न केवल प्राग के अतीत में झलक दिखाता है बल्कि शहर के आकाशीय दृश्य भी प्रस्तुत करता है। किले के चारों ओर का पार्क आरामदायक टहलने या पिकनिक के लिए आदर्श है। आप सुंदर बागों, सेंट पीटर और सेंट पॉल के बासिलिका और वायसेह्राद कब्रिस्तान का अन्वेषण कर सकते हैं। शांत वातावरण का आनंद लेने के लिए कुछ घंटे की योजना बनाएं।",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "कार्लोवी लाज़्ने",
+          "type": "market",
+          "description": "कार्लोवी लाज़्ने एक ऐतिहासिक भवन है जो अब प्राग के सबसे लोकप्रिय नाइटक्लबों में से एक के रूप में कार्य करता है। कई मंजिलों के साथ, प्रत्येक अलग-अलग संगीत शैलियों की पेशकश करता है, यह स्थानीय नाइटलाइफ़ का अनुभव करने के लिए एक शानदार स्थान है। जबकि प्रवेश शुल्क लागू होते हैं, आप कैफे और बार में आकस्मिक दौरे का भी आनंद ले सकते हैं। जीवंत वातावरण के लिए शाम को जाना सबसे अच्छा है।",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Praga 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Praga. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Praga.",
+      "page_intro": "Praga, a capital da República Tcheca, é uma cidade que combina perfeitamente história, cultura e arquitetura deslumbrante. Com suas charmosas ruas de paralelepípedos, majestosos castelos e bairros vibrantes, encanta visitantes de todo o mundo. Seja explorando a icônica Ponte Carlos ou saboreando a culinária local na histórica Cidade Velha, Praga oferece uma experiência inesquecível para cada viajante.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "Ponte Carlos",
+          "type": "landmark",
+          "description": "A Ponte Carlos é uma deslumbrante ponte histórica que conecta a Cidade Velha e a Cidade Menor. Adornada com 30 estátuas, esta estrutura icônica oferece vistas de tirar o fôlego do Rio Vltava e do Castelo de Praga. É melhor visitá-la de manhã cedo para evitar multidões e desfrutar de um passeio tranquilo enquanto aprecia a beleza cênica.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "Castelo de Praga",
+          "type": "landmark",
+          "description": "O Castelo de Praga é um dos maiores castelos antigos do mundo e um Patrimônio Mundial da UNESCO. Dentro, você pode explorar a deslumbrante Catedral de São Vito, o Antigo Palácio Real e belos jardins. Planeje passar pelo menos algumas horas aqui, pois o complexo do castelo é vasto e oferece uma rica história e vistas espetaculares.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "Praça da Cidade Velha",
+          "type": "district",
+          "description": "A Praça da Cidade Velha é o coração histórico de Praga, cercada por deslumbrante arquitetura gótica e barroca. Os locais notáveis incluem o Relógio Astronômico e a Igreja de Týn. É uma área vibrante, cheia de artistas de rua, cafés e lojas. Aproveite o ambiente e talvez se delicie com alguma comida tcheca tradicional.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "Galeria Nacional de Praga",
+          "type": "museum",
+          "description": "A Galeria Nacional em Praga abriga uma extensa coleção de arte tcheca e internacional. Desde obras medievais até contemporâneas, este museu oferece um mergulho profundo na história da arte da região. Reserve pelo menos algumas horas para explorar suas diversas exposições e desfrutar da bela arquitetura do próprio edifício.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "Catedral de São Vito",
+          "type": "temple",
+          "description": "Localizada dentro do Castelo de Praga, a Catedral de São Vito é uma obra-prima da arquitetura gótica. Suas deslumbrantes janelas de vitral e detalhes intrincados a tornam imperdível. Os visitantes costumam passar cerca de uma hora aqui para apreciar plenamente sua beleza e importância espiritual. Suba até o topo para vistas panorâmicas da cidade.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "Vyšehrad",
+          "type": "park",
+          "description": "Vyšehrad é uma fortaleza histórica que oferece não apenas um vislumbre do passado de Praga, mas também vistas deslumbrantes do horizonte da cidade. O parque ao redor da fortaleza é perfeito para um passeio tranquilo ou um piquenique. Você pode explorar os belos jardins, a Basílica de São Pedro e São Paulo, e o Cemitério de Vyšehrad. Planeje passar algumas horas para absorver a atmosfera serena.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "Karlovy Lázně",
+          "type": "market",
+          "description": "Karlovy Lázně é um edifício histórico que agora serve como uma das casas noturnas mais populares de Praga. Com vários andares, cada um oferecendo diferentes estilos musicais, é um ótimo lugar para vivenciar a vida noturna local. Embora haja taxas de entrada, você também pode desfrutar de visitas casuais aos cafés e bares internos. É melhor visitar à noite para uma atmosfera animada.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في براغ 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في براغ. ابحث عن ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم براغ.",
+      "page_intro": "براغ، عاصمة جمهورية التشيك، هي مدينة تمتزج فيها التاريخ والثقافة والهندسة المعمارية الرائعة بشكل سلس. بشوارعها المرصوفة بالحصى الساحرة، وقلاعها المهيبة، وأحيائها النابضة بالحياة، تأسر الزوار من جميع أنحاء العالم. سواء كنت تستكشف جسر تشارلز الأيقوني أو تستمتع بالمأكولات المحلية في المدينة القديمة التاريخية، تقدم براغ تجربة لا تُنسى لكل مسافر.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "جسر تشارلز",
+          "type": "landmark",
+          "description": "جسر تشارلز هو جسر تاريخي رائع يربط بين المدينة القديمة والمدينة الأصغر. مزين بـ 30 تمثالًا، تقدم هذه البنية الأيقونية مناظر خلابة لنهر فلتافا وقلعة براغ. من الأفضل زيارتها في الصباح الباكر لتجنب الحشود والاستمتاع بنزهة هادئة مع الاستمتاع بجمال المناظر الطبيعية.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "قلعة براغ",
+          "type": "landmark",
+          "description": "قلعة براغ هي واحدة من أكبر القلاع القديمة في العالم وموقع تراث عالمي لليونسكو. في الداخل، يمكنك استكشاف كاتدرائية سانت فيتوس الرائعة، والقلعة الملكية القديمة، وحدائق جميلة. خطط لقضاء بضع ساعات على الأقل هنا، حيث أن مجمع القلعة شاسع ويقدم تاريخًا غنيًا وإطلالات رائعة.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "ساحة المدينة القديمة",
+          "type": "district",
+          "description": "ساحة المدينة القديمة هي القلب التاريخي لبراغ، محاطة بهندسة معمارية قوطية وباروكية رائعة. تشمل المعالم البارزة الساعة الفلكية وكنيسة تين. إنها منطقة نابضة بالحياة مليئة بفناني الشوارع والمقاهي والمحلات. خذ وقتك للاستمتاع بالجو وربما استمتع ببعض الأطعمة التشيكية التقليدية.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "المعرض الوطني في براغ",
+          "type": "museum",
+          "description": "يحتوي المعرض الوطني في براغ على مجموعة واسعة من الفن التشيكي والدولي. من الأعمال الفنية من العصور الوسطى إلى المعاصرة، يقدم هذا المتحف غوصًا عميقًا في تاريخ الفن في المنطقة. خصص بضع ساعات لاستكشاف معارضه المتنوعة والاستمتاع بجمال هندسة المبنى نفسه.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "كاتدرائية سانت فيتوس",
+          "type": "temple",
+          "description": "تقع كاتدرائية سانت فيتوس داخل قلعة براغ، وهي تحفة من العمارة القوطية. نوافذها الزجاجية الملونة الرائعة والتفاصيل المعقدة تجعلها وجهة لا بد من زيارتها. يقضي الزوار عادة حوالي ساعة هنا لتقدير جمالها وأهميتها الروحية بشكل كامل. تسلق إلى القمة للحصول على مناظر بانورامية للمدينة.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "فيشهراد",
+          "type": "park",
+          "description": "فيشهراد هو حصن تاريخي يقدم لمحة عن ماضي براغ، بالإضافة إلى مناظر رائعة لأفق المدينة. الحديقة المحيطة بالقلعة مثالية لنزهة مريحة أو نزهة. يمكنك استكشاف الحدائق الجميلة، وكنيسة سانت بطرس وسانت بول، ومقبرة فيشهراد. خطط لقضاء بضع ساعات لامتصاص الأجواء الهادئة.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "كارلوفي لازني",
+          "type": "market",
+          "description": "كارلوفي لازني هو مبنى تاريخي يعمل الآن كأحد أشهر نوادي الليل في براغ. مع عدة طوابق، كل منها يقدم أنماط موسيقية مختلفة، إنه مكان رائع لتجربة الحياة الليلية المحلية. بينما يتم تطبيق رسوم الدخول، يمكنك أيضًا الاستمتاع بزيارات غير رسمية للمقاهي والبارات الداخلية. من الأفضل زيارة في المساء للاستمتاع بأجواء حيوية.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "প্রাগের শীর্ষ আকর্ষণ 2026 - টিকিট, পরামর্শ এবং সম্পূর্ণ গাইড",
+      "seo_description": "প্রাগের সেরা আকর্ষণগুলি অন্বেষণ করুন। প্রাগের শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "page_intro": "প্রাগ, চেক প্রজাতন্ত্রের রাজধানী, একটি শহর যা ইতিহাস, সংস্কৃতি এবং চমৎকার স্থাপত্যকে নিখুঁতভাবে মিশ্রিত করে। এর আকর্ষণীয় পাথরের রাস্তা, মহিমান্বিত দুর্গ এবং প্রাণবন্ত পাড়া, এটি বিশ্বের বিভিন্ন প্রান্তের দর্শকদের মুগ্ধ করে। আপনি আইকনিক চার্লস ব্রিজ অন্বেষণ করছেন বা ঐতিহাসিক পুরানো শহরে স্থানীয় রান্নার স্বাদ নিচ্ছেন, প্রাগ প্রতিটি ভ্রমণকারীর জন্য একটি অবিস্মরণীয় অভিজ্ঞতা প্রদান করে।",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "চার্লস ব্রিজ",
+          "type": "landmark",
+          "description": "চার্লস ব্রিজ একটি চমৎকার ঐতিহাসিক সেতু যা পুরানো শহর এবং লেসার টাউনের সংযোগ স্থাপন করে। 30টি মূর্তির সঙ্গে সজ্জিত, এই আইকনিক কাঠামো ভল্টাভা নদী এবং প্রাগ ক্যাসেলের মনোমুগ্ধকর দৃশ্য প্রদান করে। ভিড় এড়াতে এবং দৃশ্যমান সৌন্দর্যের সাথে একটি শান্ত হাঁটার জন্য সকালে যাওয়া সর্বোত্তম।",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "প্রাগ ক্যাসেল",
+          "type": "landmark",
+          "description": "প্রাগ ক্যাসেল বিশ্বের বৃহত্তম প্রাচীন দুর্গগুলির মধ্যে একটি এবং একটি ইউনেস্কো বিশ্ব ঐতিহ্য স্থান। ভিতরে, আপনি চমত্কার সেন্ট ভিটাস ক্যাথেড্রাল, পুরানো রয়্যাল প্যালেস এবং সুন্দর বাগানগুলি অন্বেষণ করতে পারেন। এখানে অন্তত কয়েক ঘন্টা কাটানোর পরিকল্পনা করুন, কারণ দুর্গের চত্বর বিশাল এবং এতে সমৃদ্ধ ইতিহাস এবং অসাধারণ দৃষ্টিভঙ্গি রয়েছে।",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "পুরানো শহরের স্কয়ার",
+          "type": "district",
+          "description": "পুরানো শহরের স্কয়ার প্রাগের ঐতিহাসিক হৃদয়, চমৎকার গথিক এবং বারোক স্থাপত্য দ্বারা বেষ্টিত। উল্লেখযোগ্য স্থানগুলির মধ্যে রয়েছে অ্যাস্ট্রোনমিক্যাল ক্লক এবং টিন গীর্জা। এটি একটি প্রাণবন্ত এলাকা যা রাস্তার শিল্পী, ক্যাফে এবং দোকানে পূর্ণ। পরিবেশ উপভোগ করতে এবং সম্ভবত কিছু ঐতিহ্যবাহী চেক খাবারের স্বাদ নিতে আপনার সময় নিন।",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "ন্যাশনাল গ্যালারি প্রাগ",
+          "type": "museum",
+          "description": "ন্যাশনাল গ্যালারি প্রাগে চেক এবং আন্তর্জাতিক শিল্পের একটি বিস্তৃত সংগ্রহ রয়েছে। মধ্যযুগীয় থেকে সমকালীন শিল্পকর্ম, এই জাদুঘরটি অঞ্চলের শিল্প ইতিহাসে গভীরভাবে প্রবাহিত করে। এর বৈচিত্র্যময় প্রদর্শনীগুলি অন্বেষণ করতে এবং ভবনের সুন্দর স্থাপত্য উপভোগ করতে অন্তত কয়েক ঘন্টা বরাদ্দ করুন।",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "সেন্ট ভিটাস ক্যাথেড্রাল",
+          "type": "temple",
+          "description": "প্রাগ ক্যাসেলের ভিতরে অবস্থিত, সেন্ট ভিটাস ক্যাথেড্রাল গথিক স্থাপত্যের একটি মাস্টারপিস। এর চমৎকার রঙিন কাচের জানালা এবং জটিল বিবরণ এটিকে দেখা বাধ্যতামূলক করে তোলে। দর্শকরা প্রায় এক ঘণ্টা এখানে কাটান যাতে এর সৌন্দর্য এবং আধ্যাত্মিক গুরুত্ব সম্পূর্ণরূপে উপলব্ধি করতে পারে। শহরের প্যানোরামিক দৃশ্যের জন্য শীর্ষে উঠুন।",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "ভিসেহ্রাদ",
+          "type": "park",
+          "description": "ভিসেহ্রাদ একটি ঐতিহাসিক দুর্গ যা শুধুমাত্র প্রাগের অতীতে একটি ঝলক দেয় না বরং শহরের স্কাইলাইন-এর চমৎকার দৃশ্যও দেয়। দুর্গের চারপাশের পার্কটি একটি আরামদায়ক হাঁটার বা পিকনিকের জন্য নিখুঁত। আপনি সুন্দর বাগান, সেন্ট পিটার এবং সেন্ট পল গীর্জা, এবং ভিসেহ্রাদ কবরস্থান অন্বেষণ করতে পারেন। শান্ত পরিবেশ উপভোগ করতে পরিকল্পনা করুন।",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "কার্লোভি লাজনে",
+          "type": "market",
+          "description": "কার্লোভি লাজনে একটি ঐতিহাসিক ভবন যা এখন প্রাগের সবচেয়ে জনপ্রিয় নাইটক্লাবগুলির একটি হিসেবে কাজ করে। একাধিক তল, প্রতিটি ভিন্ন সঙ্গীত শৈলী অফার করে, এটি স্থানীয় নাইটলাইফ অভিজ্ঞতা করার জন্য একটি দুর্দান্ত স্থান। প্রবেশের জন্য ফি প্রযোজ্য হলেও, আপনি অভ্যন্তরীণ ক্যাফে এবং বারগুলিতে অপ্রাতিষ্ঠানিক সফরেরও আনন্দ নিতে পারেন। প্রাণবন্ত পরিবেশের জন্য সন্ধ্যায় যাওয়া সর্বোত্তম।",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Главные достопримечательности Праги 2026 — Билеты, советы и полный гид",
+      "seo_description": "Изучите лучшие достопримечательности Праги. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Праги.",
+      "page_intro": "Прага, столица Чехии, — это город, который гармонично сочетает в себе историю, культуру и потрясающую архитектуру. С его очаровательными брусчатыми улицами, величественными замками и яркими районами он притягивает посетителей со всего мира. Будь то исследование знакового Карлова моста или наслаждение местной кухней в историческом Старом городе, Прага предлагает незабываемые впечатления для каждого путешественника.",
+      "items": [
+        {
+          "id": "charles-bridge",
+          "name": "Карлов мост",
+          "type": "landmark",
+          "description": "Карлов мост — это потрясающий исторический мост, который соединяет Старый город и Малу Страну. Украшенный 30 статуями, этот знаковый объект предлагает захватывающие виды на реку Влтава и Пражский град. Лучше всего посещать его рано утром, чтобы избежать толп и насладиться спокойной прогулкой, наслаждаясь живописной красотой.",
+          "image_keyword": "Charles Bridge Prague",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Charles Bridge tickets"
+        },
+        {
+          "id": "prague-castle",
+          "name": "Пражский град",
+          "type": "landmark",
+          "description": "Пражский град — один из крупнейших древних замков в мире и объект Всемирного наследия ЮНЕСКО. Внутри вы сможете исследовать великолепный собор Святого Вита, Старый королевский дворец и красивые сады. Запланируйте провести здесь как минимум несколько часов, так как комплекс замка огромен и предлагает богатую историю и захватывающие виды.",
+          "image_keyword": "Prague Castle",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "Prague Castle tickets"
+        },
+        {
+          "id": "old-town-square",
+          "name": "Староместская площадь",
+          "type": "district",
+          "description": "Староместская площадь — историческое сердце Праги, окруженное великолепной готической и барочной архитектурой. К числу известных достопримечательностей относятся Астрономические часы и Церковь святого Николая. Это оживленный район, полный уличных артистов, кафе и магазинов. Не спешите, чтобы насладиться атмосферой и, возможно, попробовать традиционную чешскую кухню.",
+          "image_keyword": "Old Town Square Prague",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Old Town Square tours"
+        },
+        {
+          "id": "national-gallery-prague",
+          "name": "Национальная галерея Праги",
+          "type": "museum",
+          "description": "Национальная галерея в Праге хранит обширную коллекцию чешского и международного искусства. От средневековых до современных работ, этот музей предлагает глубокое погружение в историю искусства региона. Выделите как минимум пару часов, чтобы исследовать его разнообразные выставки и насладиться прекрасной архитектурой самого здания.",
+          "image_keyword": "National Gallery Prague",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "anytime",
+          "klook_query": "National Gallery Prague tickets"
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": "Собор святого Вита",
+          "type": "temple",
+          "description": "Расположенный внутри Пражского града, Собор святого Вита — это шедевр готической архитектуры. Его великолепные витражи и сложные детали делают его обязательным для посещения. Посетители часто проводят здесь около часа, чтобы в полной мере оценить его красоту и духовное значение. Поднимитесь на вершину, чтобы насладиться панорамным видом на город.",
+          "image_keyword": "St. Vitus Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €10",
+          "best_time": "morning",
+          "klook_query": "St. Vitus Cathedral tickets"
+        },
+        {
+          "id": "vysehrad",
+          "name": "Вышеград",
+          "type": "park",
+          "description": "Вышеград — это историческая крепость, которая предлагает не только взглянуть на прошлое Праги, но и насладиться потрясающими видами на городской пейзаж. Парк вокруг крепости идеально подходит для спокойной прогулки или пикника. Вы можете исследовать красивые сады, базилику святого Петра и Павла и Вышеградское кладбище. Запланируйте провести здесь несколько часов, чтобы насладиться спокойной атмосферой.",
+          "image_keyword": "Vyšehrad Prague",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "afternoon",
+          "klook_query": "Vyšehrad tours"
+        },
+        {
+          "id": "karlovy-lazne",
+          "name": "Карловы Лазне",
+          "type": "market",
+          "description": "Карловы Лазне — это историческое здание, которое сейчас служит одним из самых популярных ночных клубов Праги. С несколькими этажами, каждый из которых предлагает различные музыкальные стили, это отличное место для знакомства с местной ночной жизнью. Хотя взимается плата за вход, вы также можете насладиться непринужденными визитами в кафе и бары внутри. Лучше всего приходить вечером, чтобы насладиться оживленной атмосферой.",
+          "image_keyword": "Karlovy Lazne Prague",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx. €8",
+          "best_time": "evening",
+          "klook_query": "Karlovy Lazne tickets"
+        }
+      ]
+    }
+  }
+}

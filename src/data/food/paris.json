@@ -1,0 +1,1145 @@
+{
+  "city_slug": "paris",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Paris 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Paris. From budget eats to fine dining — with booking links.",
+      "page_intro": "Paris, the city of lights, is also a culinary haven offering a diverse range of food experiences. Whether it's savoring a croissant in a quaint café, indulging in gourmet dishes at a Michelin-starred restaurant, or enjoying street food by the Seine, Paris has something for every palate. The city's culinary scene is a delightful mix of traditional French cuisine and international influences, ensuring a memorable gastronomic journey for all visitors.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "Le Meurice",
+          "type": "restaurant",
+          "description": "Le Meurice offers an exquisite dining experience with its luxurious setting and classic French cuisine curated by the renowned chef Alain Ducasse. The restaurant is known for its opulent decor and impeccable service. Diners can indulge in dishes like the 'Turbot with Caviar' while enjoying views of the Tuileries Garden. Price range is $$$, reflecting its high-end status.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "L'As du Fallafel",
+          "type": "street_food",
+          "description": "Nestled in the vibrant Marais district, L'As du Fallafel is a must-visit for street food enthusiasts. Famous for its delicious and generously filled falafel sandwiches, this spot offers a taste of Middle Eastern flavors at an affordable price. With a lively atmosphere and long lines, it’s a favorite amongst locals and tourists alike. Price range is $, making it a budget-friendly choice.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "Angelina Paris",
+          "type": "cafe",
+          "description": "Angelina is a legendary Parisian café known for its rich hot chocolate and Mont Blanc pastry. Located on Rue de Rivoli, the café exudes an old-world charm with its elegant Belle Époque decor. A perfect spot for a leisurely afternoon tea or a sweet treat, Angelina offers a quintessential Parisian café experience. Price range is $$, offering luxury at a reasonable cost.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "Bouillon Pigalle",
+          "type": "restaurant",
+          "description": "Bouillon Pigalle provides a quintessentially French dining experience at affordable prices. Located in the lively Pigalle district, it is famed for its classic French dishes like escargots and boeuf bourguignon. With a lively atmosphere and a menu that offers great value, it's perfect for those looking to enjoy traditional French cuisine without breaking the bank. Price range is $.",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "Les Halles Market",
+          "type": "street_food",
+          "description": "Les Halles Market is a bustling hub for food lovers, offering a wide variety of fresh produce, meats, and artisanal products. It's a perfect place to sample local cheeses, charcuterie, and baked goods. The lively atmosphere and diverse offerings make it a must-visit for anyone looking to experience Parisian food culture. Price range is $, ideal for budget-conscious travelers.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "Le Baratin",
+          "type": "restaurant",
+          "description": "Le Baratin is a hidden gem in the Belleville district known for its rustic yet refined French cuisine. Helmed by Chef Raquel Carena, the restaurant offers a menu that changes daily based on seasonal ingredients. Its cozy ambiance and expertly crafted dishes like 'Braised Lamb Shoulder' make it a favorite among food critics and locals. Price range is $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "Chez Julien",
+          "type": "cafe",
+          "description": "Chez Julien is a charming café situated on the banks of the Seine, offering a picturesque setting for enjoying classic French pastries and coffee. With its beautiful Art Nouveau interior and delightful terrace, it’s an ideal spot for a leisurely brunch or a romantic evening. The café is celebrated for its exquisite 'Tarte Tatin'. Price range is $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "Marché Bastille",
+          "type": "street_food",
+          "description": "Marché Bastille is one of Paris's largest open-air markets, offering a vibrant selection of fresh produce, gourmet foods, and local specialties. Open twice a week, it's a fantastic place to discover French delicacies, from freshly baked baguettes to regional wines. The market's lively atmosphere and diverse offerings provide an authentic taste of Parisian life. Price range is $, perfect for sampling on a budget.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "巴黎最佳美食 2026 —— 餐厅及街头美食指南",
+      "seo_description": "探索巴黎的最佳餐厅、街头美食和当地特色。从经济实惠的小吃到高档餐饮——附有预订链接。",
+      "page_intro": "巴黎，这座光之城，也是一个美食天堂，提供多种多样的饮食体验。无论是在一个雅致的咖啡馆享用羊角面包，在米其林星级餐厅品尝美食，还是在塞纳河边享用街头小吃，巴黎总能满足每一个味蕾。城市的美食界是传统法式料理与国际风味的完美融合，为所有游客带来难忘的美食之旅。",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "Le Meurice",
+          "type": "restaurant",
+          "description": "Le Meurice 提供奢华的用餐体验，其豪华的环境和由著名厨师阿兰·杜卡斯策划的经典法式料理闻名。餐厅以其华丽的装饰和无可挑剔的服务而闻名。食客可以在享受杜伊勒里花园美景的同时，享用像“鲟鱼鱼子酱”这样的菜肴。价格范围是 $$$，反映其高端地位。",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "L'As du Fallafel",
+          "type": "street_food",
+          "description": "坐落在充满活力的玛莱区，L'As du Fallafel 是街头美食爱好者必去之地。以其美味且料足的法拉费尔三明治而闻名，此地提供中东风味的美食，价格实惠。其热闹的氛围和长队伍使其成为当地人和游客的最爱。价格范围是 $，是一个经济实惠的选择。",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "Angelina Paris",
+          "type": "cafe",
+          "description": "Angelina 是一家传奇的巴黎咖啡馆，以其浓郁的热巧克力和蒙布朗蛋糕而闻名。位于里沃利街，咖啡馆以其优雅的美丽时代装饰散发出旧世界的魅力。是享受悠闲下午茶或甜点的完美场所，Angelina 提供经典的巴黎咖啡馆体验。价格范围是 $$，提供合理价格的奢华。",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "Bouillon Pigalle",
+          "type": "restaurant",
+          "description": "Bouillon Pigalle 以实惠的价格提供典型的法式用餐体验。位于热闹的皮加勒区，以其经典法式菜肴如蜗牛和红酒炖牛肉而闻名。其热闹的氛围和物超所值的菜单非常适合那些希望享受传统法式料理而不花太多钱的人。价格范围是 $。",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "Les Halles Market",
+          "type": "street_food",
+          "description": "Les Halles 市场是美食爱好者的繁忙中心，提供各种新鲜农产品、肉类和手工艺品。是品尝当地奶酪、熟食和烘焙食品的完美场所。市场的热闹氛围和多样的产品使其成为想要体验巴黎饮食文化的人的必去之地。价格范围是 $，适合预算有限的旅行者。",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "Le Baratin",
+          "type": "restaurant",
+          "description": "Le Baratin 是位于贝尔维尔区的隐藏瑰宝，以其质朴而精致的法式料理而闻名。由厨师 Raquel Carena 掌舵，餐厅根据季节性食材每日更换菜单。其舒适的氛围和精心制作的菜肴如“炖羊肩”使其成为美食评论家和当地人的最爱。价格范围是 $$。",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "Chez Julien",
+          "type": "cafe",
+          "description": "Chez Julien 是一家位于塞纳河畔的迷人咖啡馆，提供享受经典法式糕点和咖啡的如画场景。其美丽的新艺术风格内饰和迷人的露台使其成为享受悠闲早午餐或浪漫晚餐的理想场所。咖啡馆因其精美的“苹果挞”而闻名。价格范围是 $$。",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "Marché Bastille",
+          "type": "street_food",
+          "description": "巴士底市场是巴黎最大的露天市场之一，提供丰富的新鲜农产品、美食和当地特色。每周开放两次，是发现法式美味的绝佳场所，从新鲜出炉的长棍面包到地方葡萄酒。市场的热闹氛围和多样的产品为巴黎生活提供了真实的味道。价格范围是 $，非常适合预算有限的品尝。",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "パリのベストフード2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "パリで最高のレストラン、ストリートフード、地元の特産品を発見しましょう。お手頃価格の食事から高級料理まで—予約リンク付き。",
+      "page_intro": "光の街パリは、多様な食の体験を提供する美食の楽園でもあります。風情あるカフェでクロワッサンを味わったり、ミシュラン星付きレストランでグルメ料理を堪能したり、セーヌ川沿いでストリートフードを楽しんだりと、パリはあらゆる味覚に応えます。伝統的なフランス料理と国際的な影響を受けた料理が絶妙に混ざり合ったパリの料理シーンは、訪れるすべての人にとって忘れられない美食の旅を約束します。",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "ル・ムーリス",
+          "type": "restaurant",
+          "description": "ル・ムーリスは、豪華な環境と著名なシェフ、アラン・デュカスによるクラシックなフランス料理で、洗練されたダイニング体験を提供します。レストランは豪華な装飾と完璧なサービスで知られています。食事をしながらチュイルリー庭園の景色を楽しむことができる「キャビア添えターボット」などの料理を味わえます。価格帯は$$$、その高級ステータスを反映しています。",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "ラズ・デュ・ファラフェル",
+          "type": "street_food",
+          "description": "活気あるマレ地区に位置するラズ・デュ・ファラフェルは、ストリートフード愛好者には必訪のスポットです。美味しくて具だくさんのファラフェルサンドイッチで有名なこの場所は、手頃な価格で中東の風味を提供します。賑やかな雰囲気と長い行列で、地元の人々や観光客に大人気です。価格帯は$、予算に優しい選択肢です。",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "アンジェリーナ・パリ",
+          "type": "cafe",
+          "description": "アンジェリーナは濃厚なホットチョコレートとモンブランで知られる伝説のパリのカフェです。リヴォリ通りに位置し、優雅なベルエポックの装飾が旧世界の魅力を醸し出しています。ゆったりとしたアフタヌーンティーや甘いものを楽しむのに最適な場所で、アンジェリーナは典型的なパリのカフェ体験を提供します。価格帯は$$、手頃な価格での贅沢を提供します。",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "ブイヨン・ピガール",
+          "type": "restaurant",
+          "description": "ブイヨン・ピガールは、手頃な価格で典型的なフランス料理体験を提供します。活気あるピガール地区に位置し、エスカルゴやビーフブルギニョンなどのクラシックなフランス料理で有名です。賑やかな雰囲気とお得なメニューで、伝統的なフランス料理を楽しみたい人に最適です。価格帯は$。",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "レ・アル市場",
+          "type": "street_food",
+          "description": "レ・アル市場は、食通のための賑やかな中心地で、新鮮な農産物、肉、職人製品を幅広く提供しています。地元のチーズ、シャルキュトリー、焼き菓子を味わうのに最適な場所です。市場の活気ある雰囲気と多様な商品は、パリの食文化を体験したい人には必訪です。価格帯は$、予算を気にする旅行者に理想的です。",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "ル・バラタン",
+          "type": "restaurant",
+          "description": "ル・バラタンは、ベルヴィル地区の隠れた名店で、質素ながら洗練されたフランス料理で知られています。シェフのラケル・カレナが率いるこのレストランは、季節の食材に基づいて毎日メニューが変更されます。居心地の良い雰囲気と「ラムショルダーの煮込み」のような巧みに作られた料理が、食通や地元の人々の間で人気です。価格帯は$$。",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "シェ・ジュリアン",
+          "type": "cafe",
+          "description": "シェ・ジュリアンは、セーヌ川沿いの魅力的なカフェで、クラシックなフランスのペストリーとコーヒーを楽しむための絵のように美しい場所を提供します。美しいアールヌーボーの内装と魅力的なテラスが、ゆったりとしたブランチやロマンチックな夜に理想的です。カフェはその素晴らしい「タルトタタン」で有名です。価格帯は$$。",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "マルシェ・バスティーユ",
+          "type": "street_food",
+          "description": "マルシェ・バスティーユは、パリ最大の露天市場の1つで、新鮮な農産物、グルメ食品、地元の特産品の活気あるセレクションを提供しています。週に2回オープンしており、新鮮な焼きたてのバゲットから地方のワインまで、フランスの美味を発見するには素晴らしい場所です。市場の賑やかな雰囲気と多様な商品は、パリの生活を味わう本物の体験を提供します。価格帯は$、予算に優しい試食に最適です。",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "파리 최고의 음식 2026 — 최고의 레스토랑 & 거리 음식 가이드",
+      "seo_description": "파리의 최고의 레스토랑, 거리 음식 및 지역 특산물을 발견하세요. 저렴한 음식에서 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "빛의 도시 파리는 다양한 음식 경험을 제공하는 미식의 천국이기도 합니다. 아늑한 카페에서 크루아상을 즐기거나, 미쉐린 스타 레스토랑에서 고급 요리를 맛보거나, 세느강에서 거리 음식을 즐기는 등, 파리는 모든 입맛을 만족시킵니다. 도시의 미식 현장은 전통적인 프랑스 요리와 국제적인 영향을 받은 요리가 어우러져 모든 방문객에게 잊을 수 없는 미식 여행을 보장합니다.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "르 뫼리스",
+          "type": "restaurant",
+          "description": "르 뫼리스는 유명 셰프 알랭 뒤카스가 큐레이팅한 클래식 프랑스 요리와 호화로운 환경에서 세련된 다이닝 경험을 제공합니다. 레스토랑은 화려한 장식과 완벽한 서비스로 유명합니다. 식사하면서 튈르리 정원의 경치를 즐기며 '캐비어를 곁들인 터보'와 같은 요리를 맛볼 수 있습니다. 가격대는 $$$, 고급스러운 지위를 반영합니다.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "라스 드 팔라펠",
+          "type": "street_food",
+          "description": "활기찬 마레 지구에 자리 잡은 라스 드 팔라펠은 거리 음식 애호가들이 반드시 방문해야 할 장소입니다. 맛있고 풍성하게 채워진 팔라펠 샌드위치로 유명한 이곳은 중동의 맛을 저렴한 가격에 제공합니다. 활기찬 분위기와 긴 줄로 인해 현지인과 관광객 모두에게 인기가 많습니다. 가격대는 $, 예산 친화적인 선택입니다.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "안젤리나 파리",
+          "type": "cafe",
+          "description": "안젤리나는 진한 핫초콜릿과 몽블랑으로 유명한 전설적인 파리 카페입니다. 리볼리 거리의 위치에 있으며, 우아한 벨 에포크 장식으로 옛 세계의 매력을 발산합니다. 여유로운 오후 차나 달콤한 간식을 즐기기에 완벽한 장소로, 안젤리나는 전형적인 파리 카페 경험을 제공합니다. 가격대는 $$, 합리적인 가격으로 럭셔리를 제공합니다.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "부용 피갈",
+          "type": "restaurant",
+          "description": "부용 피갈은 저렴한 가격에 전형적인 프랑스 다이닝 경험을 제공합니다. 활기찬 피갈 지구에 위치하여, 에스카르고와 뵈프 부르기뇽과 같은 클래식한 프랑스 요리로 유명합니다. 활기찬 분위기와 훌륭한 가치를 제공하는 메뉴로, 전통 프랑스 요리를 즐기고 싶은 사람들에게 적합합니다. 가격대는 $. ",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "레 알 시장",
+          "type": "street_food",
+          "description": "레 알 시장은 식도락가를 위한 번화한 중심지로, 다양한 신선한 농산물, 육류 및 장인 제품을 제공합니다. 현지 치즈, 샤르퀴트리 및 베이커리 제품을 맛보기에 완벽한 장소입니다. 시장의 활기찬 분위기와 다양한 제품은 파리 음식 문화를 경험하고자 하는 사람들에게 꼭 방문해야 할 곳입니다. 가격대는 $, 예산을 아끼는 여행자에게 이상적입니다.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "르 바라탱",
+          "type": "restaurant",
+          "description": "르 바라탱은 벨빌 지구에 숨겨진 보석으로, 소박하면서도 세련된 프랑스 요리로 유명합니다. 셰프 라켈 카레나가 이끄는 이 레스토랑은 계절 재료에 따라 매일 메뉴가 변경됩니다. 아늑한 분위기와 '양 어깨살 브레이즈'와 같은 정교하게 조리된 요리로 미식 평론가와 현지인들 사이에서 인기가 많습니다. 가격대는 $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "쉐 줄리엥",
+          "type": "cafe",
+          "description": "쉐 줄리엥은 세느강가에 위치한 매력적인 카페로, 클래식한 프랑스 페이스트리와 커피를 즐길 수 있는 그림 같은 장소를 제공합니다. 아름다운 아르누보 인테리어와 매력적인 테라스가 여유로운 브런치나 로맨틱한 저녁에 이상적입니다. 카페는 그 훌륭한 '타르트 타탱'으로 유명합니다. 가격대는 $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "마르셰 바스티유",
+          "type": "street_food",
+          "description": "마르셰 바스티유는 파리에서 가장 큰 노천 시장 중 하나로, 신선한 농산물, 미식 음식, 현지 특산품의 다양하고 활기찬 선택을 제공합니다. 주 2회 열리며, 갓 구운 바게트에서부터 지역 와인까지 프랑스의 미식을 발견하기에 훌륭한 장소입니다. 시장의 활기찬 분위기와 다양한 제품은 파리 생활의 진정한 맛을 제공합니다. 가격대는 $, 예산 친화적인 시식에 적합합니다.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Paris 2026 — Guide des Meilleurs Restaurants & Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales de Paris. Des repas économiques à la haute gastronomie — avec des liens de réservation.",
+      "page_intro": "Paris, la ville lumière, est également un paradis culinaire offrant une gamme diversifiée d'expériences gastronomiques. Que ce soit en savourant un croissant dans un café pittoresque, en dégustant des plats gastronomiques dans un restaurant étoilé Michelin, ou en profitant de la street food au bord de la Seine, Paris a de quoi satisfaire tous les palais. La scène culinaire de la ville est un mélange délicieux de cuisine française traditionnelle et d'influences internationales, garantissant un voyage gastronomique mémorable à tous les visiteurs.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "Le Meurice",
+          "type": "restaurant",
+          "description": "Le Meurice offre une expérience culinaire exquise avec son cadre luxueux et sa cuisine française classique dirigée par le célèbre chef Alain Ducasse. Le restaurant est connu pour son décor opulent et son service impeccable. Les convives peuvent se régaler de plats comme le 'Turbot au Caviar' tout en admirant la vue sur le Jardin des Tuileries. La gamme de prix est $$$, reflétant son statut haut de gamme.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "L'As du Fallafel",
+          "type": "street_food",
+          "description": "Nichée dans le quartier animé du Marais, L'As du Fallafel est un incontournable pour les amateurs de street food. Célèbre pour ses délicieux sandwiches falafels généreusement garnis, cet endroit offre un goût de saveurs moyen-orientales à un prix abordable. Avec une atmosphère animée et de longues files d'attente, c'est un favori parmi les locaux et les touristes. La gamme de prix est $, en faisant un choix économique.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "Angelina Paris",
+          "type": "cafe",
+          "description": "Angelina est un café parisien légendaire connu pour son chocolat chaud riche et sa pâtisserie Mont Blanc. Situé rue de Rivoli, le café dégage un charme d'antan avec son décor élégant Belle Époque. Un lieu parfait pour un thé l'après-midi ou une douceur, Angelina offre une expérience de café parisien par excellence. La gamme de prix est $$, offrant du luxe à un coût raisonnable.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "Bouillon Pigalle",
+          "type": "restaurant",
+          "description": "Bouillon Pigalle offre une expérience culinaire typiquement française à des prix abordables. Situé dans le quartier animé de Pigalle, il est célèbre pour ses plats français classiques comme les escargots et le bœuf bourguignon. Avec une atmosphère animée et un menu offrant un excellent rapport qualité-prix, c'est idéal pour ceux qui souhaitent profiter de la cuisine française traditionnelle sans se ruiner. La gamme de prix est $.",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "Marché des Halles",
+          "type": "street_food",
+          "description": "Le Marché des Halles est un hub animé pour les amateurs de nourriture, offrant une grande variété de produits frais, viandes et produits artisanaux. C'est un endroit parfait pour déguster des fromages locaux, charcuterie et produits de boulangerie. L'atmosphère animée du marché et ses offres diversifiées en font un must pour quiconque souhaite découvrir la culture alimentaire parisienne. La gamme de prix est $, idéale pour les voyageurs soucieux de leur budget.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "Le Baratin",
+          "type": "restaurant",
+          "description": "Le Baratin est un joyau caché dans le quartier de Belleville connu pour sa cuisine française rustique mais raffinée. Dirigé par la chef Raquel Carena, le restaurant propose un menu qui change quotidiennement en fonction des ingrédients de saison. Son ambiance chaleureuse et ses plats savamment préparés comme l'Épaule d'Agneau Braisée en font un favori parmi les critiques culinaires et les locaux. La gamme de prix est $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "Chez Julien",
+          "type": "cafe",
+          "description": "Chez Julien est un café charmant situé sur les rives de la Seine, offrant un cadre pittoresque pour déguster des pâtisseries françaises classiques et du café. Avec son intérieur Art Nouveau magnifique et sa terrasse charmante, c'est un lieu idéal pour un brunch tranquille ou une soirée romantique. Le café est célébré pour sa délicieuse 'Tarte Tatin'. La gamme de prix est $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "Marché Bastille",
+          "type": "street_food",
+          "description": "Le Marché Bastille est l'un des plus grands marchés en plein air de Paris, offrant une sélection vibrante de produits frais, d'aliments gastronomiques et de spécialités locales. Ouvert deux fois par semaine, c'est un endroit fantastique pour découvrir les délices français, des baguettes fraîchement cuites aux vins régionaux. L'atmosphère animée du marché et ses offres diversifiées offrent un goût authentique de la vie parisienne. La gamme de prix est $, parfaite pour goûter à petit budget.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en París 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en París. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "París, la ciudad de las luces, es también un paraíso culinario que ofrece una gama diversa de experiencias gastronómicas. Ya sea saboreando un croissant en un pintoresco café, deleitándose con platos gourmet en un restaurante con estrellas Michelin o disfrutando de comida callejera junto al Sena, París tiene algo para cada paladar. La escena culinaria de la ciudad es una deliciosa mezcla de cocina francesa tradicional e influencias internacionales, asegurando un viaje gastronómico memorable para todos los visitantes.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "Le Meurice",
+          "type": "restaurant",
+          "description": "Le Meurice ofrece una experiencia culinaria exquisita con su entorno lujoso y cocina francesa clásica curada por el renombrado chef Alain Ducasse. El restaurante es conocido por su decoración opulenta y servicio impecable. Los comensales pueden disfrutar de platos como el 'Rodaballo con Caviar' mientras disfrutan de vistas del Jardín de las Tullerías. El rango de precios es $$$, reflejando su estatus de alta gama.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "L'As du Fallafel",
+          "type": "street_food",
+          "description": "Ubicado en el vibrante distrito de Marais, L'As du Fallafel es una visita obligada para los entusiastas de la comida callejera. Famoso por sus deliciosos sándwiches de falafel generosamente rellenos, este lugar ofrece un sabor de sabores del Medio Oriente a un precio asequible. Con un ambiente animado y largas filas, es un favorito entre locales y turistas. El rango de precios es $, haciendo de él una opción económica.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "Angelina París",
+          "type": "cafe",
+          "description": "Angelina es un café parisino legendario conocido por su chocolate caliente rico y su pastel Mont Blanc. Ubicado en la Rue de Rivoli, el café exuda un encanto del viejo mundo con su elegante decoración Belle Époque. Un lugar perfecto para un té de la tarde relajado o un dulce, Angelina ofrece una experiencia de café parisino por excelencia. El rango de precios es $$, ofreciendo lujo a un costo razonable.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "Bouillon Pigalle",
+          "type": "restaurant",
+          "description": "Bouillon Pigalle ofrece una experiencia culinaria típicamente francesa a precios asequibles. Ubicado en el animado distrito de Pigalle, es famoso por sus platos franceses clásicos como los caracoles y el boeuf bourguignon. Con un ambiente animado y un menú que ofrece un gran valor, es perfecto para aquellos que buscan disfrutar de la cocina francesa tradicional sin gastar mucho. El rango de precios es $.",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "Mercado de Les Halles",
+          "type": "street_food",
+          "description": "El Mercado de Les Halles es un bullicioso centro para los amantes de la comida, que ofrece una amplia variedad de productos frescos, carnes y productos artesanales. Es un lugar perfecto para probar quesos locales, charcutería y productos de panadería. La atmósfera animada del mercado y sus ofertas diversas lo hacen una visita obligada para cualquiera que desee experimentar la cultura alimentaria parisina. El rango de precios es $, ideal para viajeros con presupuesto limitado.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "Le Baratin",
+          "type": "restaurant",
+          "description": "Le Baratin es una joya escondida en el distrito de Belleville conocida por su cocina francesa rústica pero refinada. Dirigido por la chef Raquel Carena, el restaurante ofrece un menú que cambia diariamente basado en ingredientes de temporada. Su ambiente acogedor y platos cuidadosamente elaborados como el 'Hombro de Cordero Estofado' lo hacen un favorito entre críticos gastronómicos y locales. El rango de precios es $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "Chez Julien",
+          "type": "cafe",
+          "description": "Chez Julien es un encantador café situado a orillas del Sena, que ofrece un entorno pintoresco para disfrutar de pasteles franceses clásicos y café. Con su hermoso interior Art Nouveau y su encantadora terraza, es un lugar ideal para un brunch relajado o una velada romántica. El café es célebre por su exquisita 'Tarte Tatin'. El rango de precios es $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "Marché Bastille",
+          "type": "street_food",
+          "description": "El Marché Bastille es uno de los mercados al aire libre más grandes de París, ofreciendo una vibrante selección de productos frescos, alimentos gourmet y especialidades locales. Abierto dos veces por semana, es un lugar fantástico para descubrir delicias francesas, desde baguettes recién horneadas hasta vinos regionales. La atmósfera animada del mercado y sus ofertas diversas proporcionan un sabor auténtico de la vida parisina. El rango de precios es $, perfecto para degustar con un presupuesto ajustado.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Paris 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan makanan khas lokal di Paris. Dari makanan hemat hingga santapan mewah — dengan tautan pemesanan.",
+      "page_intro": "Paris, kota cahaya, juga merupakan surga kuliner yang menawarkan beragam pengalaman makanan. Apakah menikmati croissant di kafe yang tenang, menikmati hidangan gourmet di restoran berbintang Michelin, atau menikmati makanan jalanan di tepi Sungai Seine, Paris memiliki sesuatu untuk setiap selera. Dunia kuliner kota ini adalah campuran yang menyenangkan antara masakan Prancis tradisional dan pengaruh internasional, menjamin perjalanan gastronomi yang tak terlupakan bagi semua pengunjung.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "Le Meurice",
+          "type": "restaurant",
+          "description": "Le Meurice menawarkan pengalaman bersantap yang luar biasa dengan suasana mewah dan masakan Prancis klasik yang dikelola oleh koki terkenal Alain Ducasse. Restoran ini dikenal karena dekorasinya yang mewah dan pelayanannya yang sempurna. Pengunjung dapat menikmati hidangan seperti 'Turbot dengan Kaviar' sambil menikmati pemandangan Taman Tuileries. Rentang harga adalah $$$, mencerminkan statusnya yang mewah.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "L'As du Fallafel",
+          "type": "street_food",
+          "description": "Terletak di distrik Marais yang semarak, L'As du Fallafel adalah tempat yang harus dikunjungi bagi pecinta makanan jalanan. Terkenal dengan sandwich falafel yang lezat dan penuh isian, tempat ini menawarkan cita rasa rasa Timur Tengah dengan harga terjangkau. Dengan suasana yang ramai dan antrean panjang, ini menjadi favorit di kalangan penduduk lokal dan turis. Rentang harga adalah $, menjadikannya pilihan yang ramah anggaran.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "Angelina Paris",
+          "type": "cafe",
+          "description": "Angelina adalah kafe legendaris di Paris yang dikenal dengan cokelat panasnya yang kaya dan kue Mont Blanc-nya. Terletak di Rue de Rivoli, kafe ini memancarkan pesona dunia lama dengan dekorasi Belle Époque yang elegan. Tempat yang sempurna untuk menikmati teh sore yang santai atau makanan manis, Angelina menawarkan pengalaman kafe Paris yang khas. Rentang harga adalah $$, menawarkan kemewahan dengan biaya yang wajar.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "Bouillon Pigalle",
+          "type": "restaurant",
+          "description": "Bouillon Pigalle menawarkan pengalaman bersantap khas Prancis dengan harga terjangkau. Terletak di distrik Pigalle yang hidup, tempat ini terkenal dengan hidangan Prancis klasik seperti escargot dan boeuf bourguignon. Dengan suasana yang ramai dan menu yang menawarkan nilai besar, ini sempurna bagi mereka yang ingin menikmati masakan Prancis tradisional tanpa menguras kantong. Rentang harga adalah $. ",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "Pasar Les Halles",
+          "type": "street_food",
+          "description": "Pasar Les Halles adalah pusat yang sibuk bagi para pecinta makanan, menawarkan berbagai produk segar, daging, dan produk kerajinan tangan. Ini adalah tempat yang sempurna untuk mencicipi keju lokal, charcuterie, dan barang-barang yang dipanggang. Suasana pasar yang ramai dan penawarannya yang beragam menjadikannya tempat yang harus dikunjungi bagi siapa saja yang ingin merasakan budaya makanan Paris. Rentang harga adalah $, ideal untuk pelancong yang sadar anggaran.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "Le Baratin",
+          "type": "restaurant",
+          "description": "Le Baratin adalah permata tersembunyi di distrik Belleville yang dikenal dengan masakan Prancisnya yang pedesaan namun halus. Dipimpin oleh Chef Raquel Carena, restoran ini menawarkan menu yang berubah setiap hari berdasarkan bahan musiman. Suasananya yang nyaman dan hidangan yang disiapkan dengan ahli seperti 'Bahunya Domba Braised' menjadikannya favorit di kalangan kritikus makanan dan penduduk setempat. Rentang harga adalah $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "Chez Julien",
+          "type": "cafe",
+          "description": "Chez Julien adalah kafe yang menawan yang terletak di tepi Sungai Seine, menawarkan pemandangan indah untuk menikmati kue-kue Prancis klasik dan kopi. Dengan interior Art Nouveau yang indah dan teras yang mempesona, ini adalah tempat yang ideal untuk brunch santai atau malam romantis. Kafe ini terkenal dengan 'Tarte Tatin' yang luar biasa. Rentang harga adalah $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "Marché Bastille",
+          "type": "street_food",
+          "description": "Marché Bastille adalah salah satu pasar terbuka terbesar di Paris, menawarkan pilihan yang semarak dari produk segar, makanan gourmet, dan spesial lokal. Buka dua kali seminggu, ini adalah tempat yang fantastis untuk menemukan makanan lezat Prancis, dari baguette yang baru dipanggang hingga anggur regional. Suasana pasar yang ramai dan penawarannya yang beragam memberikan cita rasa otentik kehidupan Paris. Rentang harga adalah $, sempurna untuk mencicipi dengan anggaran terbatas.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "पेरिस में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्टोरेंट और स्ट्रीट फूड गाइड",
+      "seo_description": "पेरिस में सर्वश्रेष्ठ रेस्टोरेंट, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "प्रकाश का शहर, पेरिस, एक पाक स्वर्ग भी है जो भोजन के अनुभवों की विविध रेंज पेश करता है। चाहे वह एक शांत कैफे में क्रोइसैन का स्वाद लेना हो, मिशेलिन-स्टार रेस्टोरेंट में स्वादिष्ट व्यंजन का आनंद लेना हो, या सीन नदी के किनारे स्ट्रीट फूड का आनंद लेना हो, पेरिस हर स्वाद के लिए कुछ न कुछ प्रदान करता है। शहर का पाक दृश्य पारंपरिक फ्रांसीसी व्यंजन और अंतर्राष्ट्रीय प्रभावों का एक मनमोहक मिश्रण है, जो सभी आगंतुकों के लिए एक यादगार पाक यात्रा सुनिश्चित करता है।",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "ले म्यूरिस",
+          "type": "restaurant",
+          "description": "ले म्यूरिस अपनी शानदार सेटिंग और प्रसिद्ध शेफ एलेन डुकास द्वारा क्यूरेट किए गए क्लासिक फ्रेंच व्यंजनों के साथ एक उत्कृष्ट भोजन अनुभव प्रदान करता है। रेस्टोरेंट अपने भव्य सजावट और बेहतरीन सेवा के लिए जाना जाता है। भोजनकर्ता 'कैवियार के साथ टर्बोट' जैसे व्यंजनों का आनंद ले सकते हैं और ट्यूलेरी गार्डन का दृश्य देख सकते हैं। कीमत श्रेणी $$$ है, जो इसकी उच्च-स्तरीय स्थिति को दर्शाता है।",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "एल'अस डू फालाफल",
+          "type": "street_food",
+          "description": "जीवंत मारे क्षेत्र में स्थित, एल'अस डू फालाफल स्ट्रीट फूड के शौकीनों के लिए एक अवश्य देखने योग्य स्थान है। अपने स्वादिष्ट और भरपूर फालाफल सैंडविच के लिए प्रसिद्ध, यह स्थान मध्य पूर्वी स्वादों का एक किफायती मूल्य पर स्वाद प्रदान करता है। एक जीवंत वातावरण और लंबी कतारों के साथ, यह स्थानीय लोगों और पर्यटकों के बीच एक पसंदीदा स्थान है। कीमत श्रेणी $ है, जो इसे बजट के अनुकूल विकल्प बनाता है।",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "एंजेलिना पेरिस",
+          "type": "cafe",
+          "description": "एंजेलिना एक प्रसिद्ध पेरिसियन कैफे है जो अपने समृद्ध हॉट चॉकलेट और मोंट ब्लांक पेस्ट्री के लिए जाना जाता है। रुए डी रिवोली पर स्थित, कैफे अपने सुरुचिपूर्ण बेले एपोक सजावट के साथ पुरानी दुनिया का आकर्षण प्रस्तुत करता है। एक आरामदायक दोपहर की चाय या मीठे व्यंजन के लिए एक आदर्श स्थान, एंजेलिना एक पारंपरिक पेरिसियन कैफे अनुभव प्रदान करता है। कीमत श्रेणी $$ है, जो उचित लागत पर विलासिता प्रदान करता है।",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "बुइलोन पिगाल",
+          "type": "restaurant",
+          "description": "बुइलोन पिगाल किफायती कीमतों पर एक पारंपरिक फ्रेंच भोजन अनुभव प्रदान करता है। जीवंत पिगाल जिले में स्थित, यह अपने क्लासिक फ्रेंच व्यंजनों जैसे एस्कारगोट्स और बौफ बर्गुइन्योन के लिए प्रसिद्ध है। एक जीवंत वातावरण और अच्छा मूल्य प्रदान करने वाले मेनू के साथ, यह पारंपरिक फ्रेंच व्यंजन का आनंद लेने के लिए आदर्श है, बिना बैंक को तोड़े। कीमत श्रेणी $ है।",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "लेस हॉल्स मार्केट",
+          "type": "street_food",
+          "description": "लेस हॉल्स मार्केट खाद्य प्रेमियों के लिए एक व्यस्त केंद्र है, जो ताजे उत्पादों, मांस और हस्तशिल्प उत्पादों की एक विस्तृत विविधता प्रदान करता है। यह स्थानीय चीज़, चारक्यूटरी और बेक किए गए सामानों का नमूना लेने के लिए एक आदर्श स्थान है। जीवंत वातावरण और विविध पेशकशें इसे पेरिसियन खाद्य संस्कृति का अनुभव करने के लिए एक अवश्य देखने योग्य स्थान बनाती हैं। कीमत श्रेणी $ है, जो बजट के प्रति सजग यात्रियों के लिए आदर्श है।",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "ले बारातिन",
+          "type": "restaurant",
+          "description": "बेलविल जिले में छुपा हुआ रत्न, ले बारातिन अपने देहाती लेकिन परिष्कृत फ्रेंच व्यंजनों के लिए जाना जाता है। शेफ रैक्वेल कारेना द्वारा संचालित, रेस्टोरेंट एक मेनू पेश करता है जो मौसमी सामग्री के आधार पर दैनिक रूप से बदलता है। इसके आरामदायक माहौल और 'ब्रैज़्ड लैम्ब शोल्डर' जैसे कुशलता से तैयार किए गए व्यंजन इसे खाद्य आलोचकों और स्थानीय लोगों के बीच पसंदीदा बनाते हैं। कीमत श्रेणी $$ है।",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "शे जुलियन",
+          "type": "cafe",
+          "description": "शे जुलियन सीन के किनारों पर स्थित एक आकर्षक कैफे है, जो क्लासिक फ्रेंच पेस्ट्री और कॉफी का आनंद लेने के लिए एक सुरम्य सेटिंग प्रदान करता है। अपनी खूबसूरत आर्ट नोव्यू इंटीरियर और शानदार टैरेस के साथ, यह आरामदायक ब्रंच या रोमांटिक शाम के लिए एक आदर्श स्थान है। कैफे अपने सुंदर 'टार्ट टाटिन' के लिए प्रसिद्ध है। कीमत श्रेणी $$ है।",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "मार्चे बास्टिल",
+          "type": "street_food",
+          "description": "मार्चे बास्टिल पेरिस के सबसे बड़े खुले बाजारों में से एक है, जो ताजे उत्पादों, उम्दा खाद्य पदार्थों और स्थानीय विशेषताओं का एक जीवंत चयन प्रदान करता है। सप्ताह में दो बार खुला, यह फ्रेंच व्यंजनों की खोज के लिए एक शानदार स्थान है, ताजे बेक्ड बैगुएट्स से लेकर क्षेत्रीय वाइन तक। बाजार का जीवंत वातावरण और विविध पेशकशें पेरिसियन जीवन का एक प्रामाणिक स्वाद प्रदान करती हैं। कीमत श्रेणी $ है, बजट पर नमूना लेने के लिए आदर्श।",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Paris 2026 — Guia de Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Paris. De refeições econômicas a alta gastronomia — com links de reserva.",
+      "page_intro": "Paris, a cidade das luzes, também é um paraíso culinário que oferece uma variedade diversificada de experiências gastronômicas. Seja saboreando um croissant em um café charmoso, desfrutando de pratos gourmet em um restaurante estrelado pelo Michelin, ou aproveitando a comida de rua às margens do Sena, Paris tem algo para cada paladar. A cena gastronômica da cidade é uma mistura encantadora de culinária francesa tradicional e influências internacionais, garantindo uma jornada gastronômica memorável para todos os visitantes.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "Le Meurice",
+          "type": "restaurant",
+          "description": "Le Meurice oferece uma experiência gastronômica requintada com seu ambiente luxuoso e culinária francesa clássica elaborada pelo renomado chef Alain Ducasse. O restaurante é conhecido por sua decoração opulenta e serviço impecável. Os comensais podem se deliciar com pratos como o 'Turbot com Caviar' enquanto desfrutam de vistas do Jardim das Tulherias. A faixa de preço é $$$, refletindo seu status de alto padrão.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "L'As du Fallafel",
+          "type": "street_food",
+          "description": "Localizado no vibrante distrito de Marais, o L'As du Fallafel é uma visita obrigatória para os entusiastas da comida de rua. Famoso por seus deliciosos e generosamente recheados sanduíches de falafel, este local oferece um sabor dos sabores do Oriente Médio a um preço acessível. Com uma atmosfera animada e longas filas, é um favorito entre locais e turistas. A faixa de preço é $, tornando-o uma escolha econômica.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "Angelina Paris",
+          "type": "cafe",
+          "description": "Angelina é um lendário café parisiense conhecido por seu rico chocolate quente e pastelaria Mont Blanc. Localizado na Rue de Rivoli, o café exala um charme do velho mundo com sua elegante decoração Belle Époque. Um local perfeito para um chá da tarde tranquilamente ou uma guloseima doce, a Angelina oferece uma experiência de café parisiense por excelência. A faixa de preço é $$, oferecendo luxo a um custo razoável.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "Bouillon Pigalle",
+          "type": "restaurant",
+          "description": "Bouillon Pigalle oferece uma experiência gastronômica tipicamente francesa a preços acessíveis. Localizado no animado distrito de Pigalle, é famoso por seus pratos franceses clássicos como escargots e boeuf bourguignon. Com uma atmosfera animada e um menu que oferece ótimo valor, é perfeito para aqueles que desejam desfrutar da culinária francesa tradicional sem gastar muito. A faixa de preço é $.",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "Mercado Les Halles",
+          "type": "street_food",
+          "description": "O Mercado Les Halles é um centro movimentado para os amantes da comida, oferecendo uma ampla variedade de produtos frescos, carnes e produtos artesanais. É um lugar perfeito para provar queijos locais, charcutaria e produtos de panificação. A atmosfera animada e as ofertas diversas fazem dele um lugar indispensável para quem deseja experimentar a cultura gastronômica parisiense. A faixa de preço é $, ideal para viajantes com orçamento limitado.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "Le Baratin",
+          "type": "restaurant",
+          "description": "Le Baratin é uma joia escondida no distrito de Belleville conhecida por sua culinária francesa rústica mas refinada. Liderado pela Chef Raquel Carena, o restaurante oferece um menu que muda diariamente com base em ingredientes sazonais. Seu ambiente acolhedor e pratos habilmente preparados, como 'Ombro de Cordeiro Estufado', fazem dele um favorito entre críticos gastronômicos e locais. A faixa de preço é $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "Chez Julien",
+          "type": "cafe",
+          "description": "Chez Julien é um charmoso café situado às margens do Sena, oferecendo um cenário pitoresco para apreciar clássicos doces e café franceses. Com seu belo interior Art Nouveau e terraço encantador, é um lugar ideal para um brunch tranquilo ou uma noite romântica. O café é celebrado por sua requintada 'Tarte Tatin'. A faixa de preço é $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "Marché Bastille",
+          "type": "street_food",
+          "description": "O Marché Bastille é um dos maiores mercados ao ar livre de Paris, oferecendo uma seleção vibrante de produtos frescos, alimentos gourmet e especialidades locais. Aberto duas vezes por semana, é um lugar fantástico para descobrir iguarias francesas, de baguetes frescas a vinhos regionais. A atmosfera animada do mercado e as ofertas diversas proporcionam um sabor autêntico da vida parisiense. A faixa de preço é $, perfeito para degustar com orçamento.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في باريس 2026 — دليل المطاعم والطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والمأكولات المحلية في باريس. من الوجبات الاقتصادية إلى الطهي الفاخر — مع روابط الحجز.",
+      "page_intro": "باريس، مدينة الأضواء، هي أيضًا واحة طهي تقدم مجموعة متنوعة من تجارب الطعام. سواء كان تذوق الكرواسون في مقهى ساحر، أو الاستمتاع بالأطباق الشهية في مطعم حائز على نجمة ميشلين، أو تناول الطعام الشارعي بجانب نهر السين، تقدم باريس شيئًا لكل ذوق. مشهد الطهي في المدينة هو مزيج ساحر من المأكولات الفرنسية التقليدية والتأثيرات الدولية، مما يضمن رحلة طهي لا تُنسى لجميع الزوار.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "لو موريك",
+          "type": "restaurant",
+          "description": "يقدم لو موريك تجربة تناول طعام رائعة مع بيئته الفاخرة والمأكولات الفرنسية الكلاسيكية التي أعدها الشيف الشهير ألان دوكاس. يشتهر المطعم بديكوره الفخم وخدمته المثالية. يمكن للضيوف الاستمتاع بأطباق مثل 'التوربوت مع الكافيار' أثناء الاستمتاع بمناظر حديقة التويلري. نطاق الأسعار هو $$$، مما يعكس مكانته الرفيعة.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "لاس دو فلافل",
+          "type": "street_food",
+          "description": "يقع في حي ماريه الحيوي، لاس دو فلافل هو مكان لا بد من زيارته لعشاق الطعام الشارعي. مشهور بشطائره اللذيذة والمحشوة بسخاء، يقدم هذا المكان نكهة نكهات الشرق الأوسط بسعر معقول. مع جوه النابض بالحياة وطوابيره الطويلة، فهو مفضل لدى السكان المحليين والسياح على حد سواء. نطاق الأسعار هو $، مما يجعله خيارًا اقتصاديًا.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "أنجلينا باريس",
+          "type": "cafe",
+          "description": "أنجلينا هو مقهى باريس الأسطوري المعروف بشوكولاته الساخنة الغنية ومعجنات مونت بلانك. يقع في شارع ريفولي، ينبعث من المقهى سحر العالم القديم بديكوره الأنيق على طراز بيلي إبوك. مكان مثالي لشاي بعد الظهر أو وجبة حلوة، يقدم أنجلينا تجربة مقهى باريسية أصيلة. نطاق الأسعار هو $$، مما يوفر الفخامة بتكلفة معقولة.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "بويون بيغال",
+          "type": "restaurant",
+          "description": "يوفر بويون بيغال تجربة تناول طعام فرنسية تقليدية بأسعار معقولة. يقع في حي بيغال الحيوي، وهو مشهور بأطباقه الفرنسية الكلاسيكية مثل الحلزون وبوف بورغينيون. مع أجواءه النابضة بالحياة وقائمة طعامه التي تقدم قيمة كبيرة، فهو مثالي لأولئك الذين يرغبون في الاستمتاع بالمأكولات الفرنسية التقليدية دون إنفاق الكثير. نطاق الأسعار هو $.",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "سوق لي هال",
+          "type": "street_food",
+          "description": "سوق لي هال هو مركز مزدحم لعشاق الطعام، يقدم مجموعة متنوعة واسعة من المنتجات الطازجة واللحوم والمنتجات الحرفية. إنه مكان مثالي لتذوق الجبن المحلي واللحوم الباردة والمخبوزات. الأجواء النابضة بالحياة والعروض المتنوعة تجعله مكانًا لا بد من زيارته لأي شخص يتطلع لتجربة ثقافة الطعام الباريسية. نطاق الأسعار هو $، مثالي للمسافرين الواعين بالميزانية.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "لو باراتين",
+          "type": "restaurant",
+          "description": "لو باراتين هو جوهرة مخفية في حي بلفيل، معروفة بمأكولاتها الفرنسية الريفية ولكن المتقنة. يديرها الشيف راكيل كارينا، يقدم المطعم قائمة تتغير يوميًا بناءً على المكونات الموسمية. أجواءه المريحة وأطباقه المصنوعة ببراعة مثل 'كتف الضأن المطهو' تجعله مفضلًا بين نقاد الطعام والسكان المحليين. نطاق الأسعار هو $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "شي جوليان",
+          "type": "cafe",
+          "description": "شي جوليان هو مقهى ساحر يقع على ضفاف نهر السين، يقدم بيئة خلابة للاستمتاع بالمعجنات الفرنسية الكلاسيكية والقهوة. مع ديكوره الجميل على طراز الفن الجديد وشرفته الرائعة، فهو مكان مثالي لوجبة غداء هادئة أو مساء رومانسي. يشتهر المقهى بـ 'تارت تاتين' الرائعة. نطاق الأسعار هو $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "سوق باستيل",
+          "type": "street_food",
+          "description": "سوق باستيل هو أحد أكبر الأسواق المفتوحة في باريس، يقدم مجموعة نابضة بالحياة من المنتجات الطازجة والأطعمة الفاخرة والتخصصات المحلية. مفتوح مرتين في الأسبوع، إنه مكان رائع لاكتشاف الأطعمة الفرنسية الشهية، من الباغيت الطازج إلى النبيذ الإقليمي. أجواء السوق النابضة بالحياة والعروض المتنوعة توفر طعمًا أصيلًا للحياة الباريسية. نطاق الأسعار هو $، مثالي للتذوق بميزانية.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "প্যারিসে সেরা খাবার ২০২৬ — শীর্ষ রেস্টুরেন্ট ও স্ট্রিট ফুড গাইড",
+      "seo_description": "প্যারিসের সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেট খাবার থেকে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "page_intro": "আলো শহর প্যারিস একটি রন্ধনশালা স্বর্গ যেখানে খাবার অভিজ্ঞতার বিভিন্ন রেঞ্জ প্রদান করে। একটি শান্ত ক্যাফেতে ক্রোয়াসান স্বাদ গ্রহণ থেকে শুরু করে, মিশেলিন-তারকা রেস্টুরেন্টে গুরমেট খাবার উপভোগ করা, বা সিন নদীর পাশে স্ট্রিট ফুড উপভোগ করা, প্যারিস প্রতিটি স্বাদের জন্য কিছু না কিছু প্রদান করে। শহরের রন্ধনশালা দৃশ্যটি একটি মনমুগ্ধকর মিশ্রণ যা ঐতিহ্যবাহী ফরাসি রন্ধনশালা এবং আন্তর্জাতিক প্রভাবের সাথে মিলে যায়, সমস্ত দর্শকদের জন্য একটি স্মরণীয় গ্যাস্ট্রোনমিক যাত্রা নিশ্চিত করে।",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "লে মুরিস",
+          "type": "restaurant",
+          "description": "লে মুরিস তার বিলাসবহুল পরিবেশ এবং বিখ্যাত শেফ অ্যালেন ডুকাস দ্বারা কিউরেট করা ক্লাসিক ফরাসি রন্ধনশালার সাথে একটি অসাধারণ খাবার অভিজ্ঞতা প্রদান করে। রেস্টুরেন্টটি তার বিলাসবহুল সাজসজ্জা এবং নিখুঁত পরিষেবার জন্য পরিচিত। খাদ্যপ্রেমীরা 'ক্যাভিয়ার সহ টারবট' এর মত খাবার উপভোগ করতে পারেন এবং টুইলারি গার্ডেনের দৃশ্য দেখতে পারেন। মূল্য পরিসীমা $$$, যা তার উচ্চ-স্তরের অবস্থানকে প্রতিফলিত করে।",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "এল'আস দু ফালাফেল",
+          "type": "street_food",
+          "description": "জীবন্ত মারে অঞ্চলে অবস্থিত, এল'আস দু ফালাফেল স্ট্রিট ফুড প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান। তার সুস্বাদু এবং উদারভাবে ভরা ফালাফেল স্যান্ডউইচের জন্য বিখ্যাত, এই স্থানটি মধ্যপ্রাচ্যের স্বাদগুলির একটি সস্তা দামে স্বাদ প্রদান করে। একটি জীবন্ত পরিবেশ এবং দীর্ঘ সারির সাথে, এটি স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয়। মূল্য পরিসীমা $, যা এটি একটি বাজেট-বান্ধব পছন্দ করে তোলে।",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "অ্যাঞ্জেলিনা প্যারিস",
+          "type": "cafe",
+          "description": "অ্যাঞ্জেলিনা একটি কিংবদন্তি প্যারিসিয়ান ক্যাফে যা তার সমৃদ্ধ হট চকলেট এবং মন্ট ব্ল্যাঙ্ক পেস্ট্রির জন্য পরিচিত। রু দে রিভোলিতে অবস্থিত, ক্যাফে তার সুন্দর বেলে এপোক সাজসজ্জার সাথে পুরানো পৃথিবীর আকর্ষণ প্রকাশ করে। একটি আরামদায়ক দুপুরের চা বা মিষ্টি খাবারের জন্য একটি আদর্শ স্থান, অ্যাঞ্জেলিনা একটি প্রথাগত প্যারিসিয়ান ক্যাফে অভিজ্ঞতা প্রদান করে। মূল্য পরিসীমা $$, যা একটি যুক্তিসঙ্গত খরচে বিলাসিতা প্রদান করে।",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "বুইলন পিগাল",
+          "type": "restaurant",
+          "description": "বুইলন পিগাল সাশ্রয়ী মূল্যে একটি ঐতিহ্যবাহী ফরাসি খাবার অভিজ্ঞতা প্রদান করে। জীবন্ত পিগাল জেলায় অবস্থিত, এটি তার ক্লাসিক ফরাসি খাবার যেমন এসকারগটস এবং বউফ বুরগুইনিয়নের জন্য বিখ্যাত। একটি জীবন্ত পরিবেশ এবং ভাল মূল্য প্রদানকারী একটি মেনুর সাথে, এটি ঐতিহ্যবাহী ফরাসি রন্ধনশালা উপভোগ করতে ইচ্ছুকদের জন্য আদর্শ, ব্যাংক ভেঙে না। মূল্য পরিসীমা $।",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "লেস হলেস মার্কেট",
+          "type": "street_food",
+          "description": "লেস হলেস মার্কেট খাদ্যপ্রেমীদের জন্য একটি ব্যস্ত কেন্দ্র, যা তাজা পণ্য, মাংস এবং শিল্পপণ্যগুলির একটি বিস্তৃত বৈচিত্র্য প্রদান করে। এটি স্থানীয় চিজ, চারকিউটারি এবং বেকড পণ্যগুলি চেখে দেখার জন্য একটি আদর্শ স্থান। জীবন্ত পরিবেশ এবং বৈচিত্র্যময় প্রস্তাবগুলি এটিকে একটি অবশ্যই দর্শনীয় স্থান করে তোলে যেকেউ প্যারিসিয়ান খাদ্য সংস্কৃতি অভিজ্ঞতা করতে চায়। মূল্য পরিসীমা $, যা বাজেট-সচেতন ভ্রমণকারীদের জন্য আদর্শ।",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "লে বারাতিন",
+          "type": "restaurant",
+          "description": "বেলভিল জেলায় লুকানো একটি রত্ন লে বারাতিন তার রুক্ষ কিন্তু সুশৃঙ্খল ফরাসি রান্নার জন্য পরিচিত। শেফ রাকুয়েল কারেনা দ্বারা পরিচালিত, রেস্টুরেন্টটি একটি মেনু অফার করে যা মৌসুমী উপাদানের ভিত্তিতে প্রতিদিন পরিবর্তিত হয়। তার আরামদায়ক পরিবেশ এবং দক্ষতার সাথে তৈরি খাবার যেমন 'ব্রেইজড ল্যাম্ব শোল্ডার' এটিকে খাদ্য সমালোচক এবং স্থানীয়দের মধ্যে একটি প্রিয় করে তোলে। মূল্য পরিসীমা $$।",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "শে জুলিয়েন",
+          "type": "cafe",
+          "description": "শে জুলিয়েন সীনের তীরে অবস্থিত একটি মনোমুগ্ধকর ক্যাফে, যা ক্লাসিক ফরাসি পেস্ট্রি এবং কফি উপভোগ করার জন্য একটি চিত্তাকর্ষক পরিবেশ প্রদান করে। তার সুন্দর আর্ট নুভু ইন্টিরিয়র এবং চমৎকার টেরেসের সাথে, এটি একটি আরামদায়ক ব্রাঞ্চ বা একটি রোমান্টিক সন্ধ্যার জন্য একটি আদর্শ স্থান। ক্যাফে তার সুস্বাদু 'টার্ট টাটিন' এর জন্য উদযাপিত। মূল্য পরিসীমা $$।",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "মার্চে বাসটিল",
+          "type": "street_food",
+          "description": "মার্চে বাসটিল প্যারিসের বৃহত্তম খোলা বাজারগুলির মধ্যে একটি, যা তাজা পণ্য, গুরমেট খাবার এবং স্থানীয় বিশেষত্বগুলির একটি জীবন্ত নির্বাচন প্রদান করে। সপ্তাহে দুইবার খোলা, এটি ফরাসি সুস্বাদু খাবার আবিষ্কারের জন্য একটি দুর্দান্ত স্থান, তাজা বেকড ব্যাগুয়েট থেকে আঞ্চলিক ওয়াইন পর্যন্ত। বাজারের জীবন্ত পরিবেশ এবং বৈচিত্র্যময় প্রস্তাবগুলি প্যারিসিয়ান জীবনের একটি আসল স্বাদ প্রদান করে। মূল্য পরিসীমা $, বাজেটে নমুনা নেওয়ার জন্য আদর্শ।",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Париже 2026 — Ресторанный и уличный гид",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Париже. От бюджетных блюд до изысканной кухни — с ссылками на бронирование.",
+      "page_intro": "Париж, город огней, также является кулинарным раем, предлагающим разнообразие гастрономических впечатлений. Будь то дегустация круассана в уютном кафе, наслаждение изысканными блюдами в ресторане с мишленовскими звездами или уличная еда на берегу Сены, в Париже найдется что-то для каждого. Кулинарная сцена города — это очаровательное сочетание традиционной французской кухни и международных влияний, обеспечивающее незабываемое гастрономическое путешествие для всех посетителей.",
+      "items": [
+        {
+          "id": "le-meurice",
+          "name": "Ле Мерис",
+          "type": "restaurant",
+          "description": "Ле Мерис предлагает изысканный обеденный опыт в роскошной обстановке с классической французской кухней, созданной знаменитым шеф-поваром Аленом Дюкассом. Ресторан известен своим великолепным декором и безупречным обслуживанием. Гости могут насладиться такими блюдами, как 'Турбот с икрой', любуясь видами на сад Тюильри. Ценовой диапазон — $$$, отражающий его высокий статус.",
+          "image_keyword": "Le Meurice dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Turbot with Caviar",
+          "klook_query": "Le Meurice restaurant booking"
+        },
+        {
+          "id": "l-as-du-fallafel",
+          "name": "Л'Ас дю Фалафель",
+          "type": "street_food",
+          "description": "Расположенный в оживленном районе Маре, Л'Ас дю Фалафель — обязательное место для любителей уличной еды. Известный своими вкусными и щедро наполненными фалафель-сэндвичами, это место предлагает вкус ближневосточных ароматов по доступной цене. С оживленной атмосферой и длинными очередями, он популярен как среди местных жителей, так и среди туристов. Ценовой диапазон — $, что делает его бюджетным выбором.",
+          "image_keyword": "L'As du Fallafel",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Falafel Sandwich",
+          "klook_query": "L'As du Fallafel food tour"
+        },
+        {
+          "id": "angelina-paris",
+          "name": "Анджелина Париж",
+          "type": "cafe",
+          "description": "Анджелина — это легендарное парижское кафе, известное своим насыщенным горячим шоколадом и выпечкой Монблан. Расположенное на улице Риволи, кафе излучает старомодное очарование с элегантным декором в стиле Белль Эпок. Идеальное место для неспешного послеобеденного чая или сладкого угощения, Анджелина предлагает классический парижский опыт кафе. Ценовой диапазон — $$, предлагая роскошь по разумной цене.",
+          "image_keyword": "Angelina Paris cafe",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hot Chocolate",
+          "klook_query": "Angelina Paris cafe booking"
+        },
+        {
+          "id": "bouillon-pigalle",
+          "name": "Буйон Пигаль",
+          "type": "restaurant",
+          "description": "Буйон Пигаль предлагает типично французский обеденный опыт по доступным ценам. Расположенный в оживленном районе Пигаль, он славится своими классическими французскими блюдами, такими как улитки и бёф бургиньон. С оживленной атмосферой и меню, предлагающим отличное соотношение цены и качества, это идеальное место для тех, кто хочет насладиться традиционной французской кухней, не тратя много денег. Ценовой диапазон — $.",
+          "image_keyword": "Bouillon Pigalle restaurant",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Boeuf Bourguignon",
+          "klook_query": "Bouillon Pigalle reservation"
+        },
+        {
+          "id": "les-halles",
+          "name": "Рынок Ле Аль",
+          "type": "street_food",
+          "description": "Рынок Ле Аль — это оживленный центр для любителей еды, предлагающий широкий выбор свежих продуктов, мяса и ремесленных товаров. Это идеальное место, чтобы попробовать местные сыры, колбасы и выпечку. Оживленная атмосфера и разнообразие предложений делают его обязательным местом для посещения для тех, кто хочет ощутить парижскую культурную культуру. Ценовой диапазон — $, идеально подходит для бюджетных путешественников.",
+          "image_keyword": "Les Halles Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Local Cheeses",
+          "klook_query": "Les Halles Market tour"
+        },
+        {
+          "id": "le-baratin",
+          "name": "Ле Баратен",
+          "type": "restaurant",
+          "description": "Ле Баратен — это скрытая жемчужина в районе Бельвиль, известная своей деревенской, но утонченной французской кухней. Под руководством шеф-повара Ракиль Карена, ресторан предлагает меню, которое ежедневно меняется в зависимости от сезонных ингредиентов. Его уютная атмосфера и искусно приготовленные блюда, такие как 'Тушеное плечо ягненка', делают его любимцем среди критиков и местных жителей. Ценовой диапазон — $$.",
+          "image_keyword": "Le Baratin restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Braised Lamb Shoulder",
+          "klook_query": "Le Baratin dining experience"
+        },
+        {
+          "id": "chez-julien",
+          "name": "Ше Жюльен",
+          "type": "cafe",
+          "description": "Ше Жюльен — это очаровательное кафе, расположенное на берегу Сены, предлагающее живописную обстановку для наслаждения классической французской выпечкой и кофе. С его красивым интерьером в стиле ар-нуво и великолепной террасой, это идеальное место для неспешного бранча или романтического вечера. Кафе славится своим изысканным 'Тарт Татен'. Ценовой диапазон — $$.",
+          "image_keyword": "Chez Julien cafe",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tarte Tatin",
+          "klook_query": "Chez Julien cafe booking"
+        },
+        {
+          "id": "marché-bastille",
+          "name": "Марше Бастиль",
+          "type": "street_food",
+          "description": "Марше Бастиль — один из крупнейших открытых рынков Парижа, предлагающий яркий выбор свежих продуктов, деликатесов и местных специалитетов. Открытый дважды в неделю, это фантастическое место для открытия французских деликатесов, от свежевыпеченных багетов до региональных вин. Оживленная атмосфера рынка и разнообразие предложений создают аутентичное ощущение парижской жизни. Ценовой диапазон — $, идеально подходит для бюджетных вкусовых проб.",
+          "image_keyword": "Marché Bastille market",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Fresh Baguettes",
+          "klook_query": "Marché Bastille tour"
+        }
+      ]
+    }
+  }
+}

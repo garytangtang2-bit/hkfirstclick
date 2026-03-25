@@ -1,0 +1,1145 @@
+{
+  "city_slug": "hongkong",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Hong Kong 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Hong Kong. From budget cha chaan tengs to fine dim sum — with booking links.",
+      "page_intro": "Hong Kong is a world-class culinary capital where East meets West. From the bustling dai pai dongs of Temple Street to Michelin-starred dim sum and historic cha chaan tengs (local diners), the city's food scene is fast-paced and intensely flavorful. Whether you are craving a comforting bowl of beef brisket noodles or a freshly baked egg tart, Hong Kong offers an unforgettable gastronomic adventure.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "Tim Ho Wan (Sham Shui Po)",
+          "type": "restaurant",
+          "description": "Famously known as one of the world's cheapest Michelin-starred restaurants, Tim Ho Wan serves top-tier dim sum in a humble, no-frills setting. Their signature baked BBQ pork buns are legendary, featuring a crumbly, sweet crust giving way to savory, saucy pork inside. Be prepared to queue, but the fresh, made-to-order dumplings are worth every minute.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "Temple Street Night Market",
+          "type": "night_market",
+          "description": "When the sun goes down, Temple Street transforms into a vibrant, neon-lit bazaar famous for its lively dai pai dongs (open-air food stalls). Sit on a plastic stool and dive into iconic local street food like sizzling claypot rice and spicy typhoon shelter crab. It is the ultimate spot to experience Hong Kong's energetic night culture and bold flavors.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "Kau Kee Restaurant",
+          "type": "restaurant",
+          "description": "A legendary noodle shop in Central that has been perfecting its beef brisket recipe for over 90 years. Known for notoriously long lines and cramped seating, they serve incredibly tender beef brisket in a fragrant clear broth or a rich, spicy curry sauce. It is a quintessential Hong Kong comfort food experience that hits the spot every time.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "Lan Fong Yuen (Central)",
+          "type": "cafe",
+          "description": "Widely credited as the inventor of Hong Kong's famous 'silk stocking' milk tea, this historic cha chaan teng started as a humble street stall in 1952. The tea is repeatedly strained through a sackcloth bag to achieve an incredibly smooth, rich texture. Pair a cold milk tea with a pork chop bun for the ultimate afternoon snack.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "Yat Lok Roast Goose",
+          "type": "restaurant",
+          "description": "A bustling, Michelin-starred eatery in Central famous for its exceptional roast goose. The family-run restaurant marinates its geese in a secret blend of over 20 spices before roasting them to golden perfection. The result is a heavenly combination of crispy, paper-thin skin, meltingly tender fat, and juicy meat served over rice or lai fun noodles.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "Australian Dairy Company",
+          "type": "cafe",
+          "description": "This iconic cha chaan teng in Jordan is as famous for its hyper-efficient, fast-paced service as it is for its food. Diners are quickly seated to enjoy simple but perfectly executed breakfast items, most notably their unbelievably fluffy scrambled eggs on thick toast. The turnaround is incredibly fast, making it an authentic slice of busy Hong Kong life.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "Mak's Noodle (Central)",
+          "type": "restaurant",
+          "description": "A historic noodle house carrying on a legacy that dates back to the 1920s in Guangzhou. Mak's serves their signature wonton noodles in small, traditional bowls to ensure the noodles remain perfectly springy and al dente. The delicate, bite-sized shrimp wontons and the savory flounder and dried shrimp roe broth create an impeccably balanced dish.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "Tai Cheong Bakery (Central)",
+          "type": "street_food",
+          "description": "A legendary bakery in Central that has been satisfying sweet cravings since 1954. They are the undisputed masters of the cookie-crust egg tart, allegedly a favorite of the last British Governor of Hong Kong. Served piping hot, the buttery, crumbly pastry shell and the smooth, sweet egg custard filling are simply irresistible.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026 香港必吃美食推薦 — 頂級餐廳與街頭小吃指南",
+      "seo_description": "探索香港最佳餐廳、街頭小吃與在地特色美食。從平價茶餐廳到米其林精緻點心，提供完整推薦與預訂連結。",
+      "page_intro": "香港是一個中西合璧的世界級美食之都。從廟街熱鬧的大排檔到米其林星級點心與歷史悠久的茶餐廳，這座城市的飲食文化節奏明快且風味濃郁。無論您是想來一碗撫慰人心的牛腩麵，還是剛出爐的酥脆蛋撻，香港都能為您提供難忘的美食探險。",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "添好運 (深水埗店)",
+          "type": "restaurant",
+          "description": "被譽為全球最平價的米其林星級餐廳之一，添好運在樸實無華的環境中提供頂級點心。他們的招牌酥皮焗叉燒包是傳奇，酥脆香甜的外皮包裹著鹹甜濃郁的叉燒內餡。雖然總是要排隊，但現點現做的點心絕對值得您等待的每一分鐘。",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "廟街夜市",
+          "type": "night_market",
+          "description": "夜幕降臨，廟街便化身為充滿活力、霓虹閃爍的市集，以熱鬧的大排檔聞名。坐在塑膠凳上，大啖煲仔飯和避風塘炒蟹等標誌性的在地街頭美食。這裡是體驗香港充滿活力的夜生活文化和強烈風味的終極地點。",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "九記牛腩",
+          "type": "restaurant",
+          "description": "位於中環的傳奇麵店，90多年來專注於完善其牛腩秘方。以大排長龍和擁擠的座位聞名，他們提供在清香高湯或濃郁辛辣的咖哩汁中燉煮得極度軟嫩的牛腩。這是一次極具代表性、每次都能讓人大呼過癮的香港在地美食體驗。",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "蘭芳園 (中環總店)",
+          "type": "cafe",
+          "description": "被廣泛認為是香港著名「絲襪奶茶」的發明者，這家歷史悠久的茶餐廳於1952年從一個簡陋的街邊大牌檔起家。紅茶在特製的毛布袋中反覆沖拉，造就了極度滑順、濃郁的口感。點一杯凍奶茶配上豬扒包，就是最完美的下午茶點心。",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "一樂燒鵝",
+          "type": "restaurant",
+          "description": "中環一家熙來攘往的米其林星級餐廳，以其卓越的燒鵝聞名。這家家族經營的餐廳使用超過20種香料的秘製醃料醃製鵝肉，然後將其烤至完美的金黃色。薄如紙的脆皮、入口即化的油脂和多汁的鵝肉，搭配白飯或瀨粉，簡直是天堂般的美味。",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "澳洲牛奶公司",
+          "type": "cafe",
+          "description": "佐敦這家標誌性的茶餐廳，其極度高效、快節奏的服務與它的美食一樣出名。食客們被迅速安排入座，享用簡單卻製作完美的早餐，其中最著名的就是放在厚片吐司上的鬆軟炒蛋。翻桌率極快，真實展現了香港繁忙的生活節奏。",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "麥奀雲吞麵世家 (中環)",
+          "type": "restaurant",
+          "description": "一家傳承自1920年代廣州歷史的經典麵店。麥奀將他們的招牌雲吞麵盛裝在傳統的小碗中，以確保麵條保持完美的Q彈口感。精緻一口大小的鮮蝦雲吞，搭配以大地魚和蝦子熬製的鮮美湯頭，創造出無可挑惕的平衡美味。",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "泰昌餅家 (中環)",
+          "type": "street_food",
+          "description": "中環的一家傳奇餅店，自1954年以來不斷滿足著人們對甜食的渴望。他們是曲奇皮蛋撻當之無愧的大師，據說也是最後一任港督的最愛。熱騰騰出爐的蛋撻，充滿奶油香的酥脆外皮與滑順香甜的蛋液內餡，絕對令人無法抗拒。",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年 香港の絶品グルメ — 人気レストラン＆屋台街ガイド",
+      "seo_description": "香港の最高級レストラン、食べ歩きスポット、郷土料理をご紹介。茶餐廳のB級グルメからミシュランの点心まで、予約リンク付きでご案内します。",
+      "page_intro": "香港は東洋と西洋が交差する世界クラスの美食の都です。廟街（テンプルストリート）の活気ある大牌档（屋台）から、ミシュランの星を獲得した点心、歴史ある茶餐廳（地元の大衆食堂）まで、この街の食のシーンはペースが速く、風味が豊かです。心温まる牛バラ肉の麺や、焼きたてのエッグタルトなど、香港は忘れられない美食の冒険を提供してくれます。",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "添好運（ティムホーワン）深水埗店",
+          "type": "restaurant",
+          "description": "世界で最も安いミシュラン星付きレストランの一つとして有名なティムホーワンは、気取らない質素な店内で最高級の点心を提供しています。名物のベイクド・チャーシューバオは伝説的で、サクサクで甘いクッキー生地の中に、風味豊かでタレが絡んだ豚肉が詰まっています。行列は必至ですが、作りたての新鮮な点心は待つ価値が十分にあります。",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "廟街（テンプルストリート）ナイトマーケット",
+          "type": "night_market",
+          "description": "日が沈むと、廟街は活気あふれる大牌档（オープンエアの屋台）で有名な、ネオンが輝くバザールへと変貌します。プラスチックの椅子に座り、熱々の土鍋ご飯やスパイシーな避風塘（タイフーンシェルター）クラブなど、象徴的な地元のB級グルメに飛びつきましょう。香港のエネルギッシュな夜の文化と大胆な味を体験するのに最適な場所です。",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "九記牛腩（カウキー）",
+          "type": "restaurant",
+          "description": "セントラルにある伝説的な麺屋で、90年以上にわたり牛バラ肉のレシピを完成させ続けています。大行列と狭い座席で有名ですが、香り高いクリアスープや濃厚でスパイシーなカレーソースに入った、信じられないほど柔らかい牛バラ肉を提供しています。何度食べても飽きない、香港を代表するソウルフード体験です。",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "蘭芳園（ランフォンユン）セントラル",
+          "type": "cafe",
+          "description": "香港の有名な「シルクストッキング」ミルクティーの生みの親として広く知られるこの歴史ある茶餐廳は、1952年に質素な屋台から始まりました。紅茶は布袋を通して何度も濾され、信じられないほど滑らかで豊かな食感を生み出します。冷たいミルクティーとポークチョップパンを組み合わせれば、究極の午後のおやつになります。",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "一樂燒鵝（ヤットロッローストグース）",
+          "type": "restaurant",
+          "description": "セントラルにある活気あふれるミシュラン星付きの食堂で、格別のローストグース（ガチョウのロースト）で有名です。家族経営のこの店では、ガチョウを20種類以上のスパイスをブレンドした秘伝のタレに漬け込み、黄金色に完璧に焼き上げます。紙のように薄くサクサクの皮、口の中でとろける脂、ジューシーな肉がご飯や瀬粉（ライスヌードル）に乗せられた、まさに天国の味わいです。",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "澳洲牛奶公司（オーストラリアン・デイリー・カンパニー）",
+          "type": "cafe",
+          "description": "佐敦（ジョーダン）にあるこの象徴的な茶餐廳は、その食事と同じくらい、超効率的でペースの速いサービスで有名です。客はすぐに席に案内され、シンプルながらも完璧に調理された朝食メニュー、特に厚切りのトーストに乗った信じられないほどフワフワのスクランブルエッグを楽しみます。客の回転が非常に速く、忙しい香港の生活のリアルな一面を切り取っています。",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "麥奀雲吞麵世家（マックス・ヌードル）セントラル",
+          "type": "restaurant",
+          "description": "1920年代の広州にまで遡る遺産を受け継ぐ、歴史ある麺屋。マックスでは、麺が完璧な弾力とアルデンテを保つように、伝統的な小さな器で名物のワンタン麺を提供しています。繊細な一口サイズのエビワンタンと、ヒラメと乾燥エビの卵から取った風味豊かなスープが、完璧にバランスの取れた一品を作り出しています。",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "泰昌餅家（タイチョン・ベーカリー）セントラル",
+          "type": "street_food",
+          "description": "セントラルにある伝説的なベーカリーで、1954年以来、甘いものへの欲求を満たし続けています。彼らはクッキー生地のエッグタルトの紛れもない巨匠であり、香港最後のイギリス総督の好物だったとも言われています。熱々の状態で提供される、バターたっぷりでホロホロのペストリーの殻と、滑らかで甘い卵カスタードの詰め物は、まさに魅惑的です。",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026 홍콩 최고 맛집 - 추천 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "홍콩의 최고 레스토랑, 길거리 음식, 현지 특선 요리를 만나보세요. 가성비 좋은 차찬텡부터 미슐랭 딤섬까지, 예약 링크를 제공합니다.",
+      "page_intro": "홍콩은 동양과 서양이 만나는 세계적인 미식의 중심지입니다. 템플 스트리트의 북적이는 다이파이동(포장마차)부터 미슐랭 스타 딤섬과 유서 깊은 차찬텡(현지 식당)에 이르기까지, 이 도시의 음식 문화는 빠른 속도로 움직이며 강렬한 풍미를 자랑합니다. 따뜻한 쇠고기 양지 국수 한 그릇이든 갓 구운 에그 타르트든, 홍콩은 잊을 수 없는 미식 모험을 선사합니다.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "팀호완 (삼수이포)",
+          "type": "restaurant",
+          "description": "세계에서 가장 저렴한 미슐랭 스타 레스토랑 중 하나로 유명한 팀호완은 소박하고 장식 없는 분위기에서 최고급 딤섬을 제공합니다. 부서지는 달콤한 크러스트 안에 짭짤하고 풍미 가득한 돼지고기가 들어 있는 시그니처 베이크드 BBQ 포크 번(차슈바오)은 전설적입니다. 대기 시간은 길지만, 주문 즉시 갓 쪄내는 딤섬은 기다린 시간이 아깝지 않습니다.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "템플 스트리트 야시장",
+          "type": "night_market",
+          "description": "해가 지면 템플 스트리트는 활기찬 다이파이동(야외 포장마차)으로 유명한 네온사인 빛나는 활기찬 바자회로 변신합니다. 플라스틱 의자에 앉아 지글지글 끓는 클레이팟 라이스(뽀짜이판)와 매콤한 타이푼 쉘터 크랩과 같은 상징적인 현지 길거리 음식에 빠져보세요. 홍콩의 에너지가 넘치는 밤 문화와 강렬한 맛을 경험할 수 있는 최고의 장소입니다.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "카우키 식당",
+          "type": "restaurant",
+          "description": "90년 넘게 쇠고기 양지머리 레시피를 완성해 온 센트럴의 전설적인 국수 가게입니다. 악명 높은 긴 줄과 비좁은 좌석으로 유명하지만, 향긋한 맑은 국물이나 진하고 매콤한 카레 소스에 담긴 믿을 수 없을 정도로 부드러운 쇠고기 양지머리를 제공합니다. 언제 먹어도 깊은 만족감을 주는 홍콩 최고의 소울 푸드 경험입니다.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "란퐁유엔 (센트럴)",
+          "type": "cafe",
+          "description": "홍콩의 유명한 '실크 스타킹' 밀크티를 발명한 곳으로 널리 알려진 이 역사적인 차찬텡은 1952년 소박한 노점상에서 시작되었습니다. 홍차를 특수 제작된 천 주머니에 여러 번 걸러 믿을 수 없을 정도로 부드럽고 진한 질감을 만들어냅니다. 시원한 밀크티에 돼지고기 커틀릿 번(뽀빠오)을 곁들이면 최고의 오후 간식이 완성됩니다.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "얏록 로스트 구스",
+          "type": "restaurant",
+          "description": "센트럴에 위치한 북적이는 미슐랭 스타 식당으로, 탁월한 거위 구이로 유명합니다. 가족이 운영하는 이 레스토랑은 20여 가지 향신료가 들어간 비법 마리네이드에 거위를 재운 후 완벽한 황금빛으로 구워냅니다. 종잇장처럼 얇고 바삭한 껍질, 입에서 살살 녹는 지방, 육즙이 풍부한 고기가 밥이나 쌀국수(라이푼) 위에 얹어져 환상적인 조화를 이룹니다.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "오스트레일리아 데어리 컴퍼니",
+          "type": "cafe",
+          "description": "조던에 위치한 이 상징적인 차찬텡은 음식만큼이나 엄청나게 효율적이고 빠른 서비스로 유명합니다. 식사하는 사람들은 재빨리 자리에 앉아 간단하지만 완벽하게 조리된 아침 식사, 특히 두툼한 토스트 위에 올려진 믿을 수 없을 정도로 부드러운 스크램블 에그를 즐깁니다. 회전율이 엄청나게 빨라 바쁜 홍콩 생활의 진면목을 엿볼 수 있습니다.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "막스 누들 (센트럴)",
+          "type": "restaurant",
+          "description": "1920년대 광저우로 거슬러 올라가는 유산을 이어가고 있는 유서 깊은 국수 전문점입니다. 막스는 면이 완벽하게 쫄깃하고 알 덴테 상태를 유지하도록 작고 전통적인 그릇에 시그니처 완탕면을 제공합니다. 한 입 크기의 섬세한 새우 완탕과 넙치 및 건새우 알을 우려낸 감칠맛 나는 국물이 흠잡을 데 없이 균형 잡힌 요리를 만들어냅니다.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "타이청 베이커리 (센트럴)",
+          "type": "street_food",
+          "description": "1954년부터 달콤한 갈망을 충족시켜 온 센트럴의 전설적인 빵집입니다. 이들은 홍콩의 마지막 영국 총독이 가장 좋아했다는 쿠키 크러스트 에그 타르트의 논쟁의 여지가 없는 달인입니다. 갓 구워져 뜨겁게 제공되는 버터 향이 가득하고 바삭바삭한 페이스트리 껍질과 부드럽고 달콤한 계란 커스터드 필링은 그야말로 거부할 수 없는 맛입니다.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleurs Restaurants à Hong Kong 2026 — Guide de la Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales de Hong Kong. Des cha chaan tengs abordables aux dim sum exquis.",
+      "page_intro": "Hong Kong est une capitale culinaire de classe mondiale où l'Orient rencontre l'Occident. Des dai pai dongs animés de Temple Street aux dim sum étoilés, la scène culinaire de la ville est rythmée et intensément savoureuse.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "Tim Ho Wan (Sham Shui Po)",
+          "type": "restaurant",
+          "description": "Célèbre pour être l'un des restaurants étoilés Michelin les moins chers au monde, Tim Ho Wan sert des dim sum de premier ordre dans un cadre humble. Leurs pains au porc au barbecue cuits au four sont légendaires.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "Marché nocturne de Temple Street",
+          "type": "night_market",
+          "description": "Lorsque le soleil se couche, Temple Street se transforme en un bazar vibrant éclairé aux néons, célèbre pour ses dai pai dongs (stands de nourriture en plein air). C'est l'endroit idéal pour savourer un riz en pot d'argile.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "Restaurant Kau Kee",
+          "type": "restaurant",
+          "description": "Une boutique de nouilles légendaire à Central qui perfectionne sa recette de poitrine de bœuf depuis plus de 90 ans. Reconnus pour leurs longues files d'attente, ils servent une poitrine de bœuf incroyablement tendre.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "Lan Fong Yuen (Central)",
+          "type": "cafe",
+          "description": "Largement reconnu comme l'inventeur du célèbre thé au lait 'bas de soie' de Hong Kong, ce cha chaan teng historique a commencé comme un humble stand de rue en 1952. Le thé est incroyablement doux et riche.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "Yat Lok Roast Goose",
+          "type": "restaurant",
+          "description": "Un restaurant animé étoilé Michelin à Central, célèbre pour son oie rôtie exceptionnelle. Le résultat est une combinaison paradisiaque de peau croustillante, de graisse fondante et de viande juteuse.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "Australian Dairy Company",
+          "type": "cafe",
+          "description": "Ce cha chaan teng emblématique de Jordan est aussi célèbre pour son service hyper-efficace que pour sa nourriture. Les convives y dégustent des œufs brouillés incroyablement moelleux sur des toasts épais.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "Mak's Noodle (Central)",
+          "type": "restaurant",
+          "description": "Une maison de nouilles historique qui perpétue un héritage remontant aux années 1920. Mak's sert ses nouilles wonton signatures dans de petits bols traditionnels pour s'assurer que les nouilles restent parfaitement élastiques.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "Boulangerie Tai Cheong",
+          "type": "street_food",
+          "description": "Une boulangerie légendaire à Central qui satisfait les envies de sucré depuis 1954. Ils sont les maîtres incontestés de la tarte aux œufs avec une croûte de biscuit, servis bien chauds.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Hong Kong 2026 — Guía de Restaurantes y Street Food",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales de Hong Kong. Desde cha chaan tengs económicos hasta exquisitos dim sum.",
+      "page_intro": "Hong Kong es una capital culinaria de clase mundial donde Oriente se encuentra con Occidente. Desde los bulliciosos dai pai dongs de Temple Street hasta los dim sum con estrellas Michelin, la escena gastronómica es vibrante e intensamente sabrosa.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "Tim Ho Wan (Sham Shui Po)",
+          "type": "restaurant",
+          "description": "Famoso por ser uno de los restaurantes con estrellas Michelin más baratos del mundo, Tim Ho Wan sirve dim sum de primer nivel en un ambiente humilde. Sus exclusivos bollos de cerdo a la barbacoa horneados son legendarios.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "Mercado Nocturno de Temple Street",
+          "type": "night_market",
+          "description": "Cuando se pone el sol, Temple Street se transforma en un bazar iluminado con luces de neón, famoso por sus animados dai pai dongs. Es el mejor lugar para probar el arroz en cazuela de barro.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "Restaurante Kau Kee",
+          "type": "restaurant",
+          "description": "Una legendaria tienda de fideos en Central que ha estado perfeccionando su receta de pechuga de res durante más de 90 años. Sirven pechuga de res increíblemente tierna en un caldo fragante.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "Lan Fong Yuen (Central)",
+          "type": "cafe",
+          "description": "Ampliamente reconocido como el inventor del famoso té con leche 'media de seda' de Hong Kong, este histórico cha chaan teng comenzó como un humilde puesto callejero en 1952.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "Yat Lok Roast Goose",
+          "type": "restaurant",
+          "description": "Un bullicioso restaurante con estrella Michelin en Central famoso por su excepcional ganso asado. El resultado es una combinación celestial de piel crujiente y carne jugosa servida sobre arroz.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "Australian Dairy Company",
+          "type": "cafe",
+          "description": "Este icónico cha chaan teng en Jordan es tan famoso por su servicio hiper-eficiente como por su comida. Sirven huevos revueltos increíblemente esponjosos sobre tostadas gruesas.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "Mak's Noodle (Central)",
+          "type": "restaurant",
+          "description": "Una histórica casa de fideos que continúa un legado de la década de 1920. Mak's sirve sus exclusivos fideos wonton en tazones pequeños para asegurar que los fideos se mantengan perfectamente al dente.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "Pastelería Tai Cheong",
+          "type": "street_food",
+          "description": "Una panadería legendaria en Central que satisface los antojos dulces desde 1954. Son los maestros indiscutibles de la tarta de huevo con base de galleta, servida bien caliente.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Hong Kong 2026 — Panduan Restoran & Jajanan Pasar",
+      "seo_description": "Temukan restoran terbaik, jajanan pasar, dan makanan khas lokal di Hong Kong. Dari cha chaan teng yang murah hingga dim sum lezat.",
+      "page_intro": "Hong Kong adalah ibu kota kuliner kelas dunia tempat bertemunya Timur dan Barat. Dari dai pai dong yang ramai di Temple Street hingga dim sum berbintang Michelin, makanan di kota ini sangat lezat.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "Tim Ho Wan (Sham Shui Po)",
+          "type": "restaurant",
+          "description": "Terkenal sebagai salah satu restoran berbintang Michelin termurah di dunia, Tim Ho Wan menyajikan dim sum kelas atas. Roti babi BBQ panggang khas mereka sangat legendaris.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "Pasar Malam Temple Street",
+          "type": "night_market",
+          "description": "Saat matahari terbenam, Temple Street berubah menjadi pasar malam yang semarak yang terkenal dengan dai pai dong. Ini adalah tempat terbaik untuk mencoba nasi claypot dan kepiting pedas.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "Restoran Kau Kee",
+          "type": "restaurant",
+          "description": "Kedai mi legendaris di Central yang telah menyempurnakan resep sandung lamur sapinya selama lebih dari 90 tahun. Mereka menyajikan daging sapi yang sangat empuk dalam kaldu bening yang harum.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "Lan Fong Yuen (Central)",
+          "type": "cafe",
+          "description": "Diakui sebagai penemu teh susu 'stoking sutra' khas Hong Kong, cha chaan teng bersejarah ini dimulai sebagai kedai jalanan yang sederhana pada tahun 1952.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "Yat Lok Roast Goose",
+          "type": "restaurant",
+          "description": "Restoran berbintang Michelin di Central yang terkenal dengan angsa panggangnya yang luar biasa. Hasilnya adalah perpaduan surgawi dari kulit renyah, lemak lumer, dan daging berair.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "Australian Dairy Company",
+          "type": "cafe",
+          "description": "Cha chaan teng ikonik di Jordan ini terkenal dengan layanannya yang super efisien. Pengunjung dapat menikmati telur orak-arik yang luar biasa mengembang di atas roti panggang tebal.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "Mak's Noodle (Central)",
+          "type": "restaurant",
+          "description": "Kedai mi bersejarah yang meneruskan warisan tahun 1920-an. Mak's menyajikan mi wonton khas mereka dalam mangkuk kecil tradisional untuk memastikan mi tetap kenyal dan al dente.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "Toko Roti Tai Cheong",
+          "type": "street_food",
+          "description": "Toko roti legendaris di Central yang telah memuaskan hasrat manis sejak tahun 1954. Mereka adalah ahli kue tart telur pinggiran kue kering yang tak terbantahkan, disajikan selagi panas.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "हांगकांग में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "हांगकांग में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशिष्टताओं की खोज करें। चा चान टेंग से लेकर बेहतरीन डिम सम तक।",
+      "page_intro": "हांगकांग एक विश्व स्तरीय पाक राजधानी है जहां पूर्व पश्चिम से मिलता है। टेम्पल स्ट्रीट के हलचल भरे दाई पाई डोंग से लेकर मिशेलिन-तारांकित डिम सम तक, शहर का भोजन दृश्य बेहद स्वादिष्ट है।",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "टिम हो वान (शाम शुई पो)",
+          "type": "restaurant",
+          "description": "दुनिया के सबसे सस्ते मिशेलिन-तारांकित रेस्तरां में से एक के रूप में प्रसिद्ध, टिम हो वान एक विनम्र सेटिंग में शीर्ष स्तरीय डिम सम परोसता है। उनके बेक्ड बीबीक्यू पोर्क बन्स प्रसिद्ध हैं।",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "टेम्पल स्ट्रीट नाइट मार्केट",
+          "type": "night_market",
+          "description": "जब सूरज डूबता है, तो टेम्पल स्ट्रीट एक जीवंत, नियॉन-रोशनी वाले बाज़ार में बदल जाता है जो अपने जीवंत दाई पाई डोंग के लिए प्रसिद्ध है। क्लेपॉट राइस और मसालेदार केकड़ा आजमाने के लिए यह अंतिम स्थान है।",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "काऊ की रेस्तरां",
+          "type": "restaurant",
+          "description": "सेंट्रल में एक प्रसिद्ध नूडल की दुकान जो 90 से अधिक वर्षों से अपने बीफ ब्रिस्केट नुस्खा को सिद्ध कर रही है। वे एक सुगंधित शोरबा में अविश्वसनीय रूप से निविदा बीफ़ ब्रिस्केट परोसते हैं।",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "लैन फोंग यूएन (सेंट्रल)",
+          "type": "cafe",
+          "description": "हांगकांग के प्रसिद्ध 'सिल्क स्टॉकिंग' दूध की चाय के आविष्कारक के रूप में व्यापक रूप से श्रेय दिया जाता है, यह ऐतिहासिक चा चान टेंग 1952 में एक विनम्र स्ट्रीट स्टॉल के रूप में शुरू हुआ था।",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "यति लोक रोस्ट गूस",
+          "type": "restaurant",
+          "description": "सेंट्रल में एक हलचल भरा, मिशेलिन-तारांकित भोजनालय जो अपने असाधारण रोस्ट गूज़ के लिए प्रसिद्ध है। परिणाम कुरकुरी त्वचा, पिघलने वाले वसा और रसदार मांस का एक स्वर्गीय संयोजन है।",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "ऑस्ट्रेलियन डेयरी कंपनी",
+          "type": "cafe",
+          "description": "जॉर्डन में यह प्रतिष्ठित चा चान टेंग अपने हाइपर-कुशल, तेज़-तर्रार सेवा के लिए उतना ही प्रसिद्ध है जितना कि इसके भोजन के लिए। वे मोटे टोस्ट पर अविश्वसनीय रूप से शराबी तले हुए अंडे परोसते हैं।",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "मैक्स नूडल (सेंट्रल)",
+          "type": "restaurant",
+          "description": "एक ऐतिहासिक नूडल हाउस जो 1920 के दशक की विरासत को आगे बढ़ा रहा है। मैक्स् अपने सिग्नेचर वॉनटन नूडल्स को छोटे, पारंपरिक कटोरे में परोसता है ताकि यह सुनिश्चित हो सके कि नूडल्स वसंतमय रहें।",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "ताई चेओंग बेकरी",
+          "type": "street_food",
+          "description": "सेंट्रल में एक प्रसिद्ध बेकरी जो 1954 से मीठी लालसा को पूरा कर रही है। वे कुकी-क्रस्ट एग टार्ट के निर्विवाद स्वामी हैं, जिन्हें पाइपिंग हॉट परोसा जाता है।",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Hong Kong 2026 — Guia de Restaurantes e Street Food",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades em Hong Kong. Desde cha chaan tengs econômicos até jantares de dim sum.",
+      "page_intro": "Hong Kong é uma capital culinária onde o Oriente encontra o Ocidente. Dos agitados dai pai dongs de Temple Street aos dim sum com estrelas Michelin, a cena gastronômica da cidade é intensamente saborosa.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "Tim Ho Wan (Sham Shui Po)",
+          "type": "restaurant",
+          "description": "Famoso por ser um dos restaurantes com estrelas Michelin mais baratos do mundo, o Tim Ho Wan serve dim sum de primeira linha em um ambiente humilde. Seus pãezinhos de porco assados são lendários.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "Mercado Noturno de Temple Street",
+          "type": "night_market",
+          "description": "Quando o sol se põe, Temple Street se transforma em um bazar iluminado por neon famoso por seus animados dai pai dongs. É o local ideal para saborear o arroz em panela de barro.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "Restaurante Kau Kee",
+          "type": "restaurant",
+          "description": "Uma lendária loja de macarrão no Central que vem aperfeiçoando sua receita de peito bovino há mais de 90 anos. Eles servem carne incrivelmente macia em um caldo perfumado.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "Lan Fong Yuen (Central)",
+          "type": "cafe",
+          "description": "Amplamente creditado como o inventor do famoso chá com leite 'meia de seda', este histórico cha chaan teng começou como uma humilde barraca de rua em 1952.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "Yat Lok Roast Goose",
+          "type": "restaurant",
+          "description": "Um restaurante com estrela Michelin no Central, famoso por seu excepcional ganso assado. O resultado é uma combinação celestial de pele crocante e carne suculenta.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "Australian Dairy Company",
+          "type": "cafe",
+          "description": "Este icônico cha chaan teng em Jordan é tão famoso por seu serviço hiper-eficiente quanto por sua comida. Eles servem ovos mexidos incrivelmente fofos em torradas grossas.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "Mak's Noodle (Central)",
+          "type": "restaurant",
+          "description": "Uma casa histórica que carrega um legado que remonta à década de 1920. O Mak's serve seu famoso macarrão wonton em tigelas pequenas para garantir que permaneça al dente.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "Padaria Tai Cheong",
+          "type": "street_food",
+          "description": "Uma padaria lendária que satisfaz os desejos por doces desde 1954. Eles são os mestres indiscutíveis da torta de ovo com massa de biscoito, servida bem quente.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في هونغ كونغ 2026 — دليل المطاعم وأكل الشوارع",
+      "seo_description": "اكتشف أفضل المطاعم وأكل الشوارع والتخصصات في هونغ كونغ. من تشا تشان تينغ الاقتصادية إلى الديم سوم الفاخر.",
+      "page_intro": "هونغ كونغ هي عاصمة طهي عالمية حيث يلتقي الشرق بالغرب. من داي باي دونغ الصاخبة في شارع تيمبل إلى ديم سوم الحائز على نجمة ميشلان، فإن مشهد الطعام مليء بالنكهات بشكل مكثف.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "تيم هو وان (شام شوي بو)",
+          "type": "restaurant",
+          "description": "يشتهر بأنه أحد أرخص المطاعم الحائزة على نجمة ميشلان في العالم، ويقدم ديم سوم من الدرجة الأولى في بيئة متواضعة. كعك لحم الخنزير المخبوز الخاص بهم أسطوري.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "سوق شارع تيمبل الليلي",
+          "type": "night_market",
+          "description": "عندما تغرب الشمس، يتحول شارع تيمبل إلى بازار نابض بالحياة يشتهر بـ داي باي دونغ. إنه المكان المثالي لتجربة أرز الأواني الفخارية والسرطان الحار.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "مطعم كاو كي",
+          "type": "restaurant",
+          "description": "متجر معكرونة أسطوري في وسط المدينة يتقن وصفة لحم الصدر البقري لأكثر من 90 عامًا. يقدمون لحم بقري طري بشكل لا يصدق في مرق صافٍ معطر.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "لان فونغ يوين (سنترال)",
+          "type": "cafe",
+          "description": "يُنسب إليه الفضل على نطاق واسع باعتباره مخترع شاي الحليب 'الجورب الحريري' الشهير في هونغ كونغ، بدأ هذا المقهى التاريخي ككشك متواضع في عام 1952.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "يات لوك للإوز المشوي",
+          "type": "restaurant",
+          "description": "مطعم حائز على نجمة ميشلان في وسط المدينة يشتهر بالإوز المشوي الاستثنائي. النتيجة هي مزيج سماوي من الجلد المقرمش واللحم الغني بالعصارة.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "شركة الألبان الأسترالية",
+          "type": "cafe",
+          "description": "يشتهر هذا المطعم الشهير في الأردن بخدمته السريعة للغاية بقدر ما يشتهر بطعامه. يستمتع رواد المطعم ببيض مخفوق رقيق بشكل لا يصدق على خبز محمص سميك.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "معكرونة ماك (سنترال)",
+          "type": "restaurant",
+          "description": "بيت معكرونة تاريخي يحمل إرثًا يعود إلى عشرينيات القرن الماضي. يقدم ماك معكرونة الونتون المميزة الخاصة بهم في أوعية تقليدية صغيرة.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "مخبز تاي تشيونج",
+          "type": "street_food",
+          "description": "مخبز أسطوري في وسط المدينة يلبي الرغبة الشديدة في تناول الحلويات منذ عام 1954. إنهم أسياد تورتة البيض بقشرة البسكويت بلا منازع، وتُقدم ساخنة.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "হংকংয়ের সেরা খাবার 2026 - রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "হংকংয়ের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় খাবার আবিষ্কার করুন। সাশ্রয়ী মূল্যের চা চান টেং থেকে শুরু করে সূক্ষ্ম ডিম সাম পর্যন্ত।",
+      "page_intro": "হংকং একটি বিশ্বমানের রন্ধনসম্পর্কীয় রাজধানী যেখানে পূর্ব পশ্চিমের সাথে মিলিত হয়। টেম্পল স্ট্রিটের ব্যস্ত ডাই পাই ডং থেকে শুরু করে মিশেলিন-তারকাযুক্ত ডিম সাম পর্যন্ত, শহরের খাবারের দৃশ্যটি তীব্রভাবে স্বাদযুক্ত।",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "টিম হো ওয়ান (শাম শুই পো)",
+          "type": "restaurant",
+          "description": "বিশ্বের অন্যতম সস্তা মিশেলিন-তারকাযুক্ত রেস্তোরাঁ হিসাবে বিখ্যাত, টিম হো ওয়ান একটি নম্র বিন্যাসে শীর্ষ স্তরের ডিম সাম পরিবেশন করে। তাদের বেকড বিবিকিউ পর্ক বানগুলি কিংবদন্তি।",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "টেম্পল স্ট্রিট নাইট মার্কেট",
+          "type": "night_market",
+          "description": "যখন সূর্য অস্ত যায়, টেম্পল স্ট্রিট একটি স্পন্দনশীল, নিয়ন-আলোকিত বাজারে রূপান্তরিত হয় যা এর প্রাণবন্ত দাই পাই ডং এর জন্য বিখ্যাত। এটি ক্লেপট ভাত এবং মশলাদার কাঁকড়া চেষ্টা করার চূড়ান্ত জায়গা।",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "কাউ কি রেস্তোরাঁ",
+          "type": "restaurant",
+          "description": "সেন্ট্রালের একটি কিংবদন্তি নুডল শপ যা 90 বছরেরও বেশি সময় ধরে গরুর মাংসের ব্রিস্কেট রেসিপি নিখুঁত করে চলেছে। তারা একটি সুগন্ধি পরিষ্কার ঝোলের মধ্যে অবিশ্বাস্যভাবে কোমল গরুর মাংস পরিবেশন করে।",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "ল্যান ফং ইউয়েন (সেন্ট্রাল)",
+          "type": "cafe",
+          "description": "হংকংয়ের বিখ্যাত 'সিল্ক স্টকিং' মিল্ক টি এর উদ্ভাবক হিসাবে ব্যাপকভাবে কৃতিত্বপ্রাপ্ত, এই ঐতিহাসিক চা চান টেং ১৯৫২ সালে একটি নম্র রাস্তার স্টল হিসাবে শুরু হয়েছিল।",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "ইয়েত লোক রোস্ট গুজ",
+          "type": "restaurant",
+          "description": "সেন্ট্রালের একটি কোলাহলপূর্ণ, মিশেলিন-তারকাযুক্ত ভোজনালয় যা এর ব্যতিক্রমী রোস্ট হংসের জন্য বিখ্যাত। ফলাফল হল খাস্তা ত্বক এবং রসালো মাংসের স্বর্গীয় সংমিশ্রণ।",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "অস্ট্রেলিয়ান ডেইরি কোম্পানি",
+          "type": "cafe",
+          "description": "জর্ডানের এই আইকনিক চা চান টেং এর খাবারের মতোই এর হাইপার-দক্ষ, দ্রুতগতির পরিষেবার জন্য বিখ্যাত। ডিনাররা মোটা টোস্টে অবিশ্বাস্যভাবে তুলতুলে স্ক্র্যাম্বলড ডিম উপভোগ করে।",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "ম্যাকস নুডল (সেন্ট্রাল)",
+          "type": "restaurant",
+          "description": "একটি ঐতিহাসিক নুডল হাউস যা 1920 এর দশকের একটি ঐতিহ্য বহন করে চলেছে। ম্যাক্স তাদের সিগনেচার ওয়ানটন নুডলস ছোট, ঐতিহ্যবাহী বাটিতে পরিবেশন করে যাতে নুডলস পুরোপুরি আল ডেন্তে থাকে।",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "তাই চেওং বেকারি",
+          "type": "street_food",
+          "description": "সেন্ট্রালের একটি কিংবদন্তি বেকারি যা 1954 সাল থেকে মিষ্টি আকাঙ্ক্ষা মেটাচ্ছে। তারা কুকি-ক্রাস্ট ডিমের টার্টের অবিসংবাদিত মাস্টার, যা গরম পরিবেশন করা হয়।",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Гонконге 2026 — Гид по ресторанам и уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Гонконге. От бюджетных ча чаан тэнг до изысканных димсамов.",
+      "page_intro": "Гонконг — это кулинарная столица мирового класса, где Восток встречается с Западом. От шумных дай пай донгов на Темпл-стрит до отмеченных звездами Мишлен димсамов, гастрономическая сцена города чрезвычайно ароматна.",
+      "items": [
+        {
+          "id": "tim-ho-wan-sham-shui-po",
+          "name": "Tim Ho Wan (Шам-Шуй-По)",
+          "type": "restaurant",
+          "description": "Известный как один из самых дешевых ресторанов со звездой Мишлен в мире, Tim Ho Wan подает первоклассные димсамы в скромной обстановке. Их запеченные булочки со свининой барбекю легендарны.",
+          "image_keyword": "tim ho wan bbq pork bun dim sum",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Baked BBQ Pork Buns",
+          "klook_query": "Tim Ho Wan Hong Kong voucher"
+        },
+        {
+          "id": "temple-street-night-market",
+          "name": "Ночной рынок на Темпл-стрит",
+          "type": "night_market",
+          "description": "Когда садится солнце, Темпл-стрит превращается в оживленный освещенный неоном базар, известный своими дай пай донгами. Это лучшее место, чтобы попробовать рис в глиняном горшочке.",
+          "image_keyword": "temple street night market food dai pai dong",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Claypot Rice and Spicy Crab",
+          "klook_query": "Temple Street Night Market tour"
+        },
+        {
+          "id": "kau-kee-restaurant",
+          "name": "Ресторан Kau Kee",
+          "type": "restaurant",
+          "description": "Легендарный магазин лапши в Центральном районе, который совершенствует свой рецепт говяжьей грудинки более 90 лет. Они подают невероятно нежную говядину в ароматном прозрачном бульоне.",
+          "image_keyword": "kau kee beef brisket noodles hong kong",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Curry Beef Brisket Noodles",
+          "klook_query": "Central Hong Kong food guide"
+        },
+        {
+          "id": "lan-fong-yuen-central",
+          "name": "Lan Fong Yuen (Центральный)",
+          "type": "cafe",
+          "description": "Считающийся изобретателем знаменитого гонконгского чая с молоком 'шелковый чулок', этот исторический ча чаан тэнг начинался как скромный уличный киоск в 1952 году.",
+          "image_keyword": "lan fong yuen milk tea hong kong",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Silk Stocking Milk Tea",
+          "klook_query": "Hong Kong cha chaan teng"
+        },
+        {
+          "id": "yat-lok-roast-goose",
+          "name": "Yat Lok Roast Goose",
+          "type": "restaurant",
+          "description": "Шумная закусочная, отмеченная звездой Мишлен, в Центральном районе, известная своим исключительным жареным гусем. Результат — райское сочетание хрустящей корочки и сочного мяса.",
+          "image_keyword": "yat lok roast goose hong kong",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Roast Goose with Rice",
+          "klook_query": "Yat Lok Roast Goose"
+        },
+        {
+          "id": "australian-dairy-company",
+          "name": "Australian Dairy Company",
+          "type": "cafe",
+          "description": "Этот культовый ча чаан тэнг в Джордане так же знаменит своим сверхбыстрым обслуживанием, как и своей едой. Посетители наслаждаются невероятно пушистой яичницей-болтуньей на толстых тостах.",
+          "image_keyword": "australian dairy company scrambled eggs",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Scrambled Eggs on Thick Toast",
+          "klook_query": "Kowloon food tour"
+        },
+        {
+          "id": "maks-noodle-central",
+          "name": "Mak's Noodle (Центральный)",
+          "type": "restaurant",
+          "description": "Историческая лапшичная, продолжающая традиции 1920-х годов. Mak's подает фирменную лапшу вонтон в небольших традиционных мисках, чтобы лапша оставалась упругой.",
+          "image_keyword": "maks noodle wonton hong kong",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Shrimp Wonton Noodles",
+          "klook_query": "Hong Kong Michelin food"
+        },
+        {
+          "id": "tai-cheong-bakery",
+          "name": "Пекарня Tai Cheong",
+          "type": "street_food",
+          "description": "Легендарная пекарня в Центральном районе, удовлетворяющая тягу к сладкому с 1954 года. Они являются неоспоримыми мастерами яичных тартов с песочной корочкой, которые подаются горячими.",
+          "image_keyword": "tai cheong bakery egg tart",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Cookie-crust Egg Tart",
+          "klook_query": "Hong Kong egg tart"
+        }
+      ]
+    }
+  }
+}

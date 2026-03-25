@@ -1,0 +1,1145 @@
+{
+  "city_slug": "kuala-lumpur",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Kuala Lumpur 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Kuala Lumpur. From budget eats to fine dining — with booking links.",
+      "page_intro": "Kuala Lumpur is a melting pot of cultures, reflected in its vibrant food scene. The city offers a tantalizing mix of Malay, Chinese, Indian, and indigenous cuisines, making it a paradise for food lovers. From bustling night markets offering flavorful street food to high-end restaurants serving gourmet dishes, Kuala Lumpur has something for every palate. Whether you are a fan of spicy curries, savory noodles, or sweet desserts, the culinary diversity here is sure to satisfy your cravings.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "Jalan Alor Food Street",
+          "type": "street_food",
+          "description": "Jalan Alor is Kuala Lumpur's most famous food street, bustling with vendors offering a wide range of local delights. From satay skewers to spicy laksa, this vibrant street is a must-visit for anyone looking to experience authentic Malaysian cuisine. The lively atmosphere and affordable prices make it a popular spot for both locals and tourists.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "Lot 10 Hutong",
+          "type": "food_court",
+          "description": "Lot 10 Hutong is a gourmet food court that brings together some of the city's most famous heritage food vendors in one convenient location. Here, you can taste authentic Hokkien Mee, Penang Prawn Mee, and other beloved dishes. With its air-conditioned setting and wide variety of options, it's perfect for foodies who want to sample the best of Kuala Lumpur's street food indoors.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "Nasi Lemak Antarabangsa",
+          "type": "restaurant",
+          "description": "Nasi Lemak Antarabangsa is renowned for serving one of Malaysia's national dishes, nasi lemak. This beloved eatery has been serving fragrant rice cooked in coconut milk, accompanied by spicy sambal, crispy anchovies, and boiled eggs for decades. Its cozy and no-frills atmosphere makes it a favorite among locals looking for a comforting meal.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "Pavilion Kuala Lumpur",
+          "type": "restaurant",
+          "description": "Pavilion Kuala Lumpur is home to several high-end dining options, offering a range of international and local cuisines. From elegant Japanese sushi bars to contemporary Western bistros, the dining establishments here cater to refined tastes. The sophisticated ambiance and premium service make it ideal for special occasions or a luxurious night out.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "Madam Kwan's",
+          "type": "restaurant",
+          "description": "Madam Kwan's offers a taste of Malaysia's rich culinary heritage in a comfortable and modern setting. Known for its delicious nasi bojari and curry laksa, the restaurant captures the essence of traditional Malaysian cooking with a contemporary twist. The attentive service and warm ambiance make it a go-to spot for both locals and visitors.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "Kampung Baru Night Market",
+          "type": "night_market",
+          "description": "Kampung Baru Night Market is a buzzing hub of activity, offering a wide array of street food options that showcase traditional Malay flavors. From grilled fish to sweet kuih, the market is a sensory delight. Its vibrant atmosphere and diverse selection make it a favorite destination for those seeking an authentic Malaysian experience.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "Petaling Street, Chinatown",
+          "type": "street_food",
+          "description": "Petaling Street in Kuala Lumpur's Chinatown is famous for its bustling market and diverse street food offerings. Visitors can savor a variety of Chinese-Malaysian dishes, including dim sum, char kway teow, and roasted duck. The vibrant market atmosphere adds to the charm of this culinary hotspot.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "Bijan Bar & Restaurant",
+          "type": "restaurant",
+          "description": "Bijan Bar & Restaurant is a fine dining establishment that specializes in contemporary Malay cuisine. With dishes like rendang and sambal udang, Bijan offers a gourmet twist on traditional favorites. The elegant decor and intimate setting provide the perfect backdrop for a sophisticated dining experience.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "吉隆坡最佳美食 2026 — 顶级餐厅与街头美食指南",
+      "seo_description": "探索吉隆坡最好的餐厅、街头美食和本地特色。从经济实惠的小吃到高档餐饮 — 还有预订链接。",
+      "page_intro": "吉隆坡是一个文化的融合地，这在其充满活力的美食场景中得到了体现。这个城市提供了诱人的马来、中式、印度和本土菜肴的混合，是美食爱好者的天堂。从提供美味街头食品的繁忙夜市到供应美食佳肴的高档餐厅，吉隆坡能满足每个人的味蕾。无论您是辛辣咖喱、咸味面条还是甜点的粉丝，这里的美食多样性一定能满足您的胃口。",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "阿罗街美食街",
+          "type": "street_food",
+          "description": "阿罗街是吉隆坡最著名的美食街，汇集了提供各种本地美食的小贩。从沙爹串到辣叻沙，这条充满活力的街道是任何想体验正宗马来西亚美食的人必去的地方。热闹的氛围和实惠的价格使其成为当地人和游客的热门地点。",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "Lot 10 胡同",
+          "type": "food_court",
+          "description": "Lot 10 胡同是一个美食广场，将城市一些最著名的传统美食小贩聚集在一个方便的地点。在这里，您可以品尝到正宗的福建面、槟城虾面等受欢迎的菜肴。空调环境和丰富的选择使其成为想在室内品尝吉隆坡街头美食的美食家的理想选择。",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "国际椰浆饭",
+          "type": "restaurant",
+          "description": "国际椰浆饭因供应马来西亚的国菜椰浆饭而闻名。这家受欢迎的餐馆几十年来一直提供椰奶煮熟的香米，配上辣味叁巴、脆脆的江鱼仔和煮鸡蛋。温馨而简单的氛围使其成为当地人寻找舒适餐点的最爱。",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "吉隆坡柏威年",
+          "type": "restaurant",
+          "description": "吉隆坡柏威年是多家高档餐饮选择的所在地，提供一系列国际和本地菜肴。从优雅的日本寿司吧到现代西式小酒馆，这里的餐馆迎合了高品味。优雅的氛围和优质的服务使其成为特别场合或奢华夜晚的理想选择。",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "关女士餐厅",
+          "type": "restaurant",
+          "description": "关女士餐厅在舒适现代的环境中提供马来西亚丰富的烹饪传统。以美味的拿督饭和咖喱叻沙而闻名，这家餐厅以现代方式捕捉了传统马来西亚烹饪的精髓。贴心的服务和温馨的氛围使其成为当地人和游客的首选。",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "甘榜峇鲁夜市",
+          "type": "night_market",
+          "description": "甘榜峇鲁夜市是一个活跃的活动中心，提供展示传统马来风味的各种街头食品选择。从烤鱼到甜糕点，这个市场是一场感官盛宴。其充满活力的氛围和多样的选择使其成为寻求正宗马来西亚体验的人们的热门目的地。",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "茨厂街，唐人街",
+          "type": "street_food",
+          "description": "吉隆坡唐人街的茨厂街以其繁忙的市场和多样化的街头食品而闻名。游客可以品尝到各种中式-马来西亚菜肴，包括点心、炒粿条和烤鸭。热闹的市场氛围增加了这个美食热点的魅力。",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "Bijan 酒吧和餐厅",
+          "type": "restaurant",
+          "description": "Bijan 酒吧和餐厅是一家专注于现代马来菜的高档餐饮场所。像仁当和叁巴虾这样的菜肴，Bijan 为传统的最爱提供了美食扭转。优雅的装饰和亲密的环境为精致的用餐体验提供了完美的背景。",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "クアラルンプールのベストフード 2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "クアラルンプールのベストレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "クアラルンプールは文化のるつぼであり、その活気あるフードシーンに反映されています。マレー、中華、インド、先住民族の料理が魅力的に混ざり合い、食通にとっての楽園です。風味豊かなストリートフードを提供する賑やかなナイトマーケットから、グルメ料理を提供する高級レストランまで、クアラルンプールにはあらゆる味覚に応えるものがあります。スパイシーなカレー、風味豊かな麺類、甘いデザートのファンであろうと、ここでの多様な料理はあなたの食欲を満たすことでしょう。",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "ジャラン・アロー・フードストリート",
+          "type": "street_food",
+          "description": "ジャラン・アローはクアラルンプールで最も有名なフードストリートであり、地元の美味しさを提供するベンダーで賑わっています。サテー串からスパイシーなラクサまで、この活気ある通りは、正真正銘のマレーシア料理を体験したい人にとって必訪の場所です。賑やかな雰囲気と手頃な価格で、地元の人々や観光客に人気のスポットです。",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "ロット10 フートン",
+          "type": "food_court",
+          "description": "ロット10 フートンは、市内で最も有名な伝統的なフードベンダーを便利な場所に集めたグルメフードコートです。ここでは、本格的な福建麺やペナン海老麺などの愛される料理を味わうことができます。空調が効いた環境と豊富な選択肢により、クアラルンプールのストリートフードを室内で楽しみたい食通に最適です。",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "ナシレマ・アンタラバンサ",
+          "type": "restaurant",
+          "description": "ナシレマ・アンタラバンサは、マレーシアの国民食であるナシレマを提供することで有名です。この人気のある食堂は何十年もにわたり、ココナッツミルクで炊いた香り高いご飯に、スパイシーなサンバル、カリカリのアンチョビ、ゆで卵を添えて提供しています。居心地の良いシンプルな雰囲気が、地元の人々にとっての安らぎの食事スポットとして人気です。",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "パビリオン・クアラルンプール",
+          "type": "restaurant",
+          "description": "パビリオン・クアラルンプールには、高級なダイニングオプションが多数あり、国際的および地元の料理を提供しています。エレガントな日本の寿司バーから、現代的な西洋ビストロまで、ここでの食事施設は洗練された味覚を満たします。洗練された雰囲気とプレミアムなサービスが、特別な機会や贅沢な夜に最適です。",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "マダム・クワンズ",
+          "type": "restaurant",
+          "description": "マダム・クワンズは、快適で現代的な環境の中で、マレーシアの豊かな料理遺産を味わえる場所です。美味しいナシボジャリやカレーラクサで知られるこのレストランは、伝統的なマレーシア料理の本質を現代的なひねりを加えて捉えています。丁寧なサービスと温かい雰囲気が、地元の人々と訪問者にとっての人気のスポットとなっています。",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "カンポン・バル・ナイトマーケット",
+          "type": "night_market",
+          "description": "カンポン・バル・ナイトマーケットは、伝統的なマレーの風味を紹介する多様なストリートフードオプションを提供する賑やかな活動の中心地です。焼き魚から甘いクイまで、市場は感覚的な喜びです。その活気ある雰囲気と多様な選択肢が、本物のマレーシア体験を求める人々にとっての人気の目的地です。",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "ペタリン通り、チャイナタウン",
+          "type": "street_food",
+          "description": "クアラルンプールのチャイナタウンにあるペタリン通りは、賑やかな市場と多様なストリートフードで有名です。訪問者は、点心、チャークイティオ、ローストダックを含む様々な中華系マレーシア料理を味わえます。賑やかな市場の雰囲気が、この料理のホットスポットの魅力を引き立てます。",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "ビジャン・バー＆レストラン",
+          "type": "restaurant",
+          "description": "ビジャン・バー＆レストランは、現代的なマレー料理を専門とする高級ダイニング施設です。レンダンやサンバル・ウダンのような料理で、ビジャンは伝統的なファボリットにグルメなひねりを加えています。エレガントな装飾と親密な設定が、洗練されたダイニング体験のための完璧な背景を提供します。",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "쿠알라룸푸르 최고의 음식 2026 — 최고의 레스토랑 & 스트리트 푸드 가이드",
+      "seo_description": "쿠알라룸푸르의 최고의 레스토랑, 스트리트 푸드, 지역 특산품을 발견하세요. 예산 친화적인 음식에서 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "쿠알라룸푸르는 다양한 문화가 융합된 곳으로, 그 활기찬 음식 장면에서 그 모습을 볼 수 있습니다. 말레이, 중국, 인도 및 토착 요리가 매력적으로 혼합되어 있어 미식가들의 낙원입니다. 맛있는 스트리트 푸드를 제공하는 번화한 야시장부터 고급 레스토랑에서 제공하는 미식 요리까지, 쿠알라룸푸르는 모든 미각을 만족시킬 수 있습니다. 매운 카레, 짭짤한 국수, 달콤한 디저트를 좋아하든, 이곳의 다양한 요리는 당신의 식욕을 확실히 만족시킬 것입니다.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "잘란 알로르 푸드 스트리트",
+          "type": "street_food",
+          "description": "잘란 알로르는 쿠알라룸푸르에서 가장 유명한 음식 거리로, 다양한 현지 별미를 제공하는 상인들로 붐빕니다. 사테이 꼬치에서 매운 락사까지, 이 활기찬 거리는 진정한 말레이시아 요리를 경험하고자 하는 사람들에게 꼭 방문해야 할 장소입니다. 활기찬 분위기와 저렴한 가격은 현지인과 관광객 모두에게 인기 있는 장소입니다.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "롯 10 후퉁",
+          "type": "food_court",
+          "description": "롯 10 후퉁은 도시의 가장 유명한 전통 음식 판매자를 한곳에 모은 고급 푸드 코트입니다. 여기서 정통 호키엔 미, 페낭 새우 미 등의 사랑받는 요리를 맛볼 수 있습니다. 에어컨이 설치된 환경과 다양한 선택으로 인해 실내에서 쿠알라룸푸르의 스트리트 푸드를 맛보고 싶어하는 미식가들에게 완벽한 선택입니다.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "나시르막 안타라방사",
+          "type": "restaurant",
+          "description": "나시르막 안타라방사는 말레이시아의 국가 요리인 나시르막을 제공하여 유명합니다. 이 사랑받는 식당은 수십 년 동안 코코넛 밀크로 조리한 향기로운 쌀에 매운 삼발, 바삭한 멸치, 삶은 계란을 곁들여 제공하고 있습니다. 아늑하고 소박한 분위기가 편안한 식사를 찾는 현지인들 사이에서 인기가 많습니다.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "파빌리온 쿠알라룸푸르",
+          "type": "restaurant",
+          "description": "파빌리온 쿠알라룸푸르는 고급 다이닝 옵션을 제공하는 여러 레스토랑이 자리 잡고 있으며, 국제 및 현지 요리를 다양하게 제공합니다. 우아한 일본 스시 바부터 현대적인 서양 비스트로까지, 이곳의 식당들은 정교한 취향을 만족시킵니다. 세련된 분위기와 프리미엄 서비스가 특별한 기회나 사치스러운 밤에 이상적입니다.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "마담 콴스",
+          "type": "restaurant",
+          "description": "마담 콴스는 편안하고 현대적인 환경에서 말레이시아의 풍부한 요리 유산을 맛볼 수 있는 곳입니다. 맛있는 나시 보자리와 커리 락사로 유명하며, 이 레스토랑은 전통 말레이시아 요리의 본질을 현대적인 감각으로 포착하고 있습니다. 세심한 서비스와 따뜻한 분위기가 현지인과 방문객 모두에게 인기 있는 장소입니다.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "캄풍 바루 야시장",
+          "type": "night_market",
+          "description": "캄풍 바루 야시장은 전통적인 말레이 풍미를 선보이는 다양한 스트리트 푸드 옵션을 제공하는 활기찬 활동의 중심지입니다. 구운 생선에서 달콤한 쿠이까지, 시장은 감각적인 즐거움입니다. 그 활기찬 분위기와 다양한 선택이 진정한 말레이시아 경험을 찾는 사람들에게 인기 있는 목적지입니다.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "페탈링 거리, 차이나타운",
+          "type": "street_food",
+          "description": "쿠알라룸푸르 차이나타운의 페탈링 거리는 활기찬 시장과 다양한 스트리트 푸드로 유명합니다. 방문객들은 딤섬, 차퀘이테오, 로스트 덕을 포함한 다양한 중화계 말레이시아 요리를 맛볼 수 있습니다. 활기찬 시장 분위기가 이 요리의 핫스팟의 매력을 더합니다.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "비잔 바 & 레스토랑",
+          "type": "restaurant",
+          "description": "비잔 바 & 레스토랑은 현대적인 말레이 요리를 전문으로 하는 고급 다이닝 시설입니다. 렌당과 삼발 우당 같은 요리로, 비잔은 전통적인 즐겨 찾기에 미식적인 변화를 줍니다. 우아한 장식과 친밀한 환경이 세련된 식사 경험을 위한 완벽한 배경을 제공합니다.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Kuala Lumpur 2026 — Guide des Meilleurs Restaurants & Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales de Kuala Lumpur. Des repas économiques aux dîners gastronomiques — avec des liens de réservation.",
+      "page_intro": "Kuala Lumpur est un creuset de cultures, reflété dans sa scène culinaire vibrante. La ville offre un mélange captivant de cuisines malaisienne, chinoise, indienne et indigène, faisant d'elle un paradis pour les amateurs de bonne chère. Des marchés nocturnes animés offrant des street foods savoureux aux restaurants haut de gamme servant des plats gastronomiques, Kuala Lumpur a quelque chose pour chaque palais. Que vous soyez fan de curry épicé, de nouilles savoureuses ou de desserts sucrés, la diversité culinaire ici est sûre de satisfaire vos envies.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "Jalan Alor Food Street",
+          "type": "street_food",
+          "description": "Jalan Alor est la rue de la nourriture la plus célèbre de Kuala Lumpur, animée par des vendeurs proposant une large gamme de délices locaux. Des brochettes de satay aux laksa épicés, cette rue animée est un incontournable pour quiconque souhaite découvrir la cuisine malaisienne authentique. L'atmosphère animée et les prix abordables en font un lieu populaire tant pour les habitants que pour les touristes.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "Lot 10 Hutong",
+          "type": "food_court",
+          "description": "Lot 10 Hutong est un food court gastronomique qui rassemble certains des vendeurs de nourriture patrimoniale les plus célèbres de la ville en un lieu pratique. Ici, vous pouvez déguster des plats authentiques comme le Hokkien Mee, le Penang Prawn Mee et d'autres plats appréciés. Avec son cadre climatisé et sa grande variété d'options, c'est parfait pour les gourmets qui veulent goûter le meilleur de la street food de Kuala Lumpur à l'intérieur.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "Nasi Lemak Antarabangsa",
+          "type": "restaurant",
+          "description": "Nasi Lemak Antarabangsa est réputé pour servir l'un des plats nationaux de la Malaisie, le nasi lemak. Ce restaurant bien-aimé sert du riz parfumé cuit dans du lait de coco, accompagné de sambal épicé, d'anchois croustillants et d'œufs durs depuis des décennies. Son ambiance cosy et sans prétention en fait un favori parmi les habitants à la recherche d'un repas réconfortant.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "Pavilion Kuala Lumpur",
+          "type": "restaurant",
+          "description": "Pavilion Kuala Lumpur abrite plusieurs options de restauration haut de gamme, offrant une gamme de cuisines internationales et locales. Des bars à sushi japonais élégants aux bistros occidentaux contemporains, les établissements de restauration ici répondent aux goûts raffinés. L'ambiance sophistiquée et le service premium en font l'endroit idéal pour des occasions spéciales ou une soirée luxueuse.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "Madam Kwan's",
+          "type": "restaurant",
+          "description": "Madam Kwan's offre un goût du riche patrimoine culinaire de la Malaisie dans un cadre confortable et moderne. Connu pour son délicieux nasi bojari et curry laksa, le restaurant capture l'essence de la cuisine malaisienne traditionnelle avec une touche contemporaine. Le service attentionné et l'ambiance chaleureuse en font un endroit de prédilection pour les habitants et les visiteurs.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "Marché de Nuit de Kampung Baru",
+          "type": "night_market",
+          "description": "Le Marché de Nuit de Kampung Baru est un centre d'activité dynamique, offrant un large éventail d'options de street food mettant en valeur les saveurs traditionnelles malaisiennes. Du poisson grillé aux douceurs kuih, le marché est un délice sensoriel. Son ambiance vibrante et sa sélection diversifiée en font une destination prisée pour ceux qui recherchent une expérience authentique en Malaisie.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "Petaling Street, Chinatown",
+          "type": "street_food",
+          "description": "Petaling Street dans le Chinatown de Kuala Lumpur est célèbre pour son marché animé et ses diverses offres de street food. Les visiteurs peuvent savourer une variété de plats sino-malaisiens, y compris des dim sum, des char kway teow et du canard rôti. L'atmosphère de marché animée ajoute au charme de ce hotspot culinaire.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "Bijan Bar & Restaurant",
+          "type": "restaurant",
+          "description": "Le Bijan Bar & Restaurant est un établissement de restauration raffinée spécialisé dans la cuisine malaise contemporaine. Avec des plats comme le rendang et le sambal udang, Bijan propose une touche gourmande aux favoris traditionnels. Le décor élégant et l'atmosphère intime offrent le cadre parfait pour une expérience culinaire sophistiquée.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Kuala Lumpur 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Kuala Lumpur. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
+      "page_intro": "Kuala Lumpur es un crisol de culturas, reflejado en su vibrante escena gastronómica. La ciudad ofrece una mezcla tentadora de cocinas malaya, china, india e indígena, convirtiéndola en un paraíso para los amantes de la comida. Desde los bulliciosos mercados nocturnos que ofrecen comida callejera sabrosa hasta los restaurantes de alta gama que sirven platos gourmet, Kuala Lumpur tiene algo para cada paladar. Ya sea que seas fanático de los curris picantes, los fideos salados o los postres dulces, la diversidad culinaria aquí seguramente satisfará tus antojos.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "Calle de Comida Jalan Alor",
+          "type": "street_food",
+          "description": "Jalan Alor es la calle de comida más famosa de Kuala Lumpur, llena de vendedores que ofrecen una amplia gama de delicias locales. Desde brochetas de satay hasta laksa picante, esta vibrante calle es una visita obligada para cualquiera que quiera experimentar la auténtica cocina malaya. La atmósfera animada y los precios asequibles la hacen un lugar popular tanto para los locales como para los turistas.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "Lot 10 Hutong",
+          "type": "food_court",
+          "description": "Lot 10 Hutong es un patio de comidas gourmet que reúne a algunos de los vendedores de alimentos patrimoniales más famosos de la ciudad en un lugar conveniente. Aquí, puedes probar auténticos platos como el Hokkien Mee, el Penang Prawn Mee y otros platos queridos. Con su entorno climatizado y su amplia variedad de opciones, es perfecto para los amantes de la comida que quieren probar lo mejor de la comida callejera de Kuala Lumpur en interiores.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "Nasi Lemak Antarabangsa",
+          "type": "restaurant",
+          "description": "Nasi Lemak Antarabangsa es conocido por servir uno de los platos nacionales de Malasia, el nasi lemak. Este querido restaurante ha estado sirviendo arroz fragante cocido en leche de coco, acompañado de sambal picante, anchoas crujientes y huevos cocidos durante décadas. Su ambiente acogedor y sin pretensiones lo convierte en un favorito entre los locales que buscan una comida reconfortante.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "Pavilion Kuala Lumpur",
+          "type": "restaurant",
+          "description": "Pavilion Kuala Lumpur alberga varias opciones de alta cocina, ofreciendo una gama de cocinas internacionales y locales. Desde elegantes bares de sushi japoneses hasta bistrós occidentales contemporáneos, los establecimientos de comida aquí satisfacen los gustos refinados. El ambiente sofisticado y el servicio premium lo hacen ideal para ocasiones especiales o una noche lujosa.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "Madam Kwan's",
+          "type": "restaurant",
+          "description": "Madam Kwan's ofrece un sabor del rico patrimonio culinario de Malasia en un entorno cómodo y moderno. Conocido por su delicioso nasi bojari y curry laksa, el restaurante captura la esencia de la cocina tradicional malaya con un toque contemporáneo. El servicio atento y el ambiente cálido lo convierten en un lugar de referencia tanto para los locales como para los visitantes.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "Mercado Nocturno de Kampung Baru",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Kampung Baru es un centro de actividad vibrante, que ofrece una amplia gama de opciones de comida callejera que muestran los sabores tradicionales malayos. Desde pescado a la parrilla hasta dulces kuih, el mercado es un deleite sensorial. Su vibrante atmósfera y su selección diversa lo convierten en un destino favorito para aquellos que buscan una experiencia auténtica en Malasia.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "Calle Petaling, Barrio Chino",
+          "type": "street_food",
+          "description": "La Calle Petaling en el Barrio Chino de Kuala Lumpur es famosa por su bullicioso mercado y sus diversas ofertas de comida callejera. Los visitantes pueden saborear una variedad de platos chino-malayos, incluyendo dim sum, char kway teow y pato asado. El ambiente de mercado animado agrega al encanto de este punto caliente culinario.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "Bijan Bar & Restaurante",
+          "type": "restaurant",
+          "description": "Bijan Bar & Restaurante es un establecimiento de alta cocina que se especializa en cocina malaya contemporánea. Con platos como rendang y sambal udang, Bijan ofrece un giro gourmet a los favoritos tradicionales. La decoración elegante y el entorno íntimo proporcionan el telón de fondo perfecto para una experiencia culinaria sofisticada.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Kuala Lumpur 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Kuala Lumpur. Dari makanan murah hingga santapan mewah — dengan tautan pemesanan.",
+      "page_intro": "Kuala Lumpur adalah tempat percampuran budaya, tercermin dalam pemandangan makanan yang semarak. Kota ini menawarkan campuran yang menggugah selera dari masakan Melayu, Cina, India, dan pribumi, menjadikannya surga bagi pecinta makanan. Dari pasar malam yang ramai yang menawarkan makanan jalanan yang lezat hingga restoran mewah yang menyajikan hidangan gourmet, Kuala Lumpur memiliki sesuatu untuk setiap selera. Apakah Anda penggemar kari pedas, mi gurih, atau hidangan penutup manis, keragaman kuliner di sini pasti akan memuaskan keinginan Anda.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "Jalan Alor Food Street",
+          "type": "street_food",
+          "description": "Jalan Alor adalah jalan makanan paling terkenal di Kuala Lumpur, ramai dengan pedagang yang menawarkan berbagai macam makanan lokal. Dari sate hingga laksa pedas, jalan yang semarak ini adalah tempat yang wajib dikunjungi bagi siapa saja yang ingin merasakan masakan Malaysia yang autentik. Suasana yang ramai dan harga yang terjangkau menjadikannya tempat populer bagi penduduk lokal dan turis.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "Lot 10 Hutong",
+          "type": "food_court",
+          "description": "Lot 10 Hutong adalah food court gourmet yang mengumpulkan beberapa penjual makanan warisan kota yang paling terkenal di satu lokasi yang nyaman. Di sini, Anda bisa mencicipi Hokkien Mee, Penang Prawn Mee, dan hidangan lainnya yang populer. Dengan lingkungan ber-AC dan beragam pilihan, ini adalah tempat yang sempurna bagi pecinta makanan yang ingin mencicipi makanan jalanan terbaik Kuala Lumpur di dalam ruangan.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "Nasi Lemak Antarabangsa",
+          "type": "restaurant",
+          "description": "Nasi Lemak Antarabangsa terkenal karena menyajikan salah satu hidangan nasional Malaysia, nasi lemak. Kedai makan yang dicintai ini telah menyajikan nasi harum yang dimasak dalam santan, ditemani sambal pedas, ikan teri renyah, dan telur rebus selama beberapa dekade. Suasananya yang nyaman dan sederhana membuatnya menjadi favorit di kalangan penduduk lokal yang mencari makanan yang nyaman.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "Pavilion Kuala Lumpur",
+          "type": "restaurant",
+          "description": "Pavilion Kuala Lumpur adalah rumah bagi beberapa pilihan makan mewah, menawarkan berbagai masakan internasional dan lokal. Dari bar sushi Jepang yang elegan hingga bistro Barat kontemporer, tempat makan di sini memenuhi selera yang halus. Suasana yang canggih dan layanan premium menjadikannya ideal untuk acara khusus atau malam mewah.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "Madam Kwan's",
+          "type": "restaurant",
+          "description": "Madam Kwan's menawarkan rasa dari warisan kuliner kaya Malaysia dalam suasana yang nyaman dan modern. Dikenal karena nasi bojari dan curry laksa yang lezat, restoran ini menangkap esensi dari masakan tradisional Malaysia dengan sentuhan kontemporer. Layanan yang ramah dan suasana hangat menjadikannya tempat favorit bagi penduduk lokal dan pengunjung.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "Pasar Malam Kampung Baru",
+          "type": "night_market",
+          "description": "Pasar Malam Kampung Baru adalah pusat kegiatan yang ramai, menawarkan berbagai pilihan makanan jalanan yang menampilkan rasa tradisional Melayu. Dari ikan bakar hingga kuih manis, pasar ini adalah kenikmatan indra. Suasana yang hidup dan pilihan yang beragam menjadikannya tujuan favorit bagi mereka yang mencari pengalaman autentik Malaysia.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "Jalan Petaling, Pecinan",
+          "type": "street_food",
+          "description": "Jalan Petaling di Pecinan Kuala Lumpur terkenal dengan pasar yang ramai dan beragam penawaran makanan jalanannya. Pengunjung dapat menikmati berbagai hidangan Cina-Malaysia, termasuk dim sum, char kway teow, dan bebek panggang. Suasana pasar yang ramai menambah daya tarik hotspot kuliner ini.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "Bijan Bar & Restoran",
+          "type": "restaurant",
+          "description": "Bijan Bar & Restoran adalah tempat makan mewah yang mengkhususkan diri dalam masakan Melayu kontemporer. Dengan hidangan seperti rendang dan sambal udang, Bijan menawarkan sentuhan gourmet pada favorit tradisional. Dekorasi yang elegan dan suasana intim memberikan latar belakang yang sempurna untuk pengalaman bersantap yang canggih.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "कुआलालंपुर में सबसे अच्छा भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "कुआलालंपुर में सबसे अच्छे रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताएं खोजें। बजट भोजन से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "कुआलालंपुर संस्कृतियों का संगम है, जो इसके जीवंत खाद्य दृश्य में परिलक्षित होता है। शहर में मलय, चीनी, भारतीय और स्थानीय व्यंजनों का एक लुभावना मिश्रण है, जो इसे भोजन प्रेमियों के लिए स्वर्ग बनाता है। भीड़-भाड़ वाले नाइट मार्केट्स से लेकर उच्च-स्तरीय रेस्तरां तक, कुआलालंपुर में हर स्वाद के लिए कुछ न कुछ है। चाहे आप मसालेदार करी, स्वादिष्ट नूडल्स या मीठे डेसर्ट के प्रशंसक हों, यहां की पाक विविधता निश्चित रूप से आपकी इच्छाओं को संतुष्ट करेगी।",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "जालान अलोर फूड स्ट्रीट",
+          "type": "street_food",
+          "description": "जालान अलोर कुआलालंपुर की सबसे प्रसिद्ध फूड स्ट्रीट है, जहां विक्रेता स्थानीय लजीज़ व्यंजनों की एक विस्तृत श्रृंखला पेश करते हैं। सटे से लेकर मसालेदार लक्सा तक, यह जीवंत स्ट्रीट प्रामाणिक मलेशियाई व्यंजनों का अनुभव करने के इच्छुक किसी भी व्यक्ति के लिए एक अनिवार्य यात्रा है। जीवंत वातावरण और किफायती कीमतें इसे स्थानीय लोगों और पर्यटकों दोनों के लिए एक लोकप्रिय स्थान बनाती हैं।",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "लॉट 10 हटोंग",
+          "type": "food_court",
+          "description": "लॉट 10 हटोंग एक गॉरमेट फूड कोर्ट है जो शहर के कुछ सबसे प्रसिद्ध हेरिटेज फूड विक्रेताओं को एक सुविधाजनक स्थान पर लाता है। यहां, आप प्रामाणिक हॉकियन मी, पेनांग प्रॉन मी और अन्य प्रिय व्यंजनों का स्वाद ले सकते हैं। इसके एयर-कंडीशनिंग सेटिंग और विकल्पों की विस्तृत विविधता के साथ, यह उन फूडीज़ के लिए आदर्श है जो कुआलालंपुर के स्ट्रीट फूड का सबसे अच्छा स्वाद इनडोर चाहते हैं।",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "नासी लेमक अंतरबांगसा",
+          "type": "restaurant",
+          "description": "नासी लेमक अंतरबांगसा मलेशिया के राष्ट्रीय व्यंजनों में से एक, नासी लेमक परोसने के लिए प्रसिद्ध है। यह प्रिय भोजनालय दशकों से नारियल के दूध में पके सुगंधित चावल, मसालेदार सांबल, कुरकुरी एंकोवीज़ और उबले अंडे परोस रहा है। इसका आरामदायक और साधारण वातावरण इसे आरामदायक भोजन की तलाश में स्थानीय लोगों के बीच पसंदीदा बनाता है।",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "पवेलियन कुआलालंपुर",
+          "type": "restaurant",
+          "description": "पवेलियन कुआलालंपुर कई उच्च-स्तरीय भोजन विकल्पों का घर है, जो अंतर्राष्ट्रीय और स्थानीय व्यंजनों की एक श्रृंखला पेश करते हैं। सुरुचिपूर्ण जापानी सुशी बार से लेकर समकालीन पश्चिमी बिस्ट्रो तक, यहां के भोजन प्रतिष्ठान परिष्कृत स्वादों के लिए उपयुक्त हैं। परिष्कृत माहौल और प्रीमियम सेवा इसे विशेष अवसरों या एक शानदार रात के लिए आदर्श बनाती है।",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "मैडम क्वान्स",
+          "type": "restaurant",
+          "description": "मैडम क्वान्स एक आरामदायक और आधुनिक सेटिंग में मलेशिया की समृद्ध पाक विरासत का स्वाद प्रदान करता है। अपने स्वादिष्ट नासी बोजारी और करी लक्सा के लिए जाना जाता है, यह रेस्तरां पारंपरिक मलेशियाई खाना पकाने का सार समकालीन मोड़ के साथ पकड़ता है। ध्यान देने वाली सेवा और गर्म वातावरण इसे स्थानीय लोगों और आगंतुकों दोनों के लिए एक पसंदीदा स्थान बनाता है।",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "कंपुंग बारू नाइट मार्केट",
+          "type": "night_market",
+          "description": "कंपुंग बारू नाइट मार्केट गतिविधि का एक हलचल भरा केंद्र है, जो पारंपरिक मलय स्वादों को प्रदर्शित करने वाले स्ट्रीट फूड विकल्पों की एक विस्तृत श्रृंखला पेश करता है। ग्रिल्ड फिश से लेकर मीठे कुइह तक, बाजार इंद्रियों के लिए एक आनंद है। इसका जीवंत वातावरण और विविध चयन इसे प्रामाणिक मलेशियाई अनुभव की तलाश कर रहे लोगों के लिए एक पसंदीदा गंतव्य बनाता है।",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "पेटलिंग स्ट्रीट, चाइनाटाउन",
+          "type": "street_food",
+          "description": "कुआलालंपुर के चाइनाटाउन में पेटलिंग स्ट्रीट अपनी हलचल भरी बाजार और विविध स्ट्रीट फूड पेशकशों के लिए प्रसिद्ध है। आगंतुक चीनी-मलेशियाई व्यंजनों की एक किस्म का स्वाद ले सकते हैं, जिसमें डिम सम, चार क्वे तेव और रोस्टेड डक शामिल हैं। जीवंत बाजार का माहौल इस पाक हॉटस्पॉट के आकर्षण को बढ़ाता है।",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "बिजन बार और रेस्तरां",
+          "type": "restaurant",
+          "description": "बिजन बार और रेस्तरां एक बढ़िया भोजन प्रतिष्ठान है जो समकालीन मलय व्यंजनों में विशेषज्ञता रखता है। रेंडांग और सांबल उडांग जैसे व्यंजनों के साथ, बिजन पारंपरिक पसंदीदा पर एक गॉरमेट ट्विस्ट पेश करता है। सुरुचिपूर्ण सजावट और अंतरंग सेटिंग एक परिष्कृत भोजन अनुभव के लिए आदर्श पृष्ठभूमि प्रदान करती है।",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Kuala Lumpur 2026 — Guia dos Principais Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Kuala Lumpur. De refeições econômicas a alta gastronomia — com links para reservas.",
+      "page_intro": "Kuala Lumpur é um caldeirão de culturas, refletido em sua vibrante cena gastronômica. A cidade oferece uma mistura tentadora de culinárias malaia, chinesa, indiana e indígenas, tornando-se um paraíso para os amantes da comida. De mercados noturnos movimentados oferecendo comida de rua saborosa a restaurantes de alto nível servindo pratos gourmet, Kuala Lumpur tem algo para todos os paladares. Quer você seja fã de curries picantes, noodles saborosos ou sobremesas doces, a diversidade culinária aqui certamente satisfará seus desejos.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "Rua de Comida Jalan Alor",
+          "type": "street_food",
+          "description": "Jalan Alor é a rua de comida mais famosa de Kuala Lumpur, repleta de vendedores oferecendo uma ampla gama de delícias locais. De espetinhos de satay a laksa picante, esta rua vibrante é uma visita obrigatória para quem deseja experimentar a autêntica culinária malaia. A atmosfera animada e os preços acessíveis a tornam um local popular tanto para os locais quanto para os turistas.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "Lot 10 Hutong",
+          "type": "food_court",
+          "description": "Lot 10 Hutong é uma praça de alimentação gourmet que reúne alguns dos vendedores de comida patrimonial mais famosos da cidade em um local conveniente. Aqui, você pode saborear Hokkien Mee autêntico, Penang Prawn Mee e outros pratos amados. Com seu ambiente climatizado e ampla variedade de opções, é perfeito para os amantes da gastronomia que desejam experimentar o melhor da comida de rua de Kuala Lumpur em ambientes internos.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "Nasi Lemak Antarabangsa",
+          "type": "restaurant",
+          "description": "Nasi Lemak Antarabangsa é renomado por servir um dos pratos nacionais da Malásia, o nasi lemak. Este restaurante querido tem servido arroz aromático cozido em leite de coco, acompanhado por sambal picante, anchovas crocantes e ovos cozidos por décadas. Seu ambiente acolhedor e sem frescuras o torna um favorito entre os locais em busca de uma refeição reconfortante.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "Pavilion Kuala Lumpur",
+          "type": "restaurant",
+          "description": "O Pavilion Kuala Lumpur é lar de várias opções de alta gastronomia, oferecendo uma variedade de culinárias internacionais e locais. De elegantes bares de sushi japoneses a bistrôs ocidentais contemporâneos, os estabelecimentos de refeições aqui atendem a gostos refinados. O ambiente sofisticado e o serviço premium o tornam ideal para ocasiões especiais ou uma noite luxuosa.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "Madam Kwan's",
+          "type": "restaurant",
+          "description": "Madam Kwan's oferece um sabor do rico patrimônio culinário da Malásia em um ambiente confortável e moderno. Conhecido por seu delicioso nasi bojari e curry laksa, o restaurante captura a essência da culinária malaia tradicional com um toque contemporâneo. O serviço atencioso e a atmosfera acolhedora fazem dele um local de referência tanto para os locais quanto para os visitantes.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "Mercado Noturno de Kampung Baru",
+          "type": "night_market",
+          "description": "O Mercado Noturno de Kampung Baru é um centro de atividade vibrante, oferecendo uma grande variedade de opções de comida de rua que exibem sabores malaios tradicionais. De peixe grelhado a doces kuih, o mercado é um deleite sensorial. Sua atmosfera vibrante e seleção diversificada o tornam um destino favorito para aqueles que buscam uma experiência malaia autêntica.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "Rua Petaling, Chinatown",
+          "type": "street_food",
+          "description": "A Rua Petaling no Chinatown de Kuala Lumpur é famosa por seu mercado agitado e por suas diversas ofertas de comida de rua. Os visitantes podem saborear uma variedade de pratos sino-malaios, incluindo dim sum, char kway teow e pato assado. A atmosfera vibrante do mercado acrescenta ao charme deste ponto gastronômico.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "Bijan Bar & Restaurante",
+          "type": "restaurant",
+          "description": "Bijan Bar & Restaurante é um estabelecimento de alta gastronomia que se especializa em culinária malaia contemporânea. Com pratos como rendang e sambal udang, Bijan oferece um toque gourmet em favoritos tradicionais. A decoração elegante e o ambiente íntimo proporcionam o cenário perfeito para uma experiência gastronômica sofisticada.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الطعام في كوالالمبور 2026 — دليل أفضل المطاعم والطعام الشعبي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشعبي والتخصصات المحلية في كوالالمبور. من الطعام الاقتصادي إلى الطعام الفاخر — مع روابط الحجز.",
+      "page_intro": "كوالالمبور هي بوتقة تنصهر فيها الثقافات، وهو ما ينعكس في مشهدها الغذائي النابض بالحياة. تقدم المدينة مزيجًا مغريًا من المأكولات الماليزية والصينية والهندية والمحلية، مما يجعلها جنة لعشاق الطعام. من الأسواق الليلية الصاخبة التي تقدم الطعام الشعبي اللذيذ إلى المطاعم الفاخرة التي تقدم الأطباق الذواقة، كوالالمبور لديها شيء لكل الأذواق. سواء كنت من محبي الكاري الحار أو المعكرونة اللذيذة أو الحلويات الحلوة، فإن التنوع الغذائي هنا من المؤكد أنه سيلبي رغباتك.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "شارع الطعام جالان ألور",
+          "type": "street_food",
+          "description": "يعتبر شارع جالان ألور أشهر شارع للطعام في كوالالمبور، حيث يزخر بالباعة الذين يقدمون مجموعة واسعة من الأطعمة المحلية الشهية. من أسياخ الساتيه إلى لاكسا الحارة، يعد هذا الشارع النابض بالحياة وجهة لا بد من زيارتها لأي شخص يرغب في تجربة المأكولات الماليزية الأصيلة. الأجواء الحيوية والأسعار المعقولة تجعله مكانًا شائعًا بين السكان المحليين والسياح على حد سواء.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "لوت 10 هوتونغ",
+          "type": "food_court",
+          "description": "لوت 10 هوتونغ هو ساحة طعام فاخرة تجمع بين بعض بائعي الطعام التراثي الأكثر شهرة في المدينة في مكان واحد ملائم. هنا يمكنك تذوق هوكين ميه الأصيل وميه الروبيان البينانجي وأطباق أخرى محبوبة. مع بيئته المكيفة وتنوع خياراته الواسع، فهو مثالي لعشاق الطعام الذين يرغبون في تذوق أفضل الأطعمة الشعبية في كوالالمبور في الداخل.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "ناسي ليماك أنتارابانجسا",
+          "type": "restaurant",
+          "description": "يشتهر ناسي ليماك أنتارابانجسا بتقديم أحد الأطباق الوطنية في ماليزيا، ناسي ليماك. يقدم هذا المطعم المحبوب الأرز العطري المطبوخ في حليب جوز الهند، مصحوبًا بصلصة السامبال الحارة والأنشوجة المقرمشة والبيض المسلوق لعقود. إن أجواءه المريحة والبسيطة تجعله مفضلًا بين السكان المحليين الذين يبحثون عن وجبة مريحة.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "بافيليون كوالالمبور",
+          "type": "restaurant",
+          "description": "بافيليون كوالالمبور هو موطن للعديد من خيارات تناول الطعام الفاخرة، حيث يقدم مجموعة من المأكولات الدولية والمحلية. من بارات السوشي اليابانية الأنيقة إلى البيستروهات الغربية المعاصرة، تلبي المؤسسات الغذائية هنا الأذواق الرفيعة. إن الأجواء الراقية والخدمة المتميزة تجعلها مثالية للمناسبات الخاصة أو لليالي الفاخرة.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "مدام كوانز",
+          "type": "restaurant",
+          "description": "تقدم مدام كوانز طعمًا من التراث الطهوي الغني لماليزيا في بيئة مريحة وحديثة. معروفة بأطباقها اللذيذة ناسي بوجاري وكاري لاكسا، يلتقط المطعم جوهر الطبخ الماليزي التقليدي بلمسة عصرية. الخدمة المنتبهة والأجواء الدافئة تجعله مكانًا مفضلاً بين السكان المحليين والزوار.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "سوق كامبونغ بارو الليلي",
+          "type": "night_market",
+          "description": "يعتبر سوق كامبونغ بارو الليلي مركزًا نابضًا بالنشاط، حيث يقدم مجموعة واسعة من خيارات الطعام الشعبي التي تعرض النكهات الماليزية التقليدية. من الأسماك المشوية إلى الحلوى، يعتبر السوق متعة حسية. إن أجواءه النابضة بالتنوع واختياراته المتنوعة تجعله وجهة مفضلة للذين يبحثون عن تجربة ماليزية أصيلة.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "شارع بيتالينغ، الحي الصيني",
+          "type": "street_food",
+          "description": "يشتهر شارع بيتالينغ في الحي الصيني بكوالالمبور بسوقه الصاخب وعروضه المتنوعة من الطعام الشعبي. يمكن للزوار تذوق مجموعة متنوعة من الأطباق الصينية الماليزية، بما في ذلك ديم سوم، تشار كواي تيو، والبط المشوي. تضيف الأجواء النابضة للسوق إلى سحر هذه البقعة الطهوية.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "بيجان بار ومطعم",
+          "type": "restaurant",
+          "description": "بيجان بار ومطعم هو مؤسسة طعام فاخرة تتخصص في المأكولات الماليزية المعاصرة. مع أطباق مثل رندانغ وسامبال أودانغ، يقدم بيجان لمسة ذواقة على الأطباق التقليدية المفضلة. إن الديكور الأنيق والأجواء الحميمة يوفران الخلفية المثالية لتجربة تناول طعام راقية.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "কুয়ালালামপুরে সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবারের গাইড",
+      "seo_description": "কুয়ালালামপুরের সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেট খাওয়া থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত — বুকিং লিঙ্ক সহ।",
+      "page_intro": "কুয়ালালামপুর সংস্কৃতির একটি মেল্টিং পট, যা তার জীবন্ত খাদ্য দৃশ্যে প্রতিফলিত হয়। শহরটি মালয়, চীনা, ভারতীয় এবং স্থানীয় রন্ধনপ্রণালীর একটি আকর্ষণীয় মিশ্রণ অফার করে, যা খাবার প্রেমীদের জন্য একটি স্বর্গ। ব্যস্ত রাতের বাজার থেকে শুরু করে উচ্চ-প্রান্তের রেস্তোরাঁ পর্যন্ত, কুয়ালালামপুরে প্রতিটি রুচির জন্য কিছু না কিছু রয়েছে। আপনি যদি মশলাদার কারি, সুস্বাদু নুডলস বা মিষ্টি ডেজার্টের ভক্ত হন, তবে এখানকার রন্ধন বৈচিত্র্য অবশ্যই আপনার আকাঙ্ক্ষা পূরণ করবে।",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "জালান আলোর ফুড স্ট্রিট",
+          "type": "street_food",
+          "description": "জালান আলোর কুয়ালালামপুরের সবচেয়ে বিখ্যাত ফুড স্ট্রিট, যেখানে বিক্রেতারা স্থানীয় স্বাদে ভরপুর খাবারের বিস্তৃত পরিসর অফার করে। সাতায় স্কিউয়ার থেকে মশলাদার লাকসা পর্যন্ত, এই জীবন্ত রাস্তা যে কোনও ব্যক্তির জন্য অবশ্যই পরিদর্শন করতে হবে যারা প্রামাণিক মালয়েশিয়ান রান্নার অভিজ্ঞতা খুঁজছেন। প্রাণবন্ত পরিবেশ এবং সাশ্রয়ী মূল্য এটি স্থানীয় এবং পর্যটক উভয়ের জন্য একটি জনপ্রিয় স্থান করে তোলে।",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "লট ১০ হুটং",
+          "type": "food_court",
+          "description": "লট ১০ হুটং একটি গুরমেট ফুড কোর্ট যা শহরের কিছু সবচেয়ে বিখ্যাত ঐতিহ্যবাহী খাদ্য বিক্রেতাদের এক সুবিধাজনক স্থানে একত্রিত করে। এখানে আপনি আসল হক্কিয়েন মি, পেনাং প্রন মি এবং অন্যান্য প্রিয় খাবারের স্বাদ পেতে পারেন। এর এয়ার-কন্ডিশন্ড সেটিং এবং বিকল্পগুলির বিস্তৃত বৈচিত্র্য সহ, এটি ফুডিদের জন্য উপযুক্ত যারা কুয়ালালামপুরের রাস্তার খাবারের সেরা স্বাদ ইনডোরে নিতে চান।",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "নাসি লেমাক আন্তারাবাংসা",
+          "type": "restaurant",
+          "description": "নাসি লেমাক আন্তারাবাংসা মালয়েশিয়ার জাতীয় খাবারের একটি, নাসি লেমাক পরিবেশন করার জন্য বিখ্যাত। এই প্রিয় রেস্টুরেন্টটি কয়েক দশক ধরে নারকেলের দুধে রান্না করা সুগন্ধি চাল, মশলাদার সাম্বল, খাস্তা অ্যাঙ্কোভিস এবং সেদ্ধ ডিম পরিবেশন করছে। এর আরামদায়ক এবং সাধারণ পরিবেশ এটি স্থানীয়দের মধ্যে একটি প্রিয় করে তুলেছে যারা আরামদায়ক খাবার খুঁজছেন।",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "প্যাভিলিয়ন কুয়ালালামপুর",
+          "type": "restaurant",
+          "description": "প্যাভিলিয়ন কুয়ালালামপুরে বেশ কয়েকটি উচ্চ-প্রান্তের ডাইনিং বিকল্প রয়েছে, যা আন্তর্জাতিক এবং স্থানীয় রন্ধনপ্রণালীর একটি পরিসর অফার করে। মার্জিত জাপানি সুশি বার থেকে সমসাময়িক পশ্চিমা বিট্রো পর্যন্ত, এখানে ডাইনিং প্রতিষ্ঠানগুলি পরিশীলিত স্বাদগুলি পূরণ করে। পরিশীলিত পরিবেশ এবং প্রিমিয়াম পরিষেবা এটি বিশেষ অনুষ্ঠান বা একটি বিলাসবহুল নাইট আউটের জন্য আদর্শ করে তোলে।",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "ম্যাডাম কওয়ান্স",
+          "type": "restaurant",
+          "description": "ম্যাডাম কওয়ান্স একটি আরামদায়ক এবং আধুনিক পরিবেশে মালয়েশিয়ার সমৃদ্ধ রন্ধন ঐতিহ্যের স্বাদ প্রদান করে। এর সুস্বাদু নাসি বোজারি এবং কারি লাকসার জন্য পরিচিত, রেস্তোরাঁটি একটি সমসাময়িক মোড়ের সাথে ঐতিহ্যবাহী মালয়েশিয়ান রান্নার সারমর্ম ধারণ করে। যত্নশীল পরিষেবা এবং উষ্ণ পরিবেশ এটিকে স্থানীয় এবং দর্শকদের উভয়ের জন্য একটি জনপ্রিয় স্থান করে তোলে।",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "কাম্পুং বারু নাইট মার্কেট",
+          "type": "night_market",
+          "description": "কাম্পুং বারু নাইট মার্কেট একটি প্রাণবন্ত কার্যকলাপের কেন্দ্র, যা ঐতিহ্যবাহী মালয় স্বাদ প্রদর্শনকারী স্ট্রিট ফুড বিকল্পগুলির বিস্তৃত পরিসর অফার করে। গ্রিল করা মাছ থেকে শুরু করে মিষ্টি কুই পর্যন্ত, বাজারটি একটি সংবেদনশীল আনন্দ। এর প্রাণবন্ত পরিবেশ এবং বৈচিত্র্যময় নির্বাচন এটি একটি প্রামাণিক মালয়েশিয়ান অভিজ্ঞতা খুঁজছেন তাদের জন্য একটি প্রিয় গন্তব্য করে তোলে।",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "পেটালিং স্ট্রিট, চায়নাটাউন",
+          "type": "street_food",
+          "description": "কুয়ালালামপুরের চায়নাটাউনে পেটালিং স্ট্রিট তার ব্যস্ত বাজার এবং বৈচিত্র্যময় রাস্তার খাবারের অফারের জন্য বিখ্যাত। দর্শকরা ডিম সাম, চার কুয়ে তেও এবং রোস্টেড হাঁস সহ বিভিন্ন ধরনের চীনা-মালয়েশিয়ান খাবার উপভোগ করতে পারেন। বাজারের প্রাণবন্ত পরিবেশ এই রন্ধনস্পটের আকর্ষণ যোগ করে।",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "বিজান বার এবং রেস্টুরেন্ট",
+          "type": "restaurant",
+          "description": "বিজান বার এবং রেস্টুরেন্ট একটি উন্নত ডাইনিং প্রতিষ্ঠান যা সমসাময়িক মালয় খাবারে বিশেষজ্ঞ। রেন্ডাং এবং সাম্বল উডাংয়ের মতো খাবারের সাথে, বিজান ঐতিহ্যগত প্রিয়দের উপর একটি গুরমেট টুইস্ট অফার করে। মার্জিত সজ্জা এবং ঘনিষ্ঠ পরিবেশ একটি পরিশীলিত ডাইনিং অভিজ্ঞতার জন্য উপযুক্ত পটভূমি প্রদান করে।",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Куала-Лумпур 2026 — Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Куала-Лумпур. От бюджетных блюд до высокой кухни — с ссылками на бронирование.",
+      "page_intro": "Куала-Лумпур — это плавильный котел культур, отраженный в его яркой кулинарной сцене. Город предлагает заманчивую смесь малайзийской, китайской, индийской и местной кухонь, превращая его в рай для гурманов. От оживленных ночных рынков с вкусной уличной едой до высококлассных ресторанов с изысканными блюдами, в Куала-Лумпур найдется что-то на любой вкус. Будь вы поклонником острых карри, вкусной лапши или сладких десертов, кулинарное разнообразие здесь, безусловно, удовлетворит ваши желания.",
+      "items": [
+        {
+          "id": "jalan-alor-food-street",
+          "name": "Улица еды Джалан Алор",
+          "type": "street_food",
+          "description": "Джалан Алор — самая известная улица еды в Куала-Лумпур, переполненная торговцами, предлагающими широкий ассортимент местных деликатесов. От шашлыков сатай до острой лаксы, эта оживленная улица обязательна для посещения любым, кто хочет попробовать аутентичную малайзийскую кухню. Живая атмосфера и доступные цены делают ее популярным местом как для местных жителей, так и для туристов.",
+          "image_keyword": "Jalan Alor street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "satay skewers",
+          "klook_query": "Jalan Alor food tour"
+        },
+        {
+          "id": "lot-10-hutong",
+          "name": "Лот 10 Хутонг",
+          "type": "food_court",
+          "description": "Лот 10 Хутонг — это гурманский фуд-корт, объединяющий некоторых из самых известных продавцов традиционной еды города в одном удобном месте. Здесь можно попробовать аутентичный Хоккиен Ми, Пенанг Креветку Ми и другие любимые блюда. С его кондиционированной обстановкой и широким разнообразием вариантов, это идеальное место для гурманов, которые хотят попробовать лучшую уличную еду Куала-Лумпур в помещении.",
+          "image_keyword": "Lot 10 Hutong food court",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Hokkien Mee",
+          "klook_query": "Lot 10 Hutong dining"
+        },
+        {
+          "id": "nasi-lemak-antarabangsa",
+          "name": "Наси Лемак Антарабангса",
+          "type": "restaurant",
+          "description": "Наси Лемак Антарабангса славится подачей одного из национальных блюд Малайзии, наси лемак. Это любимое заведение десятилетиями подает ароматный рис, приготовленный в кокосовом молоке, с острым самбалом, хрустящими анчоусами и вареными яйцами. Его уютная и простая атмосфера делает его фаворитом среди местных жителей, ищущих утешительную еду.",
+          "image_keyword": "Nasi Lemak Antarabangsa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "nasi lemak",
+          "klook_query": "Nasi Lemak Antarabangsa booking"
+        },
+        {
+          "id": "pavilion-kuala-lumpur",
+          "name": "Павильон Куала-Лумпур",
+          "type": "restaurant",
+          "description": "Павильон Куала-Лумпур предлагает несколько высококлассных вариантов для обеда, предлагая разнообразие международной и местной кухонь. От элегантных японских суши-баров до современных западных бистро, заведения здесь соответствуют изысканным вкусам. Изощренная атмосфера и премиум-обслуживание делают его идеальным для особых случаев или роскошного вечера.",
+          "image_keyword": "Pavilion Kuala Lumpur dining",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "sushi platter",
+          "klook_query": "Pavilion Kuala Lumpur restaurant reservations"
+        },
+        {
+          "id": "madam-kwans",
+          "name": "Мадам Кванс",
+          "type": "restaurant",
+          "description": "Мадам Кванс предлагает вкус богатого кулинарного наследия Малайзии в комфортной и современной обстановке. Известный своими вкусными наси божари и карри лакса, ресторан передает суть традиционной малайзийской кухни с современным подходом. Внимательное обслуживание и теплая атмосфера делают его излюбленным местом как для местных жителей, так и для посетителей.",
+          "image_keyword": "Madam Kwan's restaurant",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "nasi bojari",
+          "klook_query": "Madam Kwan's dining experience"
+        },
+        {
+          "id": "kampung-baru-night-market",
+          "name": "Ночной рынок Кампунг Бару",
+          "type": "night_market",
+          "description": "Ночной рынок Кампунг Бару — это оживленный центр активности, предлагающий широкий ассортимент уличной еды с традиционными малайскими вкусами. От жареной рыбы до сладких куй, рынок — это наслаждение для всех чувств. Его живая атмосфера и разнообразие выбора делают его излюбленным местом для тех, кто ищет аутентичный малайзийский опыт.",
+          "image_keyword": "Kampung Baru Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "grilled fish",
+          "klook_query": "Kampung Baru food tour"
+        },
+        {
+          "id": "petaling-street-chinatown",
+          "name": "Улица Петалинг, Чайна-таун",
+          "type": "street_food",
+          "description": "Улица Петалинг в Чайна-тауне Куала-Лумпура известна своим оживленным рынком и разнообразием уличной еды. Посетители могут насладиться различными китайско-малайзийскими блюдами, включая димсам, чар квай тео и жареную утку. Живая атмосфера рынка добавляет очарования этой кулинарной точке.",
+          "image_keyword": "Petaling Street Chinatown food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "char kway teow",
+          "klook_query": "Petaling Street food tour"
+        },
+        {
+          "id": "bijan-baru",
+          "name": "Бижан Бар и Ресторан",
+          "type": "restaurant",
+          "description": "Бижан Бар и Ресторан — это изысканное заведение, специализирующееся на современной малайской кухне. С такими блюдами, как ренданг и самбал удонг, Бижан предлагает гурманский подход к традиционным фаворитам. Элегантный декор и интимная обстановка создают идеальный фон для изысканного ужина.",
+          "image_keyword": "Bijan Bar & Restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "rendang",
+          "klook_query": "Bijan restaurant dining"
+        }
+      ]
+    }
+  }
+}

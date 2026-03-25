@@ -1,0 +1,1145 @@
+{
+  "city_slug": "singapore",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Singapore 2026 — Top Restaurants & Hawker Centre Guide",
+      "seo_description": "Discover the best restaurants, hawker food, and local specialties in Singapore. From Hainanese Chicken Rice to Michelin-starred dining — with booking links.",
+      "page_intro": "Singapore is a spectacular melting pot of culinary traditions, blending Chinese, Malay, Indian, and Peranakan influences into a world-class food scene. From the bustling, affordable hawker centres offering Michelin-recognized street food to luxurious fine-dining restaurants overlooking Marina Bay, eating here is a national pastime. Whether you are cracking into sweet and spicy chili crab or savoring a simple kaya toast, Singapore offers an incredibly diverse and unforgettable gastronomic journey.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "Maxwell Food Centre (Tian Tian)",
+          "type": "street_food",
+          "description": "Maxwell Food Centre is a legendary hawker centre in Chinatown, and its crown jewel is Tian Tian Hainanese Chicken Rice. Awarded a Michelin Bib Gourmand, this stall serves incredibly tender, poached chicken over fragrant rice cooked in rich chicken stock and garlic. Paired with their signature fiery chili sauce, it is arguably Singapore's most famous national dish.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "Lau Pa Sat (Satay Street)",
+          "type": "night_market",
+          "description": "Situated right in the heart of the central business district, this historic octagonal market transforms every evening. At 7 PM, the adjacent street is closed to traffic and filled with blazing grills serving skewers of chicken, beef, and mutton satay. Dining alfresco surrounded by towering skyscrapers while dipping meat into rich peanut sauce is a quintessential Singaporean night out.",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "JUMBO Seafood (Riverside Point)",
+          "type": "restaurant",
+          "description": "A celebrated institution along the Singapore River, famous for perfecting the city's iconic Chili Crab. Diners put on bibs to crack into massive, meaty mud crabs drenched in a thick, sweet, savory, and slightly spicy tomato-chili gravy. Do not forget to order a side of fried mantou (steamed buns) to mop up every last drop of the glorious sauce.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "Song Fa Bak Kut Teh (Clarke Quay)",
+          "type": "restaurant",
+          "description": "A Michelin Bib Gourmand recipient that has been serving comforting bowls of Bak Kut Teh (pork rib soup) since 1969. Their signature Teochew-style clear broth is aggressively peppery and intensely garlicky, featuring fall-off-the-bone tender pork ribs. The broth is constantly refilled, making it a highly satisfying and heartwarming meal, especially on a rainy day.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "Hill Street Tai Hwa Pork Noodle",
+          "type": "street_food",
+          "description": "Making history as one of the first street food stalls in the world to be awarded a Michelin Star, this humble eatery serves Bak Chor Mee (minced pork noodles). The dish is a masterful balance of springy noodles tossed in black vinegar, chili paste, and soy sauce, topped with tender pork slices, liver, and crispy lard. Be prepared for a long wait.",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "Newton Food Centre",
+          "type": "night_market",
+          "description": "Made internationally famous by the movie 'Crazy Rich Asians', this lively hawker centre is a fantastic place to sample a wide variety of local dishes in an open-air setting. Popular choices include BBQ stingray smothered in spicy sambal, Hokkien Mee (stir-fried prawn noodles), and oyster omelettes. The energetic atmosphere is perfect for group dining and sharing.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "Candlenut",
+          "type": "restaurant",
+          "description": "The world's first Michelin-starred Peranakan (Straits Chinese) restaurant, located in the lush Dempsey Hill enclave. Chef Malcolm Lee elevates traditional Nyonya cuisine with premium ingredients and refined techniques. Dishes like the rich, complex Wagyu Beef Rib Rendang and the iconic Buah Keluak (black nut) curry offer a luxurious dive into Singapore's unique heritage.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "Ya Kun Kaya Toast (Far East Square)",
+          "type": "cafe",
+          "description": "Starting as a humble coffee stall in 1944, Ya Kun is the ultimate spot to experience a traditional Singaporean breakfast. They serve charcoal-grilled, incredibly crispy thin bread slathered with cold butter and sweet kaya (coconut jam). Dipping the toast into soft-boiled eggs mixed with dark soy sauce and white pepper, paired with robust Nanyang kopi, is breakfast perfection.",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026 新加坡必吃美食推薦 — 頂級餐廳與熟食中心指南",
+      "seo_description": "探索新加坡最佳餐廳、小販美食與在地特色。從海南雞飯到米其林星級料理，提供完整推薦與預訂連結。",
+      "page_intro": "新加坡是一個壯觀的烹飪傳統大熔爐，將華人、馬來人、印度人和土生華人的影響融合成了世界級的美食殿堂。從熱鬧、平價且獲得米其林認可的小販中心，到俯瞰濱海灣的奢華高級餐廳，在這裡「吃」是一項全民運動。無論您是大啖甜辣交織的辣椒螃蟹，還是品嚐簡單的咖椰吐司，新加坡都能為您提供令人難忘且極具多樣性的美食之旅。",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "麥士威熟食中心 (天天海南雞飯)",
+          "type": "street_food",
+          "description": "麥士威熟食中心是牛車水的傳奇小販中心，而它的皇冠明珠就是天天海南雞飯。這家榮獲米其林必比登推介的攤位，將極度軟嫩的水煮雞肉鋪在用濃郁雞高湯和蒜頭烹煮的香米飯上。搭配他們招牌的火辣辣椒醬，這可說是新加坡最著名的國菜。",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "老巴剎 (沙嗲街)",
+          "type": "night_market",
+          "description": "這座歷史悠久的八角形市場位於中央商業區的中心地帶，每天傍晚都會華麗變身。晚上7點，相鄰的街道會封閉交通，擺滿了烈焰升騰的烤爐，供應烤雞肉、牛肉和羊肉沙嗲串。在摩天大樓的包圍下露天用餐，將烤肉沾上濃郁的花生醬，是新加坡最經典的夜晚體驗。",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "珍寶海鮮 (河畔店)",
+          "type": "restaurant",
+          "description": "位於新加坡河畔的著名餐飲機構，以其完美演繹這座城市的標誌性美食「辣椒螃蟹」而聞名。食客們穿上圍兜，剝開巨大的肉質鮮美的泥蟹，螃蟹上淋滿了濃郁、香甜、鹹鮮且微辣的番茄辣椒醬汁。別忘了點一份炸饅頭，用來沾取最後一滴美味的醬汁。",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "松發肉骨茶 (克拉碼頭店)",
+          "type": "restaurant",
+          "description": "榮獲米其林必比登推介，自1969年以來持續供應撫慰人心的肉骨茶。他們招牌的潮州風味清湯帶有強烈的胡椒味和濃郁的蒜味，並配有骨肉分離的軟嫩排骨。這裡的湯頭可以無限免費續加，使其成為一頓令人高度滿足且暖胃的餐點，在雨天享用更是完美。",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "大華豬肉粿條麵",
+          "type": "street_food",
+          "description": "作為世界上首批獲得米其林一星的街頭小吃攤之一而創造歷史，這家不起眼的小店供應肉脞麵（豬肉碎麵）。這道菜巧妙地平衡了拌著黑醋、辣椒醬和醬油的Q彈麵條，上面鋪滿了軟嫩的豬肉片、豬肝和酥脆的豬油渣。請做好長時間排隊的準備。",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "紐頓熟食中心",
+          "type": "night_market",
+          "description": "因電影《瘋狂亞洲富豪》而享譽國際，這個熱鬧的熟食中心是在露天環境中品嚐各種當地美食的絕佳去處。受歡迎的選擇包括塗滿辛辣參巴醬的烤魔鬼魚、福建炒蝦麵以及蚵仔煎。這裡充滿活力的氛圍非常適合團體聚餐和分享美食。",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "Candlenut",
+          "type": "restaurant",
+          "description": "全球第一家獲得米其林星級的土生華人（娘惹）餐廳，位於鬱蔥的登布西山地區。Malcolm Lee 主廚採用頂級食材和精緻技巧提升了傳統娘惹菜。濃郁複雜的和牛肋排仁當和標誌性的黑果咖哩等菜餚，帶您奢華地深入探索新加坡獨特的文化遺產。",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "亞坤咖椰吐司 (遠東廣場本店)",
+          "type": "cafe",
+          "description": "亞坤始於1944年的一個簡陋咖啡攤，如今是體驗傳統新加坡早餐的終極地點。他們供應炭烤得極度酥脆的薄麵包，裡面塗滿了冷奶油和香甜的咖椰（椰子果醬）。將吐司沾上混合了黑醬油和白胡椒粉的半熟蛋，再配上濃郁的南洋咖啡，就是最完美的早餐。",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年 シンガポールの絶品グルメ — 人気レストラン＆ホーカーガイド",
+      "seo_description": "シンガポールの最高級レストラン、ホーカー屋台、郷土料理をご紹介。チキンライスからミシュラン星付き店まで、予約リンク付きでご案内します。",
+      "page_intro": "シンガポールは、中国、マレー、インド、プラナカンの影響が世界クラスの食のシーンに融合した、料理の伝統の見事なるるつぼです。ミシュランに認められた屋台料理を提供する活気に満ちた手頃なホーカーセンターから、マリーナベイを見下ろす豪華な高級レストランまで、ここで食べることは国民の娯楽です。甘辛いチリクラブを割るにしても、シンプルなカヤトーストを味わうにしても、シンガポールは信じられないほど多様で忘れられない美食の旅を提供してくれます。",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "マックスウェル・フードセンター（天天海南鶏飯）",
+          "type": "street_food",
+          "description": "マックスウェル・フードセンターはチャイナタウンにある伝説的なホーカーセンターであり、その王冠の宝石が「天天海南鶏飯」です。ミシュランのビブグルマンを受賞したこの屋台では、濃厚な鶏スープとニンニクで炊き上げた香り高いご飯の上に、信じられないほど柔らかい茹で鶏を乗せて提供しています。特製のスパイシーなチリソースと組み合わせることで、間違いなくシンガポールで最も有名な国民食となります。",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "ラオパサ（サテ・ストリート）",
+          "type": "night_market",
+          "description": "中心業務地区（CBD）のど真ん中に位置するこの歴史的な八角形の市場は、毎晩変貌を遂げます。午後7時になると隣接する道路は車両通行止めとなり、鶏肉、牛肉、羊肉のサテ（串焼き）を焼く炎でいっぱいになります。そびえ立つ高層ビルに囲まれながら屋外で食事をし、濃厚なピーナッツソースに肉を浸すのは、シンガポールの典型的な夜の過ごし方です。",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "ジャンボ・シーフード（リバーサイド・ポイント店）",
+          "type": "restaurant",
+          "description": "シンガポール川沿いにある有名な名店で、この街を象徴する「チリクラブ」を完成させたことで有名です。客はエプロンをつけ、とろみのある甘辛く風味豊かなトマトチリソースに浸かった巨大で肉厚なマッドクラブ（泥蟹）を割って食べます。至福のソースを一滴残らず拭き取るために、揚げパン（マントウ）を注文することをお忘れなく。",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "松發肉骨茶 ソンファ・バクテー（クラーク・キー店）",
+          "type": "restaurant",
+          "description": "1969年以来、心温まるバクテー（豚あばら肉のスープ）を提供し続け、ミシュランのビブグルマンを受賞したお店。名物の潮州風の透明なスープは、骨からほろりと落ちるほど柔らかい豚あばら肉が入っており、強烈な胡椒とニンニクの風味が特徴です。スープは常に無料でつぎ足されるため、特に雨の日に食べると非常に満足感が高く、心も温まる食事になります。",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "ヒルストリート・タイファ・ポークヌードル",
+          "type": "street_food",
+          "description": "ミシュランの星を獲得した世界初の屋台の一つとして歴史に名を刻む、この質素な食堂は「バクチョーミー（豚肉のミンチ麺）」を提供しています。黒酢、チリペースト、醤油を絡めた弾力のある麺に、柔らかい豚肉のスライス、豚レバー、カリカリの豚脂を乗せた、見事なバランスの一皿です。長蛇の列を覚悟してください。",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "ニュートン・フードセンター",
+          "type": "night_market",
+          "description": "映画『クレイジー・リッチ！』で世界的に有名になったこの活気あるホーカーセンターは、オープンエアの環境で多種多様な地元料理を味わうのに素晴らしい場所です。人気メニューは、スパイシーなサンバルソースをたっぷり塗ったBBQスティングレイ（エイのヒレ焼き）、ホッケンミー（エビ焼きそば）、牡蠣オムレツなどです。活気ある雰囲気はグループでの食事に最適です。",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "キャンドルナッツ",
+          "type": "restaurant",
+          "description": "緑豊かなデンプシー・ヒルにある、世界で初めてミシュランの星を獲得したプラナカン（海峡華人）料理レストラン。マルコム・リー・シェフは、最高級の食材と洗練された技術を用いて、伝統的なニョニャ料理を昇華させています。濃厚で複雑な和牛リブのルンダンや、象徴的なブアクルアック（ブラックナッツ）のカレーなどの料理は、シンガポールのユニークな遺産への豪華なダイブを提供します。",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "ヤクン・カヤトースト（ファー・イースト・スクエア本店）",
+          "type": "cafe",
+          "description": "1944年に質素なコーヒー屋台として始まったヤクンは、伝統的なシンガポールの朝食を体験するのに究極の場所です。炭火で焼いた信じられないほどサクサクの薄切りパンに、冷たいバターと甘いカヤ（ココナッツジャム）をたっぷり塗って提供されます。ダークソイソースと白胡椒を混ぜた半熟卵にトーストを浸し、コクのある南洋コーヒー（コピ）と一緒に味わうのは、完璧な朝食です。",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026 싱가포르 최고 맛집 - 추천 레스토랑 및 호커 센터 가이드",
+      "seo_description": "싱가포르의 최고 레스토랑, 호커 음식, 현지 특선 요리를 만나보세요. 하이난식 치킨 라이스부터 미슐랭 스타 파인 다이닝까지, 예약 링크를 제공합니다.",
+      "page_intro": "싱가포르는 중국, 말레이, 인도, 페라나칸의 영향이 세계적인 음식 문화로 융합된 화려한 미식의 용광로입니다. 미슐랭의 인정을 받은 길거리 음식을 제공하는 북적이고 저렴한 호커 센터부터 마리나 베이가 내려다보이는 고급스러운 파인 다이닝 레스토랑까지, 이곳에서 먹는 것은 국민적인 여가 활동입니다. 달콤하고 매콤한 칠리 크랩을 맛보든, 소박한 카야 토스트를 즐기든, 싱가포르는 믿을 수 없을 정도로 다양하고 잊을 수 없는 미식 여행을 제공합니다.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "맥스웰 푸드 센터 (티엔티엔 하이난 치킨 라이스)",
+          "type": "street_food",
+          "description": "맥스웰 푸드 센터는 차이나타운의 전설적인 호커 센터이며, 그중에서도 티엔티엔 하이난 치킨 라이스는 최고의 자랑거리입니다. 미슐랭 빕 구르망을 수상한 이 노점은 진한 닭 육수와 마늘로 지은 향긋한 밥 위에 믿을 수 없을 정도로 부드러운 삶은 닭고기를 얹어 냅니다. 시그니처 매콤한 칠리소스를 곁들인 이 요리는 의심할 여지 없이 싱가포르에서 가장 유명한 국민 음식입니다.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "라우 파 삿 (사테 거리)",
+          "type": "night_market",
+          "description": "중심 업무 지구(CBD) 한가운데 위치한 이 역사적인 8각형 시장은 매일 저녁 화려하게 변신합니다. 오후 7시가 되면 인접한 도로의 차량 통행이 통제되고, 닭고기, 소고기, 양고기 사테(꼬치구이)를 굽는 불길로 가득 찹니다. 우뚝 솟은 고층 빌딩에 둘러싸여 야외에서 식사하며 진한 땅콩 소스에 고기를 푹 찍어 먹는 것은 싱가포르의 전형적인 밤 문화입니다.",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "점보 씨푸드 (리버사이드 포인트)",
+          "type": "restaurant",
+          "description": "싱가포르 강변을 따라 위치한 유명한 식당으로, 도시의 상징적인 칠리 크랩을 완벽하게 선보이는 것으로 유명합니다. 식사하는 사람들은 앞치마를 두르고 걸쭉하고 달콤하며 짭짤하고 약간 매콤한 토마토 칠리소스에 흠뻑 젖은 거대하고 살이 꽉 찬 머드 크랩을 부숴 먹습니다. 영광스러운 소스를 마지막 한 방울까지 닦아 먹기 위해 튀긴 만토우(꽃빵)를 곁들이는 것을 잊지 마세요.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "송파 바쿠테 (클락키 본점)",
+          "type": "restaurant",
+          "description": "1969년부터 따뜻한 바쿠테(돼지 갈비탕)를 제공해 온 미슐랭 빕 구르망 수상 식당입니다. 시그니처인 조주식 맑은 국물은 후추 향이 강렬하고 마늘 향이 깊으며, 뼈에서 부드럽게 떨어져 나오는 돼지 갈비가 특징입니다. 국물은 계속해서 리필되며, 특히 비 오는 날 먹으면 매우 만족스럽고 마음이 따뜻해지는 한 끼 식사가 됩니다.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "힐 스트리트 타이 화 포크 누들",
+          "type": "street_food",
+          "description": "세계 최초로 미슐랭 1스타를 받은 길거리 음식점 중 하나로 역사를 만든 이 소박한 식당은 박초미(다진 돼지고기 국수)를 선보입니다. 흑초, 칠리 페이스트, 간장에 버무린 쫄깃한 면에 부드러운 돼지고기 슬라이스, 돼지 간, 바삭한 돼지기름이 얹혀 완벽한 조화를 이룹니다. 긴 대기 시간을 각오해야 합니다.",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "뉴튼 푸드 센터",
+          "type": "night_market",
+          "description": "영화 '크레이지 리치 아시안'으로 세계적인 명성을 얻은 이 활기찬 호커 센터는 탁 트인 야외에서 다양한 현지 음식을 맛볼 수 있는 환상적인 장소입니다. 인기 메뉴로는 매콤한 삼발 소스를 듬뿍 바른 가오리 구이, 호켄미(새우 볶음 국수), 굴전 등이 있습니다. 활기찬 분위기는 여럿이 함께 식사하고 음식을 나누어 먹기에 완벽합니다.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "캔들넛",
+          "type": "restaurant",
+          "description": "푸르른 뎀시 힐 지역에 위치한 세계 최초의 미슐랭 1스타 페라나칸(해협 중국인) 레스토랑입니다. 맬컴 리 셰프는 최고급 식재료와 세련된 기술로 전통 뇨냐 요리의 품격을 높였습니다. 깊고 복합적인 맛의 와규 비프 립 렌당과 상징적인 부아 클루악(블랙 넛) 카레와 같은 요리는 싱가포르의 독특한 유산으로의 고급스러운 몰입을 제공합니다.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "야쿤 카야 토스트 (파 이스트 스퀘어 본점)",
+          "type": "cafe",
+          "description": "1944년 소박한 커피 노점상으로 시작한 야쿤은 전통적인 싱가포르식 아침 식사를 경험할 수 있는 최고의 장소입니다. 숯불에 구워 믿을 수 없을 정도로 바삭한 얇은 빵에 차가운 버터와 달콤한 카야(코코넛 잼)를 듬뿍 발라 제공합니다. 진한 간장과 백후추를 섞은 반숙 계란에 토스트를 찍어 먹고, 진한 남양 커피(코피)를 곁들이면 아침 식사로 완벽합니다.",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleurs Restaurants à Singapour 2026 — Guide de la Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités de Singapour. Du poulet frit de Maxwell au crabe pimenté de Jumbo Seafood.",
+      "page_intro": "Singapour est un creuset spectaculaire de traditions culinaires, mélangeant des influences chinoises, malaises, indiennes et peranakan. Des centres de hawker abordables offrant une cuisine étoilée aux restaurants gastronomiques luxueux, manger ici est un passe-temps national.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "Maxwell Food Centre (Tian Tian)",
+          "type": "street_food",
+          "description": "Ce stand récompensé par un Michelin Bib Gourmand sert un poulet poché incroyablement tendre sur du riz parfumé cuit dans un riche bouillon de poulet. C'est sans doute le plat national de Singapour.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "Lau Pa Sat (Satay Street)",
+          "type": "night_market",
+          "description": "Situé au cœur du quartier des affaires, ce marché historique se transforme chaque soir. La rue adjacente se remplit de grils fumants servant des brochettes de poulet et de bœuf (satay).",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "JUMBO Seafood (Riverside Point)",
+          "type": "restaurant",
+          "description": "Une institution célèbre le long de la rivière, réputée pour avoir perfectionné l'emblématique crabe au piment. Mettez un bavoir pour déguster des crabes massifs trempés dans une sauce riche et épicée.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "Song Fa Bak Kut Teh",
+          "type": "restaurant",
+          "description": "Un lauréat Michelin Bib Gourmand servant de réconfortants bols de Bak Kut Teh (soupe de côtes de porc). Leur bouillon clair au goût intense d'ail et de poivre est constamment réapprovisionné.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "Hill Street Tai Hwa Pork Noodle",
+          "type": "street_food",
+          "description": "L'un des premiers stands de cuisine de rue au monde à obtenir une étoile Michelin. Il sert le Bak Chor Mee, un délicieux plat de nouilles au porc émincé avec un équilibre magistral de vinaigre noir et de piment.",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "Newton Food Centre",
+          "type": "night_market",
+          "description": "Rendu internationalement célèbre par le film 'Crazy Rich Asians', ce centre animé est fantastique pour goûter une grande variété de plats locaux en plein air, comme la raie au barbecue avec sambal.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "Candlenut",
+          "type": "restaurant",
+          "description": "Le premier restaurant peranakan étoilé au Michelin au monde. Le chef Malcolm Lee sublime la cuisine traditionnelle Nyonya avec des ingrédients de première qualité et des techniques raffinées.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "Ya Kun Kaya Toast",
+          "type": "cafe",
+          "description": "L'endroit par excellence pour découvrir un petit-déjeuner singapourien traditionnel. Ils servent un pain fin incroyablement croustillant avec du beurre froid et de la kaya (confiture de noix de coco).",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Singapur 2026 — Guía de Restaurantes y Hawker Centres",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades de Singapur. Desde el Chili Crab hasta los hawker centres con estrellas Michelin.",
+      "page_intro": "Singapur es un espectacular crisol de tradiciones culinarias, que combina influencias chinas, malayas, indias y peranakan. Desde bulliciosos hawker centres que ofrecen comida con estrella Michelin hasta cenas lujosas, comer aquí es un pasatiempo nacional.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "Maxwell Food Centre (Tian Tian)",
+          "type": "street_food",
+          "description": "Un legendario puesto galardonado con el Michelin Bib Gourmand. Sirve un pollo escalfado increíblemente tierno sobre arroz aromático cocido en un rico caldo de pollo. Es el plato nacional por excelencia.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "Lau Pa Sat (Satay Street)",
+          "type": "night_market",
+          "description": "Situado en el corazón del distrito financiero, este mercado histórico se transforma cada noche. La calle adyacente se llena de parrillas llameantes que sirven brochetas de pollo y ternera (satay).",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "JUMBO Seafood (Riverside Point)",
+          "type": "restaurant",
+          "description": "Una célebre institución junto al río, famosa por perfeccionar el icónico Chili Crab. Los comensales se ponen baberos para romper enormes cangrejos bañados en una salsa de tomate y chile espesa y picante.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "Song Fa Bak Kut Teh",
+          "type": "restaurant",
+          "description": "Galardonado con Michelin Bib Gourmand, sirve reconfortantes tazones de Bak Kut Teh (sopa de costillas de cerdo). Su caldo de estilo Teochew está intensamente sazonado con pimienta y ajo.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "Hill Street Tai Hwa Pork Noodle",
+          "type": "street_food",
+          "description": "Uno de los primeros puestos de comida callejera del mundo en recibir una estrella Michelin. Sirve Bak Chor Mee, fideos de cerdo picado con un equilibrio magistral de vinagre negro y pasta de chile.",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "Newton Food Centre",
+          "type": "night_market",
+          "description": "Hecho famoso a nivel internacional por la película 'Crazy Rich Asians', este animado hawker centre es fantástico para probar raya a la barbacoa cubierta de sambal picante.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "Candlenut",
+          "type": "restaurant",
+          "description": "El primer restaurante Peranakan con estrella Michelin del mundo. El chef Malcolm Lee eleva la cocina tradicional Nyonya con ingredientes de primera calidad, como el rendang de costilla de carne Wagyu.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "Ya Kun Kaya Toast",
+          "type": "cafe",
+          "description": "El lugar definitivo para experimentar un desayuno tradicional de Singapur. Sirven pan fino increíblemente crujiente untado con mantequilla fría y kaya (mermelada dulce de coco).",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Singapura 2026 — Panduan Restoran & Hawker Centre",
+      "seo_description": "Temukan restoran terbaik, makanan hawker, dan spesialisasi lokal di Singapura. Dari Nasi Ayam Hainan hingga Chili Crab ikonik.",
+      "page_intro": "Singapura adalah perpaduan tradisi kuliner yang spektakuler, memadukan pengaruh Tiongkok, Melayu, India, dan Peranakan menjadi tujuan kuliner kelas dunia. Dari pusat jajanan yang sibuk hingga restoran mewah, makan di sini adalah hobi nasional.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "Maxwell Food Centre (Tian Tian)",
+          "type": "street_food",
+          "description": "Kios yang dianugerahi Michelin Bib Gourmand ini menyajikan ayam rebus yang sangat empuk di atas nasi harum yang dimasak dalam kaldu ayam yang kaya. Ini bisa dibilang hidangan nasional Singapura paling terkenal.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "Lau Pa Sat (Satay Street)",
+          "type": "night_market",
+          "description": "Terletak di jantung kawasan bisnis, pasar segi delapan bersejarah ini berubah setiap malam. Jalan di sebelahnya dipenuhi panggangan menyala yang menyajikan sate ayam dan daging sapi yang lezat.",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "JUMBO Seafood (Riverside Point)",
+          "type": "restaurant",
+          "description": "Institusi terkenal di sepanjang Sungai Singapura, terkenal karena menyempurnakan Kepiting Cabai yang ikonik. Jangan lupa memesan mantou goreng untuk menyerap setiap tetes saus pedas manis yang lezat.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "Song Fa Bak Kut Teh",
+          "type": "restaurant",
+          "description": "Penerima Michelin Bib Gourmand yang menyajikan Bak Kut Teh (sup iga babi) sejak 1969. Kaldu bening bergaya Teochew khas mereka sangat pedas lada dan beraroma bawang putih.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "Hill Street Tai Hwa Pork Noodle",
+          "type": "street_food",
+          "description": "Salah satu kedai makanan jalanan pertama di dunia yang dianugerahi Bintang Michelin, tempat ini menyajikan Bak Chor Mee. Hidangan ini merupakan keseimbangan ahli antara cuka hitam dan pasta cabai.",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "Newton Food Centre",
+          "type": "night_market",
+          "description": "Dibuat terkenal secara internasional oleh film 'Crazy Rich Asians', hawker centre yang semarak ini adalah tempat yang fantastis untuk mencicipi ikan pari BBQ yang dilumuri sambal pedas.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "Candlenut",
+          "type": "restaurant",
+          "description": "Restoran Peranakan berbintang Michelin pertama di dunia. Koki Malcolm Lee mengangkat masakan tradisional Nyonya dengan bahan-bahan premium dan teknik yang halus.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "Ya Kun Kaya Toast",
+          "type": "cafe",
+          "description": "Tempat terbaik untuk menikmati sarapan tradisional Singapura. Mereka menyajikan roti tipis yang sangat renyah, diolesi mentega dingin dan kaya (selai kelapa manis).",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "सिंगापुर में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और हॉकर केंद्र गाइड",
+      "seo_description": "सिंगापुर में सर्वश्रेष्ठ रेस्तरां, हॉकर भोजन और स्थानीय विशिष्टताओं की खोज करें। हैनानी चिकन राइस से लेकर मिशेलिन-तारांकित भोजन तक।",
+      "page_intro": "सिंगापुर पाक परंपराओं का एक शानदार पिघलने वाला बर्तन है, जिसमें चीनी, मलय, भारतीय और पेरानाकान प्रभावों का मिश्रण है। हलचल भरे हॉकर केंद्रों से लेकर शानदार भोजन तक, यहाँ खाना एक राष्ट्रीय शगल है।",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "मैक्सवेल फूड सेंटर (तियान तियान)",
+          "type": "street_food",
+          "description": "यह मिशेलिन बिब गौरमंड स्टॉल सुगंधित चावल के ऊपर अविश्वसनीय रूप से निविदा उबला हुआ चिकन परोसता है। यह यकीनन सिंगापुर का सबसे प्रसिद्ध राष्ट्रीय व्यंजन है।",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "लौ पा सत (साटे स्ट्रीट)",
+          "type": "night_market",
+          "description": "व्यावसायिक जिले के केंद्र में स्थित, यह ऐतिहासिक बाजार हर शाम बदल जाता है। आसन्न सड़क धधकती ग्रिल से भर जाती है जो चिकन और बीफ साटे की सेवा करती है।",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "जंबो सीफूड (रिवरसाइड पॉइंट)",
+          "type": "restaurant",
+          "description": "सिंगापुर नदी के किनारे एक प्रसिद्ध संस्थान, जो प्रतिष्ठित चिली क्रैब को सिद्ध करने के लिए प्रसिद्ध है। भोजन करने वाले मीठे और मसालेदार टमाटर-मिर्च ग्रेवी में भीगे हुए बड़े केकड़ों को तोड़ते हैं।",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "सोंग फा बक कुट तेह",
+          "type": "restaurant",
+          "description": "एक मिशेलिन बिब गौरमंड प्राप्तकर्ता जो 1969 से बक कुट तेह (सूअर का मांस पसलियों का सूप) के आरामदायक कटोरे परोस रहा है। उनका शोरबा तीव्रता से लहसुन और काली मिर्च वाला है।",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "हिल स्ट्रीट ताई ह्वा पोर्क नूडल",
+          "type": "street_food",
+          "description": "मिशेलिन स्टार से सम्मानित दुनिया के पहले स्ट्रीट फूड स्टालों में से एक। यह विनम्र भोजनालय बक चोर मी (कीमा बनाया हुआ पोर्क नूडल्स) परोसता है।",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "न्यूटन फूड सेंटर",
+          "type": "night_market",
+          "description": "फिल्म 'क्रेजी रिच एशियन' द्वारा अंतरराष्ट्रीय स्तर पर प्रसिद्ध, यह जीवंत हॉकर केंद्र खुले हवा में स्थानीय व्यंजनों का नमूना लेने के लिए एक शानदार जगह है।",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "कैंडलनट",
+          "type": "restaurant",
+          "description": "दुनिया का पहला मिशेलिन-तारांकित पेरानाकान रेस्तरां। शेफ मैल्कम ली प्रीमियम सामग्री और परिष्कृत तकनीकों के साथ पारंपरिक न्योन्या व्यंजनों को ऊपर उठाते हैं।",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "या कुन काया टोस्ट",
+          "type": "cafe",
+          "description": "एक पारंपरिक सिंगापुर के नाश्ते का अनुभव करने के लिए अंतिम स्थान। वे ठंडे मक्खन और मीठे काया (नारियल जाम) के साथ अविश्वसनीय रूप से खस्ता पतली रोटी परोसते हैं।",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Singapura 2026 — Guia de Restaurantes e Hawker Centres",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades de Singapura. Do Frango Hainanês aos caranguejos icônicos.",
+      "page_intro": "Cingapura é um caldeirão espetacular de tradições culinárias. De movimentados hawker centres que oferecem comida de rua reconhecida pelo Michelin a luxuosos restaurantes finos, comer aqui é um passatempo nacional.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "Maxwell Food Centre (Tian Tian)",
+          "type": "street_food",
+          "description": "Esta barraca premiada com o Michelin Bib Gourmand serve um frango escalfado incrivelmente macio sobre arroz perfumado cozido em um rico caldo de galinha. É sem dúvida o prato nacional de Cingapura.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "Lau Pa Sat (Satay Street)",
+          "type": "night_market",
+          "description": "Situado bem no coração do centro financeiro, este mercado histórico se transforma todas as noites, repleto de churrasqueiras flamejantes servindo espetinhos de frango e carne bovina (satay).",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "JUMBO Seafood (Riverside Point)",
+          "type": "restaurant",
+          "description": "Uma instituição célebre ao longo do rio, famosa pelo icônico Chili Crab da cidade. Os clientes abrem caranguejos enormes e carnudos encharcados em um molho doce, saboroso e levemente picante.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "Song Fa Bak Kut Teh",
+          "type": "restaurant",
+          "description": "Um recebedor do Michelin Bib Gourmand que serve reconfortantes tigelas de Bak Kut Teh (sopa de costela de porco) desde 1969. Seu caldo claro é agressivamente apimentado e cheio de alho.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "Hill Street Tai Hwa Pork Noodle",
+          "type": "street_food",
+          "description": "Fazendo história como uma das primeiras barracas de comida de rua do mundo a receber uma estrela Michelin, este humilde restaurante serve Bak Chor Mee (macarrão com carne de porco picada).",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "Newton Food Centre",
+          "type": "night_market",
+          "description": "Tornado internacionalmente famoso pelo filme 'Crazy Rich Asians', este animado hawker centre é um lugar fantástico para experimentar raia de churrasco com pimenta sambal.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "Candlenut",
+          "type": "restaurant",
+          "description": "O primeiro restaurante Peranakan com estrela Michelin do mundo. O chef Malcolm Lee eleva a culinária tradicional Nyonya com ingredientes premium, como o rendang de costela Wagyu.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "Ya Kun Kaya Toast",
+          "type": "cafe",
+          "description": "O lugar definitivo para experimentar o café da manhã tradicional. Eles servem pão incrivelmente crocante coberto com manteiga fria e kaya (geleia doce de coco).",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في سنغافورة 2026 — دليل أفضل المطاعم ومراكز هوكر",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشوارع والتخصصات في سنغافورة. من أرز دجاج هاينان إلى طعام ميشلان الفاخر.",
+      "page_intro": "سنغافورة هي بوتقة تنصهر فيها تقاليد الطهي، وتمزج بين التأثيرات الصينية والملايوية والهندية والبيراناكانية. من مراكز هوكر المزدحمة إلى تناول الطعام الفاخر، فإن تناول الطعام هنا هو هواية وطنية.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "مركز طعام ماكسويل (تيان تيان)",
+          "type": "street_food",
+          "description": "يقدم هذا الكشك الحائز على ميشلان بيب غورماند دجاجًا طريًا بشكل لا يصدق فوق أرز معطر مطبوخ في مرق الدجاج الغني. يمكن القول إنه الطبق الوطني الأكثر شهرة في سنغافورة.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "لاو با سات (شارع الساتيه)",
+          "type": "night_market",
+          "description": "يقع هذا السوق التاريخي في قلب الحي التجاري، ويتحول كل مساء. يمتلئ الشارع المجاور بمشاوي مشتعلة تقدم أسياخ الدجاج ولحم البقر.",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "مأكولات جامبو البحرية (ريفرسايد بوينت)",
+          "type": "restaurant",
+          "description": "مؤسسة شهيرة على طول نهر سنغافورة، تشتهر بإتقان سلطعون تشيلي الأيقوني في المدينة. يرتدي رواد المطعم مريلات لاختراق السرطانات الضخمة المبللة بمرق حار وحلو.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "سونغ فا باك كوت تيه",
+          "type": "restaurant",
+          "description": "حاصل على ميشلان بيب غورماند يقدم أوعية من حساء أضلاع الخنزير منذ عام 1969. مرقهم الصافي مليء بالفلفل والثوم بشكل مكثف.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "نودلز لحم الخنزير تاي هوا في شارع هيل",
+          "type": "street_food",
+          "description": "أحد أوائل أكشاك طعام الشوارع في العالم التي حصلت على نجمة ميشلان. يقدم هذا المطعم نودلز لحم الخنزير المفروم مع توازن بارع من الخل الأسود ومعجون الفلفل الحار.",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "مركز طعام نيوتن",
+          "type": "night_market",
+          "description": "اكتسب شهرة دولية من خلال فيلم 'Crazy Rich Asians'، ويعد هذا المركز مكانًا رائعًا لتجربة مجموعة واسعة من الأطباق المحلية في الهواء الطلق.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "كاندلنوت",
+          "type": "restaurant",
+          "description": "أول مطعم بيراناكان حائز على نجمة ميشلان في العالم. يرتقي الشيف مالكولم لي بالمأكولات التقليدية بمكونات فاخرة وتقنيات راقية.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "يا كون كايا توست",
+          "type": "cafe",
+          "description": "المكان المثالي لتجربة الإفطار التقليدي في سنغافورة. يقدمون خبزًا رقيقًا مقرمشًا بشكل لا يصدق ومغطى بالزبدة الباردة وكايا (مربى جوز الهند الحلو).",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "সিঙ্গাপুরের সেরা খাবার 2026 - রেস্টুরেন্ট এবং হকার সেন্টার গাইড",
+      "seo_description": "সিঙ্গাপুরের সেরা রেস্তোরাঁ, হকার ফুড এবং স্থানীয় খাবার আবিষ্কার করুন। হাইনানিজ চিকেন রাইস থেকে শুরু করে মিশেলিন-তারকাযুক্ত ডাইনিং পর্যন্ত।",
+      "page_intro": "সিঙ্গাপুর হল রন্ধনসম্পর্কীয় ঐতিহ্যের একটি দর্শনীয় গলে যাওয়া পাত্র, যা চীনা, মালয়, ভারতীয় এবং পেরানাকানের প্রভাবকে মিশ্রিত করে। ব্যস্ত হকার সেন্টার থেকে বিলাসবহুল ডাইনিং পর্যন্ত, এখানে খাওয়া একটি জাতীয় বিনোদন।",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "ম্যাক্সওয়েল ফুড সেন্টার (তিয়ান তিয়ান)",
+          "type": "street_food",
+          "description": "এই মিশেলিন বিব গৌরমান্ড স্টলটি সমৃদ্ধ মুরগির স্টকে রান্না করা সুগন্ধি ভাতের উপরে অবিশ্বাস্যভাবে নরম পোচ করা মুরগি পরিবেশন করে। এটি সিঙ্গাপুরের সবচেয়ে বিখ্যাত জাতীয় খাবার।",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "লাউ পা সাত (সাটে স্ট্রিট)",
+          "type": "night_market",
+          "description": "কেন্দ্রীয় ব্যবসায়িক জেলার ঠিক হৃদয়ে অবস্থিত, এই ঐতিহাসিক বাজারটি প্রতিদিন সন্ধ্যায় রূপান্তরিত হয়। সংলগ্ন রাস্তাটি জ্বলন্ত গ্রিল দিয়ে পূর্ণ যা চিকেন এবং বিফ সাটে পরিবেশন করে।",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "জ্যাম্বো সিফুড (রিভারসাইড পয়েন্ট)",
+          "type": "restaurant",
+          "description": "সিঙ্গাপুর নদীর ধারের একটি বিখ্যাত প্রতিষ্ঠান, যা শহরের আইকনিক চিলি ক্র্যাবকে নিখুঁত করার জন্য বিখ্যাত। ডিনাররা মিষ্টি এবং মশলাদার টমেটো-মরিচের গ্রেভিতে ভেজা বিশাল কাঁকড়া খায়।",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "সং ফা বাক কুত তেহ",
+          "type": "restaurant",
+          "description": "একটি মিশেলিন বিব গৌরমান্ড প্রাপক যিনি 1969 সাল থেকে বাক কুট তেহ (শুয়োরের মাংসের পাঁজরের স্যুপ) পরিবেশন করছেন। তাদের পরিষ্কার ঝোল তীব্রভাবে গোলমরিচ এবং রসুনযুক্ত।",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "হিল স্ট্রিট তাই হওয়া পর্ক নুডল",
+          "type": "street_food",
+          "description": "মিশেলিন স্টারে ভূষিত বিশ্বের প্রথম স্ট্রিট ফুড স্টলগুলির মধ্যে একটি। এই বিনয়ী ভোজনালয়টি বাক চোর মি (কিমা করা শুয়োরের মাংসের নুডলস) পরিবেশন করে।",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "নিউটন ফুড সেন্টার",
+          "type": "night_market",
+          "description": "'ক্রেজি রিচ এশিয়ানস' সিনেমা দ্বারা আন্তর্জাতিকভাবে বিখ্যাত, এই প্রাণবন্ত হকার সেন্টারটি উন্মুক্ত বাতাসে বিভিন্ন স্থানীয় খাবারের নমুনা নেওয়ার জন্য একটি চমত্কার জায়গা।",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "ক্যান্ডেলনাট",
+          "type": "restaurant",
+          "description": "বিশ্বের প্রথম মিশেলিন-তারকাযুক্ত পেরানাকান রেস্তোরাঁ। শেফ ম্যালকম লি প্রিমিয়াম উপাদান এবং পরিমার্জিত কৌশলগুলির সাথে ঐতিহ্যবাহী নিয়ন্যা খাবারকে উন্নত করেন।",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "ইয়া কুন কেয়া টোস্ট",
+          "type": "cafe",
+          "description": "একটি ঐতিহ্যবাহী সিঙ্গাপুরের প্রাতঃরাশ উপভোগ করার চূড়ান্ত জায়গা। তারা ঠাণ্ডা মাখন এবং কেয়া (মিষ্টি নারকেল জ্যাম) দিয়ে অবিশ্বাস্যভাবে খাস্তা পাতলা রুটি পরিবেশন করে।",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Сингапуре 2026 — Гид по ресторанам и хоукер-центрам",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы Сингапура. От хайнаньского риса с курицей до ресторанов со звездой Мишлен.",
+      "page_intro": "Сингапур — это впечатляющий плавильный котел кулинарных традиций, смешивающий китайские, малайские, индийские и перанаканские влияния. От оживленных хоукер-центров до роскошных ресторанов, еда здесь — национальное развлечение.",
+      "items": [
+        {
+          "id": "maxwell-food-centre-tian-tian",
+          "name": "Maxwell Food Centre (Tian Tian)",
+          "type": "street_food",
+          "description": "Этот киоск, отмеченный Michelin Bib Gourmand, подает невероятно нежную курицу-пашот на ароматном рисе, сваренном в богатом курином бульоне. Это, пожалуй, самое известное национальное блюдо Сингапура.",
+          "image_keyword": "tian tian chicken rice maxwell singapore",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Hainanese Chicken Rice",
+          "klook_query": "Maxwell Food Centre Singapore tour"
+        },
+        {
+          "id": "lau-pa-sat-satay-street",
+          "name": "Lau Pa Sat (Улица Сате)",
+          "type": "night_market",
+          "description": "Этот исторический восьмиугольный рынок, расположенный прямо в центре делового района, преображается каждый вечер. Прилегающая улица заполняется пылающими грилями, на которых готовят куриный и говяжий сате.",
+          "image_keyword": "lau pa sat satay street night",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Mixed Satay Platter with Peanut Sauce",
+          "klook_query": "Lau Pa Sat food guide"
+        },
+        {
+          "id": "jumbo-seafood-riverside",
+          "name": "JUMBO Seafood (Riverside Point)",
+          "type": "restaurant",
+          "description": "Знаменитое заведение вдоль реки Сингапур, известное своим идеальным приготовлением культового краба с чили. Посетители надевают слюнявчики, чтобы расколоть огромных крабов, залитых сладкой и острой подливкой.",
+          "image_keyword": "jumbo seafood chili crab singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Award-Winning Chili Crab and Fried Mantou",
+          "klook_query": "JUMBO Seafood Singapore voucher"
+        },
+        {
+          "id": "song-fa-bak-kut-teh",
+          "name": "Song Fa Bak Kut Teh",
+          "type": "restaurant",
+          "description": "Обладатель Michelin Bib Gourmand, с 1969 года подающий согревающие миски бак кут те (суп со свиными ребрышками). Их прозрачный бульон в теочью стиле имеет агрессивный перечный и чесночный вкус.",
+          "image_keyword": "song fa bak kut teh pork rib soup",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Pork Ribs Soup and Dough Fritters (You Tiao)",
+          "klook_query": "Song Fa Bak Kut Teh Singapore"
+        },
+        {
+          "id": "hill-street-tai-hwa-pork-noodle",
+          "name": "Hill Street Tai Hwa Pork Noodle",
+          "type": "street_food",
+          "description": "Один из первых киосков уличной еды в мире, получивший звезду Мишлен. Эта скромная закусочная подает бак чор ми (лапшу со свиным фаршем), виртуозно балансируя черный уксус и пасту чили.",
+          "image_keyword": "tai hwa pork noodle bak chor mee",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bak Chor Mee (Minced Meat Noodles)",
+          "klook_query": "Singapore Michelin hawker tour"
+        },
+        {
+          "id": "newton-food-centre",
+          "name": "Newton Food Centre",
+          "type": "night_market",
+          "description": "Этот оживленный хоукер-центр, получивший международную известность благодаря фильму «Безумно богатые азиаты», является фантастическим местом, где можно попробовать ската на гриле с острым самбалом.",
+          "image_keyword": "newton food centre sambal stingray",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Sambal Stingray and Hokkien Mee",
+          "klook_query": "Newton Food Centre Crazy Rich Asians"
+        },
+        {
+          "id": "candlenut-dempsey-hill",
+          "name": "Candlenut",
+          "type": "restaurant",
+          "description": "Первый в мире ресторан перанаканской кухни со звездой Мишлен. Шеф-повар Малкольм Ли возвышает традиционную кухню Ньонья с помощью первоклассных ингредиентов, таких как ренданг из ребрышек вагю.",
+          "image_keyword": "candlenut peranakan food singapore",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Wagyu Beef Rib Rendang",
+          "klook_query": "Candlenut Singapore reservation"
+        },
+        {
+          "id": "ya-kun-kaya-toast-far-east",
+          "name": "Ya Kun Kaya Toast",
+          "type": "cafe",
+          "description": "Лучшее место, где можно отведать традиционный сингапурский завтрак. Они подают невероятно хрустящий тонкий хлеб, намазанный холодным маслом и сладкой кайей (кокосовым джемом).",
+          "image_keyword": "ya kun kaya toast soft boiled egg",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Kaya Toast with Butter Set",
+          "klook_query": "Singapore local breakfast tour"
+        }
+      ]
+    }
+  }
+}

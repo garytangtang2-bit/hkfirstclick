@@ -1,0 +1,1145 @@
+{
+  "city_slug": "florence",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Florence 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Florence. From budget eats to fine dining — with booking links.",
+      "page_intro": "Florence is a culinary paradise that beautifully blends tradition and innovation. Renowned for its rich history and art, this city also boasts a vibrant food culture, showcasing local ingredients and flavors. From rustic trattorias serving hearty Tuscan dishes to bustling street markets filled with tempting bites, Florence offers a delicious journey for every palate.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "Trattoria Da Gino is a beloved local eatery known for its authentic Tuscan cuisine. The menu features traditional dishes like ribollita and pici cacio e pepe. Expect a warm, rustic atmosphere and friendly service. Prices are reasonable, making it a perfect spot for both locals and tourists.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florence",
+          "type": "street_food",
+          "description": "Mercato Centrale is a bustling food market where you can find a variety of local delicacies. From fresh pasta to artisanal cheeses, the market is a food lover's haven. The vibrant atmosphere and numerous food stalls make it an ideal place to grab a bite or enjoy a meal with friends.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "This charming osteria is renowned for its warm ambiance and delectable homemade pasta. Patrons rave about the wild boar ragu and traditional Tuscan wines. It's a cozy spot that fills up quickly, so be prepared for a wait. Prices are moderate, ensuring great value for quality dishes.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "Gelateria Venchi offers some of the finest gelato in Florence, crafted with high-quality ingredients. With a wide range of flavors, including rich chocolate and refreshing fruit sorbets, it's a perfect stop for a sweet treat. The vibrant, inviting atmosphere makes it a favorite among visitors.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzeria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "Known for its delicious, thin-crust pizzas, Pizzeria Gino Sorbetteria is a must-visit for pizza lovers. The margherita is a standout, with fresh basil and mozzarella. The casual atmosphere and quick service make it a perfect spot for a quick meal on the go.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "Ristorante Sasso features a stunning view of Florence with its elegant dining experience. The menu highlights seasonal ingredients, with dishes like tagliatelle with truffles. The sophisticated ambiance is perfect for a romantic dinner or special occasion, with prices reflecting the quality.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "Mercato di San Lorenzo is a vibrant night market where visitors can sample a variety of local street foods. The atmosphere is lively, with food stalls offering everything from porchetta sandwiches to fresh pasta. It's an excellent place to experience the culinary diversity of Florence.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "Trattoria Zafferano is famous for its welcoming atmosphere and exquisite Tuscan dishes. The handmade gnocchi and seasonal vegetables are highly recommended. This family-run establishment offers a cozy dining experience with competitive prices, making it a favorite among locals.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年佛羅倫斯最佳美食 — 頂級餐廳和街頭美食指南",
+      "seo_description": "探索佛羅倫斯最佳餐廳、街頭美食和當地特色。從經濟實惠的美食到高端餐飲 — 包含預訂連結。",
+      "page_intro": "佛羅倫斯是一個美食天堂，完美融合了傳統與創新。這座城市以其豐富的歷史和藝術而聞名，同時擁有充滿活力的飲食文化，展示當地食材和風味。從提供豐盛托斯卡納菜餚的樸實小餐館到充滿誘惑的小吃的熱鬧街市，佛羅倫斯為每一種味蕾提供了一段美味的旅程。",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "Trattoria Da Gino是一家受人喜愛的當地餐館，以其正宗的托斯卡納菜餚而聞名。菜單上有傳統菜肴，如ribollita和pici cacio e pepe。期待溫暖、樸實的氛圍和友好的服務。價格合理，為當地人和遊客提供了完美的用餐地點。",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florence",
+          "type": "street_food",
+          "description": "Mercato Centrale是一個繁忙的食品市場，您可以在這裡找到各種當地美食。從新鮮的意大利面到手工奶酪，這個市場是美食愛好者的天堂。充滿活力的氣氛和眾多的食品攤位，使其成為與朋友一起享用美食的理想地點。",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "這家迷人的酒館以其溫馨的氛圍和美味的自製意大利面而聞名。顧客們對野豬肉醬和傳統的托斯卡納葡萄酒讚不絕口。這是一個舒適的地方，經常人滿為患，所以要有耐心。價格適中，確保高品質菜餚的良好價值。",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "Gelateria Venchi提供佛羅倫斯最優質的冰淇淋，使用高品質的食材製作。擁有多種口味，包括濃郁的巧克力和清新的水果冰沙，是享用甜點的完美去處。充滿活力和吸引力的氛圍使其成為遊客的最愛。",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzeria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "以其美味的薄餅而聞名，Pizzeria Gino Sorbetteria是披薩愛好者必訪之地。瑪格麗特披薩是一大亮點，配有新鮮的羅勒和馬蘇里拉奶酪。輕鬆的氛圍和快速的服務使其成為便捷用餐的完美地點。",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "Ristorante Sasso擁有壯麗的佛羅倫斯景色，提供優雅的用餐體驗。菜單以季節性食材為主，包括松露意大利寬麵條。精緻的氛圍非常適合浪漫晚餐或特殊場合，價格反映了品質。",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "Mercato di San Lorenzo是一個充滿活力的夜市，遊客可以品嚐各種當地街頭食品。這裡的氣氛熱鬧，食品攤位提供從porchetta三明治到新鮮意大利面的各種美食。這是一個體驗佛羅倫斯美食多樣性的絕佳場所。",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "Trattoria Zafferano以其熱情的氛圍和精緻的托斯卡納菜餚而聞名。手工製作的土豆團和當季蔬菜備受推薦。這家家庭經營的餐廳提供舒適的用餐體驗，價格競爭力，使其成為當地人最喜愛的地方。",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年フィレンツェのベストフード — トップレストランとストリートフードガイド",
+      "seo_description": "フィレンツェの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "フィレンツェは、伝統と革新が美しく融合した料理の楽園です。豊かな歴史と芸術で知られるこの街は、地元の食材や風味を紹介する活気ある食文化を誇っています。ボリューム満点のトスカーナ料理を提供する素朴なトラットリアから、魅力的な一口が詰まった賑やかなストリートマーケットまで、フィレンツェはすべての味覚に美味しい旅を提供します。",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "Trattoria Da Ginoは、本格的なトスカーナ料理で知られる地元の人気食堂です。メニューにはリボリッタやピチ・カチョ・エ・ペペなどの伝統的な料理が揃っています。温かく素朴な雰囲気とフレンドリーなサービスが期待できます。価格はリーズナブルで、地元の人々と観光客の両方にとって完璧なスポットです。",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florence",
+          "type": "street_food",
+          "description": "Mercato Centraleは、さまざまな地元の珍味を見つけられる賑やかなフードマーケットです。新鮮なパスタから職人のチーズまで、ここは食通のための楽園です。活気ある雰囲気と数多くのフードスタンドがあり、友人と一緒に軽食を楽しんだり食事をしたりするのに理想的な場所です。",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "この魅力的なオステリアは、温かい雰囲気と美味しい自家製パスタで知られています。お客様は野生のイノシシのラグーと伝統的なトスカーナワインを絶賛しています。すぐに満席になる居心地の良いスポットなので、待つ覚悟をしてください。価格は中程度で、品質の高い料理に対して非常に良い価値を提供しています。",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "Gelateria Venchiは、質の高い材料を使ったフィレンツェで最高のジェラートを提供しています。リッチなチョコレートやさっぱりとしたフルーツソルベなど、多彩なフレーバーが揃っており、甘いおやつに最適な場所です。活気に満ちた魅力的な雰囲気があり、訪問者に人気があります。",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzeria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "美味しい薄焼きピザで知られるPizzeria Gino Sorbetteriaは、ピザ愛好家必見のスポットです。マルゲリータは新鮮なバジルとモッツァレラが特徴です。カジュアルな雰囲気と迅速なサービスで、忙しい時の軽食に最適な場所です。",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "Ristorante Sassoは、エレガントなダイニング体験とともにフィレンツェの素晴らしい景色を提供します。メニューは季節の食材を強調しており、トリュフのタリアテッレなどの料理があります。洗練された雰囲気は、ロマンチックなディナーや特別な occasion に最適で、価格は品質を反映しています。",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "Mercato di San Lorenzoは活気あるナイトマーケットで、訪問者は多様な地元のストリートフードを試すことができます。雰囲気は賑やかで、ポルケッタサンドイッチから新鮮なパスタまで、さまざまな食べ物を提供するスタンドがあります。フィレンツェの料理の多様性を体験するのに最適な場所です。",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "Trattoria Zafferanoは、歓迎する雰囲気と絶品のトスカーナ料理で有名です。手作りのニョッキと季節の野菜が特におすすめです。家族経営のこの店は、居心地の良いダイニング体験を提供し、競争力のある価格で地元の人々に人気です。",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 피렌체 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "피렌체의 최고의 레스토랑, 스트리트 푸드 및 지역 특산물을 발견하세요. 저렴한 음식부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "피렌체는 전통과 혁신이 아름답게 어우러진 미식의 천국입니다. 풍부한 역사와 예술로 유명한 이 도시는 지역 재료와 맛을 선보이는 활기찬 음식 문화를 자랑합니다. 푸짐한 토스카나 요리를 제공하는 소박한 트라토리아에서 유혹적인 간식으로 가득 찬 분주한 거리 시장까지, 피렌체는 모든 입맛에 맞는 맛있는 여행을 제공합니다.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "Trattoria Da Gino는 정통 토스카나 요리로 유명한 사랑받는 지역 식당입니다. 메뉴에는 리볼리타와 피치 카치오 에 페페와 같은 전통 요리가 포함되어 있습니다. 따뜻하고 소박한 분위기와 친절한 서비스를 기대할 수 있습니다. 가격이 합리적이어서 지역 주민과 관광객 모두에게 완벽한 장소입니다.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florence",
+          "type": "street_food",
+          "description": "Mercato Centrale는 다양한 지역 진미를 찾을 수 있는 분주한 푸드 마켓입니다. 신선한 파스타부터 수제 치즈까지, 이 시장은 미식가의 천국입니다. 활기찬 분위기와 수많은 음식 노점이 있어 친구들과 간단한 식사를 하거나 즐거운 식사를 할 수 있는 이상적인 장소입니다.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "이 매력적인 오스테리아는 따뜻한 분위기와 맛있는 수제 파스타로 유명합니다. 손님들은 멧돼지 라구와 전통적인 토스카나 와인에 대해 극찬합니다. 아늑한 공간이지만 빨리 만석이 되므로 대기할 준비를 하세요. 가격은 적당하여 품질 높은 요리에 대한 좋은 가치를 보장합니다.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "Gelateria Venchi는 고품질 재료로 제작한 피렌체 최고의 젤라토를 제공합니다. 리치 초콜릿과 상큼한 과일 소르베를 포함한 다양한 맛이 있어 달콤한 간식에 완벽한 장소입니다. 활기차고 매력적인 분위기는 방문객들에게 인기 있는 곳입니다.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzeria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "맛있는 얇은 크러스트 피자로 유명한 Pizzeria Gino Sorbetteria는 피자 애호가들에게 꼭 가봐야 할 장소입니다. 마르가리타 피자는 신선한 바질과 모짜렐라가 특징입니다. 캐주얼한 분위기와 빠른 서비스는 이동 중 간단한 식사에 완벽한 장소입니다.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "Ristorante Sasso는 피렌체의 멋진 전망과 우아한 다이닝 경험을 제공합니다. 메뉴는 계절 재료를 강조하며 트뤼플을 곁들인 탈리아텔레와 같은 요리가 포함되어 있습니다. 세련된 분위기는 로맨틱한 저녁 식사나 특별한 경우에 적합하며, 가격은 품질을 반영합니다.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "Mercato di San Lorenzo는 방문객들이 다양한 지역 스트리트 푸드를 맛볼 수 있는 활기찬 야시장입니다. 분위기는 활기차고, 포르케타 샌드위치부터 신선한 파스타까지 다양한 음식을 제공하는 노점이 있습니다. 피렌체의 미식 다양성을 체험할 수 있는 훌륭한 장소입니다.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "Trattoria Zafferano는 따뜻한 분위기와 뛰어난 토스카나 요리로 유명합니다. 수제 뇨키와 제철 채소가 강력 추천됩니다. 이 가족 운영의 식당은 아늑한 식사 경험을 제공하며 경쟁력 있는 가격으로 지역 주민들에게 인기가 많습니다.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure cuisine à Florence 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Florence. Des repas à petit budget à la haute gastronomie — avec des liens de réservation.",
+      "page_intro": "Florence est un paradis culinaire qui allie tradition et innovation. Réputée pour sa riche histoire et son art, cette ville possède également une culture alimentaire dynamique, mettant en valeur les ingrédients et les saveurs locales. Des trattorias rustiques servant des plats toscans copieux aux marchés de rue animés regorgeant de délices, Florence offre un voyage délicieux pour chaque palais.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "La Trattoria Da Gino est un restaurant local apprécié, connu pour sa cuisine toscane authentique. Le menu propose des plats traditionnels comme la ribollita et les pici cacio e pepe. Attendez-vous à une atmosphère chaleureuse et rustique avec un service amical. Les prix sont raisonnables, ce qui en fait un endroit parfait pour les habitants et les touristes.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florence",
+          "type": "street_food",
+          "description": "Le Mercato Centrale est un marché alimentaire animé où vous pouvez trouver une variété de spécialités locales. Des pâtes fraîches aux fromages artisanaux, le marché est un véritable paradis pour les amateurs de gastronomie. L'atmosphère vibrante et les nombreux stands de nourriture en font un lieu idéal pour prendre un en-cas ou partager un repas avec des amis.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "Cette charmante osteria est réputée pour son ambiance chaleureuse et ses délicieuses pâtes maison. Les clients adorent le ragoût de sanglier et les vins toscans traditionnels. C'est un endroit convivial qui se remplit rapidement, alors préparez-vous à attendre. Les prix sont modérés, garantissant un excellent rapport qualité-prix pour des plats de qualité.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "La Gelateria Venchi propose certains des meilleurs glaces de Florence, élaborées avec des ingrédients de haute qualité. Avec une large gamme de saveurs, y compris le chocolat riche et les sorbets de fruits rafraîchissants, c'est un arrêt parfait pour une douceur. L'atmosphère vibrante et accueillante en fait un endroit prisé des visiteurs.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzeria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "Connue pour ses délicieuses pizzas à croûte fine, la Pizzeria Gino Sorbetteria est un incontournable pour les amateurs de pizza. La margherita est un incontournable, avec du basilic frais et de la mozzarella. L'atmosphère décontractée et le service rapide en font un endroit parfait pour un repas rapide sur le pouce.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "Le Ristorante Sasso offre une vue imprenable sur Florence avec son expérience culinaire élégante. Le menu met en avant des ingrédients de saison, avec des plats comme des tagliatelles aux truffes. L'ambiance sophistiquée est parfaite pour un dîner romantique ou une occasion spéciale, les prix reflétant la qualité.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "Le Mercato di San Lorenzo est un marché nocturne animé où les visiteurs peuvent déguster une variété de street food locale. L'atmosphère est vivante, avec des stands de nourriture proposant tout, des sandwichs de porchetta aux pâtes fraîches. C'est un excellent endroit pour découvrir la diversité culinaire de Florence.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "La Trattoria Zafferano est célèbre pour son ambiance accueillante et ses plats toscans exquis. Les gnocchis faits maison et les légumes de saison sont fortement recommandés. Cet établissement familial offre une expérience de repas confortable à des prix compétitifs, ce qui en fait un favori parmi les habitants.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Florencia 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Florencia. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Florencia es un paraíso culinario que combina maravillosamente tradición e innovación. Reconocida por su rica historia y arte, esta ciudad también cuenta con una vibrante cultura alimentaria, que exhibe ingredientes y sabores locales. Desde trattorias rústicas que sirven abundantes platos toscanos hasta bulliciosos mercados callejeros llenos de delicias tentadoras, Florencia ofrece un delicioso viaje para cada paladar.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "La Trattoria Da Gino es un querido local conocido por su auténtica cocina toscana. El menú presenta platos tradicionales como ribollita y pici cacio e pepe. Espera un ambiente cálido y rústico y un servicio amable. Los precios son razonables, lo que la convierte en un lugar perfecto tanto para los locales como para los turistas.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florence",
+          "type": "street_food",
+          "description": "El Mercato Centrale es un bullicioso mercado de alimentos donde puedes encontrar una variedad de delicias locales. Desde pasta fresca hasta quesos artesanales, el mercado es un paraíso para los amantes de la comida. La vibrante atmósfera y los numerosos puestos de comida lo convierten en un lugar ideal para disfrutar de un bocadillo o compartir una comida con amigos.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "Esta encantadora osteria es famosa por su cálida atmósfera y deliciosas pastas caseras. Los clientes elogian el ragú de jabalí y los vinos toscanos tradicionales. Es un lugar acogedor que se llena rápidamente, así que prepárate para esperar. Los precios son moderados, asegurando un gran valor para platos de calidad.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "Gelateria Venchi ofrece algunos de los mejores helados de Florencia, elaborados con ingredientes de alta calidad. Con una amplia gama de sabores, incluyendo chocolate rico y refrescantes sorbetes de fruta, es una parada perfecta para un dulce. La vibrante y acogedora atmósfera lo convierte en un favorito entre los visitantes.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzeria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "Conocida por sus deliciosas pizzas de masa delgada, la Pizzeria Gino Sorbetteria es una visita obligada para los amantes de la pizza. La margherita es un destacado, con albahaca fresca y mozzarella. La atmósfera casual y el servicio rápido la convierten en un lugar perfecto para una comida rápida sobre la marcha.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "El Ristorante Sasso ofrece una impresionante vista de Florencia con su elegante experiencia gastronómica. El menú destaca ingredientes de temporada, con platos como tagliatelle con trufas. La atmósfera sofisticada es perfecta para una cena romántica o una ocasión especial, con precios que reflejan la calidad.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "El Mercato di San Lorenzo es un vibrante mercado nocturno donde los visitantes pueden degustar una variedad de comidas callejeras locales. La atmósfera es animada, con puestos de comida que ofrecen desde sándwiches de porchetta hasta pasta fresca. Es un excelente lugar para experimentar la diversidad culinaria de Florencia.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "La Trattoria Zafferano es famosa por su ambiente acogedor y sus exquisitos platos toscanos. Los ñoquis hechos a mano y las verduras de temporada son muy recomendados. Este establecimiento familiar ofrece una experiencia gastronómica acogedora a precios competitivos, lo que lo convierte en un favorito entre los locales.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Florence 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Florence. From budget eats to fine dining — with booking links.",
+      "page_intro": "Florence is a culinary paradise that beautifully blends tradition and innovation. Renowned for its rich history and art, this city also boasts a vibrant food culture, showcasing local ingredients and flavors. From rustic trattorias serving hearty Tuscan dishes to bustling street markets filled with tempting bites, Florence offers a delicious journey for every palate.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "Trattoria Da Gino is a beloved local eatery known for its authentic Tuscan cuisine. The menu features traditional dishes like ribollita and pici cacio e pepe. Expect a warm, rustic atmosphere and friendly service. Prices are reasonable, making it a perfect spot for both locals and tourists.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florence",
+          "type": "street_food",
+          "description": "Mercato Centrale is a bustling food market where you can find a variety of local delicacies. From fresh pasta to artisanal cheeses, the market is a food lover's haven. The vibrant atmosphere and numerous food stalls make it an ideal place to grab a bite or enjoy a meal with friends.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "This charming osteria is renowned for its warm ambiance and delectable homemade pasta. Patrons rave about the wild boar ragu and traditional Tuscan wines. It's a cozy spot that fills up quickly, so be prepared for a wait. Prices are moderate, ensuring great value for quality dishes.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "Gelateria Venchi offers some of the finest gelato in Florence, crafted with high-quality ingredients. With a wide range of flavors, including rich chocolate and refreshing fruit sorbets, it's a perfect stop for a sweet treat. The vibrant, inviting atmosphere makes it a favorite among visitors.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzeria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "Known for its delicious, thin-crust pizzas, Pizzeria Gino Sorbetteria is a must-visit for pizza lovers. The margherita is a standout, with fresh basil and mozzarella. The casual atmosphere and quick service make it a perfect spot for a quick meal on the go.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "Ristorante Sasso features a stunning view of Florence with its elegant dining experience. The menu highlights seasonal ingredients, with dishes like tagliatelle with truffles. The sophisticated ambiance is perfect for a romantic dinner or special occasion, with prices reflecting the quality.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "Mercato di San Lorenzo is a vibrant night market where visitors can sample a variety of local street foods. The atmosphere is lively, with food stalls offering everything from porchetta sandwiches to fresh pasta. It's an excellent place to experience the culinary diversity of Florence.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "Trattoria Zafferano is famous for its welcoming atmosphere and exquisite Tuscan dishes. The handmade gnocchi and seasonal vegetables are highly recommended. This family-run establishment offers a cozy dining experience with competitive prices, making it a favorite among locals.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "फ्लोरेंस में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्टोरेंट और स्ट्रीट फूड गाइड",
+      "seo_description": "फ्लोरेंस में सर्वश्रेष्ठ रेस्टोरेंट, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के भोजन से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "फ्लोरेंस एक खाद्य स्वर्ग है जो परंपरा और नवाचार को खूबसूरती से मिलाता है। अपनी समृद्ध इतिहास और कला के लिए प्रसिद्ध, यह शहर स्थानीय सामग्री और स्वादों का एक जीवंत खाद्य संस्कृति भी प्रस्तुत करता है। ठेठ ट्रट्टोरियास से लेकर व्यस्त स्ट्रीट मार्केट तक, जहां लजीज व्यंजन पेश किए जाते हैं, फ्लोरेंस हर स्वाद के लिए एक स्वादिष्ट यात्रा प्रदान करता है।",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "ट्रट्टोरिया दा जिनो",
+          "type": "restaurant",
+          "description": "ट्रट्टोरिया दा जिनो एक प्रिय स्थानीय भोजनालय है जो अपनी प्रामाणिक टस्कन व्यंजनों के लिए जाना जाता है। मेनू में पारंपरिक व्यंजन जैसे रिबोलिटा और पीसी काचियो ई पेपे शामिल हैं। गर्म, देहाती माहौल और दोस्ताना सेवा की अपेक्षा करें। कीमतें उचित हैं, जो इसे स्थानीय लोगों और पर्यटकों के लिए एक आदर्श स्थान बनाता है।",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "मेर्काटो सेंट्रेल फ्लोरेंस",
+          "type": "street_food",
+          "description": "मेर्काटो सेंट्रेल एक व्यस्त खाद्य बाजार है जहाँ आप विभिन्न स्थानीय विशेषताओं को पा सकते हैं। ताजा पास्ता से लेकर कलात्मक चीज़ों तक, यह बाजार खाद्य प्रेमियों के लिए स्वर्ग है। जीवंत माहौल और कई खाद्य स्टॉल इसे दोस्तों के साथ भोजन करने या नाश्ता करने के लिए एक आदर्श स्थान बनाते हैं।",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "ओस्टेरिया विनी ई वेचि टेम्पी",
+          "type": "restaurant",
+          "description": "यह आकर्षक ओस्टेरिया अपने गर्म माहौल और लजीज घर के बने पास्ता के लिए प्रसिद्ध है। ग्राहक जंगली सुअर रागू और पारंपरिक टस्कन वाइन की प्रशंसा करते हैं। यह एक आरामदायक स्थान है जो जल्दी भर जाता है, इसलिए प्रतीक्षा के लिए तैयार रहें। कीमतें मध्यम हैं, जो गुणवत्ता वाले व्यंजनों के लिए उत्कृष्ट मूल्य सुनिश्चित करती हैं।",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "जेलाटेरिया वेंची",
+          "type": "cafe",
+          "description": "जेलाटेरिया वेंची फ्लोरेंस में सबसे बेहतरीन जेलाटो पेश करता है, जिसे उच्च गुणवत्ता वाली सामग्री के साथ बनाया गया है। समृद्ध चॉकलेट और ताजगी भरे फल के सोरबेट्स सहित विभिन्न स्वादों के साथ, यह मीठे नाश्ते के लिए एक आदर्श स्थान है। जीवंत, आमंत्रित माहौल इसे आगंतुकों के बीच एक पसंदीदा बनाता है।",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "पिज़्ज़ेरिया जिनो सोरबेटेरिया",
+          "type": "street_food",
+          "description": "अपने लजीज, पतले-crust पिज्जा के लिए प्रसिद्ध, पिज़्ज़ेरिया जिनो सोरबेटेरिया पिज़्ज़ा प्रेमियों के लिए एक अवश्य देखना है। मार्घेरिता एक प्रमुख है, जिसमें ताजा बेसिल और मोज़ेरेला है। सामान्य माहौल और त्वरित सेवा इसे चलते-फिरते भोजन के लिए एक आदर्श स्थान बनाते हैं।",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "रिस्ट्रांटे सासो",
+          "type": "restaurant",
+          "description": "रिस्ट्रांटे सासो फ्लोरेंस का एक शानदार दृश्य पेश करता है जिसमें इसका शानदार खाने का अनुभव है। मेनू मौसमी सामग्री को उजागर करता है, जिसमें ट्रफल्स के साथ टैग्लियाटेल शामिल हैं। यह परिष्कृत माहौल रोमांटिक डिनर या विशेष अवसर के लिए एकदम सही है, जिसमें कीमतें गुणवत्ता को दर्शाती हैं।",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "मेर्काटो दी सां लोरेन्जो",
+          "type": "night_market",
+          "description": "मेर्काटो दी सां लोरेन्जो एक जीवंत रात का बाजार है जहाँ आगंतुक विभिन्न स्थानीय स्ट्रीट फूड का स्वाद ले सकते हैं। माहौल जीवंत है, जिसमें खाद्य स्टॉल परचेत्ता सैंडविच से लेकर ताजे पास्ता तक सब कुछ पेश करते हैं। यह फ्लोरेंस की खाद्य विविधता का अनुभव करने के लिए एक उत्कृष्ट स्थान है।",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "ट्रट्टोरिया ज़ाफ़ेरानो",
+          "type": "restaurant",
+          "description": "ट्रट्टोरिया ज़ाफ़ेरानो अपनी स्वागत योग्य माहौल और उत्कृष्ट टस्कन व्यंजनों के लिए प्रसिद्ध है। हाथ से बने ग्नोचि और मौसमी सब्जियाँ अत्यधिक अनुशंसित हैं। यह परिवार द्वारा संचालित प्रतिष्ठान आरामदायक भोजन अनुभव प्रदान करता है, जिसमें प्रतिस्पर्धी कीमतें होती हैं, जो इसे स्थानीय लोगों के बीच एक पसंदीदा बनाती हैं।",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Florença 2026 — Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Florença. Desde refeições econômicas até alta gastronomia — com links de reserva.",
+      "page_intro": "Florença é um paraíso culinário que mistura perfeitamente tradição e inovação. Reconhecida por sua rica história e arte, esta cidade também possui uma vibrante cultura alimentar, exibindo ingredientes e sabores locais. Desde trattorias rústicas que servem pratos toscanos robustos até mercados de rua movimentados repletos de iguarias tentadoras, Florença oferece uma deliciosa jornada para cada paladar.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Trattoria Da Gino",
+          "type": "restaurant",
+          "description": "A Trattoria Da Gino é um restaurante local amado conhecido por sua autêntica culinária toscana. O menu apresenta pratos tradicionais como ribollita e pici cacio e pepe. Espere um ambiente acolhedor e rústico com um atendimento amigável. Os preços são razoáveis, tornando-o um local perfeito tanto para locais quanto para turistas.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Mercato Centrale Florença",
+          "type": "street_food",
+          "description": "O Mercato Centrale é um movimentado mercado de alimentos onde você pode encontrar uma variedade de iguarias locais. Desde massas frescas a queijos artesanais, o mercado é um paraíso para os amantes da comida. A atmosfera vibrante e os muitos barracas de comida fazem dele um lugar ideal para um lanche ou para desfrutar de uma refeição com amigos.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Osteria Vini e Vecchi Tempi",
+          "type": "restaurant",
+          "description": "Esta charmosa osteria é famosa por sua atmosfera acolhedora e deliciosa massa caseira. Os clientes elogiam o ragu de javali selvagem e os vinhos tradicionais toscanos. É um local aconchegante que se enche rapidamente, então esteja preparado para esperar. Os preços são moderados, garantindo um excelente valor para pratos de qualidade.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Gelateria Venchi",
+          "type": "cafe",
+          "description": "A Gelateria Venchi oferece um dos melhores gelatos em Florença, elaborado com ingredientes de alta qualidade. Com uma ampla gama de sabores, incluindo chocolate rico e refrescantes sorvetes de frutas, é uma parada perfeita para uma doce indulgência. A atmosfera vibrante e convidativa faz dela uma favorita entre os visitantes.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Pizzaria Gino Sorbetteria",
+          "type": "street_food",
+          "description": "Conhecida por suas deliciosas pizzas de massa fina, a Pizzaria Gino Sorbetteria é uma visita obrigatória para os amantes de pizza. A margherita é um destaque, com manjericão fresco e mozzarella. A atmosfera casual e o serviço rápido tornam-na um local perfeito para uma refeição rápida.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ristorante Sasso",
+          "type": "restaurant",
+          "description": "O Ristorante Sasso apresenta uma vista deslumbrante de Florença com sua experiência de jantar elegante. O menu destaca ingredientes sazonais, com pratos como tagliatelle com trufas. A atmosfera sofisticada é perfeita para um jantar romântico ou uma ocasião especial, com preços refletindo a qualidade.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Mercato di San Lorenzo",
+          "type": "night_market",
+          "description": "O Mercato di San Lorenzo é um vibrante mercado noturno onde os visitantes podem experimentar uma variedade de comidas de rua locais. A atmosfera é animada, com barracas de comida oferecendo de sanduíches de porchetta a massas frescas. É um excelente lugar para experimentar a diversidade culinária de Florença.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Trattoria Zafferano",
+          "type": "restaurant",
+          "description": "A Trattoria Zafferano é famosa por sua atmosfera acolhedora e pratos toscanos requintados. O gnocchi feito à mão e os legumes da estação são altamente recomendados. Este estabelecimento familiar oferece uma experiência gastronômica aconchegante com preços competitivos, tornando-se um favorito entre os locais.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في فلورنسا 2026 - أفضل المطاعم ودليل الطعام في الشوارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في فلورنسا. من الوجبات ذات الميزانية المحدودة إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "فلورنسا جنة للطهي تمزج بشكل جميل بين التقليد والابتكار. مشهورة بتاريخها الغني وفنها، تتمتع هذه المدينة أيضًا بثقافة غذائية نابضة بالحياة، تعرض المكونات والنكهات المحلية. من المطاعم التراتوريا الريفية التي تقدم أطباق توسكانية شهية إلى الأسواق المزدحمة بالشارع المليئة بالوجبات المغرية، تقدم فلورنسا رحلة لذيذة لكل ذوق.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "تراتوريا دا جينو",
+          "type": "restaurant",
+          "description": "تراتوريا دا جينو هي مطعم محلي محبوب معروف بمأكولاته التوسكانية الأصيلة. تضم القائمة أطباقًا تقليدية مثل ريبوليتا وبيسي كاتشيو إي بيبي. توقع أجواء دافئة وريفية وخدمة ودودة. الأسعار معقولة، مما يجعلها مكانًا مثاليًا لكل من السكان المحليين والسياح.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "ماركاتو سنترال فلورنسا",
+          "type": "street_food",
+          "description": "ماركاتو سنترال هو سوق غذائي مزدحم حيث يمكنك العثور على مجموعة متنوعة من الأطباق المحلية. من المعكرونة الطازجة إلى الجبن الحرفي، السوق هو جنة لعشاق الطعام. تجعل الأجواء النابضة بالحياة والعديد من أكشاك الطعام منه مكانًا مثاليًا لتناول وجبة خفيفة أو الاستمتاع بوجبة مع الأصدقاء.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "أوستريا فيني إي فيتشي تيمبي",
+          "type": "restaurant",
+          "description": "تشتهر هذه الأوستريا الساحرة بأجوائها الدافئة والمعكرونة المصنوعة في المنزل اللذيذة. يثني الزبائن على روجو الخنازير البرية ونبيذ توسكاني التقليدي. إنها مكان مريح يمتلئ بسرعة، لذا كن مستعدًا للانتظار. الأسعار معتدلة، مما يضمن قيمة رائعة للأطباق ذات الجودة.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "جيلاتيريا فينشي",
+          "type": "cafe",
+          "description": "تقدم جيلاتيريا فينشي أحد أفضل أنواع الجيلاتو في فلورنسا، المصنوع من مكونات عالية الجودة. مع مجموعة واسعة من النكهات، بما في ذلك الشوكولاتة الغنية و sorbets الفواكه المنعشة، فهي محطة مثالية للحلويات. تجعل الأجواء النابضة بالحياة والدعوة منها مفضلة بين الزوار.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "بيتزا جينو سوربترية",
+          "type": "street_food",
+          "description": "معروفة ببيتزاها الرقيقة اللذيذة، تعد بيتزا جينو سوربترية وجهة لا بد من زيارتها لعشاق البيتزا. تعتبر المارجريتا بارزة، مع ريحان طازج وموزاريلا. تجعل الأجواء غير الرسمية والخدمة السريعة منها مكانًا مثاليًا لوجبة سريعة أثناء التنقل.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "ريستورانتي ساسو",
+          "type": "restaurant",
+          "description": "يقدم مطعم ريسورانتي ساسو منظرًا رائعًا لفلورنسا مع تجربة تناول طعام أنيقة. يبرز القائمة المكونات الموسمية، مع أطباق مثل التاجليات مع الكمأ. الأجواء الراقية مثالية لعشاء رومانسي أو مناسبة خاصة، مع الأسعار التي تعكس الجودة.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "ماركاتو دي سان لورينزو",
+          "type": "night_market",
+          "description": "ماركاتو دي سان لورينزو هو سوق ليلي نابض حيث يمكن للزوار تجربة مجموعة متنوعة من أطعمة الشوارع المحلية. الأجواء حيوية، مع أكشاك الطعام تقدم كل شيء من شطائر البورشيتا إلى المعكرونة الطازجة. إنه مكان ممتاز لتجربة التنوع الغذائي في فلورنسا.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "تراتوريا زافيرانو",
+          "type": "restaurant",
+          "description": "تشتهر تراتوريا زافيرانو بأجوائها الترحيبية وأطباقها التوسكانية الرائعة. يتم التوصية بشدة بالجنوتشي المصنوع يدويًا والخضار الموسمية. يوفر هذا المطعم العائلي تجربة تناول طعام مريحة بأسعار تنافسية، مما يجعله مفضلًا بين السكان المحليين.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ফ্লোরেন্সের সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবার গাইড",
+      "seo_description": "ফ্লোরেন্সে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত - বুকিং লিঙ্ক সহ।",
+      "page_intro": "ফ্লোরেন্স একটি খাদ্য স্বর্গ যা ঐতিহ্য এবং উদ্ভাবনকে সুন্দরভাবে মিশ্রিত করে। এর সমৃদ্ধ ইতিহাস এবং শিল্পের জন্য পরিচিত, এই শহরটি স্থানীয় উপাদান এবং স্বাদগুলির একটি প্রাণবন্ত খাদ্য সংস্কৃতিও প্রদর্শন করে। স্থূল ট্র্যাটোরিয়াগুলি থেকে শুরু করে ব্যস্ত রাস্তার বাজারে, যেখানে লোভনীয় খাবার পরিবেশন করা হয়, ফ্লোরেন্স প্রতিটি স্বাদের জন্য একটি সুস্বাদু যাত্রা অফার করে।",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "ট্র্যাটোরিয়া দা জিনো",
+          "type": "restaurant",
+          "description": "ট্র্যাটোরিয়া দা জিনো একটি প্রিয় স্থানীয় রেস্তোরাঁ যা তার প্রামাণিক টাস্কান খাবারের জন্য পরিচিত। মেনুতে রিবোলিটা এবং পিচি ক্যাচিও এ পেপের মতো ঐতিহ্যবাহী খাবার রয়েছে। উষ্ণ, গ্রামীণ পরিবেশ এবং বন্ধুত্বপূর্ণ পরিষেবার আশা করুন। দাম সাশ্রয়ী, যা এটিকে স্থানীয় এবং পর্যটকদের জন্য একটি আদর্শ স্থান বানায়।",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "মার্কেটো সেন্ট্রেল ফ্লোরেন্স",
+          "type": "street_food",
+          "description": "মার্কেটো সেন্ট্রেল একটি ব্যস্ত খাদ্য বাজার যেখানে আপনি স্থানীয় বৈচিত্র্যের বিভিন্ন আইটেম খুঁজে পেতে পারেন। তাজা পাস্তা থেকে শুরু করে কারিগরি পনির পর্যন্ত, বাজারটি খাদ্য প্রেমীদের জন্য স্বর্গ। প্রাণবন্ত পরিবেশ এবং অসংখ্য খাবারের স্টল এটিকে বন্ধুদের সঙ্গে খাবার খাওয়ার জন্য বা নাস্তার জন্য একটি আদর্শ স্থান করে তোলে।",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "অস্টেরিয়া ভিনি এ ভেচ্চি টেম্পি",
+          "type": "restaurant",
+          "description": "এই আকর্ষণীয় অস্টেরিয়া উষ্ণ পরিবেশ এবং সুস্বাদু বাড়ির তৈরি পাস্তার জন্য পরিচিত। গ্রাহকরা বন্য শূকর রাগু এবং ঐতিহ্যবাহী টাস্কান মদ সম্পর্কে উচ্ছ্বসিত। এটি একটি আরামদায়ক স্থানে যা দ্রুত পূর্ণ হয়ে যায়, তাই অপেক্ষার জন্য প্রস্তুত থাকুন। দাম মধ্যম, যা মানসম্পন্ন খাবারের জন্য দুর্দান্ত মান নিশ্চিত করে।",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "জেলাটেরিয়া ভেঞ্চি",
+          "type": "cafe",
+          "description": "জেলাটেরিয়া ভেঞ্চি ফ্লোরেন্সে সেরা জেলেটো সরবরাহ করে, যা উচ্চ মানের উপাদান দিয়ে তৈরি। সমৃদ্ধ চকোলেট এবং তাজা ফলের সোর্বেট সহ বিভিন্ন স্বাদের সাথে, এটি একটি মিষ্টি নাস্তা করার জন্য একটি আদর্শ স্টপ। প্রাণবন্ত, আমন্ত্রণমূলক পরিবেশ এটিকে দর্শকদের মধ্যে একটি প্রিয় করে তোলে।",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "পিজ্জেরিয়া জিনো সোরবেটেরিয়া",
+          "type": "street_food",
+          "description": "এটির সুস্বাদু, পাতলা ক্রাস্ট পিজ্জার জন্য পরিচিত, পিজ্জেরিয়া জিনো সোরবেটেরিয়া পিজ্জা প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান। মার্ঘেরিটা একটি বিশেষ আকর্ষণ, তাজা বাসিল এবং মোজারেলা সহ। সাধারণ পরিবেশ এবং দ্রুত পরিষেবা এটিকে দ্রুত খাবারের জন্য একটি চমৎকার স্থান করে তোলে।",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "রিস্টোরান্তে সাসো",
+          "type": "restaurant",
+          "description": "রিস্টোরান্তে সাসো একটি চমৎকার দৃশ্য উপস্থাপন করে ফ্লোরেন্সের সাথে এর উন্নত খাবারের অভিজ্ঞতা। মেনুতে মৌসুমি উপাদানগুলির উপর জোর দেওয়া হয়েছে, যেমন ট্রাফল সহ ট্যাগলিয়াটেল। পরিশীলিত পরিবেশ একটি রোমান্টিক রাতের খাবার বা বিশেষ উপলক্ষের জন্য আদর্শ, দাম গুণমানকে প্রতিফলিত করে।",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "মার্কেটো দি সান লরেঞ্জো",
+          "type": "night_market",
+          "description": "মার্কেটো দি সান লরেঞ্জো একটি প্রাণবন্ত রাতের বাজার যেখানে দর্শকরা স্থানীয় রাস্তার খাবারের একটি বৈচিত্র্য স্বাদ নিতে পারেন। পরিবেশ প্রাণবন্ত, খাদ্য স্টলগুলি পোরচেটা স্যান্ডউইচ থেকে তাজা পাস্তা পর্যন্ত সবকিছুই অফার করে। এটি ফ্লোরেন্সের খাদ্য বৈচিত্র্য উপভোগ করার জন্য একটি চমৎকার স্থান।",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "ট্র্যাটোরিয়া জাফেরানো",
+          "type": "restaurant",
+          "description": "ট্র্যাটোরিয়া জাফেরানো তার স্বাগতম পরিবেশ এবং চমৎকার টাস্কান খাবারের জন্য বিখ্যাত। হাতে তৈরি গ্নোচি এবং মৌসুমি সবজি অত্যন্ত সুপারিশ করা হয়। এই পারিবারিক পরিচালিত প্রতিষ্ঠানটি প্রতিযোগিতামূলক দামে একটি আরামদায়ক খাবারের অভিজ্ঞতা প্রদান করে, যা এটিকে স্থানীয়দের মধ্যে একটি প্রিয় করে তোলে।",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда во Флоренции 2026 — Топ ресторанов и уличной еды",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы во Флоренции. От бюджетных блюд до изысканной кухни — с ссылками на бронирование.",
+      "page_intro": "Флоренция — кулинарный рай, который прекрасно сочетает в себе традиции и инновации. Известный своей богатой историей и искусством, этот город также славится своей яркой гастрономической культурой, демонстрируя местные ингредиенты и вкусы. От деревенских тракторий, предлагающих сытные тосканские блюда, до оживленных уличных рынков с соблазнительными закусками, Флоренция предлагает вкусное путешествие для каждого гурмана.",
+      "items": [
+        {
+          "id": "trattoria-da-gino",
+          "name": "Траттория Да Джино",
+          "type": "restaurant",
+          "description": "Траттория Да Джино — это любимое местное заведение, известное своей аутентичной тосканской кухней. В меню представлены традиционные блюда, такие как риболлита и пичи качио э пепе. Ожидайте теплую, деревенскую атмосферу и дружелюбное обслуживание. Цены разумные, что делает это идеальным местом как для местных жителей, так и для туристов.",
+          "image_keyword": "Trattoria Da Gino Florence",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Pici Cacio e Pepe",
+          "klook_query": "Trattoria Da Gino booking"
+        },
+        {
+          "id": "mercato-central-florence",
+          "name": "Меркато Чентрале Флоренция",
+          "type": "street_food",
+          "description": "Меркато Чентрале — это оживленный продуктовый рынок, где вы можете найти разнообразие местных деликатесов. От свежей пасты до artisan сыров, рынок является раем для любителей еды. Живую атмосферу и множество продуктовых лавок делают его идеальным местом для перекуса или приема пищи с друзьями.",
+          "image_keyword": "Mercato Centrale Florence",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Lampredotto Sandwich",
+          "klook_query": "Mercato Centrale food tour"
+        },
+        {
+          "id": "osteria-vini-e-vecchi-tempi",
+          "name": "Остерия Вини и Векки Темпи",
+          "type": "restaurant",
+          "description": "Эта очаровательная остерия известна своей теплой атмосферой и восхитительной домашней пастой. Посетители восхищаются рагу из дикого кабана и традиционными тосканскими винами. Это уютное заведение быстро заполняется, так что будьте готовы подождать. Цены умеренные, что обеспечивает отличное соотношение цены и качества блюд.",
+          "image_keyword": "Osteria Vini e Vecchi Tempi",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Wild Boar Ragu",
+          "klook_query": "Osteria Vini e Vecchi Tempi reservation"
+        },
+        {
+          "id": "gelateria-venchi",
+          "name": "Джелатерия Венчи",
+          "type": "cafe",
+          "description": "Джелатерия Венчи предлагает одно из лучших джелато во Флоренции, приготовленное из высококачественных ингредиентов. С широким выбором вкусов, включая насыщенный шоколад и освежающие фруктовые сорбеты, это идеальная остановка для сладкого угощения. Яркая и уютная атмосфера делает его любимым местом среди туристов.",
+          "image_keyword": "Gelateria Venchi Florence",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Dark Chocolate Gelato",
+          "klook_query": "Gelateria Venchi experience"
+        },
+        {
+          "id": "pizzeria-gino-sorbetteria",
+          "name": "Пиццерия Джино Сорбеттерия",
+          "type": "street_food",
+          "description": "Известная своими вкусными пиццами с тонким тестом, Пиццерия Джино Сорбеттерия — это обязательное место для любителей пиццы. Маргарита выделяется свежим базиликом и моцареллой. Непринужденная атмосфера и быстрая подача делают его идеальным местом для быстрого перекуса.",
+          "image_keyword": "Pizzeria Gino Sorbetteria",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Margherita Pizza",
+          "klook_query": "Pizzeria Gino Sorbetteria booking"
+        },
+        {
+          "id": "ristorante-sasso",
+          "name": "Ресторан Сассо",
+          "type": "restaurant",
+          "description": "Ресторан Сассо предлагает потрясающий вид на Флоренцию с элегантным ужином. Меню подчеркивает сезонные ингредиенты, с такими блюдами, как тальятелле с трюфелями. Изящная атмосфера идеально подходит для романтического ужина или особого случая, а цены соответствуют качеству.",
+          "image_keyword": "Ristorante Sasso Florence",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tagliatelle with Truffles",
+          "klook_query": "Ristorante Sasso reservation"
+        },
+        {
+          "id": "mercato-di-san-lorenzo",
+          "name": "Меркато Ди Сан Лоренцо",
+          "type": "night_market",
+          "description": "Меркато Ди Сан Лоренцо — это живой ночной рынок, где посетители могут попробовать разнообразные местные уличные блюда. Атмосфера живая, а продуктовые лавки предлагают все от сэндвичей с поркеттой до свежей пасты. Это отличное место, чтобы попробовать кулинарное разнообразие Флоренции.",
+          "image_keyword": "Mercato di San Lorenzo",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Mercato di San Lorenzo food tour"
+        },
+        {
+          "id": "trattoria-zafferano",
+          "name": "Траттория Зафферано",
+          "type": "restaurant",
+          "description": "Траттория Зафферано известна своим гостеприимным атмосферой и изысканными тосканскими блюдами. Рекомендуются домашние ньокки и сезонные овощи. Это семейное заведение предлагает комфортное обеденное пространство по конкурентоспособным ценам, что делает его любимым среди местных жителей.",
+          "image_keyword": "Trattoria Zafferano Florence",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Handmade Gnocchi",
+          "klook_query": "Trattoria Zafferano booking"
+        }
+      ]
+    }
+  }
+}

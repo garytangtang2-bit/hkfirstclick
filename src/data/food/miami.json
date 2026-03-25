@@ -1,0 +1,1145 @@
+{
+  "city_slug": "miami",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Miami 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Miami. From budget eats to fine dining — with booking links.",
+      "page_intro": "Miami's food scene is a vibrant tapestry of cultures, blending Latin, Caribbean, and American influences. The city is renowned for its diverse culinary offerings, ranging from upscale dining experiences to bustling street food markets. Whether you're craving fresh seafood, delectable pastries, or savory street tacos, Miami has something to satisfy every palate.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "Casa Casuarina (Versace Restaurant)",
+          "type": "restaurant",
+          "description": "Set in the opulent former home of fashion designer Gianni Versace, Casa Casuarina offers an upscale dining experience with a focus on Italian cuisine. Guests can enjoy dishes like homemade pasta and fresh seafood while surrounded by luxurious decor. The price range is on the higher side, making it perfect for special occasions.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Yuca",
+          "type": "restaurant",
+          "description": "Yuca serves a delightful combination of traditional Cuban fare and contemporary dishes. With a lively atmosphere and vibrant decor, it's a great place to enjoy classics like Ropa Vieja and Tostones. The restaurant also features live music, making it a popular spot for both locals and tourists.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "La Patacón",
+          "type": "street_food",
+          "description": "La Patacón is a beloved spot for authentic Venezuelan street food, particularly their famous Patacón sandwiches. With a casual outdoor setting, it's the perfect place to grab a quick bite. Prices are very affordable, making it a great option for budget-conscious foodies looking to savor bold flavors.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "Miami Beach Boardwalk Food Trucks",
+          "type": "night_market",
+          "description": "The Miami Beach Boardwalk is home to a variety of food trucks offering everything from gourmet tacos to fresh seafood. This vibrant outdoor dining experience allows visitors to explore diverse culinary options while enjoying stunning ocean views. Prices vary, but many options are budget-friendly.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Zuma",
+          "type": "restaurant",
+          "description": "Zuma is a contemporary Japanese izakaya-style restaurant located in the heart of Miami. Known for its stylish decor and lively atmosphere, it serves a variety of sushi and grilled dishes. The restaurant is perfect for a vibrant dining experience, with a price range reflecting its high-quality offerings.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "Sabor a Mi",
+          "type": "cafe",
+          "description": "Sabor a Mi is a charming cafe known for its authentic Cuban coffee and delectable pastries. Visitors can enjoy a cozy atmosphere while savoring freshly made Pan con Bistec or a sweet Tres Leches cake. Prices are reasonable, making it a popular spot for breakfast or an afternoon snack.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "El Portal",
+          "type": "street_food",
+          "description": "El Portal is a food stall that specializes in mouthwatering tacos and burritos, capturing the essence of Mexican street food. With a lively and casual ambiance, it's a great place to grab a quick meal on the go. Prices are very affordable, making it a hit among locals.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "Versailles Restaurant",
+          "type": "restaurant",
+          "description": "Versailles Restaurant is a renowned establishment in Little Havana known for its authentic Cuban cuisine. The restaurant's vibrant atmosphere and extensive menu make it a must-visit for anyone wanting to experience traditional Cuban dishes. Expect reasonable prices and generous portions.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年邁阿密最佳美食 — 顶级餐厅与街头美食指南",
+      "seo_description": "发现邁阿密最好的餐厅、街头美食和地方特色。从经济实惠的美食到高档餐饮 — 包含预订链接。",
+      "page_intro": "邁阿密的美食场景是一个充满活力的文化拼图，融合了拉丁、美洲和加勒比的影响。该市以其多样的烹饪选择而闻名，从高档餐饮体验到繁忙的街头美食市场。不论您渴望新鲜的海鲜、美味的糕点还是咸味街头玉米饼，邁阿密都有满足每位食客的美味选择。",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "卡萨卡苏阿里纳（Versace 餐厅）",
+          "type": "restaurant",
+          "description": "位于时尚设计师詹尼·范思哲的奢华故居，卡萨卡苏阿里纳提供以意大利美食为主的高档用餐体验。客人可以在豪华的装饰中享用自制意大利面和新鲜海鲜。价格偏高，非常适合特殊场合。",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "尤卡（Yuca）",
+          "type": "restaurant",
+          "description": "尤卡提供传统古巴美食与现代菜肴的美妙结合。热闹的氛围和生动的装饰使其成为享用经典如老式牛肉（Ropa Vieja）和炸青香蕉（Tostones）的绝佳场所。餐厅还提供现场音乐，是当地人和游客的热门聚集地。",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "拉帕塔孔（La Patacón）",
+          "type": "street_food",
+          "description": "拉帕塔孔是一个受欢迎的地方，专门提供正宗的委内瑞拉街头美食，尤其是他们著名的帕塔孔（三明治）。轻松的户外环境使其成为快速用餐的理想之地。价格非常实惠，适合那些想要品尝大胆风味的预算有限的美食爱好者。",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "迈阿密海滩步道食品车",
+          "type": "night_market",
+          "description": "迈阿密海滩步道拥有各种食品车，提供从美味的玉米饼到新鲜海鲜的一切。这种充满活力的户外用餐体验让游客可以在享受壮观海洋景色的同时探索多样的烹饪选择。价格各异，但许多选择都是预算友好的。",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Zuma",
+          "type": "restaurant",
+          "description": "Zuma是一家位于迈阿密心脏地带的现代日本居酒屋风格餐厅。以其时尚的装饰和热闹的氛围而闻名，提供各种寿司和烤制菜肴。这家餐厅非常适合充满活力的用餐体验，价格区间反映出其高品质的菜品。",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "Sabor a Mi",
+          "type": "cafe",
+          "description": "Sabor a Mi是一家迷人的咖啡馆，以其正宗的古巴咖啡和美味的糕点而闻名。游客可以在舒适的氛围中享用新鲜制作的牛肉三明治（Pan con Bistec）或甜蜜的三奶蛋糕（Tres Leches cake）。价格合理，是早餐或下午小吃的热门场所。",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "El Portal",
+          "type": "street_food",
+          "description": "El Portal是一家专注于美味塔可和卷饼的食品摊，捕捉了墨西哥街头美食的精髓。轻松随意的氛围使其成为快速用餐的理想之地。价格非常实惠，在当地人中颇受欢迎。",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "维萨耶斯餐厅（Versailles Restaurant）",
+          "type": "restaurant",
+          "description": "维萨耶斯餐厅是小哈瓦那著名的餐饮场所，以其正宗的古巴美食而闻名。餐厅充满活力的氛围和丰富的菜单使其成为体验传统古巴菜肴的必访之地。期待价格合理和丰盛的分量。",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年マイアミのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "マイアミの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "マイアミの食文化は、ラテン、カリブ、アメリカの影響が融合した活気に満ちたタペストリーです。この都市は、高級ダイニング体験から賑やかなストリートフードマーケットまで、多様な料理の提供で知られています。新鮮なシーフード、絶品のペストリー、風味豊かなストリートタコスが食べたくなった時、マイアミにはすべての味覚を満たすものがあります。",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "カサ・カスアリナ（Versace Restaurant）",
+          "type": "restaurant",
+          "description": "ファッションデザイナー、ジャンニ・ヴェルサーチェの豪華な故居に位置するカサ・カスアリナは、イタリア料理に焦点を当てた高級ダイニング体験を提供しています。ゲストは、豪華な装飾の中で自家製パスタや新鮮なシーフードを楽しむことができます。価格帯は高めで、特別な occasions に最適です。",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "ユカ（Yuca）",
+          "type": "restaurant",
+          "description": "ユカは、伝統的なキューバ料理と現代的な料理の素晴らしい組み合わせを提供しています。活気あふれる雰囲気と鮮やかな装飾が特徴で、ロパ・ビエハやトストーネスなどの定番料理を楽しむのに最適な場所です。レストランではライブ音楽も楽しめるため、地元の人々や観光客に人気のスポットです。",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "ラ・パタコン（La Patacón）",
+          "type": "street_food",
+          "description": "ラ・パタコンは、特に有名なパタコンサンドイッチで知られる本格的なベネズエラのストリートフードの愛されるスポットです。カジュアルな屋外の設定で、素早く一口食べるのに最適な場所です。価格は非常に手頃で、大胆な風味を楽しむための予算を重視する食通にとって素晴らしい選択肢です。",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "マイアミビーチボードウォークフードトラック",
+          "type": "night_market",
+          "description": "マイアミビーチボードウォークには、グルメタコスや新鮮なシーフードなど、さまざまなフードトラックがあります。この活気ある屋外ダイニング体験では、訪問者は素晴らしい海の景色を楽しみながら、多様な料理の選択肢を探索できます。価格は様々ですが、多くのオプションは予算に優しいです。",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "ズーマ（Zuma）",
+          "type": "restaurant",
+          "description": "ズーマは、マイアミの中心部に位置する現代的な日本の居酒屋スタイルのレストランです。スタイリッシュな装飾と活気ある雰囲気で知られ、さまざまな寿司やグリル料理を提供しています。このレストランは、活気あるダイニング体験に最適で、価格帯は高品質の提供を反映しています。",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "サボール・ア・ミ（Sabor a Mi）",
+          "type": "cafe",
+          "description": "サボール・ア・ミは、正宗のキューバコーヒーと美味しいペストリーで知られる魅力的なカフェです。訪問者は、居心地の良い雰囲気の中で、出来立てのパンクンビステックや甘いトレスレチェケーキを楽しむことができます。価格は手頃で、朝食や午後のスナックに人気のスポットです。",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "エル・ポータル（El Portal）",
+          "type": "street_food",
+          "description": "エル・ポータルは、メキシコのストリートフードの本質を捉えた美味しいタコスとブリトーを専門とするフードスタンドです。活気に満ちたカジュアルな雰囲気で、素早く食事を摂るのに最適な場所です。価格は非常に手頃で、地元の人々に人気があります。",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "ベルサイユレストラン（Versailles Restaurant）",
+          "type": "restaurant",
+          "description": "ベルサイユレストランはリトルハバナにある有名な施設で、正宗のキューバ料理で知られています。レストランの活気ある雰囲気と豊富なメニューは、伝統的なキューバ料理を体験したい人には必見です。適正価格とたっぷりのボリュームが期待できます。",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 마이애미 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "마이애미의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산에 맞는 음식부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "마이애미의 음식 문화는 라틴, 카리브, 미국의 영향을 혼합한 생기 넘치는 태피스트리입니다. 이 도시는 고급 레스토랑 경험부터 북적이는 스트리트 푸드 마켓까지 다양한 요리를 제공하는 것으로 유명합니다. 신선한 해산물, 맛있는 페이스트리 또는 풍미 가득한 스트리트 타코를 원하신다면 마이애미는 모든 미각을 만족시켜줄 무언가를 가지고 있습니다.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "카사 카수아리나 (Versace Restaurant)",
+          "type": "restaurant",
+          "description": "패션 디자이너 지안니 베르사체의 화려한 이전 집에 위치한 카사 카수아리나는 이탈리안 요리에 중점을 둔 고급 다이닝 경험을 제공합니다. 손님들은 호화로운 장식 속에서 수제 파스타와 신선한 해산물을 즐길 수 있습니다. 가격대는 다소 높은 편으로, 특별한 날에 적합합니다.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "유카 (Yuca)",
+          "type": "restaurant",
+          "description": "유카는 전통 쿠바 요리와 현대적인 요리의 훌륭한 조합을 제공합니다. 활기찬 분위기와 생동감 넘치는 장식으로, 로파 비에하와 토스톤을 즐기기에 좋은 장소입니다. 레스토랑에서는 라이브 음악도 제공되어 현지인과 관광객 모두에게 인기 있는 장소입니다.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "라 파타콘 (La Patacón)",
+          "type": "street_food",
+          "description": "라 파타콘은 특히 그들의 유명한 파타콘 샌드위치로 유명한 정통 베네수엘라 스트리트 푸드의 사랑받는 장소입니다. 캐주얼한 야외 환경으로 빠르게 한 입 먹기에 적합한 장소입니다. 가격이 매우 저렴하여 대담한 맛을 즐기고 싶은 예산이 한정된 미식가들에게 좋은 선택입니다.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "마이애미 비치 보드워크 푸드 트럭",
+          "type": "night_market",
+          "description": "마이애미 비치 보드워크에는 고급 타코부터 신선한 해산물까지 다양한 푸드 트럭이 있습니다. 이 활기찬 야외 다이닝 경험은 방문객들이 멋진 바다 전망을 즐기면서 다양한 요리 옵션을 탐색할 수 있게 해줍니다. 가격은 다양하지만 많은 옵션이 예산 친화적입니다.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "주마 (Zuma)",
+          "type": "restaurant",
+          "description": "주마는 마이애미 중심부에 위치한 현대적인 일본식 이자카야 스타일의 레스토랑입니다. 세련된 장식과 활기찬 분위기로 유명하며, 다양한 스시와 구이 요리를 제공합니다. 이 레스토랑은 생동감 있는 다이닝 경험에 적합하며, 가격대는 고품질 제공을 반영합니다.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "사보르 아 미 (Sabor a Mi)",
+          "type": "cafe",
+          "description": "사보르 아 미는 정통 쿠바 커피와 맛있는 페이스트리로 유명한 매력적인 카페입니다. 방문객들은 아늑한 분위기에서 신선하게 만든 팬콘 비스텍이나 달콤한 트레스 레체 케이크를 즐길 수 있습니다. 가격이 합리적이어서 아침식사나 오후 간식으로 인기 있는 장소입니다.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "엘 포르탈 (El Portal)",
+          "type": "street_food",
+          "description": "엘 포르탈은 군침 도는 타코와 부리토를 전문으로 하는 음식 노점으로, 멕시코 스트리트 푸드의 본질을 담고 있습니다. 활기차고 캐주얼한 분위기로, 빠르게 한 끼를 해결하기에 좋은 장소입니다. 가격이 매우 저렴하여 현지인들 사이에서 인기가 있습니다.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "베르사유 레스토랑 (Versailles Restaurant)",
+          "type": "restaurant",
+          "description": "베르사유 레스토랑은 리틀 하바나에 위치한 유명한 식당으로, 정통 쿠바 요리로 잘 알려져 있습니다. 레스토랑의 활기찬 분위기와 다양한 메뉴는 전통적인 쿠바 요리를 경험하고자 하는 누구에게나 필수 방문 장소입니다. 합리적인 가격과 푸짐한 양을 기대할 수 있습니다.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure cuisine à Miami 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Miami. Des plats abordables à la haute gastronomie — avec des liens de réservation.",
+      "page_intro": "La scène culinaire de Miami est une tapisserie vibrante de cultures, mêlant influences latino-américaines, caribéennes et américaines. La ville est renommée pour ses offres culinaires diversifiées, allant des expériences gastronomiques haut de gamme aux marchés de street food animés. Que vous ayez envie de fruits de mer frais, de pâtisseries délicieuses ou de tacos de rue savoureux, Miami a quelque chose pour satisfaire tous les palais.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "Casa Casuarina (Restaurant Versace)",
+          "type": "restaurant",
+          "description": "Situé dans l'ancienne maison opulente du designer de mode Gianni Versace, Casa Casuarina offre une expérience de restauration haut de gamme axée sur la cuisine italienne. Les clients peuvent déguster des plats tels que des pâtes faites maison et des fruits de mer frais tout en étant entourés d'un décor luxueux. La fourchette de prix est élevée, ce qui en fait un choix parfait pour des occasions spéciales.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Yuca",
+          "type": "restaurant",
+          "description": "Yuca propose une délicieuse combinaison de plats cubains traditionnels et contemporains. Avec une atmosphère animée et un décor vibrant, c'est un endroit idéal pour déguster des classiques comme la Ropa Vieja et les Tostones. Le restaurant propose également de la musique en direct, ce qui en fait un lieu populaire tant pour les habitants que pour les touristes.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "La Patacón",
+          "type": "street_food",
+          "description": "La Patacón est un lieu prisé pour sa street food vénézuélienne authentique, en particulier ses célèbres sandwiches Patacón. Avec un cadre décontracté en extérieur, c'est l'endroit parfait pour prendre un repas rapide. Les prix sont très abordables, ce qui en fait une excellente option pour les gourmets soucieux de leur budget qui souhaitent savourer des saveurs audacieuses.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "Camions de nourriture de la promenade de Miami Beach",
+          "type": "night_market",
+          "description": "La promenade de Miami Beach abrite une variété de camions de nourriture proposant tout, des tacos gastronomiques aux fruits de mer frais. Cette expérience de restauration en plein air vibrante permet aux visiteurs d'explorer des options culinaires diverses tout en profitant de superbes vues sur l'océan. Les prix varient, mais de nombreuses options sont abordables.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Zuma",
+          "type": "restaurant",
+          "description": "Zuma est un restaurant contemporain de style izakaya japonais situé au cœur de Miami. Connu pour son décor élégant et son ambiance animée, il propose une variété de sushis et de plats grillés. Le restaurant est parfait pour une expérience de restauration vivante, avec une fourchette de prix reflétant la qualité de ses offres.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "Sabor a Mi",
+          "type": "cafe",
+          "description": "Sabor a Mi est un café charmant connu pour son café cubain authentique et ses délicieuses pâtisseries. Les visiteurs peuvent profiter d'une ambiance chaleureuse tout en savourant un Pan con Bistec fraîchement préparé ou un doux gâteau Tres Leches. Les prix sont raisonnables, ce qui en fait un endroit populaire pour le petit-déjeuner ou une collation de l'après-midi.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "El Portal",
+          "type": "street_food",
+          "description": "El Portal est un stand de nourriture spécialisé dans les tacos et burritos irrésistibles, capturant l'essence de la street food mexicaine. Avec une ambiance animée et décontractée, c'est un excellent endroit pour prendre un repas rapide sur le pouce. Les prix sont très abordables, ce qui en fait un succès auprès des habitants.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "Restaurant Versailles",
+          "type": "restaurant",
+          "description": "Le restaurant Versailles est un établissement renommé à Little Havana, connu pour sa cuisine cubaine authentique. L'atmosphère vibrante du restaurant et son menu varié en font une visite incontournable pour quiconque souhaite découvrir des plats cubains traditionnels. Attendez-vous à des prix raisonnables et des portions généreuses.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Miami 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Miami. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "La escena gastronómica de Miami es un vibrante tapiz de culturas, que mezcla influencias latinas, caribeñas y americanas. La ciudad es conocida por su variada oferta culinaria, que va desde experiencias de alta cocina hasta bulliciosos mercados de comida callejera. Ya sea que anheles mariscos frescos, deliciosos pasteles o sabrosos tacos callejeros, Miami tiene algo para satisfacer cada paladar.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "Casa Casuarina (Restaurante Versace)",
+          "type": "restaurant",
+          "description": "Ubicado en la opulenta antigua casa del diseñador de moda Gianni Versace, Casa Casuarina ofrece una experiencia gastronómica de alto nivel centrada en la cocina italiana. Los huéspedes pueden disfrutar de platos como pasta casera y mariscos frescos rodeados de una decoración lujosa. El rango de precios es alto, lo que lo hace perfecto para ocasiones especiales.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Yuca",
+          "type": "restaurant",
+          "description": "Yuca sirve una deliciosa combinación de platos cubanos tradicionales y contemporáneos. Con una atmósfera animada y una decoración vibrante, es un gran lugar para disfrutar de clásicos como Ropa Vieja y Tostones. El restaurante también presenta música en vivo, lo que lo convierte en un lugar popular tanto para locales como para turistas.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "La Patacón",
+          "type": "street_food",
+          "description": "La Patacón es un lugar muy querido por su auténtica comida callejera venezolana, especialmente sus famosos sándwiches Patacón. Con un ambiente casual al aire libre, es el lugar perfecto para disfrutar de un bocado rápido. Los precios son muy asequibles, lo que lo convierte en una excelente opción para los amantes de la comida que buscan sabores audaces.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "Camiones de comida de la pasarela de Miami Beach",
+          "type": "night_market",
+          "description": "La pasarela de Miami Beach alberga una variedad de camiones de comida que ofrecen desde tacos gourmet hasta mariscos frescos. Esta vibrante experiencia de comida al aire libre permite a los visitantes explorar diversas opciones culinarias mientras disfrutan de impresionantes vistas al océano. Los precios varían, pero muchas opciones son económicas.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Zuma",
+          "type": "restaurant",
+          "description": "Zuma es un restaurante contemporáneo de estilo izakaya japonés ubicado en el corazón de Miami. Conocido por su decoración elegante y ambiente animado, sirve una variedad de sushi y platos a la parrilla. El restaurante es perfecto para una experiencia gastronómica vibrante, con un rango de precios que refleja la calidad de sus ofertas.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "Sabor a Mi",
+          "type": "cafe",
+          "description": "Sabor a Mi es un encantador café conocido por su auténtico café cubano y sus deliciosos pasteles. Los visitantes pueden disfrutar de un ambiente acogedor mientras saborean un Pan con Bistec recién hecho o un dulce pastel Tres Leches. Los precios son razonables, lo que lo convierte en un lugar popular para el desayuno o una merienda por la tarde.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "El Portal",
+          "type": "street_food",
+          "description": "El Portal es un puesto de comida que se especializa en tacos y burritos irresistibles, capturando la esencia de la comida callejera mexicana. Con un ambiente animado y casual, es un excelente lugar para disfrutar de una comida rápida sobre la marcha. Los precios son muy asequibles, lo que lo convierte en un éxito entre los locales.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "Restaurante Versailles",
+          "type": "restaurant",
+          "description": "El Restaurante Versailles es un establecimiento de renombre en Little Havana, conocido por su auténtica cocina cubana. La atmósfera vibrante del restaurante y su extenso menú lo convierten en una visita obligada para cualquiera que desee experimentar platos cubanos tradicionales. Espere precios razonables y porciones generosas.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Miami 2026 — Panduan Restoran & Makanan Jalanan Teratas",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Miami. Dari makanan anggaran hingga santapan mewah — dengan tautan pemesanan.",
+      "page_intro": "Adegan kuliner Miami adalah sebuah permadani budaya yang penuh warna, menggabungkan pengaruh Latin, Karibia, dan Amerika. Kota ini terkenal dengan tawaran kulinernya yang beragam, mulai dari pengalaman bersantap mewah hingga pasar makanan jalanan yang ramai. Apakah Anda menginginkan makanan laut segar, kue yang lezat, atau taco jalanan yang gurih, Miami memiliki sesuatu untuk memuaskan setiap selera.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "Casa Casuarina (Restoran Versace)",
+          "type": "restaurant",
+          "description": "Terletak di rumah mewah mantan desainer mode Gianni Versace, Casa Casuarina menawarkan pengalaman bersantap mewah dengan fokus pada masakan Italia. Tamu dapat menikmati hidangan seperti pasta buatan sendiri dan makanan laut segar di tengah dekorasi yang mewah. Kisaran harga berada di sisi yang lebih tinggi, menjadikannya sempurna untuk acara khusus.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Yuca",
+          "type": "restaurant",
+          "description": "Yuca menyajikan kombinasi yang menyenangkan antara masakan Kuba tradisional dan hidangan kontemporer. Dengan suasana yang hidup dan dekorasi yang cerah, ini adalah tempat yang bagus untuk menikmati klasik seperti Ropa Vieja dan Tostones. Restoran ini juga menampilkan musik live, menjadikannya tempat populer bagi penduduk setempat dan wisatawan.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "La Patacón",
+          "type": "street_food",
+          "description": "La Patacón adalah tempat yang dicintai untuk makanan jalanan Venezuela yang otentik, terutama sandwich Patacón yang terkenal. Dengan suasana santai di luar ruangan, ini adalah tempat yang sempurna untuk mengambil makanan cepat. Harganya sangat terjangkau, menjadikannya pilihan yang bagus bagi para pecinta makanan dengan anggaran yang ingin menikmati cita rasa yang kuat.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "Truk Makanan Pesisir Miami Beach",
+          "type": "night_market",
+          "description": "Pesisir Miami Beach adalah rumah bagi berbagai truk makanan yang menawarkan segalanya mulai dari taco gourmet hingga makanan laut segar. Pengalaman bersantap luar ruangan yang penuh warna ini memungkinkan pengunjung menjelajahi berbagai pilihan kuliner sambil menikmati pemandangan laut yang menakjubkan. Harga bervariasi, tetapi banyak pilihan yang ramah anggaran.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Zuma",
+          "type": "restaurant",
+          "description": "Zuma adalah restoran bergaya izakaya Jepang modern yang terletak di jantung Miami. Dikenal karena dekorasi yang stylish dan suasana yang hidup, ia menyajikan berbagai sushi dan hidangan panggang. Restoran ini sempurna untuk pengalaman bersantap yang hidup, dengan kisaran harga yang mencerminkan penawaran berkualitas tinggi.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "Sabor a Mi",
+          "type": "cafe",
+          "description": "Sabor a Mi adalah kafe yang menawan yang dikenal karena kopi Kuba otentik dan kue-kue yang lezat. Pengunjung dapat menikmati suasana yang nyaman sambil menyantap Pan con Bistec yang baru dibuat atau kue Tres Leches yang manis. Harganya terjangkau, membuatnya menjadi tempat yang populer untuk sarapan atau camilan sore.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "El Portal",
+          "type": "street_food",
+          "description": "El Portal adalah stan makanan yang mengkhususkan diri dalam taco dan burrito yang menggugah selera, menangkap esensi makanan jalanan Meksiko. Dengan suasana yang ceria dan santai, ini adalah tempat yang bagus untuk mengambil makanan cepat. Harganya sangat terjangkau, menjadikannya populer di kalangan penduduk setempat.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "Restoran Versailles",
+          "type": "restaurant",
+          "description": "Restoran Versailles adalah tempat terkenal di Little Havana yang dikenal dengan masakan Kuba yang otentik. Suasana yang hidup dan menu yang luas membuatnya menjadi tempat yang wajib dikunjungi bagi siapa saja yang ingin mengalami hidangan Kuba tradisional. Siapkan untuk harga yang wajar dan porsi yang melimpah.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "मियामी में सबसे अच्छा खाना 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "मियामी में सबसे अच्छे रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के भोजन से लेकर उच्च श्रेणी के भोजन तक — बुकिंग लिंक के साथ।",
+      "page_intro": "मियामी का खाद्य दृश्य संस्कृतियों के जीवंत ताने-बाने का एक उदाहरण है, जो लैटिन, कैरेबियन और अमेरिकी प्रभावों को मिलाता है। शहर अपनी विविध पाक पेशकशों के लिए प्रसिद्ध है, जो उच्च श्रेणी के भोजन अनुभवों से लेकर हलचल भरे स्ट्रीट फूड बाजारों तक फैली हुई है। चाहे आप ताजे समुद्री भोजन, स्वादिष्ट पेस्ट्री या सजीव स्ट्रीट टाकोस की craving कर रहे हों, मियामी में हर स्वाद को संतुष्ट करने के लिए कुछ न कुछ है।",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "कासा कासुआरिना (वेरसाचे रेस्तरां)",
+          "type": "restaurant",
+          "description": "फैशन डिजाइनर जियानी वेरसाचे के भव्य पूर्व घर में स्थित, कासा कासुआरिना एक उच्च श्रेणी का भोजन अनुभव प्रदान करती है जो इतालवी व्यंजनों पर केंद्रित है। मेहमान घर पर बने पास्ता और ताजे समुद्री भोजन जैसे व्यंजनों का आनंद ले सकते हैं, जबकि लक्जरी सजावट के बीच। कीमतें उच्च पक्ष पर हैं, जिससे यह विशेष अवसरों के लिए आदर्श है।",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "युका",
+          "type": "restaurant",
+          "description": "युका पारंपरिक क्यूबाई व्यंजनों और समकालीन व्यंजनों का एक सुखद संयोजन पेश करता है। जीवंत वातावरण और रंगीन सजावट के साथ, यह रोपा विएजा और टोस्टोन जैसे क्लासिक्स का आनंद लेने के लिए एक शानदार स्थान है। रेस्तरां में लाइव संगीत भी है, जिससे यह स्थानीय लोगों और पर्यटकों के लिए एक लोकप्रिय स्थान बन गया है।",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "ला पटाकॉन",
+          "type": "street_food",
+          "description": "ला पटाकॉन प्रामाणिक वेनेज़ुएलन स्ट्रीट फूड के लिए एक प्रिय स्थान है, विशेष रूप से उनके प्रसिद्ध पटाकॉन सैंडविच के लिए। एक आकस्मिक बाहरी वातावरण के साथ, यह एक त्वरित नाश्ता करने के लिए एकदम सही जगह है। कीमतें बहुत सस्ती हैं, जिससे यह बजट-चेतना वाले खाद्य प्रेमियों के लिए बोल्ड फ्लेवर्स का आनंद लेने का एक शानदार विकल्प बनता है।",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "मियामी बीच बोर्डवॉक फूड ट्रक्स",
+          "type": "night_market",
+          "description": "मियामी बीच बोर्डवॉक विभिन्न फूड ट्रकों का घर है जो सभी प्रकार के भोजन की पेशकश करते हैं, जैसे कि गोरमेट टाकोस और ताजे समुद्री भोजन। यह जीवंत बाहरी भोजन अनुभव आगंतुकों को आश्चर्यजनक समुद्री दृश्यों का आनंद लेते हुए विविध पाक विकल्पों का पता लगाने की अनुमति देता है। कीमतें भिन्न होती हैं, लेकिन कई विकल्प बजट के अनुकूल हैं।",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "जुमा",
+          "type": "restaurant",
+          "description": "जुमा एक समकालीन जापानी इज़ाकाया-शैली का रेस्तरां है जो मियामी के दिल में स्थित है। इसका स्टाइलिश सजावट और जीवंत वातावरण के लिए जाना जाता है, यह विभिन्न प्रकार के सुशी और ग्रिल्ड व्यंजन पेश करता है। यह रेस्तरां एक जीवंत भोजन अनुभव के लिए आदर्श है, जिसकी कीमतें इसकी उच्च गुणवत्ता की पेशकश को दर्शाती हैं।",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "साबोर ए मी",
+          "type": "cafe",
+          "description": "साबोर ए मी एक आकर्षक कैफे है जो अपने प्रामाणिक क्यूबाई कॉफी और स्वादिष्ट पेस्ट्री के लिए जाना जाता है। आगंतुक ताजे बने पान कों बिस्टेक या मीठे ट्रेस लेचेस केक का आनंद लेते हुए आरामदायक वातावरण का आनंद ले सकते हैं। कीमतें उचित हैं, जिससे यह नाश्ते या दोपहर के नाश्ते के लिए एक लोकप्रिय स्थान बन जाता है।",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "एल पोर्टल",
+          "type": "street_food",
+          "description": "एल पोर्टल एक खाद्य स्टॉल है जो मुंह में पानी लाने वाले टाकोस और बुरिटोस में विशेषज्ञता रखता है, जो मैक्सिकन स्ट्रीट फूड की esencia को पकड़ता है। एक जीवंत और आकस्मिक वातावरण के साथ, यह चलते-फिरते त्वरित भोजन करने के लिए एक शानदार स्थान है। कीमतें बहुत सस्ती हैं, जिससे यह स्थानीय लोगों के बीच हिट है।",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "वर्साइल्स रेस्तरां",
+          "type": "restaurant",
+          "description": "वर्साइल्स रेस्तरां लिटिल हवाना में एक प्रसिद्ध संस्थान है जो अपने प्रामाणिक क्यूबाई व्यंजनों के लिए जाना जाता है। रेस्तरां का जीवंत वातावरण और विस्तृत मेनू इसे पारंपरिक क्यूबाई व्यंजनों का अनुभव करने के लिए एक अवश्य देखने योग्य स्थान बनाता है। उचित कीमतों और उदार हिस्सों की अपेक्षा करें।",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Miami 2026 — Principais Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Miami. De refeições econômicas a alta gastronomia — com links de reserva.",
+      "page_intro": "A cena gastronômica de Miami é um vibrante mosaico de culturas, misturando influências latinas, caribenhas e americanas. A cidade é renomada por suas diversas ofertas culinárias, que vão de experiências gastronômicas sofisticadas a mercados de comida de rua movimentados. Seja você um amante de frutos do mar frescos, pastéis deliciosos ou tacos de rua saborosos, Miami tem algo para satisfazer todos os paladares.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "Casa Casuarina (Restaurante Versace)",
+          "type": "restaurant",
+          "description": "Situado na opulenta antiga casa do designer de moda Gianni Versace, a Casa Casuarina oferece uma experiência gastronômica sofisticada com foco na culinária italiana. Os hóspedes podem desfrutar de pratos como massa caseira e frutos do mar frescos, cercados por uma decoração luxuosa. A faixa de preço é mais alta, tornando-o perfeito para ocasiões especiais.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Yuca",
+          "type": "restaurant",
+          "description": "A Yuca serve uma combinação deliciosa de pratos cubanos tradicionais e contemporâneos. Com uma atmosfera animada e uma decoração vibrante, é um ótimo lugar para desfrutar de clássicos como Ropa Vieja e Tostones. O restaurante também apresenta música ao vivo, tornando-o um local popular tanto para locais quanto para turistas.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "La Patacón",
+          "type": "street_food",
+          "description": "La Patacón é um local querido por sua autêntica comida de rua venezuelana, especialmente seus famosos sanduíches Patacón. Com um ambiente casual ao ar livre, é o lugar perfeito para um lanche rápido. Os preços são muito acessíveis, tornando-o uma ótima opção para os amantes da comida com orçamento limitado que desejam saborear sabores marcantes.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "Caminho de Madeira de Miami Beach Food Trucks",
+          "type": "night_market",
+          "description": "O Caminho de Madeira de Miami Beach abriga uma variedade de food trucks que oferecem de tudo, desde tacos gourmet até frutos do mar frescos. Essa experiência de jantar ao ar livre vibrante permite que os visitantes explorem opções culinárias diversificadas enquanto desfrutam de vistas deslumbrantes do oceano. Os preços variam, mas muitas opções são acessíveis ao orçamento.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Zuma",
+          "type": "restaurant",
+          "description": "Zuma é um restaurante contemporâneo estilo izakaya japonês localizado no coração de Miami. Conhecido por sua decoração elegante e ambiente animado, serve uma variedade de sushi e pratos grelhados. O restaurante é perfeito para uma experiência gastronômica vibrante, com uma faixa de preço que reflete suas ofertas de alta qualidade.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "Sabor a Mi",
+          "type": "cafe",
+          "description": "Sabor a Mi é um charmoso café conhecido por seu autêntico café cubano e deliciosas pastelarias. Os visitantes podem desfrutar de uma atmosfera aconchegante enquanto saboreiam um Pan con Bistec feito na hora ou um doce bolo Tres Leches. Os preços são razoáveis, tornando-o um local popular para café da manhã ou um lanche à tarde.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "El Portal",
+          "type": "street_food",
+          "description": "El Portal é uma barraca de comida que se especializa em tacos e burritos de dar água na boca, capturando a essência da comida de rua mexicana. Com uma atmosfera animada e casual, é um ótimo lugar para um lanche rápido. Os preços são muito acessíveis, tornando-o um sucesso entre os locais.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "Restaurante Versailles",
+          "type": "restaurant",
+          "description": "O Restaurante Versailles é uma renomada instituição em Little Havana conhecida por sua autêntica culinária cubana. A atmosfera vibrante do restaurante e o extenso menu o tornam uma visita obrigatória para quem deseja experimentar pratos cubanos tradicionais. Espere preços razoáveis e porções generosas.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الطعام في ميامي 2026 — أفضل المطاعم ودليل الطعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم، وطعام الشارع، والتخصصات المحلية في ميامي. من الأطعمة ذات الميزانية إلى تناول الطعام الفاخر — مع روابط الحجز.",
+      "page_intro": "مشهد الطعام في ميامي هو نسيج نابض بالحياة من الثقافات، يمزج بين التأثيرات اللاتينية، والكاريبية، والأمريكية. تشتهر المدينة بعروضها الطهي المتنوعة، التي تتراوح بين تجارب تناول الطعام الفاخرة وأسواق الطعام الشارع المزدحمة. سواء كنت تتوق إلى المأكولات البحرية الطازجة، أو المعجنات اللذيذة، أو التاكو الشارعي المالح، لدى ميامي شيء يرضي كل الأذواق.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "كازا كاسوارينا (مطعم فيرساتشي)",
+          "type": "restaurant",
+          "description": "تقع كازا كاسوارينا في منزل المصمم الشهير جياني فيرساتشي السابق الفخم، وتقدم تجربة تناول طعام راقية تركز على المأكولات الإيطالية. يمكن للضيوف الاستمتاع بأطباق مثل المعكرونة المنزلية والمأكولات البحرية الطازجة وسط ديكور فاخر. نطاق الأسعار على الجانب الأعلى، مما يجعلها مثالية للمناسبات الخاصة.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "يوكا",
+          "type": "restaurant",
+          "description": "تقدم يوكا مزيجًا لذيذًا من الأطباق الكوبية التقليدية والمعاصرة. مع جو حيوي وزخارف نابضة، فهي مكان رائع للاستمتاع بالكلاسيكيات مثل روپا فيخا وتوستونيس. يقدم المطعم أيضًا موسيقى حية، مما يجعله مكانًا شائعًا بين السكان المحليين والسياح.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "لا باتاكون",
+          "type": "street_food",
+          "description": "تعد لا باتاكون مكانًا محبوبًا لتناول طعام الشارع الفنزويلي الأصيل، خاصة ساندويتشات باتاكون الشهيرة. مع بيئة خارجية غير رسمية، فإنها المكان المثالي لتناول وجبة سريعة. الأسعار معقولة جدًا، مما يجعلها خيارًا رائعًا لعشاق الطعام الذي يبحثون عن نكهات جريئة.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "شاحنات الطعام على ممشى ميامي بيتش",
+          "type": "night_market",
+          "description": "يحتوي ممشى ميامي بيتش على مجموعة متنوعة من شاحنات الطعام التي تقدم كل شيء من التاكو الفاخر إلى المأكولات البحرية الطازجة. تتيح هذه التجربة الديناميكية لتناول الطعام في الهواء الطلق للزوار استكشاف خيارات طهي متنوعة أثناء الاستمتاع بإطلالات مذهلة على المحيط. تختلف الأسعار، لكن العديد من الخيارات تناسب الميزانية.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "زما",
+          "type": "restaurant",
+          "description": "زما هو مطعم ياباني معاصر على طراز إيزاكايا يقع في قلب ميامي. معروف بديكوره الأنيق وجوّه الحيوي، يقدم مجموعة متنوعة من السوشي والأطباق المشوية. المطعم مثالي لتجربة تناول طعام حيوية، مع نطاق أسعار يعكس عروضه عالية الجودة.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "سابور أ مي",
+          "type": "cafe",
+          "description": "سابور أ مي هو مقهى ساحر معروف بقهوته الكوبية الأصيلة والمعجنات اللذيذة. يمكن للزوار الاستمتاع بأجواء دافئة أثناء تذوق بان كون بيستيك الطازج أو كعكة ترس ليش الحلوة. الأسعار معقولة، مما يجعلها مكانًا شائعًا للإفطار أو وجبة خفيفة بعد الظهر.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "البوابة",
+          "type": "street_food",
+          "description": "البوابة هي كشك طعام متخصص في التاكو والبوريتو الشهيين، مما يجسد جوهر طعام الشارع المكسيكي. مع أجواء حيوية وغير رسمية، فهي مكان رائع لتناول وجبة سريعة. الأسعار معقولة جدًا، مما يجعلها ضربة بين السكان المحليين.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "مطعم فرساي",
+          "type": "restaurant",
+          "description": "مطعم فرساي هو مؤسسة مشهورة في ليتل هافانا معروفة بمأكولاتها الكوبية الأصيلة. تجعل الأجواء النابضة للمطعم وقائمة الطعام الواسعة منه وجهة يجب زيارتها لأي شخص يرغب في تجربة الأطباق الكوبية التقليدية. توقع أسعار معقولة وحصص سخية.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "মিয়ামিতে সেরা খাবার 2026 — শীর্ষ রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "মিয়ামির সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার - বুকিং লিঙ্ক সহ।",
+      "page_intro": "মিয়ামির খাবারের দৃশ্য একটি উজ্জ্বল সাংস্কৃতিক টেপেস্ট্রি, লাতিন, ক্যারিবিয়ান এবং আমেরিকান প্রভাবগুলি মিশ্রিত করে। শহরটি তার বৈচিত্র্যময় খাদ্য প্রস্তাবনার জন্য বিখ্যাত, যা উচ্চমানের খাবারের অভিজ্ঞতা থেকে শুরু করে ব্যস্ত স্ট্রিট ফুড মার্কেট পর্যন্ত বিস্তৃত। আপনি যদি তাজা সামুদ্রিক খাবার, সুস্বাদু পেস্ট্রি বা স্বাদযুক্ত স্ট্রিট ট্যাকোস খেতে চান, মিয়ামিতে প্রতিটি স্বাদের জন্য কিছু না কিছু আছে।",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "ক্যাসা কাসুয়ারিনা (ভার্সেস রেস্টুরেন্ট)",
+          "type": "restaurant",
+          "description": "ফ্যাশন ডিজাইনার জিয়ানি ভার্সেসের অপূর্ব প্রাক্তন বাড়িতে অবস্থিত, ক্যাসা কাসুয়ারিনা একটি উচ্চমানের খাবারের অভিজ্ঞতা প্রদান করে যা ইতালীয় রান্নার উপর কেন্দ্রিত। অতিথিরা বাড়িতে তৈরি পাস্তা এবং তাজা সামুদ্রিক খাবারের মতো খাবার উপভোগ করতে পারেন, বিলাসবহুল সজ্জার মধ্যে। দামগুলি উচ্চতর দিকে, বিশেষ অনুষ্ঠানের জন্য এটি নিখুঁত।",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "যুকা",
+          "type": "restaurant",
+          "description": "যুকা ঐতিহ্যবাহী কিউবান খাবার এবং আধুনিক খাবারের একটি আনন্দময় সংমিশ্রণ পরিবেশন করে। একটি প্রাণবন্ত পরিবেশ এবং উজ্জ্বল সাজসজ্জার সাথে, এটি রোপা ভিজা এবং টোস্টোনেসের মতো ক্লাসিক উপভোগ করার জন্য একটি দুর্দান্ত স্থান। রেস্তোরাঁটিতে লাইভ মিউজিকও রয়েছে, যা এটিকে স্থানীয় এবং পর্যটকদের জন্য একটি জনপ্রিয় স্থান করে তোলে।",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "লা পাটাকন",
+          "type": "street_food",
+          "description": "লা পাটাকন প্রামাণিক ভেনিজুয়েলান স্ট্রিট ফুডের জন্য একটি প্রিয় স্থান, বিশেষ করে তাদের বিখ্যাত পাটাকন স্যান্ডউইচের জন্য। একটি অস্বাভাবিক আউটডোর পরিবেশের সাথে, এটি একটি দ্রুত স্ন্যাক নেওয়ার জন্য নিখুঁত জায়গা। দামগুলি খুব সস্তা, যা বাজেট-জ্ঞানী খাদ্যপ্রেমীদের জন্য সাহসী স্বাদ উপভোগ করার জন্য একটি দুর্দান্ত বিকল্প করে তোলে।",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "মিয়ামি বিচ বোর্ডওয়াক ফুড ট্রাক",
+          "type": "night_market",
+          "description": "মিয়ামি বিচ বোর্ডওয়াক বিভিন্ন ফুড ট্রাকের বাড়ি যা গরম টাকো থেকে শুরু করে তাজা সামুদ্রিক খাবার পর্যন্ত সবকিছু সরবরাহ করে। এই প্রাণবন্ত বাইরের খাবারের অভিজ্ঞতা দর্শকদের বিস্তৃত খাদ্য বিকল্পগুলি অন্বেষণ করতে দেয় যখন তারা সমুদ্রের অপরূপ দৃশ্য উপভোগ করে। দামগুলি ভিন্ন, কিন্তু অনেক বিকল্প বাজেটের জন্য বন্ধুত্বপূর্ণ।",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "জুমা",
+          "type": "restaurant",
+          "description": "জুমা একটি সমসাময়িক জাপানি ইজাকায়া-শৈলীর রেস্তোরাঁ যা মিয়ামির হৃদয়ে অবস্থিত। এর স্টাইলিশ সজ্জা এবং প্রাণবন্ত পরিবেশের জন্য পরিচিত, এটি বিভিন্ন ধরনের সুশি এবং গ্রিল করা খাবার পরিবেশন করে। রেস্তোরাঁটি একটি প্রাণবন্ত খাবারের অভিজ্ঞতার জন্য নিখুঁত, যার দাম তার উচ্চমানের অফারগুলিকে প্রতিফলিত করে।",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "সাবোর এ মি",
+          "type": "cafe",
+          "description": "সাবোর এ মি একটি আকর্ষণীয় ক্যাফে যা তার প্রামাণিক কিউবান কফি এবং সুস্বাদু পেস্ট্রি জন্য পরিচিত। দর্শকরা তাজা তৈরি প্যান কন বিস্তেক বা মিষ্টি ট্রেস লেচেস কেক উপভোগ করার সময় একটি আরামদায়ক পরিবেশ উপভোগ করতে পারেন। দামগুলি যুক্তিসঙ্গত, যা এটিকে সকালের নাস্তা বা বিকেলের স্ন্যাকের জন্য একটি জনপ্রিয় স্থান করে তোলে।",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "এল পোর্টাল",
+          "type": "street_food",
+          "description": "এল পোর্টাল একটি খাবারের স্টল যা মুখরোচক টাকো এবং বুরিটোতে বিশেষজ্ঞ, যা মেক্সিকান স্ট্রিট ফুডের সত্ত্বা ধারণ করে। একটি প্রাণবন্ত এবং অস্বস্তিকর পরিবেশের সাথে, এটি চলাফেরার সময় দ্রুত খাবার নেওয়ার জন্য একটি দুর্দান্ত স্থান। দামগুলি খুব সস্তা, যা এটিকে স্থানীয়দের মধ্যে জনপ্রিয় করে তোলে।",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "ভার্সাই রেস্তোরাঁ",
+          "type": "restaurant",
+          "description": "ভার্সাই রেস্তোরাঁ লিটল হাভানায় একটি বিখ্যাত প্রতিষ্ঠান যা তার প্রামাণিক কিউবান খাবারের জন্য পরিচিত। রেস্তোরাঁর প্রাণবন্ত পরিবেশ এবং বিস্তৃত মেনু এটিকে ঐতিহ্যবাহী কিউবান খাবারগুলির অভিজ্ঞতা নিতে যাওয়া সবার জন্য একটি অবশ্যই দেখতে হবে। যুক্তিসঙ্গত দাম এবং উদার অংশের প্রত্যাশা করুন।",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Майами 2026 — Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специальные блюда в Майами. От бюджетного питания до изысканной кухни — с ссылками для бронирования.",
+      "page_intro": "Кулинарная сцена Майами — это яркое полотно культур, сочетающее латиноамериканские, карибские и американские влияния. Город славится своим разнообразием кулинарных предложений, от высококлассного питания до бурлящих уличных рынков еды. Независимо от того, craving ли вы свежие морепродукты, восхитительные пирожные или пикантные уличные тако, в Майами найдется что-то на любой вкус.",
+      "items": [
+        {
+          "id": "versace-restaurant",
+          "name": "Casa Casuarina (Ресторан Версаче)",
+          "type": "restaurant",
+          "description": "Расположенный в роскошном бывшем доме модельера Джанни Версаче, Casa Casuarina предлагает высококлассное питание с акцентом на итальянскую кухню. Гостям предлагаются такие блюда, как домашняя паста и свежие морепродукты в окружении роскошного декора. Цены на более высоком уровне, что делает его идеальным для особых случаев.",
+          "image_keyword": "Casa Casuarina restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Lobster Ravioli",
+          "klook_query": "Casa Casuarina restaurant Miami"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Yuca",
+          "type": "restaurant",
+          "description": "Yuca предлагает восхитительное сочетание традиционных кубинских и современных блюд. С живой атмосферой и ярким декором это отличное место, чтобы насладиться классикой, такой как Ropa Vieja и Tostones. Ресторан также предлагает живую музыку, что делает его популярным местом как для местных жителей, так и для туристов.",
+          "image_keyword": "Yuca restaurant",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Ropa Vieja",
+          "klook_query": "Yuca restaurant Miami"
+        },
+        {
+          "id": "la-patacon",
+          "name": "La Patacón",
+          "type": "street_food",
+          "description": "La Patacón — это любимое место для аутентичной венесуэльской уличной еды, особенно их знаменитых сэндвичей Patacón. С непринужденной обстановкой на улице это идеальное место для быстрого перекуса. Цены очень доступные, что делает его отличным вариантом для любителей еды с ограниченным бюджетом, желающих насладиться яркими вкусами.",
+          "image_keyword": "La Patacón street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Patacón with Chicken",
+          "klook_query": "La Patacón street food Miami"
+        },
+        {
+          "id": "miami-beach-boardwalk",
+          "name": "Фуд-траки на набережной Майами Бич",
+          "type": "night_market",
+          "description": "Набережная Майами Бич — это дом для множества фуд-траков, предлагающих все, от гуру тортилья до свежих морепродуктов. Этот яркий опыт уличного питания позволяет посетителям исследовать разнообразные кулинарные предложения, наслаждаясь потрясающими видами на океан. Цены различаются, но многие варианты доступны по цене.",
+          "image_keyword": "Miami Beach Boardwalk food trucks",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Miami Beach Boardwalk food tour"
+        },
+        {
+          "id": "versace-restaurant",
+          "name": "Zuma",
+          "type": "restaurant",
+          "description": "Zuma — это современный японский ресторан в стиле изакая, расположенный в самом сердце Майами. Известный своим стильным декором и живой атмосферой, он предлагает разнообразные суши и блюда на гриле. Ресторан идеально подходит для яркого опыта питания, с ценами, отражающими его высококачественные предложения.",
+          "image_keyword": "Zuma restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Miso Black Cod",
+          "klook_query": "Zuma restaurant Miami"
+        },
+        {
+          "id": "sabor-a-mi",
+          "name": "Sabor a Mi",
+          "type": "cafe",
+          "description": "Sabor a Mi — это очаровательное кафе, известное своим аутентичным кубинским кофе и восхитительными пирожными. Посетители могут насладиться уютной атмосферой, наслаждаясь свежеприготовленным Pan con Bistec или сладким тортом Tres Leches. Цены разумные, что делает его популярным местом для завтрака или полдника.",
+          "image_keyword": "Sabor a Mi cafe",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Tres Leches Cake",
+          "klook_query": "Sabor a Mi cafe Miami"
+        },
+        {
+          "id": "el-portal",
+          "name": "El Portal",
+          "type": "street_food",
+          "description": "El Portal — это киоск с едой, специализирующийся на аппетитных тако и буррито, улавливающий суть мексиканской уличной еды. С живой и непринужденной атмосферой это отличное место для быстрого перекуса. Цены очень доступные, что делает его популярным среди местных жителей.",
+          "image_keyword": "El Portal street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carnitas Taco",
+          "klook_query": "El Portal street food Miami"
+        },
+        {
+          "id": "miami-little-havana",
+          "name": "Ресторан Versailles",
+          "type": "restaurant",
+          "description": "Ресторан Versailles — это известное заведение в Литл-Гаване, известное своей аутентичной кубинской кухней. Яркая атмосфера ресторана и обширное меню делают его обязательным для посещения для всех, кто хочет попробовать традиционные кубинские блюда. Ожидайте разумные цены и щедрые порции.",
+          "image_keyword": "Versailles Restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Lechón Asado",
+          "klook_query": "Versailles Restaurant Miami"
+        }
+      ]
+    }
+  }
+}

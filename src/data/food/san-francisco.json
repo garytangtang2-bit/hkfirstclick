@@ -1,0 +1,1024 @@
+{
+  "city_slug": "san-francisco",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in San Francisco 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in San Francisco. From budget eats to fine dining — with booking links.",
+      "page_intro": "San Francisco is a culinary paradise, blending diverse cultures and flavors into a unique food scene. From bustling street food vendors to world-renowned restaurants, the city offers a rich tapestry of dining experiences. Whether you're craving a Michelin-starred meal or a quick bite from a local food truck, San Francisco has something to satisfy every palate.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko is a vibrant eatery that specializes in fresh, mouth-watering tacos and burritos. With a laid-back atmosphere and colorful decor, it's the perfect spot to grab a quick bite. Be sure to try their famous fish tacos, which are a local favorite. Prices are reasonable, with most dishes ranging from $10 to $20.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "A cornerstone of the Mission District, La Taqueria has been serving up authentic Mexican fare since 1973. Their burritos are legendary, packed with fresh ingredients and bold flavors. The casual, no-frills setting adds to the charm. Expect to pay around $10 to $15 for a filling meal.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Grid is a unique food truck market that brings together a variety of gourmet food trucks in one location. Each week, find a rotating selection of vendors offering everything from artisanal burgers to vegan delights. It's a great place to sample diverse flavors in a lively outdoor setting. Prices vary, generally around $10 to $15 per dish.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakery is famous for its sourdough bread, a San Francisco staple. The bakery offers a unique experience with its on-site bakery tour and delicious clam chowder served in a sourdough bread bowl. The warm, inviting atmosphere makes it a perfect stop for a quick lunch. Expect to spend around $10 to $20.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "Renowned for its barbecue, The Salt Lick offers a mouthwatering array of smoked meats and savory sides. The rustic ambiance and friendly staff create a welcoming dining experience. Don't miss their brisket, which is a crowd-pleaser. Prices typically range from $15 to $30 per person.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Shilin Night Market",
+          "type": "night_market",
+          "description": "Shilin Night Market is a bustling hub of Taiwanese street food in San Francisco. Experience a variety of snacks, from crispy fried chicken to bubble tea. The lively atmosphere and vibrant stalls make it a fun destination for food lovers. Prices are affordable, with most items under $10.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Ji serves up delicious Indian street food with a twist. This food stall offers a range of authentic dishes, from samosas to dosas, all made with fresh ingredients. The vibrant flavors and friendly service make it a must-visit. Most dishes are priced between $5 and $15.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        },
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko is a vibrant eatery that specializes in fresh, mouth-watering tacos and burritos. With a laid-back atmosphere and colorful decor, it's the perfect spot to grab a quick bite. Be sure to try their famous fish tacos, which are a local favorite. Prices are reasonable, with most dishes ranging from $10 to $20.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年舊金山最佳美食 — 頂級餐廳與街頭美食指南",
+      "seo_description": "探索舊金山最佳餐廳、街頭美食和當地特色。從經濟實惠的餐飲到高級用餐 — 這裡有預訂連結。",
+      "page_intro": "舊金山是一個美食天堂，將多樣的文化和風味融合成獨特的美食場景。從繁忙的街頭小販到世界知名的餐廳，這座城市提供豐富多樣的用餐體驗。無論你是渴望米其林星級的美食還是想從當地食車快速吃一口，舊金山都有能滿足每一種味蕾的美食。",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko是一家充滿活力的餐廳，專門提供新鮮、美味的塔可和墨西哥捲餅。悠閒的氛圍和色彩繽紛的裝飾，使其成為快速用餐的完美地點。一定要試試他們著名的魚塔可，這是當地的最愛。價格合理，大多數菜餚在$10到$20之間。",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "作為使命區的地標，La Taqueria自1973年以來一直提供正宗的墨西哥美食。他們的墨西哥捲餅享有盛譽，內餡新鮮，風味濃郁。隨意的環境增添了其魅力。期待每頓飯的價格大約在$10到$15之間。",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Grid是一個獨特的食品卡車市場，將各種美食卡車聚集在一個地點。每週都有不同的供應商，提供從手工漢堡到素食美食的旋轉選擇。這是一個在熱鬧的戶外環境中品嚐多樣風味的好地方。價格各異，通常每道菜大約在$10到$15之間。",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakery以其酸麵包而聞名，這是舊金山的主食。這家麵包店提供獨特的體驗，包括現場烘焙之旅和在酸麵包碗中供應的美味蛤蜊濃湯。溫暖、宜人的氛圍使其成為快速午餐的理想停留地。期待花費約$10到$20。",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "以燒烤聞名，The Salt Lick提供令人垂涎的煙燻肉類和美味的配菜。樸實的氛圍和友好的工作人員營造了熱情的用餐體驗。不要錯過他們的胸肉，這是眾多食客的最愛。價格通常在每位$15到$30之間。",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "士林夜市",
+          "type": "night_market",
+          "description": "士林夜市是舊金山熱鬧的台灣街頭美食中心。體驗各種小吃，從酥脆炸雞到珍珠奶茶。熱鬧的氛圍和充滿活力的攤位使其成為美食愛好者的有趣目的地。價格實惠，大多數項目在$10以下。",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Ji提供帶有創意的美味印度街頭美食。這家食品攤位提供各種正宗菜餚，從薩莫薩到多薩，都是用新鮮食材製作而成。鮮明的風味和友好的服務使其成為必訪之地。大多數菜餚的價格在$5到$15之間。",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年サンフランシスコのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "サンフランシスコの最高のレストラン、ストリートフード、地元の特産品を発見してください。お手頃な価格の食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "サンフランシスコは、さまざまな文化と風味が融合した料理の楽園です。賑やかなストリートフードの屋台から世界的に有名なレストランまで、この街は豊かなダイニング体験を提供します。ミシュラン星付きの食事が欲しい時も、地元のフードトラックから手軽に食べたい時も、サンフランシスコにはすべての味覚を満たすものがあります。",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tackoは、新鮮で美味しいタコスとブリトーを専門とする活気ある飲食店です。リラックスした雰囲気とカラフルな装飾が施されたこの場所は、手軽に食事を楽しむのに最適です。有名なフィッシュタコスは、地元の人々の間で人気の一品です。価格は手頃で、ほとんどの料理は$10から$20の範囲です。",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "ミッション地区の重要な存在であるLa Taqueriaは、1973年から本格的なメキシコ料理を提供しています。彼らのブリトーは伝説的で、新鮮な食材と大胆な風味が詰まっています。カジュアルで飾り気のない設定が魅力を加えています。満足できる食事のために、約$10から$15の支払いを期待してください。",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Gridは、さまざまなグルメフードトラックを一つの場所に集めたユニークなフードトラックマーケットです。毎週、アーティザナルバーガーからビーガン料理まで、さまざまなベンダーのローテーションセレクションが見つかります。活気のある屋外の環境で多様な味を楽しむのに最適な場所です。価格は異なりますが、一般的に一皿あたり$10から$15の範囲です。",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakeryは、そのサワードウブレッドで有名で、サンフランシスコの定番です。このベーカリーでは、現地のベーカリーツアーやサワードウのパンボウルで提供されるおいしいクラムチャウダーのユニークな体験を提供しています。温かみのある居心地の良い雰囲気の中で、素早くランチを取るのに最適な場所です。約$10から$20の支出を期待してください。",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "バーベキューで有名なThe Salt Lickは、絶品のスモークミートとおいしいサイドディッシュを提供します。素朴な雰囲気とフレンドリーなスタッフが、温かく迎えてくれるダイニング体験を作り出しています。人気のブリスケットは見逃せません。価格は通常、一人あたり$15から$30の範囲です。",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "士林夜市",
+          "type": "night_market",
+          "description": "士林夜市は、サンフランシスコで賑やかな台湾のストリートフードの中心地です。クリスピーなフライドチキンからタピオカティーまで、さまざまなスナックを体験できます。活気ある雰囲気と色とりどりの屋台が、食べ物好きには楽しい目的地です。価格は手頃で、ほとんどのアイテムが$10未満です。",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Jiは、ひねりを加えた美味しいインドのストリートフードを提供します。このフードスタンドでは、サモサからドーサまで、新鮮な食材で作られた本格的な料理を提供しています。鮮やかな風味とフレンドリーなサービスが、訪れる価値のある場所にしています。ほとんどの料理は$5から$15の範囲です。",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 샌프란시스코 최고의 음식 — 최고의 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "샌프란시스코 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 저렴한 식사부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "샌프란시스코는 다양한 문화와 풍미가 어우러진 요리의 천국입니다. 분주한 길거리 음식 판매대에서 세계적으로 유명한 레스토랑까지, 이 도시는 풍부한 다이닝 경험을 제공합니다. 미슐랭 스타 식사를 원하든, 지역 푸드 트럭에서 간단히 한 입 먹고 싶든 샌프란시스코에는 모든 입맛을 만족시킬 수 있는 것이 있습니다.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko는 신선하고 맛있는 타코와 부리토를 전문으로 하는 활기찬 식당입니다. 편안한 분위기와 다채로운 장식으로 빠르게 식사하기에 완벽한 장소입니다. 그들의 유명한 생선 타코는 지역 주민들 사이에서 인기 있는 메뉴입니다. 가격은 합리적이며 대부분의 요리는 $10에서 $20 사이입니다.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "미션 지구의 주요 명소인 La Taqueria는 1973년부터 정통 멕시코 요리를 제공하고 있습니다. 그들의 부리토는 전설적이며 신선한 재료와 강렬한 풍미로 가득 차 있습니다. 캐주얼하고 소박한 분위기가 매력을 더합니다. 만족스러운 식사를 위해 약 $10에서 $15를 지불할 것으로 예상하세요.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Grid는 다양한 미식가 푸드 트럭을 한곳에 모은 독특한 푸드 트럭 시장입니다. 매주 아티잔 햄버거부터 비건 요리까지 다양한 공급업체의 회전 선택이 있습니다. 활기찬 야외 환경에서 다양한 맛을 샘플링하기에 좋은 장소입니다. 가격은 다양하며 일반적으로 한 접시당 $10에서 $15 사이입니다.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakery는 그 사워도우 빵으로 유명하며 샌프란시스코의 필수 아이템입니다. 이 베이커리는 현장 베이커리 투어와 사워도우 빵 그릇에 제공되는 맛있는 조개 수프와 함께 독특한 경험을 제공합니다. 따뜻하고 아늑한 분위기가 빠른 점심을 먹기에 완벽한 장소입니다. 약 $10에서 $20를 지출할 것으로 예상하세요.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "바비큐로 유명한 The Salt Lick은 군침이 도는 훈제 고기와 맛있는 사이드 요리를 제공합니다. 소박한 분위기와 친절한 직원들이 따뜻한 다이닝 경험을 만들어냅니다. 인기 있는 브리스킷을 놓치지 마세요. 가격은 일반적으로 1인당 $15에서 $30 사이입니다.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "士林夜市",
+          "type": "night_market",
+          "description": "士林夜市는 샌프란시스코의 대만 길거리 음식 중심지입니다. 바삭한 프라이드 치킨부터 버블티까지 다양한 간식을 경험할 수 있습니다. 활기찬 분위기와 다채로운 가판대가 음식 애호가들에게 재미있는 목적지가 됩니다. 가격은 합리적이며 대부분의 항목이 $10 미만입니다.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Ji는 변화를 주는 맛있는 인도 길거리 음식을 제공합니다. 이 음식 노점에서는 사모사부터 도사까지 신선한 재료로 만든 정통 요리를 제공합니다. 생생한 풍미와 친절한 서비스가 방문할 가치가 있는 곳으로 만듭니다. 대부분의 요리는 $5에서 $15 사이입니다.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à San Francisco 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à San Francisco. Des repas à petit prix aux expériences gastronomiques — avec des liens de réservation.",
+      "page_intro": "San Francisco est un paradis culinaire, alliant cultures et saveurs diverses dans une scène gastronomique unique. Des vendeurs de street food animés aux restaurants de renommée mondiale, la ville offre une riche tapisserie d'expériences culinaires. Que vous ayez envie d'un repas étoilé au Michelin ou d'un en-cas rapide d'un food truck local, San Francisco a quelque chose pour satisfaire tous les palais.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko est un restaurant dynamique spécialisé dans les tacos et burritos frais et savoureux. Avec une ambiance décontractée et une décoration colorée, c'est l'endroit idéal pour un en-cas rapide. Assurez-vous d'essayer leurs célèbres tacos de poisson, qui sont un favori local. Les prix sont raisonnables, la plupart des plats étant compris entre 10 et 20 $.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "Pilier du quartier Mission, La Taqueria sert une cuisine mexicaine authentique depuis 1973. Leurs burritos sont légendaires, garnis d'ingrédients frais et de saveurs audacieuses. L'environnement décontracté et sans chichis ajoute au charme. Attendez-vous à payer environ 10 à 15 $ pour un repas copieux.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Grid est un marché unique de food trucks qui regroupe une variété de camions de nourriture gourmets en un seul endroit. Chaque semaine, découvrez une sélection tournante de vendeurs proposant de tout, des hamburgers artisanaux aux délices végétaliens. C'est un excellent endroit pour goûter à des saveurs diverses dans un cadre extérieur animé. Les prix varient, généralement autour de 10 à 15 $ par plat.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakery est célèbre pour son pain au levain, un incontournable de San Francisco. La boulangerie offre une expérience unique avec sa visite de la boulangerie sur place et sa délicieuse chaudrée de palourdes servie dans un bol en pain au levain. L'atmosphère chaleureuse et accueillante en fait un arrêt parfait pour un déjeuner rapide. Attendez-vous à dépenser environ 10 à 20 $.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "Célèbre pour son barbecue, The Salt Lick propose une gamme de viandes fumées succulentes et d'accompagnements savoureux. L'ambiance rustique et le personnel amical créent une expérience culinaire accueillante. Ne manquez pas leur poitrine de bœuf, qui est très appréciée. Les prix varient généralement entre 15 et 30 $ par personne.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Marché de nuit de Shilin",
+          "type": "night_market",
+          "description": "Le marché de nuit de Shilin est un centre animé de street food taïwanaise à San Francisco. Découvrez une variété de collations, allant du poulet frit croustillant au thé à bulles. L'atmosphère vivante et les stands colorés en font une destination amusante pour les amateurs de nourriture. Les prix sont abordables, la plupart des articles coûtant moins de 10 $.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Ji propose une délicieuse cuisine de rue indienne avec une touche. Ce stand de nourriture offre une gamme de plats authentiques, des samoussas aux dosas, tous préparés avec des ingrédients frais. Les saveurs vibrantes et le service amical en font un incontournable. La plupart des plats sont au prix de 5 à 15 $.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en San Francisco 2026 — Mejores Restaurantes y Guía de Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en San Francisco. Desde comidas económicas hasta experiencias gastronómicas — con enlaces de reserva.",
+      "page_intro": "San Francisco es un paraíso culinario que combina diversas culturas y sabores en una escena gastronómica única. Desde vendedores de comida callejera bulliciosos hasta restaurantes de renombre mundial, la ciudad ofrece un rico tapiz de experiencias gastronómicas. Ya sea que anheles una comida con estrella Michelin o un bocado rápido de un camión de comida local, San Francisco tiene algo para satisfacer todos los paladares.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko es un restaurante vibrante que se especializa en tacos y burritos frescos y deliciosos. Con un ambiente relajado y una decoración colorida, es el lugar perfecto para tomar un bocado rápido. Asegúrate de probar sus famosos tacos de pescado, que son un favorito local. Los precios son razonables, con la mayoría de los platos entre $10 y $20.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "Pilar del distrito Mission, La Taqueria ha estado sirviendo auténtica cocina mexicana desde 1973. Sus burritos son legendarios, llenos de ingredientes frescos y sabores audaces. El ambiente casual y sin lujos añade al encanto. Espera pagar alrededor de $10 a $15 por una comida abundante.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Grid es un mercado de camiones de comida único que reúne una variedad de camiones de comida gourmet en un solo lugar. Cada semana, encontrarás una selección rotativa de proveedores que ofrecen desde hamburguesas artesanales hasta delicias veganas. Es un gran lugar para probar sabores diversos en un ambiente al aire libre animado. Los precios varían, generalmente alrededor de $10 a $15 por plato.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakery es famosa por su pan de masa madre, un básico de San Francisco. La panadería ofrece una experiencia única con su visita a la panadería en el lugar y su deliciosa sopa de almejas servida en un tazón de pan de masa madre. La atmósfera cálida y acogedora lo convierte en una parada perfecta para un almuerzo rápido. Espera gastar alrededor de $10 a $20.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "Renombrado por su barbacoa, The Salt Lick ofrece una deliciosa variedad de carnes ahumadas y guarniciones sabrosas. El ambiente rústico y el personal amable crean una experiencia gastronómica acogedora. No te pierdas su pecho de res, que es un favorito de la multitud. Los precios oscilan generalmente entre $15 y $30 por persona.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Mercado Nocturno de Shilin",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Shilin es un bullicioso centro de comida callejera taiwanesa en San Francisco. Experimenta una variedad de bocadillos, desde pollo frito crujiente hasta té de burbujas. La atmósfera animada y los coloridos puestos lo convierten en un destino divertido para los amantes de la comida. Los precios son asequibles, con la mayoría de los artículos por debajo de $10.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Ji ofrece deliciosa comida callejera india con un giro. Este puesto de comida ofrece una variedad de platos auténticos, desde samosas hasta dosas, todos elaborados con ingredientes frescos. Los sabores vibrantes y el servicio amable lo convierten en una visita obligada. La mayoría de los platos tienen un precio entre $5 y $15.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in San Francisco 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in San Francisco. From budget eats to fine dining — with booking links.",
+      "page_intro": "San Francisco is a culinary paradise, blending diverse cultures and flavors into a unique food scene. From bustling street food vendors to world-renowned restaurants, the city offers a rich tapestry of dining experiences. Whether you're craving a Michelin-starred meal or a quick bite from a local food truck, San Francisco has something to satisfy every palate.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko is a vibrant eatery that specializes in fresh, mouth-watering tacos and burritos. With a laid-back atmosphere and colorful decor, it's the perfect spot to grab a quick bite. Be sure to try their famous fish tacos, which are a local favorite. Prices are reasonable, with most dishes ranging from $10 to $20.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "A cornerstone of the Mission District, La Taqueria has been serving up authentic Mexican fare since 1973. Their burritos are legendary, packed with fresh ingredients and bold flavors. The casual, no-frills setting adds to the charm. Expect to pay around $10 to $15 for a filling meal.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Grid is a unique food truck market that brings together a variety of gourmet food trucks in one location. Each week, find a rotating selection of vendors offering everything from artisanal burgers to vegan delights. It's a great place to sample diverse flavors in a lively outdoor setting. Prices vary, generally around $10 to $15 per dish.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakery is famous for its sourdough bread, a San Francisco staple. The bakery offers a unique experience with its on-site bakery tour and delicious clam chowder served in a sourdough bread bowl. The warm, inviting atmosphere makes it a perfect stop for a quick lunch. Expect to spend around $10 to $20.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "Renowned for its barbecue, The Salt Lick offers a mouthwatering array of smoked meats and savory sides. The rustic ambiance and friendly staff create a welcoming dining experience. Don't miss their brisket, which is a crowd-pleaser. Prices typically range from $15 to $30 per person.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Shilin Night Market",
+          "type": "night_market",
+          "description": "Shilin Night Market is a bustling hub of Taiwanese street food in San Francisco. Experience a variety of snacks, from crispy fried chicken to bubble tea. The lively atmosphere and vibrant stalls make it a fun destination for food lovers. Prices are affordable, with most items under $10.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Ji serves up delicious Indian street food with a twist. This food stall offers a range of authentic dishes, from samosas to dosas, all made with fresh ingredients. The vibrant flavors and friendly service make it a must-visit. Most dishes are priced between $5 and $15.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "सैन फ्रांसिस्को में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "सैन फ्रांसिस्को में सबसे अच्छे रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट में भोजन से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "सैन फ्रांसिस्को एक पाक स्वर्ग है, जो विविध संस्कृतियों और स्वादों को एक अनूठे खाद्य दृश्य में मिलाता है। हलचल भरे स्ट्रीट फूड विक्रेताओं से लेकर विश्व-प्रसिद्ध रेस्तरां तक, शहर में डाइनिंग अनुभवों की एक समृद्ध विविधता है। चाहे आप एक मिशेलिन-तारे वाले भोजन की इच्छा कर रहे हों या एक स्थानीय खाद्य ट्रक से जल्दी कुछ लेना चाहते हों, सैन फ्रांसिस्को में हर स्वाद को संतुष्ट करने के लिए कुछ न कुछ है।",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "टैको",
+          "type": "restaurant",
+          "description": "टैको एक जीवंत भोजनालय है जो ताजे, मुंह में पानी लाने वाले टैको और बुरिटो में विशेषज्ञता रखता है। आरामदायक माहौल और रंगीन सजावट के साथ, यह जल्दी कुछ खाने के लिए एकदम सही स्थान है। उनके प्रसिद्ध मछली टैको का प्रयास करना न भूलें, जो स्थानीय पसंदीदा हैं। कीमतें उचित हैं, अधिकांश व्यंजनों की कीमत $10 से $20 के बीच है।",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "ला टैकरिया",
+          "type": "restaurant",
+          "description": "मिशन डिस्ट्रिक्ट का एक मुख्य आधार, ला टैकरिया 1973 से प्रामाणिक मैक्सिकन भोजन परोस रहा है। उनके बुरिटो किंवदंतियों की तरह हैं, जो ताजे सामग्री और बोल्ड फ्लेवर्स से भरे होते हैं। साधारण, बिना फ्रीज़ सेटिंग इसकी आकर्षण को बढ़ाती है। एक भरपेट भोजन के लिए लगभग $10 से $15 खर्च करने की उम्मीद करें।",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "ऑफ द ग्रिड",
+          "type": "street_food",
+          "description": "ऑफ द ग्रिड एक अद्वितीय खाद्य ट्रक मार्केट है जो एक स्थान पर विभिन्न प्रकार के ग्रूमेट खाद्य ट्रकों को एकत्र करता है। प्रत्येक सप्ताह, शिल्प बर्गर से लेकर शाकाहारी व्यंजनों तक, विक्रेताओं का एक घूमता हुआ चयन मिलता है। यह एक जीवंत बाहरी सेटिंग में विविध स्वादों का नमूना लेने के लिए एक शानदार स्थान है। कीमतें भिन्न होती हैं, सामान्यतः प्रति व्यंजन $10 से $15 के आसपास।",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "बौडिन बेकर",
+          "type": "local_specialty",
+          "description": "बौडिन बेकर अपने खट्टे ब्रेड के लिए प्रसिद्ध है, जो सैन फ्रांसिस्को का एक मुख्य भाग है। बेकर एक अनूठा अनुभव प्रदान करता है जिसमें ऑन-साइट बेकर टूर और खट्टे ब्रेड बाउल में परोसा जाने वाला स्वादिष्ट क्लैम चॉडर शामिल है। गर्म, आमंत्रित माहौल इसे जल्दी लंच के लिए एकदम सही स्थान बनाता है। खर्च करने की उम्मीद करें लगभग $10 से $20।",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "द सॉल्ट लिक",
+          "type": "restaurant",
+          "description": "अपने बारबेक्यू के लिए प्रसिद्ध, द सॉल्ट लिक स्मोक्ड मीट और स्वादिष्ट साइड डिशों की एक मुंह में पानी लाने वाली श्रृंखला प्रदान करता है। देहाती माहौल और दोस्ताना स्टाफ एक स्वागत योग्य भोजन अनुभव बनाते हैं। उनके ब्रीस्केट को न चूकें, जो एक भीड़-प्रिय है। कीमतें आमतौर पर प्रति व्यक्ति $15 से $30 के बीच होती हैं।",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "शिलिन नाइट मार्केट",
+          "type": "night_market",
+          "description": "शिलिन नाइट मार्केट सैन फ्रांसिस्को में ताइवान के स्ट्रीट फूड का एक हलचल भरा केंद्र है। कुरकुरी फ्राइड चिकन से लेकर बबल टी तक, विभिन्न स्नैक्स का अनुभव करें। जीवंत माहौल और जीवंत स्टॉल इसे खाद्य प्रेमियों के लिए एक मजेदार गंतव्य बनाते हैं। कीमतें सस्ती हैं, अधिकांश वस्तुओं की कीमत $10 से कम है।",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "मामा जी",
+          "type": "street_food",
+          "description": "मामा जी स्वादिष्ट भारतीय स्ट्रीट फूड को एक मोड़ के साथ परोसता है। यह खाद्य स्टाल समोसा से लेकर डोसा तक, सभी ताजे सामग्री से बने प्रामाणिक व्यंजनों की एक श्रृंखला प्रदान करता है। जीवंत स्वाद और दोस्ताना सेवा इसे एक अवश्य देखने योग्य स्थान बनाते हैं। अधिकांश व्यंजनों की कीमत $5 से $15 के बीच होती है।",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em São Francisco 2026 — Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em São Francisco. De refeições econômicas a alta gastronomia — com links de reserva.",
+      "page_intro": "São Francisco é um paraíso culinário, misturando culturas e sabores diversos em uma cena gastronômica única. Desde vendedores de comida de rua movimentados até restaurantes de renome mundial, a cidade oferece uma rica tapeçaria de experiências gastronômicas. Se você está desejando uma refeição estrelada pelo Michelin ou um lanche rápido de um food truck local, São Francisco tem algo para satisfazer todos os paladares.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Tacko",
+          "type": "restaurant",
+          "description": "Tacko é um restaurante vibrante que se especializa em tacos e burritos frescos e de dar água na boca. Com uma atmosfera descontraída e decoração colorida, é o local perfeito para pegar um lanche rápido. Não deixe de experimentar seus famosos tacos de peixe, que são os favoritos locais. Os preços são razoáveis, com a maioria dos pratos variando de $10 a $20.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "La Taqueria",
+          "type": "restaurant",
+          "description": "Um marco do Mission District, La Taqueria serve comida mexicana autêntica desde 1973. Seus burritos são lendários, recheados com ingredientes frescos e sabores ousados. O ambiente casual e sem frescuras acrescenta ao charme. Espere gastar cerca de $10 a $15 em uma refeição satisfatória.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Off the Grid",
+          "type": "street_food",
+          "description": "Off the Grid é um mercado único de food trucks que reúne uma variedade de food trucks gourmet em um só lugar. A cada semana, encontre uma seleção rotativa de vendedores oferecendo desde hambúrgueres artesanais até delícias veganas. É um ótimo lugar para experimentar sabores diversos em um ambiente externo animado. Os preços variam, geralmente em torno de $10 a $15 por prato.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Boudin Bakery",
+          "type": "local_specialty",
+          "description": "Boudin Bakery é famosa por seu pão de fermento, um alimento básico de São Francisco. A padaria oferece uma experiência única com seu tour pela padaria no local e delicioso chowder de marisco servido em um prato de pão de fermento. A atmosfera acolhedora e convidativa a torna uma parada perfeita para um almoço rápido. Espere gastar cerca de $10 a $20.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "The Salt Lick",
+          "type": "restaurant",
+          "description": "Renomado por seu churrasco, The Salt Lick oferece uma variedade de carnes defumadas e acompanhamentos saborosos. O ambiente rústico e a equipe amigável criam uma experiência de jantar acolhedora. Não perca o brisket, que é um favorito do público. Os preços geralmente variam de $15 a $30 por pessoa.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Shilin Night Market",
+          "type": "night_market",
+          "description": "O Shilin Night Market é um centro agitado de comida de rua taiwanesa em São Francisco. Experimente uma variedade de lanches, desde frango frito crocante até chá de bolhas. A atmosfera animada e as barracas vibrantes fazem dele um destino divertido para os amantes da comida. Os preços são acessíveis, com a maioria dos itens custando menos de $10.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Mama Ji",
+          "type": "street_food",
+          "description": "Mama Ji serve deliciosa comida de rua indiana com um toque. Este estande de comida oferece uma variedade de pratos autênticos, desde samosas até dosas, todos feitos com ingredientes frescos. Os sabores vibrantes e o atendimento amigável tornam-no um local imperdível. A maioria dos pratos é precificada entre $5 e $15.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في سان فرانسيسكو 2026 — أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في سان فرانسيسكو. من الوجبات الاقتصادية إلى تناول الطعام الفاخر — مع روابط الحجز.",
+      "page_intro": "سان فرانسيسكو هي جنة طهي، تمزج بين الثقافات والنكهات المتنوعة في مشهد طعام فريد. من بائعي الطعام الشارعي المزدحمين إلى المطاعم الشهيرة عالميًا، تقدم المدينة نسيجًا غنيًا من تجارب تناول الطعام. سواء كنت ترغب في وجبة حائزة على نجمة ميشلان أو وجبة سريعة من شاحنة طعام محلية، تقدم سان فرانسيسكو شيئًا لإرضاء كل الأذواق.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "تاكو",
+          "type": "restaurant",
+          "description": "تاكو هو مطعم نابض بالحياة متخصص في التاكو والبوريتو الطازج والشهي. مع أجواء مريحة وديكور ملون، إنه المكان المثالي لتناول وجبة سريعة. تأكد من تجربة تاكو السمك الشهير لديهم، والذي يعد مفضلًا محليًا. الأسعار معقولة، حيث تتراوح معظم الأطباق بين 10 إلى 20 دولارًا.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "لا تاكيريا",
+          "type": "restaurant",
+          "description": "تعتبر لا تاكيريا حجر الزاوية في منطقة ميسيون، حيث تقدم الطعام المكسيكي الأصيل منذ عام 1973. بوريتوهم أسطوري، محشو بمكونات طازجة ونكهات جريئة. يضيف الإعداد غير الرسمي والبسيط إلى سحرها. توقع دفع حوالي 10 إلى 15 دولارًا لوجبة شاملة.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "أوف ذا غريد",
+          "type": "street_food",
+          "description": "أوف ذا غريد هو سوق فريد من نوعه لشاحنات الطعام يجمع بين مجموعة متنوعة من شاحنات الطعام الراقية في مكان واحد. كل أسبوع، تجد مجموعة متغيرة من البائعين تقدم كل شيء من البرغر الحرفي إلى الأطعمة النباتية. إنه مكان رائع لتجربة نكهات متنوعة في بيئة خارجية نابضة بالحياة. تختلف الأسعار، وعادة ما تكون حوالي 10 إلى 15 دولارًا لكل طبق.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "مخبز بودين",
+          "type": "local_specialty",
+          "description": "مخبز بودين مشهور بخبز الساوردو، وهو عنصر أساسي في سان فرانسيسكو. يقدم المخبز تجربة فريدة مع جولة في المخبز في الموقع وشوربة المحار اللذيذة المقدمة في وعاء من خبز الساوردو. تجعل الأجواء الدافئة والمرحبة منه محطة مثالية لتناول الغداء السريع. توقع أن تنفق حوالي 10 إلى 20 دولارًا.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "ذا سولت ليك",
+          "type": "restaurant",
+          "description": "يشتهر ذا سولت ليك بشوي اللحوم، حيث يقدم مجموعة لذيذة من اللحوم المدخنة والأطباق الجانبية الشهية. تخلق الأجواء الريفية والموظفون الودودون تجربة تناول طعام ترحيبية. لا تفوت لحم الصدر، الذي يعد من المفضلات لدى الجمهور. الأسعار تتراوح عادة من 15 إلى 30 دولارًا للشخص.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "سوق شيلين الليلي",
+          "type": "night_market",
+          "description": "سوق شيلين الليلي هو مركز مزدحم لطعام الشارع التايواني في سان فرانسيسكو. جرب مجموعة متنوعة من الوجبات الخفيفة، من الدجاج المقلي المقرمش إلى شاي الفقاعات. تجعل الأجواء الحيوية والأكشاك الملونة منه وجهة ممتعة لعشاق الطعام. الأسعار معقولة، حيث أن معظم العناصر تحت 10 دولارات.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "ماما جي",
+          "type": "street_food",
+          "description": "تقدم ماما جي طعام الشارع الهندي اللذيذ مع لمسة. يقدم هذا الكشك مجموعة من الأطباق الأصيلة، من الساموسا إلى الدوسا، جميعها مصنوعة من مكونات طازجة. تجعل النكهات النابضة بالحياة والخدمة الودودة منه وجهة لا بد من زيارتها. تتراوح أسعار معظم الأطباق بين 5 إلى 15 دولارًا.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "সান ফ্রান্সিসকোর সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবার গাইড",
+      "seo_description": "সান ফ্রান্সিসকোতে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত — বুকিং লিঙ্ক সহ।",
+      "page_intro": "সান ফ্রান্সিসকো একটি রন্ধনসম্পর্কীয় স্বর্গ, যা বিভিন্ন সংস্কৃতি এবং স্বাদকে একটি অনন্য খাবারের দৃশ্যে মিশ্রিত করে। ব্যস্ত রাস্তার খাবারের বিক্রেতা থেকে শুরু করে বিশ্ববিখ্যাত রেস্তোরাঁ পর্যন্ত, শহরটি ডাইনিং অভিজ্ঞতার একটি সমৃদ্ধ ভাণ্ডার প্রদান করে। আপনি যদি মিশেলিন-স্টারযুক্ত খাবারের খোঁজে থাকেন বা একটি স্থানীয় খাবার ট্রাক থেকে দ্রুত কিছু খেতে চান, সান ফ্রান্সিসকোতে প্রত্যেকের স্বাদ সন্তুষ্ট করার জন্য কিছু না কিছু আছে।",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "ট্যাকো",
+          "type": "restaurant",
+          "description": "ট্যাকো একটি উজ্জ্বল রেস্তোরাঁ যা তাজা, মুখরোচক ট্যাকো এবং বুরিটোতে বিশেষজ্ঞ। একটি আরামদায়ক পরিবেশ এবং রঙিন সাজসজ্জার সাথে, এটি দ্রুত কিছু খাওয়ার জন্য একটি নিখুঁত স্থান। তাদের বিখ্যাত মাছের ট্যাকো চেষ্টা করতে ভুলবেন না, যা স্থানীয়দের প্রিয়। দাম যুক্তিসঙ্গত, অধিকাংশ খাবারের দাম $10 থেকে $20 এর মধ্যে থাকে।",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "লা টাকেরিয়া",
+          "type": "restaurant",
+          "description": "মিশন ডিস্ট্রিক্টের একটি প্রধান কেন্দ্র, লা টাকেরিয়া ১৯৭৩ সাল থেকে আসল মেক্সিকান খাবার পরিবেশন করছে। তাদের বুরিটো কিংবদন্তির মতো, তাজা উপকরণ এবং সাহসী স্বাদে পূর্ণ। অ-রূপসজ্জিত এবং সাধারণ পরিবেশ আকর্ষণের দিকে যোগ করে। একটি পুষ্টিকর খাবারের জন্য প্রায় $10 থেকে $15 ব্যয় করতে আশা করুন।",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "অফ দ্য গ্রিড",
+          "type": "street_food",
+          "description": "অফ দ্য গ্রিড একটি অনন্য খাবার ট্রাক মার্কেট যা একটি স্থানে বিভিন্ন ধরনের গরম খাবারের ট্রাক একত্রিত করে। প্রতি সপ্তাহে, শिल्प বুর্গার থেকে শুরু করে নিরামিষ খাবার পর্যন্ত বিক্রেতাদের একটি ঘূর্ণমান নির্বাচন পাওয়া যায়। এটি একটি প্রাণবন্ত বাইরের পরিবেশে বিভিন্ন স্বাদগুলি পরীক্ষা করার জন্য একটি দুর্দান্ত স্থান। দাম পরিবর্তিত হয়, সাধারণত প্রতি খাবারের জন্য $10 থেকে $15 এর আশেপাশে।",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "বৌদিন বেকারি",
+          "type": "local_specialty",
+          "description": "বৌদিন বেকারি তার সাউরডো রুটির জন্য বিখ্যাত, যা সান ফ্রান্সিসকোর একটি প্রধান খাবার। এই বেকারি একটি অনন্য অভিজ্ঞতা প্রদান করে যা স্থানীয় বেকারি ভ্রমণ এবং সাউরডো রুটির বাটিতে পরিবেশন করা সুস্বাদু ক্ল্যাম চডারের সাথে যুক্ত। উষ্ণ, আমন্ত্রণমূলক পরিবেশ এটিকে দ্রুত দুপুরের খাবারের জন্য একটি নিখুঁত স্থানে পরিণত করে। প্রায় $10 থেকে $20 ব্যয় করার প্রত্যাশা করুন।",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "দ্য সল্ট লিক",
+          "type": "restaurant",
+          "description": "বারবিকিউয়ের জন্য বিখ্যাত, দ্য সল্ট লিক ধূমপান করা মাংস এবং স্বাদযুক্ত সাইড ডিশের একটি মুখরোচক শৃঙ্খল প্রদান করে। গ্রামীণ পরিবেশ এবং বন্ধুত্বপূর্ণ কর্মীরা একটি স্বাগত জানানো খাবারের অভিজ্ঞতা তৈরি করে। তাদের ব্রিসকেট মিস করবেন না, যা একটি জনপ্রিয় খাদ্য। দাম সাধারণত $15 থেকে $30 প্রতি ব্যক্তির মধ্যে থাকে।",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "শিলিন নাইট মার্কেট",
+          "type": "night_market",
+          "description": "শিলিন নাইট মার্কেট সান ফ্রান্সিসকোতে তাইওয়ানি রাস্তার খাবারের একটি ব্যস্ত কেন্দ্র। মুরগির ক্রিসপ ফ্রাই থেকে শুরু করে বাবল টী পর্যন্ত বিভিন্ন স্ন্যাকসের অভিজ্ঞতা নিন। প্রাণবন্ত পরিবেশ এবং উজ্জ্বল স্টলগুলি এটি খাদ্য প্রেমীদের জন্য একটি মজাদার গন্তব্য করে তোলে। দাম সাশ্রয়ী, বেশিরভাগ আইটেমের দাম $10 এর নিচে।",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "মামা জি",
+          "type": "street_food",
+          "description": "মামা জি একটি মোড়ের সাথে সুস্বাদু ভারতীয় রাস্তার খাবার পরিবেশন করে। এই খাবার স্টলটি স্যামোসা থেকে শুরু করে ডোসা পর্যন্ত, সমস্ত তাজা উপকরণ দিয়ে তৈরি আসল খাবারের একটি পরিসর সরবরাহ করে। উজ্জ্বল স্বাদ এবং বন্ধুত্বপূর্ণ পরিষেবা এটিকে একটি অবশ্যই-দেখা স্থান করে তোলে। বেশিরভাগ খাবারের দাম $5 থেকে $15 এর মধ্যে।",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Сан-Франциско 2026 — Топ ресторанов и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы Сан-Франциско. От бюджетной еды до изысканного ужина — с ссылками на бронирование.",
+      "page_intro": "Сан-Франциско — кулинарный рай, в котором смешиваются различные культуры и вкусы, создавая уникальную гастрономическую сцену. От шумных уличных торговцев до всемирно известных ресторанов, город предлагает богатое разнообразие кулинарных впечатлений. Независимо от того, хотите ли вы пообедать в ресторане с звездой Мишлен или быстро перекусить в местном фудтраке, в Сан-Франциско есть что-то, чтобы удовлетворить любой вкус.",
+      "items": [
+        {
+          "id": "tacko",
+          "name": "Тако",
+          "type": "restaurant",
+          "description": "Тако — это яркое заведение, специализирующееся на свежих, аппетитных тако и буррито. С расслабленной атмосферой и ярким декором это идеальное место, чтобы быстро перекусить. Не забудьте попробовать их знаменитые рыбные тако, которые являются местными фаворитами. Цены разумные, большинство блюд стоят от 10 до 20 долларов.",
+          "image_keyword": "Tacko San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fish Tacos",
+          "klook_query": "Tacko San Francisco booking"
+        },
+        {
+          "id": "la-taqueria",
+          "name": "Ла Такерия",
+          "type": "restaurant",
+          "description": "Краеугольный камень района Миссион, Ла Такерия предлагает аутентичную мексиканскую кухню с 1973 года. Их буррито легендарны, наполненные свежими ингредиентами и смелыми вкусами. Непритязательная обстановка добавляет шарма. Ожидайте заплатить около 10-15 долларов за сытный обед.",
+          "image_keyword": "La Taqueria San Francisco",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Super Burrito",
+          "klook_query": "La Taqueria San Francisco booking"
+        },
+        {
+          "id": "food-truck-park",
+          "name": "Офф зе Грид",
+          "type": "street_food",
+          "description": "Офф зе Грид — это уникальный рынок фудтраков, объединяющий разнообразие гурманских фудтраков в одном месте. Каждую неделю можно найти обновляемый выбор продавцов, предлагающих всё, от авторских бургеров до веганских деликатесов. Это отличное место, чтобы попробовать разнообразные вкусы в оживлённой обстановке на свежем воздухе. Цены варьируются, обычно около 10-15 долларов за блюдо.",
+          "image_keyword": "Off the Grid San Francisco",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet Burgers",
+          "klook_query": "Off the Grid San Francisco booking"
+        },
+        {
+          "id": "boudin-bakery",
+          "name": "Булочная Бодин",
+          "type": "local_specialty",
+          "description": "Булочная Бодин известна своим кислым хлебом, основным продуктом Сан-Франциско. Булочная предлагает уникальный опыт с экскурсиями по пекарне и восхитительным клэм-чаудером, подаваемым в хлебной тарелке из кислого теста. Тёплая, дружелюбная атмосфера делает её идеальным местом для быстрого обеда. Ожидайте потратить около 10-20 долларов.",
+          "image_keyword": "Boudin Bakery San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Clam Chowder in Sourdough",
+          "klook_query": "Boudin Bakery San Francisco booking"
+        },
+        {
+          "id": "the-salt-lick",
+          "name": "Солёный Лик",
+          "type": "restaurant",
+          "description": "Известный своим барбекю, Солёный Лик предлагает восхитительное разнообразие копчёного мяса и аппетитных гарниров. Деревенская обстановка и дружелюбный персонал создают приветливую атмосферу для ужина. Не пропустите их бриксеты, которые являются фаворитом публики. Цены обычно колеблются от 15 до 30 долларов с человека.",
+          "image_keyword": "The Salt Lick San Francisco",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brisket",
+          "klook_query": "The Salt Lick San Francisco booking"
+        },
+        {
+          "id": "shilin-night-market",
+          "name": "Ночной рынок Шилин",
+          "type": "night_market",
+          "description": "Ночной рынок Шилин — это оживлённый центр тайваньской уличной еды в Сан-Франциско. Попробуйте разнообразные закуски, от хрустящей жареной курицы до боба-чаев. Оживлённая атмосфера и яркие палатки делают его интересным местом для любителей еды. Цены доступные, большинство товаров стоят менее 10 долларов.",
+          "image_keyword": "Shilin Night Market San Francisco",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Fried Chicken",
+          "klook_query": "Shilin Night Market San Francisco booking"
+        },
+        {
+          "id": "mama-ji",
+          "name": "Мама Джи",
+          "type": "street_food",
+          "description": "Мама Джи предлагает вкусную индийскую уличную еду с изюминкой. Этот торговый киоск предлагает разнообразие аутентичных блюд, от самос до дос, все приготовленные из свежих ингредиентов. Яркие ароматы и дружелюбное обслуживание делают его обязательным для посещения. Большинство блюд стоит от 5 до 15 долларов.",
+          "image_keyword": "Mama Ji San Francisco",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Samosas",
+          "klook_query": "Mama Ji San Francisco booking"
+        }
+      ]
+    }
+  }
+}

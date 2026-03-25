@@ -1,0 +1,1097 @@
+{
+  "city_slug": "toronto",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Toronto 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Toronto. Find opening hours, ticket prices and booking links for Toronto's top landmarks.",
+      "page_intro": "Toronto, the largest city in Canada, is a vibrant metropolis that seamlessly blends the modern and the historical. Known for its diverse culture, stunning skyline, and rich arts scene, Toronto offers a variety of attractions that cater to every type of traveler. Whether you're exploring its iconic landmarks or enjoying its lush parks, there's something for everyone in this dynamic city.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "CN Tower",
+          "type": "landmark",
+          "description": "The CN Tower is one of Toronto's most iconic landmarks, standing at 553 meters. Visitors can take an elevator to the observation deck for breathtaking views of the city and Lake Ontario. For those seeking a thrill, don’t miss the EdgeWalk, a hands-free walk along the tower’s edge. Plan to spend about 1-2 hours here, especially if you want to enjoy the dining options available.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "Royal Ontario Museum",
+          "type": "museum",
+          "description": "The Royal Ontario Museum (ROM) is one of the largest museums in North America, showcasing art, culture, and nature from around the world. Its stunning architecture and diverse exhibits make it a must-visit for history buffs and art lovers alike. Allocate about 3-4 hours to explore the various galleries and special exhibitions thoroughly.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "Distillery District",
+          "type": "district",
+          "description": "The Distillery District is a historic area famous for its well-preserved Victorian industrial architecture. It's a hub for arts, culture, and entertainment, featuring boutiques, galleries, and restaurants. Stroll through the cobblestone streets and enjoy local crafts and delicious cuisine. This area is best visited in the late afternoon or evening when the atmosphere comes alive.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "Toronto Islands",
+          "type": "park",
+          "description": "The Toronto Islands offer a peaceful escape from the urban hustle, featuring beautiful parks, beaches, and stunning skyline views. A short ferry ride transports you to this tranquil oasis, ideal for picnics, cycling, or leisurely walks. Plan to spend a half-day enjoying the scenic beauty and recreational activities available.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "Art Gallery of Ontario",
+          "type": "museum",
+          "description": "The Art Gallery of Ontario (AGO) boasts an impressive collection of over 90,000 works, ranging from Canadian art to European masterpieces. The gallery's architecture, designed by Frank Gehry, is also a highlight. Visitors typically spend 2-3 hours exploring the exhibits and enjoying the café on-site. It's a cultural gem not to be missed!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "St. Lawrence Market",
+          "type": "market",
+          "description": "St. Lawrence Market is a food lover's paradise, featuring an array of vendors selling fresh produce, gourmet foods, and artisanal products. It's a great place to taste local specialties and enjoy the vibrant atmosphere. Plan for about 1-2 hours to sample delicious foods and shop for unique souvenirs. A morning visit is recommended to experience the market at its best.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "Bata Shoe Museum",
+          "type": "museum",
+          "description": "The Bata Shoe Museum is a unique attraction dedicated to the history and artistry of footwear. With over 13,000 shoes from various cultures and eras, it's a fascinating visit for everyone, whether you’re a fashion enthusiast or simply curious. Allocate about 1-2 hours to explore the exhibits and learn about the evolution of footwear.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年多倫多熱門景點 — 票務、建議與完整指南",
+      "seo_description": "探索多倫多最佳景點。查找多倫多頂級地標的開放時間、票價和預訂鏈接。",
+      "page_intro": "多倫多是加拿大最大的城市，是一個充滿活力的都市，完美地融合了現代與歷史。以其多元文化、壯觀的天際線和豐富的藝術場景而聞名，多倫多提供各種吸引每位旅客的景點。無論是探索其標誌性地標還是享受其郁郁蔥蔥的公園，這座充滿活力的城市都有適合每個人的東西。",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "加拿大國家電視塔",
+          "type": "landmark",
+          "description": "加拿大國家電視塔是多倫多最具標誌性的地標之一，高553米。遊客可以乘坐電梯到觀景台，欣賞城市和安大略湖的壯觀景色。對於尋求刺激的人，不要錯過EdgeWalk，這是一個無手行走在塔邊的活動。計劃在這裡停留約1-2小時，特別是如果您想享受可用的餐飲選擇。",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "安大略皇家博物館",
+          "type": "museum",
+          "description": "安大略皇家博物館（ROM）是北美最大的博物館之一，展示來自世界各地的藝術、文化和自然。其壯觀的建築和多樣的展品使其成為歷史愛好者和藝術愛好者必訪之地。分配約3-4小時來徹底探索各個畫廊和特別展覽。",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "酿酒厂区",
+          "type": "district",
+          "description": "酿酒厂区是一个以保存良好的维多利亚工业建筑而闻名的历史区域。它是艺术、文化和娱乐的中心，拥有精品店、画廊和餐馆。漫步在鹅卵石街道上，欣赏当地手工艺品和美味佳肴。这个地区最好在下午晚些时候或晚上访问，当时氛围最为活跃。",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "多倫多群島",
+          "type": "park",
+          "description": "多倫多群島提供了一個逃離城市喧囂的平靜避風港，擁有美麗的公園、海灘和壯觀的天際線視野。短暫的渡輪之旅將您帶到這個寧靜的綠洲，非常適合野餐、騎自行車或悠閒散步。計劃花半天時間享受這裡的風景和可用的休閒活動。",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "安大略藝術館",
+          "type": "museum",
+          "description": "安大略藝術館（AGO）擁有超過90,000件作品的令人印象深刻的收藏，涵蓋從加拿大藝術到歐洲大師作品。畫廊的建築由Frank Gehry設計，也是其一大亮點。遊客通常花2-3小時探索展覽並享用現場咖啡館。這是一個不容錯過的文化瑰寶！",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "聖勞倫斯市場",
+          "type": "market",
+          "description": "聖勞倫斯市場是美食愛好者的天堂，擁有各種供應商出售新鮮農產品、美食和手工藝品。這是一個品嚐當地特色和享受充滿活力的氛圍的好地方。計劃花約1-2小時品嚐美食並購買獨特的紀念品。建議早上訪問，以便最佳體驗市場。",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "巴塔鞋博物館",
+          "type": "museum",
+          "description": "巴塔鞋博物館是一個獨特的景點，專注於鞋類的歷史和藝術。有來自各種文化和時期的超過13,000雙鞋，無論您是時尚愛好者還是單純好奇，都會感到這裡非常有趣。分配約1-2小時來探索展覽，了解鞋類的演變。",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年トロントの人気観光スポット - チケット、ヒント、完全ガイド",
+      "seo_description": "トロントの最高の観光名所を探索しましょう。トロントの主要なランドマークの営業時間、チケット価格、予約リンクを見つけてください。",
+      "page_intro": "トロントはカナダ最大の都市で、現代と歴史が見事に融合した活気ある大都市です。多様な文化、壮大なスカイライン、豊かなアートシーンで知られるトロントは、あらゆる旅行者のニーズに応える多彩な観光スポットを提供しています。象徴的なランドマークを探索したり、緑豊かな公園を楽しんだり、このダイナミックな都市には誰にでも何かがあります。",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "CNタワー",
+          "type": "landmark",
+          "description": "CNタワーはトロントの最も象徴的なランドマークの一つで、高さは553メートルです。訪問者はエレベーターで展望デッキに上がり、街とオンタリオ湖の息を呑むような景色を楽しむことができます。スリルを求める人は、タワーの端を手ぶらで歩くEdgeWalkをお見逃しなく。特に食事の選択肢を楽しみたい場合は、ここで約1〜2時間を過ごすことを計画してください。",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "ロイヤル・オンタリオ博物館",
+          "type": "museum",
+          "description": "ロイヤル・オンタリオ博物館（ROM）は北米最大の博物館の一つで、世界中の芸術、文化、自然を展示しています。その美しい建築と多様な展示は、歴史愛好者やアート愛好者にとって必見です。さまざまなギャラリーや特別展を徹底的に探索するために、約3〜4時間を確保してください。",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "ディスティラリー地区",
+          "type": "district",
+          "description": "ディスティラリー地区は、保存状態の良いビクトリア朝の産業建築で有名な歴史的なエリアです。アート、文化、エンターテイメントの中心地であり、ブティック、ギャラリー、レストランがあります。石畳の通りを散策し、地元の工芸品や美味しい料理を楽しんでください。このエリアは、雰囲気が活気づく午後遅くまたは夜に訪れるのが最適です。",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "トロント島",
+          "type": "park",
+          "description": "トロント島は都市の喧騒から逃れる静かな避難所を提供し、美しい公園、ビーチ、壮大なスカイラインの景色を楽しめます。短いフェリーの旅で、この静かなオアシスに移動し、ピクニック、自転車、またはのんびりした散歩に最適です。風光明媚な美しさやレクリエーション活動を楽しむために、半日を過ごすことを計画してください。",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "オンタリオ美術館",
+          "type": "museum",
+          "description": "オンタリオ美術館（AGO）は、カナダのアートからヨーロッパの名作まで、90,000点以上の印象的なコレクションを誇ります。フランク・ゲーリーが設計した美術館の建築も見どころです。訪問者は通常、展示を探索し、現地のカフェを楽しむために2〜3時間を費やします。見逃せない文化的な宝物です！",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "セントローレンスマーケット",
+          "type": "market",
+          "description": "セントローレンスマーケットは、フレッシュな農産物、グルメ食品、アーティザン製品を販売するベンダーが集まる食の愛好者の楽園です。地元の特産品を味わい、活気ある雰囲気を楽しむための素晴らしい場所です。美味しい食べ物を試したり、ユニークなお土産を購入するために、約1〜2時間を予定してください。市場を最高に体験するために、朝の訪問をお勧めします。",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "バタ靴博物館",
+          "type": "museum",
+          "description": "バタ靴博物館は、靴の歴史と芸術に特化したユニークな観光名所です。さまざまな文化や時代からの13,000足以上の靴が展示されており、ファッション愛好者でも好奇心旺盛な人でも、興味深い訪問となるでしょう。展示を探索し、靴の進化について学ぶために、約1〜2時間を確保してください。",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 토론토의 인기 명소 - 티켓, 팁 및 완벽 가이드",
+      "seo_description": "토론토 최고의 명소를 탐험하세요. 토론토의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
+      "page_intro": "토론토는 캐나다에서 가장 큰 도시로, 현대와 역사가 완벽하게 조화를 이루는 활기찬 대도시입니다. 다양한 문화, 멋진 스카이라인, 풍부한 예술 장면으로 알려진 토론토는 모든 여행자의 요구를 충족시키는 다양한 관광 명소를 제공합니다. 상징적인 랜드마크를 탐험하거나 푸르른 공원을 즐기든 이 다이나믹한 도시에는 누구나 즐길 수 있는 것이 있습니다.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "CN 타워",
+          "type": "landmark",
+          "description": "CN 타워는 553미터 높이로 토론토에서 가장 상징적인 랜드마크 중 하나입니다. 방문객들은 엘리베이터를 타고 전망대에 올라가 도시와 온타리오 호수의 숨막히는 경치를 감상할 수 있습니다. 스릴을 원하는 분들은 타워의 가장자리를 손을 사용하지 않고 걷는 EdgeWalk를 놓치지 마세요. 식사 옵션을 즐기고 싶다면 여기에서 약 1-2시간을 보낼 계획을 세우세요.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "로열 온타리오 박물관",
+          "type": "museum",
+          "description": "로열 온타리오 박물관(ROM)은 북미에서 가장 큰 박물관 중 하나로, 세계의 예술, 문화 및 자연을 전시합니다. 그 아름다운 건축물과 다양한 전시물은 역사 애호가와 예술 애호가 모두에게 필수 방문지입니다. 다양한 갤러리와 특별 전시를 철저히 탐험하는 데 약 3-4시간을 확보하세요.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "디스틸러리 지구",
+          "type": "district",
+          "description": "디스틸러리 지구는 잘 보존된 빅토리아 시대 산업 건축으로 유명한 역사적 지역입니다. 예술, 문화, 오락의 중심지로, 부티크, 갤러리 및 레스토랑이 있습니다. 자갈길을 따라 산책하며 지역 공예품과 맛있는 요리를 즐겨보세요. 이 지역은 오후 늦거나 저녁에 방문하는 것이 가장 좋습니다. 분위기가 살아납니다.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "토론토 섬",
+          "type": "park",
+          "description": "토론토 섬은 도시의 혼잡함에서 벗어나 평화로운 휴식을 제공합니다. 아름다운 공원, 해변 및 멋진 스카이라인 전망이 있습니다. 짧은 페리 여행으로 이 조용한 오아시스로 이동하며, 피크닉, 자전거 타기 또는 느긋한 산책에 적합합니다. 경치 좋은 아름다움과 레크리에이션 활동을 즐기기 위해 반나절을 계획하세요.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "온타리오 미술관",
+          "type": "museum",
+          "description": "온타리오 미술관(AGO)은 캐나다 예술에서 유럽의 걸작에 이르기까지 90,000점 이상의 인상적인 컬렉션을 자랑합니다. 프랭크 게리(Frank Gehry) 디자인의 미술관 건축 또한 주목할 만한 점입니다. 방문객들은 일반적으로 전시를 탐험하고 현지 카페를 즐기기 위해 2-3시간을 소비합니다. 놓쳐서는 안 될 문화적 보물입니다!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "세인트 로렌스 마켓",
+          "type": "market",
+          "description": "세인트 로렌스 마켓은 신선한 농산물, 미식가 음식 및 장인 제품을 판매하는 다양한 공급업체가 있는 미식가의 천국입니다. 지역 특산품을 맛보고 생동감 넘치는 분위기를 즐기기에 좋은 장소입니다. 맛있는 음식을 맛보고 독특한 기념품을 쇼핑하기 위해 약 1-2시간을 계획하세요. 시장을 최고의 상태로 경험하기 위해 아침 방문을 권장합니다.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "바타 신발 박물관",
+          "type": "museum",
+          "description": "바타 신발 박물관은 신발의 역사와 예술에 전념한 독특한 명소입니다. 다양한 문화와 시대의 13,000개가 넘는 신발이 전시되어 있어, 패션 애호가이든 단순히 호기심이 있든 모두에게 흥미로운 방문이 될 것입니다. 전시를 탐험하고 신발의 진화를 배우는 데 약 1-2시간을 배정하세요.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Attractions incontournables à Toronto 2026 — Billets, conseils et guide complet",
+      "seo_description": "Découvrez les meilleures attractions de Toronto. Trouvez les heures d'ouverture, les prix des billets et les liens de réservation pour les principaux sites de Toronto.",
+      "page_intro": "Toronto, la plus grande ville du Canada, est une métropole vibrante qui mêle harmonieusement modernité et histoire. Connue pour sa culture diversifiée, sa magnifique ligne d'horizon et sa riche scène artistique, Toronto offre une variété d'attractions qui répondent à tous les types de voyageurs. Que vous exploriez ses monuments emblématiques ou que vous profitiez de ses parcs luxuriants, il y en a pour tous les goûts dans cette ville dynamique.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "Tour CN",
+          "type": "landmark",
+          "description": "La Tour CN est l'un des monuments les plus emblématiques de Toronto, culminant à 553 mètres. Les visiteurs peuvent prendre un ascenseur jusqu'à la plateforme d'observation pour admirer des vues imprenables sur la ville et le lac Ontario. Pour ceux qui recherchent des sensations fortes, ne manquez pas l'EdgeWalk, une promenade sans mains le long du bord de la tour. Prévoyez environ 1 à 2 heures ici, surtout si vous souhaitez profiter des options de restauration disponibles.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "Musée royal de l'Ontario",
+          "type": "museum",
+          "description": "Le Musée royal de l'Ontario (ROM) est l'un des plus grands musées d'Amérique du Nord, présentant l'art, la culture et la nature du monde entier. Son architecture impressionnante et ses expositions variées en font une visite incontournable pour les passionnés d'histoire et d'art. Prévoyez environ 3 à 4 heures pour explorer en profondeur les différentes galeries et expositions spéciales.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "Quartier de la distillerie",
+          "type": "district",
+          "description": "Le Quartier de la distillerie est une zone historique célèbre pour son architecture industrielle victorienne bien préservée. C'est un centre d'art, de culture et de divertissement, avec des boutiques, des galeries et des restaurants. Flânez dans les rues pavées et profitez des artisanats locaux et de la cuisine délicieuse. Ce quartier est mieux visité en fin d'après-midi ou en soirée, lorsque l'atmosphère s'anime.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "Îles de Toronto",
+          "type": "park",
+          "description": "Les Îles de Toronto offrent une échappatoire paisible à l'agitation urbaine, avec de beaux parcs, des plages et des vues imprenables sur la ligne d'horizon. Une courte traversée en ferry vous transporte vers cette oasis tranquille, idéale pour des pique-niques, du vélo ou des promenades tranquilles. Prévoyez de passer une demi-journée à profiter de la beauté pittoresque et des activités récréatives disponibles.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "Galerie d'art de l'Ontario",
+          "type": "museum",
+          "description": "La Galerie d'art de l'Ontario (AGO) possède une impressionnante collection de plus de 90 000 œuvres, allant de l'art canadien aux chefs-d'œuvre européens. L'architecture de la galerie, conçue par Frank Gehry, est également un point fort. Les visiteurs passent généralement 2 à 3 heures à explorer les expositions et à profiter du café sur place. C'est un joyau culturel à ne pas manquer !",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "Marché St. Lawrence",
+          "type": "market",
+          "description": "Le Marché St. Lawrence est un paradis pour les amateurs de gastronomie, avec une variété de vendeurs proposant des produits frais, des aliments gastronomiques et des produits artisanaux. C'est un excellent endroit pour déguster des spécialités locales et profiter de l'atmosphère animée. Prévoyez environ 1 à 2 heures pour goûter à de délicieux plats et acheter des souvenirs uniques. Une visite matinale est recommandée pour vivre le marché à son meilleur.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "Musée Bata du Chaussure",
+          "type": "museum",
+          "description": "Le Musée Bata du Chaussure est une attraction unique dédiée à l'histoire et à l'art de la chaussure. Avec plus de 13 000 chaussures provenant de diverses cultures et époques, c'est une visite fascinante pour tout le monde, que vous soyez passionné de mode ou simplement curieux. Prévoyez environ 1 à 2 heures pour explorer les expositions et en apprendre davantage sur l'évolution de la chaussure.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en Toronto 2026 — Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones de Toronto. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Toronto.",
+      "page_intro": "Toronto, la ciudad más grande de Canadá, es una metrópoli vibrante que combina a la perfección lo moderno y lo histórico. Conocida por su cultura diversa, su impresionante horizonte y su rica escena artística, Toronto ofrece una variedad de atracciones que satisfacen a todo tipo de viajero. Ya sea que estés explorando sus monumentos icónicos o disfrutando de sus exuberantes parques, hay algo para todos en esta dinámica ciudad.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "Torre CN",
+          "type": "landmark",
+          "description": "La Torre CN es uno de los monumentos más icónicos de Toronto, con una altura de 553 metros. Los visitantes pueden tomar un ascensor hasta la plataforma de observación para disfrutar de impresionantes vistas de la ciudad y del lago Ontario. Para aquellos que buscan emociones, no se pierdan el EdgeWalk, una caminata sin manos a lo largo del borde de la torre. Planea pasar alrededor de 1-2 horas aquí, especialmente si deseas disfrutar de las opciones gastronómicas disponibles.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "Museo Real de Ontario",
+          "type": "museum",
+          "description": "El Museo Real de Ontario (ROM) es uno de los museos más grandes de América del Norte, que exhibe arte, cultura y naturaleza de todo el mundo. Su impresionante arquitectura y sus diversas exposiciones lo convierten en una visita obligada para los amantes de la historia y el arte. Reserva alrededor de 3-4 horas para explorar a fondo las diversas galerías y exposiciones especiales.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "Distrito de la Destilería",
+          "type": "district",
+          "description": "El Distrito de la Destilería es una zona histórica famosa por su arquitectura industrial victoriana bien conservada. Es un centro de arte, cultura y entretenimiento, con boutiques, galerías y restaurantes. Pasea por las calles empedradas y disfruta de artesanías locales y deliciosa cocina. Esta área es mejor visitarla a última hora de la tarde o por la noche, cuando la atmósfera cobra vida.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "Islas de Toronto",
+          "type": "park",
+          "description": "Las Islas de Toronto ofrecen una escapada pacífica del bullicio urbano, con hermosos parques, playas y vistas impresionantes del horizonte. Un corto viaje en ferry te transporta a este oasis tranquilo, ideal para picnics, ciclismo o paseos tranquilos. Planea pasar medio día disfrutando de la belleza escénica y las actividades recreativas disponibles.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "Galería de Arte de Ontario",
+          "type": "museum",
+          "description": "La Galería de Arte de Ontario (AGO) cuenta con una impresionante colección de más de 90,000 obras, que van desde arte canadiense hasta obras maestras europeas. La arquitectura de la galería, diseñada por Frank Gehry, también es un punto destacado. Los visitantes generalmente pasan de 2 a 3 horas explorando las exposiciones y disfrutando del café en el lugar. ¡Es una joya cultural que no te puedes perder!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "Mercado de San Lorenzo",
+          "type": "market",
+          "description": "El Mercado de San Lorenzo es un paraíso para los amantes de la comida, con una variedad de vendedores que ofrecen productos frescos, alimentos gourmet y productos artesanales. Es un excelente lugar para degustar especialidades locales y disfrutar de la vibrante atmósfera. Planea dedicar alrededor de 1-2 horas para probar deliciosos alimentos y comprar souvenirs únicos. Se recomienda una visita por la mañana para experimentar el mercado en su mejor momento.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "Museo Bata del Calzado",
+          "type": "museum",
+          "description": "El Museo Bata del Calzado es una atracción única dedicada a la historia y el arte del calzado. Con más de 13,000 zapatos de diversas culturas y épocas, es una visita fascinante para todos, ya seas un entusiasta de la moda o simplemente curioso. Reserva alrededor de 1-2 horas para explorar las exposiciones y aprender sobre la evolución del calzado.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Atraksi Teratas di Toronto 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_description": "Jelajahi atraksi terbaik di Toronto. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama di Toronto.",
+      "page_intro": "Toronto, kota terbesar di Kanada, adalah metropolis yang hidup yang dengan lancar menggabungkan modern dan sejarah. Dikenal karena budayanya yang beragam, garis langit yang menakjubkan, dan scene seni yang kaya, Toronto menawarkan berbagai atraksi yang memenuhi setiap jenis pelancong. Apakah Anda menjelajahi landmark ikoniknya atau menikmati taman yang rimbun, ada sesuatu untuk semua orang di kota dinamis ini.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "Menara CN",
+          "type": "landmark",
+          "description": "Menara CN adalah salah satu landmark paling ikonik di Toronto, berdiri setinggi 553 meter. Pengunjung dapat naik lift ke dek observasi untuk melihat pemandangan kota dan Danau Ontario yang menakjubkan. Bagi mereka yang mencari sensasi, jangan lewatkan EdgeWalk, jalan tanpa tangan di sepanjang tepi menara. Rencanakan untuk menghabiskan waktu sekitar 1-2 jam di sini, terutama jika Anda ingin menikmati pilihan bersantap yang tersedia.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "Museum Kerajaan Ontario",
+          "type": "museum",
+          "description": "Museum Kerajaan Ontario (ROM) adalah salah satu museum terbesar di Amerika Utara, menampilkan seni, budaya, dan alam dari seluruh dunia. Arsitekturnya yang menakjubkan dan pameran yang beragam menjadikannya tempat yang wajib dikunjungi bagi para penggemar sejarah dan seni. Alokasikan sekitar 3-4 jam untuk menjelajahi berbagai galeri dan pameran khusus secara menyeluruh.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "Distrik Penyulingan",
+          "type": "district",
+          "description": "Distrik Penyulingan adalah area bersejarah yang terkenal dengan arsitektur industri Victoria yang terpelihara dengan baik. Ini adalah pusat seni, budaya, dan hiburan, dengan butik, galeri, dan restoran. Berjalan-jalan di jalan berbatu dan nikmati kerajinan lokal serta masakan yang lezat. Area ini paling baik dikunjungi di sore hari atau malam hari ketika suasana menjadi hidup.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "Kepulauan Toronto",
+          "type": "park",
+          "description": "Kepulauan Toronto menawarkan pelarian yang damai dari kesibukan kota, dengan taman yang indah, pantai, dan pemandangan garis langit yang menakjubkan. Sebuah perjalanan feri singkat membawa Anda ke oasis tenang ini, ideal untuk piknik, bersepeda, atau berjalan santai. Rencanakan untuk menghabiskan setengah hari menikmati keindahan pemandangan dan aktivitas rekreasi yang tersedia.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "Galeri Seni Ontario",
+          "type": "museum",
+          "description": "Galeri Seni Ontario (AGO) memiliki koleksi mengesankan lebih dari 90.000 karya, mulai dari seni Kanada hingga mahakarya Eropa. Arsitektur galeri, yang dirancang oleh Frank Gehry, juga menjadi sorotan. Pengunjung biasanya menghabiskan 2-3 jam menjelajahi pameran dan menikmati kafe di tempat. Ini adalah permata budaya yang tidak boleh dilewatkan!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "Pasar St. Lawrence",
+          "type": "market",
+          "description": "Pasar St. Lawrence adalah surga bagi pecinta makanan, dengan berbagai vendor yang menjual produk segar, makanan gourmet, dan produk kerajinan. Ini adalah tempat yang bagus untuk mencicipi makanan khas lokal dan menikmati suasana yang hidup. Rencanakan untuk menghabiskan waktu sekitar 1-2 jam untuk mencicipi makanan lezat dan berbelanja oleh-oleh unik. Kunjungan pagi sangat dianjurkan untuk merasakan pasar di waktu terbaik.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "Museum Sepatu Bata",
+          "type": "museum",
+          "description": "Museum Sepatu Bata adalah atraksi unik yang didedikasikan untuk sejarah dan seni sepatu. Dengan lebih dari 13.000 pasang sepatu dari berbagai budaya dan era, ini adalah kunjungan yang menarik bagi siapa saja, baik Anda seorang penggemar mode atau sekadar penasaran. Alokasikan sekitar 1-2 jam untuk menjelajahi pameran dan mempelajari tentang evolusi sepatu.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "टोरंटो के शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण गाइड",
+      "seo_description": "टोरंटो के सबसे अच्छे आकर्षणों का अन्वेषण करें। टोरंटो के शीर्ष स्थलों के लिए उद्घाटन समय, टिकट मूल्य और बुकिंग लिंक खोजें।",
+      "page_intro": "टोरंटो, कनाडा का सबसे बड़ा शहर, एक जीवंत महानगर है जो आधुनिक और ऐतिहासिक को सहजता से जोड़ता है। इसके विविध संस्कृति, शानदार आकाश रेखा और समृद्ध कला दृश्य के लिए जाना जाता है, टोरंटो विभिन्न प्रकार के आकर्षण प्रदान करता है जो हर प्रकार के यात्री के लिए उपयुक्त हैं। चाहे आप इसके प्रतिष्ठित स्थलों का अन्वेषण कर रहे हों या इसके हरे-भरे पार्कों का आनंद ले रहे हों, इस गतिशील शहर में हर किसी के लिए कुछ न कुछ है।",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "सीएन टॉवर",
+          "type": "landmark",
+          "description": "सीएन टॉवर टोरंटो के सबसे प्रतिष्ठित स्थलों में से एक है, जिसकी ऊंचाई 553 मीटर है। आगंतुक अवलोकन डेक तक लिफ्ट ले सकते हैं, जहाँ से शहर और ओंटेरियो झील के शानदार दृश्य दिखाई देते हैं। जो लोग रोमांच की तलाश में हैं, वे टॉवर के किनारे पर हाथ-मुक्त चलने का अनुभव न चूकें। यहाँ पर 1-2 घंटे बिताने की योजना बनाएं, खासकर यदि आप उपलब्ध भोजन विकल्पों का आनंद लेना चाहते हैं।",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "रॉयल ओंटारियो संग्रहालय",
+          "type": "museum",
+          "description": "रॉयल ओंटारियो संग्रहालय (आरओएम) उत्तरी अमेरिका के सबसे बड़े संग्रहालयों में से एक है, जो दुनिया भर की कला, संस्कृति और प्रकृति को प्रदर्शित करता है। इसकी शानदार वास्तुकला और विविध प्रदर्शनियों के कारण यह इतिहास प्रेमियों और कला प्रेमियों के लिए एक अनिवार्य स्थल है। विभिन्न दीर्घाओं और विशेष प्रदर्शनों का गहराई से अन्वेषण करने के लिए लगभग 3-4 घंटे आवंटित करें।",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "डिस्टिलरी जिला",
+          "type": "district",
+          "description": "डिस्टिलरी जिला एक ऐतिहासिक क्षेत्र है जो इसके अच्छे से संरक्षित विक्टोरियन औद्योगिक वास्तुकला के लिए प्रसिद्ध है। यह कला, संस्कृति और मनोरंजन का केंद्र है, जिसमें बुटीक, गैलरी और रेस्तरां शामिल हैं। कंक्रीट की सड़कों पर चलें और स्थानीय शिल्प और स्वादिष्ट भोजन का आनंद लें। यह क्षेत्र देर दोपहर या शाम को सबसे अच्छा होता है जब वातावरण जीवंत हो जाता है।",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "टोरंटो द्वीप",
+          "type": "park",
+          "description": "टोरंटो द्वीप शहरी हलचल से एक शांतिपूर्ण पलायन प्रदान करते हैं, जहाँ सुंदर पार्क, समुद्र तट और शानदार आकाश रेखा के दृश्य हैं। एक छोटी फेरी की सवारी आपको इस शांतिपूर्ण ओएसिस में ले जाती है, जो पिकनिक, साइक्लिंग, या आरामदायक चलने के लिए आदर्श है। दृश्य सौंदर्य और उपलब्ध मनोरंजक गतिविधियों का आनंद लेने के लिए आधे दिन की योजना बनाएं।",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "ओंटारियो कला गैलरी",
+          "type": "museum",
+          "description": "ओंटारियो कला गैलरी (एजीओ) 90,000 से अधिक कलाकृतियों का प्रभावशाली संग्रह प्रस्तुत करती है, जिसमें कनाडाई कला से लेकर यूरोपीय मास्टरपीस शामिल हैं। गैलरी की वास्तुकला, जिसे फ्रैंक गेहरी ने डिजाइन किया है, भी एक आकर्षण है। आगंतुक आमतौर पर प्रदर्शनियों का अन्वेषण करने और साइट पर कैफे का आनंद लेने के लिए 2-3 घंटे बिताते हैं। यह एक सांस्कृतिक रत्न है जिसे मिस नहीं किया जाना चाहिए!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "सेंट लॉरेंस मार्केट",
+          "type": "market",
+          "description": "सेंट लॉरेंस मार्केट खाद्य प्रेमियों का स्वर्ग है, जिसमें ताजे उत्पाद, उच्च गुणवत्ता वाले खाद्य पदार्थ और कारीगर उत्पाद बेचने वाले विक्रेताओं की एक श्रृंखला है। यह स्थानीय विशेषताओं का स्वाद लेने और जीवंत वातावरण का आनंद लेने के लिए एक बेहतरीन स्थान है। स्वादिष्ट खाद्य पदार्थों का नमूना लेने और अद्वितीय उपहारों के लिए खरीदारी करने के लिए लगभग 1-2 घंटे की योजना बनाएं। सुबह की यात्रा करने की सिफारिश की जाती है ताकि आप बाजार का सर्वश्रेष्ठ अनुभव कर सकें।",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "बेटा जूता संग्रहालय",
+          "type": "museum",
+          "description": "बेटा जूता संग्रहालय एक अनोखी आकर्षण है जो फुटवियर के इतिहास और कला को समर्पित है। विभिन्न संस्कृतियों और युगों के 13,000 से अधिक जूतों के साथ, यह हर किसी के लिए एक आकर्षक दौरा है, चाहे आप फैशन प्रेमी हों या बस जिज्ञासु। प्रदर्शनों का अन्वेषण करने और फुटवियर के विकास के बारे में जानने के लिए लगभग 1-2 घंटे आवंटित करें।",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Toronto 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Toronto. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Toronto.",
+      "page_intro": "Toronto, a maior cidade do Canadá, é uma metrópole vibrante que combina perfeitamente o moderno e o histórico. Conhecida por sua cultura diversificada, deslumbrante linha do horizonte e rica cena artística, Toronto oferece uma variedade de atrações que atendem a todos os tipos de viajantes. Se você está explorando seus marcos icônicos ou desfrutando de seus parques exuberantes, há algo para todos nesta cidade dinâmica.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "Torre CN",
+          "type": "landmark",
+          "description": "A Torre CN é um dos marcos mais icônicos de Toronto, com 553 metros de altura. Os visitantes podem pegar um elevador até o mirante para vistas deslumbrantes da cidade e do Lago Ontário. Para aqueles que buscam emoção, não perca o EdgeWalk, uma caminhada sem mãos ao longo da borda da torre. Planeje passar cerca de 1-2 horas aqui, especialmente se você quiser aproveitar as opções de refeições disponíveis.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "Museu Real de Ontário",
+          "type": "museum",
+          "description": "O Museu Real de Ontário (ROM) é um dos maiores museus da América do Norte, exibindo arte, cultura e natureza de todo o mundo. Sua arquitetura impressionante e exposições diversificadas fazem dele um local imperdível para os amantes da história e da arte. Reserve cerca de 3-4 horas para explorar as várias galerias e exposições especiais.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "Distrito da Destilaria",
+          "type": "district",
+          "description": "O Distrito da Destilaria é uma área histórica famosa por sua arquitetura industrial vitoriana bem preservada. É um centro de artes, cultura e entretenimento, com boutiques, galerias e restaurantes. Passeie pelas ruas de paralelepípedos e aproveite os artesanatos locais e a deliciosa culinária. Esta área é melhor visitada no final da tarde ou à noite, quando a atmosfera ganha vida.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "Ilhas de Toronto",
+          "type": "park",
+          "description": "As Ilhas de Toronto oferecem uma fuga pacífica do agito urbano, apresentando parques lindos, praias e vistas deslumbrantes da linha do horizonte. Uma curta travessia de balsa o transporta para este oásis tranquilo, ideal para piqueniques, ciclismo ou caminhadas relaxantes. Planeje passar meia-dia desfrutando da beleza cênica e das atividades recreativas disponíveis.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "Galeria de Arte de Ontário",
+          "type": "museum",
+          "description": "A Galeria de Arte de Ontário (AGO) possui uma impressionante coleção de mais de 90.000 obras, que vão desde arte canadense até mestres europeus. A arquitetura da galeria, projetada por Frank Gehry, também é um destaque. Os visitantes normalmente passam de 2 a 3 horas explorando as exposições e aproveitando o café no local. É uma joia cultural que não deve ser perdida!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "Mercado de St. Lawrence",
+          "type": "market",
+          "description": "O Mercado de St. Lawrence é um paraíso para os amantes da gastronomia, apresentando uma variedade de vendedores que vendem produtos frescos, alimentos gourmet e produtos artesanais. É um ótimo lugar para provar especialidades locais e desfrutar da atmosfera vibrante. Planeje cerca de 1-2 horas para degustar comidas deliciosas e fazer compras por lembranças únicas. Uma visita pela manhã é recomendada para experimentar o mercado em seu melhor.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "Museu do Calçado Bata",
+          "type": "museum",
+          "description": "O Museu do Calçado Bata é uma atração única dedicada à história e à arte do calçado. Com mais de 13.000 pares de sapatos de várias culturas e épocas, é uma visita fascinante para todos, seja você um entusiasta da moda ou apenas curioso. Reserve cerca de 1-2 horas para explorar as exposições e aprender sobre a evolução do calçado.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في تورنتو 2026 — التذاكر، النصائح والدليل الشامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في تورنتو. اعثر على ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في تورنتو.",
+      "page_intro": "تورنتو، أكبر مدينة في كندا، هي مدينة نابضة بالحياة تجمع بسلاسة بين الحديث والتاريخي. معروفة بثقافتها المتنوعة، وأفقها المذهل، ومشهدها الفني الغني، تقدم تورنتو مجموعة متنوعة من المعالم السياحية التي تلبي احتياجات جميع أنواع المسافرين. سواء كنت تستكشف معالمها الشهيرة أو تستمتع بحدائقها الجميلة، هناك شيء للجميع في هذه المدينة الديناميكية.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "برج CN",
+          "type": "landmark",
+          "description": "يعد برج CN واحدًا من المعالم الأكثر شهرة في تورنتو، حيث يبلغ ارتفاعه 553 مترًا. يمكن للزوار استخدام المصعد للوصول إلى منصة المراقبة للاستمتاع بإطلالات رائعة على المدينة وبحيرة أونتاريو. لمحبي الإثارة، لا تفوتوا تجربة EdgeWalk، وهي مشي بدون استخدام اليدين على طول حافة البرج. خطط لقضاء حوالي 1-2 ساعة هنا، خاصة إذا كنت ترغب في الاستمتاع بخيارات الطعام المتاحة.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "المتحف الملكي في أونتاريو",
+          "type": "museum",
+          "description": "يعد المتحف الملكي في أونتاريو (ROM) واحدًا من أكبر المتاحف في أمريكا الشمالية، حيث يعرض الفن والثقافة والطبيعة من جميع أنحاء العالم. تجعل العمارة الرائعة والمعارض المتنوعة منه وجهة لا بد من زيارتها لعشاق التاريخ والفن على حد سواء. خصص حوالي 3-4 ساعات لاستكشاف المعارض المختلفة والمعارض الخاصة.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "منطقة المقطرات",
+          "type": "district",
+          "description": "تعد منطقة المقطرات منطقة تاريخية مشهورة بمعمارها الصناعي الفيكتوري المحفوظ جيدًا. إنها مركز للفنون والثقافة والترفيه، وتضم بوتيكات ومعارض ومطاعم. تجول في الشوارع المرصوفة بالحصى واستمتع بالحرف المحلية والمأكولات اللذيذة. من الأفضل زيارة هذه المنطقة في وقت متأخر بعد الظهر أو في المساء عندما تنبض الحياة في الأجواء.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "جزر تورنتو",
+          "type": "park",
+          "description": "تقدم جزر تورنتو ملاذًا هادئًا من صخب المدينة، حيث تضم حدائق جميلة وشواطئ وإطلالات مذهلة على أفق المدينة. تنقلك رحلة قصيرة بالعبارة إلى هذا الواحة الهادئة، المثالية للنزهات وركوب الدراجات أو التنزه. خطط لقضاء نصف يوم في الاستمتاع بالجمال الطبيعي والأنشطة الترفيهية المتاحة.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "معرض الفن في أونتاريو",
+          "type": "museum",
+          "description": "يضم معرض الفن في أونتاريو (AGO) مجموعة مثيرة للإعجاب تضم أكثر من 90,000 عمل، تتراوح بين الفن الكندي إلى التحف الأوروبية. كما أن عمارة المعرض، التي صممها فرانك غيري، تعد من المعالم البارزة. عادة ما يقضي الزوار من 2 إلى 3 ساعات في استكشاف المعارض والاستمتاع بالمقهى في الموقع. إنها جوهرة ثقافية لا ينبغي تفويتها!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "سوق سانت لورانس",
+          "type": "market",
+          "description": "يعد سوق سانت لورانس جنة لعشاق الطعام، حيث يضم مجموعة من البائعين الذين يبيعون المنتجات الطازجة والأطعمة الفاخرة والمنتجات الحرفية. إنه مكان رائع لتذوق الأطباق المحلية والاستمتاع بالأجواء الحيوية. خطط لقضاء حوالي 1-2 ساعة لتذوق الأطعمة اللذيذة والتسوق للحصول على تذكارات فريدة. يُوصى بزيارة الصباح لتجربة السوق في أفضل حالاته.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "متحف أحذية باتا",
+          "type": "museum",
+          "description": "يعد متحف أحذية باتا معلمًا فريدًا مخصصًا لتاريخ وفن الأحذية. مع أكثر من 13,000 حذاء من ثقافات وعصور مختلفة، إنها زيارة رائعة للجميع، سواء كنت مهتمًا بالموضة أو مجرد فضولياً. خصص حوالي 1-2 ساعة لاستكشاف المعارض والتعرف على تطور الأحذية.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "টরন্টোর শীর্ষ আকর্ষণ 2026 — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "টরন্টোর সেরা আকর্ষণগুলি অন্বেষণ করুন। টরন্টোর শীর্ষ স্থানগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিংক খুঁজুন।",
+      "page_intro": "টরন্টো, কানাডার বৃহত্তম শহর, একটি প্রাণবন্ত মহানগর যা আধুনিক এবং ঐতিহাসিককে সঠিকভাবে মিশ্রিত করে। এর বৈচিত্র্যময় সংস্কৃতি, চমৎকার স্কাইলাইন এবং সমৃদ্ধ শিল্প দৃশ্যের জন্য পরিচিত, টরন্টো বিভিন্ন ধরনের আকর্ষণ সরবরাহ করে যা প্রতিটি ধরনের ভ্রমণকারীর জন্য উপযুক্ত। আপনি এর আইকনিক স্থাপনাগুলি অন্বেষণ করছেন বা এর সবুজ পার্কগুলি উপভোগ করছেন, এই গতিশীল শহরে সবার জন্য কিছু না কিছু আছে।",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "সিএন টাওয়ার",
+          "type": "landmark",
+          "description": "সিএন টাওয়ার টরন্টোর সবচেয়ে আইকনিক স্থানগুলির মধ্যে একটি, যার উচ্চতা 553 মিটার। দর্শকরা শহর এবং অন্টারিও লেকের মনোমুগ্ধকর দৃশ্যের জন্য পর্যবেক্ষণ ডেকে যাওয়ার জন্য একটি লিফট নিতে পারেন। যারা রোমাঞ্চ খুঁজছেন, তারা টাওয়ারের প্রান্ত বরাবর হাত-মুক্ত হাঁটার অভিজ্ঞতা মিস করবেন না। এখানে 1-2 ঘণ্টা কাটানোর পরিকল্পনা করুন, বিশেষত যদি আপনি উপলব্ধ খাবারের বিকল্পগুলি উপভোগ করতে চান।",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "রয়্যাল অন্টারিও যাদুঘর",
+          "type": "museum",
+          "description": "রয়্যাল অন্টারিও যাদুঘর (আরওএম) উত্তর আমেরিকার সবচেয়ে বড় যাদুঘরগুলির মধ্যে একটি, যা বিশ্বজুড়ে শিল্প, সংস্কৃতি এবং প্রকৃতি প্রদর্শন করে। এর চমকপ্রদ স্থাপত্য এবং বৈচিত্র্যময় প্রদর্শনীগুলি ইতিহাস প্রেমী এবং শিল্প প্রেমীদের জন্য একটি অপরিহার্য স্থান করে তোলে। বিভিন্ন গ্যালারি এবং বিশেষ প্রদর্শনীগুলি সম্পূর্ণরূপে অন্বেষণ করতে প্রায় 3-4 ঘণ্টা বরাদ্দ করুন।",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "ডিস্টিলারি জেলা",
+          "type": "district",
+          "description": "ডিস্টিলারি জেলা একটি ঐতিহাসিক এলাকা যা এর ভালোভাবে সংরক্ষিত ভিক্টোরিয়ান শিল্প স্থাপত্যের জন্য বিখ্যাত। এটি শিল্প, সংস্কৃতি এবং বিনোদনের একটি কেন্দ্র, যাতে বুটিক, গ্যালারি এবং রেস্টুরেন্ট রয়েছে। পাথরের রাস্তা ধরে হাঁটুন এবং স্থানীয় কারিগরি এবং সুস্বাদু খাবারের স্বাদ নিন। এই এলাকাটি দেরী বিকেল বা সন্ধ্যায় দর্শন করা সবচেয়ে ভালো যখন পরিবেশ প্রাণবন্ত হয়ে ওঠে।",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "টরন্টো দ্বীপ",
+          "type": "park",
+          "description": "টরন্টো দ্বীপ শহরের ব্যস্ততার থেকে একটি শান্তিপূর্ণ পালানোর স্থান প্রদান করে, যেখানে সুন্দর পার্ক, সৈকত এবং চমৎকার স্কাইলাইন দৃশ্য রয়েছে। একটি সংক্ষিপ্ত ফেরি যাত্রা আপনাকে এই শান্তিপূর্ণ ওয়াসিসে নিয়ে যায়, যা পিকনিক, সাইক্লিং বা অবসরমূলক হাঁটার জন্য আদর্শ। দৃশ্যমান সৌন্দর্য এবং উপলব্ধ বিনোদনমূলক কার্যক্রম উপভোগ করতে অর্ধদিবস ব্যয় করার পরিকল্পনা করুন।",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "ওন্টারিও আর্ট গ্যালারি",
+          "type": "museum",
+          "description": "ওন্টারিও আর্ট গ্যালারি (এজিও) 90,000 টিরও বেশি কাজের একটি চিত্তাকর্ষক সংগ্রহ প্রদর্শন করে, যা কানাডিয়ান শিল্প থেকে ইউরোপীয় মাস্টারপিস পর্যন্ত। গ্যালারির স্থাপত্য, যা ফ্র্যাঙ্ক গেহরির দ্বারা ডিজাইন করা হয়েছে, সেটিও একটি হাইলাইট। দর্শকরা সাধারণত প্রদর্শনীগুলি অন্বেষণ করতে এবং সাইটে ক্যাফের স্বাদ নিতে 2-3 ঘণ্টা ব্যয় করেন। এটি একটি সাংস্কৃতিক রত্ন যা মিস করা উচিত নয়!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "সেন্ট লরেন্স মার্কেট",
+          "type": "market",
+          "description": "সেন্ট লরেন্স মার্কেট খাদ্য প্রেমীদের জন্য একটি স্বর্গ, যেখানে তাজা পণ্য, গুরমেট খাবার এবং কারিগর পণ্য বিক্রির জন্য বিভিন্ন বিক্রেতা রয়েছে। এটি স্থানীয় বিশেষত্বের স্বাদ নেওয়ার এবং প্রাণবন্ত পরিবেশের আনন্দ নেওয়ার জন্য একটি দুর্দান্ত স্থান। সুস্বাদু খাবারের নমুনা নেওয়া এবং অনন্য উপহার কেনার জন্য প্রায় 1-2 ঘণ্টার পরিকল্পনা করুন। সকালে পরিদর্শনের জন্য সুপারিশ করা হয় যাতে আপনি বাজারে সর্বোত্তম অভিজ্ঞতা লাভ করতে পারেন।",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "বেটা জুতা যাদুঘর",
+          "type": "museum",
+          "description": "বেটা জুতা যাদুঘর হল একটি অনন্য আকর্ষণ যা ফুটওয়্যারের ইতিহাস এবং শিল্পকে উৎসর্গীকৃত। বিভিন্ন সংস্কৃতি এবং যুগের 13,000 টিরও বেশি জুতা নিয়ে, এটি সকলের জন্য একটি আকর্ষণীয় সফর, আপনি যদি ফ্যাশনের অনুরাগী হন বা কেবল কৌতূহলী হন। প্রদর্শনীগুলি অন্বেষণ করতে এবং ফুটওয়্যারের বিবর্তন সম্পর্কে জানতে প্রায় 1-2 ঘণ্টা বরাদ্দ করুন।",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие достопримечательности Торонто 2026 — Билеты, Советы и Полное Руководство",
+      "seo_description": "Исследуйте лучшие достопримечательности Торонто. Найдите часы работы, цены на билеты и ссылки для бронирования главных достопримечательностей Торонто.",
+      "page_intro": "Торонто, крупнейший город Канады, — это яркая метрополия, которая гармонично сочетает современность и историю. Известный своей разнообразной культурой, потрясающим горизонтом и богатой художественной сценой, Торонто предлагает множество достопримечательностей, которые удовлетворят потребности каждого путешественника. Независимо от того, исследуете ли вы его знаковые памятники или наслаждаетесь зелеными парками, в этом динамичном городе найдется что-то для каждого.",
+      "items": [
+        {
+          "id": "cn-tower",
+          "name": "Башня CN",
+          "type": "landmark",
+          "description": "Башня CN является одной из самых знаковых достопримечательностей Торонто, высота которой составляет 553 метра. Посетители могут подняться на смотровую площадку на лифте, чтобы насладиться захватывающими видами на город и озеро Онтарио. Для тех, кто ищет острых ощущений, не пропустите EdgeWalk, прогулку без рук вдоль края башни. Запланируйте провести здесь около 1-2 часов, особенно если вы хотите насладиться доступными вариантами питания.",
+          "image_keyword": "CN Tower",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $38 CAD",
+          "best_time": "anytime",
+          "klook_query": "CN Tower ticket booking"
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": "Королевский музей Онтарио",
+          "type": "museum",
+          "description": "Королевский музей Онтарио (ROM) является одним из крупнейших музеев в Северной Америке, представляющим искусство, культуру и природу со всего мира. Его потрясающая архитектура и разнообразные выставки делают его обязательным для посещения для любителей истории и искусства. Выделите около 3-4 часов для тщательного изучения различных галерей и специальных выставок.",
+          "image_keyword": "Royal Ontario Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $23 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Royal Ontario Museum ticket booking"
+        },
+        {
+          "id": "distillery-district",
+          "name": "Район Дистиллерии",
+          "type": "district",
+          "description": "Район Дистиллерии — это историческая местность, известная хорошо сохранившейся викторианской промышленной архитектурой. Это центр искусств, культуры и развлечений, в котором расположены бутики, галереи и рестораны. Прогуляйтесь по мощеным улицам и насладитесь местными ремеслами и вкусной кухней. Этот район лучше всего посещать поздно днем или вечером, когда атмосфера оживает.",
+          "image_keyword": "Distillery District",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Distillery District activities"
+        },
+        {
+          "id": "toronto-islands",
+          "name": "Острова Торонто",
+          "type": "park",
+          "description": "Острова Торонто предлагают мирный отдых от городской суеты, с красивыми парками, пляжами и потрясающими видами на горизонт. Краткая поездка на пароме доставит вас в этот спокойный оазис, идеальный для пикников, велосипедных прогулок или спокойных прогулок. Запланируйте провести полдня, наслаждаясь живописной красотой и доступными развлекательными мероприятиями.",
+          "image_keyword": "Toronto Islands",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $8 CAD for ferry",
+          "best_time": "afternoon",
+          "klook_query": "Toronto Islands ferry ticket"
+        },
+        {
+          "id": "art-gallery-of-ontario",
+          "name": "Галерея искусств Онтарио",
+          "type": "museum",
+          "description": "Галерея искусств Онтарио (AGO) обладает впечатляющей коллекцией из более чем 90 000 произведений, от канадского искусства до европейских шедевров. Архитектура галереи, спроектированная Фрэнком Гери, также является достопримечательностью. Посетители обычно проводят 2-3 часа, исследуя выставки и наслаждаясь кафе на месте. Это культурное сокровище, которое нельзя пропустить!",
+          "image_keyword": "Art Gallery of Ontario",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $25 CAD",
+          "best_time": "morning",
+          "klook_query": "Art Gallery of Ontario ticket booking"
+        },
+        {
+          "id": "st-lawrence-market",
+          "name": "Рынок Сент-Лоренса",
+          "type": "market",
+          "description": "Рынок Сент-Лоренса — это рай для любителей еды, предлагающий разнообразие продавцов, продающих свежие продукты, гурманские продукты и ремесленные товары. Это отличное место, чтобы попробовать местные деликатесы и насладиться яркой атмосферой. Запланируйте провести около 1-2 часов, пробуя вкусные блюда и покупая уникальные сувениры. Рекомендуется утренний визит, чтобы насладиться рынком в его лучшем виде.",
+          "image_keyword": "St. Lawrence Market",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "St. Lawrence Market food tour"
+        },
+        {
+          "id": "bata-shoe-museum",
+          "name": "Музей обуви Бата",
+          "type": "museum",
+          "description": "Музей обуви Бата — это уникальная достопримечательность, посвященная истории и искусству обуви. С более чем 13 000 парами обуви из различных культур и эпох, это увлекательное место для всех, будь вы любителем моды или просто любопытным. Выделите около 1-2 часов, чтобы исследовать выставки и узнать о развитии обуви.",
+          "image_keyword": "Bata Shoe Museum",
+          "star_rating": 4.3,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx $14 CAD",
+          "best_time": "afternoon",
+          "klook_query": "Bata Shoe Museum ticket booking"
+        }
+      ]
+    }
+  }
+}

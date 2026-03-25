@@ -1,0 +1,1145 @@
+{
+  "city_slug": "lisbon",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Lisbon 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Lisbon. From budget eats to fine dining — with booking links.",
+      "page_intro": "Lisbon's food culture is a vibrant mix of traditional Portuguese flavors and modern culinary innovations. The city is famous for its rich history of seafood, pastries, and a variety of international influences. Whether you're indulging in a crispy pastéis de nata or savoring fresh bacalhau, Lisbon's dining scene offers something for every palate.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "Time Out Market",
+          "type": "street_food",
+          "description": "Time Out Market is a bustling food hall that showcases the best of Lisbon's culinary scene. With a wide selection of food stalls and restaurants, you can sample everything from gourmet sandwiches to traditional Portuguese dishes. The atmosphere is lively and perfect for foodies looking to try various flavors in one spot. Prices range from $ to $$$.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "Casa do Alentejo",
+          "type": "restaurant",
+          "description": "Nestled in a historic building, Casa do Alentejo serves delicious dishes from the Alentejo region of Portugal. The restaurant's décor reflects traditional Portuguese style, creating a warm and inviting atmosphere. Don't miss their hearty migas or the succulent lamb dishes. Prices are moderate, ranging from $$ to $$$.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "Mercado da Ribeira",
+          "type": "night_market",
+          "description": "Mercado da Ribeira is a lively market that comes alive in the evenings, offering a variety of street food options. You can enjoy local specialties like bifana sandwiches and fresh seafood while soaking in the vibrant atmosphere. This market is an excellent place for those looking for a casual dining experience. Prices are generally affordable, from $ to $$.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "Pastéis de Belém",
+          "type": "cafe",
+          "description": "Famous for its iconic custard tarts, Pastéis de Belém is a must-visit café in Lisbon. The recipe for these delicious pastéis has remained a secret since 1837. Enjoy them fresh out of the oven, sprinkled with cinnamon and powdered sugar. Prices are very reasonable, around $.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "Cervejaria Ramiro",
+          "type": "restaurant",
+          "description": "Cervejaria Ramiro is a seafood lover's paradise, renowned for its fresh shellfish and traditional Portuguese dishes. The casual setting and friendly service make it a favorite among locals and tourists alike. Be sure to try their succulent garlic shrimp and the grilled lobster. Prices range from $$ to $$$.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "Taberna da Rua das Flores",
+          "type": "restaurant",
+          "description": "This cozy tavern offers traditional Portuguese cuisine with a modern twist. The menu changes frequently based on seasonal ingredients, providing a unique dining experience each visit. The intimate atmosphere and friendly staff add to its charm. Expect to pay around $$.",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "Mercado de Alfama",
+          "type": "night_market",
+          "description": "Mercado de Alfama is a vibrant night market that offers a variety of local foods and drinks. Enjoy live music while you sample delicious tapas, grilled meats, and traditional desserts. The atmosphere is lively and perfect for a night out. Prices are generally affordable, from $ to $$.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "Tasca do Chico",
+          "type": "bar",
+          "description": "Tasca do Chico is a traditional Fado bar that offers a unique cultural experience along with delicious Portuguese petiscos. Enjoy live Fado music while savoring small plates of chorizo, cheese, and more. The atmosphere is warm and welcoming, making it a great place to unwind. Prices are reasonable, around $ to $$.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年里斯本最佳美食 — 顶级餐厅和街头美食指南",
+      "seo_description": "探索里斯本最佳餐厅、街头美食和当地特色。从预算餐点到高档餐饮 — 包括预订链接。",
+      "page_intro": "里斯本的美食文化是传统葡萄牙风味与现代烹饪创新的生动结合。该市以丰富的海鲜、糕点历史和各种国际影响而闻名。无论是享受酥脆的蛋挞还是品尝新鲜的鳕鱼，里斯本的餐饮场景为每一种味蕾提供了选择。",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "时间市场",
+          "type": "street_food",
+          "description": "时间市场是一个热闹的美食大厅，展示了里斯本烹饪场景的最佳之处。这里有丰富的食品摊位和餐厅，您可以品尝从美食三明治到传统葡萄牙菜肴的各种食物。气氛热烈，非常适合想要在一个地方尝试多种风味的美食爱好者。价格范围从 $ 到 $$$。",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "阿连特茹之家",
+          "type": "restaurant",
+          "description": "阿连特茹之家坐落在一座历史建筑中，提供来自葡萄牙阿连特茹地区的美味菜肴。餐厅的装饰反映了传统葡萄牙风格，营造出温暖宜人的氛围。不要错过他们丰盛的米加斯和美味的羊肉菜肴。价格适中，范围从 $$ 到 $$$。",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "里贝拉市场",
+          "type": "night_market",
+          "description": "里贝拉市场是一个热闹的市场，晚上热闹非凡，提供各种街头美食选择。您可以在充满活力的氛围中享用当地特色如比法纳三明治和新鲜海鲜。这个市场是寻找休闲用餐体验的绝佳场所。价格通常实惠，从 $ 到 $$。",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "贝伦蛋挞",
+          "type": "cafe",
+          "description": "贝伦蛋挞因其标志性的奶油蛋挞而闻名，是里斯本必访的咖啡馆。这些美味的蛋挞的食谱自1837年以来一直是个秘密。享用刚出炉的蛋挞，撒上肉桂和糖粉。价格非常合理，大约为 $。",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "拉米罗啤酒屋",
+          "type": "restaurant",
+          "description": "拉米罗啤酒屋是海鲜爱好者的天堂，以新鲜的贝类和传统葡萄牙菜肴而闻名。随意的环境和友好的服务使其成为当地人和游客的最爱。一定要尝试他们美味的蒜香虾和烤龙虾。价格范围从 $$ 到 $$$。",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "花街酒馆",
+          "type": "restaurant",
+          "description": "这家温馨的小酒馆提供传统葡萄牙美食与现代风格结合的菜肴。菜单根据季节性食材经常更换，为每次光临提供独特的用餐体验。亲密的氛围和友好的员工增加了它的魅力。预计支付大约 $$。",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "阿尔法马市场",
+          "type": "night_market",
+          "description": "阿尔法马市场是一个充满活力的夜市，提供各种当地食品和饮料。在您品尝美味的小吃、烤肉和传统甜点的同时，享受现场音乐。气氛热烈，非常适合夜晚外出。价格通常实惠，从 $ 到 $$。",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "奇卡酒吧",
+          "type": "bar",
+          "description": "奇卡酒吧是一个传统的法多酒吧，提供独特的文化体验以及美味的葡萄牙小吃。享受现场法多音乐的同时，品尝香肠、奶酪等小盘菜。气氛温暖宜人，是放松的好地方。价格合理，大约为 $ 到 $$。",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年リスボンのベストフード — トップレストランとストリートフードガイド",
+      "seo_description": "リスボンのベストレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "リスボンの食文化は、伝統的なポルトガルの風味と現代の料理革新が生み出す活気に満ちたミックスです。この都市は、海鮮、ペストリー、さまざまな国際的な影響の豊かな歴史で有名です。サクサクのパステイシュ・デ・ナタを楽しむか、新鮮なバカリャウを味わうかに関わらず、リスボンのダイニングシーンはすべての味覚に何かを提供します。",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "タイムアウトマーケット",
+          "type": "street_food",
+          "description": "タイムアウトマーケットは、リスボンの料理シーンのベストを展示する賑やかなフードホールです。さまざまなフードスタンドやレストランが揃い、グルメサンドイッチから伝統的なポルトガル料理まで、すべてを試すことができます。活気のある雰囲気は、さまざまなフレーバーを一つの場所で試したいフード愛好家にぴったりです。価格は $ から $$$ の範囲です。",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "アレンテージョの家",
+          "type": "restaurant",
+          "description": "歴史的な建物に佇むアレンテージョの家では、ポルトガルのアレンテージョ地域の美味しい料理を提供しています。レストランの装飾は伝統的なポルトガルスタイルを反映し、温かく迎え入れてくれる雰囲気を作り出しています。ボリューム満点のミガスやジューシーなラム料理をお見逃しなく。価格は中程度で、 $$ から $$$ の範囲です。",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "リベイラ市場",
+          "type": "night_market",
+          "description": "リベイラ市場は、夕方になると活気づく市場で、さまざまなストリートフードオプションを提供しています。活気に満ちた雰囲気の中で、ビファナサンドイッチや新鮮な海鮮などの地元の特産品を楽しむことができます。この市場は、カジュアルなダイニング体験を求める人にとって優れた場所です。価格は一般的に手頃で、 $ から $$ の範囲です。",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "パステイシュ・デ・ベレン",
+          "type": "cafe",
+          "description": "アイコニックなカスタードタルトで有名なパステイシュ・デ・ベレンは、リスボンで訪れるべきカフェです。この美味しいパステイシュのレシピは1837年以来秘密のままです。オーブンから出たばかりのものを、シナモンと粉砂糖を振りかけて楽しんでください。価格は非常に手頃で、約 $ です。",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "セレヴェジャリア・ラミロ",
+          "type": "restaurant",
+          "description": "セレヴェジャリア・ラミロは海鮮愛好者の楽園で、新鮮な貝類と伝統的なポルトガル料理で知られています。カジュアルな雰囲気とフレンドリーなサービスは、地元の人々や観光客に人気です。ジューシーなガーリックシュリンプやグリルロブスターをぜひお試しください。価格は $$ から $$$ の範囲です。",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "フローレス通りのタベルナ",
+          "type": "restaurant",
+          "description": "この居心地の良いタベルナは、現代的なひねりを加えた伝統的なポルトガル料理を提供しています。メニューは季節の食材に基づいて頻繁に変更され、訪れるたびにユニークなダイニング体験を提供します。親密な雰囲気とフレンドリーなスタッフがその魅力を引き立てます。おおよそ $$ の支払いを期待してください。",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "アルファマ市場",
+          "type": "night_market",
+          "description": "アルファマ市場は、さまざまな地元の食べ物と飲み物を提供する活気あるナイトマーケットです。ライブ音楽を楽しみながら、美味しいタパス、グリル肉、伝統的なデザートを味わってください。活気のある雰囲気で、夜のお出かけにぴったりです。価格は一般的に手頃で、 $ から $$ の範囲です。",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "チコ酒場",
+          "type": "bar",
+          "description": "チコ酒場は、伝統的なファドバーで、美味しいポルトガルのペティスコスとともにユニークな文化体験を提供します。生のファド音楽を楽しみながら、チョリソーやチーズなどの小皿を味わってください。温かく迎え入れてくれる雰囲気があり、リラックスするのに最適な場所です。価格は手頃で、約 $ から $$ です。",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 리스본 최고의 음식 — 최고의 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "리스본 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 예산 친화적인 음식부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "리스본의 음식 문화는 전통적인 포르투갈 맛과 현대적인 요리 혁신이 혼합된 활기찬 모습입니다. 이 도시는 해산물, 페이스트리 및 다양한 국제적 영향의 풍부한 역사로 유명합니다. 바삭한 파스테이시 드 나타를 즐기든 신선한 바칼라우를 음미하든, 리스본의 다이닝 장면은 모든 입맛을 만족시킬 무언가를 제공합니다.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "타임 아웃 마켓",
+          "type": "street_food",
+          "description": "타임 아웃 마켓은 리스본의 요리 장면을 보여주는 분주한 푸드 홀입니다. 다양한 음식 스탠드와 레스토랑이 있어 고급 샌드위치부터 전통 포르투갈 요리까지 모든 것을 샘플링할 수 있습니다. 분위기는 활기차고, 다양한 맛을 한 곳에서 시도해보고 싶은 미식가에게 안성맞춤입니다. 가격대는 $에서 $$$까지입니다.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "알렌테주의 집",
+          "type": "restaurant",
+          "description": "역사적인 건물에 자리 잡은 알렌테주의 집은 포르투갈 알렌테주 지역의 맛있는 요리를 제공합니다. 레스토랑의 장식은 전통적인 포르투갈 스타일을 반영하여 따뜻하고 초대하는 분위기를 만듭니다. 그들의 푸짐한 미가스와 맛있는 양고기 요리를 놓치지 마세요. 가격은 중간 정도로 $$에서 $$$까지입니다.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "리베이라 시장",
+          "type": "night_market",
+          "description": "리베이라 시장은 저녁에 활기차게 살아나는 시장으로, 다양한 길거리 음식 옵션을 제공합니다. 비파나 샌드위치와 신선한 해산물 같은 지역 특산품을 즐기면서 생동감 넘치는 분위기를 만끽하세요. 이 시장은 캐주얼한 식사 경험을 원하는 사람들에게 훌륭한 장소입니다. 가격은 일반적으로 저렴하며, $에서 $$까지입니다.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "파스테이시 드 벨렘",
+          "type": "cafe",
+          "description": "상징적인 커스터드 타르트로 유명한 파스테이시 드 벨렘은 리스본에서 반드시 방문해야 할 카페입니다. 이 맛있는 파스테이시의 레시피는 1837년부터 비밀로 남아 있습니다. 오븐에서 갓 나온 것을 시나몬과 설탕 가루를 뿌려서 즐겨보세요. 가격은 매우 합리적이며 약 $입니다.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "세르베자리아 라미로",
+          "type": "restaurant",
+          "description": "세르베자리아 라미로는 신선한 조개와 전통 포르투갈 요리로 유명한 해산물 애호가의 천국입니다. 캐주얼한 분위기와 친절한 서비스는 지역 주민과 관광객 모두에게 인기가 많습니다. 그들의 맛있는 마늘 새우와 구운 바닷가재를 꼭 시도해 보세요. 가격대는 $$에서 $$$까지입니다.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "플로레스 거리 타베르나",
+          "type": "restaurant",
+          "description": "이 아늑한 타베르나는 현대적인 감각을 더한 전통 포르투갈 요리를 제공합니다. 메뉴는 계절 재료에 따라 자주 바뀌어 매 방문마다 독특한 다이닝 경험을 제공합니다. 아늑한 분위기와 친절한 직원들이 매력을 더합니다. 약 $$의 비용을 예상하세요.",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "알파마 시장",
+          "type": "night_market",
+          "description": "알파마 시장은 다양한 지역 음식과 음료를 제공하는 활기찬 야시장입니다. 라이브 음악을 즐기면서 맛있는 타파스, 구운 고기, 전통 디저트를 샘플링하세요. 분위기가 활기차고 밤 외출에 안성맞춤입니다. 가격은 일반적으로 저렴하며, $에서 $$까지입니다.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "치코 바",
+          "type": "bar",
+          "description": "치코 바는 전통적인 파두 바로, 맛있는 포르투갈 페티스코스와 함께 독특한 문화 경험을 제공합니다. 생생한 파두 음악을 즐기면서 초리소, 치즈 등의 작은 접시를 음미하세요. 따뜻하고 환영하는 분위기로 편안하게 쉴 수 있는 좋은 장소입니다. 가격은 합리적이며 약 $에서 $$입니다.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Lisbonne 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Lisbonne. Des repas à petit budget à la gastronomie — avec des liens de réservation.",
+      "page_intro": "La culture alimentaire de Lisbonne est un mélange vibrant de saveurs portugaises traditionnelles et d'innovations culinaires modernes. La ville est célèbre pour sa riche histoire de fruits de mer, de pâtisseries et de diverses influences internationales. Que vous vous laissiez tenter par un pastéis de nata croustillant ou dégustiez un bacalhau frais, la scène gastronomique de Lisbonne offre quelque chose pour tous les palais.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "Time Out Market",
+          "type": "street_food",
+          "description": "Le Time Out Market est une halle alimentaire animée qui met en valeur le meilleur de la scène culinaire de Lisbonne. Avec une large sélection de stands de nourriture et de restaurants, vous pouvez goûter à tout, des sandwiches gastronomiques aux plats portugais traditionnels. L'atmosphère est animée et parfaite pour les gourmets qui souhaitent essayer différentes saveurs en un seul endroit. Les prix varient de $ à $$$.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "Casa do Alentejo",
+          "type": "restaurant",
+          "description": "Nichée dans un bâtiment historique, la Casa do Alentejo propose de délicieux plats de la région de l'Alentejo au Portugal. La décoration du restaurant reflète le style traditionnel portugais, créant une atmosphère chaleureuse et accueillante. Ne manquez pas leurs migas copieuses ou les succulents plats d'agneau. Les prix sont modérés, allant de $$ à $$$.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "Mercado da Ribeira",
+          "type": "night_market",
+          "description": "Le Mercado da Ribeira est un marché animé qui prend vie le soir, offrant une variété d'options de street food. Vous pouvez déguster des spécialités locales comme des sandwiches bifana et des fruits de mer frais tout en profitant de l'atmosphère vibrante. Ce marché est un excellent endroit pour ceux qui recherchent une expérience culinaire décontractée. Les prix sont généralement abordables, allant de $ à $$.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "Pastéis de Belém",
+          "type": "cafe",
+          "description": "Célèbre pour ses tartes au flan emblématiques, les Pastéis de Belém sont un café incontournable à Lisbonne. La recette de ces délicieux pastéis est restée secrète depuis 1837. Savourez-les tout juste sortis du four, saupoudrés de cannelle et de sucre glace. Les prix sont très raisonnables, autour de $.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "Cervejaria Ramiro",
+          "type": "restaurant",
+          "description": "La Cervejaria Ramiro est un paradis pour les amateurs de fruits de mer, renommée pour ses fruits de mer frais et ses plats portugais traditionnels. L'ambiance décontractée et le service amical en font un favori parmi les habitants et les touristes. N'oubliez pas d'essayer leurs crevettes à l'ail succulentes et le homard grillé. Les prix varient de $$ à $$$.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "Taberna da Rua das Flores",
+          "type": "restaurant",
+          "description": "Cette taverne conviviale propose une cuisine portugaise traditionnelle avec une touche moderne. Le menu change fréquemment en fonction des ingrédients de saison, offrant une expérience culinaire unique à chaque visite. L'atmosphère intime et le personnel amical ajoutent à son charme. Attendez-vous à payer environ $$.",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "Mercado de Alfama",
+          "type": "night_market",
+          "description": "Le Mercado de Alfama est un marché nocturne animé qui propose une variété de plats et de boissons locaux. Profitez de la musique live tout en goûtant de délicieuses tapas, viandes grillées et desserts traditionnels. L'atmosphère est animée et parfaite pour une sortie nocturne. Les prix sont généralement abordables, allant de $ à $$.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "Tasca do Chico",
+          "type": "bar",
+          "description": "La Tasca do Chico est un bar à fado traditionnel qui offre une expérience culturelle unique accompagnée de délicieux petiscos portugais. Profitez de la musique live de fado tout en savourant de petites assiettes de chorizo, de fromage et plus encore. L'atmosphère est chaleureuse et accueillante, ce qui en fait un excellent endroit pour se détendre. Les prix sont raisonnables, autour de $ à $$.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Lisboa 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Lisboa. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "La cultura alimentaria de Lisboa es una mezcla vibrante de sabores portugueses tradicionales e innovaciones culinarias modernas. La ciudad es famosa por su rica historia de mariscos, pasteles y una variedad de influencias internacionales. Ya sea que te deleites con un crujiente pastéis de nata o saborees un bacalhau fresco, la escena gastronómica de Lisboa ofrece algo para todos los paladares.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "Time Out Market",
+          "type": "street_food",
+          "description": "Time Out Market es una bulliciosa sala de comida que exhibe lo mejor de la escena culinaria de Lisboa. Con una amplia selección de puestos de comida y restaurantes, puedes probar de todo, desde sándwiches gourmet hasta platos portugueses tradicionales. La atmósfera es animada y perfecta para los amantes de la comida que buscan probar varios sabores en un solo lugar. Los precios oscilan entre $ y $$$.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "Casa do Alentejo",
+          "type": "restaurant",
+          "description": "Ubicada en un edificio histórico, Casa do Alentejo ofrece deliciosos platos de la región de Alentejo en Portugal. La decoración del restaurante refleja el estilo tradicional portugués, creando un ambiente cálido y acogedor. No te pierdas sus abundantes migas o los suculentos platos de cordero. Los precios son moderados, que oscilan entre $$ y $$$.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "Mercado da Ribeira",
+          "type": "night_market",
+          "description": "El Mercado da Ribeira es un mercado animado que cobra vida por las noches, ofreciendo una variedad de opciones de comida callejera. Puedes disfrutar de especialidades locales como sándwiches bifana y mariscos frescos mientras te sumerges en la vibrante atmósfera. Este mercado es un excelente lugar para aquellos que buscan una experiencia gastronómica informal. Los precios son generalmente asequibles, desde $ hasta $$.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "Pastéis de Belém",
+          "type": "cafe",
+          "description": "Famoso por sus icónicas tartas de crema, Pastéis de Belém es una cafetería de visita obligada en Lisboa. La receta de estos deliciosos pastéis ha permanecido en secreto desde 1837. Disfrútalos recién salidos del horno, espolvoreados con canela y azúcar glas. Los precios son muy razonables, alrededor de $.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "Cervejaria Ramiro",
+          "type": "restaurant",
+          "description": "Cervejaria Ramiro es un paraíso para los amantes de los mariscos, conocida por sus mariscos frescos y platos portugueses tradicionales. El ambiente informal y el servicio amable lo convierten en un favorito entre los lugareños y turistas por igual. Asegúrate de probar sus jugosas gambas al ajillo y la langosta a la parrilla. Los precios oscilan entre $$ y $$$.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "Taberna da Rua das Flores",
+          "type": "restaurant",
+          "description": "Esta acogedora taberna ofrece cocina portuguesa tradicional con un toque moderno. El menú cambia con frecuencia según los ingredientes de temporada, brindando una experiencia gastronómica única en cada visita. La atmósfera íntima y el personal amable añaden a su encanto. Espera pagar alrededor de $$.",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "Mercado de Alfama",
+          "type": "night_market",
+          "description": "El Mercado de Alfama es un animado mercado nocturno que ofrece una variedad de alimentos y bebidas locales. Disfruta de música en vivo mientras pruebas deliciosas tapas, carnes a la parrilla y postres tradicionales. La atmósfera es animada y perfecta para una noche de salida. Los precios son generalmente asequibles, desde $ hasta $$.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "Tasca do Chico",
+          "type": "bar",
+          "description": "Tasca do Chico es un bar de fado tradicional que ofrece una experiencia cultural única junto con deliciosos petiscos portugueses. Disfruta de música de fado en vivo mientras saboreas pequeños platos de chorizo, queso y más. La atmósfera es cálida y acogedora, lo que lo convierte en un gran lugar para relajarse. Los precios son razonables, alrededor de $ a $$.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Lisbon 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Lisbon. From budget eats to fine dining — with booking links.",
+      "page_intro": "Lisbon's food culture is a vibrant mix of traditional Portuguese flavors and modern culinary innovations. The city is famous for its rich history of seafood, pastries, and a variety of international influences. Whether you're indulging in a crispy pastéis de nata or savoring fresh bacalhau, Lisbon's dining scene offers something for every palate.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "Time Out Market",
+          "type": "street_food",
+          "description": "Time Out Market is a bustling food hall that showcases the best of Lisbon's culinary scene. With a wide selection of food stalls and restaurants, you can sample everything from gourmet sandwiches to traditional Portuguese dishes. The atmosphere is lively and perfect for foodies looking to try various flavors in one spot. Prices range from $ to $$$.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "Casa do Alentejo",
+          "type": "restaurant",
+          "description": "Nestled in a historic building, Casa do Alentejo serves delicious dishes from the Alentejo region of Portugal. The restaurant's décor reflects traditional Portuguese style, creating a warm and inviting atmosphere. Don't miss their hearty migas or the succulent lamb dishes. Prices are moderate, ranging from $$ to $$$.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "Mercado da Ribeira",
+          "type": "night_market",
+          "description": "Mercado da Ribeira is a lively market that comes alive in the evenings, offering a variety of street food options. You can enjoy local specialties like bifana sandwiches and fresh seafood while soaking in the vibrant atmosphere. This market is an excellent place for those looking for a casual dining experience. Prices are generally affordable, from $ to $$.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "Pastéis de Belém",
+          "type": "cafe",
+          "description": "Famous for its iconic custard tarts, Pastéis de Belém is a must-visit café in Lisbon. The recipe for these delicious pastéis has remained a secret since 1837. Enjoy them fresh out of the oven, sprinkled with cinnamon and powdered sugar. Prices are very reasonable, around $.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "Cervejaria Ramiro",
+          "type": "restaurant",
+          "description": "Cervejaria Ramiro is a seafood lover's paradise, renowned for its fresh shellfish and traditional Portuguese dishes. The casual setting and friendly service make it a favorite among locals and tourists alike. Be sure to try their succulent garlic shrimp and the grilled lobster. Prices range from $$ to $$$.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "Taberna da Rua das Flores",
+          "type": "restaurant",
+          "description": "This cozy tavern offers traditional Portuguese cuisine with a modern twist. The menu changes frequently based on seasonal ingredients, providing a unique dining experience each visit. The intimate atmosphere and friendly staff add to its charm. Expect to pay around $$.",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "Mercado de Alfama",
+          "type": "night_market",
+          "description": "Mercado de Alfama is a vibrant night market that offers a variety of local foods and drinks. Enjoy live music while you sample delicious tapas, grilled meats, and traditional desserts. The atmosphere is lively and perfect for a night out. Prices are generally affordable, from $ to $$.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "Tasca do Chico",
+          "type": "bar",
+          "description": "Tasca do Chico is a traditional Fado bar that offers a unique cultural experience along with delicious Portuguese petiscos. Enjoy live Fado music while savoring small plates of chorizo, cheese, and more. The atmosphere is warm and welcoming, making it a great place to unwind. Prices are reasonable, around $ to $$.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "लिस्बन में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "लिस्बन में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट भोजन से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "लिस्बन की खाद्य संस्कृति पारंपरिक पुर्तगाली स्वाद और आधुनिक पाक नवाचारों का एक जीवंत मिश्रण है। यह शहर समुद्री भोजन, पेस्ट्री और विभिन्न अंतरराष्ट्रीय प्रभावों के लिए प्रसिद्ध है। चाहे आप कुरकुरी पेस्टेइस डी नाटा का आनंद ले रहे हों या ताजे बकल्हौ का स्वाद ले रहे हों, लिस्बन का भोजन दृश्य हर स्वाद के लिए कुछ न कुछ पेश करता है।",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "टाइम आउट मार्केट",
+          "type": "street_food",
+          "description": "टाइम आउट मार्केट एक हलचल भरा खाद्य हॉल है जो लिस्बन के पाक दृश्य की सर्वश्रेष्ठ विशेषताओं को प्रदर्शित करता है। यहां विभिन्न प्रकार के खाद्य स्टाल और रेस्तरां हैं, जहां आप शानदार सैंडविच से लेकर पारंपरिक पुर्तगाली व्यंजनों का स्वाद ले सकते हैं। वातावरण जीवंत है और खाद्य प्रेमियों के लिए एक ही स्थान पर विभिन्न स्वादों का अनुभव करने के लिए बिल्कुल सही है। कीमतें $ से $$$ के बीच हैं।",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "कासा डो अलेन्टेजो",
+          "type": "restaurant",
+          "description": "एक ऐतिहासिक इमारत में स्थित, कासा डो अलेन्टेजो पुर्तगाल के अलेन्टेजो क्षेत्र के स्वादिष्ट व्यंजन परोसता है। रेस्तरां का सजावट पारंपरिक पुर्तगाली शैली को दर्शाता है, जिससे यह गर्म और आमंत्रित वातावरण बनाता है। उनके हार्दिक मिगास या सुगंधित मेमने के व्यंजन नहीं छोड़ें। कीमतें मध्यम हैं, $$ से $$$ के बीच।",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "मेरकाडो डा रिबेरा",
+          "type": "night_market",
+          "description": "मेरकाडो डा रिबेरा एक जीवंत बाजार है जो शाम को जीवित हो जाता है, जिसमें विभिन्न प्रकार के स्ट्रीट फूड विकल्प होते हैं। आप स्थानीय विशेषताओं जैसे बिफाना सैंडविच और ताजे समुद्री भोजन का आनंद ले सकते हैं, जबकि जीवंत वातावरण का अनुभव कर सकते हैं। यह बाजार उन लोगों के लिए एक उत्कृष्ट स्थान है जो आकस्मिक भोजन अनुभव की तलाश में हैं। कीमतें सामान्यतः सस्ती हैं, $ से $$ के बीच।",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "पेस्टेइस डी बेलेम",
+          "type": "cafe",
+          "description": "अपने आइकोनिक कस्टर्ड टार्ट्स के लिए प्रसिद्ध, पेस्टेइस डी बेलेम लिस्बन में एक आवश्यक कैफे है। इन स्वादिष्ट पेस्टेइस के लिए नुस्खा 1837 से एक रहस्य बना हुआ है। इन्हें ओवन से ताजे, दालचीनी और पाउडर चीनी के साथ छिड़क कर आनंद लें। कीमतें बहुत उचित हैं, लगभग $।",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "सर्वेज़ेरिया रामिरो",
+          "type": "restaurant",
+          "description": "सर्वेज़ेरिया रामिरो समुद्री भोजन प्रेमियों का स्वर्ग है, जो ताजे शेलफिश और पारंपरिक पुर्तगाली व्यंजनों के लिए प्रसिद्ध है। आकस्मिक सेटिंग और दोस्ताना सेवा इसे स्थानीय लोगों और पर्यटकों के बीच पसंदीदा बनाती है। उनके सुगंधित लहसुन के झींगे और ग्रिल्ड लॉबस्टर का अवश्य प्रयास करें। कीमतें $$ से $$$ के बीच होती हैं।",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "तबर्ना दा रुआ दास फ्लोरेस",
+          "type": "restaurant",
+          "description": "यह आरामदायक तवर्न पारंपरिक पुर्तगाली व्यंजनों को आधुनिक मोड़ के साथ पेश करती है। मेनू मौसमी सामग्री के आधार पर अक्सर बदलता है, जिससे हर बार एक अनूठा भोजन अनुभव मिलता है। अंतरंग वातावरण और मित्रवत स्टाफ इसकी आकर्षण को बढ़ाते हैं। अपेक्षा करें कि कीमतें लगभग $$ होंगी।",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "मेरकाडो डे अल्फामा",
+          "type": "night_market",
+          "description": "मेरकाडो डे अल्फामा एक जीवंत रात का बाजार है जो विभिन्न स्थानीय खाद्य और पेय पदार्थों की पेशकश करता है। आप लाइव संगीत का आनंद लेते हुए स्वादिष्ट टैपस, ग्रिल्ड मांस और पारंपरिक मिठाइयों का स्वाद ले सकते हैं। वातावरण जीवंत है और रात बाहर बिताने के लिए बिल्कुल सही है। कीमतें सामान्यतः सस्ती हैं, $ से $$ के बीच।",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "तस्का डो चिको",
+          "type": "bar",
+          "description": "तस्का डो चिको एक पारंपरिक फाडो बार है जो एक अद्वितीय सांस्कृतिक अनुभव के साथ स्वादिष्ट पुर्तगाली पेटिस्कोस की पेशकश करता है। चोरिज़ो, पनीर और अधिक के छोटे प्लेटों का आनंद लेते हुए लाइव फाडो म्यूजिक का आनंद लें। वातावरण गर्म और स्वागत योग्य है, जिससे यह आराम करने के लिए एक शानदार स्थान बन जाता है। कीमतें उचित हैं, लगभग $ से $$।",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Lisboa 2026 - Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Lisboa. Desde refeições económicas a jantares requintados - com links de reserva.",
+      "page_intro": "A cultura alimentar de Lisboa é uma mistura vibrante de sabores portugueses tradicionais e inovações culinárias modernas. A cidade é famosa pela sua rica história de frutos do mar, pastelaria e uma variedade de influências internacionais. Quer esteja a deliciar-se com um crocante pastéis de nata ou a saborear bacalhau fresco, a cena gastronómica de Lisboa oferece algo para todos os paladares.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "Time Out Market",
+          "type": "street_food",
+          "description": "Time Out Market é um mercado de alimentos movimentado que apresenta o melhor da cena culinária de Lisboa. Com uma ampla seleção de barracas de comida e restaurantes, pode experimentar tudo, desde sanduíches gourmet a pratos tradicionais portugueses. A atmosfera é animada e perfeita para os amantes da comida que desejam experimentar vários sabores num só local. Os preços variam de $ a $$$.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "Casa do Alentejo",
+          "type": "restaurant",
+          "description": "Situada num edifício histórico, a Casa do Alentejo serve pratos deliciosos da região do Alentejo, em Portugal. A decoração do restaurante reflete o estilo tradicional português, criando uma atmosfera acolhedora e convidativa. Não perca as suas migas substanciais ou os suculentos pratos de cordeiro. Os preços são moderados, variando de $$ a $$$.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "Mercado da Ribeira",
+          "type": "night_market",
+          "description": "O Mercado da Ribeira é um mercado animado que ganha vida à noite, oferecendo uma variedade de opções de comida de rua. Pode saborear especialidades locais como sanduíches bifana e marisco fresco enquanto desfruta da atmosfera vibrante. Este mercado é um ótimo lugar para quem procura uma experiência de refeição casual. Os preços são geralmente acessíveis, de $ a $$.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "Pastéis de Belém",
+          "type": "cafe",
+          "description": "Famoso pelos seus icónicos pastéis de nata, os Pastéis de Belém são um café imperdível em Lisboa. A receita destes deliciosos pastéis permanece em segredo desde 1837. Delicie-se com eles quentes, polvilhados com canela e açúcar em pó. Os preços são muito razoáveis, cerca de $.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "Cervejaria Ramiro",
+          "type": "restaurant",
+          "description": "A Cervejaria Ramiro é um paraíso para os amantes de marisco, conhecida pelos seus mariscos frescos e pratos tradicionais portugueses. O ambiente descontraído e o atendimento amigável tornam-no um favorito entre os locais e os turistas. Não se esqueça de experimentar os seus suculentos camarões ao alho e a lagosta grelhada. Os preços variam de $$ a $$$.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "Taberna da Rua das Flores",
+          "type": "restaurant",
+          "description": "Esta taberna acolhedora oferece cozinha portuguesa tradicional com um toque moderno. O menu muda frequentemente com base em ingredientes sazonais, proporcionando uma experiência gastronómica única a cada visita. A atmosfera íntima e a equipa simpática aumentam o seu charme. Espere pagar cerca de $$.",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "Mercado de Alfama",
+          "type": "night_market",
+          "description": "O Mercado de Alfama é um mercado noturno vibrante que oferece uma variedade de alimentos e bebidas locais. Desfrute de música ao vivo enquanto experimenta deliciosas tapas, carnes grelhadas e sobremesas tradicionais. A atmosfera é animada e perfeita para uma noite fora. Os preços são geralmente acessíveis, de $ a $$.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "Tasca do Chico",
+          "type": "bar",
+          "description": "A Tasca do Chico é um bar de Fado tradicional que oferece uma experiência cultural única juntamente com deliciosos petiscos portugueses. Desfrute de música de Fado ao vivo enquanto saboreia pequenas porções de chouriço, queijo e muito mais. A atmosfera é acolhedora e convidativa, tornando-o um ótimo lugar para relaxar. Os preços são razoáveis, de $ a $$.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في لشبونة 2026 - أفضل المطاعم ودليل طعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في لشبونة. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "ثقافة الطعام في لشبونة هي مزيج نابض من النكهات البرتغالية التقليدية والابتكارات الطهو الحديثة. تشتهر المدينة بتاريخها الغني مع المأكولات البحرية والمعجنات وبتنوع التأثيرات الدولية. سواء كنت تستمتع بفطيرة باستيل دي ناتا المقرمشة أو تتذوق سمك البكالهاو الطازج، فإن مشهد الطعام في لشبونة يقدم شيئًا لكل ذوق.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "سوق تايم آوت",
+          "type": "street_food",
+          "description": "سوق تايم آوت هو قاعة طعام مزدحمة تعرض أفضل ما في مشهد الطهي في لشبونة. مع مجموعة واسعة من أكشاك الطعام والمطاعم، يمكنك تجربة كل شيء من السندويشات الفاخرة إلى الأطباق البرتغالية التقليدية. الأجواء حيوية ومثالية لعشاق الطعام الذين يتطلعون لتجربة نكهات متنوعة في مكان واحد. تتراوح الأسعار من $ إلى $$$.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "كازا دو ألينتيخو",
+          "type": "restaurant",
+          "description": "تقع كازا دو ألينتيخو في مبنى تاريخي، وتقدم أطباق لذيذة من منطقة ألينتيخو في البرتغال. تعكس ديكورات المطعم الطراز البرتغالي التقليدي، مما يخلق أجواء دافئة ودعوة. لا تفوتوا الميجاس القلبية أو أطباق لحم الضأن الشهية. الأسعار معتدلة، تتراوح من $$ إلى $$$.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "سوق ريبيرا",
+          "type": "night_market",
+          "description": "سوق ريبيرا هو سوق حيوي ينبض بالحياة في المساء، يقدم مجموعة متنوعة من خيارات الطعام في الشارع. يمكنك الاستمتاع بالتخصصات المحلية مثل ساندويتش البيفانا والمأكولات البحرية الطازجة أثناء استمتاعك بالأجواء النابضة بالحياة. هذا السوق مكان ممتاز لأولئك الذين يبحثون عن تجربة تناول طعام غير رسمية. الأسعار بشكل عام معقولة، من $ إلى $$.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "باستيل دي بيلم",
+          "type": "cafe",
+          "description": "يشتهر باستيل دي بيلم بكونه مقهى لا بد من زيارته في لشبونة بسبب تارت الكاسترد الأيقونية الخاصة به. وصفة هذه الباستيل اللذيذة تبقى سرًا منذ عام 1837. استمتع بها طازجة من الفرن، مرشوشة بالقرفة والسكر البودرة. الأسعار معقولة جدًا، حوالي $.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "مقهى راميرو",
+          "type": "restaurant",
+          "description": "يعتبر مقهى راميرو جنة لعشاق المأكولات البحرية، ويشتهر بمأكولاته البحرية الطازجة والأطباق البرتغالية التقليدية. تجعل البيئة غير الرسمية والخدمة الودية منه مفضلًا بين السكان المحليين والسياح على حد سواء. تأكد من تجربة الجمبري بالثوم الشهي واللوبستر المشوي. تتراوح الأسعار من $$ إلى $$$.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "تافرنا دا رو دا فلوريس",
+          "type": "restaurant",
+          "description": "تقدم هذه الحانة المريحة المأكولات البرتغالية التقليدية مع لمسة عصرية. يتغير القائمة بشكل متكرر بناءً على المكونات الموسمية، مما يوفر تجربة طعام فريدة في كل زيارة. تضيف الأجواء الحميمة والموظفون الودودون إلى سحرها. توقع أن تدفع حوالي $$. ",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "سوق ألفاما",
+          "type": "night_market",
+          "description": "سوق ألفاما هو سوق ليلي نابض بالحياة يقدم مجموعة متنوعة من الأطعمة والمشروبات المحلية. استمتع بالموسيقى الحية أثناء تذوق التاباس اللذيذة، واللحوم المشوية، والحلويات التقليدية. الأجواء حيوية ومثالية لقضاء ليلة بالخارج. الأسعار بشكل عام معقولة، من $ إلى $$.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "تاسكا دو تشيكو",
+          "type": "bar",
+          "description": "تاسكا دو تشيكو هو بار فادو تقليدي يقدم تجربة ثقافية فريدة مع وجبات خفيفة برتغالية لذيذة. استمتع بموسيقى فادو الحية أثناء تذوق الأطباق الصغيرة من السجق، والجبن، والمزيد. الأجواء دافئة ومرحبة، مما يجعلها مكانًا رائعًا للاسترخاء. الأسعار معقولة، حوالي $ إلى $$.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "লিসবনে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "লিসবনে সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিংকের সাথে।",
+      "page_intro": "লিসবনের খাদ্য সংস্কৃতি ঐতিহ্যবাহী পর্তুগিজ স্বাদ এবং আধুনিক রান্নার উদ্ভাবনের একটি উজ্জ্বল মিশ্রণ। শহরটি সমুদ্রের খাবার, পেস্ট্রি এবং বিভিন্ন আন্তর্জাতিক প্রভাবের জন্য বিখ্যাত। আপনি যদি একটি ক্রিস্পি পাস্টেইস ডি নাটা উপভোগ করেন বা তাজা বকালহাউয়ের স্বাদ গ্রহণ করেন, লিসবনের খাবারের দৃশ্য প্রতিটি স্বাদের জন্য কিছু না কিছু নিয়ে আসে।",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "টাইম আউট মার্কেট",
+          "type": "street_food",
+          "description": "টাইম আউট মার্কেট একটি ব্যস্ত খাবারের হল যা লিসবনের রান্নার দৃশ্যের সেরা প্রদর্শন করে। এখানে বিভিন্ন ধরনের খাদ্য স্টল এবং রেস্তোরাঁ রয়েছে, যেখানে আপনি গরম স্যান্ডউইচ থেকে শুরু করে ঐতিহ্যবাহী পর্তুগিজ খাবারগুলি পরীক্ষা করতে পারেন। পরিবেশ প্রাণবন্ত এবং খাদ্যপ্রেমীদের জন্য এক জায়গায় বিভিন্ন স্বাদ চেষ্টা করার জন্য উপযুক্ত। দাম $ থেকে $$$ মধ্যে।",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "কাসা ডো অ্যালেন্তেজো",
+          "type": "restaurant",
+          "description": "একটি ঐতিহাসিক ভবনে অবস্থিত, কাসা ডো অ্যালেন্তেজো পর্তুগালের অ্যালেন্তেজো অঞ্চলের সুস্বাদু খাবার পরিবেশন করে। রেস্তোরাঁর সাজসজ্জা ঐতিহ্যবাহী পর্তুগিজ শৈলীকে প্রতিফলিত করে, একটি উষ্ণ এবং আমন্ত্রণমূলক পরিবেশ তৈরি করে। তাদের হৃদয়গ্রাহী মিগাস বা রসালো মেষশাবকের খাবারগুলি মিস করবেন না। দাম মাঝারি, $$ থেকে $$$ এর মধ্যে।",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "মার্কাডো দা রিবেইরা",
+          "type": "night_market",
+          "description": "মার্কাডো দা রিবেইরা একটি প্রাণবন্ত বাজার যা সন্ধ্যায় জীবিত হয়ে ওঠে, বিভিন্ন স্ট্রিট ফুড বিকল্প অফার করে। আপনি স্থানীয় বিশেষত্ব যেমন বিফানা স্যান্ডউইচ এবং তাজা সামুদ্রিক খাবার উপভোগ করতে পারেন যখন আপনি প্রাণবন্ত পরিবেশ উপভোগ করছেন। এই বাজারটি তাদের জন্য একটি চমৎকার স্থান যারা একটি স্বতঃস্ফূর্ত খাবারের অভিজ্ঞতা খুঁজছেন। দাম সাধারণত সাশ্রয়ী, $ থেকে $$।",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "পাস্টেইস দে বেলেম",
+          "type": "cafe",
+          "description": "তার আইকনিক কাস্টার্ড টার্টের জন্য বিখ্যাত, পাস্টেইস দে বেলেম লিসবনের একটি অপরিহার্য ক্যাফে। এই সুস্বাদু পাস্টেইসের রেসিপিটি ১৮৩৭ সাল থেকে একটি গোপনীয়তা। দারুচিনি এবং চিনি দিয়ে ছিটিয়ে নিয়ে তাজা বেরিয়ে আসা উপভোগ করুন। দাম খুবই যুক্তিসঙ্গত, প্রায় $।",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "সার্ভেজারিয়া রামিরো",
+          "type": "restaurant",
+          "description": "সার্ভেজারিয়া রামিরো একটি সামুদ্রিক খাবারের প্রেমীদের স্বর্গ, যা তার তাজা শেলফিশ এবং ঐতিহ্যবাহী পর্তুগিজ খাবারের জন্য বিখ্যাত। অস্বাভাবিক পরিবেশ এবং বন্ধুত্বপূর্ণ পরিষেবা এটিকে স্থানীয় এবং পর্যটকদের মধ্যে জনপ্রিয় করে তুলেছে। তাদের রসালো রসুনের চিংড়ি এবং গ্রিলড লবস্টার চেষ্টা করতে ভুলবেন না। দাম $$ থেকে $$$ এর মধ্যে।",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "তাবেরনা দা রুয়া দাস ফ্লোরেস",
+          "type": "restaurant",
+          "description": "এই আরামদায়ক তাবের্না আধুনিক মোড়ে ঐতিহ্যবাহী পর্তুগিজ রান্না পরিবেশন করে। মৌসুমি উপাদানের উপর ভিত্তি করে মেনু নিয়মিত পরিবর্তিত হয়, প্রতিটি পরিদর্শনে একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে। ঘনিষ্ঠ পরিবেশ এবং বন্ধুত্বপূর্ণ কর্মী এর আর্কষণে যোগ করে। দাম প্রায় $$ হতে প্রত্যাশা করুন।",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "মার্কাডো দে আলফামা",
+          "type": "night_market",
+          "description": "মার্কাডো দে আলফামা একটি প্রাণবন্ত রাতের বাজার যা বিভিন্ন স্থানীয় খাবার এবং পানীয় অফার করে। আপনি সুস্বাদু ট্যাপাস, গ্রিলড মাংস এবং ঐতিহ্যবাহী মিষ্টান্নের স্বাদ গ্রহণ করতে পারেন যখন আপনি লাইভ সঙ্গীত উপভোগ করেন। পরিবেশ প্রাণবন্ত এবং রাত কাটানোর জন্য একেবারে উপযুক্ত। দাম সাধারণত সাশ্রয়ী, $ থেকে $$।",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "তাস্কা ডো চিকো",
+          "type": "bar",
+          "description": "তাস্কা ডো চিকো একটি ঐতিহ্যবাহী ফাডো বার যা সুস্বাদু পর্তুগিজ পেটিস্কোসের সাথে একটি অনন্য সাংস্কৃতিক অভিজ্ঞতা প্রদান করে। সসেজ, পনির এবং আরও অনেক কিছু ছোট প্লেটের স্বাদ গ্রহণের সময় লাইভ ফাডো সঙ্গীত উপভোগ করুন। পরিবেশ উষ্ণ এবং স্বাগতম, এটি বিশ্রাম নেওয়ার জন্য একটি দুর্দান্ত জায়গা তৈরি করে। দাম যুক্তিসঙ্গত, প্রায় $ থেকে $$।",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Лиссабоне 2026 - Топ ресторанов и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Лиссабоне. От бюджетных блюд до изысканной кухни - с ссылками для бронирования.",
+      "page_intro": "Кулинарная культура Лиссабона - это яркое сочетание традиционных португальских вкусов и современных кулинарных инноваций. Город славится своей богатой историей морепродуктов, кондитерских изделий и разнообразием международных влияний. Будь то хрустящий пастéis de nata или свежий бакальяу, гастрономическая сцена Лиссабона предлагает что-то на любой вкус.",
+      "items": [
+        {
+          "id": "time-out-market",
+          "name": "Time Out Market",
+          "type": "street_food",
+          "description": "Time Out Market - это оживленный рынок еды, который демонстрирует лучшее из кулинарной сцены Лиссабона. С широким выбором уличных палаток и ресторанов, вы можете попробовать все, от гурманских сэндвичей до традиционных португальских блюд. Атмосфера живая и идеальна для гурманов, желающих попробовать различные вкусы в одном месте. Цены варьируются от $ до $$$.",
+          "image_keyword": "Time Out Market Lisbon",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bacalhau à Brás",
+          "klook_query": "Time Out Market Lisbon"
+        },
+        {
+          "id": "casa-patio",
+          "name": "Casa do Alentejo",
+          "type": "restaurant",
+          "description": "Расположенный в историческом здании, Casa do Alentejo предлагает вкусные блюда из региона Алентежу в Португалии. Декор ресторана отражает традиционный португальский стиль, создавая теплую и уютную атмосферу. Обязательно попробуйте их сытные мигас или сочные блюда из ягненка. Цены умеренные, от $$ до $$$.",
+          "image_keyword": "Casa do Alentejo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Migas com Carne de Porco",
+          "klook_query": "Casa do Alentejo restaurant booking"
+        },
+        {
+          "id": "mercado-da-boa-hora",
+          "name": "Mercado da Ribeira",
+          "type": "night_market",
+          "description": "Mercado da Ribeira - это оживленный рынок, который оживает по вечерам и предлагает разнообразные варианты уличной еды. Вы можете насладиться местными специалитетами, такими как сэндвичи бифана и свежие морепродукты, наслаждаясь живой атмосферой. Этот рынок - отличное место для тех, кто ищет непринужденную обстановку для ужина. Цены, как правило, доступные, от $ до $$.",
+          "image_keyword": "Mercado da Ribeira Lisbon",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Bifana",
+          "klook_query": "Mercado da Ribeira street food"
+        },
+        {
+          "id": "pasteis-de-belem",
+          "name": "Pastéis de Belém",
+          "type": "cafe",
+          "description": "Известный своими культовыми кремовыми тартами, Pastéis de Belém - это кафе, которое обязательно нужно посетить в Лиссабоне. Рецепт этих вкусных пастéis остается секретом с 1837 года. Наслаждайтесь ими, только что вышедшими из печи, посыпанными корицей и сахаром. Цены очень разумные, около $.",
+          "image_keyword": "Pastéis de Belém",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Pastéis de nata",
+          "klook_query": "Pastéis de Belém tour"
+        },
+        {
+          "id": "ramiro",
+          "name": "Cervejaria Ramiro",
+          "type": "restaurant",
+          "description": "Cervejaria Ramiro - это рай для любителей морепродуктов, известный своими свежими морепродуктами и традиционными португальскими блюдами. Непринужденная обстановка и дружелюбное обслуживание сделали его фаворитом как среди местных жителей, так и среди туристов. Обязательно попробуйте их сочные креветки с чесноком и жареного омара. Цены варьируются от $$ до $$$.",
+          "image_keyword": "Cervejaria Ramiro",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Garlic Shrimp",
+          "klook_query": "Cervejaria Ramiro booking"
+        },
+        {
+          "id": "taberna-da-rua",
+          "name": "Taberna da Rua das Flores",
+          "type": "restaurant",
+          "description": "Эта уютная таверна предлагает традиционную португальскую кухню с современным акцентом. Меню часто меняется в зависимости от сезонных ингредиентов, что обеспечивает уникальный опыт питания при каждом посещении. Уютная атмосфера и дружелюбный персонал добавляют очарования. Ожидайте заплатить около $$.",
+          "image_keyword": "Taberna da Rua das Flores",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Octopus Salad",
+          "klook_query": "Taberna da Rua das Flores reservation"
+        },
+        {
+          "id": "mercado-de-alfama",
+          "name": "Mercado de Alfama",
+          "type": "night_market",
+          "description": "Mercado de Alfama - это живой ночной рынок, предлагающий разнообразные местные продукты и напитки. Наслаждайтесь живой музыкой, пробуя вкусные тапас, жареное мясо и традиционные десерты. Атмосфера живая и отлично подходит для ночных выходов. Цены, как правило, доступные, от $ до $$.",
+          "image_keyword": "Mercado de Alfama",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fried Sardines",
+          "klook_query": "Mercado de Alfama food tour"
+        },
+        {
+          "id": "tascas-do-chiado",
+          "name": "Tasca do Chico",
+          "type": "bar",
+          "description": "Tasca do Chico - это традиционный бар Фадо, предлагающий уникальный культурный опыт вместе с вкусными португальскими пети́скос. Наслаждайтесь живой музыкой Фадо, пробуя небольшие порции чоризо, сыра и многого другого. Атмосфера теплая и приветливая, что делает его отличным местом для отдыха. Цены разумные, около $ до $$.",
+          "image_keyword": "Tasca do Chico",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Chorizo",
+          "klook_query": "Tasca do Chico Fado experience"
+        }
+      ]
+    }
+  }
+}

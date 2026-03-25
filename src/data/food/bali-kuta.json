@@ -1,0 +1,1145 @@
+{
+  "city_slug": "bali-kuta",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Bali 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Bali. From budget eats to fine dining — with booking links.",
+      "page_intro": "Bali is renowned for its vibrant food culture, offering a tantalizing mix of traditional Indonesian flavors and international cuisines. From bustling street markets to upscale dining experiences, the island caters to every palate and budget. Visitors can indulge in local specialties like Babi Guling and Nasi Campur, or explore the diverse offerings at popular night markets. Whether you're a foodie seeking culinary adventures or simply looking to savor the local fare, Bali promises a memorable gastronomic journey.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "Warung Babi Guling Ibu Oka",
+          "type": "restaurant",
+          "description": "Warung Babi Guling Ibu Oka is a must-visit for those wanting to taste Bali's famous roast pig. Situated in Ubud, this local favorite offers a vibrant, casual atmosphere where diners can enjoy succulent pork served with rice, vegetables, and spicy sambal. Known for its authenticity and rich flavors, it offers a unique dining experience at an affordable price. The bustling ambiance makes it a hit among both locals and tourists.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "La Lucciola",
+          "type": "restaurant",
+          "description": "Located on the picturesque Seminyak Beach, La Lucciola offers a fine dining experience with stunning ocean views. The menu features a delightful mix of Mediterranean and Asian cuisine, with dishes crafted from fresh local ingredients. The elegant setting and impeccable service make it perfect for romantic dinners or special occasions. Reservations are recommended to enjoy this upscale culinary treat.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "Ubud Night Market",
+          "type": "night_market",
+          "description": "The Ubud Night Market is a bustling hub of local food and culture, offering an array of traditional dishes and snacks. Visitors can indulge in satay, martabak, and other Indonesian specialties at wallet-friendly prices. The lively atmosphere, with its vibrant stalls and friendly vendors, provides a genuine taste of Balinese street food culture, making it a popular spot for both tourists and locals.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "Locavore",
+          "type": "restaurant",
+          "description": "Recognized for its innovative approach to Indonesian cuisine, Locavore in Ubud is a culinary gem. The restaurant focuses on locally sourced ingredients to deliver a contemporary dining experience. With a tasting menu that changes seasonally, diners are treated to inventive dishes that celebrate the island's rich biodiversity. Locavore's intimate setting and artistic presentations make it a must-visit for food enthusiasts.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "Bali Seminyak Street Food",
+          "type": "street_food",
+          "description": "In the vibrant streets of Seminyak, a diverse array of street food stalls offer a mouth-watering selection of local dishes. From spicy Nasi Goreng to sweet Pisang Goreng, the flavors are bold and authentic. The casual, open-air setting allows visitors to explore various culinary delights while soaking up the lively atmosphere of Bali's street food scene.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "Bali Food Festival",
+          "type": "night_market",
+          "description": "The Bali Food Festival is a celebration of the island's rich culinary heritage, bringing together food vendors from across the region. Visitors can sample a variety of dishes and beverages, enjoying everything from traditional Balinese fare to international cuisines. The festival's lively atmosphere, complete with live music and cultural performances, makes it an exciting event for food lovers.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "Naughty Nuri's",
+          "type": "restaurant",
+          "description": "Famous for its finger-licking ribs and killer cocktails, Naughty Nuri's is a popular spot in Ubud. The restaurant offers a lively and relaxed atmosphere where guests can enjoy hearty portions of barbecued meats alongside classic Indonesian sides. With its no-frills vibe and friendly service, Naughty Nuri's is a favorite among both locals and visitors looking for a casual dining experience.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "Warung Nasi Ayam Kedewatan",
+          "type": "restaurant",
+          "description": "A local favorite, Warung Nasi Ayam Kedewatan serves up delicious Balinese chicken rice. The dish includes tender chicken, spicy sambal, and various side dishes, offering a flavorful and satisfying meal. The casual and welcoming atmosphere, along with its affordable pricing, makes it a perfect stop for those wanting to experience traditional Balinese cuisine in a relaxed setting.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年巴厘岛最佳美食——顶级餐厅和街头美食指南",
+      "seo_description": "探索巴厘岛最佳餐厅、街头美食和当地特色。从预算餐到高档餐厅——附预订链接。",
+      "page_intro": "巴厘岛以其充满活力的美食文化而闻名，提供传统印尼风味与国际美食的诱人混合。从繁忙的街头市场到高档用餐体验，岛上迎合各种口味和预算。游客可以品尝当地特色菜肴如Babi Guling和Nasi Campur，或在热门夜市探索各种美食。不论您是寻求美食冒险的饕客，还是只是想享受当地美味，巴厘岛都承诺为您带来难忘的美食之旅。",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "Warung Babi Guling Ibu Oka",
+          "type": "restaurant",
+          "description": "Warung Babi Guling Ibu Oka 是品尝巴厘岛著名烤猪肉的必去之地。位于乌布，这家当地人喜爱的餐馆提供充满活力的休闲氛围，食客可以享用多汁的猪肉配米饭、蔬菜和辣味三巴酱。以其正宗和丰富的风味而闻名，提供独特的用餐体验，价格实惠。热闹的氛围使其成为当地人和游客的热门选择。",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "La Lucciola",
+          "type": "restaurant",
+          "description": "位于风景如画的塞米亚克海滩，La Lucciola 提供带有壮丽海景的高档用餐体验。菜单结合了地中海和亚洲美食，菜品由新鲜的当地食材制成。优雅的环境和无可挑剔的服务使其成为浪漫晚餐或特别场合的理想选择。建议预约以享受这次高档美食体验。",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "乌布夜市",
+          "type": "night_market",
+          "description": "乌布夜市是当地美食和文化的繁华中心，提供各种传统菜肴和小吃。游客可以以实惠的价格享用沙爹、马尔塔巴和其他印尼特色菜肴。充满活力的摊位和友好的小贩营造出热闹的氛围，提供了巴厘岛街头美食文化的真实感受，使其成为游客和当地人的热门地点。",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "Locavore",
+          "type": "restaurant",
+          "description": "以其对印尼美食的创新方法而闻名，位于乌布的 Locavore 是一颗美食瑰宝。餐厅专注于本地采购的食材，提供现代用餐体验。随着季节变化的品尝菜单，食客将享受到庆祝岛屿丰富生物多样性的创新菜肴。Locavore 的亲密环境和艺术展示使其成为美食爱好者的必访之地。",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "巴厘岛塞米亚克街头美食",
+          "type": "street_food",
+          "description": "在充满活力的塞米亚克街头，各种街头美食摊位提供令人垂涎的当地菜肴选择。从辛辣的炒饭到甜美的煎香蕉，味道大胆而正宗。休闲的露天环境让游客在享受巴厘岛街头美食场景的热闹氛围的同时探索各种美食。",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "巴厘岛美食节",
+          "type": "night_market",
+          "description": "巴厘岛美食节是对岛屿丰富烹饪遗产的庆祝，汇集了来自该地区的食品供应商。游客可以品尝各种菜肴和饮料，享受从传统巴厘岛美食到国际美食。节日的热闹氛围，加上现场音乐和文化表演，使其成为美食爱好者的兴奋事件。",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "Naughty Nuri's",
+          "type": "restaurant",
+          "description": "以其美味的排骨和招牌鸡尾酒而闻名，Naughty Nuri's 是乌布的热门地点。这家餐厅提供生动和轻松的氛围，客人可以享用丰富的烧烤肉类和经典的印尼配菜。凭借其简单无华的氛围和友好的服务，Naughty Nuri's 是当地人和游客寻找休闲用餐体验的最爱。",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "Warung Nasi Ayam Kedewatan",
+          "type": "restaurant",
+          "description": "作为当地人的最爱，Warung Nasi Ayam Kedewatan 提供美味的巴厘岛鸡肉饭。这道菜包括嫩滑的鸡肉、辛辣的三巴酱和各种配菜，提供了一顿美味而令人满足的餐点。休闲和友好的氛围，加上其实惠的价格，使其成为想要在轻松环境中体验传统巴厘岛美食的完美停留点。",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年バリ島のベストフード — トップレストラン & ストリートフードガイド",
+      "seo_description": "バリ島で最高のレストラン、ストリートフード、地元の名物を発見しましょう。予算から高級料理まで — 予約リンク付き。",
+      "page_intro": "バリ島はその活気ある食文化で知られ、伝統的なインドネシアの風味と国際的な料理が魅惑的に混ざり合っています。賑やかなストリートマーケットから高級ダイニングまで、島はあらゆる味覚と予算に応えます。訪問者はバビグリンやナシチャンプルなどの地元の名物を楽しむことができ、人気のナイトマーケットで多様な料理を探検できます。美食家が料理の冒険を求める場合でも、単に地元の料理を味わいたい場合でも、バリは忘れられない美食の旅を約束します。",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "ワルン・バビ・グリン・イブ・オカ",
+          "type": "restaurant",
+          "description": "ワルン・バビ・グリン・イブ・オカは、バリ島の有名なローストポークを味わいたい人にとって必訪の場所です。ウブドに位置し、この地元のお気に入りの店は活気に満ちたカジュアルな雰囲気を提供し、ダイナーはライス、野菜、スパイシーなサンバルと一緒にジューシーなポークを楽しむことができます。その本格的な味と豊かな風味で知られ、手頃な価格でユニークな食事体験を提供します。賑やかな雰囲気は、地元の人々と観光客の両方に人気です。",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "ラ・ルッチオラ",
+          "type": "restaurant",
+          "description": "風光明媚なスミニャックビーチに位置するラ・ルッチオラは、素晴らしいオーシャンビューを楽しめる高級ダイニング体験を提供します。メニューには地中海料理とアジア料理の魅力的なミックスがあり、地元の新鮮な食材から作られた料理が特徴です。エレガントな設定と完璧なサービスは、ロマンチックなディナーや特別なイベントに最適です。この高級料理を楽しむために予約をお勧めします。",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "ウブド・ナイトマーケット",
+          "type": "night_market",
+          "description": "ウブド・ナイトマーケットは、地元の食文化の中心地で、多種多様な伝統料理やスナックを提供しています。訪問者は、財布に優しい価格でサテ、マルタバック、その他のインドネシア料理を楽しむことができます。活気に満ちた屋台とフレンドリーなベンダーが作り出す賑やかな雰囲気は、バリのストリートフード文化の本物の味を提供し、観光客と地元の人々の間で人気のスポットです。",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "ロカヴォア",
+          "type": "restaurant",
+          "description": "インドネシア料理への革新的なアプローチで認められているウブドのロカヴォアは、料理の宝石です。レストランは地元で調達された食材に焦点を当て、現代的な食事体験を提供します。季節ごとに変わるテイスティングメニューで、食事客は島の豊かな生物多様性を祝う革新的な料理を楽しむことができます。ロカヴォアの親密な設定と芸術的なプレゼンテーションは、食通にとって必訪の場所です。",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "バリ・スミニャック・ストリートフード",
+          "type": "street_food",
+          "description": "活気に満ちたスミニャックの街の中で、多様なストリートフードの屋台が地元料理の食欲をそそるセレクションを提供します。スパイシーなナシゴレンから甘いピサンゴレンまで、風味は大胆で本格的です。カジュアルでオープンエアーの設定により、訪問者はバリのストリートフードシーンの賑やかな雰囲気を楽しみながらさまざまな料理を探検できます。",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "バリ・フードフェスティバル",
+          "type": "night_market",
+          "description": "バリ・フードフェスティバルは、島の豊かな料理遺産を祝うイベントで、地域中の食品業者が集まります。訪問者は、伝統的なバリ料理から国際的な料理まで、多様な料理や飲み物を楽しむことができます。ライブ音楽や文化公演を含む祭りの賑やかな雰囲気は、食通にとってエキサイティングなイベントです。",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "ノーティ・ヌリズ",
+          "type": "restaurant",
+          "description": "その指を舐めるほど美味しいリブとキラーカクテルで有名なノーティ・ヌリズは、ウブドの人気スポットです。レストランは生き生きとしたリラックスした雰囲気を提供し、ゲストはクラシックなインドネシアのサイドと一緒にボリューム満点のバーベキュー肉を楽しむことができます。シンプルで飾らない雰囲気とフレンドリーなサービスで、ノーティ・ヌリズはカジュアルな食事体験を求める地元の人々と訪問者の間でお気に入りです。",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "ワルン・ナシ・アヤム・ケデワタン",
+          "type": "restaurant",
+          "description": "地元で人気のワルン・ナシ・アヤム・ケデワタンは、美味しいバリ風チキンライスを提供しています。この料理は、柔らかいチキン、スパイシーなサンバル、さまざまなサイドディッシュを含み、風味豊かで満足のいく食事を提供します。カジュアルで歓迎的な雰囲気と手頃な価格で、リラックスした環境で伝統的なバリ料理を体験したい人にとって理想的な立ち寄り先です。",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 발리 최고의 음식 — 최고의 레스토랑 & 길거리 음식 가이드",
+      "seo_description": "발리에서 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 예산 식사부터 고급 요리까지 — 예약 링크 포함.",
+      "page_intro": "발리는 활기찬 음식 문화로 유명하며, 전통 인도네시아 맛과 국제 요리가 매혹적으로 어우러집니다. 번화한 거리 시장부터 고급 식사 경험까지, 섬은 모든 입맛과 예산에 맞춰져 있습니다. 방문객들은 바비굴링과 나시 참푸르 같은 지역 특산품을 즐기거나 인기 있는 야시장에서는 다양한 음식을 탐험할 수 있습니다. 미식가들이 요리 모험을 찾는 경우든 단순히 지역 음식을 맛보고 싶은 경우든, 발리는 잊을 수 없는 미식 여행을 약속합니다.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "와룽 바비 굴링 이부 오카",
+          "type": "restaurant",
+          "description": "와룽 바비 굴링 이부 오카는 발리의 유명한 로스트 포크를 맛보고 싶은 사람들에게 꼭 방문해야 할 곳입니다. 우붓에 위치한 이 지역에서 인기 있는 식당은 활기차고 캐주얼한 분위기를 제공하며, 손님들은 쌀, 채소, 매운 삼발과 함께 육즙이 많은 돼지고기를 즐길 수 있습니다. 그 진정성과 풍부한 맛으로 유명하며, 저렴한 가격에 독특한 식사 경험을 제공합니다. 북적이는 분위기는 현지인과 관광객 모두에게 인기가 있습니다.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "라 루치올라",
+          "type": "restaurant",
+          "description": "그림 같은 스미냑 해변에 위치한 라 루치올라는 멋진 바다 전망을 감상할 수 있는 고급 식사 경험을 제공합니다. 메뉴에는 신선한 지역 재료로 만든 지중해 및 아시아 요리가 매력적으로 혼합되어 있습니다. 우아한 환경과 흠잡을 데 없는 서비스는 로맨틱한 저녁 식사나 특별한 행사에 안성맞춤입니다. 이 고급 요리를 즐기기 위해 예약을 권장합니다.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "우붓 야시장",
+          "type": "night_market",
+          "description": "우붓 야시장은 다양한 전통 요리와 간식을 제공하는 지역 음식과 문화의 중심지입니다. 방문객들은 저렴한 가격에 사테이, 마르타박, 기타 인도네시아 특산품을 즐길 수 있습니다. 활기찬 노점과 친절한 상인들이 만들어내는 생동감 넘치는 분위기는 발리의 길거리 음식 문화를 진정으로 맛볼 수 있게 해주며, 관광객과 현지인 모두에게 인기 있는 장소입니다.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "로카보어",
+          "type": "restaurant",
+          "description": "인도네시아 요리에 대한 혁신적인 접근 방식으로 인정받는 우붓의 로카보어는 요리의 보석입니다. 레스토랑은 현지에서 조달한 재료에 집중하여 현대적인 식사 경험을 제공합니다. 계절마다 변화하는 테이스팅 메뉴를 통해 손님들은 섬의 풍부한 생물다양성을 기념하는 창의적인 요리를 즐길 수 있습니다. 로카보어의 친밀한 분위기와 예술적인 프레젠테이션은 미식가들에게 꼭 방문해야 할 장소입니다.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "발리 스미냑 길거리 음식",
+          "type": "street_food",
+          "description": "활기찬 스미냑 거리에서 다양한 길거리 음식 노점들이 입맛을 돋우는 지역 요리를 제공합니다. 매운 나시고렝부터 달콤한 피상고렝까지, 맛은 대담하고 진정합니다. 캐주얼하고 오픈 에어의 설정은 방문객들이 발리 길거리 음식 장면의 활기찬 분위기를 즐기면서 다양한 요리를 탐험할 수 있게 해줍니다.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "발리 음식 축제",
+          "type": "night_market",
+          "description": "발리 음식 축제는 섬의 풍부한 요리 유산을 기념하는 행사로, 지역 전역에서 음식 공급업체들이 모입니다. 방문객들은 전통 발리 요리부터 국제 요리까지 다양한 요리와 음료를 맛볼 수 있습니다. 라이브 음악과 문화 공연이 포함된 축제의 활기찬 분위기는 미식가들에게 흥미진진한 이벤트입니다.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "너티 누리스",
+          "type": "restaurant",
+          "description": "맛있는 립과 킬러 칵테일로 유명한 너티 누리스는 우붓에서 인기 있는 장소입니다. 레스토랑은 생기 넘치고 편안한 분위기를 제공하며, 손님들은 클래식한 인도네시아 사이드와 함께 푸짐한 양의 바비큐 고기를 즐길 수 있습니다. 간단하고 소박한 분위기와 친절한 서비스로, 너티 누리스는 캐주얼한 식사 경험을 찾는 현지인과 방문객들 사이에서 사랑받고 있습니다.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "와룽 나시 아얌 케더와탄",
+          "type": "restaurant",
+          "description": "현지에서 인기 있는 와룽 나시 아얌 케더와탄은 맛있는 발리식 치킨 라이스를 제공합니다. 이 요리는 부드러운 치킨, 매운 삼발, 다양한 사이드 디쉬로 구성되어 있으며, 풍미롭고 만족스러운 식사를 제공합니다. 캐주얼하고 환영받는 분위기와 저렴한 가격으로, 전통 발리 요리를 편안한 환경에서 경험하고자 하는 사람들에게 이상적인 장소입니다.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Bali 2026 — Guide des Meilleurs Restaurants & Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Bali. Des repas économiques aux dîners raffinés — avec des liens de réservation.",
+      "page_intro": "Bali est réputée pour sa culture culinaire dynamique, offrant un mélange alléchant de saveurs traditionnelles indonésiennes et de cuisines internationales. Des marchés de rue animés aux expériences gastronomiques haut de gamme, l'île s'adresse à tous les palais et à tous les budgets. Les visiteurs peuvent se régaler de spécialités locales comme le Babi Guling et le Nasi Campur, ou explorer les offres diversifiées des marchés nocturnes populaires. Que vous soyez un gourmet à la recherche d'aventures culinaires ou simplement désireux de savourer la cuisine locale, Bali promet un voyage gastronomique mémorable.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "Warung Babi Guling Ibu Oka",
+          "type": "restaurant",
+          "description": "Warung Babi Guling Ibu Oka est un incontournable pour ceux qui veulent goûter au célèbre cochon rôti de Bali. Situé à Ubud, ce favori local offre une atmosphère vibrante et décontractée où les convives peuvent déguster du porc succulent servi avec du riz, des légumes et du sambal épicé. Connu pour son authenticité et ses saveurs riches, il offre une expérience culinaire unique à un prix abordable. L'ambiance animée en fait un succès parmi les locaux et les touristes.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "La Lucciola",
+          "type": "restaurant",
+          "description": "Situé sur la pittoresque plage de Seminyak, La Lucciola offre une expérience gastronomique raffinée avec une vue imprenable sur l'océan. Le menu propose un délicieux mélange de cuisine méditerranéenne et asiatique, avec des plats élaborés à partir d'ingrédients locaux frais. Le cadre élégant et le service impeccable en font un choix parfait pour les dîners romantiques ou les occasions spéciales. Les réservations sont recommandées pour profiter de cette expérience culinaire haut de gamme.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "Marché de Nuit d'Ubud",
+          "type": "night_market",
+          "description": "Le Marché de Nuit d'Ubud est un centre animé de nourriture locale et de culture, offrant une gamme de plats traditionnels et de collations. Les visiteurs peuvent se régaler de satay, martabak et d'autres spécialités indonésiennes à des prix abordables. L'atmosphère animée, avec ses stands vibrants et ses vendeurs amicaux, offre un véritable goût de la culture de la street food balinaise, en faisant un endroit populaire pour les touristes et les locaux.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "Locavore",
+          "type": "restaurant",
+          "description": "Reconnu pour son approche innovante de la cuisine indonésienne, Locavore à Ubud est un joyau culinaire. Le restaurant se concentre sur les ingrédients locaux pour offrir une expérience culinaire contemporaine. Avec un menu de dégustation qui change au gré des saisons, les convives sont traités à des plats inventifs qui célèbrent la riche biodiversité de l'île. Le cadre intime et les présentations artistiques de Locavore en font une visite incontournable pour les amateurs de bonne cuisine.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "Street Food de Seminyak à Bali",
+          "type": "street_food",
+          "description": "Dans les rues animées de Seminyak, une diversité de stands de street food offre une sélection appétissante de plats locaux. Du Nasi Goreng épicé au Pisang Goreng sucré, les saveurs sont audacieuses et authentiques. Le cadre décontracté en plein air permet aux visiteurs d'explorer diverses délices culinaires tout en profitant de l'atmosphère animée de la scène de street food de Bali.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "Festival de la Nourriture à Bali",
+          "type": "night_market",
+          "description": "Le Festival de la Nourriture à Bali est une célébration du riche patrimoine culinaire de l'île, réunissant des vendeurs de nourriture de toute la région. Les visiteurs peuvent goûter à une variété de plats et de boissons, profitant de tout, de la cuisine balinaise traditionnelle aux cuisines internationales. L'atmosphère animée du festival, complétée par de la musique live et des performances culturelles, en fait un événement excitant pour les amateurs de nourriture.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "Naughty Nuri's",
+          "type": "restaurant",
+          "description": "Célèbre pour ses côtes délicieuses et ses cocktails impressionnants, Naughty Nuri's est un endroit populaire à Ubud. Le restaurant offre une atmosphère animée et décontractée où les invités peuvent déguster des portions copieuses de viandes barbecue accompagnées d'accompagnements indonésiens classiques. Avec son ambiance sans fioritures et son service amical, Naughty Nuri's est un favori parmi les locaux et les visiteurs à la recherche d'une expérience culinaire décontractée.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "Warung Nasi Ayam Kedewatan",
+          "type": "restaurant",
+          "description": "Un favori local, Warung Nasi Ayam Kedewatan sert un délicieux riz au poulet balinais. Le plat comprend du poulet tendre, du sambal épicé et divers accompagnements, offrant un repas savoureux et satisfaisant. L'atmosphère décontractée et accueillante, ainsi que ses prix abordables, en font un arrêt parfait pour ceux qui veulent découvrir la cuisine balinaise traditionnelle dans un cadre détendu.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Bali 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Bali. Desde comidas económicas hasta cenas de lujo — con enlaces de reserva.",
+      "page_intro": "Bali es conocida por su vibrante cultura gastronómica, ofreciendo una mezcla tentadora de sabores tradicionales indonesios y cocinas internacionales. Desde bulliciosos mercados callejeros hasta experiencias gastronómicas exclusivas, la isla satisface todo tipo de paladares y presupuestos. Los visitantes pueden disfrutar de especialidades locales como Babi Guling y Nasi Campur, o explorar las diversas ofertas en los populares mercados nocturnos. Ya sea que busques aventuras culinarias o simplemente desees saborear la comida local, Bali promete un viaje gastronómico inolvidable.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "Warung Babi Guling Ibu Oka",
+          "type": "restaurant",
+          "description": "Warung Babi Guling Ibu Oka es una visita obligada para aquellos que desean probar el famoso cerdo asado de Bali. Situado en Ubud, este favorito local ofrece un ambiente vibrante y casual donde los comensales pueden disfrutar de suculento cerdo servido con arroz, vegetales y sambal picante. Conocido por su autenticidad y sabores ricos, ofrece una experiencia culinaria única a un precio asequible. El ambiente bullicioso lo convierte en un éxito entre los locales y los turistas.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "La Lucciola",
+          "type": "restaurant",
+          "description": "Ubicado en la pintoresca playa de Seminyak, La Lucciola ofrece una experiencia gastronómica de lujo con impresionantes vistas al océano. El menú presenta una deliciosa mezcla de cocina mediterránea y asiática, con platos elaborados a partir de ingredientes locales frescos. El entorno elegante y el servicio impecable lo hacen perfecto para cenas románticas o ocasiones especiales. Se recomienda reservar para disfrutar de este manjar culinario de alto nivel.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "Mercado Nocturno de Ubud",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Ubud es un centro bullicioso de comida y cultura local, que ofrece una variedad de platos tradicionales y bocadillos. Los visitantes pueden deleitarse con satay, martabak y otras especialidades indonesias a precios económicos. La atmósfera animada, con sus puestos vibrantes y vendedores amistosos, ofrece un verdadero sabor de la cultura de la comida callejera balinesa, convirtiéndolo en un lugar popular tanto para turistas como para locales.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "Locavore",
+          "type": "restaurant",
+          "description": "Reconocido por su enfoque innovador de la cocina indonesia, Locavore en Ubud es una joya culinaria. El restaurante se enfoca en ingredientes de origen local para ofrecer una experiencia gastronómica contemporánea. Con un menú de degustación que cambia según la temporada, los comensales disfrutan de platos inventivos que celebran la rica biodiversidad de la isla. El ambiente íntimo y las presentaciones artísticas de Locavore lo convierten en una visita obligada para los entusiastas de la gastronomía.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "Comida Callejera de Seminyak en Bali",
+          "type": "street_food",
+          "description": "En las vibrantes calles de Seminyak, una diversa gama de puestos de comida callejera ofrece una selección deliciosa de platos locales. Desde el picante Nasi Goreng hasta el dulce Pisang Goreng, los sabores son audaces y auténticos. El entorno casual al aire libre permite a los visitantes explorar diversas delicias culinarias mientras disfrutan del ambiente animado de la escena de la comida callejera de Bali.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "Festival de Comida de Bali",
+          "type": "night_market",
+          "description": "El Festival de Comida de Bali es una celebración del rico patrimonio culinario de la isla, reuniendo a vendedores de comida de toda la región. Los visitantes pueden degustar una variedad de platos y bebidas, disfrutando de todo, desde la comida balinesa tradicional hasta las cocinas internacionales. La atmósfera animada del festival, complementada con música en vivo y actuaciones culturales, lo convierte en un evento emocionante para los amantes de la comida.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "Naughty Nuri's",
+          "type": "restaurant",
+          "description": "Famoso por sus costillas para chuparse los dedos y cócteles impresionantes, Naughty Nuri's es un lugar popular en Ubud. El restaurante ofrece un ambiente animado y relajado donde los huéspedes pueden disfrutar de generosas porciones de carnes a la barbacoa junto con acompañamientos indonesios clásicos. Con su ambiente sin pretensiones y su servicio amigable, Naughty Nuri's es un favorito entre los locales y los visitantes que buscan una experiencia gastronómica casual.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "Warung Nasi Ayam Kedewatan",
+          "type": "restaurant",
+          "description": "Un favorito local, Warung Nasi Ayam Kedewatan ofrece un delicioso arroz con pollo balinés. El plato incluye pollo tierno, sambal picante y varios acompañamientos, ofreciendo una comida sabrosa y satisfactoria. El ambiente casual y acogedor, junto con sus precios asequibles, lo convierten en una parada perfecta para aquellos que desean experimentar la cocina balinesa tradicional en un entorno relajado.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Bali 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran, makanan jalanan, dan makanan khas lokal terbaik di Bali. Dari santapan murah hingga mewah — dengan tautan pemesanan.",
+      "page_intro": "Bali terkenal dengan budaya makanannya yang beragam, menawarkan campuran menggoda dari cita rasa tradisional Indonesia dan masakan internasional. Dari pasar jalanan yang ramai hingga pengalaman makan kelas atas, pulau ini melayani setiap selera dan anggaran. Pengunjung dapat menikmati makanan khas lokal seperti Babi Guling dan Nasi Campur, atau menjelajahi berbagai pilihan di pasar malam yang populer. Apakah Anda seorang pecinta kuliner yang mencari petualangan kuliner atau sekadar ingin menikmati hidangan lokal, Bali menjanjikan perjalanan gastronomi yang tak terlupakan.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "Warung Babi Guling Ibu Oka",
+          "type": "restaurant",
+          "description": "Warung Babi Guling Ibu Oka adalah tempat yang harus dikunjungi bagi mereka yang ingin mencicipi babi panggang terkenal di Bali. Terletak di Ubud, favorit lokal ini menawarkan suasana yang hidup dan santai di mana pengunjung dapat menikmati daging babi yang lezat disajikan dengan nasi, sayuran, dan sambal pedas. Dikenal karena keasliannya dan rasa yang kaya, tempat ini menawarkan pengalaman makan yang unik dengan harga terjangkau. Suasana yang ramai menjadikannya favorit di kalangan penduduk lokal dan turis.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "La Lucciola",
+          "type": "restaurant",
+          "description": "Terletak di Pantai Seminyak yang indah, La Lucciola menawarkan pengalaman makan mewah dengan pemandangan laut yang menakjubkan. Menu ini menampilkan campuran masakan Mediterania dan Asia yang lezat, dengan hidangan yang dibuat dari bahan-bahan lokal segar. Suasana yang elegan dan layanan yang sempurna menjadikannya sempurna untuk makan malam romantis atau acara khusus. Disarankan untuk memesan terlebih dahulu untuk menikmati hidangan kuliner kelas atas ini.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "Pasar Malam Ubud",
+          "type": "night_market",
+          "description": "Pasar Malam Ubud adalah pusat makanan dan budaya lokal yang ramai, menawarkan berbagai hidangan tradisional dan makanan ringan. Pengunjung dapat menikmati sate, martabak, dan makanan khas Indonesia lainnya dengan harga terjangkau. Suasana yang hidup, dengan kios yang ramai dan penjual yang ramah, memberikan rasa autentik dari budaya makanan jalanan Bali, menjadikannya tempat populer bagi wisatawan dan penduduk lokal.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "Locavore",
+          "type": "restaurant",
+          "description": "Diakui karena pendekatannya yang inovatif terhadap masakan Indonesia, Locavore di Ubud adalah permata kuliner. Restoran ini berfokus pada bahan-bahan lokal untuk memberikan pengalaman makan yang kontemporer. Dengan menu pencicipan yang berubah sesuai musim, pengunjung disuguhi hidangan inventif yang merayakan keanekaragaman hayati pulau yang kaya. Suasana intim Locavore dan presentasi artistik menjadikannya tempat yang harus dikunjungi bagi para penggemar makanan.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "Makanan Jalan Seminyak Bali",
+          "type": "street_food",
+          "description": "Di jalan-jalan ramai di Seminyak, beragam jajanan makanan jalanan menawarkan pilihan hidangan lokal yang menggugah selera. Dari Nasi Goreng pedas hingga Pisang Goreng manis, rasanya berani dan autentik. Suasana santai di luar ruangan memungkinkan pengunjung menjelajahi berbagai kelezatan kuliner sambil menikmati suasana ramai dari pemandangan makanan jalanan Bali.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "Festival Makanan Bali",
+          "type": "night_market",
+          "description": "Festival Makanan Bali adalah perayaan warisan kuliner pulau yang kaya, mengumpulkan penjual makanan dari seluruh wilayah. Pengunjung dapat mencicipi berbagai hidangan dan minuman, menikmati segala sesuatu mulai dari masakan Bali tradisional hingga masakan internasional. Suasana festival yang meriah, dilengkapi dengan musik live dan pertunjukan budaya, menjadikannya acara yang menarik bagi para pecinta makanan.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "Naughty Nuri's",
+          "type": "restaurant",
+          "description": "Terkenal dengan iga yang lezat dan koktail mematikan, Naughty Nuri's adalah tempat populer di Ubud. Restoran ini menawarkan suasana yang hidup dan santai di mana para tamu dapat menikmati porsi besar daging panggang bersama hidangan khas Indonesia klasik. Dengan suasana yang sederhana dan layanan yang ramah, Naughty Nuri's menjadi favorit di kalangan penduduk lokal dan pengunjung yang mencari pengalaman makan santai.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "Warung Nasi Ayam Kedewatan",
+          "type": "restaurant",
+          "description": "Favorit lokal, Warung Nasi Ayam Kedewatan menyajikan nasi ayam Bali yang lezat. Hidangan ini mencakup ayam yang empuk, sambal pedas, dan berbagai hidangan pendamping, menawarkan makanan yang lezat dan memuaskan. Suasana santai dan ramah, bersama dengan harga yang terjangkau, menjadikannya tempat yang sempurna bagi mereka yang ingin merasakan masakan tradisional Bali dalam suasana santai.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "बाली में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और सड़क भोजन गाइड",
+      "seo_description": "बाली के सर्वश्रेष्ठ रेस्तरां, सड़क भोजन और स्थानीय विशेषताओं की खोज करें। बजट खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "बाली अपने जीवंत खाद्य संस्कृति के लिए प्रसिद्ध है, जो पारंपरिक इंडोनेशियाई स्वादों और अंतरराष्ट्रीय व्यंजनों का एक आकर्षक मिश्रण प्रस्तुत करता है। व्यस्त सड़क बाजारों से लेकर उच्चस्तरीय भोजन अनुभवों तक, द्वीप हर स्वाद और बजट के लिए तैयार है। आगंतुक बाबी गुलिंग और नासी चम्पुर जैसी स्थानीय विशेषताओं का आनंद ले सकते हैं, या लोकप्रिय नाइट मार्केट्स में विविध पेशकशों का पता लगा सकते हैं। चाहे आप एक खाद्य प्रेमी हों जो पाक साहसिकता की खोज कर रहे हों या बस स्थानीय भोजन का स्वाद लेना चाहते हों, बाली एक यादगार गैस्ट्रोनॉमिक यात्रा का वादा करता है।",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "वरुंग बाबी गुलिंग इबू ओका",
+          "type": "restaurant",
+          "description": "वरुंग बाबी गुलिंग इबू ओका बाली के प्रसिद्ध भुने सूअर का मांस चखने के इच्छुक लोगों के लिए अवश्य जाना चाहिए। उबुद में स्थित, यह स्थानीय पसंदीदा एक जीवंत, अनौपचारिक वातावरण प्रदान करता है जहाँ भोजनकर्ता चावल, सब्जियों और मसालेदार सांबल के साथ परोसे गए रसदार सूअर के मांस का आनंद ले सकते हैं। अपनी प्रामाणिकता और समृद्ध स्वादों के लिए जाना जाता है, यह एक अनोखा भोजन अनुभव सस्ती कीमत पर प्रदान करता है। व्यस्त माहौल इसे स्थानीय और पर्यटकों दोनों के बीच हिट बनाता है।",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "ला लुचिओला",
+          "type": "restaurant",
+          "description": "चित्रमय सेमिन्याक बीच पर स्थित, ला लुचिओला आश्चर्यजनक समुद्री दृश्यों के साथ एक फाइन डाइनिंग अनुभव प्रदान करता है। मेनू में ताजा स्थानीय सामग्री से निर्मित भूमध्य और एशियाई व्यंजनों का एक मनमोहक मिश्रण है। सुरुचिपूर्ण सेटिंग और बेमिसाल सेवा इसे रोमांटिक डिनर या विशेष अवसरों के लिए परफेक्ट बनाते हैं। इस उच्चस्तरीय पाक उपचार का आनंद लेने के लिए आरक्षण की सिफारिश की जाती है।",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "उबुद नाइट मार्केट",
+          "type": "night_market",
+          "description": "उबुद नाइट मार्केट स्थानीय भोजन और संस्कृति का एक व्यस्त केंद्र है, पारंपरिक व्यंजनों और स्नैक्स की एक श्रृंखला की पेशकश करता है। आगंतुक सस्ते दामों पर साटे, मार्टबक, और अन्य इंडोनेशियाई विशेषताओं का आनंद ले सकते हैं। इसके जीवंत स्टालों और मित्रतापूर्ण विक्रेताओं के साथ जीवंत माहौल बाली के सड़क भोजन संस्कृति का वास्तविक स्वाद प्रदान करता है, जिससे यह पर्यटकों और स्थानीय लोगों के लिए एक लोकप्रिय स्थान बन जाता है।",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "लोकावोर",
+          "type": "restaurant",
+          "description": "इंडोनेशियाई व्यंजनों की अपनी नवाचारी दृष्टिकोण के लिए मान्यता प्राप्त, उबुद का लोकावोर एक पाक रत्न है। रेस्तरां स्थानीय स्रोतों से लिए गए सामग्रियों पर ध्यान केंद्रित करता है ताकि एक समकालीन भोजन अनुभव प्रदान किया जा सके। एक चखने वाला मेनू जो मौसमी रूप से बदलता है, भोजनकर्ताओं को द्वीप की समृद्ध जैव विविधता का जश्न मनाने वाले आविष्कारी व्यंजन पेश करता है। लोकावोर की अंतरंग सेटिंग और कलात्मक प्रस्तुतियाँ इसे खाद्य प्रेमियों के लिए अवश्य जाना चाहिए बनाती हैं।",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "बाली सेमिन्याक स्ट्रीट फूड",
+          "type": "street_food",
+          "description": "सेमिन्याक की जीवंत सड़कों में, सड़क भोजन स्टालों की एक विविध श्रृंखला स्थानीय व्यंजनों का मुँह में पानी लाने वाला चयन प्रस्तुत करती है। मसालेदार नासी गोरेन्ग से लेकर मीठे पिसांग गोरेन्ग तक, स्वाद बोल्ड और प्रामाणिक हैं। आकस्मिक, खुले वातावरण के कारण आगंतुक बाली के सड़क भोजन दृश्य के जीवंत माहौल में भीगते हुए विभिन्न पाक स्वादों का पता लगा सकते हैं।",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "बाली फूड फेस्टिवल",
+          "type": "night_market",
+          "description": "बाली फूड फेस्टिवल द्वीप की समृद्ध पाक विरासत का एक उत्सव है, जो पूरे क्षेत्र से खाद्य विक्रेताओं को एक साथ लाता है। आगंतुक पारंपरिक बाली भोजन से लेकर अंतरराष्ट्रीय व्यंजनों तक विभिन्न व्यंजनों और पेय का आनंद ले सकते हैं। लाइव संगीत और सांस्कृतिक प्रदर्शनों के साथ उत्सव का जीवंत माहौल इसे खाद्य प्रेमियों के लिए एक रोमांचक कार्यक्रम बनाता है।",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "नॉटी नूरीस",
+          "type": "restaurant",
+          "description": "अपनी उंगली चाटने वाले रिब्स और शानदार कॉकटेल के लिए प्रसिद्ध, नॉटी नूरीस उबुद में एक लोकप्रिय स्थान है। रेस्तरां एक जीवंत और आरामदायक माहौल प्रदान करता है जहाँ मेहमान बारबेक्यू मीट के हार्दिक हिस्सों का आनंद भारतीय पारंपरिक साइड्स के साथ ले सकते हैं। अपनी नो-फ्रिल्स वाइब और मित्रतापूर्ण सेवा के साथ, नॉटी नूरीस स्थानीय और आगंतुकों के बीच एक पसंदीदा है जो एक आकस्मिक भोजन अनुभव की तलाश में हैं।",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "वरुंग नासी आयम केदेवतन",
+          "type": "restaurant",
+          "description": "एक स्थानीय पसंदीदा, वरुंग नासी आयम केदेवतन स्वादिष्ट बालिनी चावल के साथ चिकन परोसता है। व्यंजन में नरम चिकन, मसालेदार सांबल, और विभिन्न साइड डिश शामिल होते हैं, जो एक स्वादिष्ट और संतोषजनक भोजन प्रदान करते हैं। अनौपचारिक और स्वागत करने वाला माहौल, इसके साथ ही इसकी सस्ती कीमत इसे पारंपरिक बालिनी व्यंजन का अनुभव करने के इच्छुक लोगों के लिए एक आदर्श स्थान बनाते हैं।",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Bali 2026 — Guia de Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Bali. De comidas econômicas a jantares finos — com links para reservas.",
+      "page_intro": "Bali é renomada por sua vibrante cultura gastronômica, oferecendo uma mistura tentadora de sabores tradicionais indonésios e culinárias internacionais. De mercados de rua movimentados a experiências gastronômicas sofisticadas, a ilha atende a todos os gostos e orçamentos. Os visitantes podem se deliciar com especialidades locais como Babi Guling e Nasi Campur, ou explorar as diversas ofertas nos populares mercados noturnos. Seja você um amante da gastronomia em busca de aventuras culinárias ou apenas querendo saborear a culinária local, Bali promete uma jornada gastronômica memorável.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "Warung Babi Guling Ibu Oka",
+          "type": "restaurant",
+          "description": "Warung Babi Guling Ibu Oka é um local imperdível para quem quer provar o famoso porco assado de Bali. Situado em Ubud, este favorito local oferece uma atmosfera vibrante e casual onde os clientes podem desfrutar de carne de porco suculenta servida com arroz, vegetais e sambal picante. Conhecido por sua autenticidade e sabores ricos, oferece uma experiência gastronômica única a um preço acessível. A atmosfera agitada o torna um sucesso entre os locais e turistas.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "La Lucciola",
+          "type": "restaurant",
+          "description": "Localizado na pitoresca Praia de Seminyak, o La Lucciola oferece uma experiência gastronômica requintada com vistas deslumbrantes do oceano. O menu apresenta uma deliciosa mistura de culinária mediterrânea e asiática, com pratos elaborados a partir de ingredientes locais frescos. O ambiente elegante e o serviço impecável o tornam perfeito para jantares românticos ou ocasiões especiais. Recomenda-se fazer reservas para desfrutar deste tratamento gastronômico sofisticado.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "Mercado Noturno de Ubud",
+          "type": "night_market",
+          "description": "O Mercado Noturno de Ubud é um centro movimentado de comida e cultura local, oferecendo uma variedade de pratos e lanches tradicionais. Os visitantes podem se deliciar com satay, martabak e outras especialidades indonésias a preços acessíveis. A atmosfera animada, com suas barracas vibrantes e vendedores amigáveis, proporciona um sabor genuíno da cultura de comida de rua balinesa, tornando-o um local popular para turistas e locais.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "Locavore",
+          "type": "restaurant",
+          "description": "Reconhecido por sua abordagem inovadora à culinária indonésia, o Locavore em Ubud é uma joia culinária. O restaurante foca em ingredientes de origem local para oferecer uma experiência gastronômica contemporânea. Com um menu degustação que muda sazonalmente, os comensais são presenteados com pratos inventivos que celebram a rica biodiversidade da ilha. O ambiente íntimo e as apresentações artísticas tornam o Locavore uma visita obrigatória para os entusiastas da gastronomia.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "Comida de Rua de Seminyak Bali",
+          "type": "street_food",
+          "description": "Nas ruas vibrantes de Seminyak, uma diversa gama de barracas de comida de rua oferece uma seleção de pratos locais de dar água na boca. De Nasi Goreng picante a Pisang Goreng doce, os sabores são ousados e autênticos. O ambiente casual e ao ar livre permite que os visitantes explorem várias delícias culinárias enquanto absorvem a atmosfera animada da cena de comida de rua de Bali.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "Festival de Comida de Bali",
+          "type": "night_market",
+          "description": "O Festival de Comida de Bali é uma celebração da rica herança culinária da ilha, reunindo vendedores de comida de toda a região. Os visitantes podem degustar uma variedade de pratos e bebidas, apreciando desde a comida tradicional balinesa até culinárias internacionais. A atmosfera animada do festival, completa com música ao vivo e apresentações culturais, torna-o um evento emocionante para os amantes da comida.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "Naughty Nuri's",
+          "type": "restaurant",
+          "description": "Famoso por suas costelas de lamber os dedos e coquetéis de matar, o Naughty Nuri's é um local popular em Ubud. O restaurante oferece uma atmosfera animada e descontraída onde os hóspedes podem desfrutar de porções generosas de carnes grelhadas acompanhadas de acompanhamentos clássicos indonésios. Com sua vibe despretensiosa e serviço amigável, o Naughty Nuri's é um favorito entre locais e visitantes em busca de uma experiência gastronômica casual.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "Warung Nasi Ayam Kedewatan",
+          "type": "restaurant",
+          "description": "Um favorito local, o Warung Nasi Ayam Kedewatan serve delicioso arroz com frango balinês. O prato inclui frango tenro, sambal picante e vários acompanhamentos, oferecendo uma refeição saborosa e satisfatória. A atmosfera casual e acolhedora, juntamente com seu preço acessível, torna-o uma parada perfeita para quem deseja experimentar a culinária tradicional balinesa em um ambiente descontraído.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الأطعمة في بالي 2026 - دليل أفضل المطاعم والطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والتخصصات المحلية في بالي. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "page_intro": "تشتهر بالي بثقافتها الغذائية النابضة بالحياة، حيث تقدم مزيجًا مثيرًا من النكهات الإندونيسية التقليدية والمأكولات العالمية. من الأسواق الشارعية المزدحمة إلى تجارب تناول الطعام الراقية، تلبي الجزيرة جميع الأذواق والميزانيات. يمكن للزوار التمتع بالتخصصات المحلية مثل بابي غولينغ وناسي كامبور، أو استكشاف العروض المتنوعة في الأسواق الليلية الشهيرة. سواء كنت من عشاق الطعام الباحثين عن مغامرات الطهي أو ببساطة تبحث عن تذوق المأكولات المحلية، تعد بالي برحلة طهوية لا تُنسى.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "وارونغ بابي غولينغ إبو أوكا",
+          "type": "restaurant",
+          "description": "يعتبر وارونغ بابي غولينغ إبو أوكا من الأماكن التي يجب زيارتها لأولئك الذين يرغبون في تذوق الخنزير المشوي الشهير في بالي. يقع في أوبود، هذا المكان المحلي المفضل يقدم أجواء حيوية وغير رسمية حيث يمكن للزبائن الاستمتاع بلحم الخنزير العصير الذي يُقدم مع الأرز والخضروات وسامبال الحار. معروف بأصالته ونكهاته الغنية، يقدم تجربة تناول طعام فريدة بسعر معقول. الأجواء المزدحمة تجعله محبوبًا بين السكان المحليين والسياح.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "لا لوتشيولا",
+          "type": "restaurant",
+          "description": "يقع على شاطئ سيمينياك الخلاب، يقدم لا لوتشيولا تجربة تناول طعام فاخر مع إطلالات خلابة على المحيط. يتميز القائمة بمزيج لذيذ من المأكولات المتوسطية والآسيوية، مع أطباق مصنوعة من مكونات محلية طازجة. تجعل الأجواء الأنيقة والخدمة المثالية منه اختيارًا مثاليًا للعشاء الرومانسي أو المناسبات الخاصة. يُنصح بالحجز للاستمتاع بهذا العلاج الطهوي الراقي.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "سوق أوبود الليلي",
+          "type": "night_market",
+          "description": "يعتبر سوق أوبود الليلي مركزًا مزدحمًا للطعام والثقافة المحلية، حيث يقدم مجموعة من الأطباق والوجبات الخفيفة التقليدية. يمكن للزوار الاستمتاع بالساتيه والمارتاباك وغيرها من التخصصات الإندونيسية بأسعار ملائمة للميزانية. توفر الأجواء الحيوية، مع أكشاكها النابضة وبائعيها الودودين، طعمًا حقيقيًا لثقافة الطعام الشارعي في بالي، مما يجعله مكانًا شائعًا للسياح والسكان المحليين.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "لوكافور",
+          "type": "restaurant",
+          "description": "معروف بنهجه المبتكر في المأكولات الإندونيسية، يعد لوكافور في أوبود جوهرة طهوية. يركز المطعم على المكونات المحلية لتقديم تجربة تناول طعام معاصرة. مع قائمة تذوق تتغير موسمياً، يتمتع الزبائن بأطباق مبتكرة تحتفل بالتنوع البيولوجي الغني للجزيرة. تجعل الأجواء الحميمة والعروض الفنية من لوكافور مكانًا لا بد من زيارته لعشاق الطعام.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "طعام شارع سيمينياك بالي",
+          "type": "street_food",
+          "description": "في الشوارع النابضة بالحياة في سيمينياك، تقدم مجموعة متنوعة من أكشاك الطعام الشارعي مجموعة مغرية من الأطباق المحلية. من الناسي جورينغ الحار إلى البيسانج جورينغ الحلو، النكهات جريئة وأصيلة. يسمح الإعداد غير الرسمي في الهواء الطلق للزوار باستكشاف المسرات الطهوية المختلفة أثناء امتصاص الأجواء الحيوية لمشهد الطعام الشارعي في بالي.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "مهرجان طعام بالي",
+          "type": "night_market",
+          "description": "يعد مهرجان طعام بالي احتفالًا بالتراث الطهوي الغني للجزيرة، حيث يجمع بائعي الطعام من جميع أنحاء المنطقة. يمكن للزوار تذوق مجموعة متنوعة من الأطباق والمشروبات، والتمتع بكل شيء من المأكولات التقليدية في بالي إلى المأكولات العالمية. تجعل الأجواء الحيوية للمهرجان، مع الموسيقى الحية والعروض الثقافية، حدثًا مثيرًا لعشاق الطعام.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "نووتي نوري",
+          "type": "restaurant",
+          "description": "مشهور بأضلاعه الشهية الكاملة وكوكتيلاته القاتلة، نووتي نوري هو مكان شهير في أوبود. يقدم المطعم أجواء حيوية ومريحة حيث يمكن للضيوف الاستمتاع بحصص سخية من اللحوم المشوية بجانب الأطباق الجانبية الإندونيسية الكلاسيكية. مع أجوائه البسيطة وخدمته الودية، يعد نووتي نوري مكانًا مفضلًا بين السكان المحليين والزوار الذين يبحثون عن تجربة تناول طعام غير رسمية.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "وارونغ ناسي أيام كيديواتان",
+          "type": "restaurant",
+          "description": "مكان مفضل محلي، يقدم وارونغ ناسي أيام كيديواتان الأرز بالدجاج الباليني اللذيذ. تتضمن الوجبة الدجاج الطري، السامبال الحار، والعديد من الأطباق الجانبية، مما يوفر وجبة لذيذة ومرضية. الأجواء غير الرسمية والترحيبية، إلى جانب أسعاره المعقولة، تجعلها محطة مثالية لأولئك الذين يرغبون في تجربة المأكولات التقليدية في بالي في بيئة مريحة.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "বালির সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ ও রাস্তার খাবার গাইড",
+      "seo_description": "বালির সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেট খাবার থেকে শুরু করে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "page_intro": "বালি তার উজ্জ্বল খাদ্য সংস্কৃতির জন্য বিখ্যাত, যা ঐতিহ্যবাহী ইন্দোনেশিয়ান স্বাদ এবং আন্তর্জাতিক রান্নার একটি আকর্ষণীয় মিশ্রণ অফার করে। ব্যস্ত রাস্তার বাজার থেকে শুরু করে উচ্চমানের খাবার অভিজ্ঞতা পর্যন্ত, দ্বীপটি প্রতিটি স্বাদ এবং বাজেটের জন্য প্রস্তুত। দর্শকরা বাবি গুলিং এবং নাসি চাম্পুরের মতো স্থানীয় বিশেষত্বগুলিতে লিপ্ত হতে পারেন, অথবা জনপ্রিয় নাইট মার্কেটগুলিতে বৈচিত্র্যময় অফারগুলি অন্বেষণ করতে পারেন। আপনি যদি খাদ্যপ্রেমিক হন এবং রন্ধনসম্পর্কিত অ্যাডভেঞ্চার খুঁজছেন বা শুধু স্থানীয় খাবার উপভোগ করতে চান, বালি একটি স্মরণীয় গ্যাস্ট্রোনমিক যাত্রার প্রতিশ্রুতি দেয়।",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "ওয়ারুং বাবি গুলিং ইবু ওকা",
+          "type": "restaurant",
+          "description": "ওয়ারুং বাবি গুলিং ইবু ওকা বালির বিখ্যাত ভাজা শূকর মাংসের স্বাদ নিতে ইচ্ছুকদের জন্য অবশ্যই ভ্রমণকারী একটি স্থান। উবুদে অবস্থিত, এই স্থানীয় প্রিয় একটি উজ্জ্বল, নৈমিত্তিক পরিবেশ প্রদান করে যেখানে ডিনাররা রসালো শূকর মাংস, ভাত, সবজি এবং মসলাদার সাম্বাল সহ পরিবেশন উপভোগ করতে পারেন। এর প্রামাণিকতা এবং সমৃদ্ধ স্বাদের জন্য পরিচিত, এটি একটি অনন্য ডাইনিং অভিজ্ঞতা সাশ্রয়ী মূল্যে অফার করে। ব্যস্ত পরিবেশ এটি স্থানীয় এবং পর্যটকদের মধ্যে একটি হিট করে তোলে।",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "লা লুচিওলা",
+          "type": "restaurant",
+          "description": "দৃশ্যমান সেমিনিয়াক বিচে অবস্থিত, লা লুচিওলা একটি চমৎকার ডাইনিং অভিজ্ঞতা প্রদান করে যা মহাসাগরের মনোরম দৃশ্য সহ। মেনুটি একটি মনোমুগ্ধকর ভূমধ্য এবং এশিয়ান রান্নার মিশ্রণ বৈশিষ্ট্যযুক্ত, যা তাজা স্থানীয় উপাদান থেকে তৈরি করা হয়। চমৎকার পরিবেশ এবং নিখুঁত পরিষেবা এটিকে রোমান্টিক ডিনার বা বিশেষ অনুষ্ঠানের জন্য উপযুক্ত করে তোলে। এই উচ্চমানের রন্ধনসম্পর্কিত চিকিত্সা উপভোগ করতে সংরক্ষণের সুপারিশ করা হয়।",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "উবুদ নাইট মার্কেট",
+          "type": "night_market",
+          "description": "উবুদ নাইট মার্কেট স্থানীয় খাবার এবং সংস্কৃতির একটি ব্যস্ত কেন্দ্র, যা ঐতিহ্যবাহী খাবার এবং স্ন্যাকসের একটি পরিসর অফার করে। দর্শকরা বাজেট-বান্ধব দামে সাটে, মার্টাবাক এবং অন্যান্য ইন্দোনেশিয়ান বিশেষত্বগুলি উপভোগ করতে পারেন। এর উজ্জ্বল স্টল এবং বন্ধুত্বপূর্ণ বিক্রেতাদের সাথে প্রাণবন্ত পরিবেশ একটি সত্যিকারের বালিনিজ রাস্তার খাবার সংস্কৃতির স্বাদ প্রদান করে, এটি পর্যটক এবং স্থানীয় উভয়ের জন্য একটি জনপ্রিয় স্থান করে তোলে।",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "লোকাভোর",
+          "type": "restaurant",
+          "description": "ইন্দোনেশিয়ান রান্নার প্রতি এর উদ্ভাবনী দৃষ্টিভঙ্গির জন্য স্বীকৃত, উবুদে লোকাভোর একটি রন্ধনসম্পর্কিত রত্ন। রেস্তোরাঁটি স্থানীয়ভাবে উৎসাহিত উপাদানের উপর মনোযোগ কেন্দ্রীভূত করে একটি সমসাময়িক ডাইনিং অভিজ্ঞতা প্রদান করতে। একটি স্বাদ গ্রহণ মেনু সহ যা ঋতুভিত্তিক পরিবর্তিত হয়, ডিনাররা উদ্ভাবনী খাবারের সাথে আচরণ করে যা দ্বীপের সমৃদ্ধ জৈববৈচিত্র্য উদযাপন করে। লোকাভোরের অন্তরঙ্গ পরিবেশ এবং শিল্পময় উপস্থাপনাগুলি এটিকে খাদ্যপ্রেমীদের জন্য অবশ্যই-দর্শনীয় করে তোলে।",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "বালি সেমিনিয়াক স্ট্রিট ফুড",
+          "type": "street_food",
+          "description": "সেমিনিয়াকের প্রাণবন্ত রাস্তায়, স্ট্রিট ফুড স্টলগুলির একটি বৈচিত্র্যময় অ্যারে স্থানীয় খাবারের মুখরোচক নির্বাচন অফার করে। মশলাদার নাসি গোরেং থেকে মিষ্টি পিসাং গোরেং পর্যন্ত, স্বাদগুলি সাহসী এবং প্রামাণিক। নৈমিত্তিক, খোলা-এয়ার সেটিং দর্শকদের বালি স্ট্রিট ফুড দৃশ্যের প্রাণবন্ত পরিবেশ উপভোগ করার সময় বিভিন্ন রন্ধনসম্পর্কিত আনন্দ অন্বেষণ করতে দেয়।",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "বালি ফুড ফেস্টিভাল",
+          "type": "night_market",
+          "description": "বালি ফুড ফেস্টিভাল দ্বীপের সমৃদ্ধ রন্ধনসম্পর্কিত ঐতিহ্যের একটি উদযাপন, যা পুরো অঞ্চল থেকে খাদ্য বিক্রেতাদের একত্রিত করে। দর্শকরা ঐতিহ্যবাহী বালিনিজ খাবার থেকে শুরু করে আন্তর্জাতিক রান্নার সবকিছু উপভোগ করতে বিভিন্ন খাবার এবং পানীয়ের নমুনা নিতে পারেন। লাইভ সঙ্গীত এবং সাংস্কৃতিক পারফরম্যান্স সহ উৎসবের প্রাণবন্ত পরিবেশ এটি খাদ্যপ্রেমীদের জন্য একটি উত্তেজনাপূর্ণ ইভেন্ট করে তোলে।",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "নটি নুরিস",
+          "type": "restaurant",
+          "description": "এর আঙুল চাটানো রিব এবং কিলার ককটেলের জন্য বিখ্যাত, নটি নুরিস উবুদে একটি জনপ্রিয় স্থান। রেস্তোরাঁটি একটি প্রাণবন্ত এবং বিনোদনমূলক পরিবেশ প্রদান করে যেখানে অতিথিরা বারবিকিউড মাংসের হার্টি অংশগুলি ক্লাসিক ইন্দোনেশিয়ান সাইডের সাথে উপভোগ করতে পারেন। এর কোনো-ফ্রিলস ভিব এবং বন্ধুত্বপূর্ণ পরিষেবা সহ, নটি নুরিস স্থানীয় এবং দর্শকদের মধ্যে একটি প্রিয় যারা একটি নৈমিত্তিক ডাইনিং অভিজ্ঞতা খুঁজছেন।",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "ওয়ারুং নাসি আয়ম কেদেওয়াতান",
+          "type": "restaurant",
+          "description": "একটি স্থানীয় প্রিয়, ওয়ারুং নাসি আয়ম কেদেওয়াতান সুস্বাদু বালিনিজ মুরগির ভাত পরিবেশন করে। থালাটিতে কোমল মুরগি, মসলাদার সাম্বাল এবং বিভিন্ন সাইড ডিশ অন্তর্ভুক্ত থাকে, যা একটি সুস্বাদু এবং সন্তোষজনক খাবার প্রদান করে। নৈমিত্তিক এবং স্বাগত জানানো পরিবেশ, এর সাশ্রয়ী মূল্যের সাথে, এটি একটি আদর্শ স্টপ যারা একটি আরামদায়ক পরিবেশে ঐতিহ্যবাহী বালিনিজ খাবার অভিজ্ঞতা করতে চান তাদের জন্য তৈরি করে।",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда на Бали 2026 — Топ-рестораны и уличная еда",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты на Бали. От бюджетных блюд до изысканных ужинов — с ссылками на бронирование.",
+      "page_intro": "Бали известен своей яркой кулинарной культурой, предлагающей заманчивое сочетание традиционных индонезийских вкусов и международных кухонь. От оживленных уличных рынков до высококлассных ресторанов, остров удовлетворяет любой вкус и бюджет. Гости могут насладиться местными специалитетами, такими как Баби Гулинг и Наси Чампур, или исследовать разнообразные предложения на популярных ночных рынках. Независимо от того, являетесь ли вы гурманом, ищущим кулинарные приключения, или просто хотите насладиться местной кухней, Бали обещает незабываемое гастрономическое путешествие.",
+      "items": [
+        {
+          "id": "warung-babi-guling-ibu-oka",
+          "name": "Варунг Баби Гулинг Ибу Ока",
+          "type": "restaurant",
+          "description": "Варунг Баби Гулинг Ибу Ока — обязательное место для посещения для тех, кто хочет попробовать знаменитую жареную свинину Бали. Расположенный в Убуде, этот местный фаворит предлагает яркую, непринужденную атмосферу, где посетители могут насладиться сочной свининой, подаваемой с рисом, овощами и острым самбалом. Известный своей аутентичностью и насыщенными вкусами, он предлагает уникальный кулинарный опыт по доступной цене. Оживленная обстановка делает его популярным как среди местных жителей, так и среди туристов.",
+          "image_keyword": "Babi Guling Bali",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Babi Guling",
+          "klook_query": "Babi Guling Ibu Oka tour"
+        },
+        {
+          "id": "la-luce",
+          "name": "Ла Луччиола",
+          "type": "restaurant",
+          "description": "Расположенный на живописном пляже Семиньяк, Ла Луччиола предлагает изысканный кулинарный опыт с потрясающим видом на океан. Меню представляет собой восхитительное сочетание средиземноморской и азиатской кухни, с блюдами, приготовленными из свежих местных ингредиентов. Элегантная обстановка и безупречное обслуживание делают его идеальным для романтических ужинов или особых случаев. Для того чтобы насладиться этим высококлассным кулинарным угощением, рекомендуется бронирование.",
+          "image_keyword": "La Lucciola Bali restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Grilled Snapper",
+          "klook_query": "La Lucciola Bali dining"
+        },
+        {
+          "id": "ubud-night-market",
+          "name": "Ночной рынок Убуда",
+          "type": "night_market",
+          "description": "Ночной рынок Убуда — это оживленный центр местной еды и культуры, предлагающий разнообразные традиционные блюда и закуски. Посетители могут насладиться сатэ, мартабаком и другими индонезийскими специалитетами по доступным ценам. Оживленная атмосфера с яркими палатками и дружелюбными продавцами предоставляет подлинный вкус балийской уличной кулинарии, делая его популярным местом как для туристов, так и для местных жителей.",
+          "image_keyword": "Ubud Night Market",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Satay",
+          "klook_query": "Ubud Night Market food tour"
+        },
+        {
+          "id": "locavore",
+          "name": "Локавор",
+          "type": "restaurant",
+          "description": "Признанный за свой инновационный подход к индонезийской кухне, Локавор в Убуде — это кулинарный драгоценный камень. Ресторан фокусируется на местных ингредиентах, чтобы предложить современный кулинарный опыт. С дегустационным меню, которое меняется в зависимости от сезона, посетители могут насладиться изобретательными блюдами, которые празднуют богатое биоразнообразие острова. Интимная обстановка и художественные презентации делают Локавор обязательным местом для посещения для любителей пищи.",
+          "image_keyword": "Locavore Bali restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Locavore Ubud dining experience"
+        },
+        {
+          "id": "semenyih-bali",
+          "name": "Уличная еда Бали Семиньяк",
+          "type": "street_food",
+          "description": "На оживленных улицах Семиньяка разнообразные палатки с уличной едой предлагают аппетитный выбор местных блюд. От острого Наси Горенг до сладкого Писанг Горенг, вкусы смелые и аутентичные. Непринужденная обстановка на открытом воздухе позволяет посетителям исследовать различные кулинарные удовольствия, погружаясь в оживленную атмосферу уличной еды Бали.",
+          "image_keyword": "Seminyak street food Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Goreng",
+          "klook_query": "Seminyak street food tour"
+        },
+        {
+          "id": "bali-food-festival",
+          "name": "Фестиваль еды на Бали",
+          "type": "night_market",
+          "description": "Фестиваль еды на Бали — это праздник богатого кулинарного наследия острова, объединяющий продавцов еды со всего региона. Посетители могут попробовать разнообразные блюда и напитки, наслаждаясь как традиционной балийской кухней, так и международными блюдами. Оживленная атмосфера фестиваля с живой музыкой и культурными представлениями делает его захватывающим событием для любителей еды.",
+          "image_keyword": "Bali Food Festival",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Mixed Satay",
+          "klook_query": "Bali Food Festival tickets"
+        },
+        {
+          "id": "naughty-nuris-bali",
+          "name": "Ноти Нурис",
+          "type": "restaurant",
+          "description": "Известный своими аппетитными ребрышками и убийственными коктейлями, Ноти Нурис — популярное место в Убуде. Ресторан предлагает оживленную и расслабленную атмосферу, в которой гости могут насладиться щедрыми порциями барбекю с классическими индонезийскими гарнирами. С его непринужденной атмосферой и дружелюбным обслуживанием, Ноти Нурис является излюбленным местом как для местных жителей, так и для посетителей, ищущих непринужденный кулинарный опыт.",
+          "image_keyword": "Naughty Nuri's ribs Bali",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "BBQ Ribs",
+          "klook_query": "Naughty Nuri's dining Bali"
+        },
+        {
+          "id": "warung-nasi-ayam-kedewatan",
+          "name": "Варунг Наси Аям Кедеватан",
+          "type": "restaurant",
+          "description": "Местный фаворит, Варунг Наси Аям Кедеватан предлагает вкусный балийский рис с курицей. Блюдо включает в себя нежную курицу, острый самбал и различные гарниры, предлагая вкусную и сытную трапезу. Непринужденная и гостеприимная атмосфера вместе с доступными ценами делают его идеальной остановкой для тех, кто хочет попробовать традиционную балийскую кухню в расслабляющей обстановке.",
+          "image_keyword": "Nasi Ayam Kedewatan Bali",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Nasi Ayam",
+          "klook_query": "Nasi Ayam Kedewatan meal"
+        }
+      ]
+    }
+  }
+}

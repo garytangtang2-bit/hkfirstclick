@@ -1,0 +1,1097 @@
+{
+  "city_slug": "vienna",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Vienna 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Vienna. Find opening hours, ticket prices and booking links for Vienna's top landmarks.",
+      "page_intro": "Vienna, the capital of Austria, is a city renowned for its imperial palaces, vibrant culture, and rich history. From stunning architecture to world-class museums, visitors can immerse themselves in a destination that seamlessly blends the past with the present. Enjoy a leisurely stroll through its beautiful parks, indulge in delicious local cuisine, and experience the unique charm that makes Vienna a must-visit European city.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "Schönbrunn Palace",
+          "type": "landmark",
+          "description": "Schönbrunn Palace, a UNESCO World Heritage site, is one of the most significant cultural monuments in Austria. Visitors can explore the opulent state rooms, beautiful gardens, and the impressive Gloriette. Plan to spend at least half a day here to fully appreciate the grandeur and history of this former imperial summer residence.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "St. Stephen's Cathedral",
+          "type": "landmark",
+          "description": "St. Stephen's Cathedral is the heart of Vienna, boasting a stunning Gothic architecture and a towering spire. Visitors can climb the tower for breathtaking views of the city or explore its intricate interior. A visit typically takes about an hour, making it a perfect stop for anyone exploring the city center.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "Belvedere Palace",
+          "type": "landmark",
+          "description": "Belvedere Palace is an extraordinary baroque masterpiece that houses an impressive collection of Austrian art. Visitors can admire works by Gustav Klimt, including the famous 'The Kiss'. The expansive gardens are also perfect for a leisurely stroll. Allow 2-3 hours to enjoy both the art and the stunning views.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "Kunsthistorisches Museum",
+          "type": "museum",
+          "description": "The Kunsthistorisches Museum is one of the world's most important art museums, showcasing an extensive collection of masterpieces from ancient to modern times. Highlights include works by Vermeer, Rembrandt, and Raphael. Plan to spend at least 2-3 hours to fully appreciate the vast array of art and history.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "Natural History Museum",
+          "type": "museum",
+          "description": "The Natural History Museum in Vienna is a treasure trove of exhibits ranging from dinosaur skeletons to precious gems. It offers fascinating insights into the natural world and is perfect for families. Expect to spend around 2 hours exploring this fascinating institution.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "Naschmarkt",
+          "type": "market",
+          "description": "Naschmarkt is Vienna's famous food market, where visitors can find a variety of fresh produce, gourmet foods, and international delicacies. It's a vibrant place to experience local culture and cuisine. Spend at least an hour wandering through the stalls and sampling delicious treats.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "Innere Stadt (Historic City Center)",
+          "type": "district",
+          "description": "Innere Stadt, Vienna's historic city center, is a UNESCO World Heritage site filled with stunning architecture and rich history. Visitors can explore iconic sites such as the Hofburg Palace, State Opera, and more. A walk through this area is essential, ideally taking a few hours to soak in the ambiance.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026 年維也納最佳景點 — 票務、提示與完整指南",
+      "seo_description": "探索維也納最佳景點。查找維也納主要地標的開放時間、票價和預訂連結。",
+      "page_intro": "維也納，奧地利的首都，以其帝國宮殿、充滿活力的文化和豐富的歷史而聞名。從壯觀的建築到世界級的博物館，遊客可以沉浸在這個無縫結合過去與現在的目的地中。享受在美麗公園中的悠閒漫步，品嚐美味的當地美食，體驗使維也納成為必訪歐洲城市的獨特魅力。",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "美泉宮",
+          "type": "landmark",
+          "description": "美泉宮，聯合國教科文組織世界遺產，是奧地利最重要的文化遺跡之一。遊客可以探索華麗的國宴廳、美麗的花園和壯觀的榮耀亭。計劃至少花半天時間來充分欣賞這座前帝國夏季住宅的壯麗和歷史。",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "聖斯特凡大教堂",
+          "type": "landmark",
+          "description": "聖斯特凡大教堂是維也納的心臟，擁有壯觀的哥特式建築和高聳的尖塔。遊客可以攀登塔樓，俯瞰城市的壯麗景色，或探索其錯綜複雜的內部。一次訪問通常需要約一小時，對於任何探索市中心的人來說都是完美的停留。",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "美景宮",
+          "type": "landmark",
+          "description": "美景宮是一座非凡的巴洛克傑作，擁有令人印象深刻的奧地利藝術收藏。遊客可以欣賞古斯塔夫·克里姆特的作品，包括著名的《吻》。廣闊的花園也非常適合悠閒漫步。建議花2-3小時來享受藝術和壯觀的景色。",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "藝術史博物館",
+          "type": "museum",
+          "description": "藝術史博物館是世界上最重要的藝術博物館之一，展示了從古代到現代的廣泛藝術珍品。亮點包括維梅爾、倫勃朗和拉斐爾的作品。計劃至少花2-3小時來充分欣賞這些豐富的藝術和歷史。",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "自然歷史博物館",
+          "type": "museum",
+          "description": "維也納的自然歷史博物館是一個展示從恐龍骨骼到珍貴寶石的珍寶。它提供了對自然界的迷人洞察，非常適合家庭遊客。預計花約2小時探索這個迷人的機構。",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "納什市場",
+          "type": "market",
+          "description": "納什市場是維也納著名的食品市場，遊客可以找到各種新鮮產品、美食和國際美味。這是一個體驗當地文化和美食的活力之地。至少花一小時在攤位間漫遊，品嚐美味的零食。",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "市內區 (歷史市中心)",
+          "type": "district",
+          "description": "市內區是維也納的歷史市中心，聯合國教科文組織世界遺產，擁有壯觀的建築和豐富的歷史。遊客可以探索霍夫堡宮、國家歌劇院等標誌性景點。漫步於此區是必須的，理想情況下要花幾小時來感受這裡的氛圍。",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年ウィーンのトップ観光スポット — チケット、ヒント＆完全ガイド",
+      "seo_description": "ウィーンの最高の観光スポットを探索してください。ウィーンの主要なランドマークの営業時間、チケット価格、予約リンクを見つけます。",
+      "page_intro": "オーストリアの首都ウィーンは、帝国の宮殿、活気ある文化、豊かな歴史で知られる都市です。壮大な建築から世界クラスの博物館まで、訪問者は過去と現在が見事に融合した目的地に没頭することができます。美しい公園をゆっくり散策し、美味しい地元料理を堪能し、ウィーンを訪れるべきヨーロッパの都市にするユニークな魅力を体験してください。",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "シェーンブルン宮殿",
+          "type": "landmark",
+          "description": "シェーンブルン宮殿は、ユネスコの世界遺産であり、オーストリアで最も重要な文化的モニュメントの一つです。訪問者は豪華な国家の部屋、美しい庭園、印象的なグロリエッテを探索できます。この元帝国の夏の住居の壮大さと歴史を十分に味わうために、少なくとも半日をここで過ごすことを計画してください。",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "セント・スティーブン大聖堂",
+          "type": "landmark",
+          "description": "セント・スティーブン大聖堂はウィーンの中心で、美しいゴシック建築と高い尖塔を誇ります。訪問者は塔に登って市内の息をのむような景色を楽しんだり、複雑な内部を探索したりすることができます。訪問には通常約1時間かかるため、市中心部を探索する人にとって完璧な立ち寄り先です。",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "ベルヴェデーレ宮殿",
+          "type": "landmark",
+          "description": "ベルヴェデーレ宮殿は、印象的なオーストリアのアートコレクションを収蔵する、素晴らしいバロックの傑作です。訪問者はグスタフ・クリムトの作品を賞賛でき、特に有名な『接吻』を楽しむことができます。広大な庭園も、ゆっくり散策するのに最適です。アートと壮大な景色を楽しむために、2〜3時間を確保してください。",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "美術史美術館",
+          "type": "museum",
+          "description": "美術史美術館は、古代から現代までの傑作の広範なコレクションを展示する、世界で最も重要な美術館の一つです。ハイライトには、フェルメール、レンブラント、ラファエルの作品が含まれています。膨大なアートと歴史を十分に味わうために、少なくとも2〜3時間を計画してください。",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "自然史博物館",
+          "type": "museum",
+          "description": "ウィーンの自然史博物館は、恐竜の骨格から貴重な宝石までの展示物の宝庫です。自然界に関する魅力的な洞察を提供し、家族連れに最適です。この魅力的な機関を探索するのに約2時間かかると予想してください。",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "ナシュマルクト",
+          "type": "market",
+          "description": "ナシュマルクトは、ウィーンの有名な食品市場で、訪問者は新鮮な農産物、グルメ食品、国際的な delicaciesを見つけることができます。これは地元の文化と料理を体験するための活気に満ちた場所です。少なくとも1時間を費やして、屋台を散策し、美味しいおやつを試食してください。",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "インナースタット（歴史的市中心）",
+          "type": "district",
+          "description": "インナースタットは、ウィーンの歴史的市中心で、ユネスコの世界遺産に登録されています。驚くべき建築と豊かな歴史が詰まっています。訪問者はホーフブルク宮殿、州立歌劇場などの象徴的な場所を探索できます。このエリアを散策することは必須で、雰囲気を楽しむために数時間を確保するのが理想的です。",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 비엔나 최고의 관광명소 — 티켓, 팁 & 완벽 가이드",
+      "seo_description": "비엔나의 최고의 관광명소를 탐험하세요. 비엔나의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
+      "page_intro": "오스트리아의 수도 비엔나는 제국의 궁전, 활기찬 문화, 풍부한 역사로 유명한 도시입니다. 멋진 건축물부터 세계적 수준의 박물관까지, 방문객들은 과거와 현재가 완벽하게 조화를 이루는 목적지에 몰입할 수 있습니다. 아름다운 공원을 여유롭게 산책하고, 맛있는 현지 요리를 즐기며, 비엔나를 꼭 방문해야 할 유럽 도시로 만드는 독특한 매력을 경험해보세요.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "쉔브룬 궁전",
+          "type": "landmark",
+          "description": "쉔브룬 궁전은 유네스코 세계유산으로, 오스트리아에서 가장 중요한 문화 기념물 중 하나입니다. 방문객들은 화려한 국가의 방, 아름다운 정원 및 인상적인 글로리엣을 탐험할 수 있습니다. 이 전제국 여름 거주의 웅장함과 역사를 충분히 감상하기 위해 최소 반나절을 이곳에서 보내는 것을 계획하세요.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "성 스테판 대성당",
+          "type": "landmark",
+          "description": "성 스테판 대성당은 비엔나의 중심부에 위치하고 있으며, 멋진 고딕 건축과 높은 첨탑을 자랑합니다. 방문객들은 탑에 올라 도시의 숨막히는 경치를 감상하거나 복잡한 내부를 탐험할 수 있습니다. 방문에는 일반적으로 약 한 시간이 소요되므로, 도심을 탐방하는 모든 사람에게 완벽한 정차지입니다.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "벨베데레 궁전",
+          "type": "landmark",
+          "description": "벨베데레 궁전은 인상적인 오스트리아 미술 컬렉션을 소장하고 있는 놀라운 바르크 양식의 걸작입니다. 방문객들은 유명한 '키스'를 포함한 구스타프 클림트의 작품을 감상할 수 있습니다. 광활한 정원은 여유로운 산책을 즐기기에 완벽합니다. 예술과 멋진 경치를 즐기기 위해 2-3시간을 허용하세요.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "미술사 박물관",
+          "type": "museum",
+          "description": "미술사 박물관은 고대에서 현대에 이르는 광범위한 걸작 컬렉션을 전시하는 세계에서 가장 중요한 미술관 중 하나입니다. 하이라이트에는 베르메르, 렘브란트, 라파엘의 작품이 포함됩니다. 방대한 예술과 역사를 충분히 감상하기 위해 최소 2-3시간을 계획하세요.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "자연사 박물관",
+          "type": "museum",
+          "description": "비엔나의 자연사 박물관은 공룡 골격에서 귀중한 보석까지의 전시물 보물창고입니다. 자연 세계에 대한 매혹적인 통찰을 제공하며 가족에게 완벽합니다. 이 매혹적인 기관을 탐험하는 데 약 2시간을 예상하세요.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "나슈마르크트",
+          "type": "market",
+          "description": "나슈마르크트는 비엔나의 유명한 식품 시장으로, 방문객들은 다양한 신선한 농산물, 미식 식품 및 국제 미각을 찾을 수 있습니다. 이는 현지 문화와 요리를 경험할 수 있는 활기찬 장소입니다. 최소 1시간을 투자하여 가판대를 돌아다니며 맛있는 간식을 샘플링하세요.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "내부 시내 (역사적 시내 중심)",
+          "type": "district",
+          "description": "내부 시내는 비엔나의 역사적 시내 중심으로, 유네스코 세계유산에 등재되어 있습니다. 놀라운 건축물과 풍부한 역사가 가득합니다. 방문객들은 호프부르크 궁전, 국립 오페라 하우스 등 상징적인 명소를 탐험할 수 있습니다. 이 지역을 걷는 것은 필수적이며, 분위기를 만끽하기 위해 몇 시간을 보내는 것이 이상적입니다.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Top attractions à Vienne 2026 — Billets, conseils et guide complet",
+      "seo_description": "Découvrez les meilleures attractions de Vienne. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Vienne.",
+      "page_intro": "Vienne, la capitale de l'Autriche, est une ville renommée pour ses palais impériaux, sa culture vibrante et sa riche histoire. Des architectures époustouflantes aux musées de classe mondiale, les visiteurs peuvent s'immerger dans une destination qui allie harmonieusement le passé et le présent. Profitez d'une promenade tranquille à travers ses beaux parcs, régalez-vous de la délicieuse cuisine locale et découvrez le charme unique qui fait de Vienne une ville européenne incontournable.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "Palais de Schönbrunn",
+          "type": "landmark",
+          "description": "Le Palais de Schönbrunn, site classé au patrimoine mondial de l'UNESCO, est l'un des monuments culturels les plus significatifs d'Autriche. Les visiteurs peuvent explorer les somptueuses salles d'État, les magnifiques jardins et la Gloriette impressionnante. Prévoyez de passer au moins une demi-journée ici pour apprécier pleinement la grandeur et l'histoire de cette ancienne résidence d'été impériale.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "Cathédrale Saint-Étienne",
+          "type": "landmark",
+          "description": "La Cathédrale Saint-Étienne est le cœur de Vienne, avec une architecture gothique époustouflante et un clocher imposant. Les visiteurs peuvent gravir la tour pour une vue imprenable sur la ville ou explorer son intérieur complexe. Une visite dure généralement environ une heure, ce qui en fait un arrêt parfait pour quiconque explore le centre-ville.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "Palais du Belvédère",
+          "type": "landmark",
+          "description": "Le Palais du Belvédère est un chef-d'œuvre baroque extraordinaire qui abrite une impressionnante collection d'art autrichien. Les visiteurs peuvent admirer des œuvres de Gustav Klimt, y compris le célèbre 'Le Baiser'. Les vastes jardins sont également parfaits pour une promenade tranquille. Prévoyez 2 à 3 heures pour profiter à la fois de l'art et des vues magnifiques.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "Musée d'Histoire de l'Art",
+          "type": "museum",
+          "description": "Le Musée d'Histoire de l'Art est l'un des musées d'art les plus importants au monde, présentant une vaste collection de chefs-d'œuvre allant de l'Antiquité à l'époque moderne. Les points forts incluent des œuvres de Vermeer, Rembrandt et Raphaël. Prévoyez de passer au moins 2 à 3 heures pour apprécier pleinement cette vaste gamme d'art et d'histoire.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "Musée d'Histoire Naturelle",
+          "type": "museum",
+          "description": "Le Musée d'Histoire Naturelle de Vienne est un véritable trésor d'expositions allant des squelettes de dinosaures aux pierres précieuses. Il offre des aperçus fascinants sur le monde naturel et est parfait pour les familles. Comptez environ 2 heures pour explorer cet institut fascinant.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "Naschmarkt",
+          "type": "market",
+          "description": "Le Naschmarkt est le célèbre marché alimentaire de Vienne, où les visiteurs peuvent trouver une variété de produits frais, de spécialités gastronomiques et de délices internationaux. C'est un endroit vibrant pour découvrir la culture et la cuisine locales. Prévoyez au moins une heure à flâner dans les stands et à déguster des friandises délicieuses.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "Innere Stadt (Centre historique)",
+          "type": "district",
+          "description": "L'Innere Stadt, le centre historique de Vienne, est classé au patrimoine mondial de l'UNESCO et regorge d'architecture impressionnante et d'histoire riche. Les visiteurs peuvent explorer des sites emblématiques tels que le Palais Hofburg, l'Opéra d'État et bien plus encore. Une promenade dans cette zone est essentielle, idéalement en prenant quelques heures pour s'imprégner de l'ambiance.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales atracciones en Viena 2026 — Entradas, consejos y guía completa",
+      "seo_description": "Explora las mejores atracciones de Viena. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Viena.",
+      "page_intro": "Viena, la capital de Austria, es una ciudad reconocida por sus palacios imperiales, su cultura vibrante y su rica historia. Desde impresionantes arquitecturas hasta museos de clase mundial, los visitantes pueden sumergirse en un destino que combina a la perfección el pasado con el presente. Disfruta de un paseo tranquilo por sus hermosos parques, deleítate con la deliciosa cocina local y experimenta el encanto único que hace de Viena una ciudad europea que hay que visitar.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "Palacio de Schönbrunn",
+          "type": "landmark",
+          "description": "El Palacio de Schönbrunn, un sitio declarado Patrimonio de la Humanidad por la UNESCO, es uno de los monumentos culturales más significativos de Austria. Los visitantes pueden explorar las lujosas salas de estado, los hermosos jardines y la impresionante Glorieta. Planea pasar al menos medio día aquí para apreciar completamente la grandeza y la historia de esta antigua residencia de verano imperial.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "Catedral de San Esteban",
+          "type": "landmark",
+          "description": "La Catedral de San Esteban es el corazón de Viena, con una impresionante arquitectura gótica y una torre imponente. Los visitantes pueden subir a la torre para disfrutar de vistas impresionantes de la ciudad o explorar su intrincado interior. Una visita suele tardar aproximadamente una hora, lo que la convierte en una parada perfecta para cualquiera que explore el centro de la ciudad.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "Palacio de Belvedere",
+          "type": "landmark",
+          "description": "El Palacio de Belvedere es una extraordinaria obra maestra barroca que alberga una impresionante colección de arte austriaco. Los visitantes pueden admirar obras de Gustav Klimt, incluido el famoso 'El Beso'. Los extensos jardines también son perfectos para un paseo tranquilo. Permite de 2 a 3 horas para disfrutar tanto del arte como de las vistas impresionantes.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "Museo de Historia del Arte",
+          "type": "museum",
+          "description": "El Museo de Historia del Arte es uno de los museos de arte más importantes del mundo, que exhibe una extensa colección de obras maestras desde la antigüedad hasta la época moderna. Los puntos destacados incluyen obras de Vermeer, Rembrandt y Rafael. Planea pasar al menos 2-3 horas para apreciar plenamente la vasta gama de arte e historia.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "Museo de Historia Natural",
+          "type": "museum",
+          "description": "El Museo de Historia Natural de Viena es un verdadero tesoro de exhibiciones que van desde esqueletos de dinosaurios hasta gemas preciosas. Ofrece fascinantes perspectivas sobre el mundo natural y es perfecto para familias. Espera pasar alrededor de 2 horas explorando esta fascinante institución.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "Naschmarkt",
+          "type": "market",
+          "description": "Naschmarkt es el famoso mercado de alimentos de Viena, donde los visitantes pueden encontrar una variedad de productos frescos, alimentos gourmet y delicias internacionales. Es un lugar vibrante para experimentar la cultura y la cocina locales. Dedica al menos una hora a deambular por los puestos y degustar deliciosas golosinas.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "Innere Stadt (Centro histórico)",
+          "type": "district",
+          "description": "Innere Stadt, el centro histórico de Viena, es un sitio declarado Patrimonio de la Humanidad por la UNESCO, lleno de arquitectura impresionante y rica historia. Los visitantes pueden explorar lugares emblemáticos como el Palacio Hofburg, la Ópera Estatal y más. Un paseo por esta zona es esencial, idealmente tomando unas horas para absorber la atmósfera.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Top Attractions in Vienna 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Vienna. Find opening hours, ticket prices and booking links for Vienna's top landmarks.",
+      "page_intro": "Vienna, the capital of Austria, is a city renowned for its imperial palaces, vibrant culture, and rich history. From stunning architecture to world-class museums, visitors can immerse themselves in a destination that seamlessly blends the past with the present. Enjoy a leisurely stroll through its beautiful parks, indulge in delicious local cuisine, and experience the unique charm that makes Vienna a must-visit European city.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "Schönbrunn Palace",
+          "type": "landmark",
+          "description": "Schönbrunn Palace, a UNESCO World Heritage site, is one of the most significant cultural monuments in Austria. Visitors can explore the opulent state rooms, beautiful gardens, and the impressive Gloriette. Plan to spend at least half a day here to fully appreciate the grandeur and history of this former imperial summer residence.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "St. Stephen's Cathedral",
+          "type": "landmark",
+          "description": "St. Stephen's Cathedral is the heart of Vienna, boasting a stunning Gothic architecture and a towering spire. Visitors can climb the tower for breathtaking views of the city or explore its intricate interior. A visit typically takes about an hour, making it a perfect stop for anyone exploring the city center.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "Belvedere Palace",
+          "type": "landmark",
+          "description": "Belvedere Palace is an extraordinary baroque masterpiece that houses an impressive collection of Austrian art. Visitors can admire works by Gustav Klimt, including the famous 'The Kiss'. The expansive gardens are also perfect for a leisurely stroll. Allow 2-3 hours to enjoy both the art and the stunning views.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "Kunsthistorisches Museum",
+          "type": "museum",
+          "description": "The Kunsthistorisches Museum is one of the world's most important art museums, showcasing an extensive collection of masterpieces from ancient to modern times. Highlights include works by Vermeer, Rembrandt, and Raphael. Plan to spend at least 2-3 hours to fully appreciate the vast array of art and history.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "Natural History Museum",
+          "type": "museum",
+          "description": "The Natural History Museum in Vienna is a treasure trove of exhibits ranging from dinosaur skeletons to precious gems. It offers fascinating insights into the natural world and is perfect for families. Expect to spend around 2 hours exploring this fascinating institution.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "Naschmarkt",
+          "type": "market",
+          "description": "Naschmarkt is Vienna's famous food market, where visitors can find a variety of fresh produce, gourmet foods, and international delicacies. It's a vibrant place to experience local culture and cuisine. Spend at least an hour wandering through the stalls and sampling delicious treats.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "Innere Stadt (Historic City Center)",
+          "type": "district",
+          "description": "Innere Stadt, Vienna's historic city center, is a UNESCO World Heritage site filled with stunning architecture and rich history. Visitors can explore iconic sites such as the Hofburg Palace, State Opera, and more. A walk through this area is essential, ideally taking a few hours to soak in the ambiance.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "वियना के शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण गाइड",
+      "seo_description": "वियना के सबसे अच्छे आकर्षणों का अन्वेषण करें। वियना के शीर्ष स्थलों के लिए उद्घाटन के घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "वियना, ऑस्ट्रिया की राजधानी, एक ऐसा शहर है जो अपने साम्राज्य के महलों, जीवंत संस्कृति और समृद्ध इतिहास के लिए प्रसिद्ध है। शानदार वास्तुकला से लेकर विश्व स्तरीय संग्रहालयों तक, आगंतुक एक ऐसे गंतव्य में खुद को डुबो सकते हैं जो अतीत और वर्तमान को सहजता से मिश्रित करता है। इसके सुंदर पार्कों में आराम से टहलें, स्वादिष्ट स्थानीय व्यंजनों का आनंद लें, और उस अद्वितीय आकर्षण का अनुभव करें जो वियना को एक अनिवार्य यूरोपीय शहर बनाता है।",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "शॉनब्रुन पैलेस",
+          "type": "landmark",
+          "description": "शॉनब्रुन पैलेस, एक यूनेस्को विश्व धरोहर स्थल, ऑस्ट्रिया के सबसे महत्वपूर्ण सांस्कृतिक स्मारकों में से एक है। आगंतुक भव्य राज्य कमरों, सुंदर बागों और प्रभावशाली ग्लोरिएट का अन्वेषण कर सकते हैं। इस पूर्व साम्राज्य के ग्रीष्मकालीन निवास की भव्यता और इतिहास को पूरी तरह से समझने के लिए यहां कम से कम आधा दिन बिताने की योजना बनाएं।",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "सेंट स्टीफन कैथेड्रल",
+          "type": "landmark",
+          "description": "सेंट स्टीफन कैथेड्रल वियना का दिल है, जिसमें अद्भुत गोथिक वास्तुकला और एक ऊँचा मीनार है। आगंतुक टॉवर पर चढ़कर शहर के आश्चर्यजनक दृश्य देख सकते हैं या इसके जटिल आंतरिक भाग की खोज कर सकते हैं। एक दौरा आमतौर पर लगभग एक घंटे का होता है, जो शहर के केंद्र में घूमने वाले किसी भी व्यक्ति के लिए एक आदर्श ठहराव है।",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "बेल्वेडियर पैलेस",
+          "type": "landmark",
+          "description": "बेल्वेडियर पैलेस एक असाधारण बारोक कृति है जो ऑस्ट्रियाई कला का एक प्रभावशाली संग्रह समेटे हुए है। आगंतुक गुस्ताव क्लिम्ट के कामों की प्रशंसा कर सकते हैं, जिसमें प्रसिद्ध 'द किस' शामिल है। विस्तृत बाग भी एक आरामदायक टहलने के लिए आदर्श हैं। कला और शानदार दृश्यों का आनंद लेने के लिए 2-3 घंटे की अनुमति दें।",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "कुन्स्टहिस्टोरिस्केस म्यूजियम",
+          "type": "museum",
+          "description": "कुन्स्टहिस्टोरिस्केस म्यूजियम दुनिया के सबसे महत्वपूर्ण कला संग्रहालयों में से एक है, जो प्राचीन से आधुनिक काल तक के उत्कृष्ट कृतियों का एक व्यापक संग्रह प्रदर्शित करता है। प्रमुख आकर्षण में वेरमेर, रेम्ब्रांट और राफेल के काम शामिल हैं। कला और इतिहास की विशाल श्रृंखला को पूरी तरह से समझने के लिए कम से कम 2-3 घंटे बिताने की योजना बनाएं।",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "प्राकृतिक इतिहास संग्रहालय",
+          "type": "museum",
+          "description": "वियना का प्राकृतिक इतिहास संग्रहालय डायनासोर की कंकालों से लेकर कीमती रत्नों तक की प्रदर्शनी का खजाना है। यह प्राकृतिक दुनिया के बारे में दिलचस्प जानकारियाँ प्रदान करता है और परिवारों के लिए आदर्श है। इस आकर्षक संस्था की खोज में लगभग 2 घंटे बिताने की उम्मीद करें।",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "नाशमार्कट",
+          "type": "market",
+          "description": "नाशमार्कट वियना का प्रसिद्ध खाद्य बाजार है, जहाँ आगंतुक ताजे उत्पादों, गोरमेट खाद्य पदार्थों और अंतरराष्ट्रीय विशेषताओं की एक विविधता पा सकते हैं। यह स्थानीय संस्कृति और व्यंजनों का अनुभव करने के लिए एक जीवंत स्थान है। स्टॉल के माध्यम से घूमने और स्वादिष्ट व्यंजनों का स्वाद लेने के लिए कम से कम एक घंटे बिताएं।",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "इनर स्टैड (ऐतिहासिक शहर केंद्र)",
+          "type": "district",
+          "description": "इनर स्टैड, वियना का ऐतिहासिक शहर केंद्र, एक यूनेस्को विश्व धरोहर स्थल है जिसमें शानदार वास्तुकला और समृद्ध इतिहास है। आगंतुक हॉफबर्ग पैलेस, स्टेट ओपेरा और अन्य प्रसिद्ध स्थलों का अन्वेषण कर सकते हैं। इस क्षेत्र में चलना आवश्यक है, आदर्श रूप से वातावरण को महसूस करने के लिए कुछ घंटे लगते हैं।",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Viena 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações de Viena. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Viena.",
+      "page_intro": "Viena, a capital da Áustria, é uma cidade renomada por seus palácios imperiais, cultura vibrante e rica história. Desde uma arquitetura deslumbrante até museus de classe mundial, os visitantes podem se imergir em um destino que combina perfeitamente o passado com o presente. Aproveite um passeio relaxante por seus belos parques, delicie-se com a deliciosa culinária local e experimente o charme único que torna Viena uma cidade europeia imperdível.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "Palácio de Schönbrunn",
+          "type": "landmark",
+          "description": "O Palácio de Schönbrunn, um Patrimônio Mundial da UNESCO, é um dos monumentos culturais mais significativos da Áustria. Os visitantes podem explorar os opulentos salões de estado, os belos jardins e a impressionante Gloriette. Planeje passar pelo menos meio dia aqui para apreciar totalmente a grandiosidade e a história desta antiga residência de verão imperial.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "Catedral de Santo Estêvão",
+          "type": "landmark",
+          "description": "A Catedral de Santo Estêvão é o coração de Viena, ostentando uma deslumbrante arquitetura gótica e uma torre imponente. Os visitantes podem subir a torre para vistas de tirar o fôlego da cidade ou explorar seu interior intrincado. Uma visita geralmente leva cerca de uma hora, tornando-se uma parada perfeita para quem explora o centro da cidade.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "Palácio de Belvedere",
+          "type": "landmark",
+          "description": "O Palácio de Belvedere é uma obra-prima barroca extraordinária que abriga uma impressionante coleção de arte austríaca. Os visitantes podem admirar obras de Gustav Klimt, incluindo o famoso 'O Beijo'. Os extensos jardins também são perfeitos para um passeio relaxante. Reserve de 2 a 3 horas para apreciar tanto a arte quanto as vistas deslumbrantes.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "Museu de História da Arte",
+          "type": "museum",
+          "description": "O Museu de História da Arte é um dos museus de arte mais importantes do mundo, exibindo uma extensa coleção de obras-primas desde a antiguidade até os tempos modernos. Os destaques incluem obras de Vermeer, Rembrandt e Rafael. Planeje passar pelo menos 2 a 3 horas para apreciar totalmente a vasta gama de arte e história.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "Museu de História Natural",
+          "type": "museum",
+          "description": "O Museu de História Natural em Viena é um tesouro de exposições que variam de esqueletos de dinossauros a pedras preciosas. Oferece insights fascinantes sobre o mundo natural e é perfeito para famílias. Espere passar cerca de 2 horas explorando esta fascinante instituição.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "Naschmarkt",
+          "type": "market",
+          "description": "O Naschmarkt é o famoso mercado de alimentos de Viena, onde os visitantes podem encontrar uma variedade de produtos frescos, alimentos gourmet e delícias internacionais. É um lugar vibrante para experimentar a cultura e a culinária locais. Reserve pelo menos uma hora para passear pelas barracas e degustar delícias.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "Innere Stadt (Centro Histórico da Cidade)",
+          "type": "district",
+          "description": "Innere Stadt, o centro histórico de Viena, é um Patrimônio Mundial da UNESCO repleto de arquitetura deslumbrante e rica história. Os visitantes podem explorar locais icônicos, como o Palácio Hofburg, a Ópera Estatal e muito mais. Um passeio por esta área é essencial, idealmente levando algumas horas para absorver a atmosfera.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في فيينا 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في فيينا. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم فيينا.",
+      "page_intro": "فيينا، عاصمة النمسا، هي مدينة مشهورة بقصورها الإمبراطورية، ثقافتها الحيوية وتاريخها الغني. من العمارة الرائعة إلى المتاحف العالمية، يمكن للزوار الانغماس في وجهة تمزج بين الماضي والحاضر بسلاسة. استمتع بنزهة مريحة في حدائقها الجميلة، واغمر نفسك في المأكولات المحلية الشهية، واختبر السحر الفريد الذي يجعل من فيينا مدينة أوروبية لا بد من زيارتها.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "قصر شونبرون",
+          "type": "landmark",
+          "description": "قصر شونبرون، وهو موقع تراث عالمي لليونسكو، هو أحد أهم المعالم الثقافية في النمسا. يمكن للزوار استكشاف الغرف الفخمة، والحدائق الجميلة، والغلويريت المذهلة. خطط لقضاء نصف يوم على الأقل هنا لتقدير عظمة وتاريخ هذه الإقامة الصيفية الإمبراطورية السابقة بشكل كامل.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "كاتدرائية سانت ستيفن",
+          "type": "landmark",
+          "description": "كاتدرائية سانت ستيفن هي قلب فيينا، حيث تفتخر بعمارة قوطية رائعة وبرج شاهق. يمكن للزوار تسلق البرج للحصول على مناظر خلابة للمدينة أو استكشاف داخلها المعقد. عادةً ما تستغرق الزيارة حوالي ساعة، مما يجعلها محطة مثالية لأي شخص يستكشف وسط المدينة.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "قصر بيلفيدير",
+          "type": "landmark",
+          "description": "قصر بيلفيدير هو عمل باروكي استثنائي يضم مجموعة مثيرة للإعجاب من الفن النمساوي. يمكن للزوار الاستمتاع بأعمال غوستاف كليمت، بما في ذلك الشهيرة 'القبلة'. الحدائق الواسعة مثالية أيضًا لنزهة مريحة. خصص من 2 إلى 3 ساعات للاستمتاع بكل من الفن والإطلالات المذهلة.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "متحف تاريخ الفن",
+          "type": "museum",
+          "description": "يعد متحف تاريخ الفن واحدًا من أهم متاحف الفن في العالم، حيث يعرض مجموعة واسعة من التحف الفنية من العصور القديمة حتى العصر الحديث. تشمل المعالم البارزة أعمالًا لفيرمير، ورامبرانت، ورافائيل. خطط لقضاء ساعتين إلى ثلاث ساعات لتقدير مجموعة الفن والتاريخ الشاسعة بشكل كامل.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "المتحف الطبيعي للتاريخ",
+          "type": "museum",
+          "description": "المتحف الطبيعي للتاريخ في فيينا هو كنز من المعروضات التي تتراوح من هياكل الديناصورات إلى الأحجار الكريمة. يقدم رؤى مثيرة حول العالم الطبيعي وهو مثالي للعائلات. توقع قضاء حوالي ساعتين في استكشاف هذه المؤسسة المثيرة للاهتمام.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "سوق ناشماركت",
+          "type": "market",
+          "description": "سوق ناشماركت هو السوق الغذائي الشهير في فيينا، حيث يمكن للزوار العثور على مجموعة متنوعة من المنتجات الطازجة والأطعمة الفاخرة والمأكولات الدولية. إنه مكان حيوي لتجربة الثقافة والمأكولات المحلية. خصص على الأقل ساعة للتجول بين الأكشاك وتذوق الأطعمة الشهية.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "إنير شتات (المركز التاريخي للمدينة)",
+          "type": "district",
+          "description": "إنير شتات، المركز التاريخي لفيينا، هو موقع تراث عالمي لليونسكو مليء بالعمارة الرائعة والتاريخ الغني. يمكن للزوار استكشاف المواقع الأيقونية مثل قصر هوفبورغ، دار الأوبرا الوطنية، والمزيد. يعتبر التجول في هذه المنطقة ضروريًا، مما يستغرق عادةً بضع ساعات لامتصاص الأجواء.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ভিয়েনার শীর্ষ আকর্ষণ 2026 — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "ভিয়েনার সেরা আকর্ষণগুলি অন্বেষণ করুন। ভিয়েনার শীর্ষ স্থাপনাগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "page_intro": "ভিয়েনা, অস্ট্রিয়ার রাজধানী, একটি শহর যা তার সাম্রাজ্যিক প্রাসাদ, প্রাণবন্ত সংস্কৃতি এবং সমৃদ্ধ ইতিহাসের জন্য বিখ্যাত। চমৎকার স্থাপত্য থেকে শুরু করে বিশ্বমানের জাদুঘর, দর্শকরা এক এমন গন্তব্যে নিমজ্জিত হতে পারেন যা অতীত এবং বর্তমানকে নিখুঁতভাবে মিশ্রিত করে। এর সুন্দর উদ্যানগুলির মধ্যে একটি আরামদায়ক পদচারনা উপভোগ করুন, সুস্বাদু স্থানীয় খাবারে মজুন, এবং সেই অনন্য মায়া অনুভব করুন যা ভিয়েনাকে একটি আবশ্যক ইউরোপীয় শহর করে তোলে।",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "শোনব্রুন প্রাসাদ",
+          "type": "landmark",
+          "description": "শোনব্রুন প্রাসাদ, একটি ইউনেস্কো বিশ্ব ঐতিহ্য স্থান, অস্ট্রিয়ার সবচেয়ে গুরুত্বপূর্ণ সাংস্কৃতিক স্মৃতিস্তম্ভগুলির মধ্যে একটি। দর্শকরা রাজকীয় রাজকক্ষে, সুন্দর বাগান এবং চমৎকার গ্লোরিয়েট অন্বেষণ করতে পারেন। এই প্রাক্তন সাম্রাজ্যিক গ্রীষ্মকালীন আবাসের মহিমা এবং ইতিহাস পুরোপুরি উপলব্ধি করার জন্য এখানে অন্তত অর্ধ দিন কাটানোর পরিকল্পনা করুন।",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "সেন্ট স্টিফেনের ক্যাথেড্রাল",
+          "type": "landmark",
+          "description": "সেন্ট স্টিফেনের ক্যাথেড্রাল ভিয়েনার হৃদয়, একটি চমৎকার গথিক স্থাপত্য এবং একটি উঁচু মিনারের গর্ব করে। দর্শকরা শহরের মনোমুগ্ধকর দৃশ্যের জন্য টাওয়ারটি আরোহণ করতে পারেন বা এর জটিল অভ্যন্তরীণ অংশ অন্বেষণ করতে পারেন। একটি ভ্রমণ সাধারণত প্রায় এক ঘন্টা সময় নেয়, যা শহরের কেন্দ্রে ঘুরে বেড়ানোর জন্য একদম উপযুক্ত।",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "বেলভেদিয়ার প্রাসাদ",
+          "type": "landmark",
+          "description": "বেলভেদিয়ার প্রাসাদ একটি অসাধারণ বারোক শিল্পকর্ম যা একটি চিত্তাকর্ষক অস্ট্রিয়ান শিল্পের সংগ্রহ ধারণ করে। দর্শকরা গুস্তাভ ক্লিমটের কাজগুলি উপভোগ করতে পারেন, যার মধ্যে বিখ্যাত 'দ্য কিস' অন্তর্ভুক্ত। বিস্তৃত বাগানগুলোও একটি আরামদায়ক পদচারনার জন্য উপযুক্ত। শিল্প এবং চমৎকার দৃশ্যের আনন্দ নিতে 2-3 ঘণ্টা সময় নিন।",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "কুন্সটহিস্টোরিস্ক মিউজিয়াম",
+          "type": "museum",
+          "description": "কুন্সটহিস্টোরিস্ক মিউজিয়াম বিশ্বজুড়ে সবচেয়ে গুরুত্বপূর্ণ শিল্প জাদুঘরের মধ্যে একটি, যা প্রাচীন থেকে আধুনিক সময় পর্যন্ত মাস্টারপিসগুলির একটি ব্যাপক সংগ্রহ প্রদর্শন করে। প্রধান আকর্ষণের মধ্যে ভেরমিয়ার, রেমব্রান্ট, এবং রাফায়েলের কাজ অন্তর্ভুক্ত। শিল্প এবং ইতিহাসের বিশাল পরিসরকে পুরোপুরি উপলব্ধি করার জন্য অন্তত 2-3 ঘণ্টা সময় কাটানোর পরিকল্পনা করুন।",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "প্রাকৃতিক ইতিহাস জাদুঘর",
+          "type": "museum",
+          "description": "ভিয়েনার প্রাকৃতিক ইতিহাস জাদুঘর ডাইনোসরের কঙ্কাল থেকে শুরু করে মূল্যবান রত্ন পর্যন্ত প্রদর্শনীর একটি ধনভাণ্ডার। এটি প্রাকৃতিক বিশ্বের সম্পর্কে চিত্তাকর্ষক তথ্য প্রদান করে এবং পরিবারের জন্য উপযুক্ত। এই আকর্ষণীয় প্রতিষ্ঠানে অন্বেষণে প্রায় 2 ঘণ্টা সময় কাটানোর আশা করুন।",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "নাশমার্কেট",
+          "type": "market",
+          "description": "নাশমার্কেট হল ভিয়েনার বিখ্যাত খাদ্য বাজার, যেখানে দর্শকরা বিভিন্ন তাজা পণ্য, গুরমেট খাবার এবং আন্তর্জাতিক বিশেষত্ব খুঁজে পেতে পারেন। এটি স্থানীয় সংস্কৃতি এবং খাবারগুলি অনুভব করার জন্য একটি প্রাণবন্ত স্থান। স্টলগুলির মধ্যে ঘোরাঘুরি করতে এবং সুস্বাদু খাবারগুলি স্বাদ নিতে অন্তত এক ঘন্টা সময় কাটান।",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "ইননার স্ট্যাড (ঐতিহাসিক শহর কেন্দ্র)",
+          "type": "district",
+          "description": "ইননার স্ট্যাড, ভিয়েনার ঐতিহাসিক শহর কেন্দ্র, একটি ইউনেস্কো বিশ্ব ঐতিহ্য স্থান যা চমৎকার স্থাপত্য এবং সমৃদ্ধ ইতিহাসে পূর্ণ। দর্শকরা হফবার্গ প্রাসাদ, স্টেট অপেরা এবং আরও অনেক আইকনিক স্থান অন্বেষণ করতে পারেন। এই অঞ্চলে হাঁটা জরুরি, আদর্শভাবে পরিবেশ অনুভব করতে কয়েক ঘণ্টা সময় লাগতে পারে।",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Главные достопримечательности Вены 2026 — Билеты, Советы и Полное Руководство",
+      "seo_description": "Изучите лучшие достопримечательности Вены. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Вены.",
+      "page_intro": "Вена, столица Австрии, — это город, известный своими императорскими дворцами, яркой культурой и богатой историей. От великолепной архитектуры до музеев мирового класса, посетители могут погрузиться в место, которое гармонично сочетает прошлое и настоящее. Наслаждайтесь неспешной прогулкой по красивым паркам, попробуйте вкусную местную кухню и ощутите уникальное очарование, которое делает Вену обязательным для посещения европейским городом.",
+      "items": [
+        {
+          "id": "schonbrunn-palace",
+          "name": "Дворец Шенбрунн",
+          "type": "landmark",
+          "description": "Дворец Шенбрунн, объект Всемирного наследия ЮНЕСКО, является одним из самых значимых культурных памятников Австрии. Посетители могут исследовать роскошные государственные залы, красивые сады и впечатляющую Глориетту. Запланируйте провести здесь как минимум полдня, чтобы в полной мере оценить величие и историю этой бывшей императорской летней резиденции.",
+          "image_keyword": "Schönbrunn Palace",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €20",
+          "best_time": "anytime",
+          "klook_query": "Schönbrunn Palace tickets"
+        },
+        {
+          "id": "st-stephens-cathedral",
+          "name": "Кафедральный собор Святого Стефана",
+          "type": "landmark",
+          "description": "Кафедральный собор Святого Стефана — это сердце Вены, обладающий потрясающей готической архитектурой и высокой башней. Посетители могут подняться на башню, чтобы насладиться захватывающими видами на город, или исследовать его сложный интерьер. Посещение обычно занимает около часа, что делает его идеальной остановкой для тех, кто исследует центр города.",
+          "image_keyword": "St. Stephen's Cathedral",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €5",
+          "best_time": "afternoon",
+          "klook_query": "St. Stephen's Cathedral tickets"
+        },
+        {
+          "id": "belvedere-palace",
+          "name": "Дворец Бельведер",
+          "type": "landmark",
+          "description": "Дворец Бельведер — это выдающийся барочный шедевр, который хранит впечатляющую коллекцию австрийского искусства. Посетители могут любоваться работами Густава Климта, включая знаменитую 'Поцелуй'. Просторные сады также идеально подходят для неспешной прогулки. Позвольте себе 2-3 часа, чтобы насладиться как искусством, так и потрясающими видами.",
+          "image_keyword": "Belvedere Palace",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €15",
+          "best_time": "morning",
+          "klook_query": "Belvedere Palace tickets"
+        },
+        {
+          "id": "kunsthistorisches-museum",
+          "name": "Музей истории искусства",
+          "type": "museum",
+          "description": "Музей истории искусства является одним из самых важных художественных музеев в мире, представляя обширную коллекцию шедевров от древности до современности. К числу выдающихся работ относятся произведения Вермеера, Рембрандта и Рафаэля. Запланируйте провести как минимум 2-3 часа, чтобы в полной мере оценить обширный спектр искусства и истории.",
+          "image_keyword": "Kunsthistorisches Museum",
+          "star_rating": 4.9,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €16",
+          "best_time": "afternoon",
+          "klook_query": "Kunsthistorisches Museum tickets"
+        },
+        {
+          "id": "natural-history-museum-vienna",
+          "name": "Естественнонаучный музей",
+          "type": "museum",
+          "description": "Естественнонаучный музей в Вене — это сокровищница экспонатов, варьирующихся от скелетов динозавров до драгоценных камней. Он предлагает увлекательные сведения о природном мире и идеально подходит для семей. Ожидайте провести около 2 часов, исследуя это увлекательное учреждение.",
+          "image_keyword": "Natural History Museum Vienna",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "approx €12",
+          "best_time": "anytime",
+          "klook_query": "Natural History Museum Vienna tickets"
+        },
+        {
+          "id": "naschmarkt",
+          "name": "Няшмаркт",
+          "type": "market",
+          "description": "Няшмаркт — это знаменитый продуктовый рынок Вены, где посетители могут найти разнообразные свежие продукты, деликатесы и международные блюда. Это яркое место, чтобы познакомиться с местной культурой и кухней. Проведите не менее часа, прогуливаясь по прилавкам и пробуя вкусные угощения.",
+          "image_keyword": "Naschmarkt",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Naschmarkt"
+        },
+        {
+          "id": "innere-stadt",
+          "name": "Иннере Штадт (Исторический Центр Город)",
+          "type": "district",
+          "description": "Иннере Штадт, исторический центр Вены, является объектом Всемирного наследия ЮНЕСКО, наполненным потрясающей архитектурой и богатой историей. Посетители могут исследовать знаковые места, такие как Дворец Хофбург, Государственная Опера и многое другое. Прогулка по этому району обязательна, и для этого идеально подойдут несколько часов, чтобы насладиться атмосферой.",
+          "image_keyword": "Innere Stadt",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Innere Stadt"
+        }
+      ]
+    }
+  }
+}

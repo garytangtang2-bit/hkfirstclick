@@ -1,0 +1,1013 @@
+{
+  "city_slug": "berlin",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Berlin 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Berlin. From budget eats to fine dining — with booking links.",
+      "page_intro": "Berlin is a vibrant city known for its diverse food scene, blending traditional German cuisine with international flavors. The city's culinary landscape offers everything from street food stalls to high-end fine dining. Whether you're sampling a classic currywurst or indulging in gourmet dishes, Berlin's food culture reflects its rich history and modern creativity.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "Mustafa's Gemüse Kebap",
+          "type": "street_food",
+          "description": "Famous for its delicious kebabs, Mustafa's Gemüse Kebap is a must-visit for anyone in Berlin. The standout dish is their signature vegetable kebab, loaded with fresh ingredients and a secret sauce. Expect a casual atmosphere with a lively queue, typical of popular street food spots. Prices are budget-friendly, making it an ideal choice for a quick bite.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "Markthalle Neun",
+          "type": "night_market",
+          "description": "Markthalle Neun is a bustling food market in Kreuzberg that showcases local artisans and street food vendors. Here, you can find everything from artisanal cheeses to gourmet street food. The atmosphere is vibrant, with plenty of seating to enjoy your meal. It’s a great place to sample various dishes, making it perfect for food lovers.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "Curry 36",
+          "type": "street_food",
+          "description": "Curry 36 is iconic for its currywurst, a must-try dish when in Berlin. This casual eatery serves crispy sausage topped with a flavorful curry sauce, making it a favorite among locals and tourists. The fast-paced atmosphere and late-night hours mean it's perfect for a quick snack. Prices are very reasonable, allowing you to indulge without breaking the bank.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "Restaurant Tresor",
+          "type": "restaurant",
+          "description": "Restaurant Tresor offers a unique dining experience in a former techno club. This innovative eatery serves modern German cuisine with a twist. The atmosphere is edgy yet welcoming, perfect for a special night out. Prices are moderate, and their seasonal menu is a highlight, showcasing the best of local ingredients.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "Zollhaus",
+          "type": "restaurant",
+          "description": "Situated by the river, Zollhaus is renowned for its traditional German fare and stunning views. The restaurant offers a cozy atmosphere with a focus on seasonal dishes and local beers. Prices range from moderate to high, making it suitable for both casual diners and those looking to indulge. Their schnitzel is a crowd favorite.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "Kaiser Grill",
+          "type": "local_specialty",
+          "description": "Kaiser Grill is a staple for traditional Berlin cuisine, famous for its Berliner Pfannkuchen (jelly-filled doughnuts) and hearty meat dishes. The atmosphere is warm and inviting, perfect for enjoying authentic local flavors. Prices are reasonable, making it a great spot for trying local specialties without overspending.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "Neni Berlin",
+          "type": "restaurant",
+          "description": "Located on the rooftop of the 25hours Hotel, Neni Berlin offers stunning views and a diverse menu inspired by Middle Eastern and Mediterranean cuisine. The atmosphere is lively and chic, making it a perfect spot for dinner with friends or a romantic date. Prices are on the higher side, but the experience is well worth it.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年柏林最佳美食 — 顶级餐厅与街头美食指南",
+      "seo_description": "发现柏林最好的餐厅、街头美食和地方特色。从预算餐点到高档用餐 — 包括预订链接。",
+      "page_intro": "柏林是一座充满活力的城市，以其多样的美食场景而闻名，融合了传统德国菜与国际风味。城市的烹饪风貌提供了从街头小摊到高档餐厅的一切选择。无论你是在品尝经典的咖喱香肠，还是享受美食佳肴，柏林的美食文化反映了其丰富的历史和现代的创造力。",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "穆斯塔法的蔬菜夹饼",
+          "type": "street_food",
+          "description": "因美味的烤肉而闻名，穆斯塔法的蔬菜夹饼是柏林必访之地。招牌菜是他们的特色蔬菜烤肉，装满新鲜食材和秘密酱料。期待轻松的氛围和热闹的队伍，典型的受欢迎街头美食场所。价格实惠，是快速就餐的理想选择。",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "九号市场",
+          "type": "night_market",
+          "description": "九号市场是克罗伊茨贝格一个热闹的美食市场，展示当地工匠和街头食品供应商。在这里，你可以找到从手工奶酪到美食街头食品的各种选择。氛围生动，提供充足的座位让你享受美餐。这里是品尝各种菜肴的绝佳地点，非常适合美食爱好者。",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "咖喱36",
+          "type": "street_food",
+          "description": "咖喱36因其咖喱香肠而闻名，是在柏林时必尝的菜肴。这家休闲餐厅提供酥脆的香肠，上面淋有美味的咖喱酱，深受当地人和游客的喜爱。快节奏的氛围和深夜营业时间使其非常适合快速小吃。价格非常合理，让你在不破产的情况下尽情享受。",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "特雷索餐厅",
+          "type": "restaurant",
+          "description": "特雷索餐厅在一个前电子音乐俱乐部内提供独特的用餐体验。这家创新餐厅提供现代德国菜肴，别具一格。氛围前卫而温馨，非常适合特别的夜晚。价格适中，他们的季节菜单是亮点，展示了当地食材的最佳风味。",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "佐尔豪斯",
+          "type": "restaurant",
+          "description": "佐尔豪斯坐落在河边，以传统德国菜和迷人景致而闻名。餐厅提供舒适的氛围，专注于季节性菜肴和当地啤酒。价格从适中到偏高，适合休闲用餐者和想要享受美食的人。他们的炸肉排是人们喜爱的菜肴。",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "凯瑟烤肉",
+          "type": "local_specialty",
+          "description": "凯瑟烤肉是传统柏林美食的代表，以柏林果酱甜甜圈和丰盛的肉类菜肴而闻名。氛围温暖而宜人，非常适合享用正宗的当地风味。价格合理，是尝试当地特色的好去处，而不会过度消费。",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "柏林尼尼",
+          "type": "restaurant",
+          "description": "柏林尼尼位于25hours酒店的屋顶，提供迷人的景色和受中东和地中海美食启发的多样菜单。氛围热闹而时尚，是与朋友共进晚餐或浪漫约会的完美场所。价格偏高，但体验非常值得。",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年ベルリンのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "ベルリンの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付きです。",
+      "page_intro": "ベルリンは伝統的なドイツ料理と国際的な風味が融合した多様な食文化で知られる活気ある都市です。街の料理風景は、ストリートフードの屋台から高級レストランまで、さまざまな選択肢を提供しています。クラシックなカリーヴルストを味わうもよし、グルメ料理を楽しむもよし、ベルリンの食文化はその豊かな歴史と現代の創造性を反映しています。",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "ムスタファの野菜ケバブ",
+          "type": "street_food",
+          "description": "美味しいケバブで有名なムスタファの野菜ケバブは、ベルリンを訪れる人にとって必見のスポットです。特に目立つ料理は、フレッシュな食材と秘密のソースがたっぷり入ったシグネチャーの野菜ケバブです。カジュアルな雰囲気で、人気のストリートフードスポットに典型的な賑やかな行列が期待できます。価格は手頃で、手早く食事をするには理想的な選択です。",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "マルクトハレ9",
+          "type": "night_market",
+          "description": "マルクトハレ9は、クレーツベルクにある賑やかなフードマーケットで、地元の職人やストリートフードの販売者を showcasing しています。ここでは、職人製のチーズからグルメストリートフードまで、さまざまなものが見つかります。雰囲気は活気に満ちており、食事を楽しむための座席もたくさんあります。さまざまな料理を試すのに最適な場所で、美食愛好家にはぴったりです。",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "カレー36",
+          "type": "street_food",
+          "description": "カレー36は、ベルリンで必ず試すべき料理であるカリーヴルストのアイコンです。このカジュアルな食堂では、風味豊かなカレーソースがかけられたクリスピーなソーセージが提供されており、地元の人々や観光客に人気です。テンポの速い雰囲気と深夜営業のため、サクッとスナックを楽しむのにぴったりです。価格は非常にリーズナブルで、財布に優しいです。",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "レストラン・トレゾール",
+          "type": "restaurant",
+          "description": "レストラン・トレゾールは、かつてのテクノクラブでユニークなダイニング体験を提供しています。この革新的な食堂では、ひねりのある現代的なドイツ料理が楽しめます。雰囲気はエッジが利いているが、歓迎する雰囲気で、特別な夜にぴったりです。価格は中程度で、季節ごとのメニューがハイライトとなり、地元の食材のベストを披露しています。",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "ツォルハウス",
+          "type": "restaurant",
+          "description": "ツォルハウスは川のそばにあり、伝統的なドイツ料理と素晴らしい景色で知られています。レストランは心地よい雰囲気を提供し、季節ごとの料理と地元のビールに焦点を当てています。価格は中程度から高めで、カジュアルなダイナーや贅沢を楽しみたい人に適しています。彼らのシュニッツェルは群衆に人気の料理です。",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "カイザーグリル",
+          "type": "local_specialty",
+          "description": "カイザーグリルは、伝統的なベルリン料理の定番で、ベルリーナー・ファンケーケン（ジャム入りドーナツ）やボリュームたっぷりの肉料理で有名です。雰囲気は暖かく、親しみやすく、本格的な地元の風味を楽しむのに最適です。価格は手頃で、地元の特産品を試すのに最適なスポットです。",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "ネニ・ベルリン",
+          "type": "restaurant",
+          "description": "ネニ・ベルリンは25hoursホテルの屋上に位置し、素晴らしい景色と中東および地中海料理にインスパイアされた多様なメニューを提供しています。雰囲気は活気に満ちており、友達とのディナーやロマンティックなデートに最適なスポットです。価格は高めですが、その体験は十分に価値があります。",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 베를린 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "베를린 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하십시오. 예산 식사부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "베를린은 전통적인 독일 요리와 국제적인 풍미가 혼합된 다양한 음식 장면으로 잘 알려진 활기찬 도시입니다. 도시의 요리 풍경은 스트리트 푸드 가판대에서 고급 레스토랑까지 모든 것을 제공합니다. 클래식한 커리부어스트를 맛보거나 미식 요리를 즐기든, 베를린의 음식 문화는 풍부한 역사와 현대적인 창의성을 반영합니다.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "무스타파의 야채 케밥",
+          "type": "street_food",
+          "description": "맛있는 케밥으로 유명한 무스타파의 야채 케밥은 베를린 방문객이라면 꼭 가봐야 할 곳입니다. 이곳의 대표 요리는 신선한 재료와 비밀 소스를 가득 넣은 시그니처 야채 케밥입니다. 인기 있는 스트리트 푸드 장소의 전형적인 활기찬 대기줄과 함께 캐주얼한 분위기를 기대할 수 있습니다. 가격은 예산 친화적이며 빠른 한 끼를 즐기기에 이상적입니다.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "마르크트할레 9",
+          "type": "night_market",
+          "description": "마르크트할레 9는 크로이츠베르크에 위치한 분주한 음식 시장으로, 현지 장인과 스트리트 푸드 판매자들을 선보입니다. 여기서 장인 치즈부터 미식 스트리트 푸드까지 모든 것을 찾을 수 있습니다. 분위기는 활기차며, 식사를 즐길 수 있는 좌석이 많습니다. 다양한 요리를 시도할 수 있는 훌륭한 장소로, 음식 애호가들에게 완벽합니다.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "커리 36",
+          "type": "street_food",
+          "description": "커리 36은 베를린에서 꼭 먹어봐야 할 요리인 커리부어스트로 상징적인 곳입니다. 이 캐주얼한 식당은 맛있는 커리 소스를 얹은 바삭한 소시지를 제공하여 현지인과 관광객 모두에게 인기가 높습니다. 빠른 속도의 분위기와 심야 영업 시간 덕분에 간단한 간식을 즐기기에 완벽합니다. 가격도 매우 합리적이어서 부담 없이 즐길 수 있습니다.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "레스토랑 트레조르",
+          "type": "restaurant",
+          "description": "레스토랑 트레조르는 이전의 테크노 클럽에서 독특한 다이닝 경험을 제공합니다. 이 혁신적인 식당은 현대 독일 요리를 특별하게 제공합니다. 분위기는 세련되면서도 환영받는 느낌이며, 특별한 저녁에 적합합니다. 가격은 중간 정도이며, 시즌 메뉴가 하이라이트로, 지역 재료의 최고를 자랑합니다.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "졸하우스",
+          "type": "restaurant",
+          "description": "졸하우스는 강가에 위치해 있으며, 전통적인 독일 요리와 멋진 전망으로 유명합니다. 이 레스토랑은 아늑한 분위기를 제공하며, 계절 요리와 지역 맥주에 중점을 두고 있습니다. 가격은 중간에서 높은 편으로, 캐주얼한 다이너와 사치를 즐기고자 하는 사람 모두에게 적합합니다. 그들의 슈니첼은 많은 사람들에게 인기 있는 메뉴입니다.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "카이저 그릴",
+          "type": "local_specialty",
+          "description": "카이저 그릴은 전통적인 베를린 요리의 필수 장소로, 베를린 팬케이크(잼이 들어간 도넛)와 든든한 고기 요리로 유명합니다. 분위기는 따뜻하고 초대하는 느낌으로, 진정한 현지의 맛을 즐기기에 적합합니다. 가격은 합리적이어서 과도한 지출 없이 현지 특산품을 시도할 수 있는 좋은 장소입니다.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "네니 베를린",
+          "type": "restaurant",
+          "description": "네니 베를린은 25hours 호텔의 옥상에 위치하여 멋진 전망과 중동 및 지중해 요리에서 영감을 받은 다양한 메뉴를 제공합니다. 분위기는 활기차고 세련되어 친구들과의 저녁 식사나 로맨틱한 데이트에 적합한 장소입니다. 가격은 다소 높은 편이지만, 그 경험은 충분히 가치가 있습니다.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Berlin 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Berlin. Des repas à petit budget à la gastronomie fine — avec des liens de réservation.",
+      "page_intro": "Berlin est une ville vibrante connue pour sa scène gastronomique diversifiée, mélangeant la cuisine allemande traditionnelle avec des saveurs internationales. Le paysage culinaire de la ville offre de tout, des stands de street food aux restaurants haut de gamme. Que vous goûtiez un currywurst classique ou que vous vous adonniez à des plats gastronomiques, la culture alimentaire de Berlin reflète sa riche histoire et sa créativité moderne.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "Kebap de légumes de Mustafa",
+          "type": "street_food",
+          "description": "Célèbre pour ses délicieux kebabs, le Kebap de légumes de Mustafa est un incontournable pour quiconque à Berlin. Le plat phare est leur kebab de légumes signature, chargé d'ingrédients frais et d'une sauce secrète. Attendez-vous à une atmosphère décontractée avec une file d'attente animée, typique des lieux de street food populaires. Les prix sont abordables, ce qui en fait un choix idéal pour un repas rapide.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "Markthalle Neun",
+          "type": "night_market",
+          "description": "Markthalle Neun est un marché alimentaire animé à Kreuzberg qui met en avant des artisans locaux et des vendeurs de street food. Ici, vous pouvez trouver tout, des fromages artisanaux aux plats de street food gastronomiques. L'atmosphère est vivante, avec beaucoup de places assises pour profiter de votre repas. C'est un excellent endroit pour goûter une variété de plats, parfait pour les amateurs de gastronomie.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "Curry 36",
+          "type": "street_food",
+          "description": "Curry 36 est emblématique pour son currywurst, un plat incontournable à Berlin. Ce restaurant décontracté sert des saucisses croustillantes garnies d'une sauce au curry savoureuse, ce qui en fait un favori parmi les habitants et les touristes. L'atmosphère dynamique et les horaires tardifs en font un endroit parfait pour une collation rapide. Les prix sont très raisonnables, vous permettant de vous faire plaisir sans vous ruiner.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "Restaurant Tresor",
+          "type": "restaurant",
+          "description": "Le Restaurant Tresor offre une expérience culinaire unique dans un ancien club techno. Ce restaurant innovant propose une cuisine allemande moderne avec une touche. L'atmosphère est audacieuse mais accueillante, parfaite pour une soirée spéciale. Les prix sont modérés, et leur menu de saison est un point fort, mettant en valeur le meilleur des ingrédients locaux.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "Zollhaus",
+          "type": "restaurant",
+          "description": "Situé au bord de la rivière, le Zollhaus est réputé pour sa cuisine allemande traditionnelle et sa vue magnifique. Le restaurant offre une atmosphère conviviale, axée sur des plats de saison et des bières locales. Les prix varient de modérés à élevés, ce qui le rend adapté aux dîneurs occasionnels et à ceux qui souhaitent se faire plaisir. Leur schnitzel est un favori du public.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "Kaiser Grill",
+          "type": "local_specialty",
+          "description": "Kaiser Grill est un incontournable de la cuisine berlinoise traditionnelle, célèbre pour ses Berliner Pfannkuchen (beignets fourrés à la confiture) et ses plats de viande copieux. L'atmosphère est chaleureuse et accueillante, parfaite pour déguster des saveurs locales authentiques. Les prix sont raisonnables, ce qui en fait un excellent endroit pour essayer des spécialités locales sans débourser trop.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "Neni Berlin",
+          "type": "restaurant",
+          "description": "Situé sur le toit de l'hôtel 25hours, Neni Berlin offre une vue imprenable et un menu varié inspiré de la cuisine moyen-orientale et méditerranéenne. L'atmosphère est animée et chic, ce qui en fait un endroit idéal pour un dîner entre amis ou un rendez-vous romantique. Les prix sont un peu élevés, mais l'expérience en vaut la peine.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Berlín 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Berlín. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Berlín es una ciudad vibrante conocida por su diversa escena gastronómica, que combina la cocina alemana tradicional con sabores internacionales. El paisaje culinario de la ciudad ofrece todo, desde puestos de comida callejera hasta restaurantes de alta gama. Ya sea que estés probando un currywurst clásico o disfrutando de platos gourmet, la cultura alimentaria de Berlín refleja su rica historia y creatividad moderna.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "Kebap de verduras de Mustafa",
+          "type": "street_food",
+          "description": "Famoso por sus deliciosos kebabs, el Kebap de verduras de Mustafa es una visita obligada para cualquiera en Berlín. El plato destacado es su kebab de verduras signature, cargado de ingredientes frescos y una salsa secreta. Espera una atmósfera casual con una cola animada, típica de los populares lugares de comida callejera. Los precios son asequibles, lo que lo convierte en una opción ideal para un bocado rápido.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "Markthalle Neun",
+          "type": "night_market",
+          "description": "Markthalle Neun es un bullicioso mercado de alimentos en Kreuzberg que muestra a artesanos locales y vendedores de comida callejera. Aquí puedes encontrar de todo, desde quesos artesanales hasta comida callejera gourmet. La atmósfera es vibrante, con mucho espacio para disfrutar de tu comida. Es un gran lugar para probar varios platos, perfecto para los amantes de la comida.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "Curry 36",
+          "type": "street_food",
+          "description": "Curry 36 es icónico por su currywurst, un plato que debes probar en Berlín. Este restaurante informal sirve salchichas crujientes cubiertas con una sabrosa salsa de curry, lo que lo convierte en un favorito entre los lugareños y turistas. La atmósfera rápida y las horas hasta tarde lo hacen perfecto para un bocadillo rápido. Los precios son muy razonables, lo que te permite disfrutar sin arruinarte.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "Restaurante Tresor",
+          "type": "restaurant",
+          "description": "El Restaurante Tresor ofrece una experiencia culinaria única en un antiguo club de techno. Este restaurante innovador sirve cocina alemana moderna con un toque. La atmósfera es audaz pero acogedora, perfecta para una noche especial. Los precios son moderados, y su menú de temporada es un punto destacado, mostrando lo mejor de los ingredientes locales.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "Zollhaus",
+          "type": "restaurant",
+          "description": "Situado junto al río, el Zollhaus es conocido por su comida alemana tradicional y vistas impresionantes. El restaurante ofrece un ambiente acogedor, centrado en platos de temporada y cervezas locales. Los precios varían de moderados a altos, lo que lo hace adecuado tanto para comensales casuales como para aquellos que buscan disfrutar. Su schnitzel es un favorito entre la multitud.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "Kaiser Grill",
+          "type": "local_specialty",
+          "description": "Kaiser Grill es un pilar de la cocina tradicional berlinesa, famoso por sus Berliner Pfannkuchen (donas rellenas de mermelada) y contundentes platos de carne. La atmósfera es cálida y acogedora, perfecta para disfrutar de sabores locales auténticos. Los precios son razonables, lo que lo convierte en un gran lugar para probar especialidades locales sin gastar demasiado.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "Neni Berlín",
+          "type": "restaurant",
+          "description": "Ubicado en la azotea del hotel 25hours, Neni Berlín ofrece impresionantes vistas y un menú diverso inspirado en la cocina de Medio Oriente y Mediterránea. La atmósfera es animada y elegante, lo que lo convierte en un lugar perfecto para cenar con amigos o en una cita romántica. Los precios son un poco altos, pero la experiencia vale la pena.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Berlin 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran, makanan jalanan, dan spesial lokal terbaik di Berlin. Dari makan hemat hingga makan mewah — dengan tautan pemesanan.",
+      "page_intro": "Berlin adalah kota yang hidup dan dikenal dengan ragam kulinernya, menggabungkan masakan Jerman tradisional dengan cita rasa internasional. Lanskap kuliner kota ini menawarkan segala sesuatu dari stan makanan jalanan hingga restoran mewah. Apakah Anda mencicipi currywurst klasik atau menikmati hidangan gourmet, budaya makanan Berlin mencerminkan sejarah yang kaya dan kreativitas modern.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "Kebap Sayuran Mustafa",
+          "type": "street_food",
+          "description": "Terkenal dengan kebabnya yang lezat, Kebap Sayuran Mustafa adalah tempat yang wajib dikunjungi bagi siapa saja yang berada di Berlin. Hidangan yang menonjol adalah kebab sayuran khas mereka, diisi dengan bahan-bahan segar dan saus rahasia. Harapkan suasana santai dengan antrean yang hidup, khas tempat makanan jalanan yang populer. Harganya ramah anggaran, menjadikannya pilihan ideal untuk makan cepat.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "Markthalle Neun",
+          "type": "night_market",
+          "description": "Markthalle Neun adalah pasar makanan yang ramai di Kreuzberg yang menampilkan pengrajin lokal dan penjual makanan jalanan. Di sini, Anda dapat menemukan segalanya, mulai dari keju artisanal hingga makanan jalanan gourmet. Suasananya hidup, dengan banyak tempat duduk untuk menikmati makanan Anda. Ini adalah tempat yang bagus untuk mencoba berbagai hidangan, sangat cocok untuk pecinta makanan.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "Curry 36",
+          "type": "street_food",
+          "description": "Curry 36 ikonik karena currywurst-nya, hidangan yang harus dicoba saat berada di Berlin. Restoran kasual ini menyajikan sosis renyah yang ditutupi dengan saus kari yang lezat, menjadikannya favorit di kalangan penduduk lokal dan wisatawan. Suasana yang cepat dan jam buka larut malam membuatnya sempurna untuk camilan cepat. Harganya sangat terjangkau, memungkinkan Anda untuk menikmati tanpa merogoh kocek dalam-dalam.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "Restoran Tresor",
+          "type": "restaurant",
+          "description": "Restoran Tresor menawarkan pengalaman bersantap yang unik di bekas klub techno. Restoran inovatif ini menyajikan masakan Jerman modern dengan sentuhan. Suasananya tajam tetapi menyambut, sempurna untuk malam istimewa. Harganya sedang, dan menu musiman mereka menjadi sorotan, menampilkan bahan-bahan lokal terbaik.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "Zollhaus",
+          "type": "restaurant",
+          "description": "Terletak di tepi sungai, Zollhaus terkenal dengan masakan Jerman tradisional dan pemandangan menakjubkan. Restoran ini menawarkan suasana yang nyaman, dengan fokus pada hidangan musiman dan bir lokal. Harganya berkisar dari sedang hingga tinggi, menjadikannya cocok untuk pengunjung santai dan bagi mereka yang ingin memanjakan diri. Schnitzel mereka adalah favorit banyak orang.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "Kaiser Grill",
+          "type": "local_specialty",
+          "description": "Kaiser Grill adalah tempat yang penting untuk masakan tradisional Berlin, terkenal dengan Berliner Pfannkuchen (donat berisi selai) dan hidangan daging yang mengenyangkan. Suasananya hangat dan mengundang, sempurna untuk menikmati cita rasa lokal yang otentik. Harganya terjangkau, menjadikannya tempat yang baik untuk mencoba spesial lokal tanpa menguras kantong.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "Neni Berlin",
+          "type": "restaurant",
+          "description": "Terletak di atap Hotel 25hours, Neni Berlin menawarkan pemandangan menakjubkan dan menu beragam yang terinspirasi oleh masakan Timur Tengah dan Mediterania. Suasananya hidup dan chic, menjadikannya tempat yang sempurna untuk makan malam bersama teman atau kencan romantis. Harganya sedikit tinggi, tetapi pengalaman ini sangat berharga.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "बर्लिन में बेहतरीन खाना 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "बर्लिन में बेहतरीन रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "बर्लिन एक जीवंत शहर है जो अपने विविध खाद्य दृश्य के लिए जाना जाता है, जो पारंपरिक जर्मन व्यंजनों को अंतरराष्ट्रीय स्वादों के साथ मिलाता है। शहर का पाक परिदृश्य स्ट्रीट फूड स्टॉल से लेकर उच्च अंत फाइन डाइनिंग तक सब कुछ प्रदान करता है। चाहे आप एक क्लासिक करीवुर्स्ट का स्वाद ले रहे हों या शानदार व्यंजनों का आनंद ले रहे हों, बर्लिन की खाद्य संस्कृति इसकी समृद्ध इतिहास और आधुनिक रचनात्मकता को दर्शाती है।",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "मुस्तफा का Gemüse Kebap",
+          "type": "street_food",
+          "description": "अपने स्वादिष्ट केबाब के लिए प्रसिद्ध, मुस्तफा का Gemüse Kebap बर्लिन में किसी भी व्यक्ति के लिए एक अवश्य देखने योग्य स्थल है। प्रमुख व्यंजन उनका विशेष सब्जी केबाब है, जो ताजे सामग्री और एक गुप्त सॉस से भरा होता है। एक ताजगी भरे माहौल की अपेक्षा करें जिसमें एक जीवंत कतार होती है, जो लोकप्रिय स्ट्रीट फूड स्थानों की विशेषता है। कीमतें बजट के अनुकूल हैं, जिससे यह त्वरित नाश्ते के लिए एक आदर्श विकल्प बनता है।",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "मार्कथाले नाइन",
+          "type": "night_market",
+          "description": "मार्कथाले नाइन क्रूज़बर्ग में एक हलचल भरा खाद्य बाजार है जो स्थानीय कारीगरों और स्ट्रीट फूड विक्रेताओं को प्रदर्शित करता है। यहां, आप कारीगरी चीज़ों से लेकर शानदार स्ट्रीट फूड तक सब कुछ पा सकते हैं। वातावरण जीवंत है, जिसमें खाने का आनंद लेने के लिए बहुत सारी सीटिंग है। यह विभिन्न व्यंजनों का स्वाद लेने के लिए एक बेहतरीन स्थान है, जो खाद्य प्रेमियों के लिए आदर्श है।",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "करी 36",
+          "type": "street_food",
+          "description": "करी 36 अपने करीवुर्स्ट के लिए प्रसिद्ध है, जो बर्लिन में एक अवश्य-को-प्रयास करने वाला व्यंजन है। यह आकस्मिक भोजनालय कुरकुरी सॉसेज को एक स्वादिष्ट करी सॉस के साथ परोसता है, जो स्थानीय लोगों और पर्यटकों में पसंदीदा है। तेज़ गति वाला माहौल और देर रात के घंटे इसे त्वरित नाश्ते के लिए आदर्श बनाते हैं। कीमतें बहुत उचित हैं, जिससे आप बिना ज्यादा खर्च किए लुत्फ उठा सकते हैं।",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "रेस्तरां ट्रेसोर",
+          "type": "restaurant",
+          "description": "रेस्तरां ट्रेसोर एक पूर्व टेक्नो क्लब में अद्वितीय भोजन अनुभव प्रदान करता है। यह अभिनव भोजनालय आधुनिक जर्मन व्यंजनों के साथ एक मोड़ के साथ परोसता है। वातावरण तेज और स्वागत करने वाला है, खास रात के लिए आदर्श। कीमतें मध्यम हैं, और उनका मौसमी मेनू एक विशेषता है, जो स्थानीय सामग्रियों का सर्वश्रेष्ठ प्रदर्शित करता है।",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "ज़ोलहॉउस",
+          "type": "restaurant",
+          "description": "नदी के किनारे स्थित, ज़ोलहॉउस अपने पारंपरिक जर्मन भोजन और शानदार दृश्यों के लिए प्रसिद्ध है। रेस्तरां एक आरामदायक वातावरण प्रदान करता है जिसमें मौसमी व्यंजनों और स्थानीय बीयर पर ध्यान केंद्रित किया जाता है। कीमतें मध्यम से उच्च हैं, जिससे यह आकस्मिक खाने वालों और उन लोगों के लिए उपयुक्त है जो लुत्फ उठाना चाहते हैं। उनका स्निट्ज़ेल एक भीड़ का पसंदीदा है।",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "काइजर ग्रिल",
+          "type": "local_specialty",
+          "description": "काइजर ग्रिल पारंपरिक बर्लिन भोजन के लिए एक मुख्य आधार है, जो अपने बर्लिनर फैनकुचेन (जेली भरे डोनट) और भरे मांस व्यंजनों के लिए प्रसिद्ध है। वातावरण गर्म और आमंत्रित है, जो प्रामाणिक स्थानीय स्वादों का आनंद लेने के लिए आदर्श है। कीमतें उचित हैं, जिससे यह स्थानीय विशेषताओं को बिना ज्यादा खर्च किए आजमाने के लिए एक शानदार स्थान है।",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "नेनी बर्लिन",
+          "type": "restaurant",
+          "description": "25 आवर्स होटल की छत पर स्थित, नेनी बर्लिन शानदार दृश्यों और मध्य पूर्वी और भूमध्यसागरीय भोजन से प्रेरित विविध मेनू की पेशकश करता है। वातावरण जीवंत और ठाठ है, जो दोस्तों के साथ रात के खाने या रोमांटिक डेट के लिए एक आदर्श स्थान बनाता है। कीमतें उच्च पक्ष पर हैं, लेकिन अनुभव इसके लायक है।",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Berlim 2026 - Principais Restaurantes e Guia de Street Food",
+      "seo_description": "Descubra os melhores restaurantes, street food e especialidades locais em Berlim. Desde comidas econômicas até jantares requintados - com links de reserva.",
+      "page_intro": "Berlim é uma cidade vibrante conhecida por sua cena gastronômica diversificada, que mistura a cozinha alemã tradicional com sabores internacionais. A paisagem culinária da cidade oferece tudo, desde barracas de street food até jantares sofisticados. Seja provando um clássico currywurst ou se deliciando com pratos gourmet, a cultura alimentar de Berlim reflete sua rica história e criatividade moderna.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "Kebap de Legumes do Mustafa",
+          "type": "street_food",
+          "description": "Famoso por seus deliciosos kebabs, o Kebap de Legumes do Mustafa é uma visita obrigatória para quem está em Berlim. O prato mais destacado é o kebab de legumes, carregado com ingredientes frescos e um molho secreto. Espere uma atmosfera casual com uma fila animada, típica de locais populares de street food. Os preços são acessíveis, tornando-o uma escolha ideal para um lanche rápido.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "Markthalle Nove",
+          "type": "night_market",
+          "description": "A Markthalle Nove é um mercado de alimentos movimentado em Kreuzberg que apresenta artesãos locais e vendedores de street food. Aqui, você pode encontrar de queijos artesanais a street food gourmet. A atmosfera é vibrante, com muitos assentos para desfrutar da sua refeição. É um ótimo lugar para experimentar vários pratos, tornando-o perfeito para amantes da comida.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "Curry 36",
+          "type": "street_food",
+          "description": "O Curry 36 é icônico por seu currywurst, um prato imperdível quando em Berlim. Este restaurante casual serve salsichas crocantes cobertas com um molho de curry saboroso, tornando-se um favorito entre os locais e turistas. A atmosfera acelerada e os horários noturnos significam que é perfeito para um lanche rápido. Os preços são muito razoáveis, permitindo que você se delicie sem estourar o orçamento.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "Restaurante Tresor",
+          "type": "restaurant",
+          "description": "O Restaurante Tresor oferece uma experiência gastronômica única em um antigo clube de techno. Este restaurante inovador serve cozinha alemã moderna com um toque. A atmosfera é ousada, mas acolhedora, perfeita para uma noite especial. Os preços são moderados, e o seu menu sazonal é um destaque, apresentando o melhor dos ingredientes locais.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "Zollhaus",
+          "type": "restaurant",
+          "description": "Situado à beira do rio, o Zollhaus é famoso por sua comida alemã tradicional e vistas deslumbrantes. O restaurante oferece uma atmosfera aconchegante com foco em pratos sazonais e cervejas locais. Os preços variam de moderados a altos, tornando-o adequado tanto para jantares casuais quanto para aqueles que desejam se deliciar. O seu schnitzel é um favorito do público.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "Kaiser Grill",
+          "type": "local_specialty",
+          "description": "O Kaiser Grill é um local para a culinária tradicional de Berlim, famoso por seus Berliner Pfannkuchen (donuts recheados com geleia) e pratos de carne robustos. A atmosfera é calorosa e convidativa, perfeita para desfrutar dos sabores autênticos locais. Os preços são razoáveis, tornando-o um ótimo lugar para experimentar especialidades locais sem gastar muito.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "Neni Berlin",
+          "type": "restaurant",
+          "description": "Localizado no terraço do 25hours Hotel, o Neni Berlin oferece vistas deslumbrantes e um menu diversificado inspirado na culinária do Oriente Médio e Mediterrânea. A atmosfera é animada e chique, tornando-o um local perfeito para um jantar com amigos ou um encontro romântico. Os preços são um pouco mais altos, mas a experiência vale a pena.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الطعام في برلين 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم، الطعام الشارعي والتخصصات المحلية في برلين. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "برلين مدينة نابضة بالحياة معروفة بمشهدها الغذائي المتنوع، الذي يمزج بين المأكولات الألمانية التقليدية والنكهات الدولية. تقدم المناظر الطهو في المدينة كل شيء، من أكشاك الطعام الشارعي إلى تناول الطعام الفاخر. سواء كنت تتذوق طبق الكاريورست الكلاسيكي أو تستمتع بالأطباق الراقية، تعكس ثقافة الطعام في برلين تاريخها الغني وإبداعها الحديث.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "كباب الخضار لمصطفى",
+          "type": "street_food",
+          "description": "يشتهر كباب الخضار لمصطفى بكباباته اللذيذة، وهو مكان يجب زيارته لأي شخص في برلين. الطبق البارز هو كباب الخضار الخاص بهم، المحمل بالمكونات الطازجة وصوص سري. توقع جو غير رسمي مع طابور نشط، وهو نمط شائع في أماكن الطعام الشارعي الشهيرة. الأسعار مناسبة للميزانية، مما يجعله خيارًا مثاليًا لوجبة سريعة.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "ماركت هاله ناين",
+          "type": "night_market",
+          "description": "ماركت هاله ناين هو سوق طعام مزدحم في كروزبرغ يعرض الحرفيين المحليين وبائعي الطعام الشارعي. هنا، يمكنك العثور على كل شيء من الأجبان الحرفية إلى الطعام الشارعي الفاخر. الجو نابض بالحياة، مع الكثير من المقاعد للاستمتاع بوجبتك. إنه مكان رائع لتجربة أطباق متنوعة، مما يجعله مثاليًا لعشاق الطعام.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "كاري 36",
+          "type": "street_food",
+          "description": "كاري 36 أيقوني لكاريورست، وهو طبق يجب تجربته عند زيارة برلين. يقدم هذا المطعم غير الرسمي سجقًا مقرمشًا مغطى بصوص كاري لذيذ، مما يجعله مفضلًا بين السكان المحليين والسياح. الجو السريع وساعات العمل المتأخرة يعني أنه مثالي لوجبة خفيفة سريعة. الأسعار معقولة جدًا، مما يتيح لك الاستمتاع بدون كسر الميزانية.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "مطعم تريزور",
+          "type": "restaurant",
+          "description": "يقدم مطعم تريزور تجربة طعام فريدة في نادي تكنولوجي سابق. يقدم هذا المطعم المبتكر المأكولات الألمانية الحديثة بلمسة. الأجواء جريئة ولكن مرحبة، مما يجعلها مثالية لليلة خاصة. الأسعار معتدلة، وقائمة الطعام الموسمية هي ميزة بارزة، تعرض أفضل المكونات المحلية.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "زولهاوس",
+          "type": "restaurant",
+          "description": "يقع زولهاوس بجوار النهر، ويشتهر بمأكولاته الألمانية التقليدية وإطلالاته الرائعة. يقدم المطعم جوًا مريحًا مع التركيز على الأطباق الموسمية والبيرة المحلية. تتراوح الأسعار من متوسطة إلى مرتفعة، مما يجعله مناسبًا لكل من العشاء غير الرسمي وأولئك الذين يتطلعون إلى الاستمتاع. طبق الشنيتزل لديهم هو مفضل الجماهير.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "كايسر جريل",
+          "type": "local_specialty",
+          "description": "يعد كايسر جريل من المعالم التقليدية لمطبخ برلين، ويشتهر ببرلينر ففانكوشن (دونات محشوة بالجيلي) وأطباق اللحم القلبية. الأجواء دافئة ومرحبة، مثالية للاستمتاع بالنكهات المحلية الأصيلة. الأسعار معقولة، مما يجعله مكانًا رائعًا لتجربة التخصصات المحلية دون إنفاق الكثير.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "ني ني برلين",
+          "type": "restaurant",
+          "description": "يقع ني ني برلين على سطح فندق 25 ساعة، ويقدم إطلالات رائعة وقائمة متنوعة مستوحاة من المأكولات الشرق أوسطية والمتوسطية. الأجواء حيوية وأنيقة، مما يجعله مكانًا مثاليًا لتناول العشاء مع الأصدقاء أو موعد رومانسي. الأسعار أعلى قليلاً، لكن التجربة تستحق ذلك.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "বার্লিনে সেরা খাবার ২০২৬ - শীর্ষ রেস্টুরেন্ট ও স্ট্রিট ফুড গাইড",
+      "seo_description": "বার্লিনের সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলো আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত - বুকিং লিঙ্কসহ।",
+      "page_intro": "বার্লিন একটি প্রাণবন্ত শহর যা তার বৈচিত্র্যময় খাবারের দৃশ্যের জন্য পরিচিত, যা ঐতিহ্যবাহী জার্মান খাবারকে আন্তর্জাতিক স্বাদের সাথে মিশ্রিত করে। শহরের খাদ্যচিত্র স্ট্রিট ফুড স্টল থেকে শুরু করে উচ্চমানের ফাইন ডাইনিং পর্যন্ত সবকিছু প্রদান করে। আপনি একটি ক্লাসিক কারিওরস্টের স্বাদ নিচ্ছেন বা গৌরবময় খাবারের প্রিয় মুহূর্ত উপভোগ করছেন, বার্লিনের খাদ্য সংস্কৃতি তার সমৃদ্ধ ইতিহাস এবং আধুনিক সৃজনশীলতাকে প্রতিফলিত করে।",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "মুস্তাফার সবজি কেবাব",
+          "type": "street_food",
+          "description": "তার স্বাদিশীল কেবাবের জন্য বিখ্যাত, মুস্তাফার সবজি কেবাব বर्लিনে যেকোনো ব্যক্তির জন্য একটি অবশ্যই ভ্রমণ। প্রধান খাবার হল তাদের স্বাক্ষর সবজি কেবাব, যা তাজা উপাদান এবং একটি গোপন সস দিয়ে ভর্তি। জনপ্রিয় স্ট্রিট ফুড স্থানগুলির মতো একটি উজ্জ্বল পরিবেশের প্রত্যাশা করুন। দাম বাজেটের জন্য বন্ধুত্বপূর্ণ, যা এটি দ্রুত নাশতার জন্য একটি আদর্শ পছন্দ করে।",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "মার্কথালে নাইন",
+          "type": "night_market",
+          "description": "মার্কথালে নাইন ক্রুজবার্গে একটি ব্যস্ত খাদ্য বাজার যা স্থানীয় কারিগর ও স্ট্রিট ফুড বিক্রেতাদের প্রদর্শন করে। এখানে, আপনি শৈল্পিক পনির থেকে শুরু করে গৌরবময় স্ট্রিট ফুড সবকিছু পেতে পারেন। পরিবেশটি প্রাণবন্ত, আপনার খাবার উপভোগ করার জন্য প্রচুর আসন রয়েছে। এটি বিভিন্ন খাবারের স্বাদ গ্রহণের জন্য একটি দুর্দান্ত স্থান, যা খাদ্য প্রেমীদের জন্য উপযুক্ত।",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "কারি ৩৬",
+          "type": "street_food",
+          "description": "কারি ৩৬ তার কারিওরস্টের জন্য আইকনিক, যা বার্লিনে একটি অবশ্যই চেষ্টা করার খাদ্য। এই আকস্মিক খাওয়ার জায়গাটি একটি স্বাদযুক্ত কারি সসের সাথে টপ করা ক্রিস্পি সসেজ পরিবেশন করে, যা স্থানীয় এবং পর্যটকদের মধ্যে জনপ্রিয়। দ্রুত গতির পরিবেশ এবং রাতের সময়ের কারণে এটি দ্রুত স্ন্যাকের জন্য উপযুক্ত। দাম খুব যুক্তিসঙ্গত, আপনাকে বাজেট না ভেঙেই উপভোগ করতে দেয়।",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "রেস্টুরেন্ট ট্রেসর",
+          "type": "restaurant",
+          "description": "রেস্টুরেন্ট ট্রেসর একটি প্রাক্তন টেকনো ক্লাবে একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে। এই উদ্ভাবনী রেস্তোরাঁটি আধুনিক জার্মান রান্না একটি মোড়ের সাথে পরিবেশন করে। পরিবেশটি সাহসী কিন্তু আতিথেয়তাপূর্ণ, বিশেষ রাতের জন্য উপযুক্ত। দাম মধ্যম, এবং তাদের মৌসুমি মেনু একটি বিশেষত্ব, স্থানীয় উপাদানের সেরা প্রদর্শন করে।",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "জোলহাউস",
+          "type": "restaurant",
+          "description": "নদীর পাশে অবস্থিত, জোলহাউস তার ঐতিহ্যবাহী জার্মান খাবার এবং চমত্কার দৃশ্যের জন্য পরিচিত। রেস্তোরাঁটি মৌসুমি খাবার এবং স্থানীয় বিয়ারের উপর দৃষ্টি নিবদ্ধ করে একটি আরামদায়ক পরিবেশ প্রদান করে। দাম মাঝারি থেকে উচ্চ, যা এটি উভয়ই অস্বাভাবিক খাবার এবং যারা বিলাসিতা করতে চান তাদের জন্য উপযুক্ত। তাদের শ্নিটজেল একটি ভিড়ের প্রিয়।",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "কাইজার গ্রিল",
+          "type": "local_specialty",
+          "description": "কাইজার গ্রিল ঐতিহ্যবাহী বার্লিন খাবারের জন্য একটি প্রধান স্থান, যা বার্লিনার ফ্যানকুচেন (জেলি-ভরা ডোনাট) এবং মাংসের রুক্ষ খাবারের জন্য বিখ্যাত। পরিবেশটি উষ্ণ এবং আমন্ত্রণমূলক, যা প্রকৃত স্থানীয় স্বাদ উপভোগ করার জন্য উপযুক্ত। দাম যুক্তিসঙ্গত, যা এটি স্থানীয় বিশেষত্বগুলি চেষ্টা করার জন্য একটি দুর্দান্ত স্থান করে তোলে।",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "নেনি বার্লিন",
+          "type": "restaurant",
+          "description": "২৫ আওয়ার্স হোটেলের ছাদে অবস্থিত, নেনি বার্লিন চমত্কার দৃশ্য এবং মধ্যপ্রাচ্য ও ভূমধ্যসাগরীয় খাবার দ্বারা অনুপ্রাণিত বৈচিত্র্যময় মেনু প্রদান করে। পরিবেশটি প্রাণবন্ত এবং চমৎকার, যা বন্ধুর সাথে রাতের খাবার বা রোমান্টিক ডেটের জন্য একটি আদর্শ স্থান। দাম কিছুটা বেশি, তবে অভিজ্ঞতা সত্যিই এর যোগ্য।",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Берлине 2026 - Топ ресторанов и уличной еды",
+      "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных специалитетах в Берлине. От бюджетной еды до изысканных блюд — с ссылками на бронирование.",
+      "page_intro": "Берлин — это яркий город, известный своим разнообразием в кулинарии, сочетая традиционную немецкую кухню с международными вкусами. Кулинарный ландшафт города предлагает все: от уличных киосков до высококлассного ужина. Будь то классический карривурст или изысканные блюда, гастрономическая культура Берлина отражает его богатую историю и современное творчество.",
+      "items": [
+        {
+          "id": "mustafa-gemuese-kebap",
+          "name": "Кебаб с овощами от Мустафы",
+          "type": "street_food",
+          "description": "Известный своими вкусными кебабами, кебаб с овощами от Мустафы — это место, которое нужно посетить каждому, кто находится в Берлине. Главным блюдом является их фирменный овощной кебаб, наполненный свежими ингредиентами и секретным соусом. Ожидайте непринужденную атмосферу с живой очередью, что характерно для популярных уличных закусочных. Цены доступны, что делает его идеальным выбором для быстрого перекуса.",
+          "image_keyword": "Mustafa's Gemüse Kebap",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Vegetable Kebap",
+          "klook_query": "Mustafa's Gemüse Kebap"
+        },
+        {
+          "id": "markthalle-neun",
+          "name": "Марктхалле Нойн",
+          "type": "night_market",
+          "description": "Марктхалле Нойн — это оживленный продуктовый рынок в Кройцберге, представляющий местных мастеров и уличных продавцов еды. Здесь вы можете найти все, от ремесленных сыров до гурманских уличных блюд. Атмосфера яркая, с множеством мест для того, чтобы насладиться своей едой. Это отличное место для дегустации различных блюд, что делает его идеальным для любителей еды.",
+          "image_keyword": "Markthalle Neun",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Street Food Variety",
+          "klook_query": "Markthalle Neun food tour"
+        },
+        {
+          "id": "curry-36",
+          "name": "Кари 36",
+          "type": "street_food",
+          "description": "Кари 36 стал культовым благодаря своему карривурсту, блюду, которое обязательно нужно попробовать в Берлине. Этот непринужденный ресторан подает хрустящие сосиски с ароматным карри-соусом, что делает его любимым местом как для местных жителей, так и для туристов. Быстрая атмосфера и поздние часы работы делают его идеальным для быстрого перекуса. Цены очень разумные, позволяя вам насладиться без лишних затрат.",
+          "image_keyword": "Curry 36",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Currywurst",
+          "klook_query": "Curry 36"
+        },
+        {
+          "id": "restaurant-tresor",
+          "name": "Ресторан Трезор",
+          "type": "restaurant",
+          "description": "Ресторан Трезор предлагает уникальный опыт питания в бывшем клубе техно. Этот инновационный ресторан подает современную немецкую кухню с изюминкой. Атмосфера смелая, но приветливая, идеально подходящая для особого вечера. Цены умеренные, а их сезонное меню — это особая гордость, демонстрирующая лучшее из местных ингредиентов.",
+          "image_keyword": "Restaurant Tresor",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Seasonal Tasting Menu",
+          "klook_query": "Restaurant Tresor reservation"
+        },
+        {
+          "id": "zollhaus",
+          "name": "Цолльхаус",
+          "type": "restaurant",
+          "description": "Расположенный у реки, Цолльхаус известен своей традиционной немецкой кухней и потрясающими видами. Ресторан предлагает уютную атмосферу с акцентом на сезонные блюда и местное пиво. Цены варьируются от умеренных до высоких, что делает его подходящим как для повседневных ужинов, так и для тех, кто хочет побаловать себя. Их шницель — это любимое блюдо публики.",
+          "image_keyword": "Zollhaus",
+          "star_rating": 4.4,
+          "price_range": "$$$",
+          "must_try": "Schnitzel",
+          "klook_query": "Zollhaus reservation"
+        },
+        {
+          "id": "kaisergrill",
+          "name": "Кайзер Гриль",
+          "type": "local_specialty",
+          "description": "Кайзер Гриль является основным местом для традиционной берлинской кухни, знаменитой своими берлинскими фанкухен (пончиками с начинкой из джема) и сытными мясными блюдами. Атмосфера теплая и гостеприимная, идеально подходящая для наслаждения аутентичными местными вкусами. Цены разумные, что делает его отличным местом для знакомства с местными специалитетами без лишних расходов.",
+          "image_keyword": "Kaiser Grill",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Berliner Pfannkuchen",
+          "klook_query": "Kaiser Grill"
+        },
+        {
+          "id": "neni-berlin",
+          "name": "Нени Берлин",
+          "type": "restaurant",
+          "description": "Расположенный на крыше отеля 25hours, Нени Берлин предлагает потрясающий вид и разнообразное меню, вдохновленное кухней Ближнего Востока и Средиземноморья. Атмосфера живая и стильная, что делает его идеальным местом для ужина с друзьями или романтического свидания. Цены выше среднего, но опыт того стоит.",
+          "image_keyword": "Neni Berlin",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Hummus Platter",
+          "klook_query": "Neni Berlin reservation"
+        }
+      ]
+    }
+  }
+}

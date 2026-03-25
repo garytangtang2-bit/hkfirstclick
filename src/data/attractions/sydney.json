@@ -1,0 +1,1097 @@
+{
+  "city_slug": "sydney",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Sydney 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Sydney. Find opening hours, ticket prices and booking links for Sydney's top landmarks.",
+      "page_intro": "Sydney, Australia’s largest city, is renowned for its stunning harbour, iconic landmarks, and vibrant culture. With a rich blend of history and modernity, visitors can enjoy beautiful beaches, world-class dining, and a variety of attractions. Whether you're interested in art, nature, or architecture, Sydney has something for everyone.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "Sydney Opera House",
+          "type": "landmark",
+          "description": "The Sydney Opera House is an architectural marvel and a UNESCO World Heritage site. Visitors can explore its unique sails, enjoy guided tours, or attend a performance. It’s best to allocate at least 1-2 hours for a thorough visit. Don't forget to capture some photos of this iconic landmark!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "Sydney Harbour Bridge",
+          "type": "landmark",
+          "description": "The Sydney Harbour Bridge, affectionately known as 'The Coathanger,' offers breathtaking views of the harbour and city skyline. Visitors can walk across the bridge or participate in the BridgeClimb for an unforgettable experience. Plan for at least 2 hours to fully appreciate the views and take photos.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "Bondi Beach",
+          "type": "park",
+          "description": "Bondi Beach is one of Sydney's most famous beaches, known for its golden sands and surf culture. It's a popular spot for sunbathing, swimming, and enjoying beachside cafes. Spend a few hours here, ideally in the morning or afternoon, to soak up the sun and experience the vibrant atmosphere.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "Art Gallery of New South Wales",
+          "type": "museum",
+          "description": "The Art Gallery of New South Wales houses an impressive collection of Australian, European, and Asian art. Entry is free for the general exhibition, but special exhibitions may require a ticket. Allocate around 1-3 hours to explore the galleries and enjoy the beautiful gardens outside.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "Australian Museum",
+          "type": "museum",
+          "description": "The Australian Museum is the oldest museum in Australia and offers fascinating exhibits on natural history and indigenous culture. Visitors should plan for 2-3 hours to explore the various galleries. The museum often hosts special events and exhibitions, so check ahead for any additional ticket requirements.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "Chinatown Sydney",
+          "type": "district",
+          "description": "Chinatown in Sydney is a vibrant neighborhood filled with shops, restaurants, and cultural experiences. Visitors can explore the various eateries offering delicious Asian cuisine and enjoy the atmosphere of this lively district. It’s best to visit during the evening when the area comes alive with lights and activity.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "The Royal Botanic Gardens",
+          "type": "park",
+          "description": "The Royal Botanic Gardens is a stunning green oasis in the heart of Sydney, perfect for a leisurely walk or picnic. Visitors can enjoy diverse plant species and beautiful views of the harbour. Allocate at least 1-2 hours to explore the gardens. Entry is free, making it a must-visit.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年悉尼顶级景点 - 门票、提示与完整指南",
+      "seo_description": "探索悉尼最佳景点。查找开放时间、门票价格和悉尼顶级地标的预订链接。",
+      "page_intro": "澳大利亚最大的城市悉尼以其令人惊叹的港口、标志性地标和生动的文化而闻名。凭借丰富的历史与现代融合，游客可以享受美丽的海滩、一流的餐饮和各种景点。无论您对艺术、自然还是建筑感兴趣，悉尼都有适合每个人的东西。",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "悉尼歌剧院",
+          "type": "landmark",
+          "description": "悉尼歌剧院是一座建筑奇迹和联合国教科文组织世界遗产。游客可以探索其独特的帆形结构，享受导览，或参加表演。最好预留至少1-2小时进行全面参观。别忘了拍摄这座标志性地标的照片！",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "悉尼海港大桥",
+          "type": "landmark",
+          "description": "悉尼海港大桥，亲切地称为“衣架”，提供令人叹为观止的港口和城市天际线景观。游客可以步行穿过大桥或参与桥攀登活动，体验难忘的经历。计划至少2小时来充分欣赏景色并拍照。",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "邦迪海滩",
+          "type": "park",
+          "description": "邦迪海滩是悉尼最著名的海滩之一，以金色沙滩和冲浪文化而闻名。这里是日光浴、游泳和享受海边咖啡馆的热门地点。最好在早晨或下午花几个小时在这里，享受阳光和体验充满活力的氛围。",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "新南威尔士州艺术馆",
+          "type": "museum",
+          "description": "新南威尔士州艺术馆收藏了令人印象深刻的澳大利亚、欧洲和亚洲艺术作品。一般展览免费入场，但特别展览可能需要门票。预留大约1-3小时探索画廊并享受外面的美丽花园。",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "澳大利亚博物馆",
+          "type": "museum",
+          "description": "澳大利亚博物馆是澳大利亚最古老的博物馆，提供关于自然历史和土著文化的迷人展览。游客应计划2-3小时来探索各个画廊。博物馆经常举办特别活动和展览，因此请提前查看是否有额外的票务要求。",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "悉尼唐人街",
+          "type": "district",
+          "description": "悉尼的唐人街是一个充满活力的社区，拥有商店、餐厅和文化体验。游客可以探索各种提供美味亚洲菜肴的餐馆，并享受这个热闹区域的氛围。最好在晚上访问，当区域充满灯光和活动时。",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "皇家植物园",
+          "type": "park",
+          "description": "皇家植物园是悉尼心脏地带的一个令人惊叹的绿色绿洲，非常适合悠闲散步或野餐。游客可以欣赏多样的植物种类和美丽的港口景观。预留至少1-2小时来探索花园。入场免费，是一个必游之地。",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年シドニーのトップ観光名所 - チケット、ヒント＆完全ガイド",
+      "seo_description": "シドニーの最高の観光名所を探索しましょう。シドニーの主要なランドマークの営業時間、チケット料金、予約リンクを見つけてください。",
+      "page_intro": "オーストラリア最大の都市シドニーは、その美しい港、アイコニックなランドマーク、そして活気ある文化で知られています。歴史と現代が豊かに融合したこの都市では、美しいビーチ、一流のダイニング、さまざまな観光名所を楽しむことができます。アート、自然、建築に興味がある方は、シドニーには誰にでも合うものがあります。",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "シドニーオペラハウス",
+          "type": "landmark",
+          "description": "シドニーオペラハウスは、建築の驚異であり、ユネスコの世界遺産です。訪問者はそのユニークな帆を探検したり、ガイド付きツアーを楽しんだり、パフォーマンスに参加したりできます。徹底的に訪問するには、少なくとも1〜2時間を確保するのがベストです。このアイコニックなランドマークの写真を撮ることをお忘れなく！",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "シドニー Harbour Bridge",
+          "type": "landmark",
+          "description": "シドニー Harbour Bridge、愛称「コートハンガー」は、港や都市のスカイラインの息を呑むような景色を提供します。訪問者は橋を歩いたり、BridgeClimbに参加して忘れられない体験をしたりできます。景色をじっくり楽しむために、少なくとも2時間を計画してください。",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "ボンダイビーチ",
+          "type": "park",
+          "description": "ボンダイビーチは、金色の砂浜とサーフ文化で知られるシドニーで最も有名なビーチの一つです。日光浴、水泳、ビーチサイドのカフェを楽しむための人気スポットです。理想的には朝または午後に数時間を過ごして、太陽を浴びて活気ある雰囲気を体験してください。",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "ニューサウスウェールズ州立美術館",
+          "type": "museum",
+          "description": "ニューサウスウェールズ州立美術館は、オーストラリア、ヨーロッパ、アジアの印象的なアートコレクションを収蔵しています。一般展示は無料ですが、特別展示にはチケットが必要な場合があります。ギャラリーを探索し、外の美しい庭園を楽しむために、約1〜3時間を確保してください。",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "オーストラリア博物館",
+          "type": "museum",
+          "description": "オーストラリア博物館は、オーストラリアで最も古い博物館で、自然史と先住民族文化に関する魅力的な展示を提供しています。訪問者は、さまざまなギャラリーを探検するために2〜3時間を計画する必要があります。博物館は特別なイベントや展示を頻繁に開催するため、追加のチケット要件があるかどうかを事前に確認してください。",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "シドニーのチャイナタウン",
+          "type": "district",
+          "description": "シドニーのチャイナタウンは、ショップ、レストラン、文化体験が詰まった活気ある地区です。訪問者は美味しいアジア料理を提供するさまざまな飲食店を探検し、この活気に満ちた地区の雰囲気を楽しむことができます。エリアが光と活動で生き生きとする夜に訪れるのがベストです。",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "ロイヤルボタニックガーデンズ",
+          "type": "park",
+          "description": "ロイヤルボタニックガーデンズは、シドニーの中心にある驚くべき緑のオアシスで、ゆったりとした散歩やピクニックに最適です。訪問者は、多様な植物種や港の美しい景色を楽しむことができます。庭園を探索するために少なくとも1〜2時間を確保してください。入場は無料で、必見のスポットです。",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 시드니 최고의 관광명소 - 티켓, 팁 및 완벽한 가이드",
+      "seo_description": "시드니 최고의 관광명소를 탐험하세요. 시드니의 주요 랜드마크에 대한 운영 시간, 티켓 가격 및 예약 링크를 찾으세요.",
+      "page_intro": "호주 최대 도시 시드니는 아름다운 항구, 상징적인 랜드마크, 그리고 활기찬 문화로 유명합니다. 역사와 현대가 풍부하게 어우러진 이곳에서 방문객들은 아름다운 해변, 세계적 수준의 식사, 다양한 관광 명소를 즐길 수 있습니다. 예술, 자연 또는 건축에 관심이 있는 경우, 시드니에는 모두를 위한 무언가가 있습니다.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "시드니 오페라 하우스",
+          "type": "landmark",
+          "description": "시드니 오페라 하우스는 건축의 경이로움이자 유네스코 세계 문화 유산입니다. 방문객들은 독특한 돛을 탐험하거나 가이드 투어를 즐기거나 공연에 참석할 수 있습니다. 철저한 방문을 위해 최소 1-2시간을 할애하는 것이 좋습니다. 이 상징적인 랜드마크의 사진도 잊지 말고 촬영하세요!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "시드니 하버 브릿지",
+          "type": "landmark",
+          "description": "사랑스럽게 '코트행거'로 알려진 시드니 하버 브릿지는 항구와 도시 스카이라인의 숨막히는 경치를 제공합니다. 방문객들은 다리를 건너거나 BridgeClimb에 참여하여 잊을 수 없는 경험을 할 수 있습니다. 경치를 충분히 감상하고 사진을 찍으려면 최소 2시간을 계획하세요.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "본다이 비치",
+          "type": "park",
+          "description": "본다이 비치는 금빛 모래와 서핑 문화로 유명한 시드니의 가장 유명한 해변 중 하나입니다. 일광욕, 수영 및 해변가 카페를 즐기기에 인기 있는 장소입니다. 이상적으로는 아침이나 오후에 몇 시간을 보내며 햇볕을 쬐고 활기찬 분위기를 경험하세요.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "뉴 사우스 웨일즈 미술관",
+          "type": "museum",
+          "description": "뉴 사우스 웨일즈 미술관은 호주, 유럽 및 아시아의 인상적인 예술 컬렉션을 소장하고 있습니다. 일반 전시회는 무료로 입장할 수 있지만, 특별 전시회는 티켓이 필요할 수 있습니다. 갤러리를 탐험하고 밖의 아름다운 정원을 즐기려면 약 1-3시간을 할애하세요.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "호주 박물관",
+          "type": "museum",
+          "description": "호주 박물관은 호주에서 가장 오래된 박물관으로, 자연사와 원주민 문화에 대한 매력적인 전시를 제공합니다. 방문객들은 다양한 갤러리를 탐험하기 위해 2-3시간을 계획해야 합니다. 박물관은 종종 특별 행사 및 전시회를 개최하므로 추가 티켓 요건이 있는지 미리 확인하세요.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "시드니 차이나타운",
+          "type": "district",
+          "description": "시드니의 차이나타운은 상점, 레스토랑, 문화 체험으로 가득한 활기찬 동네입니다. 방문객들은 맛있는 아시아 요리를 제공하는 다양한 식당을 탐험하고 이 활기찬 지역의 분위기를 즐길 수 있습니다. 이 지역이 불빛과 활동으로 활기차는 저녁에 방문하는 것이 가장 좋습니다.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "로열 보타닉 가든",
+          "type": "park",
+          "description": "로열 보타닉 가든은 시드니 중심부에 있는 멋진 녹색 오아시스로, 여유롭게 산책하거나 피크닉을 즐기기에 적합합니다. 방문객들은 다양한 식물종과 항구의 아름다운 경치를 감상할 수 있습니다. 정원을 탐험하기 위해 최소 1-2시간을 할애하세요. 입장은 무료이므로 꼭 방문해야 할 장소입니다.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Top Attractions à Sydney 2026 - Billets, Conseils & Guide Complet",
+      "seo_description": "Explorez les meilleures attractions de Sydney. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Sydney.",
+      "page_intro": "Sydney, la plus grande ville d'Australie, est renommée pour son port époustouflant, ses monuments emblématiques et sa culture vibrante. Avec un riche mélange d'histoire et de modernité, les visiteurs peuvent profiter de belles plages, d'une gastronomie de classe mondiale et d'une variété d'attractions. Que vous soyez intéressé par l'art, la nature ou l'architecture, Sydney a quelque chose à offrir à chacun.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "Opéra de Sydney",
+          "type": "landmark",
+          "description": "L'Opéra de Sydney est une merveille architecturale et un site du patrimoine mondial de l'UNESCO. Les visiteurs peuvent explorer ses voiles uniques, profiter de visites guidées ou assister à une performance. Il est conseillé de prévoir au moins 1 à 2 heures pour une visite complète. N'oubliez pas de prendre des photos de ce monument emblématique !",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "Pont du Port de Sydney",
+          "type": "landmark",
+          "description": "Le Pont du Port de Sydney, affectueusement surnommé 'le cintre', offre des vues imprenables sur le port et la silhouette de la ville. Les visiteurs peuvent traverser le pont ou participer à l'ascension du pont pour une expérience inoubliable. Prévoyez au moins 2 heures pour apprécier pleinement les vues et prendre des photos.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "Plage de Bondi",
+          "type": "park",
+          "description": "La plage de Bondi est l'une des plages les plus célèbres de Sydney, connue pour son sable doré et sa culture surf. C'est un lieu prisé pour le bronzage, la baignade et la dégustation de cafés en bord de mer. Passez quelques heures ici, de préférence le matin ou l'après-midi, pour profiter du soleil et découvrir l'atmosphère vibrante.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "Galerie d'art de Nouvelle-Galles du Sud",
+          "type": "museum",
+          "description": "La Galerie d'art de Nouvelle-Galles du Sud abrite une impressionnante collection d'art australien, européen et asiatique. L'entrée est gratuite pour l'exposition générale, mais des expositions spéciales peuvent nécessiter un billet. Prévoyez environ 1 à 3 heures pour explorer les galeries et profiter des beaux jardins à l'extérieur.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "Musée d'Australie",
+          "type": "museum",
+          "description": "Le Musée d'Australie est le plus ancien musée d'Australie et propose des expositions fascinantes sur l'histoire naturelle et la culture indigène. Les visiteurs devraient prévoir 2 à 3 heures pour explorer les différentes galeries. Le musée organise souvent des événements spéciaux et des expositions, alors vérifiez à l'avance s'il y a des exigences supplémentaires pour les billets.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "Chinatown de Sydney",
+          "type": "district",
+          "description": "Chinatown à Sydney est un quartier dynamique rempli de magasins, de restaurants et d'expériences culturelles. Les visiteurs peuvent explorer divers restaurants proposant une délicieuse cuisine asiatique et profiter de l'atmosphère de ce quartier animé. Il est préférable de visiter le soir lorsque la zone s'anime avec des lumières et de l'activité.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "Les Jardins Botaniques Royaux",
+          "type": "park",
+          "description": "Les Jardins Botaniques Royaux sont une magnifique oasis verte au cœur de Sydney, parfaite pour une promenade tranquille ou un pique-nique. Les visiteurs peuvent apprécier diverses espèces de plantes et de magnifiques vues sur le port. Prévoyez au moins 1 à 2 heures pour explorer les jardins. L'entrée est gratuite, ce qui en fait un incontournable.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en Sídney 2026 - Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones de Sídney. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Sídney.",
+      "page_intro": "Sídney, la ciudad más grande de Australia, es famosa por su impresionante puerto, sus monumentos icónicos y su vibrante cultura. Con una rica mezcla de historia y modernidad, los visitantes pueden disfrutar de hermosas playas, restaurantes de clase mundial y una variedad de atracciones. Ya sea que te interese el arte, la naturaleza o la arquitectura, Sídney tiene algo para todos.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "Ópera de Sídney",
+          "type": "landmark",
+          "description": "La Ópera de Sídney es una maravilla arquitectónica y un sitio del Patrimonio Mundial de la UNESCO. Los visitantes pueden explorar sus velas únicas, disfrutar de visitas guiadas o asistir a una actuación. Es mejor dedicar al menos 1-2 horas para una visita completa. ¡No olvides tomar algunas fotos de este icónico monumento!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "Puente del Puerto de Sídney",
+          "type": "landmark",
+          "description": "El Puente del Puerto de Sídney, cariñosamente conocido como 'El Cinturón', ofrece vistas impresionantes del puerto y el horizonte de la ciudad. Los visitantes pueden cruzar el puente o participar en el BridgeClimb para una experiencia inolvidable. Planifica al menos 2 horas para apreciar las vistas y tomar fotos.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "Playa Bondi",
+          "type": "park",
+          "description": "La Playa Bondi es una de las playas más famosas de Sídney, conocida por su arena dorada y su cultura de surf. Es un lugar popular para tomar el sol, nadar y disfrutar de los cafés junto a la playa. Pasa unas horas aquí, idealmente por la mañana o por la tarde, para disfrutar del sol y experimentar la vibrante atmósfera.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "Galería de Arte de Nueva Gales del Sur",
+          "type": "museum",
+          "description": "La Galería de Arte de Nueva Gales del Sur alberga una impresionante colección de arte australiano, europeo y asiático. La entrada es gratuita para la exposición general, pero las exposiciones especiales pueden requerir una entrada. Dedica alrededor de 1-3 horas para explorar las galerías y disfrutar de los hermosos jardines exteriores.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "Museo de Australia",
+          "type": "museum",
+          "description": "El Museo de Australia es el museo más antiguo de Australia y ofrece fascinantes exposiciones sobre historia natural y cultura indígena. Los visitantes deben planificar entre 2 y 3 horas para explorar las diversas galerías. El museo a menudo organiza eventos y exposiciones especiales, así que verifica de antemano si hay requisitos adicionales para las entradas.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "Chinatown de Sídney",
+          "type": "district",
+          "description": "Chinatown en Sídney es un vecindario vibrante lleno de tiendas, restaurantes y experiencias culturales. Los visitantes pueden explorar los diversos restaurantes que ofrecen deliciosa cocina asiática y disfrutar del ambiente de este animado distrito. Es mejor visitar por la noche, cuando la zona cobra vida con luces y actividad.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "Los Jardines Botánicos Reales",
+          "type": "park",
+          "description": "Los Jardines Botánicos Reales son un impresionante oasis verde en el corazón de Sídney, perfecto para un paseo tranquilo o un picnic. Los visitantes pueden disfrutar de diversas especies de plantas y hermosas vistas del puerto. Dedica al menos 1-2 horas para explorar los jardines. La entrada es gratuita, lo que lo convierte en una visita obligada.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Top Attractions in Sydney 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Sydney. Find opening hours, ticket prices and booking links for Sydney's top landmarks.",
+      "page_intro": "Sydney, Australia’s largest city, is renowned for its stunning harbour, iconic landmarks, and vibrant culture. With a rich blend of history and modernity, visitors can enjoy beautiful beaches, world-class dining, and a variety of attractions. Whether you're interested in art, nature, or architecture, Sydney has something for everyone.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "Sydney Opera House",
+          "type": "landmark",
+          "description": "The Sydney Opera House is an architectural marvel and a UNESCO World Heritage site. Visitors can explore its unique sails, enjoy guided tours, or attend a performance. It’s best to allocate at least 1-2 hours for a thorough visit. Don't forget to capture some photos of this iconic landmark!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "Sydney Harbour Bridge",
+          "type": "landmark",
+          "description": "The Sydney Harbour Bridge, affectionately known as 'The Coathanger,' offers breathtaking views of the harbour and city skyline. Visitors can walk across the bridge or participate in the BridgeClimb for an unforgettable experience. Plan for at least 2 hours to fully appreciate the views and take photos.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "Bondi Beach",
+          "type": "park",
+          "description": "Bondi Beach is one of Sydney's most famous beaches, known for its golden sands and surf culture. It's a popular spot for sunbathing, swimming, and enjoying beachside cafes. Spend a few hours here, ideally in the morning or afternoon, to soak up the sun and experience the vibrant atmosphere.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "Art Gallery of New South Wales",
+          "type": "museum",
+          "description": "The Art Gallery of New South Wales houses an impressive collection of Australian, European, and Asian art. Entry is free for the general exhibition, but special exhibitions may require a ticket. Allocate around 1-3 hours to explore the galleries and enjoy the beautiful gardens outside.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "Australian Museum",
+          "type": "museum",
+          "description": "The Australian Museum is the oldest museum in Australia and offers fascinating exhibits on natural history and indigenous culture. Visitors should plan for 2-3 hours to explore the various galleries. The museum often hosts special events and exhibitions, so check ahead for any additional ticket requirements.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "Chinatown Sydney",
+          "type": "district",
+          "description": "Chinatown in Sydney is a vibrant neighborhood filled with shops, restaurants, and cultural experiences. Visitors can explore the various eateries offering delicious Asian cuisine and enjoy the atmosphere of this lively district. It’s best to visit during the evening when the area comes alive with lights and activity.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "The Royal Botanic Gardens",
+          "type": "park",
+          "description": "The Royal Botanic Gardens is a stunning green oasis in the heart of Sydney, perfect for a leisurely walk or picnic. Visitors can enjoy diverse plant species and beautiful views of the harbour. Allocate at least 1-2 hours to explore the gardens. Entry is free, making it a must-visit.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "सिडनी में शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण गाइड",
+      "seo_description": "सिडनी के सर्वश्रेष्ठ आकर्षणों का अन्वेषण करें। सिडनी के शीर्ष स्थलों के लिए खुलने के घंटे, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "सिडनी, ऑस्ट्रेलिया का सबसे बड़ा शहर, अपने शानदार बंदरगाह, प्रतिष्ठित स्थलों और जीवंत संस्कृति के लिए प्रसिद्ध है। इतिहास और आधुनिकता का समृद्ध मिश्रण होने के कारण, आगंतुक खूबसूरत समुद्र तटों, विश्व स्तरीय भोजन और विभिन्न आकर्षणों का आनंद ले सकते हैं। चाहे आप कला, प्रकृति या वास्तुकला में रुचि रखते हों, सिडनी में हर किसी के लिए कुछ है।",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "सिडनी ओपेरा हाउस",
+          "type": "landmark",
+          "description": "सिडनी ओपेरा हाउस एक वास्तुशिल्प चमत्कार और यूनेस्को विश्व धरोहर स्थल है। आगंतुक इसकी अनूठी पालों की खोज कर सकते हैं, मार्गदर्शित पर्यटन का आनंद ले सकते हैं, या एक प्रदर्शन में भाग ले सकते हैं। यहां पूरी तरह से जाने के लिए कम से कम 1-2 घंटे का समय आवंटित करना सबसे अच्छा है। इस प्रतिष्ठित स्थल की कुछ तस्वीरें खींचना न भूलें!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "सिडनी हार्बर ब्रिज",
+          "type": "landmark",
+          "description": "सिडनी हार्बर ब्रिज, जिसे स्नेहपूर्वक 'द कोटहैंगर' कहा जाता है, बंदरगाह और शहर के क्षितिज के अद्भुत दृश्य प्रस्तुत करता है। आगंतुक ब्रिज पर चल सकते हैं या अविस्मरणीय अनुभव के लिए ब्रिजक्लाइम में भाग ले सकते हैं। दृश्यों का पूरी तरह से आनंद लेने और तस्वीरें लेने के लिए कम से कम 2 घंटे की योजना बनाएं।",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "बोंडी बीच",
+          "type": "park",
+          "description": "बोंडी बीच सिडनी के सबसे प्रसिद्ध समुद्र तटों में से एक है, जो अपने सुनहरे बालू और सर्फ संस्कृति के लिए जाना जाता है। यह धूप सेंकने, तैरने और समुद्र तट किनारे के कैफे का आनंद लेने के लिए एक लोकप्रिय स्थान है। यहां कुछ घंटे बिताएं, विशेष रूप से सुबह या दोपहर में, धूप में भिगोने और जीवंत वातावरण का अनुभव करने के लिए।",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "न्यू साउथ वेल्स आर्ट गैलरी",
+          "type": "museum",
+          "description": "न्यू साउथ वेल्स आर्ट गैलरी ऑस्ट्रेलियाई, यूरोपीय और एशियाई कला का एक प्रभावशाली संग्रह रखती है। सामान्य प्रदर्शनी के लिए प्रवेश मुफ्त है, लेकिन विशेष प्रदर्शनी के लिए टिकट की आवश्यकता हो सकती है। गैलरी का अन्वेषण करने और बाहरी सुंदर बागों का आनंद लेने के लिए लगभग 1-3 घंटे आवंटित करें।",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "ऑस्ट्रेलियाई संग्रहालय",
+          "type": "museum",
+          "description": "ऑस्ट्रेलियाई संग्रहालय ऑस्ट्रेलिया का सबसे पुराना संग्रहालय है और प्राकृतिक इतिहास और स्वदेशी संस्कृति पर आकर्षक प्रदर्शनों की पेशकश करता है। आगंतुकों को विभिन्न गैलरी का अन्वेषण करने के लिए 2-3 घंटे की योजना बनानी चाहिए। संग्रहालय अक्सर विशेष कार्यक्रमों और प्रदर्शनों की मेज़बानी करता है, इसलिए किसी भी अतिरिक्त टिकट आवश्यकताओं के लिए पहले से जांचें।",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "सिडनी चाइनाटाउन",
+          "type": "district",
+          "description": "सिडनी में चाइनाटाउन एक जीवंत पड़ोस है जो दुकानों, रेस्तरां और सांस्कृतिक अनुभवों से भरा हुआ है। आगंतुक स्वादिष्ट एशियाई व्यंजनों की पेशकश करने वाले विभिन्न खाने-पीने के स्थलों का अन्वेषण कर सकते हैं और इस जीवंत जिले के वातावरण का आनंद ले सकते हैं। जब यह क्षेत्र रोशनी और गतिविधियों के साथ जीवित हो जाता है, तो शाम के समय में जाना सबसे अच्छा है।",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "रॉयल बोटैनिक गार्डन्स",
+          "type": "park",
+          "description": "रॉयल बोटैनिक गार्डन्स सिडनी के दिल में एक शानदार हरी ओएसिस है, जो आरामदायक चलने या पिकनिक के लिए आदर्श है। आगंतुक विविध पौधों की प्रजातियों और बंदरगाह के खूबसूरत दृश्य का आनंद ले सकते हैं। बागों की खोज करने के लिए कम से कम 1-2 घंटे का समय आवंटित करें। प्रवेश निःशुल्क है, जिससे यह एक आवश्यक स्थान बन जाता है।",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Sydney 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Sydney. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de Sydney.",
+      "page_intro": "Sydney, a maior cidade da Austrália, é famosa por seu deslumbrante porto, marcos icônicos e cultura vibrante. Com uma rica mistura de história e modernidade, os visitantes podem desfrutar de belas praias, gastronomia de classe mundial e uma variedade de atrações. Seja você um amante da arte, da natureza ou da arquitetura, Sydney tem algo para todos.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "Sydney Opera House",
+          "type": "landmark",
+          "description": "A Sydney Opera House é uma maravilha arquitetônica e um Patrimônio Mundial da UNESCO. Os visitantes podem explorar suas velas únicas, desfrutar de visitas guiadas ou assistir a uma apresentação. É melhor reservar pelo menos 1-2 horas para uma visita completa. Não se esqueça de tirar algumas fotos deste marco icônico!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "Sydney Harbour Bridge",
+          "type": "landmark",
+          "description": "A Sydney Harbour Bridge, carinhosamente conhecida como 'The Coathanger', oferece vistas deslumbrantes do porto e do horizonte da cidade. Os visitantes podem atravessar a ponte ou participar da BridgeClimb para uma experiência inesquecível. Planeje pelo menos 2 horas para apreciar totalmente as vistas e tirar fotos.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "Bondi Beach",
+          "type": "park",
+          "description": "Bondi Beach é uma das praias mais famosas de Sydney, conhecida por suas areias douradas e cultura de surfe. É um local popular para tomar sol, nadar e aproveitar os cafés à beira-mar. Passe algumas horas aqui, idealmente de manhã ou à tarde, para aproveitar o sol e vivenciar a atmosfera vibrante.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "Galeria de Arte de New South Wales",
+          "type": "museum",
+          "description": "A Galeria de Arte de New South Wales abriga uma impressionante coleção de arte australiana, europeia e asiática. A entrada é gratuita para a exposição geral, mas exposições especiais podem exigir um ingresso. Reserve cerca de 1-3 horas para explorar as galerias e desfrutar dos belos jardins externos.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "Museu Australiano",
+          "type": "museum",
+          "description": "O Museu Australiano é o mais antigo museu da Austrália e oferece exposições fascinantes sobre história natural e cultura indígena. Os visitantes devem planejar de 2 a 3 horas para explorar as várias galerias. O museu frequentemente abriga eventos e exposições especiais, então verifique antecipadamente se há requisitos adicionais de ingresso.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "Chinatown Sydney",
+          "type": "district",
+          "description": "Chinatown em Sydney é um bairro vibrante cheio de lojas, restaurantes e experiências culturais. Os visitantes podem explorar os vários restaurantes que oferecem deliciosa culinária asiática e desfrutar da atmosfera deste animado distrito. É melhor visitar à noite, quando a área ganha vida com luzes e atividades.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "Os Jardins Botânicos Reais",
+          "type": "park",
+          "description": "Os Jardins Botânicos Reais são um deslumbrante oásis verde no coração de Sydney, perfeito para uma caminhada relaxante ou piquenique. Os visitantes podem desfrutar de diversas espécies de plantas e belas vistas do porto. Reserve pelo menos 1-2 horas para explorar os jardins. A entrada é gratuita, tornando-o uma visita obrigatória.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في سيدني 2026 - التذاكر، النصائح والدليل الكامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في سيدني. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم المعالم في سيدني.",
+      "page_intro": "سيدني، أكبر مدينة في أستراليا، تشتهر بمينائها الرائع، والمعالم الشهيرة، وثقافتها النابضة بالحياة. مع مزيج غني من التاريخ والحداثة، يمكن للزوار الاستمتاع بالشواطئ الجميلة، والمطاعم الراقية، ومجموعة متنوعة من المعالم السياحية. سواء كنت مهتمًا بالفن أو الطبيعة أو العمارة، فإن سيدني لديها شيء للجميع.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "دار أوبرا سيدني",
+          "type": "landmark",
+          "description": "دار أوبرا سيدني هي معجزة معمارية وموقع للتراث العالمي لليونسكو. يمكن للزوار استكشاف أشرعتها الفريدة، والاستمتاع بالجولات الإرشادية، أو حضور عرض. من الأفضل تخصيص 1-2 ساعة على الأقل لزيارة شاملة. لا تنس التقاط بعض الصور لهذا المعلم الأيقوني!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "جسر سيدني هاربور",
+          "type": "landmark",
+          "description": "جسر سيدني هاربور، المعروف بحب 'الكوثانجر'، يقدم مناظر خلابة للميناء وأفق المدينة. يمكن للزوار السير عبر الجسر أو المشاركة في تجربة 'BridgeClimb' التي لا تُنسى. خطط لقضاء ساعتين على الأقل للاستمتاع بالمناظر والتقاط الصور.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "شاطئ بوندي",
+          "type": "park",
+          "description": "شاطئ بوندي هو أحد أشهر الشواطئ في سيدني، المعروف برماله الذهبية وثقافة ركوب الأمواج. إنه مكان شهير للتشمس، والسباحة، والاستمتاع بالمقاهي على الشاطئ. اقض بعض الوقت هنا، ويفضل أن يكون في الصباح أو بعد الظهر، للاستمتاع بالشمس وتجربة الأجواء النابضة بالحياة.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "معرض الفن في نيو ساوث ويلز",
+          "type": "museum",
+          "description": "يضم معرض الفن في نيو ساوث ويلز مجموعة مثيرة للإعجاب من الفن الأسترالي والأوروبي والآسيوي. الدخول مجاني للمعرض العام، ولكن قد تتطلب المعارض الخاصة تذكرة. خصص حوالي 1-3 ساعات لاستكشاف المعارض والاستمتاع بالحدائق الجميلة في الخارج.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "المتحف الأسترالي",
+          "type": "museum",
+          "description": "المتحف الأسترالي هو أقدم متحف في أستراليا ويقدم معروضات رائعة عن التاريخ الطبيعي والثقافة الأصلية. يجب على الزوار التخطيط لقضاء من 2-3 ساعات لاستكشاف المعارض المختلفة. يستضيف المتحف غالبًا أحداث ومعارض خاصة، لذا تحقق مسبقًا من أي متطلبات إضافية للتذاكر.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "حي الصينيين في سيدني",
+          "type": "district",
+          "description": "حي الصينيين في سيدني هو حي نابض بالحياة مليء بالمتاجر والمطاعم والتجارب الثقافية. يمكن للزوار استكشاف المطاعم المختلفة التي تقدم المأكولات الآسيوية الشهية والاستمتاع بأجواء هذا الحي النابض بالحياة. من الأفضل الزيارة في المساء عندما تنبض المنطقة بالحياة مع الأضواء والنشاط.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "الحدائق النباتية الملكية",
+          "type": "park",
+          "description": "الحدائق النباتية الملكية هي واحة خضراء رائعة في قلب سيدني، مثالية لنزهة مريحة أو نزهة. يمكن للزوار الاستمتاع بأنواع نباتية متنوعة ومناظر جميلة للميناء. خصص ساعتين على الأقل لاستكشاف الحدائق. الدخول مجاني، مما يجعلها زيارة لا بد منها.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "সিডনির শীর্ষ আকর্ষণ 2026 - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "সিডনির সেরা আকর্ষণগুলি অন্বেষণ করুন। সিডনির শীর্ষ সাইটগুলির জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্কগুলি খুঁজুন।",
+      "page_intro": "সিডনি, অস্ট্রেলিয়ার বৃহত্তম শহর, তার চমৎকার বন্দর, আইকনিক স্থান এবং প্রাণবন্ত সংস্কৃতির জন্য বিখ্যাত। ইতিহাস এবং আধুনিকতার একটি সমৃদ্ধ মিশ্রণ নিয়ে, দর্শকরা সুন্দর সমুদ্র সৈকত, বিশ্বমানের খাবার এবং বিভিন্ন আকর্ষণের উপভোগ করতে পারেন। আপনি যদি শিল্প, প্রকৃতি বা স্থাপত্যে আগ্রহী হন, সিডনিতে সবার জন্য কিছু আছে।",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "সিডনি অপেরা হাউস",
+          "type": "landmark",
+          "description": "সিডনি অপেরা হাউস একটি স্থাপত্য আশ্চর্য এবং একটি ইউনেস্কো বিশ্ব ঐতিহ্য স্থান। দর্শকরা এর অনন্য পালগুলি অন্বেষণ করতে পারেন, গাইডেড ট্যুর উপভোগ করতে পারেন, অথবা একটি প্রদর্শনীতে অংশগ্রহণ করতে পারেন। একটি সম্পূর্ণ পরিদর্শনের জন্য কমপক্ষে 1-2 ঘণ্টা বরাদ্দ করা সর্বোত্তম। এই আইকনিক স্থানটির কিছু ছবি তোলা ভুলবেন না!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "সিডনি হারবার ব্রিজ",
+          "type": "landmark",
+          "description": "সিডনি হারবার ব্রিজ, যাকে স্নেহের সঙ্গে 'দ্য কোঠাঙ্গার' বলা হয়, বন্দর এবং শহরের স্কাইলাইন এর অসাধারণ দৃশ্য উপস্থাপন করে। দর্শকরা ব্রিজের উপর দিয়ে হাঁটতে পারেন অথবা একটি অবিস্মরণীয় অভিজ্ঞতার জন্য ব্রিজক্লাইমে অংশগ্রহণ করতে পারেন। দৃশ্যগুলি পুরোপুরি উপভোগ করার এবং ছবিগুলি তোলার জন্য কমপক্ষে 2 ঘণ্টা পরিকল্পনা করুন।",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "বন্ডি বিচ",
+          "type": "park",
+          "description": "বন্ডি বিচ সিডনির সবচেয়ে বিখ্যাত সৈকতগুলির মধ্যে একটি, যা এর সোনালী বালুকার জন্য এবং সার্ফ সংস্কৃতির জন্য পরিচিত। এটি সূর্যস্নান, সাঁতার এবং সমুদ্র সৈকতের ক্যাফে উপভোগ করার জন্য একটি জনপ্রিয় স্থান। এখানে কয়েক ঘণ্টা সময় কাটান, বিশেষ করে সকালে বা বিকেলে, সূর্যের আলো উপভোগ করতে এবং প্রাণবন্ত পরিবেশের অভিজ্ঞতা পেতে।",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "নিউ সাউথ ওয়েলস আর্ট গ্যালারি",
+          "type": "museum",
+          "description": "নিউ সাউথ ওয়েলস আর্ট গ্যালারি অস্ট্রেলিয়ান, ইউরোপীয় এবং এশীয় শিল্পের একটি চিত্তাকর্ষক সংগ্রহ ধারণ করে। সাধারণ প্রদর্শনীতে প্রবেশ বিনামূল্যে, তবে বিশেষ প্রদর্শনীর জন্য একটি টিকেট প্রয়োজন হতে পারে। গ্যালারিগুলি অন্বেষণ করতে এবং বাইরের সুন্দর উদ্যানগুলি উপভোগ করতে প্রায় 1-3 ঘণ্টা বরাদ্দ করুন।",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "অস্ট্রেলিয়ান যাদুঘর",
+          "type": "museum",
+          "description": "অস্ট্রেলিয়ান যাদুঘর অস্ট্রেলিয়ার সবচেয়ে পুরনো যাদুঘর এবং প্রাকৃতিক ইতিহাস এবং আদিবাসী সংস্কৃতি নিয়ে আকর্ষণীয় প্রদর্শন করে। দর্শকদের বিভিন্ন গ্যালারি অন্বেষণ করতে 2-3 ঘণ্টার পরিকল্পনা করা উচিত। যাদুঘরটি প্রায়শই বিশেষ ইভেন্ট এবং প্রদর্শনীর আয়োজন করে, তাই অতিরিক্ত টিকিটের প্রয়োজনীয়তার জন্য আগে থেকে পরীক্ষা করুন।",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "সিডনি চাইনাটাউন",
+          "type": "district",
+          "description": "সিডনির চাইনাটাউন একটি প্রাণবন্ত পাড়া যা দোকান, রেস্টুরেন্ট এবং সাংস্কৃতিক অভিজ্ঞতায় পূর্ণ। দর্শকরা সুস্বাদু এশিয়ান খাবারের অফার করা বিভিন্ন রেস্টুরেন্ট অন্বেষণ করতে পারেন এবং এই প্রাণবন্ত জেলার পরিবেশ উপভোগ করতে পারেন। রাতের বেলা আসা সর্বোত্তম, যখন এলাকা আলো এবং কার্যকলাপে জীবন্ত হয়ে ওঠে।",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "রয়্যাল বোটানিক গার্ডেন",
+          "type": "park",
+          "description": "রয়্যাল বোটানিক গার্ডেন সিডনির কেন্দ্রস্থলে একটি চমৎকার সবুজ ওএসিস, যা একটি আরামদায়ক হাঁটার বা পিকনিকে উপযুক্ত। দর্শকরা বিভিন্ন প্রজাতির উদ্ভিদ এবং বন্দর থেকে সুন্দর দৃশ্য উপভোগ করতে পারেন। বাগানগুলি অন্বেষণ করতে কমপক্ষে 1-2 ঘণ্টা সময় বরাদ্দ করুন। প্রবেশ বিনামূল্যে, যা এটিকে একটি অবশ্যই দেখার স্থান করে তোলে।",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие достопримечательности Сиднея 2026 — Билеты, Советы и Полное Руководство",
+      "seo_description": "Исследуйте лучшие достопримечательности Сиднея. Найдите часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Сиднея.",
+      "page_intro": "Сидней, крупнейший город Австралии, знаменит своей потрясающей гаванью, знаковыми памятниками и яркой культурой. С богатым сочетанием истории и современности, посетители могут наслаждаться красивыми пляжами, ресторанами мирового уровня и разнообразием достопримечательностей. Независимо от того, интересуетесь ли вы искусством, природой или архитектурой, в Сиднее найдется что-то для каждого.",
+      "items": [
+        {
+          "id": "sydney-opera-house",
+          "name": "Сиднейский оперный театр",
+          "type": "landmark",
+          "description": "Сиднейский оперный театр — это архитектурное чудо и объект всемирного наследия ЮНЕСКО. Посетители могут исследовать его уникальные паруса, наслаждаться экскурсиями или посещать представления. Лучше всего отвести как минимум 1-2 часа для полноценного визита. Не забудьте сделать несколько фотографий этой знаковой достопримечательности!",
+          "image_keyword": "Sydney Opera House",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 40",
+          "best_time": "anytime",
+          "klook_query": "Sydney Opera House tickets"
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": "Мост Сидней Харбора",
+          "type": "landmark",
+          "description": "Мост Сидней Харбора, ласково называемый 'Вешалка', предлагает потрясающие виды на гавань и городской горизонт. Посетители могут прогуляться по мосту или принять участие в подъеме на мост для незабываемого опыта. Запланируйте как минимум 2 часа, чтобы в полной мере насладиться видами и сделать фотографии.",
+          "image_keyword": "Sydney Harbour Bridge",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 200 for BridgeClimb",
+          "best_time": "morning",
+          "klook_query": "Sydney Harbour Bridge tickets"
+        },
+        {
+          "id": "bondi-beach",
+          "name": "Пляж Бонди",
+          "type": "park",
+          "description": "Пляж Бонди — один из самых известных пляжей Сиднея, известный своим золотым песком и серфинг-культурой. Это популярное место для загара, купания и наслаждения кафе на пляже. Проведите здесь несколько часов, желательно утром или днем, чтобы насладиться солнцем и ощутить яркую атмосферу.",
+          "image_keyword": "Bondi Beach",
+          "star_rating": 4.6,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Bondi Beach activities"
+        },
+        {
+          "id": "art-gallery-of-new-south-wales",
+          "name": "Галерея искусств Нового Южного Уэльса",
+          "type": "museum",
+          "description": "Галерея искусств Нового Южного Уэльса хранит впечатляющую коллекцию австралийского, европейского и азиатского искусства. Вход бесплатный для общей экспозиции, но специальные выставки могут требовать билета. Запланируйте около 1-3 часов, чтобы исследовать галереи и насладиться красивыми садами снаружи.",
+          "image_keyword": "Art Gallery of New South Wales",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "Art Gallery of New South Wales tickets"
+        },
+        {
+          "id": "australian-museum",
+          "name": "Австралийский музей",
+          "type": "museum",
+          "description": "Австралийский музей — это старейший музей в Австралии, предлагающий увлекательные экспозиции по естественной истории и культуре коренных народов. Посетители должны планировать 2-3 часа для изучения различных галерей. Музей часто проводит специальные мероприятия и выставки, поэтому проверьте заранее наличие дополнительных требований к билетам.",
+          "image_keyword": "Australian Museum",
+          "star_rating": 4.4,
+          "needs_ticket": true,
+          "ticket_price_hint": "from AUD 15",
+          "best_time": "afternoon",
+          "klook_query": "Australian Museum tickets"
+        },
+        {
+          "id": "chinatown-sydney",
+          "name": "Чайнатаун Сиднея",
+          "type": "district",
+          "description": "Чайнатаун в Сиднее — это оживленный район, полный магазинов, ресторанов и культурных впечатлений. Посетители могут исследовать различные рестораны, предлагающие вкусную азиатскую кухню, и насладиться атмосферой этого яркого района. Лучше всего посещать вечером, когда район оживает огнями и активностью.",
+          "image_keyword": "Chinatown Sydney",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "Chinatown Sydney experiences"
+        },
+        {
+          "id": "the-royal-botanic-gardens",
+          "name": "Королевские ботанические сады",
+          "type": "park",
+          "description": "Королевские ботанические сады — это потрясающий зеленый оазис в сердце Сиднея, идеально подходящий для спокойной прогулки или пикника. Посетители могут наслаждаться разнообразием растений и прекрасными видами на гавань. Запланируйте как минимум 1-2 часа для изучения садов. Вход бесплатный, что делает его обязательным местом для посещения.",
+          "image_keyword": "Royal Botanic Gardens",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "Royal Botanic Gardens tours"
+        }
+      ]
+    }
+  }
+}

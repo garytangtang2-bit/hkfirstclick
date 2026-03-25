@@ -1,0 +1,1145 @@
+{
+  "city_slug": "edinburgh",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Edinburgh 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Edinburgh. From budget eats to fine dining — with booking links.",
+      "page_intro": "Edinburgh boasts a vibrant food scene that blends traditional Scottish cuisine with modern culinary trends. The city is known for its rich flavors and diverse dining options, ranging from cozy cafes to upscale restaurants. Whether you're craving haggis or looking for innovative street food, Edinburgh offers a delightful gastronomic experience for every palate.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "The Kitchen",
+          "type": "restaurant",
+          "description": "Set in a stunning location with views of Edinburgh Castle, The Kitchen offers a modern twist on traditional Scottish dishes. Dine on seasonal ingredients and try their acclaimed haggis, neeps, and tatties. The atmosphere is casual yet refined, making it perfect for a special occasion or a memorable meal. Price range is $$.",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "Mama Shelter",
+          "type": "restaurant",
+          "description": "Mama Shelter is a lively and eclectic eatery known for its vibrant atmosphere and diverse menu. The restaurant serves everything from burgers to traditional Scottish fare, all with a creative twist. It’s a great place for groups and offers a fun dining experience. Expect to spend around $$ on a meal here.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "Edinburgh Night Market",
+          "type": "night_market",
+          "description": "The Edinburgh Night Market is a vibrant spot filled with food stalls offering international street food. From gourmet burgers to artisanal desserts, this market is a feast for the senses. Enjoy the lively atmosphere while trying a variety of dishes from local vendors, making it an ideal spot for food lovers. Prices vary, but most dishes are affordable.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "The Botanic Gardens Cafe",
+          "type": "cafe",
+          "description": "Nestled within the stunning Royal Botanic Garden, this cafe is perfect for a relaxing meal amidst beautiful surroundings. The menu focuses on fresh, local produce, offering a range of light meals and delicious cakes. Ideal for a casual lunch or afternoon tea, the price range is $.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "Edinburgh Street Food Scene",
+          "type": "street_food",
+          "description": "The Edinburgh Street Food Scene is a must-visit for foodies looking for authentic local flavors. From haggis rolls to gourmet tacos, food trucks and pop-ups offer a variety of delicious options. The atmosphere is casual and fun, making it perfect for a quick bite while exploring the city. Prices typically range from $ to $$.",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "The Whiski Rooms",
+          "type": "bar",
+          "description": "The Whiski Rooms is a renowned whisky bar and restaurant where you can sample some of Scotland's finest whiskies. The menu features a mix of traditional dishes and modern Scottish cuisine, making it a great place for both food and drinks. The cozy atmosphere is perfect for a relaxed evening out. Expect to spend $$.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "The Braid Bar",
+          "type": "bar",
+          "description": "A hidden gem in Edinburgh, The Braid Bar specializes in craft cocktails and offers a cozy, intimate setting. The skilled bartenders create unique drinks using local ingredients, and the menu includes small plates perfect for sharing. It's an excellent spot for a night out with friends. Price range is $$.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "The Edinburgh Vegetarian",
+          "type": "restaurant",
+          "description": "An iconic restaurant in the heart of the city, The Edinburgh Vegetarian offers a diverse menu focusing on plant-based dishes made from fresh, local ingredients. The cozy ambiance and friendly staff make it a favorite among locals and tourists alike. Expect to pay around $$ for a satisfying meal.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "愛丁堡最佳美食2026 — 頂級餐廳與街頭美食指南",
+      "seo_description": "探索愛丁堡最好的餐廳、街頭美食和地方特色。從經濟實惠的美食到高檔餐飲 — 包含預訂連結。",
+      "page_intro": "愛丁堡擁有充滿活力的美食場景，將傳統蘇格蘭料理與現代烹飪趨勢融合在一起。這座城市以其豐富的風味和多樣的用餐選擇而聞名，從舒適的咖啡館到高檔餐廳。無論你想吃哈吉斯還是尋找創新的街頭美食，愛丁堡都能為每種口味提供令人愉悅的美食體驗。",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "廚房",
+          "type": "restaurant",
+          "description": "位於俯瞰愛丁堡城堡的壯觀位置，廚房為傳統蘇格蘭菜餚提供了現代的轉變。享用當季食材，並品嚐他們備受讚譽的哈吉斯、蘿蔔和馬鈴薯。氛圍輕鬆而精緻，適合特別場合或難忘的餐飲體驗。價格範圍為$$。",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "媽媽避風港",
+          "type": "restaurant",
+          "description": "媽媽避風港是一家生氣勃勃且風格各異的餐廳，以其充滿活力的氛圍和多樣的菜單而聞名。餐廳提供從漢堡到傳統蘇格蘭菜的各種美食，所有菜品都帶有創意的轉變。這是個適合團體聚餐的好地方，提供有趣的用餐體驗。在這裡用餐預計花費約$$。",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "愛丁堡夜市",
+          "type": "night_market",
+          "description": "愛丁堡夜市是一個充滿活力的場所，裡面有許多食物攤位提供國際街頭美食。從美味漢堡到手工甜點，這個市場是感官的盛宴。在享受熱鬧氛圍的同時，嘗試來自當地商販的各種美食，是美食愛好者的理想之地。價格各異，但大多數菜品都很實惠。",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "植物園咖啡館",
+          "type": "cafe",
+          "description": "隱藏在壯觀的皇家植物園內，這家咖啡館非常適合在美麗的環境中享用輕鬆的餐點。菜單專注於新鮮的當地產品，提供各種輕食和美味的蛋糕。非常適合隨意的午餐或下午茶，價格範圍為$。",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "愛丁堡街頭美食場景",
+          "type": "street_food",
+          "description": "愛丁堡街頭美食場景是美食愛好者尋找地道本地風味的必訪之地。從哈吉斯卷到美食塔可，餐車和快閃店提供各種美味選擇。氛圍輕鬆有趣，適合在探索城市時快速用餐。價格通常在$到$$之間。",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "威士忌房",
+          "type": "bar",
+          "description": "威士忌房是一家著名的威士忌酒吧和餐廳，您可以品嚐一些蘇格蘭最優質的威士忌。菜單融合了傳統菜餚和現代蘇格蘭料理，是享受美食和飲品的好地方。舒適的氛圍非常適合放鬆的夜晚。預計花費$$。",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "辮子酒吧",
+          "type": "bar",
+          "description": "愛丁堡的一個隱藏寶石，辮子酒吧專注於手工雞尾酒，提供舒適而親密的環境。技藝高超的調酒師使用當地食材創造獨特的飲品，菜單還包括適合分享的小盤菜。這是與朋友共度夜晚的絕佳場所。價格範圍為$$。",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "愛丁堡素食餐廳",
+          "type": "restaurant",
+          "description": "這是一家位於市中心的標誌性餐廳，愛丁堡素食餐廳提供多樣的菜單，專注於以新鮮當地食材製作的植物性菜餚。舒適的氛圍和友好的工作人員使其成為當地人和遊客的最愛。預計花費約$$，可享用令人滿意的餐點。",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "エディンバラのベストフード2026 — トップレストランとストリートフードガイド",
+      "seo_description": "エディンバラの最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "エディンバラは、伝統的なスコットランド料理と現代の料理トレンドを融合させた活気あるフードシーンを誇っています。この街は豊かな風味と多様な食事オプションで知られており、居心地の良いカフェから高級レストランまで幅広く揃っています。ハギスが食べたい方も、革新的なストリートフードを探している方も、エディンバラはすべての味覚に嬉しい美食体験を提供しています。",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "ザ・キッチン",
+          "type": "restaurant",
+          "description": "エディンバラ城を見渡す素晴らしいロケーションにあるザ・キッチンは、伝統的なスコットランド料理に現代的なひねりを加えた料理を提供しています。季節の食材を使用し、評価の高いハギス、ニープス、タッティーズを試してみてください。カジュアルでありながら洗練された雰囲気は、特別な occasion や思い出に残る食事にぴったりです。価格帯は$$です。",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "ママシェルター",
+          "type": "restaurant",
+          "description": "ママシェルターは、生き生きとしたエクレクティックなレストランで、活気のある雰囲気と多様なメニューで知られています。レストランでは、クリエイティブなひねりを加えたハンバーガーから伝統的なスコットランド料理まで、さまざまな料理を提供しています。グループに最適な場所で、楽しい食事体験を提供します。ここでの食事には約$$の費用がかかります。",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "エディンバラナイトマーケット",
+          "type": "night_market",
+          "description": "エディンバラナイトマーケットは、国際的なストリートフードを提供する食べ物の屋台で賑わう活気あるスポットです。グルメバーガーからアーティザンデザートまで、このマーケットは感覚の饗宴です。地元のベンダーからさまざまな料理を試しながら、賑やかな雰囲気を楽しんでください。価格はさまざまですが、ほとんどの料理は手頃です。",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "ボタニックガーデンカフェ",
+          "type": "cafe",
+          "description": "壮大なロイヤルボタニックガーデンの中に隠れたこのカフェは、美しい環境の中でリラックスした食事に最適です。メニューは新鮮な地元の食材に焦点を当てており、軽食や美味しいケーキを提供しています。カジュアルなランチやアフタヌーンティーに最適で、価格帯は$です。",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "エディンバラストリートフードシーン",
+          "type": "street_food",
+          "description": "エディンバラストリートフードシーンは、本物の地元の風味を求める美食家にとって必見の場所です。ハギスロールからグルメタコスまで、フードトラックやポップアップがさまざまな美味しい選択肢を提供しています。カジュアルで楽しい雰囲気は、街を探索しながらの軽食に最適です。価格は通常$から$$の範囲です。",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "ウィスキー・ルーム",
+          "type": "bar",
+          "description": "ウィスキー・ルームは、スコットランドの最高のウィスキーを試すことができる有名なウィスキーバーとレストランです。メニューには、伝統的な料理と現代的なスコットランド料理がミックスされており、食事と飲み物の両方を楽しむのに最適です。居心地の良い雰囲気は、リラックスした夜にぴったりです。$$の費用がかかると予想されます。",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "ザ・ブレイドバー",
+          "type": "bar",
+          "description": "エディンバラの隠れた宝石、ザ・ブレイドバーはクラフトカクテルを専門としており、居心地の良い親密な環境を提供しています。熟練のバーテンダーが地元の食材を使用してユニークな飲み物を作り、シェアに最適な小皿料理がメニューに含まれています。友人との夜のお出かけに最適な場所です。価格帯は$$です。",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "エディンバラベジタリアン",
+          "type": "restaurant",
+          "description": "市の中心部にある象徴的なレストラン、エディンバラベジタリアンは、新鮮な地元の食材を使用した植物ベースの料理に焦点を当てた多様なメニューを提供しています。居心地の良い雰囲気とフレンドリーなスタッフが、地元の人々や観光客に愛されています。満足のいく食事には約$$の費用がかかると予想されます。",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "에든버러 최고의 음식 2026 — 최고의 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "에든버러의 최고의 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 예산 친화적인 식사부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "에든버러는 전통 스코틀랜드 요리와 현대 요리 트렌드를 혼합한 활기찬 음식 문화를 자랑합니다. 이 도시는 아늑한 카페부터 고급 레스토랑까지 다양한 식사 옵션과 풍부한 맛으로 유명합니다. 해기스가 먹고 싶거나 혁신적인 길거리 음식을 찾고 있다면, 에든버러는 모든 입맛에 맞는 즐거운 미식 경험을 제공합니다.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "더 키친",
+          "type": "restaurant",
+          "description": "에든버러 성을 바라보는 멋진 위치에 자리 잡은 더 키친은 전통 스코틀랜드 요리에 현대적인 변화를 줍니다. 제철 재료로 요리하고, 그들의 유명한 해기스, 네입스, 타티스를 시도해보세요. 분위기는 편안하면서도 세련되어 특별한 날이나 기억에 남는 식사에 적합합니다. 가격대는 $$입니다.",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "마마 쉘터",
+          "type": "restaurant",
+          "description": "마마 쉘터는 활기찬 분위기와 다양한 메뉴로 잘 알려진 생동감 넘치는 에클레틱한 레스토랑입니다. 이 레스토랑은 창의적인 변형을 가미한 햄버거부터 전통 스코틀랜드 요리에 이르기까지 모든 것을 제공합니다. 그룹을 위한 훌륭한 장소이며 재미있는 식사 경험을 제공합니다. 이곳에서의 식사는 약 $$ 정도 소요됩니다.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "에든버러 나이트 마켓",
+          "type": "night_market",
+          "description": "에든버러 나이트 마켓은 국제적인 길거리 음식을 제공하는 음식 노점으로 가득 찬 활기찬 장소입니다. 미식가 버거부터 장인의 디저트까지, 이 시장은 감각의 향연입니다. 지역 상인으로부터 다양한 요리를 시도하면서 활기찬 분위기를 즐기세요. 가격은 다양하지만 대부분의 요리는 저렴합니다.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "식물원 카페",
+          "type": "cafe",
+          "description": "아름다운 환경 속에서 편안한 식사를 즐기기에 완벽한 이 카페는 멋진 로열 식물원에 위치해 있습니다. 메뉴는 신선한 지역 농산물에 중점을 두고 있으며, 가벼운 식사와 맛있는 케이크를 제공합니다. 캐주얼한 점심이나 오후 차에 이상적이며 가격대는 $입니다.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "에든버러 스트리트 푸드 씬",
+          "type": "street_food",
+          "description": "에든버러 스트리트 푸드 씬은 진정한 지역의 풍미를 찾는 미식가에게 꼭 가봐야 할 곳입니다. 해기스 롤부터 미식가 타코까지, 푸드 트럭과 팝업이 다양한 맛있는 선택을 제공합니다. 분위기는 캐주얼하고 재미있어 도시를 탐험하는 동안 간단하게 식사하기에 적합합니다. 가격은 일반적으로 $에서 $$ 범위입니다.",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "위스키 룸",
+          "type": "bar",
+          "description": "위스키 룸은 스코틀랜드 최고의 위스키를 맛볼 수 있는 유명한 위스키 바 및 레스토랑입니다. 메뉴는 전통 요리와 현대 스코틀랜드 요리를 혼합하여 식사와 음료 모두를 즐기기에 좋은 장소입니다. 아늑한 분위기는 편안한 저녁에 적합합니다. 예상 비용은 $$입니다.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "더 브레이드 바",
+          "type": "bar",
+          "description": "에든버러의 숨겨진 보석인 더 브레이드 바는 크래프트 칵테일을 전문으로 하며 아늑하고 친밀한 설정을 제공합니다. 숙련된 바텐더가 지역 재료를 사용하여 독특한 음료를 만들고, 메뉴에는 나누기 좋은 작은 접시가 포함되어 있습니다. 친구들과의 외출에 훌륭한 장소입니다. 가격대는 $$입니다.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "에든버러 베지테리언",
+          "type": "restaurant",
+          "description": "도시 중심부에 위치한 상징적인 레스토랑인 에든버러 베지테리언은 신선한 지역 재료로 만든 식물 기반 요리에 중점을 둔 다양한 메뉴를 제공합니다. 아늑한 분위기와 친절한 직원들이 있어 현지인과 관광객 모두에게 사랑받습니다. 만족스러운 식사에는 약 $$의 비용이 들 것으로 예상됩니다.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures Saveurs d'Édimbourg 2026 — Meilleurs Restaurants & Guide de Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Édimbourg. Des repas à petit budget à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "Édimbourg possède une scène gastronomique vibrante qui allie la cuisine écossaise traditionnelle aux tendances culinaires modernes. La ville est connue pour ses saveurs riches et ses options de restauration variées, allant des cafés confortables aux restaurants haut de gamme. Que vous ayez envie de haggis ou que vous recherchiez une street food innovante, Édimbourg offre une expérience gastronomique délicieuse pour tous les palais.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "La Cuisine",
+          "type": "restaurant",
+          "description": "Situé dans un endroit magnifique avec vue sur le château d'Édimbourg, La Cuisine propose une touche moderne aux plats traditionnels écossais. Dégustez des ingrédients de saison et essayez leur haggis, neeps et tatties acclamés. L'atmosphère est décontractée mais raffinée, ce qui la rend parfaite pour une occasion spéciale ou un repas mémorable. La fourchette de prix est de $$. ",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "Mama Shelter",
+          "type": "restaurant",
+          "description": "Mama Shelter est un restaurant dynamique et éclectique connu pour son ambiance vibrante et son menu diversifié. Le restaurant sert tout, des hamburgers à la cuisine écossaise traditionnelle, le tout avec une touche créative. C'est un excellent endroit pour les groupes et offre une expérience culinaire amusante. Attendez-vous à dépenser environ $$ pour un repas ici.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "Marché de Nuit d'Édimbourg",
+          "type": "night_market",
+          "description": "Le Marché de Nuit d'Édimbourg est un endroit vibrant rempli de stands de nourriture offrant une street food internationale. Des burgers gastronomiques aux desserts artisanaux, ce marché est un festin pour les sens. Profitez de l'atmosphère animée tout en essayant une variété de plats de vendeurs locaux, en faisant de cet endroit un lieu idéal pour les amateurs de nourriture. Les prix varient, mais la plupart des plats sont abordables.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "Café des Jardins Botaniques",
+          "type": "cafe",
+          "description": "Niché au sein du magnifique Jardin Botanique Royal, ce café est parfait pour un repas relaxant dans un cadre magnifique. Le menu se concentre sur des produits frais et locaux, offrant une gamme de légers repas et de délicieux gâteaux. Idéal pour un déjeuner décontracté ou un thé de l'après-midi, la fourchette de prix est de $.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "Scène de Street Food d'Édimbourg",
+          "type": "street_food",
+          "description": "La Scène de Street Food d'Édimbourg est un incontournable pour les gourmands à la recherche de saveurs locales authentiques. Des rouleaux de haggis aux tacos gastronomiques, les camions de nourriture et les pop-ups proposent une variété d'options délicieuses. L'atmosphère est décontractée et amusante, ce qui la rend parfaite pour un repas rapide tout en explorant la ville. Les prix varient généralement de $ à $$.",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "Les Whiski Rooms",
+          "type": "bar",
+          "description": "Les Whiski Rooms est un bar à whisky et un restaurant renommé où vous pouvez déguster certains des meilleurs whiskies d'Écosse. Le menu propose un mélange de plats traditionnels et de cuisine écossaise moderne, ce qui en fait un excellent endroit pour les repas et les boissons. L'atmosphère chaleureuse est parfaite pour une soirée détendue. Attendez-vous à dépenser $$.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "Le Bar Braid",
+          "type": "bar",
+          "description": "Un bijou caché à Édimbourg, Le Bar Braid est spécialisé dans les cocktails artisanaux et offre un cadre intime et confortable. Les barmans expérimentés créent des boissons uniques à partir d'ingrédients locaux, et le menu comprend de petites assiettes parfaites pour le partage. C'est un excellent endroit pour une soirée entre amis. La fourchette de prix est de $$.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "L'Édimbourg Végétarien",
+          "type": "restaurant",
+          "description": "Un restaurant emblématique au cœur de la ville, L'Édimbourg Végétarien propose un menu diversifié axé sur des plats à base de plantes préparés avec des ingrédients frais et locaux. L'ambiance chaleureuse et le personnel amical en font un favori parmi les habitants et les touristes. Attendez-vous à payer environ $$ pour un repas satisfaisant.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "La Mejor Comida en Edimburgo 2026 — Mejores Restaurantes y Guía de Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Edimburgo. Desde comidas asequibles hasta alta cocina — con enlaces para reservar.",
+      "page_intro": "Edimburgo cuenta con una vibrante escena gastronómica que combina la cocina tradicional escocesa con tendencias culinarias modernas. La ciudad es conocida por sus ricos sabores y diversas opciones de restaurantes, que van desde cafés acogedores hasta restaurantes elegantes. Ya sea que anheles haggis o busques comida callejera innovadora, Edimburgo ofrece una deliciosa experiencia gastronómica para todos los paladares.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "La Cocina",
+          "type": "restaurant",
+          "description": "Ubicado en un lugar impresionante con vistas al Castillo de Edimburgo, La Cocina ofrece un giro moderno a los platos tradicionales escoceses. Disfruta de ingredientes de temporada y prueba su aclamado haggis, neeps y tatties. La atmósfera es casual pero refinada, lo que la hace perfecta para una ocasión especial o una comida memorable. El rango de precios es $$.",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "Mama Shelter",
+          "type": "restaurant",
+          "description": "Mama Shelter es un restaurante animado y ecléctico conocido por su ambiente vibrante y su diverso menú. El restaurante sirve de todo, desde hamburguesas hasta platos tradicionales escoceses, todo con un toque creativo. Es un gran lugar para grupos y ofrece una divertida experiencia culinaria. Espere gastar alrededor de $$ en una comida aquí.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "Mercado Nocturno de Edimburgo",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Edimburgo es un lugar vibrante lleno de puestos de comida que ofrecen comida callejera internacional. Desde hamburguesas gourmet hasta postres artesanales, este mercado es un festín para los sentidos. Disfruta de la animada atmósfera mientras pruebas una variedad de platos de vendedores locales, convirtiéndolo en un lugar ideal para los amantes de la comida. Los precios varían, pero la mayoría de los platos son asequibles.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "Café de los Jardines Botánicos",
+          "type": "cafe",
+          "description": "Ubicado dentro del hermoso Jardín Botánico Real, este café es perfecto para una comida relajante en un entorno hermoso. El menú se centra en productos frescos y locales, ofreciendo una variedad de comidas ligeras y deliciosos pasteles. Ideal para un almuerzo informal o un té de la tarde, el rango de precios es $.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "Escena de Comida Callejera de Edimburgo",
+          "type": "street_food",
+          "description": "La Escena de Comida Callejera de Edimburgo es una visita obligada para los amantes de la comida que buscan sabores locales auténticos. Desde rollos de haggis hasta tacos gourmet, los camiones de comida y los pop-ups ofrecen una variedad de opciones deliciosas. La atmósfera es casual y divertida, lo que la hace perfecta para un bocado rápido mientras exploras la ciudad. Los precios generalmente oscilan entre $ y $$.",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "Las Habitaciones Whiski",
+          "type": "bar",
+          "description": "Las Habitaciones Whiski es un famoso bar de whisky y restaurante donde puedes degustar algunos de los mejores whiskies de Escocia. El menú presenta una mezcla de platos tradicionales y cocina escocesa moderna, lo que lo convierte en un excelente lugar tanto para la comida como para las bebidas. La atmósfera acogedora es perfecta para una noche relajada. Espere gastar $$.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "El Bar Braid",
+          "type": "bar",
+          "description": "Una joya escondida en Edimburgo, El Bar Braid se especializa en cócteles de autor y ofrece un ambiente acogedor e íntimo. Los hábiles bartenders crean bebidas únicas utilizando ingredientes locales, y el menú incluye pequeños platos perfectos para compartir. Es un excelente lugar para una noche con amigos. El rango de precios es $$.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "El Vegetariano de Edimburgo",
+          "type": "restaurant",
+          "description": "Un restaurante icónico en el corazón de la ciudad, El Vegetariano de Edimburgo ofrece un menú diverso centrado en platos a base de plantas elaborados con ingredientes frescos y locales. La atmósfera acogedora y el personal amable lo convierten en un favorito entre los lugareños y los turistas. Espere pagar alrededor de $$ por una comida satisfactoria.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Edinburgh 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Edinburgh. From budget eats to fine dining — with booking links.",
+      "page_intro": "Edinburgh boasts a vibrant food scene that blends traditional Scottish cuisine with modern culinary trends. The city is known for its rich flavors and diverse dining options, ranging from cozy cafes to upscale restaurants. Whether you're craving haggis or looking for innovative street food, Edinburgh offers a delightful gastronomic experience for every palate.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "The Kitchen",
+          "type": "restaurant",
+          "description": "Set in a stunning location with views of Edinburgh Castle, The Kitchen offers a modern twist on traditional Scottish dishes. Dine on seasonal ingredients and try their acclaimed haggis, neeps, and tatties. The atmosphere is casual yet refined, making it perfect for a special occasion or a memorable meal. Price range is $$.",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "Mama Shelter",
+          "type": "restaurant",
+          "description": "Mama Shelter is a lively and eclectic eatery known for its vibrant atmosphere and diverse menu. The restaurant serves everything from burgers to traditional Scottish fare, all with a creative twist. It’s a great place for groups and offers a fun dining experience. Expect to spend around $$ on a meal here.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "Edinburgh Night Market",
+          "type": "night_market",
+          "description": "The Edinburgh Night Market is a vibrant spot filled with food stalls offering international street food. From gourmet burgers to artisanal desserts, this market is a feast for the senses. Enjoy the lively atmosphere while trying a variety of dishes from local vendors, making it an ideal spot for food lovers. Prices vary, but most dishes are affordable.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "The Botanic Gardens Cafe",
+          "type": "cafe",
+          "description": "Nestled within the stunning Royal Botanic Garden, this cafe is perfect for a relaxing meal amidst beautiful surroundings. The menu focuses on fresh, local produce, offering a range of light meals and delicious cakes. Ideal for a casual lunch or afternoon tea, the price range is $.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "Edinburgh Street Food Scene",
+          "type": "street_food",
+          "description": "The Edinburgh Street Food Scene is a must-visit for foodies looking for authentic local flavors. From haggis rolls to gourmet tacos, food trucks and pop-ups offer a variety of delicious options. The atmosphere is casual and fun, making it perfect for a quick bite while exploring the city. Prices typically range from $ to $$.",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "The Whiski Rooms",
+          "type": "bar",
+          "description": "The Whiski Rooms is a renowned whisky bar and restaurant where you can sample some of Scotland's finest whiskies. The menu features a mix of traditional dishes and modern Scottish cuisine, making it a great place for both food and drinks. The cozy atmosphere is perfect for a relaxed evening out. Expect to spend $$.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "The Braid Bar",
+          "type": "bar",
+          "description": "A hidden gem in Edinburgh, The Braid Bar specializes in craft cocktails and offers a cozy, intimate setting. The skilled bartenders create unique drinks using local ingredients, and the menu includes small plates perfect for sharing. It's an excellent spot for a night out with friends. Price range is $$.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "The Edinburgh Vegetarian",
+          "type": "restaurant",
+          "description": "An iconic restaurant in the heart of the city, The Edinburgh Vegetarian offers a diverse menu focusing on plant-based dishes made from fresh, local ingredients. The cozy ambiance and friendly staff make it a favorite among locals and tourists alike. Expect to pay around $$ for a satisfying meal.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "एडिनबर्ग में बेहतरीन भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "एडिनबर्ग के बेहतरीन रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट भोजन से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "एडिनबर्ग एक जीवंत खाद्य दृश्य का दावा करता है जो पारंपरिक स्कॉटिश व्यंजनों को आधुनिक पाक प्रवृत्तियों के साथ मिलाता है। शहर अपने समृद्ध स्वादों और विविध भोजन विकल्पों के लिए जाना जाता है, जो आरामदायक कैफे से लेकर उच्च श्रेणी के रेस्तरां तक फैले हुए हैं। चाहे आप हैगिस का craving कर रहे हों या नवोन्मेषी स्ट्रीट फूड की तलाश में हों, एडिनबर्ग हर स्वाद के लिए एक शानदार पाक अनुभव प्रदान करता है।",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "द किचन",
+          "type": "restaurant",
+          "description": "एडिनबर्ग कैसल के दृश्य के साथ एक शानदार स्थान पर सेट, द किचन पारंपरिक स्कॉटिश व्यंजनों पर एक आधुनिक मोड़ प्रदान करता है। मौसमी सामग्री का आनंद लें और उनके प्रशंसित हैगिस, नीप्स और टैटिज़ का प्रयास करें। वातावरण आकस्मिक लेकिन परिष्कृत है, जो इसे एक विशेष अवसर या यादगार भोजन के लिए आदर्श बनाता है। मूल्य सीमा $$ है।",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "मामा शेल्टर",
+          "type": "restaurant",
+          "description": "मामा शेल्टर एक जीवंत और विविधतापूर्ण खाने की जगह है जो अपने जीवंत वातावरण और विविध मेनू के लिए जानी जाती है। रेस्तरां बर्गर से लेकर पारंपरिक स्कॉटिश भोजन तक सब कुछ परोसता है, सभी एक रचनात्मक मोड़ के साथ। यह समूहों के लिए एक शानदार स्थान है और मजेदार भोजन अनुभव प्रदान करता है। यहाँ भोजन पर खर्च करने की अपेक्षा $$ है।",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "एडिनबर्ग नाइट मार्केट",
+          "type": "night_market",
+          "description": "एडिनबर्ग नाइट मार्केट एक जीवंत स्थान है जिसमें अंतरराष्ट्रीय स्ट्रीट फूड की पेशकश करने वाले खाद्य स्टॉल हैं। शानदार बर्गर से लेकर हस्तनिर्मित मिठाइयाँ, यह बाजार इंद्रियों के लिए एक दावत है। स्थानीय विक्रेताओं से विभिन्न व्यंजनों का प्रयास करते हुए जीवंत वातावरण का आनंद लें, जो खाद्य प्रेमियों के लिए इसे आदर्श स्थान बनाता है। कीमतें भिन्न होती हैं, लेकिन अधिकांश व्यंजन सस्ते हैं।",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "द बोटैनिक गार्डन्स कैफे",
+          "type": "cafe",
+          "description": "शानदार रॉयल बोटैनिक गार्डन के भीतर स्थित, यह कैफे सुंदर परिवेश के बीच एक आरामदायक भोजन के लिए आदर्श है। मेनू ताजे, स्थानीय उत्पादों पर केंद्रित है, जो हल्के भोजन और स्वादिष्ट केक की एक श्रृंखला प्रदान करता है। आकस्मिक लंच या दोपहर की चाय के लिए आदर्श, मूल्य सीमा $ है।",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "एडिनबर्ग स्ट्रीट फूड सीन",
+          "type": "street_food",
+          "description": "एडिनबर्ग स्ट्रीट फूड सीन उन खाद्य प्रेमियों के लिए एक अवश्य देखने योग्य स्थान है जो प्रामाणिक स्थानीय स्वादों की तलाश में हैं। हैगिस रोल से लेकर शानदार टैको तक, खाद्य ट्रक और पॉप-अप विभिन्न स्वादिष्ट विकल्पों की पेशकश करते हैं। वातावरण आकस्मिक और मजेदार है, जो शहर की खोज करते समय एक त्वरित नाश्ते के लिए आदर्श है। कीमतें सामान्यतः $ से $$ तक होती हैं।",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "द व्हिस्की रूम्स",
+          "type": "bar",
+          "description": "द व्हिस्की रूम्स एक प्रसिद्ध व्हिस्की बार और रेस्तरां है जहाँ आप स्कॉटलैंड की कुछ बेहतरीन व्हिस्कियों का स्वाद ले सकते हैं। मेनू में पारंपरिक व्यंजनों और आधुनिक स्कॉटिश व्यंजनों का मिश्रण है, जो खाने और पेय दोनों के लिए इसे एक शानदार स्थान बनाता है। आरामदायक वातावरण एक शांत शाम के लिए आदर्श है। यहाँ खर्च करने की अपेक्षा $$ है।",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "द ब्रेड बार",
+          "type": "bar",
+          "description": "एडिनबर्ग में एक छिपा हुआ रत्न, द ब्रेड बार शिल्प कॉकटेल में विशेषज्ञता रखता है और एक आरामदायक, अंतरंग सेटिंग प्रदान करता है। कुशल बारटेंडर स्थानीय सामग्रियों का उपयोग करके अद्वितीय पेय बनाते हैं, और मेनू में साझा करने के लिए छोटे प्लेट शामिल हैं। यह दोस्तों के साथ एक रात बाहर बिताने के लिए एक उत्कृष्ट स्थान है। मूल्य सीमा $$ है।",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "द एडिनबर्ग शाकाहारी",
+          "type": "restaurant",
+          "description": "शहर के दिल में एक प्रतिष्ठित रेस्तरां, द एडिनबर्ग शाकाहारी ताजे, स्थानीय सामग्रियों से बने पौधों पर आधारित व्यंजनों पर ध्यान केंद्रित करते हुए विविध मेनू प्रदान करता है। आरामदायक माहौल और मित्रवत स्टाफ इसे स्थानीय लोगों और पर्यटकों के बीच पसंदीदा बनाते हैं। एक संतोषजनक भोजन के लिए लगभग $$ खर्च करने की अपेक्षा करें।",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Edimburgo 2026 — Melhores Restaurantes & Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Edimburgo. Desde refeições econômicas até alta gastronomia — com links para reservas.",
+      "page_intro": "Edimburgo possui uma cena gastronômica vibrante que mistura a culinária escocesa tradicional com tendências culinárias modernas. A cidade é conhecida por seus sabores ricos e opções de refeições diversas, que vão de cafés aconchegantes a restaurantes sofisticados. Se você está desejando haggis ou procurando por comida de rua inovadora, Edimburgo oferece uma experiência gastronômica deliciosa para todos os paladares.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "A Cozinha",
+          "type": "restaurant",
+          "description": "Situado em uma localização deslumbrante com vista para o Castelo de Edimburgo, A Cozinha oferece uma abordagem moderna aos pratos escoceses tradicionais. Jante com ingredientes sazonais e experimente seu aclamado haggis, neeps e tatties. A atmosfera é casual, mas refinada, tornando-o perfeito para uma ocasião especial ou uma refeição memorável. A faixa de preço é $$.",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "Mama Shelter",
+          "type": "restaurant",
+          "description": "Mama Shelter é um restaurante animado e eclético conhecido por sua atmosfera vibrante e menu diversificado. O restaurante serve de tudo, desde hambúrgueres até pratos tradicionais escoceses, todos com um toque criativo. É um ótimo lugar para grupos e oferece uma experiência de jantar divertida. Espere gastar cerca de $$ em uma refeição aqui.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "Mercado Noturno de Edimburgo",
+          "type": "night_market",
+          "description": "O Mercado Noturno de Edimburgo é um local vibrante repleto de barracas de comida que oferecem comida de rua internacional. De hambúrgueres gourmet a sobremesas artesanais, este mercado é uma festa para os sentidos. Aproveite a atmosfera animada enquanto experimenta uma variedade de pratos de vendedores locais, tornando-se um local ideal para amantes da gastronomia. Os preços variam, mas a maioria dos pratos é acessível.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "Cafeteria dos Jardins Botânicos",
+          "type": "cafe",
+          "description": "Aninhada dentro do deslumbrante Jardim Botânico Real, esta cafeteria é perfeita para uma refeição relaxante em meio a belas paisagens. O menu foca em produtos frescos e locais, oferecendo uma variedade de refeições leves e bolos deliciosos. Ideal para um almoço casual ou chá da tarde, a faixa de preço é $.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "Cena de Comida de Rua de Edimburgo",
+          "type": "street_food",
+          "description": "A Cena de Comida de Rua de Edimburgo é um local imperdível para os amantes da gastronomia que procuram sabores locais autênticos. De rolos de haggis a tacos gourmet, food trucks e pop-ups oferecem uma variedade de opções deliciosas. A atmosfera é casual e divertida, tornando-o perfeito para um lanche rápido enquanto explora a cidade. Os preços geralmente variam de $ a $$.",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "As Salas Whiski",
+          "type": "bar",
+          "description": "As Salas Whiski são um famoso bar de whisky e restaurante onde você pode degustar alguns dos melhores whiskies da Escócia. O menu apresenta uma mistura de pratos tradicionais e culinária escocesa moderna, tornando-o um ótimo lugar para comida e bebida. A atmosfera acolhedora é perfeita para uma noite relaxante. Espere gastar $$.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "O Bar Braid",
+          "type": "bar",
+          "description": "Uma joia escondida em Edimburgo, O Bar Braid se especializa em coquetéis artesanais e oferece um ambiente aconchegante e íntimo. Os bartenders habilidosos criam bebidas únicas usando ingredientes locais, e o menu inclui pequenos pratos perfeitos para compartilhar. É um excelente lugar para uma noite com amigos. A faixa de preço é $$.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "O Vegetariano de Edimburgo",
+          "type": "restaurant",
+          "description": "Um restaurante icônico no coração da cidade, O Vegetariano de Edimburgo oferece um menu diversificado focado em pratos à base de plantas feitos com ingredientes frescos e locais. O ambiente acolhedor e a equipe amigável o tornam um favorito entre os moradores e turistas. Espere gastar cerca de $$ para uma refeição satisfatória.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المأكولات في إدنبرة 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والتخصصات المحلية في إدنبرة. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "page_intro": "تفتخر إدنبرة بمشهد غذائي نابض بالحياة يجمع بين المأكولات الاسكتلندية التقليدية والاتجاهات الطهو الحديثة. المدينة معروفة بنكهاتها الغنية وخيارات تناول الطعام المتنوعة، بدءًا من المقاهي المريحة إلى المطاعم الراقية. سواء كنت تت craving الهاغيس أو تبحث عن الطعام الشارعي المبتكر، تقدم إدنبرة تجربة طعام رائعة لكل الأذواق.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "المطبخ",
+          "type": "restaurant",
+          "description": "يقع في موقع رائع مع إطلالات على قلعة إدنبرة، يقدم المطبخ لمسة حديثة على الأطباق الاسكتلندية التقليدية. تناول الطعام باستخدام المكونات الموسمية وجرب الهاغيس والنيبس والتاتيس المشهورين لديهم. الجو غير رسمي ولكنه مصقول، مما يجعله مثاليًا لمناسبة خاصة أو وجبة لا تُنسى. نطاق السعر هو $$.",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "ماما شيلتر",
+          "type": "restaurant",
+          "description": "ماما شيلتر هو مطعم حيوي ومتعدد الثقافات معروف بأجوائه النابضة بالحياة وقائمته المتنوعة. يقدم المطعم كل شيء من البرغر إلى الأطباق الاسكتلندية التقليدية، جميعها مع لمسة إبداعية. إنه مكان رائع للمجموعات ويوفر تجربة تناول طعام ممتعة. توقع أن تنفق حوالي $$ على وجبة هنا.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "سوق إدنبرة الليلي",
+          "type": "night_market",
+          "description": "سوق إدنبرة الليلي هو موقع نابض بالحياة مليء بأكشاك الطعام التي تقدم طعام الشارع الدولي. من البرغر الفاخر إلى الحلويات الحرفية، يعتبر هذا السوق احتفالًا للحواس. استمتع بالأجواء الحية أثناء تجربة مجموعة متنوعة من الأطباق من البائعين المحليين، مما يجعله مكانًا مثاليًا لعشاق الطعام. تتفاوت الأسعار، لكن معظم الأطباق بأسعار معقولة.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "مقهى الحدائق النباتية",
+          "type": "cafe",
+          "description": "مخبأ داخل حديقة النباتات الملكية الرائعة، هذا المقهى مثالي لوجبة مريحة في وسط المناظر الجميلة. يركز القائمة على المنتجات الطازجة والمحلية، حيث تقدم مجموعة من الوجبات الخفيفة والكعك اللذيذ. مثالي لتناول الغداء غير الرسمي أو شاي بعد الظهر، نطاق السعر هو $.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "مشهد طعام الشارع في إدنبرة",
+          "type": "street_food",
+          "description": "يعد مشهد طعام الشارع في إدنبرة مكانًا يجب زيارته لعشاق الطعام الذين يبحثون عن نكهات محلية أصيلة. من لفائف الهاغيس إلى التاكو الفاخر، تقدم شاحنات الطعام والمواقع المؤقتة مجموعة متنوعة من الخيارات اللذيذة. الجو غير رسمي وممتع، مما يجعله مثاليًا لوجبة سريعة أثناء استكشاف المدينة. تتراوح الأسعار عادة من $ إلى $$.",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "غرف ويسكي",
+          "type": "bar",
+          "description": "غرف ويسكي هو بار ومطعم معروف حيث يمكنك تذوق بعض من أفضل أنواع الويسكي في اسكتلندا. يقدم القائمة مزيجًا من الأطباق التقليدية والمأكولات الاسكتلندية الحديثة، مما يجعله مكانًا رائعًا للطعام والشراب. الأجواء الدافئة مثالية لقضاء أمسية مريحة. توقع أن تنفق $$.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "بار بريد",
+          "type": "bar",
+          "description": "جوهر مخفي في إدنبرة، يتخصص بار بريد في الكوكتيلات الحرفية ويوفر بيئة مريحة وحميمة. يقوم السقاة المهرة بإنشاء مشروبات فريدة باستخدام المكونات المحلية، ويشمل القائمة أطباق صغيرة مثالية للمشاركة. إنه مكان ممتاز لقضاء ليلة مع الأصدقاء. نطاق السعر هو $$.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "النباتي في إدنبرة",
+          "type": "restaurant",
+          "description": "مطعم أيقوني في قلب المدينة، يقدم النباتي في إدنبرة قائمة متنوعة تركز على الأطباق النباتية المصنوعة من المكونات الطازجة والمحلية. الجو المريح والموظفين الودودين يجعله مفضلًا بين المحليين والسياح على حد سواء. توقع أن تنفق حوالي $$ لوجبة مرضية.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "এডিনবরা সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "এডিনবরা সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় স্পেশালিটির সন্ধান করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "page_intro": "এডিনবরা একটি প্রাণবন্ত খাবারের দৃশ্য উপস্থাপন করে যা ঐতিহ্যবাহী স্কটিশ রান্না এবং আধুনিক খাদ্য প্রবণতাগুলিকে মিশ্রিত করে। শহরটি তার সমৃদ্ধ স্বাদ এবং বিভিন্ন Dining অপশনের জন্য পরিচিত, যা আরামদায়ক ক্যাফে থেকে শুরু করে উচ্চমানের রেস্তোরাঁ পর্যন্ত। আপনি যদি হ্যাগিসের জন্য ক্রেভিং করছেন বা উদ্ভাবনী স্ট্রিট ফুড খুঁজছেন, এডিনবরা প্রতিটি স্বাদের জন্য একটি আনন্দদায়ক গ্যাস্ট্রোনমিক অভিজ্ঞতা অফার করে।",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "দ্য কিচেন",
+          "type": "restaurant",
+          "description": "এডিনবরা কাসল এর দৃষ্টিতে একটি চমৎকার অবস্থানে সেট করা, দ্য কিচেন ঐতিহ্যবাহী স্কটিশ খাবারের উপর আধুনিক মোড় দেয়। মৌসুমি উপাদানে খাবার খান এবং তাদের প্রশংসিত হ্যাগিস, নিপস এবং ট্যাটিস ট্রাই করুন। পরিবেশটি আড়ম্বরপূর্ণ কিন্তু অবিশ্যস্ত, যা এটিকে একটি বিশেষ অনুষ্ঠান বা একটি স্মরণীয় খাবারের জন্য উপযুক্ত করে তোলে। মূল্য পরিসীমা $$।",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "মামা শেল্টার",
+          "type": "restaurant",
+          "description": "মামা শেল্টার একটি প্রাণবন্ত এবং বৈচিত্র্যময় খাবারের স্থান যা এর প্রাণবন্ত পরিবেশ এবং বৈচিত্র্যময় মেনুর জন্য পরিচিত। রেস্তোরাঁটি বার্গার থেকে শুরু করে ঐতিহ্যবাহী স্কটিশ খাবার পর্যন্ত সবকিছু পরিবেশন করে, সবই একটি সৃজনশীল মোড়ে। এটি গ্রুপের জন্য একটি দুর্দান্ত জায়গা এবং একটি মজার ডাইনিং অভিজ্ঞতা সরবরাহ করে। এখানে খাবারে প্রায় $$ খরচ হবে।",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "এডিনবরা নাইট মার্কেট",
+          "type": "night_market",
+          "description": "এডিনবরা নাইট মার্কেট একটি প্রাণবন্ত স্থান যা আন্তর্জাতিক স্ট্রিট ফুড অফার করা খাদ্য স্টল দ্বারা পূর্ণ। গরম বুর্গার থেকে শুরু করে কারিগরি মিষ্টি পর্যন্ত, এই বাজারটি অনুভূতির জন্য একটি দাওয়াত। স্থানীয় বিক্রেতাদের কাছ থেকে বিভিন্ন ধরনের খাবার চেষ্টা করার সময় প্রাণবন্ত পরিবেশের মজা নিন, যা খাদ্যপ্রেমীদের জন্য এটি একটি আদর্শ স্থান করে তোলে। দামগুলি পরিবর্তিত হয়, কিন্তু বেশিরভাগ খাবার সাশ্রয়ী।",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "দ্য বোটানিক গার্ডেনস ক্যাফে",
+          "type": "cafe",
+          "description": "চমৎকার রয়েল বোটানিক গার্ডেনের মধ্যে nestled, এই ক্যাফে সুন্দর পরিবেশের মধ্যে একটি আরামদায়ক খাবারের জন্য নিখুঁত। মেনুটি তাজা, স্থানীয় পণ্যের উপর ফোকাস করে, হালকা খাবার এবং সুস্বাদু কেকের একটি পরিসর সরবরাহ করে। অস্বচ্ছ লাঞ্চ বা বিকালের চায়ের জন্য নিখুঁত, মূল্য পরিসীমা $।",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "এডিনবরা স্ট্রিট ফুড সিন",
+          "type": "street_food",
+          "description": "এডিনবরা স্ট্রিট ফুড সিন খাবারপ্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান যারা স্বনির্ধারিত স্থানীয় স্বাদের সন্ধান করছেন। হ্যাগিস রোল থেকে শুরু করে গরম টাকো পর্যন্ত, খাবারের ট্রাক এবং পপ-আপগুলি বিভিন্ন সুস্বাদু বিকল্পগুলি অফার করে। পরিবেশটি অপ্রত্যাশিত এবং মজার, যা শহরটি অনুসন্ধানের সময় একটি দ্রুত খাবারের জন্য এটি নিখুঁত করে তোলে। দাম সাধারণত $ থেকে $$ পর্যন্ত।",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "দ্য হুইস্কি রুমস",
+          "type": "bar",
+          "description": "দ্য হুইস্কি রুমস একটি বিখ্যাত হুইস্কি বার এবং রেস্তোরাঁ যেখানে আপনি স্কটল্যান্ডের কিছু সেরা হুইস্কি স্বাদ গ্রহণ করতে পারেন। মেনুটিতে ঐতিহ্যবাহী খাবার এবং আধুনিক স্কটিশ রান্নার মিশ্রণ রয়েছে, যা এটি খাবার এবং পানীয়ের জন্য একটি দুর্দান্ত স্থান করে তোলে। আরামদায়ক পরিবেশ একটি শিথিল সন্ধ্যার জন্য উপযুক্ত। এখানে খরচ হবে $$।",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "দ্য ব্রেড বার",
+          "type": "bar",
+          "description": "এডিনবরা একটি গোপন রত্ন, দ্য ব্রেড বার কারিগরি ককটেলগুলিতে বিশেষজ্ঞ এবং একটি আরামদায়ক, ঘনিষ্ঠ পরিবেশ সরবরাহ করে। দক্ষ বারটেন্ডাররা স্থানীয় উপাদান ব্যবহার করে অনন্য পানীয় তৈরি করেন, এবং মেনুটিতে ভাগ করার জন্য ছোট প্লেট অন্তর্ভুক্ত রয়েছে। এটি বন্ধুদের সঙ্গে রাত কাটানোর জন্য একটি চমৎকার স্থান। মূল্য পরিসীমা $$।",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "দ্য এডিনবরা ভেজিটেরিয়ান",
+          "type": "restaurant",
+          "description": "শহরের কেন্দ্রে একটি আইকনিক রেস্তোরাঁ, দ্য এডিনবরা ভেজিটেরিয়ান তাজা, স্থানীয় উপাদান ব্যবহার করে তৈরি উদ্ভিদ ভিত্তিক খাবারের উপর ফোকাস করে একটি বৈচিত্র্যময় মেনু অফার করে। আরামদায়ক পরিবেশ এবং বন্ধুত্বপূর্ণ কর্মীরা এটিকে স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয় করে তোলে। একটি সন্তোষজনক খাবারের জন্য প্রায় $$ খরচ করতে আশা করুন।",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие места для еды в Эдинбурге 2026 — Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Эдинбурге. От бюджетных блюд до изысканной кухни — с ссылками для бронирования.",
+      "page_intro": "Эдинбург может похвастаться яркой кулинарной сценой, которая сочетает в себе традиционную шотландскую кухню и современные гастрономические тенденции. Город известен своими насыщенными вкусами и разнообразием обеденных предложений, от уютных кафе до ресторанов высокой кухни. Если вы жаждете хаггиса или ищете инновационную уличную еду, Эдинбург предлагает восхитительный гастрономический опыт для любого вкуса.",
+      "items": [
+        {
+          "id": "the-kitchen",
+          "name": "Кухня",
+          "type": "restaurant",
+          "description": "Расположенный в потрясающем месте с видом на Эдинбургский замок, Кухня предлагает современный подход к традиционным шотландским блюдам. Угощайтесь сезонными ингредиентами и попробуйте их знаменитый хаггис, неепс и тэттис. Атмосфера непринужденная, но изысканная, что делает это идеальным местом для особого случая или запоминающегося ужина. Ценовой диапазон составляет $$.",
+          "image_keyword": "The Kitchen restaurant Edinburgh",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Haggis, neeps, and tatties",
+          "klook_query": "The Kitchen Edinburgh booking"
+        },
+        {
+          "id": "mama-shelter",
+          "name": "Мама Шелтер",
+          "type": "restaurant",
+          "description": "Мама Шелтер — это оживленный и эклектичный ресторан, известный своей яркой атмосферой и разнообразным меню. Ресторан предлагает все, от бургеров до традиционных шотландских блюд, все с творческим подходом. Это отличное место для групп и предлагает веселый опыт ужина. Ожидайте потратить около $$ на обед здесь.",
+          "image_keyword": "Mama Shelter Edinburgh",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mac & Cheese",
+          "klook_query": "Mama Shelter Edinburgh booking"
+        },
+        {
+          "id": "edinburgh-night-market",
+          "name": "Ночной рынок Эдинбурга",
+          "type": "night_market",
+          "description": "Ночной рынок Эдинбурга — это яркое место с продуктами, предлагающими международную уличную еду. От гурманских бургеров до художественных десертов, этот рынок — праздник для чувств. Наслаждайтесь живой атмосферой, пробуя разнообразные блюда от местных продавцов, что делает его идеальным местом для любителей еды. Цены варьируются, но большинство блюд доступно.",
+          "image_keyword": "Edinburgh Night Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Gourmet burgers",
+          "klook_query": "Edinburgh Night Market food tour"
+        },
+        {
+          "id": "the-botanic-gardens-cafe",
+          "name": "Кафе Ботанических садов",
+          "type": "cafe",
+          "description": "Уютно расположенное в великолепном Королевском ботаническом саду, это кафе идеально подходит для расслабляющего обеда на фоне красивых пейзажей. Меню сосредоточено на свежих, местных продуктах, предлагая разнообразие легких блюд и вкусных тортов. Идеально для непринужденного обеда или чаепития, ценовой диапазон составляет $.",
+          "image_keyword": "Botanic Gardens Cafe Edinburgh",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Seasonal soup",
+          "klook_query": "Botanic Gardens Cafe booking"
+        },
+        {
+          "id": "street-food-scene",
+          "name": "Сцена уличной еды в Эдинбурге",
+          "type": "street_food",
+          "description": "Сцена уличной еды в Эдинбурге — это место, которое необходимо посетить для гурманов, ищущих подлинные местные вкусы. От хаггис-роллов до гурманских тако, фургоны с едой и временные точки предлагают разнообразие вкусных вариантов. Атмосфера непринужденная и веселая, что делает это идеальным местом для быстрого перекуса во время изучения города. Цены обычно варьируются от $ до $$. ",
+          "image_keyword": "Edinburgh Street Food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Haggis roll",
+          "klook_query": "Edinburgh Street Food tour"
+        },
+        {
+          "id": "the-whiski-rooms",
+          "name": "Комнаты Виски",
+          "type": "bar",
+          "description": "Комнаты Виски — это известный бар и ресторан, где вы можете попробовать некоторые из лучших виски Шотландии. Меню включает в себя смесь традиционных блюд и современной шотландской кухни, что делает его отличным местом для еды и напитков. Уютная атмосфера идеально подходит для расслабляющего вечера. Ожидайте потратить $$.",
+          "image_keyword": "The Whiski Rooms Edinburgh",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Whisky flight",
+          "klook_query": "The Whiski Rooms booking"
+        },
+        {
+          "id": "the-braid-bar",
+          "name": "Бар Брейд",
+          "type": "bar",
+          "description": "Скрытая жемчужина в Эдинбурге, Бар Брейд специализируется на авторских коктейлях и предлагает уютную, интимную обстановку. Искусные бармены создают уникальные напитки, используя местные ингредиенты, а меню включает в себя небольшие блюда, идеально подходящие для совместного употребления. Это отличное место для вечера с друзьями. Ценовой диапазон составляет $$.",
+          "image_keyword": "The Braid Bar Edinburgh",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Craft cocktails",
+          "klook_query": "The Braid Bar booking"
+        },
+        {
+          "id": "the-edinburgh-vegetarian",
+          "name": "Вегетарианец в Эдинбурге",
+          "type": "restaurant",
+          "description": "Знаменитый ресторан в самом сердце города, Вегетарианец в Эдинбурге предлагает разнообразное меню, сосредотачиваясь на растительных блюдах, приготовленных из свежих местных ингредиентов. Уютная атмосфера и дружелюбный персонал делают его любимым местом как у местных жителей, так и у туристов. Ожидайте потратить около $$ на удовлетворительный обед.",
+          "image_keyword": "The Edinburgh Vegetarian",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vegetarian haggis",
+          "klook_query": "The Edinburgh Vegetarian booking"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "city_slug": "sydney",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Sydney 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Sydney. From budget eats to fine dining — with booking links.",
+      "page_intro": "Sydney's food culture is a vibrant tapestry of flavors influenced by its diverse population and rich culinary traditions. From trendy cafes to bustling night markets, this city offers an array of dining experiences that cater to every palate. Whether you're looking for fine dining or a quick bite, Sydney's food scene is sure to impress.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "Restaurant Hubert",
+          "type": "restaurant",
+          "description": "Restaurant Hubert offers a unique dining experience with a classic French twist in a warm, inviting atmosphere. Known for its duck parfait and tart tatin, this restaurant is perfect for a romantic evening or special occasion. Prices range from $$ to $$$, making it a great choice for those seeking an exquisite meal.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "Bondi Icebergs Club",
+          "type": "cafe",
+          "description": "Located right by Bondi Beach, the Bondi Icebergs Club is famous for its stunning views and relaxed vibe. Enjoy a delicious brunch or lunch with dishes like their signature Icebergs Benny. Prices are reasonable, ranging from $ to $$, making it a popular spot for locals and tourists alike.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "Sydney Night Noodle Markets",
+          "type": "night_market",
+          "description": "The Sydney Night Noodle Markets bring together a feast of Asian street food in a vibrant outdoor setting. With a variety of stalls offering everything from dumplings to bao buns, it's a food lover's paradise. Prices typically range from $ to $$, making it an affordable way to experience diverse flavors.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "Harry's Café de Wheels",
+          "type": "street_food",
+          "description": "Harry's Café de Wheels is an iconic food truck known for its delicious meat pies and hot dogs. A must-visit for anyone craving a quick, tasty bite, the atmosphere is casual and lively. Prices are very affordable, usually under $, making it a perfect stop for a late-night snack.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "Doyles on the Beach",
+          "type": "restaurant",
+          "description": "Doyles on the Beach is renowned for its fresh seafood and stunning ocean views. A family-run establishment, it’s a perfect spot for enjoying classic fish and chips or a seafood platter. Prices are moderate, typically ranging from $$ to $$$, making it an ideal choice for seafood lovers.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "Chinatown Night Market",
+          "type": "night_market",
+          "description": "The Chinatown Night Market offers a vibrant taste of Asian culture with a variety of stalls serving delightful street food. From dumplings to bubble tea, it’s a feast for the senses. Prices are very affordable, generally ranging from $ to $$, making this market a must-visit for food enthusiasts.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "The Spice Room",
+          "type": "restaurant",
+          "description": "The Spice Room offers an authentic taste of Indian cuisine in a sophisticated setting. Known for its flavorful curries and traditional tandoori dishes, it’s a great spot for both casual dining and special occasions. Prices range from $$ to $$$, making it a popular choice for food lovers.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "The Grounds of Alexandria",
+          "type": "cafe",
+          "description": "The Grounds of Alexandria is a unique café featuring a farm-to-table concept with a vibrant atmosphere, complete with gardens and animals. Famous for its artisanal coffee and delicious brunch options, this spot is perfect for a leisurely meal. Prices are moderate, ranging from $ to $$.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年悉尼最佳美食 — 顶级餐厅与街头美食指南",
+      "seo_description": "探索悉尼最佳餐厅、街头美食和当地特色。无论是预算餐点还是精致晚餐 — 皆有预订链接。",
+      "page_intro": "悉尼的美食文化是一个充满活力的风味拼图，受其多元化人口和丰富烹饪传统的影响。从时尚咖啡馆到繁忙的夜市，这座城市提供了各种餐饮体验，满足每一种味蕾。无论你是寻求精致的用餐还是快速的小吃，悉尼的美食场景一定会让你印象深刻。",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "休伯特餐厅",
+          "type": "restaurant",
+          "description": "休伯特餐厅提供独特的用餐体验，经典法式风味，温暖而迷人的氛围。以鸭肉酱和塔丁饼著称，这家餐厅非常适合浪漫的夜晚或特殊场合。价格范围从$$到$$$，是寻求精致餐点的绝佳选择。",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "邦代冰山俱乐部",
+          "type": "cafe",
+          "description": "位于邦代海滩旁，邦代冰山俱乐部以其壮丽的景色和悠闲的氛围而闻名。享用美味的早午餐或午餐，如他们的招牌冰山本尼。价格合理，范围从$到$$，因此成为当地人和游客的热门去处。",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "悉尼夜市面条市场",
+          "type": "night_market",
+          "description": "悉尼夜市面条市场聚集了丰富的亚洲街头美食，在充满活力的户外环境中。各种摊位提供从饺子到包子的一切，简直是美食爱好者的乐园。价格通常从$到$$不等，是体验多样风味的实惠方式。",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "哈利的轮子咖啡馆",
+          "type": "street_food",
+          "description": "哈利的轮子咖啡馆是一辆标志性的食品车，以美味的肉饼和热狗而闻名。对于任何渴望快速美味小吃的人来说，这里是必访之地，气氛轻松而热闹。价格非常实惠，通常在$以下，是深夜小吃的完美选择。",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "海滩上的多伊尔斯",
+          "type": "restaurant",
+          "description": "海滩上的多伊尔斯因其新鲜的海鲜和壮观的海洋景色而闻名。这是一家家庭经营的餐厅，非常适合享用经典的炸鱼和薯条或海鲜拼盘。价格适中，通常在$$到$$$之间，是海鲜爱好者的理想选择。",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "唐人街夜市",
+          "type": "night_market",
+          "description": "唐人街夜市提供生动的亚洲文化风味，各种摊位供应美味的街头美食。从饺子到泡泡茶，绝对是一场感官盛宴。价格非常实惠，通常在$到$$之间，是美食爱好者必访的市场。",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "香料屋",
+          "type": "restaurant",
+          "description": "香料屋在优雅的环境中提供正宗的印度美食。以其美味的咖喱和传统的坦杜里菜肴而闻名，是休闲用餐和特殊场合的绝佳去处。价格范围从$$到$$$，成为美食爱好者的热门选择。",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "亚历山德里亚的农场",
+          "type": "cafe",
+          "description": "亚历山德里亚的农场是一家独特的咖啡馆，采用农场到餐桌的概念，充满活力的氛围，配有花园和动物。以其手工咖啡和美味的早午餐选项而闻名，非常适合悠闲的用餐。价格适中，范围从$到$$。",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年シドニーのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "シドニーで最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンクあり。",
+      "page_intro": "シドニーの食文化は、多様な人口と豊かな料理の伝統に影響された鮮やかな風味のタペストリーです。トレンディなカフェから賑やかなナイトマーケットまで、この街はあらゆる味覚に応える多彩なダイニング体験を提供しています。高級ダイニングを探している方も、ちょっとした軽食を求めている方も、シドニーの食シーンには感動することでしょう。",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "レストラン・ユベール",
+          "type": "restaurant",
+          "description": "レストラン・ユベールは、温かく魅力的な雰囲気の中でクラシックなフレンチツイストのユニークなダイニング体験を提供します。ダックパテやタルトタタンで知られるこのレストランは、ロマンチックな夜や特別な occasion に最適です。価格は $$ から $$$ の範囲で、絶妙な食事を求める人に最適な選択肢です。",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "ボンダイアイスバーグクラブ",
+          "type": "cafe",
+          "description": "ボンダイビーチのすぐそばにあるボンダイアイスバーグクラブは、その素晴らしい景色とリラックスした雰囲気で有名です。シグネチャー料理のアイスバーグベニーを楽しみながら、美味しいブランチやランチを堪能できます。価格は手頃で、$ から $$ の範囲で、地元の人や観光客に人気のスポットです。",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "シドニー夜のヌードルマーケット",
+          "type": "night_market",
+          "description": "シドニー夜のヌードルマーケットは、賑やかな屋外環境の中でアジアのストリートフードの饗宴を提供します。餃子からバオバンまで、様々な屋台が揃い、美食家の楽園です。価格は通常 $ から $$ の範囲で、多様な風味を手頃に体験できる方法です。",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "ハリーのカフェ・ド・ウィールズ",
+          "type": "street_food",
+          "description": "ハリーのカフェ・ド・ウィールズは、美味しいミートパイとホットドッグで知られるアイコニックなフードトラックです。素早く美味しい一口を求める人には必見の場所で、カジュアルで賑やかな雰囲気です。価格は非常に手頃で、通常 $ 以下で、深夜のおやつに最適な場所です。",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "ドイルズ・オン・ザ・ビーチ",
+          "type": "restaurant",
+          "description": "ドイルズ・オン・ザ・ビーチは、新鮮な海鮮と驚くべき海の景色で名高いです。家族経営の店で、クラシックなフィッシュアンドチップスや海鮮プレートを楽しむのに最適な場所です。価格は中程度で、通常 $$ から $$$ の範囲で、海鮮好きにとって理想的な選択肢です。",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "チャイナタウンナイトマーケット",
+          "type": "night_market",
+          "description": "チャイナタウンナイトマーケットは、アジア文化の活気ある風味を提供し、様々な屋台が美味しいストリートフードを提供します。餃子からバブルティーまで、五感を楽しませる饗宴です。価格は非常に手頃で、通常 $ から $$ の範囲で、美食愛好者には必見のマーケットです。",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "スパイスルーム",
+          "type": "restaurant",
+          "description": "スパイスルームは、洗練された環境の中で本物のインド料理を提供します。風味豊かなカレーや伝統的なタンドリ料理で知られ、カジュアルな食事や特別な occasion に最適な場所です。価格は $$ から $$$ の範囲で、美食愛好者に人気の選択肢です。",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "アレクサンドリアのグラウンズ",
+          "type": "cafe",
+          "description": "アレクサンドリアのグラウンズは、農場からテーブルへのコンセプトを特徴としたユニークなカフェで、庭と動物を備えた活気ある雰囲気です。アーティザンコーヒーと美味しいブランチオプションで有名で、ゆったりとした食事に最適な場所です。価格は中程度で、$ から $$ の範囲です。",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026 시드니 최고의 음식 — 최고의 레스토랑 & 스트리트 푸드 가이드",
+      "seo_description": "시드니 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 친화적인 음식부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "시드니의 음식 문화는 다양한 인구와 풍부한 요리 전통의 영향을 받은 생동감 넘치는 풍미의 태피스트리입니다. 트렌디한 카페부터 분주한 야시장까지, 이 도시는 모든 입맛을 만족시키는 다양한 다이닝 경험을 제공합니다. 고급 다이닝을 원하시든 간편한 간식을 원하시든, 시드니의 음식 장면은 여러분을 감동시킬 것입니다.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "레스토랑 위베르",
+          "type": "restaurant",
+          "description": "레스토랑 위베르는 따뜻하고 매력적인 분위기 속에서 클래식한 프렌치 트위스트를 가진 독특한 다이닝 경험을 제공합니다. 오리 파테와 타르트 타탱으로 유명한 이 레스토랑은 로맨틱한 저녁이나 특별한 날에 적합합니다. 가격대는 $$에서 $$$까지로, 정교한 식사를 원하는 분들에게 훌륭한 선택입니다.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "본다이 아이스버그 클럽",
+          "type": "cafe",
+          "description": "본다이 비치 바로 옆에 위치한 본다이 아이스버그 클럽은 멋진 전망과 편안한 분위기로 유명합니다. 시그니처 아이스버그 베니와 같은 요리와 함께 맛있는 브런치 또는 점심을 즐겨보세요. 가격은 합리적이며 $에서 $$까지 다양하여 현지인과 관광객 모두에게 인기가 많은 장소입니다.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "시드니 야시장 누들 마켓",
+          "type": "night_market",
+          "description": "시드니 야시장 누들 마켓은 생동감 넘치는 야외 환경에서 아시아 스트리트 푸드의 향연을 제공합니다. 만두에서 바오 번까지 다양한 노점이 있어 미식가들의 천국입니다. 가격은 보통 $에서 $$까지로 다양한 풍미를 저렴하게 경험할 수 있는 방법입니다.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "해리의 카페 드 휠즈",
+          "type": "street_food",
+          "description": "해리의 카페 드 휠즈는 맛있는 미트 파이와 핫도그로 유명한 상징적인 푸드 트럭입니다. 빠르고 맛있는 한 입을 원하시는 분들에게 필수 방문 장소이며, 분위기는 캐주얼하고 활기차습니다. 가격은 매우 저렴하며 보통 $ 이하로, 늦은 밤 간식에 완벽한 장소입니다.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "해변의 도일스",
+          "type": "restaurant",
+          "description": "해변의 도일스는 신선한 해산물과 멋진 바다 전망으로 유명합니다. 가족이 운영하는 이곳은 클래식한 피시 앤 칩스나 해산물 플래터를 즐기기에 적합한 장소입니다. 가격은 중간 정도로 보통 $$에서 $$$까지 다양하여 해산물 애호가들에게 이상적인 선택입니다.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "차이나타운 야시장",
+          "type": "night_market",
+          "description": "차이나타운 야시장은 다양한 노점이 제공하는 맛있는 스트리트 푸드와 함께 아시아 문화를 생생하게 경험할 수 있는 곳입니다. 만두에서 버블 티까지, 감각을 만족시키는 향연입니다. 가격은 매우 저렴하며 일반적으로 $에서 $$까지로, 미식가들에게 필수 방문 장소입니다.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "스파이스 룸",
+          "type": "restaurant",
+          "description": "스파이스 룸은 세련된 환경에서 진정한 인도 요리를 제공합니다. 풍미 가득한 카레와 전통 타ンド리 요리로 유명하며, 캐주얼한 다이닝과 특별한 날 모두에 적합한 장소입니다. 가격은 $$에서 $$$까지 다양하여 미식가들에게 인기 있는 선택입니다.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "알렉산드리아의 그라운드",
+          "type": "cafe",
+          "description": "알렉산드리아의 그라운드는 농장에서 테이블까지의 개념을 특징으로 하는 독특한 카페로, 정원과 동물들이 있는 활기찬 분위기를 자랑합니다. 수제 커피와 맛있는 브런치 옵션으로 유명하며, 여유로운 식사를 즐기기에 완벽한 장소입니다. 가격은 중간 정도이며 $에서 $$까지 다양합니다.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Sydney 2026 — Meilleurs restaurants & guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Sydney. Des repas à petit budget à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "La culture alimentaire de Sydney est une tapisserie vibrante de saveurs influencées par sa population diversifiée et ses riches traditions culinaires. Des cafés tendance aux marchés nocturnes animés, cette ville offre une gamme d'expériences culinaires qui répondent à tous les palais. Que vous recherchiez un repas raffiné ou une bouchée rapide, la scène gastronomique de Sydney ne manquera pas de vous impressionner.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "Restaurant Hubert",
+          "type": "restaurant",
+          "description": "Le Restaurant Hubert offre une expérience culinaire unique avec une touche française classique dans une atmosphère chaleureuse et accueillante. Connu pour son pâté de canard et sa tarte Tatin, ce restaurant est parfait pour une soirée romantique ou une occasion spéciale. Les prix varient de $$ à $$$, ce qui en fait un excellent choix pour ceux qui recherchent un repas exquis.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "Bondi Icebergs Club",
+          "type": "cafe",
+          "description": "Situé juste à côté de Bondi Beach, le Bondi Icebergs Club est célèbre pour sa vue imprenable et son ambiance détendue. Profitez d'un délicieux brunch ou déjeuner avec des plats comme leur célèbre Icebergs Benny. Les prix sont raisonnables, allant de $ à $$, ce qui en fait un endroit populaire pour les habitants et les touristes.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "Sydney Night Noodle Markets",
+          "type": "night_market",
+          "description": "Les Sydney Night Noodle Markets rassemblent un festin de street food asiatique dans un cadre extérieur vibrant. Avec une variété de stands proposant tout, des dumplings aux bao buns, c'est un paradis pour les amateurs de nourriture. Les prix varient généralement de $ à $$, ce qui en fait un moyen abordable de découvrir des saveurs diversifiées.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "Harry's Café de Wheels",
+          "type": "street_food",
+          "description": "Harry's Café de Wheels est un food truck emblématique connu pour ses délicieuses tourtes à la viande et ses hot-dogs. Un incontournable pour quiconque désire une bouchée rapide et savoureuse, l'atmosphère est décontractée et animée. Les prix sont très abordables, généralement inférieurs à $, ce qui en fait un arrêt parfait pour un en-cas tardif.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "Doyles on the Beach",
+          "type": "restaurant",
+          "description": "Doyles on the Beach est renommé pour ses fruits de mer frais et sa vue imprenable sur l'océan. Établissement familial, c'est un endroit idéal pour déguster des fish and chips classiques ou un plateau de fruits de mer. Les prix sont modérés, généralement compris entre $$ et $$$, ce qui en fait un choix idéal pour les amateurs de fruits de mer.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "Chinatown Night Market",
+          "type": "night_market",
+          "description": "Le Chinatown Night Market offre un goût vibrant de la culture asiatique avec une variété de stands servant de délicieuses street foods. Des dumplings au bubble tea, c'est une fête pour les sens. Les prix sont très abordables, généralement compris entre $ et $$, ce qui fait de ce marché un incontournable pour les passionnés de gastronomie.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "The Spice Room",
+          "type": "restaurant",
+          "description": "The Spice Room propose un goût authentique de la cuisine indienne dans un cadre sophistiqué. Connu pour ses currys savoureux et ses plats traditionnels tandoori, c'est un excellent endroit pour un repas décontracté ou une occasion spéciale. Les prix varient de $$ à $$$, ce qui en fait un choix populaire pour les amateurs de gastronomie.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "The Grounds of Alexandria",
+          "type": "cafe",
+          "description": "The Grounds of Alexandria est un café unique avec un concept de la ferme à la table dans une ambiance vibrante, avec des jardins et des animaux. Célèbre pour son café artisanal et ses délicieuses options de brunch, cet endroit est parfait pour un repas tranquille. Les prix sont modérés, allant de $ à $$.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Sídney 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Sídney. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "La cultura gastronómica de Sídney es un vibrante tapiz de sabores influenciados por su diversa población y ricas tradiciones culinarias. Desde cafeterías de moda hasta bulliciosos mercados nocturnos, esta ciudad ofrece una variedad de experiencias culinarias que satisfacen todos los paladares. Ya sea que busques una cena elegante o un bocado rápido, la escena gastronómica de Sídney seguramente te impresionará.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "Restaurante Hubert",
+          "type": "restaurant",
+          "description": "El Restaurante Hubert ofrece una experiencia gastronómica única con un toque francés clásico en una atmósfera cálida y acogedora. Conocido por su pâté de pato y tarta Tatin, este restaurante es perfecto para una velada romántica o una ocasión especial. Los precios oscilan entre $$ y $$$, lo que lo convierte en una excelente opción para quienes buscan una comida exquisita.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "Club Icebergs de Bondi",
+          "type": "cafe",
+          "description": "Ubicado justo al lado de Bondi Beach, el Club Icebergs de Bondi es famoso por sus impresionantes vistas y su ambiente relajado. Disfruta de un delicioso brunch o almuerzo con platos como su famoso Icebergs Benny. Los precios son razonables, oscilando entre $ y $$, lo que lo convierte en un lugar popular tanto para locales como para turistas.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "Mercados Nocturnos de Fideos de Sídney",
+          "type": "night_market",
+          "description": "Los Mercados Nocturnos de Fideos de Sídney reúnen un festín de comida callejera asiática en un vibrante entorno al aire libre. Con una variedad de puestos que ofrecen de todo, desde dumplings hasta bao buns, es un paraíso para los amantes de la comida. Los precios generalmente oscilan entre $ y $$, lo que lo convierte en una manera asequible de experimentar sabores diversos.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "Café de Ruedas de Harry",
+          "type": "street_food",
+          "description": "El Café de Ruedas de Harry es un icónico camión de comida conocido por sus deliciosos pasteles de carne y perritos calientes. Un lugar imprescindible para cualquier persona que busque un bocado rápido y sabroso, la atmósfera es informal y animada. Los precios son muy asequibles, generalmente por debajo de $, lo que lo convierte en una parada perfecta para un refrigerio nocturno.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "Doyles en la Playa",
+          "type": "restaurant",
+          "description": "Doyles en la Playa es conocido por sus mariscos frescos y sus impresionantes vistas al océano. Un establecimiento familiar, es un lugar ideal para disfrutar de pescado y papas fritas clásicas o un plato de mariscos. Los precios son moderados, generalmente oscilando entre $$ y $$$, lo que lo convierte en una opción ideal para los amantes de los mariscos.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "Mercado Nocturno de Chinatown",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Chinatown ofrece un vibrante sabor de la cultura asiática con una variedad de puestos que sirven deliciosa comida callejera. Desde dumplings hasta té de burbujas, es una fiesta para los sentidos. Los precios son muy asequibles, generalmente oscilando entre $ y $$, lo que convierte a este mercado en un lugar imprescindible para los entusiastas de la gastronomía.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "La Sala de Especias",
+          "type": "restaurant",
+          "description": "La Sala de Especias ofrece un sabor auténtico de la cocina india en un entorno sofisticado. Conocido por sus sabrosos curries y platos tradicionales de tandoori, es un gran lugar tanto para comidas informales como para ocasiones especiales. Los precios oscilan entre $$ y $$$, lo que lo convierte en una opción popular para los amantes de la gastronomía.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "The Grounds of Alexandria",
+          "type": "cafe",
+          "description": "The Grounds of Alexandria es un café único que presenta un concepto de la granja a la mesa en un ambiente vibrante, completo con jardines y animales. Famoso por su café artesanal y deliciosas opciones de brunch, este lugar es perfecto para una comida tranquila. Los precios son moderados, oscilando entre $ y $$.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Sydney 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Sydney. From budget eats to fine dining — with booking links.",
+      "page_intro": "Sydney's food culture is a vibrant tapestry of flavors influenced by its diverse population and rich culinary traditions. From trendy cafes to bustling night markets, this city offers an array of dining experiences that cater to every palate. Whether you're looking for fine dining or a quick bite, Sydney's food scene is sure to impress.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "Restaurant Hubert",
+          "type": "restaurant",
+          "description": "Restaurant Hubert offers a unique dining experience with a classic French twist in a warm, inviting atmosphere. Known for its duck parfait and tart tatin, this restaurant is perfect for a romantic evening or special occasion. Prices range from $$ to $$$, making it a great choice for those seeking an exquisite meal.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "Bondi Icebergs Club",
+          "type": "cafe",
+          "description": "Located right by Bondi Beach, the Bondi Icebergs Club is famous for its stunning views and relaxed vibe. Enjoy a delicious brunch or lunch with dishes like their signature Icebergs Benny. Prices are reasonable, ranging from $ to $$, making it a popular spot for locals and tourists alike.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "Sydney Night Noodle Markets",
+          "type": "night_market",
+          "description": "The Sydney Night Noodle Markets bring together a feast of Asian street food in a vibrant outdoor setting. With a variety of stalls offering everything from dumplings to bao buns, it's a food lover's paradise. Prices typically range from $ to $$, making it an affordable way to experience diverse flavors.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "Harry's Café de Wheels",
+          "type": "street_food",
+          "description": "Harry's Café de Wheels is an iconic food truck known for its delicious meat pies and hot dogs. A must-visit for anyone craving a quick, tasty bite, the atmosphere is casual and lively. Prices are very affordable, usually under $, making it a perfect stop for a late-night snack.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "Doyles on the Beach",
+          "type": "restaurant",
+          "description": "Doyles on the Beach is renowned for its fresh seafood and stunning ocean views. A family-run establishment, it’s a perfect spot for enjoying classic fish and chips or a seafood platter. Prices are moderate, typically ranging from $$ to $$$, making it an ideal choice for seafood lovers.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "Chinatown Night Market",
+          "type": "night_market",
+          "description": "The Chinatown Night Market offers a vibrant taste of Asian culture with a variety of stalls serving delightful street food. From dumplings to bubble tea, it’s a feast for the senses. Prices are very affordable, generally ranging from $ to $$, making this market a must-visit for food enthusiasts.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "The Spice Room",
+          "type": "restaurant",
+          "description": "The Spice Room offers an authentic taste of Indian cuisine in a sophisticated setting. Known for its flavorful curries and traditional tandoori dishes, it’s a great spot for both casual dining and special occasions. Prices range from $$ to $$$, making it a popular choice for food lovers.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "The Grounds of Alexandria",
+          "type": "cafe",
+          "description": "The Grounds of Alexandria is a unique café featuring a farm-to-table concept with a vibrant atmosphere, complete with gardens and animals. Famous for its artisanal coffee and delicious brunch options, this spot is perfect for a leisurely meal. Prices are moderate, ranging from $ to $$.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "सिडनी में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "सिडनी के सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "सिडनी की खाद्य संस्कृति एक जीवंत ताने-बाने की तरह है जो इसके विविध जनसंख्या और समृद्ध पाक परंपराओं से प्रभावित है। ट्रेंडी कैफे से लेकर हलचल भरे रात के बाजारों तक, यह शहर हर स्वाद के लिए भोजन के अनुभवों की एक श्रृंखला प्रदान करता है। चाहे आप फाइन डाइनिंग की तलाश में हों या जल्दी खाने के लिए, सिडनी का खाद्य दृश्य निश्चित रूप से आपको प्रभावित करेगा।",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "रेस्तरां ह्यूबर्ट",
+          "type": "restaurant",
+          "description": "रेस्तरां ह्यूबर्ट एक अद्वितीय भोजन अनुभव प्रदान करता है जिसमें एक क्लासिक फ्रेंच ट्विस्ट होता है। इसकी गर्म, आमंत्रित वातावरण में, यह अपने डक पारफैट और टार्ट टैटिन के लिए जाना जाता है। यह रेस्तरां रोमांटिक शाम या विशेष अवसर के लिए आदर्श है। कीमतें $$ से $$$ तक हैं, जो इसे एक शानदार भोजन की तलाश करने वालों के लिए बेहतरीन विकल्प बनाता है।",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "बोंडी आइसबर्ग्स क्लब",
+          "type": "cafe",
+          "description": "बोंडी बीच के ठीक बगल में स्थित, बोंडी आइसबर्ग्स क्लब अपने शानदार दृश्यों और आरामदायक माहौल के लिए प्रसिद्ध है। यहां अपने सिग्नेचर आइसबर्ग्स बेनी जैसे व्यंजनों के साथ स्वादिष्ट ब्रंच या लंच का आनंद लें। कीमतें उचित हैं, जो $ से $$ तक होती हैं, जिससे यह स्थानीय लोगों और पर्यटकों के लिए एक लोकप्रिय स्थान बनता है।",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "सिडनी नाइट नूडल मार्केट",
+          "type": "night_market",
+          "description": "सिडनी नाइट नूडल मार्केट एशियाई स्ट्रीट फूड का एक शानदार अनुभव प्रदान करता है। विभिन्न स्टालों पर डंपलिंग से लेकर बाओ बन्स तक, यह खाने के शौकीनों के लिए जन्नत है। कीमतें आमतौर पर $ से $$ तक होती हैं, जो विविध स्वादों का अनुभव करने का एक सस्ता तरीका है।",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "हैरी का कैफे डी व्हील्स",
+          "type": "street_food",
+          "description": "हैरी का कैफे डी व्हील्स एक आइकोनिक फूड ट्रक है जो अपने स्वादिष्ट मीट पाई और हॉट डॉग के लिए जाना जाता है। किसी भी व्यक्ति के लिए जो त्वरित और स्वादिष्ट नाश्ता चाहता है, यह एक अनिवार्य स्थान है। वातावरण आकस्मिक और जीवंत है। कीमतें बहुत ही सस्ती हैं, आमतौर पर $, जो इसे देर रात के नाश्ते के लिए एक आदर्श स्थान बनाता है।",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "डॉयल्स ऑन द बीच",
+          "type": "restaurant",
+          "description": "डॉयल्स ऑन द बीच अपने ताजे समुद्री भोजन और शानदार समुद्री दृश्यों के लिए प्रसिद्ध है। एक पारिवारिक व्यवसाय, यह क्लासिक फिश एंड चिप्स या समुद्री भोजन प्लेटर का आनंद लेने के लिए एक आदर्श स्थान है। कीमतें मध्यम हैं, आमतौर पर $$ से $$$ तक, जो इसे समुद्री भोजन प्रेमियों के लिए एक आदर्श विकल्प बनाता है।",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "चाइना टाउन नाइट मार्केट",
+          "type": "night_market",
+          "description": "चाइना टाउन नाइट मार्केट एशियाई संस्कृति का एक जीवंत अनुभव प्रदान करता है जिसमें विभिन्न स्टालों पर स्वादिष्ट स्ट्रीट फूड मिलता है। डंपलिंग से लेकर बबल टी तक, यह इंद्रियों के लिए एक दावत है। कीमतें बहुत ही सस्ती हैं, आमतौर पर $ से $$ तक, जो इसे खाद्य उत्साही लोगों के लिए एक अनिवार्य स्थान बनाता है।",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "द स्पाइस रूम",
+          "type": "restaurant",
+          "description": "द स्पाइस रूम एक परिष्कृत सेटिंग में भारतीय व्यंजनों का असली स्वाद प्रदान करता है। इसके स्वादिष्ट करी और पारंपरिक तंदूरी व्यंजनों के लिए जाना जाता है, यह आकस्मिक भोजन और विशेष अवसरों के लिए एक बेहतरीन स्थान है। कीमतें $$ से $$$ तक होती हैं, जो इसे खाद्य प्रेमियों के लिए एक लोकप्रिय विकल्प बनाती है।",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "द ग्राउंड्स ऑफ अलेक्जेंड्रिया",
+          "type": "cafe",
+          "description": "द ग्राउंड्स ऑफ अलेक्जेंड्रिया एक अनोखा कैफे है जो फार्म-टू-टेबल कॉन्सेप्ट के साथ एक जीवंत वातावरण में है, जिसमें बाग और जानवर शामिल हैं। इसके आर्टिज़नल कॉफी और स्वादिष्ट ब्रंच विकल्पों के लिए प्रसिद्ध, यह स्थान आराम से भोजन के लिए आदर्श है। कीमतें मध्यम हैं, जो $ से $$ तक हैं।",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas em Sydney 2026 - Guias de Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais em Sydney. Desde refeições econômicas até jantares requintados - com links de reserva.",
+      "page_intro": "A cultura alimentar de Sydney é uma tapeçaria vibrante de sabores influenciada por sua população diversificada e ricas tradições culinárias. Desde cafés modernos até mercados noturnos movimentados, esta cidade oferece uma variedade de experiências gastronômicas que atendem a todos os paladares. Se você está procurando um jantar requintado ou uma refeição rápida, a cena alimentar de Sydney certamente impressionará.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "Restaurante Hubert",
+          "type": "restaurant",
+          "description": "O Restaurante Hubert oferece uma experiência gastronômica única com um toque clássico francês em um ambiente acolhedor e convidativo. Conhecido por seu parfait de pato e tarte tatin, este restaurante é perfeito para uma noite romântica ou uma ocasião especial. Os preços variam de $$ a $$$, tornando-se uma excelente escolha para quem busca uma refeição requintada.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "Bondi Icebergs Club",
+          "type": "cafe",
+          "description": "Localizado bem ao lado da Bondi Beach, o Bondi Icebergs Club é famoso por suas vistas deslumbrantes e ambiente descontraído. Desfrute de um delicioso brunch ou almoço com pratos como seu famoso Icebergs Benny. Os preços são razoáveis, variando de $ a $$, tornando-se um local popular tanto para os habitantes locais quanto para os turistas.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "Mercados Noturnos de Noodles de Sydney",
+          "type": "night_market",
+          "description": "Os Mercados Noturnos de Noodles de Sydney oferecem uma festa de comida de rua asiática em um ambiente ao ar livre vibrante. Com uma variedade de barracas oferecendo de tudo, desde bolinhos a pães bao, é um paraíso para os amantes da comida. Os preços geralmente variam de $ a $$, tornando-se uma maneira acessível de experimentar sabores diversos.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "Harry's Café de Wheels",
+          "type": "street_food",
+          "description": "O Harry's Café de Wheels é um caminhão de comida icônico conhecido por suas deliciosas tortas de carne e cachorros-quentes. Uma visita obrigatória para quem deseja um lanche rápido e saboroso, a atmosfera é casual e animada. Os preços são muito acessíveis, geralmente abaixo de $, tornando-se uma parada perfeita para um lanche noturno.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "Doyles na Praia",
+          "type": "restaurant",
+          "description": "Doyles na Praia é renomado por seus frutos do mar frescos e vistas deslumbrantes do oceano. Um estabelecimento familiar, é um local perfeito para desfrutar de clássicos fish and chips ou um prato de frutos do mar. Os preços são moderados, geralmente variando de $$ a $$$, tornando-se uma escolha ideal para amantes de frutos do mar.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "Mercado Noturno de Chinatown",
+          "type": "night_market",
+          "description": "O Mercado Noturno de Chinatown oferece um vibrante gosto da cultura asiática com uma variedade de barracas servindo deliciosas comidas de rua. De bolinhos a bubble tea, é uma festa para os sentidos. Os preços são muito acessíveis, geralmente variando de $ a $$, tornando este mercado uma visita obrigatória para os entusiastas da comida.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "The Spice Room",
+          "type": "restaurant",
+          "description": "The Spice Room oferece um sabor autêntico da culinária indiana em um ambiente sofisticado. Conhecido por seus curries saborosos e pratos tradicionais de tandoori, é um ótimo local tanto para refeições casuais quanto para ocasiões especiais. Os preços variam de $$ a $$$, tornando-se uma escolha popular para os amantes da comida.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "The Grounds of Alexandria",
+          "type": "cafe",
+          "description": "The Grounds of Alexandria é um café único que apresenta um conceito de farm-to-table em um ambiente vibrante, completo com jardins e animais. Famoso por seu café artesanal e deliciosas opções de brunch, este local é perfeito para uma refeição descontraída. Os preços são moderados, variando de $ a $$.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الأطعمة في سيدني 2026 - دليل أفضل المطاعم وطعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في سيدني. من الوجبات ذات الميزانية المحدودة إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "ثقافة الطعام في سيدني هي نسيج نابض بالحياة من النكهات المتأثرة بسكانها المتنوعين والتقاليد الطهي الغنية. من المقاهي العصرية إلى الأسواق الليلية المزدحمة، تقدم هذه المدينة مجموعة من تجارب تناول الطعام التي تلبي جميع الأذواق. سواء كنت تبحث عن تناول طعام فاخر أو وجبة سريعة، من المؤكد أن مشهد الطعام في سيدني سيبهر الجميع.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "مطعم هيوبرت",
+          "type": "restaurant",
+          "description": "يقدم مطعم هيوبرت تجربة تناول طعام فريدة مع لمسة فرنسية كلاسيكية في جو دافئ ومرحب. معروف ببافيه البط والتارت تاتين، يعد هذا المطعم مثالياً لقضاء أمسية رومانسية أو مناسبة خاصة. تتراوح الأسعار من $$ إلى $$$، مما يجعله خيارًا رائعًا لأولئك الذين يبحثون عن وجبة فاخرة.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "نادي بوندي آيسبرغز",
+          "type": "cafe",
+          "description": "يقع نادي بوندي آيسبرغز بجوار شاطئ بوندي، وهو مشهور بإطلالاته الرائعة وأجوائه المريحة. استمتع بفطور أو غداء لذيذ مع أطباق مثل آيسبرغز بيني الشهيرة. الأسعار معقولة، وتتراوح من $ إلى $$، مما يجعله مكانًا شائعًا للسكان المحليين والسياح على حد سواء.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "أسواق نودلز سيدني الليلية",
+          "type": "night_market",
+          "description": "تجمع أسواق نودلز سيدني الليلية بين عشاء من طعام الشارع الآسيوي في بيئة خارجية نابضة بالحياة. مع مجموعة متنوعة من الأكشاك التي تقدم كل شيء من الزلابية إلى الخبز الباوان، إنها جنة لعشاق الطعام. تتراوح الأسعار عادة من $ إلى $$، مما يجعلها وسيلة ميسورة التكلفة لتجربة نكهات متنوعة.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "مقهى هاري دي ويلز",
+          "type": "street_food",
+          "description": "مقهى هاري دي ويلز هو شاحنة طعام أيقونية معروفة بفطائر اللحم اللذيذة والهوت دوج. زيارة لا بد منها لأي شخص يتوق إلى وجبة سريعة ولذيذة، الأجواء غير رسمية وحيوية. الأسعار معقولة جدًا، وعادة ما تكون أقل من $، مما يجعلها محطة مثالية لوجبة خفيفة في وقت متأخر من الليل.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "دويلز على الشاطئ",
+          "type": "restaurant",
+          "description": "يُعرف دويلز على الشاطئ بمأكولاته البحرية الطازجة وإطلالاته الرائعة على المحيط. يعد مكانًا مناسبًا للعائلات، وهو مكان مثالي للاستمتاع بأسماك فيش آند شيبس الكلاسيكية أو طبق مأكولات بحرية. الأسعار معتدلة، حيث تتراوح عادة من $$ إلى $$$، مما يجعله خيارًا مثاليًا لعشاق المأكولات البحرية.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "سوق الليل في الحي الصيني",
+          "type": "night_market",
+          "description": "يقدم سوق الليل في الحي الصيني طعمًا نابضًا بالحياة من الثقافة الآسيوية مع مجموعة متنوعة من الأكشاك التي تقدم طعام الشارع اللذيذ. من الزلابية إلى شاي الفقاعات، إنها وليمة للحواس. الأسعار معقولة جدًا، وعادة ما تتراوح من $ إلى $$، مما يجعل هذا السوق زيارة لا بد منها لعشاق الطعام.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "غرفة التوابل",
+          "type": "restaurant",
+          "description": "تقدم غرفة التوابل طعمًا أصيلًا للمأكولات الهندية في بيئة أنيقة. معروفة بكاريها اللذيذة وأطباق التندوري التقليدية، إنها مكان رائع لتناول الطعام غير الرسمي والمناسبات الخاصة. تتراوح الأسعار من $$ إلى $$$، مما يجعلها خيارًا شائعًا بين عشاق الطعام.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "أراضي ألكسندريا",
+          "type": "cafe",
+          "description": "أراضي ألكسندريا هو مقهى فريد يجسد مفهوم من المزرعة إلى المائدة في أجواء نابضة بالحياة، كاملة بالحدائق والحيوانات. مشهورة بقهوته الحرفية وخيارات الفطور اللذيذة، هذا المكان مثالي لتناول وجبة مريحة. الأسعار معتدلة، تتراوح من $ إلى $$.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "সিডনির সেরা খাবার ২০২৬ - শীর্ষ রেস্টুরেন্ট ও স্ট্রিট ফুড গাইড",
+      "seo_description": "সিডনির সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিংকসহ।",
+      "page_intro": "সিডনির খাবারের সংস্কৃতি একটি জীবন্ত টেপেস্ট্রি যা এর বৈচিত্র্যময় জনসংখ্যা এবং সমৃদ্ধ খাদ্য ঐতিহ্য দ্বারা প্রভাবিত। ট্রেন্ডি ক্যাফে থেকে শুরু করে ব্যস্ত রাতের বাজার পর্যন্ত, এই শহরটি প্রতিটি স্বাদের জন্য খাদ্য অভিজ্ঞতার একটি পরিসর প্রদান করে। আপনি যদি ফাইন ডাইনিং খুঁজছেন বা দ্রুত কিছু খেতে চান, সিডনির খাবারের দৃশ্য আপনাকে অবাক করবে।",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "রেস্টুরেন্ট হিউবার্ট",
+          "type": "restaurant",
+          "description": "রেস্টুরেন্ট হিউবার্ট একটি ক্লাসিক ফরাসি টুইস্ট সহ একটি অনন্য খাবারের অভিজ্ঞতা প্রদান করে উষ্ণ, আমন্ত্রণমূলক পরিবেশে। এর হাঁসের পারফেট এবং টার্ট তাতিনের জন্য পরিচিত, এই রেস্টুরেন্টটি একটি রোমান্টিক সন্ধ্যা বা বিশেষ উপলক্ষের জন্য উপযুক্ত। দাম $$ থেকে $$$ এর মধ্যে, এটি একটি অসাধারণ খাবারের সন্ধানকারীদের জন্য একটি দুর্দান্ত পছন্দ।",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "বন্ডি আইসব্র্গস ক্লাব",
+          "type": "cafe",
+          "description": "বন্ডি বিচের ঠিক পাশে অবস্থিত, বন্ডি আইসব্র্গস ক্লাব এর চমৎকার দৃশ্য এবং আরামদায়ক পরিবেশের জন্য পরিচিত। তাদের সিগনেচার আইসব্র্গস বেনির মতো খাবারের সাথে একটি সুস্বাদু ব্রাঞ্চ বা লাঞ্চ উপভোগ করুন। দাম সাশ্রয়ী, $ থেকে $$ এর মধ্যে, যা স্থানীয় এবং পর্যটকদের জন্য একটি জনপ্রিয় জায়গা।",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "সিডনি নাইট নুডল মার্কেট",
+          "type": "night_market",
+          "description": "সিডনি নাইট নুডল মার্কেট একটি জীবন্ত বাইরের পরিবেশে এশীয় স্ট্রিট ফুডের এক সমাবেশ নিয়ে আসে। ডাম্পলিং থেকে বাও বানের মতো বিভিন্ন স্টলের সাথে এটি খাদ্যপ্রেমীদের জন্য একটি স্বর্গ। দাম সাধারণত $ থেকে $$ এর মধ্যে, যা বিভিন্ন স্বাদ অনুভব করার জন্য একটি সাশ্রয়ী উপায়।",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "হ্যারি'স ক্যাফে ডি হুইলস",
+          "type": "street_food",
+          "description": "হ্যারি'স ক্যাফে ডি হুইলস একটি আইকনিক ফুড ট্রাক যা তার সুস্বাদু মাংসের পাই এবং হট ডগের জন্য পরিচিত। দ্রুত এবং সুস্বাদু কিছু খেতে ইচ্ছুক সকলের জন্য এটি একটি অবশ্যই দর্শনীয় স্থান, পরিবেশটি স্বাচ্ছন্দ্যদায়ক এবং প্রাণবন্ত। দাম খুব সাশ্রয়ী, সাধারণত $ এর নিচে, যা এটিকে রাতে নাশতার জন্য একটি আদর্শ স্টপ করে তোলে।",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "ডয়লস অন দ্য বিচ",
+          "type": "restaurant",
+          "description": "ডয়লস অন দ্য বিচ তার তাজা সামুদ্রিক খাবার এবং চমৎকার সমুদ্রের দৃশ্যের জন্য পরিচিত। একটি পারিবারিক ব্যবসা, এটি ক্লাসিক মাছ এবং চিপস বা একটি সামুদ্রিক প্ল্যাটারের স্বাদ গ্রহণের জন্য একটি আদর্শ স্থান। দাম মাঝারি, সাধারণত $$ থেকে $$$ এর মধ্যে, যা এটি সামুদ্রিক খাবারের প্রেমীদের জন্য একটি আদর্শ পছন্দ করে তোলে।",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "চায়না টাউন নাইট মার্কেট",
+          "type": "night_market",
+          "description": "চায়না টাউন নাইট মার্কেট এশীয় সংস্কৃতির একটি প্রাণবন্ত স্বাদ প্রদান করে বিভিন্ন স্টলের সাথে যা সুস্বাদু স্ট্রিট ফুড সরবরাহ করে। ডাম্পলিং থেকে শুরু করে বাবল টি পর্যন্ত, এটি ইন্দ্রিয়ের জন্য একটি উৎসব। দাম খুব সাশ্রয়ী, সাধারণত $ থেকে $$ এর মধ্যে, যা খাদ্যপ্রেমীদের জন্য এটি একটি অবশ্যই দর্শনীয় স্থান করে তোলে।",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "দ্য স্পাইস রুম",
+          "type": "restaurant",
+          "description": "দ্য স্পাইস রুম একটি পরিশীলিত পরিবেশে ভারতীয় খাবারের একটি অরিজিনাল স্বাদ প্রদান করে। এর স্বাদযুক্ত কারি এবং ঐতিহ্যবাহী তন্দুরি খাবারের জন্য পরিচিত, এটি আকস্মিক খাবার এবং বিশেষ অনুষ্ঠানের জন্য একটি দুর্দান্ত স্থান। দাম $$ থেকে $$$ এর মধ্যে, যা এটি খাদ্যপ্রেমীদের জন্য একটি জনপ্রিয় পছন্দ করে তোলে।",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "দ্য গ্রাউন্ডস অফ আলেকজান্দ্রিয়া",
+          "type": "cafe",
+          "description": "দ্য গ্রাউন্ডস অফ আলেকজান্দ্রিয়া একটি অনন্য ক্যাফে যা একটি প্রাণবন্ত পরিবেশে ফার্ম-টু-টেবিল ধারণা উপস্থাপন করে, যেখানে বাগান এবং প্রাণী রয়েছে। এর আর্টিজিনাল কফি এবং সুস্বাদু ব্রাঞ্চ বিকল্পের জন্য বিখ্যাত, এটি একটি আরামদায়ক খাবারের জন্য আদর্শ স্থান। দাম মাঝারি, $ থেকে $$ এর মধ্যে।",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Сиднее 2026 — Топ рестораны и уличная еда",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты Сиднея. От бюджетных блюд до изысканной кухни — со ссылками на бронирование.",
+      "page_intro": "Кулинарная культура Сиднея — это яркая мозаика вкусов, вдохновленная его разнообразным населением и богатыми кулинарными традициями. От модных кафе до шумных ночных рынков, этот город предлагает множество гастрономических впечатлений, удовлетворяющих любые предпочтения. Если вы ищете изысканный ужин или быстрый перекус, гастрономическая сцена Сиднея вас точно впечатлит.",
+      "items": [
+        {
+          "id": "sydney-opera-house-restaurant",
+          "name": "Ресторан Хьюберт",
+          "type": "restaurant",
+          "description": "Ресторан Хьюберт предлагает уникальный гастрономический опыт с классическим французским акцентом в теплой и уютной обстановке. Известный своим утинным парфе и тартом татен, этот ресторан идеально подходит для романтического вечера или особого случая. Цены варьируются от $$ до $$$, что делает его отличным выбором для тех, кто ищет изысканное блюдо.",
+          "image_keyword": "Restaurant Hubert Sydney",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Duck Parfait",
+          "klook_query": "Restaurant Hubert booking"
+        },
+        {
+          "id": "sydney-bondi-beach-cafe",
+          "name": "Клуб Бонди Айсбергс",
+          "type": "cafe",
+          "description": "Расположенный прямо у пляжа Бонди, клуб Бонди Айсбергс знаменит своими потрясающими видами и расслабляющей атмосферой. Наслаждайтесь вкусным бранчем или обедом с такими блюдами, как их фирменный Icebergs Benny. Цены разумные, варьируются от $ до $$, что делает его популярным местом как для местных жителей, так и для туристов.",
+          "image_keyword": "Bondi Icebergs Club Sydney",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Icebergs Benny",
+          "klook_query": "Bondi Icebergs Club booking"
+        },
+        {
+          "id": "sydney-street-food-market",
+          "name": "Ночные рынки лапши Сиднея",
+          "type": "night_market",
+          "description": "Ночные рынки лапши Сиднея собирают множество азиатской уличной еды в яркой открытой обстановке. С разнообразием киосков, предлагающих все от пельменей до бунов, это рай для любителей еды. Цены обычно варьируются от $ до $$, что делает это доступным способом попробовать разнообразные вкусы.",
+          "image_keyword": "Sydney Night Noodle Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Pork Bao",
+          "klook_query": "Sydney Night Noodle Markets booking"
+        },
+        {
+          "id": "sydney-local-specialty",
+          "name": "Кафе Гарри Де Уилс",
+          "type": "street_food",
+          "description": "Кафе Гарри Де Уилс — это знаковый фуд-трак, известный своими вкусными мясными пирогами и хот-догами. Обязательное место для всех, кто хочет быстро перекусить, атмосфера непринужденная и оживленная. Цены очень доступные, обычно ниже $, что делает это идеальной остановкой для позднего перекуса.",
+          "image_keyword": "Harry's Cafe de Wheels Sydney",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Tiger Pie",
+          "klook_query": "Harry's Cafe de Wheels booking"
+        },
+        {
+          "id": "sydney-seafood-restaurant",
+          "name": "Дойлс на пляже",
+          "type": "restaurant",
+          "description": "Дойлс на пляже известен своими свежими морепродуктами и потрясающими видами на океан. Семейный бизнес, это идеальное место для наслаждения классической рыбой с чипсами или морепродуктами. Цены умеренные, обычно варьируются от $$ до $$$, что делает его идеальным выбором для любителей морепродуктов.",
+          "image_keyword": "Doyles on the Beach Sydney",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Platter",
+          "klook_query": "Doyles on the Beach booking"
+        },
+        {
+          "id": "sydney-street-food-venue",
+          "name": "Ночной рынок Чайна-таун",
+          "type": "night_market",
+          "description": "Ночной рынок Чайна-таун предлагает яркий вкус азиатской культуры с разнообразием киосков, предлагающих вкусную уличную еду. От пельменей до пузырькового чая, это праздник для чувств. Цены очень доступные, обычно варьируются от $ до $$, что делает этот рынок обязательным для любителей еды.",
+          "image_keyword": "Chinatown Night Market Sydney",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pork Dumplings",
+          "klook_query": "Chinatown Night Market booking"
+        },
+        {
+          "id": "sydney-local-specialty-restaurant",
+          "name": "Спайс Рум",
+          "type": "restaurant",
+          "description": "Спайс Рум предлагает аутентичный вкус индийской кухни в изысканной обстановке. Известное своими ароматными карри и традиционными блюдами тандури, это отличное место как для повседневного ужина, так и для особых случаев. Цены варьируются от $$ до $$$, что делает его популярным выбором для любителей еды.",
+          "image_keyword": "The Spice Room Sydney",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Butter Chicken",
+          "klook_query": "The Spice Room booking"
+        },
+        {
+          "id": "sydney-famous-cafe",
+          "name": "Граундс оф Александриа",
+          "type": "cafe",
+          "description": "Граундс оф Александриа — это уникальное кафе, предлагающее концепцию от фермы до стола в яркой обстановке, с садами и животными. Известное своим артезанальным кофе и вкусными бранч-опциями, это место идеально подходит для спокойного обеда. Цены умеренные, варьируются от $ до $$.",
+          "image_keyword": "The Grounds of Alexandria Sydney",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Avocado Toast",
+          "klook_query": "The Grounds of Alexandria booking"
+        }
+      ]
+    }
+  }
+}

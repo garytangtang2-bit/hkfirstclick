@@ -1,0 +1,1145 @@
+{
+  "city_slug": "auckland",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Auckland 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Auckland. From budget eats to fine dining — with booking links.",
+      "page_intro": "Auckland's food culture is a vibrant tapestry woven from its diverse communities and stunning landscapes. With an abundance of fresh produce, seafood, and multicultural influences, the city's culinary scene offers something for every palate. From bustling street markets to high-end dining, food lovers will find a wealth of options to explore.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "Ferry Building",
+          "type": "street_food",
+          "description": "The Ferry Building is a bustling hub for food lovers, featuring a variety of gourmet food stalls and local specialties. Don't miss out on the fresh seafood, artisan cheeses, and delectable pastries. The atmosphere is lively and inviting, making it a perfect spot to grab a bite while enjoying views of the harbor. Prices vary, but you can find affordable options as well as gourmet treats.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "Cibo is a trendy restaurant known for its innovative New Zealand cuisine with a focus on fresh, local ingredients. The menu changes seasonally, but signature dishes include the lamb shoulder and seafood linguine. The warm, contemporary decor sets a cozy atmosphere for a memorable dining experience. Expect to spend around $$ to $$$.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "Auckland Night Markets",
+          "type": "night_market",
+          "description": "Auckland Night Markets are a must-visit for street food enthusiasts. Multiple locations feature an array of international cuisines, from Korean BBQ to authentic dumplings. The vibrant atmosphere, live music, and diverse food options make it an exciting night out for all ages. Expect to spend around $ for a variety of dishes.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "The Grove",
+          "type": "restaurant",
+          "description": "The Grove is an award-winning fine dining restaurant that offers a sophisticated culinary experience. Known for its creative tasting menus that highlight New Zealand's finest produce, the ambiance is elegant and intimate. Reservations are recommended, especially for special occasions. Price range is on the higher side, $$ to $$$.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "Fish Market",
+          "type": "street_food",
+          "description": "Auckland's Fish Market is the perfect place to indulge in fresh seafood straight from the ocean. Visitors can enjoy a variety of options, from fish and chips to sushi. The casual atmosphere and waterfront views create a delightful setting for enjoying local catches. Prices are reasonable, with plenty of choices under $.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapo is a renowned gelato shop that takes ice cream to the next level with its innovative flavors and artistic presentation. From traditional Italian gelato to unique local flavors like feijoa, each scoop is a work of art. The vibrant, playful atmosphere makes it a favorite among locals and tourists alike. Prices are moderate, around $.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "La Cigale Market",
+          "type": "street_food",
+          "description": "La Cigale is a French market that showcases a plethora of gourmet food options, including fresh produce, artisanal cheeses, and baked goods. The market atmosphere is lively and filled with the aromas of delicious food. It's a great place to grab breakfast or lunch, with many affordable options available. Expect to spend around $.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "Kazuya",
+          "type": "restaurant",
+          "description": "Kazuya offers a unique fusion of Japanese and New Zealand flavors, creating an unforgettable dining experience. The tasting menu features fresh, high-quality ingredients and beautifully plated dishes. The intimate setting is perfect for romantic dinners or special occasions. Prices are on the higher side, between $$ and $$$.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "奧克蘭最佳美食 2026 — 頂級餐廳與街頭美食指南",
+      "seo_description": "探索奧克蘭最佳餐廳、街頭美食和當地特色。從平價餐飲到高檔用餐 — 附預訂連結。",
+      "page_intro": "奧克蘭的美食文化是一幅由其多元社區和壯麗景觀編織而成的生動畫卷。這座城市的烹飪場景提供了豐富的選擇，從繁忙的街市到高檔餐飲，食客將會發現無數的探險機會。新鮮的農產品、海鮮和多元文化的影響，使每一種口味都能找到滿足。",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "渡輪大樓",
+          "type": "street_food",
+          "description": "渡輪大樓是美食愛好者的繁忙樞紐，擁有各種美食攤位和當地特色。不要錯過新鮮的海鮮、手工奶酪和美味的糕點。氛圍熱鬧而友好，是邊享用美食邊欣賞港口美景的理想場所。價格各異，您可以找到平價和美食款待。",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "Cibo 是一家時尚餐廳，以創新的新西蘭美食而聞名，重點在新鮮的當地食材。菜單隨季節變化，但招牌菜包括羊肩肉和海鮮意大利面。溫暖、現代的裝潢為難忘的用餐體驗營造了舒適的氛圍。預計花費在$$到$$$之間。",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "奧克蘭夜市",
+          "type": "night_market",
+          "description": "奧克蘭夜市是街頭美食愛好者的必訪之地。多個地點提供各種國際美食，從韓式燒烤到正宗的餃子。熱鬧的氛圍、現場音樂和多樣的食品選擇使它成為所有年齡層的激動夜晚。預計花費約$來品嚐各種菜肴。",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "The Grove",
+          "type": "restaurant",
+          "description": "The Grove 是一家屢獲殊榮的高級餐廳，提供精緻的烹飪體驗。以創意品嚐菜單而聞名，突顯新西蘭最優質的農產品，氛圍優雅而親密。建議提前預訂，特別是為了特殊場合。價格範圍偏高，$$到$$$之間。",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "魚市場",
+          "type": "street_food",
+          "description": "奧克蘭的魚市場是沉浸於新鮮海鮮的完美場所。遊客可以享受各種選擇，從炸魚薯條到壽司。輕鬆的氛圍和海濱景觀為享用當地捕撈的美味創造了愉快的環境。價格合理，許多選擇在$以下。",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapo 是一家著名的意式冰淇淋店，將冰淇淋提升到全新境界，擁有創新的口味和藝術化的呈現。從傳統的意大利冰淇淋到像 feijoa 這樣的獨特當地口味，每一球都是一件藝術品。充滿活力和趣味的氛圍使其成為當地人和遊客的最愛。價格適中，約$。",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "La Cigale 市場",
+          "type": "street_food",
+          "description": "La Cigale 是一家法國市場，展示了眾多美食選擇，包括新鮮農產品、手工奶酪和烘焙食品。市場氛圍熱鬧，充滿美食的香氣。這是一個享用早餐或午餐的好地方，提供許多平價選擇。預計花費約$。",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "Kazuya",
+          "type": "restaurant",
+          "description": "Kazuya 提供獨特的日本和新西蘭風味融合，創造出難忘的用餐體驗。品嚐菜單以新鮮、高品質的食材和精美的擺盤為特色。親密的環境非常適合浪漫晚餐或特殊場合。價格較高，在$$到$$$之間。",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "オークランドのベストフード2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "オークランドの最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "オークランドの食文化は、多様なコミュニティと美しい風景から織り成される生き生きとしたタペストリーです。新鮮な農産物やシーフード、そして多文化的な影響が溢れるこの街の料理シーンは、あらゆる味覚に合う何かを提供しています。賑やかなストリートマーケットから高級ダイニングまで、食通の方々は探求する選択肢が豊富に待っています。",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "フェリー ビルディング",
+          "type": "street_food",
+          "description": "フェリー ビルディングは、美食家にとって賑やかなハブであり、様々なグルメフードスタンドや地元の特産品が揃っています。新鮮なシーフード、職人のチーズ、そして美味しいペストリーを見逃さないでください。雰囲気は活気に満ちていて、港の景色を楽しみながら軽食を取るのに最適なスポットです。価格は様々ですが、手頃なオプションとグルメなごちそうを見つけることができます。",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "Ciboは、新鮮な地元の食材に重点を置いた革新的なニュージーランド料理で知られるトレンディなレストランです。メニューは季節ごとに変わりますが、代表的な料理にはラムショルダーとシーフードリングイネが含まれます。温かみのある現代的なインテリアが、記憶に残るダイニング体験のために居心地の良い雰囲気を演出しています。予算は約$$から$$$です。",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "オークランドナイトマーケット",
+          "type": "night_market",
+          "description": "オークランドナイトマーケットは、ストリートフード愛好者にとって訪れるべき場所です。複数の場所で、韓国バーベキューから本格的な餃子まで、さまざまな国際料理が楽しめます。活気ある雰囲気、ライブ音楽、多様な食の選択肢が揃い、あらゆる年齢層にとって刺激的な夜のお出かけとなります。さまざまな料理を楽しむために約$を予算にしてください。",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "ザ・グローブ",
+          "type": "restaurant",
+          "description": "ザ・グローブは、洗練された食の体験を提供する受賞歴のある高級レストランです。ニュージーランドの最高の農産物を際立たせる創造的なテイスティングメニューで知られ、優雅で親密な雰囲気が漂います。特別な occasion のためには予約をお勧めします。価格帯は高めで、$$から$$$の間です。",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "フィッシュマーケット",
+          "type": "street_food",
+          "description": "オークランドのフィッシュマーケットは、新鮮なシーフードを海から直送して楽しむのに最適な場所です。訪問者は、フィッシュ＆チップスから寿司まで、さまざまなオプションを楽しむことができます。カジュアルな雰囲気と水辺の景色が、地元の魚を楽しむための素晴らしい環境を作り出します。価格は手頃で、$以下の選択肢が豊富にあります。",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapoは、革新的なフレーバーとアートのようなプレゼンテーションでアイスクリームを次のレベルに引き上げる名高いジェラートショップです。伝統的なイタリアのジェラートから、フェイジョアのようなユニークな地元のフレーバーまで、各スコープは芸術作品です。活気に満ちた遊び心あふれる雰囲気が、地元の人々や観光客に人気です。価格は適度で、約$です。",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "ラ・シガールマーケット",
+          "type": "street_food",
+          "description": "ラ・シガールは、新鮮な農産物、職人のチーズ、焼き菓子など、数多くのグルメフードオプションを展示するフランスの市場です。市場の雰囲気は活気に満ち、美味しい食べ物の香りで満たされています。朝食やランチを楽しむのに最適な場所で、多くの手頃な選択肢があります。予算は約$です。",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "カズヤ",
+          "type": "restaurant",
+          "description": "カズヤは、日本とニュージーランドのフレーバーを融合させ、忘れられないダイニング体験を提供します。テイスティングメニューには新鮮で高品質な食材と美しく盛り付けられた料理が特徴です。親密な環境は、ロマンチックなディナーや特別な occasion に最適です。価格は高めで、$$から$$$の間です。",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "오클랜드 최고의 음식 2026 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "오클랜드 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 저렴한 식사부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "오클랜드의 음식 문화는 다양한 커뮤니티와 멋진 경관이 엮인 생동감 있는 태피스트리입니다. 신선한 농산물, 해산물, 다문화적 영향이 풍부한 이 도시의 요리 장면은 모든 입맛에 맞는 무언가를 제공합니다. 북적이는 거리 시장부터 고급 다이닝까지, 음식 애호가들은 탐험할 수 있는 풍부한 선택지를 찾을 수 있습니다.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "페리 빌딩",
+          "type": "street_food",
+          "description": "페리 빌딩은 미식가를 위한 북적이는 중심지로, 다양한 미식 푸드 스탠드와 지역 특산물을 제공합니다. 신선한 해산물, 장인 치즈, 맛있는 페이스트리를 놓치지 마세요. 분위기는 활기차고 초대하는 느낌으로, 항구의 경치를 감상하며 간단한 식사를 하기에 완벽한 장소입니다. 가격은 다양하지만 저렴한 옵션과 미식 간식 모두를 찾을 수 있습니다.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "Cibo는 신선한 지역 재료에 중점을 둔 혁신적인 뉴질랜드 요리로 유명한 트렌디한 레스토랑입니다. 메뉴는 계절에 따라 변하지만, 대표 요리로는 양 어깨와 해산물 링귀니가 있습니다. 따뜻하고 현대적인 인테리어가 기억에 남는 다이닝 경험을 위한 아늑한 분위기를 조성합니다. 예상 비용은 $$에서 $$$ 사이입니다.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "오클랜드 나이트 마켓",
+          "type": "night_market",
+          "description": "오클랜드 나이트 마켓은 스트리트 푸드 애호가에게 꼭 가봐야 할 곳입니다. 여러 위치에서 한국 바비큐부터 정통 만두까지 다양한 국제 요리를 제공합니다. 활기찬 분위기, 라이브 음악, 다양한 음식 옵션이 있어 모든 연령층에게 흥미진진한 밤 외출이 될 것입니다. 다양한 요리를 즐기기 위해 약 $의 비용을 예상하세요.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "더 그로브",
+          "type": "restaurant",
+          "description": "더 그로브는 정교한 미식 경험을 제공하는 수상 경력이 있는 고급 레스토랑입니다. 뉴질랜드 최고의 농산물을 강조하는 창의적인 테이스팅 메뉴로 유명하며, 우아하고 아늑한 분위기를 자랑합니다. 특별한 경우에는 미리 예약하는 것이 좋습니다. 가격대는 상대적으로 높으며, $$에서 $$$ 사이입니다.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "피쉬 마켓",
+          "type": "street_food",
+          "description": "오클랜드의 피쉬 마켓은 바다에서 갓 잡은 신선한 해산물을 즐기기에 완벽한 장소입니다. 방문객들은 생선과 칩스부터 초밥까지 다양한 옵션을 즐길 수 있습니다. 캐주얼한 분위기와 수변의 경치가 지역 어획물을 즐기기에 즐거운 환경을 만들어줍니다. 가격은 합리적이며, $ 이하의 선택이 많습니다.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapo는 혁신적인 맛과 예술적인 프레젠테이션으로 아이스크림을 다음 단계로 끌어올리는 유명한 젤라또 가게입니다. 전통적인 이탈리아 젤라또에서부터 피조아와 같은 독특한 지역 맛까지, 각 스쿱은 예술 작품입니다. 생동감 넘치고 유쾌한 분위기가 현지인과 관광객 모두에게 인기입니다. 가격은 적당하며, 약 $입니다.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "라 시갈 마켓",
+          "type": "street_food",
+          "description": "라 시갈은 신선한 농산물, 장인의 치즈, 구운 제품 등 다양한 미식 옵션을 선보이는 프랑스 시장입니다. 시장의 분위기는 활기차고 맛있는 음식의 향기로 가득 차 있습니다. 아침이나 점심을 즐기기에 좋은 장소이며, 많은 저렴한 선택지가 있습니다. 예상 비용은 약 $입니다.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "카즈야",
+          "type": "restaurant",
+          "description": "카즈야는 일본과 뉴질랜드의 맛을 독특하게 융합하여 잊지 못할 다이닝 경험을 제공합니다. 테이스팅 메뉴는 신선하고 고품질의 재료와 아름답게 플레이팅된 요리를 특징으로 합니다. 아늑한 환경은 로맨틱한 저녁식사나 특별한 경우에 완벽합니다. 가격은 상대적으로 높으며 $$에서 $$$ 사이입니다.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Auckland 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Auckland. Des repas économiques à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "La culture culinaire d'Auckland est une tapisserie vibrante tissée à partir de ses communautés diverses et de ses paysages époustouflants. Avec une abondance de produits frais, de fruits de mer et d'influences multiculturelles, la scène culinaire de la ville offre quelque chose pour tous les palais. Des marchés de rue animés aux restaurants haut de gamme, les amateurs de bonne nourriture trouveront de nombreuses options à explorer.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "Ferry Building",
+          "type": "street_food",
+          "description": "Le Ferry Building est un centre animé pour les amateurs de gastronomie, proposant une variété de stands de nourriture gastronomique et de spécialités locales. Ne manquez pas les fruits de mer frais, les fromages artisanaux et les pâtisseries délicieuses. L'atmosphère est vivante et accueillante, ce qui en fait un endroit parfait pour prendre une bouchée tout en profitant de la vue sur le port. Les prix varient, mais vous pouvez trouver des options abordables ainsi que des friandises gastronomiques.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "Cibo est un restaurant tendance connu pour sa cuisine néo-zélandaise innovante axée sur des ingrédients frais et locaux. Le menu change selon les saisons, mais les plats signature comprennent l'épaule d'agneau et les linguines aux fruits de mer. La décoration chaleureuse et contemporaine crée une atmosphère confortable pour une expérience culinaire mémorable. Attendez-vous à dépenser environ $$ à $$$.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "Marchés nocturnes d'Auckland",
+          "type": "night_market",
+          "description": "Les marchés nocturnes d'Auckland sont un incontournable pour les amateurs de street food. Plusieurs emplacements proposent un éventail de cuisines internationales, du barbecue coréen aux dumplings authentiques. L'atmosphère vibrante, la musique live et les diverses options alimentaires en font une sortie nocturne excitante pour tous les âges. Attendez-vous à dépenser environ $ pour une variété de plats.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "The Grove",
+          "type": "restaurant",
+          "description": "The Grove est un restaurant gastronomique primé qui offre une expérience culinaire sophistiquée. Réputé pour ses menus de dégustation créatifs mettant en avant les meilleurs produits de Nouvelle-Zélande, l'ambiance est élégante et intime. Les réservations sont recommandées, surtout pour les occasions spéciales. La fourchette de prix est plutôt élevée, entre $$ et $$$.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "Marché aux poissons",
+          "type": "street_food",
+          "description": "Le marché aux poissons d'Auckland est l'endroit idéal pour se régaler de fruits de mer frais tout droit sortis de l'océan. Les visiteurs peuvent déguster une variété d'options, des fish and chips aux sushis. L'atmosphère décontractée et les vues sur l'eau créent un cadre agréable pour savourer les prises locales. Les prix sont raisonnables, avec de nombreuses options à moins de $.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapo est une célèbre boutique de gelato qui élève la crème glacée à un niveau supérieur avec ses saveurs innovantes et sa présentation artistique. Des gelatos italiens traditionnels aux saveurs locales uniques comme le feijoa, chaque boule est une œuvre d'art. L'atmosphère vibrante et ludique en fait un favori parmi les habitants et les touristes. Les prix sont modérés, autour de $.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "Marché La Cigale",
+          "type": "street_food",
+          "description": "La Cigale est un marché français qui présente une pléthore d'options gastronomiques, y compris des produits frais, des fromages artisanaux et des produits de boulangerie. L'atmosphère du marché est animée et remplie des arômes de nourriture délicieuse. C'est un excellent endroit pour prendre le petit déjeuner ou le déjeuner, avec de nombreuses options abordables disponibles. Attendez-vous à dépenser environ $.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "Kazuya",
+          "type": "restaurant",
+          "description": "Kazuya offre une fusion unique de saveurs japonaises et néo-zélandaises, créant une expérience culinaire inoubliable. Le menu de dégustation met en avant des ingrédients frais et de haute qualité, ainsi que des plats magnifiquement présentés. L'environnement intime est parfait pour des dîners romantiques ou des occasions spéciales. Les prix sont plutôt élevés, entre $$ et $$$.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Auckland 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Auckland. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "La cultura gastronómica de Auckland es un vibrante tapiz tejido a partir de sus diversas comunidades y paisajes impresionantes. Con una abundancia de productos frescos, mariscos e influencias multiculturales, la escena culinaria de la ciudad ofrece algo para todos los paladares. Desde bulliciosos mercados callejeros hasta cenas de alta gama, los amantes de la comida encontrarán una gran cantidad de opciones para explorar.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "Edificio del Ferry",
+          "type": "street_food",
+          "description": "El Edificio del Ferry es un bullicioso centro para los amantes de la comida, que cuenta con una variedad de puestos de comida gourmet y especialidades locales. No te pierdas los mariscos frescos, los quesos artesanales y los deliciosos pasteles. La atmósfera es animada y acogedora, lo que lo convierte en un lugar perfecto para disfrutar de un bocado mientras contemplas las vistas del puerto. Los precios varían, pero puedes encontrar opciones asequibles así como delicias gourmet.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "Cibo es un restaurante de moda conocido por su cocina neozelandesa innovadora centrada en ingredientes frescos y locales. El menú cambia según la temporada, pero los platos emblemáticos incluyen el hombro de cordero y los linguini de marisco. La decoración cálida y contemporánea crea una atmósfera acogedora para una experiencia gastronómica memorable. Espera gastar alrededor de $$ a $$$.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "Mercados Nocturnos de Auckland",
+          "type": "night_market",
+          "description": "Los Mercados Nocturnos de Auckland son una visita obligada para los amantes de la comida callejera. Múltiples ubicaciones ofrecen una variedad de cocinas internacionales, desde barbacoa coreana hasta dumplings auténticos. La atmósfera vibrante, la música en vivo y las diversas opciones de comida hacen que sea una salida emocionante para todas las edades. Espera gastar alrededor de $ para una variedad de platos.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "The Grove",
+          "type": "restaurant",
+          "description": "The Grove es un restaurante de alta cocina galardonado que ofrece una experiencia culinaria sofisticada. Conocido por sus menús de degustación creativos que destacan los mejores productos de Nueva Zelanda, el ambiente es elegante e íntimo. Se recomienda hacer reservas, especialmente para ocasiones especiales. La gama de precios es más alta, entre $$ y $$$.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "Mercado de Pescado",
+          "type": "street_food",
+          "description": "El Mercado de Pescado de Auckland es el lugar perfecto para disfrutar de mariscos frescos directamente del océano. Los visitantes pueden disfrutar de una variedad de opciones, desde fish and chips hasta sushi. La atmósfera casual y las vistas al agua crean un ambiente encantador para disfrutar de las capturas locales. Los precios son razonables, con muchas opciones por debajo de $.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapo es una famosa heladería que lleva el helado a un nuevo nivel con sus sabores innovadores y presentación artística. Desde el gelato italiano tradicional hasta sabores locales únicos como el feijoa, cada bola es una obra de arte. La atmósfera vibrante y juguetona la convierte en una favorita entre los lugareños y turistas por igual. Los precios son moderados, alrededor de $.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "Mercado La Cigale",
+          "type": "street_food",
+          "description": "La Cigale es un mercado francés que presenta una plétora de opciones gastronómicas, incluidos productos frescos, quesos artesanales y productos horneados. La atmósfera del mercado es animada y está llena de los aromas de comida deliciosa. Es un excelente lugar para desayunar o almorzar, con muchas opciones asequibles disponibles. Espera gastar alrededor de $.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "Kazuya",
+          "type": "restaurant",
+          "description": "Kazuya ofrece una fusión única de sabores japoneses y neozelandeses, creando una experiencia culinaria inolvidable. El menú de degustación presenta ingredientes frescos y de alta calidad, así como platos bellamente presentados. El entorno íntimo es perfecto para cenas románticas o ocasiones especiales. Los precios son más altos, entre $$ y $$$.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Best Food in Auckland 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Auckland. From budget eats to fine dining — with booking links.",
+      "page_intro": "Auckland's food culture is a vibrant tapestry woven from its diverse communities and stunning landscapes. With an abundance of fresh produce, seafood, and multicultural influences, the city's culinary scene offers something for every palate. From bustling street markets to high-end dining, food lovers will find a wealth of options to explore.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "Ferry Building",
+          "type": "street_food",
+          "description": "The Ferry Building is a bustling hub for food lovers, featuring a variety of gourmet food stalls and local specialties. Don't miss out on the fresh seafood, artisan cheeses, and delectable pastries. The atmosphere is lively and inviting, making it a perfect spot to grab a bite while enjoying views of the harbor. Prices vary, but you can find affordable options as well as gourmet treats.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "Cibo is a trendy restaurant known for its innovative New Zealand cuisine with a focus on fresh, local ingredients. The menu changes seasonally, but signature dishes include the lamb shoulder and seafood linguine. The warm, contemporary decor sets a cozy atmosphere for a memorable dining experience. Expect to spend around $$ to $$$.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "Auckland Night Markets",
+          "type": "night_market",
+          "description": "Auckland Night Markets are a must-visit for street food enthusiasts. Multiple locations feature an array of international cuisines, from Korean BBQ to authentic dumplings. The vibrant atmosphere, live music, and diverse food options make it an exciting night out for all ages. Expect to spend around $ for a variety of dishes.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "The Grove",
+          "type": "restaurant",
+          "description": "The Grove is an award-winning fine dining restaurant that offers a sophisticated culinary experience. Known for its creative tasting menus that highlight New Zealand's finest produce, the ambiance is elegant and intimate. Reservations are recommended, especially for special occasions. Price range is on the higher side, $$ to $$$.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "Fish Market",
+          "type": "street_food",
+          "description": "Auckland's Fish Market is the perfect place to indulge in fresh seafood straight from the ocean. Visitors can enjoy a variety of options, from fish and chips to sushi. The casual atmosphere and waterfront views create a delightful setting for enjoying local catches. Prices are reasonable, with plenty of choices under $.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapo is a renowned gelato shop that takes ice cream to the next level with its innovative flavors and artistic presentation. From traditional Italian gelato to unique local flavors like feijoa, each scoop is a work of art. The vibrant, playful atmosphere makes it a favorite among locals and tourists alike. Prices are moderate, around $.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "La Cigale Market",
+          "type": "street_food",
+          "description": "La Cigale is a French market that showcases a plethora of gourmet food options, including fresh produce, artisanal cheeses, and baked goods. The market atmosphere is lively and filled with the aromas of delicious food. It's a great place to grab breakfast or lunch, with many affordable options available. Expect to spend around $.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "Kazuya",
+          "type": "restaurant",
+          "description": "Kazuya offers a unique fusion of Japanese and New Zealand flavors, creating an unforgettable dining experience. The tasting menu features fresh, high-quality ingredients and beautifully plated dishes. The intimate setting is perfect for romantic dinners or special occasions. Prices are on the higher side, between $$ and $$$.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "आधुनिक ऑकलैंड में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "ऑकलैंड के सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट में भोजन से लेकर उच्च गुणवत्ता के भोजन तक - बुकिंग लिंक के साथ।",
+      "page_intro": "ऑकलैंड की खाद्य संस्कृति विविध सामुदायिक और अद्भुत परिदृश्यों से बनी एक जीवंत टेपेस्ट्री है। ताजे उत्पादों, समुद्री भोजन और बहुसांस्कृतिक प्रभावों की प्रचुरता के साथ, शहर का पाक दृश्य हर स्वाद के लिए कुछ न कुछ पेश करता है। हलचल भरे स्ट्रीट मार्केट से लेकर उच्च श्रेणी के भोजन तक, खाद्य प्रेमियों को खोजने के लिए कई विकल्प मिलेंगे।",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "फेरी बिल्डिंग",
+          "type": "street_food",
+          "description": "फेरी बिल्डिंग खाद्य प्रेमियों के लिए एक हलचल भरा केंद्र है, जिसमें विभिन्न प्रकार के गोरमेट खाद्य स्टॉल और स्थानीय विशेषताएँ हैं। ताजे समुद्री भोजन, कलात्मक चीज़ों और स्वादिष्ट पेस्ट्री का आनंद लेना न भूलें। वातावरण जीवंत और आमंत्रित है, जो हार्बर के दृश्य का आनंद लेते हुए नाश्ता करने के लिए एकदम सही स्थान बनाता है। कीमतें भिन्न होती हैं, लेकिन आप सस्ते विकल्पों के साथ-साथ गोरमेट ट्रीट भी पा सकते हैं।",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "चिबो",
+          "type": "restaurant",
+          "description": "चिबो एक ट्रेंडी रेस्तरां है जो ताजे, स्थानीय सामग्रियों पर ध्यान केंद्रित करते हुए नवोन्मेषी न्यूज़ीलैंडियन व्यंजन के लिए जाना जाता है। मेनू मौसमी रूप से बदलता है, लेकिन हस्ताक्षर व्यंजनों में भेड़ के कंधे और समुद्री भोजन लिंग्विनी शामिल हैं। गर्म, समकालीन सजावट एक यादगार भोजन अनुभव के लिए एक आरामदायक माहौल तैयार करती है। अपेक्षाकृत $$ से $$$ खर्च करने की उम्मीद करें।",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "ऑकलैंड नाइट मार्केट",
+          "type": "night_market",
+          "description": "ऑकलैंड नाइट मार्केट स्ट्रीट फूड प्रेमियों के लिए अवश्य देखना चाहिए। कई स्थानों पर अंतरराष्ट्रीय व्यंजनों की एक श्रृंखला है, कोरियाई बीबीक्यू से लेकर प्रामाणिक डंपलिंग तक। जीवंत वातावरण, लाइव संगीत और विविध खाद्य विकल्प सभी उम्र के लोगों के लिए एक रोमांचक रात का आनंद बनाते हैं। विभिन्न व्यंजनों के लिए लगभग $ खर्च करने की उम्मीद करें।",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "द ग्रोव",
+          "type": "restaurant",
+          "description": "द ग्रोव एक पुरस्कार विजेता उच्च श्रेणी का रेस्तरां है जो एक परिष्कृत पाक अनुभव प्रदान करता है। यह न्यूज़ीलैंड के बेहतरीन उत्पादों को उजागर करने वाले रचनात्मक चखने के मेनू के लिए जाना जाता है, वातावरण सुरुचिपूर्ण और अंतरंग है। विशेष अवसरों के लिए, आरक्षण की सिफारिश की जाती है। कीमतें उच्चतर पक्ष पर हैं, $$ से $$$।",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "फिश मार्केट",
+          "type": "street_food",
+          "description": "ऑकलैंड का फिश मार्केट ताजे समुद्री भोजन का आनंद लेने के लिए एकदम सही स्थान है। आगंतुक विभिन्न विकल्पों का आनंद ले सकते हैं, मछली और चिप्स से लेकर सुशी तक। आकस्मिक माहौल और जल के दृश्य स्थानीय कैच का आनंद लेने के लिए एक आनंददायक सेटिंग बनाते हैं। कीमतें उचित हैं, कई विकल्प $ के तहत उपलब्ध हैं।",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "जिआपो",
+          "type": "cafe",
+          "description": "जिआपो एक प्रसिद्ध जेलीटो दुकान है जो अपने अभिनव स्वाद और कलात्मक प्रस्तुति के साथ आइसक्रीम को अगले स्तर पर ले जाती है। पारंपरिक इतालवी जेलीटो से लेकर फेइजोआ जैसे अद्वितीय स्थानीय स्वादों तक, प्रत्येक स्कूप एक कला का काम है। जीवंत, खेलपूर्ण वातावरण इसे स्थानीय लोगों और पर्यटकों के बीच एक पसंदीदा बनाता है। कीमतें मध्यम हैं, लगभग $।",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "ला सिगले मार्केट",
+          "type": "street_food",
+          "description": "ला सिगले एक फ्रांसीसी मार्केट है जो ताजे उत्पादों, कलात्मक चीज़ों और बेक्ड माल सहित गोरमेट खाद्य विकल्पों की प्रचुरता को प्रदर्शित करता है। मार्केट का वातावरण जीवंत है और स्वादिष्ट भोजन की सुगंध से भरा है। यह नाश्ते या दोपहर के भोजन के लिए एक शानदार स्थान है, जिसमें कई सस्ते विकल्प उपलब्ध हैं। लगभग $ खर्च करने की उम्मीद करें।",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "कज़ुया",
+          "type": "restaurant",
+          "description": "कज़ुया जापानी और न्यूज़ीलैंड के स्वादों का अनूठा फ्यूजन पेश करता है, जो एक अविस्मरणीय भोजन अनुभव बनाता है। चखने का मेनू ताजे, उच्च गुणवत्ता वाले सामग्रियों और खूबसूरती से सजी डिशों की विशेषता है। अंतरंग सेटिंग रोमांटिक रात्रिभोज या विशेष अवसरों के लिए एकदम सही है। कीमतें उच्चतर पक्ष पर हैं, $$ और $$$ के बीच।",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Auckland 2026 - Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Auckland. Desde refeições econômicas até jantares requintados - com links de reserva.",
+      "page_intro": "A cultura alimentar de Auckland é uma tapeçaria vibrante tecida a partir de suas diversas comunidades e paisagens deslumbrantes. Com uma abundância de produtos frescos, frutos do mar e influências multiculturais, a cena culinária da cidade oferece algo para todos os paladares. Desde mercados de rua movimentados até restaurantes de alta classe, os amantes da comida encontrarão uma riqueza de opções para explorar.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "Edifício da Balsa",
+          "type": "street_food",
+          "description": "O Edifício da Balsa é um centro movimentado para amantes da comida, apresentando uma variedade de barracas de comida gourmet e especialidades locais. Não perca os frutos do mar frescos, queijos artesanais e deliciosas massas. A atmosfera é animada e convidativa, tornando-o um local perfeito para fazer uma refeição enquanto aprecia a vista do porto. Os preços variam, mas você pode encontrar opções acessíveis, bem como iguarias gourmet.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Cibo",
+          "type": "restaurant",
+          "description": "O Cibo é um restaurante moderno conhecido por sua cozinha inovadora da Nova Zelândia, com foco em ingredientes frescos e locais. O menu muda sazonalmente, mas os pratos assinatura incluem ombro de cordeiro e linguine de frutos do mar. A decoração quente e contemporânea cria uma atmosfera acolhedora para uma experiência gastronômica memorável. Espere gastar cerca de $$ a $$$.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "Mercados Noturnos de Auckland",
+          "type": "night_market",
+          "description": "Os Mercados Noturnos de Auckland são uma visita obrigatória para os entusiastas da comida de rua. Vários locais apresentam uma variedade de cozinhas internacionais, desde churrasco coreano até bolinhos autênticos. A atmosfera vibrante, música ao vivo e opções de comida diversas fazem uma noite emocionante para todas as idades. Espere gastar cerca de $ por uma variedade de pratos.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "The Grove",
+          "type": "restaurant",
+          "description": "O Grove é um restaurante premiado de alta gastronomia que oferece uma experiência culinária sofisticada. Conhecido por seus menus de degustação criativos que destacam os melhores produtos da Nova Zelândia, o ambiente é elegante e íntimo. Reservas são recomendadas, especialmente para ocasiões especiais. A faixa de preço é mais alta, entre $$ e $$$.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "Mercado de Peixes",
+          "type": "street_food",
+          "description": "O Mercado de Peixes de Auckland é o lugar perfeito para se deliciar com frutos do mar frescos direto do oceano. Os visitantes podem desfrutar de uma variedade de opções, de peixe e fritas a sushi. A atmosfera casual e as vistas à beira-mar criam um ambiente agradável para saborear as capturas locais. Os preços são razoáveis, com várias opções abaixo de $.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Giapo",
+          "type": "cafe",
+          "description": "Giapo é uma famosa sorveteria que leva o sorvete a um novo nível com seus sabores inovadores e apresentação artística. Desde o tradicional gelato italiano até sabores locais únicos como feijoa, cada bola é uma obra de arte. A atmosfera vibrante e divertida o torna um favorito entre os locais e turistas. Os preços são moderados, cerca de $.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "Mercado La Cigale",
+          "type": "street_food",
+          "description": "La Cigale é um mercado francês que apresenta uma infinidade de opções de comida gourmet, incluindo produtos frescos, queijos artesanais e produtos de panificação. A atmosfera do mercado é animada e cheia de aromas de comida deliciosa. É um ótimo lugar para um café da manhã ou almoço, com muitas opções acessíveis disponíveis. Espere gastar cerca de $.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "Kazuya",
+          "type": "restaurant",
+          "description": "Kazuya oferece uma fusão única de sabores japoneses e neozelandeses, criando uma experiência gastronômica inesquecível. O menu de degustação apresenta ingredientes frescos e de alta qualidade e pratos lindamente apresentados. O ambiente íntimo é perfeito para jantares românticos ou ocasiões especiais. Os preços estão no lado mais alto, entre $$ e $$$.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في أوكلاند 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في أوكلاند. من الوجبات الاقتصادية إلى تناول الطعام الراقي - مع روابط للحجز.",
+      "page_intro": "تعتبر ثقافة الطعام في أوكلاند نسيجًا نابضًا بالحياة تم نسجه من مجتمعاتها المتنوعة والمناظر الطبيعية الخلابة. مع وفرة من المنتجات الطازجة والمأكولات البحرية والتأثيرات متعددة الثقافات، تقدم مشهد الطهي في المدينة شيئًا لكل ذوق. من الأسواق الشارعية المزدحمة إلى تناول الطعام الراقي، سيجد عشاق الطعام ثروة من الخيارات لاستكشافها.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "مبنى العبّارة",
+          "type": "street_food",
+          "description": "يعتبر مبنى العبّارة مركزًا مزدحمًا لعشاق الطعام، حيث يضم مجموعة متنوعة من أكشاك الطعام الذواقة والتخصصات المحلية. لا تفوت المأكولات البحرية الطازجة، والأجبان الحرفية، والمعجنات اللذيذة. الأجواء حيوية وترحيبية، مما يجعله مكانًا مثاليًا لتناول الطعام أثناء الاستمتاع بإطلالة على الميناء. تختلف الأسعار، ولكن يمكنك العثور على خيارات معقولة بالإضافة إلى الحلويات الذواقة.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "تشيبوا",
+          "type": "restaurant",
+          "description": "يعتبر تشيبوا مطعمًا عصريًا معروفًا بمأكولاته النيوزيلندية المبتكرة مع التركيز على المكونات الطازجة والمحلية. يتغير القائمة حسب الموسم، ولكن الأطباق المميزة تشمل كتف الحمل ولينغويني المأكولات البحرية. تخلق الزخرفة الدافئة والعصرية جوًا مريحًا لتجربة تناول طعام لا تُنسى. توقع أن تنفق حوالي $$ إلى $$$.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "أسواق أوكلاند الليلية",
+          "type": "night_market",
+          "description": "تعتبر أسواق أوكلاند الليلية زيارة لا بد منها لعشاق طعام الشارع. تتميز العديد من المواقع بتشكيلة من المأكولات العالمية، من الشواء الكوري إلى الزلابية الأصيلة. تجعل الأجواء النابضة بالحياة، والموسيقى الحية، وخيارات الطعام المتنوعة من هذه تجربة ليلية مثيرة لجميع الأعمار. توقع أن تنفق حوالي $ لمجموعة متنوعة من الأطباق.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "ذا غروف",
+          "type": "restaurant",
+          "description": "يعتبر ذا غروف مطعمًا حائزًا على جوائز يقدم تجربة طعام راقية. معروف بقوائمه المبتكرة التي تبرز أفضل المنتجات النيوزيلندية، فإن الأجواء أنيقة وحميمة. يُوصى بالحجز، خاصة للمناسبات الخاصة. نطاق الأسعار مرتفع، $$ إلى $$$.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "سوق السمك",
+          "type": "street_food",
+          "description": "يعتبر سوق السمك في أوكلاند المكان المثالي للاستمتاع بالمأكولات البحرية الطازجة مباشرة من المحيط. يمكن للزوار الاستمتاع بمجموعة متنوعة من الخيارات، من السمك والبطاطس المقلية إلى السوشي. تخلق الأجواء غير الرسمية والإطلالات البحرية بيئة ممتعة للاستمتاع بالصيد المحلي. الأسعار معقولة، مع العديد من الخيارات تحت $.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "جيابو",
+          "type": "cafe",
+          "description": "تعتبر جيابو محل جيلاتو مشهور يأخذ الآيس كريم إلى مستوى جديد مع نكهاته المبتكرة وعرضه الفني. من الجيلاتو الإيطالي التقليدي إلى النكهات المحلية الفريدة مثل الفيجوا، كل كرة هي عمل فني. تجعل الأجواء النابضة والمرحة منها مفضلة بين السكان المحليين والسياح على حد سواء. الأسعار معتدلة، حوالي $.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "سوق لا سيغال",
+          "type": "street_food",
+          "description": "يعتبر سوق لا سيغال سوقًا فرنسيًا يقدم مجموعة كبيرة من خيارات الطعام الذواقة، بما في ذلك المنتجات الطازجة والأجبان الحرفية والمخبوزات. الأجواء في السوق حيوية ومليئة بروائح الطعام اللذيذ. إنه مكان رائع لتناول الإفطار أو الغداء، مع العديد من الخيارات المعقولة المتاحة. توقع أن تنفق حوالي $.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "كازويا",
+          "type": "restaurant",
+          "description": "يقدم كازويا مزيجًا فريدًا من النكهات اليابانية والنيوزيلندية، مما يخلق تجربة طعام لا تُنسى. يضم قائمة تذوق غنية بمكونات عالية الجودة وأطباق معدة بشكل جميل. تعتبر الأجواء الحميمة مثالية للعشاء الرومانسي أو المناسبات الخاصة. الأسعار في الجانب الأعلى، بين $$ و $$$.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "অকল্যান্ডের সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "অকল্যান্ডের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত - বুকিং লিঙ্ক সহ।",
+      "page_intro": "অকল্যান্ডের খাদ্য সংস্কৃতি একটি উজ্জ্বল তাবেদার মতো যা এর বিভিন্ন সম্প্রদায় এবং চমৎকার দৃশ্যের মধ্যে বোনা রয়েছে। তাজা পণ্য, সামুদ্রিক খাবার এবং বহু সংস্কৃতিক প্রভাবের প্রাচুর্য সহ, শহরের রন্ধনশিল্প দৃশ্য প্রতিটি স্বাদের জন্য কিছু না কিছু অফার করে। ব্যস্ত স্ট্রিট মার্কেট থেকে শুরু করে উচ্চমানের খাবার, খাদ্য প্রেমীরা অনুসন্ধানের জন্য প্রচুর বিকল্প খুঁজে পাবেন।",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "ফেরি বিল্ডিং",
+          "type": "street_food",
+          "description": "ফেরি বিল্ডিং খাদ্য প্রেমীদের জন্য একটি ব্যস্ত কেন্দ্র, যেখানে বিভিন্ন ধরনের গুরমেট খাবারের স্টল এবং স্থানীয় বিশেষত্ব রয়েছে। তাজা সামুদ্রিক খাবার, শিল্পী পনির এবং স্বাদযুক্ত পেস্ট্রি মিস করবেন না। পরিবেশ প্রাণবন্ত এবং আমন্ত্রণমূলক, যা একটি কামড় নেয়ার জন্য একটি নিখুঁত স্থান তৈরি করে যখন আপনি হার্বারের দৃশ্য উপভোগ করেন। মূল্য ভিন্ন, তবে আপনি সাশ্রয়ী মূল্যের বিকল্প সহ গুরমেট ট্রিটও খুঁজে পেতে পারেন।",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "চিবো",
+          "type": "restaurant",
+          "description": "চিবো একটি ট্রেন্ডি রেস্তোরাঁ যা তাজা, স্থানীয় উপাদানের উপর কেন্দ্রিত নিউ জিল্যান্ডের উদ্ভাবনী রন্ধনশিল্পের জন্য পরিচিত। মেনু মৌসুমি ভিত্তিতে পরিবর্তিত হয়, তবে স্বাক্ষর খাবারের মধ্যে মেষের কাঁধ এবং সামুদ্রিক খাবারের লিঙ্গুইন অন্তর্ভুক্ত রয়েছে। উষ্ণ, আধুনিক সাজসজ্জা একটি স্মরণীয় খাবারের অভিজ্ঞতার জন্য একটি আরামদায়ক পরিবেশ তৈরি করে। আনুমানিক $$ থেকে $$$ ব্যয় করার আশা করুন।",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "অকল্যান্ড নাইট মার্কেট",
+          "type": "night_market",
+          "description": "অকল্যান্ড নাইট মার্কেট হল স্ট্রিট ফুড প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান। একাধিক স্থানে একটি আন্তর্জাতিক খাবারের ভাণ্ডার রয়েছে, কোরিয়ান বারবিকিউ থেকে শুরু করে আসল ডাম্পলিং পর্যন্ত। প্রাণবন্ত পরিবেশ, লাইভ সঙ্গীত এবং বৈচিত্র্যময় খাবারের বিকল্পগুলি সব বয়সের জন্য একটি রোমাঞ্চকর রাতের জন্য তৈরি করে। বিভিন্ন খাবারের জন্য আনুমানিক $ খরচ করার আশা করুন।",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "দ্য গ্রোভ",
+          "type": "restaurant",
+          "description": "দ্য গ্রোভ একটি পুরস্কার বিজয়ী উচ্চমানের রেস্তোরাঁ যা একটি পরিশীলিত রন্ধনশিল্প অভিজ্ঞতা প্রদান করে। নিউ জিল্যান্ডের সেরা পণ্যগুলিকে তুলে ধরার জন্য এর সৃজনশীল স্বাদমূল্য মেনু দ্বারা পরিচিত, পরিবেশটি মার্জিত এবং অন্তরঙ্গ। বিশেষ অনুষ্ঠানের জন্য, রিজার্ভেশন করার সুপারিশ করা হয়। দামগুলি উচ্চতর দিকে, $$ থেকে $$$।",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "ফিশ মার্কেট",
+          "type": "street_food",
+          "description": "অকল্যান্ডের ফিশ মার্কেট হল সামুদ্রিক খাবারের সরাসরি উপভোগের জন্য পারফেক্ট স্থান। দর্শকরা মাছ এবং চিপস থেকে শুরু করে সুশি পর্যন্ত বিভিন্ন বিকল্প উপভোগ করতে পারেন। অন্ধকার পরিবেশ এবং জলসীমার দৃশ্য স্থানীয় ক্যাচ উপভোগের জন্য একটি আনন্দদায়ক সেটিং তৈরি করে। দামগুলি যুক্তিসঙ্গত, $ এর নিচে প্রচুর বিকল্প সহ।",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "জিয়াপো",
+          "type": "cafe",
+          "description": "জিয়াপো একটি প্রসিদ্ধ জেলাতো দোকান যা উদ্ভাবনী স্বাদের এবং শিল্পী উপস্থাপনার মাধ্যমে আইসক্রিমকে পরবর্তী স্তরে নিয়ে যায়। ঐতিহ্যবাহী ইতালীয় জেলাতো থেকে শুরু করে ফেইজোয়া মতো অনন্য স্থানীয় স্বাদ, প্রতিটি স্কুপ একটি শিল্পকর্ম। প্রাণবন্ত, খেলাধুলাপূর্ণ পরিবেশ এটিকে স্থানীয় এবং পর্যটকদের মধ্যে একটি প্রিয় করে তোলে। দামগুলি মধ্যম, প্রায় $।",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "লা সিগালে মার্কেট",
+          "type": "street_food",
+          "description": "লা সিগালে একটি ফরাসি বাজার যা তাজা পণ্য, শিল্পী পনির এবং বেকড পণ্য সহ গুরমেট খাবারের অপশনগুলির একটি বিপুল সংখ্যক প্রদর্শন করে। বাজারের পরিবেশ প্রাণবন্ত এবং সুস্বাদু খাবারের সুগন্ধে ভরা। এটি নাশতার বা দুপুরের খাবারের জন্য একটি দুর্দান্ত স্থান, যেখানে অনেক সাশ্রয়ী মূল্যের বিকল্প পাওয়া যায়। আনুমানিক $ খরচ করার আশা করুন।",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "কাজুয়া",
+          "type": "restaurant",
+          "description": "কাজুয়া একটি অনন্য জাপানি এবং নিউজিল্যান্ডের স্বাদগুলির ফিউশন অফার করে, যা একটি অবিস্মরণীয় খাবারের অভিজ্ঞতা তৈরি করে। স্বাদমূল্য মেনুতে তাজা, উচ্চমানের উপাদান এবং সুন্দরভাবে পরিবেশন করা খাবার অন্তর্ভুক্ত রয়েছে। অন্তরঙ্গ পরিবেশ রোমান্টিক রাতের খাবার বা বিশেষ অনুষ্ঠানের জন্য একদম সঠিক। দামগুলি উচ্চতর দিকে, $$ এবং $$$ এর মধ্যে।",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Окленде 2026 — Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты Окленда. От бюджетных блюд до изысканных ужинов — со ссылками для бронирования.",
+      "page_intro": "Кулинарная культура Окленда — это яркая ткань, сотканная из его разнообразных сообществ и потрясающих пейзажей. С изобилием свежих продуктов, морепродуктов и мультикультурных влияний кулинарная сцена города предлагает что-то на любой вкус. От оживленных уличных рынков до высококлассных ресторанов, любители еды найдут множество вариантов для исследования.",
+      "items": [
+        {
+          "id": "ferry_building",
+          "name": "Здание парома",
+          "type": "street_food",
+          "description": "Здание парома — это оживленный центр для любителей еды, предлагающий разнообразие гастрономических киосков и местных специалитетов. Не упустите свежие морепродукты, художественные сыры и восхитительные кондитерские изделия. Атмосфера живая и уютная, что делает это идеальным местом, чтобы перекусить, наслаждаясь видом на гавань. Цены варьируются, но вы можете найти доступные варианты, а также деликатесы высокого класса.",
+          "image_keyword": "Ferry Building Auckland",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Fresh seafood platter",
+          "klook_query": "Ferry Building food tour"
+        },
+        {
+          "id": "lauraine",
+          "name": "Чибо",
+          "type": "restaurant",
+          "description": "Чибо — это модный ресторан, известный своей инновационной кухней Новой Зеландии с акцентом на свежие местные ингредиенты. Меню меняется в зависимости от сезона, но среди фирменных блюд — плечо ягненка и паста с морепродуктами. Уютный современный декор создает приятную атмосферу для незабываемого обеда. Ожидайте потратить около $$ до $$$.",
+          "image_keyword": "Cibo Auckland",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Lamb shoulder",
+          "klook_query": "Cibo restaurant booking"
+        },
+        {
+          "id": "bustling_market",
+          "name": "Ночные рынки Окленда",
+          "type": "night_market",
+          "description": "Ночные рынки Окленда — это обязательное место для любителей уличной еды. На нескольких площадках представлены разнообразные международные кухни, от корейского барбекю до аутентичных пельменей. Яркая атмосфера, живая музыка и разнообразные варианты еды делают это захватывающим вечером для всех возрастов. Ожидайте потратить около $ на разнообразные блюда.",
+          "image_keyword": "Auckland Night Markets",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Korean BBQ",
+          "klook_query": "Auckland Night Markets experience"
+        },
+        {
+          "id": "dine_at_eden",
+          "name": "Гроув",
+          "type": "restaurant",
+          "description": "Гроув — это высококлассный ресторан, удостоенный наград, который предлагает изысканный кулинарный опыт. Известен своими креативными дегустационными меню, которые подчеркивают лучшие продукты Новой Зеландии, атмосфера элегантна и интимна. Рекомендуется бронирование, особенно для особых случаев. Цены выше, от $$ до $$$.",
+          "image_keyword": "The Grove Auckland",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting menu",
+          "klook_query": "The Grove fine dining booking"
+        },
+        {
+          "id": "local_specialty",
+          "name": "Рынок рыбы",
+          "type": "street_food",
+          "description": "Рынок рыбы в Окленде — это идеальное место для наслаждения свежими морепродуктами прямо из океана. Посетители могут насладиться разнообразными блюдами, от рыбы с картошкой до суши. Непринужденная атмосфера и виды на воду создают приятную обстановку для наслаждения местным уловом. Цены разумные, много вариантов ниже $.",
+          "image_keyword": "Auckland Fish Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish and chips",
+          "klook_query": "Auckland Fish Market tour"
+        },
+        {
+          "id": "sweet_delights",
+          "name": "Джиапо",
+          "type": "cafe",
+          "description": "Джиапо — это известная джелато-лавка, которая поднимает мороженое на новый уровень благодаря своим инновационным вкусам и художественной подаче. От традиционного итальянского джелато до уникальных местных вкусов, таких как фейхоа, каждая порция — это произведение искусства. Яркая и игривая атмосфера делает его любимым местом как для местных жителей, так и для туристов. Цены умеренные, около $.",
+          "image_keyword": "Giapo Auckland",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Feijoa gelato",
+          "klook_query": "Giapo gelato shop visit"
+        },
+        {
+          "id": "vibrant_market",
+          "name": "Рынок Ла Сигале",
+          "type": "street_food",
+          "description": "Ла Сигале — это французский рынок, который предлагает множество гастрономических опций, включая свежие продукты, художественные сыры и выпечку. Атмосфера рынка живая и наполнена ароматами вкусной еды. Это отличное место для завтрака или обеда, с множеством доступных вариантов. Ожидайте потратить около $.",
+          "image_keyword": "La Cigale Market Auckland",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Croissants",
+          "klook_query": "La Cigale Market food tour"
+        },
+        {
+          "id": "fusion_flavors",
+          "name": "Кадзуя",
+          "type": "restaurant",
+          "description": "Кадзуя предлагает уникальное сочетание японских и новозеландских вкусов, создавая незабываемый кулинарный опыт. Дегустационное меню включает свежие, качественные ингредиенты и красиво оформленные блюда. Уютная обстановка идеально подходит для романтических ужинов или особых случаев. Цены выше среднего, от $$ до $$$.",
+          "image_keyword": "Kazuya Auckland",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Omakase",
+          "klook_query": "Kazuya restaurant booking"
+        }
+      ]
+    }
+  }
+}

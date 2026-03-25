@@ -1,0 +1,1145 @@
+{
+  "city_slug": "okinawa",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Okinawa 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Okinawa. From budget eats to fine dining — with booking links.",
+      "page_intro": "Okinawa boasts a unique and vibrant food culture influenced by its rich history and geographical location. Known for its healthy ingredients and local specialties such as Okinawa soba and goya champuru, this island offers a diverse culinary experience. From bustling street markets to elegant dining, food lovers will find plenty to savor in this tropical paradise.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "Shuri Castle Market",
+          "type": "street_food",
+          "description": "Nestled near the historic Shuri Castle, this market is a must-visit for street food enthusiasts. You can sample a variety of local delights, including Okinawa soba and sweet potato snacks. The vibrant atmosphere and friendly vendors make it a perfect spot to enjoy authentic Okinawan flavors. Prices range from $ to $$.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "Makishi Public Market",
+          "type": "night_market",
+          "description": "This lively market is known as the 'kitchen of Okinawa' and is a fantastic place to explore local produce and street food. The bustling stalls offer fresh seafood, tropical fruits, and traditional dishes. Don’t miss the chance to try the famous taco rice or goya champuru. Prices are affordable, typically ranging from $ to $$.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "Yakiniku Sanchoku",
+          "type": "restaurant",
+          "description": "This renowned restaurant specializes in Okinawa's famous beef, offering a grill-your-own dining experience. With an inviting atmosphere and a menu filled with high-quality cuts, it's a favorite among locals and tourists. Pair your meal with local Awamori for a complete experience. Prices are moderately priced at $$.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "Uraniwa",
+          "type": "restaurant",
+          "description": "Uraniwa offers a unique dining experience with a focus on traditional Okinawan cuisine. The cozy atmosphere and beautiful presentation of dishes make it ideal for a special night out. Signature dishes like goya champuru and rafute are must-tries. Prices are in the $$ range.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "Okinawa Soba Zen",
+          "type": "restaurant",
+          "description": "Okinawa Soba Zen is celebrated for its traditional Okinawa soba, served in a rich broth with fresh toppings. The restaurant’s rustic decor creates a warm ambiance, making it a perfect spot for families. The prices are budget-friendly, typically around $.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "Naminoue Udon",
+          "type": "street_food",
+          "description": "Naminoue Udon is a popular spot for delicious, handmade udon noodles served with various toppings. Located near the sea, it’s a great place to enjoy a hearty bowl while taking in the view. The casual setting and affordable prices ($) make it a favorite among locals.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "Churaumi Aquarium Cafe",
+          "type": "cafe",
+          "description": "Located within the famous Churaumi Aquarium, this cafe offers a unique dining experience with ocean views. Featuring light meals and fresh seafood, it's a great spot to refuel after exploring the aquarium. Prices are moderate, typically $$.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "Kokusai Dori Street",
+          "type": "night_market",
+          "description": "Kokusai Dori is a bustling street filled with shops, restaurants, and food stalls offering a variety of local delicacies. This vibrant atmosphere makes it a perfect spot for sampling snacks like sata andagi (Okinawan doughnuts) and bingata (rice cakes). Prices range from $ to $$.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "沖繩最佳美食 2026 — 頂級餐廳與街頭美食指南",
+      "seo_description": "發現沖繩最好的餐廳、街頭美食和地方特色。從經濟實惠的美食到高檔餐飲 — 附訂位連結。",
+      "page_intro": "沖繩擁有獨特而充滿活力的美食文化，受到其豐富歷史和地理位置的影響。以健康的食材和地方特色如沖繩蕎麥麵和苦瓜炒菜而聞名，這個島嶼提供多樣的烹飪體驗。從繁忙的街市到優雅的餐飲，美食愛好者將在這個熱帶天堂中找到大量美味。",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "首里城市場",
+          "type": "street_food",
+          "description": "位於歷史悠久的首里城附近，這個市場是街頭美食愛好者必訪之地。您可以品嚐各種地方美食，包括沖繩蕎麥麵和地瓜小吃。充滿活力的氛圍和友好的攤販，使這裡成為享受正宗沖繩風味的理想場所。價格範圍從 $ 到 $$。",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "牧志公設市場",
+          "type": "night_market",
+          "description": "這個熱鬧的市場被稱為「沖繩的廚房」，是探索當地農產品和街頭美食的絕佳場所。繁忙的攤位提供新鮮的海鮮、熱帶水果和傳統菜餚。不要錯過品嚐著名的塔可飯或苦瓜炒菜的機會。價格實惠，通常範圍從 $ 到 $$。",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "燒肉三直",
+          "type": "restaurant",
+          "description": "這家著名餐廳專注於沖繩著名的牛肉，提供自烤的用餐體驗。環境舒適，菜單上滿是高品質的肉類，是當地人和遊客最愛的地方。搭配當地的泡盛酒，讓您享受完整的用餐體驗。價格中等，約為 $$。",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "宇良庭",
+          "type": "restaurant",
+          "description": "宇良庭提供獨特的用餐體驗，專注於傳統的沖繩料理。舒適的氛圍和精美的菜品呈現，使其成為特殊晚餐的理想選擇。必試的招牌菜包括苦瓜炒菜和肉燉豬肉。價格範圍在 $$。",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "沖繩蕎麥麵禪",
+          "type": "restaurant",
+          "description": "沖繩蕎麥麵禪以其傳統的沖繩蕎麥麵而聞名，配以豐富的高湯和新鮮的配料。餐廳的樸實裝潢營造出溫馨的氛圍，適合家庭聚餐。價格實惠，通常在 $。",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "波之上うどん",
+          "type": "street_food",
+          "description": "波之上うどん是享用美味手工烏龍麵的熱門地點，提供各種配料。位於海邊，是在欣賞風景的同時享用美味碗麵的絕佳場所。隨意的環境和實惠的價格（$）使它成為當地人的最愛。",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "美ら海水族館咖啡廳",
+          "type": "cafe",
+          "description": "位於著名的美ら海水族館內，這家咖啡廳提供獨特的用餐體驗，享有海洋景觀。提供輕食和新鮮海鮮，是探索水族館後休息的好地方。價格適中，通常為 $$。",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "國際通街",
+          "type": "night_market",
+          "description": "國際通是繁忙的街道，滿佈商店、餐廳和食品攤位，提供各種當地美食。這種充滿活力的氛圍使其成為品嚐如薩他安達基（沖繩甜甜圈）和紅米糕（米糕）的絕佳場所。價格範圍從 $ 到 $$。",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "沖縄のベストフード2026 — トップレストランとストリートフードガイド",
+      "seo_description": "沖縄の最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "沖縄は、その豊かな歴史と地理的な位置に影響を受けた独自で活気のある食文化を誇ります。健康的な食材や沖縄そば、ゴーヤーチャンプルーなどの地元の特産品で知られています。この島は多様な料理体験を提供します。賑やかなストリートマーケットからエレガントなダイニングまで、食べ物好きはこの熱帯の楽園でたくさんの美味しさを楽しむことができます。",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "首里城市場",
+          "type": "street_food",
+          "description": "歴史的な首里城の近くに位置するこの市場は、ストリートフード愛好家にとって必見のスポットです。沖縄そばやサツマイモのおやつなど、さまざまな地元の美味を味わえます。活気ある雰囲気とフレンドリーなベンダーたちが、沖縄の本物の味を楽しむのに最適な場所です。価格は $ から $$ までです。",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "牧志公設市場",
+          "type": "night_market",
+          "description": "この賑やかな市場は「沖縄の台所」として知られ、地元の農産物やストリートフードを探索するのに最適な場所です。賑やかな屋台では、新鮮な海産物、トロピカルフルーツ、伝統的な料理が提供されています。有名なタコライスやゴーヤーチャンプルーを試す機会をお見逃しなく。価格は手頃で、通常 $ から $$ までです。",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "焼肉三直",
+          "type": "restaurant",
+          "description": "この有名なレストランは、沖縄の名物牛肉を専門にし、自分で焼くダイニング体験を提供しています。居心地の良い雰囲気と高品質な肉のメニューがあり、地元の人々や観光客に人気です。食事には地元の泡盛を合わせて、完全な体験を楽しんでください。価格は中程度で $$ です。",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "うら庭",
+          "type": "restaurant",
+          "description": "うら庭は、伝統的な沖縄料理に焦点を当てたユニークなダイニング体験を提供します。居心地の良い雰囲気と美しい料理のプレゼンテーションが特別な夜にぴったりです。ゴーヤーチャンプルーやラフテーなどの看板料理は必見です。価格は $$ の範囲です。",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "沖縄そば禅",
+          "type": "restaurant",
+          "description": "沖縄そば禅は、豊かな出汁と新鮮なトッピングで提供される伝統的な沖縄そばで知られています。レストランの素朴な装飾が温かい雰囲気を醸し出しており、家族で訪れるのにぴったりの場所です。価格は予算に優しく、通常 $ 程度です。",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "波の上うどん",
+          "type": "street_food",
+          "description": "波の上うどんは、さまざまなトッピングで提供される美味しい手作りのうどんを楽しめる人気スポットです。海の近くに位置し、風景を楽しみながらボリューム満点の一杯を楽しむのに最適な場所です。カジュアルな雰囲気と手頃な価格（$）で、地元の人々に人気です。",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "美ら海水族館カフェ",
+          "type": "cafe",
+          "description": "有名な美ら海水族館内に位置するこのカフェは、海の景色を楽しめるユニークなダイニング体験を提供します。軽食や新鮮な海鮮が特徴で、水族館を探索した後にリフレッシュするのに最適な場所です。価格は中程度で、通常 $$ です。",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "国際通り",
+          "type": "night_market",
+          "description": "国際通りは、ショップ、レストラン、フードスタンドが並ぶ賑やかな通りで、さまざまな地元の美味を提供しています。この活気ある雰囲気は、サータアンダギー（沖縄ドーナツ）やビンガタ（お米のケーキ）などのおやつを試すのに最適な場所です。価格は $ から $$ までです。",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "오키나와 최고의 음식 2026 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "오키나와의 최고의 레스토랑, 스트리트 푸드 및 지역 특산물을 발견하세요. 예산에 맞는 식사부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "오키나와는 풍부한 역사와 지리적 위치의 영향을 받은 독특하고 활기찬 음식 문화를 자랑합니다. 건강한 재료와 오키나와 소바, 고야 참푸르와 같은 지역 특산물로 유명한 이 섬은 다양한 요리 경험을 제공합니다. 분주한 스트리트 마켓에서 우아한 다이닝까지, 음식 애호가들은 이 열대 낙원에서 많은 맛을 즐길 수 있습니다.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "슈리성 시장",
+          "type": "street_food",
+          "description": "역사적인 슈리성 근처에 위치한 이 시장은 스트리트 푸드 애호가에게 꼭 방문해야 할 곳입니다. 오키나와 소바와 고구마 간식 등 다양한 지역 음식을 맛볼 수 있습니다. 활기찬 분위기와 친절한 상인들 덕분에 진정한 오키나와의 맛을 즐기기에 완벽한 장소입니다. 가격은 $에서 $$까지입니다.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "마키시 공설 시장",
+          "type": "night_market",
+          "description": "이 활기찬 시장은 '오키나와의 주방'으로 알려져 있으며, 지역 농산물과 스트리트 푸드를 탐험하는 환상적인 장소입니다. 분주한 가판대에서는 신선한 해산물, 열대 과일, 전통 요리를 제공합니다. 유명한 타코 라이스나 고야 참푸르를 맛볼 기회를 놓치지 마세요. 가격은 저렴하며 일반적으로 $에서 $$까지입니다.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "야키니쿠 산쵸쿠",
+          "type": "restaurant",
+          "description": "이 유명한 레스토랑은 오키나와의 유명한 소고기를 전문으로 하며, 직접 구워 먹는 다이닝 경험을 제공합니다. 아늑한 분위기와 고품질 고기 메뉴로, 현지인과 관광객 모두에게 인기가 많습니다. 식사와 함께 지역 아와모리를 곁들여 완벽한 경험을 즐기세요. 가격은 중간 정도로 $$입니다.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "우라니와",
+          "type": "restaurant",
+          "description": "우라니와는 전통 오키나와 요리에 중점을 둔 독특한 다이닝 경험을 제공합니다. 아늑한 분위기와 아름다운 요리 프레젠테이션이 특별한 저녁에 이상적입니다. 고야 참푸르와 라후테 같은 시그니처 요리는 꼭 시도해야 합니다. 가격은 $$ 범위입니다.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "오키나와 소바 젠",
+          "type": "restaurant",
+          "description": "오키나와 소바 젠은 풍부한 육수와 신선한 토핑으로 제공되는 전통 오키나와 소바로 유명합니다. 레스토랑의 소박한 장식이 따뜻한 분위기를 연출하여 가족 단위 방문에 적합한 장소입니다. 가격은 저렴하고 일반적으로 $ 정도입니다.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "나미노우에 우동",
+          "type": "street_food",
+          "description": "나미노우에 우동은 다양한 토핑과 함께 제공되는 맛있는 수제 우동으로 인기 있는 곳입니다. 바다 근처에 위치하여 경치를 감상하며 푸짐한 한 그릇을 즐기기에 최적의 장소입니다. 캐주얼한 분위기와 저렴한 가격($)으로 현지인들에게 인기가 많습니다.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "추라우미 수족관 카페",
+          "type": "cafe",
+          "description": "유명한 추라우미 수족관 내에 위치한 이 카페는 바다 전망을 즐길 수 있는 독특한 다이닝 경험을 제공합니다. 가벼운 식사와 신선한 해산물을 제공하여 수족관을 탐험한 후 재충전하기에 좋은 장소입니다. 가격은 중간 정도이며 일반적으로 $$입니다.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "국제거리",
+          "type": "night_market",
+          "description": "국제거리는 상점, 레스토랑, 음식 노점이 가득한 분주한 거리로, 다양한 지역 진미를 제공합니다. 이 활기찬 분위기는 사타안다기(오키나와 도넛)와 빈가타(쌀 케이크)와 같은 간식을 맛보기에 완벽한 장소입니다. 가격은 $에서 $$까지입니다.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures nourritures d'Okinawa 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales d'Okinawa. Des repas économiques à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "Okinawa possède une culture culinaire unique et vibrante, influencée par sa riche histoire et sa situation géographique. Connue pour ses ingrédients sains et ses spécialités locales telles que les soba d'Okinawa et le goya champuru, cette île offre une expérience culinaire diversifiée. Des marchés animés aux dîners élégants, les amateurs de bonne nourriture trouveront de quoi se régaler dans ce paradis tropical.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "Marché du Château de Shuri",
+          "type": "street_food",
+          "description": "Niché près du historique Château de Shuri, ce marché est un incontournable pour les passionnés de street food. Vous pourrez déguster une variété de délices locaux, notamment des soba d'Okinawa et des collations à base de patate douce. L'atmosphère vibrante et les vendeurs amicaux en font un endroit parfait pour savourer des saveurs authentiques d'Okinawa. Les prix varient de $ à $$.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "Marché Public de Makishi",
+          "type": "night_market",
+          "description": "Ce marché animé est connu comme la 'cuisine d'Okinawa' et est un endroit fantastique pour explorer les produits locaux et la street food. Les étals animés offrent des fruits de mer frais, des fruits tropicaux et des plats traditionnels. Ne manquez pas l'occasion de goûter le célèbre taco rice ou le goya champuru. Les prix sont abordables, généralement entre $ et $$.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "Yakiniku Sanchoku",
+          "type": "restaurant",
+          "description": "Ce restaurant renommé se spécialise dans le célèbre bœuf d'Okinawa, offrant une expérience de dîner où vous pouvez griller vous-même. Avec une atmosphère accueillante et un menu rempli de morceaux de haute qualité, c'est un favori parmi les habitants et les touristes. Accompagnez votre repas d'Awamori local pour une expérience complète. Les prix sont modérés, environ $$.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "Uraniwa",
+          "type": "restaurant",
+          "description": "Uraniwa offre une expérience culinaire unique axée sur la cuisine traditionnelle d'Okinawa. L'atmosphère chaleureuse et la belle présentation des plats en font un endroit idéal pour une soirée spéciale. Les plats signatures comme le goya champuru et le rafute sont incontournables. Les prix sont dans la fourchette de $$.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "Okinawa Soba Zen",
+          "type": "restaurant",
+          "description": "Okinawa Soba Zen est célèbre pour ses soba d'Okinawa traditionnels, servis dans un bouillon riche avec des garnitures fraîches. La décoration rustique du restaurant crée une ambiance chaleureuse, idéale pour les familles. Les prix sont abordables, généralement autour de $.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "Naminoue Udon",
+          "type": "street_food",
+          "description": "Naminoue Udon est un endroit populaire pour déguster de délicieuses nouilles udon faites à la main, servies avec diverses garnitures. Situé près de la mer, c'est un excellent endroit pour profiter d'un bol copieux tout en admirant la vue. L'ambiance décontractée et les prix abordables ($) en font un favori parmi les habitants.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "Café de l'Aquarium Churaumi",
+          "type": "cafe",
+          "description": "Situé à l'intérieur du célèbre Aquarium Churaumi, ce café offre une expérience culinaire unique avec vue sur l'océan. Proposant des repas légers et des fruits de mer frais, c'est un excellent endroit pour se restaurer après avoir exploré l'aquarium. Les prix sont modérés, généralement autour de $$.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "Rue Kokusai Dori",
+          "type": "night_market",
+          "description": "Kokusai Dori est une rue animée remplie de boutiques, de restaurants et de stands de nourriture proposant une variété de spécialités locales. Cette atmosphère vibrante en fait un endroit parfait pour déguster des collations comme les sata andagi (beignets d'Okinawa) et les bingata (gâteaux de riz). Les prix varient de $ à $$.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Okinawa 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Okinawa. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Okinawa cuenta con una cultura gastronómica única y vibrante, influenciada por su rica historia y ubicación geográfica. Conocida por sus ingredientes saludables y especialidades locales como soba de Okinawa y goya champuru, esta isla ofrece una experiencia culinaria diversa. Desde bulliciosos mercados callejeros hasta elegantes cenas, los amantes de la comida encontrarán mucho que saborear en este paraíso tropical.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "Mercado del Castillo de Shuri",
+          "type": "street_food",
+          "description": "Ubicado cerca del histórico Castillo de Shuri, este mercado es una visita obligada para los entusiastas de la comida callejera. Puedes probar una variedad de delicias locales, incluyendo soba de Okinawa y bocadillos de batata. La atmósfera vibrante y los vendedores amigables lo convierten en un lugar perfecto para disfrutar de los sabores auténticos de Okinawa. Los precios oscilan entre $ y $$.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "Mercado Público de Makishi",
+          "type": "night_market",
+          "description": "Este animado mercado es conocido como la 'cocina de Okinawa' y es un lugar fantástico para explorar productos locales y comida callejera. Los bulliciosos puestos ofrecen mariscos frescos, frutas tropicales y platos tradicionales. No te pierdas la oportunidad de probar el famoso taco rice o el goya champuru. Los precios son asequibles, normalmente entre $ y $$.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "Yakiniku Sanchoku",
+          "type": "restaurant",
+          "description": "Este renombrado restaurante se especializa en la famosa carne de res de Okinawa, ofreciendo una experiencia de cena donde puedes asar tú mismo. Con un ambiente acogedor y un menú lleno de cortes de alta calidad, es un favorito entre los locales y turistas. Acompaña tu comida con el Awamori local para una experiencia completa. Los precios son moderados, alrededor de $$.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "Uraniwa",
+          "type": "restaurant",
+          "description": "Uraniwa ofrece una experiencia culinaria única centrada en la cocina tradicional de Okinawa. La atmósfera acogedora y la hermosa presentación de los platos lo convierten en un lugar ideal para una noche especial. Los platos emblemáticos como el goya champuru y el rafute son imprescindibles. Los precios están en el rango de $$.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "Okinawa Soba Zen",
+          "type": "restaurant",
+          "description": "Okinawa Soba Zen es conocido por su soba de Okinawa tradicional, servido en un caldo rico con ingredientes frescos. La decoración rústica del restaurante crea un ambiente cálido, ideal para familias. Los precios son amigables para el presupuesto, generalmente alrededor de $.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "Naminoue Udon",
+          "type": "street_food",
+          "description": "Naminoue Udon es un lugar popular para disfrutar de deliciosos fideos udon hechos a mano, servidos con varios ingredientes. Ubicado cerca del mar, es un excelente lugar para disfrutar de un sabroso tazón mientras contempla la vista. El ambiente informal y los precios asequibles ($) lo convierten en un favorito entre los locales.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "Cafetería del Acuario Churaumi",
+          "type": "cafe",
+          "description": "Ubicada dentro del famoso Acuario Churaumi, esta cafetería ofrece una experiencia culinaria única con vistas al océano. Con comidas ligeras y mariscos frescos, es un excelente lugar para reponer energías después de explorar el acuario. Los precios son moderados, generalmente alrededor de $$.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "Calle Kokusai Dori",
+          "type": "night_market",
+          "description": "Kokusai Dori es una calle bulliciosa llena de tiendas, restaurantes y puestos de comida que ofrecen una variedad de delicias locales. Esta atmósfera vibrante lo convierte en un lugar perfecto para probar bocadillos como sata andagi (donas de Okinawa) y bingata (pasteles de arroz). Los precios oscilan entre $ y $$.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Okinawa 2026 — Restoran Teratas & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Okinawa. Dari makanan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
+      "page_intro": "Okinawa memiliki budaya makanan yang unik dan vibran, dipengaruhi oleh sejarah yang kaya dan lokasi geografisnya. Dikenal karena bahan-bahan sehat dan spesial lokal seperti soba Okinawa dan goya champuru, pulau ini menawarkan pengalaman kuliner yang beragam. Dari pasar jalanan yang ramai hingga makan malam yang elegan, para pecinta makanan akan menemukan banyak hal untuk dinikmati di surga tropis ini.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "Pasar Kastil Shuri",
+          "type": "street_food",
+          "description": "Terletak dekat Kastil Shuri yang bersejarah, pasar ini adalah tempat yang wajib dikunjungi bagi para penggemar makanan jalanan. Anda dapat mencicipi berbagai makanan lokal, termasuk soba Okinawa dan camilan ubi manis. Suasana yang meriah dan para penjual yang ramah menjadikannya tempat yang sempurna untuk menikmati cita rasa Okinawa yang otentik. Harga berkisar antara $ hingga $$.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "Pasar Umum Makishi",
+          "type": "night_market",
+          "description": "Pasar yang ramai ini dikenal sebagai 'dapur Okinawa' dan merupakan tempat fantastis untuk menjelajahi produk lokal dan makanan jalanan. Gerai-gerai yang ramai menawarkan seafood segar, buah tropis, dan hidangan tradisional. Jangan lewatkan kesempatan untuk mencoba taco rice yang terkenal atau goya champuru. Harga terjangkau, biasanya berkisar antara $ hingga $$.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "Yakiniku Sanchoku",
+          "type": "restaurant",
+          "description": "Restoran terkenal ini mengkhususkan diri dalam daging sapi terkenal Okinawa, menawarkan pengalaman bersantap di mana Anda dapat memanggang sendiri. Dengan suasana yang mengundang dan menu yang dipenuhi potongan berkualitas tinggi, ini adalah favorit di antara penduduk lokal dan turis. Padukan hidangan Anda dengan Awamori lokal untuk pengalaman yang lengkap. Harga berkisar antara $$.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "Uraniwa",
+          "type": "restaurant",
+          "description": "Uraniwa menawarkan pengalaman bersantap yang unik dengan fokus pada masakan tradisional Okinawa. Suasana yang nyaman dan presentasi hidangan yang indah menjadikannya ideal untuk malam istimewa. Hidangan khas seperti goya champuru dan rafute adalah yang harus dicoba. Harga berkisar di $$.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "Okinawa Soba Zen",
+          "type": "restaurant",
+          "description": "Okinawa Soba Zen terkenal dengan soba Okinawa tradisionalnya, disajikan dalam kaldu kaya dengan topping segar. Dekorasi restoran yang rustic menciptakan suasana hangat, menjadikannya tempat yang sempurna untuk keluarga. Harga ramah anggaran, biasanya sekitar $.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "Naminoue Udon",
+          "type": "street_food",
+          "description": "Naminoue Udon adalah tempat populer untuk menikmati udon buatan tangan yang lezat dengan berbagai topping. Terletak dekat laut, ini adalah tempat yang bagus untuk menikmati semangkuk besar sambil menikmati pemandangan. Suasana santai dan harga terjangkau ($) menjadikannya favorit di kalangan penduduk lokal.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "Kafe Akuarium Churaumi",
+          "type": "cafe",
+          "description": "Terletak di dalam Akuarium Churaumi yang terkenal, kafe ini menawarkan pengalaman bersantap yang unik dengan pemandangan laut. Menawarkan makanan ringan dan seafood segar, ini adalah tempat yang bagus untuk mengisi daya setelah menjelajahi akuarium. Harga moderat, biasanya $$.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "Jalan Kokusai Dori",
+          "type": "night_market",
+          "description": "Kokusai Dori adalah jalan yang ramai dipenuhi toko-toko, restoran, dan gerai makanan yang menawarkan berbagai makanan lokal. Suasana yang meriah ini menjadikannya tempat yang sempurna untuk mencicipi camilan seperti sata andagi (donat Okinawa) dan bingata (kue beras). Harga berkisar antara $ hingga $$.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "ओकिनावा में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "ओकिनावा में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट भोजन से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "ओकिनावा एक अनूठी और जीवंत खाद्य संस्कृति का दावा करता है जो इसके समृद्ध इतिहास और भौगोलिक स्थान से प्रभावित है। ओकिनावा सोबा और गोया चंपुरु जैसी स्थानीय विशेषताओं और स्वस्थ सामग्री के लिए जाना जाने वाला यह द्वीप एक विविध खाद्य अनुभव प्रदान करता है। हलचल भरे स्ट्रीट मार्केट से लेकर शानदार भोजन तक, खाद्य प्रेमियों को इस उष्णकटिबंधीय स्वर्ग में बहुत कुछ चखने के लिए मिलेगा।",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "शुरी कैसल मार्केट",
+          "type": "street_food",
+          "description": "ऐतिहासिक शुरी कैसल के पास स्थित, यह मार्केट स्ट्रीट फूड प्रेमियों के लिए एक अनिवार्य स्थान है। आप ओकिनावा सोबा और मीठे आलू के स्नैक्स सहित विभिन्न स्थानीय व्यंजनों का स्वाद ले सकते हैं। जीवंत वातावरण और दोस्ताना विक्रेताओं के साथ, यह ओकिनावाई स्वाद का आनंद लेने के लिए एकदम सही स्थान है। कीमतें $ से $$ के बीच हैं।",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "माकिशी सार्वजनिक बाजार",
+          "type": "night_market",
+          "description": "यह जीवंत बाजार 'ओकिनावा का किचन' के रूप में जाना जाता है और स्थानीय उत्पादों और स्ट्रीट फूड का अन्वेषण करने के लिए एक शानदार स्थान है। हलचल भरे स्टॉल ताज़ा समुद्री भोजन, उष्णकटिबंधीय फल और पारंपरिक व्यंजन पेश करते हैं। प्रसिद्ध टैको राइस या गोया चंपुरु का स्वाद लेना न भूलें। कीमतें सस्ती हैं, आमतौर पर $ से $$ के बीच।",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "याकिनिकु सांचोकु",
+          "type": "restaurant",
+          "description": "यह प्रसिद्ध रेस्तरां ओकिनावा की प्रसिद्ध बीफ में विशेषज्ञता रखता है, जो खुद ग्रिल करने का अनुभव प्रदान करता है। आमंत्रित वातावरण और उच्च गुणवत्ता वाले कट्स से भरा मेनू, यह स्थानीय लोगों और पर्यटकों के बीच पसंदीदा है। अपने भोजन के साथ स्थानीय अवामोरी का आनंद लें। कीमतें $$ के आसपास हैं।",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "उरानीवा",
+          "type": "restaurant",
+          "description": "उरानीवा पारंपरिक ओकिनावाई व्यंजनों पर ध्यान केंद्रित करते हुए एक अनूठा भोजन अनुभव प्रदान करता है। आरामदायक वातावरण और सुंदर व्यंजनों की प्रस्तुति इसे एक विशेष रात के लिए आदर्श बनाती है। गोया चंपुरु और रफूटे जैसे सिग्नेचर व्यंजन अवश्य चखें। कीमतें $$ के रेंज में हैं।",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "ओकिनावा सोबा ज़ेन",
+          "type": "restaurant",
+          "description": "ओकिनावा सोबा ज़ेन अपने पारंपरिक ओकिनावा सोबा के लिए प्रसिद्ध है, जो समृद्ध शोरबा के साथ ताज़ा टॉपिंग के साथ परोसी जाती है। रेस्तरां की देहाती सजावट गर्म माहौल बनाती है, जिससे यह परिवारों के लिए एक बेहतरीन स्थान बनता है। कीमतें बजट के अनुकूल हैं, आमतौर पर $ के आसपास।",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "नामिनोउ उडोन",
+          "type": "street_food",
+          "description": "नामिनोउ उडोन विभिन्न टॉपिंग के साथ स्वादिष्ट, हस्तनिर्मित उडोन नूडल्स के लिए एक लोकप्रिय स्थान है। समुद्र के पास स्थित, यह एक हार्दिक कटोरा का आनंद लेने के लिए एक शानदार स्थान है जबकि दृश्य का आनंद लिया जा सकता है। आरामदायक सेटिंग और सस्ती कीमतें ($) इसे स्थानीय लोगों के बीच पसंदीदा बनाती हैं।",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "चुरामी एक्वेरियम कैफे",
+          "type": "cafe",
+          "description": "प्रसिद्ध चुरामी एक्वेरियम के भीतर स्थित, यह कैफे समुद्री दृश्यों के साथ एक अनूठा भोजन अनुभव प्रदान करता है। हल्के भोजन और ताजे समुद्री भोजन की पेशकश करते हुए, यह एक्वेरियम के अन्वेषण के बाद रिफ्यूएल करने के लिए एक बेहतरीन स्थान है। कीमतें मध्यम हैं, आमतौर पर $$।",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "कोकुसाई डोरी स्ट्रीट",
+          "type": "night_market",
+          "description": "कोकुसाई डोरी एक हलचल भरी सड़क है जिसमें दुकानों, रेस्तरां और खाद्य स्टॉल हैं जो विभिन्न स्थानीय विशेषताओं की पेशकश करते हैं। यह जीवंत वातावरण इसे साटा एंडागी (ओकिनावाई डोनट) और बिन्गाटा (चावल के केक) जैसे स्नैक्स का स्वाद लेने के लिए एकदम सही स्थान बनाता है। कीमतें $ से $$ के बीच हैं।",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Okinawa 2026 — Melhores Restaurantes & Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais em Okinawa. Desde refeições econômicas até alta gastronomia — com links para reservas.",
+      "page_intro": "Okinawa possui uma cultura alimentar única e vibrante influenciada por sua rica história e localização geográfica. Conhecida por seus ingredientes saudáveis e especialidades locais como Okinawa soba e goya champuru, esta ilha oferece uma experiência culinária diversificada. Desde mercados de rua movimentados até jantares elegantes, os amantes da comida encontrarão muito para saborear neste paraíso tropical.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "Mercado do Castelo Shuri",
+          "type": "street_food",
+          "description": "Situado perto do histórico Castelo Shuri, este mercado é uma visita obrigatória para os entusiastas de comida de rua. Você pode experimentar uma variedade de delícias locais, incluindo Okinawa soba e petiscos de batata-doce. A atmosfera vibrante e os vendedores amigáveis tornam este um lugar perfeito para desfrutar dos sabores autênticos de Okinawa. Os preços variam de $ a $$.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "Mercado Público de Makishi",
+          "type": "night_market",
+          "description": "Este mercado animado é conhecido como a 'cozinha de Okinawa' e é um lugar fantástico para explorar produtos locais e comidas de rua. As barracas movimentadas oferecem frutos do mar frescos, frutas tropicais e pratos tradicionais. Não perca a chance de experimentar o famoso taco rice ou goya champuru. Os preços são acessíveis, geralmente variando de $ a $$.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "Yakiniku Sanchoku",
+          "type": "restaurant",
+          "description": "Este renomado restaurante é especializado na famosa carne de Okinawa, oferecendo uma experiência de jantar onde você grelha sua própria comida. Com uma atmosfera convidativa e um menu repleto de cortes de alta qualidade, é um favorito entre locais e turistas. Acompanhe sua refeição com Awamori local para uma experiência completa. Os preços são moderados, em torno de $$.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "Uraniwa",
+          "type": "restaurant",
+          "description": "Uraniwa oferece uma experiência de jantar única com foco na culinária tradicional de Okinawa. A atmosfera aconchegante e a bela apresentação dos pratos tornam este um lugar ideal para uma noite especial. Pratos assinados como goya champuru e rafute são imperdíveis. Os preços estão na faixa de $$.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "Okinawa Soba Zen",
+          "type": "restaurant",
+          "description": "Okinawa Soba Zen é conhecido por seu tradicional Okinawa soba, servido em um caldo rico com coberturas frescas. A decoração rústica do restaurante cria uma atmosfera acolhedora, tornando-o um lugar perfeito para famílias. Os preços são amigáveis, geralmente em torno de $.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "Naminoue Udon",
+          "type": "street_food",
+          "description": "Naminoue Udon é um local popular para deliciosos noodles udon feitos à mão, servidos com várias coberturas. Localizado perto do mar, é um ótimo lugar para desfrutar de uma tigela farta enquanto aprecia a vista. O ambiente casual e os preços acessíveis ($) fazem dele um favorito entre os locais.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "Café do Aquário Churaumi",
+          "type": "cafe",
+          "description": "Localizado dentro do famoso Aquário Churaumi, este café oferece uma experiência de jantar única com vistas para o mar. Com refeições leves e frutos do mar frescos, é um ótimo lugar para reabastecer após explorar o aquário. Os preços são moderados, geralmente em torno de $$.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "Rua Kokusai Dori",
+          "type": "night_market",
+          "description": "Kokusai Dori é uma rua movimentada repleta de lojas, restaurantes e barracas de comida que oferecem uma variedade de delícias locais. A atmosfera vibrante torna este um lugar perfeito para experimentar petiscos como sata andagi (donuts okinawanos) e bingata (bolos de arroz). Os preços variam de $ a $$.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في أوكيناوا 2026 — أفضل المطاعم ودليل طعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في أوكيناوا. من الوجبات الاقتصادية إلى تناول الطعام الراقي - مع روابط للحجز.",
+      "page_intro": "تفتخر أوكيناوا بثقافة غذائية فريدة وحيوية تأثرت بتاريخها الغني وموقعها الجغرافي. معروفة بمكوناتها الصحية وتخصصاتها المحلية مثل أوكيناوا سوبا وجويا تشامبورو، تقدم هذه الجزيرة تجربة طهي متنوعة. من الأسواق الشعبية المزدحمة إلى العشاء الأنيق، سيجد عشاق الطعام الكثير لتذوقه في هذه الجنة الاستوائية.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "سوق قلعة شوري",
+          "type": "street_food",
+          "description": "يقع بالقرب من قلعة شوري التاريخية، هذا السوق هو وجهة لا بد من زيارتها لعشاق طعام الشارع. يمكنك تذوق مجموعة متنوعة من الأطباق المحلية، بما في ذلك أوكيناوا سوبا ووجبات خفيفة من البطاطا الحلوة. تجعل الأجواء النابضة بالحياة والبائعين الودودين هذا المكان مثالياً للاستمتاع بنكهات أوكيناوا الأصيلة. تتراوح الأسعار من $ إلى $$.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "سوق ماكيشي العام",
+          "type": "night_market",
+          "description": "هذا السوق النابض بالحياة معروف بأنه 'مطبخ أوكيناوا' وهو مكان رائع لاستكشاف المنتجات المحلية وطعام الشارع. تقدم الأكشاك المزدحمة المأكولات البحرية الطازجة والفواكه الاستوائية والأطباق التقليدية. لا تفوت فرصة تجربة الأرز بالتاكو الشهير أو جويا تشامبورو. الأسعار معقولة، وعادة ما تتراوح من $ إلى $$.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "ياكينكو سانشوكو",
+          "type": "restaurant",
+          "description": "هذا المطعم الشهير متخصص في لحم أوكيناوا الشهير، حيث يقدم تجربة تناول الطعام حيث يمكنك شوي طعامك بنفسك. مع أجواء دافئة وقائمة مليئة بالقطع عالية الجودة، يعتبر من المفضلين بين السكان المحليين والسياح. قم بمرافقة وجبتك مع الأواموري المحلي لتجربة كاملة. الأسعار معتدلة، حوالي $$.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "أورانيوا",
+          "type": "restaurant",
+          "description": "يقدم أورانيوا تجربة تناول طعام فريدة مع التركيز على المأكولات التقليدية في أوكيناوا. تجعل الأجواء المريحة وعرض الأطباق الجميلة هذا المكان مثالياً لليلة خاصة. يجب تناول الأطباق المميزة مثل جويا تشامبورو ورافوت. الأسعار في نطاق $$.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "أوكيناوا سوبا زين",
+          "type": "restaurant",
+          "description": "يشتهر أوكيناوا سوبا زين بنودلز أوكيناوا التقليدية، التي تُقدم في مرق غني مع توبينغ طازجة. تخلق الديكورات الريفية للمطعم أجواء دافئة، مما يجعله مكاناً مثالياً للعائلات. الأسعار معقولة، عادة حول $.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "نامينويه أودون",
+          "type": "street_food",
+          "description": "نامينويه أودون هو مكان شهير لنودلز الأودون اللذيذة المصنوعة يدويًا، والتي تُقدم مع مجموعة متنوعة من التوبينغ. يقع بالقرب من البحر، وهو مكان رائع للاستمتاع بوعاء شهي أثناء الاستمتاع بالمنظر. تجعل الأجواء غير الرسمية والأسعار المعقولة ($) منه مفضلًا بين السكان المحليين.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "كافيه حوض مائي تشورامي",
+          "type": "cafe",
+          "description": "يقع داخل حوض الأسماك الشهير تشورامي، يقدم هذا الكافيه تجربة تناول طعام فريدة مع إطلالات على المحيط. مع الوجبات الخفيفة والمأكولات البحرية الطازجة، إنه مكان رائع للتزود بالوقود بعد استكشاف الأكواريوم. الأسعار معتدلة، عادة حول $$.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "شارع كوكوساي دورى",
+          "type": "night_market",
+          "description": "شارع كوكوساي هو شارع مزدحم مليء بالمتاجر والمطاعم وأكشاك الطعام التي تقدم مجموعة متنوعة من التخصصات المحلية. تجعل الأجواء النابضة بالحياة هذا المكان مثاليًا لتذوق الوجبات الخفيفة مثل ساتا أنداجي (دونات أوكيناوا) وبنجاتا (كعك الأرز). تتراوح الأسعار من $ إلى $$.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ওকিনাওয়ায় সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
+      "seo_description": "ওকিনাওয়ায় সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব খুঁজে বের করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত — বুকিং লিঙ্ক সহ।",
+      "page_intro": "ওকিনাওয়া একটি অনন্য এবং প্রাণবন্ত খাবারের সংস্কৃতি গর্বিত করে যা এর সমৃদ্ধ ইতিহাস এবং ভৌগোলিক অবস্থান দ্বারা প্রভাবিত। স্বাস্থ্যকর উপাদান এবং স্থানীয় বিশেষত্ব যেমন ওকিনাওয়া সোবা এবং গোয়া চাম্পুরু জন্য পরিচিত, এই দ্বীপটি একটি বৈচিত্র্যময় খাদ্য অভিজ্ঞতা প্রদান করে। ব্যস্ত স্ট্রীট মার্কেট থেকে শুরু করে অভিজাত খাবারের অভিজ্ঞতা, খাবারের প্রেমীরা এই উষ্ণ আবহাওয়ার স্বর্গে প্রচুর কিছু উপভোগ করতে পাবেন।",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "শুরি ক্যাসল মার্কেট",
+          "type": "street_food",
+          "description": "ঐতিহাসিক শুরি ক্যাসলের কাছে অবস্থিত, এই বাজারটি স্ট্রিট ফুড প্রেমীদের জন্য একটি যাওয়া উচিত। আপনি ওকিনাওয়া সোবা এবং মিষ্টি আলুর স্ন্যাকস সহ বিভিন্ন স্থানীয় রসনা চেখে দেখতে পারেন। উজ্জ্বল পরিবেশ এবং বন্ধুত্বপূর্ণ বিক্রেতারা এটিকে আসল ওকিনাওয়ান স্বাদ উপভোগ করার জন্য একটি নিখুঁত জায়গা করে তোলে। মূল্য $ থেকে $$ এর মধ্যে।",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "মাকিশি পাবলিক মার্কেট",
+          "type": "night_market",
+          "description": "এই প্রাণবন্ত বাজারটি 'ওকিনাওয়ার রান্নাঘর' নামে পরিচিত এবং স্থানীয় পণ্য এবং স্ট্রিট ফুড অন্বেষণের জন্য একটি দুর্দান্ত স্থান। ব্যস্ত স্টলগুলি তাজা সামুদ্রিক খাদ্য, উষ্ণ ফল এবংTraditional dishes। বিখ্যাত টাকো রাইস বা গোয়া চাম্পুরুর স্বাদ নেওয়ার সুযোগ হাতছাড়া করবেন না। দাম সাশ্রয়ী, সাধারণত $ থেকে $$ এর মধ্যে।",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "যাকিনিকু সাঞ্চোকু",
+          "type": "restaurant",
+          "description": "এই বিখ্যাত রেস্তোরাঁটি ওকিনাওয়ার বিখ্যাত মাংসে বিশেষজ্ঞ, যেখানে আপনি নিজে গ্রিল করার অভিজ্ঞতা উপভোগ করতে পারবেন। আমন্ত্রণমূলক পরিবেশ এবং উচ্চ-মানের কাটগুলির সাথে একটি মেনু, এটি স্থানীয় এবং পর্যটকদের মধ্যে একটি পছন্দের। আপনার খাবারের সাথে স্থানীয় আয়ামোরি যুক্ত করুন একটি সম্পূর্ণ অভিজ্ঞতার জন্য। দাম মাঝারি $$।",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "উরানিবা",
+          "type": "restaurant",
+          "description": "উরানিবা ঐতিহ্যবাহী ওকিনাওয়ান রন্ধনপ্রণালীর উপর জোর দিয়ে একটি অনন্য ডাইনিং অভিজ্ঞতা অফার করে। আরামদায়ক পরিবেশ এবং সুন্দরভাবে উপস্থাপিত খাবারগুলি বিশেষ রাতের জন্য এটি আদর্শ। গোয়া চাম্পুরু এবং রাফুটে মতো স্বাক্ষরিত খাবারগুলি অবশ্যই চেখে দেখতে হবে। দাম $$ এর পরিসরে।",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "ওকিনাওয়া সোবা জেন",
+          "type": "restaurant",
+          "description": "ওকিনাওয়া সোবা জেন তার ঐতিহ্যবাহী ওকিনাওয়া সোবার জন্য বিখ্যাত, যা একটি সমৃদ্ধ সূপে তাজা টপিংসের সাথে পরিবেশন করা হয়। রেস্তোরাঁর গ্রামীণ সাজসজ্জা একটি উষ্ণ পরিবেশ তৈরি করে, যা পরিবারগুলির জন্য এটি একটি নিখুঁত স্থান করে তোলে। দাম সাশ্রয়ী, সাধারণত $ এর আশেপাশে।",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "নামিনোউ উডন",
+          "type": "street_food",
+          "description": "নামিনোউ উডন বিভিন্ন টপিংস সহ সুস্বাদু, হস্তনির্মিত উডন নুডলসের জন্য একটি জনপ্রিয় স্থান। সাগরের কাছে অবস্থান, এটি দৃশ্যের উপভোগ করার সময় একটি হৃদয়গ্রাহী বাটির স্বাদ উপভোগ করার জন্য একটি দুর্দান্ত স্থান। অবাধ পরিবেশ এবং সাশ্রয়ী দাম ($) এটিকে স্থানীয়দের মধ্যে প্রিয় করে তোলে।",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "চুরামি অ্যাকুরিয়াম ক্যাফে",
+          "type": "cafe",
+          "description": "প্রসিদ্ধ চুরামি অ্যাকুরিয়ামের ভিতরে অবস্থিত, এই ক্যাফে সমুদ্রের দৃশ্য সহ একটি অনন্য ডাইনিং অভিজ্ঞতা প্রদান করে। হালকা খাবার এবং তাজা সামুদ্রিক খাবারের বৈশিষ্ট্যযুক্ত, এটি একুরিয়াম অন্বেষণের পরে শক্তি পুনরুদ্ধারের জন্য একটি দুর্দান্ত স্থান। দাম মাঝারি, সাধারণত $$।",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "কোকুসাই ডোরি স্ট্রিট",
+          "type": "night_market",
+          "description": "কোকুসাই ডোরি একটি ব্যস্ত রাস্তা যা দোকান, রেস্তোরাঁ এবং খাদ্য স্টল পূর্ণ যা বিভিন্ন স্থানীয় বিশেষত্ব অফার করে। এই প্রাণবন্ত পরিবেশ এটিকে সাটা অ্যান্ডাগি (ওকিনাওয়ান ডোনাট) এবং বিংগাটা (চাল কেক) এর মতো স্ন্যাকগুলি চেখে দেখার জন্য একটি নিখুঁত জায়গা করে তোলে। দাম $ থেকে $$ এর মধ্যে।",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Окинаве 2026 — Топ ресторанов и уличной еды",
+      "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных специалитетах Окинавы. От бюджетных закусок до изысканной кухни — со ссылками на бронирование.",
+      "page_intro": "Окинава гордится уникальной и яркой кулинарной культурой, которая была сформирована ее богатой историей и географическим положением. Известный своими полезными ингредиентами и местными специалитетами, такими как Окинава соба и гоя чампуру, этот остров предлагает разнообразный кулинарный опыт. От шумных уличных рынков до изысканных ужинов, любители еды найдут много чего попробовать в этом тропическом раю.",
+      "items": [
+        {
+          "id": "shuri-castle-market",
+          "name": "Рынок замка Шури",
+          "type": "street_food",
+          "description": "Расположенный рядом с историческим замком Шури, этот рынок является обязательным для посещения любителями уличной еды. Вы можете попробовать разнообразные местные деликатесы, включая Окинава соба и закуски из сладкого картофеля. Яркая атмосфера и дружелюбные продавцы делают это идеальным местом для наслаждения аутентичными вкусами Окинавы. Цены варьируются от $ до $$.",
+          "image_keyword": "Shuri Castle Market street food",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Shuri Castle food tour"
+        },
+        {
+          "id": "makishi-public-market",
+          "name": "Общественный рынок Макиши",
+          "type": "night_market",
+          "description": "Этот оживленный рынок известен как 'кухня Окинавы' и является отличным местом для изучения местных продуктов и уличной еды. Оживленные прилавки предлагают свежие морепродукты, тропические фрукты и традиционные блюда. Не упустите возможность попробовать знаменитый тако-рис или гоя чампуру. Цены доступные, обычно варьируются от $ до $$.",
+          "image_keyword": "Makishi Public Market Okinawa",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Taco rice",
+          "klook_query": "Makishi Market food experience"
+        },
+        {
+          "id": "yakiniku-sanchoku",
+          "name": "Якиноку Санчоку",
+          "type": "restaurant",
+          "description": "Этот знаменитый ресторан специализируется на известной говядине Окинавы, предлагая опыт ужина, когда вы сами готовите на гриле. С приветливой атмосферой и меню, полным качественных кусков мяса, он любим местными жителями и туристами. Сочетайте свою еду с местным авамори для полного наслаждения. Цены умеренные, около $$.",
+          "image_keyword": "Yakiniku Sanchoku restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Okinawa beef",
+          "klook_query": "Yakiniku Sanchoku reservation"
+        },
+        {
+          "id": "uraniwa",
+          "name": "Уранива",
+          "type": "restaurant",
+          "description": "Уранива предлагает уникальный опыт ужина с акцентом на традиционную кухню Окинавы. Уютная атмосфера и красивая подача блюд делают его идеальным местом для особого вечера. Обязательно попробуйте фирменные блюда, такие как гоя чампуру и рафуте. Цены в диапазоне $$.",
+          "image_keyword": "Uraniwa Okinawa restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Rafute",
+          "klook_query": "Uraniwa dining experience"
+        },
+        {
+          "id": "okinawa-soba-zen",
+          "name": "Окинава Собу Зен",
+          "type": "restaurant",
+          "description": "Окинава Собу Зен славится своей традиционной Окинава собой, подаваемой в насыщенном бульоне с свежими начинками. Деревенский декор ресторана создает теплую атмосферу, что делает его отличным местом для семей. Цены доступны, обычно около $.",
+          "image_keyword": "Okinawa Soba Zen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Okinawa soba",
+          "klook_query": "Okinawa Soba Zen booking"
+        },
+        {
+          "id": "naminoue-udon",
+          "name": "Наминоу Удон",
+          "type": "street_food",
+          "description": "Наминоу Удон — популярное место для вкусных handmade удон-лапш, подаваемых с различными начинками. Находясь рядом с морем, это отличное место, чтобы насладиться сытной чашкой, наслаждаясь видом. Непринужденная обстановка и доступные цены ($) делают его любимым среди местных жителей.",
+          "image_keyword": "Naminoue Udon",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Naminoue Udon",
+          "klook_query": "Naminoue Udon tour"
+        },
+        {
+          "id": "churaumi-aquarium-cafe",
+          "name": "Кафе аквариума Чурауми",
+          "type": "cafe",
+          "description": "Находясь внутри знаменитого аквариума Чурауми, это кафе предлагает уникальный опыт ужина с видом на океан. С легкими блюдами и свежими морепродуктами это отличное место, чтобы восстановить силы после изучения аквариума. Цены умеренные, обычно около $$.",
+          "image_keyword": "Churaumi Aquarium Cafe",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Seafood curry",
+          "klook_query": "Churaumi Aquarium Cafe reservation"
+        },
+        {
+          "id": "kokusai-dori",
+          "name": "Улица Кокусай Дори",
+          "type": "night_market",
+          "description": "Улица Кокусай Дори — оживленная улица, полная магазинов, ресторанов и продуктовых лавок, предлагающих разнообразие местных деликатесов. Эта яркая атмосфера делает ее идеальным местом для дегустации закусок, таких как сата андоги (окинавские пончики) и бингата (рисовые пирожки). Цены варьируются от $ до $$.",
+          "image_keyword": "Kokusai Dori Street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sata andagi",
+          "klook_query": "Kokusai Dori food tour"
+        }
+      ]
+    }
+  }
+}

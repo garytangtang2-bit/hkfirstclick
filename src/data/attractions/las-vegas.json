@@ -1,0 +1,1097 @@
+{
+  "city_slug": "las-vegas",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in Las Vegas 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in Las Vegas. Find opening hours, ticket prices and booking links for Las Vegas's top landmarks.",
+      "page_intro": "Las Vegas, known as the Entertainment Capital of the World, offers a dazzling array of attractions that promise unforgettable experiences. From iconic landmarks and luxurious resorts to vibrant nightlife and world-class dining, there's something for everyone. Whether you're visiting for the first time or returning to explore more, this guide will help you discover the best that Las Vegas has to offer.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "The Strip",
+          "type": "landmark",
+          "description": "The Strip is the heart of Las Vegas, lined with stunning resorts and casinos. Stroll along this iconic boulevard to see famous landmarks like the Bellagio Fountains and the Eiffel Tower at Paris Las Vegas. It's best to visit in the evening when the lights illuminate the skyline. Plan for at least 2-3 hours to fully take in the sights.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "Fremont Street Experience",
+          "type": "district",
+          "description": "Fremont Street Experience is a vibrant pedestrian mall that features a massive LED canopy showcasing spectacular light shows. Enjoy live music, street performers, and unique shops. It's a great place to experience vintage Vegas charm. Allocate about 2 hours for exploring this lively atmosphere.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "Bellagio Fountains",
+          "type": "landmark",
+          "description": "The Bellagio Fountains offer a breathtaking display of water choreography set to music. Watch as thousands of gallons of water shoot high into the air in perfect synchrony. Shows run every 30 minutes in the evening, and it's completely free to attend. Plan for about 30 minutes to enjoy the spectacle.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "Nevada State Museum",
+          "type": "museum",
+          "description": "The Nevada State Museum offers a deep dive into the state's rich history, featuring exhibits on mining, Native American culture, and the Las Vegas gaming industry. It's an educational experience perfect for history buffs. Expect to spend 1-2 hours exploring the various exhibits.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "The Neon Museum",
+          "type": "museum",
+          "description": "The Neon Museum is dedicated to preserving iconic Las Vegas signs that tell the story of the city's vibrant history. Guided tours are available, providing insights into each piece's significance. Plan to spend about 1.5 hours here, and consider visiting during the evening for a magical atmosphere among the glowing signs.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "Hoover Dam",
+          "type": "landmark",
+          "description": "Just a short drive from Las Vegas, the Hoover Dam is an engineering marvel and a must-see attraction. Take a guided tour to learn about its history and significance, and enjoy stunning views of the Colorado River and Lake Mead. Plan for a half-day visit to fully appreciate this magnificent structure.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "Red Rock Canyon",
+          "type": "park",
+          "description": "Red Rock Canyon offers stunning natural beauty and is perfect for hiking and outdoor activities. Explore scenic trails and breathtaking rock formations just a short drive from the city. Visiting in the morning provides cooler temperatures and less crowded trails. Allocate 2-3 hours to enjoy this natural wonder.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年拉斯維加斯最佳景點 — 門票、提示及完整指南",
+      "seo_description": "探索拉斯維加斯最佳景點。查找開放時間、票價和拉斯維加斯主要地標的預訂連結。",
+      "page_intro": "拉斯維加斯，被譽為世界娛樂之都，提供一系列令人驚嘆的景點，保證讓您難忘的體驗。從標誌性地標和豪華度假村到充滿活力的夜生活和世界級餐飲，這裡應有盡有。無論您是第一次造訪還是回來探索更多，本指南將幫助您發現拉斯維加斯的最佳景點。",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "拉斯維加斯大道",
+          "type": "landmark",
+          "description": "拉斯維加斯大道是拉斯維加斯的心臟，兩旁是壯觀的度假村和賭場。沿著這條標誌性的林蔭大道漫步，可以看到貝拉吉奧噴泉和巴黎拉斯維加斯的艾菲爾鐵塔等著名地標。最佳參觀時間為傍晚，燈光照亮天際線。計劃至少2-3小時充分欣賞這些景點。",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "弗里蒙特街體驗",
+          "type": "district",
+          "description": "弗里蒙特街體驗是一個充滿活力的步行商場，擁有巨大的LED篷幕，展示壯觀的燈光秀。您可以享受現場音樂、街頭表演和獨特商店。這是一個體驗復古拉斯維加斯魅力的好地方。分配約2小時來探索這個熱鬧的氛圍。",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "貝拉吉奧噴泉",
+          "type": "landmark",
+          "description": "貝拉吉奧噴泉提供一場壯觀的水舞表演，伴隨著音樂。觀看成千上萬的加侖水在空中完美同步地噴發。表演每30分鐘一次，晚上免費參加。計劃約30分鐘來欣賞這場盛宴。",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "內華達州博物館",
+          "type": "museum",
+          "description": "內華達州博物館深入探索該州的豐富歷史，展出有關採礦、土著美國文化和拉斯維加斯博彩業的展覽。這是一個適合歷史愛好者的教育體驗。預計需要1-2小時來探索各種展覽。",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "霓虹燈博物館",
+          "type": "museum",
+          "description": "霓虹燈博物館致力於保護講述城市生動歷史的標誌性拉斯維加斯招牌。提供導覽，深入了解每件作品的意義。計劃在這裡花約1.5小時，並考慮在晚上參觀，體驗燈光閃爍中神奇的氛圍。",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "胡佛水壩",
+          "type": "landmark",
+          "description": "距離拉斯維加斯只有短短的車程，胡佛水壩是一個工程奇蹟，值得一見的景點。參加導覽了解其歷史和重要性，並欣賞科羅拉多河和米德湖的壯麗景色。計劃半天的訪問，充分欣賞這座宏偉的結構。",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "紅岩峽谷",
+          "type": "park",
+          "description": "紅岩峽谷擁有壯麗的自然美景，適合遠足和戶外活動。探索風景如畫的小徑和令人屏息的岩石形狀，距離城市僅短短的車程。早上參觀可享受較涼爽的氣溫和較少擁擠的小徑。分配2-3小時來享受這個自然奇觀。",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年ラスベガスのトップアトラクション - チケット、ヒント＆完全ガイド",
+      "seo_description": "ラスベガスの最高のアトラクションを探索しましょう。開館時間、料金、ラスベガスの主要ランドマークの予約リンクを見つけてください。",
+      "page_intro": "ラスベガスは、世界のエンターテイメントの中心地として知られており、忘れられない体験を約束する魅力的なアトラクションが揃っています。アイコニックなランドマークや豪華なリゾートから活気あるナイトライフ、世界クラスのダイニングまで、誰もが楽しめるものがあります。初めて訪れる方も、再度訪れてさらに探検したい方も、このガイドを参考にしてラスベガスの魅力を発見してください。",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "ザ・ストリップ",
+          "type": "landmark",
+          "description": "ザ・ストリップはラスベガスの中心で、素晴らしいリゾートやカジノが並ぶ通りです。この象徴的な大通りを散策して、ベラージオの噴水やパリ・ラスベガスのエッフェル塔などの有名なランドマークを見てみましょう。夜に訪れることをおすすめします。計画は最低でも2～3時間を要し、景色を十分に楽しむことができます。",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "フremont ストリート エクスペリエンス",
+          "type": "district",
+          "description": "フremont ストリート エクスペリエンスは、壮大なLEDキャノピーが特徴の活気ある歩行者専用モールです。ライブ音楽、ストリートパフォーマンス、ユニークなショップを楽しむことができます。レトロなラスベガスの魅力を体験するのに最適な場所です。この活気ある雰囲気を探索するために約2時間を割り当てましょう。",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "ベラージオの噴水",
+          "type": "landmark",
+          "description": "ベラージオの噴水は、音楽に合わせた水の振り付けの息を飲むような演出を提供します。数千ガロンの水が完璧に同期して空高く噴き上がるのを見てください。ショーは夜に30分ごとに行われ、参加は完全に無料です。この壮大な光景を楽しむために約30分を計画してください。",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "ネバダ州立博物館",
+          "type": "museum",
+          "description": "ネバダ州立博物館は、採鉱、ネイティブアメリカン文化、ラスベガスのギャンブル産業に関する展示があり、州の豊かな歴史に深く迫ることができます。歴史愛好家にとって完璧な教育的体験です。さまざまな展示を探索するために1～2時間を期待してください。",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "ネオン博物館",
+          "type": "museum",
+          "description": "ネオン博物館は、ラスベガスのアイコニックなサインを保存することに専念しており、街の活気ある歴史を語るものです。ガイド付きツアーも利用可能で、各作品の重要性を深く理解することができます。ここで約1.5時間を過ごす計画を立て、輝くサインの間で魔法のような雰囲気を楽しむために夜に訪れることを検討してください。",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "フーバーダム",
+          "type": "landmark",
+          "description": "ラスベガスから短いドライブで行けるフーバーダムは、工学の驚異であり、必見のアトラクションです。歴史と重要性について学ぶためにガイド付きツアーを受け、コロラド川とミード湖の素晴らしい景色を楽しんでください。この壮大な構造を十分に理解するために、半日の訪問を計画してください。",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "レッドロックキャニオン",
+          "type": "park",
+          "description": "レッドロックキャニオンは、驚くべき自然の美しさを提供し、ハイキングやアウトドア活動に最適です。市内から短いドライブで美しいトレイルや息をのむような岩の形成を探索してください。午前中に訪れることで、涼しい気温と混雑の少ないトレイルを楽しむことができます。この自然の驚異を楽しむために2～3時間を割り当てましょう。",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 라스베가스 최고의 명소 - 티켓, 팁 및 완벽 가이드",
+      "seo_description": "라스베가스의 최고의 명소를 탐험하세요. 개장 시간, 티켓 가격 및 라스베가스의 주요 랜드마크에 대한 예약 링크를 찾아보세요.",
+      "page_intro": "라스베가스는 세계의 엔터테인먼트 수도로 알려져 있으며, 잊지 못할 경험을 약속하는 다양한 매력적인 명소를 제공합니다. 상징적인 랜드마크와 호화로운 리조트에서부터 활기찬 나이트라이프와 세계적 수준의 다이닝에 이르기까지, 모든 사람을 위한 무언가가 있습니다. 처음 방문하든, 더 많은 것을 탐험하기 위해 돌아오든 이 가이드는 라스베가스의 매력을 발견하는 데 도움을 줄 것입니다.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "더 스트립",
+          "type": "landmark",
+          "description": "더 스트립은 라스베가스의 중심으로, 멋진 리조트와 카지노가 즐비해 있습니다. 이 상징적인 대로를 따라 걸으며 벨라지오 분수와 파리 라스베가스의 에펠탑과 같은 유명한 랜드마크를 감상하세요. 조명이 하늘을 비추는 저녁에 방문하는 것이 가장 좋습니다. 경치를 충분히 즐기려면 최소 2-3시간을 계획하세요.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "프리몬트 스트리트 익스피리언스",
+          "type": "district",
+          "description": "프리몬트 스트리트 익스피리언스는 거대한 LED 캐노피가 특징인 활기찬 보행자 전용 쇼핑몰입니다. 라이브 음악, 거리 공연자, 독특한 상점을 즐길 수 있습니다. 레트로 라스베가스의 매력을 경험하기에 좋은 장소입니다. 이 활기찬 분위기를 탐험하는 데 약 2시간을 할당하세요.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "벨라지오 분수",
+          "type": "landmark",
+          "description": "벨라지오 분수는 음악에 맞춰 펼쳐지는 물의 안무를 제공합니다. 수천 갤런의 물이 완벽하게 조화를 이루며 하늘 높이 솟구치는 모습을 지켜보세요. 쇼는 저녁마다 30분마다 진행되며, 전액 무료로 관람할 수 있습니다. 이 장관을 즐기기 위해 약 30분을 계획하세요.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "네바다 주립 박물관",
+          "type": "museum",
+          "description": "네바다 주립 박물관은 채굴, 원주율 문화 및 라스베가스 게임 산업에 대한 전시를 통해 주의 풍부한 역사에 대해 깊이 있게 탐구할 수 있습니다. 역사 애호가에게 완벽한 교육적 경험입니다. 다양한 전시를 탐험하는 데 1-2시간을 예상하세요.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "네온 박물관",
+          "type": "museum",
+          "description": "네온 박물관은 라스베가스의 상징적인 광고판을 보존하는 데 전념하고 있으며, 도시의 생동감 있는 역사를 전달합니다. 각 작품의 중요성을 깊이 이해할 수 있는 가이드 투어를 이용할 수 있습니다. 이곳에서 약 1.5시간을 보낼 계획을 세우고, 빛나는 간판 사이에서 마법 같은 분위기를 경험하기 위해 저녁에 방문하는 것을 고려하세요.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "후버 댐",
+          "type": "landmark",
+          "description": "라스베가스에서 짧은 드라이브 거리에 위치한 후버 댐은 공학의 경이로움이며 꼭 가봐야 할 명소입니다. 역사와 중요성에 대해 배우기 위해 가이드 투어에 참여하고, 콜로라도 강과 미드 호수의 경이로운 경치를 즐기세요. 이 장엄한 구조물을 충분히 감상하기 위해 반나절 방문을 계획하세요.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "레드 록 캐니언",
+          "type": "park",
+          "description": "레드 록 캐니언은 놀라운 자연의 아름다움을 제공하며 하이킹과 야외 활동에 적합합니다. 도시에서 짧은 드라이브로 멋진 트레일과 숨막히는 암석 형성을 탐험하세요. 아침에 방문하면 더 시원한 기온과 덜 혼잡한 트레일을 즐길 수 있습니다. 이 자연의 경이로움을 즐기기 위해 2-3시간을 할당하세요.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Top Attractions à Las Vegas 2026 — Billets, Conseils & Guide Complet",
+      "seo_description": "Découvrez les meilleures attractions de Las Vegas. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de Las Vegas.",
+      "page_intro": "Las Vegas, connue comme la Capitale du Divertissement du Monde, offre une gamme éblouissante d'attractions qui promettent des expériences inoubliables. Des monuments emblématiques et des complexes hôteliers de luxe à une vie nocturne dynamique et une gastronomie de classe mondiale, il y en a pour tous les goûts. Que vous visitiez pour la première fois ou que vous reveniez pour explorer davantage, ce guide vous aidera à découvrir le meilleur que Las Vegas a à offrir.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "The Strip",
+          "type": "landmark",
+          "description": "The Strip est le cœur de Las Vegas, bordé de superbes complexes hôteliers et casinos. Promenez-vous le long de ce boulevard emblématique pour voir des monuments célèbres comme les fontaines du Bellagio et la tour Eiffel à Paris Las Vegas. Il est préférable de visiter le soir lorsque les lumières illuminent la skyline. Prévoyez au moins 2 à 3 heures pour profiter pleinement des vues.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "Fremont Street Experience",
+          "type": "district",
+          "description": "Fremont Street Experience est un centre commercial piéton animé avec un immense auvent LED présentant des spectacles de lumière spectaculaires. Profitez de la musique live, des artistes de rue et des boutiques uniques. C'est un excellent endroit pour découvrir le charme vintage de Las Vegas. Allouez environ 2 heures pour explorer cette atmosphère vivante.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "Fontaines du Bellagio",
+          "type": "landmark",
+          "description": "Les fontaines du Bellagio offrent un spectacle époustouflant de chorégraphie aquatique sur fond musical. Regardez des milliers de gallons d'eau jaillir dans les airs en parfaite synchronisation. Les spectacles ont lieu toutes les 30 minutes le soir et l'entrée est totalement gratuite. Prévoyez environ 30 minutes pour apprécier le spectacle.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "Musée d'État du Nevada",
+          "type": "museum",
+          "description": "Le Musée d'État du Nevada offre une immersion dans l'histoire riche de l'État, avec des expositions sur l'exploitation minière, la culture amérindienne et l'industrie du jeu à Las Vegas. C'est une expérience éducative parfaite pour les passionnés d'histoire. Prévoyez 1 à 2 heures pour explorer les différentes expositions.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "Musée du Néon",
+          "type": "museum",
+          "description": "Le Musée du Néon est dédié à la préservation des enseignes emblématiques de Las Vegas qui racontent l'histoire vibrante de la ville. Des visites guidées sont disponibles, offrant des aperçus sur la signification de chaque pièce. Prévoyez environ 1,5 heure ici et envisagez de visiter le soir pour profiter d'une atmosphère magique parmi les enseignes lumineuses.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "Barrages de Hoover",
+          "type": "landmark",
+          "description": "À quelques pas de Las Vegas, le barrage de Hoover est une merveille d'ingénierie et une attraction incontournable. Participez à une visite guidée pour en apprendre davantage sur son histoire et son importance, et profitez de vues imprenables sur le fleuve Colorado et le lac Mead. Prévoyez une demi-journée pour apprécier pleinement cette magnifique structure.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "Red Rock Canyon",
+          "type": "park",
+          "description": "Le Red Rock Canyon offre une beauté naturelle époustouflante et est parfait pour la randonnée et les activités de plein air. Explorez des sentiers pittoresques et des formations rocheuses époustouflantes à quelques minutes en voiture de la ville. Visiter le matin permet de profiter de températures plus fraîches et de sentiers moins fréquentés. Prévoyez 2 à 3 heures pour apprécier cette merveille naturelle.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en Las Vegas 2026 — Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones de Las Vegas. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de Las Vegas.",
+      "page_intro": "Las Vegas, conocida como la Capital del Entretenimiento del Mundo, ofrece una deslumbrante variedad de atracciones que prometen experiencias inolvidables. Desde monumentos icónicos y lujosos resorts hasta una vida nocturna vibrante y una gastronomía de clase mundial, hay algo para todos. Ya sea que estés visitando por primera vez o regresando para explorar más, esta guía te ayudará a descubrir lo mejor que Las Vegas tiene para ofrecer.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "The Strip",
+          "type": "landmark",
+          "description": "The Strip es el corazón de Las Vegas, flanqueado por impresionantes resorts y casinos. Pasea por este emblemático bulevar para ver monumentos famosos como las Fuentes del Bellagio y la Torre Eiffel en el Paris Las Vegas. Es mejor visitar por la noche cuando las luces iluminan el horizonte. Planifica al menos 2-3 horas para disfrutar de las vistas.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "Fremont Street Experience",
+          "type": "district",
+          "description": "Fremont Street Experience es un animado centro comercial peatonal que cuenta con un enorme dosel de LED que presenta espectaculares shows de luces. Disfruta de música en vivo, artistas callejeros y tiendas únicas. Es un excelente lugar para experimentar el encanto vintage de Las Vegas. Asigna aproximadamente 2 horas para explorar esta animada atmósfera.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "Fuentes del Bellagio",
+          "type": "landmark",
+          "description": "Las Fuentes del Bellagio ofrecen un impresionante espectáculo de coreografía acuática acompañado de música. Observa cómo miles de galones de agua se disparan al aire en perfecta sincronización. Los shows se realizan cada 30 minutos por la noche y la entrada es completamente gratuita. Planifica aproximadamente 30 minutos para disfrutar del espectáculo.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "Museo del Estado de Nevada",
+          "type": "museum",
+          "description": "El Museo del Estado de Nevada ofrece una inmersión en la rica historia del estado, con exposiciones sobre minería, cultura nativa americana y la industria del juego de Las Vegas. Es una experiencia educativa perfecta para los amantes de la historia. Espera pasar de 1 a 2 horas explorando las diversas exposiciones.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "Museo del Neón",
+          "type": "museum",
+          "description": "El Museo del Neón se dedica a preservar los letreros icónicos de Las Vegas que cuentan la historia vibrante de la ciudad. Se ofrecen visitas guiadas que brindan ideas sobre la importancia de cada pieza. Planifica pasar aproximadamente 1.5 horas aquí y considera visitar por la noche para disfrutar de una atmósfera mágica entre los signos brillantes.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "Represa Hoover",
+          "type": "landmark",
+          "description": "A solo un corto trayecto en coche de Las Vegas, la Represa Hoover es una maravilla de la ingeniería y una atracción imperdible. Realiza una visita guiada para aprender sobre su historia y su importancia, y disfruta de impresionantes vistas del río Colorado y el lago Mead. Planifica una visita de medio día para apreciar plenamente esta magnífica estructura.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "Cañón Red Rock",
+          "type": "park",
+          "description": "El Cañón Red Rock ofrece una impresionante belleza natural y es perfecto para el senderismo y actividades al aire libre. Explora senderos escénicos y formaciones rocosas impresionantes a solo un corto trayecto en coche de la ciudad. Visitar por la mañana ofrece temperaturas más frescas y senderos menos concurridos. Asigna de 2 a 3 horas para disfrutar de esta maravilla natural.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Top Atraksi di Las Vegas 2026 — Tiket, Tips & Panduan Lengkap",
+      "seo_description": "Jelajahi atraksi terbaik di Las Vegas. Temukan jam buka, harga tiket, dan tautan pemesanan untuk landmark utama Las Vegas.",
+      "page_intro": "Las Vegas, yang dikenal sebagai Ibu Kota Hiburan Dunia, menawarkan beragam atraksi yang menjanjikan pengalaman tak terlupakan. Dari landmark ikonik dan resor mewah hingga kehidupan malam yang semarak dan bersantap kelas dunia, ada sesuatu untuk semua orang. Baik Anda mengunjungi untuk pertama kali atau kembali untuk menjelajahi lebih banyak, panduan ini akan membantu Anda menemukan yang terbaik yang ditawarkan Las Vegas.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "The Strip",
+          "type": "landmark",
+          "description": "The Strip adalah jantung Las Vegas, dipenuhi dengan resor dan kasino yang menakjubkan. Berjalan di sepanjang jalan ikonik ini untuk melihat landmark terkenal seperti Air Mancur Bellagio dan Menara Eiffel di Paris Las Vegas. Waktu terbaik untuk mengunjungi adalah sore hari ketika lampu menerangi cakrawala. Rencanakan setidaknya 2-3 jam untuk sepenuhnya menikmati pemandangan.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "Fremont Street Experience",
+          "type": "district",
+          "description": "Fremont Street Experience adalah pusat perbelanjaan pejalan kaki yang ramai yang menampilkan kanopi LED raksasa yang menampilkan pertunjukan cahaya spektakuler. Nikmati musik live, seniman jalanan, dan toko-toko unik. Ini adalah tempat yang bagus untuk merasakan pesona Vegas klasik. Alokasikan sekitar 2 jam untuk menjelajahi suasana meriah ini.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "Air Mancur Bellagio",
+          "type": "landmark",
+          "description": "Air Mancur Bellagio menawarkan pertunjukan memukau dari koreografi air yang dipadukan dengan musik. Saksikan ribuan galon air memancar tinggi ke udara dalam sinkronisasi yang sempurna. Pertunjukan berlangsung setiap 30 menit di malam hari, dan masuknya sepenuhnya gratis. Rencanakan sekitar 30 menit untuk menikmati pertunjukan ini.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "Museum Negara Bagian Nevada",
+          "type": "museum",
+          "description": "Museum Negara Bagian Nevada menawarkan pandangan mendalam tentang sejarah kaya negara bagian ini, dengan pameran tentang pertambangan, budaya penduduk asli Amerika, dan industri permainan Las Vegas. Ini adalah pengalaman edukasi yang sempurna untuk penggemar sejarah. Harapkan untuk menghabiskan 1-2 jam menjelajahi berbagai pameran.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "Museum Neon",
+          "type": "museum",
+          "description": "Museum Neon didedikasikan untuk melestarikan tanda-tanda ikonik Las Vegas yang menceritakan kisah sejarah hidup kota ini. Tur berpemandu tersedia, memberikan wawasan tentang pentingnya setiap karya. Rencanakan untuk menghabiskan sekitar 1,5 jam di sini, dan pertimbangkan untuk mengunjungi di malam hari untuk suasana yang magis di antara tanda-tanda yang bercahaya.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "Bendungan Hoover",
+          "type": "landmark",
+          "description": "Hanya beberapa menit berkendara dari Las Vegas, Bendungan Hoover adalah keajaiban rekayasa dan atraksi yang wajib dilihat. Ikuti tur berpemandu untuk mempelajari sejarah dan pentingnya, dan nikmati pemandangan menakjubkan dari Sungai Colorado dan Danau Mead. Rencanakan kunjungan setengah hari untuk sepenuhnya menghargai struktur megah ini.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "Canyon Red Rock",
+          "type": "park",
+          "description": "Canyon Red Rock menawarkan keindahan alam yang menakjubkan dan cocok untuk hiking dan aktivitas luar ruangan. Jelajahi jalur pemandangan yang indah dan formasi batu yang menakjubkan hanya dengan beberapa menit berkendara dari kota. Mengunjungi di pagi hari memberikan suhu yang lebih sejuk dan jalur yang tidak terlalu ramai. Alokasikan 2-3 jam untuk menikmati keajaiban alam ini.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "लास वेगास में शीर्ष आकर्षण 2026 — टिकट, टिप्स और पूर्ण गाइड",
+      "seo_description": "लास वेगास के सबसे अच्छे आकर्षणों का अन्वेषण करें। लास वेगास के शीर्ष स्थलों के लिए उद्घाटन के घंटे, टिकट के मूल्य और बुकिंग लिंक खोजें।",
+      "page_intro": "लास वेगास, जिसे दुनिया की मनोरंजन राजधानी के रूप में जाना जाता है, आकर्षणों की एक शानदार श्रृंखला प्रदान करता है जो अविस्मरणीय अनुभव का वादा करती है। प्रतीकात्मक स्थलों और शानदार रिसॉर्ट्स से लेकर जीवंत नाइटलाइफ़ और विश्व स्तरीय भोजन तक, यहाँ हर किसी के लिए कुछ न कुछ है। चाहे आप पहली बार आ रहे हों या और अधिक देखने के लिए वापस आ रहे हों, यह गाइड आपको लास वेगास की बेहतरीन चीज़ें खोजने में मदद करेगी।",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "द स्ट्रिप",
+          "type": "landmark",
+          "description": "द स्ट्रिप लास वेगास का दिल है, जो शानदार रिसॉर्ट्स और कैसीनो से भरी हुई है। इस आइकोनिक बुलेवार्ड पर चलें और बेलाजियो फव्वारों और पेरिस लास वेगास में एफिल टॉवर जैसे प्रसिद्ध स्थलों को देखें। यह शाम को जाना सबसे अच्छा होता है जब रोशनी आकाश को जगमगाती है। दृश्यों का पूरा आनंद लेने के लिए कम से कम 2-3 घंटे की योजना बनाएं।",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "फ्रीमोंट स्ट्रीट अनुभव",
+          "type": "district",
+          "description": "फ्रीमोंट स्ट्रीट अनुभव एक जीवंत पैदल मॉल है जिसमें विशाल LED कैनोपी है जो शानदार लाइट शो प्रदर्शित करती है। लाइव संगीत, सड़क कलाकारों और अद्वितीय दुकानों का आनंद लें। यह पुरानी वेगास की आकर्षण को अनुभव करने के लिए एक शानदार जगह है। इस जीवंत वातावरण का अन्वेषण करने के लिए लगभग 2 घंटे आवंटित करें।",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "बेलाजियो फव्वारे",
+          "type": "landmark",
+          "description": "बेलाजियो फव्वारे संगीत के साथ जल नृत्य का एक आश्चर्यजनक प्रदर्शन प्रदान करते हैं। हजारों गैलन पानी को सही समन्वय में हवा में ऊंचा उठते हुए देखें। शो शाम को हर 30 मिनट पर होते हैं, और इसमें भाग लेना पूरी तरह से मुफ्त है। इस दृश्य का आनंद लेने के लिए लगभग 30 मिनट की योजना बनाएं।",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "नेवादा राज्य संग्रहालय",
+          "type": "museum",
+          "description": "नेवादा राज्य संग्रहालय राज्य के समृद्ध इतिहास में गहराई से उतरने का अवसर प्रदान करता है, जिसमें खनन, मूल अमेरिकी संस्कृति और लास वेगास गेमिंग उद्योग पर प्रदर्शनी शामिल हैं। यह इतिहास प्रेमियों के लिए एक शैक्षिक अनुभव है। विभिन्न प्रदर्शनों का अन्वेषण करने के लिए 1-2 घंटे बिताने की उम्मीद करें।",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "द नीयन संग्रहालय",
+          "type": "museum",
+          "description": "द नीयन संग्रहालय प्रसिद्ध लास वेगास संकेतों को संरक्षित करने के लिए समर्पित है जो शहर के जीवंत इतिहास की कहानी बताते हैं। मार्गदर्शित दौरे उपलब्ध हैं, जो प्रत्येक टुकड़े के महत्व के बारे में अंतर्दृष्टि प्रदान करते हैं। यहाँ लगभग 1.5 घंटे बिताने की योजना बनाएं, और चमकते संकेतों के बीच जादुई वातावरण के लिए शाम को जाने पर विचार करें।",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "हूवर डेम",
+          "type": "landmark",
+          "description": "लास वेगास से थोड़ी दूरी पर, हूवर डेम एक इंजीनियरिंग चमत्कार है और एक अवश्य देखे जाने योग्य आकर्षण है। इसके इतिहास और महत्व के बारे में जानने के लिए एक मार्गदर्शित दौरा लें, और कोलोराडो नदी और लेक मीद के शानदार दृश्य का आनंद लें। इस शानदार संरचना की पूरी सराहना करने के लिए आधे दिन की यात्रा की योजना बनाएं।",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "रेड रॉक कैन्यन",
+          "type": "park",
+          "description": "रेड रॉक कैन्यन शानदार प्राकृतिक सुंदरता प्रदान करता है और हाइकिंग और बाहरी गतिविधियों के लिए आदर्श है। शहर के थोड़ी दूरी पर दृश्य ट्रेल्स और रोमांचक चट्टानों के गठन का अन्वेषण करें। सुबह में जाना ठंडे तापमान और कम भीड़ वाले ट्रेल्स प्रदान करता है। इस प्राकृतिक आश्चर्य का आनंद लेने के लिए 2-3 घंटे आवंटित करें।",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em Las Vegas 2026 — Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em Las Vegas. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais marcos de Las Vegas.",
+      "page_intro": "Las Vegas, conhecida como a Capital do Entretenimento do Mundo, oferece uma deslumbrante variedade de atrações que prometem experiências inesquecíveis. Desde marcos icônicos e resorts luxuosos até vida noturna vibrante e gastronomia de classe mundial, há algo para todos. Se você está visitando pela primeira vez ou retornando para explorar mais, este guia ajudará você a descobrir o melhor que Las Vegas tem a oferecer.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "The Strip",
+          "type": "landmark",
+          "description": "The Strip é o coração de Las Vegas, repleto de resorts e cassinos deslumbrantes. Passeie por este boulevard icônico para ver marcos famosos como as Fontes do Bellagio e a Torre Eiffel no Paris Las Vegas. É melhor visitar à noite, quando as luzes iluminam o horizonte. Planeje passar pelo menos 2-3 horas para absorver completamente as vistas.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "Fremont Street Experience",
+          "type": "district",
+          "description": "Fremont Street Experience é um vibrante shopping a céu aberto que apresenta uma enorme cobertura de LED com espetáculos de luz espetaculares. Aproveite música ao vivo, artistas de rua e lojas únicas. É um ótimo lugar para vivenciar o charme vintage de Vegas. Reserve cerca de 2 horas para explorar essa atmosfera animada.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "Fontes do Bellagio",
+          "type": "landmark",
+          "description": "As Fontes do Bellagio oferecem uma exibição de coreografia aquática de tirar o fôlego, acompanhada por música. Assista enquanto milhares de galões de água disparam para o alto em perfeita sincronia. Os shows acontecem a cada 30 minutos à noite, e a entrada é totalmente gratuita. Planeje cerca de 30 minutos para desfrutar do espetáculo.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "Museu Estadual de Nevada",
+          "type": "museum",
+          "description": "O Museu Estadual de Nevada oferece uma imersão na rica história do estado, apresentando exposições sobre mineração, cultura nativa americana e a indústria de jogos de Las Vegas. É uma experiência educativa perfeita para os amantes da história. Espere passar de 1 a 2 horas explorando as várias exposições.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "Museu Neon",
+          "type": "museum",
+          "description": "O Museu Neon é dedicado a preservar os icônicos sinais de Las Vegas que contam a história vibrante da cidade. Visitas guiadas estão disponíveis, oferecendo insights sobre a importância de cada peça. Planeje passar cerca de 1,5 horas aqui, e considere visitar à noite para uma atmosfera mágica entre os sinais luminosos.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "Represa Hoover",
+          "type": "landmark",
+          "description": "Apenas a uma curta distância de carro de Las Vegas, a Represa Hoover é uma maravilha da engenharia e uma atração imperdível. Faça um tour guiado para aprender sobre sua história e importância, e aproveite vistas deslumbrantes do Rio Colorado e do Lago Mead. Planeje uma visita de meio dia para apreciar totalmente esta magnífica estrutura.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "Cânion Red Rock",
+          "type": "park",
+          "description": "O Cânion Red Rock oferece uma beleza natural deslumbrante e é perfeito para caminhadas e atividades ao ar livre. Explore trilhas cênicas e formações rochosas impressionantes a uma curta distância da cidade. Visitar pela manhã proporciona temperaturas mais frescas e trilhas menos lotadas. Reserve 2-3 horas para apreciar esta maravilha natural.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم السياحية في لاس فيغاس 2026 — تذاكر، نصائح ودليل كامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في لاس فيغاس. ابحث عن ساعات العمل، أسعار التذاكر وروابط الحجز لأهم معالم لاس فيغاس.",
+      "page_intro": "تُعرف لاس فيغاس بأنها عاصمة الترفيه في العالم، حيث تقدم مجموعة رائعة من المعالم السياحية التي تعد بتجارب لا تُنسى. من المعالم الشهيرة والمنتجعات الفاخرة إلى الحياة الليلية النابضة والمطاعم العالمية، هناك شيء للجميع. سواء كنت تزور للمرة الأولى أو تعود لاستكشاف المزيد، سيساعدك هذا الدليل في اكتشاف أفضل ما تقدمه لاس فيغاس.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "ذا ستريب",
+          "type": "landmark",
+          "description": "ذا ستريب هو قلب لاس فيغاس، حيث تتواجد المنتجعات والكازينوهات المذهلة. تجول في هذا الشارع الأيقوني لرؤية معالم مشهورة مثل نوافير بيلادجيو وبرج إيفل في باريس لاس فيغاس. من الأفضل زيارته في المساء عندما تضيء الأضواء الأفق. خطط لقضاء ساعتين إلى ثلاث ساعات للاستمتاع بالمشاهد بالكامل.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "تجربة فريمونت ستريت",
+          "type": "district",
+          "description": "تجربة فريمونت ستريت هي مركز تجاري نابض بالحياة يحتوي على مظلة LED ضخمة تعرض عروض ضوئية مذهلة. استمتع بالموسيقى الحية، وفناني الشارع، والمتاجر الفريدة. إنه مكان رائع لتجربة سحر لاس فيغاس القديم. خصص حوالي ساعتين لاستكشاف هذه الأجواء النابضة.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "نوافير بيلادجيو",
+          "type": "landmark",
+          "description": "توفر نوافير بيلادجيو عرضًا مدهشًا من تنسيق المياه على أنغام الموسيقى. شاهد الآلاف من الجالونات من الماء تتصاعد في الهواء بتناسق تام. العروض تقام كل 30 دقيقة في المساء، والدخول مجاني تمامًا. خطط لقضاء حوالي 30 دقيقة للاستمتاع بالعرض.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "متحف ولاية نيفادا",
+          "type": "museum",
+          "description": "يوفر متحف ولاية نيفادا غوصًا عميقًا في تاريخ الولاية الغني، مع عروض عن التعدين، وثقافة الهنود الأمريكيين، وصناعة الألعاب في لاس فيغاس. إنها تجربة تعليمية مثالية لعشاق التاريخ. توقع قضاء من ساعة إلى ساعتين لاستكشاف المعروضات المختلفة.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "متحف النيون",
+          "type": "museum",
+          "description": "متحف النيون مخصص للحفاظ على لافتات لاس فيغاس الأيقونية التي تروي قصة تاريخ المدينة النابض. تتوفر جولات إرشادية، مما يوفر رؤى حول أهمية كل قطعة. خطط لقضاء حوالي ساعة ونصف هنا، واعتبر الزيارة في المساء لتجربة جو سحري بين الإشارات المتلألئة.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "سد هوفر",
+          "type": "landmark",
+          "description": "على بُعد مسافة قصيرة بالسيارة من لاس فيغاس، يُعتبر سد هوفر معجزة هندسية ومعلم يجدر زيارته. قم بجولة إرشادية لتتعلم عن تاريخه وأهميته، واستمتع بإطلالات رائعة على نهر كولورادو وبحيرة ميد. خطط لزيارة نصف يوم لتقدير هذه البنية الرائعة بالكامل.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "كانيون ريد روك",
+          "type": "park",
+          "description": "يوفر كانيون ريد روك جمالًا طبيعيًا مذهلًا وهو مثالي للمشي والأنشطة الخارجية. استكشف المسارات ذات المناظر الخلابة وتشكيلات الصخور المدهشة على بُعد مسافة قصيرة من المدينة. يوفر الزيارة في الصباح درجات حرارة أكثر برودة ومسارات أقل ازدحامًا. خصص ساعتين إلى ثلاث ساعات للاستمتاع بهذه العجيبة الطبيعية.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "লাস ভেগাসের শীর্ষ আকর্ষণ ২০২৬ — টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "লাস ভেগাসের সেরা আকর্ষণগুলি অন্বেষণ করুন। লাস ভেগাসের শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "page_intro": "লাস ভেগাস, যেটিকে বিশ্বের বিনোদনের রাজধানী বলা হয়, অবিস্মরণীয় অভিজ্ঞতার প্রতিশ্রুতি দিয়ে আকর্ষণের একটি চমকপ্রদ array প্রদান করে। প্রতীকী স্থাপনাগুলি এবং বিলাসবহুল রিসোর্ট থেকে শুরু করে জীবন্ত রাতের জীবন এবং বিশ্বমানের খাবারের দিকে, এখানে সবার জন্য কিছু না কিছু রয়েছে। আপনি প্রথমবারের জন্য আসছেন বা আরও অন্বেষণ করতে ফিরে আসছেন, এই গাইডটি আপনাকে লাস ভেগাসের সেরা জিনিসগুলি খুঁজে পেতে সাহায্য করবে।",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "দ্য স্ট্রিপ",
+          "type": "landmark",
+          "description": "দ্য স্ট্রিপ লাস ভেগাসের হৃদয়, চমৎকার রিসোর্ট এবং ক্যাসিনো দ্বারা সজ্জিত। এই আইকনিক বুলেভার্ডের সাথে হাঁটুন এবং বিখ্যাত স্থাপনাগুলি যেমন বেলাজিও ফোয়ারা এবং প্যারিস লাস ভেগাসে আইফেল টাওয়ার দেখুন। সন্ধ্যায় ভ্রমণ করা সবচেয়ে ভাল যখন আলো আকাশরেখা উজ্জ্বল করে। দৃশ্যগুলি সম্পূর্ণরূপে উপভোগ করার জন্য কমপক্ষে ২-৩ ঘণ্টা পরিকল্পনা করুন।",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "ফ্রেমন্ট স্ট্রিট অভিজ্ঞতা",
+          "type": "district",
+          "description": "ফ্রেমন্ট স্ট্রিট অভিজ্ঞতা একটি প্রাণবন্ত পেডেসট্রিয়ান মল যা একটি বিশাল LED ছাদ বৈশিষ্ট্যযুক্ত যা চিত্তাকর্ষক আলো প্রদর্শন করে। লাইভ সঙ্গীত, রাস্তার শিল্পী এবং অনন্য দোকানগুলির আনন্দ নিন। এটি পুরানো ভেগাসের মোহনীয়তা অনুভব করার জন্য একটি দুর্দান্ত জায়গা। এই জীবন্ত পরিবেশের অন্বেষণ করতে প্রায় ২ ঘণ্টা বরাদ্দ করুন।",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "বেলাজিও ফোয়ারা",
+          "type": "landmark",
+          "description": "বেলাজিও ফোয়ারা সঙ্গীতের সাথে জল নৃত্যের একটি শ্বাসরুদ্ধকর প্রদর্শনী উপস্থাপন করে। দেখুন কিভাবে হাজার হাজার গ্যালন জল নিখুঁত সঙ্গতিতে আকাশে উঠে যায়। সন্ধ্যায় প্রতি ৩০ মিনিটে শো হয়, এবং এতে অংশগ্রহণ সম্পূর্ণ ফ্রি। এই দৃশ্যটি উপভোগ করতে প্রায় ৩০ মিনিট পরিকল্পনা করুন।",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "নেভাদা স্টেট মিউজিয়াম",
+          "type": "museum",
+          "description": "নেভাদা স্টেট মিউজিয়াম রাজ্যের সমৃদ্ধ ইতিহাসে গভীর ডুব দেওয়ার সুযোগ দেয়, যেখানে খনন, আদিবাসী আমেরিকান সংস্কৃতি এবং লাস ভেগাস গেমিং শিল্পের প্রদর্শনী অন্তর্ভুক্ত রয়েছে। ইতিহাস প্রেমীদের জন্য এটি একটি শিক্ষামূলক অভিজ্ঞতা। বিভিন্ন প্রদর্শনী অন্বেষণ করতে ১-২ ঘণ্টা সময় ব্যয় করার আশা করুন।",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "দ্য নিয়ন মিউজিয়াম",
+          "type": "museum",
+          "description": "দ্য নিয়ন মিউজিয়াম সেই আইকনিক লাস ভেগাসের সাইনগুলির সংরক্ষণে নিবেদিত যা শহরের উজ্জ্বল ইতিহাসের গল্প বলে। প্রতিটি টুকড়ির গুরুত্ব সম্পর্কে অন্তর্দৃষ্টি প্রদান করে এমন গাইডেড ট্যুর উপলব্ধ। এখানে প্রায় ১.৫ ঘণ্টা কাটানোর পরিকল্পনা করুন, এবং জ্বলন্ত সাইনগুলির মধ্যে জাদুকরী পরিবেশের জন্য সন্ধ্যায় ভ্রমণের বিষয়ে ভাবুন।",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "হুভার ড্যাম",
+          "type": "landmark",
+          "description": "লাস ভেগাস থেকে সংক্ষিপ্ত ড্রাইভের মধ্যে, হুভার ড্যাম একটি প্রকৌশল বিস্ময় এবং একটি অবশ্যই দেখার মতো আকর্ষণ। এর ইতিহাস এবং গুরুত্ব সম্পর্কে জানার জন্য একটি গাইডেড ট্যুর নিন, এবং কলোরাডো নদী এবং লেক মেইডের চমত্কার দৃশ্য উপভোগ করুন। এই মহান কাঠামোর পুরোপুরি প্রশংসা করার জন্য আধা দিনের জন্য ভ্রমণের পরিকল্পনা করুন।",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "রেড রক ক্যানিয়ন",
+          "type": "park",
+          "description": "রেড রক ক্যানিয়ন চমৎকার প্রাকৃতিক সৌন্দর্য প্রদান করে এবং হাইকিং এবং বাইরের কার্যকলাপের জন্য উপযুক্ত। শহরের কাছাকাছি দৃশ্যমান ট্রেইল এবং অসাধারণ শিলা গঠন অন্বেষণ করুন। সকালে ভ্রমণ করা ঠান্ডা তাপমাত্রা এবং কম জনাকীর্ণ ট্রেইল সরবরাহ করে। এই প্রাকৃতিক বিস্ময় উপভোগ করতে ২-৩ ঘণ্টা বরাদ্দ করুন।",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Главные достопримечательности Лас-Вегаса 2026 — Билеты, советы и полное руководство",
+      "seo_description": "Изучите лучшие достопримечательности Лас-Вегаса. Найдите часы работы, цены на билеты и ссылки для бронирования основных достопримечательностей Лас-Вегаса.",
+      "page_intro": "Лас-Вегас, известный как столица развлечений мира, предлагает ослепительное разнообразие достопримечательностей, которые обещают незабываемые впечатления. От знаковых памятников и роскошных курортов до яркой ночной жизни и ресторанов мирового уровня — здесь есть что-то для каждого. Если вы впервые посещаете город или возвращаетесь, чтобы исследовать больше, этот гид поможет вам открыть для себя лучшее, что может предложить Лас-Вегас.",
+      "items": [
+        {
+          "id": "the-strip",
+          "name": "Стрип",
+          "type": "landmark",
+          "description": "Стрип — это сердце Лас-Вегаса, усыпанное великолепными курортами и казино. Прогуляйтесь по этому знаковому бульвару и полюбуйтесь такими знаменитыми достопримечательностями, как фонтаны Белладжио и Эйфелева башня в Париже, Лас-Вегас. Лучше всего посещать его вечером, когда огни освещают горизонт. Запланируйте как минимум 2-3 часа, чтобы полностью насладиться видами.",
+          "image_keyword": "Las Vegas Strip",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "las-vegas-strip"
+        },
+        {
+          "id": "fremont-street-experience",
+          "name": "Опыт Фремонт-стрит",
+          "type": "district",
+          "description": "Опыт Фремонт-стрит — это яркий пешеходный молл с огромным светодиодным навесом, который демонстрирует потрясающие световые шоу. Наслаждайтесь живой музыкой, уличными артистами и уникальными магазинами. Это отличное место, чтобы испытать старинное очарование Вегаса. Выделите около 2 часов на исследование этой оживленной атмосферы.",
+          "image_keyword": "Fremont Street",
+          "star_rating": 4.7,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "fremont-street-experience"
+        },
+        {
+          "id": "bellagio-fountains",
+          "name": "Фонтаны Белладжио",
+          "type": "landmark",
+          "description": "Фонтаны Белладжио предлагают захватывающее зрелище водной хореографии под музыку. Смотрите, как тысячи галлонов воды поднимаются высоко в воздух в идеальной синхронизации. Шоу проходят каждые 30 минут вечером, и посещение совершенно бесплатно. Запланируйте около 30 минут, чтобы насладиться этим зрелищем.",
+          "image_keyword": "Bellagio Fountains",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "evening",
+          "klook_query": "bellagio-fountains"
+        },
+        {
+          "id": "nevada-state-museum",
+          "name": "Музей штата Невада",
+          "type": "museum",
+          "description": "Музей штата Невада предлагает глубокое погружение в богатую историю штата, с выставками о горном деле, культуре коренных американцев и игорной индустрии Лас-Вегаса. Это образовательный опыт, идеальный для любителей истории. Ожидайте провести 1-2 часа, исследуя различные выставки.",
+          "image_keyword": "Nevada State Museum",
+          "star_rating": 4.5,
+          "needs_ticket": true,
+          "ticket_price_hint": "$10",
+          "best_time": "afternoon",
+          "klook_query": "nevada-state-museum"
+        },
+        {
+          "id": "the-neon-museum",
+          "name": "Нейронный музей",
+          "type": "museum",
+          "description": "Нейронный музей посвящен сохранению знаковых вывесок Лас-Вегаса, которые рассказывают историю яркой истории города. Доступны экскурсии с гидом, которые предоставляют инсайты о значении каждого экспоната. Запланируйте провести здесь около 1,5 часов и подумайте о посещении вечером для волшебной атмосферы среди светящихся вывесок.",
+          "image_keyword": "Neon Museum",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "$20",
+          "best_time": "evening",
+          "klook_query": "neon-museum"
+        },
+        {
+          "id": "hoover-dam",
+          "name": "Плотина Гувера",
+          "type": "landmark",
+          "description": "Всего в нескольких минутах езды от Лас-Вегаса, плотина Гувера является инженерным чудом и обязательной к посещению достопримечательностью. Пройдите экскурсию, чтобы узнать о ее истории и значении, и насладитесь потрясающими видами на реку Колорадо и озеро Мид. Запланируйте полдня, чтобы полностью оценить эту великолепную конструкцию.",
+          "image_keyword": "Hoover Dam",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "$30",
+          "best_time": "morning",
+          "klook_query": "hoover-dam"
+        },
+        {
+          "id": "red-rock-canyon",
+          "name": "Каньон Красной Скалы",
+          "type": "park",
+          "description": "Каньон Красной Скалы предлагает потрясающую природную красоту и идеально подходит для походов и активного отдыха. Исследуйте живописные тропы и впечатляющие скальные образования всего в нескольких минутах езды от города. Посещение утром обеспечивает более прохладные температуры и менее многолюдные тропы. Выделите 2-3 часа, чтобы насладиться этим природным чудом.",
+          "image_keyword": "Red Rock Canyon",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "$15",
+          "best_time": "morning",
+          "klook_query": "red-rock-canyon"
+        }
+      ]
+    }
+  }
+}

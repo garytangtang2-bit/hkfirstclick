@@ -1,0 +1,1145 @@
+{
+  "city_slug": "london",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in London 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in London. From budget eats to fine dining — with booking links.",
+      "page_intro": "London's food scene is a melting pot of cultures and flavors, offering everything from traditional British dishes to international cuisines. The city's vibrant markets and street food stalls provide a taste of the world, while its fine dining establishments showcase culinary excellence. Whether you're in the mood for a quick bite or a luxurious meal, London's diverse culinary offerings cater to all tastes and budgets.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "Borough Market",
+          "type": "street_food",
+          "description": "Borough Market is one of London's most renowned food markets, offering a variety of fresh produce and artisanal food products. Whether you're in the mood for a gourmet cheese sandwich or a freshly baked pastry, this market has something for everyone. With its lively atmosphere and diverse food options, it's a must-visit for any food lover. Prices range from affordable to moderate, depending on the vendor.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "Dishoom",
+          "type": "restaurant",
+          "description": "Dishoom pays homage to the Irani cafés of Bombay with its vibrant décor and flavorful dishes. Known for its delicious Indian cuisine, the restaurant offers a range of options from spicy curries to aromatic biryanis. The relaxed yet bustling atmosphere makes it a great spot for both casual meals and special occasions. Prices are moderate, but the quality of food is well worth it.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "Camden Market",
+          "type": "street_food",
+          "description": "Camden Market is a must-visit for street food enthusiasts, offering a wide range of cuisines from around the world. The market's eclectic mix of vendors ensures there is something for everyone, from vegan delights to juicy burgers. With its vibrant and bustling atmosphere, Camden Market is perfect for a casual and fun dining experience. Prices are generally affordable, making it popular among locals and tourists alike.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "The Ledbury",
+          "type": "restaurant",
+          "description": "The Ledbury is a Michelin-starred restaurant known for its exquisite dishes and impeccable service. With a focus on modern European cuisine, the restaurant offers a menu that changes with the seasons, showcasing the finest ingredients. The elegant and sophisticated setting enhances the fine dining experience, making it ideal for special occasions. Expect to pay a premium for the exceptional quality and presentation.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "Poppies Fish and Chips",
+          "type": "local_specialty",
+          "description": "Poppies Fish and Chips offers a quintessentially British experience with its classic fish and chips served in vintage surroundings. Known for its sustainably sourced fish and crispy batter, this eatery is a favorite among locals and tourists. The nostalgic décor and friendly service add to its charm. Prices are reasonable, making it an excellent choice for a traditional British meal.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "Brixton Village",
+          "type": "street_food",
+          "description": "Brixton Village is a vibrant market offering an array of international cuisines in a lively setting. From Caribbean jerk chicken to Italian pasta, the market's diverse food stalls cater to all tastes. Its laid-back atmosphere and affordable prices make it a popular choice for casual dining. Whether you're grabbing a quick bite or exploring the unique shops, Brixton Village is a culinary adventure.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "The Wolseley",
+          "type": "cafe",
+          "description": "The Wolseley is an iconic London café-restaurant known for its grand architecture and all-day dining menu. Located in a historic building, it offers a luxurious setting to enjoy breakfast, lunch, or afternoon tea. The café is celebrated for its classic European dishes and elegant atmosphere. While prices are on the higher side, the experience is truly memorable.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "Rules Restaurant",
+          "type": "local_specialty",
+          "description": "Rules Restaurant is the oldest restaurant in London, offering traditional British cuisine in an opulent setting. Known for its classic dishes like steak and kidney pie, the restaurant provides a taste of Britain's culinary heritage. The elegant décor and exceptional service make it a perfect spot for a sophisticated dining experience. Prices reflect the premium quality and historic significance.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年倫敦最佳美食——頂級餐廳和街頭美食指南",
+      "seo_description": "探索倫敦最佳餐廳、街頭美食和當地特色。從平價美食到高級餐飲——提供預訂鏈接。",
+      "page_intro": "倫敦的美食界是一個文化和味道的熔爐，提供從傳統英式菜餚到國際美食的一切。城市充滿活力的市場和街頭小吃攤提供世界的味道，而高級餐廳則展示烹飪的卓越。無論您是想快速用餐還是享受豪華美食，倫敦多樣的美食選擇可以滿足各種口味和預算。",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "博羅市場",
+          "type": "street_food",
+          "description": "博羅市場是倫敦最著名的食品市場之一，提供各種新鮮農產品和手工食品。無論您想要一份美味的奶酪三明治還是剛出爐的糕點，這個市場都有適合每個人的選擇。隨著其熱鬧的氛圍和多樣的食物選擇，它是任何美食愛好者必訪之地。價格根據供應商從實惠到中等不等。",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "Dishoom",
+          "type": "restaurant",
+          "description": "Dishoom以其充滿活力的裝潢和美味的菜餚向孟買的Irani咖啡館致敬。以美味的印度菜聞名，餐廳提供從辛辣咖喱到芳香的Biryani等各種選擇。輕鬆而繁忙的氛圍使其成為休閒餐點和特殊場合的理想選擇。價格中等，但食物質量值得一試。",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "卡姆登市場",
+          "type": "street_food",
+          "description": "卡姆登市場是街頭美食愛好者的必訪之地，提供來自世界各地的多種美食。市場各式各樣的供應商確保每個人都能找到合適的選擇，從素食美食到多汁漢堡。隨著其充滿活力和繁忙的氛圍，卡姆登市場是休閒和有趣的用餐體驗的理想之地。價格普遍實惠，受到當地人和遊客的喜愛。",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "The Ledbury",
+          "type": "restaurant",
+          "description": "The Ledbury是一家米其林星級餐廳，以其精緻的菜餚和無可挑剔的服務而聞名。專注於現代歐洲美食，餐廳提供隨季節變化的菜單，展示最優質的食材。優雅而高雅的環境增強了高級用餐體驗，是特殊場合的理想選擇。為了卓越的質量和呈現，您需要支付高價。",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "Poppies炸魚薯條",
+          "type": "local_specialty",
+          "description": "Poppies炸魚薯條提供典型的英國體驗，其經典的炸魚薯條在復古環境中供應。以可持續來源的魚和酥脆的麵糊聞名，這家餐館是當地人和遊客的最愛。懷舊的裝潢和友好的服務為其增添了魅力。價格合理，是傳統英國餐的絕佳選擇。",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "布里克斯頓村",
+          "type": "street_food",
+          "description": "布里克斯頓村是一個充滿活力的市場，在熱鬧的環境中提供一系列國際美食。從加勒比海烤雞到意大利麵，市場多樣的食物攤位迎合各種口味。其輕鬆的氛圍和實惠的價格使其成為休閒用餐的熱門選擇。無論您是想快速用餐還是探索獨特的商店，布里克斯頓村都是一次美食冒險。",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "The Wolseley",
+          "type": "cafe",
+          "description": "The Wolseley是一家標誌性的倫敦咖啡館餐廳，以其宏偉的建築和全天供應的菜單而聞名。位於一座歷史悠久的建築中，它提供豪華的環境享用早餐、午餐或下午茶。咖啡館以其經典的歐洲菜餚和優雅的氛圍而聞名。雖然價格較高，但體驗確實令人難忘。",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "Rules餐廳",
+          "type": "local_specialty",
+          "description": "Rules餐廳是倫敦最古老的餐廳，在奢華的環境中提供傳統英國菜餚。以牛排和腎餡餅等經典菜聞名，餐廳提供英國烹飪遺產的味道。優雅的裝飾和卓越的服務使其成為高雅用餐體驗的完美之地。價格反映了優質和歷史意義。",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "ロンドンのベストフード2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "ロンドンの最高のレストラン、ストリートフード、地元の名物を発見しましょう。予算に優しい料理から高級ダイニングまで、予約リンク付き。",
+      "page_intro": "ロンドンのフードシーンは、伝統的な英国料理から国際的な料理まで、文化と味のるつぼです。街の活気ある市場やストリートフードの屋台は世界の味を提供し、高級レストランは料理の卓越性を示しています。軽食を楽しむ気分でも、豪華な食事を楽しむ気分でも、ロンドンの多様な料理の提供がすべての味覚と予算に対応します。",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "バラマーケット",
+          "type": "street_food",
+          "description": "バラマーケットはロンドンで最も有名なフードマーケットの一つで、新鮮な農産物や手作りの食品を提供しています。グルメチーズサンドイッチでも、焼きたてのペストリーでも、このマーケットには誰にでも合うものがあります。活気ある雰囲気と多様な食の選択肢が魅力のため、食通には必訪の場所です。価格は出店者によって手頃から中程度まで様々です。",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "ディシューム",
+          "type": "restaurant",
+          "description": "ディシュームは、ボンベイのイラニカフェを彷彿とさせる活気ある装飾と風味豊かな料理で知られています。美味しいインド料理で有名なこのレストランは、スパイシーなカレーから香り高いビリヤニまで、さまざまな選択肢を提供しています。リラックスした雰囲気でありながら賑やかで、カジュアルな食事や特別な機会に最適なスポットです。価格は中程度ですが、食の質は十分に価値があります。",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "カムデンマーケット",
+          "type": "street_food",
+          "description": "カムデンマーケットは、ストリートフード愛好家には必訪の場所で、世界中からの様々な料理を提供しています。市場の多様なベンダーの組み合わせは、ビーガンの楽しみからジューシーなバーガーまで、誰にでも合う何かを保証します。活気に満ちた賑やかな雰囲気で、カムデンマーケットはカジュアルで楽しい食事体験に最適です。価格は一般的に手頃で、地元の人や観光客に人気です。",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "ザ・レドベリー",
+          "type": "restaurant",
+          "description": "ザ・レドベリーは、洗練された料理と完璧なサービスで知られるミシュランの星を持つレストランです。現代ヨーロッパ料理に焦点を当て、季節ごとに変わるメニューで最高の食材を紹介しています。優雅で洗練された環境が高級ダイニング体験を向上させ、特別な機会に最適です。卓越した品質とプレゼンテーションには高額を期待してください。",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "ポッピーズ フィッシュ＆チップス",
+          "type": "local_specialty",
+          "description": "ポッピーズ フィッシュ＆チップスは、ヴィンテージな雰囲気で供されるクラシックなフィッシュ＆チップスで、典型的な英国体験を提供します。持続可能な方法で調達された魚とカリカリの衣で知られるこの店は、地元の人々や観光客に人気があります。ノスタルジックな装飾とフレンドリーなサービスがその魅力を増しています。価格はリーズナブルで、伝統的な英国の食事には素晴らしい選択です。",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "ブリクストンヴィレッジ",
+          "type": "street_food",
+          "description": "ブリクストンヴィレッジは、活気ある環境で多様な国際料理を提供する活気ある市場です。カリブのジャークチキンからイタリアンパスタまで、市場の多様なフードスタンドはすべての味覚に応えます。リラックスした雰囲気と手頃な価格で、カジュアルな食事に人気の選択肢です。軽食をつかんだり、ユニークなショップを探索する際には、ブリクストンヴィレッジは料理の冒険です。",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "ザ・ウォルズリー",
+          "type": "cafe",
+          "description": "ザ・ウォルズリーは、その壮大な建築と終日提供されるメニューで知られるロンドンの象徴的なカフェレストランです。歴史的な建物に位置し、朝食、昼食、またはアフタヌーンティーを楽しむための豪華な環境を提供します。カフェはそのクラシックなヨーロッパ料理と優雅な雰囲気で有名です。価格は高めですが、体験は本当に忘れられないものです。",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "ルールズレストラン",
+          "type": "local_specialty",
+          "description": "ルールズレストランは、伝統的な英国料理を豪華な環境で提供する、ロンドンで最も古いレストランです。ステーキ＆キドニーパイのようなクラシックな料理で知られ、英国の料理遺産の味を提供します。優雅な装飾と卓越したサービスが、洗練された食事体験に最適な場所です。価格はプレミアム品質と歴史的重要性を反映しています。",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "런던 최고의 음식 2026 — 최고의 레스토랑 및 거리 음식 가이드",
+      "seo_description": "런던에서 최고의 레스토랑, 거리 음식 및 지역 특산품을 발견하세요. 저렴한 음식부터 고급 식당까지 — 예약 링크 포함.",
+      "page_intro": "런던의 식문화는 전통적인 영국 요리부터 국제 요리에 이르기까지 다양한 문화와 맛의 용광로입니다. 이 도시의 활기찬 시장과 거리 음식 가판대는 세계의 맛을 제공하며, 고급 레스토랑은 요리의 우수성을 자랑합니다. 가벼운 식사를 원하든 고급 식사를 원하든 런던의 다양한 요리 제공은 모든 취향과 예산에 맞출 수 있습니다.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "버로우 마켓",
+          "type": "street_food",
+          "description": "버로우 마켓은 런던에서 가장 유명한 음식 시장 중 하나로, 신선한 농산물과 장인 식품을 다양하게 제공합니다. 고급 치즈 샌드위치나 갓 구운 페이스트리를 원하든, 이 시장은 누구에게나 적합한 무언가를 제공합니다. 활기찬 분위기와 다양한 음식 옵션으로, 음식 애호가에게는 꼭 방문해야 할 장소입니다. 가격은 판매자에 따라 저렴한 곳부터 중간 정도까지 다양합니다.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "디슘",
+          "type": "restaurant",
+          "description": "디슘은 활기찬 장식과 맛있는 요리로 봄베이의 이라니 카페에 경의를 표합니다. 맛있는 인도 요리로 유명한 이 레스토랑은 매운 카레부터 향긋한 비리야니까지 다양한 선택지를 제공합니다. 편안하면서도 붐비는 분위기로 캐주얼한 식사와 특별한 경우에 좋은 장소입니다. 가격은 중간 정도이지만 음식의 질은 충분히 가치가 있습니다.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "캠든 마켓",
+          "type": "street_food",
+          "description": "캠든 마켓은 거리 음식 애호가에게 꼭 방문해야 할 장소로, 세계 각국의 다양한 요리를 제공합니다. 시장의 다양한 판매자 조합은 비건 요리부터 육즙이 많은 버거까지 모든 사람에게 적합한 무언가를 보장합니다. 활기차고 붐비는 분위기로 캠든 마켓은 편안하고 재미있는 식사 경험을 위해 완벽한 장소입니다. 가격은 일반적으로 저렴하여 현지인과 관광객 모두에게 인기가 있습니다.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "더 레드베리",
+          "type": "restaurant",
+          "description": "더 레드베리는 정교한 요리와 완벽한 서비스로 유명한 미슐랭 스타 레스토랑입니다. 현대 유럽 요리에 중점을 두고 계절에 따라 변화하는 메뉴로 최고의 재료를 선보입니다. 우아하고 세련된 환경이 고급 식사 경험을 향상시켜 특별한 경우에 이상적입니다. 뛰어난 품질과 프레젠테이션에 대해 프리미엄을 지불해야 합니다.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "포피스 피시앤칩스",
+          "type": "local_specialty",
+          "description": "포피스 피시앤칩스는 빈티지한 환경에서 제공되는 클래식 피시앤칩스로 전형적인 영국 경험을 제공합니다. 지속 가능한 방식으로 공급된 생선과 바삭한 반죽으로 유명한 이 식당은 현지인과 관광객에게 인기가 있습니다. 향수를 불러일으키는 장식과 친절한 서비스가 매력을 더합니다. 가격이 합리적이며 전통적인 영국 식사에 탁월한 선택입니다.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "브릭스턴 빌리지",
+          "type": "street_food",
+          "description": "브릭스턴 빌리지는 활기찬 환경에서 다양한 국제 요리를 제공하는 활기찬 시장입니다. 카리브해의 저크 치킨부터 이탈리아 파스타까지 시장의 다양한 음식 점포는 모든 맛을 만족시킵니다. 편안한 분위기와 저렴한 가격으로 캐주얼한 식사에 인기 있는 선택입니다. 간단히 식사를 하거나 독특한 상점을 탐험하든, 브릭스턴 빌리지는 요리 모험입니다.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "더 울즐리",
+          "type": "cafe",
+          "description": "더 울즐리는 웅장한 건축물과 하루 종일 제공되는 메뉴로 유명한 런던의 상징적인 카페-레스토랑입니다. 역사적인 건물에 위치하여 아침 식사, 점심 식사 또는 오후 차를 즐길 수 있는 호화로운 환경을 제공합니다. 카페는 고전적인 유럽 요리와 우아한 분위기로 유명합니다. 가격은 다소 높지만 경험은 정말 잊을 수 없습니다.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "룰즈 레스토랑",
+          "type": "local_specialty",
+          "description": "룰즈 레스토랑은 런던에서 가장 오래된 레스토랑으로, 호화로운 환경에서 전통적인 영국 요리를 제공합니다. 스테이크 앤드 키드니 파이와 같은 고전적인 요리로 유명하며, 영국의 요리 유산의 맛을 제공합니다. 우아한 장식과 뛰어난 서비스가 세련된 식사 경험에 완벽한 장소입니다. 가격은 프리미엄 품질과 역사적 중요성을 반영합니다.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Londres 2026 — Guide des Meilleurs Restaurants & Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Londres. Des plats économiques à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "La scène culinaire de Londres est un creuset de cultures et de saveurs, offrant tout, des plats britanniques traditionnels aux cuisines internationales. Les marchés animés de la ville et les stands de street food offrent un goût du monde, tandis que ses établissements de haute cuisine témoignent de l'excellence culinaire. Que vous ayez envie d'une bouchée rapide ou d'un repas luxueux, les offres culinaires variées de Londres répondent à tous les goûts et budgets.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "Borough Market",
+          "type": "street_food",
+          "description": "Borough Market est l'un des marchés alimentaires les plus renommés de Londres, offrant une variété de produits frais et de produits alimentaires artisanaux. Que vous ayez envie d'un sandwich au fromage gourmet ou d'une pâtisserie fraîchement cuite, ce marché a quelque chose pour tout le monde. Avec son atmosphère animée et ses options alimentaires variées, c'est un incontournable pour tout amateur de nourriture. Les prix varient de abordables à modérés, selon le vendeur.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "Dishoom",
+          "type": "restaurant",
+          "description": "Dishoom rend hommage aux cafés iraniens de Bombay avec son décor vibrant et ses plats savoureux. Connu pour sa délicieuse cuisine indienne, le restaurant propose une gamme d'options allant des currys épicés aux biryanis aromatiques. L'atmosphère détendue mais animée en fait un excellent endroit pour les repas décontractés comme pour les occasions spéciales. Les prix sont modérés, mais la qualité de la nourriture en vaut vraiment la peine.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "Camden Market",
+          "type": "street_food",
+          "description": "Camden Market est un incontournable pour les amateurs de street food, offrant une large gamme de cuisines du monde entier. Le mélange éclectique de vendeurs du marché garantit qu'il y a quelque chose pour tout le monde, des délices végétaliens aux burgers juteux. Avec son ambiance vibrante et animée, Camden Market est parfait pour une expérience culinaire décontractée et amusante. Les prix sont généralement abordables, ce qui le rend populaire auprès des locaux et des touristes.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "The Ledbury",
+          "type": "restaurant",
+          "description": "The Ledbury est un restaurant étoilé Michelin connu pour ses plats exquis et son service impeccable. Avec un accent sur la cuisine européenne moderne, le restaurant propose un menu qui change au gré des saisons, mettant en valeur les meilleurs ingrédients. Le cadre élégant et sophistiqué rehausse l'expérience gastronomique, le rendant idéal pour les occasions spéciales. Attendez-vous à payer une prime pour la qualité exceptionnelle et la présentation.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "Poppies Fish and Chips",
+          "type": "local_specialty",
+          "description": "Poppies Fish and Chips offre une expérience typiquement britannique avec ses fish and chips classiques servis dans un cadre vintage. Connu pour ses poissons issus de sources durables et sa pâte croustillante, cet établissement est un favori parmi les locaux et les touristes. Le décor nostalgique et le service amical ajoutent à son charme. Les prix sont raisonnables, ce qui en fait un excellent choix pour un repas traditionnel britannique.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "Brixton Village",
+          "type": "street_food",
+          "description": "Brixton Village est un marché animé offrant une gamme de cuisines internationales dans un cadre dynamique. Du poulet jerk caribéen aux pâtes italiennes, les stands alimentaires divers du marché répondent à tous les goûts. Son atmosphère décontractée et ses prix abordables en font un choix populaire pour les repas décontractés. Que vous attrapiez une bouchée rapide ou exploriez les boutiques uniques, Brixton Village est une aventure culinaire.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "The Wolseley",
+          "type": "cafe",
+          "description": "The Wolseley est un café-restaurant londonien emblématique connu pour son architecture grandiose et son menu de restauration toute la journée. Situé dans un bâtiment historique, il offre un cadre luxueux pour savourer le petit déjeuner, le déjeuner ou le thé de l'après-midi. Le café est célébré pour ses plats européens classiques et son atmosphère élégante. Bien que les prix soient plus élevés, l'expérience est vraiment mémorable.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "Restaurant Rules",
+          "type": "local_specialty",
+          "description": "Rules Restaurant est le plus ancien restaurant de Londres, offrant une cuisine britannique traditionnelle dans un cadre somptueux. Connu pour ses plats classiques comme le steak and kidney pie, le restaurant offre un goût du patrimoine culinaire britannique. Le décor élégant et le service exceptionnel en font un lieu parfait pour une expérience culinaire raffinée. Les prix reflètent la qualité premium et l'importance historique.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Londres 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Londres. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "La escena gastronómica de Londres es un crisol de culturas y sabores, ofreciendo desde platos británicos tradicionales hasta cocinas internacionales. Los vibrantes mercados de la ciudad y los puestos de comida callejera ofrecen un sabor del mundo, mientras que sus establecimientos de alta cocina muestran la excelencia culinaria. Ya sea que tengas ganas de un bocado rápido o de una comida lujosa, las diversas ofertas culinarias de Londres se adaptan a todos los gustos y presupuestos.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "Borough Market",
+          "type": "street_food",
+          "description": "Borough Market es uno de los mercados de alimentos más famosos de Londres, ofreciendo una variedad de productos frescos y alimentos artesanales. Ya sea que tengas ganas de un sándwich de queso gourmet o de un pastel recién horneado, este mercado tiene algo para todos. Con su ambiente animado y diversas opciones de comida, es una visita obligada para cualquier amante de la comida. Los precios varían de asequibles a moderados, según el vendedor.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "Dishoom",
+          "type": "restaurant",
+          "description": "Dishoom rinde homenaje a los cafés iraníes de Bombay con su vibrante decoración y sabrosos platos. Conocido por su deliciosa cocina india, el restaurante ofrece una gama de opciones desde curris picantes hasta biryanis aromáticos. La atmósfera relajada pero bulliciosa lo convierte en un gran lugar tanto para comidas informales como para ocasiones especiales. Los precios son moderados, pero la calidad de la comida lo vale.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "Camden Market",
+          "type": "street_food",
+          "description": "Camden Market es una visita obligada para los entusiastas de la comida callejera, ofreciendo una amplia gama de cocinas de todo el mundo. La mezcla ecléctica de vendedores del mercado asegura que haya algo para todos, desde delicias veganas hasta jugosas hamburguesas. Con su ambiente vibrante y bullicioso, Camden Market es perfecto para una experiencia gastronómica casual y divertida. Los precios son generalmente asequibles, lo que lo hace popular entre locales y turistas.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "The Ledbury",
+          "type": "restaurant",
+          "description": "The Ledbury es un restaurante con estrella Michelin conocido por sus exquisitos platos y servicio impecable. Con un enfoque en la cocina europea moderna, el restaurante ofrece un menú que cambia con las estaciones, mostrando los mejores ingredientes. El entorno elegante y sofisticado mejora la experiencia gastronómica, haciéndolo ideal para ocasiones especiales. Espere pagar una prima por la calidad excepcional y la presentación.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "Poppies Fish and Chips",
+          "type": "local_specialty",
+          "description": "Poppies Fish and Chips ofrece una experiencia típicamente británica con su clásico fish and chips servido en un entorno vintage. Conocido por su pescado de origen sostenible y su masa crujiente, este restaurante es un favorito entre los locales y turistas. La decoración nostálgica y el servicio amigable añaden a su encanto. Los precios son razonables, lo que lo convierte en una excelente opción para una comida británica tradicional.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "Brixton Village",
+          "type": "street_food",
+          "description": "Brixton Village es un mercado vibrante que ofrece una variedad de cocinas internacionales en un entorno animado. Desde pollo jerk caribeño hasta pasta italiana, los diversos puestos de comida del mercado satisfacen todos los gustos. Su atmósfera relajada y precios asequibles lo convierten en una opción popular para comidas informales. Ya sea que estés tomando un bocado rápido o explorando las tiendas únicas, Brixton Village es una aventura culinaria.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "The Wolseley",
+          "type": "cafe",
+          "description": "The Wolseley es un icónico café-restaurante de Londres conocido por su grandiosa arquitectura y su menú de todo el día. Ubicado en un edificio histórico, ofrece un entorno lujoso para disfrutar del desayuno, el almuerzo o el té de la tarde. El café es célebre por sus platos clásicos europeos y su atmósfera elegante. Aunque los precios son más altos de lo normal, la experiencia es realmente inolvidable.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "Restaurante Rules",
+          "type": "local_specialty",
+          "description": "Rules Restaurant es el restaurante más antiguo de Londres, ofreciendo cocina británica tradicional en un entorno opulento. Conocido por sus platos clásicos como el pastel de carne y riñón, el restaurante ofrece un sabor del patrimonio culinario británico. La decoración elegante y el servicio excepcional lo convierten en un lugar perfecto para una experiencia gastronómica sofisticada. Los precios reflejan la calidad premium y la importancia histórica.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di London 2026 — Panduan Restoran & Makanan Jalanan Teratas",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan makanan khas lokal di London. Dari makanan dengan anggaran terjangkau hingga santapan mewah — dengan tautan pemesanan.",
+      "page_intro": "Skena makanan London adalah peleburan budaya dan rasa, menawarkan segalanya mulai dari hidangan tradisional Inggris hingga masakan internasional. Pasar dan gerai makanan jalanan yang hidup di kota ini memberikan cita rasa dunia, sementara tempat makan mewahnya menunjukkan keunggulan kuliner. Apakah Anda ingin camilan cepat atau makanan mewah, beragam penawaran kuliner London memenuhi semua selera dan anggaran.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "Borough Market",
+          "type": "street_food",
+          "description": "Borough Market adalah salah satu pasar makanan paling terkenal di London, menawarkan beragam produk segar dan produk makanan artisanal. Apakah Anda ingin sandwich keju gourmet atau kue yang baru dipanggang, pasar ini memiliki sesuatu untuk semua orang. Dengan suasana yang meriah dan pilihan makanan yang beragam, ini adalah tempat yang wajib dikunjungi bagi pecinta makanan. Harga bervariasi dari yang terjangkau hingga sedang, tergantung pada penjualnya.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "Dishoom",
+          "type": "restaurant",
+          "description": "Dishoom memberi penghormatan kepada kafe Irani Bombay dengan dekorasinya yang semarak dan hidangan yang lezat. Dikenal dengan masakan India yang lezat, restoran ini menawarkan berbagai pilihan dari kari pedas hingga biryani yang aromatik. Suasananya yang santai namun ramai menjadikannya tempat yang bagus untuk makan santai maupun acara khusus. Harga bukanlah yang termurah, tetapi kualitas makanannya sangat berharga.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "Camden Market",
+          "type": "street_food",
+          "description": "Camden Market adalah tempat yang wajib dikunjungi bagi para penggemar makanan jalanan, menawarkan berbagai masakan dari seluruh dunia. Kombinasi vendor yang eklektik memastikan ada sesuatu untuk semua orang, dari hidangan vegan hingga burger yang lezat. Dengan suasananya yang meriah dan ramai, Camden Market sempurna untuk pengalaman makan yang santai dan menyenangkan. Harga umumnya terjangkau, membuatnya populer di kalangan penduduk lokal dan turis.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "The Ledbury",
+          "type": "restaurant",
+          "description": "The Ledbury adalah restoran berbintang Michelin yang dikenal dengan hidangan yang lezat dan layanan yang sempurna. Dengan fokus pada masakan Eropa modern, restoran ini menawarkan menu yang berubah seiring musim untuk menampilkan bahan-bahan terbaik. Pengaturan yang elegan dan canggih meningkatkan pengalaman bersantap, menjadikannya ideal untuk acara khusus. Harapkan untuk membayar mahal untuk kualitas dan presentasi yang luar biasa.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "Poppies Fish and Chips",
+          "type": "local_specialty",
+          "description": "Poppies Fish and Chips menawarkan pengalaman khas Inggris dengan fish and chips klasiknya yang disajikan dalam suasana vintage. Dikenal dengan ikan yang bersumber secara berkelanjutan dan adonan yang renyah, tempat ini menjadi favorit di antara penduduk lokal dan turis. Dekorasi nostalgia dan layanan yang ramah menambah daya tariknya. Harga terjangkau, menjadikannya pilihan yang sangat baik untuk makanan tradisional Inggris.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "Brixton Village",
+          "type": "street_food",
+          "description": "Brixton Village adalah pasar yang penuh kehidupan yang menawarkan beragam masakan internasional dalam suasana yang meriah. Dari ayam jeruk Karibia hingga pasta Italia, berbagai kedai makanan di pasar ini memenuhi semua selera. Suasananya yang santai dan harga yang terjangkau menjadikannya pilihan populer untuk makan santai. Apakah Anda mengambil camilan cepat atau menjelajahi toko-toko unik, Brixton Village adalah petualangan kuliner.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "The Wolseley",
+          "type": "cafe",
+          "description": "The Wolseley adalah kafe-restaurant ikonik di London yang dikenal dengan arsitektur megahnya dan menu makan sepanjang hari. Terletak di sebuah bangunan bersejarah, tempat ini menawarkan suasana mewah untuk menikmati sarapan, makan siang, atau teh sore. Kafe ini dikenal dengan hidangan Eropa klasik dan suasana yang elegan. Meskipun harga lebih tinggi, pengalaman ini benar-benar tak terlupakan.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "Restoran Rules",
+          "type": "local_specialty",
+          "description": "Restoran Rules adalah restoran tertua di London, menawarkan masakan tradisional Inggris dalam suasana mewah. Dikenal dengan hidangan klasik seperti steak dan pai ginjal, restoran ini menawarkan cita rasa warisan kuliner Inggris. Dekorasi yang elegan dan layanan yang luar biasa menjadikannya tempat yang sempurna untuk pengalaman bersantap yang canggih. Harga mencerminkan kualitas premium dan signifikansi sejarah.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "लंदन में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "लंदन में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट वाले भोजन से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "लंदन का खाद्य दृश्य संस्कृतियों और स्वादों का एक पिघलता हुआ बर्तन है, जो पारंपरिक ब्रिटिश व्यंजन से लेकर अंतरराष्ट्रीय व्यंजनों तक सब कुछ प्रदान करता है। शहर के जीवंत बाजार और स्ट्रीट फूड स्टॉल दुनिया का स्वाद प्रदान करते हैं, जबकि इसके फाइन डाइनिंग प्रतिष्ठान पाक उत्कृष्टता को प्रदर्शित करते हैं। चाहे आप जल्दी खाना चाहते हों या शानदार भोजन का आनंद लेना चाहते हों, लंदन की विविध पाक पेशकशें सभी स्वादों और बजटों को पूरा करती हैं।",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "बरो मार्केट",
+          "type": "street_food",
+          "description": "बरो मार्केट लंदन के सबसे प्रसिद्ध खाद्य बाजारों में से एक है, जो ताजे उत्पादों और कारीगर खाद्य उत्पादों की विविधता प्रदान करता है। चाहे आप एक गॉरमेट चीज़ सैंडविच के मूड में हों या ताज़ा बेक किया हुआ पेस्ट्री, इस बाजार में हर किसी के लिए कुछ न कुछ है। इसकी जीवंत वातावरण और विविध खाद्य विकल्पों के साथ, यह किसी भी खाद्य प्रेमी के लिए एक आवश्यक यात्रा है। कीमतें विक्रेता के अनुसार किफायती से मध्यम तक होती हैं।",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "डिशूम",
+          "type": "restaurant",
+          "description": "डिशूम बॉम्बे के इरानी कैफे को अपनी जीवंत सजावट और स्वादिष्ट व्यंजनों के साथ श्रद्धांजलि देता है। अपने स्वादिष्ट भारतीय व्यंजनों के लिए जाना जाता है, यह रेस्तरां मसालेदार करी से लेकर सुगंधित बिरयानी तक कई विकल्प प्रदान करता है। आरामदायक लेकिन व्यस्त वातावरण इसे आकस्मिक भोजन और विशेष अवसरों दोनों के लिए एक शानदार स्थान बनाता है। कीमतें मध्यम हैं, लेकिन भोजन की गुणवत्ता इसका मूल्य है।",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "कैमडेन मार्केट",
+          "type": "street_food",
+          "description": "कैमडेन मार्केट स्ट्रीट फूड उत्साही लोगों के लिए एक आवश्यक यात्रा है, जो दुनिया भर के व्यंजनों की एक विस्तृत श्रृंखला पेश करता है। बाजार के विविध विक्रेताओं का मिश्रण सुनिश्चित करता है कि हर किसी के लिए कुछ न कुछ है, शाकाहारी व्यंजनों से लेकर रसदार बर्गर तक। इसके जीवंत और व्यस्त वातावरण के साथ, कैमडेन मार्केट आकस्मिक और मजेदार भोजन अनुभव के लिए आदर्श है। कीमतें आम तौर पर किफायती होती हैं, जो इसे स्थानीय निवासियों और पर्यटकों दोनों के बीच लोकप्रिय बनाती हैं।",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "द लेडबरी",
+          "type": "restaurant",
+          "description": "द लेडबरी एक मिशेलिन-स्टार वाला रेस्तरां है जो अपनी उत्कृष्ट व्यंजनों और बेहतरीन सेवा के लिए जाना जाता है। आधुनिक यूरोपीय व्यंजनों पर ध्यान केंद्रित करते हुए, रेस्तरां मौसम के अनुसार बदलता हुआ मेनू प्रदान करता है, जो बेहतरीन सामग्री को प्रदर्शित करता है। सुरुचिपूर्ण और परिष्कृत सेटिंग फाइन डाइनिंग अनुभव को बढ़ाती है, इसे विशेष अवसरों के लिए आदर्श बनाती है। असाधारण गुणवत्ता और प्रस्तुति के लिए प्रीमियम भुगतान की अपेक्षा करें।",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "पॉप्पीज फिश एंड चिप्स",
+          "type": "local_specialty",
+          "description": "पॉप्पीज फिश एंड चिप्स अपनी क्लासिक मछली और चिप्स के साथ एक पारंपरिक ब्रिटिश अनुभव प्रदान करता है जो विंटेज परिवेश में परोसा जाता है। अपनी स्थायी रूप से स्रोत की गई मछली और कुरकुरी बैटर के लिए जाना जाता है, यह भोजनालय स्थानीय लोगों और पर्यटकों के बीच पसंदीदा है। पुरानी सजावट और दोस्ताना सेवा इसकी आकर्षण को बढ़ाते हैं। कीमतें वाजिब हैं, जिससे यह एक पारंपरिक ब्रिटिश भोजन के लिए एक उत्कृष्ट विकल्प बनती है।",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "ब्रिकस्टन विलेज",
+          "type": "street_food",
+          "description": "ब्रिकस्टन विलेज एक जीवंत बाजार है जो जीवंत वातावरण में अंतरराष्ट्रीय व्यंजनों की एक श्रृंखला प्रदान करता है। कैरेबियन जर्क चिकन से लेकर इतालवी पास्ता तक, बाजार के विविध खाद्य स्टाल सभी स्वादों को पूरा करते हैं। इसकी आरामदायक वातावरण और किफायती कीमतें इसे आकस्मिक भोजन के लिए एक लोकप्रिय विकल्प बनाती हैं। चाहे आप जल्दी खाने के लिए कुछ लेना चाहते हों या अनोखे दुकानों का अन्वेषण करना चाहते हों, ब्रिकस्टन विलेज एक पाक साहसिक यात्रा है।",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "द वॉलस्ली",
+          "type": "cafe",
+          "description": "द वॉलस्ली एक प्रतिष्ठित लंदन कैफे-रेस्तरां है जो अपनी भव्य वास्तुकला और दिनभर खाने के मेनू के लिए जाना जाता है। एक ऐतिहासिक इमारत में स्थित, यह नाश्ता, लंच या दोपहर की चाय का आनंद लेने के लिए एक शानदार सेटिंग प्रदान करता है। कैफे अपने क्लासिक यूरोपीय व्यंजनों और सुरुचिपूर्ण वातावरण के लिए सराहना की जाती है। जबकि कीमतें उच्चतर पक्ष में हैं, अनुभव वास्तव में यादगार है।",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "रूल्स रेस्तरां",
+          "type": "local_specialty",
+          "description": "रूल्स रेस्तरां लंदन का सबसे पुराना रेस्तरां है, जो एक भव्य सेटिंग में पारंपरिक ब्रिटिश व्यंजन प्रदान करता है। स्टेक और किडनी पाई जैसे क्लासिक व्यंजनों के लिए जाना जाता है, रेस्तरां ब्रिटेन की पाक विरासत का स्वाद प्रदान करता है। शानदार सजावट और उत्कृष्ट सेवा इसे एक परिष्कृत भोजन अनुभव के लिए आदर्श स्थान बनाती हैं। कीमतें प्रीमियम गुणवत्ता और ऐतिहासिक महत्व को दर्शाती हैं।",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Londres 2026 — Guia de Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais em Londres. De refeições econômicas a alta gastronomia — com links para reservas.",
+      "page_intro": "A cena gastronômica de Londres é um caldeirão de culturas e sabores, oferecendo desde pratos tradicionais britânicos até culinárias internacionais. Os vibrantes mercados e barracas de comida de rua da cidade oferecem um sabor do mundo, enquanto seus estabelecimentos de alta gastronomia exibem excelência culinária. Quer você esteja com vontade de uma refeição rápida ou de um jantar luxuoso, as diversas ofertas culinárias de Londres atendem a todos os gostos e orçamentos.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "Borough Market",
+          "type": "street_food",
+          "description": "O Borough Market é um dos mercados de alimentos mais renomados de Londres, oferecendo uma variedade de produtos frescos e alimentos artesanais. Quer você esteja com vontade de um sanduíche de queijo gourmet ou um doce recém-assado, este mercado tem algo para todos. Com sua atmosfera animada e diversas opções de comida, é uma visita obrigatória para qualquer amante de comida. Os preços variam de acessíveis a moderados, dependendo do vendedor.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "Dishoom",
+          "type": "restaurant",
+          "description": "Dishoom presta homenagem aos cafés iranianos de Bombaim com sua decoração vibrante e pratos saborosos. Conhecido por sua deliciosa culinária indiana, o restaurante oferece uma variedade de opções, de curries picantes a biryanis aromáticos. A atmosfera descontraída e movimentada torna-o um excelente local tanto para refeições casuais quanto para ocasiões especiais. Os preços são moderados, mas a qualidade da comida vale a pena.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "Camden Market",
+          "type": "street_food",
+          "description": "O Camden Market é uma visita obrigatória para os entusiastas de comida de rua, oferecendo uma ampla gama de culinárias de todo o mundo. A mistura eclética de vendedores do mercado garante que haja algo para todos, de delícias veganas a hambúrgueres suculentos. Com sua atmosfera vibrante e movimentada, o Camden Market é perfeito para uma experiência gastronômica casual e divertida. Os preços são geralmente acessíveis, tornando-o popular entre os locais e turistas.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "The Ledbury",
+          "type": "restaurant",
+          "description": "The Ledbury é um restaurante com estrela Michelin conhecido por seus pratos requintados e serviço impecável. Com foco na culinária europeia moderna, o restaurante oferece um menu que muda com as estações, exibindo os melhores ingredientes. O ambiente elegante e sofisticado aprimora a experiência de alta gastronomia, tornando-o ideal para ocasiões especiais. Espere pagar um prêmio pela excepcional qualidade e apresentação.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "Poppies Fish and Chips",
+          "type": "local_specialty",
+          "description": "Poppies Fish and Chips oferece uma experiência britânica por excelência com seu clássico fish and chips servido em um ambiente vintage. Conhecido por seu peixe obtido de forma sustentável e massa crocante, este restaurante é um favorito entre os locais e turistas. A decoração nostálgica e o serviço amigável aumentam seu charme. Os preços são razoáveis, tornando-o uma excelente escolha para uma refeição britânica tradicional.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "Brixton Village",
+          "type": "street_food",
+          "description": "Brixton Village é um mercado vibrante que oferece uma variedade de culinárias internacionais em um ambiente animado. Do frango jerk caribenho ao macarrão italiano, as diversas barracas de comida do mercado atendem a todos os gostos. Sua atmosfera descontraída e preços acessíveis fazem dele uma escolha popular para refeições casuais. Quer você esteja pegando um lanche rápido ou explorando as lojas únicas, Brixton Village é uma aventura culinária.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "The Wolseley",
+          "type": "cafe",
+          "description": "The Wolseley é um icônico café-restaurante de Londres conhecido por sua grande arquitetura e menu de refeições durante todo o dia. Localizado em um prédio histórico, oferece um ambiente luxuoso para desfrutar do café da manhã, almoço ou chá da tarde. O café é celebrado por seus pratos clássicos europeus e atmosfera elegante. Embora os preços sejam mais altos, a experiência é verdadeiramente memorável.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "Rules Restaurant",
+          "type": "local_specialty",
+          "description": "Rules Restaurant é o restaurante mais antigo de Londres, oferecendo cozinha britânica tradicional em um ambiente opulento. Conhecido por seus pratos clássicos como torta de bife e rim, o restaurante oferece um sabor da herança culinária da Grã-Bretanha. A decoração elegante e o serviço excepcional fazem dele o lugar perfeito para uma experiência gastronômica sofisticada. Os preços refletem a qualidade premium e a importância histórica.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في لندن 2026 — دليل أفضل المطاعم والطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والمأكولات المحلية في لندن. من الأطعمة ذات الميزانية المحدودة إلى تناول الطعام الفاخر — مع روابط للحجز.",
+      "page_intro": "مشهد الطعام في لندن هو بوتقة تنصهر فيها الثقافات والنكهات، حيث يقدم كل شيء من الأطباق البريطانية التقليدية إلى المأكولات الدولية. توفر الأسواق الحيوية وأكشاك الطعام الشارعي في المدينة طعمًا للعالم، في حين تعرض مؤسسات تناول الطعام الفاخر فيها التميز الطهوي. سواء كنت في مزاج لتناول وجبة سريعة أو وجبة فاخرة، فإن العروض الطهوية المتنوعة في لندن تلبي جميع الأذواق والميزانيات.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "سوق بورو",
+          "type": "street_food",
+          "description": "يُعد سوق بورو واحدًا من أكثر أسواق الطعام شهرة في لندن، حيث يقدم مجموعة متنوعة من المنتجات الطازجة والمنتجات الغذائية الحرفية. سواء كنت في مزاج لتناول ساندويتش جبن فاخر أو معجنات طازجة، فإن هذا السوق يحتوي على شيء للجميع. بفضل أجوائه الحيوية وخيارات الطعام المتنوعة، يُعد زيارة لا بد منها لأي محب للطعام. تتراوح الأسعار من معقولة إلى متوسطة، حسب البائع.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "ديشوم",
+          "type": "restaurant",
+          "description": "يُقدم ديشوم تحية للمقاهي الإيرانية في بومباي بديكورها الحيوي وأطباقها ذات النكهات اللذيذة. معروف بمأكولاته الهندية الشهية، يقدم المطعم مجموعة من الخيارات من الكاري الحار إلى البرياني العطري. تجعل الأجواء المريحة والمزدحمة منها مكانًا رائعًا لكل من الوجبات العادية والمناسبات الخاصة. الأسعار متوسطة، لكن جودة الطعام تستحق ذلك.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "سوق كامدن",
+          "type": "street_food",
+          "description": "يُعد سوق كامدن وجهة لا بد من زيارتها لعشاق الطعام الشارعي، حيث يقدم مجموعة واسعة من المأكولات من جميع أنحاء العالم. يضمن مزيج البائعين المتنوع في السوق وجود شيء للجميع، من الأطباق النباتية إلى البرغر العصير. بفضل أجوائه الحيوية والمزدحمة، يُعد سوق كامدن مثاليًا لتجربة تناول طعام غير رسمية وممتعة. الأسعار عمومًا معقولة، مما يجعله شائعًا بين السكان المحليين والسياح.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "ذا ليدبري",
+          "type": "restaurant",
+          "description": "يُعد ذا ليدبري مطعمًا حاصلًا على نجمة ميشلان معروفًا بأطباقه الرائعة وخدمته المثالية. مع التركيز على المأكولات الأوروبية الحديثة، يقدم المطعم قائمة تتغير مع الفصول، تعرض أفضل المكونات. يعزز الإعداد الأنيق والراقي من تجربة تناول الطعام الفاخر، مما يجعله مثاليًا للمناسبات الخاصة. توقع دفع مبلغ إضافي للجودة والعرض الاستثنائي.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "بوبّيز فيش آند تشيبس",
+          "type": "local_specialty",
+          "description": "يقدم بوبّيز فيش آند تشيبس تجربة بريطانية أصيلة مع أسماك ورقائق تقليدية تُقدم في أجواء قديمة. معروف بأسماكه المستدامة وشرائحها المقرمشة، يُعتبر هذا المطعم مفضلًا بين السكان المحليين والسياح. تضيف الديكورات النستالجية والخدمة الودية إلى سحره. الأسعار معقولة، مما يجعله خيارًا ممتازًا لوجبة بريطانية تقليدية.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "قرية بريكستون",
+          "type": "street_food",
+          "description": "قرية بريكستون هي سوق نابض بالحياة يقدم مجموعة من المأكولات الدولية في جو حيوي. من دجاج الجيرك الكاريبي إلى المعكرونة الإيطالية، تلبي أكشاك الطعام المتنوعة في السوق جميع الأذواق. تجعل الأجواء المريحة والأسعار المعقولة منه خيارًا شائعًا لتناول الطعام العادي. سواء كنت تلتقط وجبة سريعة أو تستكشف المتاجر الفريدة، فإن قرية بريكستون مغامرة طهوية.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "ذا وولسلي",
+          "type": "cafe",
+          "description": "يُعد ذا وولسلي كافيه-مطعمًا أيقونيًا في لندن، معروفًا بهندسته المعمارية الرائعة وقائمة الطعام طوال اليوم. يقع في مبنى تاريخي، ويوفر أجواء فاخرة للاستمتاع بالإفطار أو الغداء أو شاي العصر. يُحتفى بالمقهى لأطباقه الأوروبية الكلاسيكية وأجوائه الأنيقة. بالرغم من أن الأسعار على الجانب الأعلى، إلا أن التجربة لا تُنسى حقًا.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "مطعم رولز",
+          "type": "local_specialty",
+          "description": "مطعم رولز هو أقدم مطعم في لندن، يقدم المأكولات البريطانية التقليدية في أجواء فاخرة. معروف بأطباقه الكلاسيكية مثل فطيرة اللحم والكلى، يوفر المطعم طعمًا لتراث بريطانيا الطهوي. تجعل الديكورات الأنيقة والخدمة الاستثنائية منه المكان المثالي لتجربة تناول طعام راقية. تعكس الأسعار الجودة الممتازة والأهمية التاريخية.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "লন্ডনে সেরা খাবার ২০২৬ — শীর্ষ রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
+      "seo_description": "লন্ডনে সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেট খাবার থেকে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "page_intro": "লন্ডনের খাদ্য দৃশ্য সংস্কৃতি এবং স্বাদের একটি গলনপাত্র, যা প্রচলিত ব্রিটিশ খাবার থেকে আন্তর্জাতিক রান্না পর্যন্ত সবকিছু প্রদান করে। শহরের প্রাণবন্ত বাজার এবং স্ট্রিট ফুড স্টল বিশ্বটির স্বাদ প্রদান করে, যখন এর ফাইন ডাইনিং প্রতিষ্ঠানগুলি খাঁটি কুলিনারি উৎকর্ষ প্রদর্শন করে। আপনি যদি দ্রুত খাওয়ার মুডে থাকেন বা বিলাসবহুল খাবার চান, লন্ডনের বৈচিত্র্যময় কুলিনারি অফারগুলি সমস্ত স্বাদ এবং বাজেটের জন্য উপযুক্ত।",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "বোরো মার্কেট",
+          "type": "street_food",
+          "description": "বোরো মার্কেট লন্ডনের সবচেয়ে বিখ্যাত খাদ্য বাজারগুলির মধ্যে একটি, যা তাজা পণ্য এবং শিল্পকর্ম খাদ্য পণ্যগুলির বিভিন্নতা প্রদান করে। আপনি যদি গুরমেট চিজ স্যান্ডউইচের মুডে থাকেন বা সদ্য বেক করা পেস্ট্রি চান, এই বাজারে সবার জন্য কিছু না কিছু আছে। এর প্রাণবন্ত পরিবেশ এবং বৈচিত্র্যময় খাদ্য বিকল্পগুলির সাথে, এটি যে কোনও খাদ্যপ্রেমীর জন্য একটি অবশ্যই পরিদর্শনযোগ্য স্থান। দামগুলি বিক্রেতার উপর নির্ভর করে সাশ্রয়ী থেকে মধ্যম পর্যন্ত হয়।",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "ডিশুম",
+          "type": "restaurant",
+          "description": "ডিশুম বোম্বের ইরানি ক্যাফেগুলির প্রতি শ্রদ্ধা জানায় এর প্রাণবন্ত সাজসজ্জা এবং সুস্বাদু খাবারগুলির সাথে। এর সুস্বাদু ভারতীয় রান্নার জন্য পরিচিত, রেস্তোরাঁটি মশলাদার কারি থেকে সুগন্ধী বিরিয়ানি পর্যন্ত বিভিন্ন বিকল্প প্রদান করে। আরামদায়ক তবে ব্যস্ত পরিবেশ এটিকে উভয় সাধারণ খাবার এবং বিশেষ উপলক্ষের জন্য একটি দুর্দান্ত জায়গা করে তোলে। দামগুলি মধ্যম, তবে খাবারের গুণমান এর মূল্য।",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "ক্যামডেন মার্কেট",
+          "type": "street_food",
+          "description": "ক্যামডেন মার্কেট স্ট্রিট ফুড উত্সাহীদের জন্য একটি অবশ্যই পরিদর্শনযোগ্য স্থান, যা সারা বিশ্বের রান্নার বিস্তৃত পরিসর প্রদান করে। বাজারের বৈচিত্র্যময় বিক্রেতাদের সংমিশ্রণ নিশ্চিত করে যে সবার জন্য কিছু না কিছু আছে, ভেগান আনন্দ থেকে রসালো বার্গার পর্যন্ত। এর প্রাণবন্ত এবং ব্যস্ত পরিবেশের সাথে, ক্যামডেন মার্কেট নৈমিত্তিক এবং মজাদার খাবারের অভিজ্ঞতার জন্য আদর্শ। দামগুলি সাধারণত সাশ্রয়ী মূল্যের, যা এটিকে স্থানীয় এবং পর্যটকদের মধ্যে জনপ্রিয় করে তোলে।",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "দ্য লেডবুরি",
+          "type": "restaurant",
+          "description": "দ্য লেডবুরি একটি মিশেলিন-স্টার রেস্তোরাঁ যা তার অসাধারণ খাবার এবং নিখুঁত পরিষেবার জন্য পরিচিত। আধুনিক ইউরোপীয় রান্নার উপর ফোকাস রেখে, রেস্তোরাঁটি একটি মেনু প্রদান করে যা ঋতুর সাথে পরিবর্তিত হয়, সেরা উপাদানগুলি প্রদর্শন করে। মার্জিত এবং পরিশীলিত সেটিং ফাইন ডাইনিং অভিজ্ঞতাকে বাড়ায়, এটি বিশেষ উপলক্ষের জন্য আদর্শ করে তোলে। অসাধারণ গুণমান এবং উপস্থাপনার জন্য একটি প্রিমিয়াম প্রদানের আশা করুন।",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "পপ্পিজ ফিশ অ্যান্ড চিপস",
+          "type": "local_specialty",
+          "description": "পপ্পিজ ফিশ অ্যান্ড চিপস তার ক্লাসিক ফিশ এবং চিপসের সাথে একটি বিশুদ্ধ ব্রিটিশ অভিজ্ঞতা প্রদান করে যা প্রাচীন পরিবেশে পরিবেশিত হয়। এর টেকসইভাবে আহরণ করা মাছ এবং খাস্তা ব্যাটারের জন্য পরিচিত, এই খাদ্যকেন্দ্র স্থানীয় এবং পর্যটকদের মধ্যে প্রিয়। পুরাতন সজ্জা এবং বন্ধুত্বপূর্ণ পরিষেবা এর আকর্ষণকে বাড়ায়। দামগুলি যুক্তিসঙ্গত, এটি একটি প্রচলিত ব্রিটিশ খাবারের জন্য একটি চমৎকার পছন্দ করে তোলে।",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "ব্রিক্সটন ভিলেজ",
+          "type": "street_food",
+          "description": "ব্রিক্সটন ভিলেজ একটি প্রাণবন্ত বাজার যা একটি প্রাণবন্ত পরিবেশে আন্তর্জাতিক রান্নার একটি পরিসর প্রদান করে। ক্যারিবিয়ান জার্ক চিকেন থেকে ইতালীয় পাস্তা পর্যন্ত, বাজারের বৈচিত্র্যময় খাদ্য স্টলগুলি সমস্ত স্বাদের জন্য উপযুক্ত। এর শিথিল পরিবেশ এবং সাশ্রয়ী দামের দামগুলি এটি নৈমিত্তিক খাবারের জন্য একটি জনপ্রিয় পছন্দ করে তোলে। আপনি যদি একটি দ্রুত খাবার ধরতে চান বা অনন্য দোকানগুলি অন্বেষণ করতে চান, ব্রিক্সটন ভিলেজ একটি কুলিনারি অ্যাডভেঞ্চার।",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "দ্য ওলসলি",
+          "type": "cafe",
+          "description": "দ্য ওলসলি একটি আইকনিক লন্ডন ক্যাফে-রেস্তোরাঁ যা তার মহৎ স্থাপত্য এবং সারাদিনের ডাইনিং মেনুর জন্য পরিচিত। একটি ঐতিহাসিক ভবনে অবস্থিত, এটি নাস্তা, মধ্যাহ্নভোজন বা বিকালের চা উপভোগ করার জন্য একটি বিলাসবহুল সেটিং প্রদান করে। ক্যাফেটি তার প্রচলিত ইউরোপীয় খাবার এবং মার্জিত পরিবেশের জন্য প্রশংসিত হয়। যদিও দামগুলি বেশি, অভিজ্ঞতা সত্যিই স্মরণীয়।",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "রুলস রেস্তোরাঁ",
+          "type": "local_specialty",
+          "description": "রুলস রেস্তোরাঁ লন্ডনের প্রাচীনতম রেস্তোরাঁ, যা একটি সমৃদ্ধ সেটিংয়ে প্রচলিত ব্রিটিশ খাবার প্রস্তাব করে। স্টেক এবং কিডনি পাইয়ের মত প্রচলিত খাবারের জন্য পরিচিত, রেস্তোরাঁটি ব্রিটেনের কুলিনারি ঐতিহ্যের স্বাদ প্রদান করে। মার্জিত সজ্জা এবং অসাধারণ পরিষেবা এটিকে একটি পরিশীলিত খাবারের অভিজ্ঞতার জন্য একটি নিখুঁত স্থান করে তোলে। দামগুলি প্রিমিয়াম গুণমান এবং ঐতিহাসিক গুরুত্ব প্রতিফলিত করে।",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Лондоне 2026 — Гид по ресторанам и уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Лондоне. От бюджетных блюд до высокой кухни — с ссылками для бронирования.",
+      "page_intro": "Кулинарная сцена Лондона — это плавильный котел культур и вкусов, предлагающий все от традиционных британских блюд до интернациональной кухни. Яркие рынки и уличные киоски города предлагают вкус мира, а рестораны высокой кухни демонстрируют кулинарное мастерство. Хотите ли вы быстро перекусить или насладиться роскошным ужином, разнообразные кулинарные предложения Лондона удовлетворят любые вкусы и бюджеты.",
+      "items": [
+        {
+          "id": "borough-market",
+          "name": "Боро Маркет",
+          "type": "street_food",
+          "description": "Боро Маркет — один из самых известных продуктовых рынков Лондона, предлагающий разнообразные свежие продукты и ремесленные блюда. Хотите ли вы гурманский сырный бутерброд или свежевыпеченное пирожное, на этом рынке найдется что-то для каждого. С его оживленной атмосферой и разнообразными вариантами еды это обязательное место для посещения любого гурмана. Цены варьируются от доступных до средних в зависимости от продавца.",
+          "image_keyword": "Borough Market London",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Salt beef sandwich",
+          "klook_query": "Borough Market food tour"
+        },
+        {
+          "id": "dishoom",
+          "name": "Дишум",
+          "type": "restaurant",
+          "description": "Дишум отдает дань уважения иранским кафе Бомбея с его ярким декором и ароматными блюдами. Известный своей вкусной индийской кухней, ресторан предлагает множество вариантов от острых карри до ароматных бирьяни. Расслабленная, но оживленная атмосфера делает его отличным местом как для повседневных обедов, так и для особых случаев. Цены умеренные, но качество еды стоит того.",
+          "image_keyword": "Dishoom restaurant London",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "House Black Daal",
+          "klook_query": "Dishoom London reservation"
+        },
+        {
+          "id": "camden-market",
+          "name": "Камден Маркет",
+          "type": "street_food",
+          "description": "Камден Маркет — обязательное место для посещения любителей уличной еды, предлагающее широкий выбор кухонь со всего мира. Эклектичная смесь продавцов на рынке гарантирует, что здесь найдется что-то для каждого, от веганских удовольствий до сочных бургеров. С его яркой и оживленной атмосферой Камден Маркет идеально подходит для непринужденного и веселого обеда. Цены, как правило, доступные, что делает его популярным среди местных жителей и туристов.",
+          "image_keyword": "Camden Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Halloumi fries",
+          "klook_query": "Camden Market food tour"
+        },
+        {
+          "id": "the-ledbury",
+          "name": "Ледбери",
+          "type": "restaurant",
+          "description": "Ледбери — это ресторан с мишленовской звездой, известный своими изысканными блюдами и безупречным сервисом. С акцентом на современную европейскую кухню ресторан предлагает меню, которое меняется в зависимости от сезонов, демонстрируя лучшие ингредиенты. Элегантная и утонченная обстановка усиливает впечатление от высокой кухни, делая его идеальным для особых случаев. Ожидайте заплатить премию за исключительное качество и презентацию.",
+          "image_keyword": "The Ledbury London",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Flame-grilled Mackerel",
+          "klook_query": "The Ledbury reservation"
+        },
+        {
+          "id": "poppies-fish-and-chips",
+          "name": "Поппи Фиш энд Чипс",
+          "type": "local_specialty",
+          "description": "Поппи Фиш энд Чипс предлагает поистине британский опыт с классической рыбой и картофелем фри, подаваемыми в винтажной обстановке. Известный своей рыбой из устойчивых источников и хрустящим кляром, этот ресторан любим как местными жителями, так и туристами. Ностальгический декор и дружелюбное обслуживание добавляют ему шарма. Цены разумные, что делает его отличным выбором для традиционного британского обеда.",
+          "image_keyword": "Poppies Fish and Chips London",
+          "star_rating": 4.4,
+          "price_range": "$$",
+          "must_try": "Cod and chips",
+          "klook_query": "Poppies Fish and Chips booking"
+        },
+        {
+          "id": "brixton-village",
+          "name": "Брикстон Вилладж",
+          "type": "street_food",
+          "description": "Брикстон Вилладж — это оживленный рынок, предлагающий разнообразие международных кухонь в живой обстановке. От карибского курицы-джерк до итальянской пасты, разнообразные продуктовые киоски на рынке удовлетворят любой вкус. Его непринужденная атмосфера и доступные цены делают его популярным выбором для непринужденного обеда. Хотите ли вы быстро перекусить или исследовать уникальные магазины, Брикстон Вилладж — это кулинарное приключение.",
+          "image_keyword": "Brixton Village street food",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Jerk chicken",
+          "klook_query": "Brixton Village food tour"
+        },
+        {
+          "id": "the-wolseley",
+          "name": "Волсли",
+          "type": "cafe",
+          "description": "Волсли — это культовое лондонское кафе-ресторан, известное своей грандиозной архитектурой и меню на весь день. Расположенное в историческом здании, оно предлагает роскошную обстановку для завтрака, обеда или послеобеденного чая. Кафе славится своими классическими европейскими блюдами и элегантной атмосферой. Хотя цены выше среднего, впечатления действительно незабываемые.",
+          "image_keyword": "The Wolseley London",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Eggs Benedict",
+          "klook_query": "The Wolseley afternoon tea"
+        },
+        {
+          "id": "rules-restaurant",
+          "name": "Рулс Ресторан",
+          "type": "local_specialty",
+          "description": "Рулс Ресторан — это самый старый ресторан в Лондоне, предлагающий традиционную британскую кухню в роскошной обстановке. Известный своими классическими блюдами, такими как пирог с мясом и почками, ресторан предлагает вкус кулинарного наследия Британии. Элегантный декор и исключительное обслуживание делают его идеальным местом для изысканного обеда. Цены отражают премиальное качество и историческое значение.",
+          "image_keyword": "Rules Restaurant London",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Steak and kidney pie",
+          "klook_query": "Rules Restaurant booking"
+        }
+      ]
+    }
+  }
+}

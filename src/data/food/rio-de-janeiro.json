@@ -1,0 +1,1145 @@
+{
+  "city_slug": "rio-de-janeiro",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Rio de Janeiro 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Rio de Janeiro. From budget eats to fine dining — with booking links.",
+      "page_intro": "Rio de Janeiro's food scene is a vibrant tapestry of flavors that reflects its rich cultural heritage. From traditional Brazilian cuisine to international influences, the city offers a delightful array of dining options. Whether you're indulging in street food at a bustling market or savoring a fine meal at a renowned restaurant, Rio's culinary landscape is sure to please every palate.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "Marius Crustaceos",
+          "type": "restaurant",
+          "description": "Marius Crustaceos is a unique dining experience, known for its seafood buffet and vibrant atmosphere. Guests can enjoy a variety of fresh seafood dishes, including crab, shrimp, and fish, all cooked to perfection. The restaurant features an elaborate decor and a lively ambiance, making it perfect for both casual and special occasions. Expect to pay around $$ for a hearty meal.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "Pavuna Market",
+          "type": "street_food",
+          "description": "The Pavuna Market is a bustling hub of street food vendors offering a wide array of local delicacies. Here, you can sample the famous pastéis, delicious coxinhas, and refreshing açaí bowls. The market showcases the vibrant culture of Rio, where locals gather to enjoy affordable and tasty eats. Prices are very budget-friendly, typically around $.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "Confeitaria Colombo",
+          "type": "cafe",
+          "description": "Confeitaria Colombo is an iconic cafe in Rio, renowned for its stunning architecture and traditional Brazilian pastries. This historic cafe is perfect for enjoying a sweet treat or a light meal in a charming atmosphere. Be sure to try their famous brigadeiros and the delectable queijo minas. Prices are moderate, typically around $$.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "Feira de São Cristóvão",
+          "type": "night_market",
+          "description": "Feira de São Cristóvão is a lively night market that celebrates Northeastern Brazilian culture with its array of food stalls and music. Here, you can experience local dishes like acarajé and forró music while enjoying the festive atmosphere. It's a great spot to immerse yourself in the local culture and try affordable, authentic food. Expect to spend around $.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "Oro",
+          "type": "restaurant",
+          "description": "Oro is a Michelin-starred restaurant that offers a contemporary take on Brazilian cuisine, with a focus on local ingredients. The tasting menu is a culinary journey that highlights the flavors of the region, with dishes that are as creative as they are delicious. The elegant setting and attentive service make it an ideal spot for a special occasion. Prices are on the higher side, around $$$.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "Mercado da Riqueza",
+          "type": "street_food",
+          "description": "Mercado da Riqueza is a vibrant street food market that showcases the diverse flavors of Brazilian street cuisine. From skewers of meat to tropical fruits, this market is a paradise for food lovers. The lively atmosphere and the variety of food options make it a must-visit spot for both locals and tourists. Prices are very reasonable, usually around $.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "Botequim da Família",
+          "type": "bar",
+          "description": "Botequim da Família is a cozy bar that offers a relaxed atmosphere to enjoy traditional Brazilian drinks and snacks. It's the perfect place to sip on caipirinhas while trying their famous bolinho de bacalhau. The friendly staff and local vibe make it a great spot to unwind after a day of exploring. Prices are budget-friendly, typically around $.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "Bar do Mineiro",
+          "type": "restaurant",
+          "description": "Bar do Mineiro is a beloved eatery known for its authentic Brazilian comfort food. The restaurant specializes in dishes like feijoada and pão de queijo, served in a laid-back setting. The warm and welcoming atmosphere is perfect for enjoying a hearty meal with friends. Expect to pay around $$ for a satisfying dining experience.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年里约热内卢最佳美食——顶级餐厅与街头美食指南",
+      "seo_description": "发现里约热内卢最好的餐厅、街头美食和当地特色。从经济实惠的美食到高档餐饮——附有预订链接。",
+      "page_intro": "里约热内卢的美食场景是丰富文化遗产的生动画卷。传统巴西美食与国际风味交织，城市提供了令人愉悦的用餐选择。无论是在繁忙市场享用街头美食，还是在著名餐厅品尝精致美餐，里约的美食景观定能满足每一位食客的味蕾。",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "Marius Crustaceos",
+          "type": "restaurant",
+          "description": "Marius Crustaceos是一种独特的用餐体验，以海鲜自助餐和充满活力的氛围而闻名。客人可以享受到各种新鲜海鲜菜肴，包括螃蟹、虾和鱼，所有菜肴都煮至完美。餐厅的装饰华丽，氛围热闹，非常适合休闲和特殊场合。期待支付大约$$以享用丰盛的餐点。",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "Pavuna市场",
+          "type": "street_food",
+          "description": "Pavuna市场是一个热闹的街头食品摊贩中心，提供各种当地美食。在这里，您可以品尝到著名的pastéis、美味的coxinhas和清爽的açaí碗。市场展示了里约的活力文化，当地人聚集在一起享受实惠而美味的美食。价格非常经济，通常在$左右。",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "Confeitaria Colombo",
+          "type": "cafe",
+          "description": "Confeitaria Colombo是里约的一家标志性咖啡馆，以其令人惊叹的建筑和传统巴西糕点而闻名。这家历史悠久的咖啡馆非常适合在迷人的氛围中享用甜点或简餐。一定要尝试他们著名的brigadeiros和美味的queijo minas。价格适中，通常在$$左右。",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "Feira de São Cristóvão",
+          "type": "night_market",
+          "description": "Feira de São Cristóvão是一个热闹的夜市，通过各种食品摊位和音乐庆祝巴西东北文化。在这里，您可以体验当地菜肴，如acarajé和forró音乐，同时享受节日气氛。是一个深入当地文化并尝试实惠正宗美食的好地方。期待花费大约$。",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "Oro",
+          "type": "restaurant",
+          "description": "Oro是一家米其林星级餐厅，提供现代巴西美食，注重当地食材。品尝菜单是一场美食之旅，突显了该地区的风味，菜肴既富有创意又美味。优雅的环境和周到的服务使其成为特殊场合的理想场所。价格偏高，约为$$$。",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "Mercado da Riqueza",
+          "type": "street_food",
+          "description": "Mercado da Riqueza是一个充满活力的街头美食市场，展示了巴西街头美食的多样风味。从肉串到热带水果，这个市场是美食爱好者的天堂。热闹的氛围和各种食品选择使其成为当地人和游客必访的地方。价格非常合理，通常在$左右。",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "Botequim da Família",
+          "type": "bar",
+          "description": "Botequim da Família是一个舒适的酒吧，提供轻松的氛围，享用传统巴西饮品和小吃。这里是品尝caipirinhas的完美地方，同时尝试他们著名的bolinho de bacalhau。友好的员工和本地氛围使其成为在一天的探索后放松的好去处。价格经济，通常在$左右。",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "Bar do Mineiro",
+          "type": "restaurant",
+          "description": "Bar do Mineiro是一家备受喜爱的餐厅，以其正宗的巴西舒适食品而闻名。餐厅专注于feijoada和pão de queijo等菜肴，提供轻松的用餐环境。温暖友好的氛围非常适合与朋友共享丰盛的餐点。期待支付大约$$以获得令人满意的用餐体验。",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年リオデジャネイロのベストフード - トップレストラン＆ストリートフードガイド",
+      "seo_description": "リオデジャネイロで最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで——予約リンク付き。",
+      "page_intro": "リオデジャネイロの食文化は、その豊かな文化遺産を反映した活気に満ちた風味のタペストリーです。伝統的なブラジル料理から国際的な影響まで、街は魅力的なダイニングオプションの数々を提供しています。賑やかなマーケットでストリートフードを楽しむときも、名高いレストランで贅沢な食事を味わうときも、リオの料理シーンはすべての味覚を喜ばせることでしょう。",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "マリウス・クラスタセオス",
+          "type": "restaurant",
+          "description": "マリウス・クラスタセオスは、シーフードビュッフェと活気ある雰囲気で知られるユニークなダイニング体験です。ゲストは、カニ、エビ、魚などの新鮮なシーフード料理を楽しむことができ、すべて完璧に調理されています。レストランは豪華な装飾と賑やかな雰囲気を特徴としており、カジュアルな食事や特別な機会に最適です。しっかりとした食事には約$$の費用がかかることを期待してください。",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "パブナ市場",
+          "type": "street_food",
+          "description": "パブナ市場は、地元のデリカシーを提供するストリートフードのベンダーで賑わうハブです。ここでは、有名なパステイーズ、美味しいコシーニャ、爽やかなアサイーボウルを試食できます。市場はリオの活気ある文化を示し、地元の人々が手頃で美味しい食事を楽しむために集まります。価格は非常に経済的で、通常は$程度です。",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "コンフェイタリア・コロンボ",
+          "type": "cafe",
+          "description": "コンフェイタリア・コロンボは、素晴らしい建築と伝統的なブラジルのペストリーで知られるリオの象徴的なカフェです。この歴史的なカフェは、魅力的な雰囲気の中で甘いおやつや軽食を楽しむのに最適です。彼らの有名なブリガデイロや美味しいケイジョ・ミナスをぜひお試しください。価格は中程度で、通常は$$程度です。",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "フェイラ・デ・サン・クリストバン",
+          "type": "night_market",
+          "description": "フェイラ・デ・サン・クリストバンは、食品スタンドと音楽でブラジル北東部の文化を祝う賑やかなナイトマーケットです。ここでは、アカラジェやフォホ音楽などの地元料理を体験しながら、祭りの雰囲気を楽しむことができます。地元文化に浸り、手頃で本格的な食事を試すのに最適なスポットです。約$の費用がかかることを期待してください。",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "オロ",
+          "type": "restaurant",
+          "description": "オロは、地元の食材に焦点を当てたブラジル料理の現代的な解釈を提供するミシュラン星付きレストランです。テイスティングメニューは、地域の風味を際立たせる美食の旅で、料理は創造的で美味しいものです。エレガントなセッティングと細やかなサービスが、特別な機会に最適な場所にします。価格は高めで、約$$$です。",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "メルカド・ダ・リケーザ",
+          "type": "street_food",
+          "description": "メルカド・ダ・リケーザは、ブラジルのストリート料理の多様な風味を展示する活気あるストリートフードマーケットです。肉の串焼きから熱帯フルーツまで、このマーケットは食べ物愛好家の楽園です。活気のある雰囲気とさまざまな食事の選択肢が、地元の人々や観光客にとって必見のスポットです。価格は非常にリーズナブルで、通常は$程度です。",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "ボテキン・ダ・ファミリア",
+          "type": "bar",
+          "description": "ボテキン・ダ・ファミリアは、伝統的なブラジルの飲み物やスナックを楽しむためのリラックスした雰囲気を提供する居心地の良いバーです。カイピリーニャを飲みながら、彼らの有名なボリーニョ・デ・バカリャウを試すのに最適な場所です。フレンドリーなスタッフと地元の雰囲気が、一日の探検の後にくつろぐのに最適なスポットとなります。価格は手頃で、通常は$程度です。",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "バール・ド・ミネイロ",
+          "type": "restaurant",
+          "description": "バール・ド・ミネイロは、正真正銘のブラジルのコンフォートフードで知られる人気のある食堂です。レストランは、フェイジョアーダやパン・デ・ケイジョなどの料理を専門にしており、リラックスした雰囲気で提供しています。温かく迎え入れてくれる雰囲気が、友人との心温まる食事に最適です。満足のいくダイニング体験には約$$の費用がかかることを期待してください。",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 리우데자네이루 최고의 음식 - 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "리우데자네이루의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산에 맞는 식사부터 고급 다이닝까지 - 예약 링크 포함.",
+      "page_intro": "리우데자네이루의 음식 문화는 그 풍부한 문화 유산을 반영한 다채로운 맛의 모자이크입니다. 전통 브라질 요리부터 국제적인 영향까지, 이 도시는 매력적인 다이닝 옵션을 제공합니다. 번화한 시장에서 스트리트 푸드를 즐기든, 유명 레스토랑에서 정찬을 만끽하든, 리우의 요리 풍경은 모든 미각을 만족시킬 것입니다.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "마리우스 크루스타세오스",
+          "type": "restaurant",
+          "description": "마리우스 크루스타세오스는 해산물 뷔페와 생동감 넘치는 분위기로 알려진 독특한 다이닝 경험입니다. 손님들은 완벽하게 조리된 게, 새우, 생선 등의 다양한 신선한 해산물 요리를 즐길 수 있습니다. 이 레스토랑은 화려한 장식과 활기찬 분위기가 특징으로, 캐주얼한 자리와 특별한 행사 모두에 적합합니다. 푸짐한 식사를 위해서는 약 $$의 비용이 예상됩니다.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "파부나 시장",
+          "type": "street_food",
+          "description": "파부나 시장은 다양한 지역 미식을 제공하는 스트리트 푸드 판매자들로 가득한 번화한 허브입니다. 여기에서는 유명한 파스텔, 맛있는 코시냐, 상큼한 아사이 볼을 맛볼 수 있습니다. 이 시장은 리우의 활기찬 문화를 보여주며, 지역 주민들이 저렴하고 맛있는 음식을 즐기기 위해 모이는 곳입니다. 가격은 매우 경제적이며 보통 $입니다.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "콩페이타리아 콜롬보",
+          "type": "cafe",
+          "description": "콩페이타리아 콜롬보는 멋진 건축물과 전통적인 브라질 페이스트리로 유명한 리우의 상징적인 카페입니다. 이 역사적인 카페는 매력적인 분위기에서 달콤한 간식이나 가벼운 식사를 즐기기에 완벽합니다. 그들의 유명한 브리가데이로와 맛있는 케이조 미나스를 꼭 시도해 보세요. 가격은 보통 $$입니다.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "페이라 지 상 크리스토바우",
+          "type": "night_market",
+          "description": "페이라 지 상 크리스토바우는 다양한 음식 노점과 음악으로 브라질 북동부 문화를 기념하는 활기찬 야시장이입니다. 여기에서는 아카라제와 포르호 음악과 같은 지역 요리를 경험하며 축제 분위기를 즐길 수 있습니다. 현지 문화에 몰입하고 저렴하고 정통한 음식을 시도하기에 좋은 장소입니다. 약 $의 비용이 예상됩니다.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "오로",
+          "type": "restaurant",
+          "description": "오로는 미슐랭 스타 레스토랑으로, 지역 재료에 중점을 두어 브라질 요리를 현대적으로 재해석합니다. 테이스팅 메뉴는 지역의 풍미를 강조하는 미식 여행으로, 요리는 창의적이면서도 맛있습니다. 우아한 환경과 세심한 서비스가 특별한 행사에 적합한 장소로 만들어 줍니다. 가격은 다소 높은 편으로 약 $$$입니다.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "메르카도 다 히케자",
+          "type": "street_food",
+          "description": "메르카도 다 히케자는 브라질 거리 음식의 다양한 풍미를 선보이는 활기찬 스트리트 푸드 마켓입니다. 고기 꼬치부터 열대 과일까지, 이 시장은 음식 애호가들의 천국입니다. 활기찬 분위기와 다양한 음식 선택이 현지인과 관광객 모두에게 필수 방문지입니다. 가격은 매우 합리적이며 보통 $입니다.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "보테킨 다 파밀리아",
+          "type": "bar",
+          "description": "보테킨 다 파밀리아는 전통적인 브라질 음료와 스낵을 즐길 수 있는 편안한 분위기의 아늑한 바입니다. 카이피리냐를 마시며 그들의 유명한 볼리뉴 드 바칼라우를 시도하기에 완벽한 장소입니다. 친절한 직원과 지역 분위기가 탐방 후 휴식을 취하기에 좋은 장소입니다. 가격은 저렴하며 보통 $입니다.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "바르 두 미네이로",
+          "type": "restaurant",
+          "description": "바르 두 미네이로는 정통 브라질 편안한 음식을 전문으로 하는 사랑받는 식당입니다. 이 레스토랑은 페이조아다와 빵 데 케이조와 같은 요리를 제공하며, 편안한 분위기에서 즐길 수 있습니다. 따뜻하고 환영하는 분위기가 친구들과 함께 푸짐한 식사를 즐기기에 좋습니다. 만족스러운 식사 경험을 위해 약 $$의 비용이 예상됩니다.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Rio de Janeiro 2026 - Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Rio de Janeiro. Des plats économiques à la haute gastronomie - avec des liens de réservation.",
+      "page_intro": "La scène culinaire de Rio de Janeiro est une tapisserie vibrante de saveurs qui reflète son riche patrimoine culturel. De la cuisine brésilienne traditionnelle aux influences internationales, la ville offre une délicieuse gamme d'options de restauration. Que vous vous laissiez tenter par la street food dans un marché animé ou que vous savouriez un repas raffiné dans un restaurant renommé, le paysage culinaire de Rio saura ravir tous les palais.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "Marius Crustaceos",
+          "type": "restaurant",
+          "description": "Marius Crustaceos est une expérience culinaire unique, connue pour son buffet de fruits de mer et son atmosphère vibrante. Les clients peuvent déguster une variété de plats de fruits de mer frais, y compris des crabes, des crevettes et des poissons, tous cuisinés à la perfection. Le restaurant présente une décoration élaborée et une ambiance animée, ce qui le rend parfait pour des occasions décontractées ou spéciales. Attendez-vous à payer environ $$ pour un repas copieux.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "Marché de Pavuna",
+          "type": "street_food",
+          "description": "Le marché de Pavuna est un centre animé de vendeurs de street food proposant une large gamme de délices locaux. Ici, vous pouvez déguster les célèbres pastéis, de délicieuses coxinhas et des bols d'açaí rafraîchissants. Le marché met en avant la culture vibrante de Rio, où les locaux se rassemblent pour profiter de plats abordables et savoureux. Les prix sont très abordables, généralement autour de $.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "Confeitaria Colombo",
+          "type": "cafe",
+          "description": "Confeitaria Colombo est un café emblématique de Rio, renommé pour son architecture époustouflante et ses pâtisseries brésiliennes traditionnelles. Ce café historique est parfait pour déguster une douceur ou un repas léger dans une atmosphère charmante. N'oubliez pas d'essayer leurs célèbres brigadeiros et le délicieux queijo minas. Les prix sont modérés, généralement autour de $$.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "Feira de São Cristóvão",
+          "type": "night_market",
+          "description": "La Feira de São Cristóvão est un marché nocturne animé qui célèbre la culture du Nordeste brésilien avec ses stands de nourriture et sa musique. Ici, vous pouvez découvrir des plats locaux comme l'acarajé et profiter de l'ambiance festive avec la musique forró. C'est un excellent endroit pour plonger dans la culture locale et essayer une nourriture authentique et abordable. Attendez-vous à dépenser environ $.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "Oro",
+          "type": "restaurant",
+          "description": "Oro est un restaurant étoilé Michelin qui propose une interprétation contemporaine de la cuisine brésilienne, axée sur les ingrédients locaux. Le menu dégustation est un voyage culinaire qui met en valeur les saveurs de la région, avec des plats à la fois créatifs et délicieux. Le cadre élégant et le service attentif en font un endroit idéal pour une occasion spéciale. Les prix sont plus élevés, autour de $$$.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "Mercado da Riqueza",
+          "type": "street_food",
+          "description": "Le Mercado da Riqueza est un marché de street food dynamique qui met en avant les saveurs diverses de la cuisine de rue brésilienne. Des brochettes de viande aux fruits tropicaux, ce marché est un paradis pour les amoureux de la nourriture. L'atmosphère animée et la variété des options alimentaires en font un lieu incontournable pour les locaux et les touristes. Les prix sont très raisonnables, généralement autour de $.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "Botequim da Família",
+          "type": "bar",
+          "description": "Botequim da Família est un bar accueillant qui offre une atmosphère décontractée pour déguster des boissons et des collations brésiliennes traditionnelles. C'est l'endroit parfait pour siroter des caipirinhas tout en essayant leur célèbre bolinho de bacalhau. Le personnel amical et l'ambiance locale en font un excellent endroit pour se détendre après une journée d'exploration. Les prix sont abordables, généralement autour de $.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "Bar do Mineiro",
+          "type": "restaurant",
+          "description": "Bar do Mineiro est un restaurant apprécié connu pour sa cuisine brésilienne réconfortante authentique. Le restaurant se spécialise dans des plats comme la feijoada et le pão de queijo, servis dans un cadre décontracté. L'atmosphère chaleureuse et accueillante est parfaite pour savourer un repas copieux avec des amis. Attendez-vous à payer environ $$ pour une expérience culinaire satisfaisante.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Río de Janeiro 2026 - Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Río de Janeiro. Desde comidas económicas hasta alta cocina - con enlaces de reserva.",
+      "page_intro": "La escena gastronómica de Río de Janeiro es un vibrante tapiz de sabores que refleja su rica herencia cultural. Desde la cocina brasileña tradicional hasta influencias internacionales, la ciudad ofrece una deliciosa variedad de opciones gastronómicas. Ya sea que te deleites con comida callejera en un bullicioso mercado o disfrutes de una comida exquisita en un renombrado restaurante, el paisaje culinario de Río seguramente complacerá a todos los paladares.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "Marius Crustaceos",
+          "type": "restaurant",
+          "description": "Marius Crustaceos es una experiencia gastronómica única, conocida por su buffet de mariscos y su ambiente vibrante. Los huéspedes pueden disfrutar de una variedad de platos de mariscos frescos, incluyendo cangrejo, camarones y pescado, todos cocinados a la perfección. El restaurante cuenta con una decoración elaborada y un ambiente animado, lo que lo hace perfecto tanto para ocasiones informales como especiales. Espera pagar alrededor de $$ por una comida abundante.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "Mercado de Pavuna",
+          "type": "street_food",
+          "description": "El Mercado de Pavuna es un bullicioso centro de vendedores de comida callejera que ofrece una amplia gama de delicias locales. Aquí, puedes degustar los famosos pastéis, deliciosas coxinhas y refrescantes tazones de açaí. El mercado muestra la vibrante cultura de Río, donde los locales se reúnen para disfrutar de comidas asequibles y sabrosas. Los precios son muy económicos, generalmente alrededor de $.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "Confeitaria Colombo",
+          "type": "cafe",
+          "description": "Confeitaria Colombo es un café icónico en Río, conocido por su impresionante arquitectura y sus pasteles brasileños tradicionales. Este café histórico es perfecto para disfrutar de un dulce o una comida ligera en un ambiente encantador. Asegúrate de probar sus famosos brigadeiros y el delicioso queijo minas. Los precios son moderados, generalmente alrededor de $$.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "Feira de São Cristóvão",
+          "type": "night_market",
+          "description": "La Feira de São Cristóvão es un animado mercado nocturno que celebra la cultura del Nordeste brasileño con sus puestos de comida y música. Aquí, puedes experimentar platos locales como acarajé y disfrutar de la atmósfera festiva con música forró. Es un excelente lugar para sumergirse en la cultura local y probar comida auténtica y asequible. Espera gastar alrededor de $.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "Oro",
+          "type": "restaurant",
+          "description": "Oro es un restaurante con estrella Michelin que ofrece una interpretación contemporánea de la cocina brasileña, centrada en ingredientes locales. El menú de degustación es un viaje culinario que destaca los sabores de la región, con platos que son tan creativos como deliciosos. El entorno elegante y el servicio atento lo convierten en un lugar ideal para una ocasión especial. Los precios son más altos, alrededor de $$$.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "Mercado da Riqueza",
+          "type": "street_food",
+          "description": "El Mercado da Riqueza es un vibrante mercado de comida callejera que muestra los diversos sabores de la cocina callejera brasileña. Desde brochetas de carne hasta frutas tropicales, este mercado es un paraíso para los amantes de la comida. La atmósfera animada y la variedad de opciones de comida lo convierten en un lugar de visita obligada tanto para locales como para turistas. Los precios son muy razonables, generalmente alrededor de $.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "Botequim da Família",
+          "type": "bar",
+          "description": "Botequim da Família es un bar acogedor que ofrece un ambiente relajado para disfrutar de bebidas y aperitivos tradicionales brasileños. Es el lugar perfecto para degustar caipirinhas mientras pruebas su famoso bolinho de bacalhau. El personal amable y el ambiente local lo convierten en un excelente lugar para relajarse después de un día de exploración. Los precios son económicos, generalmente alrededor de $.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "Bar do Mineiro",
+          "type": "restaurant",
+          "description": "Bar do Mineiro es un querido restaurante conocido por su auténtica comida reconfortante brasileña. El restaurante se especializa en platos como feijoada y pão de queijo, servidos en un ambiente relajado. La atmósfera cálida y acogedora es perfecta para disfrutar de una comida abundante con amigos. Espera pagar alrededor de $$ por una experiencia gastronómica satisfactoria.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Rio de Janeiro 2026 - Restoran Teratas & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Rio de Janeiro. Dari makanan murah hingga bersantap mewah - dengan tautan pemesanan.",
+      "page_intro": "Seni kuliner Rio de Janeiro adalah permadani rasa yang berwarna-warni yang mencerminkan warisan budaya yang kaya. Dari masakan Brasil tradisional hingga pengaruh internasional, kota ini menawarkan berbagai pilihan bersantap yang menyenangkan. Baik Anda menikmati makanan jalanan di pasar yang ramai atau menikmati hidangan mewah di restoran terkemuka, lanskap kuliner Rio pasti akan memuaskan setiap selera.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "Marius Crustaceos",
+          "type": "restaurant",
+          "description": "Marius Crustaceos adalah pengalaman bersantap yang unik, dikenal karena buffet makanan laut dan suasana yang hidup. Tamu dapat menikmati berbagai hidangan makanan laut segar, termasuk kepiting, udang, dan ikan, semuanya dimasak dengan sempurna. Restoran ini memiliki dekorasi yang rumit dan suasana yang meriah, menjadikannya sempurna untuk acara santai maupun spesial. Harapkan untuk membayar sekitar $$ untuk hidangan yang mengenyangkan.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "Pasar Pavuna",
+          "type": "street_food",
+          "description": "Pasar Pavuna adalah pusat ramai penjual makanan jalanan yang menawarkan berbagai macam makanan lokal. Di sini, Anda dapat mencicipi pastéis yang terkenal, coxinhas yang lezat, dan mangkuk açaí yang menyegarkan. Pasar ini menunjukkan budaya Rio yang semarak, di mana penduduk setempat berkumpul untuk menikmati makanan yang terjangkau dan lezat. Harganya sangat ramah anggaran, biasanya sekitar $.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "Confeitaria Colombo",
+          "type": "cafe",
+          "description": "Confeitaria Colombo adalah kafe ikonik di Rio, terkenal karena arsitekturnya yang menakjubkan dan kue Brasil tradisionalnya. Kafe bersejarah ini sempurna untuk menikmati camilan manis atau makanan ringan dalam suasana yang menawan. Pastikan untuk mencoba brigadeiros terkenal mereka dan queijo minas yang lezat. Harganya moderat, biasanya sekitar $$.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "Feira de São Cristóvão",
+          "type": "night_market",
+          "description": "Feira de São Cristóvão adalah pasar malam yang semarak yang merayakan budaya Brasil Timur Laut dengan berbagai stan makanan dan musik. Di sini, Anda dapat merasakan hidangan lokal seperti acarajé dan musik forró sambil menikmati suasana meriah. Ini adalah tempat yang bagus untuk meresapi budaya lokal dan mencoba makanan autentik yang terjangkau. Harapkan untuk menghabiskan sekitar $.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "Oro",
+          "type": "restaurant",
+          "description": "Oro adalah restoran berbintang Michelin yang menawarkan interpretasi kontemporer masakan Brasil, dengan fokus pada bahan lokal. Menu mencicipi adalah perjalanan kuliner yang menyoroti rasa dari daerah tersebut, dengan hidangan yang kreatif dan lezat. Lingkungan yang elegan dan pelayanan yang perhatian menjadikannya tempat yang ideal untuk acara spesial. Harganya di sisi yang lebih tinggi, sekitar $$$.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "Mercado da Riqueza",
+          "type": "street_food",
+          "description": "Mercado da Riqueza adalah pasar makanan jalanan yang semarak yang menampilkan berbagai rasa masakan jalanan Brasil. Dari tusuk sate daging hingga buah tropis, pasar ini adalah surga bagi para pecinta makanan. Suasana yang meriah dan beragam pilihan makanan menjadikannya tempat yang wajib dikunjungi baik untuk penduduk lokal maupun wisatawan. Harganya sangat wajar, biasanya sekitar $.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "Botequim da Família",
+          "type": "bar",
+          "description": "Botequim da Família adalah bar yang nyaman yang menawarkan suasana santai untuk menikmati minuman dan camilan tradisional Brasil. Ini adalah tempat yang sempurna untuk menyeruput caipirinhas sambil mencoba bolinho de bacalhau yang terkenal. Staf yang ramah dan suasana lokal menjadikannya tempat yang baik untuk bersantai setelah seharian menjelajahi. Harganya ramah anggaran, biasanya sekitar $.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "Bar do Mineiro",
+          "type": "restaurant",
+          "description": "Bar do Mineiro adalah restoran yang dicintai yang dikenal karena makanan kenyamanan Brasil yang otentik. Restoran ini mengkhususkan diri dalam hidangan seperti feijoada dan pão de queijo, disajikan dalam suasana santai. Suasana hangat dan ramah sangat cocok untuk menikmati hidangan yang mengenyangkan bersama teman-teman. Harapkan untuk membayar sekitar $$ untuk pengalaman bersantap yang memuaskan.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "रियो डी जनेरो में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "रियो डी जनेरो में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "रियो डी जनेरो का खाद्य दृश्य एक जीवंत स्वादों की टेपेस्ट्री है जो इसकी समृद्ध सांस्कृतिक विरासत को दर्शाता है। पारंपरिक ब्राज़ीलियाई व्यंजनों से लेकर अंतरराष्ट्रीय प्रभावों तक, शहर खाने के विकल्पों की एक शानदार श्रृंखला प्रदान करता है। चाहे आप एक हलचल भरे बाजार में स्ट्रीट फूड का आनंद ले रहे हों या किसी प्रसिद्ध रेस्तरां में एक शानदार भोजन का स्वाद ले रहे हों, रियो का पाक परिदृश्य हर स्वाद को खुश करने के लिए निश्चित है।",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "मारियस क्रस्टेशियस",
+          "type": "restaurant",
+          "description": "मारियस क्रस्टेशियस एक अद्वितीय भोजन अनुभव है, जो अपने समुद्री भोजन बुफे और जीवंत वातावरण के लिए जाना जाता है। मेहमानों को ताजे समुद्री भोजन के विभिन्न व्यंजनों का आनंद लेने का मौका मिलता है, जिसमें केकड़ा, झींगा और मछली शामिल हैं, सभी को पूर्णता के साथ पकाया गया है। रेस्तरां में एक विस्तृत सजावट और एक जीवंत माहौल है, जिससे यह आकस्मिक और विशेष अवसरों दोनों के लिए सही है। एक हार्दिक भोजन के लिए लगभग $$ का भुगतान करने की उम्मीद करें।",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "पवुना मार्केट",
+          "type": "street_food",
+          "description": "पवुना मार्केट एक हलचल भरा स्ट्रीट फूड विक्रेताओं का केंद्र है जो स्थानीय व्यंजनों की एक विस्तृत श्रृंखला पेश करता है। यहाँ, आप प्रसिद्ध पेस्टाइस, स्वादिष्ट कॉक्सिन्हास और ताजगी भरे अçaí बाउल का स्वाद ले सकते हैं। बाजार रियो की जीवंत संस्कृति को प्रदर्शित करता है, जहाँ स्थानीय लोग सस्ती और स्वादिष्ट खाने का आनंद लेने के लिए इकट्ठा होते हैं। कीमतें बहुत बजट-फ्रेंडली हैं, आमतौर पर $ के आसपास।",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "कॉन्फेइटारिया कोलंबो",
+          "type": "cafe",
+          "description": "कॉन्फेइटारिया कोलंबो रियो में एक प्रतिष्ठित कैफे है, जो अपनी अद्भुत वास्तुकला और पारंपरिक ब्राज़ीलियाई पेस्ट्री के लिए प्रसिद्ध है। यह ऐतिहासिक कैफे एक आकर्षक वातावरण में मीठे व्यंजन या हल्का भोजन का आनंद लेने के लिए सही है। उनकी प्रसिद्ध ब्रीगैडिरोस और स्वादिष्ट क्यूजो मिनास को जरूर आजमाएं। कीमतें मध्यम हैं, आमतौर पर $$ के आसपास।",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "फेइरा डी साओ क्रिस्टोवाओ",
+          "type": "night_market",
+          "description": "फेइरा डी साओ क्रिस्टोवाओ एक जीवंत रात का बाजार है जो अपने खाद्य स्टालों और संगीत के साथ उत्तर-पूर्वी ब्राज़ीलियाई संस्कृति का जश्न मनाता है। यहाँ, आप स्थानीय व्यंजनों जैसे अकारज और फोर्रो संगीत का अनुभव कर सकते हैं जबकि त्योहार के माहौल का आनंद ले सकते हैं। यह स्थानीय संस्कृति में खुद को डुबाने और सस्ती, प्रामाणिक भोजन का प्रयास करने के लिए एक शानदार स्थान है। लगभग $ खर्च करने की उम्मीद करें।",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "ओरो",
+          "type": "restaurant",
+          "description": "ओरो एक मिशेलिन-स्टार वाला रेस्तरां है जो ब्राज़ीलियाई व्यंजनों पर समकालीन दृष्टिकोण प्रदान करता है, स्थानीय सामग्रियों पर ध्यान केंद्रित करता है। चखने का मेनू एक पाक यात्रा है जो क्षेत्र के स्वादों को उजागर करता है, जिसमें व्यंजन उतने ही रचनात्मक होते हैं जितने स्वादिष्ट। सुरुचिपूर्ण सेटिंग और ध्यान देने वाली सेवा इसे विशेष अवसर के लिए आदर्श बनाती है। कीमतें उच्च पक्ष पर होती हैं, लगभग $$$।",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "मार्काडो दा रीक्वेजा",
+          "type": "street_food",
+          "description": "मार्काडो दा रीक्वेजा एक जीवंत स्ट्रीट फूड मार्केट है जो ब्राज़ीलियाई स्ट्रीट व्यंजनों के विविध स्वादों को प्रदर्शित करता है। मांस के स्क्यूअर से लेकर उष्णकटिबंधीय फलों तक, यह बाजार खाद्य प्रेमियों के लिए एक स्वर्ग है। जीवंत वातावरण और खाद्य विकल्पों की विविधता इसे स्थानीय लोगों और पर्यटकों दोनों के लिए एक अनिवार्य स्थान बनाती है। कीमतें बहुत उचित हैं, आमतौर पर $ के आसपास।",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "बोटेकिम दा फैमिलिया",
+          "type": "bar",
+          "description": "बोटेकिम दा फैमिलिया एक आरामदायक बार है जो पारंपरिक ब्राज़ीलियाई पेय और नाश्ते का आनंद लेने के लिए एक आरामदायक माहौल प्रदान करता है। यह कैपिरिन्हास का आनंद लेने के लिए सही स्थान है जबकि उनके प्रसिद्ध बोलिन्हो डे बकाला का प्रयास करते हैं। दोस्ताना स्टाफ और स्थानीय माहौल इसे खोजबीन के बाद आराम करने के लिए एक शानदार स्थान बनाता है। कीमतें बजट-फ्रेंडली हैं, आमतौर पर $ के आसपास।",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "बार दो माइनिरो",
+          "type": "restaurant",
+          "description": "बार दो माइनिरो एक प्रिय भोजनालय है जो अपने प्रामाणिक ब्राज़ीलियाई आरामदायक भोजन के लिए जाना जाता है। यह रेस्तरां फेज़ोआदा और पाओ डे क्यूजो जैसे व्यंजनों में विशेषज्ञता रखता है, जो एक आरामदायक सेटिंग में परोसे जाते हैं। गर्म और स्वागत करने वाला माहौल दोस्तों के साथ एक हार्दिक भोजन का आनंद लेने के लिए सही है। एक संतोषजनक भोजन अनुभव के लिए लगभग $$ का भुगतान करने की उम्मीद करें।",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas no Rio de Janeiro 2026 — Principais Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais no Rio de Janeiro. Desde refeições econômicas até alta gastronomia — com links de reserva.",
+      "page_intro": "A cena gastronômica do Rio de Janeiro é um vibrante tapete de sabores que reflete sua rica herança cultural. Desde a culinária brasileira tradicional até influências internacionais, a cidade oferece uma deliciosa variedade de opções de refeições. Quer você esteja se deliciando com comida de rua em um mercado movimentado ou saboreando uma refeição requintada em um restaurante renomado, a paisagem culinária do Rio certamente agradará a todos os paladares.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "Marius Crustaceos",
+          "type": "restaurant",
+          "description": "Marius Crustaceos é uma experiência de jantar única, conhecida por seu buffet de frutos do mar e atmosfera vibrante. Os convidados podem desfrutar de uma variedade de pratos de frutos do mar frescos, incluindo caranguejo, camarão e peixe, todos cozidos à perfeição. O restaurante apresenta uma decoração elaborada e um ambiente animado, tornando-o perfeito para ocasiões casuais e especiais. Espere pagar cerca de $$ por uma refeição farta.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "Mercado Pavuna",
+          "type": "street_food",
+          "description": "O Mercado Pavuna é um centro movimentado de vendedores de comida de rua que oferecem uma ampla gama de iguarias locais. Aqui, você pode experimentar os famosos pastéis, deliciosas coxinhas e refrescantes tigelas de açaí. O mercado exibe a vibrante cultura do Rio, onde os locais se reúnem para desfrutar de comidas saborosas e acessíveis. Os preços são muito amigáveis ao orçamento, geralmente em torno de $.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "Confeitaria Colombo",
+          "type": "cafe",
+          "description": "A Confeitaria Colombo é um café icônico no Rio, renomado por sua arquitetura deslumbrante e tradicionais doces brasileiros. Este café histórico é perfeito para desfrutar de uma iguaria doce ou uma refeição leve em um ambiente encantador. Não deixe de experimentar seus famosos brigadeiros e o delicioso queijo minas. Os preços são moderados, geralmente em torno de $$.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "Feira de São Cristóvão",
+          "type": "night_market",
+          "description": "A Feira de São Cristóvão é um mercado noturno animado que celebra a cultura nordestina brasileira com suas barracas de comida e música. Aqui, você pode experimentar pratos locais como acarajé e ouvir música forró enquanto desfruta do ambiente festivo. É um ótimo lugar para se imergir na cultura local e experimentar comidas autênticas e acessíveis. Espere gastar cerca de $.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "Oro",
+          "type": "restaurant",
+          "description": "O Oro é um restaurante estrelado pelo Michelin que oferece uma interpretação contemporânea da culinária brasileira, com foco em ingredientes locais. O menu de degustação é uma jornada culinária que destaca os sabores da região, com pratos que são tão criativos quanto deliciosos. O ambiente elegante e o serviço atencioso tornam-no um local ideal para uma ocasião especial. Os preços são mais altos, em torno de $$$.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "Mercado da Riqueza",
+          "type": "street_food",
+          "description": "O Mercado da Riqueza é um vibrante mercado de comida de rua que exibe os diversos sabores da culinária de rua brasileira. De espetinhos de carne a frutas tropicais, este mercado é um paraíso para os amantes da gastronomia. A atmosfera animada e a variedade de opções de comida fazem dele um local imperdível tanto para locais quanto para turistas. Os preços são muito razoáveis, geralmente em torno de $.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "Botequim da Família",
+          "type": "bar",
+          "description": "O Botequim da Família é um bar aconchegante que oferece uma atmosfera relaxante para desfrutar de bebidas e petiscos tradicionais brasileiros. É o lugar perfeito para saborear caipirinhas enquanto experimenta seu famoso bolinho de bacalhau. A equipe amigável e o clima local fazem dele um ótimo lugar para relaxar após um dia de exploração. Os preços são amigáveis ao orçamento, geralmente em torno de $.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "Bar do Mineiro",
+          "type": "restaurant",
+          "description": "O Bar do Mineiro é um restaurante querido conhecido por sua comida caseira brasileira autêntica. O restaurante se especializa em pratos como feijoada e pão de queijo, servidos em um ambiente descontraído. O ambiente acolhedor e caloroso é perfeito para desfrutar de uma refeição farta com amigos. Espere pagar cerca de $$ por uma experiência gastronômica satisfatória.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الطعام في ريو دي جانيرو 2026 - أفضل المطاعم ودليل طعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في ريو دي جانيرو. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط للحجز.",
+      "page_intro": "تعد مشهد الطعام في ريو دي جانيرو نسيجًا نابضًا من النكهات التي تعكس تراثها الثقافي الغني. من المأكولات البرازيلية التقليدية إلى التأثيرات الدولية، تقدم المدينة مجموعة رائعة من خيارات تناول الطعام. سواء كنت تستمتع بطعام الشارع في سوق مزدحم أو تتذوق وجبة رائعة في مطعم مشهور، فإن المشهد الطهي في ريو سيعجب كل الأذواق.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "ماريوس كروستاسيوس",
+          "type": "restaurant",
+          "description": "ماريوس كروستاسيوس هو تجربة طعام فريدة، معروفة ببوفيه المأكولات البحرية وأجوائه النابضة بالحياة. يمكن للضيوف الاستمتاع بمجموعة متنوعة من أطباق المأكولات البحرية الطازجة، بما في ذلك سرطان البحر والجمبري والأسماك، جميعها مطبوخة بإتقان. يقدم المطعم ديكورًا متقنًا وأجواء حيوية، مما يجعله مثاليًا لكل من المناسبات العادية والخاصة. توقع دفع حوالي $$ لوجبة شهية.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "سوق بافونا",
+          "type": "street_food",
+          "description": "سوق بافونا هو مركز مزدحم لبائعي طعام الشارع يقدم مجموعة واسعة من الأطباق المحلية. هنا، يمكنك تذوق الفطائر الشهيرة، والكوكسينها اللذيذة، وأوعية الأساي المنعشة. يعرض السوق الثقافة النابضة بالحياة في ريو، حيث يجتمع السكان المحليون للاستمتاع بالطعام اللذيذ والميسور التكلفة. الأسعار صديقة جدًا للميزانية، عادةً حوالي $.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "كونفيتاريا كولومبو",
+          "type": "cafe",
+          "description": "كونفيتاريا كولومبو هو مقهى أيقوني في ريو، معروف بهندسته المعمارية المذهلة وحلوياته البرازيلية التقليدية. هذا المقهى التاريخي مثالي للاستمتاع بحلوى أو وجبة خفيفة في أجواء ساحرة. تأكد من تجربة البريغاديروس الشهيرة والجبن اللذيذ. الأسعار معتدلة، عادةً حوالي $$.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "سوق ساو كريستوفاو",
+          "type": "night_market",
+          "description": "سوق ساو كريستوفاو هو سوق ليلي نابض يحتفل بثقافة شمال شرق البرازيل مع مجموعة من أكشاك الطعام والموسيقى. هنا، يمكنك تجربة الأطباق المحلية مثل أكاراج والاستمتاع بموسيقى الفوررو بينما تستمتع بالأجواء الاحتفالية. إنه مكان رائع للغوص في الثقافة المحلية وتجربة الطعام الأصلي الميسور. توقع إنفاق حوالي $.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "أورو",
+          "type": "restaurant",
+          "description": "أورو هو مطعم حائز على نجمة ميشلان يقدم تفسيرًا معاصرًا للمأكولات البرازيلية، مع التركيز على المكونات المحلية. قائمة التذوق هي رحلة طهي تبرز نكهات المنطقة، مع أطباق تتميز بالإبداع بقدر ما هي لذيذة. تجعل الأجواء الأنيقة والخدمة اليقظة منه مكانًا مثاليًا لمناسبة خاصة. الأسعار على الجانب الأعلى، حوالي $$$.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "سوق الثروة",
+          "type": "street_food",
+          "description": "سوق الثروة هو سوق نابض للطعام الشارع يعرض النكهات المتنوعة للمأكولات الشارعية البرازيلية. من أسياخ اللحم إلى الفواكه الاستوائية، هذا السوق هو جنة لمحبي الطعام. تجعل الأجواء النابضة بالحياة وتنوع خيارات الطعام منه مكانًا يجب زيارته لكل من السكان المحليين والسياح. الأسعار معقولة جدًا، عادة حوالي $.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "بوتيكيم دا فاميليا",
+          "type": "bar",
+          "description": "بوتيكيم دا فاميليا هو بار مريح يوفر أجواء مريحة للاستمتاع بالمشروبات والوجبات الخفيفة البرازيلية التقليدية. إنه المكان المثالي للاستمتاع بكايبيرينها بينما تجرب كرات سمك القد الشهيرة. تجعل الأجواء الودية والمحلية منه مكانًا رائعًا للاسترخاء بعد يوم من الاستكشاف. الأسعار ميسورة، عادة حوالي $.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "بار دو مينيرو",
+          "type": "restaurant",
+          "description": "بار دو مينيرو هو مطعم محبوب معروف بطعامه البرازيلي التقليدي الأصيل. يختص المطعم في أطباق مثل فيجوادا وباو دي كيوجو، والتي تُقدم في أجواء مريحة. إن الأجواء الدافئة والترحيبية مثالية للاستمتاع بوجبة مشبعة مع الأصدقاء. توقع دفع حوالي $$ لتجربة تناول طعام مرضية.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "রিও ডি জেনেইরোর সেরা খাবার 2026 - শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "রিও ডি জেনেইরোতে সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত - বুকিং লিঙ্ক সহ।",
+      "page_intro": "রিও ডি জেনেইরোর খাবারের দৃশ্য একটি উজ্জ্বল স্বাদগুলির নকশা যা এর সমৃদ্ধ সাংস্কৃতিক উত্তরাধিকারকে প্রতিফলিত করে। ঐতিহ্যবাহী ব্রাজিলিয়ান রান্না থেকে আন্তর্জাতিক প্রভাব পর্যন্ত, শহরটি খাবারের বিকল্পগুলির একটি আনন্দদায়ক অ্যারে অফার করে। আপনি যদি একটি ব্যস্ত বাজারে স্ট্রিট ফুড উপভোগ করেন বা একটি বিখ্যাত রেস্তোরাঁয় একটি চমৎকার খাবার উপভোগ করেন, রিওর রান্নার দৃশ্য নিশ্চিতভাবে প্রতিটি স্বাদের জন্য আনন্দপ্রদ হবে।",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "মারিয়াস ক্রাস্টেসিয়োস",
+          "type": "restaurant",
+          "description": "মারিয়াস ক্রাস্টেসিয়োস একটি অনন্য ডাইনিং অভিজ্ঞতা, যা তার সামুদ্রিক খাদ্য বাফে এবং প্রাণবন্ত পরিবেশের জন্য পরিচিত। অতিথিরা কাঁকড়া, চিংড়ি এবং মাছসহ বিভিন্ন তাজা সামুদ্রিক খাবারের খাবার উপভোগ করতে পারেন, সবকিছু নিখুঁতভাবে রান্না করা। রেস্তোরাঁটি একটি জটিল সজ্জা এবং একটি প্রাণবন্ত আবহাওয়া রয়েছে, যা এটিকে অস্বাভাবিক এবং বিশেষ উভয় উপলক্ষের জন্য উপযুক্ত করে তোলে। একটি হৃদয়গ্রাহী খাবারের জন্য প্রায় $$ দিতে আশা করুন।",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "পাভুনা মার্কেট",
+          "type": "street_food",
+          "description": "পাভুনা মার্কেট একটি ব্যস্ত স্ট্রিট ফুড বিক্রেতাদের কেন্দ্র যা স্থানীয় খাবারের বিস্তৃত পরিসর সরবরাহ করে। এখানে, আপনি বিখ্যাত পাস্তেইস, সুস্বাদু কোক্সিনহাস এবং সতেজ আআসাই বোলের স্বাদ নিতে পারেন। বাজারটি রিওর প্রাণবন্ত সংস্কৃতিকে প্রদর্শন করে, যেখানে স্থানীয়রা সস্তা এবং সুস্বাদু খাবারের জন্য একত্রিত হয়। দামগুলি খুব বাজেট-বান্ধব, সাধারণত প্রায় $।",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "কনফেইতারিয়া কলোম্বো",
+          "type": "cafe",
+          "description": "কনফেইতারিয়া কলোম্বো রিওর একটি আইকনিক ক্যাফে, যা এর চমৎকার স্থাপত্য এবং ঐতিহ্যবাহী ব্রাজিলিয়ান পেস্ট্রি জন্য পরিচিত। এই ঐতিহাসিক ক্যাফে একটি আকর্ষণীয় পরিবেশে একটি মিষ্টি আচরণ বা হালকা খাবার উপভোগ করার জন্য উপযুক্ত। তাদের বিখ্যাত ব্রিগাদিরোস এবং সুস্বাদু কুইজো মিনাস চেষ্টা করতে ভুলবেন না। দামগুলি মাঝারি, সাধারণত প্রায় $$।",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "ফেইরা দে সাও ক্রিস্টোভাও",
+          "type": "night_market",
+          "description": "ফেইরা দে সাও ক্রিস্টোভাও একটি প্রাণবন্ত রাতের বাজার যা উত্তর-পূর্ব ব্রাজিলীয় সংস্কৃতিকে খাবারের স্টল এবং সঙ্গীতের মাধ্যমে উদযাপন করে। এখানে, আপনি স্থানীয় খাবার যেমন অকারাজ এবং ফোর্রো সঙ্গীত উপভোগ করতে পারেন যখন উৎসবের পরিবেশের আনন্দ উপভোগ করেন। এটি স্থানীয় সংস্কৃতির মধ্যে নিজেকে ডুবিয়ে দেওয়ার এবং সস্তা, অশিরিক খাবারের চেষ্টা করার জন্য একটি দুর্দান্ত স্থান। প্রায় $ খরচ করার আশা করুন।",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "ওরো",
+          "type": "restaurant",
+          "description": "ওরো একটি মিশেলিন-স্টার রেস্তোরাঁ যা ব্রাজিলিয়ান রান্নার সমসাময়িক দৃষ্টিভঙ্গি প্রদান করে, স্থানীয় উপাদানের উপর দৃষ্টি নিবদ্ধ করে। স্বাদ গ্রহণের মেনু একটি খাদ্য যাত্রা যা অঞ্চলের স্বাদগুলি তুলে ধরে, এমন খাবার নিয়ে যা সৃজনশীলতার পাশাপাশি সুস্বাদু। এলিগেন্ট সেটিং এবং মনোযোগী পরিষেবা এটিকে বিশেষ উপলক্ষের জন্য আদর্শ স্থান করে তোলে। দামগুলি উচ্চ দিকে, প্রায় $$$।",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "মার্কাডো দা রিকেজা",
+          "type": "street_food",
+          "description": "মার্কাডো দা রিকেজা একটি প্রাণবন্ত স্ট্রিট ফুড মার্কেট যা ব্রাজিলিয়ান স্ট্রিট খাবারের বিভিন্ন স্বাদ প্রদর্শন করে। মাংসের স্কিউয়ার থেকে উষ্ণ ফলের সবজি পর্যন্ত, এই বাজারটি খাবারের প্রেমীদের জন্য একটি স্বর্গ। প্রাণবন্ত পরিবেশ এবং খাবারের বিকল্পগুলির বৈচিত্র্য এটিকে স্থানীয় এবং পর্যটকদের জন্য একটি অনিবার্য স্থান করে তোলে। দামগুলি খুব যুক্তিসঙ্গত, সাধারণত প্রায় $।",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "বোটেকিম দা ফামিলিয়া",
+          "type": "bar",
+          "description": "বোটেকিম দা ফামিলিয়া একটি আরামদায়ক বার যা ঐতিহ্যবাহী ব্রাজিলিয়ান পানীয় এবং নাস্তা উপভোগ করার জন্য একটি আরামদায়ক পরিবেশ প্রদান করে। এটি ক্যাপিরিনহাস উপভোগ করার জন্য নিখুঁত স্থান যখন তাদের বিখ্যাত বোলিনহো দে বাকালহাউয়ের স্বাদ নেওয়া হয়। বন্ধুত্বপূর্ণ কর্মী এবং স্থানীয় অনুভূতি এটিকে একটি দুর্দান্ত স্থান করে তোলে সন্ধ্যার পরে বিশ্রাম নেওয়ার জন্য। দামগুলি বাজেট-বান্ধব, সাধারণত প্রায় $।",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "বার দো মাইনিরো",
+          "type": "restaurant",
+          "description": "বার দো মাইনিরো একটি প্রিয় খাবারের স্থান যা তার প্রামাণিক ব্রাজিলিয়ান স্বাচ্ছন্দ্য খাদ্যের জন্য পরিচিত। রেস্তোরাঁটি ফেজোডা এবং পাঁও দে কুইজোর মতো খাবারে বিশেষজ্ঞ, যা একটি আরামদায়ক পরিবেশে পরিবেশন করা হয়। উষ্ণ এবং স্বাগত জানানো পরিবেশটি বন্ধুদের সাথে একটি হৃদয়গ্রাহী খাবারের উপভোগের জন্য নিখুঁত। একটি সন্তোষজনক খাবারের অভিজ্ঞতার জন্য প্রায় $$ দিতে আশা করুন।",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Рио-де-Жанейро 2026 — Топ рестораны и уличная еда",
+      "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных деликатесах в Рио-де-Жанейро. От бюджетных блюд до изысканной кухни — с ссылками для бронирования.",
+      "page_intro": "Кулинарная сцена Рио-де-Жанейро — это яркое полотно вкусов, отражающее его богатое культурное наследие. От традиционной бразильской кухни до международных влияний, город предлагает восхитительный ассортимент возможностей для питания. Будь то уличная еда на шумном рынке или изысканная трапеза в известном ресторане, кулинарный ландшафт Рио непременно порадует любой вкус.",
+      "items": [
+        {
+          "id": "marius-crustaceos",
+          "name": "Marius Crustaceos",
+          "type": "restaurant",
+          "description": "Marius Crustaceos — это уникальный ресторанный опыт, известный своим морепродуктовым буфетом и яркой атмосферой. Гости могут наслаждаться разнообразными свежими морепродуктами, включая краба, креветки и рыбу, все приготовленные до совершенства. Ресторан отличается сложным декором и оживленной атмосферой, что делает его идеальным как для неформальных, так и для особых случаев. Ожидайте заплатить около $$ за сытный обед.",
+          "image_keyword": "Marius Crustaceos restaurant",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Seafood Buffet",
+          "klook_query": "Marius Crustaceos booking"
+        },
+        {
+          "id": "pavuna-market",
+          "name": "Рынок Павуна",
+          "type": "street_food",
+          "description": "Рынок Павуна — это оживленный центр уличных торговцев, предлагающий широкий ассортимент местных деликатесов. Здесь вы можете попробовать знаменитые пастéis, вкусные коксиньяс и освежающие аçaí-боулы. Рынок демонстрирует яркую культуру Рио, где местные жители собираются, чтобы насладиться доступной и вкусной едой. Цены очень бюджетные, обычно около $.",
+          "image_keyword": "Pavuna Market street food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Pastéis",
+          "klook_query": "Pavuna Market food tour"
+        },
+        {
+          "id": "confeitaria-colombo",
+          "name": "Кафе Конфейтария Коломбо",
+          "type": "cafe",
+          "description": "Кафе Конфейтария Коломбо — это знаковое кафе в Рио, известное своей потрясающей архитектурой и традиционными бразильскими сладостями. Это историческое кафе идеально подходит для наслаждения сладким угощением или легким обедом в очаровательной обстановке. Обязательно попробуйте их знаменитые бригадейрос и восхитительный queijo minas. Цены умеренные, обычно около $$.",
+          "image_keyword": "Confeitaria Colombo cafe",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Brigadeiros",
+          "klook_query": "Confeitaria Colombo booking"
+        },
+        {
+          "id": "feira-de-sao-cristovao",
+          "name": "Ярмарка Сан-Кристован",
+          "type": "night_market",
+          "description": "Ярмарка Сан-Кристован — это оживленный ночной рынок, отмечающий культуру северо-восточной Бразилии с множеством продуктовых палаток и музыкой. Здесь вы можете попробовать местные блюда, такие как акахаж и насладиться музыкой форрò, наслаждаясь праздничной атмосферой. Это отличное место, чтобы погрузиться в местную культуру и попробовать доступную и аутентичную еду. Ожидайте потратить около $.",
+          "image_keyword": "Feira de São Cristóvão night market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Acarajé",
+          "klook_query": "Feira de São Cristóvão food experience"
+        },
+        {
+          "id": "oro-restaurant",
+          "name": "Оро",
+          "type": "restaurant",
+          "description": "Оро — это ресторан с звездой Мишлен, предлагающий современный взгляд на бразильскую кухню с акцентом на местные ингредиенты. Дегустационное меню — это кулинарное путешествие, которое подчеркивает вкусы региона, с блюдами, которые столь же креативны, сколь и вкусны. Элегантная обстановка и внимательное обслуживание делают его идеальным местом для особого случая. Цены довольно высокие, около $$$.",
+          "image_keyword": "Oro restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "Oro restaurant booking"
+        },
+        {
+          "id": "mercado-da-riqueza",
+          "name": "Рынок Богатства",
+          "type": "street_food",
+          "description": "Рынок Богатства — это яркий рынок уличной еды, который демонстрирует разнообразные вкусы бразильской уличной кухни. От шашлыков до тропических фруктов, этот рынок — рай для любителей еды. Оживленная атмосфера и разнообразие вариантов еды делают его обязательным местом для посещения как для местных жителей, так и для туристов. Цены очень разумные, обычно около $.",
+          "image_keyword": "Mercado da Riqueza street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Espetinhos",
+          "klook_query": "Mercado da Riqueza food tour"
+        },
+        {
+          "id": "botequim-da-familia",
+          "name": "Ботексим да Фамилия",
+          "type": "bar",
+          "description": "Ботексим да Фамилия — это уютный бар, предлагающий расслабляющую атмосферу для наслаждения традиционными бразильскими напитками и закусками. Это идеальное место, чтобы насладиться кайпириньей, пробуя их знаменитые болиньо де бакальяо. Дружелюбный персонал и местная атмосфера делают его отличным местом для отдыха после дня исследований. Цены бюджетные, обычно около $.",
+          "image_keyword": "Botequim da Família bar",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Caipirinha",
+          "klook_query": "Botequim da Família booking"
+        },
+        {
+          "id": "bar-do-mineiro",
+          "name": "Бар до Миниро",
+          "type": "restaurant",
+          "description": "Бар до Миниро — это любимый ресторан, известный своей подлинной бразильской комфортной едой. Ресторан специализируется на таких блюдах, как фейжоада и pão de queijo, которые подаются в непринужденной обстановке. Теплая и гостеприимная атмосфера идеально подходит для наслаждения сытным обедом с друзьями. Ожидайте заплатить около $$ за удовлетворительный опыт питания.",
+          "image_keyword": "Bar do Mineiro restaurant",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Feijoada",
+          "klook_query": "Bar do Mineiro booking"
+        }
+      ]
+    }
+  }
+}

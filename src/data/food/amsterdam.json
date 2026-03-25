@@ -1,0 +1,1145 @@
+{
+  "city_slug": "amsterdam",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Amsterdam 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Amsterdam. From budget eats to fine dining — with booking links.",
+      "page_intro": "Amsterdam offers a vibrant food scene influenced by its multicultural population. From traditional Dutch dishes like stroopwafels and herring to international cuisines, the city boasts an exciting array of culinary experiences. Whether you're exploring bustling food markets or dining in Michelin-starred restaurants, Amsterdam's food culture is a delightful journey that caters to every taste and budget.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Located in the Rijksmuseum, Rijks offers a menu inspired by Dutch culinary heritage with a modern twist. The ambiance is sophisticated yet welcoming, making it perfect for a special occasion. Prices are on the higher side, but the experience is worth it. Must-try dishes include the locally-sourced seafood and inventive vegetarian options.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "Housed in a former tram depot, Foodhallen is a vibrant indoor food market featuring a wide variety of international street food stalls. It's a great spot for casual dining with an energetic atmosphere. Whether you're craving Asian bites or gourmet burgers, there's something for everyone. Prices are moderate, with dishes ranging from €5-15.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "Known for its legendary ribs, Café de Klos is a must-visit for meat lovers. The rustic, cozy atmosphere complements the hearty portions of perfectly grilled meats. It's popular among locals and tourists alike, so be prepared for a wait during peak times. Prices are reasonable, considering the generous servings.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Original Stroopwafels",
+          "type": "street_food",
+          "description": "Located in Albert Cuyp Market, this stall offers freshly made stroopwafels, a classic Dutch treat. The warm, gooey caramel syrup nestled between two thin waffles is a sweet delight. It's a budget-friendly snack, typically costing around €2.50 each, and a perfect souvenir to bring home.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "Cheese lovers will find their paradise at De Kaaskamer, a shop offering an impressive selection of Dutch and international cheeses. The knowledgeable staff can guide you through their extensive range, helping you find the perfect cheese to suit your palate. Prices vary depending on the type and quantity.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "This iconic fry stand is famous for serving some of the best fries in Amsterdam. Located in a small alley, Vleminckx offers crispy, golden fries with a variety of sauces to choose from. A serving costs around €3-5, making it an affordable and delicious snack while exploring the city.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "Steeped in history, Wynand Fockink is one of Amsterdam's oldest tasting rooms, specializing in traditional Dutch spirits like jenever. The cozy, old-world atmosphere provides a unique backdrop to sample a variety of locally produced liquors. Prices for tastings are reasonable, and the knowledgeable staff enhance the experience.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurant De Kas",
+          "type": "restaurant",
+          "description": "Set in a greenhouse, Restaurant De Kas offers a farm-to-table dining experience with produce harvested daily from their own gardens. The menu changes frequently, reflecting seasonal ingredients. The serene, green setting enhances the fresh flavors on your plate. Prices are on the higher end, but the quality and experience are exceptional.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年阿姆斯特丹最佳美食——顶级餐厅与街头美食指南",
+      "seo_description": "探索阿姆斯特丹最佳的餐厅、街头美食和当地特色。从经济实惠的小吃到高档餐饮——附预订链接。",
+      "page_intro": "阿姆斯特丹的美食场景因其多元文化人口而充满活力。从传统荷兰菜如焦糖华夫饼和鲱鱼到国际美食，城市拥有令人兴奋的多样化烹饪体验。无论是在繁忙的美食市场中探索，还是在米其林星级餐厅中用餐，阿姆斯特丹的美食文化都是一场迎合每种口味和预算的美妙旅程。",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Rijks位于国立博物馆，提供受荷兰烹饪传统启发的现代菜肴。氛围优雅而亲切，非常适合特殊场合。价格较高，但体验值得一试。必尝菜肴包括本地采购的海鲜和创意素食选项。",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "Foodhallen位于一座旧电车车库内，是一个充满活力的室内美食市场，拥有各种国际街头美食摊位。这里是轻松用餐的好去处，氛围充满活力。无论是想吃亚洲小吃还是美食汉堡，这里都有适合每个人的选择。价格适中，菜肴价格从€5到€15不等。",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "Café de Klos以其传奇的肋排而闻名，是肉食爱好者必去之地。质朴、舒适的氛围与完美烤制的大份肉类相得益彰。它在当地人和游客中都很受欢迎，所以在高峰时段要做好等待的准备。价格合理，考虑到慷慨的份量。",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Original Stroopwafels",
+          "type": "street_food",
+          "description": "位于阿尔伯特市场，这个摊位提供新鲜制作的焦糖华夫饼，这是一种经典的荷兰美食。温热的、粘稠的焦糖糖浆夹在两片薄薄的华夫饼之间，是一种甜美的享受。这是一种经济实惠的小吃，通常每个约€2.50，也是带回家的完美纪念品。",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "奶酪爱好者会在De Kaaskamer找到他们的天堂，这里提供令人印象深刻的荷兰和国际奶酪选择。知识渊博的员工可以指导您浏览他们的广泛选择，帮助您找到适合您口味的完美奶酪。价格因种类和数量而异。",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "这家标志性的薯条店以提供阿姆斯特丹最好的薯条而闻名。位于一条小巷中，Vleminckx提供酥脆、金黄的薯条，并有多种酱料可供选择。一份的价格约为€3-5，是在城市中探索时经济实惠且美味的小吃。",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "Wynand Fockink历史悠久，是阿姆斯特丹最古老的品酒室之一，专门提供荷兰传统烈酒，如杜松子酒。温馨的旧世界氛围为品尝多种本地酿造的烈酒提供了独特的背景。品尝的价格合理，知识渊博的员工会提升体验。",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurant De Kas",
+          "type": "restaurant",
+          "description": "Restaurant De Kas设在一个温室中，提供从农场到餐桌的用餐体验，食材每日从自己的花园中采摘。菜单频繁更换，反映季节性食材。宁静的绿色环境提升了您盘中新鲜食材的风味。价格较高，但质量和体验都是无与伦比的。",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年アムステルダムのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "アムステルダムの最高のレストラン、ストリートフード、地元の名物を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "アムステルダムはその多文化な人口によって影響を受けた活気ある食のシーンを提供しています。伝統的なオランダ料理であるストロープワッフルやニシンから国際料理に至るまで、この街は興味深い料理体験の数々を誇っています。賑やかなフードマーケットを探索するにせよ、ミシュラン星付きのレストランで食事をするにせよ、アムステルダムの食文化はあらゆる味と予算に応じた楽しい旅です。",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Rijks博物館に位置するRijksは、オランダの料理遺産に現代的なひねりを加えたメニューを提供しています。雰囲気は洗練されていながらも親しみやすく、特別な機会に最適です。価格は高めですが、体験する価値があります。必食の料理には、地元で調達されたシーフードや創造的なベジタリアンオプションが含まれます。",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "かつてのトラム車庫にあるFoodhallenは、国際的なストリートフードの屋台が集まる活気ある屋内フードマーケットです。活気ある雰囲気でカジュアルな食事をするのに最適なスポットです。アジアの一口サイズの料理やグルメバーガーを欲しているなら、誰にでも何かがあります。価格は中程度で、料理は€5-15の範囲です。",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "伝説的なリブで知られるCafé de Klosは、肉好きには必訪の場所です。素朴で居心地の良い雰囲気が、完璧にグリルされた肉のボリュームたっぷりの部分とよく合います。地元の人々と観光客の間で人気があるので、ピーク時には待つ準備をしましょう。価格は量を考慮すると妥当です。",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Original Stroopwafels",
+          "type": "street_food",
+          "description": "アルバート・カイプ・マーケットに位置するこの屋台では、新鮮に作られたストロープワッフルというクラシックなオランダのトリートを提供しています。2枚の薄いワッフルの間に挟まれた温かく、トロトロのキャラメルシロップは甘い喜びです。これは予算に優しいスナックで、通常1枚約€2.50で、持ち帰るのに最適なお土産です。",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "チーズ愛好家はDe Kaaskamerでその楽園を見つけるでしょう、ここではオランダと国際的なチーズの印象的なセレクションを提供しています。知識豊富なスタッフが広範囲にわたる選択肢を案内し、あなたの味覚に合った完璧なチーズを見つける手助けをします。価格は種類と量によって異なります。",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "このアイコニックなフライドポテトスタンドは、アムステルダムで最高のフライドポテトを提供することで有名です。小さな路地に位置し、Vleminckxはサクサクした黄金色のフライドポテトをさまざまなソースと共に提供しています。1人前の価格は約€3-5で、都市を探索中に手頃で美味しいスナックです。",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "歴史あるWynand Fockinkは、伝統的なオランダのスピリッツ、特にジェネヴァを専門とするアムステルダム最古の試飲室の一つです。居心地の良い古き良き世界の雰囲気が、地元で生産されたさまざまなリキュールを試飲するためのユニークな背景を提供しています。試飲の価格は合理的で、知識豊富なスタッフが体験を向上させます。",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurant De Kas",
+          "type": "restaurant",
+          "description": "温室に設定されたRestaurant De Kasは、自家菜園から毎日収穫される食材を使ったファーム・トゥ・テーブルの食事体験を提供します。メニューは頻繁に変わり、季節の食材を反映しています。静かな緑豊かな環境がプレート上の新鮮なフレーバーを引き立てます。価格は高めですが、品質と体験は非常に優れています。",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 암스테르담 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "암스테르담의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 저예산 음식에서 고급 식당까지 — 예약 링크 포함.",
+      "page_intro": "암스테르담은 다문화 인구로부터 영향을 받은 활기찬 음식 문화를 제공합니다. 스트룹와플과 청어와 같은 전통적인 네덜란드 요리부터 국제 요리에 이르기까지, 이 도시는 흥미로운 다양한 요리 경험을 자랑합니다. 활기찬 음식 시장을 탐험하거나 미슐랭 스타 레스토랑에서 식사하든, 암스테르담의 음식 문화는 모든 맛과 예산을 만족시키는 즐거운 여정입니다.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Rijks 박물관에 위치한 Rijks는 네덜란드 요리 유산에 현대적인 변화를 준 메뉴를 제공합니다. 분위기는 세련되면서도 따뜻하며, 특별한 행사에 완벽합니다. 가격은 높은 편이지만, 경험할 가치가 있습니다. 꼭 먹어봐야 할 요리에는 현지에서 조달한 해산물과 창의적인 채식 옵션이 포함됩니다.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "옛 트램 차고에 위치한 Foodhallen은 다양한 국제 스트리트 푸드 매장이 있는 활기찬 실내 음식 시장입니다. 활기찬 분위기에서 캐주얼 식사를 즐기기에 좋은 장소입니다. 아시아 음식이나 고급 버거를 원하든, 모든 사람에게 무언가가 있습니다. 가격은 중간 정도이며, 요리는 €5-15 사이입니다.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "전설적인 립으로 유명한 Café de Klos는 육류 애호가가 꼭 방문해야 할 장소입니다. 소박하고 아늑한 분위기는 완벽하게 구운 육류의 푸짐한 양과 잘 어우러집니다. 현지인들과 관광객들 사이에서 인기가 많아, 피크 시간에는 기다릴 준비를 하세요. 푸짐한 양을 고려하면 가격은 합리적입니다.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Original Stroopwafels",
+          "type": "street_food",
+          "description": "알버트 카이프 마켓에 위치한 이 노점은 신선하게 만든 스트룹와플이라는 고전적인 네덜란드 간식을 제공합니다. 따뜻하고 끈적한 캐러멜 시럽이 두 개의 얇은 와플 사이에 끼워져 있어 달콤한 즐거움을 줍니다. 예산 친화적인 간식으로, 보통 개당 약 €2.50이며, 가져가기 좋은 기념품입니다.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "치즈 애호가는 De Kaaskamer에서 천국을 찾을 것입니다. 이곳은 인상적인 네덜란드 및 국제 치즈 선택을 제공합니다. 지식이 풍부한 직원이 광범위한 선택을 안내하여 당신의 입맛에 맞는 완벽한 치즈를 찾도록 도와줍니다. 가격은 종류와 양에 따라 달라집니다.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "이 상징적인 감자튀김 가판대는 암스테르담에서 최고의 감자튀김을 제공하는 것으로 유명합니다. 작은 골목에 위치한 Vleminckx는 바삭하고 황금색의 감자튀김을 다양한 소스와 함께 제공합니다. 한 접시의 가격은 약 €3-5로, 도시를 탐험하는 동안 저렴하고 맛있는 간식입니다.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "역사가 깊은 Wynand Fockink는 네덜란드 전통 주류, 특히 제네바를 전문으로 하는 암스테르담에서 가장 오래된 시음실 중 하나입니다. 아늑하고 고풍스러운 분위기는 현지에서 생산된 다양한 주류를 시음하는 데 독특한 배경을 제공합니다. 시음 가격은 합리적이며, 지식이 풍부한 직원이 경험을 향상시킵니다.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurant De Kas",
+          "type": "restaurant",
+          "description": "온실에 위치한 Restaurant De Kas는 자사 정원에서 매일 수확한 식재료로 만든 농장에서 식탁까지의 식사 경험을 제공합니다. 메뉴는 계절 재료를 반영하여 자주 변경됩니다. 평화롭고 녹색의 환경은 접시에 담긴 신선한 맛을 향상시킵니다. 가격은 높은 편이지만, 품질과 경험은 탁월합니다.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Amsterdam 2026 — Guide des Meilleurs Restaurants & Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, food trucks et spécialités locales à Amsterdam. Des repas économiques à la grande cuisine — avec des liens de réservation.",
+      "page_intro": "Amsterdam offre une scène culinaire vibrante influencée par sa population multiculturelle. Des plats néerlandais traditionnels comme les stroopwafels et le hareng aux cuisines internationales, la ville propose une gamme passionnante d'expériences culinaires. Que vous exploriez les marchés alimentaires animés ou que vous dîniez dans des restaurants étoilés Michelin, la culture culinaire d'Amsterdam est un voyage délicieux qui s'adresse à tous les goûts et budgets.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Situé dans le Rijksmuseum, Rijks propose un menu inspiré du patrimoine culinaire néerlandais avec une touche moderne. L'ambiance est sophistiquée mais accueillante, idéale pour une occasion spéciale. Les prix sont élevés, mais l'expérience en vaut la peine. Les plats à essayer absolument comprennent les fruits de mer locaux et les options végétariennes inventives.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "Installé dans un ancien dépôt de tramway, Foodhallen est un marché alimentaire intérieur vibrant proposant une grande variété de stands de street food internationaux. C'est un endroit idéal pour un repas décontracté dans une ambiance énergique. Que vous ayez envie de bouchées asiatiques ou de burgers gourmets, il y a quelque chose pour tout le monde. Les prix sont modérés, avec des plats allant de 5 à 15 €.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "Connu pour ses côtes légendaires, Café de Klos est un incontournable pour les amateurs de viande. L'atmosphère rustique et chaleureuse complète les portions généreuses de viandes parfaitement grillées. Il est populaire parmi les locaux et les touristes, alors préparez-vous à attendre lors des heures de pointe. Les prix sont raisonnables compte tenu des portions généreuses.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Original Stroopwafels",
+          "type": "street_food",
+          "description": "Situé au marché Albert Cuyp, ce stand propose des stroopwafels fraîchement préparés, une friandise néerlandaise classique. Le sirop de caramel chaud et coulant niché entre deux fines gaufres est un délice sucré. C'est une collation économique, coûtant généralement environ 2,50 € chacun, et un souvenir parfait à ramener chez soi.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "Les amateurs de fromage trouveront leur paradis à De Kaaskamer, un magasin offrant une sélection impressionnante de fromages néerlandais et internationaux. Le personnel compétent peut vous guider à travers leur vaste gamme, vous aidant à trouver le fromage parfait pour votre palais. Les prix varient en fonction du type et de la quantité.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "Cette célèbre friterie est connue pour servir certaines des meilleures frites d'Amsterdam. Située dans une petite ruelle, Vleminckx propose des frites croustillantes et dorées avec une variété de sauces au choix. Une portion coûte environ 3 à 5 €, ce qui en fait une collation abordable et délicieuse lors de l'exploration de la ville.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "Plein d'histoire, Wynand Fockink est l'une des plus anciennes salles de dégustation d'Amsterdam, spécialisée dans les spiritueux néerlandais traditionnels comme le genièvre. L'atmosphère chaleureuse et d'époque offre un cadre unique pour déguster une variété de liqueurs produites localement. Les prix des dégustations sont raisonnables, et le personnel compétent enrichit l'expérience.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurant De Kas",
+          "type": "restaurant",
+          "description": "Installé dans une serre, le Restaurant De Kas offre une expérience culinaire de la ferme à la table avec des produits récoltés quotidiennement dans leurs propres jardins. Le menu change fréquemment, reflétant les ingrédients de saison. Le cadre serein et verdoyant rehausse les saveurs fraîches de votre assiette. Les prix sont élevés, mais la qualité et l'expérience sont exceptionnelles.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Ámsterdam 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Ámsterdam. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Ámsterdam ofrece una vibrante escena gastronómica influenciada por su población multicultural. Desde platos tradicionales holandeses como stroopwafels y arenque hasta cocinas internacionales, la ciudad cuenta con una emocionante variedad de experiencias culinarias. Ya sea que estés explorando bulliciosos mercados de comida o cenando en restaurantes con estrellas Michelin, la cultura gastronómica de Ámsterdam es un delicioso viaje que se adapta a todos los gustos y presupuestos.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Ubicado en el Rijksmuseum, Rijks ofrece un menú inspirado en el patrimonio culinario holandés con un toque moderno. El ambiente es sofisticado pero acogedor, perfecto para una ocasión especial. Los precios son altos, pero la experiencia lo vale. Los platos imprescindibles incluyen mariscos de origen local y opciones vegetarianas creativas.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "Ubicado en un antiguo depósito de tranvías, Foodhallen es un vibrante mercado de comida interior con una amplia variedad de puestos de comida callejera internacional. Es un gran lugar para cenar de manera informal con un ambiente energético. Ya sea que anheles bocados asiáticos o hamburguesas gourmet, hay algo para todos. Los precios son moderados, con platos que van de 5 a 15 €.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "Conocido por sus legendarias costillas, Café de Klos es una visita obligada para los amantes de la carne. La atmósfera rústica y acogedora complementa las generosas porciones de carnes perfectamente asadas. Es popular entre los locales y turistas por igual, así que prepárate para esperar durante las horas pico. Los precios son razonables considerando las porciones generosas.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Original Stroopwafels",
+          "type": "street_food",
+          "description": "Ubicado en el mercado Albert Cuyp, este puesto ofrece stroopwafels recién hechos, un dulce clásico holandés. El jarabe de caramelo caliente y pegajoso anidado entre dos finas obleas es un deleite dulce. Es un tentempié económico, que suele costar alrededor de 2,50 € cada uno, y un recuerdo perfecto para llevar a casa.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "Los amantes del queso encontrarán su paraíso en De Kaaskamer, una tienda que ofrece una impresionante selección de quesos holandeses e internacionales. El personal experto puede guiarte a través de su extensa gama, ayudándote a encontrar el queso perfecto para tu paladar. Los precios varían según el tipo y la cantidad.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "Este icónico puesto de papas fritas es famoso por servir algunas de las mejores papas fritas de Ámsterdam. Ubicado en un pequeño callejón, Vleminckx ofrece papas fritas crujientes y doradas con una variedad de salsas para elegir. Una porción cuesta alrededor de 3 a 5 €, lo que lo convierte en un tentempié asequible y delicioso mientras exploras la ciudad.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "Con una rica historia, Wynand Fockink es una de las salas de degustación más antiguas de Ámsterdam, especializada en licores tradicionales holandeses como el jenever. La atmósfera acogedora y de la vieja escuela proporciona un telón de fondo único para degustar una variedad de licores producidos localmente. Los precios de las degustaciones son razonables y el personal experto mejora la experiencia.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurant De Kas",
+          "type": "restaurant",
+          "description": "Situado en un invernadero, Restaurant De Kas ofrece una experiencia gastronómica de la granja a la mesa con productos cosechados diariamente de sus propios jardines. El menú cambia con frecuencia, reflejando los ingredientes de temporada. El entorno sereno y verde realza los sabores frescos en tu plato. Los precios son altos, pero la calidad y la experiencia son excepcionales.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Amsterdam 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Amsterdam. Dari makanan hemat hingga makanan mewah — dengan tautan pemesanan.",
+      "page_intro": "Amsterdam menawarkan suasana kuliner yang semarak dipengaruhi oleh populasi multikulturalnya. Dari hidangan tradisional Belanda seperti stroopwafels dan herring hingga masakan internasional, kota ini memiliki beragam pengalaman kuliner yang menarik. Apakah Anda menjelajahi pasar makanan yang ramai atau bersantap di restoran berbintang Michelin, budaya makanan Amsterdam adalah perjalanan yang menyenangkan yang memenuhi selera dan anggaran setiap orang.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Terletak di Rijksmuseum, Rijks menawarkan menu yang terinspirasi oleh warisan kuliner Belanda dengan sentuhan modern. Suasana yang canggih namun ramah, menjadikannya sempurna untuk acara khusus. Harganya cukup tinggi, tetapi pengalaman yang didapat sepadan. Hidangan yang harus dicoba termasuk makanan laut yang bersumber secara lokal dan pilihan vegetarian yang inovatif.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "Bertempat di bekas depo trem, Foodhallen adalah pasar makanan dalam ruangan yang ramai dengan berbagai gerai makanan jalanan internasional. Tempat ini adalah tempat yang bagus untuk bersantap santai dengan suasana yang energik. Apakah Anda menginginkan hidangan kecil ala Asia atau burger gourmet, ada sesuatu untuk semua orang. Harga cukup terjangkau, dengan hidangan berkisar antara €5-15.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "Dikenal dengan iga legendarisnya, Café de Klos adalah tempat yang harus dikunjungi bagi pecinta daging. Suasana yang rustic dan nyaman melengkapi porsi besar daging yang dipanggang dengan sempurna. Tempat ini populer di kalangan penduduk lokal dan turis, jadi bersiaplah untuk menunggu saat jam sibuk. Harga cukup masuk akal mengingat porsinya yang besar.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Original Stroopwafels",
+          "type": "street_food",
+          "description": "Terletak di Pasar Albert Cuyp, gerai ini menawarkan stroopwafels yang baru dibuat, camilan klasik Belanda. Sirup karamel yang hangat dan lengket di antara dua wafel tipis adalah kenikmatan manis. Ini adalah camilan yang ramah anggaran, biasanya seharga sekitar €2.50 masing-masing, dan suvenir sempurna untuk dibawa pulang.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "Pecinta keju akan menemukan surga mereka di De Kaaskamer, toko yang menawarkan pilihan keju Belanda dan internasional yang mengesankan. Staf yang berpengetahuan dapat membimbing Anda melalui pilihan mereka yang luas, membantu Anda menemukan keju yang sempurna sesuai selera Anda. Harga bervariasi tergantung pada jenis dan jumlahnya.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "Gerai kentang goreng ikonik ini terkenal karena menyajikan beberapa kentang goreng terbaik di Amsterdam. Terletak di gang kecil, Vleminckx menawarkan kentang goreng yang renyah dan berwarna keemasan dengan berbagai saus untuk dipilih. Satu porsi seharga sekitar €3-5, menjadikannya camilan yang terjangkau dan lezat saat menjelajahi kota.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "Dengan sejarah yang kaya, Wynand Fockink adalah salah satu ruang pencicipan tertua di Amsterdam, yang berspesialisasi dalam minuman keras tradisional Belanda seperti jenever. Suasana yang nyaman dan bergaya kuno memberikan latar belakang unik untuk mencicipi berbagai minuman keras yang diproduksi secara lokal. Harga untuk mencicipi cukup terjangkau, dan staf yang berpengetahuan memperkaya pengalaman.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurant De Kas",
+          "type": "restaurant",
+          "description": "Berlokasi di rumah kaca, Restaurant De Kas menawarkan pengalaman bersantap dari kebun ke meja dengan hasil panen yang dipetik setiap hari dari kebun mereka sendiri. Menu sering berubah, mencerminkan bahan-bahan musiman. Suasana hijau yang tenang meningkatkan rasa segar di piring Anda. Harganya cukup tinggi, tetapi kualitas dan pengalamannya luar biasa.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "एम्स्टर्डम 2026 में सबसे अच्छा भोजन — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "एम्स्टर्डम के सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट भोजन से लेकर शानदार भोजन तक — बुकिंग लिंक के साथ।",
+      "page_intro": "एम्स्टर्डम का खाद्य दृश्य इसके बहुसांस्कृतिक जनसंख्या से प्रभावित है। पारंपरिक डच व्यंजन जैसे स्ट्रूपवाफल्स और हेरिंग से लेकर अंतरराष्ट्रीय व्यंजनों तक, शहर में पाक अनुभवों की एक रोमांचक श्रृंखला है। चाहे आप भीड़भाड़ वाले खाद्य बाजारों का अन्वेषण कर रहे हों या मिशेलिन-स्टार वाले रेस्तरां में भोजन कर रहे हों, एम्स्टर्डम की खाद्य संस्कृति हर स्वाद और बजट के साथ एक सुखद यात्रा है।",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "राइक्स",
+          "type": "restaurant",
+          "description": "राइक्सम्यूज़ियम में स्थित, राइक्स एक आधुनिक मोड़ के साथ डच पाक विरासत से प्रेरित मेनू प्रदान करता है। माहौल परिष्कृत लेकिन स्वागतपूर्ण है, जो एक विशेष अवसर के लिए इसे सही बनाता है। कीमतें उच्चतर पक्ष में हैं, लेकिन अनुभव इसके लायक है। अनिवार्य रूप से आजमाने वाले व्यंजनों में स्थानीय रूप से प्राप्त समुद्री भोजन और आविष्कारशील शाकाहारी विकल्प शामिल हैं।",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "फूडहालन",
+          "type": "street_food",
+          "description": "पूर्व ट्राम डिपो में स्थित, फूडहालन एक जीवंत इनडोर खाद्य बाजार है जिसमें अंतरराष्ट्रीय स्ट्रीट फूड स्टॉल की एक विस्तृत विविधता है। यह एक ऊर्जावान वातावरण के साथ आकस्मिक भोजन के लिए एक महान स्थान है। चाहे आप एशियाई स्नैक्स की लालसा कर रहे हों या गॉरमेट बर्गर, यहाँ हर किसी के लिए कुछ है। कीमतें मध्यम हैं, व्यंजनों की कीमत €5-15 के बीच है।",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "कैफे डी क्लोस",
+          "type": "restaurant",
+          "description": "अपने प्रसिद्ध रिब्स के लिए जाना जाने वाला, कैफे डी क्लोस मांस प्रेमियों के लिए एक अवश्य-देखने योग्य है। देहाती, आरामदायक माहौल पूरी तरह से ग्रिल किए गए मांस के दिलदार हिस्सों के साथ मेल खाता है। यह स्थानीय लोगों और पर्यटकों दोनों में लोकप्रिय है, इसलिए पीक समय के दौरान प्रतीक्षा के लिए तैयार रहें। उदार परोसने के विचार से कीमतें उचित हैं।",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "ओरिजिनल स्ट्रूपवाफल्स",
+          "type": "street_food",
+          "description": "एल्बर्ट क्यूप मार्केट में स्थित, यह स्टाल ताजे बने स्ट्रूपवाफल्स, एक क्लासिक डच मिठाई, प्रदान करता है। दो पतली वाफल्स के बीच में बसे गर्म, गूई कारमेल सिरप एक मीठा आनंद है। यह एक बजट-फ्रेंडली स्नैक है, जिसकी कीमत आमतौर पर लगभग €2.50 होती है, और घर ले जाने के लिए एक सही स्मारिका है।",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "डे कासकामर",
+          "type": "local_specialty",
+          "description": "पनीर प्रेमियों को डे कासकामर में अपनी जन्नत मिलेगी, एक दुकान जो डच और अंतरराष्ट्रीय चीज़ों का एक प्रभावशाली चयन प्रदान करती है। ज्ञानवर्धक स्टाफ आपको उनकी विस्तृत श्रृंखला में मार्गदर्शन कर सकता है, आपकी स्वादानुसार सही चीज़ खोजने में मदद करता है। कीमतें प्रकार और मात्रा पर निर्भर करती हैं।",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "व्लेमिंक डि साउसमीस्टर",
+          "type": "street_food",
+          "description": "यह प्रतिष्ठित फ्राई स्टैंड एम्स्टर्डम में सर्वश्रेष्ठ फ्राई परोसने के लिए प्रसिद्ध है। एक छोटे से गली में स्थित, व्लेमिंक कुरकुरी, सुनहरी फ्राई प्रदान करता है जिसके साथ चुनने के लिए विभिन्न प्रकार की सॉस होती हैं। एक सर्विंग की कीमत लगभग €3-5 होती है, जो शहर का अन्वेषण करते समय एक सस्ती और स्वादिष्ट स्नैक बनाता है।",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "विनैंड फोकिंक",
+          "type": "bar",
+          "description": "इतिहास में डूबा हुआ, विनैंड फोकिंक एम्स्टर्डम के सबसे पुराने चखने वाले कमरों में से एक है, जो जेनेवर जैसे पारंपरिक डच स्पिरिट्स में विशेषज्ञता रखता है। आरामदायक, पुरानी दुनिया का माहौल विभिन्न प्रकार की स्थानीय उत्पादित शराबों का नमूना लेने के लिए एक अनूठा पृष्ठभूमि प्रदान करता है। चखने के लिए कीमतें उचित हैं, और ज्ञानवर्धक स्टाफ अनुभव को बढ़ाता है।",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "रेस्तरां डे कस",
+          "type": "restaurant",
+          "description": "ग्रीनहाउस में सेट, रेस्तरां डे कस एक फार्म-टू-टेबल डाइनिंग अनुभव प्रदान करता है जिसमें उनके अपने बागों से प्रतिदिन फसल काटी जाती है। मेनू अक्सर बदलता है, मौसमी सामग्रियों को दर्शाता है। शांत, हरा वातावरण आपकी प्लेट पर ताजे स्वादों को बढ़ाता है। कीमतें उच्चतर अंत में हैं, लेकिन गुणवत्ता और अनुभव असाधारण हैं।",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Amsterdã 2026 — Guia de Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Amsterdã. De refeições econômicas a jantares requintados — com links para reservas.",
+      "page_intro": "Amsterdã oferece uma cena gastronômica vibrante influenciada por sua população multicultural. De pratos tradicionais holandeses como stroopwafels e arenque a cozinhas internacionais, a cidade possui uma empolgante variedade de experiências culinárias. Quer você esteja explorando mercados de alimentos movimentados ou jantando em restaurantes estrelados pelo Michelin, a cultura alimentar de Amsterdã é uma jornada deliciosa que atende a todos os gostos e orçamentos.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Rijks",
+          "type": "restaurant",
+          "description": "Localizado no Rijksmuseum, o Rijks oferece um menu inspirado no patrimônio culinário holandês com um toque moderno. O ambiente é sofisticado, mas acolhedor, tornando-o perfeito para uma ocasião especial. Os preços são mais altos, mas a experiência vale a pena. Pratos imperdíveis incluem frutos do mar locais e opções vegetarianas criativas.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Foodhallen",
+          "type": "street_food",
+          "description": "Instalado em um antigo depósito de bondes, o Foodhallen é um vibrante mercado de alimentos coberto que apresenta uma grande variedade de barracas de comida de rua internacional. É um ótimo lugar para refeições casuais com uma atmosfera energética. Quer você esteja desejando petiscos asiáticos ou hambúrgueres gourmet, há algo para todos. Os preços são moderados, com pratos que variam de €5-15.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Café de Klos",
+          "type": "restaurant",
+          "description": "Conhecido por suas lendárias costelas, o Café de Klos é uma visita obrigatória para os amantes de carne. A atmosfera rústica e acolhedora complementa as porções generosas de carnes perfeitamente grelhadas. É popular entre os locais e turistas, então esteja preparado para esperar durante os horários de pico. Os preços são razoáveis, considerando as porções generosas.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Stroopwafels Originais",
+          "type": "street_food",
+          "description": "Localizada no Albert Cuyp Market, esta barraca oferece stroopwafels recém-feitos, uma iguaria holandesa clássica. O xarope de caramelo quente e pegajoso entre duas waffles finas é uma delícia doce. É um lanche econômico, custando cerca de €2.50 cada, e um souvenir perfeito para levar para casa.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "De Kaaskamer",
+          "type": "local_specialty",
+          "description": "Os amantes de queijo encontrarão seu paraíso no De Kaaskamer, uma loja que oferece uma seleção impressionante de queijos holandeses e internacionais. A equipe experiente pode guiá-lo através de sua extensa gama, ajudando-o a encontrar o queijo perfeito para o seu paladar. Os preços variam dependendo do tipo e quantidade.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Vleminckx de Sausmeester",
+          "type": "street_food",
+          "description": "Este icônico estande de batatas fritas é famoso por servir algumas das melhores batatas fritas de Amsterdã. Localizado em um pequeno beco, o Vleminckx oferece batatas fritas douradas e crocantes com uma variedade de molhos para escolher. Uma porção custa cerca de €3-5, tornando-se um lanche acessível e delicioso enquanto explora a cidade.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Wynand Fockink",
+          "type": "bar",
+          "description": "Imerso na história, o Wynand Fockink é uma das salas de degustação mais antigas de Amsterdã, especializada em bebidas holandesas tradicionais como o jenever. A atmosfera acolhedora e de estilo antigo proporciona um cenário único para degustar uma variedade de licores produzidos localmente. Os preços das degustações são razoáveis, e a equipe conhecedora melhora a experiência.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Restaurante De Kas",
+          "type": "restaurant",
+          "description": "Localizado em uma estufa, o Restaurante De Kas oferece uma experiência de jantar do campo à mesa com produtos colhidos diariamente de seus próprios jardins. O menu muda frequentemente, refletindo os ingredientes sazonais. O ambiente sereno e verde realça os sabores frescos do seu prato. Os preços estão no lado mais alto, mas a qualidade e a experiência são excepcionais.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في أمستردام 2026 — دليل المطاعم والطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والتخصصات المحلية في أمستردام. من الأطعمة الاقتصادية إلى تجارب تناول الطعام الفاخر — مع روابط الحجز.",
+      "page_intro": "تقدم أمستردام مشهدًا غذائيًا نابضًا بالحياة يتأثر بتنوع سكانها الثقافي. من الأطباق الهولندية التقليدية مثل الستروموافيلز والرنجة إلى المطابخ العالمية، تزخر المدينة بتجارب طهي مثيرة. سواء كنت تستكشف الأسواق الغذائية الصاخبة أو تتناول الطعام في مطاعم حاصلة على نجمة ميشلان، فإن ثقافة الطعام في أمستردام هي رحلة لذيذة تلبي جميع الأذواق والميزانيات.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "ريكس",
+          "type": "restaurant",
+          "description": "يقع في متحف ريجكس، يقدم ريكس قائمة مستوحاة من التراث الطهي الهولندي بلمسة عصرية. الأجواء راقية ولكنها مرحبة، مما يجعلها مثالية لحدث خاص. الأسعار مرتفعة، لكن التجربة تستحق ذلك. الأطباق التي يجب تجربتها تشمل المأكولات البحرية المحلية والخيارات النباتية المبتكرة.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "فودهلن",
+          "type": "street_food",
+          "description": "يقع في مستودع ترام سابق، فودهلن هو سوق طعام داخلي نابض بالحياة يضم مجموعة متنوعة من أكشاك الطعام الشارعي الدولي. إنه مكان رائع لتناول الطعام غير الرسمي مع جو حيوي. سواء كنت تشتهي الوجبات الآسيوية أو البرغر الفاخر، هناك شيء للجميع. الأسعار معتدلة، حيث تتراوح الأطباق بين €5-15.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "كافيه دي كلوس",
+          "type": "restaurant",
+          "description": "معروف بأضلاعه الأسطورية، كافيه دي كلوس هو وجهة لا بد منها لعشاق اللحوم. الجو الريفي الدافئ يكمل الحصص السخية من اللحوم المشوية بشكل مثالي. إنه شائع بين السكان المحليين والسياح على حد سواء، لذا كن مستعدًا للانتظار خلال أوقات الذروة. الأسعار معقولة بالنظر إلى الحصص السخية.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "الستروموافيل الأصلية",
+          "type": "street_food",
+          "description": "يقع في سوق ألبرت كويب، يقدم هذا الكشك ستروموافيل طازجة الصنع، وهي حلوى هولندية كلاسيكية. شراب الكراميل الدافئ اللزج المحصور بين اثنين من الوافل الرقيق هو لذة حلوة. إنه وجبة خفيفة اقتصادية، حيث يكلف حوالي €2.50 لكل واحدة، وتذكار مثالي لتأخذه إلى المنزل.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "دي كاسكامر",
+          "type": "local_specialty",
+          "description": "سيجد عشاق الجبن جنتهم في دي كاسكامر، متجر يقدم مجموعة مذهلة من الجبن الهولندي والدولي. يمكن للموظفين الواسعي المعرفة إرشادك عبر مجموعتهم الواسعة، ومساعدتك في العثور على الجبن المثالي ليناسب ذوقك. تتفاوت الأسعار حسب النوع والكمية.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "فليمينكس دي ساوسميستر",
+          "type": "street_food",
+          "description": "يشتهر هذا الكشك الأيقوني للبطاطس بتقديم بعض من أفضل البطاطس في أمستردام. يقع في زقاق صغير، يقدم فليمينكس بطاطس مقرمشة ذهبية مع مجموعة متنوعة من الصلصات للاختيار من بينها. تكلف الحصة حوالي €3-5، مما يجعلها وجبة خفيفة لذيذة وميسورة التكلفة أثناء استكشاف المدينة.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "ويناند فوكينك",
+          "type": "bar",
+          "description": "غارق في التاريخ، يعد ويناند فوكينك واحدًا من أقدم غرف التذوق في أمستردام، متخصصًا في المشروبات الروحية الهولندية التقليدية مثل الجينيفر. يوفر الجو الدافئ والعتيق خلفية فريدة لتذوق مجموعة متنوعة من الخمور المنتجة محليًا. أسعار التذوق معقولة، والموظفون الواسعو المعرفة يعززون التجربة.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "مطعم دي كاس",
+          "type": "restaurant",
+          "description": "يقع في دفيئة، يوفر مطعم دي كاس تجربة تناول طعام من المزرعة إلى الطاولة مع منتجات تُحصد يوميًا من حدائقهم الخاصة. تتغير القائمة بشكل متكرر لتعكس المكونات الموسمية. يعزز الجو الهادئ والأخضر النكهات الطازجة على طبقك. الأسعار في الطرف الأعلى، لكن الجودة والتجربة استثنائية.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "আমস্টারডামে সেরা খাবার ২০২৬ — সেরা রেস্তোরাঁ ও স্ট্রিট ফুড গাইড",
+      "seo_description": "আমস্টারডামের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেট খাবার থেকে শুরু করে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "page_intro": "আমস্টারডাম তার বহু সংস্কৃতির জনসংখ্যা দ্বারা প্রভাবিত একটি প্রাণবন্ত খাদ্য দৃশ্য প্রস্তাব করে। ঐতিহ্যবাহী ডাচ খাবার যেমন স্ট্রপওয়াফেল এবং হারিং থেকে শুরু করে আন্তর্জাতিক রান্না, শহরটি উত্তেজনাপূর্ণ খাদ্য অভিজ্ঞতার একটি বিস্তৃত রেঞ্জ নিয়ে গর্ব করে। আপনি ব্যস্ত খাবার বাজারগুলি অন্বেষণ করছেন বা মিশেলিন-তারকা রেস্তোরাঁয় ডাইন করছেন, আমস্টারডামের খাদ্য সংস্কৃতি প্রতিটি স্বাদ এবং বাজেটের জন্য একটি আনন্দময় যাত্রা যা।",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "রাইক্স",
+          "type": "restaurant",
+          "description": "রাইক্সমিউজিয়ামে অবস্থিত, রাইক্স একটি আধুনিক মোড় সহ ডাচ রন্ধন ঐতিহ্য দ্বারা অনুপ্রাণিত একটি মেনু প্রদান করে। পরিবেশটি পরিশীলিত তবে স্বাগতপূর্ণ, এটি একটি বিশেষ অনুষ্ঠানের জন্য উপযুক্ত করে তোলে। দামগুলি উঁচু দিকে, তবে অভিজ্ঞতা মূল্যবান। অবশ্যই চেষ্টা করার মতো খাবারের মধ্যে স্থানীয়ভাবে প্রাপ্ত সামুদ্রিক খাবার এবং সৃজনশীল নিরামিষ বিকল্পগুলি অন্তর্ভুক্ত।",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "ফুডহালেন",
+          "type": "street_food",
+          "description": "একটি প্রাক্তন ট্রাম ডিপোতে অবস্থিত, ফুডহালেন একটি জীবন্ত ইনডোর ফুড মার্কেট যা আন্তর্জাতিক স্ট্রিট ফুড স্টলের একটি বিস্তৃত বৈচিত্র্যকে প্রদর্শন করে। এটি একটি শক্তিশালী পরিবেশের সাথে নৈমিত্তিক ডাইনিংয়ের জন্য একটি দুর্দান্ত জায়গা। আপনি এশিয়ান খাবার বা গুরমেট বার্গারের জন্য আকুল হচ্ছেন কিনা, প্রত্যেকের জন্য কিছু না কিছু আছে। দাম মাঝারি, খাবারগুলির দাম €5-15 এর মধ্যে।",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "ক্যাফে ডি ক্লস",
+          "type": "restaurant",
+          "description": "এর কিংবদন্তি রিবগুলির জন্য পরিচিত, ক্যাফে ডি ক্লস মাংসপ্রেমীদের জন্য একটি অবশ্যই পরিদর্শনীয় স্থান। মজবুত, আরামদায়ক পরিবেশটি পুরোপুরি গ্রিল করা মাংসের উদার অংশগুলি সম্পূরক করে। এটি স্থানীয় এবং পর্যটকদের মধ্যে জনপ্রিয়, তাই পিক সময়ের সময় অপেক্ষার জন্য প্রস্তুত থাকুন। উদার পরিবেশনার কথা বিবেচনা করে দামগুলি যুক্তিসঙ্গত।",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "অরিজিনাল স্ট্রপওয়াফেলস",
+          "type": "street_food",
+          "description": "আলবার্ট কুইপ মার্কেটে অবস্থিত, এই স্টলটি তাজা তৈরি স্ট্রপওয়াফেলস, একটি ক্লাসিক ডাচ ট্রিট অফার করে। দুটি পাতলা ওয়াফেলের মধ্যে থাকা উষ্ণ, গুই ক্যারামেল সিরাপ একটি মিষ্টি আনন্দ। এটি একটি বাজেট-বান্ধব স্ন্যাক, সাধারণত প্রতিটির প্রায় €2.50 খরচ হয়, এবং বাড়িতে আনার জন্য একটি নিখুঁত স্মারক।",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "ডি কাসকামার",
+          "type": "local_specialty",
+          "description": "চিজ প্রেমীরা ডি কাসকামারে তাদের স্বর্গ খুঁজে পাবে, একটি দোকান যা ডাচ এবং আন্তর্জাতিক চিজের একটি চিত্তাকর্ষক নির্বাচন অফার করে। জ্ঞানসম্পন্ন কর্মীরা আপনাকে তাদের বিস্তৃত পরিসরে গাইড করতে পারেন, আপনার স্বাদের জন্য উপযুক্ত নিখুঁত চিজ খুঁজে পেতে সাহায্য করে। দাম ধরন এবং পরিমাণের উপর নির্ভর করে।",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "ভ্লেমিনক্স ডি সস্মিস্টার",
+          "type": "street_food",
+          "description": "এই আইকনিক ফ্রাই স্ট্যান্ড অ্যামস্টারডামের সেরা ফ্রাই পরিবেশনের জন্য বিখ্যাত। একটি ছোট গলিতে অবস্থিত, ভ্লেমিনক্স খাস্তা, সোনালী ফ্রাই অফার করে যার সাথে বেছে নেওয়ার জন্য বিভিন্ন ধরনের সস থাকে। একটি পরিবেশন প্রায় €3-5 খরচ হয়, যা শহরটি অন্বেষণ করার সময় একটি সাশ্রয়ী এবং সুস্বাদু স্ন্যাক তৈরি করে।",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "উইনান্ড ফকিনক",
+          "type": "bar",
+          "description": "ইতিহাসে নিমজ্জিত, উইনান্ড ফকিনক অ্যামস্টারডামের প্রাচীনতম টেস্টিং রুমগুলির মধ্যে একটি, জেনেভার-এর মতো ঐতিহ্যবাহী ডাচ স্পিরিটস-এ বিশেষজ্ঞ। আরামদায়ক, পুরানো-দুনিয়া পরিবেশ বিভিন্ন ধরনের স্থানীয়ভাবে উত্পাদিত মদ স্বাদ নেওয়ার জন্য একটি অনন্য পটভূমি প্রদান করে। স্বাদগ্রহণের জন্য দামগুলি যুক্তিসঙ্গত, এবং জ্ঞানসম্পন্ন কর্মীরা অভিজ্ঞতাকে আরও উন্নত করে।",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "রেস্টুরেন্ট ডি কাস",
+          "type": "restaurant",
+          "description": "একটি গ্রিনহাউসে সেট, রেস্টুরেন্ট ডি কাস একটি ফার্ম-টু-টেবিল ডাইনিং অভিজ্ঞতা প্রদান করে যার ফলাফল প্রতিদিন তাদের নিজস্ব বাগান থেকে সংগ্রহ করা হয়। মেনুটি প্রায়শই পরিবর্তিত হয়, ঋতুর উপাদানগুলি প্রতিফলিত করে। শান্ত, সবুজ পরিবেশ আপনার প্লেটে তাজা স্বাদগুলি উন্নত করে। দামগুলি উচ্চ প্রান্তে, তবে গুণমান এবং অভিজ্ঞতা ব্যতিক্রমী।",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Амстердаме 2026 — Топ рестораны и уличная еда",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Амстердаме. От бюджетных блюд до изысканной кухни — с ссылками на бронирование.",
+      "page_intro": "Амстердам предлагает яркую кулинарную сцену, находящуюся под влиянием его мультикультурного населения. От традиционных голландских блюд, таких как стропвафли и сельдь, до международных кухонь, город может похвастаться захватывающим спектром кулинарных впечатлений. Независимо от того, исследуете ли вы оживленные продуктовые рынки или обедаете в ресторанах с мишленовскими звездами, кулинарная культура Амстердама — это восхитительное путешествие, которое удовлетворит любой вкус и бюджет.",
+      "items": [
+        {
+          "id": "rijks-restaurant",
+          "name": "Рейкс",
+          "type": "restaurant",
+          "description": "Расположенный в Рейксмузее, Рейкс предлагает меню, вдохновленное голландским кулинарным наследием с современным акцентом. Атмосфера изысканная, но приветливая, что делает его идеальным для особого случая. Цены на более высокой стороне, но опыт того стоит. Обязательными к пробованию блюдами являются морепродукты местного производства и изобретательные вегетарианские варианты.",
+          "image_keyword": "Rijks Amsterdam dining",
+          "star_rating": 4.7,
+          "price_range": "$$$",
+          "must_try": "Dutch seafood platter",
+          "klook_query": "Rijks Amsterdam reservation"
+        },
+        {
+          "id": "foodhallen-amsterdam",
+          "name": "Фудхаллен",
+          "type": "street_food",
+          "description": "Размещенный в бывшем депо трамваев, Фудхаллен — это живой крытый рынок еды, предлагающий широкий ассортимент международных уличных киосков еды. Это отличное место для неформального обеда с энергичной атмосферой. Независимо от того, жаждете ли вы азиатских закусок или гурманских бургеров, здесь есть что-то для каждого. Цены умеренные, блюда варьируются от €5 до 15.",
+          "image_keyword": "Foodhallen Amsterdam",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Foodhallen Amsterdam food tour"
+        },
+        {
+          "id": "cafe-de-klos",
+          "name": "Кафе де Клос",
+          "type": "restaurant",
+          "description": "Известное своими легендарными ребрышками, Кафе де Клос — обязательное место для посещения для любителей мяса. Сельская, уютная атмосфера дополняет обильные порции идеально приготовленного мяса. Оно популярно среди местных жителей и туристов, так что будьте готовы к ожиданию в часы пик. Цены разумные, учитывая щедрые порции.",
+          "image_keyword": "Café de Klos ribs",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Pork ribs",
+          "klook_query": "Café de Klos reservation"
+        },
+        {
+          "id": "stroopwafel-stall",
+          "name": "Оригинальные стропвафли",
+          "type": "street_food",
+          "description": "Расположенный на рынке Альберта Кёйпа, этот киоск предлагает свежеиспеченные стропвафли, классическое голландское лакомство. Теплый, липкий карамельный сироп между двумя тонкими вафлями — это сладкое удовольствие. Это бюджетная закуска, обычно стоящая около €2.50 каждая, и идеальный сувенир, чтобы привезти домой.",
+          "image_keyword": "Stroopwafel Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$",
+          "must_try": "Classic stroopwafel",
+          "klook_query": "Amsterdam stroopwafel tasting"
+        },
+        {
+          "id": "de-kaaskamer",
+          "name": "Де Кааскамер",
+          "type": "local_specialty",
+          "description": "Любители сыра найдут свой рай в Де Кааскамер, магазине, предлагающем впечатляющий выбор голландских и международных сыров. Знающий персонал может провести вас через их обширный ассортимент, помогая найти идеальный сыр, соответствующий вашему вкусу. Цены варьируются в зависимости от типа и количества.",
+          "image_keyword": "De Kaaskamer cheese",
+          "star_rating": 4.9,
+          "price_range": "$$",
+          "must_try": "Aged Gouda",
+          "klook_query": "Amsterdam cheese tasting tour"
+        },
+        {
+          "id": "vleminckx-fries",
+          "name": "Влеминк де Соусместер",
+          "type": "street_food",
+          "description": "Этот культовый стенд с картошкой фри славится тем, что подает одни из лучших фри в Амстердаме. Расположенный в узком переулке, Влеминк предлагает хрустящие, золотистые фри с разнообразными соусами на выбор. Порция стоит около €3-5, что делает его доступной и вкусной закуской во время исследования города.",
+          "image_keyword": "Vleminckx fries Amsterdam",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fries with mayonnaise",
+          "klook_query": "Amsterdam fries experience"
+        },
+        {
+          "id": "wynand-fockink",
+          "name": "Винанд Фокинк",
+          "type": "bar",
+          "description": "Погруженный в историю, Винанд Фокинк — один из старейших дегустационных залов Амстердама, специализирующийся на традиционных голландских спиртных напитках, таких как женевер. Уютная, старая атмосфера создает уникальный фон для дегустации различных местных ликеров. Цены на дегустации разумные, а знающий персонал улучшает опыт.",
+          "image_keyword": "Wynand Fockink bar",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Jenever tasting",
+          "klook_query": "Wynand Fockink tasting session"
+        },
+        {
+          "id": "restaurant-de-kas",
+          "name": "Ресторан де Кас",
+          "type": "restaurant",
+          "description": "Расположенный в теплице, ресторан де Кас предлагает обеденный опыт от фермы к столу с продуктами, ежедневно собираемыми из собственных садов. Меню часто меняется, отражая сезонные ингредиенты. Спокойная, зеленая обстановка усиливает свежие вкусы на вашей тарелке. Цены на более высокой стороне, но качество и опыт исключительны.",
+          "image_keyword": "Restaurant De Kas Amsterdam",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal vegetable menu",
+          "klook_query": "Restaurant De Kas reservation"
+        }
+      ]
+    }
+  }
+}

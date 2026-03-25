@@ -1,0 +1,1145 @@
+{
+  "city_slug": "madrid",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Madrid 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Madrid. From budget eats to fine dining — with booking links.",
+      "page_intro": "Madrid is a vibrant city where culinary tradition meets modern innovation. With a rich history of tapas culture, the city offers a diverse range of flavors, from traditional Spanish dishes to international cuisines. Visitors can indulge in everything from cozy taverns serving classic paella to bustling street markets offering freshly made churros. Madrid’s food scene is a true reflection of its dynamic spirit, inviting food lovers to explore its many gastronomic delights.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "Sobrino de Botín",
+          "type": "restaurant",
+          "description": "Known as the oldest restaurant in the world, Sobrino de Botín is a must-visit for anyone in Madrid. Famous for its roast suckling pig, the restaurant offers a historic atmosphere with traditional Spanish decor. The price range is moderate to high, but the experience of dining in such a historic setting is priceless.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "Mercado de San Miguel",
+          "type": "street_food",
+          "description": "Located in the heart of Madrid, Mercado de San Miguel is a food lover's paradise. This historic market offers a variety of Spanish delicacies such as tapas, seafood, and gourmet cheeses. With a lively atmosphere and a wide range of options, it's perfect for a casual meal or an evening snack.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "Chocolatería San Ginés",
+          "type": "cafe",
+          "description": "Established in 1894, Chocolatería San Ginés is famous for its churros con chocolate. Open 24 hours, this iconic café is a favorite spot for locals and tourists alike. The atmosphere is both nostalgic and vibrant, making it a must-visit when exploring Madrid.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "DSTAgE offers an avant-garde dining experience with its innovative dishes and artistic presentation. Helmed by renowned chef Diego Guerrero, this Michelin-starred restaurant features a tasting menu that explores bold flavors and textures. The modern and chic atmosphere adds to the unforgettable dining experience.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "La Venencia",
+          "type": "bar",
+          "description": "La Venencia is a traditional sherry bar that transports you back in time. With its no-frills decor and authentic vibe, it's a favorite among locals. The bar serves a variety of sherries straight from the barrel, accompanied by simple yet delicious tapas.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "Mercado de la Paz",
+          "type": "street_food",
+          "description": "Nestled in the upscale Salamanca district, Mercado de la Paz is a bustling market offering a wide range of fresh produce, meats, and gourmet products. It's a great spot to sample local specialties or enjoy a quick, casual meal.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "Lateral",
+          "type": "restaurant",
+          "description": "Lateral is known for its creative tapas and lively atmosphere. With several locations across Madrid, it's perfect for a casual dining experience with friends. The menu offers a modern twist on traditional Spanish dishes, all at reasonable prices.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "Casa Lucio",
+          "type": "restaurant",
+          "description": "Located in the La Latina neighborhood, Casa Lucio is a beloved Madrid institution. Famous for its Huevos Rotos, this traditional Spanish restaurant offers a warm and welcoming atmosphere. It's a great spot for those looking to enjoy classic Spanish cuisine.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年馬德里最佳美食 — 頂級餐廳和街頭美食指南",
+      "seo_description": "探索馬德里最好的餐廳、街頭美食和當地特產。從經濟實惠的餐點到高級餐飲 — 含預訂連結。",
+      "page_intro": "馬德里是一座充滿活力的城市，這裡的烹飪傳統與現代創新相互交融。擁有豐富的西班牙小吃文化歷史，該市提供多樣化的風味，從傳統的西班牙菜餚到國際美食。遊客可以享受從提供經典西班牙海鮮飯的舒適酒館到提供現做吉事果的繁忙街市的一切。馬德里的美食場景是其動態精神的真實反映，邀請美食愛好者探索其眾多美味佳餚。",
+      "items": [
+        {
+          "id": "botin",
+          "name": "波廷餐廳",
+          "type": "restaurant",
+          "description": "波廷餐廳被譽為世界上最古老的餐廳，來到馬德里的任何人都必須造訪。以烤乳豬聞名，這家餐廳提供具有傳統西班牙裝飾的歷史氛圍。價格範圍從中等到高，但在如此歷史悠久的環境中用餐的體驗是無價的。",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "聖米格爾市場",
+          "type": "street_food",
+          "description": "位於馬德里市中心，聖米格爾市場是美食愛好者的天堂。這個歷史悠久的市場提供各種西班牙美食，如小吃、海鮮和美食奶酪。氣氛熱鬧且選擇眾多，是享用簡餐或晚間小吃的理想場所。",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "聖吉內斯巧克力店",
+          "type": "cafe",
+          "description": "成立於1894年，聖吉內斯巧克力店以其巧克力吉事果而聞名。這家標誌性的咖啡館24小時營業，是當地人和遊客都喜愛的地方。這裡的氛圍既懷舊又充滿活力，是探索馬德里時的必訪之地。",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "DSTAgE以其創新的菜餚和藝術化的擺盤提供前衛的用餐體驗。在著名廚師Diego Guerrero的掌舵下，這家米其林星級餐廳提供探索大膽口味和質感的品嚐菜單。現代而別緻的氛圍增添了難忘的用餐體驗。",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "拉文西亞",
+          "type": "bar",
+          "description": "拉文西亞是一家傳統的雪莉酒吧，讓你彷彿回到了過去。憑藉其樸素的裝飾和真實的氛圍，這裡是當地人最喜愛的地方。酒吧提供各種直從桶中倒出的雪莉酒，搭配簡單卻美味的小吃。",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "和平市場",
+          "type": "street_food",
+          "description": "位於高檔的薩拉曼卡區，和平市場是一個繁忙的市場，提供多種新鮮農產品、肉類和美食產品。這裡是品嚐當地特產或享受快捷簡餐的好地方。",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "拉特拉爾",
+          "type": "restaurant",
+          "description": "拉特拉爾以其創意小吃和熱鬧氛圍聞名。馬德里有多家分店，非常適合與朋友一起享受輕鬆用餐體驗。菜單提供對傳統西班牙菜餚的現代化詮釋，價格合理。",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "盧西奧之家",
+          "type": "restaurant",
+          "description": "位於拉拉蒂娜區，盧西奧之家是馬德里深受喜愛的機構。以其炒蛋聞名，這家傳統的西班牙餐廳提供溫暖和歡迎的氛圍。對於那些想要享受經典西班牙美食的人來說，這裡是個絕佳的地方。",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "マドリードのベストフード2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "マドリードの最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "マドリードは、料理の伝統と現代の革新が出会う活気ある都市です。タパス文化の豊かな歴史を持ち、伝統的なスペイン料理から国際的な料理まで多様な味を提供しています。訪問者は、クラシックなパエリアを提供する居心地の良い酒場から、新鮮なチュロスを提供する賑やかなストリートマーケットまで、すべてを楽しむことができます。マドリードのフードシーンは、そのダイナミックな精神を真に反映しており、食通を多くの美食の楽しみに探索するよう招待しています。",
+      "items": [
+        {
+          "id": "botin",
+          "name": "ソブリノ・デ・ボティン",
+          "type": "restaurant",
+          "description": "世界最古のレストランとして知られるソブリノ・デ・ボティンは、マドリードにいる誰もが訪れるべき場所です。ローストの子豚で有名で、伝統的なスペイン風の装飾が施された歴史的な雰囲気を提供します。価格帯は中程度から高めですが、歴史的な環境での食事体験はかけがえのないものです。",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "サン・ミゲル市場",
+          "type": "street_food",
+          "description": "マドリードの中心に位置するサン・ミゲル市場は、食通の楽園です。この歴史的な市場は、タパス、シーフード、グルメチーズなど、様々なスペインの美食を提供しています。活気ある雰囲気と豊富な選択肢があり、カジュアルな食事や夕方のスナックに最適です。",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "チョコラテリア・サン・ヒネス",
+          "type": "cafe",
+          "description": "1894年に創業したチョコラテリア・サン・ヒネスは、チュロス・コン・チョコレートで有名です。この象徴的なカフェは24時間営業しており、地元民や観光客に愛されています。懐かしさと活気を併せ持つ雰囲気で、マドリードを探索する際には必ず訪れるべき場所です。",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "DSTAgEは、革新的な料理と芸術的なプレゼンテーションで前衛的な食事体験を提供します。有名シェフ、ディエゴ・ゲレロが率いるこのミシュラン星付きレストランは、大胆な味と食感を探求するテイスティングメニューを特徴としています。モダンでシックな雰囲気が、忘れられない食事体験をさらに引き立てます。",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "ラ・ヴェネンシア",
+          "type": "bar",
+          "description": "ラ・ヴェネンシアは、時を遡る伝統的なシェリー酒バーです。飾り気のないインテリアと本格的な雰囲気で、地元の人々に愛されています。バーでは、樽から直接提供される様々なシェリーを、シンプルながら美味しいタパスと共に楽しめます。",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "ラ・パス市場",
+          "type": "street_food",
+          "description": "高級なサラマンカ地区に位置するラ・パス市場は、幅広い新鮮な農産物、肉、グルメ商品を提供する賑やかな市場です。地元の特産品を試したり、手軽な食事を楽しむのに最適なスポットです。",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "ラテラル",
+          "type": "restaurant",
+          "description": "ラテラルは、創造的なタパスと活気ある雰囲気で知られています。マドリードに複数のロケーションがあり、友人とのカジュアルな食事体験に最適です。メニューは、伝統的なスペイン料理に現代的なひねりを加えたもので、価格も手頃です。",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "カサ・ルシオ",
+          "type": "restaurant",
+          "description": "ラ・ラティーナ地区に位置するカサ・ルシオは、マドリードの愛される名所です。フエボス・ロトスで有名なこの伝統的なスペインレストランは、暖かく歓迎的な雰囲気を提供します。クラシックなスペイン料理を楽しみたい方には絶好のスポットです。",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "마드리드 최고의 음식 2026 — 최고 레스토랑 & 스트리트 푸드 가이드",
+      "seo_description": "마드리드의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 저렴한 음식부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "마드리드는 요리 전통과 현대적 혁신이 만나는 활기찬 도시입니다. 타파스 문화의 풍부한 역사를 가지고 있으며, 전통 스페인 요리부터 국제 요리까지 다양한 맛을 제공합니다. 방문객들은 클래식한 파에야를 제공하는 아늑한 선술집부터 갓 만든 추로스를 제공하는 번화한 거리 시장까지 모든 것을 즐길 수 있습니다. 마드리드의 음식 장면은 그 역동적인 정신을 진정으로 반영하며, 미식가들이 다양한 미식의 즐거움을 탐험하도록 초대합니다.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "소브리노 데 보틴",
+          "type": "restaurant",
+          "description": "세계에서 가장 오래된 레스토랑으로 알려진 소브리노 데 보틴은 마드리드에 있는 누구에게나 꼭 방문해야 할 곳입니다. 로스트 새끼 돼지로 유명하며, 전통 스페인 장식이 있는 역사적인 분위기를 제공합니다. 가격대는 중간에서 높은 편이지만, 역사적인 장소에서의 식사 경험은 그 무엇과도 바꿀 수 없습니다.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "산 미겔 시장",
+          "type": "street_food",
+          "description": "마드리드 중심에 위치한 산 미겔 시장은 미식가의 천국입니다. 이 역사적인 시장은 타파스, 해산물, 고급 치즈 등 다양한 스페인 요리를 제공합니다. 활기찬 분위기와 다양한 선택지로 캐주얼한 식사나 저녁 간식에 완벽한 장소입니다.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "초콜라테리아 산 히네스",
+          "type": "cafe",
+          "description": "1894년에 설립된 초콜라테리아 산 히네스는 초콜릿 추로스로 유명합니다. 이 상징적인 카페는 24시간 운영되며, 현지인과 관광객 모두에게 인기 있는 장소입니다. 그 분위기는 향수를 불러일으키며 활기차며, 마드리드를 탐험할 때 꼭 방문해야 할 곳입니다.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "DSTAgE는 혁신적인 요리와 예술적인 프레젠테이션으로 전위적인 식사 경험을 제공합니다. 유명 셰프 디에고 게레로가 이끄는 이 미슐랭 스타 레스토랑은 대담한 맛과 질감을 탐구하는 테이스팅 메뉴를 특징으로 합니다. 현대적이고 세련된 분위기는 잊을 수 없는 식사 경험을 더해줍니다.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "라 베넨시아",
+          "type": "bar",
+          "description": "라 베넨시아는 전통적인 쉐리 바입니다. 간결한 장식과 진정한 분위기로 현지인들에게 인기가 많습니다. 바에서는 간단하지만 맛있는 타파스와 함께 바로에서 직접 제공되는 다양한 쉐리를 제공합니다.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "라 파즈 시장",
+          "type": "street_food",
+          "description": "고급 살라망카 지역에 위치한 라 파즈 시장은 다양한 신선한 농산물, 육류 및 고급 제품을 제공하는 활기찬 시장입니다. 현지 특산품을 맛보거나 간단한 식사를 즐기기에 좋은 장소입니다.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "라테랄",
+          "type": "restaurant",
+          "description": "라테랄은 창의적인 타파스와 활기찬 분위기로 유명합니다. 마드리드에 여러 지점이 있으며, 친구들과 캐주얼하게 식사하기에 좋습니다. 메뉴는 전통 스페인 요리에 현대적인 변화를 가미했으며, 가격도 합리적입니다.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "카사 루시오",
+          "type": "restaurant",
+          "description": "라 라티나 지역에 위치한 카사 루시오는 마드리드의 사랑받는 명소입니다. 후에보스 로토스로 유명한 이 전통 스페인 레스토랑은 따뜻하고 환영하는 분위기를 제공합니다. 클래식한 스페인 요리를 즐기고 싶은 분들에게 이상적인 장소입니다.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Madrid 2026 — Guide des Meilleurs Restaurants et Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales de Madrid. Des repas économiques aux dîners gastronomiques — avec liens de réservation.",
+      "page_intro": "Madrid est une ville vibrante où la tradition culinaire rencontre l'innovation moderne. Avec une riche histoire de culture des tapas, la ville offre une gamme diversifiée de saveurs, des plats espagnols traditionnels aux cuisines internationales. Les visiteurs peuvent se délecter de tout, des tavernes confortables servant de la paella classique aux marchés animés proposant des churros fraîchement préparés. Le paysage culinaire de Madrid est un véritable reflet de son esprit dynamique, invitant les amateurs de gastronomie à explorer ses nombreuses délices gastronomiques.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "Sobrino de Botín",
+          "type": "restaurant",
+          "description": "Connu comme le plus ancien restaurant du monde, le Sobrino de Botín est une visite incontournable pour quiconque à Madrid. Célèbre pour son cochon de lait rôti, le restaurant offre une atmosphère historique avec une décoration espagnole traditionnelle. La gamme de prix est modérée à élevée, mais l'expérience de dîner dans un cadre aussi historique est inestimable.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "Mercado de San Miguel",
+          "type": "street_food",
+          "description": "Situé au cœur de Madrid, le Mercado de San Miguel est un paradis pour les amateurs de gastronomie. Ce marché historique offre une variété de délices espagnols tels que des tapas, des fruits de mer et des fromages gastronomiques. Avec une atmosphère animée et un large éventail d'options, c'est parfait pour un repas décontracté ou une collation en soirée.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "Chocolatería San Ginés",
+          "type": "cafe",
+          "description": "Établie en 1894, la Chocolatería San Ginés est célèbre pour ses churros con chocolate. Ouvert 24 heures sur 24, ce café emblématique est un endroit prisé des locaux et des touristes. L'atmosphère est à la fois nostalgique et dynamique, ce qui en fait une visite incontournable lors de l'exploration de Madrid.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "DSTAgE propose une expérience gastronomique avant-gardiste avec ses plats innovants et sa présentation artistique. Dirigé par le célèbre chef Diego Guerrero, ce restaurant étoilé Michelin propose un menu dégustation qui explore des saveurs et textures audacieuses. L'atmosphère moderne et chic ajoute à l'expérience culinaire inoubliable.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "La Venencia",
+          "type": "bar",
+          "description": "La Venencia est un bar à sherry traditionnel qui vous transporte dans le temps. Avec sa décoration sans fioritures et son ambiance authentique, c'est un favori parmi les locaux. Le bar sert une variété de sherries directement du tonneau, accompagnés de tapas simples mais délicieuses.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "Mercado de la Paz",
+          "type": "street_food",
+          "description": "Niché dans le quartier huppé de Salamanca, le Mercado de la Paz est un marché animé offrant une large gamme de produits frais, viandes et produits gastronomiques. C'est un endroit idéal pour goûter aux spécialités locales ou profiter d'un repas rapide et décontracté.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "Lateral",
+          "type": "restaurant",
+          "description": "Lateral est connu pour ses tapas créatives et son atmosphère animée. Avec plusieurs emplacements à travers Madrid, c'est parfait pour une expérience de restauration décontractée entre amis. Le menu offre une touche moderne aux plats espagnols traditionnels, le tout à des prix raisonnables.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "Casa Lucio",
+          "type": "restaurant",
+          "description": "Situé dans le quartier de La Latina, Casa Lucio est une institution bien-aimée à Madrid. Célèbre pour ses Huevos Rotos, ce restaurant espagnol traditionnel offre une atmosphère chaleureuse et accueillante. C'est un endroit idéal pour ceux qui souhaitent savourer la cuisine espagnole classique.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Madrid 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Madrid. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Madrid es una ciudad vibrante donde la tradición culinaria se encuentra con la innovación moderna. Con una rica historia de cultura de tapas, la ciudad ofrece una gama diversa de sabores, desde platos españoles tradicionales hasta cocinas internacionales. Los visitantes pueden disfrutar de todo, desde tabernas acogedoras que sirven paella clásica hasta bulliciosos mercados callejeros que ofrecen churros recién hechos. La escena gastronómica de Madrid es un verdadero reflejo de su espíritu dinámico, invitando a los amantes de la comida a explorar sus muchos deleites gastronómicos.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "Sobrino de Botín",
+          "type": "restaurant",
+          "description": "Conocido como el restaurante más antiguo del mundo, Sobrino de Botín es una visita obligada para cualquiera en Madrid. Famoso por su cochinillo asado, el restaurante ofrece una atmósfera histórica con decoración tradicional española. La gama de precios es moderada a alta, pero la experiencia de cenar en un entorno tan histórico no tiene precio.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "Mercado de San Miguel",
+          "type": "street_food",
+          "description": "Ubicado en el corazón de Madrid, el Mercado de San Miguel es un paraíso para los amantes de la comida. Este mercado histórico ofrece una variedad de delicias españolas como tapas, mariscos y quesos gourmet. Con un ambiente animado y una amplia gama de opciones, es perfecto para una comida informal o un refrigerio nocturno.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "Chocolatería San Ginés",
+          "type": "cafe",
+          "description": "Establecida en 1894, Chocolatería San Ginés es famosa por sus churros con chocolate. Abierta las 24 horas, esta icónica cafetería es un lugar favorito tanto para locales como para turistas. La atmósfera es tanto nostálgica como vibrante, lo que la convierte en una visita obligada al explorar Madrid.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "DSTAgE ofrece una experiencia culinaria vanguardista con sus platos innovadores y presentación artística. Dirigido por el renombrado chef Diego Guerrero, este restaurante con estrella Michelin presenta un menú degustación que explora sabores y texturas audaces. La atmósfera moderna y chic añade a la experiencia culinaria inolvidable.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "La Venencia",
+          "type": "bar",
+          "description": "La Venencia es un bar de jerez tradicional que te transporta en el tiempo. Con su decoración sin adornos y ambiente auténtico, es un favorito entre los locales. El bar sirve una variedad de jereces directamente del barril, acompañados de tapas sencillas pero deliciosas.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "Mercado de la Paz",
+          "type": "street_food",
+          "description": "Ubicado en el exclusivo distrito de Salamanca, el Mercado de la Paz es un mercado bullicioso que ofrece una amplia gama de productos frescos, carnes y productos gourmet. Es un gran lugar para probar especialidades locales o disfrutar de una comida rápida y casual.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "Lateral",
+          "type": "restaurant",
+          "description": "Lateral es conocido por sus tapas creativas y su ambiente animado. Con varias ubicaciones en Madrid, es perfecto para una experiencia de comedor informal con amigos. El menú ofrece un giro moderno a los platos españoles tradicionales, todo a precios razonables.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "Casa Lucio",
+          "type": "restaurant",
+          "description": "Ubicado en el barrio de La Latina, Casa Lucio es una institución querida en Madrid. Famoso por sus Huevos Rotos, este restaurante español tradicional ofrece un ambiente cálido y acogedor. Es un gran lugar para aquellos que buscan disfrutar de la cocina española clásica.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Madrid 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Madrid. Dari makanan hemat hingga santapan mewah — dengan tautan pemesanan.",
+      "page_intro": "Madrid adalah kota yang hidup di mana tradisi kuliner bertemu dengan inovasi modern. Dengan sejarah budaya tapas yang kaya, kota ini menawarkan beragam cita rasa, dari masakan Spanyol tradisional hingga masakan internasional. Pengunjung dapat menikmati segala hal mulai dari kedai yang nyaman menyajikan paella klasik hingga pasar jalanan yang ramai menawarkan churros yang baru dibuat. Dunia kuliner Madrid adalah cerminan sejati dari semangat dinamisnya, mengundang pecinta makanan untuk menjelajahi banyak kenikmatan gastronomisnya.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "Sobrino de Botín",
+          "type": "restaurant",
+          "description": "Dikenal sebagai restoran tertua di dunia, Sobrino de Botín adalah tempat yang harus dikunjungi oleh siapa pun di Madrid. Terkenal dengan babi gulingnya, restoran ini menawarkan suasana bersejarah dengan dekorasi Spanyol tradisional. Rentang harga adalah sedang hingga tinggi, tetapi pengalaman bersantap di tempat bersejarah seperti itu tidak ternilai harganya.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "Mercado de San Miguel",
+          "type": "street_food",
+          "description": "Terletak di jantung Madrid, Mercado de San Miguel adalah surga bagi pecinta makanan. Pasar bersejarah ini menawarkan berbagai makanan lezat Spanyol seperti tapas, makanan laut, dan keju gourmet. Dengan suasana yang meriah dan beragam pilihan, ini sempurna untuk makanan santai atau camilan malam.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "Chocolatería San Ginés",
+          "type": "cafe",
+          "description": "Didirikan pada tahun 1894, Chocolatería San Ginés terkenal dengan churros con chocolate-nya. Buka 24 jam, kafe ikonik ini adalah tempat favorit bagi penduduk lokal dan turis. Suasananya yang nostalgik dan hidup menjadikannya tempat yang wajib dikunjungi saat menjelajahi Madrid.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "DSTAgE menawarkan pengalaman bersantap avant-garde dengan hidangan inovatif dan presentasi artistiknya. Dipimpin oleh koki terkenal Diego Guerrero, restoran bintang Michelin ini menyajikan menu pencicipan yang mengeksplorasi cita rasa dan tekstur yang berani. Suasana modern dan chic menambah pengalaman bersantap yang tak terlupakan.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "La Venencia",
+          "type": "bar",
+          "description": "La Venencia adalah bar sherry tradisional yang membawa Anda kembali ke masa lalu. Dengan dekorasi sederhana dan suasana yang autentik, ini adalah favorit di kalangan penduduk lokal. Bar ini menyajikan berbagai sherry langsung dari tong, ditemani dengan tapas yang sederhana namun lezat.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "Mercado de la Paz",
+          "type": "street_food",
+          "description": "Berlokasi di distrik Salamanca yang elit, Mercado de la Paz adalah pasar yang ramai menawarkan berbagai produk segar, daging, dan produk gourmet. Ini adalah tempat yang bagus untuk mencicipi spesialisasi lokal atau menikmati makanan cepat saji yang santai.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "Lateral",
+          "type": "restaurant",
+          "description": "Lateral dikenal dengan tapas kreatif dan suasana yang meriah. Dengan beberapa lokasi di seluruh Madrid, ini sempurna untuk pengalaman bersantap santai bersama teman. Menu ini menawarkan sentuhan modern pada hidangan Spanyol tradisional, semuanya dengan harga yang wajar.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "Casa Lucio",
+          "type": "restaurant",
+          "description": "Terletak di lingkungan La Latina, Casa Lucio adalah institusi Madrid yang dicintai. Terkenal dengan Huevos Rotos-nya, restoran Spanyol tradisional ini menawarkan suasana yang hangat dan ramah. Ini adalah tempat yang bagus bagi mereka yang ingin menikmati masakan Spanyol klasik.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "मैड्रिड में सबसे अच्छा भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "मैड्रिड में सबसे अच्छे रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "मैड्रिड एक जीवंत शहर है जहां पाक परंपरा आधुनिक नवाचार से मिलती है। तपस संस्कृति के समृद्ध इतिहास के साथ, शहर पारंपरिक स्पेनिश व्यंजनों से लेकर अंतरराष्ट्रीय व्यंजनों तक का विविध स्वाद प्रदान करता है। आगंतुक क्लासिक पेला परोसने वाले आरामदायक सराय से लेकर ताज़ा बनाए गए चुरोस की पेशकश करने वाले व्यस्त सड़क बाजारों तक सब कुछ का आनंद ले सकते हैं। मैड्रिड का खाद्य दृश्य इसकी गतिशील भावना का सच्चा प्रतिबिंब है, जो भोजन प्रेमियों को इसके कई पाक स्वादों का अन्वेषण करने के लिए आमंत्रित करता है।",
+      "items": [
+        {
+          "id": "botin",
+          "name": "सोब्रिनो डे बोटिन",
+          "type": "restaurant",
+          "description": "दुनिया के सबसे पुराने रेस्तरां के रूप में जाना जाता है, सोब्रिनो डे बोटिन मैड्रिड में किसी के लिए भी अवश्य जाना चाहिए। अपने रोस्ट सकलिंग पिग के लिए प्रसिद्ध, रेस्तरां पारंपरिक स्पेनिश सजावट के साथ एक ऐतिहासिक वातावरण प्रदान करता है। मूल्य सीमा मध्यम से उच्च है, लेकिन इतने ऐतिहासिक वातावरण में भोजन करने का अनुभव अनमोल है।",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "मार्केडो डे सैन मिगुएल",
+          "type": "street_food",
+          "description": "मैड्रिड के दिल में स्थित, मार्केडो डे सैन मिगुएल भोजन प्रेमियों का स्वर्ग है। यह ऐतिहासिक बाजार तपस, समुद्री भोजन और गॉरमेट चीज़ जैसे स्पेनिश व्यंजनों की विविधता प्रदान करता है। जीवंत वातावरण और विकल्पों की विस्तृत श्रृंखला के साथ, यह एक आकस्मिक भोजन या शाम के स्नैक के लिए एकदम सही है।",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "चोकलेटेरिया सैन गिनेस",
+          "type": "cafe",
+          "description": "1894 में स्थापित, चोकलेटेरिया सैन गिनेस अपने चुरोस कॉन चॉकलेट के लिए प्रसिद्ध है। 24 घंटे खुला रहने वाला यह प्रतिष्ठित कैफ़े स्थानीय लोगों और पर्यटकों दोनों के लिए पसंदीदा स्थान है। वातावरण दोनों पुरानी यादों से भरा और जीवंत है, जो मैड्रिड का अन्वेषण करते समय अवश्य जाना चाहिए।",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "डीएसटीएजीई",
+          "type": "restaurant",
+          "description": "डीएसटीएजीई अपने अभिनव व्यंजनों और कलात्मक प्रस्तुति के साथ एक अग्रणी भोजन अनुभव प्रदान करता है। प्रसिद्ध शेफ डिएगो ग्युरेरो द्वारा संचालित, यह मिशेलिन-स्टार रेस्तरां एक चखने का मेनू पेश करता है जो बोल्ड स्वाद और बनावट का अन्वेषण करता है। आधुनिक और ठाठ वातावरण अविस्मरणीय भोजन अनुभव को बढ़ाता है।",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "ला वेनेन्सिया",
+          "type": "bar",
+          "description": "ला वेनेन्सिया एक पारंपरिक शेरी बार है जो आपको समय में वापस ले जाता है। इसके बिना तामझाम सजावट और प्रामाणिक वाइब के साथ, यह स्थानीय लोगों के बीच पसंदीदा है। बार सीधे बैरल से विभिन्न प्रकार के शेरी परोसता है, जो सरल लेकिन स्वादिष्ट तपस के साथ होता है।",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "मार्केडो डे ला पाज़",
+          "type": "street_food",
+          "description": "उपस्कला सालामांका जिले में स्थित, मार्केडो डे ला पाज़ एक हलचल भरा बाजार है जो ताजे उत्पाद, मांस और गॉरमेट उत्पादों की विस्तृत श्रृंखला प्रदान करता है। यह स्थानीय विशेषताओं का नमूना लेने या एक त्वरित, आकस्मिक भोजन का आनंद लेने के लिए एक शानदार जगह है।",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "लैटरल",
+          "type": "restaurant",
+          "description": "लैटरल अपने रचनात्मक तपस और जीवंत वातावरण के लिए जाना जाता है। मैड्रिड भर में कई स्थानों के साथ, यह दोस्तों के साथ आकस्मिक भोजन अनुभव के लिए एकदम सही है। मेनू पारंपरिक स्पेनिश व्यंजनों पर आधुनिक मोड़ प्रदान करता है, सभी उचित कीमतों पर।",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "कासा लुसियो",
+          "type": "restaurant",
+          "description": "ला लातिना पड़ोस में स्थित, कासा लुसियो एक प्रिय मैड्रिड संस्था है। अपने ह्युवोस रोटोस के लिए प्रसिद्ध, यह पारंपरिक स्पेनिश रेस्तरां एक गर्म और स्वागत योग्य वातावरण प्रदान करता है। यह क्लासिक स्पेनिश व्यंजनों का आनंद लेने के इच्छुक लोगों के लिए एक शानदार स्थान है।",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas em Madrid 2026 — Guia de Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais em Madrid. Desde comidas econômicas até alta gastronomia — com links de reserva.",
+      "page_intro": "Madrid é uma cidade vibrante onde a tradição culinária encontra a inovação moderna. Com uma rica história de cultura de tapas, a cidade oferece uma variedade diversificada de sabores, desde pratos espanhóis tradicionais até cozinhas internacionais. Os visitantes podem se deliciar com tudo, desde tabernas acolhedoras servindo paella clássica até mercados de rua movimentados oferecendo churros recém-feitos. A cena gastronômica de Madrid é um verdadeiro reflexo de seu espírito dinâmico, convidando os amantes da gastronomia a explorarem suas muitas delícias gastronômicas.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "Sobrino de Botín",
+          "type": "restaurant",
+          "description": "Conhecido como o restaurante mais antigo do mundo, o Sobrino de Botín é uma visita obrigatória para quem está em Madrid. Famoso por seu leitão assado, o restaurante oferece uma atmosfera histórica com decoração tradicional espanhola. A faixa de preço é de moderada a alta, mas a experiência de jantar em um cenário tão histórico é inestimável.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "Mercado de San Miguel",
+          "type": "street_food",
+          "description": "Localizado no coração de Madrid, o Mercado de San Miguel é um paraíso para os amantes da gastronomia. Este mercado histórico oferece uma variedade de iguarias espanholas, como tapas, frutos do mar e queijos gourmet. Com uma atmosfera animada e uma ampla variedade de opções, é perfeito para uma refeição casual ou um lanche noturno.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "Chocolatería San Ginés",
+          "type": "cafe",
+          "description": "Estabelecida em 1894, a Chocolatería San Ginés é famosa por seus churros com chocolate. Aberto 24 horas, este café icônico é um local favorito tanto para os moradores quanto para os turistas. A atmosfera é nostálgica e vibrante, tornando-o uma visita obrigatória ao explorar Madrid.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "DSTAgE",
+          "type": "restaurant",
+          "description": "O DSTAgE oferece uma experiência gastronômica vanguardista com seus pratos inovadores e apresentação artística. Liderado pelo renomado chef Diego Guerrero, este restaurante com estrela Michelin apresenta um menu degustação que explora sabores e texturas ousados. O ambiente moderno e chique contribui para a experiência gastronômica inesquecível.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "La Venencia",
+          "type": "bar",
+          "description": "La Venencia é um bar de xerez tradicional que te transporta no tempo. Com sua decoração sem frescuras e vibe autêntica, é um favorito entre os locais. O bar serve uma variedade de xerez diretamente do barril, acompanhado de tapas simples, mas deliciosas.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "Mercado de la Paz",
+          "type": "street_food",
+          "description": "Localizado no sofisticado distrito de Salamanca, o Mercado de la Paz é um mercado movimentado que oferece uma ampla gama de produtos frescos, carnes e produtos gourmet. É um ótimo lugar para provar especialidades locais ou desfrutar de uma refeição rápida e casual.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "Lateral",
+          "type": "restaurant",
+          "description": "O Lateral é conhecido por suas tapas criativas e atmosfera animada. Com vários locais em Madrid, é perfeito para uma experiência gastronômica casual com amigos. O menu oferece um toque moderno nos pratos tradicionais espanhóis, todos a preços razoáveis.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "Casa Lucio",
+          "type": "restaurant",
+          "description": "Localizada no bairro de La Latina, a Casa Lucio é uma instituição querida em Madrid. Famoso por seus Huevos Rotos, este restaurante espanhol tradicional oferece um ambiente acolhedor e convidativo. É um ótimo lugar para quem deseja desfrutar da culinária espanhola clássica.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الأطعمة في مدريد 2026 — دليل المطاعم والطعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وأطعمة الشارع والتخصصات المحلية في مدريد. من الأطعمة الاقتصادية إلى المأكولات الفاخرة — مع روابط الحجز.",
+      "page_intro": "مدريد مدينة نابضة بالحياة حيث تلتقي التقاليد الطهوية بالابتكار الحديث. مع تاريخ غني بثقافة التاباس، تقدم المدينة مجموعة متنوعة من النكهات، من الأطباق الإسبانية التقليدية إلى المأكولات الدولية. يمكن للزوار التمتع بكل شيء من الحانات المريحة التي تقدم البايلا الكلاسيكية إلى الأسواق الشارع المزدحمة التي تقدم الشوروس الطازج. تعكس مشهد الطعام في مدريد روحها الديناميكية الحقيقية، وتدعو عشاق الطعام لاستكشاف العديد من الأطعمة الشهية.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "سوبرينو دي بوتين",
+          "type": "restaurant",
+          "description": "معروف بأنه أقدم مطعم في العالم، سوبرينو دي بوتين هو مكان لا بد من زيارته لأي شخص في مدريد. يشتهر بخنزيره المشوي، ويقدم المطعم أجواء تاريخية مع ديكور إسباني تقليدي. تتراوح الأسعار من متوسطة إلى مرتفعة، لكن تجربة تناول الطعام في هذا المكان التاريخي لا تقدر بثمن.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "سوق سان ميغيل",
+          "type": "street_food",
+          "description": "يقع في قلب مدريد، سوق سان ميغيل هو جنة لعشاق الطعام. يقدم هذا السوق التاريخي مجموعة متنوعة من الأطباق الإسبانية اللذيذة مثل التاباس والمأكولات البحرية والأجبان الفاخرة. مع جوه الحيوي وتنوع الخيارات، إنه مثالي لتناول وجبة غير رسمية أو وجبة خفيفة مسائية.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "تشوكوليتيريا سان جينيس",
+          "type": "cafe",
+          "description": "تأسست في عام 1894، تشوكوليتيريا سان جينيس مشهورة بشوروسها مع الشوكولاته. مفتوحة على مدار 24 ساعة، هذا المقهى الأيقوني هو مكان مفضل للسكان المحليين والسياح على حد سواء. الجو حنين ومفعم بالحيوية، مما يجعله مكانًا لا بد من زيارته عند استكشاف مدريد.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "ديستيج",
+          "type": "restaurant",
+          "description": "يقدم ديستيج تجربة طعام طليعية مع أطباقه المبتكرة وعرضه الفني. برئاسة الشيف الشهير دييغو غيريرو، يقدم هذا المطعم الحاصل على نجمة ميشلان قائمة تذوق تستكشف النكهات والملمس الجريء. يضيف الجو الحديث والأنيق إلى تجربة تناول الطعام التي لا تنسى.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "لا فينينسيا",
+          "type": "bar",
+          "description": "لا فينينسيا هو بار شيري تقليدي ينقلك إلى الماضي. مع ديكوره البسيط والأجواء الأصيلة، فهو مفضل بين السكان المحليين. يقدم البار مجموعة متنوعة من الشيري مباشرة من البرميل، مصحوبة بتاباس بسيطة ولكنها لذيذة.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "سوق لا باز",
+          "type": "street_food",
+          "description": "يقع في حي سلمنقة الراقي، سوق لا باز هو سوق مزدحم يقدم مجموعة واسعة من المنتجات الطازجة واللحوم والمنتجات الفاخرة. إنه مكان رائع لتذوق التخصصات المحلية أو الاستمتاع بوجبة سريعة وغير رسمية.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "لاتيرال",
+          "type": "restaurant",
+          "description": "لاتيرال معروف بتاباس الإبداعية والأجواء الحيوية. مع العديد من المواقع في جميع أنحاء مدريد، إنه مثالي لتجربة تناول طعام غير رسمية مع الأصدقاء. يقدم القائمة لمسة حديثة على الأطباق الإسبانية التقليدية، جميعها بأسعار معقولة.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "كازا لوسيو",
+          "type": "restaurant",
+          "description": "يقع في حي لا لاتينا، كازا لوسيو هو مؤسسة محبوبة في مدريد. يشتهر بـ هيوفوس روتوس، يقدم هذا المطعم الإسباني التقليدي أجواء دافئة ومرحبة. إنه مكان رائع لأولئك الذين يرغبون في الاستمتاع بالمطبخ الإسباني الكلاسيكي.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "মাদ্রিদে সেরা খাবার ২০২৬ — শীর্ষ রেস্টুরেন্ট ও স্ট্রিট ফুড গাইড",
+      "seo_description": "মাদ্রিদের সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেট খাবার থেকে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "page_intro": "মাদ্রিদ একটি জীবন্ত শহর যেখানে রন্ধনপ্রথা আধুনিক উদ্ভাবনের সাথে মিলিত হয়। টাপাস সংস্কৃতির সমৃদ্ধ ইতিহাসের সাথে, শহরটি বৈচিত্র্যময় স্বাদের পরিসর প্রদান করে, ঐতিহ্যবাহী স্প্যানিশ খাবার থেকে আন্তর্জাতিক রান্নাবান্না পর্যন্ত। দর্শকরা আরামদায়ক ট্যাভার্ন থেকে শুরু করে ক্লাসিক পায়েলা পরিবেশন করা থেকে শুরু করে তাজা তৈরি চুরোস অফার করা ব্যস্ত রাস্তার বাজার পর্যন্ত সবকিছুর স্বাদ নিতে পারেন। মাদ্রিদের খাদ্য দৃশ্য এর গতিশীল আত্মার একটি সত্য প্রতিফলন, খাদ্য প্রেমীদের এর অনেক গ্যাস্ট্রোনমিক আনন্দ অন্বেষণ করতে আমন্ত্রণ জানায়।",
+      "items": [
+        {
+          "id": "botin",
+          "name": "সোব্রিনো ডে বোটিন",
+          "type": "restaurant",
+          "description": "বিশ্বের প্রাচীনতম রেস্টুরেন্ট হিসাবে পরিচিত, সোবরিনো ডে বোটিন মাদ্রিদে যে কোনও ব্যক্তির জন্য অবশ্যই পরিদর্শন করা উচিত। এর রোস্টেড সাক্লিং পিগের জন্য বিখ্যাত, রেস্টুরেন্টটি ঐতিহ্যবাহী স্প্যানিশ সজ্জা সহ একটি ঐতিহাসিক পরিবেশ প্রদান করে। মূল্য সীমা মাঝারি থেকে উচ্চ, কিন্তু এমন একটি ঐতিহাসিক পরিবেশে খাওয়ার অভিজ্ঞতা অমূল্য।",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "মার্কেডো ডে সান মিগুয়েল",
+          "type": "street_food",
+          "description": "মাদ্রিদের হৃদয়ে অবস্থিত, মার্কেডো ডে সান মিগুয়েল খাদ্য প্রেমীদের স্বর্গ। এই ঐতিহাসিক বাজারটি টাপাস, সামুদ্রিক খাদ্য এবং গুরমেট চিজের মতো স্প্যানিশ সুস্বাদু খাদ্যের বিভিন্নতা প্রদান করে। প্রাণবন্ত পরিবেশ এবং বিকল্পগুলির বিস্তৃত পরিসরের সাথে, এটি একটি নৈমিত্তিক খাবার বা সন্ধ্যায় স্ন্যাকের জন্য উপযুক্ত।",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "চকলেটারিয়া সান গিনেস",
+          "type": "cafe",
+          "description": "১৮৯৪ সালে প্রতিষ্ঠিত, চকলেটারিয়া সান গিনেস তার চুরোস কন চকলেটের জন্য বিখ্যাত। ২৪ ঘণ্টা খোলা এই আইকনিক ক্যাফে স্থানীয় এবং পর্যটক উভয়ের জন্যই প্রিয় স্থান। পরিবেশটি নস্টালজিক এবং প্রাণবন্ত উভয়ই, যা মাদ্রিদ অন্বেষণ করার সময় অবশ্যই পরিদর্শন করা উচিত।",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "ডিএসটিএজ",
+          "type": "restaurant",
+          "description": "ডিএসটিএজ তার উদ্ভাবনী খাবার এবং শিল্পকলার উপস্থাপনার সাথে একটি প্রগতিশীল ডাইনিং অভিজ্ঞতা প্রদান করে। বিখ্যাত শেফ দিয়েগো গুয়েরেরো দ্বারা পরিচালিত, এই মিশেলিন-স্টার রেস্টুরেন্ট একটি টেস্টিং মেনু অফার করে যা সাহসী স্বাদ এবং টেক্সচার অন্বেষণ করে। আধুনিক এবং চটকদার পরিবেশটি অবিস্মরণীয় ডাইনিং অভিজ্ঞতাকে বাড়িয়ে তোলে।",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "লা ভেনেনসিয়া",
+          "type": "bar",
+          "description": "লা ভেনেনসিয়া একটি ঐতিহ্যবাহী শেরি বার যা আপনাকে সময়ে ফিরে নিয়ে যায়। এর কোনও ঝামেলা ছাড়াই সজ্জা এবং প্রকৃত অনুভূতির সাথে এটি স্থানীয়দের মধ্যে প্রিয়। বারটি সরাসরি ব্যারেল থেকে বিভিন্ন ধরনের শেরি সরবরাহ করে, যা সহজ কিন্তু সুস্বাদু টাপাসের সাথে পরিবেশন করা হয়।",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "মার্কেডো ডে লা পাজ",
+          "type": "street_food",
+          "description": "উচ্চবিত্ত সালামাঙ্কা জেলায় অবস্থিত, মার্কেডো ডে লা পাজ একটি ব্যস্ত বাজার যা তাজা পণ্য, মাংস এবং গুরমেট পণ্যের বিস্তৃত পরিসর প্রদান করে। এটি স্থানীয় বিশেষত্বের নমুনা নেওয়া বা দ্রুত, নৈমিত্তিক খাবার উপভোগ করার জন্য একটি দুর্দান্ত স্থান।",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "ল্যাটেরাল",
+          "type": "restaurant",
+          "description": "ল্যাটেরাল তার সৃজনশীল টাপাস এবং প্রাণবন্ত পরিবেশের জন্য পরিচিত। মাদ্রিদের বিভিন্ন স্থানে অবস্থিত, এটি বন্ধুদের সাথে নৈমিত্তিক ডাইনিং অভিজ্ঞতার জন্য আদর্শ। মেনুটি ঐতিহ্যবাহী স্প্যানিশ খাবারের উপর আধুনিক মোড় প্রদান করে, সব রকমের যুক্তিসঙ্গত মূল্যে।",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "কাসা লুসিও",
+          "type": "restaurant",
+          "description": "লা লাতিনা পাড়ায় অবস্থিত, কাসা লুসিও একটি প্রিয় মাদ্রিদ প্রতিষ্ঠান। এর হুয়েভোস রোটোসের জন্য বিখ্যাত, এই ঐতিহ্যবাহী স্প্যানিশ রেস্টুরেন্ট একটি উষ্ণ এবং স্বাগত পরিবেশ প্রদান করে। এটি ক্লাসিক স্প্যানিশ রান্না উপভোগ করতে ইচ্ছুকদের জন্য একটি দুর্দান্ত স্থান।",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Мадриде 2026 — Лучшие рестораны и уличная еда",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Мадриде. От бюджетных блюд до изысканной кухни — с ссылками на бронирование.",
+      "page_intro": "Мадрид — это яркий город, где кулинарные традиции встречаются с современными инновациями. С богатой историей культуры тапас город предлагает разнообразные вкусы, от традиционных испанских блюд до международных кухонь. Посетители могут насладиться всем: от уютных таверн, подающих классическую паэлью, до оживленных уличных рынков, предлагающих свежеприготовленные чуррос. Кулинарная сцена Мадрида — это истинное отражение его динамичного духа, приглашающее любителей еды исследовать его многочисленные гастрономические удовольствия.",
+      "items": [
+        {
+          "id": "botin",
+          "name": "Собрино де Ботин",
+          "type": "restaurant",
+          "description": "Известный как самый старый ресторан в мире, Собрине де Ботин обязателен к посещению для всех, кто находится в Мадриде. Известный своим жареным молочным поросенком, ресторан предлагает историческую атмосферу с традиционным испанским декором. Ценовой диапазон от среднего до высокого, но опыт обеда в таком историческом месте бесценен.",
+          "image_keyword": "Sobrino de Botín interior",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Cochinillo Asado",
+          "klook_query": "Botín restaurant booking"
+        },
+        {
+          "id": "san-miguel-market",
+          "name": "Рынок Сан-Мигель",
+          "type": "street_food",
+          "description": "Расположенный в самом сердце Мадрида, рынок Сан-Мигель является раем для любителей еды. Этот исторический рынок предлагает разнообразные испанские деликатесы, такие как тапас, морепродукты и гурманские сыры. С оживленной атмосферой и широким выбором вариантов, это идеальное место для непринужденного обеда или вечернего перекуса.",
+          "image_keyword": "Mercado de San Miguel food stalls",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Tapas",
+          "klook_query": "San Miguel Market food tour"
+        },
+        {
+          "id": "chocolateria-san-gines",
+          "name": "Чоколатерия Сан Гинес",
+          "type": "cafe",
+          "description": "Основанная в 1894 году, Чоколатерия Сан Гинес славится своими чуррос с шоколадом. Открытое 24 часа в сутки, это культовое кафе является любимым местом как для местных жителей, так и для туристов. Атмосфера одновременно ностальгическая и живая, что делает его обязательным для посещения при изучении Мадрида.",
+          "image_keyword": "Chocolatería San Ginés churros",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Churros con Chocolate",
+          "klook_query": "San Ginés churros cafe visit"
+        },
+        {
+          "id": "dstage",
+          "name": "ДСТАЖ",
+          "type": "restaurant",
+          "description": "ДСТАЖ предлагает авангардный гастрономический опыт с инновационными блюдами и художественной презентацией. Под руководством знаменитого шеф-повара Диего Герреро, этот ресторан с мишленовской звездой предлагает дегустационное меню, которое исследует смелые вкусы и текстуры. Современная и стильная атмосфера дополняет незабываемый гастрономический опыт.",
+          "image_keyword": "DSTAgE restaurant dish",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Tasting Menu",
+          "klook_query": "DSTAgE restaurant booking"
+        },
+        {
+          "id": "la-venencia",
+          "name": "Ла Вененсия",
+          "type": "bar",
+          "description": "Ла Вененсия — это традиционный шери-бар, который переносит вас в прошлое. С простым декором и аутентичной атмосферой, он является фаворитом среди местных жителей. Бар предлагает различные виды хереса прямо из бочки, сопровождаемые простыми, но вкусными тапас.",
+          "image_keyword": "La Venencia sherry bar",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Sherry and Tapas",
+          "klook_query": "La Venencia bar visit"
+        },
+        {
+          "id": "la-paz-market",
+          "name": "Рынок Ла-Пас",
+          "type": "street_food",
+          "description": "Расположенный в престижном районе Саламанка, рынок Ла-Пас представляет собой оживленный рынок, предлагающий широкий ассортимент свежих продуктов, мяса и деликатесных товаров. Это отличное место для того, чтобы попробовать местные деликатесы или насладиться быстрой, непринужденной едой.",
+          "image_keyword": "Mercado de la Paz stalls",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Spanish Jamón",
+          "klook_query": "La Paz Market food tour"
+        },
+        {
+          "id": "lateral",
+          "name": "Латераль",
+          "type": "restaurant",
+          "description": "Латераль известен своими креативными тапас и оживленной атмосферой. С несколькими локациями по всему Мадриду, это идеальное место для непринужденного обеда с друзьями. Меню предлагает современный взгляд на традиционные испанские блюда, все по разумным ценам.",
+          "image_keyword": "Lateral restaurant tapas",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Modern Tapas",
+          "klook_query": "Lateral restaurant booking"
+        },
+        {
+          "id": "casa-lucio",
+          "name": "Каса Лусио",
+          "type": "restaurant",
+          "description": "Расположенный в районе Ла Латина, Каса Лусио является любимым учреждением в Мадриде. Известный своими Huevos Rotos, этот традиционный испанский ресторан предлагает теплую и гостеприимную атмосферу. Это отличное место для тех, кто хочет насладиться классической испанской кухней.",
+          "image_keyword": "Casa Lucio huevos rotos",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Huevos Rotos",
+          "klook_query": "Casa Lucio restaurant booking"
+        }
+      ]
+    }
+  }
+}

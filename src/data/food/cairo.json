@@ -1,0 +1,1145 @@
+{
+  "city_slug": "cairo",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Cairo 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Cairo. From budget eats to fine dining — with booking links.",
+      "page_intro": "Cairo's food culture is a vibrant tapestry of flavors and traditions. From bustling street food stalls to elegant dining establishments, the city offers a culinary experience that reflects its rich history and diverse influences. Don't miss the chance to indulge in iconic dishes and local specialties that make Cairo a gastronomic paradise.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "El Tahrir",
+          "type": "restaurant",
+          "description": "El Tahrir is a revered establishment known for its authentic Egyptian cuisine. The warm atmosphere and friendly staff make it a perfect spot to enjoy classic dishes like koshari and grilled meats. Prices are reasonable, catering to both locals and tourists. Be sure to try their signature dish, the koshari, which combines lentils, rice, and pasta topped with a zesty tomato sauce.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "Felfela",
+          "type": "restaurant",
+          "description": "Felfela is a popular dining spot that offers a delightful mix of traditional Egyptian dishes and modern flavors. The restaurant features an inviting decor with a laid-back vibe. Visitors rave about their falafel and shawarma, which are both must-tries. With a mid-range price point, it's a great place for a casual meal.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "Maadi Street Food Market",
+          "type": "street_food",
+          "description": "The Maadi Street Food Market is a bustling hub where locals gather to enjoy a variety of street food delights. From fresh ta'ameya (Egyptian falafel) to grilled corn, the market offers an array of flavors at budget-friendly prices. The vibrant atmosphere and street-side seating make it a perfect spot for a casual food adventure.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "Ahmed Helmy",
+          "type": "night_market",
+          "description": "Ahmed Helmy Night Market is famous for its lively ambiance and delicious food stalls. Visitors can sample a variety of traditional dishes, including grilled meats and savory pastries. The market is particularly bustling in the evenings, making it a great place to experience local life. Prices are affordable, and the experience is unforgettable.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "Abou El Sid",
+          "type": "restaurant",
+          "description": "Abou El Sid offers a charming blend of authentic Egyptian dishes in a beautifully designed setting reminiscent of Cairo's heritage. The restaurant specializes in traditional fare, and the atmosphere is perfect for family gatherings. With a slightly higher price range, it's a fantastic choice for those wanting to indulge in local flavors. Don't miss their slow-cooked lamb tagine.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "Cairo Food Festival",
+          "type": "street_food",
+          "description": "The Cairo Food Festival is an annual event that showcases the best of Egyptian street food. Visitors can enjoy a wide range of dishes from various vendors, featuring local delicacies and contemporary twists. It's a lively event filled with music and entertainment, making it a must-visit for food lovers. Pricing varies, but there's something for every budget.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "Sheraton Cairo",
+          "type": "cafe",
+          "description": "Sheraton Cairo's cafe offers a delectable range of pastries and coffees, making it an ideal spot for a leisurely afternoon. The elegant atmosphere and beautiful views of the Nile enhance the experience. Enjoy a selection of Egyptian sweets like basbousa and konafa while sipping on traditional coffee. Prices are moderate, catering to both locals and tourists.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "El Hosn",
+          "type": "bar",
+          "description": "El Hosn is a stylish bar that features a vibrant nightlife scene in Cairo. Known for its creative cocktails and relaxed ambiance, it's a great place to unwind after a day of exploring. The bar offers a variety of small plates, perfect for sharing with friends. Prices are on the higher side but well worth the experience.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "開羅最佳美食 2026 — 頂級餐廳與街頭美食指南",
+      "seo_description": "探索開羅最佳的餐廳、街頭美食和當地特色。從經濟實惠的餐飲到高級餐廳 — 包含預訂連結。",
+      "page_intro": "開羅的飲食文化是一幅充滿風味和傳統的生動畫卷。從熱鬧的街頭小吃攤到優雅的餐飲場所，這座城市提供的美食體驗反映了其豐富的歷史和多元的影響。千萬不要錯過品嚐標誌性菜餚和當地特色的機會，讓開羅成為美食的天堂。",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "埃爾·塔赫里爾",
+          "type": "restaurant",
+          "description": "埃爾·塔赫里爾是一家享譽盛名的餐廳，以正宗的埃及美食而聞名。溫馨的氛圍和友好的員工使其成為享用經典菜餚如科沙里和烤肉的理想之地。價格合理，適合當地人和遊客。一定要嘗試他們的招牌菜科沙里，這道菜由扁豆、米飯和意大利麵組成，上面淋有酸辣的番茄醬。",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "費爾費拉",
+          "type": "restaurant",
+          "description": "費爾費拉是一個受歡迎的用餐場所，提供傳統埃及菜餚和現代風味的美妙混合。餐廳的裝潢讓人感到舒適，氛圍輕鬆。遊客們對他們的法拉費和沙威瑪讚不絕口，這兩道菜都是必試之選。中等價格範圍使其成為輕鬆用餐的好地方。",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "馬阿迪街頭美食市場",
+          "type": "street_food",
+          "description": "馬阿迪街頭美食市場是一個熱鬧的中心，當地人聚集在此享受各種街頭美食的樂趣。從新鮮的塔米亞（埃及法拉費）到烤玉米，市場提供各種風味，價格實惠。充滿活力的氛圍和街邊座位使這裡成為輕鬆的美食冒險之地。",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "艾哈邁德·赫爾米",
+          "type": "night_market",
+          "description": "艾哈邁德·赫爾米夜市因其熱鬧的氛圍和美味的食物攤位而聞名。遊客們可以品嘗各種傳統菜餚，包括烤肉和美味的糕點。夜市在晚上特別熱鬧，是體驗當地生活的好地方。價格實惠，體驗難以忘懷。",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "阿布·埃爾·西德",
+          "type": "restaurant",
+          "description": "阿布·埃爾·西德在美麗的設計環境中提供正宗的埃及菜餚，讓人感受到開羅的文化遺產。餐廳專注於傳統美食，氛圍非常適合家庭聚會。價格略高，是想要享受當地風味的理想選擇。千萬不要錯過他們的慢燉羊肉塔吉。",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "開羅美食節",
+          "type": "street_food",
+          "description": "開羅美食節是每年舉辦的活動，展示埃及街頭美食的精華。遊客可以享受到來自各種供應商的廣泛菜餚，包含當地的美味和現代的變化。這是一個充滿音樂和娛樂的熱鬧活動，是美食愛好者必訪之地。價格各異，適合各種預算。",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "開羅喜來登",
+          "type": "cafe",
+          "description": "開羅喜來登的咖啡廳提供各種美味的糕點和咖啡，成為悠閒下午的理想場所。優雅的氛圍和尼羅河的美景提升了整體體驗。享用如巴斯布薩和庫納法等埃及甜點，搭配傳統咖啡。價格適中，適合當地人和遊客。",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "艾爾·霍斯恩",
+          "type": "bar",
+          "description": "艾爾·霍斯恩是一家時尚酒吧，擁有開羅充滿活力的夜生活。以創意雞尾酒和輕鬆的氛圍而聞名，這裡是一天探索後放鬆的好地方。酒吧提供各種小盤菜，非常適合與朋友分享。價格略高，但值得一試。",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "カイロのベストフード 2026 — トップレストラン＆ストリートフードガイド",
+      "seo_description": "カイロで最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "カイロの食文化は、風味と伝統の活気に満ちたタペストリーです。賑やかなストリートフードスタンドからエレガントなダイニング施設まで、この都市はその豊かな歴史と多様な影響を反映した食の体験を提供しています。カイロを美食の楽園にする象徴的な料理や地元の特産品を楽しむ機会をお見逃しなく。",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "エル・タフリール",
+          "type": "restaurant",
+          "description": "エル・タフリールは、正統派のエジプト料理で知られる名店です。温かみのある雰囲気とフレンドリーなスタッフにより、コシャリやグリル肉などのクラシックな料理を楽しむのに最適なスポットです。価格はリーズナブルで、地元の人にも観光客にも親しまれています。レンズ豆、米、パスタを組み合わせ、さっぱりとしたトマトソースをかけた彼らの看板料理のコシャリをぜひお試しください。",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "フェルフェラ",
+          "type": "restaurant",
+          "description": "フェルフェラは、伝統的なエジプト料理と現代の風味を見事に融合させた人気のダイニングスポットです。レストランは、居心地の良い装飾とリラックスした雰囲気を特徴としています。訪問者は、必食のファラフェルやシャワルマについて絶賛しています。中程度の価格帯で、カジュアルな食事にぴったりな場所です。",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "マアディストリートフードマーケット",
+          "type": "street_food",
+          "description": "マアディストリートフードマーケットは、地元の人々が様々なストリートフードの美味しさを楽しむために集まる賑やかなハブです。新鮮なタアミーヤ（エジプトのファラフェル）からグリルコーンまで、マーケットでは手頃な価格で多彩なフレーバーを提供しています。活気に満ちた雰囲気とストリートサイドの座席が、カジュアルな食の冒険に最適なスポットです。",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "アハメド・ヘルミ",
+          "type": "night_market",
+          "description": "アハメド・ヘルミナイトマーケットは、その賑やかな雰囲気と美味しい屋台で有名です。訪問者は、グリル肉や風味豊かなペイストリーを含む伝統的な料理の数々を味わうことができます。マーケットは特に夕方に賑わい、地元の生活を体験するのに最適な場所です。価格は手頃で、忘れられない体験が待っています。",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "アブ・エル・シド",
+          "type": "restaurant",
+          "description": "アブ・エル・シドは、美しいデザインの環境で本格的なエジプト料理の魅力的なブレンドを提供しています。レストランは、伝統的な料理を専門としており、家族の集まりに最適な雰囲気です。やや高めの価格帯ですが、地元の風味を楽しみたい方には素晴らしい選択肢です。ぜひ、彼らのじっくり煮込んだラムタジンをお見逃しなく。",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "カイロフードフェスティバル",
+          "type": "street_food",
+          "description": "カイロフードフェスティバルは、エジプトのストリートフードのベストを紹介する年次イベントです。訪問者は、さまざまなベンダーから地元のデリカシーや現代的なアレンジを含む幅広い料理を楽しむことができます。音楽やエンターテイメントに満ちた活気のあるイベントで、美食愛好家には必見です。価格は様々ですが、すべての予算に合ったものがあります。",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "シェラトン・カイロ",
+          "type": "cafe",
+          "description": "シェラトン・カイロのカフェでは、さまざまなペストリーやコーヒーを楽しめる、美味しいスイーツの数々を提供しており、ゆったりとした午後に最適なスポットです。エレガントな雰囲気とナイル川の美しい景色が体験をより一層引き立てます。バスブーサやクナーファなどのエジプトのスイーツを楽しみながら、伝統的なコーヒーを味わってください。価格は適度で、地元の人や観光客に対応しています。",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "エル・ホスン",
+          "type": "bar",
+          "description": "エル・ホスンは、カイロの活気あるナイトライフシーンを特徴としたスタイリッシュなバーです。創造的なカクテルとリラックスした雰囲気で知られており、一日探検した後にリラックスするのに最適な場所です。バーでは、友達とシェアするのにぴったりなさまざまな小皿料理を提供しています。価格はやや高めですが、その体験には十分な価値があります。",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "카이로의 최고의 음식 2026 — 최고의 레스토랑 및 거리 음식 가이드",
+      "seo_description": "카이로에서 최고의 레스토랑, 거리 음식 및 지역 특산품을 발견하세요. 저렴한 식사부터 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "카이로의 음식 문화는 풍미와 전통의 활기찬 태피스트리입니다. 분주한 거리 음식 노점에서 우아한 다이닝 시설까지, 이 도시는 풍부한 역사와 다양한 영향을 반영한 요리 경험을 제공합니다. 카이로를 미식가의 천국으로 만드는 상징적인 요리와 지역 특산품을 즐길 기회를 놓치지 마세요.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "엘 타흐리르",
+          "type": "restaurant",
+          "description": "엘 타흐리르는 정통 이집트 요리로 유명한 존경받는 식당입니다. 따뜻한 분위기와 친절한 직원들이 코샤리와 구운 고기와 같은 클래식 요리를 즐기기에 완벽한 장소입니다. 가격이 합리적이어서 현지인과 관광객 모두에게 인기가 있습니다. 렌즈콩, 쌀, 파스타를 조합하고 톡 쏘는 토마토 소스를 얹은 그들의 시그니처 요리인 코샤리를 꼭 드셔보세요.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "펠펠라",
+          "type": "restaurant",
+          "description": "펠펠라는 전통 이집트 요리와 현대적인 풍미의 즐거운 조화를 제공하는 인기 있는 식당입니다. 레스토랑은 아늑한 장식과 여유로운 분위기를 특징으로 합니다. 방문객들은 필수 시식 메뉴인 팔라펠과 샤와르마에 대해 극찬합니다. 중간 가격대여서 캐주얼한 식사에 적합한 곳입니다.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "마아디 거리 음식 시장",
+          "type": "street_food",
+          "description": "마아디 거리 음식 시장은 현지인들이 다양한 거리 음식의 즐거움을 만끽하기 위해 모이는 분주한 허브입니다. 신선한 타아미야(이집트 팔라펠)부터 구운 옥수수까지, 시장에서는 저렴한 가격으로 다양한 풍미를 제공합니다. 활기찬 분위기와 길가 좌석이 있어 캐주얼한 음식 모험에 완벽한 장소입니다.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "아흐메드 헬미",
+          "type": "night_market",
+          "description": "아흐메드 헬미 야시장으로 유명한 이곳은 활기찬 분위기와 맛있는 음식 노점으로 유명합니다. 방문객들은 구운 고기와 풍미 가득한 페이스트리를 포함한 전통 요리를 다양하게 시식할 수 있습니다. 시장은 저녁 시간에 특히 분주하여 현지 생활을 경험하기에 좋은 곳입니다. 가격이 저렴하고 잊지 못할 경험이 기다리고 있습니다.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "아부 엘 시드",
+          "type": "restaurant",
+          "description": "아부 엘 시드는 카이로의 유산을 떠올리게 하는 아름답게 디자인된 환경에서 정통 이집트 요리의 매력적인 조합을 제공합니다. 이 레스토랑은 전통 요리를 전문으로 하며, 가족 모임에 적합한 분위기입니다. 가격대는 조금 높은 편이지만, 현지의 풍미를 즐기고 싶은 분들에게 환상적인 선택입니다. 느리게 조리한 양고기 타진을 놓치지 마세요.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "카이로 음식 축제",
+          "type": "street_food",
+          "description": "카이로 음식 축제는 이집트 거리 음식의 진수를 보여주는 연례 행사입니다. 방문객들은 다양한 판매자로부터 지역의 진미와 현대적인 변화를 포함한 다양한 요리를 즐길 수 있습니다. 음악과 오락으로 가득 찬 활기찬 행사로, 미식가라면 꼭 방문해야 할 곳입니다. 가격은 다양하지만 모든 예산에 맞는 것이 있습니다.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "쉐라톤 카이로",
+          "type": "cafe",
+          "description": "쉐라톤 카이로의 카페에서는 다양한 페이스트리와 커피를 제공하여 느긋한 오후에 적합한 장소입니다. 우아한 분위기와 나일 강의 아름다운 전망이 경험을 더욱 즐겁게 만듭니다. 바스부사와 쿠나파와 같은 이집트의 달콤한 간식을 즐기며 전통 커피를 마셔보세요. 가격은 적당하여 현지인과 관광객 모두에게 적합합니다.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "엘 호슨",
+          "type": "bar",
+          "description": "엘 호슨은 카이로의 활기찬 나이트라이프 장면을 특징으로 하는 세련된 바입니다. 창의적인 칵테일과 편안한 분위기로 유명하며, 탐험 후 휴식을 취하기에 좋은 장소입니다. 바에서는 친구들과 나누기 좋은 다양한 소형 접시를 제공합니다. 가격은 다소 높지만 경험할 가치가 충분합니다.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture au Caire 2026 — Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales au Caire. Des repas à petit budget aux repas gastronomiques — avec des liens de réservation.",
+      "page_intro": "La culture alimentaire du Caire est une tapisserie vibrante de saveurs et de traditions. Des stands de street food animés aux établissements de restauration élégants, la ville offre une expérience culinaire qui reflète sa riche histoire et ses influences diverses. Ne manquez pas l'occasion de vous régaler avec des plats emblématiques et des spécialités locales qui font du Caire un paradis gastronomique.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "El Tahrir",
+          "type": "restaurant",
+          "description": "El Tahrir est un établissement vénéré connu pour sa cuisine égyptienne authentique. L'atmosphère chaleureuse et le personnel amical en font un endroit parfait pour déguster des plats classiques tels que le koshari et les viandes grillées. Les prix sont raisonnables, s'adaptant aux locaux comme aux touristes. Assurez-vous d'essayer leur plat signature, le koshari, qui combine lentilles, riz et pâtes, le tout recouvert d'une sauce tomate piquante.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "Felfela",
+          "type": "restaurant",
+          "description": "Felfela est un lieu de restauration populaire qui propose un mélange délicieux de plats égyptiens traditionnels et de saveurs modernes. Le restaurant présente un décor accueillant avec une ambiance décontractée. Les visiteurs louent leurs falafels et shawarmas, qui sont tous deux des incontournables. Avec un prix moyen, c'est un excellent endroit pour un repas décontracté.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "Marché de street food de Maadi",
+          "type": "street_food",
+          "description": "Le marché de street food de Maadi est un centre animé où les locaux se rassemblent pour profiter d'une variété de délices de street food. Des ta'ameya fraîches (falafels égyptiens) au maïs grillé, le marché propose une gamme de saveurs à des prix abordables. L'atmosphère vibrante et les sièges en bord de rue en font un endroit parfait pour une aventure culinaire décontractée.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "Ahmed Helmy",
+          "type": "night_market",
+          "description": "Le marché de nuit d'Ahmed Helmy est célèbre pour son ambiance animée et ses stands de nourriture délicieux. Les visiteurs peuvent déguster une variété de plats traditionnels, y compris des viandes grillées et des pâtisseries savoureuses. Le marché est particulièrement animé le soir, ce qui en fait un excellent endroit pour découvrir la vie locale. Les prix sont abordables, et l'expérience est inoubliable.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "Abou El Sid",
+          "type": "restaurant",
+          "description": "Abou El Sid offre un mélange charmant de plats égyptiens authentiques dans un cadre magnifiquement conçu rappelant le patrimoine du Caire. Le restaurant se spécialise dans la cuisine traditionnelle, et l'atmosphère est parfaite pour des réunions de famille. Avec une fourchette de prix légèrement plus élevée, c'est un choix fantastique pour ceux qui souhaitent se régaler de saveurs locales. Ne manquez pas leur tajine d'agneau mijoté.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "Festival de la nourriture du Caire",
+          "type": "street_food",
+          "description": "Le Festival de la nourriture du Caire est un événement annuel qui met en avant le meilleur de la street food égyptienne. Les visiteurs peuvent savourer une large gamme de plats provenant de divers vendeurs, présentant des spécialités locales et des variations contemporaines. C'est un événement animé rempli de musique et de divertissement, ce qui en fait un incontournable pour les amateurs de gastronomie. Les prix varient, mais il y en a pour tous les budgets.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "Sheraton Cairo",
+          "type": "cafe",
+          "description": "Le café du Sheraton Cairo propose une variété de pâtisseries et de cafés délicieux, ce qui en fait un endroit idéal pour un après-midi tranquille. L'atmosphère élégante et les belles vues sur le Nil améliorent l'expérience. Profitez d'une sélection de douceurs égyptiennes telles que la basbousa et la kunafa tout en sirotant un café traditionnel. Les prix sont modérés, s'adaptant aux locaux comme aux touristes.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "El Hosn",
+          "type": "bar",
+          "description": "El Hosn est un bar élégant qui propose une scène nocturne dynamique au Caire. Connu pour ses cocktails créatifs et son ambiance détendue, c'est un endroit idéal pour se détendre après une journée d'exploration. Le bar propose une variété de petites assiettes, parfaites pour partager avec des amis. Les prix sont un peu plus élevés, mais valent vraiment l'expérience.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en El Cairo 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en El Cairo. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "La cultura gastronómica de El Cairo es un vibrante tapiz de sabores y tradiciones. Desde bulliciosos puestos de comida callejera hasta elegantes establecimientos de comedor, la ciudad ofrece una experiencia culinaria que refleja su rica historia y diversas influencias. No pierdas la oportunidad de deleitarte con platos icónicos y especialidades locales que hacen de El Cairo un paraíso gastronómico.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "El Tahrir",
+          "type": "restaurant",
+          "description": "El Tahrir es un establecimiento venerado conocido por su cocina egipcia auténtica. La cálida atmósfera y el personal amable lo convierten en un lugar perfecto para disfrutar de platos clásicos como koshari y carnes a la parrilla. Los precios son razonables, atendiendo tanto a los locales como a los turistas. Asegúrate de probar su plato insignia, el koshari, que combina lentejas, arroz y pasta cubiertos con una salsa de tomate picante.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "Felfela",
+          "type": "restaurant",
+          "description": "Felfela es un lugar de comida popular que ofrece una deliciosa mezcla de platos egipcios tradicionales y sabores modernos. El restaurante cuenta con una decoración acogedora y un ambiente relajado. Los visitantes elogian su falafel y shawarma, que son imprescindibles. Con un rango de precios medio, es un excelente lugar para una comida casual.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "Mercado de Comida Callejera de Maadi",
+          "type": "street_food",
+          "description": "El Mercado de Comida Callejera de Maadi es un centro bullicioso donde los locales se reúnen para disfrutar de una variedad de delicias de comida callejera. Desde ta'ameya fresca (falafel egipcio) hasta maíz a la parrilla, el mercado ofrece una variedad de sabores a precios asequibles. La vibrante atmósfera y los asientos al aire libre hacen de este un lugar perfecto para una aventura gastronómica casual.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "Ahmed Helmy",
+          "type": "night_market",
+          "description": "El Mercado Nocturno de Ahmed Helmy es famoso por su animado ambiente y deliciosos puestos de comida. Los visitantes pueden degustar una variedad de platos tradicionales, incluyendo carnes a la parrilla y pasteles salados. El mercado está especialmente animado por la noche, lo que lo convierte en un gran lugar para experimentar la vida local. Los precios son asequibles y la experiencia es inolvidable.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "Abou El Sid",
+          "type": "restaurant",
+          "description": "Abou El Sid ofrece una encantadora mezcla de platos egipcios auténticos en un entorno bellamente diseñado que recuerda el patrimonio de El Cairo. El restaurante se especializa en comida tradicional, y la atmósfera es perfecta para reuniones familiares. Con un rango de precios un poco más alto, es una opción fantástica para aquellos que desean disfrutar de sabores locales. No te pierdas su tajín de cordero lento.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "Festival de Comida de El Cairo",
+          "type": "street_food",
+          "description": "El Festival de Comida de El Cairo es un evento anual que muestra lo mejor de la comida callejera egipcia. Los visitantes pueden disfrutar de una amplia gama de platos de varios vendedores, presentando delicias locales y giros contemporáneos. Es un evento animado lleno de música y entretenimiento, lo que lo convierte en una visita obligada para los amantes de la comida. Los precios varían, pero hay algo para todos los presupuestos.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "Sheraton Cairo",
+          "type": "cafe",
+          "description": "El café del Sheraton Cairo ofrece una deliciosa variedad de pasteles y cafés, lo que lo convierte en un lugar ideal para una tarde relajada. La atmósfera elegante y las hermosas vistas del Nilo mejoran la experiencia. Disfruta de una selección de dulces egipcios como basbousa y konafa mientras saboreas café tradicional. Los precios son moderados, atendiendo tanto a los locales como a los turistas.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "El Hosn",
+          "type": "bar",
+          "description": "El Hosn es un elegante bar que presenta una vibrante escena nocturna en El Cairo. Conocido por sus cócteles creativos y su ambiente relajado, es un gran lugar para relajarse después de un día de exploración. El bar ofrece una variedad de pequeños platos, perfectos para compartir con amigos. Los precios son un poco más altos, pero valen la pena la experiencia.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Kairo 2026 — Restoran Teratas & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Kairo. Dari makanan dengan anggaran hingga makan malam mewah — dengan tautan pemesanan.",
+      "page_intro": "Budaya makanan Kairo adalah permadani yang hidup dari rasa dan tradisi. Dari gerai makanan jalanan yang ramai hingga tempat makan yang elegan, kota ini menawarkan pengalaman kuliner yang mencerminkan sejarahnya yang kaya dan beragam pengaruh. Jangan lewatkan kesempatan untuk menikmati hidangan ikonik dan spesial lokal yang menjadikan Kairo surga gastronomi.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "El Tahrir",
+          "type": "restaurant",
+          "description": "El Tahrir adalah sebuah tempat yang dihormati yang dikenal karena masakan Mesirnya yang otentik. Suasana hangat dan staf yang ramah menjadikannya tempat yang sempurna untuk menikmati hidangan klasik seperti koshari dan daging panggang. Harganya terjangkau, melayani baik penduduk lokal maupun wisatawan. Pastikan untuk mencoba hidangan khas mereka, koshari, yang menggabungkan lentil, nasi, dan pasta yang dit topped dengan saus tomat yang segar.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "Felfela",
+          "type": "restaurant",
+          "description": "Felfela adalah tempat makan populer yang menawarkan campuran menyenangkan antara hidangan Mesir tradisional dan cita rasa modern. Restoran ini memiliki dekorasi yang mengundang dengan suasana santai. Para pengunjung memuji falafel dan shawarma mereka, yang keduanya merupakan hidangan yang harus dicoba. Dengan harga menengah, ini adalah tempat yang bagus untuk makan santai.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "Pasar Makanan Jalanan Maadi",
+          "type": "street_food",
+          "description": "Pasar Makanan Jalanan Maadi adalah pusat yang ramai di mana penduduk lokal berkumpul untuk menikmati berbagai makanan jalanan. Dari ta'ameya segar (falafel Mesir) hingga jagung panggang, pasar ini menawarkan berbagai rasa dengan harga yang ramah anggaran. Suasana yang hidup dan tempat duduk di pinggir jalan menjadikannya tempat yang sempurna untuk petualangan kuliner yang santai.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "Ahmed Helmy",
+          "type": "night_market",
+          "description": "Pasar Malam Ahmed Helmy terkenal dengan suasana yang hidup dan stan makanan yang lezat. Para pengunjung dapat mencicipi berbagai hidangan tradisional, termasuk daging panggang dan kue gurih. Pasar ini sangat ramai di malam hari, menjadikannya tempat yang tepat untuk merasakan kehidupan lokal. Harganya terjangkau dan pengalaman yang ditawarkan tak terlupakan.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "Abou El Sid",
+          "type": "restaurant",
+          "description": "Abou El Sid menawarkan perpaduan yang menarik antara hidangan Mesir otentik dalam suasana yang dirancang dengan indah yang mengingatkan pada warisan Kairo. Restoran ini mengkhususkan diri dalam masakan tradisional, dan suasananya sempurna untuk pertemuan keluarga. Dengan kisaran harga yang sedikit lebih tinggi, ini adalah pilihan fantastis bagi mereka yang ingin menikmati cita rasa lokal. Jangan lewatkan tajin domba yang dimasak lambat mereka.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "Festival Makanan Kairo",
+          "type": "street_food",
+          "description": "Festival Makanan Kairo adalah acara tahunan yang menampilkan yang terbaik dari makanan jalanan Mesir. Para pengunjung dapat menikmati berbagai hidangan dari berbagai vendor, menampilkan hidangan lokal dan sentuhan kontemporer. Ini adalah acara yang meriah penuh dengan musik dan hiburan, menjadikannya tempat yang harus dikunjungi bagi para pecinta makanan. Harga bervariasi, tetapi selalu ada sesuatu untuk setiap anggaran.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "Sheraton Kairo",
+          "type": "cafe",
+          "description": "Kafe Sheraton Kairo menawarkan berbagai pilihan kue dan kopi yang lezat, menjadikannya tempat ideal untuk bersantai di sore hari. Suasana yang elegan dan pemandangan indah Sungai Nil meningkatkan pengalaman. Nikmati beragam makanan penutup khas Mesir seperti basbousa dan kunafa sambil menikmati kopi tradisional. Harganya moderat, melayani baik penduduk lokal maupun wisatawan.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "El Hosn",
+          "type": "bar",
+          "description": "El Hosn adalah bar bergaya yang menampilkan suasana kehidupan malam yang semarak di Kairo. Dikenal karena koktail kreatif dan suasana santai, ini adalah tempat yang bagus untuk bersantai setelah seharian menjelajah. Bar menawarkan berbagai hidangan kecil, sempurna untuk dibagikan dengan teman-teman. Harganya sedikit lebih tinggi, tetapi sangat sepadan dengan pengalaman.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "काहिरा में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "काहिरा के सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "काहिरा की खाद्य संस्कृति स्वादों और परंपराओं की एक जीवंत टेपेस्ट्री है। हलचल भरे स्ट्रीट फूड स्टॉल से लेकर सुंदर डाइनिंग प्रतिष्ठानों तक, शहर एक ऐसा पाक अनुभव प्रस्तुत करता है जो इसके समृद्ध इतिहास और विविध प्रभावों को दर्शाता है। काहिरा में अद्वितीय व्यंजनों और स्थानीय विशेषताओं का आनंद लेने का मौका न चूकें, जो इसे एक गैस्ट्रोनोमिक स्वर्ग बनाती हैं।",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "एल तहरीर",
+          "type": "restaurant",
+          "description": "एल तहरीर एक प्रतिष्ठित संस्थान है जो अपनी प्रामाणिक मिस्र के व्यंजनों के लिए जाना जाता है। गर्म माहौल और मित्रवत स्टाफ इसे क्लासिक व्यंजनों जैसे कोशारी और ग्रिल्ड मीट का आनंद लेने के लिए एक आदर्श स्थान बनाते हैं। कीमतें उचित हैं, जो स्थानीय लोगों और पर्यटकों दोनों के लिए उपयुक्त हैं। उनके सिग्नेचर डिश, कोशारी को अवश्य आजमाएं, जो दाल, चावल और पास्ता का संयोजन है, जिसे तीखे टमाटर सॉस के साथ परोसा जाता है।",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "फेलफेला",
+          "type": "restaurant",
+          "description": "फेलफेला एक लोकप्रिय भोजन स्थल है जो पारंपरिक मिस्र के व्यंजनों और आधुनिक स्वादों का आनंददायक मिश्रण पेश करता है। रेस्तरां में एक आमंत्रित सजावट है जिसमें आरामदायक माहौल है। आगंतुकों को उनके फालाफेल और शवार्मा बहुत पसंद हैं, जो दोनों अवश्य आजमाने योग्य हैं। मध्यम मूल्य सीमा के साथ, यह एक आकस्मिक भोजन के लिए एक बेहतरीन जगह है।",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "मादी स्ट्रीट फूड मार्केट",
+          "type": "street_food",
+          "description": "मादी स्ट्रीट फूड मार्केट एक हलचल भरा केंद्र है जहां स्थानीय लोग विभिन्न स्ट्रीट फूड का आनंद लेने के लिए इकट्ठा होते हैं। ताज़ी तआमिया (मिस्री फालाफेल) से लेकर ग्रिल्ड कॉर्न तक, मार्केट बजट के अनुकूल कीमतों पर स्वादों की एक श्रृंखला पेश करता है। जीवंत माहौल और सड़क किनारे की सीटिंग इसे एक आकस्मिक खाद्य साहसिकता के लिए एक आदर्श स्थान बनाती है।",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "अहमद हेल्मी",
+          "type": "night_market",
+          "description": "अहमद हेल्मी नाइट मार्केट अपने जीवंत माहौल और स्वादिष्ट खाद्य स्टॉल के लिए प्रसिद्ध है। आगंतुक विभिन्न पारंपरिक व्यंजनों का स्वाद ले सकते हैं, जिसमें ग्रिल्ड मीट और नमकीन पेस्ट्री शामिल हैं। मार्केट विशेष रूप से शाम को हलचल भरा रहता है, जो स्थानीय जीवन का अनुभव करने के लिए एक बेहतरीन जगह बनाता है। कीमतें किफायती हैं, और अनुभव अविस्मरणीय है।",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "अबू एल सिद",
+          "type": "restaurant",
+          "description": "अबू एल सिद प्रामाणिक मिस्री व्यंजनों का एक आकर्षक मिश्रण पेश करता है, जो काहिरा की विरासत की याद दिलाने वाले खूबसूरती से डिज़ाइन किए गए सेटिंग में है। रेस्तरां पारंपरिक भोजन में विशेषज्ञता रखता है, और इसका माहौल पारिवारिक समारोहों के लिए बिल्कुल सही है। थोड़ा उच्च मूल्य सीमा के साथ, यह स्थानीय स्वादों का आनंद लेने के लिए एक शानदार विकल्प है। उनके धीमी-पकाए गए मेमने के ताजिन को न चूकें।",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "काहिरा फ़ूड फेस्टिवल",
+          "type": "street_food",
+          "description": "काहिरा फ़ूड फेस्टिवल एक वार्षिक कार्यक्रम है जो मिस्री स्ट्रीट फूड का सबसे अच्छा प्रदर्शन करता है। आगंतुक विभिन्न विक्रेताओं से कई प्रकार के व्यंजनों का आनंद ले सकते हैं, जिसमें स्थानीय विशेषताएँ और समकालीन मोड़ शामिल हैं। यह एक जीवंत कार्यक्रम है जिसमें संगीत और मनोरंजन भरा होता है, जो खाद्य प्रेमियों के लिए एक अवश्य-देखने योग्य स्थान बनाता है। कीमतें भिन्न होती हैं, लेकिन हर बजट के लिए कुछ न कुछ है।",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "शेराटन काहिरा",
+          "type": "cafe",
+          "description": "शेराटन काहिरा का कैफे पेस्ट्री और कॉफी की एक स्वादिष्ट श्रृंखला प्रदान करता है, जो एक आरामदायक दोपहर बिताने के लिए एक आदर्श स्थान बनाता है। सुरुचिपूर्ण वातावरण और नील नदी के सुंदर दृश्यों से अनुभव बढ़ता है। पारंपरिक कॉफी के साथ बासबूसा और कोनाफा जैसे मिस्री मिठाइयों का आनंद लें। कीमतें मध्यम हैं, जो स्थानीय लोगों और पर्यटकों दोनों के लिए उपयुक्त हैं।",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "एल होसन",
+          "type": "bar",
+          "description": "एल होसन एक स्टाइलिश बार है जो काहिरा में जीवंत नाइटलाइफ़ दृश्य को प्रस्तुत करता है। अपने रचनात्मक कॉकटेल और आरामदायक माहौल के लिए जाना जाता है, यह दिनभर की खोज के बाद आराम करने के लिए एक बेहतरीन स्थान है। बार में विभिन्न छोटे प्लेटें पेश की जाती हैं, जो दोस्तों के साथ साझा करने के लिए बिल्कुल सही हैं। कीमतें थोड़ी उच्च हैं लेकिन अनुभव के लिए अच्छी तरह से योग्य हैं।",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida no Cairo 2026 — Principais Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais no Cairo. Desde refeições econômicas até alta gastronomia — com links de reserva.",
+      "page_intro": "A cultura alimentar do Cairo é uma tapeçaria vibrante de sabores e tradições. Desde barracas de comida de rua movimentadas até estabelecimentos de jantar elegantes, a cidade oferece uma experiência culinária que reflete sua rica história e influências diversas. Não perca a chance de se deliciar com pratos icônicos e especialidades locais que fazem do Cairo um paraíso gastronômico.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "El Tahrir",
+          "type": "restaurant",
+          "description": "El Tahrir é um estabelecimento reverenciado conhecido por sua autêntica cozinha egípcia. A atmosfera acolhedora e a equipe amigável fazem dele um local perfeito para saborear pratos clássicos como koshari e carnes grelhadas. Os preços são razoáveis, atendendo tanto a locais quanto a turistas. Não deixe de experimentar seu prato exclusivo, o koshari, que combina lentilhas, arroz e macarrão cobertos com um molho de tomate picante.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "Felfela",
+          "type": "restaurant",
+          "description": "Felfela é um ponto de jantar popular que oferece uma mistura deliciosa de pratos tradicionais egípcios e sabores modernos. O restaurante apresenta uma decoração convidativa com uma vibração descontraída. Os visitantes elogiam seu falafel e shawarma, que são imperdíveis. Com uma faixa de preço intermediária, é um ótimo lugar para uma refeição casual.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "Mercado de Comida de Rua Maadi",
+          "type": "street_food",
+          "description": "O Mercado de Comida de Rua Maadi é um centro movimentado onde os locais se reúnem para desfrutar de uma variedade de delícias de comida de rua. Desde ta'ameya fresca (falafel egípcio) até milho grelhado, o mercado oferece uma variedade de sabores a preços acessíveis. A atmosfera vibrante e os assentos à beira da rua fazem dele um local perfeito para uma aventura gastronômica casual.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "Mercado Noturno Ahmed Helmy",
+          "type": "night_market",
+          "description": "O Mercado Noturno Ahmed Helmy é famoso por sua atmosfera animada e barracas de comida deliciosas. Os visitantes podem experimentar uma variedade de pratos tradicionais, incluindo carnes grelhadas e pastéis salgados. O mercado é particularmente movimentado à noite, tornando-se um ótimo lugar para vivenciar a vida local. Os preços são acessíveis, e a experiência é inesquecível.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "Abou El Sid",
+          "type": "restaurant",
+          "description": "Abou El Sid oferece uma mistura encantadora de pratos egípcios autênticos em um ambiente lindamente projetado que lembra a herança do Cairo. O restaurante se especializa em pratos tradicionais, e a atmosfera é perfeita para reuniões familiares. Com uma faixa de preço um pouco mais alta, é uma escolha fantástica para quem deseja se deliciar com os sabores locais. Não perca o seu tagine de cordeiro cozido lentamente.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "Festival de Comida do Cairo",
+          "type": "street_food",
+          "description": "O Festival de Comida do Cairo é um evento anual que apresenta o melhor da comida de rua egípcia. Os visitantes podem desfrutar de uma ampla gama de pratos de vários vendedores, apresentando iguarias locais e toques contemporâneos. É um evento animado cheio de música e entretenimento, tornando-se uma visita obrigatória para os amantes da comida. Os preços variam, mas há algo para todos os orçamentos.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "Sheraton Cairo",
+          "type": "cafe",
+          "description": "O café do Sheraton Cairo oferece uma deliciosa variedade de doces e cafés, tornando-se um local ideal para uma tarde tranquila. A atmosfera elegante e as belas vistas do Nilo aprimoram a experiência. Aproveite uma seleção de doces egípcios como basbousa e konafa enquanto saboreia um café tradicional. Os preços são moderados, atendendo tanto a locais quanto a turistas.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "El Hosn",
+          "type": "bar",
+          "description": "El Hosn é um bar estiloso que apresenta uma cena de vida noturna vibrante no Cairo. Conhecido por seus coquetéis criativos e ambiente relaxante, é um ótimo lugar para relaxar após um dia de exploração. O bar oferece uma variedade de pequenos pratos, perfeitos para compartilhar com amigos. Os preços são um pouco mais altos, mas valem a experiência.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الطعام في القاهرة 2026 - أفضل المطاعم ودليل الطعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم، وطعام الشارع، والتخصصات المحلية في القاهرة. من الوجبات الاقتصادية إلى الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "ثقافة الطعام في القاهرة هي نسيج نابض بالألوان من النكهات والتقاليد. من أكشاك الطعام في الشوارع المزدحمة إلى المؤسسات الأنيقة، تقدم المدينة تجربة طعام تعكس تاريخها الغني وتأثيراتها المتنوعة. لا تفوت الفرصة للاستمتاع بالأطباق الشهيرة والتخصصات المحلية التي تجعل من القاهرة جنة للطعام.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "التحرير",
+          "type": "restaurant",
+          "description": "التحرير هو مؤسسة محبوبة معروفة بمأكولاتها المصرية الأصيلة. تجعل الأجواء الدافئة والموظفين الودودين منه مكانًا مثاليًا للاستمتاع بالأطباق الكلاسيكية مثل الكشري واللحوم المشوية. الأسعار معقولة، مما يلبي احتياجات السكان المحليين والسياح. تأكد من تجربة طبقهم المميز، الكشري، الذي يجمع بين العدس والأرز والمعكرونة مع صلصة الطماطم الحارة.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "فلفلة",
+          "type": "restaurant",
+          "description": "فلفلة هي وجهة طعام شهيرة تقدم مزيجًا رائعًا من الأطباق المصرية التقليدية والنكهات الحديثة. يتميز المطعم بديكور مريح مع أجواء مريحة. يثني الزوار على الفلافل والشاورما الخاصة بهم، والتي يجب تجربتها. مع نطاق سعري متوسط، فهو مكان رائع لوجبة غير رسمية.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "سوق طعام الشارع في المعادي",
+          "type": "street_food",
+          "description": "سوق طعام الشارع في المعادي هو مركز مزدحم حيث يجتمع السكان المحليون للاستمتاع بمجموعة متنوعة من لذائذ الطعام في الشوارع. من الطعمية الطازجة (فلافل مصرية) إلى الذرة المشوية، يقدم السوق مجموعة من النكهات بأسعار معقولة. تجعل الأجواء النابضة بالحياة ومقاعد الشوارع منه مكانًا مثاليًا لمغامرة غذائية غير رسمية.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "سوق أحمد حلمي الليلي",
+          "type": "night_market",
+          "description": "سوق أحمد حلمي الليلي مشهور بأجوائه النابضة بالحياة وأكشاك الطعام الشهية. يمكن للزوار تجربة مجموعة متنوعة من الأطباق التقليدية، بما في ذلك اللحوم المشوية والمعجنات المالحة. يكون السوق مزدحمًا بشكل خاص في المساء، مما يجعله مكانًا رائعًا لتجربة الحياة المحلية. الأسعار معقولة، والتجربة لا تُنسى.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "أبو السعيد",
+          "type": "restaurant",
+          "description": "يقدم أبو السعيد مزيجًا ساحرًا من الأطباق المصرية الأصيلة في بيئة مصممة بشكل جميل تذكرنا بإرث القاهرة. يتخصص المطعم في الأطباق التقليدية، والأجواء مثالية للتجمعات العائلية. مع نطاق سعري أعلى قليلاً، فهو خيار رائع لأولئك الذين يرغبون في الاستمتاع بالنكهات المحلية. لا تفوتوا طاجن لحم الضأن المطبوخ ببطء.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "مهرجان الطعام في القاهرة",
+          "type": "street_food",
+          "description": "مهرجان الطعام في القاهرة هو حدث سنوي يعرض أفضل طعام الشارع المصري. يمكن للزوار الاستمتاع بمجموعة واسعة من الأطباق من مختلف الباعة، مع تقديم الأطباق المحلية والتحديثات المعاصرة. إنه حدث نابض بالحياة مليء بالموسيقى والترفيه، مما يجعله زيارة لا بد منها لعشاق الطعام. تختلف الأسعار، لكن هناك شيء يناسب كل ميزانية.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "شيرتون القاهرة",
+          "type": "cafe",
+          "description": "يقدم مقهى شيرتون القاهرة مجموعة لذيذة من الحلويات والقهوة، مما يجعله مكانًا مثاليًا لقضاء فترة بعد الظهر. تعزز الأجواء الأنيقة والمناظر الجميلة لنهر النيل التجربة. استمتع بمجموعة من الحلويات المصرية مثل البسبوسة والكنافة أثناء تناول القهوة التقليدية. الأسعار معتدلة، مما يلبي احتياجات السكان المحليين والسياح.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "الحصن",
+          "type": "bar",
+          "description": "الحصن هو بار أنيق يتميز بمشهد حياة ليلية نابضة في القاهرة. معروف بكوكتيلاته الإبداعية وأجوائه المريحة، فهو مكان رائع للاسترخاء بعد يوم من الاستكشاف. يقدم البار مجموعة من الأطباق الصغيرة، المثالية للمشاركة مع الأصدقاء. الأسعار مرتفعة قليلاً ولكنها تستحق التجربة.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "কায়রোর সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবারের গাইড",
+      "seo_description": "কায়রোর সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "page_intro": "কায়রোর খাদ্য সংস্কৃতি স্বাদের এবং ঐতিহ্যের একটি প্রাণবন্ত তাপেস্ট্রি। ব্যস্ত রাস্তার খাবারের স্টল থেকে শুরু করে দুর্দান্ত ডাইনিং প্রতিষ্ঠানের মধ্যে, শহরটি একটি খাদ্য অভিজ্ঞতা প্রদান করে যা এর সমৃদ্ধ ইতিহাস এবং বৈচিত্র্যময় প্রভাবগুলি প্রতিফলিত করে। কায়রোতে আইকনিক খাবার এবং স্থানীয় বিশেষত্বগুলিতে মগ্ন হওয়ার সুযোগটি মিস করবেন না যা এটিকে একটি গ্যাস্ট্রনোমিক প্যারাডাইসে পরিণত করে।",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "এল তাহরির",
+          "type": "restaurant",
+          "description": "এল তাহরির একটি সম্মানিত প্রতিষ্ঠান যা তার প্রামাণিক মিসরীয় রন্ধনপ্রণালীর জন্য পরিচিত। উষ্ণ পরিবেশ এবং বন্ধুত্বপূর্ণ কর্মীরা এটিকে কোশারি এবং গ্রিল করা মাংসের মতো ক্লাসিক খাবার উপভোগ করার জন্য একটি আদর্শ স্থান করে তোলে। দামগুলি যুক্তিসঙ্গত, স্থানীয় এবং পর্যটকদের উভয়ই উপযুক্ত। তাদের স্বাক্ষর ডিশ, কোশারি, যা মটরশুটি, চাল এবং পাস্তা একটি তীক্ষ্ণ টমেটোর সসের সাথে মিশ্রিত করে, সেটি অবশ্যই চেষ্টা করুন।",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "ফেলফেলা",
+          "type": "restaurant",
+          "description": "ফেলফেলা একটি জনপ্রিয় খাবারের স্থান যা প্রথাগত মিসরীয় খাবার এবং আধুনিক স্বাদের একটি আনন্দদায়ক মিশ্রণ প্রদান করে। রেস্তোরাঁটি একটি আমন্ত্রণমূলক সজ্জায় বৈশিষ্ট্যযুক্ত একটি আরামদায়ক পরিবেশ। দর্শকরা তাদের ফালাফেল এবং শাওয়ারমা সম্পর্কে উত্সাহী, যা উভয়ই অবশ্যই চেষ্টা করা উচিত। মধ্যম মূল্য বিন্দু সহ, এটি একটি স্বাচ্ছন্দ্যময় খাবারের জন্য একটি দুর্দান্ত স্থান।",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "মাদি স্ট্রিট ফুড মার্কেট",
+          "type": "street_food",
+          "description": "মাদি স্ট্রিট ফুড মার্কেট একটি ব্যস্ত কেন্দ্র যেখানে স্থানীয়রা বিভিন্ন রাস্তার খাবারের আনন্দ নিতে জড়ো হয়। তাজা তাআমিয়া (মিসরীয় ফালাফেল) থেকে শুরু করে গ্রিল করা ভুট্টা, মার্কেটটি বাজেট-বান্ধব দামগুলিতে স্বাদের একটি পরিসর অফার করে। প্রাণবন্ত পরিবেশ এবং রাস্তার পাশের আসনগুলি এটিকে একটি স্বাচ্ছন্দ্যময় খাদ্য অভিযানের জন্য একটি আদর্শ স্থান করে তোলে।",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "আহমেদ হেলমি",
+          "type": "night_market",
+          "description": "আহমেদ হেলমি নাইট মার্কেট তার প্রাণবন্ত পরিবেশ এবং সুস্বাদু খাবারের স্টলগুলির জন্য পরিচিত। দর্শকরা গ্রিল করা মাংস এবং লবণাক্ত পেস্ট্রি সহ বিভিন্ন ঐতিহ্যবাহী খাবার স্বাদ নিতে পারেন। মার্কেটটি বিশেষভাবে সন্ধ্যায় ব্যস্ত থাকে, যা স্থানীয় জীবনের অভিজ্ঞতা লাভের জন্য একটি দুর্দান্ত স্থান করে তোলে। দামগুলি সাশ্রয়ী এবং অভিজ্ঞতা অবিস্মরণীয়।",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "আবু এল সিদ",
+          "type": "restaurant",
+          "description": "আবু এল সিদ একটি সুন্দরভাবে ডিজাইন করা পরিবেশে প্রামাণিক মিসরীয় খাবারের একটি আকর্ষণীয় মিশ্রণ অফার করে যা কায়রোর ঐতিহ্যকে স্মরণ করিয়ে দেয়। রেস্তোরাঁটি ঐতিহ্যবাহী খাবারে বিশেষজ্ঞ, এবং পরিবেশটি পারিবারিক সমাবেশের জন্য নিখুঁত। একটু উচ্চ মূল্যের পরিসরের সাথে, এটি স্থানীয় স্বাদ উপভোগ করতে ইচ্ছুকদের জন্য একটি চমৎকার পছন্দ। তাদের ধীর-পাকানো মেষের তাজিন মিস করবেন না।",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "কায়রো খাবার উৎসব",
+          "type": "street_food",
+          "description": "কায়রো খাবার উৎসব একটি বার্ষিক অনুষ্ঠান যা মিসরীয় রাস্তার খাবারের সেরা প্রদর্শন করে। দর্শকরা বিভিন্ন বিক্রেতাদের কাছ থেকে বিস্তৃত পরিসরের খাবারের স্বাদ নিতে পারেন, স্থানীয় বিশেষত্ব এবং আধুনিক মোড়ের সাথে। এটি সঙ্গীত এবং বিনোদনে পূর্ণ একটি প্রাণবন্ত অনুষ্ঠান, যা খাবারের প্রেমীদের জন্য একটি অ-বিশ্বাস্য স্থান করে তোলে। দামগুলি বিভিন্ন হয়, কিন্তু প্রতিটি বাজেটের জন্য কিছু আছে।",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "শেরাটন কায়রো",
+          "type": "cafe",
+          "description": "শেরাটন কায়রোর ক্যাফে একটি সুস্বাদু পেস্ট্রি এবং কফির পরিসর অফার করে, যা একটি আরামদায়ক বিকেল কাটানোর জন্য একটি আদর্শ স্থান তৈরি করে। সুসজ্জিত পরিবেশ এবং নীল নদীর সুন্দর দৃশ্য অভিজ্ঞতাটিকে উন্নত করে। ঐতিহ্যবাহী কফির সাথে বাসবোসা এবং কনাফা জাতীয় মিষ্টিগুলি উপভোগ করুন। দামগুলি মাঝারি, স্থানীয় এবং পর্যটকদের উভয়ের জন্য উপযুক্ত।",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "এল হোসন",
+          "type": "bar",
+          "description": "এল হোসন একটি স্টাইলিশ বার যা কায়রোর প্রাণবন্ত রাতের জীবন দৃশ্য উপস্থাপন করে। এর সৃজনশীল ককটেল এবং আরামদায়ক পরিবেশের জন্য পরিচিত, এটি একটি দিনের অনুসন্ধানের পরে বিশ্রাম নেওয়ার জন্য একটি দুর্দান্ত স্থান। বারটি ছোট প্লেটগুলির একটি পরিসর সরবরাহ করে, যা বন্ধুদের সাথে ভাগ করার জন্য উপযুক্ত। দামগুলি কিছুটা উচ্চ তবে অভিজ্ঞতার জন্য ভাল।",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Каире 2026 — Топ ресторанов и гид по уличной еде",
+      "seo_description": "Узнайте о лучших ресторанах, уличной еде и местных специалитетах в Каире. От бюджетной еды до изысканной кухни — с ссылками для бронирования.",
+      "page_intro": "Кулинарная культура Каира — это яркое полотно вкусов и традиций. От шумных уличных торговцев до элегантных ресторанов, город предлагает кулинарный опыт, который отражает его богатую историю и разнообразные влияния. Не упустите возможность насладиться знаковыми блюдами и местными специалитетами, которые делают Каир гастрономическим раем.",
+      "items": [
+        {
+          "id": "el-tahrir",
+          "name": "Эль Тахрир",
+          "type": "restaurant",
+          "description": "Эль Тахрир — это уважаемое заведение, известное своей аутентичной египетской кухней. Теплая атмосфера и приветливый персонал делают его идеальным местом для наслаждения классическими блюдами, такими как каша и жареное мясо. Цены разумные, что подходит как местным, так и туристам. Обязательно попробуйте их фирменное блюдо, кашу, которое сочетает в себе чечевицу, рис и пасту, покрытую острым томатным соусом.",
+          "image_keyword": "El Tahrir restaurant Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Koshari",
+          "klook_query": "El Tahrir restaurant booking"
+        },
+        {
+          "id": "felfela",
+          "name": "Фельфела",
+          "type": "restaurant",
+          "description": "Фельфела — это популярное заведение, предлагающее восхитительное сочетание традиционных египетских блюд и современных вкусов. Ресторан отличается уютным декором и расслабляющей атмосферой. Посетители восхищаются их фалафелем и шаурмой, которые обязательно стоит попробовать. С ценовым диапазоном среднего уровня, это отличное место для непринужденного обеда.",
+          "image_keyword": "Felfela restaurant Cairo",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Falafel",
+          "klook_query": "Felfela restaurant booking"
+        },
+        {
+          "id": "maadi-street-food",
+          "name": "Уличный рынок еды Маади",
+          "type": "street_food",
+          "description": "Уличный рынок еды Маади — это оживленный центр, где местные жители собираются, чтобы насладиться разнообразием уличной еды. От свежей таамии (египетский фалафель) до жареной кукурузы, рынок предлагает разнообразие вкусов по доступным ценам. Яркая атмосфера и места на улице делают это идеальным местом для непринужденного кулинарного приключения.",
+          "image_keyword": "Maadi Street Food Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Ta'ameya",
+          "klook_query": "Maadi Street Food Market tour"
+        },
+        {
+          "id": "ahmed-helmy",
+          "name": "Ночной рынок Ахмеда Хелми",
+          "type": "night_market",
+          "description": "Ночной рынок Ахмеда Хелми знаменит своей оживленной атмосферой и вкусными лавками с едой. Посетители могут попробовать разнообразные традиционные блюда, включая жареное мясо и соленую выпечку. Рынок особенно оживлен по вечерам, что делает его отличным местом для знакомства с местной жизнью. Цены доступные, а опыт незабываемый.",
+          "image_keyword": "Ahmed Helmy Night Market Cairo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Kebabs",
+          "klook_query": "Ahmed Helmy Night Market tour"
+        },
+        {
+          "id": "abou-el-sid",
+          "name": "Абу Эль Сид",
+          "type": "restaurant",
+          "description": "Абу Эль Сид предлагает очаровательное сочетание аутентичных египетских блюд в красиво оформленной обстановке, напоминающей наследие Каира. Ресторан специализируется на традиционных блюдах, а атмосфера идеально подходит для семейных встреч. С ценами немного выше среднего, это отличный выбор для тех, кто хочет насладиться местными вкусами. Не пропустите их медленно приготовленный ягненок теджин.",
+          "image_keyword": "Abou El Sid restaurant Cairo",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Lamb Tagine",
+          "klook_query": "Abou El Sid restaurant booking"
+        },
+        {
+          "id": "cairo-food-festival",
+          "name": "Фестиваль еды в Каире",
+          "type": "street_food",
+          "description": "Фестиваль еды в Каире — это ежегодное событие, на котором представлены лучшие уличные блюда Египта. Посетители могут насладиться широким ассортиментом блюд от различных продавцов, предлагающих местные деликатесы и современные вариации. Это живое мероприятие, полное музыки и развлечений, что делает его обязательным для посещения для любителей еды. Цены варьируются, но найдется что-то для любого бюджета.",
+          "image_keyword": "Cairo Food Festival",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Various Local Dishes",
+          "klook_query": "Cairo Food Festival tickets"
+        },
+        {
+          "id": "sheraton-cairo",
+          "name": "Шератон Каир",
+          "type": "cafe",
+          "description": "Кафе Шератона в Каире предлагает вкусный ассортимент выпечки и кофе, что делает его идеальным местом для спокойного послеобеденного времяпрепровождения. Элегантная атмосфера и красивые виды на Нил улучшают впечатления. Наслаждайтесь выбором египетских сладостей, таких как басбуса и конафа, попивая традиционный кофе. Цены умеренные, что подходит как местным, так и туристам.",
+          "image_keyword": "Sheraton Cairo cafe",
+          "star_rating": 4.2,
+          "price_range": "$$",
+          "must_try": "Basbousa",
+          "klook_query": "Sheraton Cairo cafe booking"
+        },
+        {
+          "id": "el-hosn",
+          "name": "Эль Хосн",
+          "type": "bar",
+          "description": "Эль Хосн — стильный бар, который предлагает яркую ночную жизнь в Каире. Известный своими креативными коктейлями и расслабляющей атмосферой, это отличное место для отдыха после дня изучения. Бар предлагает разнообразные закуски, идеально подходящие для совместного употребления с друзьями. Цены немного выше, но оправдывают себя.",
+          "image_keyword": "El Hosn bar Cairo",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Signature Cocktails",
+          "klook_query": "El Hosn bar booking"
+        }
+      ]
+    }
+  }
+}

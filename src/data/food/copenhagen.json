@@ -1,0 +1,1145 @@
+{
+  "city_slug": "copenhagen",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Copenhagen 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Copenhagen. From budget eats to fine dining — with booking links.",
+      "page_intro": "Copenhagen boasts a vibrant food culture that combines traditional Danish cuisine with innovative culinary trends. The city is renowned for its emphasis on fresh, locally sourced ingredients and a variety of dining experiences, from casual street food markets to Michelin-starred restaurants. Whether you’re in the mood for classic smørrebrød or contemporary Nordic dishes, Copenhagen has something to satisfy every palate.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "Regarded as one of the best restaurants in the world, Noma offers a unique dining experience that celebrates Nordic cuisine. Their tasting menu showcases seasonal ingredients and innovative techniques, making it a must-try for food enthusiasts. Reservations are essential, with prices reflecting its prestigious status. Expect an unforgettable atmosphere that blends artistry and nature.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "This bustling food market features a diverse array of stalls offering everything from fresh seafood to gourmet pastries. It's the perfect place to sample local delicacies and international flavors alike. Grab a smørrebrød or a sweet Danish pastry while enjoying the vibrant atmosphere. Prices vary by vendor, making it accessible for all budgets.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "This three-Michelin-star restaurant offers an unparalleled fine dining experience with exquisite dishes that highlight Nordic flavors. The elegantly designed space provides a serene atmosphere, perfect for an intimate dining experience. The tasting menu is a journey through the seasons, featuring fresh and local ingredients. Prices are on the higher end, reflecting the culinary artistry on display.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Located on the waterfront, Reffen is a vibrant street food market offering a diverse selection of global cuisines. With food trucks and stalls from various cultures, you can enjoy everything from tacos to gourmet burgers. The casual atmosphere and live music make it a great place to relax with friends. Prices are budget-friendly, allowing you to sample multiple dishes.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "A cozy cafe known for its hearty brunch offerings and delicious pastries. The Pantry is a local favorite for its welcoming atmosphere and friendly service. Enjoy a classic Danish breakfast or a delightful pastry with your coffee. Prices are reasonable, making it a great spot for a casual meal.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurant Schønnemann",
+          "type": "restaurant",
+          "description": "This iconic restaurant specializes in traditional Danish smørrebrød, beautifully presented open-faced sandwiches topped with a variety of fresh ingredients. The atmosphere is charming and reminiscent of classic Danish culture. Prices are moderate, making it an excellent choice for a taste of local cuisine. Don’t miss their herring variations!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "A lively night market that takes place during the summer months, offering a plethora of food stalls featuring local and international cuisines. Enjoy live entertainment while indulging in delicious street food options. The atmosphere is festive and perfect for a night out with friends. Prices are affordable, allowing you to explore various dishes.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "A well-known craft beer bar that showcases a rotating selection of Mikkeller beers, made with innovative brewing techniques. The cozy atmosphere invites you to unwind with friends while sampling unique brews. Prices vary depending on the beer selection, but it's an affordable spot for a fun night out. Don't miss their seasonal specials!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年哥本哈根最佳美食—顶级餐厅和街头美食指南",
+      "seo_description": "发现哥本哈根最好的餐厅、街头美食和当地特色。从经济实惠的美食到高档餐饮—附有预订链接。",
+      "page_intro": "哥本哈根拥有充满活力的美食文化，结合了传统丹麦菜肴与创新的烹饪趋势。该市以其对新鲜、本地采购的食材和多样的用餐体验而闻名，从休闲的街头美食市场到米其林星级餐厅。无论您是想品尝经典的开放式三明治还是现代的北欧菜肴，哥本哈根都有满足每种味蕾的美食。",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "被认为是世界上最好的餐厅之一，Noma提供独特的用餐体验，庆祝北欧美食。他们的品尝菜单展示了季节性食材和创新技术，是美食爱好者的必试之地。预订是必需的，价格反映了其声望。期待一种将艺术与自然融合的难忘氛围。",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "这个热闹的美食市场有着各种摊位，提供从新鲜海鲜到美味糕点的一切。这里是品尝当地美食和国际风味的完美场所。在享受生动氛围的同时，抓一份开放式三明治或甜美的丹麦糕点。价格因供应商而异，适合所有预算。",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "这家三颗米其林星的餐厅提供无与伦比的高档用餐体验，精致的菜肴突显北欧风味。优雅的设计空间提供宁静的氛围，完美适合亲密的用餐体验。品尝菜单是一场穿越季节的旅程，特色新鲜和本地食材。价格偏高，反映了展示的烹饪艺术。",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Reffen位于海滨，是一个充满活力的街头美食市场，提供各种全球美食选择。您可以享用从塔可到美味汉堡的食物卡车和摊位。休闲的氛围和现场音乐使其成为与朋友放松的好地方。价格实惠，允许您尝试多种菜肴。",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "一家以丰盛早午餐和美味糕点而闻名的舒适咖啡馆。The Pantry因其热情的氛围和友好的服务而受到当地人的喜爱。享受经典的丹麦早餐或与咖啡搭配的美味糕点。价格合理，是享用休闲餐的绝佳选择。",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurant Schønnemann",
+          "type": "restaurant",
+          "description": "这家标志性的餐厅专注于传统的丹麦开放式三明治，色彩艳丽的开放式三明治上配有各种新鲜食材。氛围迷人，令人想起经典的丹麦文化。价格适中，是品尝当地美食的绝佳选择。不要错过他们的鲱鱼变化！",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "一个热闹的夜市，夏季期间举行，提供大量的小吃摊位，展示当地和国际美食。在享受美味的街头食品选项时，享受现场娱乐。气氛节日气息浓厚，非常适合与朋友的夜间外出。价格实惠，让您探索各种菜肴。",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "一家知名的精酿啤酒吧，展示了Mikkeller啤酒的轮换选择，采用创新的酿造技术。舒适的氛围让您可以与朋友放松，同时品尝独特的啤酒。价格根据啤酒选择而异，但这是一个享受有趣夜晚的实惠场所。不要错过他们的季节特饮！",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年コペンハーゲンのベストフード - トップレストランとストリートフードガイド",
+      "seo_description": "コペンハーゲンの最高のレストラン、ストリートフード、地元の特産品を発見しましょう。予算に合わせた食事から高級ダイニングまで、予約リンク付きです。",
+      "page_intro": "コペンハーゲンは、伝統的なデンマーク料理と革新的な料理トレンドを融合させた活気ある食文化を誇っています。新鮮で地元調達の食材に重点を置き、カジュアルなストリートフードマーケットからミシュラン星付きレストランまで、さまざまなダイニング体験が楽しめます。クラシックなスモーブローや現代的な北欧料理を味わいたい方も、コペンハーゲンではすべての味覚を満たす何かがあります。",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "世界で最も優れたレストランの一つと見なされているNomaは、北欧料理を祝うユニークなダイニング体験を提供します。季節の食材と革新的な技術を取り入れたテイスティングメニューは、美食愛好家にとって必見です。予約は必須で、価格はその名声を反映しています。アートと自然が融合した忘れられない雰囲気を期待してください。",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "この賑やかなフードマーケットでは、新鮮な海産物からグルメペストリーまで、さまざまな屋台があります。地元の美味しい料理と国際的なフレーバーを試すのに最適な場所です。活気のある雰囲気を楽しみながら、スモーブローや甘いデニッシュペストリーを手に入れましょう。価格は出店者によって異なり、すべての予算に対応しています。",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "この三つ星ミシュランレストランは、北欧の風味を引き立てる絶妙な料理で比類のない高級ダイニング体験を提供します。優雅にデザインされた空間は、親密なダイニング体験にぴったりの静かな雰囲気を提供します。テイスティングメニューは、フレッシュで地元の食材を使った季節を巡る旅です。価格は高めで、展示される料理の芸術性を反映しています。",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Reffenはウォーターフロントに位置する活気あるストリートフードマーケットで、さまざまな国の料理を提供しています。さまざまな文化のフードトラックや屋台から、タコスからグルメバーガーまで楽しむことができます。カジュアルな雰囲気とライブ音楽が、友人とリラックスするのに最適な場所にしています。価格は手頃で、複数の料理を試すことができます。",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "ボリュームのあるブランチと美味しいペストリーで知られる居心地の良いカフェです。The Pantryは、温かい雰囲気とフレンドリーなサービスで地元の人々に愛されています。クラシックなデンマークの朝食や、コーヒーと一緒に楽しむ美味しいペストリーをお楽しみください。価格は手頃で、カジュアルな食事に最適なスポットです。",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurant Schønnemann",
+          "type": "restaurant",
+          "description": "この象徴的なレストランは、さまざまな新鮮な食材をトッピングした美しく盛り付けられたオープンサンドイッチである伝統的なデンマークのスモーブローを専門としています。雰囲気は魅力的で、クラシックなデンマーク文化を思い起こさせます。価格は中程度で、地元料理を味わうのに最適な選択です。彼らのニシンのバリエーションをお見逃しなく！",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "夏の間に開催される賑やかなナイトマーケットで、地元と国際的な料理を提供する多くのフードスタンドがあります。美味しいストリートフードを楽しみながら、ライブエンターテイメントをお楽しみください。雰囲気はお祭りのようで、友人との夜の外出にぴったりです。価格は手頃で、さまざまな料理を探索できます。",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "革新的な醸造技術を用いたMikkellerビールのローテーションセレクションを展示することで知られるクラフトビールバーです。居心地の良い雰囲気は、友人とリラックスしながらユニークなビールを味わうことを招待します。価格はビールのセレクションによって異なりますが、楽しい夜にぴったりのお手頃な場所です。季節限定のスペシャルをお見逃しなく！",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026 코펜하겐 최고의 음식 - 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "코펜하겐의 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산에 맞춘 식사부터 고급 식사까지 - 예약 링크가 포함되어 있습니다.",
+      "page_intro": "코펜하겐은 전통 덴마크 요리와 혁신적인 요리 트렌드를 결합한 활기찬 음식 문화를 자랑합니다. 신선하고 지역에서 조달된 재료에 중점을 두고 있으며, 캐주얼한 스트리트 푸드 마켓부터 미슐랭 스타 레스토랑까지 다양한 식사 경험을 제공합니다. 클래식 스모르브뢰드부터 현대적인 북유럽 요리까지, 코펜하겐에는 모든 입맛을 만족시키는 무언가가 있습니다.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "세계 최고의 레스토랑 중 하나로 평가받는 Noma는 북유럽 요리를 기념하는 독특한 다이닝 경험을 제공합니다. 그들의 테이스팅 메뉴는 계절 재료와 혁신적인 기술을 선보이며, 미식가들에게 꼭 시도해봐야 할 곳입니다. 예약은 필수이며, 가격은 그 명성을 반영합니다. 예술성과 자연이 어우러진 잊을 수 없는 분위기를 기대하세요.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "이 번화한 음식 시장에는 신선한 해산물부터 고급 페이스트리까지 다양한 노점이 있습니다. 현지 진미와 국제적인 맛을 샘플링할 수 있는 완벽한 장소입니다. 활기찬 분위기 속에서 스모르브뢰드나 달콤한 덴마크 페이스트리를 즐겨보세요. 가격은 공급자에 따라 다르며, 모든 예산에 적합합니다.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "이 3스타 미슐랭 레스토랑은 북유럽의 풍미를 강조한 정교한 요리로 비할 데 없는 고급 다이닝 경험을 제공합니다. 우아하게 디자인된 공간은 친밀한 다이닝 경험에 완벽한 조용한 분위기를 제공합니다. 테이스팅 메뉴는 신선하고 지역 재료로 가득한 계절을 여행하는 여정입니다. 가격은 높은 편이며, 전시된 요리의 예술성을 반영합니다.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Reffen은 해변가에 위치한 활기찬 스트리트 푸드 마켓으로 다양한 글로벌 요리를 제공합니다. 다양한 문화의 푸드 트럭과 노점에서 타코부터 고급 햄버거까지 즐길 수 있습니다. 캐주얼한 분위기와 라이브 음악이 친구들과 함께 편안하게 시간을 보내기에 좋은 장소가 됩니다. 가격은 예산 친화적이며 여러 요리를 시도할 수 있습니다.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "푸짐한 브런치와 맛있는 페이스트리로 알려진 아늑한 카페입니다. The Pantry는 따뜻한 분위기와 친절한 서비스로 지역 주민들에게 사랑받고 있습니다. 클래식한 덴마크 아침식사나 커피와 함께하는 맛있는 페이스트리를 즐겨보세요. 가격이 합리적이어서 편안한 식사를 즐기기에 좋은 장소입니다.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurant Schønnemann",
+          "type": "restaurant",
+          "description": "이 상징적인 레스토랑은 다양한 신선한 재료로 장식된 아름답게 제공되는 전통적인 덴마크 스모르브뢰드를 전문으로 합니다. 분위기는 매력적이며 고전적인 덴마크 문화를 떠올리게 합니다. 가격은 적당하여 현지 요리를 맛보기에 훌륭한 선택입니다. 그들의 청어 변형을 놓치지 마세요!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "여름철에 열리는 활기찬 야시장으로, 현지 및 국제 요리를 제공하는 수많은 음식 노점이 있습니다. 맛있는 스트리트 푸드를 즐기면서 라이브 엔터테인먼트를 즐겨보세요. 분위기는 축제와 같으며 친구들과 함께하는 밤 외출에 적합합니다. 가격은 저렴하여 다양한 요리를 탐험할 수 있습니다.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "혁신적인 양조 기술로 만든 Mikkeller 맥주를 선보이는 잘 알려진 수제 맥주 바입니다. 아늑한 분위기는 친구들과 함께 독특한 맥주를 시음하며 휴식을 취하도록 초대합니다. 가격은 맥주 선택에 따라 다르지만, 재미있는 밤을 보내기에 적합한 저렴한 장소입니다. 계절 한정 스페셜을 놓치지 마세요!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures spécialités culinaires à Copenhague 2026 – Meilleurs restaurants et guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Copenhague. Des plats à petit budget aux repas gastronomiques - avec des liens de réservation.",
+      "page_intro": "Copenhague possède une culture culinaire vibrante qui combine la cuisine danoise traditionnelle avec des tendances culinaires innovantes. La ville est renommée pour son accent sur des ingrédients frais, locaux et une variété d'expériences culinaires, des marchés de street food décontractés aux restaurants étoilés au Michelin. Que vous ayez envie de smørrebrød classique ou de plats nordiques contemporains, Copenhague a quelque chose pour satisfaire chaque palais.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "Considéré comme l'un des meilleurs restaurants au monde, Noma offre une expérience culinaire unique qui célèbre la cuisine nordique. Leur menu dégustation met en valeur des ingrédients de saison et des techniques innovantes, ce qui en fait un incontournable pour les amateurs de gastronomie. Les réservations sont essentielles, avec des prix reflétant son statut prestigieux. Attendez-vous à une atmosphère inoubliable qui allie art et nature.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "Ce marché alimentaire animé propose une variété de stands offrant tout, des fruits de mer frais aux pâtisseries gastronomiques. C'est l'endroit idéal pour déguster des spécialités locales et des saveurs internationales. Prenez un smørrebrød ou une pâtisserie danoise sucrée tout en profitant de l'atmosphère vibrante. Les prix varient selon les vendeurs, ce qui le rend accessible à tous les budgets.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "Ce restaurant trois étoiles au Michelin offre une expérience gastronomique inégalée avec des plats exquis qui mettent en avant les saveurs nordiques. L'espace élégamment conçu offre une atmosphère sereine, parfaite pour une expérience culinaire intime. Le menu dégustation est un voyage à travers les saisons, mettant en avant des ingrédients frais et locaux. Les prix sont élevés, reflétant l'art culinaire qui y est exposé.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Situé en bord de mer, Reffen est un marché de street food vibrant offrant une sélection variée de cuisines du monde entier. Avec des camions de nourriture et des stands de différentes cultures, vous pouvez déguster tout, des tacos aux hamburgers gastronomiques. L'atmosphère décontractée et la musique live en font un endroit idéal pour se détendre entre amis. Les prix sont abordables, vous permettant de goûter plusieurs plats.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "Un café confortable connu pour ses copieux brunchs et ses délicieuses pâtisseries. The Pantry est un favori local pour son ambiance chaleureuse et son service amical. Profitez d'un petit-déjeuner danois classique ou d'une délicieuse pâtisserie avec votre café. Les prix sont raisonnables, ce qui en fait un excellent endroit pour un repas décontracté.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurant Schønnemann",
+          "type": "restaurant",
+          "description": "Ce restaurant emblématique se spécialise dans le smørrebrød danois traditionnel, des sandwichs ouverts magnifiquement présentés garni de divers ingrédients frais. L'atmosphère est charmante et rappelle la culture danoise classique. Les prix sont modérés, ce qui en fait un excellent choix pour goûter à la cuisine locale. Ne manquez pas leurs variations de hareng !",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "Un marché nocturne animé qui a lieu pendant les mois d'été, offrant une pléthore de stands alimentaires présentant des cuisines locales et internationales. Profitez de divertissements en direct tout en vous adonnant à de délicieuses options de street food. L'atmosphère est festive et parfaite pour une sortie nocturne entre amis. Les prix sont abordables, vous permettant d'explorer divers plats.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "Un bar à bière artisanale bien connu qui propose une sélection tournante de bières Mikkeller, fabriquées avec des techniques de brassage innovantes. L'atmosphère confortable vous invite à vous détendre avec des amis tout en dégustant des bières uniques. Les prix varient selon la sélection de bières, mais c'est un endroit abordable pour une soirée amusante. Ne manquez pas leurs spécialités saisonnières !",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Copenhague 2026: Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Copenhague. Desde comida económica hasta alta cocina, con enlaces de reserva.",
+      "page_intro": "Copenhague cuenta con una vibrante cultura gastronómica que combina la cocina danesa tradicional con tendencias culinarias innovadoras. La ciudad es conocida por su énfasis en ingredientes frescos y locales, así como por la variedad de experiencias gastronómicas, desde mercados de comida callejera hasta restaurantes con estrellas Michelin. Ya sea que desees un clásico smørrebrød o platos nórdicos contemporáneos, Copenhague tiene algo que satisfacer cada paladar.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "Considerado como uno de los mejores restaurantes del mundo, Noma ofrece una experiencia culinaria única que celebra la cocina nórdica. Su menú de degustación destaca ingredientes de temporada y técnicas innovadoras, lo que lo convierte en una visita obligada para los entusiastas de la comida. Las reservas son esenciales, y los precios reflejan su prestigioso estatus. Espera una atmósfera inolvidable que combina arte y naturaleza.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "Este bullicioso mercado de alimentos cuenta con una variedad de puestos que ofrecen desde mariscos frescos hasta pasteles gourmet. Es el lugar perfecto para probar delicias locales y sabores internacionales. Toma un smørrebrød o un dulce danés mientras disfrutas de la vibrante atmósfera. Los precios varían según el vendedor, lo que lo hace accesible para todos los presupuestos.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "Este restaurante de tres estrellas Michelin ofrece una experiencia gastronómica inigualable con platos exquisitos que destacan los sabores nórdicos. El espacio elegantemente diseñado ofrece una atmósfera serena, perfecta para una experiencia de comedor íntima. El menú de degustación es un viaje a través de las estaciones, con ingredientes frescos y locales. Los precios son elevados, reflejando la maestría culinaria que se exhibe.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Ubicado a orillas del agua, Reffen es un vibrante mercado de comida callejera que ofrece una selección diversa de cocinas globales. Con camiones de comida y puestos de diversas culturas, puedes disfrutar desde tacos hasta hamburguesas gourmet. La atmósfera casual y la música en vivo lo convierten en un gran lugar para relajarse con amigos. Los precios son amigables para el presupuesto, lo que permite probar múltiples platos.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "Una acogedora cafetería conocida por sus abundantes brunch y deliciosos pasteles. The Pantry es un favorito local por su ambiente acogedor y su servicio amable. Disfruta de un desayuno danés clásico o de un delicioso pastel con tu café. Los precios son razonables, lo que lo convierte en un excelente lugar para una comida informal.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurant Schønnemann",
+          "type": "restaurant",
+          "description": "Este restaurante icónico se especializa en el smørrebrød danés tradicional, sándwiches abiertos bellamente presentados cubiertos con una variedad de ingredientes frescos. La atmósfera es encantadora y recuerda a la cultura danesa clásica. Los precios son moderados, lo que lo convierte en una excelente opción para probar la cocina local. ¡No te pierdas sus variaciones de arenque!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "Un animado mercado nocturno que tiene lugar durante los meses de verano, que ofrece una plétora de puestos de comida con cocinas locales e internacionales. Disfruta de entretenimiento en vivo mientras te deleitas con deliciosas opciones de comida callejera. La atmósfera es festiva y perfecta para una noche de salida con amigos. Los precios son asequibles, lo que te permite explorar varios platos.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "Un conocido bar de cerveza artesanal que presenta una selección rotativa de cervezas Mikkeller, elaboradas con técnicas de elaboración innovadoras. La atmósfera acogedora te invita a relajarte con amigos mientras degustas cervezas únicas. Los precios varían según la selección de cervezas, pero es un lugar asequible para una noche divertida. ¡No te pierdas sus especiales de temporada!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Kopenhagen 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran, makanan jalanan, dan spesialisasi lokal terbaik di Kopenhagen. Dari makanan dengan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
+      "page_intro": "Kopenhagen memiliki budaya makanan yang semarak yang menggabungkan masakan Denmark tradisional dengan tren kuliner inovatif. Kota ini terkenal dengan penekanan pada bahan-bahan segar yang bersumber dari lokal dan berbagai pengalaman bersantap, mulai dari pasar makanan jalanan yang santai hingga restoran berbintang Michelin. Apakah Anda ingin mencicipi smørrebrød klasik atau hidangan Nordik kontemporer, Kopenhagen memiliki sesuatu untuk memuaskan setiap selera.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "Dianggap sebagai salah satu restoran terbaik di dunia, Noma menawarkan pengalaman bersantap yang unik yang merayakan masakan Nordik. Menu pencicipan mereka menampilkan bahan musiman dan teknik inovatif, menjadikannya tempat yang wajib dicoba bagi para penggemar makanan. Reservasi sangat diperlukan, dengan harga yang mencerminkan status prestisiusnya. Harapkan suasana yang tak terlupakan yang memadukan seni dan alam.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "Pasar makanan yang ramai ini menampilkan beragam stan yang menawarkan mulai dari makanan laut segar hingga kue gourmet. Ini adalah tempat yang sempurna untuk mencicipi makanan lokal dan cita rasa internasional. Ambil smørrebrød atau kue Denmark manis sambil menikmati suasana yang hidup. Harga bervariasi menurut vendor, menjadikannya terjangkau untuk semua anggaran.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "Restoran bintang tiga Michelin ini menawarkan pengalaman bersantap mewah yang tiada tara dengan hidangan yang menonjolkan rasa Nordik. Ruang yang dirancang dengan elegan menawarkan suasana tenang, sempurna untuk pengalaman bersantap yang intim. Menu pencicipan adalah perjalanan melalui musim, menampilkan bahan-bahan segar dan lokal. Harga berada di sisi yang lebih tinggi, mencerminkan seni kuliner yang dipamerkan.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Terletak di tepi laut, Reffen adalah pasar makanan jalanan yang semarak yang menawarkan beragam masakan global. Dengan truk makanan dan stan dari berbagai budaya, Anda dapat menikmati segalanya mulai dari taco hingga burger gourmet. Suasana santai dan musik live menjadikannya tempat yang bagus untuk bersantai bersama teman-teman. Harga terjangkau, memungkinkan Anda untuk mencicipi beberapa hidangan.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "Kafe yang nyaman ini dikenal dengan penawaran brunch yang mengenyangkan dan kue yang lezat. The Pantry adalah favorit lokal karena suasana yang ramah dan pelayanan yang baik. Nikmati sarapan Denmark klasik atau kue lezat dengan kopi Anda. Harga terjangkau, menjadikannya tempat yang bagus untuk makan santai.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurant Schønnemann",
+          "type": "restaurant",
+          "description": "Restoran ikonik ini mengkhususkan diri dalam smørrebrød tradisional Denmark, sandwich terbuka yang disajikan dengan indah dengan berbagai bahan segar. Suasana di sini menawan dan mengingatkan pada budaya Denmark klasik. Harga sedang, menjadikannya pilihan yang sangat baik untuk mencicipi masakan lokal. Jangan lewatkan variasi herring mereka!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "Pasar malam yang meriah ini berlangsung selama bulan-bulan musim panas, menawarkan banyak stan makanan dengan masakan lokal dan internasional. Nikmati hiburan langsung sambil menikmati pilihan makanan jalanan yang lezat. Suasana meriah dan sempurna untuk malam keluar bersama teman-teman. Harga terjangkau, memungkinkan Anda untuk menjelajahi berbagai hidangan.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "Bar bir kerajinan yang terkenal ini menampilkan pilihan bir Mikkeller yang berputar, dibuat dengan teknik pembuatan bir yang inovatif. Suasana yang nyaman mengundang Anda untuk bersantai bersama teman-teman sambil mencicipi bir unik. Harga bervariasi tergantung pada pilihan bir, tetapi ini adalah tempat yang terjangkau untuk malam yang menyenangkan. Jangan lewatkan spesial musiman mereka!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "कोपेनहेगन में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "कोपेनहेगन में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं का पता लगाएं। बजट के भोजन से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "कोपेनहेगन में एक जीवंत खाद्य संस्कृति है जो पारंपरिक डेनिश व्यंजनों को अभिनव पाक प्रवृत्तियों के साथ जोड़ती है। इस शहर को ताजा, स्थानीय रूप से सोर्स की गई सामग्रियों और विविध डाइनिंग अनुभवों पर जोर देने के लिए जाना जाता है, जो सामान्य स्ट्रीट फूड मार्केट से लेकर मिशेलिन-स्टार रेस्तरां तक है। चाहे आप क्लासिक स्मॉर्रेब्रॉड के मूड में हों या समकालीन नॉर्डिक व्यंजनों के लिए, कोपेनहेगन में हर स्वाद को संतुष्ट करने के लिए कुछ न कुछ है।",
+      "items": [
+        {
+          "id": "noma",
+          "name": "नोमा",
+          "type": "restaurant",
+          "description": "इसे दुनिया के सर्वश्रेष्ठ रेस्तरां में से एक माना जाता है, नोमा एक अनूठा डाइनिंग अनुभव प्रदान करता है जो नॉर्डिक व्यंजन का जश्न मनाता है। उनका टेस्टिंग मेनू मौसमी सामग्रियों और अभिनव तकनीकों को प्रदर्शित करता है, जिससे यह खाद्य उत्साही लोगों के लिए एक अनिवार्य अनुभव बन जाता है। आरक्षण आवश्यक हैं, और कीमतें इसके प्रतिष्ठित दर्जे को दर्शाती हैं। कला और प्रकृति का मिश्रण करने वाले अविस्मरणीय माहौल की उम्मीद करें।",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "टॉर्वेहेल्लेरने",
+          "type": "street_food",
+          "description": "यह हलचल भरा खाद्य बाजार विभिन्न स्टालों की एक विविध श्रृंखला को प्रदर्शित करता है, जो ताजे समुद्री भोजन से लेकर उच्च गुणवत्ता वाली पेस्ट्री तक सब कुछ प्रदान करता है। यह स्थानीय विशेषताओं और अंतरराष्ट्रीय स्वादों का स्वाद लेने के लिए एकदम सही स्थान है। जीवंत वातावरण का आनंद लेते हुए एक स्मॉर्रेब्रॉड या एक मीठा डेनिश पेस्ट्री लें। विक्रेता के आधार पर कीमतें भिन्न होती हैं, जिससे सभी बजट के लिए यह सुलभ है।",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "गेरानियम",
+          "type": "restaurant",
+          "description": "यह तीन-मिशेलिन-स्टार रेस्तरां अद्वितीय फाइन डाइनिंग अनुभव प्रदान करता है जिसमें नॉर्डिक स्वादों को उजागर करने वाले उत्कृष्ट व्यंजन होते हैं। सुरुचिपूर्ण ढंग से डिज़ाइन की गई जगह एक शांत वातावरण प्रदान करती है, जो एक अंतरंग भोजन अनुभव के लिए परिपूर्ण है। टेस्टिंग मेनू मौसम के माध्यम से एक यात्रा है, जिसमें ताजे और स्थानीय सामग्रियाँ शामिल हैं। कीमतें उच्च स्तर पर हैं, जो प्रदर्शित पाक कला की गुणवत्ता को दर्शाती हैं।",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "कोपेनहेगन स्ट्रीट फूड - रेफेन",
+          "type": "street_food",
+          "description": "जल के किनारे स्थित, रेफेन एक जीवंत स्ट्रीट फूड मार्केट है जो वैश्विक व्यंजनों की विविधता प्रदान करता है। विभिन्न संस्कृतियों से खाद्य ट्रकों और स्टालों के साथ, आप टैकोस से लेकर उच्च गुणवत्ता वाले बर्गर तक सब कुछ का आनंद ले सकते हैं। आकस्मिक माहौल और लाइव संगीत इसे दोस्तों के साथ आराम करने के लिए एक शानदार स्थान बनाते हैं। कीमतें बजट के अनुकूल हैं, जिससे आप कई व्यंजनों का स्वाद ले सकते हैं।",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "द पेंट्री",
+          "type": "cafe",
+          "description": "एक आरामदायक कैफे जो अपने भरपेट ब्रंच ऑफ़रिंग और स्वादिष्ट पेस्ट्री के लिए जाना जाता है। द पेंट्री अपने स्वागत योग्य माहौल और दोस्ताना सेवा के लिए स्थानीय पसंदीदा है। अपने कॉफी के साथ एक क्लासिक डेनिश नाश्ता या एक शानदार पेस्ट्री का आनंद लें। कीमतें उचित हैं, जिससे यह एक आकस्मिक भोजन के लिए एक शानदार स्थान बनता है।",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "रेस्तरां शॉनमैन",
+          "type": "restaurant",
+          "description": "यह प्रतिष्ठित रेस्तरां पारंपरिक डेनिश स्मॉर्रेब्रॉड में विशेषज्ञता रखता है, जो विभिन्न ताजे सामग्रियों के साथ खूबसूरती से प्रस्तुत ओपन-फेस सैंडविच होते हैं। वातावरण आकर्षक है और पारंपरिक डेनिश संस्कृति की याद दिलाता है। कीमतें मध्यम हैं, जिससे यह स्थानीय व्यंजनों का स्वाद लेने के लिए एक उत्कृष्ट विकल्प बनता है। उनके हेरिंग वेरिएशंस को न चूकें!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "कोपेनहेगन नाइट मार्केट",
+          "type": "night_market",
+          "description": "एक जीवंत नाइट मार्केट जो गर्मियों के महीनों में होती है, स्थानीय और अंतरराष्ट्रीय व्यंजनों की विशेषता वाले खाद्य स्टालों की एक समृद्ध श्रृंखला प्रदान करती है। स्वादिष्ट स्ट्रीट फूड विकल्पों का आनंद लेते हुए लाइव मनोरंजन का मज़ा लें। वातावरण उत्सवपूर्ण है और दोस्तों के साथ एक रात बिताने के लिए एकदम सही है। कीमतें सस्ती हैं, जिससे आप विभिन्न व्यंजनों का आनंद ले सकते हैं।",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "मिकेलर बार",
+          "type": "bar",
+          "description": "एक प्रसिद्ध क्राफ्ट बियर बार जो मिकेलर बियर का एक घूमता हुआ चयन प्रदर्शित करता है, जो अभिनव ब्रूइंग तकनीकों के साथ बनाया जाता है। आरामदायक वातावरण आपको दोस्तों के साथ अनविंड करने के लिए आमंत्रित करता है जबकि आप अद्वितीय ब्रूज़ का स्वाद लेते हैं। कीमतें बीयर चयन के आधार पर भिन्न होती हैं, लेकिन यह एक मजेदार रात के लिए एक सस्ती जगह है। उनके मौसमी विशेषताओं को न चूकें!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Copenhague 2026 - Melhores Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Copenhague. Desde opções econômicas até alta gastronomia - com links de reserva.",
+      "page_intro": "Copenhague possui uma vibrante cultura alimentar que combina a culinária dinamarquesa tradicional com tendências culinárias inovadoras. A cidade é conhecida por sua ênfase em ingredientes frescos e de origem local, além de uma variedade de experiências gastronômicas, desde mercados de comida de rua informais até restaurantes estrelados pelo Michelin. Se você está com vontade de comer smørrebrød clássico ou pratos nórdicos contemporâneos, Copenhague tem algo para satisfazer todos os paladares.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Noma",
+          "type": "restaurant",
+          "description": "Considerado um dos melhores restaurantes do mundo, o Noma oferece uma experiência gastronômica única que celebra a culinária nórdica. Seu menu de degustação apresenta ingredientes sazonais e técnicas inovadoras, tornando-se uma visita obrigatória para os entusiastas da comida. Reservas são essenciais, com preços que refletem seu status prestigioso. Espere uma atmosfera inesquecível que combina arte e natureza.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Torvehallerne",
+          "type": "street_food",
+          "description": "Este movimentado mercado de alimentos apresenta uma ampla gama de barracas que oferecem de tudo, desde frutos do mar frescos até doces gourmet. É o lugar perfeito para experimentar iguarias locais e sabores internacionais. Pegue um smørrebrød ou um doce dinamarquês enquanto desfruta da atmosfera vibrante. Os preços variam de acordo com o vendedor, tornando-o acessível para todos os orçamentos.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Geranium",
+          "type": "restaurant",
+          "description": "Este restaurante com três estrelas Michelin oferece uma experiência de alta gastronomia incomparável com pratos requintados que destacam os sabores nórdicos. O espaço elegantemente projetado proporciona uma atmosfera serena, perfeita para uma experiência gastronômica íntima. O menu de degustação é uma jornada pelas estações, apresentando ingredientes frescos e locais. Os preços são mais altos, refletindo a arte culinária em exibição.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Copenhagen Street Food – Reffen",
+          "type": "street_food",
+          "description": "Localizado à beira-mar, o Reffen é um vibrante mercado de comida de rua que oferece uma seleção diversificada de cozinhas globais. Com caminhões de comida e barracas de várias culturas, você pode desfrutar de tudo, desde tacos até hambúrgueres gourmet. A atmosfera casual e a música ao vivo tornam este um ótimo lugar para relaxar com amigos. Os preços são amigáveis ao orçamento, permitindo que você experimente vários pratos.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "The Pantry",
+          "type": "cafe",
+          "description": "Um café acolhedor conhecido por suas robustas opções de brunch e deliciosas sobremesas. O Pantry é um favorito local por sua atmosfera acolhedora e atendimento amigável. Desfrute de um café da manhã dinamarquês clássico ou uma deliciosa sobremesa com seu café. Os preços são razoáveis, tornando-o um ótimo local para uma refeição casual.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Restaurante Schønnemann",
+          "type": "restaurant",
+          "description": "Este restaurante icônico se especializa em smørrebrød dinamarquês tradicional, lindamente apresentados sanduíches abertos cobertos com uma variedade de ingredientes frescos. A atmosfera é charmosa e lembra a cultura dinamarquesa clássica. Os preços são moderados, tornando-o uma excelente escolha para experimentar a culinária local. Não perca suas variações de arenque!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Copenhagen Night Market",
+          "type": "night_market",
+          "description": "Um animado mercado noturno que acontece durante os meses de verão, oferecendo uma infinidade de barracas de comida com iguarias locais e internacionais. Desfrute de entretenimento ao vivo enquanto se delicia com opções deliciosas de comida de rua. A atmosfera é festiva e perfeita para uma noite com amigos. Os preços são acessíveis, permitindo que você explore vários pratos.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Mikkeller Bar",
+          "type": "bar",
+          "description": "Um famoso bar de cervejas artesanais que apresenta uma seleção rotativa de cervejas Mikkeller, feitas com técnicas de fabricação inovadoras. O ambiente acolhedor convida você a relaxar com amigos enquanto experimenta cervejas únicas. Os preços variam dependendo da seleção de cervejas, mas é um lugar acessível para uma noite divertida. Não perca suas ofertas sazonais!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في كوبنهاغن 2026 - أفضل المطاعم ودليل الطعام في الشارع",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع والتخصصات المحلية في كوبنهاغن. من المأكولات الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "تتمتع كوبنهاغن بثقافة غذائية نابضة بالحياة تجمع بين المأكولات الدنماركية التقليدية والاتجاهات الطهي المبتكرة. تشتهر المدينة بالتأكيد على المكونات الطازجة والمحلية المصدر وتنوع تجارب تناول الطعام، من أسواق الطعام غير الرسمية إلى المطاعم الحائزة على نجوم ميشلان. سواء كنت في مزاج لتناول سموربرود الكلاسيكي أو أطباق نوردية معاصرة، فإن كوبنهاغن لديها ما يرضي جميع الأذواق.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "نومّا",
+          "type": "restaurant",
+          "description": "يعتبر مطعم نومّا من بين أفضل المطاعم في العالم، حيث يقدم تجربة طعام فريدة تحتفل بالمأكولات النوردية. تعرض قائمة التذوق الخاصة بهم المكونات الموسمية والتقنيات المبتكرة، مما يجعلها تجربة لا بد من تجربتها لعشاق الطعام. الحجوزات ضرورية، مع أسعار تعكس مكانتها المرموقة. توقع أجواء لا تُنسى تجمع بين الفن والطبيعة.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "تورفهالرنه",
+          "type": "street_food",
+          "description": "هذا السوق الغذائي النابض بالحياة يحتوي على مجموعة متنوعة من الأكشاك التي تقدم كل شيء من المأكولات البحرية الطازجة إلى المعجنات الفاخرة. إنه المكان المثالي لتجربة الأطباق المحلية والنكهات العالمية. احصل على سموربرود أو معجنات دنماركية حلوة بينما تستمتع بالأجواء الحيوية. تتفاوت الأسعار حسب البائع، مما يجعلها متاحة لجميع الميزانيات.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "جيرانيوم",
+          "type": "restaurant",
+          "description": "يقدم هذا المطعم الحاصل على ثلاث نجوم ميشلان تجربة تناول طعام راقية لا مثيل لها مع أطباق رائعة تبرز النكهات النوردية. توفر المساحة المصممة بشكل أنيق أجواء هادئة، مثالية لتجربة تناول طعام حميمة. قائمة التذوق هي رحلة عبر الفصول، مع مكونات طازجة ومحلية. الأسعار في الجانب الأعلى، مما يعكس الفن الطهوي المعروض.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "طعام الشارع في كوبنهاغن - ريفن",
+          "type": "street_food",
+          "description": "يقع ريفن على الواجهة البحرية، وهو سوق طعام شارع نابض بالحياة يقدم مجموعة متنوعة من المأكولات العالمية. مع شاحنات الطعام والأكشاك من ثقافات مختلفة، يمكنك الاستمتاع بكل شيء من التاكو إلى البرغر الفاخر. تجعل الأجواء غير الرسمية والموسيقى الحية منه مكانًا رائعًا للاسترخاء مع الأصدقاء. الأسعار مناسبة للميزانية، مما يسمح لك بتجربة أطباق متعددة.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "ذا بانtry",
+          "type": "cafe",
+          "description": "مقهى مريح معروف بعروض الإفطار القلبية والمعجنات اللذيذة. ذا بانري هو مفضل محلي بسبب أجوائه المرحبة وخدمته الودية. استمتع بإفطار دنماركي كلاسيكي أو معجنات لذيذة مع قهوتك. الأسعار معقولة، مما يجعله مكانًا رائعًا لتناول وجبة غير رسمية.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "مطعم شونمان",
+          "type": "restaurant",
+          "description": "يتخصص هذا المطعم الأيقوني في سموربرود الدنماركي التقليدي، وهي شطائر مفتوحة الوجه مزينة بمجموعة متنوعة من المكونات الطازجة. الأجواء ساحرة وتذكرنا بالثقافة الدنماركية الكلاسيكية. الأسعار معتدلة، مما يجعلها خيارًا ممتازًا لتذوق المأكولات المحلية. لا تفوتوا تنويعاتهم من الرنجة!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "سوق الليل في كوبنهاغن",
+          "type": "night_market",
+          "description": "سوق ليلي نابض بالحياة يحدث خلال أشهر الصيف، يقدم مجموعة من أكشاك الطعام التي تحتوي على المأكولات المحلية والدولية. استمتع بالترفيه المباشر أثناء الانغماس في خيارات طعام الشارع اللذيذة. الأجواء احتفالية ومثالية لقضاء ليلة مع الأصدقاء. الأسعار معقولة، مما يتيح لك استكشاف أطباق متنوعة.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "بار ميكيلر",
+          "type": "bar",
+          "description": "بار مشهور للبيرة الحرفية يقدم مجموعة متغيرة من بيرة ميكيلر، المصنوعة بتقنيات تخمير مبتكرة. تدعوك الأجواء المريحة للاسترخاء مع الأصدقاء أثناء تذوق البيرة الفريدة. تتفاوت الأسعار حسب اختيار البيرة، ولكنه مكان مناسب للميزانية لقضاء ليلة ممتعة. لا تفوت عروضهم الموسمية!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "কোপেনহেগেনে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবারের গাইড",
+      "seo_description": "কোপেনহেগেনে সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে ফাইন ডাইনিং পর্যন্ত - বুকিং লিঙ্ক সহ।",
+      "page_intro": "কোপেনহেগেন একটি প্রাণবন্ত খাদ্য সংস্কৃতির জন্য পরিচিত যা ঐতিহ্যবাহী ডেনিশ রান্নাকে উদ্ভাবনী রন্ধনপ্রণালী প্রবণতার সাথে সংযুক্ত করে। শহরটি তাজা, স্থানীয়ভাবে উৎসৃত উপকরণের উপর জোর দেওয়ার জন্য প্রসিদ্ধ এবং বিভিন্ন ডাইনিং অভিজ্ঞতার জন্য, সাধারণ রাস্তার খাবারের বাজার থেকে শুরু করে মিশেলিন-স্টার রেস্তোরাঁ পর্যন্ত। আপনি ক্লাসিক স্মোরব্রড বা আধুনিক নর্ডিক খাবারের জন্য মেজাজে থাকুন, কোপেনহেগেনে প্রতিটি স্বাদের জন্য কিছু না কিছু রয়েছে।",
+      "items": [
+        {
+          "id": "noma",
+          "name": "নোরা",
+          "type": "restaurant",
+          "description": "এটি বিশ্বের সেরা রেস্তোরাঁগুলির মধ্যে একটি হিসেবে বিবেচিত, নোরা একটি অনন্য ডাইনিং অভিজ্ঞতা প্রদান করে যা নর্ডিক রান্নাকে উদযাপন করে। তাদের স্বাদ তালিকা মৌসুমি উপকরণ এবং উদ্ভাবনী প্রযুক্তি প্রদর্শন করে, খাদ্য উৎসাহীদের জন্য এটি একটি অবশ্যই চেষ্টা করা উচিত। সংরক্ষণ আবশ্যক, মূল্যগুলি এর মর্যাদাপূর্ণ অবস্থানকে প্রতিফলিত করে। শিল্প এবং প্রকৃতির সংমিশ্রণের একটি অবিস্মরণীয় পরিবেশের প্রত্যাশা করুন।",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "টর্ভেহালারনে",
+          "type": "street_food",
+          "description": "এই ব্যস্ত খাদ্য বাজারে একটি বৈচিত্র্যময় স্টল রয়েছে যা তাজা সামুদ্রিক খাবার থেকে শুরু করে গৌরবময় পেস্ট্রি পর্যন্ত সবকিছু সরবরাহ করে। এটি স্থানীয় বিশেষতা এবং আন্তর্জাতিক স্বাদগুলি পরীক্ষা করার জন্য নিখুঁত স্থান। একটি স্মোরব্রড বা একটি মিষ্টি ডেনিশ পেস্ট্রি নিন এবং প্রাণবন্ত পরিবেশের মধ্যে উপভোগ করুন। বিক্রেতার ওপর নির্ভর করে দাম ভিন্ন হয়, যা এটি সকল বাজেটের জন্য প্রবেশযোগ্য করে।",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "গেরানিয়াম",
+          "type": "restaurant",
+          "description": "এই তিন-মিশেলিন-স্টার রেস্তোরাঁ একটি অতুলনীয় ফাইন ডাইনিং অভিজ্ঞতা প্রদান করে যা নর্ডিক স্বাদগুলিকে হাইলাইট করে এমন চমৎকার খাবারের সাথে। এলিগেন্টভাবে ডিজাইন করা স্থানটি একটি শান্ত পরিবেশ প্রদান করে, যা একটি ঘনিষ্ঠ ডাইনিং অভিজ্ঞতার জন্য উপযুক্ত। স্বাদ তালিকা মৌসুমের একটি যাত্রা, তাজা এবং স্থানীয় উপকরণগুলি নিয়ে গঠিত। দাম উচ্চপদে, যা প্রদর্শিত রন্ধনশৈলীর শিল্পকে প্রতিফলিত করে।",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "কোপেনহেগেন স্ট্রিট ফুড - রেফেন",
+          "type": "street_food",
+          "description": "জলসীমায় অবস্থিত, রেফেন একটি প্রাণবন্ত রাস্তার খাবারের বাজার যার বৈচিত্র্যময় বৈশ্বিক রান্নার নির্বাচন রয়েছে। বিভিন্ন সংস্কৃতি থেকে খাবারের ট্রাক এবং স্টল রয়েছে, আপনি টাকো থেকে শুরু করে গৌরবময় বার্গার পর্যন্ত সবকিছু উপভোগ করতে পারেন। অস্বাভাবিক পরিবেশ এবং লাইভ সঙ্গীত এটিকে বন্ধুদের সাথে বিশ্রাম নেওয়ার জন্য একটি দুর্দান্ত স্থান করে তোলে। দাম বাজেটের জন্য বন্ধুত্বপূর্ণ, যা আপনাকে একাধিক খাবারের স্বাদ নিতে দেয়।",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "দ্য প্যান্ট্রি",
+          "type": "cafe",
+          "description": "একটি আরামদায়ক ক্যাফে যা তার হৃদয়গ্রাহী ব্রাঞ্চ অফারিং এবং সুস্বাদু পেস্ট্রির জন্য পরিচিত। দ্য প্যান্ট্রি এর স্বাগত জানানো পরিবেশ এবং বন্ধুত্বপূর্ণ সেবার জন্য স্থানীয় প্রিয়। আপনার কফির সাথে একটি ক্লাসিক ডেনিশ নাশতা বা একটি মিষ্টি পেস্ট্রি উপভোগ করুন। দাম যুক্তিসঙ্গত, যা এটিকে একটি আকস্মিক খাবারের জন্য একটি দুর্দান্ত স্থান করে তোলে।",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "রেস্টুরেন্ট স্কনম্যান",
+          "type": "restaurant",
+          "description": "এই আইকনিক রেস্তোরাঁ ঐতিহ্যবাহী ডেনিশ স্মোরব্রডে বিশেষজ্ঞ, যা বিভিন্ন তাজা উপকরণের সাথে সুন্দরভাবে উপস্থাপিত ওপেন-ফেস স্যান্ডউইচ। পরিবেশটি আকর্ষণীয় এবং ক্লাসিক ডেনিশ সংস্কৃতির স্মৃতি মনে করিয়ে দেয়। দাম মধ্যম, যা এটিকে স্থানীয় খাবারের স্বাদ নেওয়ার জন্য একটি চমৎকার পছন্দ করে। তাদের হেরিং ভেরিয়েশন মিস করবেন না!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "কোপেনহেগেন নাইট মার্কেট",
+          "type": "night_market",
+          "description": "একটি প্রাণবন্ত রাতের বাজার যা গ্রীষ্মের মাসগুলিতে অনুষ্ঠিত হয়, স্থানীয় এবং আন্তর্জাতিক রান্নার বৈশিষ্ট্যযুক্ত খাদ্য স্টলগুলির একটি প্রচুর পরিমাণে প্রদান করে। সুস্বাদু রাস্তার খাবারের বিকল্পগুলি উপভোগ করতে করতে লাইভ বিনোদনের আনন্দ लें। পরিবেশটি উত্সবমুখর এবং বন্ধুদের সাথে রাত কাটানোর জন্য আদর্শ। দাম সাশ্রয়ী, যা আপনাকে বিভিন্ন ডিশের স্বাদ নিতে দেয়।",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "মিকেলার বার",
+          "type": "bar",
+          "description": "একটি সুপরিচিত ক্রাফ্ট বীয়ার বার যা মিকেলার বিয়ারের একটি ঘূর্ণায়মান নির্বাচন প্রদর্শন করে, যা উদ্ভাবনী ব্রিউং প্রযুক্তির সাথে তৈরি করা হয়। আরামদায়ক পরিবেশে আপনি বন্ধুদের সাথে বিশ্রাম নিতে পারেন যখন আপনি অনন্য ব্রু এর স্বাদ নেন। দাম বিয়ারের নির্বাচনের উপর নির্ভর করে ভিন্ন হয়, তবে এটি একটি মজাদার রাতের জন্য একটি সাশ্রয়ী স্থান। তাদের মৌসুমি বিশেষত্বগুলি মিস করবেন না!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Копенгагене 2026 - Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Копенгагене. От бюджетных блюд до высокой кухни - с ссылками на бронирование.",
+      "page_intro": "Копенгаген славится яркой кулинарной культурой, которая сочетает в себе традиционную датскую кухню и инновационные кулинарные тренды. Город известен акцентом на свежих, местных ингредиентах и разнообразии ресторанного опыта - от неформальных рынков уличной еды до ресторанов с звездами Мишлен. Независимо от того, хотите ли вы классическое смёрребрёд или современные нордические блюда, в Копенгагене есть что-то, что удовлетворит любой вкус.",
+      "items": [
+        {
+          "id": "noma",
+          "name": "Нома",
+          "type": "restaurant",
+          "description": "Считается одним из лучших ресторанов в мире, Нома предлагает уникальный кулинарный опыт, отмечающий нордическую кухню. Их дегустационное меню демонстрирует сезонные ингредиенты и инновационные техники, что делает его обязательным к посещению для любителей еды. Резервация обязательна, цены отражают его престижный статус. Ожидайте незабываемую атмосферу, объединяющую искусство и природу.",
+          "image_keyword": "Noma restaurant",
+          "star_rating": 4.8,
+          "price_range": "$$$$",
+          "must_try": "Seafood and foraged vegetables",
+          "klook_query": "Noma restaurant booking"
+        },
+        {
+          "id": "torvehallerne",
+          "name": "Торвеаллерне",
+          "type": "street_food",
+          "description": "Этот оживленный рынок еды предлагает разнообразие прилавков, где можно найти все, от свежих морепродуктов до гурманских выпечек. Это идеальное место, чтобы попробовать местные деликатесы и международные вкусы. Возьмите смёрребрёд или сладкую датскую выпечку, наслаждаясь яркой атмосферой. Цены варьируются в зависимости от продавца, что делает его доступным для всех бюджетов.",
+          "image_keyword": "Torvehallerne market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Smørrebrød",
+          "klook_query": "Torvehallerne food market tour"
+        },
+        {
+          "id": "geranium",
+          "name": "Гераниум",
+          "type": "restaurant",
+          "description": "Этот ресторан с тремя звездами Мишлен предлагает непревзойденный опыт высокой кухни с изысканными блюдами, подчеркивающими нордические вкусы. Элегантно оформленное пространство создает спокойную атмосферу, идеально подходящую для интимного обеда. Дегустационное меню - это путешествие по сезонам, с акцентом на свежие и местные ингредиенты. Цены находятся на высоком уровне, отражая выставленное кулинарное искусство.",
+          "image_keyword": "Geranium restaurant",
+          "star_rating": 4.9,
+          "price_range": "$$$$",
+          "must_try": "Seasonal tasting menu",
+          "klook_query": "Geranium restaurant booking"
+        },
+        {
+          "id": "streetfoodcopenhagen",
+          "name": "Уличная еда в Копенгагене - Рефен",
+          "type": "street_food",
+          "description": "Находясь на набережной, Рефен - это яркий рынок уличной еды, предлагающий разнообразие глобальных кухонь. С фуд-траками и прилавками из разных культур вы можете насладиться всем, от такос до гурманских бургеров. Непринужденная атмосфера и живая музыка делают это отличным местом, чтобы расслабиться с друзьями. Цены дружелюбны к бюджету, позволяя вам попробовать несколько блюд.",
+          "image_keyword": "Copenhagen Street Food Reffen",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Tacos and gourmet burgers",
+          "klook_query": "Copenhagen Street Food Reffen tour"
+        },
+        {
+          "id": "the-pantry",
+          "name": "Пантер",
+          "type": "cafe",
+          "description": "Уютное кафе, известное своими сытными бранчами и вкусной выпечкой. Пантер - местный фаворит благодаря своей приветливой атмосфере и дружелюбному обслуживанию. Наслаждайтесь классическим датским завтраком или восхитительной выпечкой с кофе. Цены разумные, что делает его отличным местом для непринужденного обеда.",
+          "image_keyword": "The Pantry cafe",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Danish pastry",
+          "klook_query": "The Pantry cafe booking"
+        },
+        {
+          "id": "smorrebrod",
+          "name": "Ресторан Шённманн",
+          "type": "restaurant",
+          "description": "Этот знаковый ресторан специализируется на традиционном датском смёрребрёд, красиво оформленных открытых сэндвичах с разнообразными свежими ингредиентами. Атмосфера очаровательна и напоминает о классической датской культуре. Цены умеренные, что делает его отличным выбором для дегустации местной кухни. Не пропустите их вариации с сельдью!",
+          "image_keyword": "Restaurant Schønnemann",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Herring smørrebrød",
+          "klook_query": "Restaurant Schønnemann booking"
+        },
+        {
+          "id": "copenhagen-night-market",
+          "name": "Ночной рынок Копенгагена",
+          "type": "night_market",
+          "description": "Живой ночной рынок, который проходит летом и предлагает множество торговых точек с местной и международной кухней. Наслаждайтесь живым развлечением, наслаждаясь вкусной уличной едой. Атмосфера праздничная и идеальна для вечера с друзьями. Цены доступные, позволяя вам попробовать разные блюда.",
+          "image_keyword": "Copenhagen Night Market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Street tacos and grilled meats",
+          "klook_query": "Copenhagen Night Market tour"
+        },
+        {
+          "id": "copenhagen-brewery",
+          "name": "Микелер Бар",
+          "type": "bar",
+          "description": "Известный бар крафтового пива, который предлагает ротацию пив Микелер, приготовленных с использованием инновационных технологий пивоварения. Уютная атмосфера приглашает вас расслабиться с друзьями, пробуя уникальные сорта пива. Цены варьируются в зависимости от выбора пива, но это доступное место для веселой вечеринки. Не пропустите их сезонные специальные предложения!",
+          "image_keyword": "Mikkeller Bar",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Mikkeller craft beers",
+          "klook_query": "Mikkeller Bar booking"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1145 @@
+{
+  "city_slug": "ho-chi-minh-city",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Ho Chi Minh City 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Ho Chi Minh City. From budget eats to fine dining — with booking links.",
+      "page_intro": "Ho Chi Minh City, a bustling metropolis in Vietnam, offers a vibrant food scene that reflects its rich cultural heritage. From bustling street markets to upscale restaurants, the city is a paradise for food lovers. You can savor everything from traditional Vietnamese pho to innovative fusion dishes. Whether you're exploring the lively Ben Thanh Market or dining in a chic rooftop restaurant, the flavors of Ho Chi Minh City promise an unforgettable culinary journey.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "Ben Thanh Market",
+          "type": "night_market",
+          "description": "A visit to Ho Chi Minh City is incomplete without exploring the bustling Ben Thanh Market. This iconic night market is a food lover's paradise, offering everything from fresh seafood to delicious banh mi. The atmosphere is lively and vibrant, with countless stalls offering a wide variety of local delicacies at affordable prices.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "Bep Me In is renowned for its authentic Vietnamese cuisine. Nestled in the heart of District 1, this cozy eatery offers a cozy ambiance with a rustic charm. Dishes are prepared using traditional recipes passed down through generations, with a price range that's budget-friendly. The menu is full of local favorites, making it a must-visit for those seeking genuine Vietnamese flavors.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "Ngon Villa Saigon offers a delightful dining experience with an impressive menu of Vietnamese dishes. Located in a charming colonial villa, the restaurant serves an array of local delicacies with a modern twist. The atmosphere is elegant yet relaxed, perfect for both family gatherings and romantic dinners. Prices are moderate, reflecting the quality and presentation of the dishes.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "Pho Hoa Pasteur is a legendary spot in Ho Chi Minh City, famous for its traditional pho. This no-frills restaurant has been serving steaming bowls of pho for decades, attracting both locals and tourists. The broth is rich and flavorful, complemented by tender slices of beef and fresh herbs. Prices are reasonable, making it a popular choice for a quick and satisfying meal.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "Famous for its crispy Vietnamese pancakes, Banh Xeo 46A is a must-visit for street food enthusiasts. Located in District 3, this humble eatery serves up generous portions of banh xeo filled with shrimp, pork, and bean sprouts. The pancakes are served with fresh lettuce and herbs, perfect for wrapping and dipping in fish sauce. Prices are very affordable, making it a local favorite.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "Cuc Gach Quan is a unique dining experience, offering a menu of traditional Vietnamese dishes in a homely setting. The restaurant is housed in a beautifully restored French colonial villa, providing a charming and inviting atmosphere. With dishes made from fresh, local ingredients, Cuc Gach Quan is ideal for those looking to experience authentic Vietnamese cuisine with a touch of elegance.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "Saigon Square",
+          "type": "night_market",
+          "description": "Saigon Square is a bustling hub for shopping and street food. While known for its fashion stalls, the market also offers a variety of food vendors serving local snacks and delicacies. The lively atmosphere and affordable prices make it a great spot for those wanting to experience the energy of Ho Chi Minh City's street food scene.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine is a chic cafe and boutique located in the heart of Ho Chi Minh City. It offers a modern twist on the traditional coffee shop experience, with a stylish interior and a menu featuring freshly brewed coffee and international dishes. Known for its relaxed ambiance and artistic vibe, L'Usine is perfect for a leisurely brunch or a quick coffee break.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "胡志明市最佳美食 2026 — 顶级餐厅和街头美食指南",
+      "seo_description": "探索胡志明市的最佳餐厅、街头美食和当地特色。从实惠美食到高档餐饮 — 提供预订链接。",
+      "page_intro": "胡志明市，越南的一座繁华大都市，提供丰富的美食场景，反映了其丰富的文化遗产。从繁忙的街市到高档餐厅，这座城市是美食爱好者的天堂。您可以品尝从传统越南河粉到创新融合菜肴的所有美食。无论您是在热闹的边青市场探索，还是在别致的屋顶餐厅用餐，胡志明市的风味都承诺带来难忘的美食之旅。",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "边青市场",
+          "type": "night_market",
+          "description": "到胡志明市的旅行如果不去探索繁忙的边青市场就不完整。这个标志性的夜市是美食爱好者的天堂，从新鲜海鲜到美味的越南三明治应有尽有。这里的氛围热闹而充满活力，无数个摊位提供各种当地美食，价格实惠。",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "Bep Me In 以其正宗的越南菜闻名。这家位于一区中心的温馨小餐馆提供舒适的氛围和质朴的魅力。菜肴根据代代相传的传统食谱制作，价格亲民。菜单上满是当地人喜爱的菜肴，是寻找真正越南风味的人的必去之地。",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "Ngon Villa Saigon 提供令人愉悦的用餐体验，其越南菜肴的菜单令人印象深刻。餐厅位于一座美丽的殖民别墅内，提供一系列带有现代风味的当地美食。氛围优雅而轻松，非常适合家庭聚会和浪漫晚餐。价格适中，反映了菜肴的质量和展示。",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "Pho Hoa Pasteur 是胡志明市的传奇之地，以其传统河粉而闻名。这家朴实无华的餐馆几十年来一直提供热腾腾的河粉，吸引着当地人和游客。浓郁而芳香的汤底与嫩牛肉和新鲜香草相辅相成。价格合理，是快速而令人满意的一餐的热门选择。",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "Banh Xeo 46A 因其酥脆的越南煎饼而闻名，是街头美食爱好者的必去之地。这家位于三区的简朴餐馆提供大量的煎饼，内有虾、猪肉和豆芽。煎饼配新鲜的生菜和香草，非常适合用鱼露包裹和蘸食。价格非常实惠，是当地人喜爱的餐馆。",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "Cuc Gach Quan 提供独特的用餐体验，在家庭氛围中提供传统越南菜肴的菜单。餐厅坐落在一座美丽修复的法国殖民别墅中，提供迷人而亲切的氛围。菜肴使用新鲜的当地食材制成，是希望体验优雅正宗越南美食的人的理想选择。",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "西贡广场",
+          "type": "night_market",
+          "description": "西贡广场是一个购物和街头美食的繁忙中心。虽然以时尚摊位闻名，但市场也提供各种食品摊位，出售当地小吃和美食。热闹的氛围和实惠的价格使其成为那些想体验胡志明市街头美食风情的人的好去处。",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine 是一家位于胡志明市中心的别致咖啡馆和精品店。它以现代的方式呈现传统的咖啡馆体验，内部装饰时尚，菜单上有新鲜煮制的咖啡和国际菜肴。以其轻松的氛围和艺术气息而闻名，L'Usine 非常适合悠闲的早午餐或快速的咖啡时间。",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "ホーチミン市のベストフード 2026 — トップレストランとストリートフードガイド",
+      "seo_description": "ホーチミン市の最高のレストラン、ストリートフード、地元の名物を発見しましょう。予算に優しい食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "ベトナムの賑やかな大都市ホーチミン市は、その豊かな文化遺産を反映した活気ある食のシーンを提供しています。賑やかなストリートマーケットから高級レストランまで、この街は食通にとって楽園です。伝統的なベトナムのフォーから革新的なフュージョン料理まで、すべての味を楽しむことができます。活気に満ちたベンタイン市場を探索するにせよ、おしゃれな屋上レストランで食事をするにせよ、ホーチミン市のフレーバーは忘れられない美食の旅を約束します。",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "ベンタイン市場",
+          "type": "night_market",
+          "description": "ホーチミン市を訪れるなら、賑やかなベンタイン市場を探索せずには帰れません。この象徴的なナイトマーケットは、シーフードや美味しいバインミーなど、食通の楽園です。雰囲気は活気に満ち、無数の屋台が手頃な価格で多様な地元の珍味を提供しています。",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "Bep Me In はその本格的なベトナム料理で有名です。1区の中心に位置するこの居心地の良いレストランは、素朴な魅力を持つ居心地の良い雰囲気を提供します。料理は世代を超えて受け継がれてきた伝統的なレシピを使って調理され、予算にも優しい価格帯です。メニューは地元の人気料理でいっぱいで、本物のベトナムの味を求める人には必見です。",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "Ngon Villa Saigon は、印象的なベトナム料理のメニューを持つ素晴らしいダイニング体験を提供します。魅力的なコロニアルヴィラに位置するこのレストランは、モダンなひねりを加えた地元の珍味を提供します。雰囲気はエレガントでリラックスしており、家族の集まりやロマンチックなディナーにぴったりです。価格は料理の質と見た目を反映しており、適度です。",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "Pho Hoa Pasteur はホーチミン市で伝説的なスポットで、伝統的なフォーで有名です。この飾り気のないレストランは、何十年にもわたって熱々のフォーを提供しており、地元の人々や観光客を惹きつけています。スープはコクがあり風味豊かで、柔らかいビーフのスライスと新鮮なハーブと一緒に楽しめます。価格は手頃で、素早く満足できる食事の人気の選択肢です。",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "サクサクのベトナム風パンケーキで有名なBanh Xeo 46Aは、ストリートフード愛好家にとって必見のスポットです。3区に位置するこの謙虚な食堂は、エビ、豚肉、もやしを詰めたバインセオをたっぷり提供しています。パンケーキは新鮮なレタスとハーブと一緒に提供され、魚醤で包んでディップするのに最適です。価格は非常に手頃で、地元の人々に人気があります。",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "Cuc Gach Quan は、家庭的な雰囲気の中で伝統的なベトナム料理のメニューを提供するユニークなダイニング体験です。美しく修復されたフランス植民地時代のヴィラに収容されているこのレストランは、魅力的で居心地の良い雰囲気を提供します。新鮮な地元の食材を使用した料理で、エレガントなベトナム料理を体験したい人に最適です。",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "サイゴンスクエア",
+          "type": "night_market",
+          "description": "サイゴンスクエアは、ショッピングとストリートフードの賑やかなハブです。ファッションの屋台で知られていますが、市場には地元のスナックや珍味を提供するさまざまな食品ベンダーもいます。活気に満ちた雰囲気と手頃な価格で、ホーチミン市のストリートフードシーンの活力を体験したい人にとって素晴らしいスポットです。",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine はホーチミン市の中心に位置するシックなカフェとブティックです。伝統的なコーヒーショップ体験に現代的なひねりを加え、スタイリッシュなインテリアと新鮮に淹れたコーヒーや国際料理を特徴とするメニューを提供します。リラックスした雰囲気とアーティスティックな雰囲気で知られており、L'Usineはのんびりとしたブランチやクイックなコーヒーブレイクに最適です。",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "호치민시 최고의 음식 2026 — 최고의 레스토랑 및 거리 음식 가이드",
+      "seo_description": "호치민시에서 최고의 레스토랑, 거리 음식 및 지역 특산품을 발견하세요. 예산 친화적인 음식부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "베트남의 번화한 대도시 호치민시는 그 풍부한 문화 유산을 반영하는 활기찬 음식 문화를 제공합니다. 번화한 거리 시장부터 고급 레스토랑까지, 이 도시는 미식가들의 천국입니다. 전통적인 베트남 포부터 혁신적인 퓨전 요리까지 모든 것을 맛볼 수 있습니다. 활기찬 벤탄 시장을 탐험하거나 세련된 루프탑 레스토랑에서 식사하든, 호치민시의 맛은 잊을 수 없는 미식 여행을 약속합니다.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "벤탄 시장",
+          "type": "night_market",
+          "description": "호치민시를 방문할 때 번화한 벤탄 시장을 탐험하지 않고서는 완벽하지 않습니다. 이 상징적인 야시장은 신선한 해산물부터 맛있는 반미까지 다양한 음식을 제공하는 미식가들의 천국입니다. 분위기는 활기차고 생동감 있으며, 수많은 가판대가 다양한 현지 별미를 저렴한 가격에 제공합니다.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "Bep Me In은 정통 베트남 요리로 유명합니다. 1구의 중심에 위치한 이 아늑한 식당은 소박한 매력이 있는 아늑한 분위기를 제공합니다. 요리는 세대를 거쳐 전해 내려오는 전통 레시피로 준비되며 예산 친화적인 가격대를 자랑합니다. 메뉴는 현지 인기 요리로 가득 차 있으며, 진정한 베트남의 맛을 찾는 사람들에게 꼭 방문해야 할 곳입니다.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "Ngon Villa Saigon은 인상적인 베트남 요리 메뉴와 함께 매력적인 식사 경험을 제공합니다. 매력적인 식민지 시대의 빌라에 위치한 이 레스토랑은 현대적인 감각을 더한 다양한 현지 별미를 제공합니다. 분위기는 우아하면서도 편안하여 가족 모임이나 로맨틱한 저녁 식사에 적합합니다. 가격은 요리의 품질과 프레젠테이션을 반영하여 적당합니다.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "Pho Hoa Pasteur는 호치민시에서 전설적인 장소로, 전통적인 포로 유명합니다. 이 소박한 레스토랑은 수십 년 동안 뜨거운 포를 제공하며, 현지인과 관광객 모두를 끌어들이고 있습니다. 풍부하고 맛있는 국물은 부드러운 소고기 슬라이스와 신선한 허브와 잘 어울립니다. 가격은 합리적이며, 빠르고 만족스러운 식사를 위한 인기 있는 선택입니다.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "바삭한 베트남 팬케이크로 유명한 Banh Xeo 46A는 거리 음식 애호가들에게 꼭 방문해야 할 장소입니다. 3구에 위치한 이 소박한 식당은 새우, 돼지고기, 콩나물이 들어간 반쎄오를 넉넉하게 제공합니다. 팬케이크는 신선한 상추와 허브와 함께 제공되며, 생선 소스에 싸서 찍어 먹기 좋습니다. 가격은 매우 저렴하여 현지인들에게 인기가 많습니다.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "Cuc Gach Quan은 가정적인 분위기에서 전통적인 베트남 요리 메뉴를 제공하는 독특한 식사 경험입니다. 아름답게 복원된 프랑스 식민지 시대의 빌라에 위치한 이 레스토랑은 매력적이고 따뜻한 분위기를 제공합니다. 신선한 현지 재료로 만든 요리로, 우아한 베트남 요리를 경험하고자 하는 사람들에게 이상적입니다.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "사이공 스퀘어",
+          "type": "night_market",
+          "description": "사이공 스퀘어는 쇼핑과 거리 음식의 번화한 중심지입니다. 패션 가판대로 잘 알려져 있지만, 시장에는 다양한 음식 판매자들이 현지 간식과 별미를 제공합니다. 활기찬 분위기와 저렴한 가격으로, 호치민시의 거리 음식 장면의 에너지를 경험하고자 하는 사람들에게 좋은 장소입니다.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine은 호치민시 중심에 위치한 세련된 카페 및 부티크입니다. 전통적인 커피숍 경험에 현대적인 감각을 더해, 스타일리시한 인테리어와 신선하게 내린 커피와 국제 요리를 특징으로 하는 메뉴를 제공합니다. 여유로운 분위기와 예술적인 분위기로 잘 알려져 있으며, L'Usine은 느긋한 브런치나 빠른 커피 브레이크에 완벽합니다.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure Nourriture à Ho Chi Minh Ville 2026 — Guide des Meilleurs Restaurants et Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Ho Chi Minh Ville. Des repas économiques à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "Ho Chi Minh Ville, une métropole animée du Vietnam, offre une scène culinaire vibrante qui reflète son riche patrimoine culturel. Des marchés de rue animés aux restaurants haut de gamme, la ville est un paradis pour les amateurs de bonne chère. Vous pouvez savourer tout, des pho vietnamiens traditionnels aux plats fusion innovants. Que vous exploriez le marché animé de Ben Thanh ou que vous dîniez dans un restaurant chic en rooftop, les saveurs de Ho Chi Minh Ville promettent un voyage culinaire inoubliable.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "Marché Ben Thanh",
+          "type": "night_market",
+          "description": "Une visite à Ho Chi Minh Ville est incomplète sans explorer le marché animé de Ben Thanh. Ce marché nocturne emblématique est un paradis pour les amateurs de bonne chère, offrant tout, des fruits de mer frais aux délicieux banh mi. L'atmosphère est vivante et dynamique, avec d'innombrables stands proposant une grande variété de spécialités locales à des prix abordables.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "Bep Me In est réputé pour sa cuisine vietnamienne authentique. Niché au cœur du District 1, ce restaurant accueillant offre une ambiance chaleureuse avec un charme rustique. Les plats sont préparés selon des recettes traditionnelles transmises de génération en génération, avec une gamme de prix abordable. Le menu est rempli de favoris locaux, ce qui en fait un incontournable pour ceux qui recherchent des saveurs vietnamiennes authentiques.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "Ngon Villa Saigon offre une expérience culinaire délicieuse avec un menu impressionnant de plats vietnamiens. Situé dans une charmante villa coloniale, le restaurant sert une variété de spécialités locales avec une touche moderne. L'atmosphère est élégante mais détendue, parfaite pour les réunions de famille et les dîners romantiques. Les prix sont modérés, reflétant la qualité et la présentation des plats.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "Pho Hoa Pasteur est un endroit légendaire à Ho Chi Minh Ville, célèbre pour son pho traditionnel. Ce restaurant sans prétention sert des bols fumants de pho depuis des décennies, attirant à la fois les locaux et les touristes. Le bouillon est riche et savoureux, complété par des tranches de bœuf tendre et des herbes fraîches. Les prix sont raisonnables, ce qui en fait un choix populaire pour un repas rapide et satisfaisant.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "Célèbre pour ses crêpes vietnamiennes croustillantes, Banh Xeo 46A est un incontournable pour les amateurs de street food. Situé dans le District 3, ce modeste restaurant sert de généreuses portions de banh xeo garnies de crevettes, de porc et de pousses de soja. Les crêpes sont servies avec de la laitue fraîche et des herbes, parfaites pour être enroulées et trempées dans de la sauce de poisson. Les prix sont très abordables, en faisant un favori local.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "Cuc Gach Quan offre une expérience culinaire unique, proposant un menu de plats vietnamiens traditionnels dans un cadre chaleureux. Le restaurant est situé dans une villa coloniale française magnifiquement restaurée, offrant une atmosphère charmante et accueillante. Avec des plats préparés à partir d'ingrédients frais et locaux, Cuc Gach Quan est idéal pour ceux qui cherchent à découvrir une cuisine vietnamienne authentique avec une touche d'élégance.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "Saigon Square",
+          "type": "night_market",
+          "description": "Saigon Square est un centre animé pour le shopping et la street food. Bien qu'il soit connu pour ses stands de mode, le marché propose également une variété de vendeurs de nourriture servant des collations et des spécialités locales. L'atmosphère animée et les prix abordables en font un excellent endroit pour ceux qui souhaitent découvrir l'énergie de la scène street food de Ho Chi Minh Ville.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine est un café chic et une boutique située au cœur de Ho Chi Minh Ville. Il offre une touche moderne à l'expérience traditionnelle du café, avec un intérieur élégant et un menu proposant du café fraîchement préparé et des plats internationaux. Connu pour son ambiance détendue et son atmosphère artistique, L'Usine est parfait pour un brunch tranquille ou une pause café rapide.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "La Mejor Comida en Ciudad Ho Chi Minh 2026 — Guía de los Mejores Restaurantes y Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Ciudad Ho Chi Minh. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Ciudad Ho Chi Minh, una metrópoli bulliciosa en Vietnam, ofrece una escena gastronómica vibrante que refleja su rico patrimonio cultural. Desde mercados callejeros bulliciosos hasta restaurantes de lujo, la ciudad es un paraíso para los amantes de la comida. Puedes saborear desde pho vietnamita tradicional hasta platos de fusión innovadores. Ya sea que estés explorando el animado Mercado de Ben Thanh o cenando en un elegante restaurante en la azotea, los sabores de Ciudad Ho Chi Minh prometen un viaje culinario inolvidable.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "Mercado de Ben Thanh",
+          "type": "night_market",
+          "description": "Una visita a Ciudad Ho Chi Minh está incompleta sin explorar el bullicioso Mercado de Ben Thanh. Este mercado nocturno icónico es un paraíso para los amantes de la comida, ofreciendo de todo, desde mariscos frescos hasta deliciosos banh mi. La atmósfera es animada y vibrante, con innumerables puestos que ofrecen una amplia variedad de delicias locales a precios asequibles.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "Bep Me In es conocido por su auténtica cocina vietnamita. Situado en el corazón del Distrito 1, este acogedor restaurante ofrece un ambiente acogedor con un encanto rústico. Los platos se preparan utilizando recetas tradicionales transmitidas de generación en generación, con un rango de precios económico. El menú está lleno de favoritos locales, lo que lo convierte en un lugar de visita obligada para aquellos que buscan sabores vietnamitas genuinos.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "Ngon Villa Saigon ofrece una experiencia gastronómica deliciosa con un impresionante menú de platos vietnamitas. Ubicado en una encantadora villa colonial, el restaurante sirve una variedad de delicias locales con un toque moderno. La atmósfera es elegante pero relajada, perfecta para reuniones familiares y cenas románticas. Los precios son moderados, reflejando la calidad y presentación de los platos.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "Pho Hoa Pasteur es un lugar legendario en Ciudad Ho Chi Minh, famoso por su pho tradicional. Este restaurante sin pretensiones ha estado sirviendo tazones humeantes de pho durante décadas, atrayendo a locales y turistas. El caldo es rico y sabroso, complementado con tiernas rebanadas de carne de res y hierbas frescas. Los precios son razonables, lo que lo convierte en una opción popular para una comida rápida y satisfactoria.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "Famoso por sus crujientes panqueques vietnamitas, Banh Xeo 46A es una visita obligada para los entusiastas de la comida callejera. Ubicado en el Distrito 3, este humilde restaurante sirve generosas porciones de banh xeo rellenas de camarones, cerdo y brotes de soja. Los panqueques se sirven con lechuga fresca y hierbas, perfectos para envolver y mojar en salsa de pescado. Los precios son muy asequibles, lo que lo convierte en un favorito local.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "Cuc Gach Quan ofrece una experiencia gastronómica única, con un menú de platos vietnamitas tradicionales en un ambiente hogareño. El restaurante está ubicado en una villa colonial francesa bellamente restaurada, ofreciendo un ambiente encantador y acogedor. Con platos hechos con ingredientes frescos y locales, Cuc Gach Quan es ideal para aquellos que buscan experimentar la auténtica cocina vietnamita con un toque de elegancia.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "Saigon Square",
+          "type": "night_market",
+          "description": "Saigon Square es un centro bullicioso para las compras y la comida callejera. Aunque conocido por sus puestos de moda, el mercado también ofrece una variedad de vendedores de comida que sirven bocadillos y delicias locales. La atmósfera animada y los precios asequibles lo convierten en un gran lugar para aquellos que desean experimentar la energía de la escena de comida callejera de Ciudad Ho Chi Minh.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine es un café elegante y boutique ubicado en el corazón de Ciudad Ho Chi Minh. Ofrece un toque moderno a la experiencia tradicional de la cafetería, con un interior elegante y un menú que presenta café recién preparado y platos internacionales. Conocido por su ambiente relajado y artístico, L'Usine es perfecto para un brunch tranquilo o una rápida pausa para el café.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Kota Ho Chi Minh 2026 — Panduan Restoran & Makanan Jalanan Terbaik",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan kelezatan lokal di Kota Ho Chi Minh. Dari makanan ramah anggaran hingga santapan mewah — dengan tautan pemesanan.",
+      "page_intro": "Kota Ho Chi Minh, sebuah kota metropolitan yang ramai di Vietnam, menawarkan scene kuliner yang semarak yang mencerminkan warisan budaya yang kaya. Dari pasar jalanan yang ramai hingga restoran mewah, kota ini adalah surga bagi pecinta makanan. Anda dapat menikmati segala sesuatu mulai dari pho Vietnam tradisional hingga hidangan fusi inovatif. Apakah Anda menjelajahi Pasar Ben Thanh yang ramai atau bersantap di restoran rooftop yang chic, cita rasa Kota Ho Chi Minh menjanjikan perjalanan kuliner yang tak terlupakan.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "Pasar Ben Thanh",
+          "type": "night_market",
+          "description": "Kunjungan ke Kota Ho Chi Minh tidak lengkap tanpa menjelajahi Pasar Ben Thanh yang ramai. Pasar malam ikonik ini adalah surga bagi pecinta makanan, menawarkan segala sesuatu mulai dari makanan laut segar hingga banh mi yang lezat. Suasananya hidup dan semarak, dengan banyak kios yang menawarkan berbagai makanan lokal dengan harga terjangkau.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "Bep Me In terkenal dengan masakan Vietnam yang otentik. Terletak di jantung Distrik 1, restoran yang nyaman ini menawarkan suasana yang hangat dengan pesona pedesaan. Hidangan disiapkan menggunakan resep tradisional yang diwariskan dari generasi ke generasi, dengan kisaran harga yang ramah anggaran. Menu ini penuh dengan favorit lokal, menjadikannya tempat yang wajib dikunjungi bagi mereka yang mencari cita rasa Vietnam yang asli.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "Ngon Villa Saigon menawarkan pengalaman bersantap yang menggembirakan dengan menu mengesankan dari hidangan Vietnam. Terletak di vila kolonial yang menawan, restoran ini menyajikan berbagai makanan lokal dengan sentuhan modern. Suasananya elegan namun santai, sempurna untuk pertemuan keluarga dan makan malam romantis. Harganya sedang, mencerminkan kualitas dan presentasi hidangan.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "Pho Hoa Pasteur adalah tempat legendaris di Kota Ho Chi Minh, terkenal dengan pho tradisionalnya. Restoran sederhana ini telah menyajikan semangkuk pho panas selama beberapa dekade, menarik baik penduduk lokal maupun turis. Kuahnya kaya dan beraroma, dilengkapi dengan irisan daging sapi yang lembut dan rempah segar. Harganya terjangkau, menjadikannya pilihan populer untuk makanan cepat dan memuaskan.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "Terkenal dengan pancake Vietnam yang renyah, Banh Xeo 46A adalah tempat yang wajib dikunjungi bagi penggemar makanan jalanan. Terletak di Distrik 3, restoran sederhana ini menyajikan porsi banh xeo yang besar dengan udang, babi, dan taoge. Pancake disajikan dengan selada segar dan rempah-rempah, sempurna untuk dibungkus dan dicelupkan ke dalam saus ikan. Harganya sangat terjangkau, menjadikannya favorit lokal.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "Cuc Gach Quan menawarkan pengalaman bersantap yang unik, menyajikan menu hidangan Vietnam tradisional dalam suasana rumah yang hangat. Restoran ini berada di vila kolonial Prancis yang dipugar dengan indah, menawarkan suasana yang menawan dan mengundang. Dengan hidangan yang dibuat dari bahan-bahan segar dan lokal, Cuc Gach Quan ideal bagi mereka yang ingin merasakan masakan Vietnam yang otentik dengan sentuhan elegan.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "Saigon Square",
+          "type": "night_market",
+          "description": "Saigon Square adalah pusat yang ramai untuk belanja dan makanan jalanan. Meskipun dikenal dengan kios fesyennya, pasar ini juga menawarkan berbagai penjual makanan yang menyajikan camilan dan kelezatan lokal. Suasananya yang hidup dan harga yang terjangkau menjadikannya tempat yang bagus bagi mereka yang ingin merasakan energi scene makanan jalanan di Kota Ho Chi Minh.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine adalah kafe dan butik yang chic terletak di jantung Kota Ho Chi Minh. Ini menawarkan sentuhan modern pada pengalaman kedai kopi tradisional, dengan interior yang bergaya dan menu yang menampilkan kopi yang baru diseduh dan hidangan internasional. Dikenal dengan suasana santai dan suasana artistik, L'Usine sempurna untuk brunch yang santai atau istirahat kopi cepat.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "हो ची मिन्ह सिटी में सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्टोरेंट और स्ट्रीट फूड गाइड",
+      "seo_description": "हो ची मिन्ह सिटी में सर्वश्रेष्ठ रेस्टोरेंट, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट भोजन से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "वियतनाम का एक व्यस्त महानगर, हो ची मिन्ह सिटी, अपनी समृद्ध सांस्कृतिक धरोहर को दर्शाते हुए एक जीवंत भोजन दृश्य प्रस्तुत करता है। व्यस्त सड़क बाजारों से लेकर उच्च वर्ग के रेस्टोरेंट तक, यह शहर भोजन प्रेमियों के लिए एक स्वर्ग है। आप पारंपरिक वियतनामी फो से लेकर नवाचारपूर्ण फ्यूजन व्यंजन तक का स्वाद ले सकते हैं। चाहे आप जीवंत बेन थान मार्केट का अन्वेषण कर रहे हों या एक ठाठ रूफटॉप रेस्टोरेंट में भोजन कर रहे हों, हो ची मिन्ह सिटी के स्वाद एक अविस्मरणीय पाक यात्रा का वादा करते हैं।",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "बेन थान मार्केट",
+          "type": "night_market",
+          "description": "हो ची मिन्ह सिटी की यात्रा बेन थान मार्केट की खोज के बिना अधूरी है। यह प्रतिष्ठित नाइट मार्केट भोजन प्रेमियों के लिए एक स्वर्ग है, जो ताज़े समुद्री भोजन से लेकर स्वादिष्ट बान मी तक सब कुछ प्रदान करता है। माहौल जीवंत और उत्साहपूर्ण है, जिसमें अनगिनत स्टॉल्स सस्ती कीमतों पर स्थानीय व्यंजनों की एक विस्तृत विविधता पेश करते हैं।",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "बेप मी इन",
+          "type": "restaurant",
+          "description": "बेप मी इन अपने प्रामाणिक वियतनामी व्यंजनों के लिए प्रसिद्ध है। जिला 1 के दिल में बसा यह आरामदायक भोजनालय एक देहाती आकर्षण के साथ एक आरामदायक माहौल प्रदान करता है। व्यंजन पारंपरिक व्यंजनों का उपयोग करके तैयार किए जाते हैं जो पीढ़ियों से चले आ रहे हैं, जिसकी कीमत बजट के अनुकूल है। मेनू स्थानीय पसंदीदा से भरा है, जो प्रामाणिक वियतनामी स्वाद की तलाश करने वालों के लिए इसे अवश्य जाना चाहिए।",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "नगोन विला साइगोन",
+          "type": "restaurant",
+          "description": "नगोन विला साइगोन एक प्रभावशाली वियतनामी व्यंजनों के मेनू के साथ एक शानदार भोजन अनुभव प्रदान करता है। एक आकर्षक औपनिवेशिक विला में स्थित, रेस्टोरेंट आधुनिक ट्विस्ट के साथ स्थानीय व्यंजनों की एक श्रृंखला परोसता है। माहौल सुरुचिपूर्ण और आरामदायक है, जो पारिवारिक समारोहों और रोमांटिक डिनर दोनों के लिए आदर्श है। कीमतें मध्यम हैं, जो व्यंजनों की गुणवत्ता और प्रस्तुति को दर्शाती हैं।",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "फो हुआ पास्टर",
+          "type": "restaurant",
+          "description": "फो हुआ पास्टर हो ची मिन्ह सिटी में एक प्रसिद्ध स्थान है, जो अपने पारंपरिक फो के लिए प्रसिद्ध है। यह साधारण रेस्टोरेंट दशकों से फो के गर्म बाउल्स परोस रहा है, जो स्थानीय लोगों और पर्यटकों दोनों को आकर्षित करता है। शोरबा समृद्ध और स्वादिष्ट है, जिसे कोमल गोमांस के स्लाइस और ताज़ी जड़ी-बूटियों के साथ परोसा जाता है। कीमतें उचित हैं, जो इसे एक त्वरित और संतोषजनक भोजन के लिए एक लोकप्रिय विकल्प बनाती हैं।",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "बान झेओ 46ए",
+          "type": "street_food",
+          "description": "अपने कुरकुरे वियतनामी पैनकेक्स के लिए प्रसिद्ध, बान झेओ 46ए स्ट्रीट फूड के शौकीनों के लिए एक अवश्य जाने योग्य स्थान है। जिला 3 में स्थित, यह साधारण भोजनालय झींगा, सूअर का मांस और सेम अंकुरित के साथ भरे बान झेओ के उदार हिस्से परोसता है। पैनकेक्स ताज़ी सलाद पत्तियों और जड़ी-बूटियों के साथ परोसे जाते हैं, जो मछली सॉस में लपेटने और डुबाने के लिए एकदम सही हैं। कीमतें बहुत सस्ती हैं, जो इसे स्थानीय पसंदीदा बनाती हैं।",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "कुक गच क्वान",
+          "type": "restaurant",
+          "description": "कुक गच क्वान एक अनूठा भोजन अनुभव है, जो एक घरेलू सेटिंग में पारंपरिक वियतनामी व्यंजनों का मेनू प्रदान करता है। रेस्टोरेंट एक खूबसूरती से बहाल फ्रेंच औपनिवेशिक विला में स्थित है, जो एक आकर्षक और आमंत्रित माहौल प्रदान करता है। ताज़ी, स्थानीय सामग्री से बने व्यंजनों के साथ, कुक गच क्वान उन लोगों के लिए आदर्श है जो प्रामाणिक वियतनामी व्यंजनों का अनुभव करना चाहते हैं जो एक स्पर्श की सुंदरता के साथ हैं।",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "साइगोन स्क्वायर",
+          "type": "night_market",
+          "description": "साइगोन स्क्वायर खरीदारी और स्ट्रीट फूड के लिए एक व्यस्त केंद्र है। जबकि यह अपने फैशन स्टॉल्स के लिए जाना जाता है, बाजार में स्थानीय स्नैक्स और व्यंजन परोसने वाले विभिन्न खाद्य विक्रेता भी हैं। जीवंत माहौल और किफायती कीमतें इसे हो ची मिन्ह सिटी के स्ट्रीट फूड दृश्य की ऊर्जा का अनुभव करने के इच्छुक लोगों के लिए एक शानदार स्थान बनाती हैं।",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "एल'यूसिन",
+          "type": "cafe",
+          "description": "एल'यूसिन हो ची मिन्ह सिटी के दिल में स्थित एक ठाठ कैफे और बुटीक है। यह पारंपरिक कॉफी शॉप अनुभव पर एक आधुनिक मोड़ प्रदान करता है, जिसमें एक स्टाइलिश इंटीरियर और एक मेनू है जिसमें ताज़ा ब्रू की गई कॉफी और अंतरराष्ट्रीय व्यंजन शामिल हैं। अपने आरामदायक माहौल और कलात्मक वाइब के लिए जाना जाता है, एल'यूसिन एक आरामदायक ब्रंच या एक त्वरित कॉफी ब्रेक के लिए एकदम सही है।",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Ho Chi Minh City 2026 — Guia de Restaurantes e Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Ho Chi Minh City. De refeições econômicas a alta gastronomia — com links para reservas.",
+      "page_intro": "Ho Chi Minh City, uma metrópole movimentada no Vietnã, oferece uma cena gastronômica vibrante que reflete sua rica herança cultural. De mercados de rua agitados a restaurantes sofisticados, a cidade é um paraíso para os amantes da gastronomia. Você pode saborear desde o tradicional pho vietnamita até pratos inovadores de fusão. Quer esteja explorando o animado Mercado Ben Thanh ou jantando em um chique restaurante no terraço, os sabores de Ho Chi Minh City prometem uma jornada culinária inesquecível.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "Mercado Ben Thanh",
+          "type": "night_market",
+          "description": "Uma visita a Ho Chi Minh City é incompleta sem explorar o movimentado Mercado Ben Thanh. Este icônico mercado noturno é um paraíso para os amantes de comida, oferecendo de tudo, desde frutos do mar frescos até deliciosos banh mi. A atmosfera é animada e vibrante, com inúmeras barracas oferecendo uma ampla variedade de iguarias locais a preços acessíveis.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Bep Me In",
+          "type": "restaurant",
+          "description": "O Bep Me In é renomado por sua autêntica culinária vietnamita. Aninhado no coração do Distrito 1, este acolhedor restaurante oferece um ambiente aconchegante com um charme rústico. Os pratos são preparados usando receitas tradicionais passadas através de gerações, com uma faixa de preço que é amigável ao orçamento. O cardápio está cheio de favoritos locais, tornando-o uma visita obrigatória para aqueles que buscam sabores genuínos vietnamitas.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Ngon Villa Saigon",
+          "type": "restaurant",
+          "description": "O Ngon Villa Saigon oferece uma experiência gastronômica deliciosa com um impressionante cardápio de pratos vietnamitas. Localizado em uma charmosa vila colonial, o restaurante serve uma variedade de iguarias locais com um toque moderno. A atmosfera é elegante, mas descontraída, perfeita tanto para reuniões familiares quanto para jantares românticos. Os preços são moderados, refletindo a qualidade e apresentação dos pratos.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Pho Hoa Pasteur",
+          "type": "restaurant",
+          "description": "O Pho Hoa Pasteur é um local lendário em Ho Chi Minh City, famoso por seu pho tradicional. Este restaurante sem frescuras serve tigelas fumegantes de pho há décadas, atraindo tanto locais quanto turistas. O caldo é rico e saboroso, complementado por fatias tenras de carne e ervas frescas. Os preços são razoáveis, tornando-o uma escolha popular para uma refeição rápida e satisfatória.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Banh Xeo 46A",
+          "type": "street_food",
+          "description": "Famoso por seus crocantes panquecas vietnamitas, o Banh Xeo 46A é uma visita obrigatória para entusiastas de comida de rua. Localizado no Distrito 3, este simples restaurante serve generosas porções de banh xeo recheado com camarão, porco e brotos de feijão. As panquecas são servidas com alface fresca e ervas, perfeitas para embrulhar e mergulhar em molho de peixe. Os preços são muito acessíveis, tornando-o um favorito local.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Cuc Gach Quan",
+          "type": "restaurant",
+          "description": "O Cuc Gach Quan é uma experiência gastronômica única, oferecendo um cardápio de pratos vietnamitas tradicionais em um ambiente caseiro. O restaurante está localizado em uma bela vila colonial francesa restaurada, proporcionando um ambiente encantador e convidativo. Com pratos feitos de ingredientes frescos e locais, o Cuc Gach Quan é ideal para aqueles que desejam experimentar a culinária vietnamita autêntica com um toque de elegância.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "Saigon Square",
+          "type": "night_market",
+          "description": "O Saigon Square é um movimentado centro de compras e comida de rua. Embora conhecido por suas barracas de moda, o mercado também oferece uma variedade de vendedores de alimentos servindo lanches e iguarias locais. A atmosfera animada e os preços acessíveis fazem dele um ótimo lugar para aqueles que desejam experimentar a energia da cena de comida de rua de Ho Chi Minh City.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "L'Usine",
+          "type": "cafe",
+          "description": "L'Usine é um café e boutique chique localizado no coração de Ho Chi Minh City. Oferece um toque moderno na experiência tradicional de uma cafeteria, com um interior elegante e um cardápio apresentando café fresco e pratos internacionais. Conhecido por seu ambiente relaxado e vibe artística, L'Usine é perfeito para um brunch descontraído ou uma pausa rápida para o café.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في مدينة هو تشي مينه 2026 — دليل المطاعم والطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والتخصصات المحلية في مدينة هو تشي مينه. من الأطعمة الاقتصادية إلى المطاعم الفاخرة — مع روابط الحجز.",
+      "page_intro": "تقدم مدينة هو تشي مينه، وهي مدينة صاخبة في فيتنام، مشهدًا غذائيًا نابضًا بالحياة يعكس تراثها الثقافي الغني. من الأسواق الشارعية الصاخبة إلى المطاعم الراقية، تعد المدينة جنة لعشاق الطعام. يمكنك تذوق كل شيء من الفو الفيتنامي التقليدي إلى الأطباق المبتكرة المستوحاة من المطبخ العالمي. سواء كنت تستكشف سوق بن ثانه النابض بالحياة أو تتناول الطعام في مطعم أنيق على السطح، فإن نكهات مدينة هو تشي مينه تعد برحلة طهي لا تُنسى.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "سوق بن ثانه",
+          "type": "night_market",
+          "description": "تعد زيارة مدينة هو تشي مينه غير مكتملة بدون استكشاف سوق بن ثانه الصاخب. هذا السوق الليلي الشهير هو جنة لعشاق الطعام، حيث يقدم كل شيء من المأكولات البحرية الطازجة إلى البان مي اللذيذ. الأجواء حيوية ومليئة بالحركة، مع العديد من الأكشاك التي تقدم مجموعة متنوعة من الأطعمة المحلية بأسعار معقولة.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "بب مي إن",
+          "type": "restaurant",
+          "description": "يشتهر مطعم بب مي إن بمأكولاته الفيتنامية الأصيلة. يقع في قلب المنطقة 1، يوفر هذا المطعم الصغير جوًا مريحًا مع سحر ريفي. تُعد الأطباق باستخدام وصفات تقليدية تم تمريرها عبر الأجيال، بأسعار تناسب الميزانية. القائمة مليئة بالأطباق المحلية المفضلة، مما يجعله وجهة لا بد من زيارتها لأولئك الذين يسعون لتذوق النكهات الفيتنامية الأصيلة.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "مطعم نغون فيلا سايغون",
+          "type": "restaurant",
+          "description": "يقدم مطعم نغون فيلا سايغون تجربة طعام ممتعة مع قائمة مثيرة من الأطباق الفيتنامية. يقع في فيلا استعمارية ساحرة، يقدم المطعم مجموعة من الأطباق المحلية بلمسة عصرية. الأجواء أنيقة ومريحة، مما يجعله مثاليًا للتجمعات العائلية والعشاء الرومانسي. الأسعار معتدلة، مما يعكس جودة وتقديم الأطباق.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "فو هوا باستور",
+          "type": "restaurant",
+          "description": "يعد مطعم فو هوا باستور مكانًا أسطوريًا في مدينة هو تشي مينه، حيث يشتهر بفو التقليدي. يقدم هذا المطعم البسيط أطباق فو الساخنة منذ عقود، ويجذب السكان المحليين والسياح على حد سواء. الحساء غني ولذيذ، يكمله شرائح لحم البقر الطري والأعشاب الطازجة. الأسعار معقولة، مما يجعله خيارًا شائعًا لتناول وجبة سريعة ومرضية.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "بان زيو 46A",
+          "type": "street_food",
+          "description": "اشتهر بفطائره الفيتنامية المقرمشة، يعد بان زيو 46A زيارة لا بد منها لعشاق الطعام الشارعي. يقع في المنطقة 3، يقدم هذا المطعم المتواضع حصصًا سخية من بان زيو المحشو بالجمبري واللحم البقري وبراعم الفاصوليا. تُقدم الفطائر مع الخس الطازج والأعشاب، مما يجعلها مثالية لللف والغمس في صوص السمك. الأسعار معقولة جدًا، مما يجعله مفضلًا محليًا.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "كوك غاتش كوان",
+          "type": "restaurant",
+          "description": "يقدم مطعم كوك غاتش كوان تجربة طعام فريدة، حيث يقدم قائمة من الأطباق الفيتنامية التقليدية في جو منزلي. يقع المطعم في فيلا استعمارية فرنسية تم ترميمها بشكل جميل، مما يوفر أجواء ساحرة وجذابة. مع الأطباق المصنوعة من مكونات طازجة ومحلية، يعد كوك غاتش كوان مثاليًا لأولئك الذين يتطلعون لتجربة المأكولات الفيتنامية الأصيلة بلمسة من الأناقة.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "ساحة سايغون",
+          "type": "night_market",
+          "description": "تعد ساحة سايغون مركزًا صاخبًا للتسوق والطعام الشارعي. على الرغم من أنها معروفة بأكشاك الموضة، فإن السوق يقدم أيضًا مجموعة متنوعة من بائعي الطعام الذين يقدمون الوجبات الخفيفة والأطباق المحلية. الأجواء الحيوية والأسعار المعقولة تجعلها مكانًا رائعًا لأولئك الذين يتطلعون لتجربة طاقة مشهد الطعام الشارعي في مدينة هو تشي مينه.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "لوزين",
+          "type": "cafe",
+          "description": "لوزين هو مقهى ومتجر بوتيك أنيق يقع في قلب مدينة هو تشي مينه. يقدم لمسة عصرية على تجربة المقهى التقليدي، مع ديكور أنيق وقائمة تشمل القهوة الطازجة والأطباق العالمية. معروف بأجوائه المريحة وأسلوبه الفني، يعد لوزين مثاليًا لوجبة فطور متأخرة أو استراحة قهوة سريعة.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "হো চি মিন সিটিতে সেরা খাবার ২০২৬ — শীর্ষ রেস্টুরেন্ট ও স্ট্রিট ফুড গাইড",
+      "seo_description": "হো চি মিন সিটিতে সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেট খাবার থেকে ফাইন ডাইনিং — বুকিং লিঙ্ক সহ।",
+      "page_intro": "ভিয়েতনামের একটি ব্যস্ত মহানগরী হো চি মিন সিটি, তার সমৃদ্ধ সাংস্কৃতিক ঐতিহ্য প্রতিফলিত করে একটি জীবন্ত খাদ্য দৃশ্য প্রদান করে। ব্যস্ত রাস্তার বাজার থেকে শুরু করে উচ্চমানের রেস্টুরেন্ট, শহরটি খাদ্যপ্রেমীদের জন্য একটি স্বর্গ। আপনি ঐতিহ্যবাহী ভিয়েতনামী ফো থেকে শুরু করে উদ্ভাবনী ফিউশন খাবারের স্বাদ নিতে পারেন। আপনি কি জীবন্ত বেন থান বাজার অন্বেষণ করছেন বা একটি চটকদার ছাদের রেস্টুরেন্টে খাবার খাচ্ছেন, হো চি মিন সিটির স্বাদগুলি একটি স্মরণীয় রন্ধন ভ্রমণের প্রতিশ্রুতি দেয়।",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "বেন থান মার্কেট",
+          "type": "night_market",
+          "description": "হো চি মিন সিটিতে একটি ভ্রমণ ব্যস্ত বেন থান মার্কেট অন্বেষণ ছাড়া অসম্পূর্ণ। এই আইকনিক রাতের বাজারটি খাদ্যপ্রেমীদের জন্য একটি স্বর্গ, যেখানে তাজা সামুদ্রিক খাবার থেকে শুরু করে সুস্বাদু বান মি পর্যন্ত সবকিছু পাওয়া যায়। পরিবেশটি জীবন্ত এবং প্রাণবন্ত, অসংখ্য স্টল সাশ্রয়ী মূল্যে স্থানীয় সুস্বাদু খাবারের একটি বিস্তৃত বৈচিত্র্য প্রদান করে।",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "বেপ মে ইন",
+          "type": "restaurant",
+          "description": "বেপ মে ইন তার প্রামাণিক ভিয়েতনামী রন্ধনশৈলীর জন্য বিখ্যাত। ডিস্ট্রিক্ট ১-এর কেন্দ্রে অবস্থিত, এই আরামদায়ক খাবারের জায়গাটি একটি আরামদায়ক পরিবেশ প্রদান করে যা একটি গ্রামীণ আকর্ষণ সহ। খাবারগুলি প্রথাগত রেসিপি ব্যবহার করে তৈরি করা হয় যা প্রজন্মের পর প্রজন্ম ধরে চলে আসছে, যার দাম বাজেট-সাশ্রয়ী। মেনুটি স্থানীয় প্রিয় খাবার দিয়ে পূর্ণ, যা প্রামাণিক ভিয়েতনামী স্বাদের সন্ধানকারী ব্যক্তিদের জন্য এটি একটি অবশ্যই যাওয়া উচিত।",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "নগন ভিলা সাইগন",
+          "type": "restaurant",
+          "description": "নগন ভিলা সাইগন একটি চমৎকার ভিয়েতনামী খাবারের মেনু সহ একটি মনোরম খাবারের অভিজ্ঞতা প্রদান করে। একটি মনোরম ঔপনিবেশিক ভিলায় অবস্থিত, রেস্টুরেন্টটি আধুনিক মোড় সহ স্থানীয় সুস্বাদু খাবারের একটি বৃহৎ পরিসর প্রদান করে। পরিবেশটি মার্জিত কিন্তু আরামদায়ক, যা উভয় পারিবারিক সমাবেশ এবং রোমান্টিক ডিনারের জন্য উপযুক্ত। দামগুলি মাঝারি, যা খাবারের গুণমান এবং উপস্থাপনাকে প্রতিফলিত করে।",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "ফো হোয়া পাস্তুর",
+          "type": "restaurant",
+          "description": "ফো হোয়া পাস্তুর হো চি মিন সিটিতে একটি কিংবদন্তী স্থান, যা তার ঐতিহ্যবাহী ফোর জন্য বিখ্যাত। এই সাধারণ রেস্টুরেন্টটি কয়েক দশক ধরে ফোর গরম বোল পরিবেশন করছে, যা স্থানীয় এবং পর্যটক উভয়কেই আকর্ষণ করে। স্যুপটি সমৃদ্ধ এবং সুস্বাদু, কোমল গরুর মাংসের টুকরো এবং তাজা ভেষজ দ্বারা পরিপূরক। দামগুলি যুক্তিসঙ্গত, যা এটি একটি দ্রুত এবং সন্তোষজনক খাবারের জন্য একটি জনপ্রিয় পছন্দ করে তোলে।",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "বাঁহ জিও ৪৬এ",
+          "type": "street_food",
+          "description": "তার মচমচে ভিয়েতনামী প্যানকেকের জন্য বিখ্যাত, বাঁহ জিও ৪৬এ রাস্তার খাবার প্রেমীদের জন্য একটি অবশ্যই যাওয়া উচিত জায়গা। ডিস্ট্রিক্ট ৩-এ অবস্থিত, এই সাধারণ খাবারের জায়গাটি চিংড়ি, শূকর মাংস এবং বিন স্প্রাউট দিয়ে ভরা বাঁহ জিওর উদার অংশ পরিবেশন করে। প্যানকেকগুলি তাজা লেটুস এবং ভেষজ সহ পরিবেশন করা হয়, যা মাছের সসে মোড়ানো এবং ডুবানোর জন্য উপযুক্ত। দামগুলি খুবই সাশ্রয়ী, যা এটিকে স্থানীয় প্রিয় করে তোলে।",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "কুক গাচ কুয়ান",
+          "type": "restaurant",
+          "description": "কুক গাচ কুয়ান একটি অনন্য খাবারের অভিজ্ঞতা, যা একটি ঘরোয়া সেটিংয়ে ঐতিহ্যবাহী ভিয়েতনামী খাবারের মেনু প্রদান করে। রেস্টুরেন্টটি একটি সুন্দরভাবে পুনরুদ্ধার করা ফরাসি ঔপনিবেশিক ভিলায় অবস্থিত, যা একটি মনোরম এবং আমন্ত্রণমূলক পরিবেশ প্রদান করে। তাজা, স্থানীয় উপাদান দিয়ে তৈরি খাবারের সাথে, কুক গাচ কুয়ান তাদের জন্য আদর্শ যারা প্রামাণিক ভিয়েতনামী রন্ধনশৈলী অভিজ্ঞতা করতে চান যা একটি স্পর্শের সুন্দরের সাথে।",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "সাইগন স্কয়ার",
+          "type": "night_market",
+          "description": "সাইগন স্কয়ার কেনাকাটা এবং রাস্তার খাবারের জন্য একটি ব্যস্ত কেন্দ্র। যদিও এটি তার ফ্যাশন স্টলের জন্য পরিচিত, বাজারটিতে স্থানীয় স্ন্যাকস এবং সুস্বাদু খাবার পরিবেশনকারী বিভিন্ন খাদ্য বিক্রেতাও রয়েছে। জীবন্ত পরিবেশ এবং সাশ্রয়ী মূল্যগুলি এটি একটি দুর্দান্ত জায়গা করে তুলেছে যারা হো চি মিন সিটির রাস্তার খাবার দৃশ্যের শক্তি জানতে চায়।",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "এল'ইউসিন",
+          "type": "cafe",
+          "description": "এল'ইউসিন হো চি মিন সিটির হৃদয়ে অবস্থিত একটি চটকদার ক্যাফে এবং বুটিক। এটি ঐতিহ্যবাহী কফি শপ অভিজ্ঞতার উপর একটি আধুনিক মোড় প্রদান করে, একটি স্টাইলিশ অভ্যন্তরীণ এবং একটি মেনু সহ যা তাজা ব্রু করা কফি এবং আন্তর্জাতিক খাবার প্রদান করে। এর আরামদায়ক পরিবেশ এবং শৈল্পিক অনুভূতির জন্য পরিচিত, এল'ইউসিন একটি আরামদায়ক ব্রাঞ্চ বা একটি দ্রুত কফি বিরতির জন্য আদর্শ।",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Хошимине 2026 — Гид по ресторанам и уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Хошимине. От бюджетных блюд до изысканной кухни — с ссылками на бронирование.",
+      "page_intro": "Хошимин, оживленный мегаполис во Вьетнаме, предлагает яркую гастрономическую сцену, отражающую его богатое культурное наследие. От шумных уличных рынков до роскошных ресторанов, этот город — рай для любителей еды. Вы можете насладиться всем, от традиционного вьетнамского фо до инновационных блюд фьюжн. Независимо от того, исследуете ли вы оживленный рынок Бен Тхань или обедаете в шикарном ресторане на крыше, вкусы Хошимина обещают незабываемое кулинарное путешествие.",
+      "items": [
+        {
+          "id": "ben-thanh-market",
+          "name": "Рынок Бен Тхань",
+          "type": "night_market",
+          "description": "Посещение Хошимина не будет полным без исследования шумного рынка Бен Тхань. Этот знаковый ночной рынок — рай для любителей еды, предлагающий все, от свежих морепродуктов до вкусного баньми. Атмосфера живая и оживленная, с бесчисленными лотками, предлагающими широкий ассортимент местных деликатесов по доступным ценам.",
+          "image_keyword": "Ben Thanh Market food stalls",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Grilled seafood",
+          "klook_query": "Ben Thanh Market food tour"
+        },
+        {
+          "id": "bep-me-in",
+          "name": "Беп Ми Ин",
+          "type": "restaurant",
+          "description": "Беп Ми Ин известен своей аутентичной вьетнамской кухней. Расположенный в самом сердце района 1, этот уютный ресторан предлагает уютную атмосферу с деревенским шармом. Блюда готовятся по традиционным рецептам, передаваемым из поколения в поколение, с бюджетными ценами. Меню полно местных фаворитов, что делает его обязательным для посещения для тех, кто ищет настоящие вьетнамские вкусы.",
+          "image_keyword": "Bep Me In restaurant interior",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Bun cha",
+          "klook_query": "Bep Me In restaurant booking"
+        },
+        {
+          "id": "ngon-villa",
+          "name": "Нгон Вилла Сайгон",
+          "type": "restaurant",
+          "description": "Нгон Вилла Сайгон предлагает восхитительный обеденный опыт с впечатляющим меню вьетнамских блюд. Расположенный в очаровательной колониальной вилле, ресторан предлагает множество местных деликатесов с современным уклоном. Атмосфера элегантная и расслабленная, идеальная как для семейных встреч, так и для романтических ужинов. Цены умеренные, что отражает качество и презентацию блюд.",
+          "image_keyword": "Ngon Villa Saigon dining",
+          "star_rating": 4.8,
+          "price_range": "$$",
+          "must_try": "Vietnamese spring rolls",
+          "klook_query": "Ngon Villa Saigon dinner"
+        },
+        {
+          "id": "pho-hoa",
+          "name": "Фо Хоа Пастер",
+          "type": "restaurant",
+          "description": "Фо Хоа Пастер — легендарное место в Хошимине, известное своим традиционным фо. Этот простой ресторан на протяжении десятилетий подает горячие тарелки фо, привлекая как местных жителей, так и туристов. Бульон насыщенный и ароматный, дополненный нежными кусочками говядины и свежими травами. Цены разумные, что делает его популярным выбором для быстрого и удовлетворительного обеда.",
+          "image_keyword": "Pho Hoa Pasteur pho noodles",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Pho bo",
+          "klook_query": "Pho Hoa Pasteur booking"
+        },
+        {
+          "id": "banh-xeo-46a",
+          "name": "Бань Ксео 46А",
+          "type": "street_food",
+          "description": "Известный своими хрустящими вьетнамскими блинами, Бань Ксео 46А — обязательное место для любителей уличной еды. Расположенный в районе 3, этот скромный ресторан предлагает щедрые порции бань ксео, наполненных креветками, свининой и ростками фасоли. Блины подаются со свежим салатом и травами, идеально подходящими для заворачивания и макания в рыбный соус. Цены очень доступные, что делает его местным фаворитом.",
+          "image_keyword": "Banh Xeo 46A pancake",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Banh xeo",
+          "klook_query": "Banh Xeo 46A food tour"
+        },
+        {
+          "id": "cuc-gach-quan",
+          "name": "Кук Гач Куан",
+          "type": "restaurant",
+          "description": "Кук Гач Куан предлагает уникальный ресторанный опыт, предлагая меню традиционных вьетнамских блюд в домашней обстановке. Ресторан расположен в красиво восстановленной французской колониальной вилле, предлагая очаровательную и гостеприимную атмосферу. С блюдами, приготовленными из свежих местных ингредиентов, Кук Гач Куан идеален для тех, кто хочет испытать аутентичную вьетнамскую кухню с оттенком элегантности.",
+          "image_keyword": "Cuc Gach Quan interior",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Caramelized pork",
+          "klook_query": "Cuc Gach Quan reservation"
+        },
+        {
+          "id": "saigon-square",
+          "name": "Сайгон Сквер",
+          "type": "night_market",
+          "description": "Сайгон Сквер — это оживленный центр для шопинга и уличной еды. Хотя он известен своими модными киосками, на рынке также предлагается множество продавцов еды, предлагающих местные закуски и деликатесы. Живая атмосфера и доступные цены делают его отличным местом для тех, кто хочет испытать энергию уличной еды Хошимина.",
+          "image_keyword": "Saigon Square night market",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Vietnamese snacks",
+          "klook_query": "Saigon Square food tour"
+        },
+        {
+          "id": "l'usine",
+          "name": "Л'Юсин",
+          "type": "cafe",
+          "description": "Л'Юсин — это стильное кафе и бутик, расположенные в самом сердце Хошимина. Он предлагает современный взгляд на традиционный кофейный опыт, с стильным интерьером и меню, включающим свежесваренный кофе и международные блюда. Известный своим расслабленным настроением и художественной атмосферой, Л'Юсин идеально подходит для неспешного бранча или быстрого перерыва на кофе.",
+          "image_keyword": "L'Usine cafe interior",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Vietnamese iced coffee",
+          "klook_query": "L'Usine cafe reservation"
+        }
+      ]
+    }
+  }
+}

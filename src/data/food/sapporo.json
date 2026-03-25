@@ -1,0 +1,1145 @@
+{
+  "city_slug": "sapporo",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Sapporo 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Sapporo. From budget eats to fine dining — with booking links.",
+      "page_intro": "Sapporo is a culinary paradise that beautifully blends traditional Japanese cuisine with unique local flavors. Renowned for its fresh seafood, hearty ramen, and delightful street food, this city offers a gastronomic adventure for every palate. Whether you're savoring a bowl of miso ramen or indulging in sweet melon bread, Sapporo's food culture is sure to leave a lasting impression.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "Sapporo Ramen Republic",
+          "type": "restaurant",
+          "description": "Located in Susukino, Sapporo Ramen Republic is a must-visit for ramen lovers. This unique dining experience features multiple ramen shops under one roof, each with its own signature style. Be sure to try the rich miso ramen that Sapporo is famous for. Prices range from $8 to $12, making it a great choice for both locals and tourists.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "Jiyu Ichiba Market",
+          "type": "street_food",
+          "description": "Jiyu Ichiba Market is a vibrant food market where you can sample a variety of local delicacies. From grilled seafood to fresh sashimi, this market is a paradise for food enthusiasts. The lively atmosphere and friendly vendors make it a perfect spot for lunch, with prices ranging from $5 to $15. Don't miss the grilled Hokkaido crab!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "Sapporo Beer Garden",
+          "type": "restaurant",
+          "description": "The Sapporo Beer Garden is not just about great brews; it's also home to delicious Genghis Khan BBQ. This outdoor venue is perfect for enjoying grilled lamb alongside refreshing Sapporo beer. The lively atmosphere and communal dining setup make it a fun spot to unwind after a day of exploring. Prices vary, typically around $20-$30 per person.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "Nijo Market",
+          "type": "night_market",
+          "description": "Nijo Market is a bustling hub for fresh seafood and local produce. Here, you can find everything from sushi to grilled seafood skewers. The atmosphere is lively and filled with the enticing aromas of cooking food. Prices are reasonable, and you can enjoy a meal for around $10-$20. Don't miss out on trying the sea urchin!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "Sushi Nagahama",
+          "type": "restaurant",
+          "description": "Sushi Nagahama is renowned for its fresh sushi and sashimi, sourced directly from Hokkaido's waters. The intimate setting and skilled chefs make for an exceptional dining experience. Prices are on the higher side, typically $30-$50, but the quality makes it worth every yen. Be sure to try the seasonal sashimi platter!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "Sapporo Melon Bread",
+          "type": "street_food",
+          "description": "This iconic sweet treat is a must-try when in Sapporo. The crunchy, cookie-like crust and soft, fluffy interior make it a delightful snack. You'll find many vendors selling melon bread throughout the city, with prices typically around $2-$4. Perfect for a quick bite while exploring!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "Sapporo Ice Cream Village",
+          "type": "cafe",
+          "description": "Sapporo Ice Cream Village is a delightful destination for ice cream lovers. With a variety of unique flavors made from local ingredients, this place offers a sweet escape from the city's hustle. Prices range from $3 to $6 per scoop. Don't miss the Hokkaido milk flavor!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "Sapporo Sake Museum",
+          "type": "bar",
+          "description": "The Sapporo Sake Museum offers a unique experience for those looking to explore Japan's famous beverage. You can taste various types of sake and learn about the brewing process. The cozy atmosphere and knowledgeable staff enhance the experience. Tasting prices start at around $5, making it an affordable outing for sake enthusiasts.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "札幌最佳美食 2026 — 頂級餐廳與街頭美食指南",
+      "seo_description": "發現札幌最好的餐廳、街頭美食和當地特色。從經濟實惠的美食到高級餐飲 — 含預訂連結。",
+      "page_intro": "札幌是一個美食天堂，完美融合了傳統日本料理與獨特的當地風味。以新鮮海鮮、豐盛拉麵和美味的街頭小吃而聞名，這座城市為每位味蕾提供了美食冒險。無論你是在品嚐一碗味噌拉麵，還是沉醉於甜美的哈密瓜麵包，札幌的飲食文化定會留下深刻的印象。",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "札幌拉麵共和國",
+          "type": "restaurant",
+          "description": "位於薄野的札幌拉麵共和國是拉麵愛好者的必訪之地。這個獨特的用餐體驗匯聚了多家拉麵店，每家都有自己的招牌風格。一定要嘗試札幌著名的濃郁味噌拉麵。價格範圍在8到12美元之間，非常適合當地人和遊客。",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "自由市場",
+          "type": "street_food",
+          "description": "自由市場是一個充滿活力的食品市場，您可以品嚐各種當地美食。從燒烤海鮮到新鮮刺身，這個市場是美食愛好者的樂園。熱鬧的氛圍和友好的攤販使其成為午餐的理想場所，價格範圍在5到15美元。不要錯過烤北海道螃蟹！",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "札幌啤酒園",
+          "type": "restaurant",
+          "description": "札幌啤酒園不僅僅是美味啤酒的地方；還提供美味的成吉思汗燒烤。這個戶外場地非常適合享受烤羊肉和清爽的札幌啤酒。熱鬧的氛圍和共享用餐的設置使其成為探索一天後放鬆的有趣場所。價格各異，通常每人約20到30美元。",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "二條市場",
+          "type": "night_market",
+          "description": "二條市場是一個繁忙的鮮海鮮和當地農產品的中心。在這裡，您可以找到壽司到烤海鮮串的所有美食。氣氛熱鬧，充滿烹飪食物誘人的香氣。價格合理，您可以享受約10到20美元的餐點。不要錯過海膽！",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "壽司長濱",
+          "type": "restaurant",
+          "description": "壽司長濱以其新鮮的壽司和刺身而著稱，食材直接來自北海道的水域。親密的環境和技藝精湛的廚師使這裡的用餐體驗非常出色。價格偏高，通常為30到50美元，但質量使其物有所值。一定要嘗試季節性刺身拼盤！",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "札幌哈密瓜麵包",
+          "type": "street_food",
+          "description": "這款標誌性的甜點是您在札幌必嘗的美食。酥脆的餅乾狀外皮和柔軟的內部使其成為美味的零食。您可以在城市中找到許多攤販出售哈密瓜麵包，價格通常在2到4美元之間。非常適合在探索時快速品嚐！",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "札幌冰淇淋村",
+          "type": "cafe",
+          "description": "札幌冰淇淋村是冰淇淋愛好者的美妙目的地。這裡提供多種獨特口味的冰淇淋，使用當地食材製作，是逃離城市喧囂的甜蜜去處。價格範圍在3到6美元每球。不要錯過北海道牛奶口味！",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "札幌清酒博物館",
+          "type": "bar",
+          "description": "札幌清酒博物館為那些想探索日本著名飲品的人提供了獨特的體驗。您可以品嚐各種清酒並了解釀造過程。舒適的氛圍和知識淵博的工作人員增強了這次體驗。品嚐價格約從5美元起，是清酒愛好者的經濟實惠選擇。",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "札幌のベストフード2026 — トップレストランとストリートフードガイド",
+      "seo_description": "札幌の最高のレストラン、ストリートフード、地元の特産品を発見してください。予算に応じた食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "札幌は、伝統的な日本料理とユニークな地元の風味が美しく融合した食の楽園です。新鮮な海鮮、ボリュームたっぷりのラーメン、そして美味しいストリートフードで知られ、この街はあらゆる味覚のためのグルメ冒険を提供します。味噌ラーメンを楽しんだり、甘いメロンパンを味わったりすることができる札幌の食文化は、必ずや長く記憶に残ることでしょう。",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "札幌ラーメン共和国",
+          "type": "restaurant",
+          "description": "すすきのにある札幌ラーメン共和国は、ラーメン愛好家必見の場所です。このユニークなダイニング体験では、各店が独自のスタイルを持つ複数のラーメン店が一つの屋根の下に集まっています。札幌名物の濃厚な味噌ラーメンをぜひお試しください。価格は8ドルから12ドルで、地元の人にも観光客にも最適です。",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "自由市場",
+          "type": "street_food",
+          "description": "自由市場は、さまざまな地元の delicacies を試せる活気あふれるフードマーケットです。焼き海鮮から新鮮な刺身まで、この市場は食通にとっての楽園です。賑やかな雰囲気とフレンドリーなベンダーが揃い、ランチに最適なスポットで、価格は5ドルから15ドルです。焼き北海道カニをお見逃しなく！",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "札幌ビアガーデン",
+          "type": "restaurant",
+          "description": "札幌ビアガーデンは、美味しいビールだけでなく、美味しいジンギスカンBBQも楽しめます。この屋外会場では、グリルされたラム肉と共に清涼感あふれる札幌ビールを楽しむのに最適です。賑やかな雰囲気と共同食のスタイルが、探索の一日の後にリラックスするのに楽しいスポットです。価格はさまざまで、通常は1人あたり20ドルから30ドルです。",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "二条市場",
+          "type": "night_market",
+          "description": "二条市場は、新鮮な海鮮と地元の農産物の賑やかなハブです。ここでは、すしから焼き海鮮の串まで、すべての食事を見つけることができます。雰囲気は賑やかで、料理中の食べ物の魅力的な香りが漂っています。価格は手頃で、約10ドルから20ドルで食事を楽しめます。ウニをお見逃しなく！",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "寿司長浜",
+          "type": "restaurant",
+          "description": "寿司長浜は、北海道の海から直接仕入れた新鮮な寿司と刺身で知られています。親密な環境と熟練のシェフが、卓越したダイニング体験を提供します。価格は高めで、通常30ドルから50ドルですが、その品質はすべての円の価値があります。季節の刺身盛り合わせをぜひお試しください！",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "札幌メロンパン",
+          "type": "street_food",
+          "description": "この象徴的なスイーツは、札幌に来たら必ず試すべきです。カリカリのクッキーのような外皮と柔らかくふわふわの内部は、素晴らしいスナックとなります。市内には多くのベンダーがメロンパンを販売しており、価格は通常2ドルから4ドルです。探索中にさっと食べるのに最適です！",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "札幌アイスクリーム村",
+          "type": "cafe",
+          "description": "札幌アイスクリーム村は、アイスクリーム愛好者にとって楽しい目的地です。地元の食材を使ったユニークなフレーバーが揃い、都市の喧騒からの甘い逃避を提供します。価格は3ドルから6ドルの範囲です。北海道牛乳フレーバーをお見逃しなく！",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "札幌酒博物館",
+          "type": "bar",
+          "description": "札幌酒博物館では、日本の有名な飲み物を探るユニークな体験を提供しています。さまざまな種類の日本酒を味わい、醸造プロセスについて学ぶことができます。居心地の良い雰囲気と知識豊富なスタッフが、体験をより良いものにしています。試飲価格は約5ドルから始まり、日本酒愛好者にとって手頃な外出先となっています。",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "삿포로 최고의 음식 2026 — 최고의 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "삿포로의 최고 레스토랑, 길거리 음식 및 지역 특산품을 발견하세요. 저렴한 음식에서 고급 다이닝까지 — 예약 링크 포함.",
+      "page_intro": "삿포로는 전통 일본 요리와 독특한 지역 풍미가 아름답게 조화를 이루는 미식의 천국입니다. 신선한 해산물, 푸짐한 라멘, 그리고 맛있는 길거리 음식으로 유명한 이 도시는 모든 미각을 위한 미식 모험을 제공합니다. 미소 라멘을 음미하거나 달콤한 멜론 빵을 즐기는 등, 삿포로의 음식 문화는 깊은 인상을 남길 것입니다.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "삿포로 라멘 공화국",
+          "type": "restaurant",
+          "description": "스스키노에 위치한 삿포로 라멘 공화국은 라멘 애호가들이 반드시 방문해야 할 곳입니다. 이 독특한 다이닝 경험은 각기 다른 스타일을 가진 여러 라멘 가게가 한 지붕 아래 모여 있습니다. 삿포로의 유명한 진한 미소 라멘을 꼭 맛보세요. 가격은 8달러에서 12달러로, 현지인과 관광객 모두에게 좋은 선택입니다.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "자유 시장",
+          "type": "street_food",
+          "description": "자유 시장은 다양한 지역 별미를 맛볼 수 있는 활기찬 음식 시장입니다. 구운 해산물부터 신선한 사시미까지, 이 시장은 미식가들에게 천국과 같은 곳입니다. 활기찬 분위기와 친절한 상인들이 있어 점심을 즐기기에 완벽한 장소로, 가격은 5달러에서 15달러입니다. 구운 홋카이도 게를 놓치지 마세요!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "삿포로 맥주 정원",
+          "type": "restaurant",
+          "description": "삿포로 맥주 정원은 훌륭한 맥주만 있는 것이 아니라, 맛있는 징기스칸 BBQ도 즐길 수 있습니다. 이 야외 장소는 구운 양고기와 함께 시원한 삿포로 맥주를 즐기기에 완벽합니다. 활기찬 분위기와 공동 식사 설정이 탐험 후 휴식을 취하기에 재미있는 장소입니다. 가격은 다양하며, 일반적으로 1인당 20달러에서 30달러입니다.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "니조 시장",
+          "type": "night_market",
+          "description": "니조 시장은 신선한 해산물과 지역 농산물의 분주한 중심지입니다. 여기에서는 스시부터 구운 해산물 꼬치까지 모든 음식을 찾을 수 있습니다. 분위기는 활기차고, 요리 중인 음식의 매력적인 향기로 가득합니다. 가격은 합리적이며, 약 10달러에서 20달러로 식사를 즐길 수 있습니다. 성게는 꼭 맛보세요!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "스시 나가하마",
+          "type": "restaurant",
+          "description": "스시 나가하마는 홋카이도의 바다에서 직접 공급된 신선한 스시와 사시미로 유명합니다. 아늑한 분위기와 숙련된 셰프가 뛰어난 다이닝 경험을 제공합니다. 가격은 다소 비싼 편으로, 일반적으로 30달러에서 50달러지만 품질은 모든 엔의 가치를 제공합니다. 계절별 사시미 플래터를 꼭 맛보세요!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "삿포로 멜론 빵",
+          "type": "street_food",
+          "description": "이 상징적인 스위트는 삿포로에 가면 꼭 맛봐야 할 음식입니다. 바삭한 쿠키 같은 껍질과 부드럽고 푹신한 속은 즐거운 간식이 됩니다. 도시 전역에서 많은 상인들이 멜론 빵을 판매하고 있으며, 가격은 일반적으로 2달러에서 4달러입니다. 탐험 중 빠르게 먹기에 완벽합니다!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "삿포로 아이스크림 마을",
+          "type": "cafe",
+          "description": "삿포로 아이스크림 마을은 아이스크림 애호가들을 위한 즐거운 목적지입니다. 지역 재료로 만든 다양한 독특한 맛이 제공되며, 도시의 번잡함에서 달콤한 휴식을 제공합니다. 가격은 한 스쿱당 3달러에서 6달러입니다. 홋카이도 우유 맛을 놓치지 마세요!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "삿포로 사케 박물관",
+          "type": "bar",
+          "description": "삿포로 사케 박물관은 일본의 유명한 음료를 탐험할 수 있는 독특한 경험을 제공합니다. 다양한 종류의 사케를 맛보고 양조 과정에 대해 배울 수 있습니다. 아늑한 분위기와 지식이 풍부한 직원들이 경험을 한층 더 풍부하게 만듭니다. 시음 가격은 약 5달러부터 시작하여, 사케 애호가들에게 저렴한 외출 장소입니다.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Sapporo 2026 — Meilleurs restaurants & guide de street food",
+      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales de Sapporo. Des plats à petit budget à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "Sapporo est un paradis culinaire qui mélange magnifiquement la cuisine japonaise traditionnelle avec des saveurs locales uniques. Réputée pour ses fruits de mer frais, ses ramens copieux et ses délicieuses street foods, cette ville offre une aventure gastronomique pour tous les palais. Que vous savouriez un bol de ramen au miso ou que vous vous laissiez tenter par un pain melon sucré, la culture alimentaire de Sapporo ne manquera pas de laisser une impression durable.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "République du Ramen de Sapporo",
+          "type": "restaurant",
+          "description": "Située à Susukino, la République du Ramen de Sapporo est un incontournable pour les amateurs de ramen. Cette expérience culinaire unique propose plusieurs restaurants de ramen sous un même toit, chacun ayant son propre style signature. Assurez-vous d'essayer le ramen au miso riche qui fait la renommée de Sapporo. Les prix varient de 8 à 12 dollars, ce qui en fait un excellent choix tant pour les habitants que pour les touristes.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "Marché de Jiyu Ichiba",
+          "type": "street_food",
+          "description": "Le marché de Jiyu Ichiba est un marché alimentaire animé où vous pouvez déguster une variété de délices locaux. Des fruits de mer grillés au sashimi frais, ce marché est un paradis pour les amateurs de gastronomie. L'atmosphère vivante et les vendeurs amicaux en font un endroit parfait pour le déjeuner, avec des prix allant de 5 à 15 dollars. Ne manquez pas le crabe grillé de Hokkaido !",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "Jardin de Bière de Sapporo",
+          "type": "restaurant",
+          "description": "Le Jardin de Bière de Sapporo ne se limite pas à d'excellentes bières ; il est également le foyer d'un délicieux barbecue Genghis Khan. Ce lieu en plein air est parfait pour déguster de l'agneau grillé accompagné de bière Sapporo rafraîchissante. L'atmosphère animée et le cadre de repas communautaire en font un endroit amusant pour se détendre après une journée d'exploration. Les prix varient, généralement autour de 20 à 30 dollars par personne.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "Marché de Nijo",
+          "type": "night_market",
+          "description": "Le marché de Nijo est un centre animé pour les fruits de mer frais et les produits locaux. Ici, vous pouvez trouver tout, des sushis aux brochettes de fruits de mer grillés. L'atmosphère est vivante et remplie des arômes alléchants des aliments cuisinés. Les prix sont raisonnables, et vous pouvez profiter d'un repas pour environ 10 à 20 dollars. Ne manquez pas d'essayer l'oursin !",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "Sushi Nagahama",
+          "type": "restaurant",
+          "description": "Sushi Nagahama est réputé pour ses sushis et sashimis frais, provenant directement des eaux de Hokkaido. L'environnement intime et les chefs qualifiés offrent une expérience culinaire exceptionnelle. Les prix sont un peu plus élevés, généralement entre 30 et 50 dollars, mais la qualité vaut chaque yen. Assurez-vous d'essayer le plateau de sashimi de saison !",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "Pain Melon de Sapporo",
+          "type": "street_food",
+          "description": "Cette douceur emblématique est un incontournable lors de votre visite à Sapporo. La croûte croquante, semblable à un biscuit, et l'intérieur doux et moelleux en font une collation délicieuse. Vous trouverez de nombreux vendeurs vendant du pain melon dans toute la ville, avec des prix généralement autour de 2 à 4 dollars. Parfait pour un en-cas rapide en explorant !",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "Village de Glaces de Sapporo",
+          "type": "cafe",
+          "description": "Le Village de Glaces de Sapporo est une destination délicieuse pour les amateurs de glace. Avec une variété de saveurs uniques faites à partir d'ingrédients locaux, cet endroit offre une douce évasion de l'agitation de la ville. Les prix varient de 3 à 6 dollars par boule. Ne manquez pas la saveur de lait de Hokkaido !",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "Musée du Sake de Sapporo",
+          "type": "bar",
+          "description": "Le Musée du Sake de Sapporo offre une expérience unique pour ceux qui souhaitent explorer la célèbre boisson du Japon. Vous pouvez déguster différents types de sake et en apprendre davantage sur le processus de brassage. L'atmosphère conviviale et le personnel compétent améliorent l'expérience. Les prix de dégustation commencent à environ 5 dollars, ce qui en fait une sortie abordable pour les amateurs de sake.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor comida en Sapporo 2026 — Mejores restaurantes y guía de comida callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Sapporo. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Sapporo es un paraíso culinario que combina maravillosamente la cocina japonesa tradicional con sabores locales únicos. Reconocida por su marisco fresco, ramen abundante y deliciosa comida callejera, esta ciudad ofrece una aventura gastronómica para todos los paladares. Ya sea que estés saboreando un tazón de ramen de miso o deleitándote con un dulce pan de melón, la cultura gastronómica de Sapporo seguramente dejará una impresión duradera.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "República del Ramen de Sapporo",
+          "type": "restaurant",
+          "description": "Ubicada en Susukino, la República del Ramen de Sapporo es una visita obligada para los amantes del ramen. Esta experiencia gastronómica única cuenta con múltiples restaurantes de ramen bajo un mismo techo, cada uno con su propio estilo distintivo. Asegúrate de probar el rico ramen de miso por el que Sapporo es famoso. Los precios oscilan entre $8 y $12, lo que lo convierte en una excelente opción tanto para locales como para turistas.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "Mercado Jiyu Ichiba",
+          "type": "street_food",
+          "description": "El Mercado Jiyu Ichiba es un vibrante mercado de alimentos donde puedes degustar una variedad de delicias locales. Desde mariscos a la parrilla hasta sashimi fresco, este mercado es un paraíso para los entusiastas de la comida. La atmósfera animada y los vendedores amistosos lo convierten en un lugar perfecto para el almuerzo, con precios que van de $5 a $15. ¡No te pierdas el cangrejo a la parrilla de Hokkaido!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "Jardín de Cerveza de Sapporo",
+          "type": "restaurant",
+          "description": "El Jardín de Cerveza de Sapporo no solo se trata de excelentes cervezas; también alberga un delicioso BBQ de Genghis Khan. Este lugar al aire libre es perfecto para disfrutar de cordero a la parrilla junto con una refrescante cerveza Sapporo. La atmósfera animada y el ambiente de comida comunitaria lo convierten en un lugar divertido para relajarse después de un día de exploración. Los precios varían, generalmente alrededor de $20 a $30 por persona.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "Mercado Nijo",
+          "type": "night_market",
+          "description": "El Mercado Nijo es un centro bullicioso para mariscos frescos y productos locales. Aquí puedes encontrar de todo, desde sushi hasta brochetas de mariscos a la parrilla. La atmósfera es animada y está llena de los aromas tentadores de la comida cocinada. Los precios son razonables, y puedes disfrutar de una comida por alrededor de $10 a $20. ¡No te pierdas el erizo de mar!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "Sushi Nagahama",
+          "type": "restaurant",
+          "description": "Sushi Nagahama es famoso por su sushi y sashimi frescos, provenientes directamente de las aguas de Hokkaido. El ambiente íntimo y los chefs calificados ofrecen una experiencia gastronómica excepcional. Los precios son un poco más altos, típicamente entre $30 y $50, pero la calidad lo hace valer cada yen. ¡Asegúrate de probar el plato de sashimi de temporada!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "Pan de Melón de Sapporo",
+          "type": "street_food",
+          "description": "Este dulce icónico es una visita obligada cuando estés en Sapporo. La corteza crujiente, parecida a una galleta, y el interior suave y esponjoso lo convierten en un delicioso refrigerio. Encontrarás muchos vendedores que venden pan de melón por toda la ciudad, con precios que rondan entre $2 y $4. ¡Perfecto para un bocado rápido mientras exploras!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "Aldea de Helados de Sapporo",
+          "type": "cafe",
+          "description": "La Aldea de Helados de Sapporo es un destino encantador para los amantes del helado. Con una variedad de sabores únicos hechos de ingredientes locales, este lugar ofrece un dulce escape del ajetreo de la ciudad. Los precios oscilan entre $3 y $6 por bola. ¡No te pierdas el sabor de leche de Hokkaido!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "Museo del Sake de Sapporo",
+          "type": "bar",
+          "description": "El Museo del Sake de Sapporo ofrece una experiencia única para quienes desean explorar la famosa bebida de Japón. Puedes degustar varios tipos de sake y aprender sobre el proceso de elaboración. La atmósfera acogedora y el personal conocedor mejoran la experiencia. Los precios de las degustaciones comienzan alrededor de $5, lo que lo convierte en una salida asequible para los entusiastas del sake.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Sapporo 2026 — Restoran Terbaik & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesial lokal di Sapporo. Dari makanan dengan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
+      "page_intro": "Sapporo adalah surga kuliner yang menggabungkan dengan indah masakan Jepang tradisional dengan cita rasa lokal yang unik. Terkenal dengan makanan laut segar, ramen yang mengenyangkan, dan makanan jalanan yang lezat, kota ini menawarkan petualangan gastronomi untuk setiap selera. Apakah Anda sedang menikmati semangkuk ramen miso atau memanjakan diri dengan roti melon manis, budaya makanan Sapporo pasti akan meninggalkan kesan yang mendalam.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "Republik Ramen Sapporo",
+          "type": "restaurant",
+          "description": "Terletak di Susukino, Republik Ramen Sapporo adalah tempat yang wajib dikunjungi bagi para pecinta ramen. Pengalaman bersantap unik ini menampilkan beberapa toko ramen di bawah satu atap, masing-masing dengan gaya khasnya sendiri. Pastikan untuk mencoba ramen miso kaya yang terkenal dari Sapporo. Harga berkisar antara $8 hingga $12, menjadikannya pilihan yang bagus bagi penduduk setempat maupun wisatawan.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "Pasar Jiyu Ichiba",
+          "type": "street_food",
+          "description": "Pasar Jiyu Ichiba adalah pasar makanan yang ramai di mana Anda dapat mencicipi berbagai makanan lokal. Dari makanan laut panggang hingga sashimi segar, pasar ini adalah surga bagi para penggemar kuliner. Suasana yang hidup dan para penjual yang ramah menjadikannya tempat yang sempurna untuk makan siang, dengan harga berkisar antara $5 hingga $15. Jangan lewatkan kepiting panggang Hokkaido!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "Taman Bir Sapporo",
+          "type": "restaurant",
+          "description": "Taman Bir Sapporo bukan hanya tentang bir yang hebat; ini juga rumah bagi BBQ Genghis Khan yang lezat. Tempat luar ruangan ini sempurna untuk menikmati daging domba panggang bersama bir Sapporo yang menyegarkan. Suasana yang meriah dan pengaturan makan bersama menjadikannya tempat yang menyenangkan untuk bersantai setelah seharian menjelajah. Harga bervariasi, biasanya sekitar $20-$30 per orang.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "Pasar Nijo",
+          "type": "night_market",
+          "description": "Pasar Nijo adalah pusat yang ramai untuk makanan laut segar dan produk lokal. Di sini, Anda dapat menemukan semuanya, mulai dari sushi hingga tusuk sate makanan laut panggang. Suasana yang ramai dan aroma menggoda dari makanan yang dimasak membuat pengalaman lebih menyenangkan. Harga terjangkau, dan Anda dapat menikmati makanan seharga sekitar $10-$20. Jangan lewatkan untuk mencoba uni!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "Sushi Nagahama",
+          "type": "restaurant",
+          "description": "Sushi Nagahama terkenal dengan sushi dan sashimi segar, yang diambil langsung dari perairan Hokkaido. Lingkungan yang intim dan koki yang terampil memberikan pengalaman bersantap yang luar biasa. Harga sedikit lebih tinggi, biasanya antara $30-$50, tetapi kualitasnya sepadan dengan setiap yen. Pastikan untuk mencoba platter sashimi musiman!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "Roti Melon Sapporo",
+          "type": "street_food",
+          "description": "Makanan manis ikonik ini adalah sesuatu yang harus dicoba saat berada di Sapporo. Kulitnya yang renyah, mirip kue kering, dan bagian dalamnya yang lembut dan empuk menjadikannya camilan yang lezat. Anda akan menemukan banyak penjual yang menjual roti melon di seluruh kota, dengan harga biasanya sekitar $2-$4. Sempurna untuk ngemil cepat saat menjelajahi!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "Desa Es Krim Sapporo",
+          "type": "cafe",
+          "description": "Desa Es Krim Sapporo adalah tujuan yang menyenangkan bagi para pecinta es krim. Dengan berbagai rasa unik yang terbuat dari bahan lokal, tempat ini menawarkan pelarian manis dari hiruk-pikuk kota. Harga berkisar antara $3 hingga $6 per scoop. Jangan lewatkan rasa susu Hokkaido!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "Museum Sake Sapporo",
+          "type": "bar",
+          "description": "Museum Sake Sapporo menawarkan pengalaman unik bagi mereka yang ingin menjelajahi minuman terkenal Jepang. Anda dapat mencicipi berbagai jenis sake dan mempelajari tentang proses pembuatannya. Suasana yang nyaman dan staf yang berpengetahuan meningkatkan pengalaman. Harga mencicipi mulai dari sekitar $5, menjadikannya pilihan yang terjangkau bagi para penggemar sake.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "साप्पोरो का सर्वश्रेष्ठ भोजन 2026 — शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "साप्पोरो में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशेषताओं की खोज करें। बजट के खाने से लेकर फाइन डाइनिंग तक — बुकिंग लिंक के साथ।",
+      "page_intro": "साप्पोरो एक पाक स्वर्ग है जो पारंपरिक जापानी भोजन को अद्वितीय स्थानीय स्वाद के साथ खूबसूरती से मिलाता है। ताजा समुद्री भोजन, भरपूर रामेन और मनमोहक स्ट्रीट फूड के लिए प्रसिद्ध, यह शहर हर स्वाद के लिए एक गैस्ट्रोनोमिक साहसिकता प्रदान करता है। चाहे आप मिसो रामेन का आनंद ले रहे हों या मीठी मेलन ब्रेड का स्वाद ले रहे हों, साप्पोरो की खाद्य संस्कृति निश्चित रूप से एक स्थायी छाप छोड़ने के लिए तैयार है।",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "साप्पोरो रामेन रिपब्लिक",
+          "type": "restaurant",
+          "description": "सुसुकिनो में स्थित, साप्पोरो रामेन रिपब्लिक रामेन प्रेमियों के लिए एक अवश्य देखने योग्य स्थान है। यह अनूठा भोजन अनुभव एक ही छत के नीचे कई रामेन दुकानों की पेशकश करता है, प्रत्येक की अपनी विशेष शैली है। साप्पोरो के प्रसिद्ध समृद्ध मिसो रामेन का अवश्य प्रयास करें। कीमतें $8 से $12 के बीच हैं, जो इसे स्थानीय निवासियों और पर्यटकों दोनों के लिए एक शानदार विकल्प बनाता है।",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "जियु इचीबा मार्केट",
+          "type": "street_food",
+          "description": "जियु इचीबा मार्केट एक जीवंत खाद्य बाजार है जहां आप विभिन्न स्थानीय व्यंजनों का स्वाद ले सकते हैं। ग्रिल्ड समुद्री भोजन से लेकर ताजा साशिमी तक, यह बाजार खाद्य प्रेमियों के लिए एक स्वर्ग है। जीवंत वातावरण और मित्रवत विक्रेता इसे दोपहर के भोजन के लिए एक आदर्श स्थल बनाते हैं, कीमतें $5 से $15 के बीच हैं। ग्रिल्ड होक्काइडो के केकड़े को न चूकें!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "साप्पोरो बीयर गार्डन",
+          "type": "restaurant",
+          "description": "साप्पोरो बीयर गार्डन केवल बेहतरीन बियर के लिए नहीं है; यह स्वादिष्ट जेंगिस खान बीबीक्यू का भी घर है। यह आउटडोर स्थान ग्रिल्ड मेमने के साथ ताजा साप्पोरो बियर का आनंद लेने के लिए आदर्श है। जीवंत वातावरण और सामुदायिक भोजन सेटअप इसे एक मजेदार स्थान बनाता है जहां आप दिनभर की खोज के बाद आराम कर सकते हैं। कीमतें भिन्न होती हैं, आमतौर पर प्रति व्यक्ति $20-$30 के आसपास।",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "निजो मार्केट",
+          "type": "night_market",
+          "description": "निजो मार्केट ताजे समुद्री भोजन और स्थानीय उत्पादों के लिए एक हलचल भरा केंद्र है। यहां, आप सुषी से लेकर ग्रिल्ड समुद्री भोजन के स्क्यूवर्स तक सब कुछ पा सकते हैं। वातावरण जीवंत है और खाना पकाने की सुगंध से भरा हुआ है। कीमतें उचित हैं, और आप लगभग $10-$20 में एक भोजन का आनंद ले सकते हैं। समुद्री ऊरचिन का स्वाद लेना न भूलें!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "सुषी नागहामा",
+          "type": "restaurant",
+          "description": "सुषी नागहामा ताजा सुषी और साशिमी के लिए प्रसिद्ध है, जो सीधे होक्काइडो के जल से प्राप्त किया जाता है। अंतरंग सेटिंग और कुशल शेफ एक असाधारण भोजन अनुभव बनाते हैं। कीमतें ऊंची हैं, आमतौर पर $30-$50, लेकिन गुणवत्ता हर येन के लायक बनाती है। मौसमी साशिमी प्लेटर का अवश्य प्रयास करें!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "साप्पोरो मेलन ब्रेड",
+          "type": "street_food",
+          "description": "यह प्रसिद्ध मीठा व्यंजन साप्पोरो में अवश्य चखना चाहिए। कुरकुरी, कुकी जैसी परत और नरम, फुलाना आंतरिक इसे एक मनमोहक नाश्ता बनाता है। आप शहर में कई विक्रेताओं को मेलन ब्रेड बेचते हुए पाएंगे, कीमतें आमतौर पर $2-$4 के आसपास होती हैं। खोज करते समय त्वरित नाश्ते के लिए आदर्श!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "साप्पोरो आइसक्रीम विलेज",
+          "type": "cafe",
+          "description": "साप्पोरो आइसक्रीम विलेज आइसक्रीम प्रेमियों के लिए एक मनमोहक स्थल है। स्थानीय सामग्री से बने अद्वितीय स्वादों के साथ, यह स्थान शहर की हलचल से एक मीठी छुट्टी प्रदान करता है। कीमतें प्रति स्कूप $3 से $6 के बीच होती हैं। होक्काइडो दूध का स्वाद लेना न भूलें!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "साप्पोरो साके म्यूजियम",
+          "type": "bar",
+          "description": "साप्पोरो साके म्यूजियम उन लोगों के लिए एक अनूठा अनुभव प्रदान करता है जो जापान के प्रसिद्ध पेय का पता लगाना चाहते हैं। आप विभिन्न प्रकार के साके का स्वाद ले सकते हैं और ब्रूइंग प्रक्रिया के बारे में जान सकते हैं। आरामदायक वातावरण और जानकार स्टाफ अनुभव को बढ़ाते हैं। चखने की कीमतें लगभग $5 से शुरू होती हैं, जो साके प्रेमियों के लिए एक सस्ती आउटिंग बनाती हैं।",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas em Sapporo 2026 — Principais Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Sapporo. De refeições econômicas a jantares requintados — com links de reserva.",
+      "page_intro": "Sapporo é um paraíso culinário que mistura lindamente a cozinha japonesa tradicional com sabores locais únicos. Famosa por seus frutos do mar frescos, ramen substancioso e deliciosa comida de rua, esta cidade oferece uma aventura gastronômica para todos os paladares. Seja saboreando uma tigela de ramen de miso ou se deliciando com pão de melão doce, a cultura alimentar de Sapporo certamente deixará uma impressão duradoura.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "República do Ramen de Sapporo",
+          "type": "restaurant",
+          "description": "Localizada em Susukino, a República do Ramen de Sapporo é uma visita obrigatória para os amantes de ramen. Esta experiência gastronômica única apresenta várias lojas de ramen sob um único teto, cada uma com seu próprio estilo característico. Não deixe de experimentar o rico ramen de miso pelo qual Sapporo é famoso. Os preços variam de $8 a $12, tornando-se uma ótima escolha tanto para locais quanto para turistas.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "Mercado Jiyu Ichiba",
+          "type": "street_food",
+          "description": "O Mercado Jiyu Ichiba é um vibrante mercado de alimentos onde você pode experimentar uma variedade de iguarias locais. De frutos do mar grelhados a sashimi fresco, este mercado é um paraíso para os entusiastas da comida. A atmosfera animada e os vendedores amigáveis fazem dele um local perfeito para o almoço, com preços variando de $5 a $15. Não perca o caranguejo grelhado de Hokkaido!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "Jardim de Cerveja de Sapporo",
+          "type": "restaurant",
+          "description": "O Jardim de Cerveja de Sapporo não é apenas sobre ótimas cervejas; também é o lar de um delicioso churrasco Genghis Khan. Este local ao ar livre é perfeito para desfrutar de cordeiro grelhado junto com a refrescante cerveja de Sapporo. A atmosfera animada e a configuração de refeições comunitárias tornam-no um local divertido para relaxar após um dia de exploração. Os preços variam, geralmente em torno de $20-$30 por pessoa.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "Mercado Nijo",
+          "type": "night_market",
+          "description": "O Mercado Nijo é um centro movimentado de frutos do mar frescos e produtos locais. Aqui, você pode encontrar de tudo, desde sushi até espetinhos de frutos do mar grelhados. A atmosfera é animada e cheia dos aromas atrativos de comida sendo cozinhada. Os preços são razoáveis, e você pode desfrutar de uma refeição por cerca de $10-$20. Não perca a oportunidade de experimentar o ouriço-do-mar!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "Sushi Nagahama",
+          "type": "restaurant",
+          "description": "O Sushi Nagahama é renomado por seu sushi e sashimi frescos, provenientes diretamente das águas de Hokkaido. O ambiente íntimo e os chefs habilidosos proporcionam uma experiência gastronômica excepcional. Os preços são mais altos, geralmente entre $30 e $50, mas a qualidade vale cada iene. Não deixe de experimentar o prato de sashimi da estação!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "Pão de Melão de Sapporo",
+          "type": "street_food",
+          "description": "Esta famosa iguaria doce é uma obrigação quando em Sapporo. A crosta crocante, semelhante a biscoitos, e o interior macio e fofo fazem dela um lanche delicioso. Você encontrará muitos vendedores vendendo pão de melão por toda a cidade, com preços geralmente entre $2 e $4. Perfeito para um lanche rápido enquanto explora!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "Aldeia do Sorvete de Sapporo",
+          "type": "cafe",
+          "description": "A Aldeia do Sorvete de Sapporo é um destino encantador para os amantes do sorvete. Com uma variedade de sabores únicos feitos com ingredientes locais, este lugar oferece uma doce fuga da agitação da cidade. Os preços variam de $3 a $6 por bola. Não perca o sabor de leite de Hokkaido!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "Museu do Sake de Sapporo",
+          "type": "bar",
+          "description": "O Museu do Sake de Sapporo oferece uma experiência única para quem deseja explorar a famosa bebida do Japão. Você pode degustar vários tipos de sake e aprender sobre o processo de fermentação. O ambiente aconchegante e a equipe conhecedora enriquecem a experiência. Os preços de degustação começam em torno de $5, tornando-se uma saída acessível para os entusiastas do sake.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في سابورو 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم وطعام الشارع وال specialties المحلية في سابورو. من الأطعمة الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "سابورو هو جنة طهي تمزج بشكل جميل بين المطبخ الياباني التقليدي والنكهات المحلية الفريدة. يشتهر بمأكولاته البحرية الطازجة، ورامن القلبية، وطعام الشارع اللذيذ، تقدم هذه المدينة مغامرة غذائية لكل ذوق. سواء كنت تستمتع بوعاء من رامن ميسو أو تفرط في تناول خبز الشمام الحلو، فإن ثقافة الطعام في سابورو من المؤكد أنها ستترك انطباعًا دائمًا.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "جمهورية رامن سابورو",
+          "type": "restaurant",
+          "description": "تقع في سوسوكينو، جمهورية رامن سابورو هي وجهة لا بد من زيارتها لعشاق رامن. توفر هذه التجربة الغذائية الفريدة عدة متاجر رامن تحت سقف واحد، كل منها بأسلوبها الخاص. تأكد من تجربة رامن الميسو الغني الذي تشتهر به سابورو. تتراوح الأسعار من 8 إلى 12 دولارًا، مما يجعلها خيارًا رائعًا لكل من السكان المحليين والسياح.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "سوق جيو إيشبا",
+          "type": "street_food",
+          "description": "سوق جيو إيشبا هو سوق غذائي نابض حيث يمكنك تذوق مجموعة متنوعة من الأطباق المحلية. من المأكولات البحرية المشوية إلى الساشيمي الطازج، هذا السوق هو جنة لعشاق الطعام. تجعل الأجواء الحيوية والبائعين الودودين منه مكانًا مثاليًا لتناول الغداء، مع أسعار تتراوح من 5 إلى 15 دولارًا. لا تفوت فرصة تجربة سرطان البحر المشوي من هوكايدو!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "حديقة بيرة سابورو",
+          "type": "restaurant",
+          "description": "حديقة بيرة سابورو ليست فقط عن البيرة الرائعة؛ إنها أيضًا موطن لشواء جينغيس خان اللذيذ. هذا الموقع الخارجي مثالي للاستمتاع باللحم الضأن المشوي مع بيرة سابورو المنعشة. تجعل الأجواء الحيوية وإعداد الطعام المشترك منه مكانًا ممتعًا للاسترخاء بعد يوم من الاستكشاف. تختلف الأسعار، وعادة ما تكون حوالي 20-30 دولارًا للشخص.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "سوق نيجو",
+          "type": "night_market",
+          "description": "سوق نيجو هو مركز مزدحم للمأكولات البحرية الطازجة والمنتجات المحلية. هنا، يمكنك العثور على كل شيء من السوشي إلى أسياخ المأكولات البحرية المشوية. الأجواء حيوية ومليئة بروائح الطعام المطبوخ. الأسعار معقولة، ويمكنك الاستمتاع بوجبة مقابل حوالي 10-20 دولارًا. لا تفوت فرصة تجربة قنفذ البحر!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "سوشي ناجاهاما",
+          "type": "restaurant",
+          "description": "يُعرف سوشي ناجاهاما بسوشي والساشيمي الطازج، المستمدة مباشرة من مياه هوكايدو. توفر البيئة الحميمة والطهاة المهرة تجربة تناول طعام استثنائية. الأسعار أعلى، عادة ما تكون بين 30 و50 دولارًا، لكن الجودة تستحق كل ين. تأكد من تجربة طبق الساشيمي الموسمي!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "خبز الشمام سابورو",
+          "type": "street_food",
+          "description": "هذه الحلوى الشهيرة يجب تجربتها عند زيارة سابورو. القشرة المقرمشة، مثل البسكويت، والداخل الناعم والرقيق يجعلها وجبة خفيفة لذيذة. ستجد العديد من البائعين يبيعون خبز الشمام في جميع أنحاء المدينة، مع أسعار تتراوح عادة بين 2 و4 دولارات. مثالي وجبة خفيفة سريعة أثناء الاستكشاف!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "قرية الآيس كريم سابورو",
+          "type": "cafe",
+          "description": "قرية الآيس كريم سابورو هي وجهة رائعة لعشاق الآيس كريم. مع مجموعة متنوعة من النكهات الفريدة المصنوعة من المكونات المحلية، يقدم هذا المكان هروبًا حلوًا من صخب المدينة. تتراوح الأسعار من 3 إلى 6 دولارات لكل كرة. لا تفوت فرصة تجربة نكهة حليب هوكايدو!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "متحف ساكي سابورو",
+          "type": "bar",
+          "description": "يقدم متحف ساكي سابورو تجربة فريدة لأولئك الذين يتطلعون لاستكشاف مشروب اليابان الشهير. يمكنك تذوق أنواع مختلفة من الساكي وتعلم عن عملية التخمير. يعزز الجو المريح والموظفون المطلعون التجربة. تبدأ أسعار التذوق من حوالي 5 دولارات، مما يجعلها نزهة ميسورة التكلفة لعشاق الساكي.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "সাপ্পোরোর সেরা খাবার 2026 — শীর্ষ রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "সাপ্পোরোতে সেরা রেস্টুরেন্ট, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্ব আবিষ্কার করুন। বাজেটের খাবার থেকে ফাইন ডাইনিং পর্যন্ত — বুকিং লিংকের সাথে।",
+      "page_intro": "সাপ্পোরো একটি রন্ধনসম্পর্কীয় স্বর্গ যা ঐতিহ্যবাহী জাপানি রন্ধনশিল্পকে অনন্য স্থানীয় স্বাদের সাথে সুন্দরভাবে মিশ্রিত করে। তাজা সামুদ্রিক খাবার, হৃদয়গ্রাহী রামেন এবং মনোরম স্ট্রিট ফুডের জন্য পরিচিত, এই শহরটি প্রতিটি স্বাদের জন্য একটি গ্যাসট্রোনমিক অ্যাডভেঞ্চার অফার করে। আপনি যদি মিসো রামেনের একটি পাত্র উপভোগ করেন বা মিষ্টি মেলন রুটি নিয়ে indulgence করেন, তবে সাপ্পোরোর খাবার সংস্কৃতি নিশ্চিতভাবেই একটি স্থায়ী ছাপ ফেলে যাবে।",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "সাপ্পোरो রামেন রিপাবলিক",
+          "type": "restaurant",
+          "description": "সুসুকিনোতে অবস্থিত, সাপ্পোरो রামেন রিপাবলিক রামেন প্রেমীদের জন্য একটি অবশ্যই দর্শনীয় স্থান। এই অনন্য ডাইনিং অভিজ্ঞতায় এক ছাদের নিচে একাধিক রামেনের দোকান রয়েছে, যার প্রতিটির নিজস্ব স্বাক্ষরের শৈলী রয়েছে। সাপ্পোরোর বিখ্যাত সমৃদ্ধ মিসো রামেন অবশ্যই চেষ্টা করুন। দাম $8 থেকে $12 এর মধ্যে, যা স্থানীয় এবং পর্যটকদের জন্য দুর্দান্ত একটি বিকল্প।",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "জিয়ু ইচিবা মার্কেট",
+          "type": "street_food",
+          "description": "জিয়ু ইচিবা মার্কেট একটি প্রাণবন্ত খাদ্য বাজার যেখানে আপনি বিভিন্ন স্থানীয় delicacies এর স্বাদ নিতে পারেন। গ্রিলড সামুদ্রিক খাবার থেকে তাজা সাশিমি পর্যন্ত, এই বাজারটি খাদ্যপ্রেমীদের জন্য একটি স্বর্গ। প্রাণবন্ত পরিবেশ এবং বন্ধুত্বপূর্ণ বিক্রেতারা এটিকে দুপুরের খাবারের জন্য একটি আদর্শ স্থান করে তোলে, দাম $5 থেকে $15 এর মধ্যে। গ্রিলড হোক্কাইডো কাঁকড়া মিস করবেন না!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "সাপ্পোरो বিয়ার গার্ডেন",
+          "type": "restaurant",
+          "description": "সাপ্পোरो বিয়ার গার্ডেন শুধু দুর্দান্ত ব্রিউ সম্পর্কে নয়; এটি সুস্বাদু জেঙিস খান বারবিকিউয়েরও আবাস। এই আউটডোর স্থানটি গ্রিলড মেষের মাংসের সাথে রিফ্রেশিং সাপ্পোলো বিয়ার উপভোগ করার জন্য উপযুক্ত। প্রাণবন্ত পরিবেশ এবং সাম 공동ভোজন সেটআপ এটি একটি মজার স্থান করে তোলে যেখানে আপনি একটি দিনের অনুসন্ধানের পরে বিশ্রাম নিতে পারেন। দাম পরিবর্তিত হয়, সাধারণত প্রতি ব্যক্তির জন্য $20-$30 এর চারপাশে।",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "নিজো মার্কেট",
+          "type": "night_market",
+          "description": "নিজো মার্কেট তাজা সামুদ্রিক খাবার এবং স্থানীয় পণ্যের জন্য একটি ব্যস্ত কেন্দ্র। এখানে, আপনি সুশি থেকে গ্রিলড সামুদ্রিক খাবারের স্কিউয়ার পর্যন্ত সবকিছু খুঁজে পাবেন। পরিবেশ প্রাণবন্ত এবং রান্নার খাবারের লোভনীয় সুগন্ধে পূর্ণ। দাম যুক্তিসংগত, এবং আপনি প্রায় $10-$20 এর মধ্যে একটি খাবারের স্বাদ নিতে পারেন। সাগরের উচ্চতা চেষ্টা করা থেকে বঞ্চিত হবেন না!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "সুশি নাগাহামা",
+          "type": "restaurant",
+          "description": "সুশি নাগাহামা তার তাজা সুশি এবং সাশিমির জন্য পরিচিত, যা সরাসরি হোক্কাইডোর জল থেকে প্রাপ্ত। ঘনিষ্ঠ সেটিং এবং দক্ষ শেফ একটি ব্যতিক্রমী ডাইনিং অভিজ্ঞতা তৈরি করে। দাম উচ্চপদস্থ, সাধারণত $30-$50 এর মধ্যে, তবে মান প্রতিটি ইয়েনের মূল্যবান। মৌসুমি সাশিমি প্লেটার অবশ্যই চেষ্টা করুন!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "সাপ্পোرو মেলন ব্রেড",
+          "type": "street_food",
+          "description": "এই আইকনিক মিষ্টি খাবারটি সাপ্পোরোতে অবশ্যই চেষ্টা করতে হবে। দৃঢ়, কুকির মতো খোলস এবং নরম, ফ্লফি অভ্যন্তর এটি একটি মনোরম নাস্তা তৈরি করে। আপনি শহরজুড়ে অনেক বিক্রেতাকে মেলন রুটি বিক্রি করতে দেখতে পাবেন, দাম সাধারণত $2-$4 এর মধ্যে। অনুসন্ধান করার সময় দ্রুত নাস্তার জন্য আদর্শ!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "সাপ্পোरो আইসক্রিম ভিলেজ",
+          "type": "cafe",
+          "description": "সাপ্পোरो আইসক্রিম ভিলেজ আইসক্রিম প্রেমীদের জন্য একটি মনোরম স্থান। স্থানীয় উপাদান দিয়ে তৈরি বিভিন্ন অনন্য স্বাদের সাথে, এই জায়গাটি শহরের ব্যস্ততা থেকে একটি মিষ্টি পালানো। দাম প্রতি স্কুপ $3 থেকে $6। হোক্কাইডো দুধের স্বাদ নেওয়া মিস করবেন না!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "সাপ্পোро সাকে মিউজিয়াম",
+          "type": "bar",
+          "description": "সাপ্পোро সাকে মিউজিয়াম তাদের জন্য একটি অনন্য অভিজ্ঞতা প্রদান করে যারা জাপানের বিখ্যাত পানীয়টি অন্বেষণ করতে চান। আপনি বিভিন্ন ধরনের সাকের স্বাদ নিতে পারবেন এবং ব্রিউিং প্রক্রিয়া সম্পর্কে জানতে পারবেন। আরামদায়ক পরিবেশ এবং জ্ঞানী কর্মীরা অভিজ্ঞতাকে বাড়িয়ে তোলে। টেস্টিংয়ের দাম প্রায় $5 থেকে শুরু হয়, যা সাকের প্রেমীদের জন্য একটি সাশ্রয়ী ভ্রমণ তৈরি করে।",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Саппоро 2026 — Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Саппоро. От бюджетной еды до изысканных ужинов — со ссылками для бронирования.",
+      "page_intro": "Саппоро — это кулинарный рай, который прекрасно сочетает традиционную японскую кухню с уникальными местными вкусами. Известный своими свежими морепродуктами, сытным раменом и восхитительной уличной едой, этот город предлагает гастрономическое приключение для каждого гурмана. Наслаждаясь мисо-раменом или сладким дынным хлебом, культура еды Саппоро, безусловно, оставит незабываемое впечатление.",
+      "items": [
+        {
+          "id": "sapporo-ramen-susukino",
+          "name": "Республика Рамен Саппоро",
+          "type": "restaurant",
+          "description": "Расположенная в Сусукино, Республика Рамен Саппоро — это обязательное место для любителей рамена. Этот уникальный гастрономический опыт предлагает несколько магазинов рамена под одной крышей, каждый со своим характерным стилем. Обязательно попробуйте насыщенный мисо-рамен, за который славится Саппоро. Цены варьируются от 8 до 12 долларов, что делает его отличным выбором как для местных жителей, так и для туристов.",
+          "image_keyword": "Sapporo Ramen Republic",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Miso Ramen",
+          "klook_query": "Sapporo Ramen Republic"
+        },
+        {
+          "id": "jiyu-ichiba-market",
+          "name": "Рынок Джию Ичиба",
+          "type": "street_food",
+          "description": "Рынок Джию Ичиба — это яркий рынок еды, где вы можете попробовать различные местные деликатесы. От жареных морепродуктов до свежего сашими, этот рынок является раем для гурманов. Живой атмосфера и дружелюбные продавцы делают его идеальным местом для обеда, с ценами от 5 до 15 долларов. Не пропустите жареного краба Хоккайдо!",
+          "image_keyword": "Jiyu Ichiba Market",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Grilled Hokkaido Crab",
+          "klook_query": "Jiyu Ichiba Market food tour"
+        },
+        {
+          "id": "sapporo-beer-garden",
+          "name": "Пивной сад Саппоро",
+          "type": "restaurant",
+          "description": "Пивной сад Саппоро — это не только отличное пиво; это также дом вкусного барбекю Гэнгиса Хана. Это открытое пространство идеально подходит для наслаждения жареным мясом барашка вместе с освежающим пивом Саппоро. Живое окружение и общая трапеза делают его веселым местом для отдыха после дня исследований. Цены варьируются, обычно около 20-30 долларов с человека.",
+          "image_keyword": "Sapporo Beer Garden",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Genghis Khan BBQ",
+          "klook_query": "Sapporo Beer Garden reservation"
+        },
+        {
+          "id": "nijo-market",
+          "name": "Рынок Нидзё",
+          "type": "night_market",
+          "description": "Рынок Нидзё — это бурлящий центр свежих морепродуктов и местных продуктов. Здесь вы можете найти все, от суши до жареных морепродуктов на шпажках. Атмосфера живая и наполнена заманчивыми ароматами готовящейся еды. Цены разумные, и вы можете насладиться блюдом за 10-20 долларов. Не пропустите возможность попробовать морской еж!",
+          "image_keyword": "Nijo Market",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Sea Urchin",
+          "klook_query": "Nijo Market food experience"
+        },
+        {
+          "id": "sapporo-sushi-nagahama",
+          "name": "Суши Нагахама",
+          "type": "restaurant",
+          "description": "Суши Нагахама славится своим свежим суши и сашими, которые поступают прямиком из вод Хоккайдо. Уютная обстановка и опытные повара создают исключительный кулинарный опыт. Цены выше среднего, обычно от 30 до 50 долларов, но качество оправдывает каждую йену. Обязательно попробуйте сезонную тарелку с сашими!",
+          "image_keyword": "Sushi Nagahama",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Seasonal Sashimi Platter",
+          "klook_query": "Sushi Nagahama reservation"
+        },
+        {
+          "id": "sapporo-melon-bread",
+          "name": "Дынный хлеб Саппоро",
+          "type": "street_food",
+          "description": "Этот культовый сладкий десерт обязательно нужно попробовать, находясь в Саппоро. Хрустящая, печенья-подобная корочка и мягкая, пушистая начинка делают его восхитительным угощением. Вы найдете множество продавцов, продающих дынный хлеб по всему городу, с ценами обычно от 2 до 4 долларов. Идеально для быстрого перекуса во время прогулки!",
+          "image_keyword": "Sapporo Melon Bread",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Melon Bread",
+          "klook_query": "Sapporo Melon Bread tour"
+        },
+        {
+          "id": "sapporo-ice-cream",
+          "name": "Деревня мороженого Саппоро",
+          "type": "cafe",
+          "description": "Деревня мороженого Саппоро — это очаровательное место для любителей мороженого. С разнообразием уникальных вкусов, приготовленных из местных ингредиентов, это место предлагает сладкий побег от городской суеты. Цены варьируются от 3 до 6 долларов за шарик. Не пропустите вкус молока Хоккайдо!",
+          "image_keyword": "Sapporo Ice Cream Village",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Hokkaido Milk Flavor",
+          "klook_query": "Sapporo Ice Cream Village"
+        },
+        {
+          "id": "sapporo-sake-museum",
+          "name": "Музей саке Саппоро",
+          "type": "bar",
+          "description": "Музей саке Саппоро предлагает уникальный опыт для тех, кто хочет узнать о знаменитом напитке Японии. Вы можете попробовать различные виды саке и узнать о процессе его производства. Уютная атмосфера и знающие сотрудники делают опыт еще более приятным. Цены на дегустацию начинаются от 5 долларов, что делает это доступным вариантом для любителей саке.",
+          "image_keyword": "Sapporo Sake Museum",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Local Sake",
+          "klook_query": "Sapporo Sake Museum tour"
+        }
+      ]
+    }
+  }
+}

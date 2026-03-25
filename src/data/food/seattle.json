@@ -1,0 +1,1145 @@
+{
+  "city_slug": "seattle",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Seattle 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Seattle. From budget eats to fine dining — with booking links.",
+      "page_intro": "Seattle is a vibrant city known for its diverse food scene, blending fresh seafood, international flavors, and local farm-to-table ingredients. With its picturesque waterfront and bustling markets, the culinary culture here offers something for every palate. Whether you're after upscale dining or delicious street food, Seattle guarantees an unforgettable gastronomic experience.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "Pike Place Market",
+          "type": "street_food",
+          "description": "Pike Place Market is a historic farmers market that offers a plethora of local specialties, fresh produce, and delicious street food. Don't miss the iconic flying fish and grab a cup of clam chowder from the famous Pike Place Chowder. The vibrant atmosphere and stunning waterfront views make it a must-visit. Price range varies, but you can find budget-friendly options.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "Salumi",
+          "type": "restaurant",
+          "description": "Salumi is a family-owned Italian deli known for its artisanal cured meats and sandwiches. The atmosphere is casual and welcoming, perfect for a quick bite. Try the famous 'Porchetta Sandwich' or the 'Salumi Board' for a taste of their best offerings. Prices are reasonable, making it a great spot for lunch.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "Tacos El Asadero",
+          "type": "street_food",
+          "description": "Tacos El Asadero is a beloved taco truck known for its authentic Mexican flavors and mouthwatering tacos. With a casual outdoor seating area, it's ideal for grabbing a quick bite. The carne asada and al pastor tacos are a must-try, and the prices are very budget-friendly.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "Canlis",
+          "type": "restaurant",
+          "description": "Canlis is an iconic fine-dining restaurant that offers a refined dining experience with stunning views of Lake Union. Known for its innovative Pacific Northwest cuisine, the menu changes seasonally. The ambiance is elegant, making it perfect for special occasions. Expect to pay higher prices for an unforgettable meal.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "Seattle Waterfront",
+          "type": "street_food",
+          "description": "The Seattle Waterfront is a lively area filled with street food vendors and local eateries. Enjoy fresh seafood, gourmet hot dogs, and artisan ice cream while taking in the picturesque views of Elliott Bay. It's a great place to sample various culinary delights at reasonable prices.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "Trophy Brewing",
+          "type": "bar",
+          "description": "Trophy Brewing is a local favorite known for its craft beers and laid-back atmosphere. With a rotating selection of house-brewed ales, it's a great spot to unwind after a day of exploring. Pair your drink with one of their delicious pizzas. Prices are moderate, making it a good choice for casual dining.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "The Pink Door",
+          "type": "restaurant",
+          "description": "The Pink Door is a charming Italian restaurant known for its romantic ambiance and live entertainment. Located near Pike Place, it offers an exquisite menu featuring homemade pastas and fresh seafood. The prices reflect the upscale experience, making it perfect for a special night out. Reservations are recommended.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "Beacon Hill",
+          "type": "local_specialty",
+          "description": "Beacon Hill is home to a variety of local eateries showcasing Seattle's unique flavors. From dim sum to soul food, this neighborhood is a melting pot of culinary experiences. Explore the local cafes and restaurants that offer a taste of Seattle's diverse food culture. Prices vary, allowing for budget-friendly options.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年西雅图最佳美食——顶级餐厅与街头美食指南",
+      "seo_description": "探索西雅图最佳餐厅、街头美食和当地特色。从经济实惠的美食到精致的餐饮——附带预订链接。",
+      "page_intro": "西雅图是一座充满活力的城市，以其多样的美食文化而闻名，融合了新鲜的海鲜、国际风味和当地农场到餐桌的食材。这里的风景如画的海滨和热闹的市场，让每个味蕾都有所满足。无论你是在寻找高档餐饮还是美味的街头美食，西雅图都能带来一次难忘的美食体验。",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "派克市场",
+          "type": "street_food",
+          "description": "派克市场是一个历史悠久的农贸市场，提供丰富的当地特色、新鲜农产品和美味的街头美食。不要错过标志性的飞鱼，顺便从著名的派克市场蛤蜊浓汤店拿一杯蛤蜊浓汤。生动的氛围和迷人的海滨景色使其成为必游之地。价格范围各异，但你可以找到经济实惠的选择。",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "萨鲁米",
+          "type": "restaurant",
+          "description": "萨鲁米是一家家族经营的意大利熟食店，以其手工腌制的肉类和三明治而闻名。氛围轻松友好，非常适合快速用餐。尝试著名的“波尔凯塔三明治”或“萨鲁米拼盘”，体验他们的最佳美食。价格合理，是午餐的绝佳选择。",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "塔可斯·埃尔·阿萨德罗",
+          "type": "street_food",
+          "description": "塔可斯·埃尔·阿萨德罗是一家备受喜爱的塔可车，以其正宗的墨西哥风味和令人垂涎的塔可而闻名。这里有一个休闲的户外座位区，非常适合快速用餐。牛肉和阿尔帕斯特塔可是必试之选，价格非常经济实惠。",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "坎利斯",
+          "type": "restaurant",
+          "description": "坎利斯是一家标志性的高档餐厅，提供精致的用餐体验，同时享有联合湖的壮丽景色。以其创新的太平洋西北菜而闻名，菜单随季节变化。环境优雅，非常适合特殊场合。期待为一次难忘的用餐支付较高的价格。",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "西雅图海滨",
+          "type": "street_food",
+          "description": "西雅图海滨是一个热闹的区域，充满了街头美食摊贩和当地餐厅。享受新鲜的海鲜、美味的热狗和手工冰淇淋，同时欣赏艾略特湾的迷人景色。这里是以合理的价格品尝各种美食的好地方。",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "奖杯酿酒厂",
+          "type": "bar",
+          "description": "奖杯酿酒厂是本地人最爱的地方，以其精酿啤酒和轻松的氛围而闻名。这里有旋转的自酿啤酒选择，是一天探索后放松的好去处。搭配他们美味的比萨，价格适中，是休闲用餐的好选择。",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "粉红门",
+          "type": "restaurant",
+          "description": "粉红门是一家迷人的意大利餐厅，以浪漫的氛围和现场娱乐而闻名。位于派克市场附近，提供精致的菜单，包括自制意大利面和新鲜海鲜。价格反映出高档的用餐体验，非常适合特殊的夜晚。建议提前预订。",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "比肯山",
+          "type": "local_specialty",
+          "description": "比肯山有多家当地餐厅，展示西雅图独特的风味。从点心到灵魂食品，这个社区是美食体验的熔炉。探索当地的咖啡馆和餐厅，品尝西雅图多样的美食文化。价格各异，提供经济实惠的选择。",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年シアトルのベストフード — トップレストラン＆ストリートフードガイド",
+      "seo_description": "シアトルで最高のレストラン、ストリートフード、地元の特産品を発見しよう。予算に優しい食事から高級ダイニングまで—予約リンク付き。",
+      "page_intro": "シアトルは、多様な食文化で知られる活気ある都市で、新鮮なシーフード、国際的な風味、地元のファーム・トゥ・テーブルの食材を融合させています。絵のような海岸線と賑やかな市場があり、ここでの料理文化はすべての味覚に応えます。高級ダイニングから美味しいストリートフードまで、シアトルは忘れられないグルメ体験を保証します。",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "パイクプレイスマーケット",
+          "type": "street_food",
+          "description": "パイクプレイスマーケットは、地元の特産品、新鮮な農産物、美味しいストリートフードを提供する歴史的なファーマーズマーケットです。象徴的な飛び魚を見逃さず、有名なパイクプレイスチャウダーからクラムチャウダーを一杯手に入れましょう。活気ある雰囲気と美しい海岸線の景色が魅力の必見スポットです。価格帯はさまざまですが、予算に優しいオプションも見つかります。",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "サルーミ",
+          "type": "restaurant",
+          "description": "サルーミは、手作りの cured meats とサンドイッチで知られる家族経営のイタリアンデリです。カジュアルでフレンドリーな雰囲気で、サクッと食事をするのに最適です。有名な「ポルケッタサンドイッチ」や「サルーミボード」を試してみて、彼らの最高の料理を味わってください。価格も手頃で、ランチにぴったりのスポットです。",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "タコス・エル・アサデロ",
+          "type": "street_food",
+          "description": "タコス・エル・アサデロは、本格的なメキシコの風味と口の中でとろけるタコスで知られる人気のタコトラックです。カジュアルな屋外席があり、さっと食事をするのに最適です。カルネアサダとアルパスタのタコスは必食で、価格も非常に予算に優しいです。",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "カンリス",
+          "type": "restaurant",
+          "description": "カンリスは、ユニオン湖の美しい景色を楽しめるアイコニックな高級レストランです。革新的なパシフィックノースウェスト料理で知られ、メニューは季節ごとに変わります。エレガントな雰囲気で、特別な occasion に最適です。忘れられない食事のためには高めの価格を期待してください。",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "シアトルウォーターフロント",
+          "type": "street_food",
+          "description": "シアトルウォーターフロントは、ストリートフードのベンダーや地元の飲食店が集まる賑やかなエリアです。新鮮なシーフード、グルメホットドッグ、アーティザンアイスクリームを楽しみながら、エリオット湾の美しい景色を堪能できます。合理的な価格で様々な料理を楽しむのに最適な場所です。",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "トロフィーブリューイング",
+          "type": "bar",
+          "description": "トロフィーブリューイングは、クラフトビールとリラックスした雰囲気で知られる地元の人気スポットです。常時取り揃えられる自家製エールのセレクションがあり、一日観光した後にゆっくりするのに最適です。彼らの美味しいピザと一緒に飲み物を楽しんでください。価格は適度で、カジュアルなダイニングに最適です。",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "ザ・ピンクドア",
+          "type": "restaurant",
+          "description": "ザ・ピンクドアは、ロマンチックな雰囲気とライブエンターテイメントで知られる魅力的なイタリアンレストランです。パイクプレイスの近くに位置し、自家製のパスタや新鮮なシーフードを使った豪華なメニューを提供しています。価格は高級な体験を反映しており、特別な夜に最適です。予約をお勧めします。",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "ビーカンヒル",
+          "type": "local_specialty",
+          "description": "ビーカンヒルには、シアトルのユニークな風味を展示するさまざまな地元の飲食店があります。点心からソウルフードまで、この地域は多様な料理体験のメルティングポットです。シアトルの多様な食文化を味わえる地元のカフェやレストランを探索してください。価格はさまざまで、予算に優しいオプションもあります。",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 시애틀 최고의 음식 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "시애틀 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 저렴한 음식부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "시애틀은 신선한 해산물, 국제적인 맛, 그리고 지역 농산물에서 테이블까지의 재료가 어우러진 다양하고 활기찬 음식 문화로 유명한 도시입니다. 그림 같은 해안선과 분주한 시장이 있어 이곳의 요리 문화는 모든 미각을 만족시킵니다. 고급 식사부터 맛있는 스트리트 푸드까지, 시애틀은 잊지 못할 미식 경험을 보장합니다.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "파이크 플레이스 마켓",
+          "type": "street_food",
+          "description": "파이크 플레이스 마켓은 지역 특산물, 신선한 농산물, 맛있는 스트리트 푸드를 제공하는 역사적인 농산물 시장입니다. 상징적인 날아다니는 생선을 놓치지 말고, 유명한 파이크 플레이스 조개 수프를 한 잔 사 보세요. 활기찬 분위기와 아름다운 해안 경치가 어우러져 꼭 방문해야 할 곳입니다. 가격대는 다양하지만 저렴한 옵션도 찾을 수 있습니다.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "살루미",
+          "type": "restaurant",
+          "description": "살루미는 장인 스타일의 숙성 육류와 샌드위치로 유명한 가족 운영의 이탈리안 델리입니다. 캐주얼하고 친근한 분위기로 빠르게 식사하기에 완벽한 장소입니다. 유명한 '포르케타 샌드위치'나 '살루미 보드'를 시도해보세요. 가격도 합리적이어서 점심 먹기에 좋은 장소입니다.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "타코스 엘 아사데로",
+          "type": "street_food",
+          "description": "타코스 엘 아사데로는 정통 멕시코의 맛과 군침 도는 타코로 유명한 인기 타코 트럭입니다. 캐주얼한 야외 좌석이 있어 빠르게 한 끼를 즐기기에 이상적입니다. 카르네 아사다와 알 파스토르 타코는 꼭 먹어봐야 하며, 가격도 매우 저렴합니다.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "칸리스",
+          "type": "restaurant",
+          "description": "칸리스는 유니온 호수의 멋진 전망을 감상할 수 있는 상징적인 고급 레스토랑입니다. 혁신적인 태평양 북서부 요리로 유명하며, 메뉴는 계절에 따라 변경됩니다. 우아한 분위기로 특별한 날에 적합합니다. 잊지 못할 식사를 위해서는 더 높은 가격을 기대해야 합니다.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "시애틀 워터프론트",
+          "type": "street_food",
+          "description": "시애틀 워터프론트는 스트리트 푸드 판매자와 지역 식당으로 가득한 활기찬 지역입니다. 신선한 해산물, 고급 핫도그, 수제 아이스크림을 즐기며 엘리엇 베이의 아름다운 경치를 감상하세요. 합리적인 가격으로 다양한 요리를 시도해볼 수 있는 좋은 장소입니다.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "트로피 양조장",
+          "type": "bar",
+          "description": "트로피 양조장은 수제 맥주와 편안한 분위기로 유명한 지역 인기 장소입니다. 자가 양조한 에일의 다양한 선택이 있으며, 탐험 후 편안히 쉴 수 있는 좋은 장소입니다. 그들의 맛있는 피자와 함께 음료를 즐겨보세요. 가격은 적당하여 캐주얼한 다이닝에 적합합니다.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "핑크 도어",
+          "type": "restaurant",
+          "description": "핑크 도어는 로맨틱한 분위기와 라이브 공연으로 유명한 매력적인 이탈리안 레스토랑입니다. 파이크 플레이스 근처에 위치해 있으며, 수제 파스타와 신선한 해산물을 사용한 정교한 메뉴를 제공합니다. 가격은 고급스러운 경험을 반영하여 특별한 날에 적합합니다. 예약을 권장합니다.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "비컨 힐",
+          "type": "local_specialty",
+          "description": "비컨 힐에는 시애틀의 독특한 맛을 보여주는 다양한 지역 식당이 있습니다. 딤섬부터 소울푸드까지, 이 지역은 다양한 요리 경험의 용광로입니다. 시애틀의 다양한 음식 문화를 맛볼 수 있는 지역 카페와 식당을 탐험해보세요. 가격은 다양하여 예산에 맞는 옵션도 있습니다.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleures Nourritures à Seattle 2026 — Meilleurs Restaurants & Guide de Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Seattle. Des repas à petit budget à la haute cuisine — avec des liens de réservation.",
+      "page_intro": "Seattle est une ville vibrante connue pour sa scène culinaire diversifiée, mêlant fruits de mer frais, saveurs internationales et ingrédients locaux de la ferme à l'assiette. Avec son front de mer pittoresque et ses marchés animés, la culture culinaire ici offre quelque chose pour tous les palais. Que vous recherchiez une cuisine haut de gamme ou de délicieux plats de rue, Seattle garantit une expérience gastronomique inoubliable.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "Pike Place Market",
+          "type": "street_food",
+          "description": "Pike Place Market est un marché fermier historique qui propose une pléthore de spécialités locales, de produits frais et de délicieuses street food. Ne manquez pas le poisson volant emblématique et prenez une tasse de chowder de palourde du célèbre Pike Place Chowder. L'atmosphère vibrante et les vues imprenables sur le front de mer en font un incontournable. La fourchette de prix varie, mais vous pouvez trouver des options à petit budget.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "Salumi",
+          "type": "restaurant",
+          "description": "Salumi est une charcuterie italienne familiale connue pour ses viandes séchées et ses sandwiches artisanaux. L'atmosphère est décontractée et accueillante, parfaite pour une bouchée rapide. Essayez le célèbre 'Sandwich Porchetta' ou le 'Plateau Salumi' pour goûter à leurs meilleures offres. Les prix sont raisonnables, ce qui en fait un excellent endroit pour le déjeuner.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "Tacos El Asadero",
+          "type": "street_food",
+          "description": "Tacos El Asadero est un camion de tacos apprécié, connu pour ses saveurs mexicaines authentiques et ses tacos savoureux. Avec un espace extérieur décontracté, c'est idéal pour attraper un repas rapide. Les tacos carne asada et al pastor sont un must-try, et les prix sont très abordables.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "Canlis",
+          "type": "restaurant",
+          "description": "Canlis est un restaurant emblématique de haute cuisine qui offre une expérience culinaire raffinée avec une vue imprenable sur le lac Union. Connue pour sa cuisine innovante du Pacifique Nord-Ouest, le menu change selon les saisons. L'ambiance est élégante, ce qui en fait un endroit parfait pour des occasions spéciales. Attendez-vous à payer des prix plus élevés pour un repas inoubliable.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "Seattle Waterfront",
+          "type": "street_food",
+          "description": "Le Seattle Waterfront est une zone animée remplie de vendeurs de street food et de restaurants locaux. Profitez de fruits de mer frais, de hot-dogs gastronomiques et de glaces artisanales tout en admirant les vues pittoresques de la baie d'Elliott. C'est un excellent endroit pour déguster diverses délicatesses culinaires à des prix raisonnables.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "Trophy Brewing",
+          "type": "bar",
+          "description": "Trophy Brewing est un favori local connu pour ses bières artisanales et son ambiance décontractée. Avec une sélection rotative de bières maison, c'est un endroit idéal pour se détendre après une journée d'exploration. Accompagnez votre boisson d'une de leurs délicieuses pizzas. Les prix sont modérés, ce qui en fait un bon choix pour un repas décontracté.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "The Pink Door",
+          "type": "restaurant",
+          "description": "The Pink Door est un charmant restaurant italien connu pour son ambiance romantique et ses divertissements en direct. Situé près de Pike Place, il propose un menu exquis avec des pâtes maison et des fruits de mer frais. Les prix reflètent l'expérience haut de gamme, ce qui en fait un endroit parfait pour une soirée spéciale. Les réservations sont recommandées.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "Beacon Hill",
+          "type": "local_specialty",
+          "description": "Beacon Hill abrite une variété de restaurants locaux mettant en valeur les saveurs uniques de Seattle. Des dim sum à la soul food, ce quartier est un melting-pot d'expériences culinaires. Explorez les cafés et restaurants locaux qui offrent un aperçu de la culture alimentaire diversifiée de Seattle. Les prix varient, permettant des options à petit budget.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Seattle 2026 — Mejores Restaurantes y Guía de Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Seattle. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Seattle es una ciudad vibrante conocida por su diversa escena culinaria, que mezcla mariscos frescos, sabores internacionales y productos locales de la granja a la mesa. Con su pintoresco paseo marítimo y bulliciosos mercados, la cultura culinaria aquí ofrece algo para todos los paladares. Ya sea que busques una cena elegante o deliciosa comida callejera, Seattle garantiza una experiencia gastronómica inolvidable.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "Mercado Pike Place",
+          "type": "street_food",
+          "description": "El Mercado Pike Place es un mercado de agricultores histórico que ofrece una plétora de especialidades locales, productos frescos y deliciosa comida callejera. No te pierdas el icónico pez volador y agarra una taza de chowder de almejas de la famosa Pike Place Chowder. La atmósfera vibrante y las impresionantes vistas del paseo marítimo lo convierten en una visita obligada. El rango de precios varía, pero puedes encontrar opciones económicas.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "Salumi",
+          "type": "restaurant",
+          "description": "Salumi es una charcutería italiana familiar conocida por sus carnes curadas artesanales y sándwiches. La atmósfera es casual y acogedora, perfecta para un bocado rápido. Prueba el famoso 'Sándwich de Porchetta' o la 'Tabla de Salumi' para degustar sus mejores ofertas. Los precios son razonables, lo que lo convierte en un excelente lugar para el almuerzo.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "Tacos El Asadero",
+          "type": "street_food",
+          "description": "Tacos El Asadero es un querido camión de tacos conocido por sus auténticos sabores mexicanos y sus deliciosos tacos. Con un área de asientos al aire libre informal, es ideal para agarrar un bocado rápido. Los tacos de carne asada y al pastor son imprescindibles, y los precios son muy económicos.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "Canlis",
+          "type": "restaurant",
+          "description": "Canlis es un icónico restaurante de alta cocina que ofrece una experiencia culinaria refinada con impresionantes vistas del Lago Union. Conocido por su innovadora cocina del Noroeste del Pacífico, el menú cambia según la temporada. El ambiente es elegante, lo que lo hace perfecto para ocasiones especiales. Espera pagar precios más altos por una comida inolvidable.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "Paseo Marítimo de Seattle",
+          "type": "street_food",
+          "description": "El Paseo Marítimo de Seattle es una zona animada llena de vendedores de comida callejera y restaurantes locales. Disfruta de mariscos frescos, hot dogs gourmet y helados artesanales mientras disfrutas de las impresionantes vistas de Elliott Bay. Es un excelente lugar para probar diversas delicias culinarias a precios razonables.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "Trophy Brewing",
+          "type": "bar",
+          "description": "Trophy Brewing es un favorito local conocido por sus cervezas artesanales y su ambiente relajado. Con una selección rotativa de cervezas de la casa, es un excelente lugar para relajarse después de un día de exploración. Acompaña tu bebida con una de sus deliciosas pizzas. Los precios son moderados, lo que lo convierte en una buena opción para una comida casual.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "La Puerta Rosa",
+          "type": "restaurant",
+          "description": "La Puerta Rosa es un encantador restaurante italiano conocido por su ambiente romántico y entretenimiento en vivo. Ubicado cerca de Pike Place, ofrece un exquisito menú que incluye pastas caseras y mariscos frescos. Los precios reflejan la experiencia de alta gama, lo que lo convierte en un lugar perfecto para una noche especial. Se recomienda hacer reservas.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "Beacon Hill",
+          "type": "local_specialty",
+          "description": "Beacon Hill alberga una variedad de restaurantes locales que muestran los sabores únicos de Seattle. Desde dim sum hasta comida soul, este vecindario es un crisol de experiencias culinarias. Explora los cafés y restaurantes locales que ofrecen un vistazo a la diversa cultura alimentaria de Seattle. Los precios varían, permitiendo opciones económicas.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Seattle 2026 — Restoran Teratas & Panduan Makanan Jalanan",
+      "seo_description": "Temukan restoran terbaik, makanan jalanan, dan spesialisasi lokal di Seattle. Dari makanan anggaran hingga fine dining — dengan tautan pemesanan.",
+      "page_intro": "Seattle adalah kota yang hidup yang dikenal dengan scene makanan yang beragam, memadukan makanan laut segar, rasa internasional, dan bahan lokal dari pertanian ke meja. Dengan tepi lautnya yang indah dan pasar yang ramai, budaya kuliner di sini menawarkan sesuatu untuk setiap selera. Apakah Anda mencari makan malam mewah atau makanan jalanan yang lezat, Seattle menjamin pengalaman gastronomi yang tak terlupakan.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "Pasar Pike Place",
+          "type": "street_food",
+          "description": "Pasar Pike Place adalah pasar petani bersejarah yang menawarkan banyak spesialisasi lokal, produk segar, dan makanan jalanan yang lezat. Jangan lewatkan ikan terbang ikonik dan ambil secangkir chowder kerang dari Pike Place Chowder yang terkenal. Suasana yang hidup dan pemandangan tepi laut yang menakjubkan membuatnya menjadi tempat yang wajib dikunjungi. Kisaran harga bervariasi, tetapi Anda dapat menemukan opsi yang ramah anggaran.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "Salumi",
+          "type": "restaurant",
+          "description": "Salumi adalah deli Italia yang dimiliki keluarga yang terkenal dengan daging olahan dan sandwich artisanal. Suasana santai dan ramah, sempurna untuk makan cepat. Cobalah 'Sandwich Porchetta' yang terkenal atau 'Salumi Board' untuk mencicipi penawaran terbaik mereka. Harganya terjangkau, menjadikannya tempat yang bagus untuk makan siang.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "Tacos El Asadero",
+          "type": "street_food",
+          "description": "Tacos El Asadero adalah truk taco yang dicintai yang dikenal dengan rasa Meksiko yang otentik dan taco yang menggugah selera. Dengan area tempat duduk luar ruangan yang santai, ini ideal untuk mengambil makanan cepat saji. Taco carne asada dan al pastor adalah yang wajib dicoba, dan harganya sangat ramah anggaran.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "Canlis",
+          "type": "restaurant",
+          "description": "Canlis adalah restoran fine dining ikonik yang menawarkan pengalaman bersantap yang halus dengan pemandangan indah Danau Union. Dikenal dengan masakan inovatif dari Pacific Northwest, menu berubah sesuai musim. Suasana elegan, menjadikannya sempurna untuk acara khusus. Harapkan untuk membayar harga lebih tinggi untuk makanan yang tak terlupakan.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "Seattle Waterfront",
+          "type": "street_food",
+          "description": "Seattle Waterfront adalah area yang ramai penuh dengan pedagang makanan jalanan dan restoran lokal. Nikmati makanan laut segar, hot dog gourmet, dan es krim artisan sambil menikmati pemandangan indah Elliott Bay. Ini adalah tempat yang bagus untuk mencicipi berbagai hidangan kuliner dengan harga yang wajar.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "Trophy Brewing",
+          "type": "bar",
+          "description": "Trophy Brewing adalah tempat favorit lokal yang dikenal dengan bir kerajinan dan suasana santai. Dengan pilihan bir yang dibuat sendiri yang berputar, ini adalah tempat yang bagus untuk bersantai setelah seharian menjelajahi. Pasangkan minuman Anda dengan salah satu pizza lezat mereka. Harganya moderat, menjadikannya pilihan yang bagus untuk makan santai.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "The Pink Door",
+          "type": "restaurant",
+          "description": "The Pink Door adalah restoran Italia yang menawan yang dikenal dengan suasana romantis dan hiburan langsung. Terletak dekat Pike Place, menawarkan menu eksquisit yang mencakup pasta buatan sendiri dan makanan laut segar. Harganya mencerminkan pengalaman kelas atas, menjadikannya tempat yang sempurna untuk malam spesial. Reservasi sangat disarankan.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "Beacon Hill",
+          "type": "local_specialty",
+          "description": "Beacon Hill adalah rumah bagi berbagai restoran lokal yang menampilkan rasa unik Seattle. Dari dim sum hingga makanan jiwa, lingkungan ini adalah melting pot pengalaman kuliner. Jelajahi kafe dan restoran lokal yang menawarkan cita rasa budaya makanan yang beragam di Seattle. Harga bervariasi, memungkinkan opsi yang ramah anggaran.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "सिएटल में सबसे अच्छा खाना 2026 - शीर्ष रेस्तरां और स्ट्रीट फ़ूड गाइड",
+      "seo_description": "सिएटल के सबसे अच्छे रेस्तरां, स्ट्रीट फ़ूड और स्थानीय विशेषताओं की खोज करें। बजट खाने से लेकर फ़ाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "सिएटल एक जीवंत शहर है जो अपने विविध खाद्य दृश्य के लिए जाना जाता है, जिसमें ताजा समुद्री भोजन, अंतरराष्ट्रीय स्वाद और स्थानीय फ़ार्म-टू-टेबल सामग्री का मिश्रण है। इसके चित्रात्मक जल क्षेत्र और हलचल भरे बाजारों के साथ, यहाँ का पाक संस्कृति हर स्वाद के लिए कुछ न कुछ पेश करती है। चाहे आप उच्च श्रेणी के भोजन की तलाश में हों या स्वादिष्ट स्ट्रीट फ़ूड की, सिएटल एक अद्भुत गैस्ट्रोनोमिक अनुभव की गारंटी देता है।",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "पाइक प्लेस मार्केट",
+          "type": "street_food",
+          "description": "पाइक प्लेस मार्केट एक ऐतिहासिक किसानों का बाज़ार है जो स्थानीय विशेषताओं, ताजे उत्पादों और स्वादिष्ट स्ट्रीट फ़ूड की भरपूर मात्रा प्रदान करता है। प्रसिद्ध पाइक प्लेस चौडर से क्लैम चौडर का एक कप ज़रूर लें। जीवंत वातावरण और सुंदर जल क्षेत्र के दृश्य इसे एक जरूरी जगह बनाते हैं। कीमत भिन्न होती है, लेकिन आप बजट के अनुकूल विकल्प पा सकते हैं।",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "सलुमी",
+          "type": "restaurant",
+          "description": "सलुमी एक पारिवारिक स्वामित्व वाला इतालवी डेली है जो अपने शिल्पकार cured मीट और सैंडविच के लिए जाना जाता है। वातावरण आकस्मिक और स्वागत करने वाला है, त्वरित नाश्ते के लिए उपयुक्त। प्रसिद्ध 'पॉर्केटा सैंडविच' या 'सलुमी बोर्ड' का प्रयास करें। कीमतें उचित हैं, जिससे यह लंच के लिए एक शानदार स्थान बनता है।",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "टैकोस एल असेडेरो",
+          "type": "street_food",
+          "description": "टैकोस एल असेडेरो एक प्रिय टैको ट्रक है जो अपने प्रामाणिक मेक्सिकन स्वाद और लजीज टैकोस के लिए जाना जाता है। आकस्मिक बाहरी बैठने की जगह के साथ, यह त्वरित नाश्ते के लिए आदर्श है। कार्नेस अदा और अल पास्टर टैको का प्रयास करना न भूलें, और कीमतें बहुत बजट फ्रेंडली हैं।",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "कैनलिस",
+          "type": "restaurant",
+          "description": "कैनलिस एक प्रतिष्ठित फ़ाइन-डाइनिंग रेस्तरां है जो झील यूनियन के शानदार दृश्यों के साथ एक परिष्कृत भोजन अनुभव प्रदान करता है। इसके अभिनव प्रशांत नॉर्थवेस्ट व्यंजन के लिए जाना जाता है, मेनू मौसमी रूप से बदलता है। वातावरण शानदार है, जिससे यह खास अवसरों के लिए उपयुक्त है। एक अविस्मरणीय भोजन के लिए उच्च कीमतों की अपेक्षा करें।",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "सिएटल वाटरफ्रंट",
+          "type": "street_food",
+          "description": "सिएटल वाटरफ्रंट एक जीवंत क्षेत्र है जो स्ट्रीट फ़ूड विक्रेताओं और स्थानीय खाने की दुकानों से भरा हुआ है। इलियट बे के चित्रात्मक दृश्यों का आनंद लेते हुए ताजा समुद्री भोजन, गॉरमेट हॉट डॉग, और शिल्प आइसक्रीम का आनंद लें। यह उचित कीमतों पर विभिन्न पाक प्रसन्नताओं का नमूना लेने के लिए एक शानदार जगह है।",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "ट्रॉफी ब्रूइंग",
+          "type": "bar",
+          "description": "ट्रॉफी ब्रूइंग एक स्थानीय पसंदीदा है जो अपने शिल्प बियर और आरामदायक वातावरण के लिए जाना जाता है। घर पर तैयार की गई बियर की घुमावदार चयन के साथ, यह एक दिन की खोज के बाद आराम करने के लिए एक शानदार स्थान है। अपने पेय को उनके स्वादिष्ट पिज्जा में से किसी एक के साथ जोड़ें। कीमतें मध्यम हैं, जिससे यह आकस्मिक भोजन के लिए एक अच्छा विकल्प बनता है।",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "द पिंक डोर",
+          "type": "restaurant",
+          "description": "द पिंक डोर एक आकर्षक इतालवी रेस्तरां है जो अपने रोमांटिक वातावरण और लाइव मनोरंजन के लिए जाना जाता है। पाइक प्लेस के पास स्थित, यह घर का बना पास्ता और ताजे समुद्री भोजन सहित एक शानदार मेनू पेश करता है। कीमतें उच्च श्रेणी के अनुभव को दर्शाती हैं, जिससे यह एक खास रात के लिए आदर्श है। आरक्षण की सिफारिश की जाती है।",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "बीकन हिल",
+          "type": "local_specialty",
+          "description": "बीकन हिल में कई स्थानीय खाने की दुकानों का घर है जो सिएटल के अद्वितीय स्वादों को दिखाती हैं। डिम सम से लेकर सोल फ़ूड तक, यह पड़ोस पाक अनुभवों का एक पिघलने वाला बर्तन है। स्थानीय कैफे और रेस्तरां का अन्वेषण करें जो सिएटल की विविध खाद्य संस्कृति का स्वाद पेश करते हैं। कीमतें भिन्न होती हैं, जिससे बजट के अनुकूल विकल्पों की अनुमति मिलती है।",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhores Comidas em Seattle 2026 - Principais Restaurantes e Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comidas de rua e especialidades locais em Seattle. Desde refeições econômicas até alta gastronomia - com links de reserva.",
+      "page_intro": "Seattle é uma cidade vibrante conhecida por sua cena gastronômica diversificada, que mistura frutos do mar frescos, sabores internacionais e ingredientes locais de fazenda à mesa. Com sua pitoresca orla e mercados movimentados, a cultura culinária aqui oferece algo para todos os paladares. Seja você fã de restaurantes sofisticados ou de deliciosas comidas de rua, Seattle garante uma experiência gastronômica inesquecível.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "Mercado Pike Place",
+          "type": "street_food",
+          "description": "O Mercado Pike Place é um histórico mercado de agricultores que oferece uma infinidade de especialidades locais, produtos frescos e deliciosas comidas de rua. Não perca o icônico peixe voador e aproveite uma xícara de clam chowder do famoso Pike Place Chowder. A atmosfera vibrante e as vistas deslumbrantes da orla fazem dele uma visita obrigatória. A faixa de preço varia, mas você pode encontrar opções acessíveis.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "Salumi",
+          "type": "restaurant",
+          "description": "Salumi é uma delicatessen italiana de propriedade familiar conhecida por suas carnes curadas artesanais e sanduíches. A atmosfera é casual e acolhedora, perfeita para um lanche rápido. Experimente o famoso 'Sanduíche de Porchetta' ou a 'Tábua de Salumi' para um gosto das suas melhores ofertas. Os preços são razoáveis, tornando-o um ótimo local para o almoço.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "Tacos El Asadero",
+          "type": "street_food",
+          "description": "Tacos El Asadero é um amado caminhão de tacos conhecido por seus sabores mexicanos autênticos e tacos de dar água na boca. Com uma área de assentos ao ar livre casual, é ideal para uma refeição rápida. Os tacos de carne asada e al pastor são imperdíveis, e os preços são muito acessíveis.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "Canlis",
+          "type": "restaurant",
+          "description": "Canlis é um icônico restaurante de alta gastronomia que oferece uma experiência de jantar refinada com vistas deslumbrantes do Lago Union. Conhecido por sua inovadora cozinha do Pacífico Noroeste, o menu muda sazonalmente. O ambiente é elegante, tornando-o perfeito para ocasiões especiais. Espere pagar preços mais altos por uma refeição inesquecível.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "Orla de Seattle",
+          "type": "street_food",
+          "description": "A Orla de Seattle é uma área animada repleta de vendedores de comida de rua e restaurantes locais. Desfrute de frutos do mar frescos, cachorros-quentes gourmet e sorvete artesanal enquanto aprecia as vistas pitorescas da Baía de Elliott. É um ótimo lugar para experimentar várias delícias culinárias a preços razoáveis.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "Trophy Brewing",
+          "type": "bar",
+          "description": "Trophy Brewing é um favorito local conhecido por suas cervejas artesanais e atmosfera descontraída. Com uma seleção rotativa de cervejas caseiras, é um ótimo lugar para relaxar após um dia de exploração. Combine sua bebida com uma de suas deliciosas pizzas. Os preços são moderados, tornando-o uma boa escolha para refeições casuais.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "A Porta Rosa",
+          "type": "restaurant",
+          "description": "A Porta Rosa é um encantador restaurante italiano conhecido por sua atmosfera romântica e entretenimento ao vivo. Localizado perto do Pike Place, oferece um menu requintado com massas caseiras e frutos do mar frescos. Os preços refletem a experiência de alta qualidade, tornando-o perfeito para uma noite especial. Reservas são recomendadas.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "Beacon Hill",
+          "type": "local_specialty",
+          "description": "Beacon Hill abriga uma variedade de restaurantes locais que mostram os sabores únicos de Seattle. De dim sum a comida soul, este bairro é um caldeirão de experiências culinárias. Explore os cafés e restaurantes locais que oferecem um gosto da diversa cultura alimentar de Seattle. Os preços variam, permitindo opções acessíveis.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المأكولات في سياتل 2026 - أفضل المطاعم ودليل طعام الشارع",
+      "seo_description": "اكتشف أفضل المطاعم، وأطعمة الشارع، والتخصصات المحلية في سياتل. من الوجبات ذات الميزانية المحدودة إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "سياتل مدينة نابضة بالحياة معروفة بمشهدها الغذائي المتنوع، الذي يمزج بين المأكولات البحرية الطازجة، والنكهات الدولية، ومكونات المزرعة إلى المائدة المحلية. مع واجهتها البحرية الخلابة وأسواقها المزدحمة، تقدم الثقافة الطهو هنا شيئًا لكل ذوق. سواء كنت تبحث عن تناول الطعام الفاخر أو طعام الشارع اللذيذ، تضمن لك سياتل تجربة طعام لا تُنسى.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "سوق بايك بليس",
+          "type": "street_food",
+          "description": "سوق بايك بليس هو سوق مزارعين تاريخي يقدم مجموعة كبيرة من التخصصات المحلية، والمنتجات الطازجة، وأطعمة الشارع اللذيذة. لا تفوت السمكة الطائرة الشهيرة واستمتع بكوب من حساء البطلينوس من حساء بايك بليس الشهير. تجعل الأجواء الحيوية والإطلالات الرائعة على الواجهة البحرية منه مكانًا يجب زيارته. تتفاوت الأسعار، لكن يمكنك العثور على خيارات مناسبة للميزانية.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "سالومي",
+          "type": "restaurant",
+          "description": "سالومي هو دلي لتقديم الطعام الإيطالي مملوك للعائلة معروف بلحومه المعالجة الحرفية والسندويشات. الأجواء غير رسمية ومرحب بها، مما يجعلها مثالية لوجبة سريعة. جرب 'ساندويتش بوركيتا' الشهير أو 'لوحة سالومي' لتذوق أفضل عروضهم. الأسعار معقولة، مما يجعله مكانًا رائعًا لتناول الغداء.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "تاكوس إل أساديرو",
+          "type": "street_food",
+          "description": "تاكوس إل أساديرو هو شاحنة تاكو محبوبة معروفة بنكهاتها المكسيكية الأصيلة وتاكوها المذهلة. مع منطقة جلوس خارجية غير رسمية، فإنها مثالية لوجبة سريعة. تعتبر تاكو لحم البقر المشوي وتاكو لحم الخنزير المتبل ضرورية، والأسعار مناسبة جدًا للميزانية.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "كانليس",
+          "type": "restaurant",
+          "description": "كانليس هو مطعم فخم رمزي يقدم تجربة تناول طعام راقية مع إطلالات رائعة على بحيرة يونيون. معروف بمأكولاته المبتكرة من شمال غرب المحيط الهادئ، يتغير القائمة حسب الموسم. الأجواء أنيقة، مما يجعلها مثالية للمناسبات الخاصة. توقع دفع أسعار أعلى لتجربة طعام لا تُنسى.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "واجهة سياتل البحرية",
+          "type": "street_food",
+          "description": "واجهة سياتل البحرية هي منطقة حيوية مليئة ببائعي طعام الشارع والمطاعم المحلية. استمتع بالمأكولات البحرية الطازجة، والنقانق الفاخرة، والآيس كريم الحرفي بينما تستمتع بالإطلالات الخلابة على خليج إليوت. إنها مكان رائع لتجربة مجموعة متنوعة من الأطياف الطهو بأسعار معقولة.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "تروفي بروينغ",
+          "type": "bar",
+          "description": "تروفي بروينغ هو مفضل محلي معروف ببيرة الحرف اليدوية وأجوائه المريحة. مع مجموعة مختارة دوارة من البيرة المصنوعة في المنزل، يعد مكانًا رائعًا للاسترخاء بعد يوم من الاستكشاف. قم بمزج مشروبك مع واحدة من بيتزاهم اللذيذة. الأسعار معتدلة، مما يجعلها خيارًا جيدًا لتناول الطعام غير الرسمي.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "الباب الوردي",
+          "type": "restaurant",
+          "description": "الباب الوردي هو مطعم إيطالي ساحر معروف بأجوائه الرومانسية والترفيه الحي. يقع بالقرب من بايك بليس، ويقدم قائمة رائعة تحتوي على المعكرونة المصنوعة منزليًا والمأكولات البحرية الطازجة. تعكس الأسعار التجربة الراقية، مما يجعلها مثالية لليلة خاصة. يُنصح بالحجز.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "بيكون هيل",
+          "type": "local_specialty",
+          "description": "يحتوي بيكون هيل على مجموعة متنوعة من المطاعم المحلية التي تعرض نكهات سياتل الفريدة. من ديم سم إلى طعام الروح، يعتبر هذا الحي بوتقة تنصهر فيها التجارب الطهو. استكشف المقاهي والمطاعم المحلية التي تقدم طعمًا من ثقافة الطعام المتنوعة في سياتل. تتفاوت الأسعار، مما يسمح بخيارات مناسبة للميزانية.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "সিয়াটলে সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "সিয়াটলের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার - বুকিং লিঙ্ক সহ।",
+      "page_intro": "সিয়াটল একটি প্রাণবন্ত শহর যা তার বৈচিত্র্যময় খাদ্য দৃশ্যের জন্য পরিচিত, যেখানে তাজা সামুদ্রিক খাবার, আন্তর্জাতিক স্বাদ এবং স্থানীয় ফার্ম-টু-টেবিল উপাদানের মিশ্রণ রয়েছে। এর চিত্রময় জলসীমা এবং ব্যস্ত বাজারের সাথে, এখানে খাবারের সংস্কৃতি প্রতিটি স্বাদের জন্য কিছু না কিছু প্রদান করে। আপনি উচ্চমানের খাবার খুঁজছেন বা সুস্বাদু স্ট্রিট ফুড উপভোগ করছেন, সিয়াটল একটি অমলিন গ্যাস্ট্রোনমিক অভিজ্ঞতার গ্যারান্টি দেয়।",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "পাইক প্লেস মার্কেট",
+          "type": "street_food",
+          "description": "পাইক প্লেস মার্কেট একটি ঐতিহাসিক কৃষকদের বাজার যা স্থানীয় বিশেষত্ব, তাজা পণ্য এবং সুস্বাদু স্ট্রিট ফুডের প্রচুর পরিমাণে অফার করে। আইকনিক উড়ন্ত মাছ মিস করবেন না এবং বিখ্যাত পাইক প্লেস চাউডার থেকে একটি কাপ ক্লাম চাউডার নিন। জীবন্ত পরিবেশ এবং সুন্দর জলসীমার দৃশ্য এটিকে একটি অবশ্যই পরিদর্শনযোগ্য স্থান করে তোলে। মূল্য পরিসীমা পরিবর্তিত হয়, তবে আপনি বাজেট-বান্ধব বিকল্পগুলি খুঁজে পেতে পারেন।",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "সালুমি",
+          "type": "restaurant",
+          "description": "সালুমি একটি পারিবারিক মালিকানাধীন ইতালীয় ডেলি যা এর কারিগরি সংরক্ষিত মাংস এবং স্যান্ডউইচের জন্য পরিচিত। পরিবেশটি অস্বাভাবিক এবং স্বাগত জানানো, একটি দ্রুত নাশতার জন্য আদর্শ। বিখ্যাত 'পর্চেটা স্যান্ডউইচ' বা 'সালুমি বোর্ড' চেষ্টা করুন তাদের সেরা অফারগুলির স্বাদ নিতে। দাম যুক্তিসঙ্গত, যা এটিকে একটি দুর্দান্ত স্থান করে তোলে।",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "টাকোস এল আসাদিরো",
+          "type": "street_food",
+          "description": "টাকোস এল আসাদিরো একটি প্রিয় ট্যাকো ট্রাক যা এর প্রামাণিক মেক্সিকান স্বাদ এবং মুখরোচক ট্যাকোর জন্য পরিচিত। একটি অস্বাভাবিক আউটডোর সিটিং এলাকার সাথে, এটি একটি দ্রুত নাশতার জন্য আদর্শ। কার্নে আসাদা এবং আল পাস্টর টাকো একটি অবশ্যই চেষ্টা করা উচিত, এবং দাম খুব বাজেট-বান্ধব।",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "ক্যানলিস",
+          "type": "restaurant",
+          "description": "ক্যানলিস একটি আইকনিক ফাইন-ডাইনিং রেস্তোরাঁ যা লেক ইউনিয়নের চমৎকার দৃশ্যের সাথে একটি পরিশীলিত খাবারের অভিজ্ঞতা প্রদান করে। এর উদ্ভাবনী প্যাসিফিক নর্থওয়েস্ট রান্নার জন্য পরিচিত, মেনুটি মৌসুমি ভিত্তিতে পরিবর্তিত হয়। পরিবেশটি বিলাসবহুল, বিশেষ উপলক্ষ্যের জন্য এটি আদর্শ। একটি অবিস্মরণীয় খাবারের জন্য উচ্চমূল্যের প্রত্যাশা করুন।",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "সিয়াটল ওয়াটারফ্রন্ট",
+          "type": "street_food",
+          "description": "সিয়াটল ওয়াটারফ্রন্ট একটি প্রাণবন্ত এলাকা যা স্ট্রিট ফুড বিক্রেতা এবং স্থানীয় খাবারের দোকানগুলিতে পূর্ণ। এলিয়ট বে-এর চিত্রময় দৃশ্যের সাথে তাজা সামুদ্রিক খাবার, গৌরমেট হট ডগ এবং কারিগরি আইসক্রিম উপভোগ করুন। এটি যুক্তিসঙ্গত মূল্যের মধ্যে বিভিন্ন খাদ্য মিষ্টির স্বাদ গ্রহণের জন্য একটি দুর্দান্ত জায়গা।",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "ট্রফি ব্রিউইং",
+          "type": "bar",
+          "description": "ট্রফি ব্রিউইং একটি স্থানীয় প্রিয় যা এর কারিগরি বিয়ার এবং শিথিল পরিবেশের জন্য পরিচিত। বাড়িতে তৈরি এলে গুলির একটি পরিবর্তনশীল নির্বাচন সহ, এটি একটি দিন অনুসন্ধানের পরে বিশ্রাম নেওয়ার জন্য একটি দুর্দান্ত স্থান। তাদের স্বাদिष्ट পিজ্জার সাথে আপনার পানীয়টি যুক্ত করুন। দাম মধ্যম, যা এটিকে একটি ভাল বিকল্প করে তোলে।",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "দ্য পিঙ্ক ডোর",
+          "type": "restaurant",
+          "description": "দ্য পিঙ্ক ডোর একটি মনোরম ইতালীয় রেস্তোরাঁ যা এর রোমান্টিক পরিবেশ এবং লাইভ বিনোদনের জন্য পরিচিত। পাইক প্লেসের কাছে অবস্থান, এটি ঘরোয়া পাস্তা এবং তাজা সামুদ্রিক খাবার সহ একটি চমৎকার মেনু অফার করে। দামগুলি উচ্চমানের অভিজ্ঞতা প্রতিফলিত করে, যা এটিকে একটি বিশেষ রাতে উপযুক্ত করে। রিজার্ভেশন করার পরামর্শ দেওয়া হয়।",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "বিকন হিল",
+          "type": "local_specialty",
+          "description": "বিকন হিল সিয়াটলের অনন্য স্বাদগুলি প্রদর্শনকারী বিভিন্ন স্থানীয় খাবারের দোকানের আবাস। ডিম সাম থেকে সোল ফুড পর্যন্ত, এই প্রতিবেশীটি খাদ্য অভিজ্ঞতার একটি মিশ্রণ। স্থানীয় ক্যাফে এবং রেস্তোরাঁগুলি অন্বেষণ করুন যা সিয়াটলের বৈচিত্র্যময় খাদ্য সংস্কৃতির স্বাদ প্রদান করে। দামগুলি পরিবর্তিত হয়, বাজেট-বান্ধব বিকল্পগুলি পাওয়ার অনুমতি দেয়।",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Сиэтле 2026 - Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные специалитеты в Сиэтле. От бюджетных блюд до изысканной кухни - с ссылками на бронирование.",
+      "page_intro": "Сиэтл - это яркий город, известный своим разнообразным гастрономическим сценарием, который сочетает в себе свежие морепродукты, международные вкусы и местные продукты от фермы до стола. С его живописным побережьем и шумными рынками, кулинарная культура здесь предлагает что-то на любой вкус. Независимо от того, ищете ли вы изысканный ужин или вкусную уличную еду, Сиэтл гарантирует незабываемый гастрономический опыт.",
+      "items": [
+        {
+          "id": "pike-place-market",
+          "name": "Рынок Пайк Плейс",
+          "type": "street_food",
+          "description": "Рынок Пайк Плейс - это исторический фермерский рынок, который предлагает множество местных специалитетов, свежих продуктов и вкусной уличной еды. Не пропустите знаковую летающую рыбу и не забудьте попробовать чашку крем-супа из моллюсков от знаменитого Pike Place Chowder. Яркая атмосфера и потрясающие виды на набережную делают это место обязательным для посещения. Ценовой диапазон варьируется, но вы можете найти доступные варианты.",
+          "image_keyword": "Pike Place Market food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Clam Chowder",
+          "klook_query": "Pike Place Market food tour"
+        },
+        {
+          "id": "salumi",
+          "name": "Салюми",
+          "type": "restaurant",
+          "description": "Салюми - это итальянская деликатесная лавка, принадлежащая семье, известная своими ремесленными мясными деликатесами и бутербродами. Атмосфера непринужденная и приветливая, идеально подходящая для быстрого перекуса. Попробуйте знаменитый 'Сэндвич с поркеттой' или 'Доску Салюми', чтобы попробовать их лучшие предложения. Цены разумные, что делает это отличным местом для обеда.",
+          "image_keyword": "Salumi restaurant Seattle",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Porchetta Sandwich",
+          "klook_query": "Salumi restaurant booking"
+        },
+        {
+          "id": "tacos-el-asadero",
+          "name": "Такос Эль Асадеро",
+          "type": "street_food",
+          "description": "Такос Эль Асадеро - это любимый такос-трак, известный своими аутентичными мексиканскими вкусами и аппетитными такос. С непринужденной зоной для сидения на открытом воздухе, это идеальное место для быстрого перекуса. Такос с карне асадо и аль пастор обязательно попробуйте, а цены очень доступные.",
+          "image_keyword": "Tacos El Asadero Seattle",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Carne Asada Tacos",
+          "klook_query": "Tacos El Asadero booking"
+        },
+        {
+          "id": "canlis",
+          "name": "Канлис",
+          "type": "restaurant",
+          "description": "Канлис - это знаковый ресторан высокой кухни, предлагающий утонченный ужин с потрясающим видом на озеро Юнион. Известный своей инновационной кухней Тихоокеанского Северо-Запада, меню меняется в зависимости от сезона. Атмосфера элегантная, что делает его идеальным для особых случаев. Ожидайте высоких цен за незабываемый обед.",
+          "image_keyword": "Canlis restaurant Seattle",
+          "star_rating": 4.9,
+          "price_range": "$$$",
+          "must_try": "Canlis Salad",
+          "klook_query": "Canlis restaurant reservation"
+        },
+        {
+          "id": "ferry-building-market",
+          "name": "Национальный парк Сиэтла",
+          "type": "street_food",
+          "description": "Национальный парк Сиэтла - это оживленная область, полная уличных торговцев и местных ресторанов. Наслаждайтесь свежими морепродуктами, гурманскими хот-догами и ремесленным мороженым, наслаждаясь живописными видами на залив Эллиот. Это отличное место, чтобы попробовать различные кулинарные деликатесы по разумным ценам.",
+          "image_keyword": "Seattle Waterfront food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Fish & Chips",
+          "klook_query": "Seattle Waterfront food tour"
+        },
+        {
+          "id": "trophy-brewery",
+          "name": "Пивоварня Трофи",
+          "type": "bar",
+          "description": "Пивоварня Трофи - это местный фаворит, известный своими крафтовыми пивами и непринужденной атмосферой. С ротирующим выбором домашних элей, это отличное место, чтобы расслабиться после дня исследований. Сопоставьте свой напиток с одной из их вкусных пицц. Цены умеренные, что делает это хорошим выбором для неформального обеда.",
+          "image_keyword": "Trophy Brewing Seattle",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Hoppy Pilsner",
+          "klook_query": "Trophy Brewing booking"
+        },
+        {
+          "id": "the-pink-door",
+          "name": "Розовая дверь",
+          "type": "restaurant",
+          "description": "Розовая дверь - это очаровательный итальянский ресторан, известный своей романтической атмосферой и живым развлечением. Находясь рядом с Пайк Плейс, он предлагает изысканное меню с домашней пастой и свежими морепродуктами. Цены отражают высокий уровень обслуживания, что делает это идеальным местом для особого вечера. Рекомендуется заранее забронировать столик.",
+          "image_keyword": "The Pink Door restaurant Seattle",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Pasta della Nonna",
+          "klook_query": "The Pink Door reservation"
+        },
+        {
+          "id": "beacon-hill-local-specialty",
+          "name": "Бикон Хилл",
+          "type": "local_specialty",
+          "description": "Бикон Хилл является домом для различных местных ресторанов, представляющих уникальные вкусы Сиэтла. От дим-сама до еды душевной кухни, этот район является плавильным котлом кулинарных впечатлений. Исследуйте местные кафе и рестораны, предлагающие вкус разнообразной гастрономической культуры Сиэтла. Цены варьируются, позволяя найти доступные варианты.",
+          "image_keyword": "Beacon Hill food Seattle",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Dim Sum",
+          "klook_query": "Beacon Hill food tour"
+        }
+      ]
+    }
+  }
+}

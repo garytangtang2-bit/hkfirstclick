@@ -1,0 +1,1145 @@
+{
+  "city_slug": "kyoto",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Kyoto 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Kyoto. From Nishiki Market eats to kaiseki dining — with booking links.",
+      "page_intro": "Kyoto is the cultural and historical heart of Japan, offering a culinary tradition deeply rooted in aesthetics and seasonality. From the refined elegance of traditional kaiseki multi-course meals to the bustling street food stalls of Nishiki Market, Kyoto's food scene is a captivating mix of ancient heritage and vibrant modern flavors. Whether you are savoring delicate matcha desserts or thrilling fire ramen, the city provides an unforgettable gastronomic journey.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "Nishiki Market",
+          "type": "street_food",
+          "description": "Affectionately known as 'Kyoto's Kitchen', this narrow, five-block-long shopping street is lined with more than a hundred shops and food stands. It is a bustling hub where locals and tourists alike can sample fresh seafood, seasonal produce, traditional Japanese sweets, and pickled vegetables. Strolling through the vibrant alley while eating a baby octopus stuffed with a quail egg is an essential Kyoto experience.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "Pontocho Alley",
+          "type": "night_market",
+          "description": "One of Kyoto's most atmospheric dining areas, this narrow alley running parallel to the Kamogawa River comes alive at night with paper lanterns. It is packed with a wide range of dining options, from cheap yakitori joints to traditional teahouses and exclusive kaiseki restaurants. During the summer months, many restaurants offer 'kawayuka' (dining on platforms built over the river) for a truly magical evening.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "Fushimi Inari Street Food Stalls",
+          "type": "street_food",
+          "description": "The pathway leading up to the iconic Fushimi Inari Shrine is lined with a vibrant array of street food stalls and traditional shops. It is the perfect place to grab satisfying local snacks before or after hiking through the thousands of vermilion torii gates. Traditional treats like Inari sushi (sweet fried tofu pockets filled with rice) and kitsune udon are must-haves when visiting the shrine.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "Kichi Kichi Omurice",
+          "type": "restaurant",
+          "description": "A globally viral sensation, this cozy, theatrical restaurant is famous for Chef Motokichi Yukimura's entertaining and flamboyant preparation of omurice. The incredibly fluffy, perfectly cooked omelet is dramatically sliced open over a mound of rich fried rice, cascading down to cover the dish before being topped with a savory demi-glace sauce. Reservations are notoriously difficult but completely worth the effort.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "Honke Owariya",
+          "type": "restaurant",
+          "description": "Founded in 1465, originally as a confectionery shop, this is one of Kyoto's oldest and most respected soba (buckwheat noodle) restaurants. Housed in a beautiful, historic wooden building, the restaurant serves exquisite noodles with a perfectly balanced broth. Their signature dish features five tiers of soba noodles topped with various ingredients like shrimp tempura, grated daikon, and nori, offering a taste of living history.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "Yudofu Sagano",
+          "type": "restaurant",
+          "description": "Located in the scenic Arashiyama district, this elegant restaurant specializes in yudofu, Kyoto's famous traditional tofu hot pot. Set within a tranquil Japanese garden, diners enjoy silken tofu gently simmered in a savory kelp broth, highlighting the purity of the local water and ingredients. It is a profoundly serene and comforting vegetarian-friendly dining experience that perfectly matches the spirit of Kyoto.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "Menbaka Fire Ramen",
+          "type": "restaurant",
+          "description": "Offering a unique and thrilling dining experience, this ramen joint is famous for setting your bowl of food literally on fire. Diners sit at the counter as the chef pours burning green onion oil over the soy sauce-based broth right in front of them, creating a massive, fiery flare. Beyond the intense spectacle, the resulting ramen is imbued with a delicious, smoky onion flavor.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "Saryo Tsujiri (Gion Honten)",
+          "type": "cafe",
+          "description": "A legendary dessert cafe situated in the historic Gion district, specializing in premium Uji matcha. There is almost always a line, but it moves quickly to reward you with some of the best green tea sweets in Japan. Their elaborate matcha parfaits, beautifully layered with rich green tea ice cream, chewy mochi balls, and sweet red bean paste, are an absolute local favorite.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026 京都必吃美食推薦 — 頂級餐廳與街頭小吃指南",
+      "seo_description": "探索京都最佳餐廳、街頭小吃與在地特色美食。從錦市場平價小吃到精緻懷石料理，提供完整推薦與預訂連結。",
+      "page_intro": "京都是日本的文化與歷史中心，其飲食傳統深深扎根於美學與季節性。從精緻優雅的傳統懷石料理到錦市場熙攘的街頭小吃攤，京都的美食文化完美融合了古老傳統與充滿活力的現代風味。無論您是品嚐精緻的抹茶甜點還是體驗刺激的噴火拉麵，這座城市都能為您帶來難忘的美食之旅。",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "錦市場",
+          "type": "street_food",
+          "description": "被親切地稱為「京都的廚房」，這條狹窄、長達五個街區的商店街林立著一百多間商店與小吃攤。這是一個熱鬧的中心，當地人和遊客都能在這裡品嚐新鮮海鮮、當季農產品、傳統日式甜點和醃菜。漫步在充滿活力的巷弄中，一邊品嚐包著鵪鶉蛋的小章魚，是來到京都不可或缺的體驗。",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "先斗町",
+          "type": "night_market",
+          "description": "京都最具氛圍的餐飲區之一，這條與鴨川平行的狹窄小巷在夜晚點亮紙燈籠後顯得生機勃勃。這裡擠滿了各式各樣的餐廳，從平價的烤雞肉串店到傳統的茶屋和高級懷石料理應有盡有。在夏季，許多餐廳會提供「川床」（在河面上搭建的露台座位），為您帶來一個真正神奇的夜晚。",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "伏見稻荷參道街頭小吃",
+          "type": "street_food",
+          "description": "通往標誌性伏見稻荷大社的道路兩旁，林立著充滿活力的街頭小吃攤和傳統商店。在徒步穿越成千上萬座朱紅色鳥居之前或之後，這裡是享用令人滿足的當地小吃的絕佳去處。參拜神社時，傳統的豆皮壽司（塞滿米飯的香甜油炸豆腐包）和狐狸烏龍麵是絕對不能錯過的美食。",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "Kichi Kichi 蛋包飯 (キチキチ)",
+          "type": "restaurant",
+          "description": "這家溫馨且充滿戲劇性的餐廳在全球網路上爆紅，以幸村元吉主廚極具娛樂性且華麗的蛋包飯製作過程而聞名。不可思議般蓬鬆、完美烹調的煎蛋捲被戲劇性地劃開，滑落在濃郁的炒飯上，最後淋上美味的法式多明格拉斯醬。這裡的預訂出了名的困難，但絕對值得。",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "本家尾張屋 (本店)",
+          "type": "restaurant",
+          "description": "創立於1465年，最初是一家和菓子店，如今是京都最古老、最受推崇的蕎麥麵店之一。這家餐廳坐落在一棟美麗、歷史悠久的木造建築中，提供精緻的麵條和完美平衡的湯頭。他們的招牌菜是五層蕎麥麵，上面鋪滿了炸蝦天婦羅、蘿蔔泥和海苔等豐富配料，讓您品嚐活生生的歷史。",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "湯豆腐 嵯峨野",
+          "type": "restaurant",
+          "description": "這家優雅的餐廳位於風景秀麗的嵐山地區，專營京都著名的傳統豆腐鍋「湯豆腐」。食客坐在寧靜的日式庭園中，享用在鮮美昆布高湯中輕輕燉煮的嫩豆腐，突顯了當地水源和食材的純淨。這是一種極度寧靜、舒適且對素食者友善的用餐體驗，完美契合了京都的精神。",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "麵馬鹿一代 噴火拉麵",
+          "type": "restaurant",
+          "description": "這家拉麵店提供獨特且刺激的用餐體驗，以在您的拉麵碗中直接點火而聞名。食客坐在吧檯前，廚師會將燃燒的青蔥油直接倒在面前的醬油湯頭上，產生巨大的火焰。除了強烈的視覺震撼外，這碗拉麵還充滿了美味、煙燻的蔥香味。",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "茶寮都路里 (祇園本店)",
+          "type": "cafe",
+          "description": "位於歷史悠久的祇園區的傳奇甜點咖啡館，專門提供頂級宇治抹茶。這裡幾乎總是大排長龍，但前進速度很快，能讓您品嚐到日本最棒的綠茶甜點。他們精心製作的抹茶百匯，美麗地層疊著濃郁的綠茶冰淇淋、Q彈的白玉湯圓和香甜的紅豆泥，絕對是當地人的最愛。",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年 京都の絶品グルメ — 人気レストラン＆屋台街ガイド",
+      "seo_description": "京都の最高級レストラン、食べ歩きスポット、郷土料理をご紹介。錦市場のB級グルメから高級懐石まで、予約リンク付きでご案内します。",
+      "page_intro": "京都は日本の文化と歴史の中心であり、美意識と季節感に深く根ざした食の伝統を持っています。洗練された伝統的な懐石料理から、活気あふれる錦市場の食べ歩きまで、京都の食のシーンは古き良き遺産と現代の活気ある味わいが魅力的に融合しています。繊細な抹茶スイーツを味わうにしても、スリリングなファイヤーラーメンを体験するにしても、この街は忘れられない美食の旅を提供してくれます。",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "錦市場",
+          "type": "street_food",
+          "description": "「京の台所」として親しまれているこの細長く続く商店街には、100軒以上の店や屋台が立ち並んでいます。地元の人や観光客が新鮮な魚介類、旬の野菜、伝統的な和菓子、漬物などを楽しめる活気ある中心地です。ウズラの卵が入ったタコタマゴを食べながら、活気に満ちた路地を散策するのは、京都ならではの体験です。",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "先斗町",
+          "type": "night_market",
+          "description": "京都で最も雰囲気のある食事エリアの一つで、鴨川と平行に走るこの細い路地は、夜になると提灯に明かりが灯り、活気に満ちます。安価な焼き鳥屋から伝統的なお茶屋、高級な懐石料理店まで、幅広い食事の選択肢が密集しています。夏の間は、多くのレストランが「納涼床」（川にせり出したテラス席）を提供し、魔法のような夜を演出します。",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "伏見稲荷参道 食べ歩き",
+          "type": "street_food",
+          "description": "象徴的な伏見稲荷大社へと続く参道には、活気ある屋台や伝統的な商店が立ち並んでいます。何千もの朱色の鳥居をくぐるハイキングの前後に、満足感のある地元のおやつを食べるのに最適な場所です。いなり寿司（甘く煮た油揚げにご飯を詰めたもの）やきつねうどんなどの伝統的な名物は、神社を訪れた際の必須アイテムです。",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "ザ・洋食屋 キチキチ",
+          "type": "restaurant",
+          "description": "世界中で話題となっているこの居心地の良い劇場型レストランは、幸村元吉シェフによる、楽しくて華麗なオムライス作りで有名です。信じられないほどふわふわで完璧に調理されたオムレツが、濃厚な炒飯の上に劇的に切り開かれて覆いかぶさり、その上から美味しいデミグラスソースがかけられます。予約が困難なことで有名ですが、それだけの価値は十分にあります。",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "本家尾張屋 本店",
+          "type": "restaurant",
+          "description": "1465年に菓子店として創業した、京都で最も古く、最も尊敬されている蕎麦屋の一つです。美しく歴史的な木造建築の中にあるこのレストランでは、絶品の麺と完璧なバランスのつゆを提供しています。看板メニューは、エビの天ぷら、大根おろし、海苔などの様々な具材が乗った5段重ねの蕎麦で、生きた歴史を味わうことができます。",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "湯豆腐 嵯峨野",
+          "type": "restaurant",
+          "description": "風光明媚な嵐山地区にあるこのエレガントなレストランは、京都の有名な伝統的な豆腐鍋「湯豆腐」の専門店です。静寂な日本庭園の中で、地元の水と食材の純度を際立たせる、風味豊かな昆布だしで優しく煮込まれた絹ごし豆腐を楽しむことができます。京都の精神に完全に一致する、非常に穏やかで心地よい、ベジタリアンにも優しい食事体験です。",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "めん馬鹿一代",
+          "type": "restaurant",
+          "description": "ユニークでスリリングな食事体験を提供するこのラーメン店は、文字通りどんぶりに火をつけることで有名です。客がカウンターに座ると、目の前でシェフが燃えるネギ油を醤油ベースのスープの上に注ぎ、巨大で激しい炎を作り出します。強烈な光景の先には、美味しいスモーキーなネギの風味が染み込んだラーメンが待っています。",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "茶寮都路里 祇園本店",
+          "type": "cafe",
+          "description": "歴史的な祇園地区にある、高級宇治抹茶を専門とする伝説的なデザートカフェ。ほぼ常に行列ができていますが、列の進みは早く、日本で最高の緑茶スイーツであなたに報いてくれます。濃厚な抹茶アイスクリーム、モチモチの白玉、甘い小豆が美しく層になった、手の込んだ抹茶パフェは、地元の人々にも絶対的な人気を誇っています。",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026 교토 최고 맛집 - 추천 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "교토의 최고 레스토랑, 길거리 음식, 현지 특선 요리를 만나보세요. 니시키 시장의 가성비 좋은 간식부터 가이세키까지, 예약 링크를 제공합니다.",
+      "page_intro": "교토는 일본의 문화 및 역사적 중심지로, 미학과 계절성에 깊이 뿌리 내린 요리 전통을 자랑합니다. 세련되고 우아한 전통 가이세키 코스 요리부터 니시키 시장의 북적이는 길거리 음식 노점까지, 교토의 음식 문화는 고대의 유산과 활기찬 현대적 풍미가 매력적으로 조화를 이룹니다. 섬세한 말차 디저트를 음미하든, 스릴 넘치는 불쇼 라멘을 경험하든, 이 도시는 잊을 수 없는 미식 여행을 선사합니다.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "니시키 시장",
+          "type": "street_food",
+          "description": "'교토의 부엌'으로 친근하게 알려진 이 좁고 긴 상점가에는 100개가 넘는 상점과 음식 가판대가 늘어서 있습니다. 현지인과 관광객 모두 신선한 해산물, 제철 농산물, 전통 일본 과자 및 절임 채소를 맛볼 수 있는 북적이는 중심지입니다. 메추리알을 품은 새끼 문어 꼬치를 먹으며 활기찬 골목을 거니는 것은 교토의 필수 경험입니다.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "폰토쵸",
+          "type": "night_market",
+          "description": "교토에서 가장 분위기 있는 다이닝 지역 중 하나로, 가모가와 강과 평행하게 뻗어 있는 이 좁은 골목은 밤이 되면 종이 등불로 활기를 띱니다. 저렴한 야키토리 전문점부터 전통 찻집, 고급 가이세키 레스토랑까지 다양한 식당이 밀집해 있습니다. 여름철에는 많은 레스토랑이 강 위에 지어진 야외 테라스인 '가와유카'를 제공하여 진정으로 마법 같은 저녁을 선사합니다.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "후시미 이나리 길거리 음식",
+          "type": "street_food",
+          "description": "상징적인 후시미 이나리 신사로 향하는 길에는 활기찬 길거리 음식 노점과 전통 상점들이 늘어선 다채로운 풍경이 펼쳐집니다. 수천 개의 주홍빛 도리이를 하이킹하기 전후에 든든한 현지 간식을 즐기기에 완벽한 장소입니다. 이나리 스시(달콤하게 조린 유부에 밥을 채운 유부초밥)와 기쓰네 우동 같은 전통 음식은 신사 방문 시 꼭 맛봐야 할 별미입니다.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "키치키치 오무라이스",
+          "type": "restaurant",
+          "description": "전 세계적으로 바이럴 열풍을 일으킨 이 아늑하고 연극적인 레스토랑은 유키무라 모토키치 셰프의 유쾌하고 화려한 오무라이스 조리 과정으로 유명합니다. 믿을 수 없을 정도로 푹신하고 완벽하게 조리된 오믈렛을 볶음밥 위에서 극적으로 갈라 덮은 뒤, 그 위에 풍미 깊은 데미글라스 소스를 뿌려 완성합니다. 예약이 악명 높을 정도로 어렵지만, 그만한 가치가 충분합니다.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "혼케 오와리야",
+          "type": "restaurant",
+          "description": "1465년에 화과자점으로 처음 문을 연 이곳은 교토에서 가장 오래되고 존경받는 소바 전문점 중 하나입니다. 아름답고 역사적인 목조 건물에 자리 잡은 이 레스토랑은 완벽한 균형을 이루는 육수와 함께 정교한 면발을 제공합니다. 시그니처 요리는 새우 튀김, 무 간 것, 김 등 다양한 재료를 얹은 5단 소바로, 살아있는 역사의 맛을 선사합니다.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "유도후 사가노",
+          "type": "restaurant",
+          "description": "풍경이 아름다운 아라시야마 지역에 위치한 이 우아한 레스토랑은 교토의 유명한 전통 두부 전골인 유도후를 전문으로 합니다. 고요한 일본식 정원에 앉아, 현지 물과 식재료의 순수함을 강조하는 풍미 깊은 다시마 육수에서 부드럽게 끓여낸 연두부를 맛볼 수 있습니다. 교토의 정신과 완벽하게 일치하는, 깊은 평온함과 위안을 주는 채식주의자 친화적인 다이닝 경험입니다.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "멘바카 파이어 라멘",
+          "type": "restaurant",
+          "description": "독특하고 스릴 넘치는 식사 경험을 제공하는 이 라멘집은 문자 그대로 그릇에 불을 붙이는 것으로 유명합니다. 손님들이 카운터에 앉으면 셰프가 간장 베이스 육수 위에 불타는 파기름을 부어 눈앞에서 거대한 불꽃을 만들어냅니다. 강렬한 볼거리를 넘어, 완성된 라멘에는 맛있고 스모키한 파 향이 깊게 배어 있습니다.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "사료 츠지리 (기온 본점)",
+          "type": "cafe",
+          "description": "역사적인 기온 지구에 위치한 전설적인 디저트 카페로 프리미엄 우지 말차를 전문으로 합니다. 거의 항상 대기 줄이 있지만 꽤 빨리 줄어들며, 일본 최고의 녹차 디저트로 보답을 받을 수 있습니다. 진한 녹차 아이스크림, 쫄깃한 모찌, 달콤한 팥 앙금이 아름답게 층을 이룬 정교한 말차 파르페는 현지인들이 절대적으로 사랑하는 메뉴입니다.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleurs Restaurants à Kyoto en 2026 — Guide de la Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales de Kyoto. Du marché de Nishiki à la cuisine kaiseki — avec liens de réservation.",
+      "page_intro": "Kyoto est le cœur culturel et historique du Japon, offrant une tradition culinaire profondément enracinée dans l'esthétique et la saisonnalité. De l'élégance raffinée des repas traditionnels kaiseki aux étals animés du marché de Nishiki, la scène culinaire de Kyoto est un mélange captivant de patrimoine ancien et de saveurs modernes.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "Marché de Nishiki",
+          "type": "street_food",
+          "description": "Surnommé la 'Cuisine de Kyoto', cette rue commerçante abrite plus d'une centaine de boutiques et de stands de nourriture. C'est un centre animé où vous pouvez déguster des fruits de mer frais, des produits de saison et des bonbons traditionnels. Se promener dans la ruelle en mangeant un petit poulpe farci à l'œuf de caille est incontournable.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "Ruelle de Pontocho",
+          "type": "night_market",
+          "description": "L'un des quartiers les plus atmosphériques de Kyoto, cette ruelle parallèle à la rivière Kamogawa s'anime la nuit avec ses lanternes en papier. On y trouve de tout, des yakitoris bon marché aux maisons de thé traditionnelles et restaurants kaiseki. En été, beaucoup proposent de dîner sur des plates-formes au-dessus de la rivière.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "Street Food de Fushimi Inari",
+          "type": "street_food",
+          "description": "Le chemin menant au sanctuaire de Fushimi Inari est bordé de stands de street food et de boutiques traditionnelles. C'est l'endroit idéal pour déguster des collations locales avant ou après avoir marché à travers les milliers de portes torii. Les sushis Inari et les udons sont incontournables.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "Kichi Kichi Omurice",
+          "type": "restaurant",
+          "description": "Une sensation virale mondiale, ce restaurant théâtral est célèbre pour la préparation flamboyante de l'omurice par le chef Motokichi. L'omelette incroyablement moelleuse est coupée de façon spectaculaire sur du riz frit, avant d'être garnie d'une sauce demi-glace. Les réservations sont difficiles mais en valent la peine.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "Honke Owariya",
+          "type": "restaurant",
+          "description": "Fondé en 1465, c'est l'un des restaurants de soba les plus anciens et respectés de Kyoto. Installé dans un magnifique bâtiment en bois, il sert des nouilles exquises. Leur plat signature comprend cinq étages de nouilles soba garnies d'ingrédients variés comme de la tempura de crevettes.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "Yudofu Sagano",
+          "type": "restaurant",
+          "description": "Situé dans le quartier d'Arashiyama, ce restaurant élégant est spécialisé dans le yudofu, la fameuse fondue au tofu de Kyoto. Dans un jardin japonais tranquille, les convives dégustent du tofu soyeux mijoté dans un bouillon de varech. Une expérience végétarienne sereine et réconfortante.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "Menbaka Fire Ramen",
+          "type": "restaurant",
+          "description": "Offrant une expérience palpitante, cet établissement est célèbre pour mettre littéralement le feu à votre bol de ramen. Le chef verse de l'huile d'oignon vert brûlante sur le bouillon sous vos yeux. Au-delà du spectacle, le ramen qui en résulte est imprégné d'une délicieuse saveur fumée.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "Saryo Tsujiri (Gion)",
+          "type": "cafe",
+          "description": "Un café légendaire dans le quartier historique de Gion, spécialisé dans le matcha premium d'Uji. Il y a presque toujours de l'attente, mais leurs parfaits au matcha élaborés, superposés avec de la glace au thé vert, des mochis et de la pâte de haricots rouges, sont un favori absolu.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Kioto 2026 — Guía de Restaurantes y Street Food",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales de Kioto. Desde el Mercado de Nishiki hasta la cocina kaiseki, con enlaces de reserva.",
+      "page_intro": "Kioto es el corazón cultural e histórico de Japón, y ofrece una tradición culinaria profundamente arraigada en la estética y la estacionalidad. Desde la elegancia refinada de las comidas tradicionales kaiseki hasta los bulliciosos puestos de comida callejera, la escena de Kioto es una mezcla de herencia y sabor.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "Mercado de Nishiki",
+          "type": "street_food",
+          "description": "Conocida como la 'Cocina de Kioto', esta calle comercial alberga más de cien tiendas y puestos de comida. Es un centro bullicioso donde puedes probar mariscos frescos, productos de temporada y dulces japoneses. Comer un pulpo relleno con un huevo de codorniz es una experiencia esencial.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "Callejón de Pontocho",
+          "type": "night_market",
+          "description": "Una de las zonas más atmosféricas de Kioto, este estrecho callejón paralelo al río Kamogawa cobra vida por la noche con linternas de papel. Está lleno de opciones gastronómicas, desde yakitori baratos hasta exclusivos restaurantes kaiseki. En verano, muchos ofrecen cenas en terrazas sobre el río.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "Street Food de Fushimi Inari",
+          "type": "street_food",
+          "description": "El camino que conduce al icónico Santuario Fushimi Inari está bordeado de una vibrante variedad de puestos de comida. Es el lugar perfecto para tomar un aperitivo local antes o después de caminar. Los dulces tradicionales como el sushi Inari y el udon son imprescindibles.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "Kichi Kichi Omurice",
+          "type": "restaurant",
+          "description": "Una sensación viral, este acogedor restaurante es famoso por la entretenida preparación del omurice por parte del Chef Motokichi. La tortilla, increíblemente esponjosa, se abre dramáticamente sobre arroz frito. Las reservas son difíciles de conseguir pero valen la pena.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "Honke Owariya",
+          "type": "restaurant",
+          "description": "Fundado en 1465, es uno de los restaurantes de fideos soba más antiguos y respetados de Kioto. Ubicado en un hermoso edificio de madera, sirve fideos exquisitos con un caldo equilibrado. Su plato característico presenta cinco niveles de fideos con varios ingredientes.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "Yudofu Sagano",
+          "type": "restaurant",
+          "description": "Ubicado en el distrito de Arashiyama, este elegante restaurante se especializa en yudofu, la famosa olla caliente de tofu de Kioto. En un tranquilo jardín japonés, los comensales disfrutan de tofu sedoso cocinado a fuego lento en un caldo de algas. Es una experiencia vegetariana reconfortante.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "Menbaka Fire Ramen",
+          "type": "restaurant",
+          "description": "Al ofrecer una experiencia emocionante, este local de ramen es famoso por incendiar literalmente tu plato de comida. El chef vierte aceite de cebolla verde hirviendo sobre el caldo, creando una llamarada gigante. El ramen resultante está imbuido de un delicioso sabor ahumado.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "Saryo Tsujiri (Gion)",
+          "type": "cafe",
+          "description": "Un legendario café de postres en el distrito de Gion, especializado en matcha premium de Uji. Sus elaborados parfaits de matcha, con capas de helado de té verde, mochi y pasta de judías rojas dulces, son los favoritos indiscutibles de la zona.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Kyoto 2026 — Panduan Restoran & Jajanan Pasar",
+      "seo_description": "Temukan restoran terbaik, jajanan pasar, dan makanan khas lokal di Kyoto. Dari jajanan Pasar Nishiki hingga kaiseki — lengkap dengan tautan pemesanan.",
+      "page_intro": "Kyoto adalah jantung budaya Jepang, menawarkan tradisi kuliner yang berakar kuat pada estetika. Dari keanggunan hidangan multi-menu kaiseki hingga kedai makanan di Pasar Nishiki, budaya makanan Kyoto adalah perpaduan menawan antara warisan kuno dan rasa modern.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "Pasar Nishiki",
+          "type": "street_food",
+          "description": "Dikenal sebagai 'Dapur Kyoto', jalan perbelanjaan ini dipenuhi lebih dari seratus toko dan kedai makanan. Ini adalah pusat keramaian tempat Anda dapat mencicipi makanan laut segar dan manisan tradisional. Berjalan sambil makan bayi gurita adalah pengalaman Kyoto yang hakiki.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "Gang Pontocho",
+          "type": "night_market",
+          "description": "Salah satu area makan paling berkesan di Kyoto, gang sempit yang membentang di sepanjang Sungai Kamogawa ini menjadi hidup di malam hari dengan lentera kertas. Dipenuhi berbagai restoran, dari kedai yakitori murah hingga restoran kaiseki eksklusif.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "Jajanan Fushimi Inari",
+          "type": "street_food",
+          "description": "Jalan menuju Kuil Fushimi Inari yang ikonik dipenuhi deretan kedai makanan kaki lima yang semarak. Tempat yang tepat untuk menikmati camilan lokal sebelum atau sesudah mendaki. Makanan tradisional seperti sushi Inari dan udon sangat wajib dicoba.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "Kichi Kichi Omurice",
+          "type": "restaurant",
+          "description": "Sangat viral di dunia, restoran teater ini terkenal karena persiapan omurice yang menghibur oleh Chef Motokichi. Telur dadar yang luar biasa lembut diiris secara dramatis di atas nasi goreng, sebelum disiram saus demi-glace. Pemesanan sulit tetapi sepadan.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "Honke Owariya",
+          "type": "restaurant",
+          "description": "Didirikan pada tahun 1465, ini adalah salah satu restoran soba tertua di Kyoto. Terletak di bangunan kayu bersejarah, restoran ini menyajikan mi lezat dengan kaldu yang seimbang. Hidangan khas mereka menyajikan lima tingkat mi soba dengan berbagai pugasan.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "Yudofu Sagano",
+          "type": "restaurant",
+          "description": "Terletak di distrik Arashiyama, restoran elegan ini berspesialisasi dalam yudofu, hot pot tahu Kyoto yang terkenal. Di dalam taman Jepang, pengunjung menikmati tahu sutra yang direbus dalam kaldu rumput laut. Pengalaman makan ramah vegetarian yang menenangkan.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "Menbaka Fire Ramen",
+          "type": "restaurant",
+          "description": "Menawarkan pengalaman bersantap yang mendebarkan, restoran ini terkenal karena membakar mangkuk ramen Anda. Koki menuangkan minyak daun bawang yang menyala di atas kaldu di depan Anda. Selain tontonan hebat, ramennya memiliki rasa bawang berasap yang lezat.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "Saryo Tsujiri (Gion)",
+          "type": "cafe",
+          "description": "Kafe hidangan penutup legendaris di distrik Gion, yang berspesialisasi dalam matcha Uji premium. Parfait matcha mereka yang rumit, dilapisi dengan es krim teh hijau, mochi, dan pasta kacang merah manis, adalah favorit utama penduduk lokal.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "क्योटो में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "क्योटो में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशिष्टताओं की खोज करें। निशिकी मार्केट से लेकर काइसेकी डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "क्योटो जापान का सांस्कृतिक और ऐतिहासिक दिल है, जो सौंदर्यशास्त्र में गहराई से निहित एक पाक परंपरा पेश करता है। पारंपरिक काइसेकी भोजन के परिष्कृत लालित्य से लेकर निशिकी मार्केट के हलचल भरे स्ट्रीट फूड स्टालों तक, क्योटो का भोजन दृश्य बहुत ही मनोरम है।",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "निशिकी मार्केट",
+          "type": "street_food",
+          "description": "प्यार से 'क्योटो की रसोई' के रूप में जाना जाने वाला, यह खरीदारी वाली सड़क सौ से अधिक दुकानों और फूड स्टैंड से अटी पड़ी है। यह एक हलचल भरा केंद्र है जहां आप ताजे समुद्री भोजन और पारंपरिक जापानी मिठाइयों का स्वाद ले सकते हैं।",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "पोंटोचो गली",
+          "type": "night_market",
+          "description": "क्योटो के सबसे वायुमंडलीय भोजन क्षेत्रों में से एक, कामोगावा नदी के समानांतर चलने वाली यह संकरी गली रात में कागज़ की लालटेन के साथ जीवंत हो जाती है। यह सस्ते याकिटोरी जोड़ों से लेकर पारंपरिक चायघरों से भरा हुआ है।",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "फुशिमी इनारी स्ट्रीट फूड",
+          "type": "street_food",
+          "description": "प्रतिष्ठित फुशिमी इनारी श्राइन की ओर जाने वाला मार्ग जीवंत स्ट्रीट फूड स्टालों से सुसज्जित है। लंबी पैदल यात्रा से पहले या बाद में स्थानीय स्नैक्स लेने के लिए यह एक आदर्श स्थान है। इनारी सुशी और उडोन यहाँ की खासियत हैं।",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "किची किची ओमुरिस",
+          "type": "restaurant",
+          "description": "विश्व स्तर पर वायरल सनसनी, यह रेस्तरां शेफ मोटोकिची द्वारा ओमुरिस की मनोरंजक तैयारी के लिए प्रसिद्ध है। अविश्वसनीय रूप से फूला हुआ आमलेट नाटकीय रूप से तले हुए चावल के ऊपर काटा जाता है। आरक्षण कुख्यात रूप से कठिन है लेकिन प्रयास के लायक है।",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "होन्के ओवारिया",
+          "type": "restaurant",
+          "description": "1465 में स्थापित, यह क्योटो के सबसे पुराने और सबसे सम्मानित सोबा रेस्तरां में से एक है। एक सुंदर ऐतिहासिक लकड़ी की इमारत में स्थित, रेस्तरां एक संतुलित शोरबा के साथ उत्तम नूडल्स परोसता है।",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "युदोफू सागानो",
+          "type": "restaurant",
+          "description": "अराशियामा जिले में स्थित, यह सुरुचिपूर्ण रेस्तरां युदोफू, क्योटो के प्रसिद्ध पारंपरिक टोफू हॉट पॉट में माहिर है। एक शांत जापानी उद्यान के भीतर, डिनर स्वादिष्ट केल्प शोरबा में सिल्कन टोफू का आनंद लेते हैं।",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "मेनबाका फायर रामन",
+          "type": "restaurant",
+          "description": "एक रोमांचक भोजन अनुभव प्रदान करते हुए, यह रामन जोड़ वस्तुतः आपके भोजन के कटोरे में आग लगाने के लिए प्रसिद्ध है। शेफ आपके सामने शोरबा के ऊपर हरा प्याज का तेल डालता है, जिससे एक विशाल लपट पैदा होती है।",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "सरयो त्सुजिरी (गियोन)",
+          "type": "cafe",
+          "description": "ऐतिहासिक गियोन जिले में स्थित एक महान मिठाई कैफे, जो प्रीमियम उजी माचा में विशेषज्ञता रखता है। ग्रीन टी आइसक्रीम, मोची और मीठे लाल बीन पेस्ट के साथ उनके विस्तृत माचा पैराफेट बिल्कुल पसंदीदा हैं।",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida de Quioto 2026 — Guia de Restaurantes e Street Food",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais de Quioto. Do mercado de Nishiki aos jantares kaiseki — com links de reserva.",
+      "page_intro": "Quioto é o coração cultural e histórico do Japão, oferecendo uma tradição culinária profundamente enraizada na estética e sazonalidade. Da elegância refinada das refeições tradicionais kaiseki às movimentadas barracas de comida de rua do Mercado de Nishiki, a cena alimentar de Quioto é uma mistura cativante de herança e sabores vibrantes.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "Mercado de Nishiki",
+          "type": "street_food",
+          "description": "Conhecida carinhosamente como a 'Cozinha de Quioto', esta rua comercial é repleta de mais de cem lojas e barracas. É um centro movimentado onde você pode provar frutos do mar frescos e doces tradicionais. Comer um polvo recheado com ovo de codorna é uma experiência essencial.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "Beco de Pontocho",
+          "type": "night_market",
+          "description": "Uma das áreas de jantar mais atmosféricas de Quioto, este beco estreito paralelo ao Rio Kamogawa ganha vida à noite com lanternas de papel. É repleto de uma ampla variedade de opções, desde locais baratos de yakitori a casas de chá tradicionais.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "Comida de Rua de Fushimi Inari",
+          "type": "street_food",
+          "description": "O caminho que leva ao icônico Santuário Fushimi Inari é ladeado por uma vibrante variedade de barracas. É o lugar perfeito para pegar lanches locais antes ou depois de caminhar. Doces tradicionais como sushi Inari e udon são essenciais.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "Kichi Kichi Omurice",
+          "type": "restaurant",
+          "description": "Uma sensação viral global, este restaurante teatral é famoso pela preparação divertida e extravagante do omurice pelo Chef Motokichi. O omelete incrivelmente fofo é dramaticamente fatiado sobre um monte de arroz frito. As reservas são difíceis, mas valem a pena.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "Honke Owariya",
+          "type": "restaurant",
+          "description": "Fundado em 1465, este é um dos restaurantes de soba mais antigos e respeitados de Quioto. Instalado em um belo edifício de madeira, o restaurante serve macarrão requintado com um caldo perfeitamente equilibrado.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "Yudofu Sagano",
+          "type": "restaurant",
+          "description": "Localizado no distrito de Arashiyama, este restaurante elegante é especializado em yudofu, o famoso hot pot de tofu de Quioto. Dentro de um tranquilo jardim japonês, os clientes desfrutam de tofu de seda cozido em caldo de algas. É uma experiência serena e reconfortante.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "Menbaka Fire Ramen",
+          "type": "restaurant",
+          "description": "Oferecendo uma experiência emocionante, este local de ramen é famoso por colocar literalmente fogo em sua tigela. O chef derrama óleo de cebola verde fervente sobre o caldo, criando uma chama maciça. O ramen resultante é imbuído de um delicioso sabor defumado.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "Saryo Tsujiri (Gion)",
+          "type": "cafe",
+          "description": "Um lendário café de sobremesas no distrito de Gion, especializado em matcha premium de Uji. Seus elaborados parfaits de matcha, lindamente em camadas com sorvete de chá verde, mochi e pasta de feijão vermelho, são os favoritos locais absolutos.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في كيوتو 2026 — دليل أفضل المطاعم وأكل الشوارع",
+      "seo_description": "اكتشف أفضل المطاعم وأكل الشوارع والتخصصات المحلية في كيوتو. من أكل سوق نيشيكي إلى الكايسيكي مع روابط الحجز.",
+      "page_intro": "كيوتو هي القلب الثقافي والتاريخي لليابان، وتقدم تقاليد طهي متجذرة بعمق في الجماليات والموسمية. من الأناقة الراقية لوجبات كايسيكي التقليدية إلى أكشاك طعام الشوارع الصاخبة، فإن مشهد الطعام في كيوتو آسر.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "سوق نيشيكي",
+          "type": "street_food",
+          "description": "يُعرف هذا الشارع التجاري باسم 'مطبخ كيوتو'، ويصطف على جانبيه أكثر من مائة متجر. إنه مركز صاخب حيث يمكنك تذوق المأكولات البحرية الطازجة والحلويات التقليدية. إن تناول أخطبوط صغير محشو ببيض السمان تجربة أساسية.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "زقاق بونتوتشو",
+          "type": "night_market",
+          "description": "أحد أكثر مناطق تناول الطعام جاذبية في كيوتو، هذا الزقاق الضيق ينبض بالحياة ليلاً مع الفوانيس الورقية. إنها مليئة بمجموعة واسعة من خيارات تناول الطعام، من أماكن الياكيتوري الرخيصة إلى بيوت الشاي التقليدية.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "طعام شارع فوشيمي إناري",
+          "type": "street_food",
+          "description": "يصطف المسار المؤدي إلى ضريح فوشيمي إناري الشهير بمجموعة نابضة بالحياة من أكشاك طعام الشوارع. إنه المكان المثالي لتناول الوجبات الخفيفة المحلية قبل أو بعد المشي. الحلويات التقليدية مثل السوشي إناري لا غنى عنها.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "كيشي كيشي أوموريس",
+          "type": "restaurant",
+          "description": "إحساس فيروسي عالمي، يشتهر هذا المطعم المسرحي بالتحضير الترفيهي للأوموريس من قبل الشيف موتوكيشي. يتم فتح العجة الرقيقة بشكل لا يصدق بشكل درامي فوق كومة من الأرز المقلي. الحجوزات صعبة ولكنها تستحق العناء.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "هونكي أواريا",
+          "type": "restaurant",
+          "description": "تأسس في عام 1465، وهو أحد أقدم مطاعم السوبا في كيوتو. يقع في مبنى خشبي تاريخي جميل، ويقدم المطعم المعكرونة الرائعة مع المرق المتوازن تمامًا. يتميز طبقهم المميز بخمس طبقات من نودلز السوبا.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "يودوفو ساجانو",
+          "type": "restaurant",
+          "description": "يقع هذا المطعم الأنيق في منطقة أراشياما، ويتخصص في يودوفو، وعاء التوفو الساخن الشهير في كيوتو. داخل حديقة يابانية هادئة، يستمتع الزوار بالتوفو الحريري المطهو ببطء. إنها تجربة هادئة ومريحة.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "مينباكا فاير رامين",
+          "type": "restaurant",
+          "description": "يقدم هذا المطعم تجربة طعام مثيرة، ويشتهر بإشعال النار في وعاء طعامك حرفيًا. يصب الشيف زيت البصل الأخضر المحترق فوق المرق، مما يخلق توهجًا ناريًا هائلاً. الرامين الناتج مشبع بنكهة مدخنة لذيذة.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "ساريو تسوجيري (جيون)",
+          "type": "cafe",
+          "description": "مقهى حلويات أسطوري في منطقة جيون التاريخية، متخصص في ماتشا أوجي الفاخرة. بارفيه الماتشا الخاص بهم، والمغطى بآيس كريم الشاي الأخضر والموتشي، هو المفضل المطلق.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "কিয়োটোর সেরা খাবার 2026 - রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "কিয়োটোর সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় খাবার আবিষ্কার করুন। নিশিকি মার্কেট থেকে শুরু করে কাইসেকি ডাইনিং - বুকিং লিঙ্ক সহ।",
+      "page_intro": "কিয়োটো হল জাপানের সাংস্কৃতিক এবং ঐতিহাসিক হৃদয়, যা নান্দনিকতার গভীরে প্রোথিত একটি রন্ধনসম্পর্কীয় ঐতিহ্য প্রদান করে। ঐতিহ্যবাহী কাইসেকি খাবারের পরিশোধিত কমনীয়তা থেকে শুরু করে নিশিকি মার্কেটের জমজমাট স্ট্রিট ফুড স্টল পর্যন্ত, কিয়োটোর খাবারের দৃশ্য মুগ্ধকর।",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "নিশিকি মার্কেট",
+          "type": "street_food",
+          "description": "'কিয়োটোর রান্নাঘর' নামে পরিচিত, এই শপিং স্ট্রিটটি শতাধিক দোকান এবং স্টল দিয়ে সারিবদ্ধ। এটি একটি জমজমাট কেন্দ্র যেখানে আপনি তাজা সামুদ্রিক খাবার এবং ঐতিহ্যবাহী মিষ্টির নমুনা নিতে পারেন। কোয়েল ডিম দিয়ে স্টাফ করা অক্টোপাস খাওয়া একটি অপরিহার্য অভিজ্ঞতা।",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "পন্টোচো অ্যালি",
+          "type": "night_market",
+          "description": "কিয়োটোর অন্যতম বায়ুমণ্ডলীয় ডাইনিং এলাকা, এই সরু গলি রাতে কাগজের লণ্ঠন দিয়ে জীবন্ত হয়ে ওঠে। এটি সস্তা ইয়াকিটোরি জয়েন্ট থেকে শুরু করে ঐতিহ্যবাহী টিহাউস পর্যন্ত ডাইনিং বিকল্পগুলিতে পরিপূর্ণ।",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "ফুশিমি ইনারি স্ট্রিট ফুড",
+          "type": "street_food",
+          "description": "ফুশিমি ইনারি শ্রাইনের দিকে যাওয়ার পথটি স্ট্রিট ফুড স্টলের একটি স্পন্দনশীল অ্যারে দিয়ে সারিবদ্ধ। হাইকিংয়ের আগে বা পরে স্থানীয় স্ন্যাকস নেওয়ার জন্য এটি উপযুক্ত জায়গা। ইনারি সুশি এবং উডনের মতো ঐতিহ্যবাহী খাবার আবশ্যক।",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "কিচি কিচি ওমুরিস",
+          "type": "restaurant",
+          "description": "একটি বিশ্বব্যাপী ভাইরাল সংবেদন, এই রেস্তোরাঁটি শেফ মোটোকিচি দ্বারা ওমুরিসের বিনোদনমূলক প্রস্তুতির জন্য বিখ্যাত। অবিশ্বাস্যভাবে ফ্লফি অমলেট নাটকীয়ভাবে ভাজা ভাতের উপরে কাটা হয়। সংরক্ষণ কুখ্যাতভাবে কঠিন কিন্তু প্রচেষ্টা মূল্যবান।",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "হোনকে ওওয়ারিয়া",
+          "type": "restaurant",
+          "description": "1465 সালে প্রতিষ্ঠিত, এটি কিয়োটোর প্রাচীনতম সোবা রেস্তোরাঁগুলির মধ্যে একটি। একটি সুন্দর ঐতিহাসিক কাঠের বিল্ডিংয়ে রাখা, রেস্তোরাঁটি একটি সুষম ব্রোথ সহ সূক্ষ্ম নুডলস পরিবেশন করে।",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "ইউদোফু সাগানো",
+          "type": "restaurant",
+          "description": "আরাশিয়ামাতে অবস্থিত, এই মার্জিত রেস্তোরাঁটি ইউদোফুতে বিশেষজ্ঞ। একটি শান্ত জাপানি বাগানের মধ্যে, ডিনাররা কেল্প ব্রোথে সিদ্ধ সিল্কেন তোফু উপভোগ করে। এটি একটি নির্মল এবং আরামদায়ক অভিজ্ঞতা।",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "মেনবাকা ফায়ার রামেন",
+          "type": "restaurant",
+          "description": "একটি রোমাঞ্চকর ডাইনিং অভিজ্ঞতা অফার করে, এই রামেন জয়েন্ট আক্ষরিক অর্থে আপনার বাটিতে আগুন লাগানোর জন্য বিখ্যাত। শেফ আপনার সামনে ব্রোথের উপরে জ্বলন্ত পেঁয়াজ তেল ঢেলে দেয়। এর স্বাদ সুস্বাদু এবং ধোঁয়াটে।",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "সারিও সুজিরি (গিওন)",
+          "type": "cafe",
+          "description": "গিওন জেলার একটি কিংবদন্তি ডেজার্ট ক্যাফে, প্রিমিয়াম উজি মাচাতে বিশেষজ্ঞ। গ্রিন টি আইসক্রিম, মোচি এবং মিষ্টি রেড বিন পেস্ট সহ তাদের বিস্তৃত মাচা পারফাইটগুলি স্থানীয়দের পরম প্রিয়।",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Киото 2026 — Гид по ресторанам и уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Киото. От рынка Нисики до кайсэки — со ссылками на бронирование.",
+      "page_intro": "Киото — это культурное и историческое сердце Японии, предлагающее кулинарные традиции, глубоко укоренившиеся в эстетике и сезонности. От изысканной элегантности традиционных блюд кайсэки до шумных прилавков с уличной едой на рынке Нисики, гастрономическая сцена Киото — это захватывающее сочетание древнего наследия и современных вкусов.",
+      "items": [
+        {
+          "id": "nishiki-market",
+          "name": "Рынок Нисики",
+          "type": "street_food",
+          "description": "Эта торговая улица, ласково называемая «Кухней Киото», заполнена более чем сотней магазинов и продуктовых лавок. Это шумный центр, где вы можете попробовать свежие морепродукты и традиционные сладости. Прогулка по переулку с поеданием осьминога, фаршированного перепелиным яйцом, является обязательным опытом.",
+          "image_keyword": "nishiki market kyoto food",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tako Tamago (Octopus with Quail Egg)",
+          "klook_query": "Nishiki Market Food Tour"
+        },
+        {
+          "id": "pontocho-alley",
+          "name": "Переулок Понточо",
+          "type": "night_market",
+          "description": "Этот узкий переулок, параллельный реке Камогава, оживает ночью благодаря бумажным фонарикам. Он заполнен множеством заведений, от дешевых якитори до традиционных чайных домиков и эксклюзивных ресторанов кайсэки.",
+          "image_keyword": "pontocho alley kyoto night",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Kyoto-style Kaiseki or Yakitori",
+          "klook_query": "Pontocho Dining Experience"
+        },
+        {
+          "id": "fushimi-inari-street-food",
+          "name": "Уличная еда Фусими Инари",
+          "type": "street_food",
+          "description": "Путь, ведущий к культовому храму Фусими Инари, усажен яркими прилавками с уличной едой. Это идеальное место, чтобы перекусить местными закусками до или после похода. Традиционные угощения, такие как суши Инари и удон, обязательны.",
+          "image_keyword": "fushimi inari street food",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Inari Sushi and Grilled Mochi",
+          "klook_query": "Fushimi Inari Shrine Tour"
+        },
+        {
+          "id": "kichi-kichi-omurice",
+          "name": "Kichi Kichi Omurice",
+          "type": "restaurant",
+          "description": "Этот уютный театральный ресторан, ставший мировой вирусной сенсацией, славится зрелищным приготовлением омурайсу от шеф-повара Мотокити. Невероятно пушистый омлет эффектно разрезается поверх жареного риса. Бронирование получить трудно, но оно того стоит.",
+          "image_keyword": "kichi kichi omurice kyoto",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Fluffy Omurice",
+          "klook_query": "Kichi Kichi Omurice Kyoto"
+        },
+        {
+          "id": "honke-owariya",
+          "name": "Honke Owariya",
+          "type": "restaurant",
+          "description": "Основанный в 1465 году, это один из старейших ресторанов собы в Киото. Расположенный в красивом историческом деревянном здании, ресторан предлагает изысканную лапшу с идеально сбалансированным бульоном. Их фирменное блюдо включает пять ярусов лапши соба.",
+          "image_keyword": "honke owariya soba kyoto",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Hourai Soba",
+          "klook_query": "Kyoto Soba Experience"
+        },
+        {
+          "id": "yudofu-sagano",
+          "name": "Yudofu Sagano",
+          "type": "restaurant",
+          "description": "Этот элегантный ресторан, расположенный в районе Арасияма, специализируется на юдофу, знаменитом в Киото горячем горшочке с тофу. В тихом японском саду посетители наслаждаются шелковистым тофу, сваренным в бульоне из ламинарии. Это глубоко безмятежный опыт.",
+          "image_keyword": "yudofu kyoto tofu arashiyama",
+          "star_rating": 4.5,
+          "price_range": "$$$",
+          "must_try": "Yudofu (Tofu Hot Pot)",
+          "klook_query": "Arashiyama Food Tour"
+        },
+        {
+          "id": "menbaka-fire-ramen",
+          "name": "Menbaka Fire Ramen",
+          "type": "restaurant",
+          "description": "Предлагая захватывающие впечатления, эта раменная славится тем, что буквально поджигает вашу миску с едой. Шеф-повар выливает горящее масло зеленого лука поверх бульона прямо перед вами. Получившийся рамен пропитан восхитительным дымным вкусом.",
+          "image_keyword": "fire ramen kyoto menbaka",
+          "star_rating": 4.7,
+          "price_range": "$$",
+          "must_try": "Green Onion Fire Ramen",
+          "klook_query": "Menbaka Fire Ramen Kyoto"
+        },
+        {
+          "id": "saryo-tsujiri-gion",
+          "name": "Saryo Tsujiri (Гион)",
+          "type": "cafe",
+          "description": "Легендарное десертное кафе в историческом районе Гион, специализирующееся на премиальном маття Удзи. Их изысканные парфе с матча, красиво уложенные слоями мороженого из зеленого чая, моти и сладкой пасты из красных бобов, являются абсолютным фаворитом.",
+          "image_keyword": "matcha parfait kyoto tsujiri",
+          "star_rating": 4.5,
+          "price_range": "$",
+          "must_try": "Tsujiri Matcha Parfait",
+          "klook_query": "Kyoto Matcha Tour"
+        }
+      ]
+    }
+  }
+}

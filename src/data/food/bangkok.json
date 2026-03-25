@@ -1,0 +1,1145 @@
+{
+  "city_slug": "bangkok",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Bangkok 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Bangkok. From Michelin-starred crab omelettes to vibrant night markets — with booking links.",
+      "page_intro": "Bangkok is a vibrant, chaotic, and utterly thrilling street food paradise where sweet, sour, salty, and spicy flavors collide. From the blazing woks of Yaowarat Chinatown to elegant riverside dining, the city's food scene is an endless feast. Whether you are slurping a decades-old beef broth or cracking into a legendary crab omelette, Bangkok offers a culinary adventure that is loud, proud, and unapologetically delicious.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "Jay Fai",
+          "type": "restaurant",
+          "description": "A legendary Michelin-starred street food eatery run by the iconic chef Jay Fai, known for cooking with her signature oversized goggles over blazing charcoal fires. The absolute star of the menu is the massive, golden crab omelette, packed with chunks of sweet, fresh crab meat. It is a premium street food experience that draws food lovers from around the globe.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "Yaowarat (Chinatown)",
+          "type": "street_food",
+          "description": "As night falls, the neon-lit Yaowarat Road transforms into one of the world's greatest street food destinations. The chaotic, energetic streets are lined with stalls serving everything from peppery rolled noodle soup (Guay Jub) to fresh grilled seafood and sweet toasted buns. Navigating through the crowds to sample dish after dish is a quintessential Bangkok experience.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "Jodd Fairs Night Market",
+          "type": "night_market",
+          "description": "A trendy, modern night market that perfectly captures Bangkok's vibrant youth culture and love for bold flavors. It is famously home to 'Leng Saeb', a towering mountain of tender pork spine doused in an incredibly spicy, sour green chili broth. The market's clean, organized layout makes it a highly photogenic and comfortable place to feast.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "Thipsamai",
+          "type": "restaurant",
+          "description": "Widely regarded as the most famous Pad Thai restaurant in Bangkok, serving up Thailand's national dish since 1939. Their signature 'Superb Pad Thai' features noodles stir-fried with shrimp oil, wrapped in a paper-thin egg envelope, and served with plump, fresh prawns. Pair it with their legendary, freshly squeezed orange juice for a perfect meal.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "Wattana Panich",
+          "type": "restaurant",
+          "description": "A historic, multi-generational restaurant famous for a massive cauldron of beef soup that has been continuously simmering for over 40 years. This master stock method results in an incredibly rich, complex, and deeply flavorful broth. The tender chunks of stewed beef and chewy noodles make it a legendary bowl of comfort food.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "Chatuchak Weekend Market",
+          "type": "street_food",
+          "description": "The ultimate shopping destination in Bangkok also doubles as a massive street food haven. Amidst the thousands of stalls, visitors can cool down from the intense heat with refreshing coconut ice cream served in a coconut shell, or snack on juicy Moo Ping (grilled pork skewers). It provides the perfect culinary fuel for a long day of bargaining.",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "Som Tum Der (Silom)",
+          "type": "restaurant",
+          "description": "A Michelin-recommended eatery specializing in authentic, fiery Isan (Northeastern Thai) cuisine. The star of the show is the Som Tum (green papaya salad), available in numerous variations from salty crab to fermented fish. Paired with crispy fried chicken and sticky rice, it delivers a punchy, authentic taste of regional Thailand in a comfortable setting.",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "Mae Varee",
+          "type": "street_food",
+          "description": "A beloved local institution in Thong Lo that has been mastering Thailand's most famous dessert for decades. They serve perfectly ripe, incredibly sweet mangoes over warm, coconut-infused sticky rice, topped with crunchy mung beans. It is the ultimate sweet finish to any Bangkok food tour.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026 曼谷必吃美食推薦 — 頂級餐廳與街頭小吃指南",
+      "seo_description": "探索曼谷最佳餐廳、街頭小吃與在地特色美食。從米其林星級蟹肉煎蛋到熱鬧的夜市，提供完整推薦與預訂連結。",
+      "page_intro": "曼谷是一個充滿活力、混亂卻又無比刺激的街頭美食天堂，酸、甜、鹹、辣的風味在此碰撞。從唐人街耀華力路烈焰升騰的炒鍋，到優雅的河畔餐廳，這座城市的美食場景是一場永無止境的盛宴。無論您是吸溜著熬煮數十年的牛肉高湯，還是大啖傳奇的蟹肉煎蛋，曼谷都能為您帶來熱情、自豪且絕對美味的美食冒險。",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "痣姐熱炒 (Jay Fai)",
+          "type": "restaurant",
+          "description": "這家傳奇的米其林星級街頭小吃由標誌性的主廚 Jay Fai 掌勺，她戴著招牌超大護目鏡在炭火上烹飪的畫面深植人心。菜單上絕對的主角是巨大、金黃色的蟹肉煎蛋，裡面塞滿了大塊鮮甜的蟹肉。這是一種頂級的街頭美食體驗，吸引了來自全球的美食愛好者。",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "唐人街 (耀華力路)",
+          "type": "street_food",
+          "description": "夜幕降臨，霓虹閃爍的耀華力路便化身為世界上最棒的街頭美食聖地之一。混亂而充滿活力的街道兩旁排滿了攤販，從帶有濃郁胡椒味的粿汁到新鮮烤海鮮和香甜烤麵包，應有盡有。穿梭在人群中一攤吃過一攤，是最經典的曼谷體驗。",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "喬德夜市 (Jodd Fairs)",
+          "type": "night_market",
+          "description": "一個時髦、現代的夜市，完美捕捉了曼谷充滿活力的年輕文化和對強烈風味的熱愛。這裡最著名的是「火山排骨」(Leng Saeb)，堆積如山的軟嫩豬脊骨淋上極度酸辣的青辣椒清湯。市場乾淨整潔的佈局使其成為一個非常適合拍照和舒適享用美食的地方。",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "鬼門炒河粉 (Thipsamai)",
+          "type": "restaurant",
+          "description": "被廣泛認為是曼谷最著名的泰式炒河粉餐廳，自1939年以來便持續供應這道泰國國菜。他們的招牌「極品泰式炒河粉」將麵條與蝦油一起翻炒，包在薄如紙的蛋皮中，並配上飽滿新鮮的大蝦。搭配他們傳奇的鮮榨橘子汁，絕對是完美的一餐。",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "郭炎松牛肉麵 (Wattana Panich)",
+          "type": "restaurant",
+          "description": "這家歷史悠久、傳承數代的餐廳以一鍋燉煮了40多年從未間斷過的巨大牛肉湯鍋而聞名。這種「老滷」熬製法造就了極度濃郁、層次豐富且風味深邃的高湯。軟嫩的燉牛肉塊和Q彈的麵條，使其成為一碗傳奇的療癒美食。",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "恰圖恰週末市集",
+          "type": "street_food",
+          "description": "曼谷的終極購物勝地同時也是一個巨大的街頭美食天堂。在成千上萬的攤位中，遊客可以享用盛裝在椰子殼裡的清涼椰子冰淇淋來消暑，或是品嚐多汁的烤豬肉串 (Moo Ping)。它為漫長的殺價血拼之旅提供了完美的能量補給。",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "Som Tum Der (是隆店)",
+          "type": "restaurant",
+          "description": "一家獲米其林推薦的餐廳，專營道地、火辣的泰國東北部 (Isan) 料理。主角是涼拌青木瓜沙拉 (Som Tum)，有從醃蟹到發酵魚等多種變化口味。搭配酥脆的炸雞和糯米飯，在舒適的環境中為您帶來強烈且道地的泰國地方風味。",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "Mae Varee 芒果糯米飯",
+          "type": "street_food",
+          "description": "位於通羅區 (Thong Lo) 深受喜愛的在地老店，數十年來專注於這道泰國最著名的甜點。他們將熟透、極度香甜的芒果鋪在溫熱、充滿椰香的糯米飯上，最後撒上酥脆的綠豆仁。這是任何曼谷美食之旅最完美的甜蜜結尾。",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年 バンコクの絶品グルメ — 人気レストラン＆屋台街ガイド",
+      "seo_description": "バンコクの最高級レストラン、屋台、郷土料理をご紹介。ミシュラン星付きのカニオムレツから活気あるナイトマーケットまで、予約リンク付きでご案内します。",
+      "page_intro": "バンコクは、甘味、酸味、塩味、辛味がぶつかり合う、活気にあふれ、カオスで、非常にスリリングなストリートフードの楽園です。ヤワラート（チャイナタウン）の燃え盛る中華鍋から、エレガントなリバーサイドの食事まで、この街の食のシーンは終わりのないごちそうです。何十年も煮込まれた牛肉のスープをすするにしても、伝説的なカニオムレツを割るにしても、バンコクは、大胆で誇り高く、そして圧倒的に美味しい美食の冒険を提供します。",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "ジェイ・ファイ",
+          "type": "restaurant",
+          "description": "トレードマークの大きなゴーグルをつけて燃え盛る炭火の上で調理することで知られる、象徴的なシェフ、ジェイ・ファイが経営する、ミシュランの星を獲得した伝説的な屋台レストランです。メニューの絶対的な主役は、甘くて新鮮なカニの身がたっぷり詰まった、巨大な黄金色のカニオムレツです。世界中から美食家が集まる、プレミアムな屋台体験です。",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "ヤワラート（チャイナタウン）",
+          "type": "street_food",
+          "description": "日が沈むと、ネオンが輝くヤワラート通りは世界有数のストリートフードの目的地へと変貌します。カオスでエネルギーに満ちた通りには、胡椒の効いたロール麺のスープ（クワイジャップ）から、新鮮な海鮮焼き、甘いトーストパンまで、あらゆるものを出す屋台が並びます。人ごみをかき分けて次々と料理を味わうのは、バンコクならではの体験です。",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "ジョッドフェアーズ・ナイトマーケット",
+          "type": "night_market",
+          "description": "バンコクの活気ある若者文化と大胆な味への愛を完璧に捉えた、トレンディでモダンなナイトマーケットです。信じられないほど辛くて酸っぱい青唐辛子のスープがかけられた、豚の背骨のそびえ立つ山「レンแซ่ブ（Leng Saeb）」があることで有名です。市場の清潔で整然としたレイアウトは、非常に写真映えし、快適に食事を楽しむことができる場所です。",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "ティップサマイ",
+          "type": "restaurant",
+          "description": "バンコクで最も有名なパッタイのレストランとして広く知られ、1939年からタイの国民食を提供しています。名物の「スーパーパッタイ」は、エビ油で炒めた麺を紙のように薄い卵で包み、ふっくらとした新鮮なエビを添えたものです。伝説的な絞りたてのオレンジジュースと組み合わせれば、完璧な食事になります。",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "ワッタナーパニット",
+          "type": "restaurant",
+          "description": "40年以上にわたって継続して煮込まれ続けている、牛肉スープの巨大な大釜で有名な、歴史ある代々続くレストランです。この継ぎ足しの手法により、信じられないほど濃厚で複雑、そして深みのある風味のスープが生まれます。柔らかく煮込まれた牛肉の塊とモチモチの麺は、伝説的な癒しの一杯となっています。",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "チャトゥチャック・ウィークエンドマーケット",
+          "type": "street_food",
+          "description": "バンコクの究極のショッピングの目的地は、巨大なストリートフードの天国でもあります。何千もの屋台が並ぶ中、訪れた人はココナッツの殻に入った爽やかなココナッツアイスクリームで激しい暑さを和らげたり、ジューシーなムーピン（豚の串焼き）をつまんだりすることができます。長い買い物のための完璧なエネルギー補給を提供してくれます。",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "ソムタムダー（シーロム店）",
+          "type": "restaurant",
+          "description": "本格的で刺激的なイサーン（タイ東北部）料理を専門とする、ミシュラン推奨の飲食店です。主役はソムタム（青パパイヤのサラダ）で、塩漬けのカニから発酵した魚まで、数多くのバリエーションがあります。サクサクのフライドチキンやもち米と組み合わせることで、パンチの効いた本場のタイ地方の味を快適な環境で楽しめます。",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "メーワーリー",
+          "type": "street_food",
+          "description": "トンローにある地元で愛されている老舗で、何十年にもわたってタイで最も有名なデザートを作り続けています。完全に熟した信じられないほど甘いマンゴーを、温かいココナッツ風味のもち米の上に乗せ、サクサクの緑豆をトッピングして提供しています。バンコクのフードツアーの締めくくりにふさわしい、究極のスイーツです。",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026 방콕 최고 맛집 - 추천 레스토랑 및 길거리 음식 가이드",
+      "seo_description": "방콕의 최고 레스토랑, 길거리 음식, 현지 특선 요리를 만나보세요. 미슐랭 스타 크랩 오믈렛부터 활기찬 야시장까지, 예약 링크를 제공합니다.",
+      "page_intro": "방콕은 달콤하고 시큼하며 짭짤하고 매콤한 맛이 충돌하는 활기차고 혼란스럽지만 매우 스릴 넘치는 길거리 음식의 천국입니다. 야오와랏 차이나타운의 불타는 웍부터 우아한 강변의 다이닝까지, 이 도시의 음식 문화는 끝없는 향연입니다. 수십 년 된 소고기 육수를 들이켜든 전설적인 크랩 오믈렛을 맛보든, 방콕은 크고 자랑스러우며 변명할 여지 없이 맛있는 미식 모험을 선사합니다.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "쩨파이",
+          "type": "restaurant",
+          "description": "트레이드마크인 커다란 고글을 쓰고 불타는 숯불 위에서 요리하는 것으로 유명한 상징적인 셰프 쩨파이가 운영하는 전설적인 미슐랭 스타 길거리 음식점입니다. 메뉴의 절대적인 주인공은 달콤하고 신선한 게살 덩어리가 듬뿍 들어간 거대한 황금빛 크랩 오믈렛입니다. 전 세계의 미식가들을 끌어들이는 프리미엄 길거리 음식 경험입니다.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "야오와랏 (차이나타운)",
+          "type": "street_food",
+          "description": "밤이 되면 네온사인이 켜진 야오와랏 로드는 세계 최고의 길거리 음식 명소 중 하나로 변신합니다. 혼란스럽고 에너지 넘치는 거리에는 후추 향이 강한 돌돌 만 국수(꾸에이짭)부터 신선한 구운 해산물과 달콤한 구운 빵까지 모든 것을 파는 노점들이 줄지어 있습니다. 인파를 뚫고 요리를 하나씩 맛보는 것은 방콕의 필수 경험입니다.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "짇삥 야시장 (조드 페어)",
+          "type": "night_market",
+          "description": "방콕의 활기찬 청년 문화와 강렬한 맛에 대한 사랑을 완벽하게 담아낸 트렌디하고 현대적인 야시장입니다. 믿을 수 없을 정도로 맵고 신 청양고추 육수를 끼얹은 부드러운 돼지 등뼈가 산처럼 쌓여 있는 '랭쌥'이 있는 곳으로 유명합니다. 시장의 깨끗하고 체계적인 배치는 사진을 찍기에 좋고 편안하게 식사할 수 있는 장소를 제공합니다.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "팁싸마이",
+          "type": "restaurant",
+          "description": "1939년부터 태국의 국민 요리를 선보이고 있는 방콕에서 가장 유명한 팟타이 레스토랑으로 널리 알려져 있습니다. 시그니처 메뉴인 '수퍼브 팟타이'는 새우 기름으로 볶은 면을 종잇장처럼 얇은 계란 지단으로 감싸고 통통하고 신선한 새우와 함께 제공됩니다. 전설적인 갓 짜낸 오렌지 주스와 함께하면 완벽한 식사가 완성됩니다.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "와타나 파니치",
+          "type": "restaurant",
+          "description": "40년 넘게 계속해서 끓고 있는 거대한 소고기 수프 가마솥으로 유명한 유서 깊은 대물림 식당입니다. 이 씨육수 방식은 믿을 수 없을 정도로 진하고 복합적이며 깊은 풍미의 국물을 만들어냅니다. 부드럽게 푹 끓인 소고기 덩어리와 쫄깃한 면발은 전설적인 위안의 음식이 됩니다.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "짜뚜짝 주말 시장",
+          "type": "street_food",
+          "description": "방콕 최고의 쇼핑 목적지는 거대한 길거리 음식의 천국이기도 합니다. 수천 개의 노점 사이에서 방문객들은 코코넛 껍질에 담겨 나오는 상쾌한 코코넛 아이스크림으로 강렬한 더위를 식히거나 육즙이 풍부한 무삥(돼지고기 꼬치구이)을 간식으로 즐길 수 있습니다. 긴 흥정의 시간에 완벽한 요리 에너지를 제공합니다.",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "솜땀더 (실롬)",
+          "type": "restaurant",
+          "description": "정통적이고 강렬한 이산(태국 북동부) 요리를 전문으로 하는 미슐랭 추천 식당입니다. 이 식당의 주인공은 솜땀(그린 파파야 샐러드)으로, 짭짤한 게부터 발효시킨 생선까지 다양한 변형 메뉴가 있습니다. 바삭한 프라이드 치킨 및 찹쌀밥과 함께 편안한 분위기에서 태국 지역의 강렬하고 정통적인 맛을 전달합니다.",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "매바리",
+          "type": "street_food",
+          "description": "수십 년 동안 태국에서 가장 유명한 디저트를 완성해 온 통로 지역의 사랑받는 현지 명소입니다. 완벽하게 익어 믿을 수 없을 정도로 달콤한 망고를 따뜻한 코코넛 향이 나는 찹쌀밥 위에 얹고 바삭한 녹두를 토핑하여 제공합니다. 방콕의 모든 푸드 투어를 달콤하게 마무리하는 궁극의 메뉴입니다.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleurs Restaurants à Bangkok 2026 — Guide de la Street Food",
+      "seo_description": "Découvrez les meilleurs restaurants, la street food et les spécialités locales de Bangkok. De l'omelette au crabe de Jay Fai aux marchés nocturnes.",
+      "page_intro": "Bangkok est un paradis de la cuisine de rue vibrant et chaotique où les saveurs sucrées, aigres, salées et épicées se heurtent. Des woks de Yaowarat aux élégants restaurants, la scène culinaire est un festin sans fin.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "Jay Fai",
+          "type": "restaurant",
+          "description": "Un restaurant de cuisine de rue étoilé Michelin dirigé par l'emblématique chef Jay Fai. La star absolue du menu est l'omelette au crabe géante et dorée. C'est une expérience de cuisine de rue haut de gamme.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "Yaowarat (Chinatown)",
+          "type": "street_food",
+          "description": "À la tombée de la nuit, la rue éclairée aux néons se transforme en l'une des plus grandes destinations de cuisine de rue au monde. Naviguer dans la foule pour goûter plat après plat est une expérience incontournable.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "Marché nocturne de Jodd Fairs",
+          "type": "night_market",
+          "description": "Un marché nocturne moderne qui capture parfaitement la culture des jeunes de Bangkok. Il est célèbre pour abriter le 'Leng Saeb', une montagne de colonne vertébrale de porc baignée dans un bouillon épicé et aigre.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "Thipsamai",
+          "type": "restaurant",
+          "description": "Largement considéré comme le restaurant de Pad Thai le plus célèbre de Bangkok. Leur 'Superb Pad Thai' comprend des nouilles sautées à l'huile de crevettes, enveloppées dans une fine enveloppe d'œuf.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "Wattana Panich",
+          "type": "restaurant",
+          "description": "Un restaurant historique célèbre pour un chaudron massif de soupe au bœuf qui mijote en continu depuis plus de 40 ans. Cela donne un bouillon incroyablement riche et complexe.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "Marché du week-end de Chatuchak",
+          "type": "street_food",
+          "description": "La destination de shopping par excellence de Bangkok fait également office de paradis de la street food. Les visiteurs peuvent se rafraîchir avec de la glace à la noix de coco ou grignoter de juteuses brochettes de porc.",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "Som Tum Der (Silom)",
+          "type": "restaurant",
+          "description": "Un restaurant recommandé par Michelin spécialisé dans la cuisine authentique d'Isan (nord-est de la Thaïlande). La star est le Som Tum (salade de papaye verte).",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "Mae Varee",
+          "type": "street_food",
+          "description": "Une institution locale bien-aimée qui maîtrise le dessert le plus célèbre de Thaïlande depuis des décennies. Ils servent des mangues incroyablement douces sur du riz gluant infusé à la noix de coco.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Mejor Comida en Bangkok 2026 — Guía de Restaurantes y Street Food",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades de Bangkok. Desde la tortilla de cangrejo de Jay Fai hasta vibrantes mercados nocturnos.",
+      "page_intro": "Bangkok es un paraíso de comida callejera vibrante y caótico donde chocan los sabores dulce, agrio, salado y picante. Desde los ardientes woks de Yaowarat hasta elegantes restaurantes junto al río, la escena culinaria es un festín interminable.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "Jay Fai",
+          "type": "restaurant",
+          "description": "Un legendario restaurante de comida callejera con estrella Michelin dirigido por la icónica chef Jay Fai. La estrella absoluta es la enorme y dorada tortilla de cangrejo. Es una experiencia de comida callejera premium.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "Yaowarat (Chinatown)",
+          "type": "street_food",
+          "description": "Al caer la noche, la calle se transforma en uno de los mejores destinos de comida callejera del mundo. Navegar entre la multitud para probar plato tras plato es una experiencia fundamental en Bangkok.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "Mercado Nocturno Jodd Fairs",
+          "type": "night_market",
+          "description": "Un mercado nocturno moderno que captura la vibrante cultura juvenil. Es famoso por albergar el 'Leng Saeb', una montaña de espina de cerdo en un caldo de chile verde increíblemente picante y ácido.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "Thipsamai",
+          "type": "restaurant",
+          "description": "Ampliamente considerado como el restaurante de Pad Thai más famoso de Bangkok. Su 'Superb Pad Thai' presenta fideos salteados envueltos en una fina capa de huevo y servidos con langostinos frescos.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "Wattana Panich",
+          "type": "restaurant",
+          "description": "Un restaurante histórico famoso por un enorme caldero de sopa de res que ha estado hirviendo a fuego lento durante más de 40 años. Esto da como resultado un caldo increíblemente rico.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "Mercado de Fin de Semana Chatuchak",
+          "type": "street_food",
+          "description": "El destino de compras definitivo de Bangkok también funciona como un enorme paraíso de comida callejera. Los visitantes pueden refrescarse con helado de coco o probar los jugosos Moo Ping (brochetas de cerdo).",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "Som Tum Der (Silom)",
+          "type": "restaurant",
+          "description": "Un restaurante recomendado por Michelin especializado en la auténtica y ardiente cocina de Isan. La estrella del espectáculo es el Som Tum (ensalada de papaya verde).",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "Mae Varee",
+          "type": "street_food",
+          "description": "Una querida institución local que ha dominado el postre más famoso de Tailandia durante décadas. Sirven mangos increíblemente dulces sobre arroz pegajoso infundido con coco.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Bangkok 2026 — Panduan Restoran & Jajanan Pasar",
+      "seo_description": "Temukan restoran terbaik, jajanan pasar, dan makanan khas lokal di Bangkok. Dari telur dadar kepiting Michelin hingga pasar malam yang semarak.",
+      "page_intro": "Bangkok adalah surga makanan jalanan yang hidup, kacau, dan sangat mendebarkan di mana rasa manis, asam, asin, dan pedas bertabrakan. Dari kuali Yaowarat hingga restoran tepi sungai yang elegan, makanan di kota ini adalah pesta yang tiada akhir.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "Jay Fai",
+          "type": "restaurant",
+          "description": "Restoran makanan jalanan berbintang Michelin yang legendaris yang dijalankan oleh koki ikonik Jay Fai. Bintang utama di menu ini adalah telur dadar kepiting emas raksasa, dikemas dengan daging kepiting manis.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "Yaowarat (Chinatown)",
+          "type": "street_food",
+          "description": "Saat malam tiba, jalan ini berubah menjadi salah satu tujuan jajanan kaki lima terbesar di dunia. Menelusuri keramaian untuk mencicipi hidangan demi hidangan adalah pengalaman Bangkok yang hakiki.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "Pasar Malam Jodd Fairs",
+          "type": "night_market",
+          "description": "Pasar malam modern yang trendi ini terkenal dengan 'Leng Saeb', tumpukan tulang belakang babi empuk yang disiram dengan kaldu cabai hijau asam yang sangat pedas.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "Thipsamai",
+          "type": "restaurant",
+          "description": "Dianggap luas sebagai restoran Pad Thai paling terkenal di Bangkok. 'Superb Pad Thai' khas mereka menyajikan mi yang digoreng, dibungkus dalam selubung telur setipis kertas.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "Wattana Panich",
+          "type": "restaurant",
+          "description": "Restoran bersejarah yang terkenal dengan kuali besar sup daging sapi yang terus mendidih selama lebih dari 40 tahun. Hal ini menghasilkan kaldu yang luar biasa kaya dan kompleks.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "Pasar Akhir Pekan Chatuchak",
+          "type": "street_food",
+          "description": "Tujuan belanja utama di Bangkok ini juga berfungsi ganda sebagai surga jajanan kaki lima yang besar. Pengunjung dapat mendinginkan diri dengan es krim kelapa atau ngemil Moo Ping.",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "Som Tum Der (Silom)",
+          "type": "restaurant",
+          "description": "Restoran yang direkomendasikan Michelin dengan spesialisasi masakan Isan (Timur Laut Thailand) yang otentik dan berapi-api. Bintang pertunjukannya adalah Som Tum (salad pepaya hijau).",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "Mae Varee",
+          "type": "street_food",
+          "description": "Institusi lokal yang telah menguasai hidangan penutup paling terkenal di Thailand selama beberapa dekade. Mereka menyajikan mangga di atas ketan yang diresapi santan hangat.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "बैंकॉक में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फूड गाइड",
+      "seo_description": "बैंकॉक में सर्वश्रेष्ठ रेस्तरां, स्ट्रीट फूड और स्थानीय विशिष्टताओं की खोज करें। मिशेलिन-तारांकित क्रैब ऑमलेट से लेकर नाइट मार्केट तक।",
+      "page_intro": "बैंकॉक एक जीवंत और पूरी तरह से रोमांचकारी स्ट्रीट फूड स्वर्ग है जहां मीठे, खट्टे, नमकीन और मसालेदार स्वाद टकराते हैं। याओवराट के सुलगते कड़ाही से लेकर सुरुचिपूर्ण डाइनिंग तक, भोजन का दृश्य एक अंतहीन दावत है।",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "जे फाई",
+          "type": "restaurant",
+          "description": "प्रतिष्ठित शेफ जे फाई द्वारा संचालित एक महान मिशेलिन-तारांकित स्ट्रीट फूड भोजनालय। मेनू का पूर्ण सितारा विशाल क्रैब ऑमलेट है, जो केकड़े के मांस के टुकड़ों से भरा है।",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "याओवराट (चाइनाटाउन)",
+          "type": "street_food",
+          "description": "रात होते ही, यह सड़क दुनिया के सबसे बड़े स्ट्रीट फूड स्थलों में से एक में बदल जाती है। एक के बाद एक पकवान का स्वाद लेने के लिए भीड़ में घूमना बैंकॉक का एक सर्वोत्कृष्ट अनुभव है।",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "जोड फेयर्स नाइट मार्केट",
+          "type": "night_market",
+          "description": "एक ट्रेंडी, आधुनिक नाइट मार्केट जो युवा संस्कृति को पकड़ता है। यह 'लेंग सेब' का घर है, जो एक अविश्वसनीय रूप से मसालेदार, खट्टे हरी मिर्च के शोरबे में पोर्क की रीढ़ का पहाड़ है।",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "थिप्समाई",
+          "type": "restaurant",
+          "description": "बैंकॉक में सबसे प्रसिद्ध पैड थाई रेस्तरां माना जाता है। उनके 'शानदार पैड थाई' में झींगा तेल के साथ तली हुई नूडल्स हैं, जिन्हें अंडे के लिफाफे में लपेटा गया है।",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "वट्टना पैनिच",
+          "type": "restaurant",
+          "description": "एक ऐतिहासिक रेस्तरां जो बीफ सूप की एक विशाल कड़ाही के लिए प्रसिद्ध है जो 40 से अधिक वर्षों से उबल रहा है। इसका परिणाम अविश्वसनीय रूप से समृद्ध शोरबा है।",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "चटुचक वीकेंड मार्केट",
+          "type": "street_food",
+          "description": "बैंकॉक में खरीदारी का अंतिम गंतव्य एक बड़े स्ट्रीट फूड हेवन के रूप में भी दोगुना है। आगंतुक नारियल के खोल में परोसे गए नारियल आइसक्रीम के साथ ठंडे हो सकते हैं या मू पिंग पर नाश्ता कर सकते हैं।",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "सोम टम डेर (सिलोम)",
+          "type": "restaurant",
+          "description": "प्रामाणिक इसान व्यंजनों के विशेषज्ञ एक मिशेलिन-अनुशंसित भोजनालय। शो का सितारा सोम टम (हरा पपीता सलाद) है।",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "मे वारी",
+          "type": "street_food",
+          "description": "थोंग लो में एक प्रिय स्थानीय संस्थान जो दशकों से थाईलैंड के सबसे प्रसिद्ध मिठाई में महारत हासिल कर रहा है। वे गर्म स्टिकी चावल पर अविश्वसनीय रूप से मीठे आम परोसते हैं।",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Bangkok 2026 — Guia de Restaurantes e Street Food",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais de Bangkok. Da omelete de caranguejo de Jay Fai a vibrantes mercados noturnos.",
+      "page_intro": "Bangkok é um paraíso de comida de rua vibrante, caótico e emocionante, onde os sabores doce, azedo, salgado e picante se chocam. Das woks de Yaowarat às elegantes refeições à beira-rio, a cena gastronômica é um banquete sem fim.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "Jay Fai",
+          "type": "restaurant",
+          "description": "Um lendário restaurante de comida de rua com estrela Michelin administrado pela icônica chef Jay Fai. A estrela absoluta do menu é a enorme omelete de caranguejo. É uma experiência premium de comida de rua.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "Yaowarat (Chinatown)",
+          "type": "street_food",
+          "description": "Ao cair da noite, esta rua se transforma em um dos maiores destinos de comida de rua do mundo. Navegar pelas multidões para provar prato após prato é uma experiência essencial em Bangkok.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "Mercado Noturno Jodd Fairs",
+          "type": "night_market",
+          "description": "Um mercado noturno moderno que captura perfeitamente a vibrante cultura jovem. É famoso por abrigar o 'Leng Saeb', uma montanha de espinha de porco em um caldo de pimentão verde incrivelmente picante e azedo.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "Thipsamai",
+          "type": "restaurant",
+          "description": "Considerado o restaurante de Pad Thai mais famoso de Bangkok. Seu 'Superb Pad Thai' apresenta macarrão frito com óleo de camarão, embrulhado em um envelope fino de ovo.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "Wattana Panich",
+          "type": "restaurant",
+          "description": "Um restaurante histórico famoso por um enorme caldeirão de sopa de carne que ferve continuamente por mais de 40 anos. Isso resulta em um caldo incrivelmente rico e complexo.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "Mercado de Fim de Semana Chatuchak",
+          "type": "street_food",
+          "description": "O principal destino de compras de Bangkok também funciona como um enorme paraíso da comida de rua. Os visitantes podem se refrescar com sorvete de coco ou lanchar Moo Ping (espetinhos de porco).",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "Som Tum Der (Silom)",
+          "type": "restaurant",
+          "description": "Um restaurante recomendado pelo Michelin especializado na culinária autêntica de Isan. A estrela do show é o Som Tum (salada de mamão verde).",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "Mae Varee",
+          "type": "street_food",
+          "description": "Uma adorada instituição local que domina a sobremesa mais famosa da Tailândia há décadas. Eles servem mangas incrivelmente doces sobre arroz pegajoso com infusão de coco.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل طعام في بانكوك 2026 — دليل أفضل المطاعم وأكل الشوارع",
+      "seo_description": "اكتشف أفضل المطاعم وأكل الشوارع والتخصصات في بانكوك. من عجة سلطعون جاي فاي إلى الأسواق الليلية النابضة بالحياة.",
+      "page_intro": "بانكوك هي جنة طعام شوارع نابضة بالحياة وفوضوية ومثيرة للغاية حيث تتصادم النكهات الحلوة والحامضة والمالحة والحارة. من مقالي ياوارات إلى تناول الطعام الأنيق، تعد مشهد الطعام وليمة لا نهاية لها.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "جاي فاي",
+          "type": "restaurant",
+          "description": "مطعم طعام شوارع أسطوري حائز على نجمة ميشلان تديره الشيف الشهيرة جاي فاي. النجم المطلق للقائمة هو عجة السلطعون الذهبية الضخمة. إنها تجربة طعام شوارع فاخرة.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "ياوارات (الحي الصيني)",
+          "type": "street_food",
+          "description": "مع حلول الظلام، يتحول الشارع إلى أحد أعظم وجهات طعام الشوارع في العالم. إن التنقل عبر الحشود لتذوق طبق تلو الآخر هو تجربة بانكوك المثالية.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "سوق جود فيرز الليلي",
+          "type": "night_market",
+          "description": "سوق ليلي عصري يجسد ثقافة الشباب النابضة بالحياة. يشتهر بكونه موطنًا لـ 'لينج سيب'، وهو جبل من عمود الخنزير مغمور في مرق فلفل أخضر حار وحامض بشكل لا يصدق.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "ثيبساماي",
+          "type": "restaurant",
+          "description": "يعتبر على نطاق واسع أشهر مطعم باد تاي في بانكوك. يتميز 'سوبرب باد تاي' الخاص بهم بالمعكرونة المقلية بزيت الروبيان، وملفوفة في غلاف بيض رقيق.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "واتانا بانيتش",
+          "type": "restaurant",
+          "description": "مطعم تاريخي يشتهر بمرجل ضخم من حساء اللحم البقري الذي كان يغلي باستمرار لأكثر من 40 عامًا. وينتج عن ذلك مرق غني ومعقد بشكل لا يصدق.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "سوق عطلة نهاية الأسبوع في تشاتوتشاك",
+          "type": "street_food",
+          "description": "تتضاعف وجهة التسوق النهائية في بانكوك أيضًا كملاذ ضخم لطعام الشوارع. يمكن للزوار تناول آيس كريم جوز الهند أو تناول وجبة خفيفة من مو بينغ.",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "سوم توم دير (سيلوم)",
+          "type": "restaurant",
+          "description": "مطعم موصى به من ميشلان متخصص في مأكولات إيسان الأصلية. نجم العرض هو سوم توم (سلطة البابايا الخضراء).",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "ماي فاري",
+          "type": "street_food",
+          "description": "مؤسسة محلية محبوبة تتقن أشهر حلوى في تايلاند لعقود. يقدمون مانجو حلوة بشكل لا يصدق على أرز لزج دافئ منقوع بجوز الهند.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ব্যাংককের সেরা খাবার 2026 - রেস্টুরেন্ট এবং স্ট্রিট ফুড গাইড",
+      "seo_description": "ব্যাংককের সেরা রেস্তোরাঁ, স্ট্রিট ফুড এবং স্থানীয় খাবার আবিষ্কার করুন। মিশেলিন-তারকাযুক্ত কাঁকড়ার অমলেট থেকে শুরু করে প্রাণবন্ত রাতের বাজার পর্যন্ত।",
+      "page_intro": "ব্যাংকক একটি প্রাণবন্ত, বিশৃঙ্খল এবং অত্যন্ত রোমাঞ্চকর রাস্তার খাবারের স্বর্গ যেখানে মিষ্টি, টক, নোনতা এবং মশলাদার স্বাদগুলি মিলে যায়। ইয়াওওয়ারাতের জ্বলন্ত ওয়াক থেকে শুরু করে মার্জিত ডাইনিং পর্যন্ত, খাবারের দৃশ্য একটি অবিরাম ভোজ।",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "জে ফাই",
+          "type": "restaurant",
+          "description": "আইকনিক শেফ জে ফাই দ্বারা পরিচালিত একটি কিংবদন্তি মিশেলিন-তারকাযুক্ত স্ট্রিট ফুড রেস্তোরাঁ। মেনুর পরম তারকা হ'ল বিশাল কাঁকড়ার অমলেট, মিষ্টি কাঁকড়ার মাংসে পরিপূর্ণ।",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "ইয়াওওয়ারাত (চায়নাটাউন)",
+          "type": "street_food",
+          "description": "রাতের আগমনের সাথে সাথে এই রাস্তাটি বিশ্বের অন্যতম সেরা স্ট্রিট ফুড গন্তব্যে রূপান্তরিত হয়। একের পর এক থালা চেখে দেখার জন্য ভিড়ের মধ্যে ঘোরাঘুরি করা একটি সর্বশ্রেষ্ঠ ব্যাংকক অভিজ্ঞতা।",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "জড ফেয়ারস নাইট মার্কেট",
+          "type": "night_market",
+          "description": "একটি ট্রেন্ডি, আধুনিক রাতের বাজার যা ব্যাংককের প্রাণবন্ত যুব সংস্কৃতিকে ক্যাপচার করে। এটি 'লেং সায়েব' এর জন্য বিখ্যাত, যা একটি অবিশ্বাস্যভাবে মশলাদার, টক সবুজ মরিচের ঝোলের মধ্যে শুয়োরের মাংসের মেরুদণ্ডের পাহাড়।",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "থিপসামাই",
+          "type": "restaurant",
+          "description": "ব্যাংককের সবচেয়ে বিখ্যাত প্যাড থাই রেস্তোরাঁ হিসাবে বিবেচিত। তাদের 'সুপারব প্যাড থাই' তে চিংড়ির তেল দিয়ে ভাজা নুডলস রয়েছে, যা কাগজের মতো পাতলা ডিমের খামে মোড়ানো।",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "ওয়াত্তানা পানিচ",
+          "type": "restaurant",
+          "description": "একটি ঐতিহাসিক রেস্তোরাঁ যা গরুর মাংসের স্যুপের একটি বিশাল কড়াহির জন্য বিখ্যাত যা 40 বছরেরও বেশি সময় ধরে সিদ্ধ হচ্ছে। এটি একটি অবিশ্বাস্যভাবে সমৃদ্ধ ঝোল তৈরি করে।",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "চাতুচাক উইকেন্ড মার্কেট",
+          "type": "street_food",
+          "description": "ব্যাংককের চূড়ান্ত শপিং গন্তব্যটি একটি বিশাল স্ট্রিট ফুড হেভেন হিসাবেও দ্বিগুণ। দর্শনার্থীরা নারকেল আইসক্রিমের সাথে শান্ত হতে পারেন বা মু পিং এ স্নাক করতে পারেন।",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "সোম তুম ডের (সিলোম)",
+          "type": "restaurant",
+          "description": "প্রামাণিক ইসান (উত্তর-পূর্ব থাই) খাবারে বিশেষজ্ঞ একটি মিশেলিন-প্রস্তাবিত ভোজনালয়। শোটির তারকা হলেন সোম তুম (সবুজ পেঁপের সালাদ)।",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "মায়ে ভারি",
+          "type": "street_food",
+          "description": "থং লোর একটি প্রিয় স্থানীয় প্রতিষ্ঠান যা কয়েক দশক ধরে থাইল্যান্ডের সবচেয়ে বিখ্যাত মিষ্টি তৈরি করে আসছে। তারা নারকেল যুক্ত স্টিকি ভাতের উপরে অবিশ্বাস্যভাবে মিষ্টি আম পরিবেশন করে।",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшая еда в Бангкоке 2026 — Гид по ресторанам и уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Бангкоке. От крабового омлета Jay Fai до ночных рынков.",
+      "page_intro": "Бангкок — это яркий и хаотичный рай уличной еды, где сталкиваются сладкие, кислые, соленые и острые вкусы. От обжигающих воков Яоварата до элегантных ресторанов, еда здесь — это бесконечный праздник.",
+      "items": [
+        {
+          "id": "jay-fai-bangkok",
+          "name": "Jay Fai",
+          "type": "restaurant",
+          "description": "Легендарная закусочная уличной еды, отмеченная звездой Мишлен, которой управляет культовый шеф-повар Джей Фай. Абсолютной звездой меню является массивный золотистый крабовый омлет.",
+          "image_keyword": "jay fai crab omelette bangkok",
+          "star_rating": 4.6,
+          "price_range": "$$$",
+          "must_try": "Crab Omelette (Kai Jeaw Poo)",
+          "klook_query": "Jay Fai Bangkok reservation"
+        },
+        {
+          "id": "yaowarat-chinatown-street-food",
+          "name": "Яоварат (Чайнатаун)",
+          "type": "street_food",
+          "description": "С наступлением ночи эта улица превращается в одно из величайших мест уличной еды в мире. Пробираться сквозь толпу, чтобы пробовать одно блюдо за другим — это квинтэссенция Бангкока.",
+          "image_keyword": "yaowarat chinatown bangkok street food",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Grilled Seafood and Peppery Guay Jub",
+          "klook_query": "Bangkok Chinatown Food Tour"
+        },
+        {
+          "id": "jodd-fairs-night-market",
+          "name": "Ночной рынок Jodd Fairs",
+          "type": "night_market",
+          "description": "Модный современный ночной рынок, в котором идеально отражена молодежная культура. Он известен благодаря 'Ленг Саэб', горе свиного позвоночника, политого невероятно острым бульоном.",
+          "image_keyword": "jodd fairs bangkok leng saeb",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Leng Saeb (Spicy Pork Spine Soup)",
+          "klook_query": "Jodd Fairs Night Market Bangkok"
+        },
+        {
+          "id": "thipsamai-pad-thai",
+          "name": "Thipsamai",
+          "type": "restaurant",
+          "description": "Широко известен как самый популярный ресторан Пад Тай в Бангкоке. Их 'Superb Pad Thai' — это лапша, обжаренная с креветочным маслом и завернутая в тонкий конверт из яиц.",
+          "image_keyword": "thipsamai pad thai bangkok",
+          "star_rating": 4.3,
+          "price_range": "$$",
+          "must_try": "Superb Pad Thai wrapped in Egg",
+          "klook_query": "Thipsamai Pad Thai Bangkok"
+        },
+        {
+          "id": "wattana-panich-beef-broth",
+          "name": "Wattana Panich",
+          "type": "restaurant",
+          "description": "Исторический ресторан, известный огромным котлом с говяжьим супом, который непрерывно кипит уже более 40 лет. В результате получается невероятно наваристый бульон.",
+          "image_keyword": "wattana panich beef soup giant pot",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Beef Noodle Soup",
+          "klook_query": "Bangkok local food tour"
+        },
+        {
+          "id": "chatuchak-weekend-market",
+          "name": "Рынок выходного дня Чатучак",
+          "type": "street_food",
+          "description": "Главное место для шоппинга в Бангкоке также является огромным раем для любителей уличной еды. Посетители могут освежиться кокосовым мороженым или перекусить Му Пинг.",
+          "image_keyword": "chatuchak market coconut ice cream",
+          "star_rating": 4.4,
+          "price_range": "$",
+          "must_try": "Coconut Ice Cream and Moo Ping",
+          "klook_query": "Chatuchak Weekend Market"
+        },
+        {
+          "id": "som-tum-der-silom",
+          "name": "Som Tum Der (Силом)",
+          "type": "restaurant",
+          "description": "Ресторан, рекомендованный гидом Мишлен, специализирующийся на аутентичной, жгучей исанской кухне. Звезда шоу — Сом Там (салат из зеленой папайи).",
+          "image_keyword": "som tum der papaya salad bangkok",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Som Tum (Green Papaya Salad) and Fried Chicken",
+          "klook_query": "Bangkok Michelin food guide"
+        },
+        {
+          "id": "mae-varee-mango-sticky-rice",
+          "name": "Mae Varee",
+          "type": "street_food",
+          "description": "Любимое местное заведение, которое десятилетиями готовит самый знаменитый десерт Таиланда. Они подают невероятно сладкое манго с теплым клейким рисом.",
+          "image_keyword": "mae varee mango sticky rice bangkok",
+          "star_rating": 4.6,
+          "price_range": "$",
+          "must_try": "Mango Sticky Rice (Khao Niao Mamuang)",
+          "klook_query": "Thong Lo food guide"
+        }
+      ]
+    }
+  }
+}

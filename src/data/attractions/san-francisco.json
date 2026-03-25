@@ -1,0 +1,1097 @@
+{
+  "city_slug": "san-francisco",
+  "translations": {
+    "en": {
+      "seo_title": "Top Attractions in San Francisco 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in San Francisco. Find opening hours, ticket prices and booking links for San Francisco's top landmarks.",
+      "page_intro": "San Francisco, known for its iconic Golden Gate Bridge and vibrant cultural scene, is a must-visit destination. From historic landmarks to stunning parks and engaging museums, this city offers a diverse range of attractions for every traveler. Experience the blend of natural beauty and urban excitement that makes San Francisco unique.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "Golden Gate Bridge",
+          "type": "landmark",
+          "description": "The Golden Gate Bridge is an engineering marvel and a symbol of San Francisco. Spanning 1.7 miles, it offers breathtaking views of the bay and city. Visitors can walk or bike across the bridge for an unforgettable experience. Allocate about 1-2 hours to fully enjoy the views and take photos.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "Alcatraz Island",
+          "type": "landmark",
+          "description": "Alcatraz Island, once a notorious federal prison, is now a fascinating historical site. Guided tours include an audio experience featuring stories from former inmates and guards. Plan to spend about 2-3 hours exploring the island and taking in the stunning views of the city skyline. Tickets can sell out quickly, so book in advance.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "Golden Gate Park",
+          "type": "park",
+          "description": "Golden Gate Park is a sprawling urban oasis offering gardens, lakes, and museums. It’s perfect for a leisurely stroll, picnicking, or visiting the de Young Museum and California Academy of Sciences located within the park. Dedicate at least half a day to fully explore the diverse attractions and natural beauty.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "San Francisco Museum of Modern Art (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA is one of the largest modern and contemporary art museums in the country, featuring an impressive collection from artists like Andy Warhol and Jackson Pollock. The museum also hosts rotating exhibitions and offers interactive experiences. Plan for a 2-3 hour visit to fully appreciate the diverse artworks.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "San Francisco's Chinatown is the oldest and one of the largest in North America. Explore its bustling streets filled with shops, restaurants, and cultural sites. Don't miss the famous Dragon Gate and the Fortune Cookie Factory. A visit can take around 1-2 hours, especially if you stop for dim sum or souvenirs.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "Japanese Tea Garden",
+          "type": "temple",
+          "description": "The Japanese Tea Garden in Golden Gate Park is a tranquil retreat featuring beautiful landscapes, koi ponds, and stunning plant varieties. It’s perfect for relaxation and reflection. Allocate about 1-2 hours to wander through the serene pathways and enjoy traditional tea in the tea house. It's a peaceful escape from the city's hustle.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "Exploratorium",
+          "type": "museum",
+          "description": "The Exploratorium is a unique museum dedicated to science, art, and human perception. With over 600 interactive exhibits, it's a fun and educational experience for all ages. Plan to spend at least 2-3 hours exploring the hands-on exhibits and enjoying the waterfront views. Tickets are available online for convenience.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "2026年舊金山最佳景點 — 門票、提示及完整指南",
+      "seo_description": "探索舊金山最佳景點。了解開放時間、門票價格及舊金山主要地標的預訂連結。",
+      "page_intro": "舊金山以其標誌性的金門大橋和充滿活力的文化景觀而聞名，是一個必訪的目的地。從歷史地標到壯觀的公園和引人入勝的博物館，這座城市為每位旅客提供多樣化的景點。體驗自然之美與城市激情的融合，使舊金山獨一無二。",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "金門大橋",
+          "type": "landmark",
+          "description": "金門大橋是一項工程奇蹟，也是舊金山的象徵。橫跨1.7英里，提供令人驚嘆的海灣和城市景觀。遊客可以步行或騎自行車穿越大橋，享受難忘的體驗。預留約1-2小時來充分欣賞風景並拍攝照片。",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "阿爾卡特拉斯島",
+          "type": "landmark",
+          "description": "阿爾卡特拉斯島曾是臭名昭著的聯邦監獄，現在是一個迷人的歷史遺址。導覽遊包括音頻體驗，講述前囚犯和警衛的故事。計劃花費約2-3小時探索這個島嶼，欣賞壯觀的城市天際線。門票可能會迅速售罄，因此請提前預訂。",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "金門公園",
+          "type": "park",
+          "description": "金門公園是一片廣闊的城市綠洲，提供花園、湖泊和博物館。非常適合悠閒漫步、野餐或參觀位於公園內的德揚博物館和加州科學院。至少花半天的時間來充分探索多樣的景點和自然之美。",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "舊金山現代藝術博物館 (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA是全國最大的現代和當代藝術博物館之一，擁有安迪·沃霍爾和傑克遜·波洛克等藝術家的令人印象深刻的收藏。博物館還舉辦輪流展覽並提供互動體驗。計劃花費2-3小時來充分欣賞各種藝術作品。",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "中國城",
+          "type": "district",
+          "description": "舊金山的中國城是北美最古老、最大的一個。探索充滿商店、餐廳和文化景點的繁忙街道。不要錯過著名的龍門和幸運餅乾工廠。參觀大約需要1-2小時，特別是如果你停下來吃點心或購買紀念品。",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "日本茶園",
+          "type": "temple",
+          "description": "金門公園內的日本茶園是一個寧靜的休憩場所，擁有美麗的風景、鯉魚池和壯觀的植物品種。非常適合放鬆和反思。預留約1-2小時在寧靜的小徑中漫步，並在茶館享用傳統茶。這是逃離城市喧囂的和平之地。",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "探索館",
+          "type": "museum",
+          "description": "探索館是一個獨特的博物館，專注於科學、藝術和人類感知。擁有超過600個互動展品，對所有年齡段的遊客來說都是一個有趣且有教育意義的體驗。計劃至少花2-3小時探索這些動手展品並欣賞海濱景觀。門票可在線購買，方便快捷。",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "2026年サンフランシスコのトップアトラクション — チケット、ヒント、完全ガイド",
+      "seo_description": "サンフランシスコのベストアトラクションを探索します。オープン時間、チケット価格、サンフランシスコの主要ランドマークの予約リンクを見つけます。",
+      "page_intro": "サンフランシスコは、その象徴的なゴールデンゲートブリッジと活気のある文化シーンで知られ、訪れる価値のある目的地です。歴史的なランドマークから美しい公園、魅力的な博物館まで、この街はすべての旅行者に多様なアトラクションを提供します。サンフランシスコのユニークさを生み出す自然の美しさと都市の魅力のブレンドを体験してください。",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "ゴールデンゲートブリッジ",
+          "type": "landmark",
+          "description": "ゴールデンゲートブリッジは、エンジニアリングの驚異であり、サンフランシスコの象徴です。1.7マイルにわたって広がり、湾や街の絶景を提供します。訪問者は、忘れられない体験のために橋を歩いたり、自転車で渡ったりできます。景色を十分に楽しみ、写真を撮るために約1-2時間を確保してください。",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "アルカトラズ島",
+          "type": "landmark",
+          "description": "かつて悪名高い連邦刑務所であったアルカトラズ島は、現在は魅力的な歴史的サイトです。ガイド付きツアーには、元囚人や警備員の話を含むオーディオ体験が含まれています。島を探索し、街のスカイラインの素晴らしい景色を楽しむために約2-3時間を計画してください。チケットはすぐに売り切れることがあるので、事前に予約してください。",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "ゴールデンゲートパーク",
+          "type": "park",
+          "description": "ゴールデンゲートパークは、庭園、湖、博物館を提供する広大な都市のオアシスです。のんびりと散歩したり、ピクニックをしたり、公園内にあるデ・ヤング美術館やカリフォルニア科学アカデミーを訪れるのに最適です。多様なアトラクションと自然の美しさを十分に探索するために、少なくとも半日を確保してください。",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "サンフランシスコ近代美術館 (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMAは、国内最大の現代美術館の一つであり、アンディ・ウォーホルやジャクソン・ポロックなどのアーティストからの印象的なコレクションを特徴としています。博物館ではローテーション展を開催し、インタラクティブな体験も提供しています。多様なアート作品を十分に鑑賞するために、2-3時間の訪問を計画してください。",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "チャイナタウン",
+          "type": "district",
+          "description": "サンフランシスコのチャイナタウンは、北アメリカで最も古く、最大のものです。ショップ、レストラン、文化的なスポットが並ぶ賑やかな通りを探索してください。有名なドラゴンゲートやフォーチュンクッキー工場を見逃さないでください。点心やお土産に立ち寄ると、訪問には約1-2時間かかります。",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "日本茶園",
+          "type": "temple",
+          "description": "ゴールデンゲートパーク内の日本茶園は、美しい風景、鯉の池、驚くべき植物の品種を特徴とする静かなリトリートです。リラックスと瞑想に最適です。静かな小道を散策し、茶室で伝統的な茶を楽しむために約1-2時間を確保してください。都市の喧騒からの平和な逃避場所です。",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "エクスプロラトリアム",
+          "type": "museum",
+          "description": "エクスプロラトリアムは、科学、アート、人間の知覚に特化したユニークな博物館です。600以上のインタラクティブな展示があり、すべての年齢層にとって楽しく教育的な体験です。ハンズオン展示を探求し、海辺の景色を楽しむために、少なくとも2-3時間を計画してください。チケットはオンラインで便利に購入できます。",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "2026년 샌프란시스코 최고의 명소 — 티켓, 팁 및 완벽 가이드",
+      "seo_description": "샌프란시스코 최고의 명소를 탐험하세요. 운영 시간, 티켓 가격 및 샌프란시스코의 주요 랜드마크 예약 링크를 찾으세요.",
+      "page_intro": "샌프란시스코는 상징적인 금문교와 활기찬 문화 현장으로 유명한 필수 방문지입니다. 역사적인 랜드마크부터 아름다운 공원과 매력적인 박물관까지, 이 도시는 모든 여행자에게 다양한 명소를 제공합니다. 샌프란시스코의 독특함을 만들어내는 자연의 아름다움과 도시의 매력을 경험하세요.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "금문교",
+          "type": "landmark",
+          "description": "금문교는 공학의 경이로움이자 샌프란시스코의 상징입니다. 1.7마일에 걸쳐 펼쳐져 있으며, 만과 도시의 숨막히는 전망을 제공합니다. 방문객들은 잊을 수 없는 경험을 위해 다리를 걸어가거나 자전거를 타고 건널 수 있습니다. 풍경을 충분히 즐기고 사진을 찍기 위해 약 1-2시간을 할애하세요.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "알카트라즈 섬",
+          "type": "landmark",
+          "description": "한때 악명 높은 연방 교도소였던 알카트라즈 섬은 현재 매력적인 역사적 장소입니다. 가이드 투어에는 이전 수감자와 경비원의 이야기를 담은 오디오 경험이 포함되어 있습니다. 섬을 탐험하고 도시 스카이라인의 멋진 전망을 감상하는 데 약 2-3시간을 계획하세요. 티켓은 빠르게 매진될 수 있으므로 미리 예약하세요.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "금문공원",
+          "type": "park",
+          "description": "금문공원은 정원, 호수, 박물관을 제공하는 광활한 도시 오아시스입니다. 여유롭게 산책하거나 소풍을 즐기거나 공원에 위치한 드 영 미술관과 캘리포니아 과학 아카데미를 방문하기에 적합합니다. 다양한 명소와 자연의 아름다움을 충분히 탐험하려면 최소 반나절을 할애하세요.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "샌프란시스코 현대 미술관 (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA는 국내에서 가장 큰 현대 미술관 중 하나로, 앤디 워홀과 잭슨 폴록과 같은 예술가들의 인상적인 컬렉션을 자랑합니다. 박물관에서는 순환 전시를 개최하며 인터랙티브한 경험도 제공합니다. 다양한 예술 작품을 충분히 감상하기 위해 2-3시간의 방문을 계획하세요.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "차이나타운",
+          "type": "district",
+          "description": "샌프란시스코의 차이나타운은 북미에서 가장 오래되고 가장 큰 곳입니다. 상점, 레스토랑, 문화 명소로 가득한 번화한 거리를 탐험하세요. 유명한 드래곤 게이트와 포춘 쿠키 공장을 놓치지 마세요. 점심이나 기념품을 사기 위해 멈춘다면 방문에는 약 1-2시간이 걸립니다.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "일본 다원",
+          "type": "temple",
+          "description": "금문공원에 있는 일본 다원은 아름다운 풍경, 코이 연못, 놀라운 식물 품종을 갖춘 평화로운 휴식처입니다. 휴식과 반성에 적합합니다. 조용한 길을 따라 산책하고 다원에서 전통 차를 즐기기 위해 약 1-2시간을 할애하세요. 도시의 분주함에서 벗어난 평화로운 도피처입니다.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "탐험관",
+          "type": "museum",
+          "description": "탐험관은 과학, 예술 및 인간 인식에 헌신하는 독특한 박물관입니다. 600개 이상의 인터랙티브한 전시물이 있어 모든 연령대에 흥미롭고 교육적인 경험을 제공합니다. 실습 전시를 탐험하고 해변 전망을 즐기기 위해 최소 2-3시간을 계획하세요. 티켓은 온라인에서 편리하게 구입할 수 있습니다.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Attractions incontournables à San Francisco 2026 — Billets, conseils et guide complet",
+      "seo_description": "Découvrez les meilleures attractions de San Francisco. Trouvez les horaires d'ouverture, les prix des billets et les liens de réservation pour les principaux monuments de San Francisco.",
+      "page_intro": "San Francisco, connue pour son emblématique Golden Gate Bridge et sa scène culturelle vibrante, est une destination incontournable. Des monuments historiques aux parcs magnifiques et aux musées captivants, cette ville offre une variété d'attractions pour chaque voyageur. Découvrez le mélange de beauté naturelle et d'excitation urbaine qui rend San Francisco unique.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "Golden Gate Bridge",
+          "type": "landmark",
+          "description": "Le Golden Gate Bridge est une merveille d'ingénierie et un symbole de San Francisco. S'étendant sur 1,7 mile, il offre des vues à couper le souffle sur la baie et la ville. Les visiteurs peuvent marcher ou faire du vélo à travers le pont pour une expérience inoubliable. Prévoyez environ 1 à 2 heures pour profiter pleinement des vues et prendre des photos.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "Île d'Alcatraz",
+          "type": "landmark",
+          "description": "L'île d'Alcatraz, autrefois une prison fédérale notoire, est maintenant un site historique fascinant. Les visites guidées comprennent une expérience audio avec des histoires d'anciens détenus et gardiens. Prévoyez environ 2 à 3 heures pour explorer l'île et profiter des superbes vues sur la ligne d'horizon de la ville. Les billets peuvent se vendre rapidement, alors réservez à l'avance.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "Golden Gate Park",
+          "type": "park",
+          "description": "Le Golden Gate Park est une vaste oasis urbaine offrant des jardins, des lacs et des musées. Il est parfait pour une promenade tranquille, un pique-nique ou pour visiter le de Young Museum et l'Académie des sciences de Californie situés dans le parc. Prévoyez au moins une demi-journée pour explorer pleinement les diverses attractions et la beauté naturelle.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "Musée d'art moderne de San Francisco (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA est l'un des plus grands musées d'art moderne et contemporain du pays, présentant une impressionnante collection d'artistes tels qu'Andy Warhol et Jackson Pollock. Le musée organise également des expositions tournantes et propose des expériences interactives. Prévoyez une visite de 2 à 3 heures pour apprécier pleinement les œuvres d'art variées.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "Le Chinatown de San Francisco est le plus ancien et l'un des plus grands d'Amérique du Nord. Explorez ses rues animées remplies de boutiques, de restaurants et de sites culturels. Ne manquez pas la célèbre Dragon Gate et la fabrique de biscuits de la fortune. Une visite peut prendre environ 1 à 2 heures, surtout si vous faites une pause pour déguster des dim sum ou acheter des souvenirs.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "Jardin japonais",
+          "type": "temple",
+          "description": "Le jardin japonais dans le Golden Gate Park est un refuge tranquille avec de magnifiques paysages, des étangs à koi et des variétés de plantes époustouflantes. C'est parfait pour la détente et la réflexion. Prévoyez environ 1 à 2 heures pour flâner dans les allées sereines et déguster du thé traditionnel dans la maison de thé. C'est une échappatoire paisible au tumulte de la ville.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "Exploratorium",
+          "type": "museum",
+          "description": "L'Exploratorium est un musée unique dédié à la science, à l'art et à la perception humaine. Avec plus de 600 expositions interactives, c'est une expérience amusante et éducative pour tous les âges. Prévoyez au moins 2 à 3 heures pour explorer les expositions pratiques et profiter des vues sur le front de mer. Les billets sont disponibles en ligne pour plus de commodité.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "Principales Atracciones en San Francisco 2026 — Entradas, Consejos y Guía Completa",
+      "seo_description": "Explora las mejores atracciones en San Francisco. Encuentra horarios de apertura, precios de entradas y enlaces de reserva para los principales monumentos de San Francisco.",
+      "page_intro": "San Francisco, conocida por su icónico Puente Golden Gate y su vibrante escena cultural, es un destino que no te puedes perder. Desde monumentos históricos hasta parques impresionantes y museos cautivadores, esta ciudad ofrece una variedad de atracciones para cada viajero. Experimenta la mezcla de belleza natural y emoción urbana que hace que San Francisco sea única.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "Puente Golden Gate",
+          "type": "landmark",
+          "description": "El Puente Golden Gate es una maravilla de la ingeniería y un símbolo de San Francisco. Con una extensión de 1.7 millas, ofrece impresionantes vistas de la bahía y la ciudad. Los visitantes pueden caminar o andar en bicicleta a través del puente para una experiencia inolvidable. Reserva alrededor de 1 a 2 horas para disfrutar plenamente de las vistas y tomar fotos.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "Isla de Alcatraz",
+          "type": "landmark",
+          "description": "La Isla de Alcatraz, una vez una notoria prisión federal, es ahora un fascinante sitio histórico. Las visitas guiadas incluyen una experiencia de audio con historias de ex reclusos y guardias. Planea pasar alrededor de 2 a 3 horas explorando la isla y disfrutando de las impresionantes vistas del horizonte de la ciudad. Las entradas pueden agotarse rápidamente, por lo que es recomendable reservar con anticipación.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "Parque Golden Gate",
+          "type": "park",
+          "description": "El Parque Golden Gate es un amplio oasis urbano que ofrece jardines, lagos y museos. Es perfecto para pasear, hacer un picnic o visitar el Museo de Young y la Academia de Ciencias de California, que se encuentran dentro del parque. Dedica al menos medio día para explorar completamente las diversas atracciones y la belleza natural.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "Museo de Arte Moderno de San Francisco (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA es uno de los museos de arte moderno y contemporáneo más grandes del país, con una impresionante colección de artistas como Andy Warhol y Jackson Pollock. El museo también alberga exposiciones temporales y ofrece experiencias interactivas. Planea una visita de 2 a 3 horas para apreciar completamente las diversas obras de arte.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "El Chinatown de San Francisco es el más antiguo y uno de los más grandes de América del Norte. Explora sus calles bulliciosas llenas de tiendas, restaurantes y sitios culturales. No te pierdas la famosa Puerta del Dragón y la Fábrica de Galletas de la Fortuna. Una visita puede durar alrededor de 1 a 2 horas, especialmente si te detienes a comer dim sum o comprar souvenirs.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "Jardín Japonés",
+          "type": "temple",
+          "description": "El Jardín Japonés en el Parque Golden Gate es un refugio tranquilo que presenta hermosos paisajes, estanques de koi y variedades de plantas impresionantes. Es perfecto para relajarse y reflexionar. Reserva alrededor de 1 a 2 horas para pasear por los senderos serenos y disfrutar del té tradicional en la casa de té. Es un escape pacífico del ajetreo de la ciudad.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "Exploratorium",
+          "type": "museum",
+          "description": "El Exploratorium es un museo único dedicado a la ciencia, el arte y la percepción humana. Con más de 600 exposiciones interactivas, es una experiencia divertida y educativa para todas las edades. Planea pasar al menos 2 a 3 horas explorando las exhibiciones prácticas y disfrutando de las vistas frente al mar. Las entradas están disponibles en línea para mayor comodidad.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Top Attractions in San Francisco 2026 — Tickets, Tips & Complete Guide",
+      "seo_description": "Explore the best attractions in San Francisco. Find opening hours, ticket prices and booking links for San Francisco's top landmarks.",
+      "page_intro": "San Francisco, known for its iconic Golden Gate Bridge and vibrant cultural scene, is a must-visit destination. From historic landmarks to stunning parks and engaging museums, this city offers a diverse range of attractions for every traveler. Experience the blend of natural beauty and urban excitement that makes San Francisco unique.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "Golden Gate Bridge",
+          "type": "landmark",
+          "description": "The Golden Gate Bridge is an engineering marvel and a symbol of San Francisco. Spanning 1.7 miles, it offers breathtaking views of the bay and city. Visitors can walk or bike across the bridge for an unforgettable experience. Allocate about 1-2 hours to fully enjoy the views and take photos.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "Alcatraz Island",
+          "type": "landmark",
+          "description": "Alcatraz Island, once a notorious federal prison, is now a fascinating historical site. Guided tours include an audio experience featuring stories from former inmates and guards. Plan to spend about 2-3 hours exploring the island and taking in the stunning views of the city skyline. Tickets can sell out quickly, so book in advance.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "Golden Gate Park",
+          "type": "park",
+          "description": "Golden Gate Park is a sprawling urban oasis offering gardens, lakes, and museums. It’s perfect for a leisurely stroll, picnicking, or visiting the de Young Museum and California Academy of Sciences located within the park. Dedicate at least half a day to fully explore the diverse attractions and natural beauty.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "San Francisco Museum of Modern Art (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA is one of the largest modern and contemporary art museums in the country, featuring an impressive collection from artists like Andy Warhol and Jackson Pollock. The museum also hosts rotating exhibitions and offers interactive experiences. Plan for a 2-3 hour visit to fully appreciate the diverse artworks.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "San Francisco's Chinatown is the oldest and one of the largest in North America. Explore its bustling streets filled with shops, restaurants, and cultural sites. Don't miss the famous Dragon Gate and the Fortune Cookie Factory. A visit can take around 1-2 hours, especially if you stop for dim sum or souvenirs.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "Japanese Tea Garden",
+          "type": "temple",
+          "description": "The Japanese Tea Garden in Golden Gate Park is a tranquil retreat featuring beautiful landscapes, koi ponds, and stunning plant varieties. It’s perfect for relaxation and reflection. Allocate about 1-2 hours to wander through the serene pathways and enjoy traditional tea in the tea house. It's a peaceful escape from the city's hustle.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "Exploratorium",
+          "type": "museum",
+          "description": "The Exploratorium is a unique museum dedicated to science, art, and human perception. With over 600 interactive exhibits, it's a fun and educational experience for all ages. Plan to spend at least 2-3 hours exploring the hands-on exhibits and enjoying the waterfront views. Tickets are available online for convenience.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "सैन फ्रांसिस्को के शीर्ष आकर्षण 2026 - टिकट, सुझाव और पूर्ण गाइड",
+      "seo_description": "सैन फ्रांसिस्को के सर्वश्रेष्ठ आकर्षणों की खोज करें। सैन फ्रांसिस्को के शीर्ष स्थलों के लिए खोलने के समय, टिकट की कीमतें और बुकिंग लिंक खोजें।",
+      "page_intro": "सैन फ्रांसिस्को, जो अपने प्रतिष्ठित गोल्डन गेट ब्रिज और जीवंत सांस्कृतिक दृश्य के लिए जाना जाता है, एक अवश्य देखने योग्य गंतव्य है। ऐतिहासिक स्थलों से लेकर शानदार पार्कों और आकर्षक संग्रहालयों तक, यह शहर हर यात्री के लिए आकर्षण की एक विविध श्रृंखला प्रदान करता है। प्राकृतिक सुंदरता और शहरी उत्साह का मिश्रण अनुभव करें जो सैन फ्रांसिस्को को अद्वितीय बनाता है।",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "गोल्डन गेट ब्रिज",
+          "type": "landmark",
+          "description": "गोल्डन गेट ब्रिज एक इंजीनियरिंग चमत्कार और सैन फ्रांसिस्को का प्रतीक है। यह 1.7 मील तक फैला है, जो खाड़ी और शहर के अद्भुत दृश्य प्रस्तुत करता है। आगंतुकों को पुल पर चलने या साइकिल चलाने का अनूठा अनुभव मिलता है। दृश्यों का पूरा आनंद लेने और तस्वीरें लेने के लिए लगभग 1-2 घंटे का समय निर्धारित करें।",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "अल्काट्राज़ द्वीप",
+          "type": "landmark",
+          "description": "अल्काट्राज़ द्वीप, जो कभी एक कुख्यात संघीय जेल था, अब एक आकर्षक ऐतिहासिक स्थल है। मार्गदर्शित पर्यटन में पूर्व कैदियों और गार्डों की कहानियों के साथ एक ऑडियो अनुभव शामिल है। द्वीप का अन्वेषण करने और शहर के क्षितिज के अद्भुत दृश्यों का आनंद लेने के लिए लगभग 2-3 घंटे का समय निर्धारित करें। टिकट जल्दी बिक सकते हैं, इसलिए पहले से बुक करें।",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "गोल्डन गेट पार्क",
+          "type": "park",
+          "description": "गोल्डन गेट पार्क एक विशाल शहरी ओएसिस है जो बागों, झीलों और संग्रहालयों की पेशकश करता है। यह आरामदायक सैर, पिकनिक या पार्क के भीतर स्थित de Young Museum और California Academy of Sciences का दौरा करने के लिए एकदम सही है। विभिन्न आकर्षणों और प्राकृतिक सुंदरता का पूरा अनुभव करने के लिए कम से कम आधे दिन का समय निर्धारित करें।",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "सैन फ्रांसिस्को आधुनिक कला संग्रहालय (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA देश के सबसे बड़े आधुनिक और समकालीन कला संग्रहालयों में से एक है, जिसमें एंडी वारहोल और जैक्सन पोलॉक जैसे कलाकारों के प्रभावशाली संग्रह शामिल हैं। संग्रहालय लगातार प्रदर्शनियों की मेज़बानी करता है और इंटरैक्टिव अनुभव प्रदान करता है। विविध कलाकृतियों की पूरी सराहना करने के लिए 2-3 घंटे की यात्रा की योजना बनाएं।",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "चाइनाटाउन",
+          "type": "district",
+          "description": "सैन फ्रांसिस्को का चाइनाटाउन उत्तरी अमेरिका का सबसे पुराना और सबसे बड़ा है। दुकानों, रेस्तरां और सांस्कृतिक स्थलों से भरी इसकी हलचल भरी सड़कों का अन्वेषण करें। प्रसिद्ध ड्रैगन गेट और फॉर्च्यून कुकी फैक्ट्री को देखना न भूलें। एक दौरा लगभग 1-2 घंटे ले सकता है, खासकर यदि आप डिम सम या उपहारों के लिए रुकते हैं।",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "जापानी चाय बाग",
+          "type": "temple",
+          "description": "गोल्डन गेट पार्क में स्थित जापानी चाय बाग एक शांतिपूर्ण आश्रय है जिसमें सुंदर परिदृश्य, कोइ तालाब और अद्भुत पौधों की किस्में हैं। यह विश्राम और चिंतन के लिए एकदम सही है। शांतिपूर्ण रास्तों के माध्यम से घूमने और चाय घर में पारंपरिक चाय का आनंद लेने के लिए लगभग 1-2 घंटे का समय निर्धारित करें। यह शहर की हलचल से एक शांत भाग है।",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "एक्सप्लोरेटोरियम",
+          "type": "museum",
+          "description": "एक्सप्लोरेटोरियम एक अनोखा संग्रहालय है जो विज्ञान, कला और मानव धारणा को समर्पित है। 600 से अधिक इंटरैक्टिव प्रदर्शनों के साथ, यह सभी उम्र के लिए एक मजेदार और शैक्षिक अनुभव है। हाथों-हाथ प्रदर्शनों की खोज करने और जलवायु दृश्य का आनंद लेने के लिए कम से कम 2-3 घंटे बिताने की योजना बनाएं। सुविधा के लिए टिकट ऑनलाइन उपलब्ध हैं।",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Principais Atrações em San Francisco 2026 - Ingressos, Dicas e Guia Completo",
+      "seo_description": "Explore as melhores atrações em San Francisco. Encontre horários de funcionamento, preços de ingressos e links de reserva para os principais pontos turísticos de San Francisco.",
+      "page_intro": "San Francisco, conhecida por sua icônica Ponte Golden Gate e cena cultural vibrante, é um destino imperdível. Desde marcos históricos até parques deslumbrantes e museus envolventes, esta cidade oferece uma variedade diversificada de atrações para todos os viajantes. Experimente a mistura de beleza natural e emoção urbana que torna San Francisco única.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "Ponte Golden Gate",
+          "type": "landmark",
+          "description": "A Ponte Golden Gate é uma maravilha da engenharia e um símbolo de San Francisco. Com 1,7 milhas de extensão, oferece vistas deslumbrantes da baía e da cidade. Os visitantes podem caminhar ou andar de bicicleta pela ponte para uma experiência inesquecível. Reserve cerca de 1-2 horas para aproveitar totalmente as vistas e tirar fotos.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "Ilha de Alcatraz",
+          "type": "landmark",
+          "description": "A Ilha de Alcatraz, que já foi uma prisão federal notória, agora é um fascinante local histórico. Os passeios guiados incluem uma experiência de áudio com histórias de ex-presidiários e guardas. Planeje passar cerca de 2-3 horas explorando a ilha e apreciando as deslumbrantes vistas do horizonte da cidade. Os ingressos podem esgotar rapidamente, então reserve com antecedência.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "Parque Golden Gate",
+          "type": "park",
+          "description": "O Parque Golden Gate é um oásis urbano extenso com jardins, lagos e museus. É perfeito para um passeio relaxante, piquenique ou visita ao de Young Museum e à California Academy of Sciences localizados dentro do parque. Dedique pelo menos meio dia para explorar totalmente as diversas atrações e a beleza natural.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "Museu de Arte Moderna de San Francisco (SFMOMA)",
+          "type": "museum",
+          "description": "O SFMOMA é um dos maiores museus de arte moderna e contemporânea do país, apresentando uma coleção impressionante de artistas como Andy Warhol e Jackson Pollock. O museu também abriga exposições rotativas e oferece experiências interativas. Planeje uma visita de 2-3 horas para apreciar plenamente as diversas obras de arte.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "Chinatown",
+          "type": "district",
+          "description": "O Chinatown de San Francisco é o mais antigo e um dos maiores da América do Norte. Explore suas ruas movimentadas repletas de lojas, restaurantes e locais culturais. Não perca o famoso Dragon Gate e a Fábrica de Biscoitos da Sorte. Uma visita pode levar cerca de 1-2 horas, especialmente se você parar para dim sum ou lembranças.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "Jardim de Chá Japonês",
+          "type": "temple",
+          "description": "O Jardim de Chá Japonês no Parque Golden Gate é um refúgio tranquilo com belas paisagens, lagos de koi e variedades de plantas impressionantes. É perfeito para relaxamento e reflexão. Reserve cerca de 1-2 horas para passear pelos caminhos serenos e desfrutar de chá tradicional na casa de chá. É uma fuga pacífica da agitação da cidade.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "Exploratorium",
+          "type": "museum",
+          "description": "O Exploratorium é um museu único dedicado à ciência, arte e percepção humana. Com mais de 600 exposições interativas, é uma experiência divertida e educativa para todas as idades. Planeje passar pelo menos 2-3 horas explorando as exposições práticas e desfrutando das vistas à beira-mar. Os ingressos estão disponíveis online para conveniência.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل المعالم في سان فرانسيسكو 2026 - التذاكر والنصائح والدليل الكامل",
+      "seo_description": "استكشف أفضل المعالم السياحية في سان فرانسيسكو. اعثر على ساعات العمل وأسعار التذاكر وروابط الحجز لأهم معالم سان فرانسيسكو.",
+      "page_intro": "تُعرف سان فرانسيسكو بجسرها الذهبي الشهير ومشهدها الثقافي النابض بالحياة، وهي وجهة لا بد من زيارتها. من المعالم التاريخية إلى الحدائق الرائعة والمتاحف الجذابة، تقدم هذه المدينة مجموعة متنوعة من المعالم السياحية لكل مسافر. عِش تجربة مزيج من الجمال الطبيعي والإثارة الحضرية التي تجعل سان فرانسيسكو فريدة من نوعها.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "جسر غولدن غيت",
+          "type": "landmark",
+          "description": "يُعد جسر غولدن غيت معجزة هندسية ورمزًا لسان فرانسيسكو. يمتد لمسافة 1.7 ميل، مما يوفر مناظر خلابة للخليج والمدينة. يمكن للزوار المشي أو ركوب الدراجات عبر الجسر لتجربة لا تُنسى. خصص حوالي 1-2 ساعة للاستمتاع بالمناظر والتقاط الصور.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "جزيرة الكاتراز",
+          "type": "landmark",
+          "description": "كانت جزيرة الكاتراز، التي كانت في يوم من الأيام سجنًا فيدراليًا سيئ السمعة، موقعًا تاريخيًا مثيرًا الآن. تشمل الجولات المصحوبة بمرشدين تجربة صوتية تتضمن قصصًا من نزلاء وحراس سابقين. خطط لقضاء حوالي 2-3 ساعات في استكشاف الجزيرة والاستمتاع بالمناظر الخلابة لخط أفق المدينة. يمكن أن تُباع التذاكر بسرعة، لذا احجز مقدمًا.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "حديقة غولدن غيت",
+          "type": "park",
+          "description": "تعد حديقة غولدن غيت واحة حضرية شاسعة تقدم حدائق وبحيرات ومتاحف. إنها مثالية لنزهة مريحة أو نزهة أو زيارة لمتحف دي يونغ وأكاديمية كاليفورنيا للعلوم الواقعتين داخل الحديقة. خصص نصف يوم على الأقل لاستكشاف المعالم المتنوعة والجمال الطبيعي.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "متحف سان فرانسيسكو للفن الحديث (SFMOMA)",
+          "type": "museum",
+          "description": "يُعد SFMOMA واحدًا من أكبر المتاحف للفن الحديث والمعاصر في البلاد، ويتميز بمجموعة رائعة من الفنانين مثل أندي وارهول وجاكسون بولوك. يستضيف المتحف أيضًا معارض متغيرة ويقدم تجارب تفاعلية. خطط لزيارة لمدة 2-3 ساعات للاستمتاع بالتحف الفنية المتنوعة.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "الحي الصيني",
+          "type": "district",
+          "description": "يُعتبر الحي الصيني في سان فرانسيسكو الأقدم وأحد أكبر الأحياء في أمريكا الشمالية. استكشف شوارعه المزدحمة المليئة بالمتاجر والمطاعم والمعالم الثقافية. لا تفوت بوابة التنين الشهيرة ومصنع بسكويت الحظ. قد تستغرق الزيارة حوالي 1-2 ساعة، خاصةً إذا توقفت لتناول الديم سام أو الهدايا التذكارية.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "حديقة الشاي اليابانية",
+          "type": "temple",
+          "description": "تعتبر حديقة الشاي اليابانية في حديقة غولدن غيت ملاذًا هادئًا يضم مناظر طبيعية جميلة وبرك كوي وأنواع نباتات مذهلة. إنها مثالية للاسترخاء والتأمل. خصص حوالي 1-2 ساعة للتجول في المسارات الهادئة والاستمتاع بالشاي التقليدي في بيت الشاي. إنها هروب هادئ من صخب المدينة.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "إكسبلوراتوريوم",
+          "type": "museum",
+          "description": "يُعد إكسبلوراتوريوم متحفًا فريدًا مكرسًا للعلوم والفنون وإدراك الإنسان. مع أكثر من 600 معرض تفاعلي، إنها تجربة ممتعة وتعليمية لجميع الأعمار. خطط لقضاء ما لا يقل عن 2-3 ساعات في استكشاف المعارض العملية والاستمتاع بالمناظر على الواجهة البحرية. التذاكر متاحة عبر الإنترنت لراحتك.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "সান ফ্রান্সিসকোর শীর্ষ আকর্ষণ 2026 - টিকিট, টিপস এবং সম্পূর্ণ গাইড",
+      "seo_description": "সান ফ্রান্সিসকোর সেরা আকর্ষণগুলি অন্বেষণ করুন। সান ফ্রান্সিসকোর শীর্ষ স্থানের জন্য খোলার সময়, টিকিটের দাম এবং বুকিং লিঙ্ক খুঁজুন।",
+      "page_intro": "সান ফ্রান্সিসকো, যার আইকনিক গোল্ডেন গেট ব্রিজ এবং প্রাণবন্ত সাংস্কৃতিক দৃশ্যের জন্য পরিচিত, একটি অবশ্যম্ভাবী গন্তব্য। ঐতিহাসিক স্থানগুলি থেকে শুরু করে চমৎকার পার্ক এবং আকর্ষক জাদুঘর পর্যন্ত, এই শহরটি প্রতিটি ভ্রমণকারীর জন্য আকর্ষণের একটি বৈচিত্র্যময় পরিসর প্রদান করে। সান ফ্রান্সিসকোকে অনন্য করে তোলে এমন প্রাকৃতিক সৌন্দর্য এবং শহুরে উত্তেজনার মিশ্রণ অনুভব করুন।",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "গোল্ডেন গেট ব্রিজ",
+          "type": "landmark",
+          "description": "গোল্ডেন গেট ব্রিজ একটি প্রকৌশল ম marvel ল এবং সান ফ্রান্সিসকোর একটি প্রতীক। 1.7 মাইল দীর্ঘ এই ব্রিজটি উপসাগর এবং শহরের মনোমুগ্ধকর দৃশ্য উপহার দেয়। দর্শকরা একটি অবিস্মরণীয় অভিজ্ঞতার জন্য ব্রিজের উপর হাঁটতে বা সাইকেল চালাতে পারেন। দৃশ্যাবলী উপভোগ করতে এবং ছবি তুলতে প্রায় 1-2 ঘন্টা সময় নির্ধারণ করুন।",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "অ্যালকাট্রাজ দ্বীপ",
+          "type": "landmark",
+          "description": "অ্যালকাট্রাজ দ্বীপ, যা একসময় একটি কুখ্যাত ফেডারেল কারাগার ছিল, এখন একটি আকর্ষণীয় ঐতিহাসিক স্থান। গাইডেড ট্যুরগুলিতে প্রাক্তন বন্দী এবং রক্ষকদের গল্প সহ একটি অডিও অভিজ্ঞতা অন্তর্ভুক্ত রয়েছে। দ্বীপটি অন্বেষণ করতে এবং শহরের আকাশরেখার চমত্কার দৃশ্য উপভোগ করতে প্রায় 2-3 ঘন্টা সময় নির্ধারণ করুন। টিকিট দ্রুত বিক্রি হতে পারে, তাই আগে থেকেই বুক করুন।",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "গোল্ডেন গেট পার্ক",
+          "type": "park",
+          "description": "গোল্ডেন গেট পার্ক একটি বিস্তৃত শহুরে নৈসর্গিক স্থান যা বাগান, হ্রদ এবং জাদুঘর অফার করে। এটি একটি আরামদায়ক হাঁটার জন্য, পিকনিকের জন্য বা পার্কের মধ্যে অবস্থিত de Young Museum এবং California Academy of Sciences দেখতে আদর্শ। বিভিন্ন আকর্ষণ এবং প্রাকৃতিক সৌন্দর্য সম্পূর্ণভাবে অন্বেষণ করতে অন্তত অর্ধেক দিন সময় দিন।",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "সান ফ্রান্সিসকো আধুনিক শিল্প যাদুঘর (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA হল দেশের বৃহত্তম আধুনিক এবং সমসাময়িক শিল্প যাদুঘরগুলির মধ্যে একটি, যা অ্যান্ডি ওয়ারহল এবং জ্যাকসন পোলক-এর মতো শিল্পীদের একটি প্রভাবশালী সংগ্রহ প্রদর্শন করে। যাদুঘরটি ঘূর্ণায়মান প্রদর্শনীরও হোস্ট করে এবং ইন্টারঅ্যাকটিভ অভিজ্ঞতা অফার করে। বিভিন্ন শিল্পকর্মের পূর্ণাঙ্গ প্রশংসা করতে 2-3 ঘন্টার একটি দর্শনের পরিকল্পনা করুন।",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "চায়না টাউন",
+          "type": "district",
+          "description": "সান ফ্রান্সিসকোর চায়না টাউন উত্তর আমেরিকার সবচেয়ে পুরনো এবং বৃহত্তম। দোকান, রেস্তোরাঁ এবং সাংস্কৃতিক স্থানগুলি পূর্ণ এর ব্যস্ত রাস্তাগুলি এক্সপ্লোর করুন। বিখ্যাত ড্রাগন গেট এবং ফোর্টুন কুকি ফ্যাক্টরি মিস করবেন না। একটি সফরে প্রায় 1-2 ঘন্টা সময় লাগতে পারে, বিশেষত যদি আপনি ডিম সুম বা উপহার কেনার জন্য থামেন।",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "জাপানি চা বাগান",
+          "type": "temple",
+          "description": "গোল্ডেন গেট পার্কের জাপানি চা বাগান একটি শান্তিপূর্ণ আশ্রয় যা সুন্দর দৃশ্যপট, কই পুকুর এবং চমৎকার উদ্ভিদের জাত সমন্বিত। এটি বিশ্রাম এবং প্রতিফলনের জন্য আদর্শ। শান্তিপূর্ণ পথগুলি দিয়ে হেঁটে যাওয়ার জন্য এবং চা ঘরে ঐতিহ্যবাহী চা উপভোগ করার জন্য প্রায় 1-2 ঘন্টা সময় নির্ধারণ করুন। এটি শহরের ব্যস্ততার থেকে একটি শান্ত Escape।",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "এক্সপ্লোরেটরিয়াম",
+          "type": "museum",
+          "description": "এক্সপ্লোরেটরিয়াম একটি অনন্য যাদুঘর যা বিজ্ঞান, শিল্প এবং মানব উপলব্ধির প্রতি নিবেদিত। 600 টিরও বেশি ইন্টারঅ্যাকটিভ প্রদর্শনের সাথে, এটি সমস্ত বয়সের জন্য একটি মজাদার এবং শিক্ষামূলক অভিজ্ঞতা। হাতে-কলমে প্রদর্শনগুলি অন্বেষণ করতে এবং সমুদ্রতীরের দৃশ্যগুলি উপভোগ করতে কমপক্ষে 2-3 ঘন্টা ব্যয় করার পরিকল্পনা করুন। সাদৃশ্যের জন্য টিকিটগুলি অনলাইনে উপলব্ধ।",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Топ достопримечательностей Сан-Франциско 2026 — Билеты, советы и полный гид",
+      "seo_description": "Изучите лучшие достопримечательности Сан-Франциско. Узнайте часы работы, цены на билеты и ссылки для бронирования на главные достопримечательности Сан-Франциско.",
+      "page_intro": "Сан-Франциско, известный своим знаковым мостом Золотые Ворота и яркой культурной сценой, является обязательным местом для посещения. От исторических памятников до потрясающих парков и увлекательных музеев, этот город предлагает разнообразные достопримечательности для каждого путешественника. Испытайте сочетание природной красоты и городской жизни, которое делает Сан-Франциско уникальным.",
+      "items": [
+        {
+          "id": "golden-gate-bridge",
+          "name": "Мост Золотые Ворота",
+          "type": "landmark",
+          "description": "Мост Золотые Ворота — это инженерное чудо и символ Сан-Франциско. Его длина составляет 1,7 мили, и он предлагает захватывающие виды на залив и город. Посетители могут прогуляться или проехать на велосипеде по мосту, чтобы получить незабываемые впечатления. Выделите около 1-2 часов, чтобы насладиться видами и сделать фотографии.",
+          "image_keyword": "golden gate bridge",
+          "star_rating": 4.8,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "morning",
+          "klook_query": "golden gate bridge visit"
+        },
+        {
+          "id": "alcatraz-island",
+          "name": "Остров Алькатрас",
+          "type": "landmark",
+          "description": "Остров Алькатрас, когда-то печально известная федеральная тюрьма, теперь является увлекательным историческим местом. Экскурсии с гидом включают аудиовизуальный опыт с историями бывших заключенных и охранников. Планируйте провести около 2-3 часов, исследуя остров и наслаждаясь потрясающими видами на городской пейзаж. Билеты могут быстро распродаваться, поэтому бронируйте заранее.",
+          "image_keyword": "alcatraz island",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $40",
+          "best_time": "afternoon",
+          "klook_query": "alcatraz island tickets"
+        },
+        {
+          "id": "golden-gate-park",
+          "name": "Парк Золотые Ворота",
+          "type": "park",
+          "description": "Парк Золотые Ворота — это обширный городской оазис с садами, озерами и музеями. Он идеально подходит для спокойной прогулки, пикника или посещения музея де Янга и Калифорнийской академии наук, расположенных в парке. Выделите не менее полдня, чтобы полностью исследовать разнообразные достопримечательности и природную красоту.",
+          "image_keyword": "golden gate park",
+          "star_rating": 4.9,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "golden gate park visit"
+        },
+        {
+          "id": "sf-moma",
+          "name": "Музей современного искусства Сан-Франциско (SFMOMA)",
+          "type": "museum",
+          "description": "SFMOMA — один из крупнейших музеев современного и современного искусства в стране, представленный впечатляющей коллекцией таких художников, как Энди Уорхол и Джексон Поллок. Музей также проводит вращающиеся выставки и предлагает интерактивные мероприятия. Запланируйте посещение на 2-3 часа, чтобы полностью оценить разнообразные произведения искусства.",
+          "image_keyword": "sf moma",
+          "star_rating": 4.6,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $25",
+          "best_time": "afternoon",
+          "klook_query": "sf moma tickets"
+        },
+        {
+          "id": "chinatown",
+          "name": "Чайна-таун",
+          "type": "district",
+          "description": "Чайна-таун в Сан-Франциско — самый старый и один из крупнейших в Северной Америке. Исследуйте его оживленные улицы, полные магазинов, ресторанов и культурных мест. Не пропустите знаменитые Ворота дракона и Фабрику печенья счастья. Посещение может занять около 1-2 часов, особенно если вы останавливаетесь для дим сам или сувениров.",
+          "image_keyword": "chinatown san francisco",
+          "star_rating": 4.5,
+          "needs_ticket": false,
+          "ticket_price_hint": "Free",
+          "best_time": "anytime",
+          "klook_query": "chinatown experience"
+        },
+        {
+          "id": "japanese-tea-garden",
+          "name": "Японский чайный сад",
+          "type": "temple",
+          "description": "Японский чайный сад в парке Золотые Ворота — это спокойное убежище с красивыми пейзажами, прудами с карпами и потрясающими растительными разновидностями. Это идеальное место для отдыха и размышлений. Выделите около 1-2 часов, чтобы прогуляться по тихим дорожкам и насладиться традиционным чаем в чайном доме. Это тихий побег от городской суеты.",
+          "image_keyword": "japanese tea garden",
+          "star_rating": 4.8,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $15",
+          "best_time": "morning",
+          "klook_query": "japanese tea garden tickets"
+        },
+        {
+          "id": "exploratorium",
+          "name": "Эксплоратоориум",
+          "type": "museum",
+          "description": "Эксплоратоориум — это уникальный музей, посвященный науке, искусству и человеческому восприятию. С более чем 600 интерактивными экспонатами это веселый и образовательный опыт для всех возрастов. Запланируйте провести не менее 2-3 часов, исследуя практические выставки и наслаждаясь видами на набережную. Билеты доступны онлайн для удобства.",
+          "image_keyword": "exploratorium",
+          "star_rating": 4.7,
+          "needs_ticket": true,
+          "ticket_price_hint": "Approx $30",
+          "best_time": "afternoon",
+          "klook_query": "exploratorium tickets"
+        }
+      ]
+    }
+  }
+}

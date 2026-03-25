@@ -1,0 +1,1013 @@
+{
+  "city_slug": "venice",
+  "translations": {
+    "en": {
+      "seo_title": "Best Food in Venice 2026 — Top Restaurants & Street Food Guide",
+      "seo_description": "Discover the best restaurants, street food and local specialties in Venice. From budget eats to fine dining — with booking links.",
+      "page_intro": "Venice is not only renowned for its stunning canals and historic architecture but also for its rich culinary heritage. The city's food culture is a delightful mix of fresh seafood, local produce, and traditional recipes. From charming trattorias to bustling markets, Venice offers a delectable journey for food lovers seeking authentic flavors and unique dining experiences.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "Osteria Alle Tende",
+          "type": "restaurant",
+          "description": "This cozy eatery is known for its authentic Venetian dishes and a welcoming atmosphere. Try the seafood risotto or the fresh catch of the day, paired with a glass of local wine. Prices are reasonable, making it a favorite among both locals and tourists. Reservations are recommended, especially during peak seasons.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "Trattoria Da Ponte",
+          "type": "restaurant",
+          "description": "Trattoria Da Ponte is a family-run establishment famous for its homemade pasta and hearty sauces. The atmosphere is warm and inviting, perfect for a leisurely meal. Be sure to order the tagliatelle al ragù, a local favorite. Prices are moderate, and the service is friendly.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercato di Rialto",
+          "type": "street_food",
+          "description": "The Rialto Market is a must-visit for street food lovers. Here, you can sample fresh seafood, local cheeses, and seasonal fruits. The bustling atmosphere and vibrant stalls make it an exciting place to explore. Don't miss trying the cicchetti, small snacks that pair perfectly with a glass of wine. Prices vary, but street food is generally affordable.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "Pasticceria Da Carlo",
+          "type": "cafe",
+          "description": "This delightful pastry shop offers a variety of traditional Venetian sweets and pastries. The atmosphere is charming and perfect for a coffee break. Their tiramisu and zaleti (cornmeal cookies) are must-tries. Prices are quite reasonable, making it an ideal stop for a snack.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "Antiche Carampane",
+          "type": "restaurant",
+          "description": "Known for its traditional Venetian cuisine, Antiche Carampane is tucked away from the tourist trails. The atmosphere is rustic and inviting, making it perfect for a romantic dinner. The spaghetti with clams is particularly praised. It’s a bit pricier, but worth every penny for the experience.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "Sestieri di Venezia",
+          "type": "night_market",
+          "description": "Sestieri di Venezia offers a vibrant nightlife experience with various food stalls serving local delicacies. It's the perfect place to try a variety of dishes in a lively setting. Enjoy the atmosphere while sampling arancini and other local bites. Prices are affordable, making it a great spot for late-night food.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "Gelateria Nuova Melodia",
+          "type": "cafe",
+          "description": "Gelateria Nuova Melodia is famous for its artisanal gelato made from fresh, local ingredients. The wide variety of flavors will delight your taste buds. The charming shop offers a cozy atmosphere to enjoy your dessert. Prices are competitive, making it a delightful treat while exploring Venice.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "zh": {
+      "seo_title": "威尼斯最佳美食 2026 — 顶级餐厅和街头美食指南",
+      "seo_description": "发现威尼斯最好的餐厅、街头美食和当地特色。 从预算美食到高档餐饮 — 带有预订链接。",
+      "page_intro": "威尼斯不仅以其壮观的运河和历史建筑而闻名，还以其丰富的烹饪遗产而著称。 这座城市的饮食文化是新鲜海鲜、本地农产品和传统食谱的迷人混合。 从迷人的小餐馆到热闹的市场，威尼斯为寻找真实风味和独特用餐体验的美食爱好者提供了一次美妙的旅程。",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "Osteria Alle Tende",
+          "type": "restaurant",
+          "description": "这家温馨的餐厅以其正宗的威尼斯菜肴和热情友好的氛围而闻名。 尝试海鲜意大利调味饭或当天的新鲜捕获，搭配一杯当地葡萄酒。 价格合理，是当地人和游客的最爱。 尤其在高峰季节，建议提前预订。",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "Trattoria Da Ponte",
+          "type": "restaurant",
+          "description": "Trattoria Da Ponte 是一家家族经营的餐厅，以自制意大利面和丰盛的酱汁而闻名。 气氛温馨，适合悠闲的用餐。 一定要点当地最爱——肉酱宽面条。 价格适中，服务友好。",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercato di Rialto",
+          "type": "street_food",
+          "description": "里亚尔托市场是街头美食爱好者的必访之地。 在这里，您可以品尝新鲜海鲜、本地奶酪和时令水果。 热闹的气氛和生动的摊位使其成为一个令人兴奋的探索之地。 不要错过尝试小吃——cicchetti，它们与一杯葡萄酒完美搭配。 价格各异，但街头美食通常价格实惠。",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "Pasticceria Da Carlo",
+          "type": "cafe",
+          "description": "这家迷人的糕点店提供各种传统的威尼斯甜点和糕点。 气氛迷人，非常适合咖啡休息。 他们的提拉米苏和zaleti（玉米饼干）是必试之作。 价格相当合理，非常适合来这里小吃。",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "Antiche Carampane",
+          "type": "restaurant",
+          "description": "Antiche Carampane以其传统的威尼斯美食而闻名，位于远离游客小径的地方。 气氛乡村而温馨，非常适合浪漫晚餐。 意大利面配蛤蜊尤其受到赞誉。 价格略贵，但值得每一分钱的体验。",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "Sestieri di Venezia",
+          "type": "night_market",
+          "description": "Sestieri di Venezia 提供丰富的夜生活体验，各种食品摊位提供当地美食。 这是在热闹的环境中尝试多种菜肴的完美场所。 在品尝arancini和其他当地小吃的同时享受气氛。 价格实惠，是深夜美食的好去处。",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "Gelateria Nuova Melodia",
+          "type": "cafe",
+          "description": "Gelateria Nuova Melodia因其用新鲜当地食材制作的手工冰淇淋而闻名。 各种口味将让您的味蕾愉悦。 迷人的店铺提供舒适的氛围，让您享受甜点。 价格具有竞争力，是您在威尼斯探索时的美味享受。",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "ja": {
+      "seo_title": "ヴェネツィアのベストフード 2026 — トップレストランとストリートフードガイド",
+      "seo_description": "ヴェネツィアの最高のレストラン、ストリートフード、地元の特産品を発見。 バジェット向けの食事から高級ダイニングまで — 予約リンク付き。",
+      "page_intro": "ヴェネツィアはその美しい運河と歴史的な建築で知られるだけでなく、豊かな料理の遺産でも有名です。 この都市の食文化は、新鮮な海の幸、地元の農産物、伝統的なレシピの魅力的な組み合わせです。 魅力的なトラットリアから賑やかな市場まで、ヴェネツィアは本物のフレーバーとユニークなダイニング体験を求める食通にとって魅力的な旅を提供します。",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "オステリア アッレ テンデ",
+          "type": "restaurant",
+          "description": "この居心地の良い食堂は、正統なヴェネツィア料理と温かい雰囲気で知られています。 シーフードリゾットやその日の新鮮な魚を試してみてください。 地元のワインと一緒にどうぞ。 価格はリーズナブルで、地元の人々にも観光客にも人気です。 特にピークシーズンには予約をお勧めします。",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "トラットリア ダ ポンテ",
+          "type": "restaurant",
+          "description": "トラットリア ダ ポンテは家族経営の店で、自家製パスタとボリューム満点のソースで有名です。 雰囲気は温かく、ゆったりとした食事にぴったりです。 地元の人気メニューであるタグリエッティーネ アル ラグーをぜひご注文ください。 価格は中程度で、サービスもフレンドリーです。",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "リャルト市場",
+          "type": "street_food",
+          "description": "リャルト市場はストリートフード好きには必見の場所です。 ここでは、新鮮な海の幸や地元のチーズ、季節のフルーツを味わえます。 賑やかな雰囲気と活気あふれる屋台は、探索するのにワクワクする場所です。 小さなスナックであるチケッティを試すのをお見逃しなく。 価格はさまざまですが、ストリートフードは一般的に手頃です。",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "パスティッチェリア ダ カルロ",
+          "type": "cafe",
+          "description": "この魅力的なペストリーショップでは、伝統的なヴェネツィアのスイーツやペストリーが豊富に揃っています。 雰囲気は魅力的で、コーヒーブレイクにぴったりです。 彼らのティラミスとザレティ（コーンミールクッキー）は必ず試すべきです。 価格はかなりリーズナブルで、スナックに最適なスポットです。",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "アンティケ カランパーネ",
+          "type": "restaurant",
+          "description": "伝統的なヴェネツィア料理で知られるアンティケ カランパーネは、観光地から離れた場所に隠れています。 雰囲気は素朴で招待的で、ロマンチックなディナーにぴったりです。 特にホタテのパスタは高く評価されています。 価格は少し高めですが、その体験に見合う価値があります。",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "ヴェネツィアのセスティエーリ",
+          "type": "night_market",
+          "description": "ヴェネツィアのセスティエーリでは、地元の特産品を提供するさまざまなフードスタンドがある活気あるナイトライフ体験を楽しめます。 賑やかな環境の中でさまざまな料理を試すのに最適な場所です。 アランチーニやその他の地元の小皿を楽しみながら、雰囲気を味わってください。 価格は手頃で、深夜の食事に最適なスポットです。",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "ジェラテリア ヌオヴァ メロディア",
+          "type": "cafe",
+          "description": "ジェラテリア ヌオヴァ メロディアは、新鮮な地元の食材を使ったアーティザナルジェラートで有名です。 幅広いフレーバーがあなたの味覚を楽しませてくれます。 魅力的なショップは、デザートを楽しむための居心地の良い雰囲気を提供します。 価格は競争力があり、ヴェネツィアを探索しながらの素晴らしいご褒美になります。",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "ko": {
+      "seo_title": "베네치아 최고의 음식 2026 — 최고의 레스토랑 및 스트리트 푸드 가이드",
+      "seo_description": "베네치아 최고의 레스토랑, 스트리트 푸드 및 지역 특산품을 발견하세요. 예산 제안부터 고급 식사까지 — 예약 링크 포함.",
+      "page_intro": "베네치아는 멋진 운하와 역사적인 건축물로 유명할 뿐만 아니라 풍부한 요리 유산으로도 유명합니다. 이 도시의 음식 문화는 신선한 해산물, 지역 농산물 및 전통 요리법의 매력적인 조화를 이룹니다. 매력적인 트라토리아부터 북적이는 시장까지, 베네치아는 진정한 맛과 독특한 식사 경험을 찾는 미식가들에게 매력적인 여행을 제공합니다.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "오스테리아 알레 텐데",
+          "type": "restaurant",
+          "description": "이 아늑한 식당은 정통 베네치아 요리와 따뜻한 분위기로 유명합니다. 해산물 리조또 또는 그날의 신선한 생선을 시도해 보세요. 지역 와인 한 잔과 함께 곁들이면 좋습니다. 가격이 합리적이어서 현지인과 관광객 모두에게 인기가 많습니다. 특히 성수기에는 예약이 권장됩니다.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "트라토리아 다 폰테",
+          "type": "restaurant",
+          "description": "트라토리아 다 폰테는 가족이 운영하는 식당으로, 수제 파스타와 풍성한 소스로 유명합니다. 아늑하고 초대하는 분위기로 여유로운 식사에 적합합니다. 지역 인기 메뉴인 탈리아텔레 알 라구를 꼭 주문해 보세요. 가격은 적당하고 서비스도 친절합니다.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "리알토 시장",
+          "type": "street_food",
+          "description": "리알토 시장은 스트리트 푸드 애호가들에게 꼭 가봐야 할 곳입니다. 여기에서는 신선한 해산물, 지역 치즈 및 제철 과일을 맛볼 수 있습니다. 북적이는 분위기와 활기찬 가판대는 탐험하기에 흥미로운 장소입니다. 작은 간식인 치케티도 놓치지 마세요. 가격은 다양하지만 일반적으로 스트리트 푸드는 저렴합니다.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "파스티체리아 다 칼로",
+          "type": "cafe",
+          "description": "이 매력적인 제과점은 전통적인 베네치아 디저트와 페이스트리의 다양한 선택을 제공합니다. 매력적인 분위기로 커피 브레이크에 적합합니다. 그들의 티라미수와 잘레티(옥수수 쿠키)는 꼭 맛봐야 할 메뉴입니다. 가격이 꽤 합리적이어서 간식으로 들르기에 이상적인 장소입니다.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "안티케 카란파네",
+          "type": "restaurant",
+          "description": "전통적인 베네치아 요리로 유명한 안티케 카란파네는 관광지에서 떨어진 곳에 숨어 있습니다. 소박하고 초대하는 분위기로 로맨틱한 저녁식사에 적합합니다. 조개 스파게티는 특히 찬사를 받습니다. 가격은 조금 비쌀 수 있지만 그 경험에 대한 가치가 있습니다.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "베네치아의 세스티에리",
+          "type": "night_market",
+          "description": "베네치아의 세스티에리는 지역 특산품을 제공하는 다양한 푸드 스탠드가 있는 활기찬 나이트라이프 경험을 제공합니다. 활기찬 환경에서 다양한 요리를 시도하기에 완벽한 장소입니다. 아란치니와 다른 지역 스낵을 시식하며 분위기를 즐겨보세요. 가격이 저렴하여 늦은 밤 스낵에 좋은 장소입니다.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "젤라테리아 누오바 멜로디아",
+          "type": "cafe",
+          "description": "젤라테리아 누오바 멜로디아는 신선한 지역 재료로 만든 수제 젤라토로 유명합니다. 다양한 맛이 당신의 미각을 즐겁게 할 것입니다. 매력적인 가게에서 디저트를 즐길 수 있는 아늑한 분위기를 제공합니다. 가격이 경쟁력 있으며, 베네치아 탐험 중 즐거운 간식이 될 것입니다.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "fr": {
+      "seo_title": "Meilleure nourriture à Venise 2026 — Meilleurs restaurants et guide de la street food",
+      "seo_description": "Découvrez les meilleurs restaurants, street food et spécialités locales à Venise. Des plats à petit budget aux dîners raffinés — avec des liens de réservation.",
+      "page_intro": "Venise est non seulement réputée pour ses canaux époustouflants et son architecture historique, mais aussi pour son riche patrimoine culinaire. La culture alimentaire de la ville est un mélange délicieux de fruits de mer frais, de produits locaux et de recettes traditionnelles. Des trattorias charmantes aux marchés animés, Venise offre un voyage délicieux pour les amateurs de bonne cuisine à la recherche de saveurs authentiques et d'expériences culinaires uniques.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "Osteria Alle Tende",
+          "type": "restaurant",
+          "description": "Ce restaurant accueillant est connu pour ses plats vénitiens authentiques et son atmosphère chaleureuse. Essayez le risotto aux fruits de mer ou la pêche du jour, accompagné d'un verre de vin local. Les prix sont raisonnables, ce qui en fait un favori parmi les habitants et les touristes. Les réservations sont recommandées, en particulier pendant les saisons de pointe.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "Trattoria Da Ponte",
+          "type": "restaurant",
+          "description": "Trattoria Da Ponte est un établissement familial célèbre pour ses pâtes maison et ses sauces copieuses. L'atmosphère est chaleureuse et accueillante, parfaite pour un repas tranquille. Assurez-vous de commander les tagliatelles al ragù, un favori local. Les prix sont modérés, et le service est amical.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercato di Rialto",
+          "type": "street_food",
+          "description": "Le marché de Rialto est un incontournable pour les amateurs de street food. Ici, vous pouvez déguster des fruits de mer frais, des fromages locaux et des fruits de saison. L'atmosphère animée et les stands vibrants en font un endroit excitant à explorer. Ne manquez pas d'essayer les cicchetti, de petites collations qui s'accordent parfaitement avec un verre de vin. Les prix varient, mais la street food est généralement abordable.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "Pasticceria Da Carlo",
+          "type": "cafe",
+          "description": "Cette délicieuse pâtisserie propose une variété de douceurs et de pâtisseries traditionnelles vénitiennes. L'atmosphère est charmante et parfaite pour une pause café. Leur tiramisu et leurs zaleti (biscuits de maïs) sont des incontournables. Les prix sont tout à fait raisonnables, ce qui en fait un arrêt idéal pour une collation.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "Antiche Carampane",
+          "type": "restaurant",
+          "description": "Connue pour sa cuisine vénitienne traditionnelle, Antiche Carampane est nichée loin des sentiers touristiques. L'atmosphère est rustique et accueillante, parfaite pour un dîner romantique. Les spaghettis aux palourdes sont particulièrement appréciés. C'est un peu plus cher, mais cela en vaut vraiment la peine pour l'expérience.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "Sestieri di Venezia",
+          "type": "night_market",
+          "description": "Sestieri di Venezia offre une expérience de vie nocturne vibrante avec divers stands de nourriture servant des spécialités locales. C'est l'endroit parfait pour essayer une variété de plats dans un cadre animé. Profitez de l'atmosphère tout en dégustant des arancini et d'autres bouchées locales. Les prix sont abordables, ce qui en fait un excellent endroit pour manger tard le soir.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "Gelateria Nuova Melodia",
+          "type": "cafe",
+          "description": "Gelateria Nuova Melodia est célèbre pour son gelato artisanal fabriqué à partir d'ingrédients locaux frais. La large variété de saveurs ravira vos papilles. La charmante boutique offre une atmosphère accueillante pour déguster votre dessert. Les prix sont compétitifs, ce qui en fait une délicieuse friandise lors de votre exploration de Venise.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "es": {
+      "seo_title": "La Mejor Comida en Venecia 2026 — Mejores Restaurantes y Guía de Comida Callejera",
+      "seo_description": "Descubre los mejores restaurantes, comida callejera y especialidades locales en Venecia. Desde comidas económicas hasta alta cocina — con enlaces de reserva.",
+      "page_intro": "Venecia es famosa no solo por sus impresionantes canales y su arquitectura histórica, sino también por su rica herencia culinaria. La cultura gastronómica de la ciudad es una mezcla deliciosa de mariscos frescos, productos locales y recetas tradicionales. Desde encantadoras trattorias hasta bulliciosos mercados, Venecia ofrece un viaje delicioso para los amantes de la comida que buscan sabores auténticos y experiencias gastronómicas únicas.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "Osteria Alle Tende",
+          "type": "restaurant",
+          "description": "Este acogedor restaurante es conocido por sus auténticos platos venecianos y su ambiente acogedor. Prueba el risotto de mariscos o la pesca del día, acompañado de una copa de vino local. Los precios son razonables, lo que lo convierte en un favorito tanto para locales como para turistas. Se recomiendan reservas, especialmente durante las temporadas altas.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "Trattoria Da Ponte",
+          "type": "restaurant",
+          "description": "Trattoria Da Ponte es un establecimiento familiar famoso por su pasta casera y salsas abundantes. El ambiente es cálido y acogedor, perfecto para una comida relajada. Asegúrate de pedir los tagliatelle al ragù, un favorito local. Los precios son moderados y el servicio es amable.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercato di Rialto",
+          "type": "street_food",
+          "description": "El Mercado de Rialto es una visita obligada para los amantes de la comida callejera. Aquí, puedes probar mariscos frescos, quesos locales y frutas de temporada. La atmósfera bulliciosa y los coloridos puestos lo convierten en un lugar emocionante para explorar. No te pierdas los cicchetti, pequeños aperitivos que combinan perfectamente con una copa de vino. Los precios varían, pero la comida callejera suele ser asequible.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "Pasticceria Da Carlo",
+          "type": "cafe",
+          "description": "Esta encantadora pastelería ofrece una variedad de dulces y pasteles tradicionales venecianos. La atmósfera es encantadora y perfecta para un descanso para el café. Su tiramisú y zaleti (galletas de maíz) son imprescindibles. Los precios son bastante razonables, lo que la convierte en una parada ideal para un refrigerio.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "Antiche Carampane",
+          "type": "restaurant",
+          "description": "Conocido por su cocina veneciana tradicional, Antiche Carampane está alejado de las rutas turísticas. La atmósfera es rústica y acogedora, perfecta para una cena romántica. Los espaguetis con almejas son especialmente elogiados. Es un poco más caro, pero vale la pena por la experiencia.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "Sestieri di Venezia",
+          "type": "night_market",
+          "description": "Sestieri di Venezia ofrece una experiencia de vida nocturna vibrante con varios puestos de comida que sirven delicias locales. Es el lugar perfecto para probar una variedad de platos en un ambiente animado. Disfruta del ambiente mientras degustas arancini y otros bocadillos locales. Los precios son asequibles, lo que lo convierte en un gran lugar para comer tarde por la noche.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "Gelateria Nuova Melodia",
+          "type": "cafe",
+          "description": "Gelateria Nuova Melodia es famosa por su gelato artesanal hecho con ingredientes locales frescos. La amplia variedad de sabores deleitará tus papilas gustativas. La encantadora tienda ofrece un ambiente acogedor para disfrutar de tu postre. Los precios son competitivos, lo que la convierte en un delicioso capricho mientras exploras Venecia.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "id": {
+      "seo_title": "Makanan Terbaik di Venesia 2026 — Panduan Restoran & Makanan Jalanan Teratas",
+      "seo_description": "Temukan restoran, makanan jalanan, dan spesial lokal terbaik di Venesia. Dari makan anggaran hingga bersantap mewah — dengan tautan pemesanan.",
+      "page_intro": "Venesia tidak hanya terkenal karena kanalnya yang menakjubkan dan arsitektur bersejarah, tetapi juga karena warisan kuliner yang kaya. Budaya makanan kota ini adalah campuran yang menyenangkan dari makanan laut segar, produk lokal, dan resep tradisional. Dari trattoria yang menawan hingga pasar yang ramai, Venesia menawarkan perjalanan yang lezat bagi para pecinta makanan yang mencari cita rasa otentik dan pengalaman bersantap yang unik.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "Osteria Alle Tende",
+          "type": "restaurant",
+          "description": "Tempat makan yang nyaman ini dikenal dengan hidangan Venesia yang otentik dan suasana yang ramah. Cobalah risotto makanan laut atau ikan segar hari ini, dipasangkan dengan segelas anggur lokal. Harganya terjangkau, menjadikannya favorit di kalangan penduduk lokal dan wisatawan. Pemesanan disarankan, terutama selama musim puncak.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "Trattoria Da Ponte",
+          "type": "restaurant",
+          "description": "Trattoria Da Ponte adalah usaha yang dikelola keluarga yang terkenal dengan pasta buatan sendiri dan saus yang kaya. Suasananya hangat dan ramah, sempurna untuk makan santai. Pastikan untuk memesan tagliatelle al ragù, favorit lokal. Harganya sedang, dan pelayanannya ramah.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercato di Rialto",
+          "type": "street_food",
+          "description": "Pasar Rialto adalah tempat yang wajib dikunjungi bagi pecinta makanan jalanan. Di sini, Anda bisa mencicipi makanan laut segar, keju lokal, dan buah musiman. Suasana yang ramai dan kios yang berwarna-warni menjadikannya tempat yang menarik untuk dijelajahi. Jangan lewatkan mencoba cicchetti, makanan kecil yang sangat cocok dipadukan dengan segelas anggur. Harganya bervariasi, tetapi makanan jalanan umumnya terjangkau.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "Pasticceria Da Carlo",
+          "type": "cafe",
+          "description": "Toko kue yang menawan ini menawarkan berbagai makanan manis dan kue tradisional Venesia. Suasananya menawan dan sempurna untuk istirahat kopi. Tiramisu dan zaleti (kue jagung) mereka adalah yang harus dicoba. Harganya cukup terjangkau, menjadikannya tempat yang ideal untuk berhenti sejenak.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "Antiche Carampane",
+          "type": "restaurant",
+          "description": "Dikenal karena masakan Venesia tradisional, Antiche Carampane terletak jauh dari jalur wisata. Suasana pedesaan dan mengundang, sangat cocok untuk makan malam romantis. Spaghetti dengan kerang sangat dipuji. Harganya sedikit lebih mahal, tetapi sepadan dengan pengalaman tersebut.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "Sestieri di Venezia",
+          "type": "night_market",
+          "description": "Sestieri di Venezia menawarkan pengalaman kehidupan malam yang semarak dengan berbagai kios makanan yang menyajikan makanan lokal. Ini adalah tempat yang sempurna untuk mencoba berbagai hidangan dalam suasana yang meriah. Nikmati suasana sambil mencicipi arancini dan makanan lokal lainnya. Harganya terjangkau, menjadikannya tempat yang bagus untuk makanan larut malam.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "Gelateria Nuova Melodia",
+          "type": "cafe",
+          "description": "Gelateria Nuova Melodia terkenal dengan gelato artisanal yang terbuat dari bahan-bahan lokal yang segar. Beragam rasa yang tersedia akan memanjakan selera Anda. Toko yang menawan ini menawarkan suasana yang nyaman untuk menikmati pencuci mulut Anda. Harganya kompetitif, menjadikannya camilan yang menyenangkan saat menjelajahi Venesia.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "hi": {
+      "seo_title": "वेनिस में सर्वश्रेष्ठ भोजन 2026 - शीर्ष रेस्तरां और स्ट्रीट फ़ूड गाइड",
+      "seo_description": "वेनिस में सबसे अच्छे रेस्तरां, स्ट्रीट फ़ूड और स्थानीय विशेषताओं के बारे में जानें। बजट खाने से लेकर फाइन डाइनिंग तक - बुकिंग लिंक के साथ।",
+      "page_intro": "वेनिस न केवल अपने आश्चर्यजनक नहरों और ऐतिहासिक वास्तुकला के लिए प्रसिद्ध है, बल्कि इसके समृद्ध पाक विरासत के लिए भी। शहर की खाद्य संस्कृति ताज़ी समुद्री भोजन, स्थानीय उत्पादों और पारंपरिक व्यंजनों का एक सुखद मिश्रण है। आकर्षक ट्रैटोरिया से लेकर हलचल भरे बाजारों तक, वेनिस खाने के शौकीनों के लिए प्रामाणिक स्वाद और अद्वितीय भोजन अनुभवों की एक स्वादिष्ट यात्रा पेश करता है।",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "ओस्टेरिया एले टेंड",
+          "type": "restaurant",
+          "description": "यह आरामदायक भोजनालय अपनी प्रामाणिक वेनिसी व्यंजनों और स्वागतपूर्ण वातावरण के लिए जाना जाता है। समुद्री भोजन रिसोट्टो या दिन की ताज़ी पकड़ी गई मछली का प्रयास करें, जिसे स्थानीय शराब के एक गिलास के साथ परोसा जाता है। कीमतें उचित हैं, जो इसे स्थानीय निवासियों और पर्यटकों दोनों के बीच पसंदीदा बनाती हैं। विशेष रूप से पीक सीज़न के दौरान आरक्षण की सिफारिश की जाती है।",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "ट्रैटोरिया दा पोंटे",
+          "type": "restaurant",
+          "description": "ट्रैटोरिया दा पोंटे एक पारिवारिक व्यवसाय है जो अपने घरेलू पास्ता और हार्दिक सॉस के लिए प्रसिद्ध है। वातावरण गर्म और आमंत्रित है, आराम से भोजन के लिए आदर्श। टैग्लियाटेल अल रागू, एक स्थानीय पसंदीदा, का ऑर्डर देना न भूलें। कीमतें मध्यम हैं, और सेवा मित्रवत है।",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "मार्केटो दी रियाल्टो",
+          "type": "street_food",
+          "description": "रियाल्टो मार्केट स्ट्रीट फ़ूड प्रेमियों के लिए एक अवश्य देखी जाने वाली जगह है। यहां, आप ताज़ा समुद्री भोजन, स्थानीय चीज़ें और मौसमी फल चख सकते हैं। हलचल भरा वातावरण और जीवंत स्टाल इसे खोजने के लिए एक रोमांचक स्थान बनाते हैं। चिचेटी, छोटे स्नैक्स का प्रयास करना न भूलें जो एक गिलास शराब के साथ पूरी तरह से मेल खाते हैं। कीमतें भिन्न होती हैं, लेकिन स्ट्रीट फ़ूड आमतौर पर सस्ती होती है।",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "पैस्टिसेरिया दा कार्लो",
+          "type": "cafe",
+          "description": "यह अद्भुत पेस्ट्री की दुकान पारंपरिक वेनिसी मिठाइयों और पेस्ट्री की एक विविधता पेश करती है। वातावरण आकर्षक है और कॉफी ब्रेक के लिए आदर्श है। उनका तिरामिसु और ज़ालेटी (मकई के कुकीज़) अवश्य चखें। कीमतें काफी उचित हैं, जो इसे एक स्नैक के लिए आदर्श स्थान बनाती हैं।",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "एंटिचे काराम्पेन",
+          "type": "restaurant",
+          "description": "परंपरागत वेनिसी व्यंजनों के लिए जाने जाने वाले, एंटिचे काराम्पेन पर्यटन मार्गों से दूर स्थित है। वातावरण देहाती और आमंत्रित है, जो रोमांटिक डिनर के लिए आदर्श है। क्लैम के साथ स्पैगेटी विशेष रूप से प्रशंसित है। यह थोड़ा महंगा है, लेकिन अनुभव के लिए हर पैसे के लायक है।",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "सेस्टियरी दी वेनिस",
+          "type": "night_market",
+          "description": "सेस्टियरी दी वेनिस विभिन्न खाद्य स्टालों के साथ जीवंत नाइटलाइफ़ अनुभव प्रदान करता है जो स्थानीय व्यंजन परोसते हैं। यह एक जीवंत सेटिंग में विभिन्न व्यंजनों का प्रयास करने के लिए आदर्श स्थान है। अरांचिनी और अन्य स्थानीय बाइट्स का स्वाद लेते हुए वातावरण का आनंद लें। कीमतें सस्ती हैं, जो इसे देर रात के खाने के लिए एक शानदार स्थान बनाती हैं।",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "जेलाटेरिया नुओवा मेलोडिया",
+          "type": "cafe",
+          "description": "जेलाटेरिया नुओवा मेलोडिया अपने ताजे, स्थानीय सामग्री से बने हस्तशिल्प जेलाटो के लिए प्रसिद्ध है। विभिन्न स्वाद आपकी स्वाद कलियों को प्रसन्न करेंगे। आकर्षक दुकान आपके मिठाई का आनंद लेने के लिए एक आरामदायक वातावरण प्रदान करती है। कीमतें प्रतिस्पर्धी हैं, जो वेनिस की खोज करते समय एक सुखद उपचार बनाती हैं।",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "pt": {
+      "seo_title": "Melhor Comida em Veneza 2026 - Melhores Restaurantes & Guia de Comida de Rua",
+      "seo_description": "Descubra os melhores restaurantes, comida de rua e especialidades locais em Veneza. Desde refeições econômicas até alta gastronomia - com links de reserva.",
+      "page_intro": "Veneza é famosa não apenas por seus deslumbrantes canais e arquitetura histórica, mas também por seu rico patrimônio culinário. A cultura alimentar da cidade é uma mistura deliciosa de frutos do mar frescos, produtos locais e receitas tradicionais. De trattorias encantadoras a mercados movimentados, Veneza oferece uma jornada deliciosa para os amantes da comida que buscam sabores autênticos e experiências gastronômicas únicas.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "Osteria Alle Tende",
+          "type": "restaurant",
+          "description": "Este aconchegante restaurante é conhecido por seus pratos venezianos autênticos e uma atmosfera acolhedora. Experimente o risoto de frutos do mar ou o pescado do dia, acompanhado de um copo de vinho local. Os preços são razoáveis, tornando-o um favorito entre os locais e turistas. Reservas são recomendadas, especialmente durante a alta temporada.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "Trattoria Da Ponte",
+          "type": "restaurant",
+          "description": "A Trattoria Da Ponte é um estabelecimento familiar famoso por sua massa caseira e molhos robustos. A atmosfera é calorosa e convidativa, perfeita para uma refeição descontraída. Não deixe de pedir o tagliatelle al ragù, um favorito local. Os preços são moderados e o serviço é amigável.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Mercato di Rialto",
+          "type": "street_food",
+          "description": "O Mercado de Rialto é uma visita obrigatória para os amantes de comida de rua. Aqui, você pode experimentar frutos do mar frescos, queijos locais e frutas da estação. A atmosfera agitada e as barracas vibrantes tornam este lugar emocionante para explorar. Não perca a oportunidade de experimentar os cicchetti, pequenos petiscos que combinam perfeitamente com um copo de vinho. Os preços variam, mas a comida de rua é geralmente acessível.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "Pasticceria Da Carlo",
+          "type": "cafe",
+          "description": "Esta deliciosa confeitaria oferece uma variedade de doces e pastelaria tradicionais venezianos. A atmosfera é charmosa e perfeita para uma pausa para o café. O tiramisu e os zaleti (biscoitos de fubá) são obrigatórios. Os preços são bastante razoáveis, tornando-o uma parada ideal para um lanche.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "Antiche Carampane",
+          "type": "restaurant",
+          "description": "Conhecido por sua culinária veneziana tradicional, Antiche Carampane fica afastado das trilhas turísticas. A atmosfera é rústica e convidativa, perfeita para um jantar romântico. O espaguete com mariscos é particularmente elogiado. É um pouco mais caro, mas vale cada centavo pela experiência.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "Sestieri di Venezia",
+          "type": "night_market",
+          "description": "Sestieri di Venezia oferece uma experiência vibrante de vida noturna com várias barracas de comida servindo iguarias locais. É o lugar perfeito para experimentar uma variedade de pratos em um ambiente animado. Desfrute da atmosfera enquanto saboreia arancini e outras delícias locais. Os preços são acessíveis, tornando-o um ótimo lugar para comida noturna.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "Gelateria Nuova Melodia",
+          "type": "cafe",
+          "description": "A Gelateria Nuova Melodia é famosa por seu gelato artesanal feito com ingredientes frescos e locais. A ampla variedade de sabores vai encantar seu paladar. A charmosa loja oferece uma atmosfera aconchegante para desfrutar de sua sobremesa. Os preços são competitivos, tornando-a uma deliciosa indulgência enquanto explora Veneza.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "ar": {
+      "seo_title": "أفضل الطعام في البندقية 2026 - أفضل المطاعم ودليل الطعام الشارعي",
+      "seo_description": "اكتشف أفضل المطاعم والطعام الشارعي والتخصصات المحلية في البندقية. من الوجبات الاقتصادية إلى تناول الطعام الفاخر - مع روابط الحجز.",
+      "page_intro": "تُعرف البندقية ليس فقط بقنواتها الرائعة وهندستها المعمارية التاريخية، ولكن أيضًا بتراثها الطهي الغني. ثقافة الطعام في المدينة هي مزيج رائع من المأكولات البحرية الطازجة والمنتجات المحلية والوصفات التقليدية. من التراتوريات الساحرة إلى الأسواق المزدحمة، تقدم البندقية رحلة لذيذة لعشاق الطعام الذين يسعون إلى نكهات أصلية وتجارب تناول طعام فريدة.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "أوستيريا ألي تيندي",
+          "type": "restaurant",
+          "description": "تُعرف هذه المطعم المريح بأطباقها البندقية الأصيلة وأجوائها الترحيبية. جرب أرز البحر أو صيد اليوم، مع زجاجة من النبيذ المحلي. الأسعار معقولة، مما يجعلها مفضلة بين السكان المحليين والسياح. يُوصى بالحجز، خاصة خلال مواسم الذروة.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "تراتوريا دا بونتي",
+          "type": "restaurant",
+          "description": "تراتوريا دا بونتي هو مؤسسة عائلية مشهورة بمكرونتها محلية الصنع وصلصاتها الغنية. الأجواء دافئة وترحيبية، مثالية لوجبة مريحة. تأكد من طلب تاجلياتيل آل راجو، وهو مفضل محلي. الأسعار معتدلة، والخدمة ودودة.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "سوق ريالتو",
+          "type": "street_food",
+          "description": "سوق ريالتو هو مكان يجب زيارته لعشاق الطعام الشارعي. هنا، يمكنك تذوق المأكولات البحرية الطازجة والأجبان المحلية والفواكه الموسمية. تجعل الأجواء المزدحمة والأكشاك الحيوية هذا المكان مثيرًا للاستكشاف. لا تفوت تجربة التشيتتي، الوجبات الخفيفة الصغيرة التي تتناسب تمامًا مع زجاجة من النبيذ. تتفاوت الأسعار، ولكن الطعام الشارعي يكون عادةً في متناول اليد.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "باتيسيريَا دا كارلو",
+          "type": "cafe",
+          "description": "تقدم هذه المخبز الرائع مجموعة من الحلويات والمعجنات التقليدية البندقية. الأجواء ساحرة ومثالية لتناول القهوة. يجب تجربة التيراميسو والزاليتي (البسكويت المصنوع من دقيق الذرة). الأسعار معقولة جدًا، مما يجعلها محطة مثالية وجبة خفيفة.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "أنتيكي كارامباني",
+          "type": "restaurant",
+          "description": "معروفة بمأكولاتها البندقية التقليدية، تقع أنتكي كارامباني بعيدًا عن مسارات السياح. الأجواء ريفية وترحيبية، مما يجعلها مثالية لعشاء رومانسي. تُمدح السباغيتي مع المحار بشكل خاص. إنها أغلى قليلاً، ولكنها تستحق كل قرش للتجربة.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "سيستيري دي فينيسيا",
+          "type": "night_market",
+          "description": "تقدم سيستيري دي فينيسيا تجربة حياة ليلية نابضة بالحياة مع العديد من أكشاك الطعام التي تقدم الأطباق المحلية. إنه المكان المثالي لتجربة مجموعة متنوعة من الأطباق في بيئة حيوية. استمتع بالأجواء أثناء تذوق الأرانسيني وغيرها من الأطعمة المحلية. الأسعار معقولة، مما يجعلها مكانًا رائعًا لتناول الطعام في وقت متأخر من الليل.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "جيلاتيريا نوفا ميلوديا",
+          "type": "cafe",
+          "description": "تشتهر جيلاتيريا نوفا ميلوديا بجلودها الحرفية المصنوعة من مكونات محلية طازجة. ستسعدك مجموعة النكهات الواسعة. تقدم المتجر الساحر أجواءً مريحة للاستمتاع بحلوياتك. الأسعار تنافسية، مما يجعلها متعة لذيذة أثناء استكشاف البندقية.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "bn": {
+      "seo_title": "ভেনিসের সেরা খাবার ২০২৬ - শীর্ষ রেস্তোরাঁ এবং রাস্তার খাবারের গাইড",
+      "seo_description": "ভেনিসের সেরা রেস্তোরাঁ, রাস্তার খাবার এবং স্থানীয় বিশেষত্বগুলি আবিষ্কার করুন। বাজেটের খাবার থেকে শুরু করে উচ্চমানের খাবার - বুকিং লিঙ্কসহ।",
+      "page_intro": "ভেনিস শুধু তার মনোমুগ্ধকর খাল এবং ঐতিহাসিক স্থাপত্যের জন্য বিখ্যাত নয়, বরং এর সমৃদ্ধ খাদ্য ঐতিহ্যের জন্যও। শহরের খাদ্য সংস্কৃতি তাজা সামুদ্রিক খাদ্য, স্থানীয় পণ্য এবং ঐতিহ্যবাহী রেসিপির একটি চমৎকার মিশ্রণ। আকর্ষণীয় ট্র্যাটোরিয়া থেকে শুরু করে ব্যস্ত বাজার পর্যন্ত, ভেনিস খাবার প্রেমীদের জন্য একটি সুস্বাদু যাত্রা প্রদান করে যারা অটেনটিক স্বাদ এবং অনন্য খাদ্য অভিজ্ঞতা খুঁজছেন।",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "ওস্টেরিয়া আল্লে টেন্ডে",
+          "type": "restaurant",
+          "description": "এই আরামদায়ক খাবারের স্থানটি তার অটেনটিক ভেনিসিয়ান খাবারের জন্য এবং একটি উষ্ণ পরিবেশের জন্য পরিচিত। সামুদ্রিক রিসোট্টো বা দিনের তাজা মাছ চেষ্টা করুন, স্থানীয় মদয়ের একটি গ্লাসের সাথে। দামগুলি যুক্তিসঙ্গত, যা এটিকে স্থানীয় এবং পর্যটকদের মধ্যে জনপ্রিয় করে তুলেছে। বিশেষ করে পিক সিজনে আগাম বুকিংয়ের সুপারিশ করা হয়।",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "ট্র্যাটোরিয়া দা পন্টে",
+          "type": "restaurant",
+          "description": "ট্র্যাটোরিয়া দা পন্টে একটি পারিবারিক পরিচালিত প্রতিষ্ঠান যা তার বাড়ির তৈরি পাস্তা এবং হৃদয়গ্রাহী সসের জন্য বিখ্যাত। পরিবেশ উষ্ণ এবং আমন্ত্রণমূলক, একটি আরামদায়ক খাবারের জন্য আদর্শ। স্থানীয় পছন্দের ট্যাগলিয়াটেলে আল রাগু অর্ডার করতে ভুলবেন না। দামগুলি মাঝারি এবং পরিষেবা বন্ধুত্বপূর্ণ।",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "মার্কেটো দি রিয়াল্টো",
+          "type": "street_food",
+          "description": "রিয়াল্টো মার্কেট রাস্তার খাবারের প্রেমীদের জন্য একটি অবশ্যই দেখতে হবে। এখানে, আপনি তাজা সামুদ্রিক খাবার, স্থানীয় পনির এবং মৌসুমি ফলের স্বাদ নিতে পারেন। ব্যস্ত পরিবেশ এবং প্রাণবন্ত স্টলগুলি এটি আবিষ্কারের জন্য একটি উত্তেজনাপূর্ণ স্থান করে তোলে। ছোট স্ন্যাকস চেখে দেখতে ভুলবেন না যা একটি গ্লাস মদের সাথে পুরোপুরি মেলে। দামগুলি ভিন্ন হতে পারে, তবে রাস্তার খাবার সাধারণত সস্তা।",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "প্যাস্টিসেরিয়া দা কার্লো",
+          "type": "cafe",
+          "description": "এই আকর্ষণীয় পেস্ট্রি শপটি ঐতিহ্যবাহী ভেনিসিয়ান মিষ্টি এবং পেস্ট্রির একটি বৈচিত্র্য প্রদান করে। পরিবেশ মনোরম এবং কফি বিরতির জন্য আদর্শ। তাদের তিরামিসু এবং জালেটি (মকাই কুকিজ) অবশ্যই চেখে দেখতে হবে। দামগুলি যথেষ্ট যুক্তিসঙ্গত, যা এটিকে একটি স্ন্যাকের জন্য আদর্শ স্টপ তৈরি করে।",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "অ্যান্টিচে ক্যারামপেন",
+          "type": "restaurant",
+          "description": "পारম্পরিক ভেনিসিয়ান রাঁধুনির জন্য পরিচিত, অ্যান্টিচে ক্যারামপেন পর্যটকদের পথ থেকে একটু দূরে অবস্থিত। পরিবেশ গ্রামীণ এবং আমন্ত্রণমূলক, যা একটি রোমান্টিক রাতের খাবারের জন্য আদর্শ। কাঁকড়ার সাথে স্প্যাগেটি বিশেষভাবে প্রশংসিত। এটি একটু দামি, কিন্তু অভিজ্ঞতার জন্য প্রতি পয়সা দামের মূল্য।",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "সেস্টিয়েরি দি ভেনিস",
+          "type": "night_market",
+          "description": "সেস্টিয়েরি দি ভেনিস স্থানীয় খাবারের বিভিন্ন স্টলের সঙ্গে একটি প্রাণবন্ত রাত্রিকালীন অভিজ্ঞতা প্রদান করে। এটি একটি প্রাণবন্ত পরিবেশে বিভিন্ন খাবার চেষ্টা করার জন্য একটি আদর্শ স্থান। আরাঞ্জিনি এবং অন্যান্য স্থানীয় খাবারের স্বাদ গ্রহণের সময় পরিবেশের আনন্দ নিতে পারেন। দামগুলি সস্তা, যা এটিকে রাতের খাবারের জন্য একটি চমৎকার স্থান করে তোলে।",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "জেলাতেরিয়া নুওভা মেলোডিয়া",
+          "type": "cafe",
+          "description": "জেলাতেরিয়া নুওভা মেলোডিয়া তার তাজা, স্থানীয় উপকরণ থেকে তৈরি কারিগরি জেলাতোর জন্য বিখ্যাত। বিভিন্ন স্বাদ আপনার স্বাদে আনন্দ দেবে। মনোরম দোকানটি আপনার মিষ্টান্ন উপভোগ করার জন্য একটি আরামদায়ক পরিবেশ সরবরাহ করে। দামগুলি প্রতিযোগিতামূলক, যা ভেনিসের অন্বেষণ করার সময় একটি আনন্দদায়কTreat করে।",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    },
+    "ru": {
+      "seo_title": "Лучшие блюда в Венеции 2026 - Топ-рестораны и гид по уличной еде",
+      "seo_description": "Откройте для себя лучшие рестораны, уличную еду и местные деликатесы в Венеции. От недорогих блюд до высокой кухни - с ссылками для бронирования.",
+      "page_intro": "Венеция известна не только своими потрясающими каналами и исторической архитектурой, но и своим богатым кулинарным наследием. Кулинарная культура города представляет собой восхитительное сочетание свежих морепродуктов, местных продуктов и традиционных рецептов. От очаровательных тратторий до оживленных рынков, Венеция предлагает вкусное путешествие для любителей еды, ищущих аутентичные вкусы и уникальные гастрономические впечатления.",
+      "items": [
+        {
+          "id": "osteria-alle-tende",
+          "name": "Остерия Алле Тенде",
+          "type": "restaurant",
+          "description": "Этот уютный ресторан известен своими аутентичными венецианскими блюдами и дружелюбной атмосферой. Попробуйте ризотто с морепродуктами или свежепойманную рыбу дня, запивая бокалом местного вина. Цены разумные, что делает его любимым местом как для местных жителей, так и для туристов. Рекомендуется бронирование, особенно в высокий сезон.",
+          "image_keyword": "Osteria Alle Tende",
+          "star_rating": 4.5,
+          "price_range": "$$",
+          "must_try": "Seafood Risotto",
+          "klook_query": "Osteria Alle Tende booking"
+        },
+        {
+          "id": "trattoria-da-ponte",
+          "name": "Траттория Да Понте",
+          "type": "restaurant",
+          "description": "Траттория Да Понте - это семейный ресторан, известный своей домашней пастой и сытными соусами. Атмосфера теплая и уютная, идеально подходящая для спокойного обеда. Обязательно закажите тальятелле аль рагу, местное любимое блюдо. Цены умеренные, а обслуживание дружелюбное.",
+          "image_keyword": "Trattoria Da Ponte",
+          "star_rating": 4.6,
+          "price_range": "$$",
+          "must_try": "Tagliatelle al Ragù",
+          "klook_query": "Trattoria Da Ponte booking"
+        },
+        {
+          "id": "mercato-di-rialto",
+          "name": "Рынок Риальто",
+          "type": "street_food",
+          "description": "Рынок Риальто - обязательное место для любителей уличной еды. Здесь вы можете попробовать свежие морепродукты, местные сыры и сезонные фрукты. Оживленная атмосфера и яркие киоски делают это место увлекательным для исследования. Не пропустите возможность попробовать чичетти, маленькие закуски, которые идеально сочетаются с бокалом вина. Цены варьируются, но уличная еда, как правило, доступна.",
+          "image_keyword": "Mercato di Rialto",
+          "star_rating": 4.3,
+          "price_range": "$",
+          "must_try": "Cicchetti",
+          "klook_query": "Rialto Market food tour"
+        },
+        {
+          "id": "pasticceria-da-carlo",
+          "name": "Пастицерия Да Карло",
+          "type": "cafe",
+          "description": "Эта очаровательная кондитерская предлагает разнообразие традиционных венецианских сладостей и выпечки. Атмосфера очаровательная и идеально подходит для перерыва на кофе. Обязательно попробуйте тирамису и залети (куки из кукурузной муки). Цены вполне разумные, что делает это идеальным местом для перекуса.",
+          "image_keyword": "Pasticceria Da Carlo",
+          "star_rating": 4.7,
+          "price_range": "$",
+          "must_try": "Tiramisu",
+          "klook_query": "Pasticceria Da Carlo visit"
+        },
+        {
+          "id": "antiche-carampane",
+          "name": "Античe Карампане",
+          "type": "restaurant",
+          "description": "Известный своей традиционной венецианской кухней, Античe Карампане находится вдали от туристических троп. Атмосфера деревенская и уютная, что делает его идеальным для романтического ужина. Спагетти с моллюсками особенно хвалят. Это немного дороже, но стоит каждой копейки за впечатление.",
+          "image_keyword": "Antiche Carampane",
+          "star_rating": 4.8,
+          "price_range": "$$$",
+          "must_try": "Spaghetti with Clams",
+          "klook_query": "Antiche Carampane reservation"
+        },
+        {
+          "id": "sestieri-venezia",
+          "name": "Сестьери ди Венеция",
+          "type": "night_market",
+          "description": "Сестьери ди Венеция предлагает яркий опыт ночной жизни с множеством киосков с едой, предлагающих местные деликатесы. Это идеальное место, чтобы попробовать разнообразные блюда в живой обстановке. Наслаждайтесь атмосферой, пробуя аранчини и другие местные закуски. Цены доступные, что делает его отличным местом для позднего ужина.",
+          "image_keyword": "Sestieri di Venezia",
+          "star_rating": 4.2,
+          "price_range": "$",
+          "must_try": "Arancini",
+          "klook_query": "Sestieri di Venezia food tour"
+        },
+        {
+          "id": "gelateria-nuova-melodia",
+          "name": "Гелатерия Нова Мелодия",
+          "type": "cafe",
+          "description": "Гелатерия Нова Мелодия известна своим ремесленным джелато, приготовленным из свежих местных ингредиентов. Широкий выбор вкусов порадует ваши вкусовые рецепторы. Очаровательный магазин предлагает уютную атмосферу для наслаждения десертом. Цены конкурентоспособные, что делает это приятным угощением во время изучения Венеции.",
+          "image_keyword": "Gelateria Nuova Melodia",
+          "star_rating": 4.9,
+          "price_range": "$",
+          "must_try": "Pistachio Gelato",
+          "klook_query": "Gelateria Nuova Melodia visit"
+        }
+      ]
+    }
+  }
+}
