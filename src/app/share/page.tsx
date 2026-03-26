@@ -165,11 +165,13 @@ function WorkspaceContent() {
             const cityName = itinerary.destination || destination || "";
             itinerary.days[activeDayIndex].activities.forEach((act: any, idx: number) => {
                 const activityId = `${activeDayIndex}-${idx}-${act.title}`;
-                // Skip if it is hotel or flight departure
-                if (act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) {
+                // Skip transport/hotel/flight/logistic activities — no good photo exists
+                const skipKeywords = ['航班', '出發', '住宿', '入住', '機場', '返回', '回到', '前往', '領取', '行李', '退房', '搭車', '搭乘', '計程車', '交通', 'check-in', 'check out', 'hotel', 'flight', 'airport', 'taxi', 'transfer'];
+                if (skipKeywords.some(k => act.title.toLowerCase().includes(k.toLowerCase()))) {
                     return;
                 }
-                const primaryKeyword = act.imageSearchKeyword || act.location || act.title;
+                // Use imageSearchKeyword if available, else combine city + title for better accuracy
+                const primaryKeyword = act.imageSearchKeyword || `${cityName} ${act.location || act.title}`;
                 const fallbackKeyword = `${cityName} ${primaryKeyword}`;
                 fetchActivityImage(cityName, primaryKeyword, fallbackKeyword, activityId);
             });
@@ -780,7 +782,7 @@ function WorkspaceContent() {
                     <div className="w-full lg:w-2/3 flex flex-col gap-4 pb-16 print:w-full print:block">
                         {itinerary ? (
                             <>
-                                <div className="flex flex-wrap justify-end gap-2 mb-4 print:hidden">
+                                <div className="hidden sm:flex flex-wrap justify-end gap-2 mb-4 print:hidden">
                                     <button
                                         onClick={async () => {
                                             try {
@@ -1045,29 +1047,28 @@ function WorkspaceContent() {
                                                                     {/* Time and Marker */}
                                                                     <div className="flex gap-4 items-start">
                                                                         {/* Left Time Column */}
-                                                                        <div className="w-12 sm:w-16 shrink-0 text-right pt-1">
-                                                                            <div className="text-white font-bold text-xs sm:text-sm leading-tight">{act.time.split(' ')[0]}</div>
-                                                                            <div className="text-gray-500 text-[10px] sm:text-xs font-medium hidden sm:block">{act.time.split(' ').slice(1).join(' ') || ''}</div>
+                                                                        <div className="w-10 sm:w-14 shrink-0 text-right pt-1">
+                                                                            <div className="text-white font-bold text-[11px] sm:text-sm leading-tight">{act.time.split(' ')[0]}</div>
                                                                         </div>
 
                                                                         {/* Center Line & Node */}
-                                                                        <div className="flex flex-col items-center shrink-0 relative w-6 sm:w-8 min-h-[80px] -ml-1 sm:-ml-2">
+                                                                        <div className="flex flex-col items-center shrink-0 relative w-5 sm:w-7 min-h-[80px] -ml-1 sm:-ml-2">
                                                                             {/* Node Circle */}
-                                                                            <div className="w-6 h-6 sm:w-8 sm:h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-xs sm:text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
+                                                                            <div className="w-5 h-5 sm:w-7 sm:h-7 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-[10px] sm:text-xs z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
                                                                                 {j + 1}
                                                                             </div>
                                                                             {/* Connecting Line to next activity */}
                                                                             {j < (currentDay.activities.length - 1) && (
-                                                                                <div className="w-[2px] h-full bg-[#333] absolute top-6 sm:top-8 bottom-0"></div>
+                                                                                <div className="w-[2px] h-full bg-[#333] absolute top-5 sm:top-7 bottom-0"></div>
                                                                             )}
                                                                         </div>
 
                                                                         {/* Right Content */}
                                                                         <div className="flex-1 pb-8 w-full overflow-hidden">
-                                                                            <div className="bg-transparent mb-1 flex flex-col lg:flex-row items-start gap-4 lg:gap-5 w-full">
+                                                                            <div className="bg-transparent mb-1 flex flex-col sm:flex-row lg:flex-row items-start gap-3 lg:gap-5 w-full">
                                                                                 {/* Image Container */}
-                                                                                {!(act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) && (
-                                                                                    <div className="w-full h-36 sm:h-44 lg:h-auto lg:w-[240px] shrink-0 rounded-xl overflow-hidden lg:aspect-video bg-[#1A1A1A] border border-white/5 relative group">
+                                                                                {!['航班','出發','住宿','入住','機場','返回','回到','前往','領取','行李','退房','搭車','搭乘','計程車','交通','check-in','check out','hotel','flight','airport','taxi','transfer'].some(k => act.title.toLowerCase().includes(k.toLowerCase())) && (
+                                                                                    <div className="w-full sm:w-32 sm:h-24 lg:h-auto lg:w-[200px] h-36 shrink-0 rounded-xl overflow-hidden lg:aspect-video bg-[#1A1A1A] border border-white/5 relative group">
                                                                                         {fetchingImages[`${activeRenderIndex}-${j}-${act.title}`] || !activityImages[`${activeRenderIndex}-${j}-${act.title}`] ? (
                                                                                             <div className="absolute inset-0 flex items-center justify-center bg-[#1A1A1A] animate-pulse">
                                                                                                 <ImageIcon size={24} className="text-gray-600" />

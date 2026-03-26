@@ -76,9 +76,9 @@ function WorkspaceContent() {
             };
             const locale = localeMap[language] || "en-US";
             const options: Intl.DateTimeFormatOptions = {
+                year: "numeric",
                 month: "short",
                 day: "numeric",
-                weekday: "short"
             };
             return new Intl.DateTimeFormat(locale, options).format(date);
         } catch {
