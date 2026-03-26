@@ -28,7 +28,7 @@ function LoadingOverlay({ t }: { t: Record<string, string> }) {
         t.ws_loading_step4 || "✨ Adding local tips & hidden gems...",
     ];
     useEffect(() => {
-        const timings = [800, 2500, 5000, 9000];
+        const timings = [0, 3000, 8000, 14000];
         const timers = timings.map((delay, i) => setTimeout(() => setStep(i + 1), delay));
         return () => timers.forEach(clearTimeout);
     }, []);
