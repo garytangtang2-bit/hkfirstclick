@@ -504,9 +504,9 @@ function WorkspaceContent() {
                                                             type="date"
                                                             value={dates.start}
                                                             onChange={(e) => setDates({ ...dates, start: e.target.value })}
-                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}
+                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [color:transparent] caret-transparent ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}
                                                         />
-                                                        <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.start ? 'text-white' : 'text-gray-400'}`}>
+                                                        <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-10 font-medium ${dates.start ? 'text-white' : 'text-gray-400'}`}>
                                                             <span>{formatDateString(dates.start) || t.date_ph}</span>
                                                         </div>
                                                     </div>
@@ -526,9 +526,9 @@ function WorkspaceContent() {
                                                             value={dates.end}
                                                             min={dates.start}
                                                             onChange={(e) => setDates({ ...dates, end: e.target.value })}
-                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 text-white focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [&::-webkit-datetime-edit]:text-transparent ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}
+                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [color:transparent] caret-transparent ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}
                                                         />
-                                                        <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-0 font-medium ${dates.end ? 'text-white' : 'text-gray-400'}`}>
+                                                        <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-10 font-medium ${dates.end ? 'text-white' : 'text-gray-400'}`}>
                                                             <span>{formatDateString(dates.end) || t.date_ph}</span>
                                                         </div>
                                                     </div>
@@ -894,7 +894,7 @@ function WorkspaceContent() {
                     <div className="w-full lg:w-2/3 flex flex-col gap-4 pb-16 print:w-full print:block">
                         {itinerary ? (
                             <>
-                                <div className="flex justify-end gap-3 mb-4 print:hidden">
+                                <div className="flex flex-wrap justify-end gap-2 mb-4 print:hidden">
                                     <button
                                         onClick={async () => {
                                             try {
