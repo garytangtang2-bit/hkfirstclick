@@ -19,6 +19,7 @@
         "@vercel/speed-insights": "^2.0.0",
         "dotenv": "^17.3.1",
         "google-translate-api-x": "^10.7.2",
+        "html2canvas": "^1.4.1",
         "lucide-react": "^0.475.0",
         "negotiator": "^1.0.0",
         "next": "^16.1.6",

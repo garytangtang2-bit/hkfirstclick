@@ -4,8 +4,9 @@ import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useRef, useEffect } from "react";
 
-import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark, QrCode, X, MessageCircle } from "lucide-react";
+import { Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark, QrCode, X, MessageCircle, ImageDown } from "lucide-react";
 import { QRCodeSVG } from "qrcode.react";
+import html2canvas from "html2canvas";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
 
@@ -85,6 +86,39 @@ function WorkspaceContent() {
     const [budget, setBudget] = useState("");
     const [isPrinting, setIsPrinting] = useState(false);
     const [showQR, setShowQR] = useState(false);
+    const [savingImage, setSavingImage] = useState(false);
+
+    const handleSaveImage = async () => {
+        const el = document.getElementById("exportable-itinerary");
+        if (!el) return;
+        setSavingImage(true);
+        try {
+            // Show all days for the screenshot
+            const hiddenEls = el.querySelectorAll<HTMLElement>(".hidden");
+            hiddenEls.forEach(e => { e.dataset.wasHidden = "true"; e.classList.remove("hidden"); e.classList.add("block"); });
+
+            const canvas = await html2canvas(el, {
+                backgroundColor: "#111111",
+                scale: 2,
+                useCORS: true,
+                allowTaint: true,
+                logging: false,
+            });
+
+            // Restore hidden state
+            hiddenEls.forEach(e => { if (e.dataset.wasHidden) { e.classList.add("hidden"); e.classList.remove("block"); delete e.dataset.wasHidden; } });
+
+            const link = document.createElement("a");
+            link.download = `${itinerary?.destination || "itinerary"}_${dates.start}_${dates.end}.png`;
+            link.href = canvas.toDataURL("image/png");
+            link.click();
+        } catch (e) {
+            console.error(e);
+            alert("Failed to save image. Please try again.");
+        } finally {
+            setSavingImage(false);
+        }
+    };
     const [dietaryTags, setDietaryTags] = useState<string[]>([]);
     const [dietaryOther, setDietaryOther] = useState("");
     const [mustVisit, setMustVisit] = useState("");
@@ -325,11 +359,11 @@ function WorkspaceContent() {
     return (
         <div className="workspace-container">
             {loading && <LoadingOverlay t={t} />}
-            <div className="max-w-7xl mx-auto px-6 py-12 md:px-12 min-h-screen">
-                <div className="flex flex-col lg:flex-row gap-12">
+            <div className="max-w-7xl mx-auto px-3 sm:px-6 py-6 sm:py-12 md:px-12 min-h-screen">
+                <div className="flex flex-col lg:flex-row gap-6 lg:gap-12">
 
-                    {/* Left Form / Chat Panel */}
-                    <div className="w-full lg:w-1/3 flex flex-col gap-8 lg:sticky lg:top-6 lg:h-max z-20 print:hidden">
+                    {/* Left Form / Chat Panel — hidden on mobile when itinerary is loaded */}
+                    <div className={`w-full lg:w-1/3 flex flex-col gap-8 lg:sticky lg:top-6 lg:h-max z-20 print:hidden ${itinerary ? "hidden lg:flex" : "flex"}`}>
                         {/* Promotional / Affiliate Block */}
                         {!itinerary && (
                             <div className="bg-[#121212] border border-[#2A2A35] rounded-2xl p-6 relative overflow-hidden group hover:border-[#3A3A45] transition-colors shadow-lg shadow-black/50">
@@ -746,7 +780,7 @@ function WorkspaceContent() {
                     <div className="w-full lg:w-2/3 flex flex-col gap-4 pb-16 print:w-full print:block">
                         {itinerary ? (
                             <>
-                                <div className="flex justify-end gap-3 mb-4 print:hidden">
+                                <div className="flex flex-wrap justify-end gap-2 mb-4 print:hidden">
                                     <button
                                         onClick={async () => {
                                             try {
@@ -787,7 +821,18 @@ function WorkspaceContent() {
                                         className="bg-[#2A2A35] hover:bg-[#3A3A45] text-white border border-white/10 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"
                                     >
                                         <Download size={16} />
-                                        {t.ws_save_pdf || "Save as PDF (1 點)"}
+                                        <span className="hidden sm:inline">{t.ws_save_pdf || "Save as PDF (1 點)"}</span>
+                                        <span className="sm:hidden">PDF</span>
+                                    </button>
+                                    {/* Save as Image */}
+                                    <button
+                                        onClick={handleSaveImage}
+                                        disabled={savingImage}
+                                        className="bg-purple-600/20 hover:bg-purple-600 text-purple-400 hover:text-white border border-purple-500/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors disabled:opacity-50"
+                                    >
+                                        {savingImage ? <Loader2 size={16} className="animate-spin" /> : <ImageDown size={16} />}
+                                        <span className="hidden sm:inline">{t.save_image || "Save as Image"}</span>
+                                        <span className="sm:hidden">IMG</span>
                                     </button>
                                     <button
                                         onClick={async () => {
@@ -873,8 +918,8 @@ function WorkspaceContent() {
                                                 <Sparkles size={12} /> {t.rev_ai_tag || "AI PRO GENERATED"}
                                             </div>
                                         </div>
-                                        <h2 className="text-4xl font-black text-white glow-text mb-1">{itinerary.destination || destination}</h2>
-                                        <p className="text-gray-300 font-medium text-lg mb-6">{dates.start} — {dates.end}</p>
+                                        <h2 className="text-2xl sm:text-4xl font-black text-white glow-text mb-1">{itinerary.destination || destination}</h2>
+                                        <p className="text-gray-300 font-medium text-base sm:text-lg mb-4 sm:mb-6">{dates.start} — {dates.end}</p>
 
                                         {/* Flight and Hotel Cards */}
                                         {(itinerary.flights || itinerary.hotel) && (
@@ -1144,6 +1189,39 @@ function WorkspaceContent() {
                     </div>
                 </div>
             </div>
+
+            {/* Mobile bottom action bar — only shows when itinerary is loaded */}
+            {itinerary && (
+                <div className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-[#0A0F1E]/95 backdrop-blur-md border-t border-white/10 px-4 py-3 flex gap-2 print:hidden">
+                    <button
+                        onClick={handleSaveImage}
+                        disabled={savingImage}
+                        className="flex-1 bg-purple-600 text-white font-bold py-3 rounded-xl flex items-center justify-center gap-2 text-sm disabled:opacity-50"
+                    >
+                        {savingImage ? <Loader2 size={16} className="animate-spin" /> : <ImageDown size={16} />}
+                        {t.save_image || "Save Image"}
+                    </button>
+                    <button
+                        onClick={() => setShowQR(true)}
+                        className="flex-1 bg-white/10 text-white font-bold py-3 rounded-xl flex items-center justify-center gap-2 text-sm border border-white/10"
+                    >
+                        <QrCode size={16} />
+                        QR Code
+                    </button>
+                    <a
+                        href={`https://api.whatsapp.com/send?text=${encodeURIComponent((t.share_text || '來看看我的專屬 AI 旅遊行程！') + ' ' + (typeof window !== 'undefined' ? `${window.location.origin}/share?id=${itineraryId}&lang=${encodeURIComponent(language)}` : ''))}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex-1 bg-[#25D366] text-white font-bold py-3 rounded-xl flex items-center justify-center gap-2 text-sm"
+                    >
+                        <MessageCircle size={16} />
+                        WhatsApp
+                    </a>
+                </div>
+            )}
+
+            {/* Bottom padding on mobile to account for fixed action bar */}
+            {itinerary && <div className="lg:hidden h-20 print:hidden" />}
         </div >
     );
 }
