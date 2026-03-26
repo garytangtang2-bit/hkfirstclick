@@ -910,9 +910,9 @@ function WorkspaceContent() {
                                     </div>
                                 )}
 
-                                <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
+                                <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-xl sm:rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl">
                                     {/* Hero Summary Section */}
-                                    <div className="pt-8 px-6 sm:px-8 pb-6 bg-[#161616]">
+                                    <div className="pt-6 sm:pt-8 px-4 sm:px-8 pb-4 sm:pb-6 bg-[#161616]">
                                         <div className="flex items-center gap-2 mb-2">
                                             <div className="text-xs font-bold bg-[#EEDC00] text-black px-2 py-0.5 rounded tracking-widest flex items-center gap-1.5">
                                                 <Sparkles size={12} /> {t.rev_ai_tag || "AI PRO GENERATED"}
@@ -968,14 +968,14 @@ function WorkspaceContent() {
                                     </div>
 
                                     {/* Day Navigation Bar */}
-                                    <div className="sticky top-0 z-30 bg-[#161616] border-y border-white/10 px-4 sm:px-8 flex items-center overflow-x-auto hide-scrollbar shadow-md">
-                                        <div className="flex items-center gap-6 min-w-max">
-                                            <button onClick={() => setActiveDayIndex(-1)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === -1 ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
-                                                [{t.ws_day_overview || "總覽"}]
+                                    <div className="sticky top-0 z-30 bg-[#161616] border-y border-white/10 px-2 sm:px-8 flex items-center overflow-x-auto hide-scrollbar shadow-md">
+                                        <div className="flex items-center gap-1 sm:gap-6 min-w-max">
+                                            <button onClick={() => setActiveDayIndex(-1)} className={`py-3 sm:py-4 px-2 sm:px-0 text-xs sm:text-sm font-bold border-b-2 transition-colors whitespace-nowrap ${activeDayIndex === -1 ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
+                                                {t.ws_day_overview || "總覽"}
                                             </button>
                                             {itinerary.days?.map((day: any, i: number) => (
-                                                <button key={i} onClick={() => setActiveDayIndex(i)} className={`py-4 text-sm font-bold border-b-2 transition-colors ${activeDayIndex === i ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
-                                                    [{(t.ws_day_label || "第 {n} 天").replace("{n}", String(i + 1))}]
+                                                <button key={i} onClick={() => setActiveDayIndex(i)} className={`py-3 sm:py-4 px-2 sm:px-0 text-xs sm:text-sm font-bold border-b-2 transition-colors whitespace-nowrap ${activeDayIndex === i ? "border-[#EEDC00] text-[#EEDC00]" : "border-transparent text-gray-400 hover:text-white"}`}>
+                                                    Day {i + 1}
                                                 </button>
                                             ))}
                                         </div>
@@ -986,7 +986,7 @@ function WorkspaceContent() {
 
 
                                         {/* Budget Summary Box */}
-                                        <div className="m-8 bg-[#0E0E0E] border border-white/10 rounded-2xl p-6 relative overflow-hidden group">
+                                        <div className="m-3 sm:m-8 bg-[#0E0E0E] border border-white/10 rounded-2xl p-4 sm:p-6 relative overflow-hidden group">
                                             <div className="absolute inset-0 bg-gradient-to-br from-[#EEDC00]/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
                                             <h3 className="text-lg font-bold text-white mb-4 flex items-center gap-2 relative z-10">
                                                 <DollarSign size={18} className="text-[#EEDC00]" /> {t.ws_budget_title || "Budget Tracker"}
@@ -1023,7 +1023,7 @@ function WorkspaceContent() {
 
                                                 {/* Vertical Timeline Section for Active Day */}
                                                 <div className="bg-[#111111] pb-12 pt-6">
-                                                    <div className="pt-8 px-4 sm:px-8">
+                                                    <div className="pt-4 sm:pt-8 px-3 sm:px-8">
                                                         {/* Day Summary / Theme */}
                                                         {currentDay?.daySummary && (
                                                             <div className="mb-8 p-4 sm:px-5 bg-gradient-to-r from-[#1A1A1A] to-[#161616] border border-white/5 rounded-2xl relative overflow-hidden flex items-start gap-4">
@@ -1045,20 +1045,20 @@ function WorkspaceContent() {
                                                                     {/* Time and Marker */}
                                                                     <div className="flex gap-4 items-start">
                                                                         {/* Left Time Column */}
-                                                                        <div className="w-16 shrink-0 text-right pt-1">
-                                                                            <div className="text-white font-bold text-sm leading-tight">{act.time.split(' ')[0]}</div>
-                                                                            <div className="text-gray-500 text-xs font-medium">{act.time.split(' ').slice(1).join(' ') || ''}</div>
+                                                                        <div className="w-12 sm:w-16 shrink-0 text-right pt-1">
+                                                                            <div className="text-white font-bold text-xs sm:text-sm leading-tight">{act.time.split(' ')[0]}</div>
+                                                                            <div className="text-gray-500 text-[10px] sm:text-xs font-medium hidden sm:block">{act.time.split(' ').slice(1).join(' ') || ''}</div>
                                                                         </div>
 
                                                                         {/* Center Line & Node */}
-                                                                        <div className="flex flex-col items-center shrink-0 relative w-8 min-h-[100px] -ml-2">
+                                                                        <div className="flex flex-col items-center shrink-0 relative w-6 sm:w-8 min-h-[80px] -ml-1 sm:-ml-2">
                                                                             {/* Node Circle */}
-                                                                            <div className="w-8 h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
+                                                                            <div className="w-6 h-6 sm:w-8 sm:h-8 rounded-full bg-[#FF7B89] flex items-center justify-center text-white font-bold text-xs sm:text-sm z-10 shadow-[0_0_10px_rgba(255,123,137,0.3)] border-2 border-[#111]">
                                                                                 {j + 1}
                                                                             </div>
                                                                             {/* Connecting Line to next activity */}
                                                                             {j < (currentDay.activities.length - 1) && (
-                                                                                <div className="w-[2px] h-full bg-[#333] absolute top-8 bottom-0"></div>
+                                                                                <div className="w-[2px] h-full bg-[#333] absolute top-6 sm:top-8 bottom-0"></div>
                                                                             )}
                                                                         </div>
 
@@ -1067,7 +1067,7 @@ function WorkspaceContent() {
                                                                             <div className="bg-transparent mb-1 flex flex-col lg:flex-row items-start gap-4 lg:gap-5 w-full">
                                                                                 {/* Image Container */}
                                                                                 {!(act.title.includes('航班') || act.title.includes('出發') || act.title.includes('住宿') || act.title.includes('入住') || act.title.includes('機場')) && (
-                                                                                    <div className="w-full lg:w-[240px] shrink-0 rounded-xl overflow-hidden aspect-video bg-[#1A1A1A] border border-white/5 relative group">
+                                                                                    <div className="w-full h-36 sm:h-44 lg:h-auto lg:w-[240px] shrink-0 rounded-xl overflow-hidden lg:aspect-video bg-[#1A1A1A] border border-white/5 relative group">
                                                                                         {fetchingImages[`${activeRenderIndex}-${j}-${act.title}`] || !activityImages[`${activeRenderIndex}-${j}-${act.title}`] ? (
                                                                                             <div className="absolute inset-0 flex items-center justify-center bg-[#1A1A1A] animate-pulse">
                                                                                                 <ImageIcon size={24} className="text-gray-600" />
@@ -1093,9 +1093,9 @@ function WorkspaceContent() {
                                                                                     </div>
                                                                                 )}
 
-                                                                                <div className="flex-1 flex flex-col sm:flex-row items-start justify-between gap-4 w-full">
+                                                                                <div className="flex-1 flex flex-col md:flex-row items-start justify-between gap-3 w-full">
                                                                                     <div>
-                                                                                        <h4 className="font-bold text-white text-[17px] flex items-center gap-2">
+                                                                                        <h4 className="font-bold text-white text-[15px] sm:text-[17px] flex items-center gap-2">
                                                                                             {act.title.includes('航班') || act.title.includes('出發') ? <PlaneTakeoff size={18} className="text-gray-400" /> : null}
                                                                                             {act.title.includes('住宿') || act.title.includes('入住') ? <Building2 size={18} className="text-gray-400" /> : null}
                                                                                             {act.title}
@@ -1120,7 +1120,7 @@ function WorkspaceContent() {
                                                                                     </div>
 
                                                                                     {/* Actions/Cost */}
-                                                                                    <div className="flex flex-col items-start sm:items-end gap-2 shrink-0 print:hidden">
+                                                                                    <div className="flex flex-row md:flex-col items-center md:items-end gap-2 shrink-0 print:hidden flex-wrap">
                                                                                         {act.needsTicket === true && act.cost && act.cost !== "0" && act.cost.toLowerCase() !== "free" && !act.isFood ? (
                                                                                             <div className="flex flex-col items-start sm:items-end w-full gap-1.5">
                                                                                                 <span className="text-gray-400 text-xs bg-white/5 px-2 py-1 rounded self-start sm:self-end">
