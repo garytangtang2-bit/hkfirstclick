@@ -3,7 +3,8 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
-import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Coins, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark } from "lucide-react";
+import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Coins, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark, QrCode, X, MessageCircle } from "lucide-react";
+import { QRCodeSVG } from "qrcode.react";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
 import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
@@ -123,6 +124,7 @@ function WorkspaceContent() {
     const [activityImages, setActivityImages] = useState<Record<string, string>>({});
     const [imageSources, setImageSources] = useState<Record<string, string>>({});
     const [fetchingImages, setFetchingImages] = useState<Record<string, boolean>>({});
+    const [showQR, setShowQR] = useState(false);
 
     const DEFAULT_IMAGE = "https://images.unsplash.com/photo-1488085061387-422e29b40080?q=80&w=500&auto=format&fit=crop";
 
@@ -939,7 +941,59 @@ function WorkspaceContent() {
                                         <Globe2 size={16} />
                                         {t.ws_share}
                                     </button>
+                                    {/* WhatsApp Share */}
+                                    <a
+                                        href={`https://api.whatsapp.com/send?text=${encodeURIComponent((t.share_text || '來看看我的專屬 AI 旅遊行程！') + ' ' + (typeof window !== 'undefined' ? `${window.location.origin}/share?id=${itineraryId}&lang=${encodeURIComponent(language)}` : ''))}`}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="bg-[#25D366]/10 hover:bg-[#25D366] text-[#25D366] hover:text-white border border-[#25D366]/30 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors print:hidden"
+                                    >
+                                        <MessageCircle size={16} />
+                                        WhatsApp
+                                    </a>
+                                    {/* QR Code Button */}
+                                    <button
+                                        onClick={() => setShowQR(true)}
+                                        className="bg-white/5 hover:bg-white/10 text-white border border-white/10 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors print:hidden"
+                                    >
+                                        <QrCode size={16} />
+                                        {t.qr_send_to_phone || "Send to Phone"}
+                                    </button>
                                 </div>
+
+                                {/* QR Code Modal */}
+                                {showQR && (
+                                    <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4" onClick={() => setShowQR(false)}>
+                                        <div className="bg-[#161616] border border-white/10 rounded-3xl p-8 max-w-sm w-full flex flex-col items-center gap-5 shadow-2xl" onClick={e => e.stopPropagation()}>
+                                            <div className="flex items-center justify-between w-full">
+                                                <h3 className="text-white font-black text-lg">{t.qr_title || "Scan to Open on Phone"}</h3>
+                                                <button onClick={() => setShowQR(false)} className="text-gray-400 hover:text-white transition-colors">
+                                                    <X size={20} />
+                                                </button>
+                                            </div>
+                                            <div className="bg-white p-4 rounded-2xl">
+                                                <QRCodeSVG
+                                                    value={typeof window !== 'undefined' ? `${window.location.origin}/share?id=${itineraryId}&lang=${encodeURIComponent(language)}` : ''}
+                                                    size={200}
+                                                    bgColor="#ffffff"
+                                                    fgColor="#000000"
+                                                    level="M"
+                                                />
+                                            </div>
+                                            <p className="text-gray-400 text-sm text-center">{t.qr_desc || "Use your phone camera to scan — opens your itinerary instantly"}</p>
+                                            <a
+                                                href={`https://api.whatsapp.com/send?text=${encodeURIComponent((t.share_text || '來看看我的專屬 AI 旅遊行程！') + ' ' + (typeof window !== 'undefined' ? `${window.location.origin}/share?id=${itineraryId}&lang=${encodeURIComponent(language)}` : ''))}`}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="w-full bg-[#25D366] text-white font-bold py-3 rounded-xl flex items-center justify-center gap-2 hover:bg-[#20bc5a] transition-colors text-sm"
+                                            >
+                                                <MessageCircle size={16} />
+                                                {t.qr_whatsapp || "Send via WhatsApp"}
+                                            </a>
+                                        </div>
+                                    </div>
+                                )}
+
                                 <div id="exportable-itinerary" className="bg-[#111111] border border-white/10 rounded-3xl pb-8 overflow-hidden min-h-full shadow-2xl premium-glass-card">
                                     {/* Hero Summary Section */}
                                     <div className="pt-8 px-6 sm:px-8 pb-6 bg-[#161616] premium-glass-card">
