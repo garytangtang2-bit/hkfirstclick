@@ -496,19 +496,19 @@ function WorkspaceContent() {
                                                         <span className="text-red-500">*</span>
                                                         {showFieldErrors && !dates.start && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                     </label>
-                                                    <div className="relative group">
-                                                        <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors text-muted-premium">
+                                                    <div className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}>
+                                                        <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400">
                                                             <Calendar size={18} />
                                                         </div>
+                                                        <span className={`pl-11 pr-4 py-3 text-sm font-medium pointer-events-none z-10 ${dates.start ? 'text-white' : 'text-gray-400'}`}>
+                                                            {formatDateString(dates.start) || t.date_ph}
+                                                        </span>
                                                         <input
                                                             type="date"
                                                             value={dates.start}
                                                             onChange={(e) => setDates({ ...dates, start: e.target.value })}
-                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [color:transparent] caret-transparent ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}
+                                                            className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
                                                         />
-                                                        <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-10 font-medium ${dates.start ? 'text-white' : 'text-gray-400'}`}>
-                                                            <span>{formatDateString(dates.start) || t.date_ph}</span>
-                                                        </div>
                                                     </div>
                                                 </div>
                                                 <div>
@@ -517,20 +517,20 @@ function WorkspaceContent() {
                                                         <span className="text-red-500">*</span>
                                                         {showFieldErrors && !dates.end && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                     </label>
-                                                    <div className="relative group">
-                                                        <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400 group-hover:text-white transition-colors text-muted-premium">
+                                                    <div className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}>
+                                                        <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400">
                                                             <Calendar size={18} />
                                                         </div>
+                                                        <span className={`pl-11 pr-4 py-3 text-sm font-medium pointer-events-none z-10 ${dates.end ? 'text-white' : 'text-gray-400'}`}>
+                                                            {formatDateString(dates.end) || t.date_ph}
+                                                        </span>
                                                         <input
                                                             type="date"
                                                             value={dates.end}
                                                             min={dates.start}
                                                             onChange={(e) => setDates({ ...dates, end: e.target.value })}
-                                                            className={`w-full bg-[#0E0E0E] min-h-[50px] border rounded-xl pl-11 pr-4 py-3 focus:outline-none focus:border-[#EEDC00] focus:ring-2 focus:ring-[#EEDC00]/20 hover:border-white/30 hover:bg-[#111] transition-colors duration-150 relative z-0 [&::-webkit-calendar-picker-indicator]:absolute [&::-webkit-calendar-picker-indicator]:w-full [&::-webkit-calendar-picker-indicator]:h-full [&::-webkit-calendar-picker-indicator]:opacity-0 [&::-webkit-calendar-picker-indicator]:cursor-pointer [color:transparent] caret-transparent ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}
+                                                            className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
                                                         />
-                                                        <div className={`absolute left-11 top-1/2 -translate-y-1/2 pointer-events-none z-10 font-medium ${dates.end ? 'text-white' : 'text-gray-400'}`}>
-                                                            <span>{formatDateString(dates.end) || t.date_ph}</span>
-                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
