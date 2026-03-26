@@ -169,10 +169,11 @@ export async function POST(req: Request) {
             );
         }
 
-        // 2. Fetch Live Quotes from TravelPayouts API
-        // First, convert cities to IATA codes
-        const originIata = await getCityIata(origin) || origin;
-        const destIata = await getCityIata(destination) || destination;
+        // 2. Fetch Live Quotes from TravelPayouts API — run IATA lookups in parallel
+        const [originIata, destIata] = await Promise.all([
+            getCityIata(origin).then(r => r || origin),
+            getCityIata(destination).then(r => r || destination),
+        ]);
 
         // Fetch Real Flight Data & generate affiliate URLs
         const liveTravelData = await fetchLiveFlightData(originIata, destIata, dates.start, dates.end);
@@ -304,6 +305,7 @@ ${premiumSearchInstruction}
                     }],
                     generationConfig: {
                         responseMimeType: "application/json",
+                        ...(tier !== "PASS" && tier !== "YEARLY" ? { thinkingConfig: { thinkingBudget: 0 } } : {}),
                     }
                 })
             });

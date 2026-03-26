@@ -20,14 +20,35 @@ export default function Workspace() {
 }
 
 function LoadingOverlay({ t }: { t: Record<string, string> }) {
+    const [step, setStep] = useState(0);
+    const steps = [
+        t.ws_loading_step1 || "✈️ Checking flight routes...",
+        t.ws_loading_step2 || "🗺️ Mapping the best spots...",
+        t.ws_loading_step3 || "🤖 AI is crafting your itinerary...",
+        t.ws_loading_step4 || "✨ Adding local tips & hidden gems...",
+    ];
+    useEffect(() => {
+        const timings = [800, 2500, 5000, 9000];
+        const timers = timings.map((delay, i) => setTimeout(() => setStep(i + 1), delay));
+        return () => timers.forEach(clearTimeout);
+    }, []);
+    const progress = [10, 30, 65, 90][Math.min(step, 3)];
     return (
-        <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex flex-col items-center justify-center">
-            <div className="w-full max-w-md px-8 text-center">
-                <div className="w-16 h-16 border-4 border-[#EEDC00] border-t-transparent rounded-full animate-spin mx-auto mb-6"></div>
-                <h3 className="text-2xl font-bold text-white mb-2 glow-text heading-premium">{t.ws_loading_title}</h3>
-                <p className="text-gray-400 mb-6 text-sm text-muted-premium">{t.ws_loading_desc}</p>
-                <div className="w-full h-2 bg-white/10 rounded-full overflow-hidden">
-                    <div className="h-full bg-[#EEDC00] rounded-full animate-pulse shadow-[0_0_15px_rgba(238,220,0,0.5)]" style={{ width: '80%', transition: 'width 10s ease-out' }}></div>
+        <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex flex-col items-center justify-center px-6">
+            <div className="w-full max-w-sm text-center">
+                <div className="w-14 h-14 border-4 border-[#EEDC00] border-t-transparent rounded-full animate-spin mx-auto mb-5"></div>
+                <h3 className="text-xl font-bold text-white mb-1">{t.ws_loading_title || "AI 正在為您規劃專屬行程"}</h3>
+                <p className="text-gray-500 mb-5 text-xs">{t.ws_loading_eta || "通常需要 15-30 秒"}</p>
+                <div className="space-y-2 mb-6 text-left">
+                    {steps.map((s, i) => (
+                        <div key={i} className={`flex items-center gap-2 text-sm transition-all duration-500 ${i < step ? "text-[#EEDC00]" : i === step ? "text-white animate-pulse" : "text-gray-600"}`}>
+                            <span className="text-base">{i < step ? "✓" : i === step ? "›" : "○"}</span>
+                            {s}
+                        </div>
+                    ))}
+                </div>
+                <div className="w-full h-1.5 bg-white/10 rounded-full overflow-hidden">
+                    <div className="h-full bg-[#EEDC00] rounded-full shadow-[0_0_10px_rgba(238,220,0,0.5)] transition-all duration-700" style={{ width: `${progress}%` }}></div>
                 </div>
             </div>
         </div>
