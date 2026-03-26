@@ -42,8 +42,8 @@ export default async function AdminDashboard() {
     // Let's get the 5 most recent signups
     const { data: recentSignups } = await supabaseAdmin
         .from("profiles")
-        .select("id, tier, credits, updated_at")
-        .order("updated_at", { ascending: false })
+        .select("id, tier, credits, created_at, updated_at")
+        .order("created_at", { ascending: false })
         .limit(5);
 
     return (
@@ -121,7 +121,7 @@ export default async function AdminDashboard() {
                                             </td>
                                             <td className="p-4 font-mono text-[#EEDC00]">{profile.credits}</td>
                                             <td className="p-4 text-sm text-gray-500">
-                                                {new Date(profile.updated_at).toLocaleString()}
+                                                {new Date(profile.created_at ?? profile.updated_at).toLocaleString()}
                                             </td>
                                         </tr>
                                     ))
