@@ -93,6 +93,22 @@ function WorkspaceContent() {
         if (!el) return;
         setSavingImage(true);
         try {
+            // Deduct credit (same rules as PDF export)
+            const deductRes = await fetch("/api/deduct-export", { method: "POST" });
+            if (deductRes.status === 401) {
+                alert(t?.err_auth || "Please log in to save image.");
+                return;
+            }
+            if (deductRes.status === 402) {
+                alert("Not enough credits to save image. Please purchase more.");
+                window.location.href = '/pricing';
+                return;
+            }
+            if (!deductRes.ok) {
+                alert("Export failed, please try again.");
+                return;
+            }
+
             // Show all days for the screenshot
             const hiddenEls = el.querySelectorAll<HTMLElement>(".hidden");
             hiddenEls.forEach(e => { e.dataset.wasHidden = "true"; e.classList.remove("hidden"); e.classList.add("block"); });

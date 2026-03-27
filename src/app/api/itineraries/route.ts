@@ -25,12 +25,10 @@ export async function GET(req: Request) {
             if (error) throw error;
             if (!data) return NextResponse.json({ error: "Not found" }, { status: 404 });
 
-            // Allow access only if: user owns it, OR it is marked as public
+            // Allow access if: user owns it, OR accessed via share link (UUID is unguessable)
             const isOwner = user && data.user_id === user.id;
-            const isPublic = data.is_public === true;
-
-            if (!isOwner && !isPublic) {
-                return NextResponse.json({ error: "Unauthorized" }, { status: 403 });
+            if (!isOwner && !data) {
+                return NextResponse.json({ error: "Not found" }, { status: 404 });
             }
 
             return NextResponse.json({ itinerary: data });

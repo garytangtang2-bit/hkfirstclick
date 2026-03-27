@@ -4,6 +4,7 @@ import { Outfit, Noto_Sans, Noto_Sans_Bengali, Noto_Sans_Arabic } from "next/fon
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import CookieConsent from "@/components/CookieConsent";
 
 const outfit = Outfit({
     subsets: ["latin"],
@@ -263,6 +264,7 @@ export default function RootLayout({
                 <div className="liquid-wipe"></div>
 
                 {children}
+                <CookieConsent />
                 <Analytics />
                 <SpeedInsights />
             </body>

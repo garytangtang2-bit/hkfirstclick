@@ -273,11 +273,11 @@ ${premiumSearchInstruction}
         let fallbackModel: string;
 
         if (tier === "PASS" || tier === "YEARLY") {
-            primaryModel = "gemini-2.5-pro"; // Premium: Gemini 3 Flash (most capable)
-            fallbackModel = "gpt-5-mini";     // Premium fallback: GPT-5 Mini
+            primaryModel = "gemini-2.5-pro";   // Premium: Gemini 2.5 Pro (most capable)
+            fallbackModel = "gpt-4.1-mini";    // Premium fallback: GPT-4.1 Mini
         } else {
             primaryModel = "gemini-2.5-flash"; // Free: Gemini 2.5 Flash
-            fallbackModel = "gpt-4o-mini";     // Free fallback: GPT-4o Mini
+            fallbackModel = "gpt-4.1-mini";    // Free fallback: GPT-4.1 Mini
         }
 
         // 5. Call Gemini API securely First

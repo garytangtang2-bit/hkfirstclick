@@ -3,7 +3,7 @@
 import GlobalLayout from "@/components/GlobalLayout";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import { useState, useEffect } from "react";
-import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Coins, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark, QrCode, X, MessageCircle } from "lucide-react";
+import { ArrowRight, Calendar, CheckCircle2, DollarSign, Globe2, Loader2, MapPin, Sparkles, Ticket, Download, Lightbulb, Target, Route, Luggage, Info, PlaneTakeoff, PlaneLanding, Clock, ChevronDown, Building2, Plus, Minus, Maximize, Image as ImageIcon, Coins, Camera, ShoppingBag, UtensilsCrossed, Waves, TreePine, Landmark, QrCode, X, MessageCircle, Music2, Baby } from "lucide-react";
 import { QRCodeSVG } from "qrcode.react";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
@@ -140,6 +140,7 @@ function WorkspaceContent() {
 
     // Tier State for paid features
     const [userTier, setUserTier] = useState<string | null>(null);
+    const [exportConfirm, setExportConfirm] = useState<{ type: "pdf" | "image" } | null>(null);
 
     // Image Caching States
     const [activityImages, setActivityImages] = useState<Record<string, string>>({});
@@ -195,6 +196,8 @@ function WorkspaceContent() {
         { id: "relax", label: t.purp_relax, icon: "Waves" },
         { id: "nature", label: t.purp_nature, icon: "TreePine" },
         { id: "history", label: t.purp_hist, icon: "Landmark" },
+        { id: "nightlife", label: t.purp_night, icon: "Music2" },
+        { id: "family", label: t.purp_fam, icon: "Baby" },
     ];
 
     const getPromptLanguage = (lang: string) => {
@@ -251,6 +254,18 @@ function WorkspaceContent() {
         fetchTier();
 
     }, [supabase]);
+
+    const executePdfExport = async () => {
+        try {
+            const res = await fetch("/api/deduct-export", { method: "POST" });
+            if (res.status === 401) { alert(t.err_auth || "請先登入 / Please log in."); return; }
+            if (res.status === 402) { alert("點數不足，請購買點數。"); window.location.href = '/pricing'; return; }
+            if (!res.ok) { alert("匯出失敗，請稍後再試。"); return; }
+            const originalTitle = document.title;
+            document.title = `${itinerary?.destination || 'Trip'}_Itinerary`;
+            setTimeout(() => { window.print(); document.title = originalTitle; }, 300);
+        } catch (e) { console.error(e); }
+    };
 
     const handleGenerate = async () => {
         if (!origin || !destination || !dates.start || !dates.end) {
@@ -496,7 +511,10 @@ function WorkspaceContent() {
                                                         <span className="text-red-500">*</span>
                                                         {showFieldErrors && !dates.start && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                     </label>
-                                                    <div className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}>
+                                                    <div
+                                                        className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}
+                                                        onClick={() => (document.getElementById('date-start') as HTMLInputElement)?.showPicker?.()}
+                                                    >
                                                         <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400">
                                                             <Calendar size={18} />
                                                         </div>
@@ -504,10 +522,11 @@ function WorkspaceContent() {
                                                             {formatDateString(dates.start) || t.date_ph}
                                                         </span>
                                                         <input
+                                                            id="date-start"
                                                             type="date"
                                                             value={dates.start}
                                                             onChange={(e) => setDates({ ...dates, start: e.target.value })}
-                                                            className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
+                                                            className="absolute inset-0 w-full h-full opacity-0 cursor-pointer z-20"
                                                         />
                                                     </div>
                                                 </div>
@@ -517,7 +536,10 @@ function WorkspaceContent() {
                                                         <span className="text-red-500">*</span>
                                                         {showFieldErrors && !dates.end && <span className="text-red-400 text-xs font-normal normal-case tracking-normal ml-1">{t.err_required || "Required"}</span>}
                                                     </label>
-                                                    <div className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}>
+                                                    <div
+                                                        className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}
+                                                        onClick={() => (document.getElementById('date-end') as HTMLInputElement)?.showPicker?.()}
+                                                    >
                                                         <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400">
                                                             <Calendar size={18} />
                                                         </div>
@@ -525,11 +547,12 @@ function WorkspaceContent() {
                                                             {formatDateString(dates.end) || t.date_ph}
                                                         </span>
                                                         <input
+                                                            id="date-end"
                                                             type="date"
                                                             value={dates.end}
                                                             min={dates.start}
                                                             onChange={(e) => setDates({ ...dates, end: e.target.value })}
-                                                            className="absolute inset-0 w-full h-full opacity-0 cursor-pointer"
+                                                            className="absolute inset-0 w-full h-full opacity-0 cursor-pointer z-20"
                                                         />
                                                     </div>
                                                 </div>
@@ -725,6 +748,8 @@ function WorkspaceContent() {
                                             {p.id === "relax" && <Waves size={14} />}
                                             {p.id === "nature" && <TreePine size={14} />}
                                             {p.id === "history" && <Landmark size={14} />}
+                                            {p.id === "nightlife" && <Music2 size={14} />}
+                                            {p.id === "family" && <Baby size={14} />}
                                             {p.label}
                                                         </button>
                                                     ))}
@@ -896,38 +921,11 @@ function WorkspaceContent() {
                             <>
                                 <div className="flex flex-wrap justify-end gap-2 mb-4 print:hidden">
                                     <button
-                                        onClick={async () => {
-                                            try {
-                                                const res = await fetch("/api/deduct-export", {
-                                                    method: "POST"
-                                                });
-
-                                                if (res.status === 401) {
-                                                    alert(t.err_auth || "請先登入才能匯出 PDF / Please log in to export PDF.");
-                                                    return;
-                                                }
-
-                                                if (res.status === 402) {
-                                                    alert("點數不足以匯出 PDF。請至定價頁面購買點數 / Not enough credits to export PDF. Please purchase more.");
-                                                    window.location.href = '/pricing';
-                                                    return;
-                                                }
-
-                                                if (!res.ok) {
-                                                    alert("匯出失敗，請稍後再試 / Export failed, please try again.");
-                                                    return;
-                                                }
-
-                                                const originalTitle = document.title;
-                                                document.title = `${itinerary.destination || 'Trip'}_Itinerary`;
-
-                                                setTimeout(() => {
-                                                    window.print();
-                                                    document.title = originalTitle;
-                                                }, 300);
-                                            } catch (e) {
-                                                console.error(e);
-                                                alert("發生錯誤 / An error occurred.");
+                                        onClick={() => {
+                                            if (userTier === "TRIAL" || userTier === "Casual") {
+                                                setExportConfirm({ type: "pdf" });
+                                            } else {
+                                                executePdfExport();
                                             }
                                         }}
                                         className="relative group overflow-hidden bg-gradient-to-r from-[#2A2A35] to-[#1A1A25] hover:from-[#3A3A45] hover:to-[#2A2A35] text-white border border-white/10 px-5 py-2.5 rounded-2xl text-sm font-bold flex items-center gap-3 [transition:background-image_200ms_ease,transform_200ms_ease] shadow-lg active:scale-95"
@@ -935,9 +933,6 @@ function WorkspaceContent() {
                                         <div className="absolute inset-0 bg-[#EEDC00]/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
                                         <Download size={18} className="text-[#EEDC00]" />
                                         <span className="relative z-10">{t.ws_save_pdf || "Save as PDF"}</span>
-                                        <span className="bg-[#EEDC00] text-black text-[10px] px-1.5 py-0.5 rounded-md font-black ml-1 shadow-[0_0_10px_rgba(238,220,0,0.3)]">
-                                            1 點
-                                        </span>
                                     </button>
                                     <button
                                         onClick={async () => {
@@ -1288,6 +1283,40 @@ function WorkspaceContent() {
                     </div>
                 </div>
             </div>
+
+            {/* Export Confirm Modal */}
+            {exportConfirm && (
+                <div className="fixed inset-0 z-[9999] bg-black/70 backdrop-blur-sm flex items-center justify-center p-6">
+                    <div className="bg-[#161616] border border-white/10 rounded-2xl p-8 max-w-sm w-full text-center shadow-2xl">
+                        <div className="w-14 h-14 bg-[#EEDC00]/10 rounded-full flex items-center justify-center mx-auto mb-4">
+                            {exportConfirm.type === "pdf" ? <Download size={24} className="text-[#EEDC00]" /> : <Download size={24} className="text-[#EEDC00]" />}
+                        </div>
+                        <h3 className="text-lg font-black text-white mb-2">
+                            {exportConfirm.type === "pdf" ? (t.ws_save_pdf || "Save as PDF") : (t.save_image || "Save as Image")}
+                        </h3>
+                        <p className="text-gray-400 text-sm mb-6">
+                            {t.export_confirm_desc || "This will deduct"} <span className="text-[#EEDC00] font-black">1 {t.credits_label || "點"}</span> {t.export_confirm_desc2 || "from your account."}
+                        </p>
+                        <div className="flex gap-3">
+                            <button
+                                onClick={() => setExportConfirm(null)}
+                                className="flex-1 bg-white/5 border border-white/10 text-gray-300 font-bold py-3 rounded-xl hover:bg-white/10 transition-colors"
+                            >
+                                {t.btn_cancel || "取消"}
+                            </button>
+                            <button
+                                onClick={async () => {
+                                    setExportConfirm(null);
+                                    if (exportConfirm.type === "pdf") await executePdfExport();
+                                }}
+                                className="flex-1 bg-[#EEDC00] text-black font-black py-3 rounded-xl hover:bg-yellow-300 transition-colors"
+                            >
+                                {t.btn_confirm || "確認"}
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 }

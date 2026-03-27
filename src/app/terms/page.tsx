@@ -2,7 +2,7 @@
 
 import GlobalLayout from "@/components/GlobalLayout";
 import { useAppContext } from "@/components/AppContext";
-import { FileText, CreditCard, RefreshCw, Mail, AlertCircle } from "lucide-react";
+import { FileText, CreditCard, RefreshCw, Mail, AlertCircle, Users } from "lucide-react";
 
 export default function TermsPage() {
     return (
@@ -130,6 +130,39 @@ function TermsContent() {
                                 <li>Create multiple accounts to circumvent the free trial limits / 建立多個帳號以規避試用限制</li>
                             </ul>
                             <p className="text-sm text-gray-500">We reserve the right to suspend accounts that violate these terms. 違反條款的帳號將被暫停服務。</p>
+                        </div>
+                    </section>
+
+                    {/* Affiliate Program */}
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
+                        <div className="flex items-center gap-4 mb-6">
+                            <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
+                                <Users size={28} />
+                            </div>
+                            <h2 className="text-2xl font-bold">Affiliate Program / 聯盟推廣計劃</h2>
+                        </div>
+                        <div className="text-gray-300 leading-relaxed space-y-4">
+                            <p>HKfirstclick operates an affiliate referral program. By joining, you agree to the following terms:</p>
+                            <p className="text-gray-400">HKfirstclick 設有聯盟推廣計劃。加入即代表您同意以下條款：</p>
+                            <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-3 text-sm text-gray-300">
+                                <p>• <strong className="text-white">Disclosure requirement:</strong> You must clearly disclose your affiliate relationship when promoting HKfirstclick. This includes adding a statement such as <em>"This is an affiliate link — I earn a commission if you make a purchase"</em> in all promotional content, including but not limited to social media posts, blog articles, videos, and emails.</p>
+                                <p className="text-gray-400">• <strong className="text-white">披露要求：</strong>推廣 HKfirstclick 時，您必須清楚聲明您與本平台的推廣夥伴關係，例如：「此為推廣連結，若您完成購買，本人將獲得佣金。」此要求適用於所有推廣內容，包括但不限於社交媒體、文章、影片及電郵。</p>
+
+                                <p>• <strong className="text-white">Prohibited conduct:</strong> Affiliates may not use misleading, deceptive, or spam-based promotion methods. Self-referrals (referring yourself) are strictly prohibited and will result in immediate account suspension.</p>
+                                <p className="text-gray-400">• <strong className="text-white">禁止行為：</strong>推廣夥伴不得使用誤導性、欺騙性或垃圾訊息方式推廣。嚴禁自我推薦（使用自己的推廣連結購買），違者將被立即暫停帳號。</p>
+
+                                <p>• <strong className="text-white">Commission:</strong> Commissions are calculated as a percentage of the referred sale (USD) and are subject to a minimum payout threshold set by the affiliate. HKfirstclick reserves the right to adjust commission rates with 30 days notice.</p>
+                                <p className="text-gray-400">• <strong className="text-white">佣金：</strong>佣金按推薦銷售額（美元）的百分比計算，並須達到推廣夥伴設定的最低出款金額方可提取。HKfirstclick 保留在提前30天通知的情況下調整佣金比率的權利。</p>
+
+                                <p>• <strong className="text-white">Payout:</strong> Payouts are made via PayPal only. All PayPal transaction fees are covered by HKfirstclick. Payouts are processed within 14 days of reaching the minimum threshold.</p>
+                                <p className="text-gray-400">• <strong className="text-white">出款：</strong>僅支援 PayPal 出款，所有 PayPal 手續費由 HKfirstclick 承擔。達到最低出款門檻後，將於14個工作天內處理。</p>
+
+                                <p>• <strong className="text-white">Termination:</strong> HKfirstclick reserves the right to terminate any affiliate account that violates these terms, engages in fraudulent activity, or causes reputational harm to HKfirstclick. Pending commissions from fraudulent activity will be forfeited.</p>
+                                <p className="text-gray-400">• <strong className="text-white">終止：</strong>HKfirstclick 保留終止任何違反條款、從事欺詐行為或損害 HKfirstclick 聲譽的推廣夥伴帳號之權利。欺詐行為所產生的待付佣金將被沒收。</p>
+
+                                <p>• <strong className="text-white">Compliance:</strong> Affiliates are responsible for complying with all applicable laws and regulations in their jurisdiction, including FTC guidelines (US), ASA rules (UK), and GDPR (EU) where applicable.</p>
+                                <p className="text-gray-400">• <strong className="text-white">合規：</strong>推廣夥伴須自行遵守所在地區的所有適用法律法規，包括美國 FTC 指引、英國 ASA 規則及歐盟 GDPR 等。</p>
+                            </div>
                         </div>
                     </section>
 

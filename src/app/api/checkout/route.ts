@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { createClient } from "@/utils/supabase/server";
+import { cookies } from "next/headers";
 
 export async function POST(req: Request) {
     try {
@@ -20,7 +21,10 @@ export async function POST(req: Request) {
         const body = await req.json();
         const { priceId } = body;
 
-        // Use 'payment' mode instead of 'subscription' because the configured prices 
+        const cookieStore = await cookies();
+        const refCode = cookieStore.get("hkfc_ref")?.value ?? "";
+
+        // Use 'payment' mode instead of 'subscription' because the configured prices
         // in Stripe are currently set as one-time payments.
         const session = await stripe.checkout.sessions.create({
             payment_method_types: ["card"],
@@ -35,6 +39,7 @@ export async function POST(req: Request) {
             cancel_url: `${process.env.NEXT_PUBLIC_SITE_URL}/pricing`,
             client_reference_id: user.id,
             customer_email: user.email,
+            metadata: { ref_code: refCode },
         });
 
         return NextResponse.json({ url: session.url });

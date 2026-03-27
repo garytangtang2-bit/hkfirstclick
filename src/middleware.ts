@@ -58,6 +58,20 @@ function getPreferredLocale(request: NextRequest): string {
 export async function middleware(request: NextRequest): Promise<NextResponse> {
     const { pathname } = request.nextUrl;
 
+    // Capture referral code from ?ref= and store in cookie (30 days)
+    const refCode = request.nextUrl.searchParams.get("ref");
+    if (refCode && /^[A-Z0-9]{6,10}$/.test(refCode) && !request.cookies.get("hkfc_ref")) {
+        const response = await updateSession(request);
+        response.cookies.set("hkfc_ref", refCode, {
+            httpOnly: true,
+            sameSite: "lax",
+            maxAge: 60 * 60 * 24 * 30,
+            path: "/",
+        });
+        fetch(`${request.nextUrl.origin}/api/affiliate/track?code=${refCode}`).catch(() => {});
+        return response;
+    }
+
     // 1. Skip static files (images, fonts, icons, etc.)
     if (/\.[a-z0-9]+$/i.test(pathname)) {
         return NextResponse.next();

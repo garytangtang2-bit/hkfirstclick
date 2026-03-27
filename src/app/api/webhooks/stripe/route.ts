@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { createClient } from "@supabase/supabase-js";
+import { Resend } from "resend";
 
 // Use service role key to bypass RLS and update credits securely
 const getSupabaseAdmin = () => createClient(
@@ -143,6 +144,81 @@ export async function POST(req: Request) {
             } else {
                 console.warn(`⚠️ Price ID ${priceId} did not match any known plans.`);
             }
+
+            // --- Affiliate commission ---
+            const refCode = session.metadata?.ref_code;
+            if (refCode && session.amount_total) {
+                try {
+                    const { data: affiliate } = await supabaseAdmin
+                        .from("affiliates")
+                        .select("id, commission_pct, user_id, status, ref_code, payout_email, min_payout_usd, payout_notified_at")
+                        .eq("ref_code", refCode)
+                        .single();
+
+                    if (affiliate && affiliate.status === "active" && affiliate.user_id !== userId) {
+                        const { data: referral } = await supabaseAdmin
+                            .from("referrals")
+                            .select("id")
+                            .eq("affiliate_id", affiliate.id)
+                            .eq("referred_user_id", userId)
+                            .single();
+
+                        if (referral) {
+                            const amountUsd = session.amount_total / 100;
+                            const commissionUsd = parseFloat((amountUsd * affiliate.commission_pct / 100).toFixed(2));
+
+                            await supabaseAdmin
+                                .from("affiliate_commissions")
+                                .insert({
+                                    affiliate_id: affiliate.id,
+                                    referral_id: referral.id,
+                                    stripe_session_id: session.id,
+                                    amount_paid_usd: amountUsd,
+                                    commission_usd: commissionUsd,
+                                })
+                                .throwOnError();
+
+                            console.log(`💸 Commission recorded: $${commissionUsd} for affiliate ${affiliate.id}`);
+
+                            // Check if total pending earnings reached affiliate's min_payout_usd
+                            const { data: pendingRows } = await supabaseAdmin
+                                .from("affiliate_commissions")
+                                .select("commission_usd")
+                                .eq("affiliate_id", affiliate.id)
+                                .eq("status", "pending");
+
+                            const totalPending = pendingRows?.reduce((s, c) => s + Number(c.commission_usd), 0) ?? 0;
+                            const minPayout = Number(affiliate.min_payout_usd) || 50;
+
+                            // Only notify once — reset when admin marks as paid
+                            const alreadyNotified = !!affiliate.payout_notified_at;
+                            if (totalPending >= minPayout && affiliate.payout_email && !alreadyNotified) {
+                                try {
+                                    const resend = new Resend(process.env.RESEND_API_KEY);
+                                    await resend.emails.send({
+                                        from: "HKfirstclick <onboarding@resend.dev>",
+                                        to: process.env.CONTACT_EMAIL || process.env.ADMIN_EMAIL!,
+                                        subject: `[Affiliate] Payout ready: $${totalPending.toFixed(2)} USD`,
+                                        text: `An affiliate has reached their payout threshold.\n\nRef Code: ${affiliate.ref_code}\nPayPal Email: ${affiliate.payout_email}\nPending Balance: $${totalPending.toFixed(2)} USD\nMin Payout Set: $${minPayout} USD\n\nPlease process the payout at: ${process.env.NEXT_PUBLIC_SITE_URL}/admin/affiliates`,
+                                    });
+                                    // Mark as notified so we don't send again
+                                    await supabaseAdmin
+                                        .from("affiliates")
+                                        .update({ payout_notified_at: new Date().toISOString() })
+                                        .eq("id", affiliate.id);
+                                    console.log(`📧 Payout notification sent for affiliate ${affiliate.ref_code}`);
+                                } catch (emailErr) {
+                                    console.error("Failed to send payout notification email:", emailErr);
+                                }
+                            }
+                        }
+                    }
+                } catch (err) {
+                    // Silently ignore duplicate (idempotency via unique stripe_session_id)
+                    console.warn("⚠️ Commission insert skipped (likely duplicate):", err);
+                }
+            }
+
         } else {
             console.warn("⚠️ No client_reference_id (userId) found in session.");
         }

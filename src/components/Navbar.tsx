@@ -88,6 +88,11 @@ export function Navbar({
                         <NavItem label={t.nav_my_trips} onClick={() => navigateTo("/my-trips")} />
                         <NavItem label={t.nav_map} onClick={() => navigateTo("/map")} />
                         <NavItem label={t.nav_catalog} onClick={() => navigateTo("/catalog")} />
+                        <li>
+                            <Link href="/affiliate" className="text-sm font-medium text-white hover:text-[#EEDC00] transition-colors whitespace-nowrap">
+                                {t.aff_title}
+                            </Link>
+                        </li>
                     </ul>
                 </div>
 
@@ -216,6 +221,9 @@ export function Navbar({
                         >
                             {t.nav_pricing}
                         </span>
+                        <Link href="/affiliate" className="text-white hover:text-[#EEDC00] font-bold cursor-pointer">
+                            {t.aff_title}
+                        </Link>
                         <span
                             className="text-white hover:text-[#EEDC00] cursor-pointer"
                             onClick={() => navigateTo("/login")}

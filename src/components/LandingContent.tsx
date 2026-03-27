@@ -1,6 +1,7 @@
 import { AccordionItem } from "@/components/ui/Accordion";
 import { YellowButton } from "@/components/ui/YellowButton";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, DollarSign } from "lucide-react";
+import Link from "next/link";
 
 export function LandingContent({ t, user, navigateTo }: any) {
     const faqList = [
@@ -109,6 +110,36 @@ export function LandingContent({ t, user, navigateTo }: any) {
                         </div>
                     ))}
                 </div>
+            </section>
+
+            {/* Affiliate Banner */}
+            <section className="px-6 md:px-12 max-w-7xl mx-auto pb-16 md:pb-24">
+                <Link href="/affiliate">
+                    <div className="group relative overflow-hidden bg-[#0E0E0E] border border-[#EEDC00]/20 hover:border-[#EEDC00]/50 rounded-3xl p-8 md:p-12 flex flex-col md:flex-row items-center justify-between gap-8 cursor-pointer transition-all duration-300 hover:shadow-[0_0_60px_rgba(238,220,0,0.08)]">
+                        <div className="absolute -top-20 -left-20 w-64 h-64 bg-[#EEDC00]/5 rounded-full blur-3xl pointer-events-none group-hover:bg-[#EEDC00]/10 transition-all duration-500" />
+                        <div className="relative flex-1">
+                            <div className="inline-flex items-center gap-2 bg-[#EEDC00]/10 text-[#EEDC00] text-xs font-bold px-3 py-1.5 rounded-full uppercase tracking-widest mb-4 border border-[#EEDC00]/20">
+                                <DollarSign size={12} />
+                                {t.aff_title}
+                            </div>
+                            <h2 className="text-2xl md:text-4xl font-black text-white mb-3">
+                                {t.aff_terms_commission} <span className="text-[#EEDC00]">30%</span> {t.aff_terms_commission_val}
+                            </h2>
+                            <p className="text-gray-400 max-w-lg text-sm md:text-base leading-relaxed">
+                                {t.aff_join_desc}
+                            </p>
+                            <div className="flex flex-wrap gap-4 mt-5 text-xs text-gray-500">
+                                <span className="flex items-center gap-1.5">✓ {t.aff_terms_method_val}</span>
+                                <span className="flex items-center gap-1.5">✓ {t.aff_terms_fees_val}</span>
+                            </div>
+                        </div>
+                        <div className="relative shrink-0">
+                            <div className="bg-[#EEDC00] text-black font-black px-8 py-4 rounded-2xl group-hover:bg-yellow-300 transition-colors flex items-center gap-2 text-sm md:text-base">
+                                {t.aff_btn_get_link} <ArrowRight size={18} />
+                            </div>
+                        </div>
+                    </div>
+                </Link>
             </section>
 
             <section className="px-6 md:px-12 max-w-4xl mx-auto py-20 md:py-32 border-t border-white/5">

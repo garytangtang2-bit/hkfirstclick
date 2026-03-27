@@ -138,6 +138,19 @@ export default async function AdminDashboard() {
                     </div>
                 </div>
 
+                {/* Quick Links */}
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <Link href="/admin/affiliates" className="bg-[#161616] border border-white/10 hover:border-[#EEDC00]/50 rounded-2xl p-6 flex items-center gap-4 transition-colors group">
+                        <div className="w-12 h-12 bg-[#EEDC00]/10 rounded-xl flex items-center justify-center group-hover:bg-[#EEDC00]/20 transition-colors">
+                            <Users className="text-[#EEDC00]" size={22} />
+                        </div>
+                        <div>
+                            <div className="font-bold text-white">Affiliate Program</div>
+                            <div className="text-sm text-gray-400">View affiliates, commissions & payouts</div>
+                        </div>
+                    </Link>
+                </div>
+
             </div>
         </div>
     );
