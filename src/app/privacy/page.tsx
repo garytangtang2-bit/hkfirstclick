@@ -94,10 +94,10 @@ function PrivacyContent() {
                         <div className="text-gray-300 leading-relaxed">
                             <p>{t.privacy_contact_intro || "如果您對本隱私權政策有任何疑問，請透過以下電子郵件聯絡我們："}</p>
                             <a
-                                href="mailto:garytangtang2@gmail.com"
+                                href="mailto:itsmiravale115@gmail.com"
                                 className="inline-block mt-4 text-[#EEDC00] font-bold hover:underline text-lg"
                             >
-                                garytangtang2@gmail.com
+                                itsmiravale115@gmail.com
                             </a>
                         </div>
                     </section>

@@ -145,10 +145,10 @@ function TermsContent() {
                             <p>Questions about these terms? Reach us at:</p>
                             <p className="text-gray-400 mt-1">如對本條款有任何疑問，請聯絡：</p>
                             <a
-                                href="mailto:garytangtang2@gmail.com"
+                                href="mailto:itsmiravale115@gmail.com"
                                 className="inline-block mt-4 text-[#EEDC00] font-bold hover:underline text-lg"
                             >
-                                garytangtang2@gmail.com
+                                itsmiravale115@gmail.com
                             </a>
                         </div>
                     </section>
