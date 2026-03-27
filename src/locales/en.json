@@ -449,5 +449,12 @@
   "aff_history_status": "Status",
   "aff_history_paid": "Paid",
   "aff_history_pending": "Pending",
-  "aff_history_empty": "No commissions yet. Start sharing your referral link!"
+  "aff_history_empty": "No commissions yet. Start sharing your referral link!",
+  "nav_language": "Language",
+  "nav_currency": "Currency",
+  "err_auth": "Please log in first.",
+  "err_credits": "Not enough credits. Please purchase more.",
+  "err_export": "Export failed, please try again.",
+  "err_payout_email": "Please enter your PayPal email.",
+  "err_checkout": "Checkout failed. Please try again."
 }

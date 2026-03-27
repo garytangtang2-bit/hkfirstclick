@@ -449,5 +449,12 @@
   "aff_history_status": "ステータス",
   "aff_history_paid": "支払い済み",
   "aff_history_pending": "保留中",
-  "aff_history_empty": "まだコミッションがありません。紹介リンクの共有を始めましょう！"
+  "aff_history_empty": "まだコミッションがありません。紹介リンクの共有を始めましょう！",
+  "nav_language": "言語",
+  "nav_currency": "通貨",
+  "err_auth": "先にログインしてください。",
+  "err_credits": "クレジットが不足しています。",
+  "err_export": "エクスポートに失敗しました。再試行してください。",
+  "err_payout_email": "PayPalメールアドレスを入力してください。",
+  "err_checkout": "チェックアウトに失敗しました。"
 }

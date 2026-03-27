@@ -235,7 +235,7 @@ export function Navbar({
 
                         <div className="pt-4 border-t border-white/10 flex flex-col gap-4">
                             <div className="flex items-center justify-between">
-                                <span className="text-gray-400 text-sm font-medium">Language</span>
+                                <span className="text-gray-400 text-sm font-medium">{t.nav_language || "Language"}</span>
                                 <TopbarSelect
                                     value={language}
                                     onChange={setLanguage}
@@ -256,7 +256,7 @@ export function Navbar({
                                 />
                             </div>
                             <div className="flex items-center justify-between">
-                                <span className="text-gray-400 text-sm font-medium">Currency</span>
+                                <span className="text-gray-400 text-sm font-medium">{t.nav_currency || "Currency"}</span>
                                 <TopbarSelect
                                     value={currency}
                                     onChange={setCurrency}

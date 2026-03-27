@@ -449,5 +449,12 @@
   "aff_history_status": "الحالة",
   "aff_history_paid": "مدفوع",
   "aff_history_pending": "قيد الانتظار",
-  "aff_history_empty": "لا توجد عمولات بعد. ابدأ بمشاركة رابط الإحالة الخاص بك!"
+  "aff_history_empty": "لا توجد عمولات بعد. ابدأ بمشاركة رابط الإحالة الخاص بك!",
+  "nav_language": "اللغة",
+  "nav_currency": "العملة",
+  "err_auth": "يرجى تسجيل الدخول أولاً.",
+  "err_credits": "رصيد غير كافٍ.",
+  "err_export": "فشل التصدير.",
+  "err_payout_email": "أدخل بريدك على PayPal.",
+  "err_checkout": "فشل الدفع."
 }

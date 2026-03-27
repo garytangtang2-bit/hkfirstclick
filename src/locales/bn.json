@@ -449,5 +449,12 @@
   "aff_history_status": "স্ট্যাটাস",
   "aff_history_paid": "প্রদত্ত",
   "aff_history_pending": "মুলতুবি",
-  "aff_history_empty": "এখনো কোনো কমিশন নেই। আপনার রেফারেল লিঙ্ক শেয়ার করা শুরু করুন!"
+  "aff_history_empty": "এখনো কোনো কমিশন নেই। আপনার রেফারেল লিঙ্ক শেয়ার করা শুরু করুন!",
+  "nav_language": "ভাষা",
+  "nav_currency": "মুদ্রা",
+  "err_auth": "অনুগ্রহ করে লগইন করুন।",
+  "err_credits": "পর্যাপ্ত ক্রেডিট নেই।",
+  "err_export": "রপ্তানি ব্যর্থ।",
+  "err_payout_email": "PayPal ইমেইল লিখুন।",
+  "err_checkout": "চেকআউট ব্যর্থ।"
 }

@@ -449,5 +449,12 @@
   "aff_history_status": "स्थिति",
   "aff_history_paid": "भुगतान किया गया",
   "aff_history_pending": "लंबित",
-  "aff_history_empty": "अभी तक कोई कमीशन नहीं। अपना रेफरल लिंक साझा करना शुरू करें!"
+  "aff_history_empty": "अभी तक कोई कमीशन नहीं। अपना रेफरल लिंक साझा करना शुरू करें!",
+  "nav_language": "भाषा",
+  "nav_currency": "मुद्रा",
+  "err_auth": "कृपया पहले लॉगिन करें।",
+  "err_credits": "पर्याप्त क्रेडिट नहीं हैं।",
+  "err_export": "निर्यात विफल।",
+  "err_payout_email": "PayPal ईमेल दर्ज करें।",
+  "err_checkout": "चेकआउट विफल।"
 }

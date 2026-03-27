@@ -449,5 +449,12 @@
   "aff_history_status": "Statut",
   "aff_history_paid": "Payé",
   "aff_history_pending": "En attente",
-  "aff_history_empty": "Aucune commission pour l'instant. Commencez à partager votre lien de parrainage !"
+  "aff_history_empty": "Aucune commission pour l'instant. Commencez à partager votre lien de parrainage !",
+  "nav_language": "Langue",
+  "nav_currency": "Devise",
+  "err_auth": "Veuillez vous connecter.",
+  "err_credits": "Crédits insuffisants.",
+  "err_export": "Échec de exportation.",
+  "err_payout_email": "Veuillez saisir votre email PayPal.",
+  "err_checkout": "Échec du paiement."
 }

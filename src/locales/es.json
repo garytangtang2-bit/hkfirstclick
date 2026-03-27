@@ -449,5 +449,12 @@
   "aff_history_status": "Estado",
   "aff_history_paid": "Pagado",
   "aff_history_pending": "Pendiente",
-  "aff_history_empty": "Aún no hay comisiones. ¡Empieza a compartir tu enlace de referido!"
+  "aff_history_empty": "Aún no hay comisiones. ¡Empieza a compartir tu enlace de referido!",
+  "nav_language": "Idioma",
+  "nav_currency": "Moneda",
+  "err_auth": "Por favor inicia sesión primero.",
+  "err_credits": "Créditos insuficientes.",
+  "err_export": "Error al exportar.",
+  "err_payout_email": "Ingresa tu email de PayPal.",
+  "err_checkout": "Pago fallido."
 }

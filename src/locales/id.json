@@ -449,5 +449,12 @@
   "aff_history_status": "Status",
   "aff_history_paid": "Dibayar",
   "aff_history_pending": "Tertunda",
-  "aff_history_empty": "Belum ada komisi. Mulai bagikan tautan referral Anda!"
+  "aff_history_empty": "Belum ada komisi. Mulai bagikan tautan referral Anda!",
+  "nav_language": "Bahasa",
+  "nav_currency": "Mata Uang",
+  "err_auth": "Silakan masuk terlebih dahulu.",
+  "err_credits": "Kredit tidak cukup.",
+  "err_export": "Ekspor gagal.",
+  "err_payout_email": "Masukkan email PayPal Anda.",
+  "err_checkout": "Pembayaran gagal."
 }

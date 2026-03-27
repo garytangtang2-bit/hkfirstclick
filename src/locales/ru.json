@@ -449,5 +449,12 @@
   "aff_history_status": "Статус",
   "aff_history_paid": "Выплачено",
   "aff_history_pending": "Ожидает",
-  "aff_history_empty": "Комиссий пока нет. Начните делиться реферальной ссылкой!"
+  "aff_history_empty": "Комиссий пока нет. Начните делиться реферальной ссылкой!",
+  "nav_language": "Язык",
+  "nav_currency": "Валюта",
+  "err_auth": "Пожалуйста, сначала войдите.",
+  "err_credits": "Недостаточно кредитов.",
+  "err_export": "Ошибка экспорта.",
+  "err_payout_email": "Введите email PayPal.",
+  "err_checkout": "Ошибка оплаты."
 }

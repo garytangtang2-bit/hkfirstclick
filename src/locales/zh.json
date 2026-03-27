@@ -451,5 +451,12 @@
   "aff_history_status": "狀態",
   "aff_history_paid": "已支付",
   "aff_history_pending": "待處理",
-  "aff_history_empty": "尚無佣金記錄。開始分享您的推薦連結吧！"
+  "aff_history_empty": "尚無佣金記錄。開始分享您的推薦連結吧！",
+  "nav_language": "語言",
+  "nav_currency": "貨幣",
+  "err_auth": "請先登入。",
+  "err_credits": "點數不足，請購買更多。",
+  "err_export": "匯出失敗，請稍後再試。",
+  "err_payout_email": "請輸入您的 PayPal 電子郵件。",
+  "err_checkout": "結帳失敗，請重試。"
 }

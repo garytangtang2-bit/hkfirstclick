@@ -100,12 +100,12 @@ function WorkspaceContent() {
                 return;
             }
             if (deductRes.status === 402) {
-                alert("Not enough credits to save image. Please purchase more.");
+                alert(t?.err_credits || "Not enough credits. Please purchase more.");
                 window.location.href = '/pricing';
                 return;
             }
             if (!deductRes.ok) {
-                alert("Export failed, please try again.");
+                alert(t?.err_export || "Export failed, please try again.");
                 return;
             }
 
@@ -130,7 +130,7 @@ function WorkspaceContent() {
             link.click();
         } catch (e) {
             console.error(e);
-            alert("Failed to save image. Please try again.");
+            alert(t?.err_export || "Export failed, please try again.");
         } finally {
             setSavingImage(false);
         }
@@ -807,18 +807,18 @@ function WorkspaceContent() {
                                                 });
 
                                                 if (res.status === 401) {
-                                                    alert(t.err_auth || "請先登入才能匯出 PDF / Please log in to export PDF.");
+                                                    alert(t.err_auth || "Please log in to export PDF.");
                                                     return;
                                                 }
 
                                                 if (res.status === 402) {
-                                                    alert("點數不足以匯出 PDF。請至定價頁面購買點數 / Not enough credits to export PDF. Please purchase more.");
+                                                    alert(t.err_credits || "Not enough credits. Please purchase more.");
                                                     window.location.href = '/pricing';
                                                     return;
                                                 }
 
                                                 if (!res.ok) {
-                                                    alert("匯出失敗，請稍後再試 / Export failed, please try again.");
+                                                    alert(t.err_export || "Export failed, please try again.");
                                                     return;
                                                 }
 
@@ -833,7 +833,7 @@ function WorkspaceContent() {
                                                 }, 300);
                                             } catch (e) {
                                                 console.error(e);
-                                                alert("發生錯誤 / An error occurred.");
+                                                alert(t.err_export || "An error occurred.");
                                             }
                                         }}
                                         className="bg-[#2A2A35] hover:bg-[#3A3A45] text-white border border-white/10 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2 transition-colors"

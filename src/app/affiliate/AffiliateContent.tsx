@@ -79,7 +79,7 @@ export default function AffiliateContent() {
     };
 
     const handleSavePayout = async () => {
-        if (!payoutEmail) return alert("Please enter your PayPal email.");
+        if (!payoutEmail) return alert(t.err_payout_email || "Please enter your PayPal email.");
         setSaving(true);
         await fetch("/api/affiliate/update-payout", {
             method: "POST",

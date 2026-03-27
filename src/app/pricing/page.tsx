@@ -102,11 +102,11 @@ function PricingContent() {
             if (data.url) {
                 window.location.href = data.url;
             } else if (data.error) {
-                alert(`Checkout Error: ${data.error}`);
+                alert(t.err_checkout || `Checkout Error: ${data.error}`);
             }
         } catch (err) {
             console.error(err);
-            alert("Checkout failed. Please ensure Stripe is configured.");
+            alert(t.err_checkout || "Checkout failed. Please try again.");
         }
     };
 
