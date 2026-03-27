@@ -513,7 +513,6 @@ function WorkspaceContent() {
                                                     </label>
                                                     <div
                                                         className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.start ? 'border-red-500/60' : 'border-white/10'}`}
-                                                        onClick={() => (document.getElementById('date-start') as HTMLInputElement)?.showPicker?.()}
                                                     >
                                                         <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400">
                                                             <Calendar size={18} />
@@ -538,7 +537,6 @@ function WorkspaceContent() {
                                                     </label>
                                                     <div
                                                         className={`relative group flex items-center min-h-[50px] border rounded-xl bg-[#0E0E0E] hover:border-white/30 hover:bg-[#111] transition-colors duration-150 cursor-pointer ${showFieldErrors && !dates.end ? 'border-red-500/60' : 'border-white/10'}`}
-                                                        onClick={() => (document.getElementById('date-end') as HTMLInputElement)?.showPicker?.()}
                                                     >
                                                         <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none z-10 text-gray-400">
                                                             <Calendar size={18} />

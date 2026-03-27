@@ -9,6 +9,7 @@ import {
 } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
+import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
 
 const NavItem = ({ label, hasDropdown = false, onClick }: any) => (
     <li>
@@ -72,6 +73,7 @@ export function Navbar({
     navigateTo,
 }: any) {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+    const affLangCode = LANG_NAME_TO_CODE[language] || "en";
 
     return (
         <>
@@ -89,7 +91,7 @@ export function Navbar({
                         <NavItem label={t.nav_map} onClick={() => navigateTo("/map")} />
                         <NavItem label={t.nav_catalog} onClick={() => navigateTo("/catalog")} />
                         <li>
-                            <Link href="/affiliate" className="text-sm font-medium text-white hover:text-[#EEDC00] transition-colors whitespace-nowrap">
+                            <Link href={`/${affLangCode}/affiliate`} className="text-sm font-medium text-white hover:text-[#EEDC00] transition-colors whitespace-nowrap">
                                 {t.aff_title}
                             </Link>
                         </li>
@@ -221,7 +223,7 @@ export function Navbar({
                         >
                             {t.nav_pricing}
                         </span>
-                        <Link href="/affiliate" className="text-white hover:text-[#EEDC00] font-bold cursor-pointer">
+                        <Link href={`/${affLangCode}/affiliate`} className="text-white hover:text-[#EEDC00] font-bold cursor-pointer">
                             {t.aff_title}
                         </Link>
                         <span

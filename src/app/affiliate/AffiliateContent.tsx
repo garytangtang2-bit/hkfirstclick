@@ -40,7 +40,7 @@ export default function AffiliateContent() {
     const [agreedToTerms, setAgreedToTerms] = useState(false);
     const [copied, setCopied] = useState(false);
     const [payoutEmail, setPayoutEmail] = useState("");
-    const [minPayout, setMinPayout] = useState("100");
+    const [minPayout, setMinPayout] = useState("50");
     const [saving, setSaving] = useState(false);
     const [saveSuccess, setSaveSuccess] = useState(false);
 
@@ -271,7 +271,7 @@ export default function AffiliateContent() {
                                 <label className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-2 block">{t.aff_payout_min_label}</label>
                                 <p className="text-gray-500 text-xs mb-3">{t.aff_payout_min_desc}</p>
                                 <div className="flex gap-2 flex-wrap">
-                                    {[50, 100, 200, 500].map(amt => (
+                                    {[50, 100, 200, 500].map((amt: number) => (
                                         <button
                                             key={amt}
                                             onClick={() => setMinPayout(String(amt))}
@@ -284,7 +284,7 @@ export default function AffiliateContent() {
                                         type="number"
                                         value={minPayout}
                                         onChange={e => setMinPayout(e.target.value)}
-                                        min={100}
+                                        min={50}
                                         placeholder={t.aff_payout_custom}
                                         className="w-28 bg-[#0E0E0E] border border-white/10 rounded-xl px-4 py-2 text-white text-sm focus:outline-none focus:border-[#EEDC00] transition-colors"
                                     />
