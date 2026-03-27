@@ -41,14 +41,14 @@ export async function POST(req: NextRequest) {
             return NextResponse.json({ error: "Input too long." }, { status: 400 });
         }
 
-        const adminEmail = process.env.ADMIN_EMAIL;
-        if (!adminEmail) throw new Error("ADMIN_EMAIL not configured.");
+        const contactEmail = process.env.CONTACT_EMAIL || process.env.ADMIN_EMAIL;
+        if (!contactEmail) throw new Error("Contact email not configured.");
 
         const resend = new Resend(process.env.RESEND_API_KEY);
 
         await resend.emails.send({
             from: "HKfirstclick Contact <onboarding@resend.dev>",
-            to: adminEmail,
+            to: contactEmail,
             replyTo: email,
             subject: `[HKfirstclick] Message from ${name}`,
             text: `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`,
