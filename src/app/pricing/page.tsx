@@ -15,7 +15,7 @@ export default function Pricing() {
     );
 }
 
-function PricingContent() {
+export function PricingContent() {
     const { t, currency } = useAppContext();
     const [profile, setProfile] = useState<any>(null);
     const supabase = createClient();

@@ -139,7 +139,7 @@ export function Navbar({
                     <div className="hidden md:flex items-center gap-6 text-sm font-medium">
                         <span
                             className="hover:text-[#EEDC00] cursor-pointer whitespace-nowrap transition-colors"
-                            onClick={() => navigateTo("/pricing")}
+                            onClick={() => navigateTo(`/${affLangCode}/pricing`)}
                         >
                             {t.nav_pricing}
                         </span>
@@ -219,7 +219,7 @@ export function Navbar({
                         </span>
                         <span
                             className="text-white hover:text-[#EEDC00] cursor-pointer"
-                            onClick={() => navigateTo("/pricing")}
+                            onClick={() => navigateTo(`/${affLangCode}/pricing`)}
                         >
                             {t.nav_pricing}
                         </span>

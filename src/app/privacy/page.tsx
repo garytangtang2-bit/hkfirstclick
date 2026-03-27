@@ -12,7 +12,7 @@ export default function PrivacyPage() {
     );
 }
 
-function PrivacyContent() {
+export function PrivacyContent() {
     const { t } = useAppContext();
 
     return (

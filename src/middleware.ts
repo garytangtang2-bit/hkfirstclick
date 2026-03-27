@@ -34,8 +34,6 @@ const BYPASS_PREFIXES = [
     '/map',
     '/admin',
     '/auth',
-    '/pricing',
-    '/privacy',
     '/share',
     '/flights',
     '/food',
