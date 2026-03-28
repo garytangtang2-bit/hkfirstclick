@@ -94,23 +94,23 @@ function AffiliatePublicPage({ t }: { t: any }) {
             {/* Commission breakdown */}
             <div className="bg-[#0E0E0E] border-t border-white/5">
             <div className="max-w-4xl mx-auto px-6 py-16">
-                <h2 className="text-xl font-bold text-center mb-6 text-gray-300">How much can you earn?</h2>
+                <h2 className="text-xl font-bold text-center mb-6 text-gray-300">{t.aff_how_much || "How much can you earn?"}</h2>
                 <div className="grid md:grid-cols-2 gap-4 mb-8">
                     <div className="bg-[#161616] border border-white/10 rounded-2xl p-6">
-                        <div className="text-gray-400 text-sm mb-1">Journey Pass (Monthly)</div>
-                        <div className="text-3xl font-black text-white">${passCommission} USD <span className="text-lg font-normal text-gray-400">/ referral</span></div>
-                        <div className="text-gray-500 text-sm mt-1">Customer pays $7.99 USD/mo → you earn $2.40 USD</div>
+                        <div className="text-gray-400 text-sm mb-1">{t.aff_journey_label || "Journey Pass (Monthly)"}</div>
+                        <div className="text-3xl font-black text-white">${passCommission} USD <span className="text-lg font-normal text-gray-400">{t.aff_journey_per_referral || "/ referral"}</span></div>
+                        <div className="text-gray-500 text-sm mt-1">{t.aff_journey_desc || "Customer pays $7.99 USD/mo → you earn $2.40 USD"}</div>
                         <div className="mt-3 bg-green-900/30 border border-green-500/30 rounded-xl px-3 py-2 text-xs text-green-400 font-medium">
-                            Recurring — earn every month the customer stays subscribed
+                            {t.aff_recurring_badge || "Recurring — earn every month the customer stays subscribed"}
                         </div>
                     </div>
                     <div className="bg-[#161616] border border-[#EEDC00]/30 rounded-2xl p-6 relative overflow-hidden">
-                        <div className="absolute top-3 right-3 bg-[#EEDC00] text-black text-xs font-bold px-2 py-0.5 rounded-full">Best</div>
-                        <div className="text-gray-400 text-sm mb-1">Yearly Plan</div>
-                        <div className="text-3xl font-black text-[#EEDC00]">${yearlyCommission} USD <span className="text-lg font-normal text-gray-400">/ referral</span></div>
-                        <div className="text-gray-500 text-sm mt-1">Customer pays $46.99 USD → you earn $14.10 USD</div>
+                        <div className="absolute top-3 right-3 bg-[#EEDC00] text-black text-xs font-bold px-2 py-0.5 rounded-full">{t.aff_best || "Best"}</div>
+                        <div className="text-gray-400 text-sm mb-1">{t.aff_yearly_label || "Yearly Plan"}</div>
+                        <div className="text-3xl font-black text-[#EEDC00]">${yearlyCommission} USD <span className="text-lg font-normal text-gray-400">{t.aff_journey_per_referral || "/ referral"}</span></div>
+                        <div className="text-gray-500 text-sm mt-1">{t.aff_yearly_desc || "Customer pays $46.99 USD → you earn $14.10 USD"}</div>
                         <div className="mt-3 bg-[#EEDC00]/10 border border-[#EEDC00]/20 rounded-xl px-3 py-2 text-xs text-[#EEDC00] font-medium">
-                            One-time commission paid upfront
+                            {t.aff_onetime_badge || "One-time commission paid upfront"}
                         </div>
                     </div>
                 </div>
@@ -119,12 +119,12 @@ function AffiliatePublicPage({ t }: { t: any }) {
                 <div className="bg-[#161616] border border-white/10 rounded-2xl p-6 md:p-8">
                     <div className="flex items-center gap-2 mb-6">
                         <TrendingUp size={20} className="text-[#EEDC00]" />
-                        <h3 className="font-bold text-lg">Earnings Calculator</h3>
+                        <h3 className="font-bold text-lg">{t.aff_calc_title || "Earnings Calculator"}</h3>
                     </div>
                     <div className="mb-4">
                         <div className="flex justify-between text-sm mb-2">
-                            <span className="text-gray-400">Estimated referrals per month</span>
-                            <span className="text-[#EEDC00] font-bold">{referrals} people</span>
+                            <span className="text-gray-400">{t.aff_calc_referrals || "Estimated referrals per month"}</span>
+                            <span className="text-[#EEDC00] font-bold">{referrals} {t.aff_calc_people || "people"}</span>
                         </div>
                         <input
                             type="range"
@@ -138,9 +138,9 @@ function AffiliatePublicPage({ t }: { t: any }) {
                     </div>
                     <div className="grid grid-cols-3 gap-3 mt-6">
                         {[
-                            { label: "If all buy Pass", sublabel: "USD / month, recurring", val: +(referrals * passCommission).toFixed(2), color: "text-white" },
-                            { label: "If all buy Yearly", sublabel: "USD one-time", val: totalEst, color: "text-[#EEDC00]" },
-                            { label: "Reach $50 USD payout in", sublabel: "", val: Math.ceil(50 / yearlyCommission), suffix: " referrals", color: "text-white" },
+                            { label: t.aff_calc_if_pass || "If all buy Pass", sublabel: t.aff_calc_usd_recurring || "USD / month, recurring", val: +(referrals * passCommission).toFixed(2), color: "text-white" },
+                            { label: t.aff_calc_if_yearly || "If all buy Yearly", sublabel: t.aff_calc_usd_onetime || "USD one-time", val: totalEst, color: "text-[#EEDC00]" },
+                            { label: t.aff_calc_reach_payout || "Reach $50 USD payout in", sublabel: "", val: Math.ceil(50 / yearlyCommission), suffix: ` ${t.aff_calc_referrals_suffix || "referrals"}`, color: "text-white" },
                         ].map(item => (
                             <div key={item.label} className="bg-black/30 rounded-xl p-4 text-center">
                                 <div className={`text-2xl font-black ${item.color}`}>
@@ -160,9 +160,9 @@ function AffiliatePublicPage({ t }: { t: any }) {
             <div className="max-w-4xl mx-auto px-6 py-16">
                 <div className="grid md:grid-cols-3 gap-4 mb-12">
                     {[
-                        { icon: <Globe size={20} />, title: "12 Languages", desc: "Your referral link works for users worldwide" },
-                        { icon: <DollarSign size={20} />, title: "PayPal Payout (USD)", desc: "Zero fees — you receive the full USD amount" },
-                        { icon: <TrendingUp size={20} />, title: "Real-time Dashboard", desc: "Track clicks, signups, and earnings live" },
+                        { icon: <Globe size={20} />, title: t.aff_feat_lang_title || "12 Languages", desc: t.aff_feat_lang_desc || "Your referral link works for users worldwide" },
+                        { icon: <DollarSign size={20} />, title: t.aff_feat_paypal_title || "PayPal Payout (USD)", desc: t.aff_feat_paypal_desc || "Zero fees — you receive the full USD amount" },
+                        { icon: <TrendingUp size={20} />, title: t.aff_feat_dash_title || "Real-time Dashboard", desc: t.aff_feat_dash_desc || "Track clicks, signups, and earnings live" },
                     ].map(f => (
                         <div key={f.title} className="bg-[#1a1a1a] border border-white/10 rounded-2xl p-5">
                             <div className="text-[#EEDC00] mb-3">{f.icon}</div>
@@ -178,12 +178,12 @@ function AffiliatePublicPage({ t }: { t: any }) {
             <div className="bg-[#0a0a00] border-t border-white/5">
             <div className="max-w-4xl mx-auto px-6 py-20 text-center">
                 <div className="bg-[#161600] border border-[#EEDC00]/20 rounded-3xl p-10">
-                    <h2 className="text-2xl font-black mb-2">Ready to start earning?</h2>
-                    <p className="text-gray-400 mb-6">Create a free account to get your referral link instantly.</p>
+                    <h2 className="text-2xl font-black mb-2">{t.aff_cta_title || "Ready to start earning?"}</h2>
+                    <p className="text-gray-400 mb-6">{t.aff_cta_desc || "Create a free account to get your referral link instantly."}</p>
                     <Link href="/login" className="inline-block bg-[#EEDC00] text-black font-black px-10 py-4 rounded-2xl text-lg hover:bg-yellow-300 transition-colors">
-                        Create Free Account →
+                        {t.aff_cta_btn || "Create Free Account →"}
                     </Link>
-                    <p className="text-gray-500 text-xs mt-4">Already have an account? <Link href="/login" className="text-[#EEDC00] underline">Sign in</Link></p>
+                    <p className="text-gray-500 text-xs mt-4">{t.aff_cta_signin || "Already have an account?"} <Link href="/login" className="text-[#EEDC00] underline">{t.aff_cta_signin_link || "Sign in"}</Link></p>
                 </div>
             </div>
             </div>
