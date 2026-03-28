@@ -41,27 +41,30 @@ function AffiliatePublicPage({ t }: { t: any }) {
     return (
         <div className="min-h-screen text-white" style={{ background: "linear-gradient(180deg, #1a1a00 0%, #111100 15%, #0E0E0E 40%)" }}>
             {/* Hero — full viewport height so scroll is obvious */}
-            <div className="min-h-screen flex flex-col items-center justify-center px-6 text-center relative">
+            <div className="min-h-screen flex flex-col items-center justify-center px-6 text-center relative pb-32">
                 <div className="inline-flex items-center gap-2 bg-[#EEDC00]/10 border border-[#EEDC00]/30 rounded-full px-4 py-1.5 text-sm text-[#EEDC00] font-medium mb-6">
-                    <Zap size={14} /> Affiliate Program
+                    <Zap size={14} /> {t.aff_hero_badge || "Affiliate Program"}
                 </div>
                 <h1 className="text-4xl md:text-6xl font-black mb-4 leading-tight max-w-2xl">
                     Earn up to <span className="text-[#EEDC00]">30%</span><br />on every referral
                 </h1>
                 <p className="text-gray-400 text-lg max-w-xl mx-auto mb-8">
-                    Share your unique link. Earn commission every time someone you refer purchases a plan. Paid via PayPal.
+                    {t.aff_hero_desc || "Share your unique link. Earn commission every time someone you refer purchases a plan. Paid via PayPal."}
                 </p>
                 <Link href="/login" className="inline-block bg-[#EEDC00] text-black font-black px-10 py-4 rounded-2xl text-lg hover:bg-yellow-300 transition-colors">
-                    Join Now — It&apos;s Free
+                    {t.aff_hero_btn || "Join Now — It's Free"}
                 </Link>
-                <p className="text-gray-500 text-sm mt-3">No approval needed. Start earning immediately.</p>
+                <p className="text-gray-500 text-sm mt-3">{t.aff_hero_no_approval || "No approval needed. Start earning immediately."}</p>
 
                 {/* Scroll indicator */}
-                <div className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-gray-400 animate-bounce">
-                    <span className="text-sm font-medium">Scroll down to calculate your monthly earnings</span>
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                        <path d="M12 5v14M5 12l7 7 7-7" />
-                    </svg>
+                <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3">
+                    <div className="bg-white/5 border border-white/10 rounded-full px-5 py-2 flex items-center gap-2 text-gray-300 text-sm font-medium backdrop-blur-sm">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#EEDC00" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                            <path d="M12 5v14M5 12l7 7 7-7" />
+                        </svg>
+                        {t.aff_hero_scroll || "Scroll down to calculate your monthly earnings"}
+                    </div>
+                    <div className="w-0.5 h-6 bg-gradient-to-b from-white/20 to-transparent animate-pulse" />
                 </div>
             </div>
 
