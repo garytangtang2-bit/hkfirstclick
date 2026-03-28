@@ -117,7 +117,7 @@
   "tier1_feature2": "Standard API Travel Database",
   "tier2_name": "Journey Pass (Main)",
   "tier2_credits": "50 Points",
-  "tier2_exp": "180 Days",
+  "tier2_exp": "Monthly Subscription",
   "tier2_export": "Unlimited Free Forever",
   "tier2_desc": "Designed for a single perfect holiday, unlock advanced AI fine-tuning, and say goodbye to all planning anxiety.",
   "tier2_feature1": "Unlimited Google Maps Export",
@@ -307,7 +307,7 @@
   "map_premium_badge": "Premium Feature",
   "map_upgrade_cta": "Upgrade to Unlock",
   "map_search_hint": "Search for a city...",
-  "price_payment_notice": "One-time payment, no hidden subscriptions. Local currency prices are for reference only — actual charges will be in USD.",
+  "price_payment_notice": "Journey Pass renews monthly. Other plans are one-time payments. Charges in USD.",
   "ws_back": "Back",
   "ws_where_when": "Where and when are we going?",
   "ws_who_travel": "Who is coming and how do we travel?",
@@ -456,5 +456,6 @@
   "err_credits": "Not enough credits. Please purchase more.",
   "err_export": "Export failed, please try again.",
   "err_payout_email": "Please enter your PayPal email.",
-  "err_checkout": "Checkout failed. Please try again."
+  "err_checkout": "Checkout failed. Please try again.",
+  "per_month": "/mo"
 }

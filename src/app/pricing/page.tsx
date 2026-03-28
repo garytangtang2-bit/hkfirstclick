@@ -213,6 +213,9 @@ export function PricingContent() {
                                         ? t.free_credit
                                         : `${getCurrencySymbol(currency)}${plan.price[currency as keyof typeof plan.price]}`}
                                 </span>
+                                {plan.tierEnum === "PASS" && (
+                                    <span className="text-sm text-gray-400 ml-1">{t.per_month || "/mo"}</span>
+                                )}
                             </div>
 
                             <div className="space-y-4 mb-8 flex-1">

@@ -117,7 +117,7 @@
   "tier1_feature2": "Suporte básico API",
   "tier2_name": "Passagem Comprada (Nº1)",
   "tier2_credits": "50 Fixos",
-  "tier2_exp": "Longo 180 Dia(s)",
+  "tier2_exp": "Assinatura Mensal",
   "tier2_export": "Infinito Google",
   "tier2_desc": "Dê asas, este é o pacote que liberta ansiedade!",
   "tier2_feature1": "Exportação ilimitada para o Google Maps",
@@ -304,7 +304,7 @@
   "map_premium_badge": "Recurso Premium",
   "map_upgrade_cta": "Atualizar para Desbloquear",
   "map_search_hint": "Pesquisar uma cidade...",
-  "price_payment_notice": "Pagamento único, sem assinaturas ocultas. Os preços em moeda local são apenas de referência — as cobranças reais serão em USD.",
+  "price_payment_notice": "Journey Pass renova mensalmente. Outros planos são pagamento único. Cobrança em USD.",
   "ws_back": "Voltar",
   "ws_where_when": "Onde e quando vamos?",
   "ws_who_travel": "Quem vem e como viajamos?",
@@ -456,5 +456,6 @@
   "err_credits": "Créditos insuficientes.",
   "err_export": "Falha na exportação.",
   "err_payout_email": "Insira seu email do PayPal.",
-  "err_checkout": "Falha no pagamento."
+  "err_checkout": "Falha no pagamento.",
+  "per_month": "/mês"
 }

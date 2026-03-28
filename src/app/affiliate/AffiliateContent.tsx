@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Copy, Check, Users, MousePointerClick, DollarSign, Banknote, ExternalLink, Info } from "lucide-react";
+import { Copy, Check, Users, MousePointerClick, DollarSign, Banknote, ExternalLink, Info, TrendingUp, Zap, Globe } from "lucide-react";
 import Link from "next/link";
 import { createClient } from "@/utils/supabase/client";
 import { useAppContext } from "@/components/AppContext";
@@ -29,6 +29,119 @@ interface AffiliateStats {
     }>;
     pendingEarnings: number;
     totalPaid: number;
+}
+
+function AffiliatePublicPage({ t }: { t: any }) {
+    const [referrals, setReferrals] = useState(10);
+
+    const passCommission = +(7.99 * 0.3).toFixed(2);
+    const yearlyCommission = +(46.99 * 0.3).toFixed(2);
+    const totalEst = +(referrals * yearlyCommission).toFixed(2);
+
+    return (
+        <div className="min-h-screen bg-[#0E0E0E] text-white">
+            {/* Hero */}
+            <div className="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
+                <div className="inline-flex items-center gap-2 bg-[#EEDC00]/10 border border-[#EEDC00]/30 rounded-full px-4 py-1.5 text-sm text-[#EEDC00] font-medium mb-6">
+                    <Zap size={14} /> Affiliate Program
+                </div>
+                <h1 className="text-4xl md:text-6xl font-black mb-4 leading-tight">
+                    Earn up to <span className="text-[#EEDC00]">30%</span><br />on every referral
+                </h1>
+                <p className="text-gray-400 text-lg max-w-xl mx-auto mb-8">
+                    Share your unique link. Earn commission every time someone you refer purchases a plan. Paid via PayPal.
+                </p>
+                <Link href="/login" className="inline-block bg-[#EEDC00] text-black font-black px-10 py-4 rounded-2xl text-lg hover:bg-yellow-300 transition-colors">
+                    Join Now — It&apos;s Free
+                </Link>
+                <p className="text-gray-500 text-sm mt-3">No approval needed. Start earning immediately.</p>
+            </div>
+
+            {/* Commission breakdown */}
+            <div className="max-w-4xl mx-auto px-6 py-10">
+                <h2 className="text-xl font-bold text-center mb-6 text-gray-300">How much can you earn?</h2>
+                <div className="grid md:grid-cols-2 gap-4 mb-8">
+                    <div className="bg-[#161616] border border-white/10 rounded-2xl p-6">
+                        <div className="text-gray-400 text-sm mb-1">Journey Pass (Monthly)</div>
+                        <div className="text-3xl font-black text-white">${passCommission} <span className="text-lg font-normal text-gray-400">/ referral</span></div>
+                        <div className="text-gray-500 text-sm mt-1">Customer pays $7.99/mo → you earn $2.40</div>
+                    </div>
+                    <div className="bg-[#161616] border border-[#EEDC00]/30 rounded-2xl p-6 relative overflow-hidden">
+                        <div className="absolute top-3 right-3 bg-[#EEDC00] text-black text-xs font-bold px-2 py-0.5 rounded-full">Best</div>
+                        <div className="text-gray-400 text-sm mb-1">Yearly Plan</div>
+                        <div className="text-3xl font-black text-[#EEDC00]">${yearlyCommission} <span className="text-lg font-normal text-gray-400">/ referral</span></div>
+                        <div className="text-gray-500 text-sm mt-1">Customer pays $46.99 → you earn $14.10</div>
+                    </div>
+                </div>
+
+                {/* Calculator */}
+                <div className="bg-[#161616] border border-white/10 rounded-2xl p-6 md:p-8">
+                    <div className="flex items-center gap-2 mb-6">
+                        <TrendingUp size={20} className="text-[#EEDC00]" />
+                        <h3 className="font-bold text-lg">Earnings Calculator</h3>
+                    </div>
+                    <div className="mb-4">
+                        <div className="flex justify-between text-sm mb-2">
+                            <span className="text-gray-400">Estimated referrals per month</span>
+                            <span className="text-[#EEDC00] font-bold">{referrals} people</span>
+                        </div>
+                        <input
+                            type="range"
+                            min={1} max={100} value={referrals}
+                            onChange={e => setReferrals(Number(e.target.value))}
+                            className="w-full accent-[#EEDC00]"
+                        />
+                        <div className="flex justify-between text-xs text-gray-600 mt-1">
+                            <span>1</span><span>50</span><span>100</span>
+                        </div>
+                    </div>
+                    <div className="grid grid-cols-3 gap-3 mt-6">
+                        {[
+                            { label: "If all buy Pass", val: +(referrals * passCommission).toFixed(2), color: "text-white" },
+                            { label: "If all buy Yearly", val: totalEst, color: "text-[#EEDC00]" },
+                            { label: "Reach $50 payout in", val: Math.ceil(50 / yearlyCommission), suffix: " referrals", color: "text-white" },
+                        ].map(item => (
+                            <div key={item.label} className="bg-black/30 rounded-xl p-4 text-center">
+                                <div className={`text-2xl font-black ${item.color}`}>
+                                    {item.suffix ? item.val : `$${item.val}`}{item.suffix ?? ""}
+                                </div>
+                                <div className="text-xs text-gray-500 mt-1">{item.label}</div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </div>
+
+            {/* Features */}
+            <div className="max-w-4xl mx-auto px-6 py-6">
+                <div className="grid md:grid-cols-3 gap-4 mb-12">
+                    {[
+                        { icon: <Globe size={20} />, title: "12 Languages", desc: "Your referral link works for users worldwide" },
+                        { icon: <DollarSign size={20} />, title: "PayPal Payout", desc: "Zero fees — you receive the full amount" },
+                        { icon: <TrendingUp size={20} />, title: "Real-time Dashboard", desc: "Track clicks, signups, and earnings live" },
+                    ].map(f => (
+                        <div key={f.title} className="bg-[#161616] border border-white/10 rounded-2xl p-5">
+                            <div className="text-[#EEDC00] mb-3">{f.icon}</div>
+                            <div className="font-bold mb-1">{f.title}</div>
+                            <div className="text-gray-400 text-sm">{f.desc}</div>
+                        </div>
+                    ))}
+                </div>
+            </div>
+
+            {/* CTA */}
+            <div className="max-w-4xl mx-auto px-6 pb-20 text-center">
+                <div className="bg-[#161616] border border-[#EEDC00]/20 rounded-3xl p-10">
+                    <h2 className="text-2xl font-black mb-2">Ready to start earning?</h2>
+                    <p className="text-gray-400 mb-6">Create a free account to get your referral link instantly.</p>
+                    <Link href="/login" className="inline-block bg-[#EEDC00] text-black font-black px-10 py-4 rounded-2xl text-lg hover:bg-yellow-300 transition-colors">
+                        Create Free Account →
+                    </Link>
+                    <p className="text-gray-500 text-xs mt-4">Already have an account? <Link href="/login" className="text-[#EEDC00] underline">Sign in</Link></p>
+                </div>
+            </div>
+        </div>
+    );
 }
 
 export default function AffiliateContent() {
@@ -109,18 +222,7 @@ export default function AffiliateContent() {
     }
 
     if (!loggedIn) {
-        return (
-            <div className="min-h-screen bg-[#0E0E0E] flex items-center justify-center p-6">
-                <div className="bg-[#161616] border border-white/10 rounded-2xl p-10 text-center max-w-md w-full">
-                    <div className="text-5xl mb-4">🔒</div>
-                    <h2 className="text-2xl font-bold text-white mb-2">{t.aff_login_required}</h2>
-                    <p className="text-gray-400 mb-6">{t.aff_login_desc}</p>
-                    <Link href="/login" className="bg-[#EEDC00] text-black font-bold px-8 py-3 rounded-xl hover:bg-yellow-300 transition-colors inline-block">
-                        {t.aff_login_btn}
-                    </Link>
-                </div>
-            </div>
-        );
+        return <AffiliatePublicPage t={t} />;
     }
 
     return (

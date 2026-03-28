@@ -117,7 +117,7 @@
   "tier1_feature2": "標準API旅行データ",
   "tier2_name": "トリップパス (人気)",
   "tier2_credits": "50 クレジット",
-  "tier2_exp": "180 日",
+  "tier2_exp": "月額サブスクリプション",
   "tier2_export": "無制限無料",
   "tier2_desc": "一度の完璧な休暇のために設計されています。高度なAIを解放し、不安にさよならを。",
   "tier2_feature1": "Google マップへの無制限エクスポート",
@@ -304,7 +304,7 @@
   "map_premium_badge": "プレミアム機能",
   "map_upgrade_cta": "アップグレードして解除",
   "map_search_hint": "都市を検索...",
-  "price_payment_notice": "一回払い、隠れたサブスクなし。現地通貨の表示価格は参考のみ — 実際の請求は米ドル（USD）で行われます。",
+  "price_payment_notice": "ジャーニーパスは毎月更新されます。他のプランは一回払いです。USD請求。",
   "ws_back": "戻る",
   "ws_where_when": "いつ、どこへ行きますか？",
   "ws_who_travel": "誰と、どのように旅行しますか？",
@@ -456,5 +456,6 @@
   "err_credits": "クレジットが不足しています。",
   "err_export": "エクスポートに失敗しました。再試行してください。",
   "err_payout_email": "PayPalメールアドレスを入力してください。",
-  "err_checkout": "チェックアウトに失敗しました。"
+  "err_checkout": "チェックアウトに失敗しました。",
+  "per_month": "/月"
 }

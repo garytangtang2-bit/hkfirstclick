@@ -117,7 +117,7 @@
   "tier1_feature2": "표준 API 여행 데이터 제공",
   "tier2_name": "트립 패스 (인기)",
   "tier2_credits": "50 크레딧",
-  "tier2_exp": "180일",
+  "tier2_exp": "월간 구독",
   "tier2_export": "무제한 무료",
   "tier2_desc": "완벽한 단일 휴가를 위해 설계되었습니다. 고급 AI의 잠금을 해제하고 불안과 작별하세요.",
   "tier2_feature1": "Google 지도 무제한 내보내기",
@@ -305,7 +305,7 @@
   "map_premium_badge": "프리미엄 기능",
   "map_upgrade_cta": "업그레이드하여 잠금 해제",
   "map_search_hint": "도시 검색...",
-  "price_payment_notice": "일회성 결제, 숨겨진 구독 없음. 현지 통화 가격은 참고용이며, 실제 청구는 USD로 이루어집니다。",
+  "price_payment_notice": "여정 패스는 매월 갱신됩니다. 다른 플랜은 일회성 결제입니다. USD 청구.",
   "ws_back": "뒤로",
   "ws_where_when": "언제, 어디로 가시나요?",
   "ws_who_travel": "누구와 어떻게 여행하시나요?",
@@ -457,5 +457,6 @@
   "err_credits": "크레딧이 부족합니다.",
   "err_export": "내보내기 실패. 다시 시도하세요.",
   "err_payout_email": "PayPal 이메일을 입력하세요.",
-  "err_checkout": "결제 실패. 다시 시도하세요."
+  "err_checkout": "결제 실패. 다시 시도하세요.",
+  "per_month": "/월"
 }

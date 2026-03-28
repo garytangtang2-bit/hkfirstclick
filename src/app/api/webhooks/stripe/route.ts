@@ -32,6 +32,45 @@ export async function POST(req: Request) {
         return new NextResponse(`Webhook Error: ${err.message}`, { status: 400 });
     }
 
+    // Monthly PASS renewal
+    if (event.type === "invoice.paid") {
+        const invoice = event.data.object as Stripe.Invoice;
+        const subscriptionId = (invoice as any).subscription as string;
+        if (subscriptionId && invoice.billing_reason === "subscription_cycle") {
+            try {
+                const subscription = await stripe.subscriptions.retrieve(subscriptionId);
+                const userId = subscription.metadata?.user_id;
+                if (userId) {
+                    let newExpiry = new Date();
+                    newExpiry.setMonth(newExpiry.getMonth() + 1);
+                    await supabaseAdmin.from("profiles").update({
+                        tier: "PASS",
+                        premium_credits: 50,
+                        premium_expires_at: newExpiry.toISOString(),
+                    }).eq("id", userId);
+                    console.log(`🔄 PASS renewed for user ${userId}`);
+                }
+            } catch (err) {
+                console.error("❌ Error handling invoice.paid:", err);
+            }
+        }
+        return new NextResponse(null, { status: 200 });
+    }
+
+    // PASS subscription cancelled
+    if (event.type === "customer.subscription.deleted") {
+        const subscription = event.data.object as Stripe.Subscription;
+        const userId = subscription.metadata?.user_id;
+        if (userId) {
+            await supabaseAdmin.from("profiles").update({
+                tier: "Casual",
+                premium_expires_at: new Date().toISOString(),
+            }).eq("id", userId);
+            console.log(`❌ PASS cancelled for user ${userId}`);
+        }
+        return new NextResponse(null, { status: 200 });
+    }
+
     if (event.type === "checkout.session.completed") {
         const session = event.data.object as Stripe.Checkout.Session;
         const userId = session.client_reference_id;
@@ -84,7 +123,7 @@ export async function POST(req: Request) {
             if (priceId === passPriceId || (process.env.NODE_ENV === 'development' && priceId === 'price_1PASS_MOCK')) {
                 console.log("✨ Matching PASS plan...");
                 let newExpiry = new Date();
-                newExpiry.setDate(newExpiry.getDate() + 180);
+                newExpiry.setMonth(newExpiry.getMonth() + 1);
 
                 const { error: updateError } = await supabaseAdmin
                     .from("profiles")

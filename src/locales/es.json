@@ -117,7 +117,7 @@
   "tier1_feature2": "API estándar",
   "tier2_name": "Trip Pass",
   "tier2_credits": "50 Créditos",
-  "tier2_exp": "180 Días",
+  "tier2_exp": "Suscripción Mensual",
   "tier2_export": "Ilimitado",
   "tier2_desc": "El mejor para unas vacaciones perfectas.",
   "tier2_feature1": "Exportación ilimitada a Google Maps",
@@ -304,7 +304,7 @@
   "map_premium_badge": "Función Premium",
   "map_upgrade_cta": "Actualizar para desbloquear",
   "map_search_hint": "Buscar una ciudad...",
-  "price_payment_notice": "Pago único, sin suscripciones ocultas. Los precios en moneda local son referencials — el cargo real se realizará en USD.",
+  "price_payment_notice": "Journey Pass se renueva mensualmente. Otros planes son de pago único. Cobro en USD.",
   "ws_back": "Atrás",
   "ws_where_when": "¿Dónde y cuándo vamos?",
   "ws_who_travel": "¿Quién viene y cómo viajamos?",
@@ -456,5 +456,6 @@
   "err_credits": "Créditos insuficientes.",
   "err_export": "Error al exportar.",
   "err_payout_email": "Ingresa tu email de PayPal.",
-  "err_checkout": "Pago fallido."
+  "err_checkout": "Pago fallido.",
+  "per_month": "/mes"
 }

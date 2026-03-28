@@ -120,7 +120,7 @@
   "tier1_feature2": "標準 API 旅遊數據庫",
   "tier2_name": "旅程通行證",
   "tier2_credits": "50 點",
-  "tier2_exp": "180 日",
+  "tier2_exp": "每月續訂",
   "tier2_export": "無限次永久免費",
   "tier2_desc": "專為單次完美假期打造，解鎖高階 AI 微調，告別所有規劃焦慮。",
   "tier2_feature1": "無限制匯出至 Google Maps",
@@ -378,7 +378,7 @@
   "map_premium_badge": "進階功能",
   "map_upgrade_cta": "升級解鎖",
   "map_search_hint": "搜尋城市...",
-  "price_payment_notice": "一次性付款，無隱藏訂閱費。本地貨幣價格僅供參考，實際收費以美元計算。",
+  "price_payment_notice": "旅程通行證為每月自動續訂。其他方案為一次性付款。以美元計費。",
   "ws_back": "返回",
   "ws_where_when": "我們要去哪裡、什麼時候？",
   "ws_who_travel": "誰要一起去、怎麼旅行？",
@@ -458,5 +458,6 @@
   "err_credits": "點數不足，請購買更多。",
   "err_export": "匯出失敗，請稍後再試。",
   "err_payout_email": "請輸入您的 PayPal 電子郵件。",
-  "err_checkout": "結帳失敗，請重試。"
+  "err_checkout": "結帳失敗，請重試。",
+  "per_month": "/月"
 }

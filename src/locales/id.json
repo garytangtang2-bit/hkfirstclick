@@ -117,7 +117,7 @@
   "tier1_feature2": "API standar",
   "tier2_name": "Trip Pass",
   "tier2_credits": "50 Kredit",
-  "tier2_exp": "180 Hari",
+  "tier2_exp": "Langganan Bulanan",
   "tier2_export": "Tak Terbatas",
   "tier2_desc": "Terbaik untuk liburan sempurna.",
   "tier2_feature1": "Ekspor Google Maps Tanpa Batas",
@@ -304,7 +304,7 @@
   "map_premium_badge": "Fitur Premium",
   "map_upgrade_cta": "Upgrade untuk Membuka",
   "map_search_hint": "Cari kota...",
-  "price_payment_notice": "Pembayaran sekali, tanpa langganan tersembunyi. Harga mata uang lokal hanya untuk referensi — tagihan aktual dalam USD.",
+  "price_payment_notice": "Journey Pass diperbarui setiap bulan. Paket lain pembayaran sekali. Tagihan dalam USD.",
   "ws_back": "Kembali",
   "ws_where_when": "Ke mana dan kapan kita pergi?",
   "ws_who_travel": "Siapa yang ikut dan bagaimana kita bepergian?",
@@ -456,5 +456,6 @@
   "err_credits": "Kredit tidak cukup.",
   "err_export": "Ekspor gagal.",
   "err_payout_email": "Masukkan email PayPal Anda.",
-  "err_checkout": "Pembayaran gagal."
+  "err_checkout": "Pembayaran gagal.",
+  "per_month": "/bln"
 }
