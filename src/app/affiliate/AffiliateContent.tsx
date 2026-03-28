@@ -36,7 +36,7 @@ function AffiliatePublicPage({ t }: { t: any }) {
     const [showScroll, setShowScroll] = useState(true);
 
     useEffect(() => {
-        const onScroll = () => { if (window.scrollY > 80) setShowScroll(false); };
+        const onScroll = () => setShowScroll(window.scrollY <= 80);
         window.addEventListener("scroll", onScroll, { passive: true });
         return () => window.removeEventListener("scroll", onScroll);
     }, []);
