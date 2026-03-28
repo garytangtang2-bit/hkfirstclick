@@ -98,6 +98,10 @@ export function PricingContent() {
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ priceId, tier }),
             });
+            if (res.status === 401) {
+                router.push("/login");
+                return;
+            }
             const data = await res.json();
             if (data.url) {
                 window.location.href = data.url;
