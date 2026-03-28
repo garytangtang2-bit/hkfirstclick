@@ -39,13 +39,13 @@ function AffiliatePublicPage({ t }: { t: any }) {
     const totalEst = +(referrals * yearlyCommission).toFixed(2);
 
     return (
-        <div className="min-h-screen bg-[#0E0E0E] text-white">
-            {/* Hero */}
-            <div className="max-w-4xl mx-auto px-6 pt-20 pb-12 text-center">
+        <div className="min-h-screen text-white" style={{ background: "linear-gradient(180deg, #1a1a00 0%, #111100 15%, #0E0E0E 40%)" }}>
+            {/* Hero — full viewport height so scroll is obvious */}
+            <div className="min-h-screen flex flex-col items-center justify-center px-6 text-center relative">
                 <div className="inline-flex items-center gap-2 bg-[#EEDC00]/10 border border-[#EEDC00]/30 rounded-full px-4 py-1.5 text-sm text-[#EEDC00] font-medium mb-6">
                     <Zap size={14} /> Affiliate Program
                 </div>
-                <h1 className="text-4xl md:text-6xl font-black mb-4 leading-tight">
+                <h1 className="text-4xl md:text-6xl font-black mb-4 leading-tight max-w-2xl">
                     Earn up to <span className="text-[#EEDC00]">30%</span><br />on every referral
                 </h1>
                 <p className="text-gray-400 text-lg max-w-xl mx-auto mb-8">
@@ -55,22 +55,37 @@ function AffiliatePublicPage({ t }: { t: any }) {
                     Join Now — It&apos;s Free
                 </Link>
                 <p className="text-gray-500 text-sm mt-3">No approval needed. Start earning immediately.</p>
+
+                {/* Scroll indicator */}
+                <div className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-gray-400 animate-bounce">
+                    <span className="text-sm font-medium">Scroll down to calculate your monthly earnings</span>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <path d="M12 5v14M5 12l7 7 7-7" />
+                    </svg>
+                </div>
             </div>
 
             {/* Commission breakdown */}
-            <div className="max-w-4xl mx-auto px-6 py-10">
+            <div className="bg-[#0E0E0E] border-t border-white/5">
+            <div className="max-w-4xl mx-auto px-6 py-16">
                 <h2 className="text-xl font-bold text-center mb-6 text-gray-300">How much can you earn?</h2>
                 <div className="grid md:grid-cols-2 gap-4 mb-8">
                     <div className="bg-[#161616] border border-white/10 rounded-2xl p-6">
                         <div className="text-gray-400 text-sm mb-1">Journey Pass (Monthly)</div>
-                        <div className="text-3xl font-black text-white">${passCommission} <span className="text-lg font-normal text-gray-400">/ referral</span></div>
-                        <div className="text-gray-500 text-sm mt-1">Customer pays $7.99/mo → you earn $2.40</div>
+                        <div className="text-3xl font-black text-white">${passCommission} USD <span className="text-lg font-normal text-gray-400">/ referral</span></div>
+                        <div className="text-gray-500 text-sm mt-1">Customer pays $7.99 USD/mo → you earn $2.40 USD</div>
+                        <div className="mt-3 bg-green-900/30 border border-green-500/30 rounded-xl px-3 py-2 text-xs text-green-400 font-medium">
+                            Recurring — earn every month the customer stays subscribed
+                        </div>
                     </div>
                     <div className="bg-[#161616] border border-[#EEDC00]/30 rounded-2xl p-6 relative overflow-hidden">
                         <div className="absolute top-3 right-3 bg-[#EEDC00] text-black text-xs font-bold px-2 py-0.5 rounded-full">Best</div>
                         <div className="text-gray-400 text-sm mb-1">Yearly Plan</div>
-                        <div className="text-3xl font-black text-[#EEDC00]">${yearlyCommission} <span className="text-lg font-normal text-gray-400">/ referral</span></div>
-                        <div className="text-gray-500 text-sm mt-1">Customer pays $46.99 → you earn $14.10</div>
+                        <div className="text-3xl font-black text-[#EEDC00]">${yearlyCommission} USD <span className="text-lg font-normal text-gray-400">/ referral</span></div>
+                        <div className="text-gray-500 text-sm mt-1">Customer pays $46.99 USD → you earn $14.10 USD</div>
+                        <div className="mt-3 bg-[#EEDC00]/10 border border-[#EEDC00]/20 rounded-xl px-3 py-2 text-xs text-[#EEDC00] font-medium">
+                            One-time commission paid upfront
+                        </div>
                     </div>
                 </div>
 
@@ -97,30 +112,33 @@ function AffiliatePublicPage({ t }: { t: any }) {
                     </div>
                     <div className="grid grid-cols-3 gap-3 mt-6">
                         {[
-                            { label: "If all buy Pass", val: +(referrals * passCommission).toFixed(2), color: "text-white" },
-                            { label: "If all buy Yearly", val: totalEst, color: "text-[#EEDC00]" },
-                            { label: "Reach $50 payout in", val: Math.ceil(50 / yearlyCommission), suffix: " referrals", color: "text-white" },
+                            { label: "If all buy Pass", sublabel: "USD / month, recurring", val: +(referrals * passCommission).toFixed(2), color: "text-white" },
+                            { label: "If all buy Yearly", sublabel: "USD one-time", val: totalEst, color: "text-[#EEDC00]" },
+                            { label: "Reach $50 USD payout in", sublabel: "", val: Math.ceil(50 / yearlyCommission), suffix: " referrals", color: "text-white" },
                         ].map(item => (
                             <div key={item.label} className="bg-black/30 rounded-xl p-4 text-center">
                                 <div className={`text-2xl font-black ${item.color}`}>
                                     {item.suffix ? item.val : `$${item.val}`}{item.suffix ?? ""}
                                 </div>
                                 <div className="text-xs text-gray-500 mt-1">{item.label}</div>
+                                {item.sublabel && <div className="text-xs text-green-400 mt-0.5 font-medium">{item.sublabel}</div>}
                             </div>
                         ))}
                     </div>
                 </div>
             </div>
+            </div>
 
-            {/* Features */}
-            <div className="max-w-4xl mx-auto px-6 py-6">
+            {/* Features — slightly lighter bg for contrast */}
+            <div className="bg-[#131313] border-t border-white/5">
+            <div className="max-w-4xl mx-auto px-6 py-16">
                 <div className="grid md:grid-cols-3 gap-4 mb-12">
                     {[
                         { icon: <Globe size={20} />, title: "12 Languages", desc: "Your referral link works for users worldwide" },
-                        { icon: <DollarSign size={20} />, title: "PayPal Payout", desc: "Zero fees — you receive the full amount" },
+                        { icon: <DollarSign size={20} />, title: "PayPal Payout (USD)", desc: "Zero fees — you receive the full USD amount" },
                         { icon: <TrendingUp size={20} />, title: "Real-time Dashboard", desc: "Track clicks, signups, and earnings live" },
                     ].map(f => (
-                        <div key={f.title} className="bg-[#161616] border border-white/10 rounded-2xl p-5">
+                        <div key={f.title} className="bg-[#1a1a1a] border border-white/10 rounded-2xl p-5">
                             <div className="text-[#EEDC00] mb-3">{f.icon}</div>
                             <div className="font-bold mb-1">{f.title}</div>
                             <div className="text-gray-400 text-sm">{f.desc}</div>
@@ -128,10 +146,12 @@ function AffiliatePublicPage({ t }: { t: any }) {
                     ))}
                 </div>
             </div>
+            </div>
 
-            {/* CTA */}
-            <div className="max-w-4xl mx-auto px-6 pb-20 text-center">
-                <div className="bg-[#161616] border border-[#EEDC00]/20 rounded-3xl p-10">
+            {/* CTA — darkest section at bottom */}
+            <div className="bg-[#0a0a00] border-t border-white/5">
+            <div className="max-w-4xl mx-auto px-6 py-20 text-center">
+                <div className="bg-[#161600] border border-[#EEDC00]/20 rounded-3xl p-10">
                     <h2 className="text-2xl font-black mb-2">Ready to start earning?</h2>
                     <p className="text-gray-400 mb-6">Create a free account to get your referral link instantly.</p>
                     <Link href="/login" className="inline-block bg-[#EEDC00] text-black font-black px-10 py-4 rounded-2xl text-lg hover:bg-yellow-300 transition-colors">
@@ -139,6 +159,7 @@ function AffiliatePublicPage({ t }: { t: any }) {
                     </Link>
                     <p className="text-gray-500 text-xs mt-4">Already have an account? <Link href="/login" className="text-[#EEDC00] underline">Sign in</Link></p>
                 </div>
+            </div>
             </div>
         </div>
     );
