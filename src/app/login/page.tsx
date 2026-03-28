@@ -5,7 +5,7 @@ import { LogIn } from "lucide-react";
 import { createClient } from "@/utils/supabase/client";
 import { AppProvider, useAppContext } from "@/components/AppContext";
 import GlobalLayout from "@/components/GlobalLayout";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 
 export default function Login() {
     return (
@@ -25,6 +25,8 @@ function LoginContent() {
     const [error, setError] = useState<string | null>(null);
     const supabase = createClient();
     const router = useRouter();
+    const searchParams = useSearchParams();
+    const redirectTo = searchParams.get("redirect") || "/workspace";
 
     const handleSignIn = async (e: React.FormEvent) => {
         e.preventDefault();
@@ -38,7 +40,7 @@ function LoginContent() {
             setError(error.message);
             setLoading(false);
         } else {
-            router.push("/workspace");
+            router.push(redirectTo);
         }
     };
 
@@ -50,7 +52,7 @@ function LoginContent() {
             email,
             password,
             options: {
-                emailRedirectTo: `${location.origin}/auth/callback`,
+                emailRedirectTo: `${location.origin}/auth/callback?next=${redirectTo}`,
             },
         });
         if (error) {
@@ -67,7 +69,7 @@ function LoginContent() {
         const { error } = await supabase.auth.signInWithOAuth({
             provider: 'google',
             options: {
-                redirectTo: `${location.origin}/auth/callback`,
+                redirectTo: `${location.origin}/auth/callback?next=${redirectTo}`,
             },
         });
         if (error) {

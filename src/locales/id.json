@@ -495,5 +495,6 @@
   "err_export": "Ekspor gagal.",
   "err_payout_email": "Masukkan email PayPal Anda.",
   "err_checkout": "Pembayaran gagal.",
-  "per_month": "/bln"
+  "per_month": "/bln",
+  "price_login_prompt": "Silakan login untuk membeli paket. Anda akan diarahkan kembali ke sini."
 }

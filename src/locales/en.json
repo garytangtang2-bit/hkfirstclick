@@ -5,7 +5,7 @@
   "nav_pricing": "Pricing Rules",
   "nav_login": "Login",
   "btn_studio": "Go to Studio",
-  "btn_start_studio": "Go to Studio to Start Planning",
+  "btn_start_studio": "Try Free — Plan Your Trip in Seconds",
   "btn_next": "Next",
   "btn_generate": "Generate Itinerary",
   "btn_confirm_date": "Confirm Date",
@@ -495,5 +495,6 @@
   "err_export": "Export failed, please try again.",
   "err_payout_email": "Please enter your PayPal email.",
   "err_checkout": "Checkout failed. Please try again.",
-  "per_month": "/mo"
+  "per_month": "/mo",
+  "price_login_prompt": "Please log in to purchase a plan. After login, you will be redirected back here."
 }

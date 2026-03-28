@@ -495,5 +495,6 @@
   "err_export": "রপ্তানি ব্যর্থ।",
   "err_payout_email": "PayPal ইমেইল লিখুন।",
   "err_checkout": "চেকআউট ব্যর্থ।",
-  "per_month": "/মাস"
+  "per_month": "/মাস",
+  "price_login_prompt": "প্ল্যান কিনতে লগইন করুন। লগইনের পরে এখানে ফিরে আসবেন।"
 }

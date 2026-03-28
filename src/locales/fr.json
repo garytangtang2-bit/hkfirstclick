@@ -495,5 +495,6 @@
   "err_export": "Échec de exportation.",
   "err_payout_email": "Veuillez saisir votre email PayPal.",
   "err_checkout": "Échec du paiement.",
-  "per_month": "/mois"
+  "per_month": "/mois",
+  "price_login_prompt": "Connectez-vous pour acheter un plan. Vous serez redirigé ici après connexion."
 }

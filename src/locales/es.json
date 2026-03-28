@@ -495,5 +495,6 @@
   "err_export": "Error al exportar.",
   "err_payout_email": "Ingresa tu email de PayPal.",
   "err_checkout": "Pago fallido.",
-  "per_month": "/mes"
+  "per_month": "/mes",
+  "price_login_prompt": "Inicia sesión para comprar un plan. Serás redirigido aquí después."
 }

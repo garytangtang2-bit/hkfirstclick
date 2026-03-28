@@ -495,5 +495,6 @@
   "err_export": "निर्यात विफल।",
   "err_payout_email": "PayPal ईमेल दर्ज करें।",
   "err_checkout": "चेकआउट विफल।",
-  "per_month": "/माह"
+  "per_month": "/माह",
+  "price_login_prompt": "प्लान खरीदने के लिए लॉगिन करें। लॉगिन के बाद यहां वापस आएंगे।"
 }

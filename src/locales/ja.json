@@ -495,5 +495,6 @@
   "err_export": "エクスポートに失敗しました。再試行してください。",
   "err_payout_email": "PayPalメールアドレスを入力してください。",
   "err_checkout": "チェックアウトに失敗しました。",
-  "per_month": "/月"
+  "per_month": "/月",
+  "price_login_prompt": "プランを購入するにはログインしてください。ログイン後にこのページに戻ります。"
 }

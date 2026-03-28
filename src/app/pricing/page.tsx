@@ -18,6 +18,7 @@ export default function Pricing() {
 export function PricingContent() {
     const { t, currency } = useAppContext();
     const [profile, setProfile] = useState<any>(null);
+    const [loggedIn, setLoggedIn] = useState<boolean | null>(null);
     const supabase = createClient();
     const router = useRouter();
 
@@ -28,6 +29,7 @@ export function PricingContent() {
             const {
                 data: { session },
             } = await supabase.auth.getSession();
+            setLoggedIn(!!session?.user);
             if (session?.user) {
                 const { data } = await supabase
                     .from("profiles")
@@ -99,7 +101,7 @@ export function PricingContent() {
                 body: JSON.stringify({ priceId, tier }),
             });
             if (res.status === 401) {
-                router.push("/login");
+                router.push("/login?redirect=/pricing");
                 return;
             }
             const data = await res.json();
@@ -167,6 +169,17 @@ export function PricingContent() {
             dangerouslySetInnerHTML={{ __html: JSON.stringify(pricingFaqSchema) }}
         />
         <div className="min-h-screen pt-12 pb-24 px-6 md:px-12 max-w-7xl mx-auto">
+            {loggedIn === false && (
+                <div className="mb-8 bg-[#EEDC00]/10 border border-[#EEDC00]/30 rounded-2xl px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+                    <p className="text-sm text-gray-300">{t.price_login_prompt || "Please log in to purchase a plan."}</p>
+                    <button
+                        onClick={() => router.push("/login?redirect=/pricing")}
+                        className="bg-[#EEDC00] text-black font-bold px-6 py-2 rounded-xl text-sm hover:bg-yellow-300 transition-colors shrink-0"
+                    >
+                        {t.nav_login || "Login"}
+                    </button>
+                </div>
+            )}
             <div className="text-center mb-16 relative">
                 <h1 className="text-4xl md:text-6xl font-black mb-6 drop-shadow-lg text-white">
                     {t.price_title || "Pricing Plans"}

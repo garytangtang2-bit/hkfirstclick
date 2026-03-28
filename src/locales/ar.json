@@ -495,5 +495,6 @@
   "err_export": "فشل التصدير.",
   "err_payout_email": "أدخل بريدك على PayPal.",
   "err_checkout": "فشل الدفع.",
-  "per_month": "/شهر"
+  "per_month": "/شهر",
+  "price_login_prompt": "يرجى تسجيل الدخول لشراء خطة. ستعود إلى هذه الصفحة بعد تسجيل الدخول."
 }

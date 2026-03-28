@@ -495,5 +495,6 @@
   "err_export": "Ошибка экспорта.",
   "err_payout_email": "Введите email PayPal.",
   "err_checkout": "Ошибка оплаты.",
-  "per_month": "/мес"
+  "per_month": "/мес",
+  "price_login_prompt": "Войдите, чтобы купить план. После входа вы вернётесь на эту страницу."
 }

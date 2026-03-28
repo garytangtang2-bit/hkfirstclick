@@ -497,5 +497,6 @@
   "err_export": "匯出失敗，請稍後再試。",
   "err_payout_email": "請輸入您的 PayPal 電子郵件。",
   "err_checkout": "結帳失敗，請重試。",
-  "per_month": "/月"
+  "per_month": "/月",
+  "price_login_prompt": "請先登入才能購買方案，登入後將自動返回此頁面。"
 }
