@@ -33,6 +33,13 @@ interface AffiliateStats {
 
 function AffiliatePublicPage({ t }: { t: any }) {
     const [referrals, setReferrals] = useState(10);
+    const [showScroll, setShowScroll] = useState(true);
+
+    useEffect(() => {
+        const onScroll = () => { if (window.scrollY > 80) setShowScroll(false); };
+        window.addEventListener("scroll", onScroll, { passive: true });
+        return () => window.removeEventListener("scroll", onScroll);
+    }, []);
 
     const passCommission = +(7.99 * 0.3).toFixed(2);
     const yearlyCommission = +(46.99 * 0.3).toFixed(2);
@@ -57,15 +64,31 @@ function AffiliatePublicPage({ t }: { t: any }) {
                 <p className="text-gray-500 text-sm mt-3">{t.aff_hero_no_approval || "No approval needed. Start earning immediately."}</p>
 
                 {/* Scroll indicator */}
-                <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3">
+                <div
+                    className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-3 transition-opacity duration-700"
+                    style={{ opacity: showScroll ? 1 : 0, pointerEvents: "none" }}
+                >
                     <div className="bg-white/5 border border-white/10 rounded-full px-5 py-2 flex items-center gap-2 text-gray-300 text-sm font-medium backdrop-blur-sm">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#EEDC00" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                        <svg
+                            width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#EEDC00" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"
+                            style={{ animation: "slowBounce 2.5s ease-in-out infinite" }}
+                        >
                             <path d="M12 5v14M5 12l7 7 7-7" />
                         </svg>
                         {t.aff_hero_scroll || "Scroll down to calculate your monthly earnings"}
                     </div>
-                    <div className="w-0.5 h-6 bg-gradient-to-b from-white/20 to-transparent animate-pulse" />
+                    <div className="w-0.5 h-6 bg-gradient-to-b from-white/20 to-transparent" style={{ animation: "slowPulse 2.5s ease-in-out infinite" }} />
                 </div>
+                <style>{`
+                    @keyframes slowBounce {
+                        0%, 100% { transform: translateY(0); }
+                        50% { transform: translateY(5px); }
+                    }
+                    @keyframes slowPulse {
+                        0%, 100% { opacity: 0.2; }
+                        50% { opacity: 0.7; }
+                    }
+                `}</style>
             </div>
 
             {/* Commission breakdown */}
