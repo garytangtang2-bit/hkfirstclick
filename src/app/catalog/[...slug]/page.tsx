@@ -358,6 +358,25 @@ export default async function CatalogSlugPage({ params }: Props) {
             })),
           },
           {
+            "@type": "TouristTrip",
+            "@id": `https://www.hkfirstclick.com/catalog/${lang}/${destination}#trip`,
+            "name": title,
+            "description": `A ${days}-day travel itinerary for ${cityLabel}`,
+            "itinerary": {
+              "@type": "ItemList",
+              "numberOfItems": dailyItinerary.length,
+              "itemListElement": dailyItinerary.map((day: any, i: number) => ({
+                "@type": "ListItem",
+                "position": i + 1,
+                "item": {
+                  "@type": "TouristAttraction",
+                  "name": `Day ${day.day}: ${day.day_title}`,
+                  "description": day.activities?.map((a: any) => a.spot_name).join(", ") || "",
+                }
+              }))
+            }
+          },
+          {
             "@type": "Article",
             "@id": `https://www.hkfirstclick.com/catalog/${lang}/${destination}#article`,
             "headline": title,

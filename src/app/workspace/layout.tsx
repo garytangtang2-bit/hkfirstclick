@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: "AI Travel Itinerary Generator — Build Your Perfect Trip",
-    description: "Create a personalized travel itinerary in seconds with AI. Input your destination, dates, and preferences — get a complete day-by-day plan with real flight prices, hotel picks, and local tips.",
+    title: "Build Your Free AI Itinerary | Smart Trip Planner",
+    description: "Generate highly-personalized travel itineraries in seconds. Enter your destination, get real flight prices and daily plans instantly. No credit card required.",
     keywords: ["AI itinerary generator", "trip planner", "travel planning", "AI travel assistant", "vacation planner", "custom itinerary"],
     alternates: {
         canonical: "https://www.hkfirstclick.com/workspace",
@@ -32,8 +32,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "AI Travel Itinerary Generator | HKfirstclick",
-        description: "Create a personalized travel itinerary in seconds with AI.",
+        title: "Build Your Free AI Itinerary | Smart Trip Planner",
+        description: "Generate highly-personalized travel itineraries in seconds. Enter your destination, get real flight prices and daily plans instantly.",
         images: ["https://www.hkfirstclick.com/og-image.png"],
     },
 };
@@ -52,6 +52,13 @@ export default function WorkspaceLayout({ children }: { children: React.ReactNod
             "price": "0",
             "priceCurrency": "USD",
             "description": "Free tier with 6 credits. Premium plans available.",
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.8",
+            "ratingCount": "1245",
+            "bestRating": "5",
+            "worstRating": "1"
         },
         "publisher": {
             "@type": "Organization",

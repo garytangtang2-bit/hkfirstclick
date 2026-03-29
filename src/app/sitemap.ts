@@ -17,11 +17,54 @@ const LOCALES = ['en', 'zh', 'ja', 'ko', 'fr', 'es', 'id', 'hi', 'pt', 'ar', 'bn
 const BASE_URL = 'https://www.hkfirstclick.com'
 const NOW = new Date()
 
+// Helper mapping to emit correct BCP47 tags for hreflang
+const getHrefLangKey = (locale: string) => {
+    if (locale === 'zh') return 'zh-TW';
+    if (locale === 'pt') return 'pt-BR';
+    return locale;
+}
+
+const buildCoreAlternates = (path: string) => {
+    const languages: Record<string, string> = {
+        'x-default': `${BASE_URL}${path}`
+    }
+    LOCALES.forEach(locale => {
+        languages[getHrefLangKey(locale)] = locale === 'en' ? `${BASE_URL}${path}` : `${BASE_URL}${path}?lang=${locale}`;
+    });
+    return { languages };
+}
+
+const buildDynamicRootAlternates = (basePath: string) => {
+    const languages: Record<string, string> = {
+        'x-default': `${BASE_URL}${basePath}/en`
+    }
+    LOCALES.forEach(locale => {
+        languages[getHrefLangKey(locale)] = `${BASE_URL}${basePath}/${locale}`;
+    });
+    return { languages };
+}
+
+const buildCityAlternates = (basePath: string, city: string) => {
+    const languages: Record<string, string> = {
+        'x-default': `${BASE_URL}${basePath}/en/${city}`
+    }
+    LOCALES.forEach(locale => {
+        languages[getHrefLangKey(locale)] = `${BASE_URL}${basePath}/${locale}/${city}`;
+    });
+    return { languages };
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = []
 
   // Homepage
-  entries.push({ url: BASE_URL, lastModified: NOW, changeFrequency: 'weekly', priority: 1.0 })
+  entries.push({ 
+    url: BASE_URL, 
+    lastModified: NOW, 
+    changeFrequency: 'weekly', 
+    priority: 1.0,
+    alternates: buildCoreAlternates('')
+  })
 
   // Core pages
   const corePages = [
@@ -36,7 +79,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ]
 
   corePages.forEach(({ path, priority, freq }) => {
-    entries.push({ url: `${BASE_URL}${path}`, lastModified: NOW, changeFrequency: freq, priority })
+    entries.push({ 
+        url: `${BASE_URL}${path}`, 
+        lastModified: NOW, 
+        changeFrequency: freq, 
+        priority,
+        alternates: buildCoreAlternates(path)
+    })
   })
 
   // Catalog with language prefix — highest SEO value
@@ -46,6 +95,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: NOW,
       changeFrequency: 'weekly',
       priority: 0.85,
+      alternates: buildDynamicRootAlternates('/catalog')
     })
   })
 
@@ -57,6 +107,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: NOW,
         changeFrequency: 'monthly',
         priority: 0.95,
+        alternates: buildCityAlternates('/catalog', city)
       })
     })
   })
@@ -69,6 +120,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: NOW,
         changeFrequency: 'monthly',
         priority: 0.85,
+        alternates: buildCityAlternates('/food', city)
       })
     })
   })
@@ -81,6 +133,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: NOW,
         changeFrequency: 'monthly',
         priority: 0.85,
+        alternates: buildCityAlternates('/attractions', city)
       })
     })
   })

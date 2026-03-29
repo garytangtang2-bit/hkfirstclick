@@ -48,10 +48,10 @@ const OG_IMAGE = "https://www.hkfirstclick.com/og-image.png";
 export const metadata: Metadata = {
     metadataBase: new URL("https://www.hkfirstclick.com"),
     title: {
-        default: "HKfirstclick | AI Travel Itinerary Generator",
+        default: "Free AI Travel Itinerary Generator | Plan Trips in Seconds",
         template: "%s | HKfirstclick"
     },
-    description: "Generate day-by-day AI travel itineraries for 54+ destinations in seconds. Free to start — no credit card needed. Available in 12 languages.",
+    description: "Plan your perfect trip in seconds. Generate free, highly-personalized AI travel itineraries for 54+ destinations. No sign-up required. Available in 12 languages.",
     keywords: [
         "AI travel itinerary", "AI trip planner", "travel itinerary generator",
         "day by day travel plan", "free travel planner", "AI vacation planner",
@@ -81,8 +81,8 @@ export const metadata: Metadata = {
         },
     },
     openGraph: {
-        title: "HKfirstclick | AI Travel Itinerary Generator",
-        description: "Generate free day-by-day AI travel itineraries for 54+ destinations in seconds. Available in 12 languages. No credit card needed.",
+        title: "Free AI Travel Itinerary Generator | Plan Trips in Seconds",
+        description: "Plan your perfect trip in seconds. Generate free, highly-personalized AI travel itineraries for 54+ destinations. No sign-up required. Available in 12 languages.",
         url: "https://www.hkfirstclick.com",
         siteName: "HKfirstclick",
         images: [{ url: OG_IMAGE, width: 1200, height: 630, alt: "HKfirstclick - AI Travel Planner" }],
@@ -91,8 +91,8 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "HKfirstclick | AI Travel Itinerary Generator",
-        description: "Free AI travel itinerary generator. 54+ destinations, 12 languages, day-by-day plans.",
+        title: "Free AI Travel Itinerary Generator | Plan Trips in Seconds",
+        description: "Plan your perfect trip in seconds. Generate free, highly-personalized AI travel itineraries for 54+ destinations. No sign-up required.",
         images: [OG_IMAGE],
     },
     icons: {
@@ -213,6 +213,35 @@ export default function RootLayout({
                                                     "position": 5,
                                                     "name": "Pricing Plans",
                                                     "url": "https://www.hkfirstclick.com/pricing"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "FAQPage",
+                                            "mainEntity": [
+                                                {
+                                                    "@type": "Question",
+                                                    "name": "Is the AI travel itinerary generator free?",
+                                                    "acceptedAnswer": {
+                                                        "@type": "Answer",
+                                                        "text": "Yes! You get 6 free credits to generate day-by-day travel itineraries without needing a credit card."
+                                                    }
+                                                },
+                                                {
+                                                    "@type": "Question",
+                                                    "name": "How many days can the itinerary cover?",
+                                                    "acceptedAnswer": {
+                                                        "@type": "Answer",
+                                                        "text": "Our AI can generate detailed trip plans ranging from 1-day quick tours to 10-day comprehensive vacations."
+                                                    }
+                                                },
+                                                {
+                                                    "@type": "Question",
+                                                    "name": "Does the AI include real prices?",
+                                                    "acceptedAnswer": {
+                                                        "@type": "Answer",
+                                                        "text": "Yes, our AI planner integrates with Klook and SkyScanner to provide realistic flight data and local attraction ticket prices."
+                                                    }
                                                 }
                                             ]
                                         }
