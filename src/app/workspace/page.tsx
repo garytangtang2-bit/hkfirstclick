@@ -259,7 +259,7 @@ function WorkspaceContent() {
         try {
             const res = await fetch("/api/deduct-export", { method: "POST" });
             if (res.status === 401) { alert(t.err_auth || "請先登入 / Please log in."); return; }
-            if (res.status === 402) { alert("點數不足，請購買點數。"); window.location.href = '/pricing'; return; }
+            if (res.status === 402) { alert("點數不足，請購買點數。"); window.location.href = `/${LANG_NAME_TO_CODE[language] || 'en'}/pricing`; return; }
             if (!res.ok) { alert("匯出失敗，請稍後再試。"); return; }
             const originalTitle = document.title;
             document.title = `${itinerary?.destination || 'Trip'}_Itinerary`;
@@ -900,7 +900,7 @@ function WorkspaceContent() {
                                         {loading ? <><Loader2 size={16} className="animate-spin" /> {t.ws_tweak_loading || "Processing..."}</> : ((t.ws_tweak_btn || "Update Itinerary") + " ✨")}
                                     </button>
                                     {(userTier === "TRIAL" || userTier === "Casual") && (
-                                        <div className="text-center text-xs text-gray-500 mt-1 cursor-pointer hover:text-[#EEDC00] transition-colors text-muted-premium" onClick={() => window.location.href = '/pricing'}>
+                                        <div className="text-center text-xs text-gray-500 mt-1 cursor-pointer hover:text-[#EEDC00] transition-colors text-muted-premium" onClick={() => window.location.href = `/${LANG_NAME_TO_CODE[language] || 'en'}/pricing`}>
                                             {t.ws_upgrade_hint || "免費用戶無法修改行程，請升級方案 ✨"}
                                         </div>
                                     )}

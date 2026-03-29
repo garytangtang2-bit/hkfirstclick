@@ -9,6 +9,7 @@ import { QRCodeSVG } from "qrcode.react";
 import html2canvas from "html2canvas";
 import { createClient } from "@/utils/supabase/client";
 import AutocompleteInput from "@/components/AutocompleteInput";
+import { LANG_NAME_TO_CODE } from "@/utils/langMapping";
 
 export default function Workspace() {
     return (
@@ -101,7 +102,7 @@ function WorkspaceContent() {
             }
             if (deductRes.status === 402) {
                 alert(t?.err_credits || "Not enough credits. Please purchase more.");
-                window.location.href = '/pricing';
+                window.location.href = `/${LANG_NAME_TO_CODE[language] || 'en'}/pricing`;
                 return;
             }
             if (!deductRes.ok) {
@@ -813,7 +814,7 @@ function WorkspaceContent() {
 
                                                 if (res.status === 402) {
                                                     alert(t.err_credits || "Not enough credits. Please purchase more.");
-                                                    window.location.href = '/pricing';
+                                                    window.location.href = `/${LANG_NAME_TO_CODE[language] || 'en'}/pricing`;
                                                     return;
                                                 }
 

@@ -179,7 +179,7 @@ function MapContent() {
                         <p className="text-gray-400 text-sm leading-relaxed mb-8">
                             {t.map_desc || "Unlock the interactive AI Travel Map with a Journey Pass or above. Explore 1,000+ cities with translations and personalized itinerary suggestions."}
                         </p>
-                        <Link href="/pricing" className="block w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-bold hover:bg-[#ffe800] transition-colors shadow-[0_0_20px_rgba(238,220,0,0.3)]">
+                        <Link href={`/${LANG_NAME_TO_CODE[language] || 'en'}/pricing`} className="block w-full bg-[#EEDC00] text-black px-6 py-4 rounded-xl font-bold hover:bg-[#ffe800] transition-colors shadow-[0_0_20px_rgba(238,220,0,0.3)]">
                             <span className="flex items-center justify-center gap-2"><Sparkles size={15} /> {t.map_upgrade_cta || t.btn_upgrade || "Upgrade to Unlock"}</span>
                         </Link>
                     </div>
