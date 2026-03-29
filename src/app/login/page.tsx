@@ -40,7 +40,9 @@ function LoginContent() {
             setError(error.message);
             setLoading(false);
         } else {
-            router.push(redirectTo);
+            // Use full page navigation instead of client-side routing to ensure
+            // the middleware can read the newly set Supabase session cookie.
+            window.location.href = redirectTo;
         }
     };
 
