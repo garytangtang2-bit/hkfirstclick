@@ -130,7 +130,9 @@ export async function POST(req: Request) {
                     .update({
                         tier: "PASS",
                         premium_credits: 50,
-                        premium_expires_at: newExpiry.toISOString()
+                        premium_expires_at: newExpiry.toISOString(),
+                        stripe_subscription_id: session.subscription as string || null,
+                        stripe_customer_id: session.customer as string || null,
                     })
                     .eq("id", userId);
 

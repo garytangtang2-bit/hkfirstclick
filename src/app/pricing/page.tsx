@@ -20,6 +20,10 @@ export function PricingContent() {
     const [profile, setProfile] = useState<any>(null);
     const [loggedIn, setLoggedIn] = useState<boolean | null>(null);
     const [showLoginPrompt, setShowLoginPrompt] = useState(false);
+    const [cancelStep, setCancelStep] = useState(0); // 0=hidden, 1=reason, 2=confirm, 3=final
+    const [cancelReason, setCancelReason] = useState("");
+    const [cancelLoading, setCancelLoading] = useState(false);
+    const [cancelDone, setCancelDone] = useState(false);
     const supabase = createClient();
     const router = useRouter();
 
@@ -34,7 +38,7 @@ export function PricingContent() {
             if (session?.user) {
                 const { data } = await supabase
                     .from("profiles")
-                    .select("tier")
+                    .select("tier, stripe_subscription_id")
                     .eq("id", session.user.id)
                     .single();
                 setProfile(data);
@@ -93,6 +97,28 @@ export function PricingContent() {
             stripePriceId: process.env.NEXT_PUBLIC_STRIPE_PRICE_TOPUP || "price_1TOPUP_MOCK",
         },
     ];
+
+    const handleCancelSubscription = async () => {
+        setCancelLoading(true);
+        try {
+            const res = await fetch("/api/cancel-subscription", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ reason: cancelReason }),
+            });
+            if (res.ok) {
+                setCancelDone(true);
+                setCancelStep(0);
+                setProfile((p: any) => ({ ...p, stripe_subscription_id: null }));
+            } else {
+                const data = await res.json();
+                alert(data.error || "Failed to cancel. Please try again.");
+            }
+        } catch {
+            alert("Failed to cancel. Please try again.");
+        }
+        setCancelLoading(false);
+    };
 
     const handleCheckout = async (priceId: string, tier: string) => {
         if (!loggedIn) {
@@ -412,6 +438,70 @@ export function PricingContent() {
                         {t.rule_3_example}
                     </div>
                 </div>
+
+                {/* Cancel subscription — only show for active PASS subscribers */}
+                {profile?.tier === "PASS" && profile?.stripe_subscription_id && !profile.stripe_subscription_id.includes(":cancel_pending") && !cancelDone && (
+                    <div className="mt-12 pt-6 border-t border-white/5 text-center">
+                        {cancelStep === 0 && (
+                            <button onClick={() => setCancelStep(1)} className="text-xs text-gray-600 hover:text-gray-400 transition-colors underline underline-offset-2">
+                                {t.cancel_sub_btn || "Cancel subscription"}
+                            </button>
+                        )}
+                        {cancelStep === 1 && (
+                            <div className="max-w-sm mx-auto bg-[#111] border border-white/10 rounded-2xl p-6 text-left">
+                                <h3 className="text-white font-bold mb-1">{t.cancel_sub_title || "We're sorry to see you go"}</h3>
+                                <p className="text-gray-400 text-sm mb-4">{t.cancel_sub_reason_label || "Why are you cancelling?"}</p>
+                                <div className="space-y-2 mb-5">
+                                    {[1,2,3,4,5].map(n => (
+                                        <button key={n} onClick={() => setCancelReason(t[`cancel_sub_reason_${n}` as keyof typeof t] as string || "")}
+                                            className={`w-full text-left px-4 py-2.5 rounded-xl text-sm border transition-colors ${cancelReason === (t[`cancel_sub_reason_${n}` as keyof typeof t] as string) ? "border-[#EEDC00]/60 bg-[#EEDC00]/5 text-white" : "border-white/10 text-gray-400 hover:border-white/30"}`}>
+                                            {t[`cancel_sub_reason_${n}` as keyof typeof t] as string}
+                                        </button>
+                                    ))}
+                                </div>
+                                <div className="flex gap-2">
+                                    <button onClick={() => setCancelStep(0)} className="flex-1 py-2 text-sm text-gray-500 hover:text-white transition-colors">{t.cancel_sub_confirm_back || "Keep my subscription"}</button>
+                                    <button onClick={() => cancelReason && setCancelStep(2)} disabled={!cancelReason}
+                                        className="flex-1 py-2 bg-white/10 hover:bg-white/20 text-white text-sm rounded-xl transition-colors disabled:opacity-30">
+                                        {t.cancel_sub_next || "Continue"}
+                                    </button>
+                                </div>
+                            </div>
+                        )}
+                        {cancelStep === 2 && (
+                            <div className="max-w-sm mx-auto bg-[#111] border border-white/10 rounded-2xl p-6 text-left">
+                                <h3 className="text-white font-bold mb-2">{t.cancel_sub_confirm_title || "Are you sure you want to cancel?"}</h3>
+                                <p className="text-gray-400 text-sm mb-5">{t.cancel_sub_confirm_desc || "You will keep access until the end of your current billing period."}</p>
+                                <div className="flex gap-2">
+                                    <button onClick={() => setCancelStep(0)} className="flex-1 py-2.5 bg-[#EEDC00] text-black text-sm font-bold rounded-xl hover:bg-yellow-300 transition-colors">
+                                        {t.cancel_sub_confirm_back || "Keep my subscription"}
+                                    </button>
+                                    <button onClick={() => setCancelStep(3)} className="flex-1 py-2.5 border border-white/10 text-gray-400 text-sm rounded-xl hover:border-white/30 transition-colors">
+                                        {t.cancel_sub_confirm_next || "Yes, I want to cancel"}
+                                    </button>
+                                </div>
+                            </div>
+                        )}
+                        {cancelStep === 3 && (
+                            <div className="max-w-sm mx-auto bg-[#111] border border-red-500/20 rounded-2xl p-6 text-left">
+                                <h3 className="text-white font-bold mb-2">{t.cancel_sub_final_title || "Last chance — are you really sure?"}</h3>
+                                <p className="text-gray-400 text-sm mb-5">{t.cancel_sub_final_desc || "Your 50 credits and all premium features will be lost at the end of the billing period."}</p>
+                                <div className="flex gap-2">
+                                    <button onClick={() => setCancelStep(0)} className="flex-1 py-2.5 bg-[#EEDC00] text-black text-sm font-bold rounded-xl hover:bg-yellow-300 transition-colors">
+                                        {t.cancel_sub_final_back || "No, keep it"}
+                                    </button>
+                                    <button onClick={handleCancelSubscription} disabled={cancelLoading}
+                                        className="flex-1 py-2.5 border border-red-500/40 text-red-400 text-sm rounded-xl hover:bg-red-500/10 transition-colors disabled:opacity-50">
+                                        {cancelLoading ? (t.cancel_sub_cancelling || "Cancelling...") : (t.cancel_sub_final_confirm || "Cancel my subscription")}
+                                    </button>
+                                </div>
+                            </div>
+                        )}
+                    </div>
+                )}
+                {(cancelDone || profile?.stripe_subscription_id?.includes(":cancel_pending")) && (
+                    <div className="mt-8 text-center text-xs text-gray-500">{t.cancel_sub_pending || "Cancellation scheduled — access until end of billing period"}</div>
+                )}
             </div>
         </div>
         </>
