@@ -19,6 +19,7 @@ export function PricingContent() {
     const { t, currency } = useAppContext();
     const [profile, setProfile] = useState<any>(null);
     const [loggedIn, setLoggedIn] = useState<boolean | null>(null);
+    const [showLoginPrompt, setShowLoginPrompt] = useState(false);
     const supabase = createClient();
     const router = useRouter();
 
@@ -94,16 +95,16 @@ export function PricingContent() {
     ];
 
     const handleCheckout = async (priceId: string, tier: string) => {
+        if (!loggedIn) {
+            setShowLoginPrompt(true);
+            return;
+        }
         try {
             const res = await fetch("/api/checkout", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ priceId, tier }),
             });
-            if (res.status === 401) {
-                router.push("/login?redirect=/pricing");
-                return;
-            }
             const data = await res.json();
             if (data.url) {
                 window.location.href = data.url;
@@ -169,6 +170,29 @@ export function PricingContent() {
             dangerouslySetInnerHTML={{ __html: JSON.stringify(pricingFaqSchema) }}
         />
         <div className="min-h-screen pt-12 pb-24 px-6 md:px-12 max-w-7xl mx-auto">
+            {showLoginPrompt && (
+                <div className="fixed inset-0 z-50 bg-black/70 backdrop-blur-sm flex items-center justify-center p-4" onClick={() => setShowLoginPrompt(false)}>
+                    <div className="bg-[#161616] border border-white/10 rounded-2xl p-8 max-w-sm w-full text-center shadow-2xl" onClick={e => e.stopPropagation()}>
+                        <div className="text-4xl mb-4">🔒</div>
+                        <h3 className="text-xl font-bold text-white mb-2">{t.price_login_required || "Login Required"}</h3>
+                        <p className="text-gray-400 text-sm mb-6">{t.price_login_prompt || "Please log in to purchase a plan."}</p>
+                        <div className="flex gap-3">
+                            <button
+                                onClick={() => setShowLoginPrompt(false)}
+                                className="flex-1 py-3 px-4 border border-white/20 rounded-xl text-white text-sm font-bold hover:bg-white/5 transition-colors"
+                            >
+                                {t.cancel || "Cancel"}
+                            </button>
+                            <button
+                                onClick={() => router.push("/login?redirect=/pricing")}
+                                className="flex-1 py-3 px-4 bg-[#EEDC00] text-black rounded-xl text-sm font-bold hover:bg-yellow-300 transition-colors"
+                            >
+                                {t.nav_login || "Login"}
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )}
             {loggedIn === false && (
                 <div className="mb-8 bg-[#EEDC00]/10 border border-[#EEDC00]/30 rounded-2xl px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-4">
                     <p className="text-sm text-gray-300">{t.price_login_prompt || "Please log in to purchase a plan."}</p>
