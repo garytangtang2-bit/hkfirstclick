@@ -62,6 +62,10 @@ const BACK_TO_MAP_LABEL: Record<string, string> = {
   en: "Back to Map", zh: "返回地圖", ja: "地図に戻る", ko: "지도로 돌아가기", fr: "Retour à la carte", es: "Volver al mapa", id: "Kembali ke peta", hi: "मानचित्र पर वापस", pt: "Voltar ao mapa", ar: "العودة إلى الخريطة", bn: "মানচিত্রে ফিরুন", ru: "Вернуться к карте",
 };
 
+const BACK_TO_CATALOG_LABEL: Record<string, string> = {
+  en: "Back to Catalog", zh: "返回靈感目錄", ja: "カタログに戻る", ko: "카탈로그로 돌아가기", fr: "Retour au catalogue", es: "Volver al catálogo", id: "Kembali ke katalog", hi: "कैटलॉग पर वापस", pt: "Voltar ao catálogo", ar: "العودة إلى الكتالوج", bn: "ক্যাটালগে ফিরুন", ru: "Вернуться в каталог",
+};
+
 const SEE_ATTRACTIONS_LABEL: Record<string, string> = {
   en: "See Top Attractions", zh: "查看熱門景點", ja: "人気観光スポットを見る", ko: "인기 명소 보기", fr: "Voir les sites touristiques", es: "Ver atracciones principales", id: "Lihat atraksi utama", hi: "शीर्ष आकर्षण देखें", pt: "Ver principais atrações", ar: "عرض المعالم السياحية", bn: "শীর্ষ আকর্ষণ দেখুন", ru: "Посмотреть достопримечательности",
 };
@@ -445,6 +449,16 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
   const [showSearch, setShowSearch] = useState(false);
   const [showSticky, setShowSticky] = useState(false);
   const [photoUrls, setPhotoUrls] = useState<Record<string, string>>({});
+  const [fromCatalog, setFromCatalog] = useState(false);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const urlParams = new URLSearchParams(window.location.search);
+      if (urlParams.get("source") === "catalog" || document.referrer.includes("/catalog")) {
+        setFromCatalog(true);
+      }
+    }
+  }, []);
 
   useEffect(() => {
     if (initialLang && initialLang !== language) setLanguage(initialLang);
@@ -508,8 +522,10 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
           {HOME_LABEL[activeLang] ?? HOME_LABEL["en"]}
         </a>
         <ChevronRight size={12} />
-        <a href="/map" className="hover:text-gray-300 transition-colors">
-          {BACK_TO_MAP_LABEL[activeLang] ?? BACK_TO_MAP_LABEL["en"]}
+        <a href={fromCatalog ? `/catalog/${activeLang}` : "/map"} className="hover:text-gray-300 transition-colors">
+          {fromCatalog 
+            ? (BACK_TO_CATALOG_LABEL[activeLang] ?? BACK_TO_CATALOG_LABEL["en"]) 
+            : (BACK_TO_MAP_LABEL[activeLang] ?? BACK_TO_MAP_LABEL["en"])}
         </a>
         <ChevronRight size={12} />
         <span className="text-gray-300">{cityName}</span>
@@ -518,9 +534,11 @@ function FoodContent({ citySlug, foodData, initialLang, langCode }: Props) {
 
       {/* Back button + internal link */}
       <div className="flex items-center gap-3 mb-8">
-        <a href="/map" className="inline-flex items-center gap-2 text-gray-400 hover:text-white text-sm transition-colors">
+        <a href={fromCatalog ? `/catalog/${activeLang}` : "/map"} className="inline-flex items-center gap-2 text-gray-400 hover:text-white text-sm transition-colors">
           <span>←</span>
-          <span>{BACK_TO_MAP_LABEL[activeLang] ?? BACK_TO_MAP_LABEL["en"]}</span>
+          <span>{fromCatalog 
+            ? (BACK_TO_CATALOG_LABEL[activeLang] ?? BACK_TO_CATALOG_LABEL["en"]) 
+            : (BACK_TO_MAP_LABEL[activeLang] ?? BACK_TO_MAP_LABEL["en"])}</span>
         </a>
         <span className="text-gray-700">|</span>
         <a href={`/attractions/${activeLang}/${citySlug}`} className="inline-flex items-center gap-2 text-purple-400 hover:text-purple-300 text-sm transition-colors">
