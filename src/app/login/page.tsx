@@ -60,7 +60,7 @@ function LoginContent() {
         if (error) {
             setError(error.message);
         } else {
-            alert("Registration successful! You can now log in.");
+            alert("Check your email and click the verification link before signing in.");
         }
         setLoading(false);
     };
