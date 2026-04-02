@@ -46,6 +46,20 @@ function LoginContent() {
         }
     };
 
+    const handleForgotPassword = async () => {
+        if (!email) return alert("Please enter your email address first.");
+        setLoading(true);
+        const { error } = await supabase.auth.resetPasswordForEmail(email, {
+            redirectTo: `${location.origin}/auth/reset-password`,
+        });
+        setLoading(false);
+        if (error) {
+            setError(error.message);
+        } else {
+            alert("Password reset email sent. Check your inbox.");
+        }
+    };
+
     const handleSignUp = async (e: React.FormEvent) => {
         e.preventDefault();
         setLoading(true);
@@ -146,6 +160,17 @@ function LoginContent() {
                     </div>
 
                     {error && <div className="text-red-500 text-sm text-center">{error}</div>}
+
+                    <div className="text-right">
+                        <button
+                            type="button"
+                            onClick={handleForgotPassword}
+                            disabled={loading}
+                            className="text-xs text-gray-500 hover:text-[#EEDC00] transition-colors"
+                        >
+                            Forgot password?
+                        </button>
+                    </div>
 
                     <div className="flex gap-4">
                         <button

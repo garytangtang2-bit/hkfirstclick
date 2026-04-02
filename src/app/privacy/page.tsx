@@ -66,6 +66,29 @@ export function PrivacyContent() {
                         </div>
                     </section>
 
+                    {/* Third-party processors */}
+                    <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
+                        <div className="flex items-center gap-4 mb-6">
+                            <div className="p-3 bg-[#EEDC00]/10 rounded-xl text-[#EEDC00]">
+                                <Shield size={28} />
+                            </div>
+                            <h2 className="text-2xl font-bold">
+                                Third-Party Services / 第三方服務
+                            </h2>
+                        </div>
+                        <div className="text-gray-300 leading-relaxed space-y-4">
+                            <p>We use the following trusted third-party services to operate HKfirstclick. Each processes your data only as necessary to provide their service:</p>
+                            <ul className="list-disc list-inside space-y-2 ml-4 text-gray-400">
+                                <li><span className="text-white font-bold">Supabase</span> — database and authentication (stores your account and itinerary data)</li>
+                                <li><span className="text-white font-bold">Stripe</span> — payment processing (handles all transactions; we never store your card details)</li>
+                                <li><span className="text-white font-bold">Google Gemini / OpenAI</span> — AI itinerary generation (your destination and travel details are sent to generate your trip plan)</li>
+                                <li><span className="text-white font-bold">Resend</span> — transactional email (sends account and payment confirmation emails)</li>
+                                <li><span className="text-white font-bold">Vercel</span> — hosting and edge infrastructure</li>
+                            </ul>
+                            <p className="text-sm text-gray-500">None of these services sell your data. Their own privacy policies apply to data they process.</p>
+                        </div>
+                    </section>
+
                     {/* Data Protection */}
                     <section className="premium-glass-card p-8 border border-white/10 hover:border-[#EEDC00]/30 transition-colors">
                         <div className="flex items-center gap-4 mb-6">

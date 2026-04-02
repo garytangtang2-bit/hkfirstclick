@@ -186,6 +186,27 @@ export async function POST(req: Request) {
                 console.warn(`⚠️ Price ID ${priceId} did not match any known plans.`);
             }
 
+            // --- Payment receipt email ---
+            if (customerEmail) {
+                try {
+                    const resend = new Resend(process.env.RESEND_API_KEY);
+                    const planName = priceId === process.env.NEXT_PUBLIC_STRIPE_PRICE_PASS ? "Journey Pass (Monthly)"
+                        : priceId === process.env.NEXT_PUBLIC_STRIPE_PRICE_YEARLY ? "Yearly Plan"
+                        : priceId === process.env.NEXT_PUBLIC_STRIPE_PRICE_TOPUP ? "Credit Top-up"
+                        : "Plan";
+                    const amountFormatted = session.amount_total ? `$${(session.amount_total / 100).toFixed(2)} ${session.currency?.toUpperCase()}` : "";
+                    await resend.emails.send({
+                        from: "HKfirstclick <onboarding@resend.dev>",
+                        to: customerEmail,
+                        subject: `Payment confirmed — ${planName}`,
+                        text: `Hi,\n\nYour payment has been confirmed.\n\nPlan: ${planName}\nAmount: ${amountFormatted}\nOrder ID: ${session.id}\n\nYour credits have been added to your account. Start planning your trip:\n${process.env.NEXT_PUBLIC_SITE_URL}/workspace\n\nThank you,\nHKfirstclick Team`,
+                    });
+                    console.log(`📧 Receipt sent to ${customerEmail}`);
+                } catch (emailErr) {
+                    console.error("Failed to send receipt email:", emailErr);
+                }
+            }
+
             // --- Affiliate commission ---
             const refCode = session.metadata?.ref_code;
             if (refCode && session.amount_total) {
