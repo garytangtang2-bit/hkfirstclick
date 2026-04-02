@@ -196,7 +196,7 @@ export async function POST(req: Request) {
                         : "Plan";
                     const amountFormatted = session.amount_total ? `$${(session.amount_total / 100).toFixed(2)} ${session.currency?.toUpperCase()}` : "";
                     await resend.emails.send({
-                        from: "HKfirstclick <onboarding@resend.dev>",
+                        from: "HKfirstclick <hello@hkfirstclick.com>",
                         to: customerEmail,
                         subject: `Payment confirmed — ${planName}`,
                         text: `Hi,\n\nYour payment has been confirmed.\n\nPlan: ${planName}\nAmount: ${amountFormatted}\nOrder ID: ${session.id}\n\nYour credits have been added to your account. Start planning your trip:\n${process.env.NEXT_PUBLIC_SITE_URL}/workspace\n\nThank you,\nHKfirstclick Team`,
@@ -258,7 +258,7 @@ export async function POST(req: Request) {
                                 try {
                                     const resend = new Resend(process.env.RESEND_API_KEY);
                                     await resend.emails.send({
-                                        from: "HKfirstclick <onboarding@resend.dev>",
+                                        from: "HKfirstclick <hello@hkfirstclick.com>",
                                         to: process.env.CONTACT_EMAIL || process.env.ADMIN_EMAIL!,
                                         subject: `[Affiliate] Payout ready: $${totalPending.toFixed(2)} USD`,
                                         text: `An affiliate has reached their payout threshold.\n\nRef Code: ${affiliate.ref_code}\nPayPal Email: ${affiliate.payout_email}\nPending Balance: $${totalPending.toFixed(2)} USD\nMin Payout Set: $${minPayout} USD\n\nPlease process the payout at: ${process.env.NEXT_PUBLIC_SITE_URL}/admin/affiliates`,

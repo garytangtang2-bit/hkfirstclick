@@ -60,7 +60,7 @@ export async function POST(req: NextRequest) {
             const paidDate = new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
 
             await resend.emails.send({
-                from: "HKfirstclick <onboarding@resend.dev>",
+                from: "HKfirstclick <hello@hkfirstclick.com>",
                 to: affiliate.payout_email,
                 subject: `Your affiliate payout has been sent — $${totalPaid.toFixed(2)} USD`,
                 text: [

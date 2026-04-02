@@ -54,7 +54,7 @@ export async function GET(request: Request) {
                 try {
                     const resend = new Resend(process.env.RESEND_API_KEY)
                     await resend.emails.send({
-                        from: 'HKfirstclick <onboarding@resend.dev>',
+                        from: 'HKfirstclick <hello@hkfirstclick.com>',
                         to: data.user.email,
                         subject: 'Welcome to HKfirstclick 🗺️',
                         text: `Hi there,\n\nWelcome to HKfirstclick! Your account is ready.\n\nYou have 6 free credits to get started — enough to generate a full trip itinerary.\n\nGet started: ${process.env.NEXT_PUBLIC_SITE_URL}/workspace\n\nHappy travels,\nThe HKfirstclick Team`,

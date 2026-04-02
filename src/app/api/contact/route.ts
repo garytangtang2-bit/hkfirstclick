@@ -47,7 +47,7 @@ export async function POST(req: NextRequest) {
         const resend = new Resend(process.env.RESEND_API_KEY);
 
         await resend.emails.send({
-            from: "HKfirstclick Contact <onboarding@resend.dev>",
+            from: "HKfirstclick Contact <hello@hkfirstclick.com>",
             to: contactEmail,
             replyTo: email,
             subject: `[HKfirstclick] Message from ${name}`,
