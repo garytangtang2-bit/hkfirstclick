@@ -57,14 +57,15 @@ const getRichItinerary = (slug: string) => {
   try {
     const fs = require("fs");
     const path = require("path");
-    const filePath = path.join(
-      process.cwd(),
-      "src/data/destinations",
-      `${slug}.json`
-    );
-    if (fs.existsSync(filePath)) {
-      const fileContent = fs.readFileSync(filePath, "utf-8");
-      return JSON.parse(fileContent);
+    const destDir = path.join(process.cwd(), "src/data/destinations");
+    // Try slug as-is first, then without hyphens (e.g. "hong-kong" → "hongkong")
+    const candidates = [slug, slug.replace(/-/g, '')];
+    for (const candidate of candidates) {
+      const filePath = path.join(destDir, `${candidate}.json`);
+      if (fs.existsSync(filePath)) {
+        const fileContent = fs.readFileSync(filePath, "utf-8");
+        return JSON.parse(fileContent);
+      }
     }
   } catch (e) {}
   return null;
