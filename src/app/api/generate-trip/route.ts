@@ -268,17 +268,8 @@ ${premiumSearchInstruction}
     }]
 }`;
 
-        // 4. Determine Dynamic AI Models based on User Tier
-        let primaryModel: string;
-        let fallbackModel: string;
-
-        if (tier === "PASS" || tier === "YEARLY") {
-            primaryModel = "gemini-2.5-pro";   // Premium: Gemini 2.5 Pro (most capable)
-            fallbackModel = "gpt-4.1-mini";    // Premium fallback: GPT-4.1 Mini
-        } else {
-            primaryModel = "gemini-2.5-flash"; // Free: Gemini 2.5 Flash
-            fallbackModel = "gpt-4.1-mini";    // Free fallback: GPT-4.1 Mini
-        }
+        const primaryModel = "gemini-2.5-flash";
+        const fallbackModel = "gpt-4.1-mini";
 
         // 5. Call Gemini API securely First
         const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
